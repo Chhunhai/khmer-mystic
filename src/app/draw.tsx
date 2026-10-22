@@ -1,6 +1,6 @@
 // Screen 5: the deck is shuffled, three cards are dealt down into Present / Challenge / Outcome,
 // then each is turned over. "Shuffle again" gathers the three back, reshuffles and deals anew.
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Animated, Easing, Platform, StyleSheet, View } from 'react-native';
 import Svg, { Circle } from 'react-native-svg';
 import { Redirect, router } from 'expo-router';
@@ -13,6 +13,7 @@ import { colors, useWide } from '../ui/theme.ts';
 
 const useNativeDriver = Platform.OS !== 'web';
 const deckSize = 6; // card backs drawn in the deck stack
+const riffles = 2; // shuffle passes before the deal
 const slotIndexes = [0, 1, 2] as const;
 type Phase = 'shuffling' | 'dealing' | 'ready';
 
@@ -30,9 +31,23 @@ function Rings({ top }: { top: number }) {
   );
 }
 
+/** Repeat one riffle's keyframes for each pass, so `shuffle` running 0 → riffles plays them in turn. */
+function perRiffle<T>(input: number[], output: T[]): { inputRange: number[]; outputRange: T[] } {
+  const inputRange: number[] = [];
+  const outputRange: T[] = [];
+  for (let pass = 0; pass < riffles; pass++) {
+    input.forEach((t, i) => {
+      if (pass > 0 && i === 0) return; // shared with the previous pass's end
+      inputRange.push(pass + t);
+      outputRange.push(output[i]);
+    });
+  }
+  return { inputRange, outputRange };
+}
+
 /**
- * The deck. While `shuffle` runs 0 → 1 the stack splits into two halves that slide out left and right
- * and riffle back together, the odd cards a beat behind the even ones.
+ * The deck. Each time `shuffle` advances by 1 the stack splits into two halves that slide out left and
+ * right and riffle back together, the odd cards a beat behind the even ones.
  */
 function Deck({ width, height, shuffle }: { width: number; height: number; shuffle: Animated.Value }) {
   return (
@@ -42,15 +57,11 @@ function Deck({ width, height, shuffle }: { width: number; height: number; shuff
         const spread = width * 0.42 + k * 2;
         const lift = -k * 0.8; // a little thickness to the stack
         const input = k % 2 === 0 ? [0, 0.3, 0.5, 0.8, 1] : [0, 0.3, 0.6, 0.9, 1];
+        const tilt = `${side * (5 + k)}deg`;
         const transform = [
-          { translateX: shuffle.interpolate({ inputRange: input, outputRange: [0, side * spread, side * spread, 0, 0] }) },
-          { translateY: shuffle.interpolate({ inputRange: input, outputRange: [lift, lift - 6, lift - 6, lift, lift] }) },
-          {
-            rotate: shuffle.interpolate({
-              inputRange: input,
-              outputRange: ['0deg', `${side * (5 + k)}deg`, `${side * (5 + k)}deg`, '0deg', '0deg'],
-            }),
-          },
+          { translateX: shuffle.interpolate(perRiffle(input, [0, side * spread, side * spread, 0, 0])) },
+          { translateY: shuffle.interpolate(perRiffle(input, [lift, lift - 6, lift - 6, lift, lift])) },
+          { rotate: shuffle.interpolate(perRiffle(input, ['0deg', tilt, tilt, '0deg', '0deg'])) },
         ];
         return (
           <Animated.View key={k} style={[StyleSheet.absoluteFill, { transform }]}>
@@ -94,24 +105,33 @@ export default function DrawScreen() {
   // With Reduce Motion on, every step runs instantly.
   const ms = (duration: number) => (reduced ? 0 : duration);
 
-  /** Shuffle the deck, then deal the three cards down one after another. Call with phase 'shuffling'. */
+  /**
+   * Shuffle the deck, then deal the three cards down one after another. Call with phase 'shuffling'.
+   * One plain timing covers every riffle: on iOS and Android a looping native animation may never
+   * report that it finished, which left the deck shuffled and nothing dealt.
+   */
   const shuffleAndDeal = () => {
     shuffle.setValue(0);
-    Animated.loop(
-      Animated.timing(shuffle, { toValue: 1, duration: ms(700), easing: Easing.inOut(Easing.quad), useNativeDriver }),
-      { iterations: reduced ? 1 : 2 },
-    ).start(() => {
-      shuffle.setValue(0);
-      setPhase('dealing');
-      Animated.stagger(
-        ms(170),
-        dealt.map(v => Animated.timing(v, { toValue: 1, duration: ms(480), easing: Easing.out(Easing.cubic), useNativeDriver })),
-      ).start(() => setPhase('ready'));
-    });
+    Animated.timing(shuffle, { toValue: riffles, duration: ms(700 * riffles), easing: Easing.linear, useNativeDriver }).start(
+      ({ finished }) => {
+        if (!finished) return; // interrupted by a newer shuffle, which carries on from here
+        shuffle.setValue(0);
+        setPhase('dealing');
+        Animated.stagger(
+          ms(170),
+          dealt.map(v => Animated.timing(v, { toValue: 1, duration: ms(480), easing: Easing.out(Easing.cubic), useNativeDriver })),
+        ).start(({ finished: done }) => {
+          if (done) setPhase('ready');
+        });
+      },
+    );
   };
 
+  // Development builds run effects twice on mount; deal only once.
+  const started = useRef(false);
   useEffect(() => {
-    if (!ready || startDealt) return;
+    if (!ready || startDealt || started.current) return;
+    started.current = true;
     update({ cardIds: drawCards(content.cards), flipped: [false, false, false] });
     shuffleAndDeal();
     // Runs once on arrival; later deals come from "Shuffle again".
