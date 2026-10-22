@@ -46,3 +46,10 @@ Docs: https://docs.expo.dev/eas/index.md
 - Every string has an English (`en`) and Khmer (`km`) version. A reading uses one language only.
 - Keep `src/engine/reading.ts` pure and deterministic. Run `npm run check` and `npm run typecheck` after any change.
 - See `docs/BUILD_SPEC.md` for the flow, engine rules and design tokens.
+
+## Progress tracking (required)
+
+- Before starting any task, read docs/PROGRESS.md.
+- When a task is finished, update docs/PROGRESS.md: move items between Done / In progress / Next,
+  and add one dated line at the top of "Log" saying what changed.
+- Commit the progress update together with the code change it describes.
