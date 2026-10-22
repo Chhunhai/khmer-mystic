@@ -3,7 +3,7 @@ import { Pressable, StyleSheet, Text, View, useWindowDimensions } from 'react-na
 import { router } from 'expo-router';
 import { uiStrings } from '../content/index.ts';
 import { useFlow, useUi } from '../state/flow.tsx';
-import { AnimalDrawing } from '../ui/animals.tsx';
+import { AnimalEmblem } from '../ui/animals.tsx';
 import { CoverImage, Fade } from '../ui/backdrop.tsx';
 import { Divider, Icon, LotusMark, type IconName } from '../ui/icons.tsx';
 import { AppText, GhostButton, PrimaryButton, Screen } from '../ui/kit.tsx';
@@ -16,7 +16,7 @@ const languages = [
 ] as const;
 
 const heroAlt = 'A young Khmer traveller with a lotus and a white dog on a cliff above misty temples at dawn';
-// Desktop feature medallions: tarot reading, 12 animal years (the dragon), 100 questions, two languages.
+// Desktop feature medallions: tarot reading, 12 animal years (the Naga emblem), 100 questions, two languages.
 const featureIcons: (IconName | 'dragon')[] = ['cards', 'dragon', 'help', 'globe'];
 
 /** The Fool's artwork, cropped from 22% down so the figure sits in view, fading into the page. */
@@ -71,7 +71,7 @@ export default function WelcomeScreen() {
                 return (
                   <View key={label} style={styles.feature}>
                     <Medallion size={72} edge={colors.midnight} edgeOpacity={0.9} glowOpacity={0.18}>
-                      {icon === 'dragon' ? <AnimalDrawing id="DRA" size={34} /> : <Icon name={icon} size={30} />}
+                      {icon === 'dragon' ? <AnimalEmblem id="DRA" size={50} /> : <Icon name={icon} size={30} />}
                     </Medallion>
                     <AppText size={15} style={styles.center}>
                       {label}

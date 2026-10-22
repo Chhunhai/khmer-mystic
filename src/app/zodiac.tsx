@@ -3,7 +3,7 @@ import { Pressable, StyleSheet, View } from 'react-native';
 import { router } from 'expo-router';
 import { content } from '../content/index.ts';
 import { useFlow, useUi } from '../state/flow.tsx';
-import { AnimalDrawing } from '../ui/animals.tsx';
+import { AnimalEmblem } from '../ui/animals.tsx';
 import { Icon } from '../ui/icons.tsx';
 import { AppText, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
 import { Medallion } from '../ui/medallion.tsx';
@@ -44,7 +44,7 @@ export default function ZodiacScreen() {
               style={[styles.tile, wide && styles.tileWide]}
             >
               <Medallion size={size} selected={on}>
-                <AnimalDrawing id={z.id} size={(size * 46) / 76} />
+                <AnimalEmblem id={z.id} size={Math.round(size * 0.74)} />
               </Medallion>
               <AppText size={wide ? 16 : 14} style={styles.center}>
                 {label}
