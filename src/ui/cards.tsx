@@ -268,7 +268,7 @@ const arch =
 const pct = (v: number, of: number) => `${(v / of) * 100}%` as const;
 
 /** Frame drawn over the art: a matte that hides everything outside the arch, then the ornaments. */
-function FrontFrame({ card }: { card: Card }) {
+function FrontFrame({ card, compact }: { card: Card; compact: boolean }) {
   return (
     <Svg viewBox="0 0 420 720" width="100%" height="100%" style={StyleSheet.absoluteFill}>
       <Path d={`M0 0 H420 V720 H0 Z ${arch}`} fill={ink} fillRule="evenodd" />
@@ -282,8 +282,8 @@ function FrontFrame({ card }: { card: Card }) {
         d="M34 684 L34 602 C34 590 42 582 56 582 L170 582 C190 582 200 573 210 564 C220 573 230 582 250 582 L364 582 C378 582 386 590 386 602 L386 684 Z"
         fill="none" stroke={gold} strokeWidth={0.8} strokeOpacity={0.6}
       />
-      <Lotus transform="translate(72 646)" />
-      <Lotus transform="translate(348 646)" />
+      {!compact && <Lotus transform="translate(72 646)" />}
+      {!compact && <Lotus transform="translate(348 646)" />}
       <Flourish />
       <Flourish transform="translate(420 0) scale(-1 1)" />
       <Corner />
@@ -306,43 +306,99 @@ function FrontFrame({ card }: { card: Card }) {
   );
 }
 
-/** The card front. The title band shows the name in the reading's language only. */
+// Below this card width the band's lotus ornaments are dropped so the name can use the band's width.
+const compactBelow = 160;
+
+/**
+ * Width of a title in em, a little generous so it never overflows: Cinzel Bold capitals with the
+ * title's letter spacing, or Moul letter clusters (spacing vowels such as ា and េ add width; signs
+ * above or below and subscripts after a coeng U+17D2 do not).
+ */
+function titleEms(text: string, lang: Lang): number {
+  const chars = [...text];
+  if (lang === 'en') {
+    return chars.reduce((w, ch) => w + (ch === ' ' ? 0.4 : 'MW'.includes(ch) ? 1.2 : ch === 'I' ? 0.5 : 0.95), 0);
+  }
+  return chars.reduce((w, ch, i) => {
+    const code = ch.codePointAt(0)!;
+    if (ch === ' ') return w + 0.4;
+    if (chars[i - 1] === '\u17d2') return w; // subscript consonant
+    if (code === 0x17b6 || (code >= 0x17be && code <= 0x17c5)) return w + 0.65; // spacing vowels
+    if (code >= 0x17b7 && code <= 0x17dd) return w; // signs above or below
+    return w + 1.2;
+  }, 0);
+}
+
+/**
+ * Fit a card name into the title band: one line if it reads well, otherwise two balanced lines,
+ * at the largest size that fits both the band's width and its height.
+ */
+function fitTitle(name: string, lang: Lang, cardWidth: number): { text: string; size: number; lines: number; lineHeight: number } {
+  const compact = cardWidth < compactBelow;
+  const boxW = ((compact ? 340 : 228) / 420) * cardWidth;
+  const boxH = 0.9 * (96 / 720) * (cardWidth * 12) / 7;
+  const lh = lang === 'km' ? 1.7 : 1.12;
+  const max = lang === 'km' ? Math.max((18 * cardWidth) / 420, 13) : Math.max((23 * cardWidth) / 420, 12);
+  const sizeFor = (lines: string[]) =>
+    Math.min(max, boxW / Math.max(...lines.map(l => titleEms(l, lang))), boxH / (lines.length * lh));
+
+  let best = { lines: [name], size: sizeFor([name]) };
+  const words = name.split(' ');
+  for (let i = 1; i < words.length; i++) {
+    const lines = [words.slice(0, i).join(' '), words.slice(i).join(' ')];
+    const size = sizeFor(lines);
+    if (size > best.size * 1.05) best = { lines, size };
+  }
+  const size = Math.floor(best.size * 10) / 10;
+  return { text: best.lines.join('\n'), size, lines: best.lines.length, lineHeight: Math.round(size * lh) };
+}
+
+/**
+ * The card front, always drawn at 7:12 and centred in whatever box it is given (some layouts hand it a
+ * taller box). The title band shows the name in the reading's language only.
+ */
 export function CardFace({ card, lang }: { card: Card; lang: Lang }) {
-  const [width, setWidth] = useState(0);
+  const [box, setBox] = useState({ w: 0, h: 0 });
   const art = cardArt[card.id];
-  // Template sizes (23 px English, 15 px Khmer on a 420 px card), raised to stay legible on small cards.
-  const scale = width / 420;
-  const size = lang === 'km' ? Math.max(10, 18 * scale) : Math.max(8, 23 * scale);
+  const width = box.h > 0 ? Math.min(box.w, (box.h * 7) / 12) : 0;
+  const compact = width < compactBelow;
+  const name = lang === 'en' ? card.name.en.toUpperCase() : card.name.km;
+  const title = width > 0 ? fitTitle(name, lang, width) : null;
 
   return (
-    <View style={[styles.card, styles.face]} onLayout={e => setWidth(e.nativeEvent.layout.width)}>
-      <View style={styles.window}>
-        {art ? (
-          <Image source={art} style={styles.art} resizeMode="cover" accessibilityIgnoresInvertColors />
-        ) : card.suit ? (
-          <Svg viewBox="0 0 60 60" width="45%" style={styles.placeholder}>
-            <SuitIcon suit={card.suit} opacity={0.5} />
-          </Svg>
-        ) : null}
-      </View>
-      <FrontFrame card={card} />
-      <View style={styles.band}>
-        {width > 0 && (
-          <Text
-            style={[
-              styles.title,
-              lang === 'km'
-                ? { fontFamily: fonts.khmerTitle, color: colors.ivory, fontSize: size, lineHeight: Math.round(size * 1.7) }
-                : { fontFamily: fonts.brand, fontSize: size, lineHeight: Math.round(size * 1.15), letterSpacing: size * 0.08 },
-            ]}
-            numberOfLines={2}
-            adjustsFontSizeToFit
-            minimumFontScale={0.75}
-          >
-            {lang === 'en' ? card.name.en.toUpperCase() : card.name.km}
-          </Text>
-        )}
-      </View>
+    <View style={styles.fill} onLayout={e => setBox({ w: e.nativeEvent.layout.width, h: e.nativeEvent.layout.height })}>
+      {width > 0 && (
+        <View style={[styles.card, styles.face, { width, height: (width * 12) / 7 }]}>
+          <View style={styles.window}>
+            {art ? (
+              <Image source={art} style={styles.art} resizeMode="cover" accessibilityIgnoresInvertColors />
+            ) : card.suit ? (
+              <Svg viewBox="0 0 60 60" width="45%" style={styles.placeholder}>
+                <SuitIcon suit={card.suit} opacity={0.5} />
+              </Svg>
+            ) : null}
+          </View>
+          <FrontFrame card={card} compact={compact} />
+          <View style={[styles.band, compact && styles.bandCompact]}>
+            {title && (
+              <Text
+                style={[
+                  styles.title,
+                  { fontSize: title.size, lineHeight: title.lineHeight },
+                  lang === 'km'
+                    ? { fontFamily: fonts.khmerTitle, color: colors.ivory }
+                    : { fontFamily: fonts.brand, letterSpacing: title.size * 0.08 },
+                ]}
+                numberOfLines={title.lines}
+                adjustsFontSizeToFit
+                minimumFontScale={0.8}
+              >
+                {title.text}
+              </Text>
+            )}
+          </View>
+        </View>
+      )}
     </View>
   );
 }
@@ -397,6 +453,7 @@ export function FlipCard({
 const styles = StyleSheet.create({
   card: { width: '100%', height: '100%', borderRadius: 8, backgroundColor: ink, overflow: 'hidden' },
   face: { backgroundColor: colors.panel },
+  fill: { width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center' },
   window: {
     position: 'absolute',
     left: pct(28, 420),
@@ -417,6 +474,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  bandCompact: { left: pct(40, 420), width: pct(340, 420) },
   title: { color: gold, textAlign: 'center' },
   flip: { width: '100%', aspectRatio: 7 / 12 },
   side: { position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, backfaceVisibility: 'hidden' },

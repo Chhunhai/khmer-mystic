@@ -1,5 +1,5 @@
 // Screen 6: the result — the three cards and the overall message. Wide screens show the full reading beside the cards.
-import { StyleSheet, View } from 'react-native';
+import { StyleSheet, View, useWindowDimensions } from 'react-native';
 import { Redirect, router } from 'expo-router';
 import { useReading, useUi } from '../state/flow.tsx';
 import { CardFace } from '../ui/cards.tsx';
@@ -12,6 +12,10 @@ export default function ReadingScreen() {
   const ui = useUi();
   const wide = useWide();
   const r = useReading();
+  // Phone cards get an exact 7:12 size: iOS ignores aspectRatio once maxWidth clamps a percentage width.
+  const { width: screenWidth } = useWindowDimensions();
+  const rowWidth = Math.min(screenWidth, 600) - 40 + 8;
+  const cardW = Math.min(106, (rowWidth - 16) / 3);
   if (!r) return <Redirect href="/" />;
 
   const again = () => router.dismissTo('/topic');
@@ -76,7 +80,7 @@ export default function ReadingScreen() {
       <View style={styles.cards}>
         {r.reading.cards.map((card, i) => (
           <View key={card.id} style={styles.slot}>
-            <View style={styles.card}>
+            <View style={{ width: cardW, height: (cardW * 12) / 7 }}>
               <CardFace card={card} lang={r.lang} />
             </View>
             <AppText size={13} style={styles.pos}>
@@ -105,7 +109,6 @@ const styles = StyleSheet.create({
   muted: { color: colors.muted },
   cards: { flexDirection: 'row', gap: 8, marginHorizontal: -4 },
   slot: { flex: 1, alignItems: 'center', gap: 6 },
-  card: { width: '100%', maxWidth: 106, aspectRatio: 7 / 12 },
   pos: { color: colors.gold, fontWeight: '600', textAlign: 'center' },
   overall: { marginTop: 18, gap: 10 },
   overallHead: { flexDirection: 'row', alignItems: 'center', gap: 8 },

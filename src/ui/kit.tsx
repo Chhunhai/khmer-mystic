@@ -320,18 +320,23 @@ export function Screen({
   return (
     <View style={[styles.screen, { paddingTop: header === 'none' ? 0 : insets.top }]}>
       {header === 'flow' && <Backdrop variant="phone" />}
+      {header === 'flow' && (
+        // Fixed above the scrolling content, so it never moves when the page is dragged.
+        <View style={[styles.headerBar, { maxWidth: Math.min(width, 600) }]}>
+          <View style={styles.header}>
+            {back ? <BackButton /> : <View style={styles.iconButton} />}
+            {step !== undefined && <StepBar step={step} />}
+            <LangToggle />
+          </View>
+        </View>
+      )}
       <ScrollView
         contentContainerStyle={[styles.scroll, { paddingBottom: dockFooter ? 20 : insets.bottom + 28 }]}
         keyboardShouldPersistTaps="handled"
+        alwaysBounceVertical={false}
+        overScrollMode="never"
       >
         <View style={[styles.column, { maxWidth: Math.min(width, 600) }]}>
-          {header === 'flow' && (
-            <View style={styles.header}>
-              {back ? <BackButton /> : <View style={styles.iconButton} />}
-              {step !== undefined && <StepBar step={step} />}
-              <LangToggle />
-            </View>
-          )}
           {children}
           {footer && !dockFooter && <View style={styles.footer}>{footer}</View>}
         </View>
@@ -445,6 +450,7 @@ export const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: colors.midnight },
   scroll: { flexGrow: 1 },
   column: { flexGrow: 1, width: '100%', alignSelf: 'center', paddingHorizontal: 20 },
+  headerBar: { width: '100%', alignSelf: 'center', paddingHorizontal: 20, paddingBottom: 14 },
   header: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -453,7 +459,6 @@ export const styles = StyleSheet.create({
     marginLeft: -12,
     marginRight: -6,
     paddingTop: 6,
-    marginBottom: 14,
   },
   iconButton: { width: 44, height: 44, alignItems: 'center', justifyContent: 'center' },
   stepWrap: { alignItems: 'center', gap: 4 },
