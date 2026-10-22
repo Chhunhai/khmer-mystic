@@ -17,7 +17,7 @@ export function FullReadingText({ wide = false }: { wide?: boolean }) {
   const ui = useUi();
   const r = useReading();
   if (!r) return null;
-  const size = wide ? 16 : 15;
+  const size = 16;
 
 
   return (
@@ -43,7 +43,7 @@ export function FullReadingText({ wide = false }: { wide?: boolean }) {
               <AppText size={12} style={styles.pos}>
                 {ui.pos[i]}
               </AppText>
-              <AppText size={15}>{r.part(key)}</AppText>
+              <AppText size={16}>{r.part(key)}</AppText>
             </View>
           </Panel>
         ),
@@ -80,9 +80,9 @@ const styles = StyleSheet.create({
   stackWide: { gap: 16 },
   muted: { color: colors.muted },
   pos: { color: colors.gold, fontWeight: '600', letterSpacing: 0.7 },
-  cardRow: { flexDirection: 'row', gap: 14, alignItems: 'flex-start', padding: 14 },
+  cardRow: { flexDirection: 'column', gap: 14, alignItems: 'flex-start', padding: 14 },
   thumb: { width: 70, height: 120 },
-  cardText: { flex: 1, gap: 4 },
+  cardText: { width: '100%', gap: 8 },
   wideCard: { gap: 2 },
   overall: {
     padding: 16,

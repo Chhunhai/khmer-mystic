@@ -15,7 +15,7 @@ export default function FullReadingScreen() {
       footer={
         <>
           <PrimaryButton label={ui.again} onPress={() => router.dismissTo('/topic')} />
-          <GhostButton label={ui.restart} onPress={() => router.dismissAll()} />
+          <GhostButton label={ui.restart} onPress={() => router.dismissTo('/')} />
         </>
       }
     >

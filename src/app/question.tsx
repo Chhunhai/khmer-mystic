@@ -32,7 +32,7 @@ export default function QuestionScreen() {
           return (
             <Option key={q.id} role="radio" selected={on} onPress={() => update({ questionId: q.id })} style={styles.row}>
               <Radio on={on} />
-              <AppText size={14} style={styles.text}>
+              <AppText size={16} style={styles.text}>
                 {q[state.lang]}
               </AppText>
             </Option>

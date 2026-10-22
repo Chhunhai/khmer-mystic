@@ -15,7 +15,7 @@ export default function ReadingScreen() {
   if (!r) return <Redirect href="/" />;
 
   const again = () => router.dismissTo('/topic');
-  const restart = () => router.dismissAll();
+  const restart = () => router.dismissTo('/');
 
   if (wide) {
     return (
@@ -61,7 +61,7 @@ export default function ReadingScreen() {
         <>
           <PrimaryButton label={ui.full} onPress={() => router.push('/full')} />
           <GhostButton label={ui.again} onPress={again} />
-          <AppText size={11.5} style={styles.disclaimer}>
+          <AppText size={14} style={styles.disclaimer}>
             {r.part('disclaimer')}
           </AppText>
         </>
@@ -90,7 +90,7 @@ export default function ReadingScreen() {
           <Icon name="sun" size={18} />
           <PanelHeading>{ui.overall}</PanelHeading>
         </View>
-        <AppText size={15}>{r.part('theme')}</AppText>
+        <AppText size={16}>{r.part('theme')}</AppText>
         <AppText size={14} style={styles.muted}>
           {r.part('advice')}
         </AppText>

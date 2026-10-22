@@ -18,7 +18,6 @@ export default function ZodiacScreen() {
   return (
     <Screen
       step={1}
-      back={wide}
       width={900}
       footer={<PrimaryButton label={ui.next} onPress={() => router.push('/topic')} disabled={!state.zodiacId} />}
     >

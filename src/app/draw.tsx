@@ -1,5 +1,5 @@
 // Screen 5: three cards are dealt face down; turn each over, or shuffle again for a new deal.
-import { useEffect, useRef } from 'react';
+import { useEffect, useState } from 'react';
 import { Animated, Platform, StyleSheet, View } from 'react-native';
 import Svg, { Circle } from 'react-native-svg';
 import { Redirect, router } from 'expo-router';
@@ -8,7 +8,7 @@ import { drawCards } from '../engine/reading.ts';
 import { useFlow, useUi, type Flipped } from '../state/flow.tsx';
 import { FlipCard, useReducedMotion } from '../ui/cards.tsx';
 import { AppText, GhostButton, Hint, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
-import { colors } from '../ui/theme.ts';
+import { colors, useWide } from '../ui/theme.ts';
 
 const useNativeDriver = Platform.OS !== 'web';
 
@@ -29,8 +29,9 @@ function Rings() {
 export default function DrawScreen() {
   const { state, update } = useFlow();
   const ui = useUi();
+  const wide = useWide();
   const reduced = useReducedMotion();
-  const shake = useRef(new Animated.Value(0)).current;
+  const shake = useState(() => new Animated.Value(0))[0];
   const ready = !!(state.zodiacId && state.questionId && state.timeFrame);
 
   const deal = () => update({ cardIds: drawCards(content.cards), flipped: [false, false, false] });
@@ -60,6 +61,7 @@ export default function DrawScreen() {
 
   return (
     <Screen
+      width={900}
       step={4}
       footer={
         <>
@@ -72,13 +74,13 @@ export default function DrawScreen() {
         <Title>{ui.dTitle}</Title>
         <Hint>{ui.dHint}</Hint>
       </View>
-      <View style={styles.stage}>
+      <View style={[styles.stage, wide && styles.stageWide]}>
         <Rings />
         {cards && (
-          <Animated.View style={[styles.slots, wobble]}>
+          <Animated.View style={[styles.slots, wide && styles.slotsWide, wobble]}>
             {cards.map((card, i) => (
               <View key={card.id} style={styles.slot}>
-                <View style={[styles.card, state.flipped[i] && styles.glow]}>
+                <View style={[styles.card, wide && styles.cardWide, state.flipped[i] && styles.glow]}>
                   <FlipCard
                     card={card}
                     lang={state.lang}
@@ -100,6 +102,9 @@ export default function DrawScreen() {
 }
 
 const styles = StyleSheet.create({
+  stageWide: { height: 440 },
+  slotsWide: { top: 24, left: 0, right: 0, gap: 24 },
+  cardWide: { maxWidth: 190 },
   top: { gap: 6 },
   stage: { height: 360, marginTop: 24, alignItems: 'center' },
   rings: { position: 'absolute', top: 0 },

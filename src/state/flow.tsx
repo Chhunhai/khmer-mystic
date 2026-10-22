@@ -1,6 +1,8 @@
 // Selections made through the reading flow, shared by every screen.
 // Selections are only cleared from the language screen ("Start"), when no later screen is mounted.
-import { createContext, useCallback, useContext, useMemo, useState, type ReactNode } from 'react';
+import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import { restoreFlow, storageKey } from './persistence.ts';
 import { content, uiStrings } from '../content/index.ts';
 import { buildReading } from '../engine/reading.ts';
 import type { Lang, PartKey, TimeFrameId } from '../engine/types.ts';
@@ -35,13 +37,38 @@ interface FlowContext {
   reset: () => void;
 }
 
+let writes: Promise<void> = Promise.resolve();
+
 const Ctx = createContext<FlowContext | null>(null);
 
 export function FlowProvider({ children }: { children: ReactNode }) {
   const [state, setState] = useState(initial);
-  const update = useCallback((patch: Partial<FlowState>) => setState(s => ({ ...s, ...patch })), []);
+  const [ready, setReady] = useState(false);
+  useEffect(() => {
+    let active = true;
+    AsyncStorage.getItem(storageKey).then(raw => {
+      if (active) setState(restoreFlow(raw, initial, content));
+    }).catch(() => {}).finally(() => { if (active) setReady(true); });
+    return () => { active = false; };
+  }, []);
+  useEffect(() => {
+    if (ready) {
+      // Queue writes so an older selection cannot overwrite a newer one.
+      writes = writes.then(() => AsyncStorage.setItem(storageKey, JSON.stringify(state))).catch(() => {});
+    }
+  }, [ready, state]);
+  const update = useCallback((patch: Partial<FlowState>) => setState(s => {
+    const next = { ...s, ...patch };
+    if (['zodiacId', 'topicId', 'questionId', 'timeFrame'].some(key =>
+      key in patch && patch[key as keyof FlowState] !== s[key as keyof FlowState])) {
+      next.cardIds = null;
+      next.flipped = [false, false, false];
+    }
+    return next;
+  }), []);
   const reset = useCallback(() => setState(s => ({ ...initial, lang: s.lang })), []);
   const value = useMemo(() => ({ state, update, reset }), [state, update, reset]);
+  if (!ready) return null;
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
 }
 

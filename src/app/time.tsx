@@ -5,11 +5,12 @@ import { content } from '../content/index.ts';
 import { findTopic, useFlow, useUi } from '../state/flow.tsx';
 import { Icon } from '../ui/icons.tsx';
 import { AppText, Hint, Option, PanelHeading, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
-import { colors } from '../ui/theme.ts';
+import { colors, useWide } from '../ui/theme.ts';
 
 export default function TimeScreen() {
   const { state, update } = useFlow();
   const ui = useUi();
+  const wide = useWide();
   const zodiac = content.zodiac.find(z => z.id === state.zodiacId);
   const topic = findTopic(state.topicId);
   const question = topic?.questions.find(q => q.id === state.questionId);
@@ -28,56 +29,61 @@ export default function TimeScreen() {
   ];
 
   return (
-    <Screen step={3} footer={<PrimaryButton label={ui.next} onPress={next} disabled={!state.timeFrame} />}>
+    <Screen width={960} step={3} footer={<PrimaryButton label={ui.next} onPress={next} disabled={!state.timeFrame} />}>
       <View style={styles.top}>
         <Title>{ui.tTitle}</Title>
         <Hint>{ui.tHint}</Hint>
       </View>
-      <View style={styles.grid}>
-        {content.templates.timeFrames.map(tf => {
-          const [name, span] = tf.label[state.lang];
-          const on = state.timeFrame === tf.id;
-          return (
-            <Option
-              key={tf.id}
-              role="radio"
-              selected={on}
-              label={`${name}, ${span}`}
-              onPress={() => update({ timeFrame: tf.id })}
-              style={styles.tile}
-              selectedStyle={styles.tileOn}
-            >
-              <Icon name={tf.id} size={30} />
-              <AppText size={16} style={styles.name}>
-                {name}
+      <View style={wide && styles.columns}>
+        <View style={[styles.grid, wide && styles.gridWide]}>
+          {content.templates.timeFrames.map(tf => {
+            const [name, span] = tf.label[state.lang];
+            const on = state.timeFrame === tf.id;
+            return (
+              <Option
+                key={tf.id}
+                role="radio"
+                selected={on}
+                label={`${name}, ${span}`}
+                onPress={() => update({ timeFrame: tf.id })}
+                style={styles.tile}
+                selectedStyle={styles.tileOn}
+              >
+                <Icon name={tf.id} size={30} />
+                <AppText size={16} style={styles.name}>
+                  {name}
+                </AppText>
+                <AppText size={13} style={styles.span}>
+                  {span}
+                </AppText>
+              </Option>
+            );
+          })}
+        </View>
+        <View style={[styles.summary, wide && styles.summaryWide]}>
+          <PanelHeading size={14} style={styles.summaryHeading}>
+            {ui.yours}
+          </PanelHeading>
+          {summary.map(([label, value]) => (
+            <View key={label} style={styles.summaryRow}>
+              <AppText size={13} style={styles.summaryLabel}>
+                {label}
               </AppText>
-              <AppText size={13} style={styles.span}>
-                {span}
+              <AppText size={14} style={styles.flex}>
+                {value}
               </AppText>
-            </Option>
-          );
-        })}
-      </View>
-      <View style={styles.summary}>
-        <PanelHeading size={14} style={styles.summaryHeading}>
-          {ui.yours}
-        </PanelHeading>
-        {summary.map(([label, value]) => (
-          <View key={label} style={styles.summaryRow}>
-            <AppText size={13} style={styles.summaryLabel}>
-              {label}
-            </AppText>
-            <AppText size={14} style={styles.flex}>
-              {value}
-            </AppText>
-          </View>
-        ))}
+            </View>
+          ))}
+        </View>
       </View>
     </Screen>
   );
 }
 
 const styles = StyleSheet.create({
+  columns: { flexDirection: 'row', flexWrap: 'wrap', gap: 28, alignItems: 'flex-start' },
+  gridWide: { flex: 1, minWidth: 300 },
+  summaryWide: { flex: 1, minWidth: 260, marginTop: 0, backgroundColor: colors.panel },
   top: { gap: 6, marginBottom: 16 },
   grid: { flexDirection: 'row', flexWrap: 'wrap', gap: 12 },
   tile: { width: '47%', flexGrow: 1, alignItems: 'center', gap: 6, paddingVertical: 18, paddingHorizontal: 8, borderRadius: 16 },

@@ -1,6 +1,6 @@
 // Card back, card face and the flip animation. The frame and back are drawn from the card template
 // (v0.2, royal frame) on its 420 × 720 artboard; artwork comes from assets/cards/ via cardArt.ts.
-import { useEffect, useId, useRef, useState } from 'react';
+import { useEffect, useId, useState } from 'react';
 import { AccessibilityInfo, Animated, Image, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
 import Svg, { Circle, Defs, G, Line, Path, Pattern, Rect, Text as SvgText } from 'react-native-svg';
 import type { Card, Lang, SuitId } from '../engine/types.ts';
@@ -362,7 +362,7 @@ export function FlipCard({
   onOpen: () => void;
 }) {
   const reduced = useReducedMotion();
-  const turn = useRef(new Animated.Value(open ? 1 : 0)).current;
+  const turn = useState(() => new Animated.Value(open ? 1 : 0))[0];
 
   useEffect(() => {
     if (!open) {

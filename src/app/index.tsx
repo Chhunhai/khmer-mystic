@@ -1,13 +1,12 @@
 // Screen 1: welcome and language choice.
-import { Pressable, StyleSheet, Text, View } from 'react-native';
-import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import { Pressable, StyleSheet, Text, View, useWindowDimensions } from 'react-native';
 import { router } from 'expo-router';
 import { uiStrings } from '../content/index.ts';
 import { useFlow, useUi } from '../state/flow.tsx';
 import { AnimalDrawing } from '../ui/animals.tsx';
 import { CoverImage, Fade } from '../ui/backdrop.tsx';
 import { Divider, Icon, LotusMark, type IconName } from '../ui/icons.tsx';
-import { AppText, LangToggle, PrimaryButton, Screen } from '../ui/kit.tsx';
+import { AppText, GhostButton, PrimaryButton, Screen } from '../ui/kit.tsx';
 import { Medallion } from '../ui/medallion.tsx';
 import { colors, fonts, useWide } from '../ui/theme.ts';
 
@@ -22,15 +21,12 @@ const featureIcons: (IconName | 'dragon')[] = ['cards', 'dragon', 'help', 'globe
 
 /** The Fool's artwork, cropped from 22% down so the figure sits in view, fading into the page. */
 function PhoneHero() {
-  const insets = useSafeAreaInsets();
+  const { height } = useWindowDimensions();
   return (
-    <View style={styles.hero}>
+    <View style={[styles.hero, { height: Math.min(320, Math.max(160, height * 0.3)) }]}>
       <CoverImage focus={{ x: 0.5, y: 0.22 }} label={heroAlt} style={StyleSheet.absoluteFill} />
       <View style={styles.fade}>
         <Fade stops={[[0, 0], [1, 1]]} />
-      </View>
-      <View style={[styles.heroToggle, { top: insets.top + 6 }]}>
-        <LangToggle />
       </View>
     </View>
   );
@@ -40,6 +36,8 @@ export default function WelcomeScreen() {
   const { state, update, reset } = useFlow();
   const ui = useUi();
   const wide = useWide();
+
+  const resume = () => router.push(state.cardIds ? (state.flipped.every(Boolean) ? '/reading' : '/draw') : state.questionId ? '/time' : state.topicId ? (wide ? '/topic' : '/question') : '/topic');
 
   const start = () => {
     reset();
@@ -82,6 +80,7 @@ export default function WelcomeScreen() {
                 );
               })}
             </View>
+            {state.zodiacId && <GhostButton label={ui.resume} onPress={resume} style={styles.startButton} />}
             <PrimaryButton label={ui.start} onPress={start} style={styles.startButton} />
             <AppText size={14} style={styles.muted}>
               {ui.note}
@@ -97,6 +96,7 @@ export default function WelcomeScreen() {
       header="none"
       footer={
         <View style={styles.foot}>
+          {state.zodiacId && <GhostButton label={ui.resume} onPress={resume} style={styles.full} />}
           <PrimaryButton label={ui.start} onPress={start} style={styles.full} />
           <AppText size={12} style={styles.muted}>
             {ui.note}
@@ -143,7 +143,7 @@ const styles = StyleSheet.create({
   fade: { position: 'absolute', left: 0, right: 0, bottom: 0, height: 160 },
   heroToggle: { position: 'absolute', right: 14 },
   intro1: { alignItems: 'center', gap: 10, marginTop: -54, paddingHorizontal: 8, zIndex: 1 },
-  brand: { fontFamily: fonts.brand, fontSize: 36, lineHeight: 40, letterSpacing: 2.9, color: colors.gold, textAlign: 'center' },
+  brand: { fontFamily: fonts.brand, fontSize: 30, lineHeight: 38, letterSpacing: 2.9, color: colors.gold, textAlign: 'center' },
   center: { textAlign: 'center' },
   gold: { color: colors.gold },
   muted: { color: colors.muted, textAlign: 'center' },
@@ -167,8 +167,8 @@ const styles = StyleSheet.create({
   wideText: { flexGrow: 0, flexShrink: 1, flexBasis: 680, alignItems: 'center', gap: 18 },
   wideBrand: {
     fontFamily: fonts.brand,
-    fontSize: 84,
-    lineHeight: 86,
+    fontSize: 64,
+    lineHeight: 76,
     letterSpacing: 2.5,
     color: colors.gold,
     textAlign: 'center',

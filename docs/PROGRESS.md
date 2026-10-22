@@ -6,6 +6,8 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
+- UX refinement: shorter responsive welcome, docked phone actions (scrolling fallback for short screens/large text), readable questions and full-width reading text, mobile Back, desktop time/draw layouts, and local language/reading recovery with a resume action. ESLint configured and animation ref errors resolved.
+- Source review of current mobile and web UX/UI: identified welcome-screen height, text sizing, reading layout, desktop time/draw sizing, and session persistence improvements.
 - Content: 78 card meanings, 100 questions, 12 zodiac profiles, reading templates (English and Khmer, in src/content/)
 - Reading engine (src/engine/reading.ts) with content checks (npm run check)
 - Clickable web prototype (docs/prototype/prototype.html)
@@ -21,9 +23,8 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 
 ### Next
 1. First-launch notice, privacy notice and terms screens (notice goes after the language screen)
-2. Remember the chosen language between launches (prototype did this with localStorage)
-3. "12 Animal Years" and "About" pages: the design's desktop header links to them; left out until the pages exist. Time frame and draw have no desktop design (they use the phone layout inside the desktop frame)
-4. Set up ESLint so `npx expo lint` runs
+2. "12 Animal Years" and "About" pages: the design's desktop header links to them; left out until the pages exist.
+3. Verify native iOS/Android layouts, text scaling, and local storage in a development build
 
 ### Waiting on the team
 - Native Khmer review of all content, including the new interface strings from the screens design (step names, intro, nav, feature labels)
@@ -32,6 +33,8 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: daily reading lock, reversed cards, monetisation
 
 ## Log
+- 2026-10-22: Applied mobile/web UX recommendations: responsive welcome, reachable phone actions, larger question text, stacked reading artwork, Back recovery, desktop time/draw layouts, consistent fresh starts, and validated local session persistence with bilingual resume. Added persistence regression checks and ESLint config; typecheck, content/persistence checks and lint pass. Browser flow verifies refresh/resume and responsive layouts; native-device verification remains pending.
+- 2026-10-22: Reviewed current mobile/web UX/UI against the supplied mockup (source review, no fresh rendered-device verification). Typecheck and content checks pass; lint's temporary auto-generated config reported 10 react-hooks/refs errors in draw.tsx and cards.tsx; removed that generated config after the review. No app code changed.
 - 2026-10-22: Updated to the newer screens design: animal line-drawing medallions on the birth-year screen (Khmer year names as labels), faint artwork behind phone screens, desktop redesign (full-bleed artwork, nav links, centred home, ornate frame with stepper and Back/Continue, overall message under the cards). Added assets/hero-fool.jpg (full-size Fool) for backgrounds. Checked on web at 390 and 1440 px in English and Khmer; typecheck and content checks pass
 - 2026-10-22: Implemented the app screens design: new welcome (Fool artwork hero), round birth-year tiles, topic icons, radio question list, time-frame tiles with summary, draw over gold rings with "Shuffle again", result screen plus new full-reading screen, and desktop layouts. Loaded Cinzel/Moul/Kantumruy Pro; background now #0B1530. Checked on web at 390 and 1440 px in English and Khmer; typecheck and content checks pass
 - 2026-10-22: Imported all 78 card images (from Khmer-Mystic-Tarot, resized to 480 × 720 JPEG, 12 MB) and rebuilt the card front and back from the v0.2 template (royal frame, Roman numeral or suit crest, new sun-and-lotus back). Checked on web at small and large sizes in English and Khmer; typecheck and content checks pass

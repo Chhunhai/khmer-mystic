@@ -6,6 +6,7 @@
     "@expo-google-fonts/cinzel": "^0.4.2",
     "@expo-google-fonts/kantumruy-pro": "^0.4.1",
     "@expo-google-fonts/moul": "^0.4.1",
+    "@react-native-async-storage/async-storage": "2.2.0",
     "expo": "~57.0.31",
     "expo-constants": "~57.0.22",
     "expo-font": "~57.0.4",
@@ -31,7 +32,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "check": "node scripts/check-content.mts",
+    "check": "node scripts/check-content.mts && node scripts/check-persistence.mts",
     "typecheck": "tsc --noEmit",
     "lint": "expo lint"
   },
