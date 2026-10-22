@@ -28,7 +28,9 @@ Always add packages with `npx expo install <package>`, so their versions match t
 
 | Path | What it is |
 | --- | --- |
-| `App.tsx` | Starter screen showing the sample reading; replace with the real flow |
+| `src/app/` | Screens (Expo Router): language, zodiac, topic, question, time, draw, reading |
+| `src/state/flow.tsx` | Selections shared across the flow, plus UI-string helpers |
+| `src/ui/` | Theme tokens, shared components and card art |
 | `src/content/` | All content as JSON: cards, zodiac, topics and questions, templates, UI strings |
 | `src/engine/` | Reading engine (`reading.ts`) and data types (`types.ts`) |
 | `scripts/check-content.mts` | Content checks and the worked example |

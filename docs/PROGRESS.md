@@ -12,15 +12,18 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Card template design, card art prompts, disclaimer/privacy/terms drafts (links in docs/LINKS.md)
 - Repo set up on GitHub; Expo SDK 57 + TypeScript; Node 24 required (SDK 57 matches App Store Expo Go 57.0.9; move to 58 once Expo Go for SDK 58 ships)
 
+- Reading flow with Expo Router (src/app/): language → zodiac → topic → question → time frame → draw (shuffle + flip) → reading, with "Ask another question" and "Start over". Shared state in src/state/flow.tsx, UI kit and placeholder card art in src/ui/
+
 ### In progress
-- Starter screen only (App.tsx shows the sample reading)
+- (nothing)
 
 ### Next
-1. Build the 6-screen flow: language, zodiac, topic and question, time frame, card draw, reading
-2. Add fonts with expo-font: Kantumruy Pro, Moul, Cinzel
-3. First-launch notice, privacy notice and terms screens
-4. Tablet and desktop layouts
-5. Card artwork into assets/cards/ once approved
+1. Add fonts with expo-font: Kantumruy Pro, Moul, Cinzel (currently system fonts)
+2. First-launch notice, privacy notice and terms screens (notice goes after the language screen)
+3. Remember the chosen language between launches (prototype did this with localStorage)
+4. Tablet and desktop layouts (content is a centred 480px column for now)
+5. Card artwork into assets/cards/ once approved (cards use the prototype's vector emblems for now)
+6. Set up ESLint so `npx expo lint` runs
 
 ### Waiting on the team
 - Native Khmer review of all content
@@ -29,5 +32,6 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: daily reading lock, reversed cards, monetisation
 
 ## Log
+- 2026-10-22: Built the 6-screen reading flow with Expo Router, replacing the App.tsx starter screen. Clicked through in English and Khmer on web (incl. Wellbeing reading, Ask another question, Start over); typecheck and content checks pass
 - 2026-10-22: Downgraded Expo SDK 58 → 57 (RN 0.86.3, React 19.2.3) so the app runs in the current App Store Expo Go; added react-dom and react-native-web for web preview. Lint not yet configured (no ESLint config).
 - 2026-10-22: Repo created, Node 24 installed, content checks passing on Hai's Mac

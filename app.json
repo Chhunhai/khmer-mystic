@@ -23,7 +23,9 @@
     },
     "backgroundColor": "#0F1A33",
     "plugins": [
-      "expo-status-bar"
-    ]
+      "expo-status-bar",
+      "expo-router"
+    ],
+    "scheme": "khmermystic"
   }
 }
