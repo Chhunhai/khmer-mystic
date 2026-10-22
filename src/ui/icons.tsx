@@ -20,6 +20,7 @@ const glyphs = {
   back: <Path d="M15 5l-7 7 7 7" />,
   chevron: <Path d="M9 5l7 7-7 7" />,
   check: <Path d="M5 12l5 5 9-10" />,
+  close: <Path d="M6 6l12 12M18 6L6 18" />,
   info: (
     <>
       <Circle cx={12} cy={12} r={9} />

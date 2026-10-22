@@ -8,6 +8,7 @@ import { content } from '../content/index.ts';
 import { drawCards } from '../engine/reading.ts';
 import { useFlow, useUi, type Flipped } from '../state/flow.tsx';
 import { CardBack, FlipCard, useReducedMotion } from '../ui/cards.tsx';
+import { useCardViewer } from '../ui/cardViewer.tsx';
 import { AppText, GhostButton, Hint, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
 import { colors, useWide } from '../ui/theme.ts';
 
@@ -86,6 +87,9 @@ export default function DrawScreen() {
   const [dealt] = useState(() => slotIndexes.map(() => new Animated.Value(startDealt ? 1 : 0)));
   const [phase, setPhase] = useState<Phase>(startDealt ? 'ready' : 'shuffling');
   const [rowWidth, setRowWidth] = useState(0);
+  // Face-up cards open large when tapped again.
+  const viewer = useCardViewer();
+  const cardRefs = useRef<(View | null)[]>([]);
 
   // Layout: deck on top, the three slots below it.
   const gap = wide ? 24 : 8;
@@ -199,13 +203,24 @@ export default function DrawScreen() {
               <View key={i} style={styles.slot}>
                 <Animated.View style={[{ width: cardW }, flight, state.flipped[i] && styles.glow]}>
                   {card && (
-                    <FlipCard
-                      card={card}
-                      lang={state.lang}
-                      open={state.flipped[i]}
-                      label={ui.pos[i]}
-                      onOpen={() => update({ flipped: state.flipped.map((f, j) => f || j === i) as Flipped })}
-                    />
+                    <View
+                      ref={el => {
+                        cardRefs.current[i] = el;
+                      }}
+                      style={viewer.isOpen(`slot-${i}`) && styles.hidden}
+                    >
+                      <FlipCard
+                        card={card}
+                        lang={state.lang}
+                        open={state.flipped[i]}
+                        label={ui.pos[i]}
+                        onOpen={() => update({ flipped: state.flipped.map((f, j) => f || j === i) as Flipped })}
+                        onView={() =>
+                          viewer.open(cardRefs.current[i], { id: `slot-${i}`, card, lang: state.lang, label: ui.pos[i] })
+                        }
+                        viewHint={ui.viewCard}
+                      />
+                    </View>
                   )}
                 </Animated.View>
                 <AppText size={14} style={styles.pos}>
@@ -216,6 +231,7 @@ export default function DrawScreen() {
           })}
         </View>
       </View>
+      {viewer.modal}
     </Screen>
   );
 }
@@ -227,6 +243,7 @@ const styles = StyleSheet.create({
   deck: { position: 'absolute', top: 0 },
   slots: { position: 'absolute', left: 0, right: 0, flexDirection: 'row' },
   slot: { flex: 1, alignItems: 'center', gap: 8 },
+  hidden: { opacity: 0 },
   glow: { borderRadius: 8, boxShadow: `0 0 24px ${colors.glow}` },
   pos: { color: colors.gold, fontWeight: '600', textAlign: 'center' },
 });

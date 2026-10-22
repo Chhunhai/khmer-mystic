@@ -403,19 +403,26 @@ export function CardFace({ card, lang }: { card: Card; lang: Lang }) {
   );
 }
 
-/** A card that turns over once when tapped. `open` lives in flow state so it survives navigation. */
+/**
+ * A card that turns over once when tapped. `open` lives in flow state so it survives navigation.
+ * Once face up, a further tap calls `onView` (to show the card large) if given.
+ */
 export function FlipCard({
   card,
   lang,
   open,
   label,
   onOpen,
+  onView,
+  viewHint,
 }: {
   card: Card;
   lang: Lang;
   open: boolean;
   label: string;
   onOpen: () => void;
+  onView?: () => void;
+  viewHint?: string;
 }) {
   const reduced = useReducedMotion();
   const turn = useState(() => new Animated.Value(open ? 1 : 0))[0];
@@ -434,10 +441,11 @@ export function FlipCard({
 
   return (
     <Pressable
-      onPress={onOpen}
-      disabled={open}
+      onPress={open ? onView : onOpen}
+      disabled={open && !onView}
       accessibilityRole="button"
       accessibilityLabel={open ? `${label}: ${card.name[lang]}` : label}
+      accessibilityHint={open ? viewHint : undefined}
       style={styles.flip}
     >
       <Animated.View style={[styles.side, { transform: [{ perspective: 900 }, { rotateY: back }] }]}>

@@ -2,11 +2,14 @@
 import { StyleSheet, View, useWindowDimensions } from 'react-native';
 import { Redirect, router } from 'expo-router';
 import { useReading, useUi } from '../state/flow.tsx';
-import { CardFace } from '../ui/cards.tsx';
+import type { PartKey } from '../engine/types.ts';
+import { useCardViewer, ZoomableCard } from '../ui/cardViewer.tsx';
 import { Icon } from '../ui/icons.tsx';
 import { AppText, GhostButton, Panel, PanelHeading, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
 import { FullReadingText, Overall } from '../ui/reading.tsx';
 import { colors, frameWidth, useWide } from '../ui/theme.ts';
+
+const cardParts: PartKey[] = ['present', 'challenge', 'outcome'];
 
 export default function ReadingScreen() {
   const ui = useUi();
@@ -16,6 +19,8 @@ export default function ReadingScreen() {
   const { width: screenWidth } = useWindowDimensions();
   const rowWidth = Math.min(screenWidth, 600) - 40 + 8;
   const cardW = Math.min(106, (rowWidth - 16) / 3);
+  // Tap a card to see it large, with its line of the reading underneath.
+  const viewer = useCardViewer();
   if (!r) return <Redirect href="/" />;
 
   const again = () => router.dismissTo('/topic');
@@ -35,9 +40,15 @@ export default function ReadingScreen() {
             <View style={styles.cardRow}>
               {r.reading.cards.map((card, i) => (
                 <View key={card.id} style={styles.figure}>
-                  <View style={styles.bigCard}>
-                    <CardFace card={card} lang={r.lang} />
-                  </View>
+                  <ZoomableCard
+                    viewer={viewer}
+                    viewKey={card.id}
+                    card={card}
+                    lang={r.lang}
+                    label={ui.pos[i]}
+                    caption={r.part(cardParts[i])}
+                    style={styles.bigCard}
+                  />
                   <AppText size={15} style={styles.pos}>
                     {ui.pos[i]}
                   </AppText>
@@ -54,6 +65,7 @@ export default function ReadingScreen() {
             <FullReadingText wide />
           </View>
         </View>
+        {viewer.modal}
       </Screen>
     );
   }
@@ -80,9 +92,15 @@ export default function ReadingScreen() {
       <View style={styles.cards}>
         {r.reading.cards.map((card, i) => (
           <View key={card.id} style={styles.slot}>
-            <View style={{ width: cardW, height: (cardW * 12) / 7 }}>
-              <CardFace card={card} lang={r.lang} />
-            </View>
+            <ZoomableCard
+              viewer={viewer}
+              viewKey={card.id}
+              card={card}
+              lang={r.lang}
+              label={ui.pos[i]}
+              caption={r.part(cardParts[i])}
+              style={{ width: cardW, height: (cardW * 12) / 7 }}
+            />
             <AppText size={13} style={styles.pos}>
               {ui.pos[i]}
             </AppText>
@@ -99,6 +117,7 @@ export default function ReadingScreen() {
           {r.part('advice')}
         </AppText>
       </Panel>
+      {viewer.modal}
     </Screen>
   );
 }

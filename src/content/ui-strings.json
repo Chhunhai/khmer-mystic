@@ -75,7 +75,9 @@
       "100 questions",
       "Khmer and English"
     ],
-    "resume": "Continue your reading"
+    "resume": "Continue your reading",
+    "close": "Close",
+    "viewCard": "Opens the card large"
   },
   "km": {
     "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
@@ -153,6 +155,8 @@
       "សំណួរ ១០០",
       "ខ្មែរ និងអង់គ្លេស"
     ],
-    "resume": "បន្តការទស្សន៍ទាយរបស់អ្នក"
+    "resume": "បន្តការទស្សន៍ទាយរបស់អ្នក",
+    "close": "បិទ",
+    "viewCard": "បើកមើលសន្លឹកបៀឱ្យធំ"
   }
 }

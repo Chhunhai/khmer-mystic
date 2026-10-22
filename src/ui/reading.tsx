@@ -2,7 +2,7 @@
 import { StyleSheet, View } from 'react-native';
 import type { PartKey } from '../engine/types.ts';
 import { useReading, useUi } from '../state/flow.tsx';
-import { CardFace } from './cards.tsx';
+import { useCardViewer, ZoomableCard } from './cardViewer.tsx';
 import { AppText, Panel, PanelHeading } from './kit.tsx';
 import { colors } from './theme.ts';
 
@@ -16,6 +16,7 @@ const cardParts: PartKey[] = ['present', 'challenge', 'outcome'];
 export function FullReadingText({ wide = false }: { wide?: boolean }) {
   const ui = useUi();
   const r = useReading();
+  const viewer = useCardViewer();
   if (!r) return null;
   const size = 16;
 
@@ -36,9 +37,15 @@ export function FullReadingText({ wide = false }: { wide?: boolean }) {
           </View>
         ) : (
           <Panel key={key} style={styles.cardRow}>
-            <View style={styles.thumb}>
-              <CardFace card={r.reading.cards[i]} lang={r.lang} />
-            </View>
+            <ZoomableCard
+              viewer={viewer}
+              viewKey={r.reading.cards[i].id}
+              card={r.reading.cards[i]}
+              lang={r.lang}
+              label={ui.pos[i]}
+              caption={r.part(key)}
+              style={styles.thumb}
+            />
             <View style={styles.cardText}>
               <AppText size={12} style={styles.pos}>
                 {ui.pos[i]}
@@ -58,6 +65,7 @@ export function FullReadingText({ wide = false }: { wide?: boolean }) {
           {r.part('disclaimer')}
         </AppText>
       </View>
+      {viewer.modal}
     </View>
   );
 }
