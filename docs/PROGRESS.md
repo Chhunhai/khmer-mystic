@@ -28,12 +28,13 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 3. Verify native iOS/Android layouts, text scaling, and local storage in a development build
 
 ### Waiting on the team
-- Native Khmer review of all content, including the new interface strings from the screens design (step names, intro, nav, feature labels)
+- Native Khmer review of all content, including the new answer and per-kind reading templates (templates.json: kinds, answers, outlook, tone.mixed, theme.MIX), and the new interface strings from the screens design (step names, intro, nav, feature labels)
 - Final sign-off on card artwork (all 78 imported; title band shows the reading language only, the template shows English over Khmer)
 - Legal review of disclaimer, privacy and terms
 - Decisions: daily reading lock, reversed cards, monetisation
 
 ## Log
+- 2026-10-22: Readings now answer the kind of question asked: each of the 100 questions is tagged open / obstacle / how / yesno / when, with its own wording and a short direct answer leading the overall message (yes/no and timing leans from all three cards). Mood now uses all three cards (new "mixed" tone), the outcome line no longer says "heading right now", and the mixed-suit filler is reworded. New English and Khmer template text needs native Khmer review. Checks cover every question × time frame × language; typecheck and lint pass
 - 2026-10-22: Added a turning gold vortex behind the enlarged card (src/ui/vortex.tsx): soft blue bokeh across the screen, a gold halo and three spiral arms around the card, at 70% strength; still with Reduce Motion. Recreated in code from the look of the realboyan_ssspin.io clip rather than shipping that clip (third-party, 18 MB). Checked on web at 390 and 1440 px; typecheck, checks and lint pass
 - 2026-10-22: Tap a card to see it large (src/ui/cardViewer.tsx): it grows from its place to the centre over a dark backdrop with its position label and its line of the reading, and shrinks back on tap, Close or Android Back. On the result and full-reading screens, and for face-up cards on the draw screen. New UI strings close / viewCard (Khmer needs review). Checked on web at 390 px in English and Khmer; typecheck, checks and lint pass
 - 2026-10-22: Card titles now fit the title band (one line or two balanced lines, sized to the band; lotus ornaments dropped on small cards) and CardFace always draws at 7:12, fixing the dark box and art overflow on the iPhone result screen. Phone header (back, steps, language) is fixed above the scrolling content, and short screens no longer drag. Checked on web at 390 and 1440 px in English and Khmer with the longest names; typecheck, checks and lint pass

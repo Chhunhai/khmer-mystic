@@ -15,6 +15,10 @@
           "បច្ចុប្បន្ន",
           "ឥឡូវនេះ"
         ]
+      },
+      "outlook": {
+        "en": "from here",
+        "km": "ពីពេលនេះតទៅ"
       }
     },
     {
@@ -32,6 +36,10 @@
           "អនាគតជិត",
           "១–៣ ខែ"
         ]
+      },
+      "outlook": {
+        "en": "over the next one to three months",
+        "km": "ក្នុងរយៈពេល ១ ទៅ ៣ ខែខាងមុខ"
       }
     },
     {
@@ -49,6 +57,10 @@
           "អនាគតកណ្តាល",
           "៣–៦ ខែ"
         ]
+      },
+      "outlook": {
+        "en": "over the next three to six months",
+        "km": "ក្នុងរយៈពេល ៣ ទៅ ៦ ខែខាងមុខ"
       }
     },
     {
@@ -66,6 +78,10 @@
           "អនាគតឆ្ងាយ",
           "៦ ខែឡើងទៅ"
         ]
+      },
+      "outlook": {
+        "en": "in the longer term, six months and beyond",
+        "km": "ក្នុងរយៈពេលវែង ចាប់ពី ៦ ខែឡើងទៅ"
       }
     }
   ],
@@ -112,10 +128,10 @@
     },
     "outcome": {
       "en": [
-        "{card3} shows where things are heading {time}: {outcome}"
+        "{card3} shows where this is heading {outlook}: {outcome}"
       ],
       "km": [
-        "{card3} បង្ហាញពីទិសដៅដែលអ្វីៗកំពុងឆ្ពោះទៅ {time}៖ {outcome}"
+        "{card3} បង្ហាញពីទិសដៅដែលអ្វីៗកំពុងឆ្ពោះទៅ {outlook}៖ {outcome}"
       ]
     },
     "advice": {
@@ -129,6 +145,123 @@
       ]
     }
   },
+  "kinds": {
+    "open": {},
+    "obstacle": {
+      "present": {
+        "en": [
+          "{card1} shows what you are dealing with now: {present}"
+        ],
+        "km": [
+          "{card1} បង្ហាញពីអ្វីដែលអ្នកកំពុងប្រឈមនៅពេលនេះ៖ {present}"
+        ]
+      },
+      "challenge": {
+        "en": [
+          "The main challenge the cards point to is {card2}: {challenge}"
+        ],
+        "km": [
+          "បញ្ហាប្រឈមចម្បងដែលសន្លឹកបៀបង្ហាញគឺ {card2}៖ {challenge}"
+        ]
+      },
+      "outcome": {
+        "en": [
+          "If you face it, {card3} shows where this can lead {outlook}: {outcome}"
+        ],
+        "km": [
+          "ប្រសិនបើអ្នកហ៊ានប្រឈមមុខ {card3} បង្ហាញពីទិសដៅដែលវាអាចនាំទៅ {outlook}៖ {outcome}"
+        ]
+      }
+    },
+    "how": {
+      "present": {
+        "en": [
+          "{card1} shows your starting point: {present}"
+        ],
+        "km": [
+          "{card1} បង្ហាញពីចំណុចចាប់ផ្តើមរបស់អ្នក៖ {present}"
+        ]
+      },
+      "challenge": {
+        "en": [
+          "{card2} shows what to work through: {challenge}"
+        ],
+        "km": [
+          "{card2} បង្ហាញពីអ្វីដែលអ្នកត្រូវដោះស្រាយ៖ {challenge}"
+        ]
+      },
+      "outcome": {
+        "en": [
+          "{card3} shows what your effort can bring {outlook}: {outcome}"
+        ],
+        "km": [
+          "{card3} បង្ហាញពីអ្វីដែលការខិតខំរបស់អ្នកអាចនាំមក {outlook}៖ {outcome}"
+        ]
+      },
+      "advice": {
+        "en": [
+          "What will help you most, {animal}: {advice}"
+        ],
+        "km": [
+          "អ្វីដែលនឹងជួយអ្នកបំផុត អ្នកឆ្នាំ{animal}៖ {advice}"
+        ]
+      }
+    },
+    "yesno": {
+      "outcome": {
+        "en": [
+          "{card3} shows how this is likely to turn out {outlook}: {outcome}"
+        ],
+        "km": [
+          "{card3} បង្ហាញពីលទ្ធផលដែលទំនងនឹងកើតឡើង {outlook}៖ {outcome}"
+        ]
+      }
+    },
+    "when": {
+      "outcome": {
+        "en": [
+          "{card3} shows how this is likely to turn out {outlook}: {outcome}"
+        ],
+        "km": [
+          "{card3} បង្ហាញពីលទ្ធផលដែលទំនងនឹងកើតឡើង {outlook}៖ {outcome}"
+        ]
+      }
+    }
+  },
+  "answers": {
+    "obstacle": {
+      "en": "The challenge to watch most is {card2}.",
+      "km": "បញ្ហាប្រឈមដែលត្រូវប្រុងប្រយ័ត្នបំផុតគឺ {card2}។"
+    },
+    "how": {
+      "en": "The cards’ advice: build on {card1}, work through {card2}, and let {card3} show you what is possible.",
+      "km": "ដំបូន្មានរបស់សន្លឹកបៀ៖ ពឹងលើ {card1} ដោះស្រាយ {card2} ហើយឱ្យ {card3} បង្ហាញអ្នកពីអ្វីដែលអាចទៅរួច។"
+    },
+    "yes": {
+      "en": "The cards lean towards yes: the signs are on your side.",
+      "km": "សន្លឹកបៀផ្អៀងទៅរកចម្លើយ «មែន»៖ សញ្ញាទាំងឡាយនៅខាងអ្នក។"
+    },
+    "notyet": {
+      "en": "The cards lean towards not yet: give it more time and preparation.",
+      "km": "សន្លឹកបៀផ្អៀងទៅរកចម្លើយ «មិនទាន់ដល់ពេល»៖ សូមផ្តល់ពេល និងរៀបចំខ្លួនបន្ថែម។"
+    },
+    "depends": {
+      "en": "The cards give no clear yes or no: the result depends on the choices you make.",
+      "km": "សន្លឹកបៀមិនផ្តល់ចម្លើយ «មែន» ឬ «មិនមែន» ច្បាស់លាស់ទេ៖ លទ្ធផលអាស្រ័យលើជម្រើសរបស់អ្នក។"
+    },
+    "soon": {
+      "en": "The cards favour acting sooner rather than later, while the signs are on your side.",
+      "km": "សន្លឹកបៀគាំទ្រឱ្យធ្វើសកម្មភាពឆាប់ៗ ខណៈដែលសញ្ញាទាំងឡាយនៅខាងអ្នក។"
+    },
+    "later": {
+      "en": "The cards favour waiting and preparing before you act.",
+      "km": "សន្លឹកបៀគាំទ្រឱ្យរង់ចាំ និងរៀបចំខ្លួនមុននឹងធ្វើសកម្មភាព។"
+    },
+    "ready": {
+      "en": "The cards favour acting when you feel ready, one step at a time.",
+      "km": "សន្លឹកបៀគាំទ្រឱ្យធ្វើសកម្មភាពនៅពេលអ្នកមានអារម្មណ៍ថាត្រៀមខ្លួនរួច ម្តងមួយជំហាន។"
+    }
+  },
   "theme": {
     "en": {
       "MAJ": "Two or more Major cards appeared, so this is an important period with lessons that will matter for a long time.",
@@ -136,7 +269,7 @@
       "CUP": "Your cards lean toward Cups: feelings and relationships are the heart of this reading.",
       "SWO": "Your cards lean toward Swords: thoughts, choices and clear communication are the heart of this reading.",
       "PEN": "Your cards lean toward Pentacles: practical matters like work, money and daily life are the heart of this reading.",
-      "MIX": "Your cards come from different areas of life, so several parts of your situation are connected."
+      "MIX": "Your cards come from different suits, so several forces are shaping {focus} at once: balance them rather than chasing just one."
     },
     "km": {
       "MAJ": "មានសន្លឹកធំពីរ ឬច្រើនជាងនេះ ដូច្នេះនេះជារយៈពេលសំខាន់ ដែលមានមេរៀនមានតម្លៃយូរអង្វែង។",
@@ -144,7 +277,7 @@
       "CUP": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាផ្តិល៖ អារម្មណ៍ និងទំនាក់ទំនង ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
       "SWO": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាដាវ៖ គំនិត ជម្រើស និងការប្រាស្រ័យទាក់ទងច្បាស់លាស់ ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
       "PEN": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាកាក់៖ រឿងជាក់ស្តែងដូចជា ការងារ លុយកាក់ និងជីវិតប្រចាំថ្ងៃ ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
-      "MIX": "សន្លឹកបៀរបស់អ្នកមកពីផ្នែកផ្សេងៗនៃជីវិត ដូច្នេះផ្នែកជាច្រើននៃស្ថានភាពរបស់អ្នកមានទំនាក់ទំនងគ្នា។"
+      "MIX": "សន្លឹកបៀរបស់អ្នកមកពីប្រភេទផ្សេងៗគ្នា ដូច្នេះមានកម្លាំងជាច្រើនកំពុងកំណត់{focus}ក្នុងពេលតែមួយ៖ សូមរក្សាតុល្យភាពរវាងពួកវា ជាជាងដេញតាមតែមួយ។"
     }
   },
   "tone": {
@@ -159,6 +292,10 @@
     "testing": {
       "en": "The path asks for care, but every difficulty here carries a lesson that makes you stronger.",
       "km": "ផ្លូវនេះទាមទារការប្រុងប្រយ័ត្ន ប៉ុន្តែរាល់ការលំបាកនៅទីនេះ មានមេរៀនដែលធ្វើឱ្យអ្នករឹងមាំជាងមុន។"
+    },
+    "mixed": {
+      "en": "The signs are mixed: some things are moving your way, while others need patience.",
+      "km": "សញ្ញាមានលាយឡំគ្នា៖ រឿងខ្លះកំពុងដើរតាមផ្លូវរបស់អ្នក ខណៈរឿងខ្លះទៀតត្រូវការការអត់ធ្មត់។"
     }
   },
   "disclaimer": {

@@ -78,12 +78,19 @@ export function Overall({ wide = false }: { wide?: boolean }) {
   return (
     <View style={[styles.overall, wide && styles.overallWide]}>
       <PanelHeading size={wide ? 16 : 15}>{ui.overall}</PanelHeading>
+      {/* The direct answer to the question (not for open questions), then the mood of the draw. */}
+      {r.part('answer') ? (
+        <AppText size={wide ? 17 : 16} style={styles.answer}>
+          {r.part('answer')}
+        </AppText>
+      ) : null}
       <AppText size={wide ? 16 : 15}>{r.part('theme')}</AppText>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
+  answer: { fontWeight: '600' },
   stack: { gap: 14 },
   stackWide: { gap: 16 },
   muted: { color: colors.muted },

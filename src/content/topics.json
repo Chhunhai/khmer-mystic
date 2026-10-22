@@ -16,51 +16,61 @@
     "questions": [
       {
         "id": "LF-01",
+        "kind": "open",
         "en": "What does my current path look like?",
         "km": "តើផ្លូវជីវិតរបស់ខ្ញុំបច្ចុប្បន្នមានសភាពយ៉ាងដូចម្តេច?"
       },
       {
         "id": "LF-02",
+        "kind": "how",
         "en": "What should I focus on right now?",
         "km": "តើខ្ញុំគួរផ្តោតលើអ្វីនៅពេលនេះ?"
       },
       {
         "id": "LF-03",
+        "kind": "obstacle",
         "en": "What challenges might I face soon?",
         "km": "តើខ្ញុំអាចជួបបញ្ហាប្រឈមអ្វីខ្លះក្នុងពេលឆាប់ៗនេះ?"
       },
       {
         "id": "LF-04",
+        "kind": "open",
         "en": "What opportunities are coming my way?",
         "km": "តើមានឱកាសអ្វីខ្លះកំពុងមករកខ្ញុំ?"
       },
       {
         "id": "LF-05",
+        "kind": "how",
         "en": "What can I do to improve my life?",
         "km": "តើខ្ញុំអាចធ្វើអ្វីដើម្បីកែលម្អជីវិតរបស់ខ្ញុំ?"
       },
       {
         "id": "LF-06",
+        "kind": "open",
         "en": "What is the likely outcome of my current situation?",
         "km": "តើស្ថានភាពបច្ចុប្បន្នរបស់ខ្ញុំទំនងជានឹងមានលទ្ធផលយ៉ាងណា?"
       },
       {
         "id": "LF-07",
+        "kind": "how",
         "en": "What advice do I need to hear?",
         "km": "តើខ្ញុំត្រូវការដំបូន្មានអ្វី?"
       },
       {
         "id": "LF-08",
+        "kind": "open",
         "en": "What energy surrounds me now?",
         "km": "តើថាមពលអ្វីកំពុងនៅជុំវិញខ្ញុំឥឡូវនេះ?"
       },
       {
         "id": "LF-09",
+        "kind": "obstacle",
         "en": "What should I avoid?",
         "km": "តើខ្ញុំគួរជៀសវាងអ្វី?"
       },
       {
         "id": "LF-10",
+        "kind": "open",
         "en": "Where is my life heading?",
         "km": "តើជីវិតរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -83,51 +93,61 @@
     "questions": [
       {
         "id": "LR-01",
+        "kind": "open",
         "en": "What is the current energy of my love life?",
         "km": "តើជីវិតស្នេហារបស់ខ្ញុំបច្ចុប្បន្នមានសភាពយ៉ាងដូចម្តេច?"
       },
       {
         "id": "LR-02",
+        "kind": "how",
         "en": "How can I understand my partner better?",
         "km": "តើខ្ញុំអាចយល់ពីដៃគូរបស់ខ្ញុំកាន់តែច្បាស់ដោយរបៀបណា?"
       },
       {
         "id": "LR-03",
+        "kind": "yesno",
         "en": "Is new love coming into my life?",
         "km": "តើស្នេហាថ្មីនឹងចូលមកក្នុងជីវិតខ្ញុំឬទេ?"
       },
       {
         "id": "LR-04",
+        "kind": "obstacle",
         "en": "What is blocking me from finding love?",
         "km": "តើអ្វីកំពុងរារាំងខ្ញុំពីការស្វែងរកស្នេហា?"
       },
       {
         "id": "LR-05",
+        "kind": "how",
         "en": "How can I strengthen my relationship?",
         "km": "តើខ្ញុំអាចពង្រឹងទំនាក់ទំនងរបស់ខ្ញុំដោយរបៀបណា?"
       },
       {
         "id": "LR-06",
+        "kind": "open",
         "en": "What lesson is this relationship teaching me?",
         "km": "តើទំនាក់ទំនងនេះកំពុងបង្រៀនមេរៀនអ្វីដល់ខ្ញុំ?"
       },
       {
         "id": "LR-07",
+        "kind": "how",
         "en": "How can I heal from a past relationship?",
         "km": "តើខ្ញុំអាចជាសះស្បើយពីទំនាក់ទំនងចាស់ដោយរបៀបណា?"
       },
       {
         "id": "LR-08",
+        "kind": "obstacle",
         "en": "What should I know before making a commitment?",
         "km": "តើខ្ញុំគួរដឹងអ្វីខ្លះមុននឹងប្តេជ្ញាចិត្ត?"
       },
       {
         "id": "LR-09",
+        "kind": "how",
         "en": "How can we communicate better?",
         "km": "តើយើងអាចប្រាស្រ័យទាក់ទងគ្នាកាន់តែល្អដោយរបៀបណា?"
       },
       {
         "id": "LR-10",
+        "kind": "open",
         "en": "Where is my love life heading?",
         "km": "តើជីវិតស្នេហារបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -150,51 +170,61 @@
     "questions": [
       {
         "id": "CW-01",
+        "kind": "open",
         "en": "What does my career path look like now?",
         "km": "តើអាជីពរបស់ខ្ញុំបច្ចុប្បន្នមានសភាពយ៉ាងណា?"
       },
       {
         "id": "CW-02",
+        "kind": "yesno",
         "en": "Is this a good time to look for a new job?",
         "km": "តើនេះជាពេលល្អក្នុងការស្វែងរកការងារថ្មីឬទេ?"
       },
       {
         "id": "CW-03",
+        "kind": "how",
         "en": "How can I grow in my current job?",
         "km": "តើខ្ញុំអាចរីកចម្រើនក្នុងការងារបច្ចុប្បន្នដោយរបៀបណា?"
       },
       {
         "id": "CW-04",
+        "kind": "obstacle",
         "en": "What is holding back my career?",
         "km": "តើអ្វីកំពុងរារាំងការរីកចម្រើននៃអាជីពរបស់ខ្ញុំ?"
       },
       {
         "id": "CW-05",
+        "kind": "how",
         "en": "How can I improve relations with my colleagues?",
         "km": "តើខ្ញុំអាចកែលម្អទំនាក់ទំនងជាមួយមិត្តរួមការងារដោយរបៀបណា?"
       },
       {
         "id": "CW-06",
+        "kind": "how",
         "en": "What skills should I develop?",
         "km": "តើខ្ញុំគួរអភិវឌ្ឍជំនាញអ្វីខ្លះ?"
       },
       {
         "id": "CW-07",
+        "kind": "open",
         "en": "What can I expect from an upcoming interview or promotion?",
         "km": "តើខ្ញុំអាចរំពឹងអ្វីពីការសម្ភាសន៍ ឬការដំឡើងតំណែងខាងមុខ?"
       },
       {
         "id": "CW-08",
+        "kind": "how",
         "en": "How can I find more meaning in my work?",
         "km": "តើខ្ញុំអាចរកឃើញអត្ថន័យកាន់តែច្រើនក្នុងការងាររបស់ខ្ញុំដោយរបៀបណា?"
       },
       {
         "id": "CW-09",
+        "kind": "how",
         "en": "How can I handle stress at work?",
         "km": "តើខ្ញុំអាចដោះស្រាយភាពតានតឹងនៅកន្លែងការងារដោយរបៀបណា?"
       },
       {
         "id": "CW-10",
+        "kind": "open",
         "en": "Where is my career heading?",
         "km": "តើអាជីពរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -217,51 +247,61 @@
     "questions": [
       {
         "id": "MF-01",
+        "kind": "open",
         "en": "What is my current financial situation like?",
         "km": "តើស្ថានភាពហិរញ្ញវត្ថុរបស់ខ្ញុំបច្ចុប្បន្នយ៉ាងដូចម្តេច?"
       },
       {
         "id": "MF-02",
+        "kind": "how",
         "en": "How can I improve my money situation?",
         "km": "តើខ្ញុំអាចកែលម្អស្ថានភាពលុយកាក់របស់ខ្ញុំដោយរបៀបណា?"
       },
       {
         "id": "MF-03",
+        "kind": "how",
         "en": "What spending habits should I change?",
         "km": "តើទម្លាប់ចំណាយអ្វីខ្លះដែលខ្ញុំគួរកែប្រែ?"
       },
       {
         "id": "MF-04",
+        "kind": "how",
         "en": "How can I build better saving habits?",
         "km": "តើខ្ញុំអាចបង្កើតទម្លាប់សន្សំប្រាក់ឱ្យកាន់តែល្អដោយរបៀបណា?"
       },
       {
         "id": "MF-05",
+        "kind": "open",
         "en": "What new sources of income might open up?",
         "km": "តើប្រភពចំណូលថ្មីអ្វីខ្លះអាចនឹងបើកឡើង?"
       },
       {
         "id": "MF-06",
+        "kind": "how",
         "en": "How can I reduce my money worries?",
         "km": "តើខ្ញុំអាចកាត់បន្ថយការព្រួយបារម្ភអំពីលុយកាក់ដោយរបៀបណា?"
       },
       {
         "id": "MF-07",
+        "kind": "obstacle",
         "en": "What should I be careful about with money?",
         "km": "តើខ្ញុំគួរប្រុងប្រយ័ត្នអ្វីខ្លះទាក់ទងនឹងលុយកាក់?"
       },
       {
         "id": "MF-08",
+        "kind": "yesno",
         "en": "Is now a good time for a big purchase?",
         "km": "តើឥឡូវនេះជាពេលល្អសម្រាប់ការទិញរបស់ធំឬទេ?"
       },
       {
         "id": "MF-09",
+        "kind": "how",
         "en": "How can I plan for financial security?",
         "km": "តើខ្ញុំអាចរៀបចំផែនការដើម្បីសុវត្ថិភាពហិរញ្ញវត្ថុដោយរបៀបណា?"
       },
       {
         "id": "MF-10",
+        "kind": "open",
         "en": "Where are my finances heading?",
         "km": "តើហិរញ្ញវត្ថុរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -284,51 +324,61 @@
     "questions": [
       {
         "id": "BI-01",
+        "kind": "open",
         "en": "What is the current state of my business?",
         "km": "តើអាជីវកម្មរបស់ខ្ញុំបច្ចុប្បន្នមានស្ថានភាពយ៉ាងណា?"
       },
       {
         "id": "BI-02",
+        "kind": "yesno",
         "en": "Is this a good time to start a new business?",
         "km": "តើនេះជាពេលល្អក្នុងការចាប់ផ្តើមអាជីវកម្មថ្មីឬទេ?"
       },
       {
         "id": "BI-03",
+        "kind": "how",
         "en": "How can I grow my business?",
         "km": "តើខ្ញុំអាចពង្រីកអាជីវកម្មរបស់ខ្ញុំដោយរបៀបណា?"
       },
       {
         "id": "BI-04",
+        "kind": "obstacle",
         "en": "What risks should I watch for?",
         "km": "តើខ្ញុំគួរប្រុងប្រយ័ត្នចំពោះហានិភ័យអ្វីខ្លះ?"
       },
       {
         "id": "BI-05",
+        "kind": "yesno",
         "en": "Is this partnership a good fit for me?",
         "km": "តើភាពជាដៃគូនេះសមស្របសម្រាប់ខ្ញុំឬទេ?"
       },
       {
         "id": "BI-06",
+        "kind": "how",
         "en": "How can I attract more customers?",
         "km": "តើខ្ញុំអាចទាក់ទាញអតិថិជនបន្ថែមដោយរបៀបណា?"
       },
       {
         "id": "BI-07",
+        "kind": "obstacle",
         "en": "What should I consider before investing?",
         "km": "តើខ្ញុំគួរពិចារណាអ្វីខ្លះមុននឹងវិនិយោគ?"
       },
       {
         "id": "BI-08",
+        "kind": "how",
         "en": "How can I improve teamwork in my business?",
         "km": "តើខ្ញុំអាចកែលម្អការងារជាក្រុមក្នុងអាជីវកម្មរបស់ខ្ញុំដោយរបៀបណា?"
       },
       {
         "id": "BI-09",
+        "kind": "how",
         "en": "What new opportunity should I explore?",
         "km": "តើខ្ញុំគួរស្វែងយល់ពីឱកាសថ្មីអ្វីខ្លះ?"
       },
       {
         "id": "BI-10",
+        "kind": "open",
         "en": "Where is my business heading?",
         "km": "តើអាជីវកម្មរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -351,51 +401,61 @@
     "questions": [
       {
         "id": "FF-01",
+        "kind": "open",
         "en": "What is the atmosphere in my family right now?",
         "km": "តើបរិយាកាសក្នុងគ្រួសាររបស់ខ្ញុំឥឡូវនេះយ៉ាងដូចម្តេច?"
       },
       {
         "id": "FF-02",
+        "kind": "how",
         "en": "How can I bring more harmony at home?",
         "km": "តើខ្ញុំអាចនាំភាពសុខដុមមកក្នុងផ្ទះកាន់តែច្រើនដោយរបៀបណា?"
       },
       {
         "id": "FF-03",
+        "kind": "how",
         "en": "How can I resolve a family disagreement?",
         "km": "តើខ្ញុំអាចដោះស្រាយការខ្វែងគំនិតក្នុងគ្រួសារដោយរបៀបណា?"
       },
       {
         "id": "FF-04",
+        "kind": "how",
         "en": "How can I support a family member?",
         "km": "តើខ្ញុំអាចគាំទ្រសមាជិកគ្រួសារម្នាក់ដោយរបៀបណា?"
       },
       {
         "id": "FF-05",
+        "kind": "open",
         "en": "What does this friendship mean for me?",
         "km": "តើមិត្តភាពនេះមានន័យយ៉ាងណាចំពោះខ្ញុំ?"
       },
       {
         "id": "FF-06",
+        "kind": "how",
         "en": "How can I make new friends?",
         "km": "តើខ្ញុំអាចរកមិត្តភក្តិថ្មីដោយរបៀបណា?"
       },
       {
         "id": "FF-07",
+        "kind": "how",
         "en": "How can I repair a broken friendship?",
         "km": "តើខ្ញុំអាចជួសជុលមិត្តភាពដែលបាក់បែកដោយរបៀបណា?"
       },
       {
         "id": "FF-08",
+        "kind": "open",
         "en": "Who can I rely on right now?",
         "km": "តើខ្ញុំអាចពឹងពាក់លើនរណាបាននៅពេលនេះ?"
       },
       {
         "id": "FF-09",
+        "kind": "how",
         "en": "How can I set healthy boundaries?",
         "km": "តើខ្ញុំអាចកំណត់ព្រំដែនដ៏ល្អក្នុងទំនាក់ទំនងដោយរបៀបណា?"
       },
       {
         "id": "FF-10",
+        "kind": "open",
         "en": "Where are my family relationships heading?",
         "km": "តើទំនាក់ទំនងក្នុងគ្រួសាររបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -418,51 +478,61 @@
     "questions": [
       {
         "id": "WB-01",
+        "kind": "open",
         "en": "What does my inner balance look like now?",
         "km": "តើតុល្យភាពក្នុងចិត្តរបស់ខ្ញុំឥឡូវនេះយ៉ាងដូចម្តេច?"
       },
       {
         "id": "WB-02",
+        "kind": "how",
         "en": "How can I find more peace in my daily life?",
         "km": "តើខ្ញុំអាចរកភាពស្ងប់ក្នុងជីវិតប្រចាំថ្ងៃកាន់តែច្រើនដោយរបៀបណា?"
       },
       {
         "id": "WB-03",
+        "kind": "obstacle",
         "en": "What is draining my energy?",
         "km": "តើអ្វីកំពុងបឺតយកថាមពលរបស់ខ្ញុំ?"
       },
       {
         "id": "WB-04",
+        "kind": "how",
         "en": "How can I take better care of myself?",
         "km": "តើខ្ញុំអាចថែរក្សាខ្លួនឯងកាន់តែល្អដោយរបៀបណា?"
       },
       {
         "id": "WB-05",
+        "kind": "how",
         "en": "What habit would help me feel better?",
         "km": "តើទម្លាប់អ្វីនឹងជួយឱ្យខ្ញុំមានអារម្មណ៍ល្អប្រសើរ?"
       },
       {
         "id": "WB-06",
+        "kind": "how",
         "en": "How can I balance work and rest?",
         "km": "តើខ្ញុំអាចរក្សាតុល្យភាពរវាងការងារ និងការសម្រាកដោយរបៀបណា?"
       },
       {
         "id": "WB-07",
+        "kind": "obstacle",
         "en": "What should I let go of?",
         "km": "តើខ្ញុំគួរលែងប្រកាន់យកអ្វី?"
       },
       {
         "id": "WB-08",
+        "kind": "how",
         "en": "How can I build more self-confidence?",
         "km": "តើខ្ញុំអាចពង្រឹងទំនុកចិត្តលើខ្លួនឯងដោយរបៀបណា?"
       },
       {
         "id": "WB-09",
+        "kind": "open",
         "en": "What brings me joy right now?",
         "km": "តើអ្វីនាំមកនូវសេចក្តីរីករាយដល់ខ្ញុំនៅពេលនេះ?"
       },
       {
         "id": "WB-10",
+        "kind": "open",
         "en": "Where is my inner journey heading?",
         "km": "តើដំណើរក្នុងចិត្តរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -485,51 +555,61 @@
     "questions": [
       {
         "id": "EG-01",
+        "kind": "open",
         "en": "What does my learning path look like now?",
         "km": "តើផ្លូវនៃការសិក្សារបស់ខ្ញុំឥឡូវនេះយ៉ាងដូចម្តេច?"
       },
       {
         "id": "EG-02",
+        "kind": "how",
         "en": "How can I study more effectively?",
         "km": "តើខ្ញុំអាចរៀនបានកាន់តែមានប្រសិទ្ធភាពដោយរបៀបណា?"
       },
       {
         "id": "EG-03",
+        "kind": "open",
         "en": "What can I expect from an upcoming exam?",
         "km": "តើខ្ញុំអាចរំពឹងអ្វីពីការប្រឡងខាងមុខ?"
       },
       {
         "id": "EG-04",
+        "kind": "how",
         "en": "Which skill should I learn next?",
         "km": "តើខ្ញុំគួររៀនជំនាញអ្វីបន្ទាប់?"
       },
       {
         "id": "EG-05",
+        "kind": "obstacle",
         "en": "What is holding back my growth?",
         "km": "តើអ្វីកំពុងរារាំងការរីកចម្រើនរបស់ខ្ញុំ?"
       },
       {
         "id": "EG-06",
+        "kind": "how",
         "en": "How can I stay motivated?",
         "km": "តើខ្ញុំអាចរក្សាកម្លាំងចិត្តដោយរបៀបណា?"
       },
       {
         "id": "EG-07",
+        "kind": "yesno",
         "en": "Is this a good time to start a new course?",
         "km": "តើនេះជាពេលល្អក្នុងការចាប់ផ្តើមវគ្គសិក្សាថ្មីឬទេ?"
       },
       {
         "id": "EG-08",
+        "kind": "how",
         "en": "What talent should I develop?",
         "km": "តើខ្ញុំគួរអភិវឌ្ឍទេពកោសល្យអ្វី?"
       },
       {
         "id": "EG-09",
+        "kind": "how",
         "en": "How can I become a better version of myself?",
         "km": "តើខ្ញុំអាចក្លាយជាខ្លួនឯងដែលល្អជាងមុនដោយរបៀបណា?"
       },
       {
         "id": "EG-10",
+        "kind": "open",
         "en": "Where is my personal growth heading?",
         "km": "តើការរីកចម្រើនផ្ទាល់ខ្លួនរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -552,51 +632,61 @@
     "questions": [
       {
         "id": "LO-01",
+        "kind": "open",
         "en": "What luck surrounds me now?",
         "km": "តើសំណាងអ្វីកំពុងនៅជុំវិញខ្ញុំឥឡូវនេះ?"
       },
       {
         "id": "LO-02",
+        "kind": "how",
         "en": "What opportunity should I not miss?",
         "km": "តើឱកាសអ្វីដែលខ្ញុំមិនគួររំលង?"
       },
       {
         "id": "LO-03",
+        "kind": "how",
         "en": "How can I attract more good luck?",
         "km": "តើខ្ញុំអាចទាក់ទាញសំណាងល្អកាន់តែច្រើនដោយរបៀបណា?"
       },
       {
         "id": "LO-04",
+        "kind": "obstacle",
         "en": "What is blocking my good fortune?",
         "km": "តើអ្វីកំពុងរារាំងសំណាងល្អរបស់ខ្ញុំ?"
       },
       {
         "id": "LO-05",
+        "kind": "when",
         "en": "When is a lucky time for me to act?",
         "km": "តើពេលណាជាពេលសំណាងសម្រាប់ខ្ញុំក្នុងការចាប់ផ្តើមធ្វើ?"
       },
       {
         "id": "LO-06",
+        "kind": "open",
         "en": "Who might bring good opportunities into my life?",
         "km": "តើនរណាអាចនាំឱកាសល្អមកក្នុងជីវិតខ្ញុំ?"
       },
       {
         "id": "LO-07",
+        "kind": "yesno",
         "en": "Should I take a chance on something new?",
         "km": "តើខ្ញុំគួរហ៊ានសាកល្បងអ្វីដែលថ្មីឬទេ?"
       },
       {
         "id": "LO-08",
+        "kind": "open",
         "en": "What hidden opportunity is near me?",
         "km": "តើមានឱកាសលាក់កំបាំងអ្វីនៅជិតខ្ញុំ?"
       },
       {
         "id": "LO-09",
+        "kind": "how",
         "en": "How can I turn bad luck around?",
         "km": "តើខ្ញុំអាចប្រែក្លាយសំណាងអាក្រក់ឱ្យទៅជាល្អវិញដោយរបៀបណា?"
       },
       {
         "id": "LO-10",
+        "kind": "open",
         "en": "Where is my luck heading?",
         "km": "តើសំណាងរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -619,51 +709,61 @@
     "questions": [
       {
         "id": "CD-01",
+        "kind": "open",
         "en": "What do I need to know about this decision?",
         "km": "តើខ្ញុំត្រូវដឹងអ្វីខ្លះអំពីការសម្រេចចិត្តនេះ?"
       },
       {
         "id": "CD-02",
+        "kind": "how",
         "en": "Which path should I choose?",
         "km": "តើខ្ញុំគួរជ្រើសរើសផ្លូវណា?"
       },
       {
         "id": "CD-03",
+        "kind": "open",
         "en": "What happens if I move forward?",
         "km": "តើនឹងមានអ្វីកើតឡើងប្រសិនបើខ្ញុំបន្តទៅមុខ?"
       },
       {
         "id": "CD-04",
+        "kind": "open",
         "en": "What happens if I wait?",
         "km": "តើនឹងមានអ្វីកើតឡើងប្រសិនបើខ្ញុំរង់ចាំ?"
       },
       {
         "id": "CD-05",
+        "kind": "obstacle",
         "en": "What is stopping me from deciding?",
         "km": "តើអ្វីកំពុងរារាំងខ្ញុំមិនឱ្យសម្រេចចិត្ត?"
       },
       {
         "id": "CD-06",
+        "kind": "open",
         "en": "What does my heart really want?",
         "km": "តើចិត្តរបស់ខ្ញុំពិតជាចង់បានអ្វី?"
       },
       {
         "id": "CD-07",
+        "kind": "yesno",
         "en": "Am I seeing the full picture?",
         "km": "តើខ្ញុំកំពុងមើលឃើញរូបភាពទាំងមូលឬទេ?"
       },
       {
         "id": "CD-08",
+        "kind": "obstacle",
         "en": "What should I consider before I decide?",
         "km": "តើខ្ញុំគួរពិចារណាអ្វីខ្លះមុននឹងសម្រេចចិត្ត?"
       },
       {
         "id": "CD-09",
+        "kind": "open",
         "en": "How will this choice affect my future?",
         "km": "តើជម្រើសនេះនឹងប៉ះពាល់ដល់អនាគតរបស់ខ្ញុំយ៉ាងដូចម្តេច?"
       },
       {
         "id": "CD-10",
+        "kind": "how",
         "en": "What is the wisest choice for me now?",
         "km": "តើជម្រើសដែលឆ្លាតវៃបំផុតសម្រាប់ខ្ញុំឥឡូវនេះគឺអ្វី?"
       }

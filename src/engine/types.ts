@@ -2,6 +2,8 @@ export type Lang = 'en' | 'km';
 export type Text = Record<Lang, string>;
 export type TimeFrameId = 'present' | 'near' | 'mid' | 'long';
 export type Tag = 'bright' | 'steady' | 'testing';
+/** What a question asks for, which shapes how the reading answers it. */
+export type QuestionKind = 'open' | 'obstacle' | 'how' | 'yesno' | 'when';
 export type SuitId = 'WAN' | 'CUP' | 'SWO' | 'PEN';
 
 export interface Card {
@@ -23,6 +25,7 @@ export interface Zodiac {
 
 export interface Question {
   id: string;
+  kind: QuestionKind;
   en: string;
   km: string;
 }
@@ -36,9 +39,12 @@ export interface Topic {
 }
 
 type Variants = Record<Lang, string[]>;
+type CardPart = 'present' | 'challenge' | 'outcome' | 'advice';
+export type AnswerKey = 'obstacle' | 'how' | 'yes' | 'notyet' | 'depends' | 'soon' | 'later' | 'ready';
 
 export interface Templates {
-  timeFrames: { id: TimeFrameId; phrase: Text; label: Record<Lang, [string, string]> }[];
+  /** `phrase` fits "…about your love life {time}"; `outlook` fits "…where this is heading {outlook}". */
+  timeFrames: { id: TimeFrameId; phrase: Text; outlook: Text; label: Record<Lang, [string, string]> }[];
   parts: {
     opening: Variants;
     strength: Variants;
@@ -47,8 +53,12 @@ export interface Templates {
     outcome: Variants;
     advice: Variants;
   };
+  /** Wording per kind of question; parts not listed fall back to `parts`. */
+  kinds: Record<QuestionKind, Partial<Record<CardPart, Variants>>>;
+  /** The short direct answer that leads the overall message. */
+  answers: Record<AnswerKey, Text>;
   theme: Record<Lang, Record<'MAJ' | SuitId | 'MIX', string>>;
-  tone: Record<Tag, Text>;
+  tone: Record<Tag | 'mixed', Text>;
   disclaimer: Text;
 }
 
@@ -68,7 +78,7 @@ export interface ReadingInput {
 }
 
 export type PartKey =
-  | 'opening' | 'strength' | 'present' | 'challenge' | 'outcome'
+  | 'opening' | 'answer' | 'strength' | 'present' | 'challenge' | 'outcome'
   | 'theme' | 'advice' | 'closing' | 'disclaimer';
 
 export interface Reading {

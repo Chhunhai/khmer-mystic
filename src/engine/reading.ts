@@ -1,6 +1,6 @@
 // Khmer Mystic reading engine.
 // Pure functions: the same inputs always give the same reading. No network, no AI.
-import type { Card, Content, Lang, Reading, ReadingInput } from './types.ts';
+import type { AnswerKey, Card, Content, Lang, QuestionKind, Reading, ReadingInput, Tag } from './types.ts';
 
 export function fnv1a(str: string): number {
   let h = 0x811c9dc5;
@@ -13,6 +13,38 @@ export function fnv1a(str: string): number {
 
 function fill(template: string, values: Record<string, string>): string {
   return template.replace(/\{(\w+)\}/g, (_, k: string) => values[k] ?? '');
+}
+
+const tagScore: Record<Card['tag'], number> = { bright: 1, steady: 0, testing: -1 };
+
+/** Mood of the whole draw: all three cards count, not only the Outcome card. */
+export function moodScore(cards: Card[]): number {
+  return cards.reduce((sum, c) => sum + tagScore[c.tag], 0);
+}
+
+function toneKey(cards: Card[]): Tag | 'mixed' {
+  const score = moodScore(cards);
+  if (score >= 2) return 'bright';
+  if (score <= -2) return 'testing';
+  if (cards.filter(c => c.tag === 'steady').length >= 2) return 'steady';
+  return 'mixed';
+}
+
+/** The direct answer for this kind of question, if it has one. */
+function answerKey(kind: QuestionKind, cards: Card[]): AnswerKey | null {
+  const score = moodScore(cards);
+  switch (kind) {
+    case 'obstacle':
+      return 'obstacle';
+    case 'how':
+      return 'how';
+    case 'yesno':
+      return score >= 1 ? 'yes' : score <= -1 ? 'notyet' : 'depends';
+    case 'when':
+      return score >= 1 ? 'soon' : score <= -1 ? 'later' : 'ready';
+    default:
+      return null;
+  }
 }
 
 export function buildReading(input: ReadingInput, content: Content): Reading {
@@ -28,14 +60,18 @@ export function buildReading(input: ReadingInput, content: Content): Reading {
   const cards = found as [Card, Card, Card];
 
   const T = content.templates;
+  const kind = question.kind;
   const seed = fnv1a([zodiacId, questionId, timeFrame, ...cardIds].join('|'));
   const pick = (variants: Record<Lang, string[]>, bit: number) =>
     variants[lang][(seed >> bit) & 1] ?? variants[lang][0];
+  // Wording for this kind of question, falling back to the general wording.
+  const part = (key: 'present' | 'challenge' | 'outcome' | 'advice') => T.kinds[kind]?.[key] ?? T.parts[key];
 
   const v: Record<string, string> = {
     question: question[lang],
     focus: topic.focus[lang],
     time: tf.phrase[lang],
+    outlook: tf.outlook[lang],
     animal: z.name[lang],
     strength: z.strength[lang],
     advice: z.advice[lang],
@@ -56,20 +92,20 @@ export function buildReading(input: ReadingInput, content: Content): Reading {
     for (const s of Object.keys(count)) if (count[s] >= 2) themeKey = s as typeof themeKey;
   }
 
-  return {
-    cards,
-    parts: [
-      { key: 'opening', text: fill(pick(T.parts.opening, 0), v) },
-      { key: 'strength', text: fill(pick(T.parts.strength, 1), v) },
-      { key: 'present', text: fill(pick(T.parts.present, 2), v) },
-      { key: 'challenge', text: fill(pick(T.parts.challenge, 3), v) },
-      { key: 'outcome', text: fill(T.parts.outcome[lang][0], v) },
-      { key: 'theme', text: T.theme[lang][themeKey] + ' ' + T.tone[cards[2].tag][lang] },
-      { key: 'advice', text: fill(pick(T.parts.advice, 4), v) },
-      { key: 'closing', text: topic.closing[lang] },
-      { key: 'disclaimer', text: T.disclaimer[lang] },
-    ],
-  };
+  const answer = answerKey(kind, cards);
+  const parts: Reading['parts'] = [{ key: 'opening', text: fill(pick(T.parts.opening, 0), v) }];
+  if (answer) parts.push({ key: 'answer', text: fill(T.answers[answer][lang], v) });
+  parts.push(
+    { key: 'strength', text: fill(pick(T.parts.strength, 1), v) },
+    { key: 'present', text: fill(pick(part('present'), 2), v) },
+    { key: 'challenge', text: fill(pick(part('challenge'), 3), v) },
+    { key: 'outcome', text: fill(part('outcome')[lang][0], v) },
+    { key: 'theme', text: fill(T.theme[lang][themeKey], v) + ' ' + T.tone[toneKey(cards)][lang] },
+    { key: 'advice', text: fill(pick(part('advice'), 4), v) },
+    { key: 'closing', text: topic.closing[lang] },
+    { key: 'disclaimer', text: T.disclaimer[lang] },
+  );
+  return { cards, parts };
 }
 
 /** Draw three different cards. Pass a seeded random function for a daily lock. */

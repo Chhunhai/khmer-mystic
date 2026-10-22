@@ -33,9 +33,12 @@ Everything needed to build the Khmer Mystic app: all content in English and Khme
 
 ## Reading engine rules
 
-- `buildReading()` takes the language, zodiac id, question id, time frame and three card ids, and returns the reading as 9 ordered parts.
+- `buildReading()` takes the language, zodiac id, question id, time frame and three card ids, and returns the reading as ordered parts: opening, answer (all but open questions), strength, present, challenge, outcome, theme, advice, closing, disclaimer.
 - Same inputs always give the same text. A seed (FNV-1a of the ids) picks variant A or B for each part.
-- Theme: 2+ Major cards → Major theme; otherwise a suit appearing 2+ times; otherwise mixed. Tone comes from the Outcome card's tag.
+- Each question has a `kind` in topics.json: `open`, `obstacle`, `how`, `yesno` or `when`. `templates.kinds` gives the present / challenge / outcome / advice wording per kind (falling back to `parts`), and `templates.answers` the short direct answer that leads the overall message.
+- Mood of the draw: bright = +1, steady = 0, testing = −1, summed over all three cards. Yes/no leans yes (≥ 1), not yet (≤ −1) or depends (0); "when" leans soon / later / when ready the same way.
+- Theme: 2+ Major cards → Major theme; otherwise a suit appearing 2+ times; otherwise mixed. Tone: bright (mood ≥ 2), testing (≤ −2), steady (2+ steady cards), otherwise mixed.
+- Time frames have a `phrase` ("right now") for the opening and an `outlook` ("from here") for the outcome line.
 - One language per reading. Never mix English and Khmer.
 - The disclaimer is always last and always visible. On the Wellbeing topic (`WB`), never collapse it.
 - No AI and no network calls at runtime. Every sentence comes from reviewed content.

@@ -112,6 +112,12 @@ export default function ReadingScreen() {
           <Icon name="sun" size={18} />
           <PanelHeading>{ui.overall}</PanelHeading>
         </View>
+        {/* The direct answer to the question (not for open questions), then the mood of the draw. */}
+        {r.part('answer') ? (
+          <AppText size={17} style={styles.answer}>
+            {r.part('answer')}
+          </AppText>
+        ) : null}
         <AppText size={16}>{r.part('theme')}</AppText>
         <AppText size={14} style={styles.muted}>
           {r.part('advice')}
@@ -130,6 +136,7 @@ const styles = StyleSheet.create({
   slot: { flex: 1, alignItems: 'center', gap: 6 },
   pos: { color: colors.gold, fontWeight: '600', textAlign: 'center' },
   overall: { marginTop: 18, gap: 10 },
+  answer: { fontWeight: '600', color: colors.ivory },
   overallHead: { flexDirection: 'row', alignItems: 'center', gap: 8 },
   disclaimer: { color: colors.muted, textAlign: 'center', marginTop: 4 },
   // Wide layout
