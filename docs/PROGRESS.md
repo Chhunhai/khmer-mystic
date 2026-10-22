@@ -10,7 +10,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Reading engine (src/engine/reading.ts) with content checks (npm run check)
 - Clickable web prototype (docs/prototype/prototype.html)
 - Card template design, card art prompts, disclaimer/privacy/terms drafts (links in docs/LINKS.md)
-- Repo set up on GitHub; Expo SDK 58 + TypeScript; Node 24 required
+- Repo set up on GitHub; Expo SDK 57 + TypeScript; Node 24 required (SDK 57 matches App Store Expo Go 57.0.9; move to 58 once Expo Go for SDK 58 ships)
 
 ### In progress
 - Starter screen only (App.tsx shows the sample reading)
@@ -29,4 +29,5 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: daily reading lock, reversed cards, monetisation
 
 ## Log
+- 2026-10-22: Downgraded Expo SDK 58 → 57 (RN 0.86.3, React 19.2.3) so the app runs in the current App Store Expo Go; added react-dom and react-native-web for web preview. Lint not yet configured (no ESLint config).
 - 2026-10-22: Repo created, Node 24 installed, content checks passing on Hai's Mac
