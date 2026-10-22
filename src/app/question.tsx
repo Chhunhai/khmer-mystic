@@ -57,6 +57,14 @@ const styles = StyleSheet.create({
   },
   chipText: { color: colors.gold },
   list: { gap: 6 },
-  row: { flexDirection: 'row', alignItems: 'center', gap: 12, minHeight: 46, paddingVertical: 7, paddingHorizontal: 12 },
+  row: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    minHeight: 46,
+    paddingVertical: 7,
+    paddingHorizontal: 12,
+    backgroundColor: colors.glass,
+  },
   text: { flex: 1 },
 });

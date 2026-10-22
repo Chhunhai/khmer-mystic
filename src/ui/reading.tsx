@@ -9,8 +9,9 @@ import { colors } from './theme.ts';
 const cardParts: PartKey[] = ['present', 'challenge', 'outcome'];
 
 /**
- * Phone: opening first, each card's text beside a small card. Wide: the overall message leads,
- * card texts sit under their position labels (the cards are shown large next to it).
+ * Phone: each card's text beside a small card, then the overall message.
+ * Wide: card texts sit under their position labels; the large cards and the overall message
+ * are shown beside this column by the result screen.
  */
 export function FullReadingText({ wide = false }: { wide?: boolean }) {
   const ui = useUi();
@@ -18,16 +19,9 @@ export function FullReadingText({ wide = false }: { wide?: boolean }) {
   if (!r) return null;
   const size = wide ? 16 : 15;
 
-  const overall = (
-    <View style={[styles.overall, wide && styles.overallWide]}>
-      <PanelHeading size={wide ? 16 : 15}>{ui.overall}</PanelHeading>
-      <AppText size={size}>{r.part('theme')}</AppText>
-    </View>
-  );
 
   return (
     <View style={[styles.stack, wide && styles.stackWide]}>
-      {wide && overall}
       <AppText size={16}>{r.part('opening')}</AppText>
       <AppText size={size} style={styles.muted}>
         {r.part('strength')}
@@ -54,7 +48,7 @@ export function FullReadingText({ wide = false }: { wide?: boolean }) {
           </Panel>
         ),
       )}
-      {!wide && overall}
+      {!wide && <Overall />}
       <AppText size={size}>{r.part('advice')}</AppText>
       <AppText size={16} style={[styles.closing, wide && styles.left]}>
         {r.part('closing')}
@@ -68,9 +62,22 @@ export function FullReadingText({ wide = false }: { wide?: boolean }) {
   );
 }
 
+/** The overall message (the reading's theme) in a gold-bordered box. */
+export function Overall({ wide = false }: { wide?: boolean }) {
+  const ui = useUi();
+  const r = useReading();
+  if (!r) return null;
+  return (
+    <View style={[styles.overall, wide && styles.overallWide]}>
+      <PanelHeading size={wide ? 16 : 15}>{ui.overall}</PanelHeading>
+      <AppText size={wide ? 16 : 15}>{r.part('theme')}</AppText>
+    </View>
+  );
+}
+
 const styles = StyleSheet.create({
   stack: { gap: 14 },
-  stackWide: { gap: 18 },
+  stackWide: { gap: 16 },
   muted: { color: colors.muted },
   pos: { color: colors.gold, fontWeight: '600', letterSpacing: 0.7 },
   cardRow: { flexDirection: 'row', gap: 14, alignItems: 'flex-start', padding: 14 },

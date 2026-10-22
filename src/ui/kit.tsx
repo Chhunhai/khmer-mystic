@@ -1,5 +1,5 @@
 // Shared building blocks: screen frame with headers, text styles, buttons and option tiles.
-import type { ReactNode } from 'react';
+import { createContext, useContext, type ReactNode } from 'react';
 import {
   Pressable,
   ScrollView,
@@ -12,13 +12,18 @@ import {
   type ViewStyle,
 } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import Svg, { G, Path } from 'react-native-svg';
 import { router } from 'expo-router';
 import { stepLabel, useFlow, useUi } from '../state/flow.tsx';
 import type { Lang } from '../engine/types.ts';
-import { Icon, LotusMark } from './icons.tsx';
-import { colors, contentWidth, fonts, headingFont, lineHeight, pageWidth, useWide } from './theme.ts';
+import { Backdrop } from './backdrop.tsx';
+import { Divider, Icon, LotusMark } from './icons.tsx';
+import { colors, contentWidth, fonts, frameWidth, headingFont, lineHeight, pageWidth, useWide } from './theme.ts';
 
 const langNames: Record<Lang, string> = { en: 'EN', km: 'ខ្មែរ' };
+
+/** True inside the desktop footer row, where buttons take fixed widths instead of the full column. */
+const InFooterRow = createContext(false);
 
 /**
  * Text in Kantumruy Pro with the line height for the current language.
@@ -52,28 +57,31 @@ export function AppText({
   );
 }
 
-/** Screen heading: Cinzel in English, Moul in Khmer. */
-export function Title({
-  children,
-  align = 'center',
-  size,
-}: {
-  children: ReactNode;
-  align?: 'center' | 'left';
-  size?: Partial<Record<Lang, number>>;
-}) {
+/**
+ * Screen heading: Cinzel in English, Moul in Khmer.
+ * On wide screens it is larger and sits over the gold divider, as in the desktop frame.
+ */
+export function Title({ children }: { children: ReactNode }) {
   const { lang } = useFlow().state;
-  const fontSize = size?.[lang] ?? (lang === 'km' ? 19 : 26);
-  return (
+  const wide = useWide();
+  const fontSize = wide ? (lang === 'km' ? 24 : 32) : lang === 'km' ? 19 : 26;
+  const heading = (
     <Text
       accessibilityRole="header"
       style={[
         styles.title,
-        { fontFamily: headingFont(lang), fontSize, lineHeight: Math.round(fontSize * (lang === 'km' ? 1.7 : 1.4)), textAlign: align },
+        { fontFamily: headingFont(lang), fontSize, lineHeight: Math.round(fontSize * (lang === 'km' ? 1.7 : 1.4)) },
       ]}
     >
       {children}
     </Text>
+  );
+  if (!wide) return heading;
+  return (
+    <View style={styles.wideTitle}>
+      {heading}
+      <Divider />
+    </View>
   );
 }
 
@@ -118,7 +126,7 @@ export function LangToggle() {
   );
 }
 
-/** Five segments; the current step is longer, finished steps are gold. */
+/** Phone: five segments; the current step is longer, finished steps are gold. */
 function StepBar({ step }: { step: number }) {
   const ui = useUi();
   const { lang } = useFlow().state;
@@ -136,6 +144,30 @@ function StepBar({ step }: { step: number }) {
   );
 }
 
+/** Desktop: numbered steps with names; done and current are gold, the current one ringed. */
+function Stepper({ step }: { step: number }) {
+  const ui = useUi();
+  return (
+    <View style={styles.stepper} accessibilityLabel={ui.steps[step - 1]}>
+      {ui.steps.map((name, i) => {
+        const n = i + 1;
+        const reached = n <= step;
+        const now = n === step;
+        return (
+          <View key={name} style={styles.stepperItem}>
+            <View style={[styles.stepperDot, reached && styles.stepperDotOn, now && styles.stepperDotNow]}>
+              <Text style={[styles.stepperNum, reached && styles.stepperNumOn]}>{n}</Text>
+            </View>
+            <AppText size={13} style={[styles.stepperName, reached && styles.ivory, now && styles.gold]}>
+              {name}
+            </AppText>
+          </View>
+        );
+      })}
+    </View>
+  );
+}
+
 function BackButton() {
   const ui = useUi();
   return (
@@ -149,25 +181,71 @@ function goHome() {
   if (router.canDismiss()) router.dismissAll();
 }
 
-/** Desktop and tablet header: logo and language. */
-export function SiteHeader() {
+function startReading() {
+  if (router.canDismiss()) router.dismissAll();
+  router.push('/zodiac');
+}
+
+/** Desktop and tablet header: logo, Home and Tarot Reading links, language. */
+export function SiteHeader({ active }: { active: 'home' | 'reading' }) {
+  const ui = useUi();
+  const links = [
+    { key: 'home', label: ui.nav[0], onPress: goHome },
+    { key: 'reading', label: ui.nav[1], onPress: startReading },
+  ] as const;
   return (
-    <View style={styles.siteHeader}>
-      <View style={styles.siteInner}>
-        <Pressable onPress={goHome} accessibilityRole="link" style={styles.logo}>
-          <LotusMark width={36} strokeWidth={4} />
-          <Text style={styles.logoText}>KHMER MYSTIC</Text>
-        </Pressable>
+    <View style={styles.siteInner}>
+      <Pressable onPress={goHome} accessibilityRole="link" style={styles.logo}>
+        <LotusMark width={40} strokeWidth={4} />
+        <Text style={styles.logoText}>KHMER MYSTIC</Text>
+      </Pressable>
+      <View style={styles.nav}>
+        {links.map(l => {
+          const on = l.key === active;
+          return (
+            <Pressable key={l.key} onPress={on ? undefined : l.onPress} accessibilityRole="link" accessibilityState={{ selected: on }}>
+              <AppText size={15} style={[styles.navLink, on && styles.navLinkOn]}>
+                {l.label}
+              </AppText>
+            </Pressable>
+          );
+        })}
         <LangToggle />
       </View>
     </View>
   );
 }
 
+const cornerTransforms: StyleProp<ViewStyle>[] = [
+  { left: -6, top: -6 },
+  { right: -6, top: -6, transform: [{ scaleX: -1 }] },
+  { left: -6, bottom: -6, transform: [{ scaleY: -1 }] },
+  { right: -6, bottom: -6, transform: [{ scaleX: -1 }, { scaleY: -1 }] },
+];
+
+/** Lotus-and-kbach corner of the desktop frame, drawn for the top-left. */
+function FrameCorner({ style }: { style: StyleProp<ViewStyle> }) {
+  return (
+    <Svg width={72} height={72} viewBox="0 0 80 80" fill="none" stroke={colors.gold} strokeLinecap="round" style={[styles.corner, style]}>
+      <Path d="M20 12 C40 8 58 12 68 26 C73 35 64 42 57 37 C52 33 56 27 61 29" strokeWidth={1.6} />
+      <Path d="M12 20 C8 40 12 58 26 68 C35 73 42 64 37 57 C33 52 27 56 29 61" strokeWidth={1.6} />
+      <Path d="M30 16 C44 15 52 18 58 24 M16 30 C15 44 18 52 24 58" strokeWidth={0.9} />
+      <G fill={colors.gold} stroke="none" transform="translate(32 32) rotate(-45)">
+        <Path d="M0 0 C6 -7 6 -16 0 -22 C-6 -16 -6 -7 0 0 Z" />
+        <Path d="M0 0 C-7 -2 -13 -9 -14 -17 C-8 -14 -3 -8 0 0 Z" fillOpacity={0.75} />
+        <Path d="M0 0 C7 -2 13 -9 14 -17 C8 -14 3 -8 0 0 Z" fillOpacity={0.75} />
+      </G>
+    </Svg>
+  );
+}
+
 /**
- * Screen frame: safe-area padding, header, scrolling column and a footer pinned to the bottom.
- * `header="none"` lets a screen draw its own top (the welcome screen).
- * On wide screens the site header replaces the language toggle in the row.
+ * Screen frame.
+ * Phone: safe-area padding, header (back, step bar, language), scrolling column, the artwork faint
+ * at the bottom, and a footer pinned to the bottom. `header="none"` lets a screen draw its own top.
+ * Wide: site header over the full-bleed artwork; flow screens sit in the ornate frame with the
+ * numbered stepper, and the footer becomes a row with Back on the left.
+ * `width` limits the content column (phone-designed screens stay narrow inside the desktop frame).
  */
 export function Screen({
   step,
@@ -186,20 +264,56 @@ export function Screen({
 }) {
   const insets = useSafeAreaInsets();
   const wide = useWide();
+  const ui = useUi();
+
+  if (wide) {
+    const home = header === 'none';
+    return (
+      <View style={styles.screen}>
+        <Backdrop variant={home ? 'hero' : 'soft'} />
+        <ScrollView contentContainerStyle={styles.scroll}>
+          <SiteHeader active={home ? 'home' : 'reading'} />
+          {home ? (
+            <View style={[styles.page, { maxWidth: pageWidth }]}>{children}</View>
+          ) : (
+            <View style={styles.frameWrap}>
+              <View style={styles.frame}>
+                <View style={styles.frameInner}>
+                  {step !== undefined && <Stepper step={step} />}
+                  <View style={[styles.frameContent, { maxWidth: width }]}>{children}</View>
+                  {(footer || back) && (
+                    <View style={styles.footerRow}>
+                      {back ? <GhostButton label={ui.back} onPress={() => router.back()} style={styles.backWide} /> : <View />}
+                      <InFooterRow.Provider value={true}>
+                        <View style={styles.footerActions}>{footer}</View>
+                      </InFooterRow.Provider>
+                    </View>
+                  )}
+                </View>
+                {cornerTransforms.map((style, i) => (
+                  <FrameCorner key={i} style={style} />
+                ))}
+              </View>
+            </View>
+          )}
+        </ScrollView>
+      </View>
+    );
+  }
 
   return (
-    <View style={[styles.screen, { paddingTop: wide ? 0 : header === 'none' ? 0 : insets.top }]}>
+    <View style={[styles.screen, { paddingTop: header === 'none' ? 0 : insets.top }]}>
+      {header === 'flow' && <Backdrop variant="phone" />}
       <ScrollView
         contentContainerStyle={[styles.scroll, { paddingBottom: insets.bottom + 28 }]}
         keyboardShouldPersistTaps="handled"
       >
-        {wide && <SiteHeader />}
-        <View style={[styles.column, { maxWidth: width }, wide && styles.columnWide]}>
+        <View style={[styles.column, { maxWidth: width }]}>
           {header === 'flow' && (
             <View style={styles.header}>
               {back ? <BackButton /> : <View style={styles.iconButton} />}
               {step !== undefined && <StepBar step={step} />}
-              {wide ? <View style={styles.iconButton} /> : <LangToggle />}
+              <LangToggle />
             </View>
           )}
           {children}
@@ -221,13 +335,14 @@ export function PrimaryButton({
   disabled?: boolean;
   style?: StyleProp<ViewStyle>;
 }) {
+  const inRow = useContext(InFooterRow);
   return (
     <Pressable
       onPress={onPress}
       disabled={disabled}
       accessibilityRole="button"
       accessibilityState={{ disabled: !!disabled }}
-      style={({ pressed }) => [styles.primary, disabled && styles.disabled, pressed && styles.pressed, style]}
+      style={({ pressed }) => [styles.primary, inRow && styles.primaryRow, disabled && styles.disabled, pressed && styles.pressed, style]}
     >
       <AppText size={16} style={styles.primaryText}>
         {label}
@@ -245,8 +360,13 @@ export function GhostButton({
   onPress: () => void;
   style?: StyleProp<ViewStyle>;
 }) {
+  const inRow = useContext(InFooterRow);
   return (
-    <Pressable onPress={onPress} accessibilityRole="button" style={({ pressed }) => [styles.ghost, pressed && styles.pressed, style]}>
+    <Pressable
+      onPress={onPress}
+      accessibilityRole="button"
+      style={({ pressed }) => [styles.ghost, inRow && styles.ghostRow, pressed && styles.pressed, style]}
+    >
       <AppText size={15} style={styles.ghostText}>
         {label}
       </AppText>
@@ -260,6 +380,7 @@ export function Option({
   onPress,
   children,
   style,
+  selectedStyle,
   label,
   role = 'button',
 }: {
@@ -267,6 +388,8 @@ export function Option({
   onPress: () => void;
   children: ReactNode;
   style?: StyleProp<ViewStyle>;
+  /** Extra style when selected, on top of the gold border. */
+  selectedStyle?: StyleProp<ViewStyle>;
   label?: string;
   role?: 'button' | 'radio';
 }) {
@@ -276,7 +399,7 @@ export function Option({
       accessibilityRole={role}
       accessibilityLabel={label}
       accessibilityState={role === 'radio' ? { checked: !!selected } : { selected: !!selected }}
-      style={({ pressed }) => [styles.option, selected && styles.optionOn, pressed && styles.pressed, style]}
+      style={({ pressed }) => [styles.option, style, selected && styles.optionOn, selected && selectedStyle, pressed && styles.pressed]}
     >
       {children}
     </Pressable>
@@ -297,7 +420,6 @@ export const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: colors.midnight },
   scroll: { flexGrow: 1 },
   column: { flexGrow: 1, width: '100%', alignSelf: 'center', paddingHorizontal: 20 },
-  columnWide: { paddingHorizontal: 32, paddingTop: 16 },
   header: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -316,29 +438,81 @@ export const styles = StyleSheet.create({
   stepSegDone: { backgroundColor: colors.gold },
   footer: { marginTop: 'auto', paddingTop: 24, gap: 12 },
   gold: { color: colors.gold },
+  ivory: { color: colors.ivory },
   muted: { color: colors.muted },
-  title: { color: colors.gold },
+  title: { color: colors.gold, textAlign: 'center' },
+  wideTitle: { alignItems: 'center', gap: 8 },
   hint: { color: colors.muted, textAlign: 'center' },
   langToggle: { flexDirection: 'row', borderWidth: 1, borderColor: colors.line, borderRadius: 999, overflow: 'hidden' },
   langButton: { height: 32, paddingHorizontal: 12, justifyContent: 'center' },
   langButtonOn: { backgroundColor: colors.gold },
   langText: { color: colors.muted, fontSize: 13, fontFamily: fonts.body },
   langTextOn: { color: colors.midnight, fontFamily: fonts.semibold },
-  siteHeader: { borderBottomWidth: 1, borderBottomColor: colors.line },
+  // Desktop
   siteInner: {
     width: '100%',
     maxWidth: pageWidth,
     alignSelf: 'center',
     paddingHorizontal: 32,
-    paddingVertical: 16,
+    paddingVertical: 18,
     flexDirection: 'row',
+    flexWrap: 'wrap',
     alignItems: 'center',
     justifyContent: 'space-between',
     gap: 16,
   },
   logo: { flexDirection: 'row', alignItems: 'center', gap: 10 },
-  logoText: { fontFamily: fonts.brand, fontSize: 20, letterSpacing: 1.6, color: colors.gold },
+  logoText: { fontFamily: fonts.brand, fontSize: 21, letterSpacing: 1.7, color: colors.gold },
+  nav: { flexDirection: 'row', flexWrap: 'wrap', alignItems: 'center', gap: 26 },
+  navLink: { paddingVertical: 6, paddingHorizontal: 2, borderBottomWidth: 1.5, borderBottomColor: 'transparent' },
+  navLinkOn: { color: colors.gold, borderBottomColor: colors.gold },
+  page: { width: '100%', alignSelf: 'center', paddingHorizontal: 32 },
+  frameWrap: { width: '100%', maxWidth: frameWidth, alignSelf: 'center', paddingHorizontal: 32, marginTop: 24, marginBottom: 56 },
+  frame: { borderWidth: 1.5, borderColor: colors.gold, borderRadius: 24, padding: 7, backgroundColor: colors.frame },
+  frameInner: {
+    borderWidth: 1,
+    borderColor: colors.line,
+    borderRadius: 18,
+    backgroundColor: colors.frameInner,
+    paddingTop: 36,
+    paddingHorizontal: 48,
+    paddingBottom: 32,
+    gap: 24,
+  },
+  frameContent: { width: '100%', alignSelf: 'center' },
+  corner: { position: 'absolute' },
+  stepper: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, maxWidth: 720, width: '100%', alignSelf: 'center' },
+  stepperItem: { flexGrow: 1, flexShrink: 1, flexBasis: 0, minWidth: 90, alignItems: 'center', gap: 6 },
+  stepperDot: {
+    width: 34,
+    height: 34,
+    borderRadius: 17,
+    borderWidth: 1.5,
+    borderColor: colors.line,
+    backgroundColor: colors.stepIdle,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  stepperDotOn: { backgroundColor: colors.gold, borderColor: colors.gold },
+  stepperDotNow: { boxShadow: `0 0 0 5px ${colors.stepRing}` },
+  stepperNum: { fontFamily: fonts.brand, fontSize: 15, color: colors.muted },
+  stepperNumOn: { color: colors.midnight },
+  stepperName: { color: colors.muted, textAlign: 'center' },
+  footerRow: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    gap: 12,
+    paddingTop: 22,
+    borderTopWidth: 1,
+    borderTopColor: colors.line,
+  },
+  footerActions: { flexDirection: 'row', flexWrap: 'wrap', gap: 12 },
+  backWide: { width: 170 },
+  // Buttons
   primary: { backgroundColor: colors.gold, borderRadius: 999, height: 52, paddingHorizontal: 20, alignItems: 'center', justifyContent: 'center' },
+  primaryRow: { minWidth: 240 },
   primaryText: { color: colors.midnight, fontWeight: '600' },
   ghost: {
     borderWidth: 1,
@@ -349,6 +523,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  ghostRow: { minWidth: 170 },
   ghostText: { color: colors.gold, fontWeight: '600' },
   disabled: { opacity: 0.45 },
   pressed: { opacity: 0.8 },

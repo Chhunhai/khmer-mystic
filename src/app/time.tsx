@@ -44,7 +44,8 @@ export default function TimeScreen() {
               selected={on}
               label={`${name}, ${span}`}
               onPress={() => update({ timeFrame: tf.id })}
-              style={[styles.tile, on && styles.tileOn]}
+              style={styles.tile}
+              selectedStyle={styles.tileOn}
             >
               <Icon name={tf.id} size={30} />
               <AppText size={16} style={styles.name}>

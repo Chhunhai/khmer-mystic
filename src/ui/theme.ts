@@ -5,6 +5,13 @@ import type { Lang } from '../engine/types.ts';
 export const colors = {
   midnight: '#0B1530',
   panel: '#132042',
+  /** Panels over the background artwork. */
+  glass: 'rgba(19,32,66,0.85)',
+  glassStrong: 'rgba(19,32,66,0.9)',
+  frame: 'rgba(11,21,48,0.55)',
+  frameInner: 'rgba(11,21,48,0.82)',
+  stepIdle: 'rgba(11,21,48,0.8)',
+  stepRing: 'rgba(201,164,92,0.22)',
   gold: '#C9A45C',
   ivory: '#F3EBDD',
   muted: '#B9B2A3',
@@ -37,7 +44,9 @@ export function lineHeight(lang: Lang, fontSize: number, en = 1.5, km = 1.75): n
 export const contentWidth = 480;
 /** Desktop layouts (site header, side-by-side panels) from this window width up. */
 export const wideFrom = 900;
-export const pageWidth = 1280;
+export const pageWidth = 1320;
+/** Width of the framed desktop panel (flow screens). */
+export const frameWidth = 1180;
 
 export function useWide(): boolean {
   return useWindowDimensions().width >= wideFrom;

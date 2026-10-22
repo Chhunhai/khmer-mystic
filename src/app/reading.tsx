@@ -5,8 +5,8 @@ import { useReading, useUi } from '../state/flow.tsx';
 import { CardFace } from '../ui/cards.tsx';
 import { Icon } from '../ui/icons.tsx';
 import { AppText, GhostButton, Panel, PanelHeading, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
-import { FullReadingText } from '../ui/reading.tsx';
-import { colors, pageWidth, useWide } from '../ui/theme.ts';
+import { FullReadingText, Overall } from '../ui/reading.tsx';
+import { colors, frameWidth, useWide } from '../ui/theme.ts';
 
 export default function ReadingScreen() {
   const ui = useUi();
@@ -19,18 +19,16 @@ export default function ReadingScreen() {
 
   if (wide) {
     return (
-      <Screen header="none" width={pageWidth}>
+      <Screen step={5} back={false} width={frameWidth}>
         <View style={styles.wideHead}>
-          <Title align="left" size={{ en: 34, km: 26 }}>
-            {ui.rTitle}
-          </Title>
-          <AppText style={styles.muted}>
+          <Title>{ui.rTitle}</Title>
+          <AppText style={styles.sub}>
             “{r.question}” · {r.animal} · {r.time.join(' · ')}
           </AppText>
         </View>
         <View style={styles.wideRow}>
           <View style={styles.wideCards}>
-            <View style={styles.cardsPanel}>
+            <View style={styles.cardRow}>
               {r.reading.cards.map((card, i) => (
                 <View key={card.id} style={styles.figure}>
                   <View style={styles.bigCard}>
@@ -42,6 +40,7 @@ export default function ReadingScreen() {
                 </View>
               ))}
             </View>
+            <Overall wide />
             <View style={styles.wideButtons}>
               <PrimaryButton label={ui.again} onPress={again} style={styles.grow} />
               <GhostButton label={ui.restart} onPress={restart} style={styles.grow} />
@@ -112,24 +111,13 @@ const styles = StyleSheet.create({
   overallHead: { flexDirection: 'row', alignItems: 'center', gap: 8 },
   disclaimer: { color: colors.muted, textAlign: 'center', marginTop: 4 },
   // Wide layout
-  wideHead: { gap: 6, paddingTop: 24 },
-  wideRow: { flexDirection: 'row', flexWrap: 'wrap', gap: 48, alignItems: 'flex-start', marginTop: 28, paddingBottom: 48 },
-  wideCards: { flexGrow: 1, flexBasis: 520, gap: 24 },
-  cardsPanel: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    justifyContent: 'center',
-    gap: 20,
-    paddingVertical: 32,
-    paddingHorizontal: 20,
-    borderWidth: 1,
-    borderColor: colors.line,
-    borderRadius: 20,
-    backgroundColor: colors.panel,
-  },
-  figure: { flexGrow: 1, flexBasis: 140, maxWidth: 220, alignItems: 'center', gap: 10 },
-  bigCard: { width: '100%', aspectRatio: 7 / 12 },
+  wideHead: { gap: 8 },
+  wideRow: { flexDirection: 'row', flexWrap: 'wrap', gap: 40, alignItems: 'flex-start', marginTop: 24 },
+  wideCards: { flexGrow: 1, flexShrink: 1, flexBasis: 480, gap: 22 },
+  cardRow: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 18 },
+  figure: { flexGrow: 1, flexBasis: 140, maxWidth: 210, alignItems: 'center', gap: 10 },
+  bigCard: { width: '100%', aspectRatio: 7 / 12, borderRadius: 10, boxShadow: '0 0 22px rgba(232,201,136,0.25)' },
   wideButtons: { flexDirection: 'row', flexWrap: 'wrap', gap: 12 },
   grow: { flexGrow: 1, flexBasis: 200 },
-  article: { flexGrow: 1, flexBasis: 460, minWidth: 0 },
+  article: { flexGrow: 1, flexShrink: 1, flexBasis: 440, minWidth: 0 },
 });

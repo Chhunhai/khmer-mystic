@@ -34,6 +34,18 @@ const glyphs = {
       <Rect x={11} y={4} width={9} height={15} rx={1.5} transform="rotate(8 16 11)" />
     </>
   ),
+  help: (
+    <>
+      <Circle cx={12} cy={12} r={9} />
+      <Path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.7.3-1 1-1 1.7M12 17h.01" />
+    </>
+  ),
+  globe: (
+    <>
+      <Circle cx={12} cy={12} r={9} />
+      <Path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18" />
+    </>
+  ),
   // Topics
   LF: sun,
   LR: <Path d="M12 20s-7-4.5-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.5-7 10-7 10z" />,

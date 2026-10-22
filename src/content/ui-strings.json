@@ -65,20 +65,16 @@
       "Pick one of 100 questions",
       "Draw three cards"
     ],
-    "animals": {
-      "RAT": "Rat",
-      "OX": "Ox",
-      "TIG": "Tiger",
-      "RAB": "Rabbit",
-      "DRA": "Dragon",
-      "SNA": "Snake",
-      "HOR": "Horse",
-      "GOA": "Goat",
-      "MON": "Monkey",
-      "ROO": "Rooster",
-      "DOG": "Dog",
-      "PIG": "Pig"
-    }
+    "nav": [
+      "Home",
+      "Tarot Reading"
+    ],
+    "features": [
+      "Tarot reading",
+      "12 animal years",
+      "100 questions",
+      "Khmer and English"
+    ]
   },
   "km": {
     "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
@@ -146,19 +142,15 @@
       "ជ្រើសរើសសំណួរមួយក្នុងចំណោម ១០០",
       "ដកសន្លឹកបៀបី"
     ],
-    "animals": {
-      "RAT": "កណ្តុរ",
-      "OX": "គោ",
-      "TIG": "ខ្លា",
-      "RAB": "ទន្សាយ",
-      "DRA": "នាគ",
-      "SNA": "ពស់",
-      "HOR": "សេះ",
-      "GOA": "ពពែ",
-      "MON": "ស្វា",
-      "ROO": "មាន់",
-      "DOG": "ឆ្កែ",
-      "PIG": "ជ្រូក"
-    }
+    "nav": [
+      "ទំព័រដើម",
+      "ការទស្សន៍ទាយតារ៉ូ"
+    ],
+    "features": [
+      "ការទស្សន៍ទាយតារ៉ូ",
+      "ឆ្នាំសត្វទាំង ១២",
+      "សំណួរ ១០០",
+      "ខ្មែរ និងអង់គ្លេស"
+    ]
   }
 }
