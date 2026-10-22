@@ -50,7 +50,7 @@ Everything needed to build the Khmer Mystic app: all content in English and Khme
 
 ## Still to provide or decide
 
-- Card artwork (78 images, 2:3) from the art-prompts doc; use file names like `major-19-sun.png`.
+- Card artwork: imported to `assets/cards/<card id>.jpg` (e.g. `MAJ-19.jpg`) by `scripts/import-card-art.sh`; source folders hold 2:3 PNGs named like `19-The-Sun.png`.
 - Native Khmer review of all content. Update the JSON from the reviewed docs.
 - Daily lock, reversed cards, and monetisation: open product decisions.
 - Legal text (first-launch notice, privacy, terms) is in the Disclaimer, Privacy and Terms doc; fill its placeholders after legal review.
