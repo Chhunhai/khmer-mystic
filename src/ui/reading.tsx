@@ -30,7 +30,7 @@ export function FullReadingText({ wide = false }: { wide?: boolean }) {
       {cardParts.map((key, i) =>
         wide ? (
           <View key={key} style={styles.wideCard}>
-            <AppText size={13} style={styles.pos}>
+            <AppText size={15} style={styles.pos}>
               {ui.pos[i]}
             </AppText>
             <AppText size={size}>{r.part(key)}</AppText>
@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
   cardRow: { flexDirection: 'column', gap: 14, alignItems: 'flex-start', padding: 14 },
   thumb: { width: 70, height: 120 },
   cardText: { width: '100%', gap: 8 },
-  wideCard: { gap: 2 },
+  wideCard: { gap: 8, borderTopWidth: 1, borderTopColor: colors.line, paddingTop: 16 },
   overall: {
     padding: 16,
     borderWidth: 1.5,

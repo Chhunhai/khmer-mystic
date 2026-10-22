@@ -1,7 +1,6 @@
 // Screen 1: welcome and language choice.
 import { Pressable, StyleSheet, Text, View, useWindowDimensions } from 'react-native';
 import { router } from 'expo-router';
-import { uiStrings } from '../content/index.ts';
 import { useFlow, useUi } from '../state/flow.tsx';
 import { AnimalEmblem } from '../ui/animals.tsx';
 import { CoverImage, Fade } from '../ui/backdrop.tsx';
@@ -45,33 +44,32 @@ export default function WelcomeScreen() {
   };
 
   if (wide) {
-    // The tagline in the other language sits under the main one.
-    const otherTag = uiStrings[state.lang === 'en' ? 'km' : 'en'].tag;
     return (
       <Screen header="none">
-        <View style={styles.wideMain} accessibilityLabel={heroAlt}>
+        <View style={styles.wideMain}>
           <View style={styles.wideText}>
-            <LotusMark />
             <Text style={styles.wideBrand} accessibilityRole="header">
               KHMER MYSTIC
             </Text>
             <AppText size={22} style={styles.center}>
               {ui.tag}
             </AppText>
-            <AppText size={18} style={[styles.center, styles.gold]}>
-              {otherTag}
-            </AppText>
             <Divider />
             <AppText size={18} style={styles.intro}>
               {ui.intro}
             </AppText>
+            <View style={styles.homeActions}>
+              <PrimaryButton label={state.zodiacId ? ui.resume : ui.start} onPress={state.zodiacId ? resume : start} style={styles.action} />
+              {state.zodiacId && <GhostButton label={ui.start} onPress={start} style={styles.action} />}
+            </View>
+            <AppText size={14} style={styles.muted}>{ui.note}</AppText>
             <View style={styles.features}>
               {ui.features.map((label, i) => {
                 const icon = featureIcons[i];
                 return (
                   <View key={label} style={styles.feature}>
-                    <Medallion size={72} edge={colors.midnight} edgeOpacity={0.9} glowOpacity={0.18}>
-                      {icon === 'dragon' ? <AnimalEmblem id="DRA" size={50} /> : <Icon name={icon} size={30} />}
+                    <Medallion size={56} edge={colors.midnight} edgeOpacity={0.9} glowOpacity={0.18}>
+                      {icon === 'dragon' ? <AnimalEmblem id="DRA" size={40} /> : <Icon name={icon} size={26} />}
                     </Medallion>
                     <AppText size={15} style={styles.center}>
                       {label}
@@ -80,11 +78,6 @@ export default function WelcomeScreen() {
                 );
               })}
             </View>
-            {state.zodiacId && <GhostButton label={ui.resume} onPress={resume} style={styles.startButton} />}
-            <PrimaryButton label={ui.start} onPress={start} style={styles.startButton} />
-            <AppText size={14} style={styles.muted}>
-              {ui.note}
-            </AppText>
           </View>
         </View>
       </Screen>
@@ -163,12 +156,12 @@ const styles = StyleSheet.create({
   foot: { alignItems: 'center', gap: 12, paddingHorizontal: 8 },
   full: { alignSelf: 'stretch' },
   // Wide layout: text column on the right, over the artwork.
-  wideMain: { flexDirection: 'row', justifyContent: 'flex-end', paddingTop: 40, paddingBottom: 64 },
-  wideText: { flexGrow: 0, flexShrink: 1, flexBasis: 680, alignItems: 'center', gap: 18 },
+  wideMain: { flexDirection: 'row', justifyContent: 'flex-end', paddingTop: 24, paddingBottom: 40 },
+  wideText: { flexGrow: 0, flexShrink: 1, flexBasis: 640, alignItems: 'center', gap: 16 },
   wideBrand: {
     fontFamily: fonts.brand,
-    fontSize: 64,
-    lineHeight: 76,
+    fontSize: 48,
+    lineHeight: 60,
     letterSpacing: 2.5,
     color: colors.gold,
     textAlign: 'center',
@@ -176,7 +169,8 @@ const styles = StyleSheet.create({
     textShadowRadius: 28,
   },
   intro: { maxWidth: 560, textAlign: 'center', lineHeight: 31 },
-  features: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 18, marginVertical: 10 },
-  feature: { width: 150, alignItems: 'center', gap: 10 },
-  startButton: { width: 320, maxWidth: '100%' },
+  features: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 12, marginTop: 12, paddingTop: 20, borderTopWidth: 1, borderTopColor: colors.line },
+  feature: { flex: 1, minWidth: 110, alignItems: 'center', gap: 10 },
+  homeActions: { width: '100%', flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 12, marginTop: 8 },
+  action: { flexGrow: 1, flexBasis: 250, maxWidth: 320 },
 });

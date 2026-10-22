@@ -55,13 +55,14 @@ export default function ReadingScreen() {
                 </View>
               ))}
             </View>
-            <Overall wide />
             <View style={styles.wideButtons}>
               <PrimaryButton label={ui.again} onPress={again} style={styles.grow} />
               <GhostButton label={ui.restart} onPress={restart} style={styles.grow} />
             </View>
           </View>
           <View style={styles.article}>
+            <Overall wide />
+            <PanelHeading size={17}>{ui.fullTitle}</PanelHeading>
             <FullReadingText wide />
           </View>
         </View>
@@ -141,12 +142,12 @@ const styles = StyleSheet.create({
   disclaimer: { color: colors.muted, textAlign: 'center', marginTop: 4 },
   // Wide layout
   wideHead: { gap: 8 },
-  wideRow: { flexDirection: 'row', flexWrap: 'wrap', gap: 40, alignItems: 'flex-start', marginTop: 24 },
-  wideCards: { flexGrow: 1, flexShrink: 1, flexBasis: 480, gap: 22 },
-  cardRow: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 18 },
-  figure: { flexGrow: 1, flexBasis: 140, maxWidth: 210, alignItems: 'center', gap: 10 },
+  wideRow: { flexDirection: 'row', flexWrap: 'wrap', gap: 28, alignItems: 'flex-start', marginTop: 24 },
+  wideCards: { flexGrow: 1, flexShrink: 1, flexBasis: 300, gap: 20 },
+  cardRow: { flexDirection: 'row', justifyContent: 'center', gap: 12 },
+  figure: { flexGrow: 1, flexBasis: 0, flexShrink: 1, maxWidth: 150, alignItems: 'center', gap: 10 },
   bigCard: { width: '100%', aspectRatio: 7 / 12, borderRadius: 10, boxShadow: '0 0 22px rgba(232,201,136,0.25)' },
   wideButtons: { flexDirection: 'row', flexWrap: 'wrap', gap: 12 },
   grow: { flexGrow: 1, flexBasis: 200 },
-  article: { flexGrow: 1, flexShrink: 1, flexBasis: 440, minWidth: 0 },
+  article: { flexGrow: 2, flexShrink: 1, flexBasis: 360, minWidth: 0, gap: 22 },
 });

@@ -6,6 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
+- Web layout polish: home actions above feature icons, one-language tagline, compact desktop framing, smaller result cards with the overall answer leading the reading column.
 - UX refinement: shorter responsive welcome, docked phone actions (scrolling fallback for short screens/large text), readable questions and full-width reading text, mobile Back, desktop time/draw layouts, and local language/reading recovery with a resume action. ESLint configured and animation ref errors resolved.
 - Source review of current mobile and web UX/UI: identified welcome-screen height, text sizing, reading layout, desktop time/draw sizing, and session persistence improvements.
 - Content: 78 card meanings, 100 questions, 12 zodiac profiles, reading templates (English and Khmer, in src/content/)
@@ -34,6 +35,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: daily reading lock, reversed cards, monetisation
 
 ## Log
+- 2026-10-22: Fixed web hierarchy from the supplied screenshots: reduced home title/decorative spacing, moved resume/start above features with resume primary, removed the duplicate-language tagline, tightened desktop frames, and moved the overall answer above the full reading beside smaller cards. Browser-checked English/Khmer at 900/1024/1440 × 728; home actions fit, no page errors. Typecheck, content/persistence checks and lint pass.
 - 2026-10-22: Readings now answer the kind of question asked: each of the 100 questions is tagged open / obstacle / how / yesno / when, with its own wording and a short direct answer leading the overall message (yes/no and timing leans from all three cards). Mood now uses all three cards (new "mixed" tone), the outcome line no longer says "heading right now", and the mixed-suit filler is reworded. New English and Khmer template text needs native Khmer review. Checks cover every question × time frame × language; typecheck and lint pass
 - 2026-10-22: Added a turning gold vortex behind the enlarged card (src/ui/vortex.tsx): soft blue bokeh across the screen, a gold halo and three spiral arms around the card, at 70% strength; still with Reduce Motion. Recreated in code from the look of the realboyan_ssspin.io clip rather than shipping that clip (third-party, 18 MB). Checked on web at 390 and 1440 px; typecheck, checks and lint pass
 - 2026-10-22: Tap a card to see it large (src/ui/cardViewer.tsx): it grows from its place to the centre over a dark backdrop with its position label and its line of the reading, and shrinks back on tap, Close or Android Back. On the result and full-reading screens, and for face-up cards on the draw screen. New UI strings close / viewCard (Khmer needs review). Checked on web at 390 px in English and Khmer; typecheck, checks and lint pass
