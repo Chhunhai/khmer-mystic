@@ -12,9 +12,7 @@
     "tHint": "How far ahead should the cards look?",
     "next": "Continue",
     "dTitle": "Draw three cards",
-    "dHint": "Hold your question in mind, then shuffle.",
-    "draw": "Shuffle and draw",
-    "tap": "Tap each card to turn it over",
+    "dHint": "Hold your question in mind. Tap each card to turn it over.",
     "see": "See my reading",
     "rTitle": "Your reading",
     "again": "Ask another question",
@@ -43,7 +41,44 @@
       ]
     ],
     "proto": "Prototype · readings are built from the reviewed content documents",
-    "step": "Step {n} of 5"
+    "step": "Step {n} of 5",
+    "shuffle": "Shuffle again",
+    "overall": "Overall message",
+    "full": "See full reading",
+    "fullTitle": "Your full reading",
+    "sAnimal": "Birth year",
+    "sTopic": "Topic",
+    "sQuestion": "Question",
+    "yours": "Your reading so far",
+    "intro": "A Tarot reading shaped by your Khmer birth year, your question and the time ahead, in English or Khmer.",
+    "dTopicQ": "Choose a topic and question",
+    "note": "For reflection and entertainment only",
+    "steps": [
+      "Birth year",
+      "Topic and question",
+      "Time frame",
+      "Draw cards",
+      "Reading"
+    ],
+    "how": [
+      "Choose your birth year",
+      "Pick one of 100 questions",
+      "Draw three cards"
+    ],
+    "animals": {
+      "RAT": "Rat",
+      "OX": "Ox",
+      "TIG": "Tiger",
+      "RAB": "Rabbit",
+      "DRA": "Dragon",
+      "SNA": "Snake",
+      "HOR": "Horse",
+      "GOA": "Goat",
+      "MON": "Monkey",
+      "ROO": "Rooster",
+      "DOG": "Dog",
+      "PIG": "Pig"
+    }
   },
   "km": {
     "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
@@ -58,9 +93,7 @@
     "tHint": "តើចង់ឱ្យសន្លឹកបៀមើលទៅមុខឆ្ងាយប៉ុណ្ណា?",
     "next": "បន្ត",
     "dTitle": "ដកសន្លឹកបៀបី",
-    "dHint": "សូមគិតពីសំណួររបស់អ្នក រួចចុចសាប់បៀ។",
-    "draw": "សាប់ និងដកបៀ",
-    "tap": "ចុចលើសន្លឹកបៀនីមួយៗ ដើម្បីបើក",
+    "dHint": "សូមគិតពីសំណួររបស់អ្នក។ ចុចលើសន្លឹកបៀនីមួយៗ ដើម្បីបើក។",
     "see": "មើលលទ្ធផល",
     "rTitle": "លទ្ធផលនៃការទស្សន៍ទាយ",
     "again": "សួរសំណួរផ្សេងទៀត",
@@ -89,6 +122,43 @@
       ]
     ],
     "proto": "គំរូសាកល្បង · ការទស្សន៍ទាយបង្កើតចេញពីឯកសារខ្លឹមសារដែលបានពិនិត្យ",
-    "step": "ជំហាន {n} នៃ ៥"
+    "step": "ជំហាន {n} នៃ ៥",
+    "shuffle": "សាប់ម្តងទៀត",
+    "overall": "សារសង្ខេប",
+    "full": "មើលការទស្សន៍ទាយពេញលេញ",
+    "fullTitle": "ការទស្សន៍ទាយពេញលេញ",
+    "sAnimal": "ឆ្នាំកំណើត",
+    "sTopic": "ប្រធានបទ",
+    "sQuestion": "សំណួរ",
+    "yours": "ការទស្សន៍ទាយរបស់អ្នក",
+    "intro": "ការទស្សន៍ទាយតារ៉ូ ផ្អែកលើឆ្នាំកំណើតខ្មែរ សំណួរ និងរយៈពេលខាងមុខរបស់អ្នក ជាភាសាខ្មែរ ឬអង់គ្លេស។",
+    "dTopicQ": "ជ្រើសរើសប្រធានបទ និងសំណួរ",
+    "note": "សម្រាប់ការពិចារណា និងការកម្សាន្តប៉ុណ្ណោះ",
+    "steps": [
+      "ឆ្នាំកំណើត",
+      "ប្រធានបទ និងសំណួរ",
+      "រយៈពេល",
+      "ដកសន្លឹកបៀ",
+      "លទ្ធផល"
+    ],
+    "how": [
+      "ជ្រើសរើសឆ្នាំកំណើត",
+      "ជ្រើសរើសសំណួរមួយក្នុងចំណោម ១០០",
+      "ដកសន្លឹកបៀបី"
+    ],
+    "animals": {
+      "RAT": "កណ្តុរ",
+      "OX": "គោ",
+      "TIG": "ខ្លា",
+      "RAB": "ទន្សាយ",
+      "DRA": "នាគ",
+      "SNA": "ពស់",
+      "HOR": "សេះ",
+      "GOA": "ពពែ",
+      "MON": "ស្វា",
+      "ROO": "មាន់",
+      "DOG": "ឆ្កែ",
+      "PIG": "ជ្រូក"
+    }
   }
 }

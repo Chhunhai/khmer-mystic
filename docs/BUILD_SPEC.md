@@ -43,7 +43,7 @@ Everything needed to build the Khmer Mystic app: all content in English and Khme
 
 ## Design
 
-- Colors: midnight `#0F1A33`, night panel `#132042`, antique gold `#C9A45C`, ivory `#F3EBDD`.
+- Colors: midnight `#0B1530`, night panel `#132042`, antique gold `#C9A45C`, ivory `#F3EBDD`.
 - Fonts: Cinzel (English titles), Moul (Khmer titles), Kantumruy Pro (all body text, both languages).
 - Card: 70 × 120 mm (7:12). The art sits in the arch window; the frame, numeral and name are shared by all cards. See the card template canvas.
 - Khmer text needs line-height about 1.7 and runs longer than English. Test every screen in Khmer.

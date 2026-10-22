@@ -11,7 +11,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#0F1A33",
+        "backgroundColor": "#0B1530",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
@@ -21,10 +21,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "backgroundColor": "#0F1A33",
+    "backgroundColor": "#0B1530",
     "plugins": [
       "expo-status-bar",
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ],
     "scheme": "khmermystic"
   }

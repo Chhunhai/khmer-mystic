@@ -2,7 +2,8 @@
 // Selections are only cleared from the language screen ("Start"), when no later screen is mounted.
 import { createContext, useCallback, useContext, useMemo, useState, type ReactNode } from 'react';
 import { content, uiStrings } from '../content/index.ts';
-import type { Lang, TimeFrameId } from '../engine/types.ts';
+import { buildReading } from '../engine/reading.ts';
+import type { Lang, PartKey, TimeFrameId } from '../engine/types.ts';
 
 export type CardIds = [string, string, string];
 export type Flipped = [boolean, boolean, boolean];
@@ -65,4 +66,19 @@ const khmerDigits = '០១២៣៤៥៦៧៨៩';
 export function stepLabel(template: string, n: number, lang: Lang): string {
   const num = lang === 'km' ? String(n).replace(/\d/g, d => khmerDigits[Number(d)]) : String(n);
   return template.replace('{n}', num);
+}
+
+/** The reading for the current selections, or null if the flow is incomplete. */
+export function useReading() {
+  const { state } = useFlow();
+  const { lang, zodiacId, questionId, timeFrame, cardIds } = state;
+  const topic = findTopic(state.topicId);
+  const question = topic?.questions.find(q => q.id === questionId);
+  const zodiac = content.zodiac.find(z => z.id === zodiacId);
+  const time = content.templates.timeFrames.find(t => t.id === timeFrame);
+  if (!zodiacId || !questionId || !timeFrame || !cardIds || !question || !zodiac || !time) return null;
+
+  const reading = buildReading({ lang, zodiacId, questionId, timeFrame, cardIds }, content);
+  const part = (key: PartKey) => reading.parts.find(p => p.key === key)?.text ?? '';
+  return { lang, reading, part, question: question[lang], animal: zodiac.name[lang], time: time.label[lang] };
 }

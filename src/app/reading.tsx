@@ -1,82 +1,135 @@
-// Screen 6: the reading, built by the engine from reviewed content only.
-import { Fragment } from 'react';
+// Screen 6: the result — the three cards and the overall message. Wide screens show the full reading beside the cards.
 import { StyleSheet, View } from 'react-native';
 import { Redirect, router } from 'expo-router';
-import { content } from '../content/index.ts';
-import { buildReading } from '../engine/reading.ts';
-import type { Card, Lang, PartKey } from '../engine/types.ts';
-import { useFlow, useUi } from '../state/flow.tsx';
+import { useReading, useUi } from '../state/flow.tsx';
 import { CardFace } from '../ui/cards.tsx';
-import { AppText, GhostButton, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
-import { colors } from '../ui/theme.ts';
-
-const cardParts: Partial<Record<PartKey, number>> = { present: 0, challenge: 1, outcome: 2 };
-
-/** Highlight the card's name inside its sentence, as the prototype does. Presentation only. */
-function withCardName(text: string, card: Card | undefined, lang: Lang) {
-  const name = card?.name[lang];
-  if (!name || !text.includes(name)) return text;
-  return text.split(name).map((piece, i) => (
-    <Fragment key={i}>
-      {i > 0 && <AppText style={styles.cardName}>{name}</AppText>}
-      {piece}
-    </Fragment>
-  ));
-}
+import { Icon } from '../ui/icons.tsx';
+import { AppText, GhostButton, Panel, PanelHeading, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
+import { FullReadingText } from '../ui/reading.tsx';
+import { colors, pageWidth, useWide } from '../ui/theme.ts';
 
 export default function ReadingScreen() {
-  const { state } = useFlow();
   const ui = useUi();
-  const { lang, zodiacId, questionId, timeFrame, cardIds } = state;
-  if (!zodiacId || !questionId || !timeFrame || !cardIds) return <Redirect href="/" />;
+  const wide = useWide();
+  const r = useReading();
+  if (!r) return <Redirect href="/" />;
 
-  const reading = buildReading({ lang, zodiacId, questionId, timeFrame, cardIds }, content);
+  const again = () => router.dismissTo('/topic');
+  const restart = () => router.dismissAll();
+
+  if (wide) {
+    return (
+      <Screen header="none" width={pageWidth}>
+        <View style={styles.wideHead}>
+          <Title align="left" size={{ en: 34, km: 26 }}>
+            {ui.rTitle}
+          </Title>
+          <AppText style={styles.muted}>
+            “{r.question}” · {r.animal} · {r.time.join(' · ')}
+          </AppText>
+        </View>
+        <View style={styles.wideRow}>
+          <View style={styles.wideCards}>
+            <View style={styles.cardsPanel}>
+              {r.reading.cards.map((card, i) => (
+                <View key={card.id} style={styles.figure}>
+                  <View style={styles.bigCard}>
+                    <CardFace card={card} lang={r.lang} />
+                  </View>
+                  <AppText size={15} style={styles.pos}>
+                    {ui.pos[i]}
+                  </AppText>
+                </View>
+              ))}
+            </View>
+            <View style={styles.wideButtons}>
+              <PrimaryButton label={ui.again} onPress={again} style={styles.grow} />
+              <GhostButton label={ui.restart} onPress={restart} style={styles.grow} />
+            </View>
+          </View>
+          <View style={styles.article}>
+            <FullReadingText wide />
+          </View>
+        </View>
+      </Screen>
+    );
+  }
 
   return (
-    <Screen step={5}>
-      <Title>{ui.rTitle}</Title>
-      <View style={styles.mini}>
-        {reading.cards.map((card, i) => (
-          <View key={card.id} style={styles.miniSlot}>
-            <View style={styles.miniCard}>
-              <CardFace card={card} lang={lang} />
+    <Screen
+      step={5}
+      footer={
+        <>
+          <PrimaryButton label={ui.full} onPress={() => router.push('/full')} />
+          <GhostButton label={ui.again} onPress={again} />
+          <AppText size={11.5} style={styles.disclaimer}>
+            {r.part('disclaimer')}
+          </AppText>
+        </>
+      }
+    >
+      <View style={styles.top}>
+        <Title>{ui.rTitle}</Title>
+        <AppText size={14} style={styles.sub}>
+          “{r.question}” · {r.time[0]}
+        </AppText>
+      </View>
+      <View style={styles.cards}>
+        {r.reading.cards.map((card, i) => (
+          <View key={card.id} style={styles.slot}>
+            <View style={styles.card}>
+              <CardFace card={card} lang={r.lang} />
             </View>
-            <AppText size={12} style={styles.pos}>
+            <AppText size={13} style={styles.pos}>
               {ui.pos[i]}
             </AppText>
           </View>
         ))}
       </View>
-      {reading.parts.map(part => {
-        const cardIndex = cardParts[part.key];
-        return (
-          <AppText
-            key={part.key}
-            size={part.key === 'opening' ? 17 : part.key === 'disclaimer' ? 13 : 16}
-            style={[
-              styles.part,
-              part.key === 'theme' && styles.theme,
-              part.key === 'disclaimer' && styles.disclaimer,
-            ]}
-          >
-            {cardIndex === undefined ? part.text : withCardName(part.text, reading.cards[cardIndex], lang)}
-          </AppText>
-        );
-      })}
-      <PrimaryButton label={ui.again} onPress={() => router.dismissTo('/topic')} style={styles.actions} />
-      <GhostButton label={ui.restart} onPress={() => router.dismissAll()} />
+      <Panel style={styles.overall}>
+        <View style={styles.overallHead}>
+          <Icon name="sun" size={18} />
+          <PanelHeading>{ui.overall}</PanelHeading>
+        </View>
+        <AppText size={15}>{r.part('theme')}</AppText>
+        <AppText size={14} style={styles.muted}>
+          {r.part('advice')}
+        </AppText>
+      </Panel>
     </Screen>
   );
 }
 
 const styles = StyleSheet.create({
-  mini: { flexDirection: 'row', gap: 12, marginTop: 16, marginBottom: 20 },
-  miniSlot: { flex: 1, alignItems: 'center', gap: 6 },
-  miniCard: { width: '100%', aspectRatio: 7 / 12 },
-  pos: { color: colors.muted, textAlign: 'center' },
-  part: { marginBottom: 14 },
-  cardName: { color: colors.gold, fontWeight: '700' },
-  theme: { borderLeftWidth: 2, borderLeftColor: colors.gold, paddingLeft: 14 },
-  disclaimer: { color: colors.muted, borderTopWidth: 1, borderTopColor: colors.line, paddingTop: 14, marginTop: 6 },
-  actions: { marginTop: 12 },
+  top: { gap: 6, marginBottom: 14 },
+  sub: { color: colors.muted, textAlign: 'center' },
+  muted: { color: colors.muted },
+  cards: { flexDirection: 'row', gap: 8, marginHorizontal: -4 },
+  slot: { flex: 1, alignItems: 'center', gap: 6 },
+  card: { width: '100%', maxWidth: 106, aspectRatio: 7 / 12 },
+  pos: { color: colors.gold, fontWeight: '600', textAlign: 'center' },
+  overall: { marginTop: 18, gap: 10 },
+  overallHead: { flexDirection: 'row', alignItems: 'center', gap: 8 },
+  disclaimer: { color: colors.muted, textAlign: 'center', marginTop: 4 },
+  // Wide layout
+  wideHead: { gap: 6, paddingTop: 24 },
+  wideRow: { flexDirection: 'row', flexWrap: 'wrap', gap: 48, alignItems: 'flex-start', marginTop: 28, paddingBottom: 48 },
+  wideCards: { flexGrow: 1, flexBasis: 520, gap: 24 },
+  cardsPanel: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    gap: 20,
+    paddingVertical: 32,
+    paddingHorizontal: 20,
+    borderWidth: 1,
+    borderColor: colors.line,
+    borderRadius: 20,
+    backgroundColor: colors.panel,
+  },
+  figure: { flexGrow: 1, flexBasis: 140, maxWidth: 220, alignItems: 'center', gap: 10 },
+  bigCard: { width: '100%', aspectRatio: 7 / 12 },
+  wideButtons: { flexDirection: 'row', flexWrap: 'wrap', gap: 12 },
+  grow: { flexGrow: 1, flexBasis: 200 },
+  article: { flexGrow: 1, flexBasis: 460, minWidth: 0 },
 });

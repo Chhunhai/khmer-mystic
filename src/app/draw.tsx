@@ -1,34 +1,28 @@
-// Screen 5: shuffle, then turn over the three cards.
-import { useRef, useState } from 'react';
+// Screen 5: three cards are dealt face down; turn each over, or shuffle again for a new deal.
+import { useEffect, useRef } from 'react';
 import { Animated, Platform, StyleSheet, View } from 'react-native';
+import Svg, { Circle } from 'react-native-svg';
 import { Redirect, router } from 'expo-router';
 import { content } from '../content/index.ts';
 import { drawCards } from '../engine/reading.ts';
 import { useFlow, useUi, type Flipped } from '../state/flow.tsx';
-import { CardBack, FlipCard, useReducedMotion } from '../ui/cards.tsx';
-import { AppText, Hint, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
+import { FlipCard, useReducedMotion } from '../ui/cards.tsx';
+import { AppText, GhostButton, Hint, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
 import { colors } from '../ui/theme.ts';
 
 const useNativeDriver = Platform.OS !== 'web';
 
-/** The stacked deck, wobbling while it shuffles (like the prototype's shuffle keyframes). */
-function Deck({ shake }: { shake: Animated.Value }) {
-  const x = (a: number, b: number) => shake.interpolate({ inputRange: [0, 0.3, 0.6, 1], outputRange: [0, a, b, 0] });
-  const r = (a: number, b: number, rest: number) =>
-    shake.interpolate({ inputRange: [0, 0.3, 0.6, 1], outputRange: [`${rest}deg`, `${a}deg`, `${b}deg`, `${rest}deg`] });
-  const lift = shake.interpolate({ inputRange: [0, 0.5, 1], outputRange: [0, -14, 0] });
+/** Faint rings behind the cards. */
+function Rings() {
   return (
-    <View style={styles.deck}>
-      <Animated.View style={[styles.deckCard, { transform: [{ translateX: x(-46, 30) }, { rotate: r(-8, 5, 0) }] }]}>
-        <CardBack />
-      </Animated.View>
-      <Animated.View style={[styles.deckCard, { transform: [{ translateX: x(46, -30) }, { rotate: r(8, -5, -4) }] }]}>
-        <CardBack />
-      </Animated.View>
-      <Animated.View style={[styles.deckCard, { transform: [{ translateY: lift }, { rotate: '3deg' }] }]}>
-        <CardBack />
-      </Animated.View>
-    </View>
+    <Svg width={360} height={360} viewBox="0 0 360 360" style={styles.rings}>
+      <Circle cx={180} cy={180} r={170} fill="none" stroke={colors.gold} strokeOpacity={0.18} />
+      <Circle
+        cx={180} cy={180} r={140}
+        fill="none" stroke={colors.gold} strokeOpacity={0.25} strokeDasharray="1 7" strokeWidth={2} strokeLinecap="round"
+      />
+      <Circle cx={180} cy={180} r={110} fill="none" stroke={colors.gold} strokeOpacity={0.15} />
+    </Svg>
   );
 }
 
@@ -37,67 +31,81 @@ export default function DrawScreen() {
   const ui = useUi();
   const reduced = useReducedMotion();
   const shake = useRef(new Animated.Value(0)).current;
-  const [shuffling, setShuffling] = useState(false);
+  const ready = !!(state.zodiacId && state.questionId && state.timeFrame);
 
-  if (!state.zodiacId || !state.questionId || !state.timeFrame) return <Redirect href="/" />;
+  const deal = () => update({ cardIds: drawCards(content.cards), flipped: [false, false, false] });
 
-  const draw = () => {
-    const deal = () => {
-      update({ cardIds: drawCards(content.cards), flipped: [false, false, false] });
-      setShuffling(false);
-    };
+  useEffect(() => {
+    if (ready && !state.cardIds) deal();
+    // Deal once on arrival; later deals come from "Shuffle again".
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [ready, state.cardIds]);
+
+  if (!ready) return <Redirect href="/" />;
+
+  const shuffle = () => {
     if (reduced) return deal();
-    setShuffling(true);
     shake.setValue(0);
-    Animated.timing(shake, { toValue: 1, duration: 900, useNativeDriver }).start(deal);
+    Animated.timing(shake, { toValue: 1, duration: 600, useNativeDriver }).start(deal);
   };
 
   const cards = state.cardIds?.map(id => content.cards.find(c => c.id === id)!);
   const allOpen = state.flipped.every(Boolean);
+  const wobble = {
+    transform: [
+      { translateX: shake.interpolate({ inputRange: [0, 0.25, 0.5, 0.75, 1], outputRange: [0, -10, 8, -4, 0] }) },
+      { rotate: shake.interpolate({ inputRange: [0, 0.25, 0.5, 0.75, 1], outputRange: ['0deg', '-2deg', '2deg', '-1deg', '0deg'] }) },
+    ],
+  };
 
   return (
-    <Screen step={4}>
-      <Title>{ui.dTitle}</Title>
-      <Hint>{ui.dHint}</Hint>
-      {!cards ? (
+    <Screen
+      step={4}
+      footer={
         <>
-          <Deck shake={shake} />
-          <PrimaryButton label={ui.draw} onPress={draw} disabled={shuffling} />
+          <GhostButton label={ui.shuffle} onPress={shuffle} />
+          <PrimaryButton label={ui.see} onPress={() => router.push('/reading')} disabled={!allOpen} />
         </>
-      ) : (
-        <>
-          <View style={styles.slots}>
+      }
+    >
+      <View style={styles.top}>
+        <Title>{ui.dTitle}</Title>
+        <Hint>{ui.dHint}</Hint>
+      </View>
+      <View style={styles.stage}>
+        <Rings />
+        {cards && (
+          <Animated.View style={[styles.slots, wobble]}>
             {cards.map((card, i) => (
               <View key={card.id} style={styles.slot}>
-                <FlipCard
-                  card={card}
-                  lang={state.lang}
-                  open={state.flipped[i]}
-                  label={ui.pos[i]}
-                  onOpen={() => update({ flipped: state.flipped.map((f, j) => f || j === i) as Flipped })}
-                />
-                <AppText size={13} style={styles.pos}>
+                <View style={[styles.card, state.flipped[i] && styles.glow]}>
+                  <FlipCard
+                    card={card}
+                    lang={state.lang}
+                    open={state.flipped[i]}
+                    label={ui.pos[i]}
+                    onOpen={() => update({ flipped: state.flipped.map((f, j) => f || j === i) as Flipped })}
+                  />
+                </View>
+                <AppText size={14} style={styles.pos}>
                   {ui.pos[i]}
                 </AppText>
               </View>
             ))}
-          </View>
-          <AppText size={14} style={styles.tapNote}>
-            {allOpen ? '' : ui.tap}
-          </AppText>
-          <PrimaryButton label={ui.see} onPress={() => router.push('/reading')} disabled={!allOpen} style={styles.foot} />
-        </>
-      )}
+          </Animated.View>
+        )}
+      </View>
     </Screen>
   );
 }
 
 const styles = StyleSheet.create({
-  deck: { width: 117, height: 200, alignSelf: 'center', marginTop: 12, marginBottom: 28 },
-  deckCard: { position: 'absolute', top: 0, left: 0, right: 0, bottom: 0 },
-  slots: { flexDirection: 'row', gap: 12 },
+  top: { gap: 6 },
+  stage: { height: 360, marginTop: 24, alignItems: 'center' },
+  rings: { position: 'absolute', top: 0 },
+  slots: { position: 'absolute', top: 76, left: -4, right: -4, flexDirection: 'row', gap: 8 },
   slot: { flex: 1, alignItems: 'center', gap: 8 },
-  pos: { color: colors.muted, textAlign: 'center' },
-  tapNote: { color: colors.muted, textAlign: 'center', marginTop: 16, minHeight: 22 },
-  foot: { marginTop: 24 },
+  card: { width: '100%', maxWidth: 106, borderRadius: 8 },
+  glow: { boxShadow: `0 0 24px ${colors.glow}` },
+  pos: { color: colors.gold, fontWeight: '600', textAlign: 'center' },
 });

@@ -9,6 +9,7 @@
 | Zodiac profiles | https://claude.ai/artifact/27Ay8KniGXuo1Xqe2j4vrp |
 | Reading templates | https://claude.ai/artifact/LxbTizKicVPMeNTScBGfR8 |
 | Disclaimer, privacy and terms | https://claude.ai/artifact/Eo6FEAuiYVrTEz4Grv1f7R |
+| App screens (design canvas, phone and desktop) | https://claude.ai/artifact/65scD8QXmURpDMmhLYMXJJ |
 | Clickable prototype | https://claude.ai/artifact/X2WpqHCPAtPm453YrA6WBi |
 
 These links are private to the owner until shared from each document's share menu.

@@ -5,16 +5,14 @@ import { AccessibilityInfo, Animated, Image, Platform, Pressable, StyleSheet, Te
 import Svg, { Circle, Defs, G, Line, Path, Pattern, Rect, Text as SvgText } from 'react-native-svg';
 import type { Card, Lang, SuitId } from '../engine/types.ts';
 import { cardArt } from './cardArt.ts';
-import { colors } from './theme.ts';
+import { colors, fonts } from './theme.ts';
 
 const useNativeDriver = Platform.OS !== 'web';
 
-// Template colours: the card is a shade deeper than the app background.
-const ink = '#0B1530';
+// Template colours.
+const ink = colors.midnight;
 const well = '#101C3B';
 const gold = colors.gold;
-// Stand-in for Cinzel until fonts are loaded with expo-font.
-const serif = Platform.select({ android: 'serif', web: 'Georgia, serif', default: 'Georgia' });
 
 export function useReducedMotion(): boolean {
   const [reduced, setReduced] = useState(false);
@@ -300,7 +298,7 @@ function FrontFrame({ card }: { card: Card }) {
       {card.suit ? (
         <SuitIcon suit={card.suit} transform={`translate(197 25) scale(${26 / 60})`} />
       ) : (
-        <SvgText x={210} y={44.5} fill={gold} fontFamily={serif} fontWeight="700" fontSize={15} textAnchor="middle">
+        <SvgText x={210} y={44.5} fill={gold} fontFamily={fonts.brand} fontSize={15} textAnchor="middle">
           {card.numeral ?? ''}
         </SvgText>
       )}
@@ -334,8 +332,8 @@ export function CardFace({ card, lang }: { card: Card; lang: Lang }) {
             style={[
               styles.title,
               lang === 'km'
-                ? { color: colors.ivory, fontSize: size, lineHeight: Math.round(size * 1.6) }
-                : { fontFamily: serif, fontSize: size, lineHeight: Math.round(size * 1.15), letterSpacing: size * 0.08 },
+                ? { fontFamily: fonts.khmerTitle, color: colors.ivory, fontSize: size, lineHeight: Math.round(size * 1.7) }
+                : { fontFamily: fonts.brand, fontSize: size, lineHeight: Math.round(size * 1.15), letterSpacing: size * 0.08 },
             ]}
             numberOfLines={2}
             adjustsFontSizeToFit
@@ -419,7 +417,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  title: { color: gold, fontWeight: '700', textAlign: 'center' },
+  title: { color: gold, textAlign: 'center' },
   flip: { width: '100%', aspectRatio: 7 / 12 },
   side: { position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, backfaceVisibility: 'hidden' },
 });
