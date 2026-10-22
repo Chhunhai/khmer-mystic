@@ -20,6 +20,7 @@ import type { Card, Lang } from '../engine/types.ts';
 import { useUi } from '../state/flow.tsx';
 import { CardFace, useReducedMotion } from './cards.tsx';
 import { Icon } from './icons.tsx';
+import { Vortex } from './vortex.tsx';
 import { AppText, PanelHeading } from './kit.tsx';
 import { colors } from './theme.ts';
 
@@ -148,6 +149,19 @@ function CardViewer({ card, lang, label, caption, from, onClosed }: CardView & {
       <Animated.View style={[StyleSheet.absoluteFill, styles.backdrop, { opacity: progress }]}>
         <Pressable style={StyleSheet.absoluteFill} onPress={close} accessible={false} />
       </Animated.View>
+      {/* The vortex behind the card, kept faint so it reads as atmosphere. */}
+      <Animated.View
+        style={[StyleSheet.absoluteFill, { opacity: progress.interpolate({ inputRange: [0, 1], outputRange: [0, 0.7] }) }]}
+        pointerEvents="none"
+      >
+        <Vortex
+          width={screenW}
+          height={screenH}
+          centerX={cardLeft + cardW / 2}
+          centerY={cardTop + cardH / 2}
+          cardRadius={Math.hypot(cardW, cardH) / 2}
+        />
+      </Animated.View>
 
       <Animated.View style={[styles.closeRow, { top, right: 12 }, fadeIn]}>
         <Pressable onPress={close} accessibilityRole="button" accessibilityLabel={ui.close} style={styles.closeButton}>
@@ -191,7 +205,7 @@ function CardViewer({ card, lang, label, caption, from, onClosed }: CardView & {
 
 const styles = StyleSheet.create({
   hidden: { opacity: 0 },
-  backdrop: { backgroundColor: 'rgba(11,21,48,0.94)' },
+  backdrop: { backgroundColor: 'rgba(11,21,48,0.96)' },
   closeRow: { position: 'absolute' },
   closeButton: {
     width: 44,
