@@ -1,0 +1,182 @@
+[
+  {
+    "id": "RAT",
+    "name": {
+      "en": "Rat",
+      "km": "ជូត"
+    },
+    "strength": {
+      "en": "Your quick mind helps you spot opportunities others miss.",
+      "km": "គំនិតរហ័សរបស់អ្នក ជួយឱ្យអ្នកមើលឃើញឱកាសដែលអ្នកដទៃមើលរំលង។"
+    },
+    "advice": {
+      "en": "Think before acting on every idea; choose the best one.",
+      "km": "សូមគិតមុននឹងធ្វើតាមគ្រប់គំនិត ហើយជ្រើសរើសគំនិតដែលល្អបំផុត។"
+    }
+  },
+  {
+    "id": "OX",
+    "name": {
+      "en": "Ox",
+      "km": "ឆ្លូវ"
+    },
+    "strength": {
+      "en": "Your patience and steady effort build results that last.",
+      "km": "ការអត់ធ្មត់ និងការខិតខំជាប់លាប់របស់អ្នក កសាងលទ្ធផលដែលស្ថិតស្ថេរ។"
+    },
+    "advice": {
+      "en": "Stay open to change; not every plan must stay the same.",
+      "km": "សូមបើកចិត្តទទួលការផ្លាស់ប្តូរ។ មិនមែនគ្រប់ផែនការត្រូវតែនៅដដែលនោះទេ។"
+    }
+  },
+  {
+    "id": "TIG",
+    "name": {
+      "en": "Tiger",
+      "km": "ខាល"
+    },
+    "strength": {
+      "en": "Your courage gives you the strength to face any challenge.",
+      "km": "ភាពក្លាហានរបស់អ្នក ផ្តល់កម្លាំងដើម្បីប្រឈមនឹងគ្រប់បញ្ហា។"
+    },
+    "advice": {
+      "en": "Let calm thinking guide your boldness.",
+      "km": "សូមឱ្យការគិតដ៏ស្ងប់ស្ងាត់ ណែនាំភាពក្លាហានរបស់អ្នក។"
+    }
+  },
+  {
+    "id": "RAB",
+    "name": {
+      "en": "Rabbit",
+      "km": "ថោះ"
+    },
+    "strength": {
+      "en": "Your gentle nature brings peace and wins others’ trust.",
+      "km": "ចរិតស្លូតបូតរបស់អ្នក នាំមកនូវសន្តិភាព និងទទួលបានការទុកចិត្តពីអ្នកដទៃ។"
+    },
+    "advice": {
+      "en": "Speak up for what you need; kindness includes yourself.",
+      "km": "សូមហ៊ាននិយាយពីតម្រូវការរបស់អ្នក។ ចិត្តល្អក៏ត្រូវមានចំពោះខ្លួនឯងដែរ។"
+    }
+  },
+  {
+    "id": "DRA",
+    "name": {
+      "en": "Dragon",
+      "km": "រោង"
+    },
+    "strength": {
+      "en": "Your energy and vision inspire the people around you.",
+      "km": "ថាមពល និងចក្ខុវិស័យរបស់អ្នក បំផុសទឹកចិត្តមនុស្សនៅជុំវិញ។"
+    },
+    "advice": {
+      "en": "Listen to others’ ideas; great leaders also follow.",
+      "km": "សូមស្តាប់គំនិតអ្នកដទៃ។ អ្នកដឹកនាំដ៏ល្អក៏ចេះធ្វើតាមដែរ។"
+    }
+  },
+  {
+    "id": "SNA",
+    "name": {
+      "en": "Snake",
+      "km": "ម្សាញ់"
+    },
+    "strength": {
+      "en": "Your intuition and careful thinking reveal what others overlook.",
+      "km": "វិចារណញាណ និងការគិតយ៉ាងហ្មត់ចត់របស់អ្នក បង្ហាញអ្វីដែលអ្នកដទៃមើលរំលង។"
+    },
+    "advice": {
+      "en": "Share your thoughts; don’t keep everything hidden.",
+      "km": "សូមចែករំលែកគំនិតរបស់អ្នក ហើយកុំលាក់ទុកអ្វីៗទាំងអស់។"
+    }
+  },
+  {
+    "id": "HOR",
+    "name": {
+      "en": "Horse",
+      "km": "មមី"
+    },
+    "strength": {
+      "en": "Your energy and love of freedom open new paths.",
+      "km": "ថាមពល និងការស្រឡាញ់សេរីភាពរបស់អ្នក បើកផ្លូវថ្មីៗ។"
+    },
+    "advice": {
+      "en": "Finish what you start before rushing to the next thing.",
+      "km": "សូមបញ្ចប់អ្វីដែលអ្នកចាប់ផ្តើម មុននឹងប្រញាប់ទៅរឿងបន្ទាប់។"
+    }
+  },
+  {
+    "id": "GOA",
+    "name": {
+      "en": "Goat",
+      "km": "មមែ"
+    },
+    "strength": {
+      "en": "Your creativity and caring heart bring beauty to your life.",
+      "km": "ការច្នៃប្រឌិត និងចិត្តយកចិត្តទុកដាក់របស់អ្នក នាំសម្រស់មកក្នុងជីវិត។"
+    },
+    "advice": {
+      "en": "Trust yourself more and worry less about others’ opinions.",
+      "km": "សូមជឿជាក់លើខ្លួនឯងឱ្យច្រើន ហើយកុំបារម្ភពេកពីមតិអ្នកដទៃ។"
+    }
+  },
+  {
+    "id": "MON",
+    "name": {
+      "en": "Monkey",
+      "km": "វក"
+    },
+    "strength": {
+      "en": "Your cleverness finds solutions others cannot see.",
+      "km": "ភាពឆ្លាតវៃរបស់អ្នក រកឃើញដំណោះស្រាយដែលអ្នកដទៃមើលមិនឃើញ។"
+    },
+    "advice": {
+      "en": "Stay focused and honest; playfulness works best with patience.",
+      "km": "សូមផ្តោតអារម្មណ៍ និងស្មោះត្រង់។ ភាពរីករាយល្អបំផុតនៅពេលមានការអត់ធ្មត់។"
+    }
+  },
+  {
+    "id": "ROO",
+    "name": {
+      "en": "Rooster",
+      "km": "រកា"
+    },
+    "strength": {
+      "en": "Your honesty and hard work earn you respect.",
+      "km": "ភាពស្មោះត្រង់ និងការខិតខំរបស់អ្នក ទទួលបានការគោរព។"
+    },
+    "advice": {
+      "en": "Soften criticism with kindness.",
+      "km": "សូមបន្ទន់ការរិះគន់ដោយចិត្តល្អ។"
+    }
+  },
+  {
+    "id": "DOG",
+    "name": {
+      "en": "Dog",
+      "km": "ច"
+    },
+    "strength": {
+      "en": "Your loyalty and sense of fairness make you deeply trusted.",
+      "km": "ភាពស្មោះស្ម័គ្រ និងការយល់ពីយុត្តិធម៌របស់អ្នក ធ្វើឱ្យគេទុកចិត្តអ្នកយ៉ាងខ្លាំង។"
+    },
+    "advice": {
+      "en": "Let go of worry; not everything needs your protection.",
+      "km": "សូមលែងការព្រួយបារម្ភ។ មិនមែនអ្វីៗទាំងអស់ត្រូវការការការពារពីអ្នកនោះទេ។"
+    }
+  },
+  {
+    "id": "PIG",
+    "name": {
+      "en": "Pig",
+      "km": "កុរ"
+    },
+    "strength": {
+      "en": "Your generous heart attracts good fortune and good friends.",
+      "km": "ចិត្តសប្បុរសរបស់អ្នក ទាក់ទាញសំណាងល្អ និងមិត្តល្អ។"
+    },
+    "advice": {
+      "en": "Be careful not to give more than you can afford.",
+      "km": "សូមប្រយ័ត្នកុំផ្តល់ឱ្យលើសពីអ្វីដែលអ្នកអាចធ្វើបាន។"
+    }
+  }
+]

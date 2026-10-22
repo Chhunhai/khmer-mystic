@@ -1,0 +1,94 @@
+{
+  "en": {
+    "tag": "Tarot and Khmer wisdom",
+    "chooseLang": "Choose your language",
+    "start": "Start your reading",
+    "back": "Back",
+    "zTitle": "Your birth year animal",
+    "zHint": "Born between January and mid-April? Choose the animal of the year before, because the Khmer year begins at Khmer New Year.",
+    "topicTitle": "Choose a topic",
+    "qTitle": "Choose your question",
+    "tTitle": "Choose a time frame",
+    "tHint": "How far ahead should the cards look?",
+    "next": "Continue",
+    "dTitle": "Draw three cards",
+    "dHint": "Hold your question in mind, then shuffle.",
+    "draw": "Shuffle and draw",
+    "tap": "Tap each card to turn it over",
+    "see": "See my reading",
+    "rTitle": "Your reading",
+    "again": "Ask another question",
+    "restart": "Start over",
+    "pos": [
+      "Present",
+      "Challenge",
+      "Outcome"
+    ],
+    "times": [
+      [
+        "Present",
+        "Now"
+      ],
+      [
+        "Near future",
+        "1–3 months"
+      ],
+      [
+        "Mid future",
+        "3–6 months"
+      ],
+      [
+        "Long future",
+        "6+ months"
+      ]
+    ],
+    "proto": "Prototype · readings are built from the reviewed content documents",
+    "step": "Step {n} of 5"
+  },
+  "km": {
+    "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
+    "chooseLang": "ជ្រើសរើសភាសា",
+    "start": "ចាប់ផ្តើមការទស្សន៍ទាយ",
+    "back": "ត្រឡប់ក្រោយ",
+    "zTitle": "ឆ្នាំកំណើតរបស់អ្នក",
+    "zHint": "កើតចន្លោះខែមករា ដល់ពាក់កណ្តាលខែមេសា? សូមជ្រើសរើសសត្វនៃឆ្នាំមុន ព្រោះឆ្នាំខ្មែរចាប់ផ្តើមនៅបុណ្យចូលឆ្នាំខ្មែរ។",
+    "topicTitle": "ជ្រើសរើសប្រធានបទ",
+    "qTitle": "ជ្រើសរើសសំណួររបស់អ្នក",
+    "tTitle": "ជ្រើសរើសរយៈពេល",
+    "tHint": "តើចង់ឱ្យសន្លឹកបៀមើលទៅមុខឆ្ងាយប៉ុណ្ណា?",
+    "next": "បន្ត",
+    "dTitle": "ដកសន្លឹកបៀបី",
+    "dHint": "សូមគិតពីសំណួររបស់អ្នក រួចចុចសាប់បៀ។",
+    "draw": "សាប់ និងដកបៀ",
+    "tap": "ចុចលើសន្លឹកបៀនីមួយៗ ដើម្បីបើក",
+    "see": "មើលលទ្ធផល",
+    "rTitle": "លទ្ធផលនៃការទស្សន៍ទាយ",
+    "again": "សួរសំណួរផ្សេងទៀត",
+    "restart": "ចាប់ផ្តើមឡើងវិញ",
+    "pos": [
+      "បច្ចុប្បន្ន",
+      "បញ្ហាប្រឈម",
+      "លទ្ធផល"
+    ],
+    "times": [
+      [
+        "បច្ចុប្បន្ន",
+        "ឥឡូវនេះ"
+      ],
+      [
+        "អនាគតជិត",
+        "១–៣ ខែ"
+      ],
+      [
+        "អនាគតកណ្តាល",
+        "៣–៦ ខែ"
+      ],
+      [
+        "អនាគតឆ្ងាយ",
+        "៦ ខែឡើងទៅ"
+      ]
+    ],
+    "proto": "គំរូសាកល្បង · ការទស្សន៍ទាយបង្កើតចេញពីឯកសារខ្លឹមសារដែលបានពិនិត្យ",
+    "step": "ជំហាន {n} នៃ ៥"
+  }
+}

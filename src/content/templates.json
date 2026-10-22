@@ -1,0 +1,168 @@
+{
+  "timeFrames": [
+    {
+      "id": "present",
+      "phrase": {
+        "en": "right now",
+        "km": "នៅពេលនេះ"
+      },
+      "label": {
+        "en": [
+          "Present",
+          "Now"
+        ],
+        "km": [
+          "បច្ចុប្បន្ន",
+          "ឥឡូវនេះ"
+        ]
+      }
+    },
+    {
+      "id": "near",
+      "phrase": {
+        "en": "over the next one to three months",
+        "km": "ក្នុងរយៈពេល ១ ទៅ ៣ ខែខាងមុខ"
+      },
+      "label": {
+        "en": [
+          "Near future",
+          "1–3 months"
+        ],
+        "km": [
+          "អនាគតជិត",
+          "១–៣ ខែ"
+        ]
+      }
+    },
+    {
+      "id": "mid",
+      "phrase": {
+        "en": "over the next three to six months",
+        "km": "ក្នុងរយៈពេល ៣ ទៅ ៦ ខែខាងមុខ"
+      },
+      "label": {
+        "en": [
+          "Mid future",
+          "3–6 months"
+        ],
+        "km": [
+          "អនាគតកណ្តាល",
+          "៣–៦ ខែ"
+        ]
+      }
+    },
+    {
+      "id": "long",
+      "phrase": {
+        "en": "in the longer term, six months and beyond",
+        "km": "ក្នុងរយៈពេលវែង ចាប់ពី ៦ ខែឡើងទៅ"
+      },
+      "label": {
+        "en": [
+          "Long future",
+          "6+ months"
+        ],
+        "km": [
+          "អនាគតឆ្ងាយ",
+          "៦ ខែឡើងទៅ"
+        ]
+      }
+    }
+  ],
+  "parts": {
+    "opening": {
+      "en": [
+        "You asked: “{question}” Here is what the cards reveal about {focus} {time}.",
+        "Your question is “{question}” Let’s look at {focus} {time}."
+      ],
+      "km": [
+        "អ្នកបានសួរថា «{question}» នេះជាអ្វីដែលសន្លឹកបៀបង្ហាញអំពី{focus} {time}។",
+        "សំណួររបស់អ្នកគឺ «{question}» តោះមើល{focus} {time}។"
+      ]
+    },
+    "strength": {
+      "en": [
+        "Born in the year of the {animal}: {strength}",
+        "Your {animal} nature shines here. {strength}"
+      ],
+      "km": [
+        "អ្នកកើតឆ្នាំ{animal}៖ {strength}",
+        "ចរិតឆ្នាំ{animal}របស់អ្នកលេចធ្លោនៅទីនេះ។ {strength}"
+      ]
+    },
+    "present": {
+      "en": [
+        "{card1} shows where you stand: {present}",
+        "In the Present position, {card1} says: {present}"
+      ],
+      "km": [
+        "{card1} បង្ហាញពីស្ថានភាពបច្ចុប្បន្នរបស់អ្នក៖ {present}",
+        "នៅទីតាំងបច្ចុប្បន្ន {card1} ប្រាប់ថា៖ {present}"
+      ]
+    },
+    "challenge": {
+      "en": [
+        "{card2} names your challenge: {challenge}",
+        "The challenge comes from {card2}: {challenge}"
+      ],
+      "km": [
+        "{card2} បង្ហាញពីបញ្ហាប្រឈមរបស់អ្នក៖ {challenge}",
+        "បញ្ហាប្រឈមមកពី {card2}៖ {challenge}"
+      ]
+    },
+    "outcome": {
+      "en": [
+        "{card3} shows where things are heading {time}: {outcome}"
+      ],
+      "km": [
+        "{card3} បង្ហាញពីទិសដៅដែលអ្វីៗកំពុងឆ្ពោះទៅ {time}៖ {outcome}"
+      ]
+    },
+    "advice": {
+      "en": [
+        "A word for the {animal}: {advice}",
+        "Remember, {animal}: {advice}"
+      ],
+      "km": [
+        "ពាក្យណែនាំសម្រាប់អ្នកឆ្នាំ{animal}៖ {advice}",
+        "សូមចងចាំ អ្នកឆ្នាំ{animal}៖ {advice}"
+      ]
+    }
+  },
+  "theme": {
+    "en": {
+      "MAJ": "Two or more Major cards appeared, so this is an important period with lessons that will matter for a long time.",
+      "WAN": "Your cards lean toward Wands: energy, ambition and action are the heart of this reading.",
+      "CUP": "Your cards lean toward Cups: feelings and relationships are the heart of this reading.",
+      "SWO": "Your cards lean toward Swords: thoughts, choices and clear communication are the heart of this reading.",
+      "PEN": "Your cards lean toward Pentacles: practical matters like work, money and daily life are the heart of this reading.",
+      "MIX": "Your cards come from different areas of life, so several parts of your situation are connected."
+    },
+    "km": {
+      "MAJ": "មានសន្លឹកធំពីរ ឬច្រើនជាងនេះ ដូច្នេះនេះជារយៈពេលសំខាន់ ដែលមានមេរៀនមានតម្លៃយូរអង្វែង។",
+      "WAN": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាដំបង៖ ថាមពល មហិច្ឆតា និងសកម្មភាព ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
+      "CUP": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាផ្តិល៖ អារម្មណ៍ និងទំនាក់ទំនង ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
+      "SWO": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាដាវ៖ គំនិត ជម្រើស និងការប្រាស្រ័យទាក់ទងច្បាស់លាស់ ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
+      "PEN": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាកាក់៖ រឿងជាក់ស្តែងដូចជា ការងារ លុយកាក់ និងជីវិតប្រចាំថ្ងៃ ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
+      "MIX": "សន្លឹកបៀរបស់អ្នកមកពីផ្នែកផ្សេងៗនៃជីវិត ដូច្នេះផ្នែកជាច្រើននៃស្ថានភាពរបស់អ្នកមានទំនាក់ទំនងគ្នា។"
+    }
+  },
+  "tone": {
+    "bright": {
+      "en": "The outlook is bright; keep going with confidence.",
+      "km": "ទិដ្ឋភាពខាងមុខភ្លឺស្វាង។ សូមបន្តទៅមុខដោយទំនុកចិត្ត។"
+    },
+    "steady": {
+      "en": "The path ahead is steady; patient effort will shape the result.",
+      "km": "ផ្លូវខាងមុខមានស្ថិរភាព។ ការខិតខំដោយអត់ធ្មត់នឹងកំណត់លទ្ធផល។"
+    },
+    "testing": {
+      "en": "The path asks for care, but every difficulty here carries a lesson that makes you stronger.",
+      "km": "ផ្លូវនេះទាមទារការប្រុងប្រយ័ត្ន ប៉ុន្តែរាល់ការលំបាកនៅទីនេះ មានមេរៀនដែលធ្វើឱ្យអ្នករឹងមាំជាងមុន។"
+    }
+  },
+  "disclaimer": {
+    "en": "This reading is for reflection and entertainment. For important decisions about health, money or the law, please talk to a qualified professional.",
+    "km": "ការទស្សន៍ទាយនេះសម្រាប់ការពិចារណា និងការកម្សាន្តប៉ុណ្ណោះ។ សម្រាប់ការសម្រេចចិត្តសំខាន់ៗទាក់ទងនឹងសុខភាព លុយកាក់ ឬច្បាប់ សូមពិគ្រោះជាមួយអ្នកជំនាញ។"
+  }
+}

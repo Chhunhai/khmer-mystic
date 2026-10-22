@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Khmer Mystic – Prototype</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Kantumruy+Pro:wght@400;500;600&family=Moul&display=swap">
+<style>
+:root{
+  --bg:#F3EBDD; --panel:#FBF6EC; --ink:#14203D; --muted:#5A5446; --gold:#8A6A2B; --line:rgba(138,106,43,.35); --sel:rgba(138,106,43,.12);
+  --card-bg:#0F1A33; --card-gold:#C9A45C; --card-ink:#F3EBDD;
+  color-scheme: light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0F1A33; --panel:#132042; --ink:#F3EBDD; --muted:#B9B2A3; --gold:#C9A45C; --line:rgba(201,164,92,.35); --sel:rgba(201,164,92,.14);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0F1A33; --panel:#132042; --ink:#F3EBDD; --muted:#B9B2A3; --gold:#C9A45C; --line:rgba(201,164,92,.35); --sel:rgba(201,164,92,.14);
+  color-scheme: dark;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px);height:100%}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);font-family:"Kantumruy Pro",system-ui,sans-serif;font-size:16px;line-height:1.55}
+:lang(km){line-height:1.75}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.app{max-width:480px;margin:0 auto;padding:16px 20px 40px}
+.top{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:44px}
+.back{background:none;border:0;padding:8px 4px;color:var(--gold);cursor:pointer;font-size:15px}
+.back[hidden]{visibility:hidden;display:block}
+.step{font-size:13px;color:var(--muted)}
+.lang{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden}
+.lang button{background:none;border:0;padding:6px 12px;font-size:13px;cursor:pointer;color:var(--muted)}
+.lang button[aria-pressed="true"]{background:var(--sel);color:var(--ink);font-weight:600}
+h1,h2{font-family:"Cinzel",Georgia,serif;font-weight:700;color:var(--gold);margin:0}
+:lang(km) h2{font-family:"Moul","Kantumruy Pro",serif;font-weight:400;font-size:20px;line-height:1.8}
+h2{font-size:24px;letter-spacing:.02em;margin-top:12px}
+.hint{color:var(--muted);font-size:14px;margin:6px 0 18px}
+/* welcome */
+.hero{text-align:center;padding:36px 0 8px}
+.hero h1{font-size:44px;line-height:1.05;letter-spacing:.03em}
+.hero .tag{margin:12px 0 28px;color:var(--muted)}
+.hero .lotus{width:72px;height:auto;margin:0 auto 18px;display:block}
+.primary{display:block;width:100%;padding:15px 20px;border-radius:999px;border:0;background:var(--gold);color:var(--bg);font-weight:600;font-size:17px;cursor:pointer}
+.primary:disabled{opacity:.45;cursor:default}
+.ghost{display:block;width:100%;padding:13px 20px;border-radius:999px;border:1px solid var(--gold);background:none;color:var(--gold);font-weight:600;cursor:pointer;margin-top:12px}
+.langpick{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:8px 0 28px}
+.langpick button{padding:18px 8px;border:1px solid var(--line);border-radius:14px;background:var(--panel);cursor:pointer;font-size:18px}
+.langpick button[aria-pressed="true"]{border-color:var(--gold);background:var(--sel);font-weight:600}
+.label{font-size:14px;color:var(--muted);margin-bottom:8px}
+/* zodiac */
+.zgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.zgrid button{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px 4px 10px;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:2px}
+.zgrid .em{font-size:30px;line-height:1.2}
+.zgrid .n{font-weight:600;font-size:15px}
+.zgrid .s{font-size:12px;color:var(--muted)}
+.zgrid button[aria-pressed="true"]{border-color:var(--gold);background:var(--sel)}
+/* lists */
+.list{display:flex;flex-direction:column;gap:8px}
+.list button{display:flex;justify-content:space-between;align-items:center;gap:12px;text-align:left;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;cursor:pointer}
+.list button[aria-pressed="true"]{border-color:var(--gold);background:var(--sel)}
+.list .sub{font-size:13px;color:var(--muted)}
+.chev{color:var(--gold)}
+.tgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.tgrid button{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 10px;cursor:pointer;text-align:center}
+.tgrid button[aria-pressed="true"]{border-color:var(--gold);background:var(--sel)}
+.tgrid .n{font-weight:600}
+.tgrid .s{font-size:13px;color:var(--muted)}
+.foot{margin-top:24px}
+/* cards */
+.deck{position:relative;height:200px;margin:12px auto 20px;width:130px}
+.deck .cb{position:absolute;inset:0;transition:transform .5s ease}
+.deck.shuffle .cb:nth-child(1){animation:sh1 .9s ease}
+.deck.shuffle .cb:nth-child(2){animation:sh2 .9s ease}
+.deck.shuffle .cb:nth-child(3){animation:sh3 .9s ease}
+@keyframes sh1{30%{transform:translateX(-46px) rotate(-8deg)}60%{transform:translateX(30px) rotate(5deg)}}
+@keyframes sh2{30%{transform:translateX(46px) rotate(8deg)}60%{transform:translateX(-30px) rotate(-5deg)}}
+@keyframes sh3{50%{transform:translateY(-14px)}}
+.slots{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.slot{display:flex;flex-direction:column;align-items:center;gap:8px}
+.slot .pos{font-size:13px;color:var(--muted);text-align:center}
+.flip{width:100%;aspect-ratio:7/12;perspective:900px;background:none;border:0;padding:0;cursor:pointer}
+.flip .inner{position:relative;width:100%;height:100%;transition:transform .7s cubic-bezier(.3,.7,.2,1);transform-style:preserve-3d}
+.flip.open .inner{transform:rotateY(180deg)}
+.flip .side{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden}
+.flip .front{transform:rotateY(180deg)}
+.flip:disabled{cursor:default}
+.cb,.cf{width:100%;height:100%;border-radius:10px;background:var(--card-bg);border:1.5px solid var(--card-gold);position:relative;overflow:hidden}
+.cb svg{width:100%;height:100%;display:block}
+.cf{display:flex;flex-direction:column;align-items:center;justify-content:space-between;padding:10% 6% 9%;color:var(--card-ink);text-align:center}
+.cf::before{content:"";position:absolute;inset:5px;border:1px solid rgba(201,164,92,.55);border-radius:7px;pointer-events:none}
+.cf .num{font-family:"Cinzel",Georgia,serif;font-weight:700;color:var(--card-gold);font-size:13px}
+.cf svg{width:62%;height:auto}
+.cf .nm{font-family:"Cinzel",Georgia,serif;font-weight:700;color:var(--card-gold);font-size:12px;line-height:1.2}
+:lang(km) .cf .nm{font-family:"Kantumruy Pro",sans-serif;font-weight:600;font-size:13px;line-height:1.5}
+.tapnote{text-align:center;color:var(--muted);font-size:14px;margin:16px 0 0;min-height:22px}
+/* reading */
+.mini{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:16px 0 8px}
+.mini .cf{aspect-ratio:7/12;height:auto}
+.mini .pos{font-size:12px;color:var(--muted);text-align:center;margin-top:6px}
+.reading p{margin:0 0 14px}
+.reading .lead{font-size:17px}
+.reading .cardp b{color:var(--gold)}
+.reading .theme{border-left:2px solid var(--gold);padding-left:14px}
+.disc{font-size:13px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px;margin-top:6px}
+.proto{font-size:12px;color:var(--muted);text-align:center;margin-top:28px}
+@media (prefers-reduced-motion: reduce){
+  .flip .inner{transition:none}
+  .deck.shuffle .cb{animation:none !important}
+}
+</style>
+</head>
+<body>
+<div class="app" id="app"></div>
+<script>
+(function(){
+/* ---------- content ---------- */
+const UI = {
+ en:{tag:"Tarot and Khmer wisdom",chooseLang:"Choose your language",start:"Start your reading",back:"Back",step:n=>`Step ${n} of 5`,
+  zTitle:"Your birth year animal",zHint:"Born between January and mid-April? Choose the animal of the year before, because the Khmer year begins at Khmer New Year.",
+  topicTitle:"Choose a topic",qTitle:"Choose your question",tTitle:"Choose a time frame",tHint:"How far ahead should the cards look?",
+  next:"Continue",dTitle:"Draw three cards",dHint:"Hold your question in mind, then shuffle.",draw:"Shuffle and draw",tap:"Tap each card to turn it over",
+  see:"See my reading",rTitle:"Your reading",again:"Ask another question",restart:"Start over",
+  pos:["Present","Challenge","Outcome"],
+  times:[["Present","Now"],["Near future","1–3 months"],["Mid future","3–6 months"],["Long future","6+ months"]],
+  proto:"Prototype · readings are built from the reviewed content documents"},
+ km:{tag:"តារ៉ូ និងប្រាជ្ញាខ្មែរ",chooseLang:"ជ្រើសរើសភាសា",start:"ចាប់ផ្តើមការទស្សន៍ទាយ",back:"ត្រឡប់ក្រោយ",step:n=>`ជំហាន ${kn(n)} នៃ ៥`,
+  zTitle:"ឆ្នាំកំណើតរបស់អ្នក",zHint:"កើតចន្លោះខែមករា ដល់ពាក់កណ្តាលខែមេសា? សូមជ្រើសរើសសត្វនៃឆ្នាំមុន ព្រោះឆ្នាំខ្មែរចាប់ផ្តើមនៅបុណ្យចូលឆ្នាំខ្មែរ។",
+  topicTitle:"ជ្រើសរើសប្រធានបទ",qTitle:"ជ្រើសរើសសំណួររបស់អ្នក",tTitle:"ជ្រើសរើសរយៈពេល",tHint:"តើចង់ឱ្យសន្លឹកបៀមើលទៅមុខឆ្ងាយប៉ុណ្ណា?",
+  next:"បន្ត",dTitle:"ដកសន្លឹកបៀបី",dHint:"សូមគិតពីសំណួររបស់អ្នក រួចចុចសាប់បៀ។",draw:"សាប់ និងដកបៀ",tap:"ចុចលើសន្លឹកបៀនីមួយៗ ដើម្បីបើក",
+  see:"មើលលទ្ធផល",rTitle:"លទ្ធផលនៃការទស្សន៍ទាយ",again:"សួរសំណួរផ្សេងទៀត",restart:"ចាប់ផ្តើមឡើងវិញ",
+  pos:["បច្ចុប្បន្ន","បញ្ហាប្រឈម","លទ្ធផល"],
+  times:[["បច្ចុប្បន្ន","ឥឡូវនេះ"],["អនាគតជិត","១–៣ ខែ"],["អនាគតកណ្តាល","៣–៦ ខែ"],["អនាគតឆ្ងាយ","៦ ខែឡើងទៅ"]],
+  proto:"គំរូសាកល្បង · ការទស្សន៍ទាយបង្កើតចេញពីឯកសារខ្លឹមសារដែលបានពិនិត្យ"}
+};
+const TIME = {en:["right now","over the next one to three months","over the next three to six months","in the longer term, six months and beyond"],
+ km:["នៅពេលនេះ","ក្នុងរយៈពេល ១ ទៅ ៣ ខែខាងមុខ","ក្នុងរយៈពេល ៣ ទៅ ៦ ខែខាងមុខ","ក្នុងរយៈពេលវែង ចាប់ពី ៦ ខែឡើងទៅ"]};
+
+const ZOD = [
+ ["RAT","Rat","ជូត","🐀","Your quick mind helps you spot opportunities others miss.","Think before acting on every idea; choose the best one.","គំនិតរហ័សរបស់អ្នក ជួយឱ្យអ្នកមើលឃើញឱកាសដែលអ្នកដទៃមើលរំលង។","សូមគិតមុននឹងធ្វើតាមគ្រប់គំនិត ហើយជ្រើសរើសគំនិតដែលល្អបំផុត។"],
+ ["OX","Ox","ឆ្លូវ","🐂","Your patience and steady effort build results that last.","Stay open to change; not every plan must stay the same.","ការអត់ធ្មត់ និងការខិតខំជាប់លាប់របស់អ្នក កសាងលទ្ធផលដែលស្ថិតស្ថេរ។","សូមបើកចិត្តទទួលការផ្លាស់ប្តូរ។ មិនមែនគ្រប់ផែនការត្រូវតែនៅដដែលនោះទេ។"],
+ ["TIG","Tiger","ខាល","🐅","Your courage gives you the strength to face any challenge.","Let calm thinking guide your boldness.","ភាពក្លាហានរបស់អ្នក ផ្តល់កម្លាំងដើម្បីប្រឈមនឹងគ្រប់បញ្ហា។","សូមឱ្យការគិតដ៏ស្ងប់ស្ងាត់ ណែនាំភាពក្លាហានរបស់អ្នក។"],
+ ["RAB","Rabbit","ថោះ","🐇","Your gentle nature brings peace and wins others’ trust.","Speak up for what you need; kindness includes yourself.","ចរិតស្លូតបូតរបស់អ្នក នាំមកនូវសន្តិភាព និងទទួលបានការទុកចិត្តពីអ្នកដទៃ។","សូមហ៊ាននិយាយពីតម្រូវការរបស់អ្នក។ ចិត្តល្អក៏ត្រូវមានចំពោះខ្លួនឯងដែរ។"],
+ ["DRA","Dragon","រោង","🐉","Your energy and vision inspire the people around you.","Listen to others’ ideas; great leaders also follow.","ថាមពល និងចក្ខុវិស័យរបស់អ្នក បំផុសទឹកចិត្តមនុស្សនៅជុំវិញ។","សូមស្តាប់គំនិតអ្នកដទៃ។ អ្នកដឹកនាំដ៏ល្អក៏ចេះធ្វើតាមដែរ។"],
+ ["SNA","Snake","ម្សាញ់","🐍","Your intuition and careful thinking reveal what others overlook.","Share your thoughts; don’t keep everything hidden.","វិចារណញាណ និងការគិតយ៉ាងហ្មត់ចត់របស់អ្នក បង្ហាញអ្វីដែលអ្នកដទៃមើលរំលង។","សូមចែករំលែកគំនិតរបស់អ្នក ហើយកុំលាក់ទុកអ្វីៗទាំងអស់។"],
+ ["HOR","Horse","មមី","🐎","Your energy and love of freedom open new paths.","Finish what you start before rushing to the next thing.","ថាមពល និងការស្រឡាញ់សេរីភាពរបស់អ្នក បើកផ្លូវថ្មីៗ។","សូមបញ្ចប់អ្វីដែលអ្នកចាប់ផ្តើម មុននឹងប្រញាប់ទៅរឿងបន្ទាប់។"],
+ ["GOA","Goat","មមែ","🐐","Your creativity and caring heart bring beauty to your life.","Trust yourself more and worry less about others’ opinions.","ការច្នៃប្រឌិត និងចិត្តយកចិត្តទុកដាក់របស់អ្នក នាំសម្រស់មកក្នុងជីវិត។","សូមជឿជាក់លើខ្លួនឯងឱ្យច្រើន ហើយកុំបារម្ភពេកពីមតិអ្នកដទៃ។"],
+ ["MON","Monkey","វក","🐒","Your cleverness finds solutions others cannot see.","Stay focused and honest; playfulness works best with patience.","ភាពឆ្លាតវៃរបស់អ្នក រកឃើញដំណោះស្រាយដែលអ្នកដទៃមើលមិនឃើញ។","សូមផ្តោតអារម្មណ៍ និងស្មោះត្រង់។ ភាពរីករាយល្អបំផុតនៅពេលមានការអត់ធ្មត់។"],
+ ["ROO","Rooster","រកា","🐓","Your honesty and hard work earn you respect.","Soften criticism with kindness.","ភាពស្មោះត្រង់ និងការខិតខំរបស់អ្នក ទទួលបានការគោរព។","សូមបន្ទន់ការរិះគន់ដោយចិត្តល្អ។"],
+ ["DOG","Dog","ច","🐕","Your loyalty and sense of fairness make you deeply trusted.","Let go of worry; not everything needs your protection.","ភាពស្មោះស្ម័គ្រ និងការយល់ពីយុត្តិធម៌របស់អ្នក ធ្វើឱ្យគេទុកចិត្តអ្នកយ៉ាងខ្លាំង។","សូមលែងការព្រួយបារម្ភ។ មិនមែនអ្វីៗទាំងអស់ត្រូវការការការពារពីអ្នកនោះទេ។"],
+ ["PIG","Pig","កុរ","🐖","Your generous heart attracts good fortune and good friends.","Be careful not to give more than you can afford.","ចិត្តសប្បុរសរបស់អ្នក ទាក់ទាញសំណាងល្អ និងមិត្តល្អ។","សូមប្រយ័ត្នកុំផ្តល់ឱ្យលើសពីអ្វីដែលអ្នកអាចធ្វើបាន។"]
+];
+
+const TOPICS = [
+ {id:"LF",en:"Life & Future",km:"ជីវិត និងអនាគត",fe:"your path in life",fk:"ផ្លូវជីវិតរបស់អ្នក",ce:"Trust your path and take one step at a time.",ck:"សូមជឿជាក់លើផ្លូវរបស់អ្នក ហើយបោះជំហានម្តងមួយៗ។",q:[
+  ["What does my current path look like?","តើផ្លូវជីវិតរបស់ខ្ញុំបច្ចុប្បន្នមានសភាពយ៉ាងដូចម្តេច?"],["What should I focus on right now?","តើខ្ញុំគួរផ្តោតលើអ្វីនៅពេលនេះ?"],["What challenges might I face soon?","តើខ្ញុំអាចជួបបញ្ហាប្រឈមអ្វីខ្លះក្នុងពេលឆាប់ៗនេះ?"],["What opportunities are coming my way?","តើមានឱកាសអ្វីខ្លះកំពុងមករកខ្ញុំ?"],["What can I do to improve my life?","តើខ្ញុំអាចធ្វើអ្វីដើម្បីកែលម្អជីវិតរបស់ខ្ញុំ?"],["What is the likely outcome of my current situation?","តើស្ថានភាពបច្ចុប្បន្នរបស់ខ្ញុំទំនងជានឹងមានលទ្ធផលយ៉ាងណា?"],["What advice do I need to hear?","តើខ្ញុំត្រូវការដំបូន្មានអ្វី?"],["What energy surrounds me now?","តើថាមពលអ្វីកំពុងនៅជុំវិញខ្ញុំឥឡូវនេះ?"],["What should I avoid?","តើខ្ញុំគួរជៀសវាងអ្វី?"],["Where is my life heading?","តើជីវិតរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"]]},
+ {id:"LR",en:"Love & Relationships",km:"ស្នេហា និងទំនាក់ទំនង",fe:"your love life",fk:"ជីវិតស្នេហារបស់អ្នក",ce:"Lead with honesty and kindness, and love will follow.",ck:"សូមដើរនាំមុខដោយភាពស្មោះត្រង់ និងចិត្តល្អ នោះសេចក្តីស្រឡាញ់នឹងមកតាម។",q:[
+  ["What is the current energy of my love life?","តើជីវិតស្នេហារបស់ខ្ញុំបច្ចុប្បន្នមានសភាពយ៉ាងដូចម្តេច?"],["How can I understand my partner better?","តើខ្ញុំអាចយល់ពីដៃគូរបស់ខ្ញុំកាន់តែច្បាស់ដោយរបៀបណា?"],["Is new love coming into my life?","តើស្នេហាថ្មីនឹងចូលមកក្នុងជីវិតខ្ញុំឬទេ?"],["What is blocking me from finding love?","តើអ្វីកំពុងរារាំងខ្ញុំពីការស្វែងរកស្នេហា?"],["How can I strengthen my relationship?","តើខ្ញុំអាចពង្រឹងទំនាក់ទំនងរបស់ខ្ញុំដោយរបៀបណា?"],["What lesson is this relationship teaching me?","តើទំនាក់ទំនងនេះកំពុងបង្រៀនមេរៀនអ្វីដល់ខ្ញុំ?"],["How can I heal from a past relationship?","តើខ្ញុំអាចជាសះស្បើយពីទំនាក់ទំនងចាស់ដោយរបៀបណា?"],["What should I know before making a commitment?","តើខ្ញុំគួរដឹងអ្វីខ្លះមុននឹងប្តេជ្ញាចិត្ត?"],["How can we communicate better?","តើយើងអាចប្រាស្រ័យទាក់ទងគ្នាកាន់តែល្អដោយរបៀបណា?"],["Where is my love life heading?","តើជីវិតស្នេហារបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"]]},
+ {id:"CW",en:"Career & Work",km:"អាជីព និងការងារ",fe:"your career",fk:"អាជីពរបស់អ្នក",ce:"Steady effort and clear goals will carry your work forward.",ck:"ការខិតខំជាប់លាប់ និងគោលដៅច្បាស់លាស់ នឹងនាំការងាររបស់អ្នកទៅមុខ។",q:[
+  ["What does my career path look like now?","តើអាជីពរបស់ខ្ញុំបច្ចុប្បន្នមានសភាពយ៉ាងណា?"],["Is this a good time to look for a new job?","តើនេះជាពេលល្អក្នុងការស្វែងរកការងារថ្មីឬទេ?"],["How can I grow in my current job?","តើខ្ញុំអាចរីកចម្រើនក្នុងការងារបច្ចុប្បន្នដោយរបៀបណា?"],["What is holding back my career?","តើអ្វីកំពុងរារាំងការរីកចម្រើននៃអាជីពរបស់ខ្ញុំ?"],["How can I improve relations with my colleagues?","តើខ្ញុំអាចកែលម្អទំនាក់ទំនងជាមួយមិត្តរួមការងារដោយរបៀបណា?"],["What skills should I develop?","តើខ្ញុំគួរអភិវឌ្ឍជំនាញអ្វីខ្លះ?"],["What can I expect from an upcoming interview or promotion?","តើខ្ញុំអាចរំពឹងអ្វីពីការសម្ភាសន៍ ឬការដំឡើងតំណែងខាងមុខ?"],["How can I find more meaning in my work?","តើខ្ញុំអាចរកឃើញអត្ថន័យកាន់តែច្រើនក្នុងការងាររបស់ខ្ញុំដោយរបៀបណា?"],["How can I handle stress at work?","តើខ្ញុំអាចដោះស្រាយភាពតានតឹងនៅកន្លែងការងារដោយរបៀបណា?"],["Where is my career heading?","តើអាជីពរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"]]},
+ {id:"MF",en:"Money & Finance",km:"លុយកាក់ និងហិរញ្ញវត្ថុ",fe:"your finances",fk:"ហិរញ្ញវត្ថុរបស់អ្នក",ce:"Careful choices today build security for tomorrow.",ck:"ជម្រើសដោយប្រុងប្រយ័ត្ននៅថ្ងៃនេះ កសាងសុវត្ថិភាពសម្រាប់ថ្ងៃស្អែក។",q:[
+  ["What is my current financial situation like?","តើស្ថានភាពហិរញ្ញវត្ថុរបស់ខ្ញុំបច្ចុប្បន្នយ៉ាងដូចម្តេច?"],["How can I improve my money situation?","តើខ្ញុំអាចកែលម្អស្ថានភាពលុយកាក់របស់ខ្ញុំដោយរបៀបណា?"],["What spending habits should I change?","តើទម្លាប់ចំណាយអ្វីខ្លះដែលខ្ញុំគួរកែប្រែ?"],["How can I build better saving habits?","តើខ្ញុំអាចបង្កើតទម្លាប់សន្សំប្រាក់ឱ្យកាន់តែល្អដោយរបៀបណា?"],["What new sources of income might open up?","តើប្រភពចំណូលថ្មីអ្វីខ្លះអាចនឹងបើកឡើង?"],["How can I reduce my money worries?","តើខ្ញុំអាចកាត់បន្ថយការព្រួយបារម្ភអំពីលុយកាក់ដោយរបៀបណា?"],["What should I be careful about with money?","តើខ្ញុំគួរប្រុងប្រយ័ត្នអ្វីខ្លះទាក់ទងនឹងលុយកាក់?"],["Is now a good time for a big purchase?","តើឥឡូវនេះជាពេលល្អសម្រាប់ការទិញរបស់ធំឬទេ?"],["How can I plan for financial security?","តើខ្ញុំអាចរៀបចំផែនការដើម្បីសុវត្ថិភាពហិរញ្ញវត្ថុដោយរបៀបណា?"],["Where are my finances heading?","តើហិរញ្ញវត្ថុរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"]]},
+ {id:"BI",en:"Business & Investment",km:"អាជីវកម្ម និងការវិនិយោគ",fe:"your business",fk:"អាជីវកម្មរបស់អ្នក",ce:"Plan wisely, check the facts, and grow step by step.",ck:"សូមរៀបចំផែនការដោយឈ្លាសវៃ ពិនិត្យការពិត ហើយរីកចម្រើនមួយជំហានម្តងៗ។",q:[
+  ["What is the current state of my business?","តើអាជីវកម្មរបស់ខ្ញុំបច្ចុប្បន្នមានស្ថានភាពយ៉ាងណា?"],["Is this a good time to start a new business?","តើនេះជាពេលល្អក្នុងការចាប់ផ្តើមអាជីវកម្មថ្មីឬទេ?"],["How can I grow my business?","តើខ្ញុំអាចពង្រីកអាជីវកម្មរបស់ខ្ញុំដោយរបៀបណា?"],["What risks should I watch for?","តើខ្ញុំគួរប្រុងប្រយ័ត្នចំពោះហានិភ័យអ្វីខ្លះ?"],["Is this partnership a good fit for me?","តើភាពជាដៃគូនេះសមស្របសម្រាប់ខ្ញុំឬទេ?"],["How can I attract more customers?","តើខ្ញុំអាចទាក់ទាញអតិថិជនបន្ថែមដោយរបៀបណា?"],["What should I consider before investing?","តើខ្ញុំគួរពិចារណាអ្វីខ្លះមុននឹងវិនិយោគ?"],["How can I improve teamwork in my business?","តើខ្ញុំអាចកែលម្អការងារជាក្រុមក្នុងអាជីវកម្មរបស់ខ្ញុំដោយរបៀបណា?"],["What new opportunity should I explore?","តើខ្ញុំគួរស្វែងយល់ពីឱកាសថ្មីអ្វីខ្លះ?"],["Where is my business heading?","តើអាជីវកម្មរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"]]},
+ {id:"FF",en:"Family & Friendship",km:"គ្រួសារ និងមិត្តភាព",fe:"your family and friendships",fk:"គ្រួសារ និងមិត្តភាពរបស់អ្នក",ce:"Patience and open hearts keep your bonds strong.",ck:"ការអត់ធ្មត់ និងចិត្តទូលាយ រក្សាចំណងរបស់អ្នកឱ្យរឹងមាំ។",q:[
+  ["What is the atmosphere in my family right now?","តើបរិយាកាសក្នុងគ្រួសាររបស់ខ្ញុំឥឡូវនេះយ៉ាងដូចម្តេច?"],["How can I bring more harmony at home?","តើខ្ញុំអាចនាំភាពសុខដុមមកក្នុងផ្ទះកាន់តែច្រើនដោយរបៀបណា?"],["How can I resolve a family disagreement?","តើខ្ញុំអាចដោះស្រាយការខ្វែងគំនិតក្នុងគ្រួសារដោយរបៀបណា?"],["How can I support a family member?","តើខ្ញុំអាចគាំទ្រសមាជិកគ្រួសារម្នាក់ដោយរបៀបណា?"],["What does this friendship mean for me?","តើមិត្តភាពនេះមានន័យយ៉ាងណាចំពោះខ្ញុំ?"],["How can I make new friends?","តើខ្ញុំអាចរកមិត្តភក្តិថ្មីដោយរបៀបណា?"],["How can I repair a broken friendship?","តើខ្ញុំអាចជួសជុលមិត្តភាពដែលបាក់បែកដោយរបៀបណា?"],["Who can I rely on right now?","តើខ្ញុំអាចពឹងពាក់លើនរណាបាននៅពេលនេះ?"],["How can I set healthy boundaries?","តើខ្ញុំអាចកំណត់ព្រំដែនដ៏ល្អក្នុងទំនាក់ទំនងដោយរបៀបណា?"],["Where are my family relationships heading?","តើទំនាក់ទំនងក្នុងគ្រួសាររបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"]]},
+ {id:"WB",en:"Wellbeing",km:"សុខុមាលភាព",fe:"your inner balance",fk:"តុល្យភាពក្នុងចិត្តរបស់អ្នក",ce:"Be gentle with yourself; small habits bring lasting peace.",ck:"សូមទន់ភ្លន់ចំពោះខ្លួនឯង។ ទម្លាប់តូចៗនាំមកនូវភាពស្ងប់យូរអង្វែង។",q:[
+  ["What does my inner balance look like now?","តើតុល្យភាពក្នុងចិត្តរបស់ខ្ញុំឥឡូវនេះយ៉ាងដូចម្តេច?"],["How can I find more peace in my daily life?","តើខ្ញុំអាចរកភាពស្ងប់ក្នុងជីវិតប្រចាំថ្ងៃកាន់តែច្រើនដោយរបៀបណា?"],["What is draining my energy?","តើអ្វីកំពុងបឺតយកថាមពលរបស់ខ្ញុំ?"],["How can I take better care of myself?","តើខ្ញុំអាចថែរក្សាខ្លួនឯងកាន់តែល្អដោយរបៀបណា?"],["What habit would help me feel better?","តើទម្លាប់អ្វីនឹងជួយឱ្យខ្ញុំមានអារម្មណ៍ល្អប្រសើរ?"],["How can I balance work and rest?","តើខ្ញុំអាចរក្សាតុល្យភាពរវាងការងារ និងការសម្រាកដោយរបៀបណា?"],["What should I let go of?","តើខ្ញុំគួរលែងប្រកាន់យកអ្វី?"],["How can I build more self-confidence?","តើខ្ញុំអាចពង្រឹងទំនុកចិត្តលើខ្លួនឯងដោយរបៀបណា?"],["What brings me joy right now?","តើអ្វីនាំមកនូវសេចក្តីរីករាយដល់ខ្ញុំនៅពេលនេះ?"],["Where is my inner journey heading?","តើដំណើរក្នុងចិត្តរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"]]},
+ {id:"EG",en:"Education & Personal Growth",km:"ការសិក្សា និងការរីកចម្រើនផ្ទាល់ខ្លួន",fe:"your learning and growth",fk:"ការសិក្សា និងការរីកចម្រើនរបស់អ្នក",ce:"Keep learning; every lesson moves you forward.",ck:"សូមបន្តរៀនសូត្រ។ គ្រប់មេរៀនជួយឱ្យអ្នកឆ្ពោះទៅមុខ។",q:[
+  ["What does my learning path look like now?","តើផ្លូវនៃការសិក្សារបស់ខ្ញុំឥឡូវនេះយ៉ាងដូចម្តេច?"],["How can I study more effectively?","តើខ្ញុំអាចរៀនបានកាន់តែមានប្រសិទ្ធភាពដោយរបៀបណា?"],["What can I expect from an upcoming exam?","តើខ្ញុំអាចរំពឹងអ្វីពីការប្រឡងខាងមុខ?"],["Which skill should I learn next?","តើខ្ញុំគួររៀនជំនាញអ្វីបន្ទាប់?"],["What is holding back my growth?","តើអ្វីកំពុងរារាំងការរីកចម្រើនរបស់ខ្ញុំ?"],["How can I stay motivated?","តើខ្ញុំអាចរក្សាកម្លាំងចិត្តដោយរបៀបណា?"],["Is this a good time to start a new course?","តើនេះជាពេលល្អក្នុងការចាប់ផ្តើមវគ្គសិក្សាថ្មីឬទេ?"],["What talent should I develop?","តើខ្ញុំគួរអភិវឌ្ឍទេពកោសល្យអ្វី?"],["How can I become a better version of myself?","តើខ្ញុំអាចក្លាយជាខ្លួនឯងដែលល្អជាងមុនដោយរបៀបណា?"],["Where is my personal growth heading?","តើការរីកចម្រើនផ្ទាល់ខ្លួនរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"]]},
+ {id:"LO",en:"Luck & Opportunities",km:"សំណាង និងឱកាស",fe:"your luck and opportunities",fk:"សំណាង និងឱកាសរបស់អ្នក",ce:"Stay open and ready; good fortune favors those who act.",ck:"សូមបើកចិត្ត និងត្រៀមខ្លួន។ សំណាងល្អតែងមករកអ្នកដែលហ៊ានធ្វើ។",q:[
+  ["What luck surrounds me now?","តើសំណាងអ្វីកំពុងនៅជុំវិញខ្ញុំឥឡូវនេះ?"],["What opportunity should I not miss?","តើឱកាសអ្វីដែលខ្ញុំមិនគួររំលង?"],["How can I attract more good luck?","តើខ្ញុំអាចទាក់ទាញសំណាងល្អកាន់តែច្រើនដោយរបៀបណា?"],["What is blocking my good fortune?","តើអ្វីកំពុងរារាំងសំណាងល្អរបស់ខ្ញុំ?"],["When is a lucky time for me to act?","តើពេលណាជាពេលសំណាងសម្រាប់ខ្ញុំក្នុងការចាប់ផ្តើមធ្វើ?"],["Who might bring good opportunities into my life?","តើនរណាអាចនាំឱកាសល្អមកក្នុងជីវិតខ្ញុំ?"],["Should I take a chance on something new?","តើខ្ញុំគួរហ៊ានសាកល្បងអ្វីដែលថ្មីឬទេ?"],["What hidden opportunity is near me?","តើមានឱកាសលាក់កំបាំងអ្វីនៅជិតខ្ញុំ?"],["How can I turn bad luck around?","តើខ្ញុំអាចប្រែក្លាយសំណាងអាក្រក់ឱ្យទៅជាល្អវិញដោយរបៀបណា?"],["Where is my luck heading?","តើសំណាងរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"]]},
+ {id:"CD",en:"Choices & Decisions",km:"ជម្រើស និងការសម្រេចចិត្ត",fe:"this decision",fk:"ការសម្រេចចិត្តនេះ",ce:"Listen to both your head and your heart, then choose with confidence.",ck:"សូមស្តាប់ទាំងគំនិត និងចិត្ត រួចជ្រើសរើសដោយទំនុកចិត្ត។",q:[
+  ["What do I need to know about this decision?","តើខ្ញុំត្រូវដឹងអ្វីខ្លះអំពីការសម្រេចចិត្តនេះ?"],["Which path should I choose?","តើខ្ញុំគួរជ្រើសរើសផ្លូវណា?"],["What happens if I move forward?","តើនឹងមានអ្វីកើតឡើងប្រសិនបើខ្ញុំបន្តទៅមុខ?"],["What happens if I wait?","តើនឹងមានអ្វីកើតឡើងប្រសិនបើខ្ញុំរង់ចាំ?"],["What is stopping me from deciding?","តើអ្វីកំពុងរារាំងខ្ញុំមិនឱ្យសម្រេចចិត្ត?"],["What does my heart really want?","តើចិត្តរបស់ខ្ញុំពិតជាចង់បានអ្វី?"],["Am I seeing the full picture?","តើខ្ញុំកំពុងមើលឃើញរូបភាពទាំងមូលឬទេ?"],["What should I consider before I decide?","តើខ្ញុំគួរពិចារណាអ្វីខ្លះមុននឹងសម្រេចចិត្ត?"],["How will this choice affect my future?","តើជម្រើសនេះនឹងប៉ះពាល់ដល់អនាគតរបស់ខ្ញុំយ៉ាងដូចម្តេច?"],["What is the wisest choice for me now?","តើជម្រើសដែលឆ្លាតវៃបំផុតសម្រាប់ខ្ញុំឥឡូវនេះគឺអ្វី?"]]}
+];
+
+/* Major: [en, km, roman, tag, enP, enC, enO, kmP, kmC, kmO] */
+const MAJ = [
+ ["The Fool","មនុស្សឆោត","0","B","You stand at a fresh beginning, open to new experiences and ready to take a first step.","Excitement may rush you past important details; look before you leap.","A brave new chapter opens, bringing growth through experience.","អ្នកកំពុងឈរនៅចំណុចចាប់ផ្តើមថ្មី បើកចិត្តទទួលបទពិសោធន៍ថ្មី និងត្រៀមបោះជំហានដំបូង។","ភាពរំភើបអាចធ្វើឱ្យអ្នកប្រញាប់ ហើយមើលរំលងចំណុចសំខាន់ៗ។ សូមពិចារណាមុននឹងសម្រេច។","ជំពូកថ្មីដ៏ក្លាហានកំពុងបើកឡើង នាំមកនូវការរីកចម្រើនតាមរយៈបទពិសោធន៍។"],
+ ["The Magician","គ្រូមន្តអាគម","I","B","You already hold the tools and talent you need; this is a time to act.","Scattered energy weakens your power; choose one goal and commit.","Clear effort turns your ideas into real results.","អ្នកមានឧបករណ៍ និងទេពកោសល្យគ្រប់គ្រាន់ហើយ។ នេះជាពេលត្រូវចាប់ផ្តើមធ្វើ។","ថាមពលដែលខ្ចាត់ខ្ចាយធ្វើឱ្យអ្នកចុះខ្សោយ។ សូមជ្រើសរើសគោលដៅមួយ ហើយប្តេជ្ញាធ្វើឱ្យសម្រេច។","ការខិតខំដ៏ច្បាស់លាស់នឹងប្រែក្លាយគំនិតរបស់អ្នកទៅជាលទ្ធផលពិតប្រាកដ។"],
+ ["The High Priestess","ព្រាហ្មណីកំពូល","II","S","Your inner voice knows more than you admit; listen in stillness.","Not everything is visible yet; avoid deciding before the truth appears.","Hidden answers come to light and guide you well.","សំឡេងក្នុងចិត្តរបស់អ្នកដឹងច្រើនជាងអ្វីដែលអ្នកទទួលស្គាល់។ សូមស្តាប់វានៅពេលស្ងប់ស្ងាត់។","មិនមែនអ្វីៗទាំងអស់សុទ្ធតែច្បាស់នៅឡើយទេ។ សូមកុំសម្រេចចិត្តមុនពេលការពិតលេចចេញ។","ចម្លើយដែលលាក់កំបាំងនឹងលេចចេញ ហើយណែនាំអ្នកបានល្អ។"],
+ ["The Empress","ព្រះមហាក្សត្រិយានី","III","B","Your life is in a fertile season; what you nurture is growing.","Giving too much to others can drain you; care for yourself too.","Patience brings comfort, beauty and a rich harvest.","ជីវិតអ្នកស្ថិតក្នុងរដូវដ៏សម្បូរ។ អ្វីដែលអ្នកថែរក្សាកំពុងលូតលាស់។","ការផ្តល់ឱ្យអ្នកដទៃច្រើនពេកអាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមថែរក្សាខ្លួនឯងផងដែរ។","ការអត់ធ្មត់នឹងនាំមកនូវភាពសុខស្រួល សម្រស់ និងផលដ៏បរិបូរណ៍។"],
+ ["The Emperor","ព្រះចក្រពត្តិ","IV","S","Order and steady leadership are needed now; take charge calmly.","Rigid control can push people away; lead with fairness.","A strong, stable foundation supports long-term success.","ពេលនេះត្រូវការសណ្តាប់ធ្នាប់ និងការដឹកនាំដ៏ខ្ជាប់ខ្ជួន។ សូមដឹកនាំដោយស្ងប់ស្ងាត់។","ការគ្រប់គ្រងតឹងរ៉ឹងពេកអាចធ្វើឱ្យមនុស្សឃ្លាតឆ្ងាយ។ សូមដឹកនាំដោយយុត្តិធម៌។","មូលដ្ឋានដ៏រឹងមាំ និងស្ថិរភាព នឹងគាំទ្រភាពជោគជ័យរយៈពេលវែង។"],
+ ["The Hierophant","គ្រូអាចារ្យ","V","S","Respected teachers, customs and proven paths can guide you now.","Following rules blindly may hold you back; keep what still serves you.","Wise advice and shared values bring security and belonging.","គ្រូដែលគួរគោរព ទំនៀមទម្លាប់ និងផ្លូវដែលបានបញ្ជាក់ហើយ អាចណែនាំអ្នកនៅពេលនេះ។","ការធ្វើតាមច្បាប់ដោយមិនគិតអាចរារាំងអ្នក។ សូមរក្សាទុកតែអ្វីដែលនៅមានប្រយោជន៍។","ដំបូន្មានដ៏ឈ្លាសវៃ និងគុណតម្លៃរួម នាំមកនូវសុវត្ថិភាព និងការរួបរួម។"],
+ ["The Lovers","គូស្នេហ៍","VI","B","An important bond or choice is at the heart of your situation.","Mixed feelings or values create doubt; choose what is true to your heart.","Honest choices bring harmony and deeper connection.","ចំណងទាក់ទង ឬជម្រើសដ៏សំខាន់មួយ ស្ថិតនៅចំកណ្តាលស្ថានភាពរបស់អ្នក។","អារម្មណ៍ ឬគុណតម្លៃខុសគ្នាបង្កើតការសង្ស័យ។ សូមជ្រើសរើសអ្វីដែលស្មោះត្រង់នឹងចិត្តអ្នក។","ជម្រើសដ៏ស្មោះត្រង់នាំមកនូវភាពសុខដុម និងទំនាក់ទំនងកាន់តែជ្រាលជ្រៅ។"],
+ ["The Chariot","រថសេះ","VII","B","You are moving forward with determination; keep your direction clear.","Opposing pulls can stall you; unite your thoughts and actions.","Focused effort carries you to a well-earned success.","អ្នកកំពុងឆ្ពោះទៅមុខដោយការតាំងចិត្ត។ សូមរក្សាទិសដៅឱ្យច្បាស់។","ការទាញទៅទិសផ្ទុយគ្នាអាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមរួបរួមគំនិត និងសកម្មភាពរបស់អ្នក។","ការខិតខំដោយផ្តោតអារម្មណ៍ នាំអ្នកទៅរកភាពជោគជ័យដែលសមនឹងទទួលបាន។"],
+ ["Strength","កម្លាំង","VIII","B","Quiet courage and kindness are your greatest power now.","Frustration may tempt you to force things; gentle persistence works better.","Calm confidence helps you overcome what once seemed hard.","ភាពក្លាហានដ៏ស្ងប់ស្ងាត់ និងសេចក្តីសប្បុរស គឺជាកម្លាំងដ៏ធំបំផុតរបស់អ្នកនៅពេលនេះ។","ការខកចិត្តអាចល្បួងឱ្យអ្នកបង្ខំ។ ការតស៊ូដោយទន់ភ្លន់មានប្រសិទ្ធភាពជាង។","ទំនុកចិត្តដ៏ស្ងប់ស្ងាត់ជួយអ្នកឱ្យជម្នះអ្វីដែលធ្លាប់មើលទៅពិបាក។"],
+ ["The Hermit","ឥសី","IX","S","This is a time to step back, reflect and seek your own answers.","Too much withdrawal can leave you isolated; share your light when ready.","Inner wisdom shows you the right path forward.","នេះជាពេលត្រូវដកខ្លួនបន្តិច ពិចារណា និងស្វែងរកចម្លើយដោយខ្លួនឯង។","ការដកខ្លួនច្រើនពេកអាចធ្វើឱ្យអ្នកឯកោ។ សូមចែករំលែកពន្លឺរបស់អ្នកនៅពេលរួចរាល់។","ប្រាជ្ញាខាងក្នុងបង្ហាញអ្នកនូវផ្លូវត្រឹមត្រូវទៅមុខ។"],
+ ["Wheel of Fortune","កង់វាសនា","X","B","Life is turning; circumstances are shifting around you.","You cannot control every change; adapt instead of resisting.","A new cycle brings fresh luck and opportunity.","ជីវិតកំពុងវិល។ កាលៈទេសៈនៅជុំវិញអ្នកកំពុងប្រែប្រួល។","អ្នកមិនអាចគ្រប់គ្រងរាល់ការផ្លាស់ប្តូរបានទេ។ សូមសម្របខ្លួនជំនួសឱ្យការប្រឆាំង។","វដ្តថ្មីនាំមកនូវសំណាង និងឱកាសថ្មី។"],
+ ["Justice","យុត្តិធម៌","XI","S","Fair decisions and honest dealings matter most right now.","Imbalance or one-sided thinking causes trouble; weigh all sides.","Truth and fairness lead to a balanced, deserved result.","ការសម្រេចចិត្តដោយយុត្តិធម៌ និងភាពស្មោះត្រង់ សំខាន់បំផុតនៅពេលនេះ។","ភាពមិនស្មើគ្នា ឬការគិតតែម្ខាង បង្កបញ្ហា។ សូមថ្លឹងថ្លែងគ្រប់ជ្រុង។","ការពិត និងយុត្តិធម៌ នាំទៅរកលទ្ធផលដែលមានតុល្យភាព និងសមរម្យ។"],
+ ["The Hanged Man","បុរសព្យួរ","XII","T","Things feel on hold; a pause is giving you a new view.","Struggling against delay only tires you; let go and look differently.","A fresh perspective reveals a better way forward.","អ្វីៗហាក់ដូចជាផ្អាក។ ការផ្អាកនេះកំពុងផ្តល់ឱ្យអ្នកនូវទស្សនៈថ្មី។","ការតស៊ូប្រឆាំងនឹងការពន្យារពេលធ្វើឱ្យអ្នកហត់នឿយ។ សូមលែងប្រកាន់ ហើយមើលពីជ្រុងផ្សេង។","ទស្សនៈថ្មីបង្ហាញផ្លូវដ៏ល្អប្រសើរជាងមុន។"],
+ ["Death","មរណៈ","XIII","S","One chapter is closing so another can begin.","Holding on to what has ended blocks your growth; release it gently.","Real transformation clears space for a renewed life.","ជំពូកមួយកំពុងបិទ ដើម្បីឱ្យជំពូកថ្មីចាប់ផ្តើម។","ការប្រកាន់ខ្ជាប់អ្វីដែលបានបញ្ចប់ រារាំងការរីកចម្រើន។ សូមលែងវាដោយទន់ភ្លន់។","ការផ្លាស់ប្តូរពិតប្រាកដ បើកលំហសម្រាប់ជីវិតថ្មី។"],
+ ["Temperance","តុល្យភាព","XIV","B","Balance and patience are bringing things into harmony.","Extremes or haste upset your progress; find the middle way.","Steady moderation brings peace and lasting improvement.","តុល្យភាព និងការអត់ធ្មត់ កំពុងនាំអ្វីៗឱ្យចុះសម្រុងគ្នា។","ភាពជ្រុល ឬការប្រញាប់ ធ្វើឱ្យដំណើររបស់អ្នករាំងស្ទះ។ សូមរកផ្លូវកណ្តាល។","ភាពល្មមល្មើយជាប់លាប់ នាំមកនូវសន្តិភាព និងភាពប្រសើរឡើងយូរអង្វែង។"],
+ ["The Devil","យក្ស","XV","T","Something may be holding you more tightly than you realize.","Habits or fears keep you stuck; the chains are looser than they seem.","Breaking free from what limits you brings new freedom.","អ្វីមួយប្រហែលជាកំពុងចងអ្នកតឹងជាងអ្វីដែលអ្នកដឹង។","ទម្លាប់ ឬការភ័យខ្លាច ធ្វើឱ្យអ្នកជាប់គាំង។ ច្រវាក់នោះធូរជាងអ្វីដែលអ្នកគិត។","ការរំដោះខ្លួនពីអ្វីដែលកំណត់អ្នក នាំមកនូវសេរីភាពថ្មី។"],
+ ["The Tower","ប្រាង្គ","XVI","T","Unexpected change is shaking up your plans.","Clinging to what is falling makes it harder; let weak structures go.","After the shake-up, you can rebuild on a stronger foundation.","ការផ្លាស់ប្តូរដែលមិនបានរំពឹងទុក កំពុងរង្គើផែនការរបស់អ្នក។","ការតោងអ្វីដែលកំពុងដួលរលំ ធ្វើឱ្យកាន់តែពិបាក។ សូមលែងរចនាសម្ព័ន្ធដែលខ្សោយ។","ក្រោយការរង្គើ អ្នកអាចសាងសង់ឡើងវិញលើមូលដ្ឋានដ៏រឹងមាំជាងមុន។"],
+ ["The Star","ផ្កាយ","XVII","B","Hope is returning; you are healing and finding new faith.","Doubt may dim your light; keep believing in your direction.","Renewal and inspiration bring a brighter, calmer future.","ក្តីសង្ឃឹមកំពុងត្រឡប់មកវិញ។ អ្នកកំពុងជាសះស្បើយ និងរកឃើញជំនឿថ្មី។","ការសង្ស័យអាចធ្វើឱ្យពន្លឺរបស់អ្នកស្រអាប់។ សូមបន្តជឿលើទិសដៅរបស់អ្នក។","ការកើតជាថ្មី និងការបំផុសគំនិត នាំមកនូវអនាគតភ្លឺស្វាង និងស្ងប់ស្ងាត់។"],
+ ["The Moon","ព្រះចន្ទ","XVIII","T","Things are unclear and feelings run deep; trust your intuition.","Fears or confusion can mislead you; check facts before acting.","The fog lifts, and the truth becomes clear.","អ្វីៗមិនទាន់ច្បាស់ ហើយអារម្មណ៍ជ្រាលជ្រៅ។ សូមទុកចិត្តលើវិចារណញាណរបស់អ្នក។","ការភ័យខ្លាច ឬការច្របូកច្របល់ អាចនាំអ្នកវង្វេង។ សូមពិនិត្យការពិតមុននឹងធ្វើ។","អ័ព្ទនឹងរសាត់បាត់ ហើយការពិតនឹងច្បាស់។"],
+ ["The Sun","ព្រះអាទិត្យ","XIX","B","A time of positivity, clarity and growing confidence surrounds you.","Overconfidence can blind you to details; stay humble and attentive.","Success, happiness and warm recognition are within reach.","ពេលវេលានៃភាពវិជ្ជមាន ភាពច្បាស់លាស់ និងទំនុកចិត្ត កំពុងនៅជុំវិញអ្នក។","ការជឿជាក់លើខ្លួនឯងហួសហេតុ អាចធ្វើឱ្យអ្នកមើលរំលងព័ត៌មានលម្អិត។ សូមរាបទាប និងប្រុងប្រយ័ត្ន។","ភាពជោគជ័យ សុភមង្គល និងការទទួលស្គាល់ដ៏កក់ក្តៅ ស្ថិតនៅក្បែរដៃ។"],
+ ["Judgement","ការវិនិច្ឆ័យ","XX","B","You are being called to review your path and rise to something new.","Self-criticism can hold you back; learn from the past and move on.","A clear decision brings renewal and a new purpose.","អ្នកកំពុងត្រូវបានហៅឱ្យពិនិត្យផ្លូវរបស់អ្នក ហើយក្រោកឡើងទៅរកអ្វីថ្មី។","ការរិះគន់ខ្លួនឯងអាចរារាំងអ្នក។ សូមរៀនពីអតីតកាល ហើយបន្តទៅមុខ។","ការសម្រេចចិត្តដ៏ច្បាស់លាស់ នាំមកនូវការកើតជាថ្មី និងគោលបំណងថ្មី។"],
+ ["The World","ពិភពលោក","XXI","B","A cycle is reaching completion; you can see how far you have come.","Unfinished details may delay closure; complete what remains.","Fulfillment and success open the door to a new journey.","វដ្តមួយកំពុងបញ្ចប់។ អ្នកអាចមើលឃើញថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា។","ព័ត៌មានលម្អិតដែលមិនទាន់រួច អាចពន្យារការបញ្ចប់។ សូមបំពេញអ្វីដែលនៅសល់។","ការបំពេញបំណង និងភាពជោគជ័យ បើកទ្វារទៅកាន់ដំណើរថ្មី។"]
+];
+
+/* Minor suits: [enP, enC, enO, kmP, kmC, kmO] for Ace..10, Page, Knight, Queen, King */
+const SUITS = {
+ WAN:{en:"Wands",km:"ដំបង",B:[1,3,4,6,8],T:[5,7,9,10],m:[
+  ["A fresh spark of energy and inspiration is with you now.","Enthusiasm may fade without a plan; give your idea a first step.","A bold new venture can take off.","ផ្កាភ្លើងនៃថាមពល និងការបំផុសគំនិតថ្មី កំពុងនៅជាមួយអ្នក។","ភាពរំភើបអាចរសាយបាត់ បើគ្មានផែនការ។ សូមបោះជំហានដំបូងសម្រាប់គំនិតរបស់អ្នក។","គម្រោងថ្មីដ៏ក្លាហានអាចចាប់ផ្តើមបានយ៉ាងល្អ។"],
+  ["You are looking ahead and weighing future plans.","Staying in planning too long delays progress; choose a direction.","A clear plan opens wider horizons.","អ្នកកំពុងមើលទៅមុខ ហើយថ្លឹងថ្លែងផែនការអនាគត។","ការរៀបចំផែនការយូរពេក ពន្យារការរីកចម្រើន។ សូមជ្រើសរើសទិសដៅមួយ។","ផែនការច្បាស់លាស់ បើកជើងមេឃកាន់តែទូលាយ។"],
+  ["Your efforts are starting to move outward and grow.","Waiting for results can feel slow; keep watching for openings.","Opportunities arrive from further than you expected.","ការខិតខំរបស់អ្នក កំពុងចាប់ផ្តើមរីកចម្រើន និងពង្រីកទៅមុខ។","ការរង់ចាំលទ្ធផលអាចហាក់ដូចយឺត។ សូមបន្តតាមដានឱកាស។","ឱកាសនឹងមកដល់ពីកន្លែងឆ្ងាយជាងអ្វីដែលអ្នករំពឹង។"],
+  ["There is reason to celebrate a stable, happy moment.","Busy days can make you forget to enjoy success; pause and appreciate it.","Joyful gatherings and a secure foundation lie ahead.","មានហេតុផលដើម្បីអបអរពេលវេលាដ៏រីករាយ និងមានស្ថិរភាព។","ភាពមមាញឹកអាចធ្វើឱ្យអ្នកភ្លេចរីករាយនឹងភាពជោគជ័យ។ សូមឈប់សម្រាក ហើយកោតសរសើរវា។","ការជួបជុំដ៏រីករាយ និងមូលដ្ឋានដ៏មានសុវត្ថិភាព កំពុងរង់ចាំខាងមុខ។"],
+  ["Different opinions and competition surround you.","Small conflicts waste energy; listen first, then speak.","Healthy competition sharpens your skills and leads to agreement.","មតិខុសៗគ្នា និងការប្រកួតប្រជែង កំពុងនៅជុំវិញអ្នក។","ជម្លោះតូចតាចខ្ជះខ្ជាយថាមពល។ សូមស្តាប់ជាមុន ទើបនិយាយ។","ការប្រកួតប្រជែងដ៏ល្អ ពង្រឹងជំនាញរបស់អ្នក ហើយនាំទៅរកការព្រមព្រៀង។"],
+  ["Your efforts are being noticed and appreciated.","Pride can create distance; share credit generously.","Public success and well-earned recognition are likely.","ការខិតខំរបស់អ្នកកំពុងត្រូវបានគេកត់សម្គាល់ និងកោតសរសើរ។","មោទនភាពហួសហេតុអាចបង្កើតគម្លាត។ សូមចែករំលែកកិត្តិយសដោយចិត្តទូលាយ។","ភាពជោគជ័យជាសាធារណៈ និងការទទួលស្គាល់ដែលសមនឹងទទួលបាន ទំនងជានឹងមកដល់។"],
+  ["You are holding your position against pressure.","Feeling outnumbered can wear you down; stay firm but choose your battles.","Persistence lets you keep what matters.","អ្នកកំពុងរក្សាជំហររបស់អ្នក ទោះមានសម្ពាធ។","ការមានអារម្មណ៍ថាម្នាក់ឯងទល់នឹងច្រើនអាចធ្វើឱ្យអស់កម្លាំង។ សូមឈរមាំ តែជ្រើសរើសសមរភូមិឱ្យល្អ។","ការតស៊ូជួយអ្នករក្សាអ្វីដែលសំខាន់។"],
+  ["Things are moving quickly; news or progress is on its way.","Rushing can cause mistakes; keep pace but stay careful.","Fast progress brings things together quickly.","អ្វីៗកំពុងដំណើរការយ៉ាងលឿន។ ដំណឹង ឬការរីកចម្រើនកំពុងមកដល់។","ការប្រញាប់អាចបង្កកំហុស។ សូមរក្សាល្បឿន តែប្រុងប្រយ័ត្ន។","ការរីកចម្រើនរហ័សនាំអ្វីៗមកជួបគ្នាយ៉ាងឆាប់។"],
+  ["You are tired but still standing strong.","Old disappointments make you guarded; trust that you are close to the end.","One last push carries you through.","អ្នកនឿយហត់ តែនៅតែឈរមាំ។","ការខកចិត្តពីមុនធ្វើឱ្យអ្នកប្រុងប្រយ័ត្នពេក។ សូមជឿថាអ្នកជិតដល់ទីបញ្ចប់ហើយ។","ការប្រឹងប្រែងចុងក្រោយ នាំអ្នកឆ្លងផុតដោយជោគជ័យ។"],
+  ["You are carrying a heavy load of duties.","Taking on too much drains you; delegate or set some things down.","Lightening your load brings relief and better focus.","អ្នកកំពុងលីបន្ទុកការងារ និងភារកិច្ចដ៏ធ្ងន់។","ការទទួលយកច្រើនពេកធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមចែករំលែក ឬដាក់ចុះខ្លះ។","ការបន្ថយបន្ទុក នាំមកនូវភាពធូរស្រាល និងការផ្តោតកាន់តែល្អ។"],
+  ["A curious, adventurous energy is guiding you.","Ideas may stay unfinished; follow one through.","Exploring something new brings exciting discoveries.","ថាមពលនៃការចង់ដឹង និងការផ្សងព្រេង កំពុងណែនាំអ្នក។","គំនិតច្រើនអាចមិនបានបញ្ចប់។ សូមធ្វើមួយឱ្យដល់ទីបញ្ចប់។","ការស្វែងរកអ្វីថ្មី នាំមកនូវការរកឃើញដ៏គួរឱ្យរំភើប។"],
+  ["You are full of drive and ready to act boldly.","Impatience can lead to careless moves; aim before you charge.","Courageous action brings exciting change.","អ្នកពោរពេញដោយកម្លាំង និងត្រៀមធ្វើសកម្មភាពដោយក្លាហាន។","ការអន្ទះអន្ទែងអាចនាំឱ្យធ្វើខុស។ សូមតម្រង់គោលដៅមុននឹងរត់ទៅមុខ។","សកម្មភាពដ៏ក្លាហាន នាំមកនូវការផ្លាស់ប្តូរដ៏គួរឱ្យរំភើប។"],
+  ["Confidence and warmth make you shine now.","Doing everything yourself can exhaust you; let others help.","Your charisma and drive attract support and success.","ទំនុកចិត្ត និងភាពកក់ក្តៅ ធ្វើឱ្យអ្នកភ្លឺចែងចាំងនៅពេលនេះ។","ការធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯងអាចធ្វើឱ្យហត់នឿយ។ សូមឱ្យអ្នកដទៃជួយផង។","មន្តស្នេហ៍ និងកម្លាំងរបស់អ្នក ទាក់ទាញការគាំទ្រ និងភាពជោគជ័យ។"],
+  ["You are ready to lead with vision and courage.","Expecting too much of others causes friction; inspire rather than command.","Visionary leadership turns your goals into reality.","អ្នកត្រៀមដឹកនាំដោយចក្ខុវិស័យ និងភាពក្លាហាន។","ការរំពឹងច្រើនពេកពីអ្នកដទៃបង្កការប៉ះទង្គិច។ សូមបំផុសទឹកចិត្តជំនួសឱ្យការបញ្ជា។","ការដឹកនាំប្រកបដោយចក្ខុវិស័យ ប្រែក្លាយគោលដៅរបស់អ្នកឱ្យក្លាយជាការពិត។"]]},
+ CUP:{en:"Cups",km:"ផ្តិល",B:[1,2,3,6,9,10],T:[4,5,7,8],m:[
+  ["Your heart is opening to new feelings and connection.","Fear of being hurt may hold you back; let yourself receive.","Love, kindness and emotional renewal flow in.","ចិត្តរបស់អ្នកកំពុងបើកទទួលអារម្មណ៍ និងទំនាក់ទំនងថ្មី។","ការខ្លាចឈឺចាប់អាចរារាំងអ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងទទួល។","សេចក្តីស្រឡាញ់ ចិត្តល្អ និងការកើតជាថ្មីនៃអារម្មណ៍ កំពុងហូរចូលមក។"],
+  ["A meaningful bond or partnership is forming.","Unequal giving can upset the balance; keep it two-way.","A warm, supportive partnership grows stronger.","ចំណងដ៏មានអត្ថន័យ ឬភាពជាដៃគូមួយ កំពុងកើតឡើង។","ការផ្តល់ឱ្យមិនស្មើគ្នាអាចធ្វើឱ្យបាត់តុល្យភាព។ សូមរក្សាការផ្តល់ពីទាំងសងខាង។","ភាពជាដៃគូដ៏កក់ក្តៅ និងគាំទ្រគ្នា កាន់តែរឹងមាំ។"],
+  ["Friends and shared joy are important to you now.","Too much socializing can distract from your goals; keep a healthy balance.","Happy gatherings and good company lie ahead.","មិត្តភក្តិ និងសេចក្តីរីករាយរួមគ្នា សំខាន់សម្រាប់អ្នកនៅពេលនេះ។","ការសប្បាយច្រើនពេកអាចធ្វើឱ្យភ្លេចគោលដៅ។ សូមរក្សាតុល្យភាពឱ្យល្អ។","ការជួបជុំដ៏រីករាយ និងមិត្តល្អ កំពុងរង់ចាំខាងមុខ។"],
+  ["You may feel bored or unsatisfied with what you have.","Looking inward too long can make you miss a good offer; look up.","A new opportunity renews your interest.","អ្នកប្រហែលជាធុញទ្រាន់ ឬមិនពេញចិត្តនឹងអ្វីដែលមាន។","ការសម្លឹងតែក្នុងចិត្តយូរពេក អាចធ្វើឱ្យរំលងឱកាសល្អ។ សូមងើបមុខមើល។","ឱកាសថ្មីមួយនឹងធ្វើឱ្យអ្នកចាប់អារម្មណ៍ឡើងវិញ។"],
+  ["You are focusing on something that did not work out.","Dwelling on loss hides what remains; turn toward what is still good.","Accepting the past lets you find comfort and move on.","អ្នកកំពុងផ្តោតលើអ្វីមួយដែលមិនបានសម្រេច។","ការគិតតែពីការបាត់បង់ បិទបាំងអ្វីដែលនៅសល់។ សូមបែរទៅរកអ្វីដែលនៅល្អ។","ការទទួលយកអតីតកាល ជួយឱ្យអ្នករកឃើញភាពធូរចិត្ត ហើយបន្តទៅមុខ។"],
+  ["Sweet memories or old connections are on your mind.","Living in the past can stop you growing; take its lessons forward.","Kindness and familiar people bring you comfort.","អនុស្សាវរីយ៍ដ៏ផ្អែមល្ហែម ឬទំនាក់ទំនងចាស់ៗ កំពុងនៅក្នុងគំនិតអ្នក។","ការរស់នៅក្នុងអតីតកាលអាចរារាំងការរីកចម្រើន។ សូមយកមេរៀនរបស់វាទៅមុខ។","ចិត្តល្អ និងមនុស្សដែលធ្លាប់ស្គាល់ នាំមកនូវភាពកក់ក្តៅ។"],
+  ["Many options and dreams are in front of you.","Wishful thinking can cloud judgment; check what is real.","Focusing on one realistic choice brings clarity.","ជម្រើស និងក្តីសុបិនជាច្រើនកំពុងនៅចំពោះមុខអ្នក។","ការគិតតាមចិត្តប្រាថ្នាអាចធ្វើឱ្យវិនិច្ឆ័យខុស។ សូមពិនិត្យថាអ្វីជាការពិត។","ការផ្តោតលើជម្រើសមួយដែលអាចធ្វើបាន នាំមកនូវភាពច្បាស់លាស់។"],
+  ["Part of you is ready to leave something behind.","Walking away is hard; trust that you are seeking something better.","A more meaningful path awaits you.","ផ្នែកមួយនៃចិត្តអ្នក ត្រៀមខ្លួនចាកចេញពីអ្វីមួយ។","ការចាកចេញពិបាក។ សូមជឿថាអ្នកកំពុងស្វែងរកអ្វីដែលល្អជាង។","ផ្លូវដែលមានអត្ថន័យជាងមុនកំពុងរង់ចាំអ្នក។"],
+  ["You feel satisfied, or close to a wish coming true.","Comfort can turn into complacency; stay grateful and humble.","A heartfelt wish is likely to be fulfilled.","អ្នកមានអារម្មណ៍ពេញចិត្ត ឬជិតសម្រេចក្តីប្រាថ្នាហើយ។","ភាពសុខស្រួលអាចប្រែជាការធ្វេសប្រហែស។ សូមរក្សាការដឹងគុណ និងការរាបទាប។","ក្តីប្រាថ្នាពីចិត្តមួយ ទំនងជានឹងបានសម្រេច។"],
+  ["Love and harmony with those close to you are strong.","Expecting perfection can create pressure; enjoy what is already good.","Lasting happiness and peace at home are likely.","សេចក្តីស្រឡាញ់ និងភាពសុខដុមជាមួយអ្នកជិតស្និទ្ធ កំពុងរឹងមាំ។","ការរំពឹងភាពល្អឥតខ្ចោះអាចបង្កសម្ពាធ។ សូមរីករាយនឹងអ្វីដែលល្អស្រាប់។","សុភមង្គលយូរអង្វែង និងសន្តិភាពក្នុងផ្ទះ ទំនងជានឹងកើតមាន។"],
+  ["A gentle, creative message or feeling is arriving.","Being too sensitive can hurt you; trust your feelings without fear.","A pleasant surprise or kind message is on its way.","សារ ឬអារម្មណ៍ដ៏ទន់ភ្លន់ និងច្នៃប្រឌិតមួយ កំពុងមកដល់។","ការរសើបពេកអាចធ្វើឱ្យអ្នកឈឺចាប់។ សូមទុកចិត្តលើអារម្មណ៍ដោយមិនខ្លាច។","ការភ្ញាក់ផ្អើលដ៏រីករាយ ឬសារល្អមួយ កំពុងមកដល់។"],
+  ["You are following your heart toward something beautiful.","Idealism can hide practical issues; keep one foot on the ground.","A heartfelt offer or invitation is likely.","អ្នកកំពុងធ្វើតាមចិត្ត ឆ្ពោះទៅរកអ្វីដ៏ស្រស់ស្អាត។","ឧត្តមគតិនិយមអាចបិទបាំងបញ្ហាជាក់ស្តែង។ សូមរក្សាជើងមួយនៅលើដី។","ការផ្តល់ជូន ឬការអញ្ជើញពីចិត្ត ទំនងជានឹងមកដល់។"],
+  ["Your compassion and intuition are strong now.","Absorbing others’ feelings can drain you; protect your own energy.","Emotional wisdom helps you and others heal.","ក្តីមេត្តា និងវិចារណញាណរបស់អ្នក រឹងមាំនៅពេលនេះ។","ការស្រូបយកអារម្មណ៍អ្នកដទៃអាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមការពារថាមពលខ្លួនឯង។","ប្រាជ្ញាផ្នែកអារម្មណ៍ ជួយអ្នក និងអ្នកដទៃឱ្យជាសះស្បើយ។"],
+  ["You are handling feelings with calm and maturity.","Hiding your feelings too well can create distance; share honestly.","Calm wisdom brings peace and respect.","អ្នកកំពុងដោះស្រាយអារម្មណ៍ដោយភាពស្ងប់ និងចាស់ទុំ។","ការលាក់អារម្មណ៍ពេកអាចបង្កើតគម្លាត។ សូមចែករំលែកដោយស្មោះត្រង់។","ប្រាជ្ញាដ៏ស្ងប់ស្ងាត់ នាំមកនូវសន្តិភាព និងការគោរព។"]]},
+ SWO:{en:"Swords",km:"ដាវ",B:[1],T:[2,3,5,7,8,9,10],m:[
+  ["A clear idea or truth is cutting through confusion.","Sharp words can hurt; speak the truth with care.","A breakthrough brings clear understanding.","គំនិត ឬការពិតដ៏ច្បាស់មួយ កំពុងកាត់ផ្តាច់ភាពច្របូកច្របល់។","ពាក្យសម្តីមុតស្រួចអាចធ្វើឱ្យឈឺចិត្ត។ សូមនិយាយការពិតដោយយកចិត្តទុកដាក់។","ការរកឃើញថ្មី នាំមកនូវការយល់ដឹងច្បាស់លាស់។"],
+  ["You are stuck between two options.","Avoiding the choice keeps you stuck; gather the facts and decide.","A balanced decision ends the stalemate.","អ្នកកំពុងជាប់គាំងរវាងជម្រើសពីរ។","ការគេចវេះការសម្រេចចិត្ត ធ្វើឱ្យអ្នកនៅតែជាប់គាំង។ សូមប្រមូលការពិត ហើយសម្រេចចិត្ត។","ការសម្រេចចិត្តដោយតុល្យភាព បញ្ចប់ភាពជាប់គាំង។"],
+  ["Something has caused you sadness or disappointment.","Holding the pain inside makes it heavier; allow yourself to feel and heal.","Healing comes after the hurt is released.","អ្វីមួយបានធ្វើឱ្យអ្នកសោកសៅ ឬខកចិត្ត។","ការទប់ការឈឺចាប់ទុកក្នុងចិត្ត ធ្វើឱ្យវាកាន់តែធ្ងន់។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ ហើយជាសះស្បើយ។","ការជាសះស្បើយមកដល់ ក្រោយពីការឈឺចាប់ត្រូវបានដោះលែង។"],
+  ["You need rest and quiet to recover your strength.","Pushing on without rest leads to burnout; take a pause.","Recovered energy brings a clearer mind.","អ្នកត្រូវការការសម្រាក និងភាពស្ងប់ស្ងាត់ ដើម្បីស្តារកម្លាំងឡើងវិញ។","ការបន្តដោយមិនសម្រាក នាំឱ្យអស់កម្លាំង។ សូមផ្អាកមួយរយៈ។","កម្លាំងដែលបានស្តារឡើងវិញ នាំមកនូវគំនិតច្បាស់លាស់។"],
+  ["A conflict leaves winners and losers.","Winning an argument can cost a relationship; choose peace over pride.","Letting go of the fight brings relief.","ជម្លោះមួយបន្សល់ទុកអ្នកឈ្នះ និងអ្នកចាញ់។","ការឈ្នះការឈ្លោះប្រកែក អាចធ្វើឱ្យបាត់បង់ទំនាក់ទំនង។ សូមជ្រើសរើសសន្តិភាពជាងមោទនភាព។","ការលែងតស៊ូ នាំមកនូវភាពធូរស្រាល។"],
+  ["You are moving away from difficulty toward calmer times.","Leaving the familiar feels sad; trust the journey.","Calmer, more peaceful days are ahead.","អ្នកកំពុងចាកចេញពីការលំបាក ឆ្ពោះទៅរកពេលវេលាស្ងប់ស្ងាត់ជាងមុន។","ការចាកចេញពីអ្វីដែលធ្លាប់ស្គាល់ គួរឱ្យសោកសៅ។ សូមទុកចិត្តលើដំណើរនេះ។","ថ្ងៃដ៏ស្ងប់ស្ងាត់ និងសុខសាន្តជាងមុន កំពុងរង់ចាំ។"],
+  ["Strategy and careful planning matter now.","Shortcuts or hidden motives can backfire; act honestly.","Clever, honest planning gets you through.","យុទ្ធសាស្ត្រ និងការរៀបចំផែនការយ៉ាងប្រុងប្រយ័ត្ន សំខាន់នៅពេលនេះ។","ផ្លូវកាត់ ឬចេតនាលាក់កំបាំង អាចផ្តល់ផលអាក្រក់មកវិញ។ សូមធ្វើដោយស្មោះត្រង់។","ផែនការដ៏ឆ្លាតវៃ និងស្មោះត្រង់ នាំអ្នកឆ្លងផុត។"],
+  ["You may feel restricted with no way out.","The limits are partly in your mind; take one small step.","You discover you are freer than you thought.","អ្នកប្រហែលជាមានអារម្មណ៍ថាជាប់គាំង ហើយគ្មានផ្លូវចេញ។","ដែនកំណត់មួយផ្នែកស្ថិតនៅក្នុងគំនិតរបស់អ្នក។ សូមបោះជំហានតូចមួយ។","អ្នករកឃើញថាអ្នកមានសេរីភាពច្រើនជាងអ្វីដែលអ្នកគិត។"],
+  ["Worries may be weighing heavily on your mind.","Fears grow larger at night; talk to someone you trust.","Your worries ease as you see things more clearly.","ការព្រួយបារម្ភប្រហែលជាកំពុងសង្កត់លើគំនិតអ្នកយ៉ាងធ្ងន់។","ការភ័យខ្លាចកាន់តែធំនៅពេលយប់។ សូមនិយាយជាមួយអ្នកដែលអ្នកទុកចិត្ត។","ការព្រួយបារម្ភរបស់អ្នកធូរស្រាល នៅពេលអ្នកមើលឃើញអ្វីៗកាន់តែច្បាស់។"],
+  ["A difficult situation has reached its end.","Dwelling on the hurt delays recovery; accept that it is over.","The worst has passed, and a new dawn begins.","ស្ថានភាពដ៏លំបាកមួយ បានដល់ទីបញ្ចប់ហើយ។","ការគិតតែពីការឈឺចាប់ ពន្យារការជាសះស្បើយ។ សូមទទួលយកថាវាបានចប់ហើយ។","អ្វីដែលអាក្រក់បំផុតបានកន្លងផុតទៅ ហើយអរុណថ្មីចាប់ផ្តើម។"],
+  ["A curious, alert mind is serving you well.","Gossip or hasty words can cause trouble; think before you speak.","Learning and new ideas open fresh doors.","គំនិតដែលចង់ដឹង និងប្រុងស្មារតី កំពុងជួយអ្នកបានល្អ។","ពាក្យចចាមអារ៉ាម ឬពាក្យប្រញាប់ អាចបង្កបញ្ហា។ សូមគិតមុននឹងនិយាយ។","ការរៀនសូត្រ និងគំនិតថ្មីៗ បើកទ្វារថ្មី។"],
+  ["You are charging ahead with strong opinions and drive.","Haste can run over others; slow down enough to listen.","Direct, decisive action brings quick results.","អ្នកកំពុងរត់ទៅមុខ ជាមួយមតិមុតមាំ និងកម្លាំងខ្លាំង។","ការប្រញាប់អាចជាន់ឈ្លីអ្នកដទៃ។ សូមបន្ថយល្បឿនល្មមនឹងស្តាប់គេ។","សកម្មភាពត្រង់ៗ និងម៉ឺងម៉ាត់ នាំមកនូវលទ្ធផលរហ័ស។"],
+  ["Clear judgment and honesty guide you now.","Too much coolness can seem harsh; balance truth with kindness.","Honest, wise decisions earn respect.","ការវិនិច្ឆ័យច្បាស់លាស់ និងភាពស្មោះត្រង់ កំពុងណែនាំអ្នក។","ភាពត្រជាក់ពេកអាចមើលទៅឃោរឃៅ។ សូមថ្លឹងការពិតជាមួយចិត្តល្អ។","ការសម្រេចចិត្តដ៏ស្មោះត្រង់ និងឈ្លាសវៃ ទទួលបានការគោរព។"],
+  ["You are thinking with logic and fairness.","Ignoring feelings can make decisions cold; consider the human side.","Wise, fair judgment leads to the right result.","អ្នកកំពុងគិតដោយតក្កវិជ្ជា និងយុត្តិធម៌។","ការមិនគិតពីអារម្មណ៍ អាចធ្វើឱ្យការសម្រេចចិត្តត្រជាក់។ សូមពិចារណាផ្នែកមនុស្សធម៌ផង។","ការវិនិច្ឆ័យដ៏ឈ្លាសវៃ និងយុត្តិធម៌ នាំទៅរកលទ្ធផលត្រឹមត្រូវ។"]]},
+ PEN:{en:"Pentacles",km:"កាក់",B:[1,3,6,9,10],T:[4,5],m:[
+  ["A practical new opportunity is in front of you.","A good chance can slip away if you hesitate; take the first practical step.","A solid start can grow into lasting security.","ឱកាសជាក់ស្តែងថ្មីមួយ កំពុងនៅចំពោះមុខអ្នក។","ឱកាសល្អអាចរបូតចេញ បើអ្នកស្ទាក់ស្ទើរ។ សូមបោះជំហានជាក់ស្តែងដំបូង។","ការចាប់ផ្តើមដ៏រឹងមាំ អាចរីកចម្រើនទៅជាសុវត្ថិភាពយូរអង្វែង។"],
+  ["You are juggling several responsibilities at once.","Spreading yourself too thin causes mistakes; prioritize.","Flexible balance keeps everything moving smoothly.","អ្នកកំពុងដោះស្រាយការទទួលខុសត្រូវច្រើនក្នុងពេលតែមួយ។","ការបែងចែកខ្លួនច្រើនពេកបង្កកំហុស។ សូមកំណត់អាទិភាព។","តុល្យភាពដ៏បត់បែន ធ្វើឱ្យអ្វីៗដំណើរការយ៉ាងរលូន។"],
+  ["Your skills are valued, and teamwork is important now.","Poor communication can slow the team; share plans clearly.","Working together produces high-quality results.","ជំនាញរបស់អ្នកត្រូវបានគេឱ្យតម្លៃ ហើយការងារជាក្រុមសំខាន់នៅពេលនេះ។","ការប្រាស្រ័យទាក់ទងមិនល្អ អាចពន្យឺតក្រុម។ សូមចែករំលែកផែនការឱ្យច្បាស់។","ការធ្វើការរួមគ្នា បង្កើតលទ្ធផលដែលមានគុណភាពខ្ពស់។"],
+  ["You are focused on keeping what you have safe.","Holding too tightly blocks new growth; stay careful but open.","Wise saving brings stability and peace of mind.","អ្នកកំពុងផ្តោតលើការរក្សាអ្វីដែលអ្នកមានឱ្យមានសុវត្ថិភាព។","ការក្តាប់តឹងពេក រារាំងការលូតលាស់ថ្មី។ សូមប្រុងប្រយ័ត្ន តែបើកចិត្ត។","ការសន្សំដោយឈ្លាសវៃ នាំមកនូវស្ថិរភាព និងចិត្តស្ងប់។"],
+  ["You may be going through a tight or difficult time.","Pride can stop you asking for help; support is closer than you think.","Help arrives, and the hard time passes.","អ្នកប្រហែលជាកំពុងឆ្លងកាត់ពេលវេលាតឹងតែង ឬលំបាក។","មោទនភាពអាចរារាំងអ្នកពីការសុំជំនួយ។ ជំនួយនៅជិតជាងអ្វីដែលអ្នកគិត។","ជំនួយមកដល់ ហើយពេលវេលាលំបាកនឹងកន្លងផុត។"],
+  ["Giving and receiving are in balance now.","Uneven giving can create dependence; keep exchanges fair.","Generosity returns to you in good ways.","ការផ្តល់ និងការទទួល ស្ថិតក្នុងតុល្យភាពនៅពេលនេះ។","ការផ្តល់មិនស្មើគ្នា អាចបង្កើតការពឹងពាក់។ សូមរក្សាការផ្លាស់ប្តូរឱ្យយុត្តិធម៌។","ចិត្តសប្បុរសនឹងត្រឡប់មករកអ្នកវិញក្នុងរបៀបល្អៗ។"],
+  ["You have worked hard and are waiting for results.","Impatience may tempt you to quit early; review, adjust, and keep going.","Patient effort brings a rewarding harvest.","អ្នកបានខិតខំយ៉ាងខ្លាំង ហើយកំពុងរង់ចាំលទ្ធផល។","ការអន្ទះអន្ទែងអាចល្បួងឱ្យអ្នកបោះបង់មុនពេល។ សូមពិនិត្យ កែតម្រូវ ហើយបន្តទៅមុខ។","ការខិតខំដោយអត់ធ្មត់ នាំមកនូវផលដ៏សមរម្យ។"],
+  ["Steady, careful work is building your skill.","Repetition can feel dull; remember why you started.","Dedication leads to real mastery and reward.","ការងារដ៏ខ្ជាប់ខ្ជួន និងប្រុងប្រយ័ត្ន កំពុងកសាងជំនាញរបស់អ្នក។","ការធ្វើដដែលៗអាចគួរឱ្យធុញ។ សូមចងចាំមូលហេតុដែលអ្នកចាប់ផ្តើម។","ការប្តេជ្ញាចិត្ត នាំទៅរកភាពជំនាញពិតប្រាកដ និងរង្វាន់។"],
+  ["You are enjoying the results of your own effort.","Doing everything alone can feel lonely; share your success.","Comfort and independence are well within reach.","អ្នកកំពុងរីករាយនឹងផលនៃការខិតខំរបស់ខ្លួនឯង។","ការធ្វើអ្វីៗតែម្នាក់ឯង អាចមានអារម្មណ៍ឯកា។ សូមចែករំលែកភាពជោគជ័យរបស់អ្នក។","ភាពសុខស្រួល និងឯករាជ្យភាព ស្ថិតនៅក្បែរដៃ។"],
+  ["Long-term security and family ties are strong.","Old family expectations may limit you; respect them while finding your own way.","Lasting stability benefits you and those you love.","សុវត្ថិភាពរយៈពេលវែង និងចំណងគ្រួសារ កំពុងរឹងមាំ។","ការរំពឹងចាស់ៗរបស់គ្រួសារអាចកំណត់អ្នក។ សូមគោរពវា ខណៈពេលរកផ្លូវផ្ទាល់ខ្លួន។","ស្ថិរភាពយូរអង្វែង ផ្តល់ផលល្អដល់អ្នក និងអ្នកដែលអ្នកស្រឡាញ់។"],
+  ["You are eager to learn and start something practical.","Dreams need steady action; make a simple plan.","Study and practice lead to new opportunities.","អ្នកចង់រៀន និងចាប់ផ្តើមអ្វីដែលជាក់ស្តែង។","ក្តីសុបិនត្រូវការសកម្មភាពជាប់លាប់។ សូមធ្វើផែនការសាមញ្ញមួយ។","ការសិក្សា និងការហ្វឹកហាត់ នាំទៅរកឱកាសថ្មី។"],
+  ["Slow, steady effort is moving you forward.","Too much routine can make you stuck; allow small changes.","Reliable work brings dependable progress.","ការខិតខំយឺតៗ តែជាប់លាប់ កំពុងនាំអ្នកទៅមុខ។","ទម្លាប់ច្រើនពេក អាចធ្វើឱ្យជាប់គាំង។ សូមអនុញ្ញាតឱ្យមានការផ្លាស់ប្តូរតូចៗ។","ការងារដែលគួរឱ្យទុកចិត្ត នាំមកនូវការរីកចម្រើនដែលអាចពឹងពាក់បាន។"],
+  ["You are caring for others while keeping life grounded.","Caring for everyone can leave you tired; look after yourself too.","A comfortable, well-supported life grows around you.","អ្នកកំពុងថែរក្សាអ្នកដទៃ ខណៈពេលរក្សាជីវិតឱ្យនៅលើដី។","ការថែរក្សាគ្រប់គ្នាអាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមថែរក្សាខ្លួនឯងផងដែរ។","ជីវិតដ៏សុខស្រួល និងមានការគាំទ្រល្អ កំពុងរីកចម្រើននៅជុំវិញអ្នក។"],
+  ["You are in a strong, steady position.","Focusing only on material success can feel empty; remember what truly matters.","Lasting success and stability are likely.","អ្នកស្ថិតក្នុងជំហរដ៏រឹងមាំ និងខ្ជាប់ខ្ជួន។","ការផ្តោតតែលើភាពជោគជ័យខាងសម្ភារៈ អាចមានអារម្មណ៍ទទេ។ សូមចងចាំអ្វីដែលពិតជាសំខាន់។","ភាពជោគជ័យ និងស្ថិរភាពយូរអង្វែង ទំនងជានឹងកើតមាន។"]]}
+};
+const RANK_EN=["Ace","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten","Page","Knight","Queen","King"];
+const RANK_KM_PRE={11:"កុមារ",12:"អ្នកជិះសេះ",13:"មហាក្សត្រី",14:"ស្តេច"};
+
+/* build the deck */
+const DECK=[];
+MAJ.forEach((c,i)=>DECK.push({id:"MAJ-"+String(i).padStart(2,"0"),major:true,suit:null,num:c[2],en:c[0],km:c[1],tag:c[3],m:{en:[c[4],c[5],c[6]],km:[c[7],c[8],c[9]]}}));
+Object.entries(SUITS).forEach(([k,s])=>{
+ s.m.forEach((c,i)=>{const r=i+1;
+  DECK.push({id:k+"-"+String(r).padStart(2,"0"),major:false,suit:k,num:null,
+   en:(r===1?"Ace":RANK_EN[i])+" of "+s.en,
+   km:r<=10?s.km+" "+kn(r):RANK_KM_PRE[r]+s.km,
+   tag:s.B.includes(r)?"B":(s.T.includes(r)?"T":"S"),
+   m:{en:[c[0],c[1],c[2]],km:[c[3],c[4],c[5]]}});
+ });
+});
+
+const TPL={
+ en:{open:["You asked: “{question}” Here is what the cards reveal about {focus} {time}.","Your question is “{question}” Let’s look at {focus} {time}."],
+  str:["Born in the year of the {animal}: {strength}","Your {animal} nature shines here. {strength}"],
+  pre:["{card1} shows where you stand: {present}","In the Present position, {card1} says: {present}"],
+  cha:["{card2} names your challenge: {challenge}","The challenge comes from {card2}: {challenge}"],
+  out:["{card3} shows where things are heading {time}: {outcome}","{card3} shows where things are heading {time}: {outcome}"],
+  adv:["A word for the {animal}: {advice}","Remember, {animal}: {advice}"],
+  theme:{MAJ:"Two or more Major cards appeared, so this is an important period with lessons that will matter for a long time.",WAN:"Your cards lean toward Wands: energy, ambition and action are the heart of this reading.",CUP:"Your cards lean toward Cups: feelings and relationships are the heart of this reading.",SWO:"Your cards lean toward Swords: thoughts, choices and clear communication are the heart of this reading.",PEN:"Your cards lean toward Pentacles: practical matters like work, money and daily life are the heart of this reading.",MIX:"Your cards come from different areas of life, so several parts of your situation are connected."},
+  tone:{B:"The outlook is bright; keep going with confidence.",S:"The path ahead is steady; patient effort will shape the result.",T:"The path asks for care, but every difficulty here carries a lesson that makes you stronger."},
+  disc:"This reading is for reflection and entertainment. For important decisions about health, money or the law, please talk to a qualified professional."},
+ km:{open:["អ្នកបានសួរថា «{question}» នេះជាអ្វីដែលសន្លឹកបៀបង្ហាញអំពី{focus} {time}។","សំណួររបស់អ្នកគឺ «{question}» តោះមើល{focus} {time}។"],
+  str:["អ្នកកើតឆ្នាំ{animal}៖ {strength}","ចរិតឆ្នាំ{animal}របស់អ្នកលេចធ្លោនៅទីនេះ។ {strength}"],
+  pre:["{card1} បង្ហាញពីស្ថានភាពបច្ចុប្បន្នរបស់អ្នក៖ {present}","នៅទីតាំងបច្ចុប្បន្ន {card1} ប្រាប់ថា៖ {present}"],
+  cha:["{card2} បង្ហាញពីបញ្ហាប្រឈមរបស់អ្នក៖ {challenge}","បញ្ហាប្រឈមមកពី {card2}៖ {challenge}"],
+  out:["{card3} បង្ហាញពីទិសដៅដែលអ្វីៗកំពុងឆ្ពោះទៅ {time}៖ {outcome}","{card3} បង្ហាញពីទិសដៅដែលអ្វីៗកំពុងឆ្ពោះទៅ {time}៖ {outcome}"],
+  adv:["ពាក្យណែនាំសម្រាប់អ្នកឆ្នាំ{animal}៖ {advice}","សូមចងចាំ អ្នកឆ្នាំ{animal}៖ {advice}"],
+  theme:{MAJ:"មានសន្លឹកធំពីរ ឬច្រើនជាងនេះ ដូច្នេះនេះជារយៈពេលសំខាន់ ដែលមានមេរៀនមានតម្លៃយូរអង្វែង។",WAN:"សន្លឹកបៀរបស់អ្នកភាគច្រើនជាដំបង៖ ថាមពល មហិច្ឆតា និងសកម្មភាព ជាស្នូលនៃការទស្សន៍ទាយនេះ។",CUP:"សន្លឹកបៀរបស់អ្នកភាគច្រើនជាផ្តិល៖ អារម្មណ៍ និងទំនាក់ទំនង ជាស្នូលនៃការទស្សន៍ទាយនេះ។",SWO:"សន្លឹកបៀរបស់អ្នកភាគច្រើនជាដាវ៖ គំនិត ជម្រើស និងការប្រាស្រ័យទាក់ទងច្បាស់លាស់ ជាស្នូលនៃការទស្សន៍ទាយនេះ។",PEN:"សន្លឹកបៀរបស់អ្នកភាគច្រើនជាកាក់៖ រឿងជាក់ស្តែងដូចជា ការងារ លុយកាក់ និងជីវិតប្រចាំថ្ងៃ ជាស្នូលនៃការទស្សន៍ទាយនេះ។",MIX:"សន្លឹកបៀរបស់អ្នកមកពីផ្នែកផ្សេងៗនៃជីវិត ដូច្នេះផ្នែកជាច្រើននៃស្ថានភាពរបស់អ្នកមានទំនាក់ទំនងគ្នា។"},
+  tone:{B:"ទិដ្ឋភាពខាងមុខភ្លឺស្វាង។ សូមបន្តទៅមុខដោយទំនុកចិត្ត។",S:"ផ្លូវខាងមុខមានស្ថិរភាព។ ការខិតខំដោយអត់ធ្មត់នឹងកំណត់លទ្ធផល។",T:"ផ្លូវនេះទាមទារការប្រុងប្រយ័ត្ន ប៉ុន្តែរាល់ការលំបាកនៅទីនេះ មានមេរៀនដែលធ្វើឱ្យអ្នករឹងមាំជាងមុន។"},
+  disc:"ការទស្សន៍ទាយនេះសម្រាប់ការពិចារណា និងការកម្សាន្តប៉ុណ្ណោះ។ សម្រាប់ការសម្រេចចិត្តសំខាន់ៗទាក់ទងនឹងសុខភាព លុយកាក់ ឬច្បាប់ សូមពិគ្រោះជាមួយអ្នកជំនាញ។"}
+};
+
+/* ---------- helpers ---------- */
+function kn(n){return String(n).replace(/\d/g,d=>"០១២៣៤៥៦៧៨៩"[d]);}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+function fill(t,v){return t.replace(/\{(\w+)\}/g,(_,k)=>v[k]!==undefined?v[k]:"");}
+function fnv(str){let h=0x811c9dc5;for(let i=0;i<str.length;i++){h^=str.charCodeAt(i);h=Math.imul(h,0x01000193)>>>0;}return h;}
+
+const S={lang:"en",step:0,z:null,topic:null,q:null,time:null,cards:null,flipped:[false,false,false],shuffled:false};
+try{const l=localStorage.getItem("km-lang");if(l==="en"||l==="km")S.lang=l;}catch(e){}
+
+function cardName(c){return S.lang==="km"?c.km:c.en;}
+
+function buildReading(){
+ const L=S.lang,T=TPL[L],z=ZOD[S.z],tp=TOPICS[S.topic],c=S.cards;
+ const seed=fnv([z[0],tp.id+"-"+String(S.q+1).padStart(2,"0"),S.time,c[0].id,c[1].id,c[2].id].join("|"));
+ const v=i=>(seed>>i)&1;
+ const vals={question:L==="km"?tp.q[S.q][1]:tp.q[S.q][0],focus:L==="km"?tp.fk:tp.fe,time:TIME[L][S.time],
+  animal:L==="km"?z[2]:z[1],strength:L==="km"?z[6]:z[4],advice:L==="km"?z[7]:z[5],
+  card1:"<b>"+esc(cardName(c[0]))+"</b>",card2:"<b>"+esc(cardName(c[1]))+"</b>",card3:"<b>"+esc(cardName(c[2]))+"</b>",
+  present:c[0].m[L][0],challenge:c[1].m[L][1],outcome:c[2].m[L][2]};
+ ["question","focus","time","animal","strength","advice","present","challenge","outcome"].forEach(k=>vals[k]=esc(vals[k]));
+ const majors=c.filter(x=>x.major).length;let th="MIX";
+ if(majors>=2)th="MAJ";else{const cnt={};c.forEach(x=>{if(x.suit)cnt[x.suit]=(cnt[x.suit]||0)+1;});for(const k in cnt)if(cnt[k]>=2)th=k;}
+ return {open:fill(T.open[v(0)],vals),str:fill(T.str[v(1)],vals),pre:fill(T.pre[v(2)],vals),cha:fill(T.cha[v(3)],vals),out:fill(T.out[0],vals),
+  theme:esc(T.theme[th]+" "+T.tone[c[2].tag]),adv:fill(T.adv[v(4)],vals),close:esc(L==="km"?tp.ck:tp.ce),disc:esc(T.disc)};
+}
+
+/* ---------- art ---------- */
+const LOTUS=`<svg class="lotus" viewBox="0 0 120 80" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--gold)"><path d="M60 70C48 56 48 34 60 14C72 34 72 56 60 70Z"/><path d="M60 70C44 64 32 48 30 28C46 34 56 50 60 70Z"/><path d="M60 70C76 64 88 48 90 28C74 34 64 50 60 70Z"/><path d="M60 70C40 72 22 62 12 46C32 44 50 56 60 70Z"/><path d="M60 70C80 72 98 62 108 46C88 44 70 56 60 70Z"/></svg>`;
+const BACK=`<svg viewBox="0 0 70 120" aria-hidden="true"><rect x="5" y="5" width="60" height="110" rx="4" fill="none" stroke="#C9A45C" stroke-width=".8" opacity=".6"/><g transform="translate(35 60)" fill="#C9A45C"><circle r="23" fill="none" stroke="#C9A45C" stroke-width="1"/>${[0,45,90,135,180,225,270,315].map(a=>`<path transform="rotate(${a}) translate(0 -5)" d="M0 0C4 -5 4 -12 0 -17C-4 -12 -4 -5 0 0Z"/>`).join("")}<circle r="4" fill="#0F1A33" stroke="#C9A45C" stroke-width="1"/></g><path d="M35 14l3 6-3 6-3-6z M35 94l3 6-3 6-3-6z" fill="#C9A45C"/></svg>`;
+const EMB={
+ MAJ:`<svg viewBox="0 0 60 60" aria-hidden="true" fill="#C9A45C"><path d="M30 6l4 18 18-4-14 10 14 10-18-4-4 18-4-18-18 4 14-10L8 20l18 4z"/><circle cx="30" cy="30" r="5" fill="#0F1A33"/></svg>`,
+ WAN:`<svg viewBox="0 0 60 60" aria-hidden="true" fill="none" stroke="#C9A45C" stroke-width="2.4" stroke-linecap="round"><path d="M30 54V10"/><path d="M30 20c6-4 10-4 12-10M30 28c-6-4-10-4-12-10M30 36c6-3 9-2 11-7" stroke-width="1.6"/></svg>`,
+ CUP:`<svg viewBox="0 0 60 60" aria-hidden="true" fill="none" stroke="#C9A45C" stroke-width="2.2" stroke-linejoin="round"><path d="M12 22h36c0 12-8 20-18 20S12 34 12 22z"/><path d="M24 42l-2 8h16l-2-8"/><path d="M18 22c2-6 8-9 12-9s10 3 12 9" stroke-width="1.4"/></svg>`,
+ SWO:`<svg viewBox="0 0 60 60" aria-hidden="true" fill="none" stroke="#C9A45C" stroke-width="2.2" stroke-linecap="round"><path d="M30 6c3 6 3 24 0 34c-3-10-3-28 0-34z" fill="#C9A45C" fill-opacity=".25"/><path d="M20 42h20M30 42v10"/><circle cx="30" cy="54" r="2" fill="#C9A45C"/></svg>`,
+ PEN:`<svg viewBox="0 0 60 60" aria-hidden="true" fill="none" stroke="#C9A45C" stroke-width="2"><circle cx="30" cy="30" r="22"/><circle cx="30" cy="30" r="17" stroke-width="1"/><path d="M30 42c-6-6-6-14 0-20c6 6 6 14 0 20zM30 42c-8-1-12-6-13-12c7 0 11 5 13 12zM30 42c8-1 12-6 13-12c-7 0-11 5-13 12z" fill="#C9A45C" fill-opacity=".3"/></svg>`
+};
+function face(c){
+ const top=c.major?c.num:"";
+ return `<div class="cf" lang="${S.lang==="km"?"km":"en"}"><span class="num">${esc(top)}</span>${EMB[c.major?"MAJ":c.suit]}<span class="nm">${esc(cardName(c))}</span></div>`;
+}
+
+/* ---------- render ---------- */
+const app=document.getElementById("app");
+function t(){return UI[S.lang];}
+function header(){
+ const u=t();
+ const stepTxt=S.step>=1&&S.step<=5?u.step(S.step):"";
+ return `<div class="top"><button class="back" data-act="back" ${S.step===0?"hidden":""}>‹ ${esc(u.back)}</button><span class="step">${esc(stepTxt)}</span>
+ <div class="lang" role="group" aria-label="Language"><button data-lang="en" aria-pressed="${S.lang==="en"}">EN</button><button data-lang="km" aria-pressed="${S.lang==="km"}" lang="km">ខ្មែរ</button></div></div>`;
+}
+function render(){
+ document.documentElement.lang=S.lang==="km"?"km":"en";
+ const u=t();let h=header();
+ if(S.step===0){
+  h+=`<div class="hero">${LOTUS}<h1>Khmer Mystic</h1><p class="tag">${esc(u.tag)}</p></div>
+  <p class="label">${esc(u.chooseLang)}</p>
+  <div class="langpick"><button data-lang="en" aria-pressed="${S.lang==="en"}">English</button><button data-lang="km" aria-pressed="${S.lang==="km"}" lang="km">ភាសាខ្មែរ</button></div>
+  <button class="primary" data-act="go" data-to="1">${esc(u.start)}</button>
+  <p class="proto">${esc(u.proto)}</p>`;
+ }else if(S.step===1){
+  h+=`<h2>${esc(u.zTitle)}</h2><p class="hint">${esc(u.zHint)}</p><div class="zgrid">`+
+  ZOD.map((z,i)=>`<button data-z="${i}" aria-pressed="${S.z===i}"><span class="em" aria-hidden="true">${z[3]}</span><span class="n">${esc(S.lang==="km"?z[2]:z[1])}</span><span class="s">${esc(S.lang==="km"?z[1]:z[2])}</span></button>`).join("")+`</div>`;
+ }else if(S.step===2){
+  if(S.topic===null){
+   h+=`<h2>${esc(u.topicTitle)}</h2><div class="list" style="margin-top:16px">`+
+   TOPICS.map((tp,i)=>`<button data-topic="${i}"><span>${esc(S.lang==="km"?tp.km:tp.en)}</span><span class="chev" aria-hidden="true">›</span></button>`).join("")+`</div>`;
+  }else{
+   const tp=TOPICS[S.topic];
+   h+=`<h2>${esc(u.qTitle)}</h2><p class="hint">${esc(S.lang==="km"?tp.km:tp.en)}</p><div class="list">`+
+   tp.q.map((q,i)=>`<button data-q="${i}" aria-pressed="${S.q===i}"><span>${esc(S.lang==="km"?q[1]:q[0])}</span></button>`).join("")+`</div>`;
+  }
+ }else if(S.step===3){
+  h+=`<h2>${esc(u.tTitle)}</h2><p class="hint">${esc(u.tHint)}</p><div class="tgrid">`+
+  u.times.map((x,i)=>`<button data-time="${i}" aria-pressed="${S.time===i}"><div class="n">${esc(x[0])}</div><div class="s">${esc(x[1])}</div></button>`).join("")+`</div>`;
+ }else if(S.step===4){
+  h+=`<h2>${esc(u.dTitle)}</h2><p class="hint">${esc(u.dHint)}</p>`;
+  if(!S.cards){
+   h+=`<div class="deck" id="deck"><div class="cb">${BACK}</div><div class="cb" style="transform:rotate(-4deg)">${BACK}</div><div class="cb" style="transform:rotate(3deg)">${BACK}</div></div>
+   <button class="primary" data-act="draw">${esc(u.draw)}</button>`;
+  }else{
+   const all=S.flipped.every(Boolean);
+   h+=`<div class="slots">`+S.cards.map((c,i)=>`<div class="slot"><button class="flip ${S.flipped[i]?"open":""}" data-flip="${i}" ${S.flipped[i]?"disabled":""} aria-label="${esc(u.pos[i])}${S.flipped[i]?": "+esc(cardName(c)):""}"><div class="inner"><div class="side"><div class="cb">${BACK}</div></div><div class="side front">${face(c)}</div></div></button><span class="pos">${esc(u.pos[i])}</span></div>`).join("")+`</div>
+   <p class="tapnote">${all?"":esc(u.tap)}</p>
+   <div class="foot"><button class="primary" data-act="go" data-to="5" ${all?"":"disabled"}>${esc(u.see)}</button></div>`;
+  }
+ }else if(S.step===5){
+  const r=buildReading();
+  h+=`<h2>${esc(u.rTitle)}</h2><div class="mini">`+S.cards.map((c,i)=>`<div>${face(c)}<div class="pos">${esc(u.pos[i])}</div></div>`).join("")+`</div>
+  <div class="reading"><p class="lead">${r.open}</p><p>${r.str}</p><p class="cardp">${r.pre}</p><p class="cardp">${r.cha}</p><p class="cardp">${r.out}</p><p class="theme">${r.theme}</p><p>${r.adv}</p><p>${r.close}</p><p class="disc">${r.disc}</p></div>
+  <button class="primary" data-act="again">${esc(u.again)}</button><button class="ghost" data-act="restart">${esc(u.restart)}</button>`;
+ }
+ app.innerHTML=h;
+}
+
+function go(n){S.step=n;render();window.scrollTo(0,0);}
+app.addEventListener("click",e=>{
+ const b=e.target.closest("button");if(!b)return;
+ if(b.dataset.lang){S.lang=b.dataset.lang;try{localStorage.setItem("km-lang",S.lang);}catch(err){}render();return;}
+ if(b.dataset.z!==undefined){S.z=+b.dataset.z;go(2);return;}
+ if(b.dataset.topic!==undefined){S.topic=+b.dataset.topic;S.q=null;render();window.scrollTo(0,0);return;}
+ if(b.dataset.q!==undefined){S.q=+b.dataset.q;go(3);return;}
+ if(b.dataset.time!==undefined){S.time=+b.dataset.time;S.cards=null;S.flipped=[false,false,false];go(4);return;}
+ if(b.dataset.flip!==undefined){const i=+b.dataset.flip;S.flipped[i]=true;const el=b;el.classList.add("open");el.disabled=true;
+  setTimeout(render,matchMedia("(prefers-reduced-motion: reduce)").matches?0:720);return;}
+ const a=b.dataset.act;
+ if(a==="go"){go(+b.dataset.to);return;}
+ if(a==="draw"){
+  const deck=document.getElementById("deck");
+  const pick=()=>{const idx=new Set();while(idx.size<3)idx.add(Math.floor(Math.random()*DECK.length));S.cards=[...idx].map(i=>DECK[i]);S.flipped=[false,false,false];render();};
+  if(deck&&!matchMedia("(prefers-reduced-motion: reduce)").matches){deck.classList.add("shuffle");b.disabled=true;setTimeout(pick,950);}else pick();
+  return;}
+ if(a==="again"){S.topic=null;S.q=null;S.time=null;S.cards=null;go(2);return;}
+ if(a==="restart"){Object.assign(S,{z:null,topic:null,q:null,time:null,cards:null,flipped:[false,false,false]});go(0);return;}
+ if(a==="back"){
+  if(S.step===2&&S.topic!==null){S.topic=null;render();return;}
+  if(S.step===5){S.step=4;render();return;}
+  if(S.step===4){S.cards=null;S.flipped=[false,false,false];}
+  if(S.step===3){go(2);return;}
+  go(Math.max(0,S.step-1));return;}
+});
+render();
+})();
+</script>
+</body>
+</html>

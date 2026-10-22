@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "MAJ-00",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "0",
+    "tag": "bright",
+    "name": {
+      "en": "The Fool",
+      "km": "មនុស្សឆោត"
+    },
+    "meaning": {
+      "present": {
+        "en": "You stand at a fresh beginning, open to new experiences and ready to take a first step.",
+        "km": "អ្នកកំពុងឈរនៅចំណុចចាប់ផ្តើមថ្មី បើកចិត្តទទួលបទពិសោធន៍ថ្មី និងត្រៀមបោះជំហានដំបូង។"
+      },
+      "challenge": {
+        "en": "Excitement may rush you past important details; look before you leap.",
+        "km": "ភាពរំភើបអាចធ្វើឱ្យអ្នកប្រញាប់ ហើយមើលរំលងចំណុចសំខាន់ៗ។ សូមពិចារណាមុននឹងសម្រេច។"
+      },
+      "outcome": {
+        "en": "A brave new chapter opens, bringing growth through experience.",
+        "km": "ជំពូកថ្មីដ៏ក្លាហានកំពុងបើកឡើង នាំមកនូវការរីកចម្រើនតាមរយៈបទពិសោធន៍។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-01",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "I",
+    "tag": "bright",
+    "name": {
+      "en": "The Magician",
+      "km": "គ្រូមន្តអាគម"
+    },
+    "meaning": {
+      "present": {
+        "en": "You already hold the tools and talent you need; this is a time to act.",
+        "km": "អ្នកមានឧបករណ៍ និងទេពកោសល្យគ្រប់គ្រាន់ហើយ។ នេះជាពេលត្រូវចាប់ផ្តើមធ្វើ។"
+      },
+      "challenge": {
+        "en": "Scattered energy weakens your power; choose one goal and commit.",
+        "km": "ថាមពលដែលខ្ចាត់ខ្ចាយធ្វើឱ្យអ្នកចុះខ្សោយ។ សូមជ្រើសរើសគោលដៅមួយ ហើយប្តេជ្ញាធ្វើឱ្យសម្រេច។"
+      },
+      "outcome": {
+        "en": "Clear effort turns your ideas into real results.",
+        "km": "ការខិតខំដ៏ច្បាស់លាស់នឹងប្រែក្លាយគំនិតរបស់អ្នកទៅជាលទ្ធផលពិតប្រាកដ។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-02",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "II",
+    "tag": "steady",
+    "name": {
+      "en": "The High Priestess",
+      "km": "ព្រាហ្មណីកំពូល"
+    },
+    "meaning": {
+      "present": {
+        "en": "Your inner voice knows more than you admit; listen in stillness.",
+        "km": "សំឡេងក្នុងចិត្តរបស់អ្នកដឹងច្រើនជាងអ្វីដែលអ្នកទទួលស្គាល់។ សូមស្តាប់វានៅពេលស្ងប់ស្ងាត់។"
+      },
+      "challenge": {
+        "en": "Not everything is visible yet; avoid deciding before the truth appears.",
+        "km": "មិនមែនអ្វីៗទាំងអស់សុទ្ធតែច្បាស់នៅឡើយទេ។ សូមកុំសម្រេចចិត្តមុនពេលការពិតលេចចេញ។"
+      },
+      "outcome": {
+        "en": "Hidden answers come to light and guide you well.",
+        "km": "ចម្លើយដែលលាក់កំបាំងនឹងលេចចេញ ហើយណែនាំអ្នកបានល្អ។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-03",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "III",
+    "tag": "bright",
+    "name": {
+      "en": "The Empress",
+      "km": "ព្រះមហាក្សត្រិយានី"
+    },
+    "meaning": {
+      "present": {
+        "en": "Your life is in a fertile season; what you nurture is growing.",
+        "km": "ជីវិតអ្នកស្ថិតក្នុងរដូវដ៏សម្បូរ។ អ្វីដែលអ្នកថែរក្សាកំពុងលូតលាស់។"
+      },
+      "challenge": {
+        "en": "Giving too much to others can drain you; care for yourself too.",
+        "km": "ការផ្តល់ឱ្យអ្នកដទៃច្រើនពេកអាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមថែរក្សាខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "Patience brings comfort, beauty and a rich harvest.",
+        "km": "ការអត់ធ្មត់នឹងនាំមកនូវភាពសុខស្រួល សម្រស់ និងផលដ៏បរិបូរណ៍។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-04",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "IV",
+    "tag": "steady",
+    "name": {
+      "en": "The Emperor",
+      "km": "ព្រះចក្រពត្តិ"
+    },
+    "meaning": {
+      "present": {
+        "en": "Order and steady leadership are needed now; take charge calmly.",
+        "km": "ពេលនេះត្រូវការសណ្តាប់ធ្នាប់ និងការដឹកនាំដ៏ខ្ជាប់ខ្ជួន។ សូមដឹកនាំដោយស្ងប់ស្ងាត់។"
+      },
+      "challenge": {
+        "en": "Rigid control can push people away; lead with fairness.",
+        "km": "ការគ្រប់គ្រងតឹងរ៉ឹងពេកអាចធ្វើឱ្យមនុស្សឃ្លាតឆ្ងាយ។ សូមដឹកនាំដោយយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "A strong, stable foundation supports long-term success.",
+        "km": "មូលដ្ឋានដ៏រឹងមាំ និងស្ថិរភាព នឹងគាំទ្រភាពជោគជ័យរយៈពេលវែង។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-05",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "V",
+    "tag": "steady",
+    "name": {
+      "en": "The Hierophant",
+      "km": "គ្រូអាចារ្យ"
+    },
+    "meaning": {
+      "present": {
+        "en": "Respected teachers, customs and proven paths can guide you now.",
+        "km": "គ្រូដែលគួរគោរព ទំនៀមទម្លាប់ និងផ្លូវដែលបានបញ្ជាក់ហើយ អាចណែនាំអ្នកនៅពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Following rules blindly may hold you back; keep what still serves you.",
+        "km": "ការធ្វើតាមច្បាប់ដោយមិនគិតអាចរារាំងអ្នក។ សូមរក្សាទុកតែអ្វីដែលនៅមានប្រយោជន៍។"
+      },
+      "outcome": {
+        "en": "Wise advice and shared values bring security and belonging.",
+        "km": "ដំបូន្មានដ៏ឈ្លាសវៃ និងគុណតម្លៃរួម នាំមកនូវសុវត្ថិភាព និងការរួបរួម។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-06",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "VI",
+    "tag": "bright",
+    "name": {
+      "en": "The Lovers",
+      "km": "គូស្នេហ៍"
+    },
+    "meaning": {
+      "present": {
+        "en": "An important bond or choice is at the heart of your situation.",
+        "km": "ចំណងទាក់ទង ឬជម្រើសដ៏សំខាន់មួយ ស្ថិតនៅចំកណ្តាលស្ថានភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Mixed feelings or values create doubt; choose what is true to your heart.",
+        "km": "អារម្មណ៍ ឬគុណតម្លៃខុសគ្នាបង្កើតការសង្ស័យ។ សូមជ្រើសរើសអ្វីដែលស្មោះត្រង់នឹងចិត្តអ្នក។"
+      },
+      "outcome": {
+        "en": "Honest choices bring harmony and deeper connection.",
+        "km": "ជម្រើសដ៏ស្មោះត្រង់នាំមកនូវភាពសុខដុម និងទំនាក់ទំនងកាន់តែជ្រាលជ្រៅ។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-07",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "VII",
+    "tag": "bright",
+    "name": {
+      "en": "The Chariot",
+      "km": "រថសេះ"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are moving forward with determination; keep your direction clear.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅមុខដោយការតាំងចិត្ត។ សូមរក្សាទិសដៅឱ្យច្បាស់។"
+      },
+      "challenge": {
+        "en": "Opposing pulls can stall you; unite your thoughts and actions.",
+        "km": "ការទាញទៅទិសផ្ទុយគ្នាអាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមរួបរួមគំនិត និងសកម្មភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Focused effort carries you to a well-earned success.",
+        "km": "ការខិតខំដោយផ្តោតអារម្មណ៍ នាំអ្នកទៅរកភាពជោគជ័យដែលសមនឹងទទួលបាន។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-08",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "VIII",
+    "tag": "bright",
+    "name": {
+      "en": "Strength",
+      "km": "កម្លាំង"
+    },
+    "meaning": {
+      "present": {
+        "en": "Quiet courage and kindness are your greatest power now.",
+        "km": "ភាពក្លាហានដ៏ស្ងប់ស្ងាត់ និងសេចក្តីសប្បុរស គឺជាកម្លាំងដ៏ធំបំផុតរបស់អ្នកនៅពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Frustration may tempt you to force things; gentle persistence works better.",
+        "km": "ការខកចិត្តអាចល្បួងឱ្យអ្នកបង្ខំ។ ការតស៊ូដោយទន់ភ្លន់មានប្រសិទ្ធភាពជាង។"
+      },
+      "outcome": {
+        "en": "Calm confidence helps you overcome what once seemed hard.",
+        "km": "ទំនុកចិត្តដ៏ស្ងប់ស្ងាត់ជួយអ្នកឱ្យជម្នះអ្វីដែលធ្លាប់មើលទៅពិបាក។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-09",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "IX",
+    "tag": "steady",
+    "name": {
+      "en": "The Hermit",
+      "km": "ឥសី"
+    },
+    "meaning": {
+      "present": {
+        "en": "This is a time to step back, reflect and seek your own answers.",
+        "km": "នេះជាពេលត្រូវដកខ្លួនបន្តិច ពិចារណា និងស្វែងរកចម្លើយដោយខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Too much withdrawal can leave you isolated; share your light when ready.",
+        "km": "ការដកខ្លួនច្រើនពេកអាចធ្វើឱ្យអ្នកឯកោ។ សូមចែករំលែកពន្លឺរបស់អ្នកនៅពេលរួចរាល់។"
+      },
+      "outcome": {
+        "en": "Inner wisdom shows you the right path forward.",
+        "km": "ប្រាជ្ញាខាងក្នុងបង្ហាញអ្នកនូវផ្លូវត្រឹមត្រូវទៅមុខ។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-10",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "X",
+    "tag": "bright",
+    "name": {
+      "en": "Wheel of Fortune",
+      "km": "កង់វាសនា"
+    },
+    "meaning": {
+      "present": {
+        "en": "Life is turning; circumstances are shifting around you.",
+        "km": "ជីវិតកំពុងវិល។ កាលៈទេសៈនៅជុំវិញអ្នកកំពុងប្រែប្រួល។"
+      },
+      "challenge": {
+        "en": "You cannot control every change; adapt instead of resisting.",
+        "km": "អ្នកមិនអាចគ្រប់គ្រងរាល់ការផ្លាស់ប្តូរបានទេ។ សូមសម្របខ្លួនជំនួសឱ្យការប្រឆាំង។"
+      },
+      "outcome": {
+        "en": "A new cycle brings fresh luck and opportunity.",
+        "km": "វដ្តថ្មីនាំមកនូវសំណាង និងឱកាសថ្មី។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-11",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XI",
+    "tag": "steady",
+    "name": {
+      "en": "Justice",
+      "km": "យុត្តិធម៌"
+    },
+    "meaning": {
+      "present": {
+        "en": "Fair decisions and honest dealings matter most right now.",
+        "km": "ការសម្រេចចិត្តដោយយុត្តិធម៌ និងភាពស្មោះត្រង់ សំខាន់បំផុតនៅពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Imbalance or one-sided thinking causes trouble; weigh all sides.",
+        "km": "ភាពមិនស្មើគ្នា ឬការគិតតែម្ខាង បង្កបញ្ហា។ សូមថ្លឹងថ្លែងគ្រប់ជ្រុង។"
+      },
+      "outcome": {
+        "en": "Truth and fairness lead to a balanced, deserved result.",
+        "km": "ការពិត និងយុត្តិធម៌ នាំទៅរកលទ្ធផលដែលមានតុល្យភាព និងសមរម្យ។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-12",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XII",
+    "tag": "testing",
+    "name": {
+      "en": "The Hanged Man",
+      "km": "បុរសព្យួរ"
+    },
+    "meaning": {
+      "present": {
+        "en": "Things feel on hold; a pause is giving you a new view.",
+        "km": "អ្វីៗហាក់ដូចជាផ្អាក។ ការផ្អាកនេះកំពុងផ្តល់ឱ្យអ្នកនូវទស្សនៈថ្មី។"
+      },
+      "challenge": {
+        "en": "Struggling against delay only tires you; let go and look differently.",
+        "km": "ការតស៊ូប្រឆាំងនឹងការពន្យារពេលធ្វើឱ្យអ្នកហត់នឿយ។ សូមលែងប្រកាន់ ហើយមើលពីជ្រុងផ្សេង។"
+      },
+      "outcome": {
+        "en": "A fresh perspective reveals a better way forward.",
+        "km": "ទស្សនៈថ្មីបង្ហាញផ្លូវដ៏ល្អប្រសើរជាងមុន។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-13",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XIII",
+    "tag": "steady",
+    "name": {
+      "en": "Death",
+      "km": "មរណៈ"
+    },
+    "meaning": {
+      "present": {
+        "en": "One chapter is closing so another can begin.",
+        "km": "ជំពូកមួយកំពុងបិទ ដើម្បីឱ្យជំពូកថ្មីចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Holding on to what has ended blocks your growth; release it gently.",
+        "km": "ការប្រកាន់ខ្ជាប់អ្វីដែលបានបញ្ចប់ រារាំងការរីកចម្រើន។ សូមលែងវាដោយទន់ភ្លន់។"
+      },
+      "outcome": {
+        "en": "Real transformation clears space for a renewed life.",
+        "km": "ការផ្លាស់ប្តូរពិតប្រាកដ បើកលំហសម្រាប់ជីវិតថ្មី។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-14",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XIV",
+    "tag": "bright",
+    "name": {
+      "en": "Temperance",
+      "km": "តុល្យភាព"
+    },
+    "meaning": {
+      "present": {
+        "en": "Balance and patience are bringing things into harmony.",
+        "km": "តុល្យភាព និងការអត់ធ្មត់ កំពុងនាំអ្វីៗឱ្យចុះសម្រុងគ្នា។"
+      },
+      "challenge": {
+        "en": "Extremes or haste upset your progress; find the middle way.",
+        "km": "ភាពជ្រុល ឬការប្រញាប់ ធ្វើឱ្យដំណើររបស់អ្នករាំងស្ទះ។ សូមរកផ្លូវកណ្តាល។"
+      },
+      "outcome": {
+        "en": "Steady moderation brings peace and lasting improvement.",
+        "km": "ភាពល្មមល្មើយជាប់លាប់ នាំមកនូវសន្តិភាព និងភាពប្រសើរឡើងយូរអង្វែង។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-15",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XV",
+    "tag": "testing",
+    "name": {
+      "en": "The Devil",
+      "km": "យក្ស"
+    },
+    "meaning": {
+      "present": {
+        "en": "Something may be holding you more tightly than you realize.",
+        "km": "អ្វីមួយប្រហែលជាកំពុងចងអ្នកតឹងជាងអ្វីដែលអ្នកដឹង។"
+      },
+      "challenge": {
+        "en": "Habits or fears keep you stuck; the chains are looser than they seem.",
+        "km": "ទម្លាប់ ឬការភ័យខ្លាច ធ្វើឱ្យអ្នកជាប់គាំង។ ច្រវាក់នោះធូរជាងអ្វីដែលអ្នកគិត។"
+      },
+      "outcome": {
+        "en": "Breaking free from what limits you brings new freedom.",
+        "km": "ការរំដោះខ្លួនពីអ្វីដែលកំណត់អ្នក នាំមកនូវសេរីភាពថ្មី។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-16",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XVI",
+    "tag": "testing",
+    "name": {
+      "en": "The Tower",
+      "km": "ប្រាង្គ"
+    },
+    "meaning": {
+      "present": {
+        "en": "Unexpected change is shaking up your plans.",
+        "km": "ការផ្លាស់ប្តូរដែលមិនបានរំពឹងទុក កំពុងរង្គើផែនការរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Clinging to what is falling makes it harder; let weak structures go.",
+        "km": "ការតោងអ្វីដែលកំពុងដួលរលំ ធ្វើឱ្យកាន់តែពិបាក។ សូមលែងរចនាសម្ព័ន្ធដែលខ្សោយ។"
+      },
+      "outcome": {
+        "en": "After the shake-up, you can rebuild on a stronger foundation.",
+        "km": "ក្រោយការរង្គើ អ្នកអាចសាងសង់ឡើងវិញលើមូលដ្ឋានដ៏រឹងមាំជាងមុន។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-17",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XVII",
+    "tag": "bright",
+    "name": {
+      "en": "The Star",
+      "km": "ផ្កាយ"
+    },
+    "meaning": {
+      "present": {
+        "en": "Hope is returning; you are healing and finding new faith.",
+        "km": "ក្តីសង្ឃឹមកំពុងត្រឡប់មកវិញ។ អ្នកកំពុងជាសះស្បើយ និងរកឃើញជំនឿថ្មី។"
+      },
+      "challenge": {
+        "en": "Doubt may dim your light; keep believing in your direction.",
+        "km": "ការសង្ស័យអាចធ្វើឱ្យពន្លឺរបស់អ្នកស្រអាប់។ សូមបន្តជឿលើទិសដៅរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Renewal and inspiration bring a brighter, calmer future.",
+        "km": "ការកើតជាថ្មី និងការបំផុសគំនិត នាំមកនូវអនាគតភ្លឺស្វាង និងស្ងប់ស្ងាត់។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-18",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XVIII",
+    "tag": "testing",
+    "name": {
+      "en": "The Moon",
+      "km": "ព្រះចន្ទ"
+    },
+    "meaning": {
+      "present": {
+        "en": "Things are unclear and feelings run deep; trust your intuition.",
+        "km": "អ្វីៗមិនទាន់ច្បាស់ ហើយអារម្មណ៍ជ្រាលជ្រៅ។ សូមទុកចិត្តលើវិចារណញាណរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Fears or confusion can mislead you; check facts before acting.",
+        "km": "ការភ័យខ្លាច ឬការច្របូកច្របល់ អាចនាំអ្នកវង្វេង។ សូមពិនិត្យការពិតមុននឹងធ្វើ។"
+      },
+      "outcome": {
+        "en": "The fog lifts, and the truth becomes clear.",
+        "km": "អ័ព្ទនឹងរសាត់បាត់ ហើយការពិតនឹងច្បាស់។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-19",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XIX",
+    "tag": "bright",
+    "name": {
+      "en": "The Sun",
+      "km": "ព្រះអាទិត្យ"
+    },
+    "meaning": {
+      "present": {
+        "en": "A time of positivity, clarity and growing confidence surrounds you.",
+        "km": "ពេលវេលានៃភាពវិជ្ជមាន ភាពច្បាស់លាស់ និងទំនុកចិត្ត កំពុងនៅជុំវិញអ្នក។"
+      },
+      "challenge": {
+        "en": "Overconfidence can blind you to details; stay humble and attentive.",
+        "km": "ការជឿជាក់លើខ្លួនឯងហួសហេតុ អាចធ្វើឱ្យអ្នកមើលរំលងព័ត៌មានលម្អិត។ សូមរាបទាប និងប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Success, happiness and warm recognition are within reach.",
+        "km": "ភាពជោគជ័យ សុភមង្គល និងការទទួលស្គាល់ដ៏កក់ក្តៅ ស្ថិតនៅក្បែរដៃ។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-20",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XX",
+    "tag": "bright",
+    "name": {
+      "en": "Judgement",
+      "km": "ការវិនិច្ឆ័យ"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are being called to review your path and rise to something new.",
+        "km": "អ្នកកំពុងត្រូវបានហៅឱ្យពិនិត្យផ្លូវរបស់អ្នក ហើយក្រោកឡើងទៅរកអ្វីថ្មី។"
+      },
+      "challenge": {
+        "en": "Self-criticism can hold you back; learn from the past and move on.",
+        "km": "ការរិះគន់ខ្លួនឯងអាចរារាំងអ្នក។ សូមរៀនពីអតីតកាល ហើយបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A clear decision brings renewal and a new purpose.",
+        "km": "ការសម្រេចចិត្តដ៏ច្បាស់លាស់ នាំមកនូវការកើតជាថ្មី និងគោលបំណងថ្មី។"
+      }
+    }
+  },
+  {
+    "id": "MAJ-21",
+    "arcana": "major",
+    "suit": null,
+    "numeral": "XXI",
+    "tag": "bright",
+    "name": {
+      "en": "The World",
+      "km": "ពិភពលោក"
+    },
+    "meaning": {
+      "present": {
+        "en": "A cycle is reaching completion; you can see how far you have come.",
+        "km": "វដ្តមួយកំពុងបញ្ចប់។ អ្នកអាចមើលឃើញថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា។"
+      },
+      "challenge": {
+        "en": "Unfinished details may delay closure; complete what remains.",
+        "km": "ព័ត៌មានលម្អិតដែលមិនទាន់រួច អាចពន្យារការបញ្ចប់។ សូមបំពេញអ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Fulfillment and success open the door to a new journey.",
+        "km": "ការបំពេញបំណង និងភាពជោគជ័យ បើកទ្វារទៅកាន់ដំណើរថ្មី។"
+      }
+    }
+  },
+  {
+    "id": "WAN-01",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Ace of Wands",
+      "km": "ដំបង ១"
+    },
+    "meaning": {
+      "present": {
+        "en": "A fresh spark of energy and inspiration is with you now.",
+        "km": "ផ្កាភ្លើងនៃថាមពល និងការបំផុសគំនិតថ្មី កំពុងនៅជាមួយអ្នក។"
+      },
+      "challenge": {
+        "en": "Enthusiasm may fade without a plan; give your idea a first step.",
+        "km": "ភាពរំភើបអាចរសាយបាត់ បើគ្មានផែនការ។ សូមបោះជំហានដំបូងសម្រាប់គំនិតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A bold new venture can take off.",
+        "km": "គម្រោងថ្មីដ៏ក្លាហានអាចចាប់ផ្តើមបានយ៉ាងល្អ។"
+      }
+    }
+  },
+  {
+    "id": "WAN-02",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Two of Wands",
+      "km": "ដំបង ២"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are looking ahead and weighing future plans.",
+        "km": "អ្នកកំពុងមើលទៅមុខ ហើយថ្លឹងថ្លែងផែនការអនាគត។"
+      },
+      "challenge": {
+        "en": "Staying in planning too long delays progress; choose a direction.",
+        "km": "ការរៀបចំផែនការយូរពេក ពន្យារការរីកចម្រើន។ សូមជ្រើសរើសទិសដៅមួយ។"
+      },
+      "outcome": {
+        "en": "A clear plan opens wider horizons.",
+        "km": "ផែនការច្បាស់លាស់ បើកជើងមេឃកាន់តែទូលាយ។"
+      }
+    }
+  },
+  {
+    "id": "WAN-03",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Three of Wands",
+      "km": "ដំបង ៣"
+    },
+    "meaning": {
+      "present": {
+        "en": "Your efforts are starting to move outward and grow.",
+        "km": "ការខិតខំរបស់អ្នក កំពុងចាប់ផ្តើមរីកចម្រើន និងពង្រីកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Waiting for results can feel slow; keep watching for openings.",
+        "km": "ការរង់ចាំលទ្ធផលអាចហាក់ដូចយឺត។ សូមបន្តតាមដានឱកាស។"
+      },
+      "outcome": {
+        "en": "Opportunities arrive from further than you expected.",
+        "km": "ឱកាសនឹងមកដល់ពីកន្លែងឆ្ងាយជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    }
+  },
+  {
+    "id": "WAN-04",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Four of Wands",
+      "km": "ដំបង ៤"
+    },
+    "meaning": {
+      "present": {
+        "en": "There is reason to celebrate a stable, happy moment.",
+        "km": "មានហេតុផលដើម្បីអបអរពេលវេលាដ៏រីករាយ និងមានស្ថិរភាព។"
+      },
+      "challenge": {
+        "en": "Busy days can make you forget to enjoy success; pause and appreciate it.",
+        "km": "ភាពមមាញឹកអាចធ្វើឱ្យអ្នកភ្លេចរីករាយនឹងភាពជោគជ័យ។ សូមឈប់សម្រាក ហើយកោតសរសើរវា។"
+      },
+      "outcome": {
+        "en": "Joyful gatherings and a secure foundation lie ahead.",
+        "km": "ការជួបជុំដ៏រីករាយ និងមូលដ្ឋានដ៏មានសុវត្ថិភាព កំពុងរង់ចាំខាងមុខ។"
+      }
+    }
+  },
+  {
+    "id": "WAN-05",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Five of Wands",
+      "km": "ដំបង ៥"
+    },
+    "meaning": {
+      "present": {
+        "en": "Different opinions and competition surround you.",
+        "km": "មតិខុសៗគ្នា និងការប្រកួតប្រជែង កំពុងនៅជុំវិញអ្នក។"
+      },
+      "challenge": {
+        "en": "Small conflicts waste energy; listen first, then speak.",
+        "km": "ជម្លោះតូចតាចខ្ជះខ្ជាយថាមពល។ សូមស្តាប់ជាមុន ទើបនិយាយ។"
+      },
+      "outcome": {
+        "en": "Healthy competition sharpens your skills and leads to agreement.",
+        "km": "ការប្រកួតប្រជែងដ៏ល្អ ពង្រឹងជំនាញរបស់អ្នក ហើយនាំទៅរកការព្រមព្រៀង។"
+      }
+    }
+  },
+  {
+    "id": "WAN-06",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Six of Wands",
+      "km": "ដំបង ៦"
+    },
+    "meaning": {
+      "present": {
+        "en": "Your efforts are being noticed and appreciated.",
+        "km": "ការខិតខំរបស់អ្នកកំពុងត្រូវបានគេកត់សម្គាល់ និងកោតសរសើរ។"
+      },
+      "challenge": {
+        "en": "Pride can create distance; share credit generously.",
+        "km": "មោទនភាពហួសហេតុអាចបង្កើតគម្លាត។ សូមចែករំលែកកិត្តិយសដោយចិត្តទូលាយ។"
+      },
+      "outcome": {
+        "en": "Public success and well-earned recognition are likely.",
+        "km": "ភាពជោគជ័យជាសាធារណៈ និងការទទួលស្គាល់ដែលសមនឹងទទួលបាន ទំនងជានឹងមកដល់។"
+      }
+    }
+  },
+  {
+    "id": "WAN-07",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Seven of Wands",
+      "km": "ដំបង ៧"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are holding your position against pressure.",
+        "km": "អ្នកកំពុងរក្សាជំហររបស់អ្នក ទោះមានសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Feeling outnumbered can wear you down; stay firm but choose your battles.",
+        "km": "ការមានអារម្មណ៍ថាម្នាក់ឯងទល់នឹងច្រើនអាចធ្វើឱ្យអស់កម្លាំង។ សូមឈរមាំ តែជ្រើសរើសសមរភូមិឱ្យល្អ។"
+      },
+      "outcome": {
+        "en": "Persistence lets you keep what matters.",
+        "km": "ការតស៊ូជួយអ្នករក្សាអ្វីដែលសំខាន់។"
+      }
+    }
+  },
+  {
+    "id": "WAN-08",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Eight of Wands",
+      "km": "ដំបង ៨"
+    },
+    "meaning": {
+      "present": {
+        "en": "Things are moving quickly; news or progress is on its way.",
+        "km": "អ្វីៗកំពុងដំណើរការយ៉ាងលឿន។ ដំណឹង ឬការរីកចម្រើនកំពុងមកដល់។"
+      },
+      "challenge": {
+        "en": "Rushing can cause mistakes; keep pace but stay careful.",
+        "km": "ការប្រញាប់អាចបង្កកំហុស។ សូមរក្សាល្បឿន តែប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Fast progress brings things together quickly.",
+        "km": "ការរីកចម្រើនរហ័សនាំអ្វីៗមកជួបគ្នាយ៉ាងឆាប់។"
+      }
+    }
+  },
+  {
+    "id": "WAN-09",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Nine of Wands",
+      "km": "ដំបង ៩"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are tired but still standing strong.",
+        "km": "អ្នកនឿយហត់ តែនៅតែឈរមាំ។"
+      },
+      "challenge": {
+        "en": "Old disappointments make you guarded; trust that you are close to the end.",
+        "km": "ការខកចិត្តពីមុនធ្វើឱ្យអ្នកប្រុងប្រយ័ត្នពេក។ សូមជឿថាអ្នកជិតដល់ទីបញ្ចប់ហើយ។"
+      },
+      "outcome": {
+        "en": "One last push carries you through.",
+        "km": "ការប្រឹងប្រែងចុងក្រោយ នាំអ្នកឆ្លងផុតដោយជោគជ័យ។"
+      }
+    }
+  },
+  {
+    "id": "WAN-10",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Ten of Wands",
+      "km": "ដំបង ១០"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are carrying a heavy load of duties.",
+        "km": "អ្នកកំពុងលីបន្ទុកការងារ និងភារកិច្ចដ៏ធ្ងន់។"
+      },
+      "challenge": {
+        "en": "Taking on too much drains you; delegate or set some things down.",
+        "km": "ការទទួលយកច្រើនពេកធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមចែករំលែក ឬដាក់ចុះខ្លះ។"
+      },
+      "outcome": {
+        "en": "Lightening your load brings relief and better focus.",
+        "km": "ការបន្ថយបន្ទុក នាំមកនូវភាពធូរស្រាល និងការផ្តោតកាន់តែល្អ។"
+      }
+    }
+  },
+  {
+    "id": "WAN-11",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Page of Wands",
+      "km": "កុមារដំបង"
+    },
+    "meaning": {
+      "present": {
+        "en": "A curious, adventurous energy is guiding you.",
+        "km": "ថាមពលនៃការចង់ដឹង និងការផ្សងព្រេង កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Ideas may stay unfinished; follow one through.",
+        "km": "គំនិតច្រើនអាចមិនបានបញ្ចប់។ សូមធ្វើមួយឱ្យដល់ទីបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "Exploring something new brings exciting discoveries.",
+        "km": "ការស្វែងរកអ្វីថ្មី នាំមកនូវការរកឃើញដ៏គួរឱ្យរំភើប។"
+      }
+    }
+  },
+  {
+    "id": "WAN-12",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Knight of Wands",
+      "km": "អ្នកជិះសេះដំបង"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are full of drive and ready to act boldly.",
+        "km": "អ្នកពោរពេញដោយកម្លាំង និងត្រៀមធ្វើសកម្មភាពដោយក្លាហាន។"
+      },
+      "challenge": {
+        "en": "Impatience can lead to careless moves; aim before you charge.",
+        "km": "ការអន្ទះអន្ទែងអាចនាំឱ្យធ្វើខុស។ សូមតម្រង់គោលដៅមុននឹងរត់ទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Courageous action brings exciting change.",
+        "km": "សកម្មភាពដ៏ក្លាហាន នាំមកនូវការផ្លាស់ប្តូរដ៏គួរឱ្យរំភើប។"
+      }
+    }
+  },
+  {
+    "id": "WAN-13",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Queen of Wands",
+      "km": "មហាក្សត្រីដំបង"
+    },
+    "meaning": {
+      "present": {
+        "en": "Confidence and warmth make you shine now.",
+        "km": "ទំនុកចិត្ត និងភាពកក់ក្តៅ ធ្វើឱ្យអ្នកភ្លឺចែងចាំងនៅពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Doing everything yourself can exhaust you; let others help.",
+        "km": "ការធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯងអាចធ្វើឱ្យហត់នឿយ។ សូមឱ្យអ្នកដទៃជួយផង។"
+      },
+      "outcome": {
+        "en": "Your charisma and drive attract support and success.",
+        "km": "មន្តស្នេហ៍ និងកម្លាំងរបស់អ្នក ទាក់ទាញការគាំទ្រ និងភាពជោគជ័យ។"
+      }
+    }
+  },
+  {
+    "id": "WAN-14",
+    "arcana": "minor",
+    "suit": "WAN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "King of Wands",
+      "km": "ស្តេចដំបង"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are ready to lead with vision and courage.",
+        "km": "អ្នកត្រៀមដឹកនាំដោយចក្ខុវិស័យ និងភាពក្លាហាន។"
+      },
+      "challenge": {
+        "en": "Expecting too much of others causes friction; inspire rather than command.",
+        "km": "ការរំពឹងច្រើនពេកពីអ្នកដទៃបង្កការប៉ះទង្គិច។ សូមបំផុសទឹកចិត្តជំនួសឱ្យការបញ្ជា។"
+      },
+      "outcome": {
+        "en": "Visionary leadership turns your goals into reality.",
+        "km": "ការដឹកនាំប្រកបដោយចក្ខុវិស័យ ប្រែក្លាយគោលដៅរបស់អ្នកឱ្យក្លាយជាការពិត។"
+      }
+    }
+  },
+  {
+    "id": "CUP-01",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Ace of Cups",
+      "km": "ផ្តិល ១"
+    },
+    "meaning": {
+      "present": {
+        "en": "Your heart is opening to new feelings and connection.",
+        "km": "ចិត្តរបស់អ្នកកំពុងបើកទទួលអារម្មណ៍ និងទំនាក់ទំនងថ្មី។"
+      },
+      "challenge": {
+        "en": "Fear of being hurt may hold you back; let yourself receive.",
+        "km": "ការខ្លាចឈឺចាប់អាចរារាំងអ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងទទួល។"
+      },
+      "outcome": {
+        "en": "Love, kindness and emotional renewal flow in.",
+        "km": "សេចក្តីស្រឡាញ់ ចិត្តល្អ និងការកើតជាថ្មីនៃអារម្មណ៍ កំពុងហូរចូលមក។"
+      }
+    }
+  },
+  {
+    "id": "CUP-02",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Two of Cups",
+      "km": "ផ្តិល ២"
+    },
+    "meaning": {
+      "present": {
+        "en": "A meaningful bond or partnership is forming.",
+        "km": "ចំណងដ៏មានអត្ថន័យ ឬភាពជាដៃគូមួយ កំពុងកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Unequal giving can upset the balance; keep it two-way.",
+        "km": "ការផ្តល់ឱ្យមិនស្មើគ្នាអាចធ្វើឱ្យបាត់តុល្យភាព។ សូមរក្សាការផ្តល់ពីទាំងសងខាង។"
+      },
+      "outcome": {
+        "en": "A warm, supportive partnership grows stronger.",
+        "km": "ភាពជាដៃគូដ៏កក់ក្តៅ និងគាំទ្រគ្នា កាន់តែរឹងមាំ។"
+      }
+    }
+  },
+  {
+    "id": "CUP-03",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Three of Cups",
+      "km": "ផ្តិល ៣"
+    },
+    "meaning": {
+      "present": {
+        "en": "Friends and shared joy are important to you now.",
+        "km": "មិត្តភក្តិ និងសេចក្តីរីករាយរួមគ្នា សំខាន់សម្រាប់អ្នកនៅពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Too much socializing can distract from your goals; keep a healthy balance.",
+        "km": "ការសប្បាយច្រើនពេកអាចធ្វើឱ្យភ្លេចគោលដៅ។ សូមរក្សាតុល្យភាពឱ្យល្អ។"
+      },
+      "outcome": {
+        "en": "Happy gatherings and good company lie ahead.",
+        "km": "ការជួបជុំដ៏រីករាយ និងមិត្តល្អ កំពុងរង់ចាំខាងមុខ។"
+      }
+    }
+  },
+  {
+    "id": "CUP-04",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Four of Cups",
+      "km": "ផ្តិល ៤"
+    },
+    "meaning": {
+      "present": {
+        "en": "You may feel bored or unsatisfied with what you have.",
+        "km": "អ្នកប្រហែលជាធុញទ្រាន់ ឬមិនពេញចិត្តនឹងអ្វីដែលមាន។"
+      },
+      "challenge": {
+        "en": "Looking inward too long can make you miss a good offer; look up.",
+        "km": "ការសម្លឹងតែក្នុងចិត្តយូរពេក អាចធ្វើឱ្យរំលងឱកាសល្អ។ សូមងើបមុខមើល។"
+      },
+      "outcome": {
+        "en": "A new opportunity renews your interest.",
+        "km": "ឱកាសថ្មីមួយនឹងធ្វើឱ្យអ្នកចាប់អារម្មណ៍ឡើងវិញ។"
+      }
+    }
+  },
+  {
+    "id": "CUP-05",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Five of Cups",
+      "km": "ផ្តិល ៥"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are focusing on something that did not work out.",
+        "km": "អ្នកកំពុងផ្តោតលើអ្វីមួយដែលមិនបានសម្រេច។"
+      },
+      "challenge": {
+        "en": "Dwelling on loss hides what remains; turn toward what is still good.",
+        "km": "ការគិតតែពីការបាត់បង់ បិទបាំងអ្វីដែលនៅសល់។ សូមបែរទៅរកអ្វីដែលនៅល្អ។"
+      },
+      "outcome": {
+        "en": "Accepting the past lets you find comfort and move on.",
+        "km": "ការទទួលយកអតីតកាល ជួយឱ្យអ្នករកឃើញភាពធូរចិត្ត ហើយបន្តទៅមុខ។"
+      }
+    }
+  },
+  {
+    "id": "CUP-06",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Six of Cups",
+      "km": "ផ្តិល ៦"
+    },
+    "meaning": {
+      "present": {
+        "en": "Sweet memories or old connections are on your mind.",
+        "km": "អនុស្សាវរីយ៍ដ៏ផ្អែមល្ហែម ឬទំនាក់ទំនងចាស់ៗ កំពុងនៅក្នុងគំនិតអ្នក។"
+      },
+      "challenge": {
+        "en": "Living in the past can stop you growing; take its lessons forward.",
+        "km": "ការរស់នៅក្នុងអតីតកាលអាចរារាំងការរីកចម្រើន។ សូមយកមេរៀនរបស់វាទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Kindness and familiar people bring you comfort.",
+        "km": "ចិត្តល្អ និងមនុស្សដែលធ្លាប់ស្គាល់ នាំមកនូវភាពកក់ក្តៅ។"
+      }
+    }
+  },
+  {
+    "id": "CUP-07",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Seven of Cups",
+      "km": "ផ្តិល ៧"
+    },
+    "meaning": {
+      "present": {
+        "en": "Many options and dreams are in front of you.",
+        "km": "ជម្រើស និងក្តីសុបិនជាច្រើនកំពុងនៅចំពោះមុខអ្នក។"
+      },
+      "challenge": {
+        "en": "Wishful thinking can cloud judgment; check what is real.",
+        "km": "ការគិតតាមចិត្តប្រាថ្នាអាចធ្វើឱ្យវិនិច្ឆ័យខុស។ សូមពិនិត្យថាអ្វីជាការពិត។"
+      },
+      "outcome": {
+        "en": "Focusing on one realistic choice brings clarity.",
+        "km": "ការផ្តោតលើជម្រើសមួយដែលអាចធ្វើបាន នាំមកនូវភាពច្បាស់លាស់។"
+      }
+    }
+  },
+  {
+    "id": "CUP-08",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Eight of Cups",
+      "km": "ផ្តិល ៨"
+    },
+    "meaning": {
+      "present": {
+        "en": "Part of you is ready to leave something behind.",
+        "km": "ផ្នែកមួយនៃចិត្តអ្នក ត្រៀមខ្លួនចាកចេញពីអ្វីមួយ។"
+      },
+      "challenge": {
+        "en": "Walking away is hard; trust that you are seeking something better.",
+        "km": "ការចាកចេញពិបាក។ សូមជឿថាអ្នកកំពុងស្វែងរកអ្វីដែលល្អជាង។"
+      },
+      "outcome": {
+        "en": "A more meaningful path awaits you.",
+        "km": "ផ្លូវដែលមានអត្ថន័យជាងមុនកំពុងរង់ចាំអ្នក។"
+      }
+    }
+  },
+  {
+    "id": "CUP-09",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Nine of Cups",
+      "km": "ផ្តិល ៩"
+    },
+    "meaning": {
+      "present": {
+        "en": "You feel satisfied, or close to a wish coming true.",
+        "km": "អ្នកមានអារម្មណ៍ពេញចិត្ត ឬជិតសម្រេចក្តីប្រាថ្នាហើយ។"
+      },
+      "challenge": {
+        "en": "Comfort can turn into complacency; stay grateful and humble.",
+        "km": "ភាពសុខស្រួលអាចប្រែជាការធ្វេសប្រហែស។ សូមរក្សាការដឹងគុណ និងការរាបទាប។"
+      },
+      "outcome": {
+        "en": "A heartfelt wish is likely to be fulfilled.",
+        "km": "ក្តីប្រាថ្នាពីចិត្តមួយ ទំនងជានឹងបានសម្រេច។"
+      }
+    }
+  },
+  {
+    "id": "CUP-10",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Ten of Cups",
+      "km": "ផ្តិល ១០"
+    },
+    "meaning": {
+      "present": {
+        "en": "Love and harmony with those close to you are strong.",
+        "km": "សេចក្តីស្រឡាញ់ និងភាពសុខដុមជាមួយអ្នកជិតស្និទ្ធ កំពុងរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Expecting perfection can create pressure; enjoy what is already good.",
+        "km": "ការរំពឹងភាពល្អឥតខ្ចោះអាចបង្កសម្ពាធ។ សូមរីករាយនឹងអ្វីដែលល្អស្រាប់។"
+      },
+      "outcome": {
+        "en": "Lasting happiness and peace at home are likely.",
+        "km": "សុភមង្គលយូរអង្វែង និងសន្តិភាពក្នុងផ្ទះ ទំនងជានឹងកើតមាន។"
+      }
+    }
+  },
+  {
+    "id": "CUP-11",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Page of Cups",
+      "km": "កុមារផ្តិល"
+    },
+    "meaning": {
+      "present": {
+        "en": "A gentle, creative message or feeling is arriving.",
+        "km": "សារ ឬអារម្មណ៍ដ៏ទន់ភ្លន់ និងច្នៃប្រឌិតមួយ កំពុងមកដល់។"
+      },
+      "challenge": {
+        "en": "Being too sensitive can hurt you; trust your feelings without fear.",
+        "km": "ការរសើបពេកអាចធ្វើឱ្យអ្នកឈឺចាប់។ សូមទុកចិត្តលើអារម្មណ៍ដោយមិនខ្លាច។"
+      },
+      "outcome": {
+        "en": "A pleasant surprise or kind message is on its way.",
+        "km": "ការភ្ញាក់ផ្អើលដ៏រីករាយ ឬសារល្អមួយ កំពុងមកដល់។"
+      }
+    }
+  },
+  {
+    "id": "CUP-12",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Knight of Cups",
+      "km": "អ្នកជិះសេះផ្តិល"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are following your heart toward something beautiful.",
+        "km": "អ្នកកំពុងធ្វើតាមចិត្ត ឆ្ពោះទៅរកអ្វីដ៏ស្រស់ស្អាត។"
+      },
+      "challenge": {
+        "en": "Idealism can hide practical issues; keep one foot on the ground.",
+        "km": "ឧត្តមគតិនិយមអាចបិទបាំងបញ្ហាជាក់ស្តែង។ សូមរក្សាជើងមួយនៅលើដី។"
+      },
+      "outcome": {
+        "en": "A heartfelt offer or invitation is likely.",
+        "km": "ការផ្តល់ជូន ឬការអញ្ជើញពីចិត្ត ទំនងជានឹងមកដល់។"
+      }
+    }
+  },
+  {
+    "id": "CUP-13",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Queen of Cups",
+      "km": "មហាក្សត្រីផ្តិល"
+    },
+    "meaning": {
+      "present": {
+        "en": "Your compassion and intuition are strong now.",
+        "km": "ក្តីមេត្តា និងវិចារណញាណរបស់អ្នក រឹងមាំនៅពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Absorbing others’ feelings can drain you; protect your own energy.",
+        "km": "ការស្រូបយកអារម្មណ៍អ្នកដទៃអាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមការពារថាមពលខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Emotional wisdom helps you and others heal.",
+        "km": "ប្រាជ្ញាផ្នែកអារម្មណ៍ ជួយអ្នក និងអ្នកដទៃឱ្យជាសះស្បើយ។"
+      }
+    }
+  },
+  {
+    "id": "CUP-14",
+    "arcana": "minor",
+    "suit": "CUP",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "King of Cups",
+      "km": "ស្តេចផ្តិល"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are handling feelings with calm and maturity.",
+        "km": "អ្នកកំពុងដោះស្រាយអារម្មណ៍ដោយភាពស្ងប់ និងចាស់ទុំ។"
+      },
+      "challenge": {
+        "en": "Hiding your feelings too well can create distance; share honestly.",
+        "km": "ការលាក់អារម្មណ៍ពេកអាចបង្កើតគម្លាត។ សូមចែករំលែកដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Calm wisdom brings peace and respect.",
+        "km": "ប្រាជ្ញាដ៏ស្ងប់ស្ងាត់ នាំមកនូវសន្តិភាព និងការគោរព។"
+      }
+    }
+  },
+  {
+    "id": "SWO-01",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Ace of Swords",
+      "km": "ដាវ ១"
+    },
+    "meaning": {
+      "present": {
+        "en": "A clear idea or truth is cutting through confusion.",
+        "km": "គំនិត ឬការពិតដ៏ច្បាស់មួយ កំពុងកាត់ផ្តាច់ភាពច្របូកច្របល់។"
+      },
+      "challenge": {
+        "en": "Sharp words can hurt; speak the truth with care.",
+        "km": "ពាក្យសម្តីមុតស្រួចអាចធ្វើឱ្យឈឺចិត្ត។ សូមនិយាយការពិតដោយយកចិត្តទុកដាក់។"
+      },
+      "outcome": {
+        "en": "A breakthrough brings clear understanding.",
+        "km": "ការរកឃើញថ្មី នាំមកនូវការយល់ដឹងច្បាស់លាស់។"
+      }
+    }
+  },
+  {
+    "id": "SWO-02",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Two of Swords",
+      "km": "ដាវ ២"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are stuck between two options.",
+        "km": "អ្នកកំពុងជាប់គាំងរវាងជម្រើសពីរ។"
+      },
+      "challenge": {
+        "en": "Avoiding the choice keeps you stuck; gather the facts and decide.",
+        "km": "ការគេចវេះការសម្រេចចិត្ត ធ្វើឱ្យអ្នកនៅតែជាប់គាំង។ សូមប្រមូលការពិត ហើយសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "A balanced decision ends the stalemate.",
+        "km": "ការសម្រេចចិត្តដោយតុល្យភាព បញ្ចប់ភាពជាប់គាំង។"
+      }
+    }
+  },
+  {
+    "id": "SWO-03",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Three of Swords",
+      "km": "ដាវ ៣"
+    },
+    "meaning": {
+      "present": {
+        "en": "Something has caused you sadness or disappointment.",
+        "km": "អ្វីមួយបានធ្វើឱ្យអ្នកសោកសៅ ឬខកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Holding the pain inside makes it heavier; allow yourself to feel and heal.",
+        "km": "ការទប់ការឈឺចាប់ទុកក្នុងចិត្ត ធ្វើឱ្យវាកាន់តែធ្ងន់។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ ហើយជាសះស្បើយ។"
+      },
+      "outcome": {
+        "en": "Healing comes after the hurt is released.",
+        "km": "ការជាសះស្បើយមកដល់ ក្រោយពីការឈឺចាប់ត្រូវបានដោះលែង។"
+      }
+    }
+  },
+  {
+    "id": "SWO-04",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Four of Swords",
+      "km": "ដាវ ៤"
+    },
+    "meaning": {
+      "present": {
+        "en": "You need rest and quiet to recover your strength.",
+        "km": "អ្នកត្រូវការការសម្រាក និងភាពស្ងប់ស្ងាត់ ដើម្បីស្តារកម្លាំងឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Pushing on without rest leads to burnout; take a pause.",
+        "km": "ការបន្តដោយមិនសម្រាក នាំឱ្យអស់កម្លាំង។ សូមផ្អាកមួយរយៈ។"
+      },
+      "outcome": {
+        "en": "Recovered energy brings a clearer mind.",
+        "km": "កម្លាំងដែលបានស្តារឡើងវិញ នាំមកនូវគំនិតច្បាស់លាស់។"
+      }
+    }
+  },
+  {
+    "id": "SWO-05",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Five of Swords",
+      "km": "ដាវ ៥"
+    },
+    "meaning": {
+      "present": {
+        "en": "A conflict leaves winners and losers.",
+        "km": "ជម្លោះមួយបន្សល់ទុកអ្នកឈ្នះ និងអ្នកចាញ់។"
+      },
+      "challenge": {
+        "en": "Winning an argument can cost a relationship; choose peace over pride.",
+        "km": "ការឈ្នះការឈ្លោះប្រកែក អាចធ្វើឱ្យបាត់បង់ទំនាក់ទំនង។ សូមជ្រើសរើសសន្តិភាពជាងមោទនភាព។"
+      },
+      "outcome": {
+        "en": "Letting go of the fight brings relief.",
+        "km": "ការលែងតស៊ូ នាំមកនូវភាពធូរស្រាល។"
+      }
+    }
+  },
+  {
+    "id": "SWO-06",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Six of Swords",
+      "km": "ដាវ ៦"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are moving away from difficulty toward calmer times.",
+        "km": "អ្នកកំពុងចាកចេញពីការលំបាក ឆ្ពោះទៅរកពេលវេលាស្ងប់ស្ងាត់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Leaving the familiar feels sad; trust the journey.",
+        "km": "ការចាកចេញពីអ្វីដែលធ្លាប់ស្គាល់ គួរឱ្យសោកសៅ។ សូមទុកចិត្តលើដំណើរនេះ។"
+      },
+      "outcome": {
+        "en": "Calmer, more peaceful days are ahead.",
+        "km": "ថ្ងៃដ៏ស្ងប់ស្ងាត់ និងសុខសាន្តជាងមុន កំពុងរង់ចាំ។"
+      }
+    }
+  },
+  {
+    "id": "SWO-07",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Seven of Swords",
+      "km": "ដាវ ៧"
+    },
+    "meaning": {
+      "present": {
+        "en": "Strategy and careful planning matter now.",
+        "km": "យុទ្ធសាស្ត្រ និងការរៀបចំផែនការយ៉ាងប្រុងប្រយ័ត្ន សំខាន់នៅពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Shortcuts or hidden motives can backfire; act honestly.",
+        "km": "ផ្លូវកាត់ ឬចេតនាលាក់កំបាំង អាចផ្តល់ផលអាក្រក់មកវិញ។ សូមធ្វើដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Clever, honest planning gets you through.",
+        "km": "ផែនការដ៏ឆ្លាតវៃ និងស្មោះត្រង់ នាំអ្នកឆ្លងផុត។"
+      }
+    }
+  },
+  {
+    "id": "SWO-08",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Eight of Swords",
+      "km": "ដាវ ៨"
+    },
+    "meaning": {
+      "present": {
+        "en": "You may feel restricted with no way out.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាជាប់គាំង ហើយគ្មានផ្លូវចេញ។"
+      },
+      "challenge": {
+        "en": "The limits are partly in your mind; take one small step.",
+        "km": "ដែនកំណត់មួយផ្នែកស្ថិតនៅក្នុងគំនិតរបស់អ្នក។ សូមបោះជំហានតូចមួយ។"
+      },
+      "outcome": {
+        "en": "You discover you are freer than you thought.",
+        "km": "អ្នករកឃើញថាអ្នកមានសេរីភាពច្រើនជាងអ្វីដែលអ្នកគិត។"
+      }
+    }
+  },
+  {
+    "id": "SWO-09",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Nine of Swords",
+      "km": "ដាវ ៩"
+    },
+    "meaning": {
+      "present": {
+        "en": "Worries may be weighing heavily on your mind.",
+        "km": "ការព្រួយបារម្ភប្រហែលជាកំពុងសង្កត់លើគំនិតអ្នកយ៉ាងធ្ងន់។"
+      },
+      "challenge": {
+        "en": "Fears grow larger at night; talk to someone you trust.",
+        "km": "ការភ័យខ្លាចកាន់តែធំនៅពេលយប់។ សូមនិយាយជាមួយអ្នកដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Your worries ease as you see things more clearly.",
+        "km": "ការព្រួយបារម្ភរបស់អ្នកធូរស្រាល នៅពេលអ្នកមើលឃើញអ្វីៗកាន់តែច្បាស់។"
+      }
+    }
+  },
+  {
+    "id": "SWO-10",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Ten of Swords",
+      "km": "ដាវ ១០"
+    },
+    "meaning": {
+      "present": {
+        "en": "A difficult situation has reached its end.",
+        "km": "ស្ថានភាពដ៏លំបាកមួយ បានដល់ទីបញ្ចប់ហើយ។"
+      },
+      "challenge": {
+        "en": "Dwelling on the hurt delays recovery; accept that it is over.",
+        "km": "ការគិតតែពីការឈឺចាប់ ពន្យារការជាសះស្បើយ។ សូមទទួលយកថាវាបានចប់ហើយ។"
+      },
+      "outcome": {
+        "en": "The worst has passed, and a new dawn begins.",
+        "km": "អ្វីដែលអាក្រក់បំផុតបានកន្លងផុតទៅ ហើយអរុណថ្មីចាប់ផ្តើម។"
+      }
+    }
+  },
+  {
+    "id": "SWO-11",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Page of Swords",
+      "km": "កុមារដាវ"
+    },
+    "meaning": {
+      "present": {
+        "en": "A curious, alert mind is serving you well.",
+        "km": "គំនិតដែលចង់ដឹង និងប្រុងស្មារតី កំពុងជួយអ្នកបានល្អ។"
+      },
+      "challenge": {
+        "en": "Gossip or hasty words can cause trouble; think before you speak.",
+        "km": "ពាក្យចចាមអារ៉ាម ឬពាក្យប្រញាប់ អាចបង្កបញ្ហា។ សូមគិតមុននឹងនិយាយ។"
+      },
+      "outcome": {
+        "en": "Learning and new ideas open fresh doors.",
+        "km": "ការរៀនសូត្រ និងគំនិតថ្មីៗ បើកទ្វារថ្មី។"
+      }
+    }
+  },
+  {
+    "id": "SWO-12",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Knight of Swords",
+      "km": "អ្នកជិះសេះដាវ"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are charging ahead with strong opinions and drive.",
+        "km": "អ្នកកំពុងរត់ទៅមុខ ជាមួយមតិមុតមាំ និងកម្លាំងខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Haste can run over others; slow down enough to listen.",
+        "km": "ការប្រញាប់អាចជាន់ឈ្លីអ្នកដទៃ។ សូមបន្ថយល្បឿនល្មមនឹងស្តាប់គេ។"
+      },
+      "outcome": {
+        "en": "Direct, decisive action brings quick results.",
+        "km": "សកម្មភាពត្រង់ៗ និងម៉ឺងម៉ាត់ នាំមកនូវលទ្ធផលរហ័ស។"
+      }
+    }
+  },
+  {
+    "id": "SWO-13",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Queen of Swords",
+      "km": "មហាក្សត្រីដាវ"
+    },
+    "meaning": {
+      "present": {
+        "en": "Clear judgment and honesty guide you now.",
+        "km": "ការវិនិច្ឆ័យច្បាស់លាស់ និងភាពស្មោះត្រង់ កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Too much coolness can seem harsh; balance truth with kindness.",
+        "km": "ភាពត្រជាក់ពេកអាចមើលទៅឃោរឃៅ។ សូមថ្លឹងការពិតជាមួយចិត្តល្អ។"
+      },
+      "outcome": {
+        "en": "Honest, wise decisions earn respect.",
+        "km": "ការសម្រេចចិត្តដ៏ស្មោះត្រង់ និងឈ្លាសវៃ ទទួលបានការគោរព។"
+      }
+    }
+  },
+  {
+    "id": "SWO-14",
+    "arcana": "minor",
+    "suit": "SWO",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "King of Swords",
+      "km": "ស្តេចដាវ"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are thinking with logic and fairness.",
+        "km": "អ្នកកំពុងគិតដោយតក្កវិជ្ជា និងយុត្តិធម៌។"
+      },
+      "challenge": {
+        "en": "Ignoring feelings can make decisions cold; consider the human side.",
+        "km": "ការមិនគិតពីអារម្មណ៍ អាចធ្វើឱ្យការសម្រេចចិត្តត្រជាក់។ សូមពិចារណាផ្នែកមនុស្សធម៌ផង។"
+      },
+      "outcome": {
+        "en": "Wise, fair judgment leads to the right result.",
+        "km": "ការវិនិច្ឆ័យដ៏ឈ្លាសវៃ និងយុត្តិធម៌ នាំទៅរកលទ្ធផលត្រឹមត្រូវ។"
+      }
+    }
+  },
+  {
+    "id": "PEN-01",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Ace of Pentacles",
+      "km": "កាក់ ១"
+    },
+    "meaning": {
+      "present": {
+        "en": "A practical new opportunity is in front of you.",
+        "km": "ឱកាសជាក់ស្តែងថ្មីមួយ កំពុងនៅចំពោះមុខអ្នក។"
+      },
+      "challenge": {
+        "en": "A good chance can slip away if you hesitate; take the first practical step.",
+        "km": "ឱកាសល្អអាចរបូតចេញ បើអ្នកស្ទាក់ស្ទើរ។ សូមបោះជំហានជាក់ស្តែងដំបូង។"
+      },
+      "outcome": {
+        "en": "A solid start can grow into lasting security.",
+        "km": "ការចាប់ផ្តើមដ៏រឹងមាំ អាចរីកចម្រើនទៅជាសុវត្ថិភាពយូរអង្វែង។"
+      }
+    }
+  },
+  {
+    "id": "PEN-02",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Two of Pentacles",
+      "km": "កាក់ ២"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are juggling several responsibilities at once.",
+        "km": "អ្នកកំពុងដោះស្រាយការទទួលខុសត្រូវច្រើនក្នុងពេលតែមួយ។"
+      },
+      "challenge": {
+        "en": "Spreading yourself too thin causes mistakes; prioritize.",
+        "km": "ការបែងចែកខ្លួនច្រើនពេកបង្កកំហុស។ សូមកំណត់អាទិភាព។"
+      },
+      "outcome": {
+        "en": "Flexible balance keeps everything moving smoothly.",
+        "km": "តុល្យភាពដ៏បត់បែន ធ្វើឱ្យអ្វីៗដំណើរការយ៉ាងរលូន។"
+      }
+    }
+  },
+  {
+    "id": "PEN-03",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Three of Pentacles",
+      "km": "កាក់ ៣"
+    },
+    "meaning": {
+      "present": {
+        "en": "Your skills are valued, and teamwork is important now.",
+        "km": "ជំនាញរបស់អ្នកត្រូវបានគេឱ្យតម្លៃ ហើយការងារជាក្រុមសំខាន់នៅពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Poor communication can slow the team; share plans clearly.",
+        "km": "ការប្រាស្រ័យទាក់ទងមិនល្អ អាចពន្យឺតក្រុម។ សូមចែករំលែកផែនការឱ្យច្បាស់។"
+      },
+      "outcome": {
+        "en": "Working together produces high-quality results.",
+        "km": "ការធ្វើការរួមគ្នា បង្កើតលទ្ធផលដែលមានគុណភាពខ្ពស់។"
+      }
+    }
+  },
+  {
+    "id": "PEN-04",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Four of Pentacles",
+      "km": "កាក់ ៤"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are focused on keeping what you have safe.",
+        "km": "អ្នកកំពុងផ្តោតលើការរក្សាអ្វីដែលអ្នកមានឱ្យមានសុវត្ថិភាព។"
+      },
+      "challenge": {
+        "en": "Holding too tightly blocks new growth; stay careful but open.",
+        "km": "ការក្តាប់តឹងពេក រារាំងការលូតលាស់ថ្មី។ សូមប្រុងប្រយ័ត្ន តែបើកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Wise saving brings stability and peace of mind.",
+        "km": "ការសន្សំដោយឈ្លាសវៃ នាំមកនូវស្ថិរភាព និងចិត្តស្ងប់។"
+      }
+    }
+  },
+  {
+    "id": "PEN-05",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "testing",
+    "name": {
+      "en": "Five of Pentacles",
+      "km": "កាក់ ៥"
+    },
+    "meaning": {
+      "present": {
+        "en": "You may be going through a tight or difficult time.",
+        "km": "អ្នកប្រហែលជាកំពុងឆ្លងកាត់ពេលវេលាតឹងតែង ឬលំបាក។"
+      },
+      "challenge": {
+        "en": "Pride can stop you asking for help; support is closer than you think.",
+        "km": "មោទនភាពអាចរារាំងអ្នកពីការសុំជំនួយ។ ជំនួយនៅជិតជាងអ្វីដែលអ្នកគិត។"
+      },
+      "outcome": {
+        "en": "Help arrives, and the hard time passes.",
+        "km": "ជំនួយមកដល់ ហើយពេលវេលាលំបាកនឹងកន្លងផុត។"
+      }
+    }
+  },
+  {
+    "id": "PEN-06",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Six of Pentacles",
+      "km": "កាក់ ៦"
+    },
+    "meaning": {
+      "present": {
+        "en": "Giving and receiving are in balance now.",
+        "km": "ការផ្តល់ និងការទទួល ស្ថិតក្នុងតុល្យភាពនៅពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Uneven giving can create dependence; keep exchanges fair.",
+        "km": "ការផ្តល់មិនស្មើគ្នា អាចបង្កើតការពឹងពាក់។ សូមរក្សាការផ្លាស់ប្តូរឱ្យយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "Generosity returns to you in good ways.",
+        "km": "ចិត្តសប្បុរសនឹងត្រឡប់មករកអ្នកវិញក្នុងរបៀបល្អៗ។"
+      }
+    }
+  },
+  {
+    "id": "PEN-07",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Seven of Pentacles",
+      "km": "កាក់ ៧"
+    },
+    "meaning": {
+      "present": {
+        "en": "You have worked hard and are waiting for results.",
+        "km": "អ្នកបានខិតខំយ៉ាងខ្លាំង ហើយកំពុងរង់ចាំលទ្ធផល។"
+      },
+      "challenge": {
+        "en": "Impatience may tempt you to quit early; review, adjust, and keep going.",
+        "km": "ការអន្ទះអន្ទែងអាចល្បួងឱ្យអ្នកបោះបង់មុនពេល។ សូមពិនិត្យ កែតម្រូវ ហើយបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Patient effort brings a rewarding harvest.",
+        "km": "ការខិតខំដោយអត់ធ្មត់ នាំមកនូវផលដ៏សមរម្យ។"
+      }
+    }
+  },
+  {
+    "id": "PEN-08",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Eight of Pentacles",
+      "km": "កាក់ ៨"
+    },
+    "meaning": {
+      "present": {
+        "en": "Steady, careful work is building your skill.",
+        "km": "ការងារដ៏ខ្ជាប់ខ្ជួន និងប្រុងប្រយ័ត្ន កំពុងកសាងជំនាញរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Repetition can feel dull; remember why you started.",
+        "km": "ការធ្វើដដែលៗអាចគួរឱ្យធុញ។ សូមចងចាំមូលហេតុដែលអ្នកចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Dedication leads to real mastery and reward.",
+        "km": "ការប្តេជ្ញាចិត្ត នាំទៅរកភាពជំនាញពិតប្រាកដ និងរង្វាន់។"
+      }
+    }
+  },
+  {
+    "id": "PEN-09",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Nine of Pentacles",
+      "km": "កាក់ ៩"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are enjoying the results of your own effort.",
+        "km": "អ្នកកំពុងរីករាយនឹងផលនៃការខិតខំរបស់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Doing everything alone can feel lonely; share your success.",
+        "km": "ការធ្វើអ្វីៗតែម្នាក់ឯង អាចមានអារម្មណ៍ឯកា។ សូមចែករំលែកភាពជោគជ័យរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Comfort and independence are well within reach.",
+        "km": "ភាពសុខស្រួល និងឯករាជ្យភាព ស្ថិតនៅក្បែរដៃ។"
+      }
+    }
+  },
+  {
+    "id": "PEN-10",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "bright",
+    "name": {
+      "en": "Ten of Pentacles",
+      "km": "កាក់ ១០"
+    },
+    "meaning": {
+      "present": {
+        "en": "Long-term security and family ties are strong.",
+        "km": "សុវត្ថិភាពរយៈពេលវែង និងចំណងគ្រួសារ កំពុងរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Old family expectations may limit you; respect them while finding your own way.",
+        "km": "ការរំពឹងចាស់ៗរបស់គ្រួសារអាចកំណត់អ្នក។ សូមគោរពវា ខណៈពេលរកផ្លូវផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Lasting stability benefits you and those you love.",
+        "km": "ស្ថិរភាពយូរអង្វែង ផ្តល់ផលល្អដល់អ្នក និងអ្នកដែលអ្នកស្រឡាញ់។"
+      }
+    }
+  },
+  {
+    "id": "PEN-11",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Page of Pentacles",
+      "km": "កុមារកាក់"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are eager to learn and start something practical.",
+        "km": "អ្នកចង់រៀន និងចាប់ផ្តើមអ្វីដែលជាក់ស្តែង។"
+      },
+      "challenge": {
+        "en": "Dreams need steady action; make a simple plan.",
+        "km": "ក្តីសុបិនត្រូវការសកម្មភាពជាប់លាប់។ សូមធ្វើផែនការសាមញ្ញមួយ។"
+      },
+      "outcome": {
+        "en": "Study and practice lead to new opportunities.",
+        "km": "ការសិក្សា និងការហ្វឹកហាត់ នាំទៅរកឱកាសថ្មី។"
+      }
+    }
+  },
+  {
+    "id": "PEN-12",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Knight of Pentacles",
+      "km": "អ្នកជិះសេះកាក់"
+    },
+    "meaning": {
+      "present": {
+        "en": "Slow, steady effort is moving you forward.",
+        "km": "ការខិតខំយឺតៗ តែជាប់លាប់ កំពុងនាំអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Too much routine can make you stuck; allow small changes.",
+        "km": "ទម្លាប់ច្រើនពេក អាចធ្វើឱ្យជាប់គាំង។ សូមអនុញ្ញាតឱ្យមានការផ្លាស់ប្តូរតូចៗ។"
+      },
+      "outcome": {
+        "en": "Reliable work brings dependable progress.",
+        "km": "ការងារដែលគួរឱ្យទុកចិត្ត នាំមកនូវការរីកចម្រើនដែលអាចពឹងពាក់បាន។"
+      }
+    }
+  },
+  {
+    "id": "PEN-13",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "Queen of Pentacles",
+      "km": "មហាក្សត្រីកាក់"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are caring for others while keeping life grounded.",
+        "km": "អ្នកកំពុងថែរក្សាអ្នកដទៃ ខណៈពេលរក្សាជីវិតឱ្យនៅលើដី។"
+      },
+      "challenge": {
+        "en": "Caring for everyone can leave you tired; look after yourself too.",
+        "km": "ការថែរក្សាគ្រប់គ្នាអាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមថែរក្សាខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "A comfortable, well-supported life grows around you.",
+        "km": "ជីវិតដ៏សុខស្រួល និងមានការគាំទ្រល្អ កំពុងរីកចម្រើននៅជុំវិញអ្នក។"
+      }
+    }
+  },
+  {
+    "id": "PEN-14",
+    "arcana": "minor",
+    "suit": "PEN",
+    "numeral": null,
+    "tag": "steady",
+    "name": {
+      "en": "King of Pentacles",
+      "km": "ស្តេចកាក់"
+    },
+    "meaning": {
+      "present": {
+        "en": "You are in a strong, steady position.",
+        "km": "អ្នកស្ថិតក្នុងជំហរដ៏រឹងមាំ និងខ្ជាប់ខ្ជួន។"
+      },
+      "challenge": {
+        "en": "Focusing only on material success can feel empty; remember what truly matters.",
+        "km": "ការផ្តោតតែលើភាពជោគជ័យខាងសម្ភារៈ អាចមានអារម្មណ៍ទទេ។ សូមចងចាំអ្វីដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "Lasting success and stability are likely.",
+        "km": "ភាពជោគជ័យ និងស្ថិរភាពយូរអង្វែង ទំនងជានឹងកើតមាន។"
+      }
+    }
+  }
+]
