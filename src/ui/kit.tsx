@@ -375,18 +375,22 @@ export function PrimaryButton({
 export function GhostButton({
   label,
   onPress,
+  disabled,
   style,
 }: {
   label: string;
   onPress: () => void;
+  disabled?: boolean;
   style?: StyleProp<ViewStyle>;
 }) {
   const inRow = useContext(InFooterRow);
   return (
     <Pressable
       onPress={onPress}
+      disabled={disabled}
       accessibilityRole="button"
-      style={({ pressed }) => [styles.ghost, inRow && styles.ghostRow, pressed && styles.pressed, style]}
+      accessibilityState={{ disabled: !!disabled }}
+      style={({ pressed }) => [styles.ghost, inRow && styles.ghostRow, disabled && styles.disabled, pressed && styles.pressed, style]}
     >
       <AppText size={15} style={styles.ghostText}>
         {label}
