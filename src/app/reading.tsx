@@ -4,6 +4,7 @@ import { Redirect, router } from 'expo-router';
 import { useReading, useUi } from '../state/flow.tsx';
 import type { PartKey } from '../engine/types.ts';
 import { useCardViewer, ZoomableCard } from '../ui/cardViewer.tsx';
+import { Entrance } from '../ui/entrance.tsx';
 import { Icon } from '../ui/icons.tsx';
 import { AppText, GhostButton, Panel, PanelHeading, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
 import { FullReadingText, Overall } from '../ui/reading.tsx';
@@ -39,7 +40,7 @@ export default function ReadingScreen() {
           <View style={styles.wideCards}>
             <View style={styles.cardRow}>
               {r.reading.cards.map((card, i) => (
-                <View key={card.id} style={styles.figure}>
+                <Entrance key={card.id} delay={i * 90} style={styles.figure}>
                   <ZoomableCard
                     viewer={viewer}
                     viewKey={card.id}
@@ -52,7 +53,7 @@ export default function ReadingScreen() {
                   <AppText size={15} style={styles.pos}>
                     {ui.pos[i]}
                   </AppText>
-                </View>
+                </Entrance>
               ))}
             </View>
             <View style={styles.wideButtons}>
@@ -60,11 +61,11 @@ export default function ReadingScreen() {
               <GhostButton label={ui.restart} onPress={restart} style={styles.grow} />
             </View>
           </View>
-          <View style={styles.article}>
+          <Entrance delay={120} style={styles.article}>
             <Overall wide />
             <PanelHeading size={17}>{ui.fullTitle}</PanelHeading>
             <FullReadingText wide />
-          </View>
+          </Entrance>
         </View>
         {viewer.modal}
       </Screen>

@@ -6,6 +6,7 @@ import { AnimalEmblem } from '../ui/animals.tsx';
 import { CoverImage, Fade } from '../ui/backdrop.tsx';
 import { Divider, Icon, LotusMark, type IconName } from '../ui/icons.tsx';
 import { AppText, GhostButton, PrimaryButton, Screen } from '../ui/kit.tsx';
+import { Entrance } from '../ui/entrance.tsx';
 import { Medallion } from '../ui/medallion.tsx';
 import { colors, fonts, useWide } from '../ui/theme.ts';
 
@@ -47,7 +48,7 @@ export default function WelcomeScreen() {
     return (
       <Screen header="none">
         <View style={styles.wideMain}>
-          <View style={styles.wideText}>
+          <Entrance style={styles.wideText}>
             <Text style={styles.wideBrand} accessibilityRole="header">
               KHMER MYSTIC
             </Text>
@@ -67,18 +68,18 @@ export default function WelcomeScreen() {
               {ui.features.map((label, i) => {
                 const icon = featureIcons[i];
                 return (
-                  <View key={label} style={styles.feature}>
+                  <Entrance key={label} delay={120 + i * 70} style={styles.feature}>
                     <Medallion size={56} edge={colors.midnight} edgeOpacity={0.9} glowOpacity={0.18}>
                       {icon === 'dragon' ? <AnimalEmblem id="DRA" size={40} /> : <Icon name={icon} size={26} />}
                     </Medallion>
                     <AppText size={15} style={styles.center}>
                       {label}
                     </AppText>
-                  </View>
+                  </Entrance>
                 );
               })}
             </View>
-          </View>
+          </Entrance>
         </View>
       </Screen>
     );
