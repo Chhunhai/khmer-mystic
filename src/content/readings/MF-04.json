@@ -1,0 +1,1097 @@
+{
+  "questionId": "MF-04",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Begin saving even if you have never done it before, with an amount so small it feels almost playful. A light-hearted start can grow into a real habit.",
+        "km": "សូមចាប់ផ្តើមសន្សំ ទោះបីអ្នកមិនដែលធ្វើពីមុនក៏ដោយ ដោយចំនួនតូចណាស់ ដែលមានអារម្មណ៍ស្ទើរតែដូចជាការលេង។ ការចាប់ផ្តើមដោយចិត្តស្រាល អាចរីកធំទៅជាទម្លាប់ពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Treating saving as something to start later, once life settles, could mean it never begins. Waiting for the perfect moment is the most common reason people do not save.",
+        "km": "ការចាត់ទុកការសន្សំជាអ្វីមួយដែលត្រូវចាប់ផ្តើមពេលក្រោយ នៅពេលជីវិតស្ងប់ អាចមានន័យថាវាមិនដែលចាប់ផ្តើម។ ការរង់ចាំពេលល្អឥតខ្ចោះ គឺជាហេតុផលទូទៅបំផុតដែលមនុស្សមិនសន្សំ។"
+      },
+      "outcome": {
+        "en": "A small, carefree start could surprise you by how quickly it grows. Saving may come to feel like freedom rather than restriction.",
+        "km": "ការចាប់ផ្តើមតូច និងគ្មានការព្រួយបារម្ភ អាចធ្វើឱ្យអ្នកភ្ញាក់ផ្អើលដោយរបៀបដែលវារីកធំលឿន។ ការសន្សំ អាចមានអារម្មណ៍ដូចជាសេរីភាព ជាជាងការរឹតត្បិត។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Set up a simple system that moves money aside the moment you are paid, before you can spend it. Making saving automatic takes willpower out of it.",
+        "km": "សូមរៀបចំប្រព័ន្ធសាមញ្ញមួយ ដែលផ្លាស់ប្រាក់ទុកដាច់ដោយឡែក ភ្លាមៗនៅពេលអ្នកទទួលបានប្រាក់ មុនពេលអ្នកអាចចំណាយវា។ ការធ្វើឱ្យការសន្សំជាស្វ័យប្រវត្តិ ដកឆន្ទៈចេញពីវា។"
+      },
+      "challenge": {
+        "en": "Relying on willpower to save whatever is left at the end could leave nothing to save. Pay your savings first, not last.",
+        "km": "ការពឹងផ្អែកលើឆន្ទៈ ដើម្បីសន្សំអ្វីដែលនៅសល់នៅចុងបញ្ចប់ អាចមិនបន្សល់អ្វីដើម្បីសន្សំ។ សូមបង់ការសន្សំរបស់អ្នកមុនគេ មិនមែនចុងក្រោយទេ។"
+      },
+      "outcome": {
+        "en": "A well-designed system could make saving almost effortless. Your money may start working quietly in the background.",
+        "km": "ប្រព័ន្ធដែលរចនាបានល្អ អាចធ្វើឱ្យការសន្សំស្ទើរតែមិនពិបាក។ ប្រាក់របស់អ្នក អាចចាប់ផ្តើមធ្វើការដោយស្ងាត់ៗនៅខាងក្រោយ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Keep a private savings pot that you rarely look at or touch. Quiet, out-of-sight savings are often the ones that grow.",
+        "km": "សូមរក្សាកន្លែងសន្សំឯកជនមួយ ដែលអ្នកកម្រមើល ឬប៉ះ។ ការសន្សំស្ងាត់ៗ និងមិនមើលឃើញ ជារឿយៗជាការសន្សំដែលរីកធំ។"
+      },
+      "challenge": {
+        "en": "Checking and dipping into savings too often could slowly empty them. Let some money sit undisturbed.",
+        "km": "ការពិនិត្យ និងដកពីការសន្សំញឹកញាប់ពេក អាចធ្វើឱ្យវាទទេបន្តិចម្តងៗ។ សូមឱ្យប្រាក់ខ្លះនៅស្ងៀមដោយមិនរំខាន។"
+      },
+      "outcome": {
+        "en": "Savings left quietly alone could become a reassuring cushion. You may be surprised by what has gathered.",
+        "km": "ការសន្សំដែលទុកឱ្យនៅស្ងៀម អាចក្លាយជាទុនបម្រុងដែលធ្វើឱ្យស្ងប់ចិត្ត។ អ្នកអាចភ្ញាក់ផ្អើលនឹងអ្វីដែលបានប្រមូលផ្តុំ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Think of savings as something you are growing, like a garden that needs regular watering. Steady care produces abundance over the long run.",
+        "km": "សូមគិតពីការសន្សំ ជាអ្វីមួយដែលអ្នកកំពុងដាំដុះ ដូចជាសួនច្បារដែលត្រូវការការស្រោចទឹកជាប្រចាំ។ ការថែទាំជាប់លាប់ បង្កើតភាពសម្បូរបែបក្នុងរយៈពេលវែង។"
+      },
+      "challenge": {
+        "en": "Spending every bit of extra on comfort could leave nothing to grow. Plant a little before you enjoy the rest.",
+        "km": "ការចំណាយរាល់ប្រាក់បន្ថែមលើភាពសុខស្រួល អាចមិនបន្សល់អ្វីដើម្បីដាំដុះ។ សូមដាំបន្តិច មុនពេលអ្នករីករាយនឹងអ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Patient, regular saving could grow into a comfortable sense of plenty. What you nurture may flourish.",
+        "km": "ការសន្សំដោយអត់ធ្មត់ និងទៀងទាត់ អាចរីកធំទៅជាអារម្មណ៍សុខស្រួលនៃភាពសម្បូរ។ អ្វីដែលអ្នកថែទាំ អាចរីកលូតលាស់។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Give your savings clear rules, such as a fixed amount or percentage you always set aside. Structure turns good intentions into reliable results.",
+        "km": "សូមផ្តល់ច្បាប់ច្បាស់លាស់ដល់ការសន្សំរបស់អ្នក ដូចជាចំនួនថេរ ឬភាគរយដែលអ្នកតែងតែទុកដាច់ដោយឡែក។ រចនាសម្ព័ន្ធ ប្រែចេតនាល្អទៅជាលទ្ធផលគួរឱ្យទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Setting a target so high that you cannot keep it could lead to giving up. Choose an amount you can stick to.",
+        "km": "ការកំណត់គោលដៅខ្ពស់ពេក រហូតអ្នកមិនអាចរក្សាបាន អាចនាំឱ្យបោះបង់។ សូមជ្រើសរើសចំនួនដែលអ្នកអាចប្រកាន់ខ្ជាប់បាន។"
+      },
+      "outcome": {
+        "en": "A firm savings rule could build a strong, stable foundation. Order and routine may bring a security you can rely on.",
+        "km": "ច្បាប់សន្សំរឹងមាំ អាចកសាងមូលដ្ឋានរឹងមាំ និងមានស្ថិរភាព។ របៀបរៀបរយ និងទម្លាប់ អាចនាំមកនូវសុវត្ថិភាពដែលអ្នកអាចពឹងផ្អែក។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Learn from people you respect who save well, or from trusted guidance. Proven habits are easier to follow than ones you invent alone.",
+        "km": "សូមរៀនពីមនុស្សដែលអ្នកគោរព ដែលសន្សំបានល្អ ឬពីការណែនាំដែលគួរឱ្យទុកចិត្ត។ ទម្លាប់ដែលបានបញ្ជាក់ ងាយអនុវត្តតាមជាងទម្លាប់ដែលអ្នកបង្កើតម្នាក់ឯង។"
+      },
+      "challenge": {
+        "en": "Feeling you must save the way your family always has could make the habit feel like a duty. Make it your own.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែសន្សំតាមរបៀបដែលគ្រួសាររបស់អ្នកតែងតែធ្វើ អាចធ្វើឱ្យទម្លាប់នោះមានអារម្មណ៍ដូចជាកាតព្វកិច្ច។ សូមធ្វើឱ្យវាជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Learning from good savers could help you avoid starting from scratch. A habit borrowed from someone you trust may become your own.",
+        "km": "ការរៀនពីអ្នកសន្សំល្អ អាចជួយអ្នកជៀសវាងការចាប់ផ្តើមពីដំបូង។ ទម្លាប់ដែលខ្ចីពីនរណាម្នាក់ដែលអ្នកទុកចិត្ត អាចក្លាយជារបស់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Decide together with a partner or family what you are saving for and how much. Shared goals are easier to protect than private ones.",
+        "km": "សូមសម្រេចជាមួយដៃគូ ឬគ្រួសារ ពីអ្វីដែលអ្នកកំពុងសន្សំសម្រាប់ និងចំនួនប៉ុន្មាន។ គោលដៅរួម ងាយការពារជាងគោលដៅឯកជន។"
+      },
+      "challenge": {
+        "en": "Different ideas about saving and spending could pull a household in two directions. Talk it through until you agree.",
+        "km": "គំនិតខុសៗគ្នាអំពីការសន្សំ និងការចំណាយ អាចទាញគ្រួសារមួយទៅពីរទិស។ សូមពិភាក្សាវារហូតដល់អ្នកយល់ស្រប។"
+      },
+      "outcome": {
+        "en": "A shared savings goal could bring you closer and make progress faster. Agreement may protect what you build.",
+        "km": "គោលដៅសន្សំរួម អាចនាំអ្នកឱ្យកាន់តែជិត ហើយធ្វើឱ្យការរីកចម្រើនលឿនជាង។ ការយល់ស្រប អាចការពារអ្វីដែលអ្នកកសាង។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Name a clear goal for your savings, such as a safety cushion or a specific plan. A target gives every amount you save a sense of direction.",
+        "km": "សូមដាក់ឈ្មោះគោលដៅច្បាស់លាស់សម្រាប់ការសន្សំរបស់អ្នក ដូចជាទុនសុវត្ថិភាព ឬផែនការជាក់លាក់។ គោលដៅមួយ ផ្តល់អារម្មណ៍នៃទិសដៅដល់រាល់ចំនួនដែលអ្នកសន្សំ។"
+      },
+      "challenge": {
+        "en": "Saving without knowing why could make it easy to give up when temptation comes. Keep the goal where you can see it.",
+        "km": "ការសន្សំដោយមិនដឹងពីមូលហេតុ អាចធ្វើឱ្យងាយបោះបង់ នៅពេលការល្បួងមកដល់។ សូមរក្សាគោលដៅនៅកន្លែងដែលអ្នកអាចមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "A clear goal could carry your savings forward with real momentum. Reaching it may feel deeply satisfying.",
+        "km": "គោលដៅច្បាស់លាស់ អាចនាំការសន្សំរបស់អ្នកទៅមុខ ដោយសន្ទុះពិតប្រាកដ។ ការឈានដល់វា អាចមានអារម្មណ៍ពេញចិត្តយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Be patient and gentle with yourself as the habit forms. Quiet persistence builds savings more surely than bursts of effort.",
+        "km": "សូមអត់ធ្មត់ និងទន់ភ្លន់ជាមួយខ្លួនឯង ខណៈទម្លាប់កំពុងកើតឡើង។ ការតស៊ូស្ងប់ស្ងាត់ កសាងការសន្សំបានប្រាកដជាងការខិតខំម្តងម្កាល។"
+      },
+      "challenge": {
+        "en": "Taking money out of savings during a frustrating moment could undo a long stretch of effort. Give yourself a pause before withdrawing.",
+        "km": "ការដកប្រាក់ចេញពីការសន្សំ ក្នុងពេលខកចិត្ត អាចធ្វើឱ្យការខិតខំដ៏យូរត្រឡប់ក្រោយ។ សូមផ្តល់ការផ្អាកដល់ខ្លួនឯង មុនពេលដក។"
+      },
+      "outcome": {
+        "en": "Steady patience could build savings you can rely on. Inner strength may show in what you keep.",
+        "km": "ការអត់ធ្មត់ជាប់លាប់ អាចកសាងការសន្សំដែលអ្នកអាចពឹងផ្អែក។ កម្លាំងខាងក្នុង អាចបង្ហាញក្នុងអ្វីដែលអ្នករក្សាទុក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Reflect on what security means to you, and let that guide how much you save. Knowing your own reasons makes saving feel meaningful.",
+        "km": "សូមឆ្លុះបញ្ចាំងពីអ្វីដែលសុវត្ថិភាពមានន័យសម្រាប់អ្នក ហើយឱ្យវាណែនាំថាអ្នកសន្សំប៉ុន្មាន។ ការដឹងពីហេតុផលផ្ទាល់ខ្លួនរបស់អ្នក ធ្វើឱ្យការសន្សំមានអារម្មណ៍មានអត្ថន័យ។"
+      },
+      "challenge": {
+        "en": "Saving in secret out of fear could make money feel like a burden rather than a support. Let savings bring calm, not anxiety.",
+        "km": "ការសន្សំដោយសម្ងាត់ ដោយសារការភ័យខ្លាច អាចធ្វើឱ្យប្រាក់មានអារម្មណ៍ដូចជាបន្ទុក ជាជាងការគាំទ្រ។ សូមឱ្យការសន្សំនាំមកនូវភាពស្ងប់ស្ងាត់ មិនមែនការថប់បារម្ភទេ។"
+      },
+      "outcome": {
+        "en": "Understanding your own needs could make saving steady and purposeful. Quiet confidence may grow as the cushion does.",
+        "km": "ការយល់ពីតម្រូវការរបស់អ្នកផ្ទាល់ អាចធ្វើឱ្យការសន្សំនឹងនរ និងមានគោលបំណង។ ទំនុកចិត្តស្ងប់ស្ងាត់ អាចកើនឡើង ដូចទុនបម្រុងដែរ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Save more when income is good so you have a cushion for leaner stretches. Riding the ups and downs is easier with something put by.",
+        "km": "សូមសន្សំច្រើនជាងមុន នៅពេលចំណូលល្អ ដើម្បីឱ្យអ្នកមានទុនបម្រុងសម្រាប់ដំណាក់កាលខ្វះខាត។ ការឆ្លងកាត់ការឡើងចុះ ងាយស្រួលជាង នៅពេលមានអ្វីមួយទុក។"
+      },
+      "challenge": {
+        "en": "Spending a good stretch as if it will last could leave you unprepared when it ends. Set something aside while you can.",
+        "km": "ការចំណាយដំណាក់កាលល្អ ដូចជាវានឹងស្ថិតស្ថេរ អាចធ្វើឱ្យអ្នកមិនបានត្រៀមខ្លួន នៅពេលវាបញ្ចប់។ សូមទុកអ្វីមួយដាច់ដោយឡែក ខណៈដែលអ្នកអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "A cushion built in good times could carry you through changes. Fortune may feel less frightening when you are prepared.",
+        "km": "ទុនបម្រុងដែលកសាងក្នុងគ្រាល្អ អាចនាំអ្នកឆ្លងកាត់ការផ្លាស់ប្តូរ។ សំណាង អាចមានអារម្មណ៍មិនសូវគួរឱ្យខ្លាច នៅពេលអ្នកត្រៀមខ្លួន។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Save a fair share of every amount that comes in, no matter how small. Consistency and fairness to your future self go together.",
+        "km": "សូមសន្សំចំណែកយុត្តិធម៌មួយ នៃរាល់ចំនួនដែលចូលមក ទោះតូចយ៉ាងណាក៏ដោយ។ ភាពជាប់លាប់ និងភាពយុត្តិធម៌ចំពោះខ្លួនឯងនាពេលអនាគត ទៅជាមួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Borrowing from savings without paying it back could quietly erode them. Treat any withdrawal like a debt to yourself.",
+        "km": "ការខ្ចីពីការសន្សំ ដោយមិនបង់វាវិញ អាចធ្វើឱ្យវារលួយដោយស្ងាត់ៗ។ សូមចាត់ទុករាល់ការដកដូចជាបំណុលចំពោះខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Treating your future self fairly could build a cushion that feels earned. What you set aside may come back as freedom to choose.",
+        "km": "ការប្រព្រឹត្តចំពោះខ្លួនឯងនាពេលអនាគតដោយយុត្តិធម៌ អាចកសាងទុនបម្រុងដែលមានអារម្មណ៍ថាបានរកបាន។ អ្វីដែលអ្នកទុកដាច់ដោយឡែក អាចត្រឡប់មកវិញជាសេរីភាពក្នុងការជ្រើសរើស។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Look at saving from a new angle, perhaps as paying yourself rather than giving something up. A change of view can make the habit easier.",
+        "km": "សូមមើលការសន្សំពីមុំថ្មី ប្រហែលជាដូចជាការបង់ខ្លួនឯង ជាជាងការបោះបង់អ្វីមួយ។ ការផ្លាស់ប្តូរទស្សនៈ អាចធ្វើឱ្យទម្លាប់នោះងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Feeling that saving means missing out could make you resist it. Remember what the savings will allow later.",
+        "km": "អារម្មណ៍ថាការសន្សំមានន័យថាការខកខាន អាចធ្វើឱ្យអ្នកទប់ទល់នឹងវា។ សូមចងចាំពីអ្វីដែលការសន្សំនឹងអនុញ្ញាតឱ្យធ្វើបាននៅពេលក្រោយ។"
+      },
+      "outcome": {
+        "en": "A shift in perspective could make saving feel rewarding rather than restrictive. Patience may pay off.",
+        "km": "ការផ្លាស់ប្តូរទស្សនៈ អាចធ្វើឱ្យការសន្សំមានអារម្មណ៍ផ្តល់រង្វាន់ ជាជាងការរឹតត្បិត។ ការអត់ធ្មត់ អាចទទួលបានផល។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Redirect money from an expense you have ended straight into savings. Each ending can feed a new beginning.",
+        "km": "សូមបង្វែរប្រាក់ពីការចំណាយដែលអ្នកបានបញ្ចប់ ចូលទៅក្នុងការសន្សំដោយផ្ទាល់។ ការបញ្ចប់នីមួយៗ អាចចិញ្ចឹមការចាប់ផ្តើមថ្មី។"
+      },
+      "challenge": {
+        "en": "Letting freed-up money drift back into spending could waste a good opportunity. Give it a new job straight away.",
+        "km": "ការឱ្យប្រាក់ដែលបានដោះលែងរសាត់ត្រឡប់ទៅក្នុងការចំណាយ អាចខ្ជះខ្ជាយឱកាសល្អ។ សូមផ្តល់ការងារថ្មីដល់វាភ្លាមៗ។"
+      },
+      "outcome": {
+        "en": "Turning old costs into savings could change your financial picture. Money that once leaked away may become a growing cushion.",
+        "km": "ការប្រែការចំណាយចាស់ ទៅជាការសន្សំ អាចផ្លាស់ប្តូររូបភាពហិរញ្ញវត្ថុរបស់អ្នក។ ប្រាក់ដែលធ្លាប់លេចធ្លាយ អាចក្លាយជាទុនបម្រុងដែលកំពុងរីកធំ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Find a saving amount that fits comfortably alongside your other needs. A balanced habit is one you can keep for good.",
+        "km": "សូមរកចំនួនសន្សំដែលសមស្របយ៉ាងសុខស្រួល ជាមួយតម្រូវការផ្សេងទៀតរបស់អ្នក។ ទម្លាប់មានតុល្យភាព គឺជាទម្លាប់ដែលអ្នកអាចរក្សាបានជារៀងរហូត។"
+      },
+      "challenge": {
+        "en": "Saving too aggressively could lead to burnout and a big spending rebound. Steady is better than extreme.",
+        "km": "ការសន្សំខ្លាំងពេក អាចនាំឱ្យអស់កម្លាំង និងការចំណាយត្រឡប់មកវិញយ៉ាងធំ។ នឹងនរ ប្រសើរជាងភាពខ្លាំងហួសហេតុ។"
+      },
+      "outcome": {
+        "en": "A balanced habit could build lasting savings without strain. Harmony may develop between saving and living.",
+        "km": "ទម្លាប់មានតុល្យភាព អាចកសាងការសន្សំស្ថិតស្ថេរ ដោយគ្មានភាពតានតឹង។ ភាពសុខដុម អាចរីកចម្រើនរវាងការសន្សំ និងការរស់នៅ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Notice what keeps pulling money away from your savings, whether temptation, habit or pressure from others. Naming the pull weakens it.",
+        "km": "សូមកត់សម្គាល់អ្វីដែលបន្តទាញប្រាក់ចេញពីការសន្សំរបស់អ្នក មិនថាការល្បួង ទម្លាប់ ឬសម្ពាធពីអ្នកដទៃ។ ការដាក់ឈ្មោះការទាញ ធ្វើឱ្យវាចុះខ្សោយ។"
+      },
+      "challenge": {
+        "en": "Debt with high costs could swallow anything you try to save. If debt feels unmanageable, a qualified adviser or support service may help you plan.",
+        "km": "បំណុលដែលមានការចំណាយខ្ពស់ អាចលេបអ្វីៗដែលអ្នកព្យាយាមសន្សំ។ ប្រសិនបើបំណុលហាក់ដូចជាមិនអាចគ្រប់គ្រងបាន ទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ឬសេវាគាំទ្រ អាចជួយអ្នកធ្វើផែនការ។"
+      },
+      "outcome": {
+        "en": "Breaking free from what drains your savings could let them finally grow. A sense of freedom may follow, and it may last.",
+        "km": "ការរួចផុតពីអ្វីដែលបូមការសន្សំរបស់អ្នក អាចឱ្យវារីកធំនៅទីបំផុត។ អារម្មណ៍នៃសេរីភាព អាចកើតឡើងបន្ទាប់ ហើយវាអាចស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "If an emergency has emptied your savings, start rebuilding with small amounts and without blame. Every cushion starts from zero once.",
+        "km": "ប្រសិនបើអាសន្នមួយបានធ្វើឱ្យការសន្សំរបស់អ្នកទទេ សូមចាប់ផ្តើមកសាងឡើងវិញ ជាមួយចំនួនតូចៗ និងដោយគ្មានការបន្ទោស។ ទុនបម្រុងនីមួយៗ ធ្លាប់ចាប់ផ្តើមពីសូន្យម្តង។"
+      },
+      "challenge": {
+        "en": "A sudden loss could make saving feel pointless. Remember that a cushion exists precisely for moments like these.",
+        "km": "ការបាត់បង់ភ្លាមៗ អាចធ្វើឱ្យការសន្សំមានអារម្មណ៍គ្មានន័យ។ សូមចងចាំថា ទុនបម្រុងមានសម្រាប់ពេលវេលាបែបនេះ។"
+      },
+      "outcome": {
+        "en": "Rebuilding after a shock could lead to stronger habits and a bigger cushion. Lessons may last.",
+        "km": "ការកសាងឡើងវិញ ក្រោយការភ្ញាក់ផ្អើល អាចនាំទៅរកទម្លាប់រឹងមាំជាងមុន និងទុនបម្រុងធំជាងមុន។ មេរៀនអាចស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Let hope motivate you by picturing what your savings will make possible. A hopeful goal can keep you going.",
+        "km": "សូមឱ្យក្តីសង្ឃឹមលើកទឹកចិត្តអ្នក ដោយស្រមៃពីអ្វីដែលការសន្សំរបស់អ្នកនឹងធ្វើឱ្យអាចទៅរួច។ គោលដៅដែលមានក្តីសង្ឃឹម អាចរក្សាអ្នកឱ្យបន្តទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Expecting savings to grow quickly could lead to discouragement and giving up. Trust the slow, steady process.",
+        "km": "ការរំពឹងថាការសន្សំនឹងរីកធំលឿន អាចនាំឱ្យបាក់ទឹកចិត្ត និងបោះបង់។ សូមទុកចិត្តលើដំណើរការយឺតៗ និងនឹងនរ។"
+      },
+      "outcome": {
+        "en": "Patient saving could bring a renewed sense of hope and security. Your efforts may slowly shine.",
+        "km": "ការសន្សំដោយអត់ធ្មត់ អាចនាំមកនូវអារម្មណ៍ថ្មីនៃក្តីសង្ឃឹម និងសុវត្ថិភាព។ ការខិតខំរបស់អ្នក អាចភ្លឺស្វាងបន្តិចម្តងៗ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Keep your savings somewhere clear and trustworthy, and understand the terms. Uncertainty about where money is can undermine confidence.",
+        "km": "សូមរក្សាការសន្សំរបស់អ្នកនៅកន្លែងច្បាស់លាស់ និងគួរឱ្យទុកចិត្ត ហើយយល់ពីលក្ខខណ្ឌ។ ភាពមិនប្រាកដអំពីកន្លែងដែលប្រាក់នៅ អាចបំផ្លាញទំនុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Promises of fast, easy growth could put your savings at risk. Be wary of anything that sounds too good.",
+        "km": "ការសន្យាពីការរីកចម្រើនរហ័ស និងងាយស្រួល អាចធ្វើឱ្យការសន្សំរបស់អ្នកប្រឈមហានិភ័យ។ សូមប្រុងប្រយ័ត្នចំពោះអ្វីដែលស្តាប់ទៅល្អពេក។"
+      },
+      "outcome": {
+        "en": "Clear, safe savings could bring real peace of mind. Knowing exactly where your money is may become a quiet comfort.",
+        "km": "ការសន្សំច្បាស់លាស់ និងមានសុវត្ថិភាព អាចនាំមកនូវសន្តិភាពផ្លូវចិត្តពិតប្រាកដ។ ការដឹងច្បាស់ថាប្រាក់របស់អ្នកនៅឯណា អាចក្លាយជាការលួងលោមស្ងប់ស្ងាត់។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Celebrate each savings milestone, however small, to keep motivation bright. Positive feelings make good habits stick.",
+        "km": "សូមអបអរព្រឹត្តិការណ៍សំខាន់នៃការសន្សំនីមួយៗ ទោះតូចយ៉ាងណាក៏ដោយ ដើម្បីរក្សាការលើកទឹកចិត្តឱ្យភ្លឺស្វាង។ អារម្មណ៍វិជ្ជមាន ធ្វើឱ្យទម្លាប់ល្អជាប់។"
+      },
+      "challenge": {
+        "en": "Celebrating by spending what you have saved could undo the progress. Mark milestones in ways that cost little.",
+        "km": "ការអបអរដោយការចំណាយអ្វីដែលអ្នកបានសន្សំ អាចធ្វើឱ្យការរីកចម្រើនត្រឡប់ក្រោយ។ សូមកត់សម្គាល់ព្រឹត្តិការណ៍សំខាន់តាមវិធីដែលចំណាយតិច។"
+      },
+      "outcome": {
+        "en": "Growing savings could bring a bright sense of confidence. Each milestone may feel like proof that the habit works.",
+        "km": "ការសន្សំដែលកំពុងកើនឡើង អាចនាំមកនូវអារម្មណ៍ភ្លឺស្វាងនៃទំនុកចិត្ត។ ព្រឹត្តិការណ៍សំខាន់នីមួយៗ អាចមានអារម្មណ៍ដូចជាភស្តុតាងថាទម្លាប់នោះដំណើរការ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Review your saving habits honestly and recommit to what works. A fresh decision can restart a stalled habit.",
+        "km": "សូមពិនិត្យទម្លាប់សន្សំរបស់អ្នកដោយស្មោះត្រង់ ហើយប្តេជ្ញាចិត្តឡើងវិញចំពោះអ្វីដែលដំណើរការ។ ការសម្រេចចិត្តថ្មី អាចចាប់ផ្តើមទម្លាប់ដែលជាប់គាំងឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Guilt about past failures to save could stop you from trying again. The effort you make from here matters more than past mistakes.",
+        "km": "អារម្មណ៍ខុសអំពីការបរាជ័យកន្លងមកក្នុងការសន្សំ អាចរារាំងអ្នកពីការព្យាយាមម្តងទៀត។ ការខិតខំដែលអ្នកធ្វើចាប់ពីទីនេះ សំខាន់ជាងកំហុសកន្លងមក។"
+      },
+      "outcome": {
+        "en": "A renewed commitment could bring lasting change. Saving may become part of who you are rather than something you force.",
+        "km": "ការប្តេជ្ញាចិត្តថ្មី អាចនាំមកនូវការផ្លាស់ប្តូរស្ថិតស្ថេរ។ ការសន្សំ អាចក្លាយជាផ្នែកមួយនៃមនុស្សដែលអ្នកជា ជាជាងអ្វីដែលអ្នកបង្ខំ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Reach one savings goal fully before splitting money across new ones. Completing a target builds confidence for the next.",
+        "km": "សូមឈានដល់គោលដៅសន្សំមួយឱ្យពេញលេញ មុនពេលបែងចែកប្រាក់ទៅគោលដៅថ្មីៗ។ ការបញ្ចប់គោលដៅមួយ កសាងទំនុកចិត្តសម្រាប់មួយបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Spending a savings goal the moment you reach it could leave you starting from scratch. Keep part of it as a base.",
+        "km": "ការចំណាយគោលដៅសន្សំ ភ្លាមៗនៅពេលអ្នកឈានដល់វា អាចធ្វើឱ្យអ្នកចាប់ផ្តើមពីដំបូង។ សូមរក្សាផ្នែកមួយរបស់វាជាមូលដ្ឋាន។"
+      },
+      "outcome": {
+        "en": "Completing a savings goal could leave you with both money and proof that you can do it. The next goal may feel much easier.",
+        "km": "ការបញ្ចប់គោលដៅសន្សំ អាចបន្សល់ឱ្យអ្នកនូវទាំងប្រាក់ និងភស្តុតាងថាអ្នកអាចធ្វើបាន។ គោលដៅបន្ទាប់ អាចមានអារម្មណ៍ងាយស្រួលជាងមុនច្រើន។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Use a burst of motivation to open a savings pot or make a first deposit while the idea is fresh. Momentum is easiest to catch at the start.",
+        "km": "សូមប្រើកម្លាំងលើកទឹកចិត្តភ្លាមៗ ដើម្បីបើកកន្លែងសន្សំ ឬធ្វើការដាក់ប្រាក់ដំបូង ខណៈគំនិតនៅស្រស់។ សន្ទុះ ងាយចាប់បានបំផុតនៅពេលចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Starting with enthusiasm and stopping once the novelty fades could leave savings stuck at the beginning. Plan how you will keep going.",
+        "km": "ការចាប់ផ្តើមដោយភាពរីករាយ ហើយឈប់នៅពេលភាពថ្មីរសាត់បាត់ អាចធ្វើឱ្យការសន្សំជាប់គាំងនៅដំណាក់កាលដំបូង។ សូមធ្វើផែនការពីរបៀបដែលអ្នកនឹងបន្ត។"
+      },
+      "outcome": {
+        "en": "A spirited start could grow into a habit that keeps going on its own. That first step may be remembered as a turning point.",
+        "km": "ការចាប់ផ្តើមដោយស្មារតីខ្លាំង អាចរីកធំទៅជាទម្លាប់ដែលបន្តដោយខ្លួនឯង។ ជំហានដំបូងនោះ អាចត្រូវបានចងចាំថាជាចំណុចបត់។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Plan what your savings are for in the bigger picture, perhaps a safety net first and then a larger goal. A clear plan makes each deposit feel purposeful.",
+        "km": "សូមធ្វើផែនការពីអ្វីដែលការសន្សំរបស់អ្នកមានសម្រាប់ក្នុងរូបភាពធំ ប្រហែលជាសំណាញ់សុវត្ថិភាពជាមុន ហើយបន្ទាប់មកគោលដៅធំជាង។ ផែនការច្បាស់លាស់ ធ្វើឱ្យការដាក់ប្រាក់នីមួយៗមានអារម្មណ៍មានគោលបំណង។"
+      },
+      "challenge": {
+        "en": "Comparing savings options for too long could delay the simple act of starting. Begin with any safe place and refine later.",
+        "km": "ការប្រៀបធៀបជម្រើសសន្សំយូរពេក អាចពន្យារអំពើសាមញ្ញនៃការចាប់ផ្តើម។ សូមចាប់ផ្តើមជាមួយកន្លែងមានសុវត្ថិភាពណាមួយ ហើយកែសម្រួលពេលក្រោយ។"
+      },
+      "outcome": {
+        "en": "A clear plan could open wider choices for your future. Each goal reached may make the next feel possible.",
+        "km": "ផែនការច្បាស់លាស់ អាចបើកជម្រើសទូលាយជាងមុនសម្រាប់អនាគតរបស់អ្នក។ គោលដៅនីមួយៗដែលបានសម្រេច អាចធ្វើឱ្យគោលដៅបន្ទាប់មានអារម្មណ៍ថាអាចទៅរួច។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Think about savings that serve your wider ambitions, such as further study or a future move. Saving with the horizon in view keeps you motivated.",
+        "km": "សូមគិតអំពីការសន្សំដែលបម្រើមហិច្ឆតាទូលាយរបស់អ្នក ដូចជាការសិក្សាបន្ថែម ឬការផ្លាស់ទីលំនៅនាពេលអនាគត។ ការសន្សំដោយមើលឃើញជើងមេឃ រក្សាអ្នកឱ្យមានការលើកទឹកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Feeling that savings grow too slowly could tempt you to stop. Growth is often invisible before it becomes obvious.",
+        "km": "អារម្មណ៍ថាការសន្សំរីកធំយឺតពេក អាចល្បួងអ្នកឱ្យឈប់។ ការរីកចម្រើន ជារឿយៗមិនអាចមើលឃើញ មុនពេលវាក្លាយជាច្បាស់។"
+      },
+      "outcome": {
+        "en": "Savings could open doors further away than you expected. Your options may widen as your cushion grows.",
+        "km": "ការសន្សំ អាចបើកទ្វារនៅឆ្ងាយជាងអ្វីដែលអ្នករំពឹង។ ជម្រើសរបស់អ្នក អាចពង្រីក ខណៈទុនបម្រុងរបស់អ្នករីកធំ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Build a stable base by saving for the home and the people you share it with. A secure foundation makes everything else calmer.",
+        "km": "សូមកសាងមូលដ្ឋានមានស្ថិរភាព ដោយការសន្សំសម្រាប់ផ្ទះ និងមនុស្សដែលអ្នករស់នៅជាមួយ។ មូលដ្ឋានមានសុវត្ថិភាព ធ្វើឱ្យអ្វីៗផ្សេងទៀតស្ងប់ស្ងាត់ជាង។"
+      },
+      "challenge": {
+        "en": "Dipping into savings for celebrations could leave the foundation thin. Plan celebrations separately from your safety net.",
+        "km": "ការដកពីការសន្សំ សម្រាប់ការអបអរ អាចធ្វើឱ្យមូលដ្ឋានស្តើង។ សូមធ្វើផែនការការអបអរដាច់ដោយឡែកពីសំណាញ់សុវត្ថិភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A solid base could give your household lasting security. There may be genuine reason to celebrate as it grows.",
+        "km": "មូលដ្ឋានរឹងមាំ អាចផ្តល់សុវត្ថិភាពស្ថិតស្ថេរដល់គ្រួសាររបស់អ្នក។ អាចមានហេតុផលពិតប្រាកដដើម្បីអបអរ ខណៈវារីកធំ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Make saving a friendly challenge, perhaps with a friend or family member who is also saving. A little healthy competition can help.",
+        "km": "សូមធ្វើឱ្យការសន្សំជាការប្រកួតប្រជែងរួសរាយ ប្រហែលជាជាមួយមិត្តភក្តិ ឬសមាជិកគ្រួសារ ដែលកំពុងសន្សំផងដែរ។ ការប្រកួតប្រជែងល្អបន្តិច អាចជួយបាន។"
+      },
+      "challenge": {
+        "en": "Competing demands on your money could keep pushing saving to the back. Protect a fixed amount first.",
+        "km": "តម្រូវការប្រកួតប្រជែងលើប្រាក់របស់អ្នក អាចបន្តរុញការសន្សំទៅខាងក្រោយ។ សូមការពារចំនួនថេរមួយជាមុន។"
+      },
+      "outcome": {
+        "en": "A shared challenge could make saving fun and steady. You may encourage each other to keep going.",
+        "km": "ការប្រកួតប្រជែងរួម អាចធ្វើឱ្យការសន្សំសប្បាយ និងនឹងនរ។ អ្នកអាចលើកទឹកចិត្តគ្នាទៅវិញទៅមកឱ្យបន្ត។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Save a portion of every raise, bonus or reward before enjoying the rest. Success shared with your future self lasts longer.",
+        "km": "សូមសន្សំផ្នែកមួយ នៃរាល់ការដំឡើងប្រាក់បៀវត្ស ប្រាក់រង្វាន់ ឬរង្វាន់ មុនពេលរីករាយនឹងអ្វីដែលនៅសល់។ ភាពជោគជ័យដែលចែករំលែកជាមួយខ្លួនឯងនាពេលអនាគត ស្ថិតស្ថេរយូរជាង។"
+      },
+      "challenge": {
+        "en": "Spending every reward as a sign of success could leave nothing to show later. Keep a share for yourself.",
+        "km": "ការចំណាយរាល់រង្វាន់ជាសញ្ញានៃភាពជោគជ័យ អាចមិនបន្សល់អ្វីដើម្បីបង្ហាញនៅពេលក្រោយ។ សូមរក្សាចំណែកមួយសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Saving part of your successes could build lasting pride and security. Recognition may become something you keep.",
+        "km": "ការសន្សំផ្នែកមួយនៃភាពជោគជ័យរបស់អ្នក អាចកសាងមោទនភាព និងសុវត្ថិភាពស្ថិតស្ថេរ។ ការទទួលស្គាល់ អាចក្លាយជាអ្វីដែលអ្នករក្សាទុក។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Protect your savings firmly from requests, temptations and small emergencies that are not truly urgent. A clear boundary keeps the pot growing.",
+        "km": "សូមការពារការសន្សំរបស់អ្នកយ៉ាងរឹងមាំ ពីសំណើ ការល្បួង និងអាសន្នតូចៗ ដែលមិនពិតជាបន្ទាន់។ ព្រំដែនច្បាស់លាស់ រក្សាកន្លែងសន្សំឱ្យរីកធំ។"
+      },
+      "challenge": {
+        "en": "Feeling guilty for saying no to others could lead you to give your savings away. Kindness can include protecting your future.",
+        "km": "អារម្មណ៍ខុសចំពោះការបដិសេធអ្នកដទៃ អាចនាំអ្នកឱ្យផ្តល់ការសន្សំរបស់អ្នកចេញ។ សេចក្តីសប្បុរស អាចរួមបញ្ចូលការការពារអនាគតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Firm boundaries could keep your savings intact and growing. Persistence may protect your progress from well-meant raids.",
+        "km": "ព្រំដែនរឹងមាំ អាចរក្សាការសន្សំរបស់អ្នកឱ្យនៅដដែល និងកំពុងរីកធំ។ ការតស៊ូ អាចការពារការរីកចម្រើនរបស់អ្នកពីការដកដែលមានចេតនាល្អ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Move money into savings quickly, on the same day you receive it. Fast action leaves less room for spending.",
+        "km": "សូមផ្លាស់ប្រាក់ចូលក្នុងការសន្សំយ៉ាងរហ័ស នៅពេលដែលអ្នកទទួលបានវា។ សកម្មភាពរហ័ស ទុកកន្លែងតិចជាងមុនសម្រាប់ការចំណាយ។"
+      },
+      "challenge": {
+        "en": "Rushing to withdraw savings for something urgent-seeming could undo progress. Check whether it truly cannot wait.",
+        "km": "ការប្រញាប់ដកការសន្សំ សម្រាប់អ្វីមួយដែលហាក់ដូចជាបន្ទាន់ អាចធ្វើឱ្យការរីកចម្រើនត្រឡប់ក្រោយ។ សូមពិនិត្យថាតើវាពិតជាមិនអាចរង់ចាំបានឬទេ។"
+      },
+      "outcome": {
+        "en": "Quick, regular transfers could make savings grow faster than expected. Each one may add to a momentum you can feel.",
+        "km": "ការផ្ទេររហ័ស និងទៀងទាត់ អាចធ្វើឱ្យការសន្សំរីកធំលឿនជាងការរំពឹង។ ការផ្ទេរនីមួយៗ អាចបន្ថែមសន្ទុះដែលអ្នកអាចមានអារម្មណ៍។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Keep saving through tired or difficult stretches, even if the amount shrinks. Persistence keeps the habit alive.",
+        "km": "សូមបន្តសន្សំ ឆ្លងកាត់ដំណាក់កាលនឿយហត់ ឬលំបាក ទោះបីចំនួនរួមតូចក៏ដោយ។ ការតស៊ូ រក្សាទម្លាប់ឱ្យនៅរស់។"
+      },
+      "challenge": {
+        "en": "Weariness could tempt you to stop saving altogether. Remember that a tiny amount still keeps the habit going.",
+        "km": "ភាពនឿយហត់ អាចល្បួងអ្នកឱ្យឈប់សន្សំទាំងស្រុង។ សូមចងចាំថា ចំនួនតូចបំផុត នៅតែរក្សាទម្លាប់ឱ្យបន្ត។"
+      },
+      "outcome": {
+        "en": "Your persistence could leave you with a cushion when you most need it. Resilience may pay off.",
+        "km": "ការតស៊ូរបស់អ្នក អាចបន្សល់ឱ្យអ្នកនូវទុនបម្រុង នៅពេលអ្នកត្រូវការបំផុត។ ភាពធន់ អាចទទួលបានផល។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "If many people depend on your money, still keep a small savings amount that is just for you. Responsibility includes protecting yourself.",
+        "km": "ប្រសិនបើមនុស្សជាច្រើនពឹងផ្អែកលើប្រាក់របស់អ្នក សូមនៅតែរក្សាចំនួនសន្សំតូចមួយ ដែលសម្រាប់តែអ្នក។ ការទទួលខុសត្រូវ រួមបញ្ចូលការការពារខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Carrying everyone's costs could leave no room to save at all. Ask for help sharing the load.",
+        "km": "ការលីការចំណាយរបស់មនុស្សគ្រប់គ្នា អាចមិនទុកកន្លែងដើម្បីសន្សំទាល់តែសោះ។ សូមស្នើសុំជំនួយក្នុងការចែករំលែកបន្ទុក។"
+      },
+      "outcome": {
+        "en": "A protected savings habit could give you relief even under heavy responsibility. A cushion may ease the weight.",
+        "km": "ទម្លាប់សន្សំដែលបានការពារ អាចផ្តល់ការធូរស្រាលដល់អ្នក សូម្បីតែក្រោមការទទួលខុសត្រូវធ្ងន់។ ទុនបម្រុង អាចបន្ធូរទម្ងន់។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Learn about simple, safe ways to save and try one that fits you. Curiosity can make saving more interesting.",
+        "km": "សូមរៀនអំពីវិធីសាមញ្ញ និងមានសុវត្ថិភាព ដើម្បីសន្សំ ហើយសាកល្បងវិធីមួយដែលសមនឹងអ្នក។ ការចង់ដឹងចង់ឃើញ អាចធ្វើឱ្យការសន្សំគួរឱ្យចាប់អារម្មណ៍ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Jumping between different savings methods could leave none working well. Stick with one for a while.",
+        "km": "ការលោតរវាងវិធីសន្សំផ្សេងៗ អាចធ្វើឱ្យគ្មានវិធីណាដំណើរការល្អ។ សូមប្រកាន់ខ្ជាប់វិធីមួយមួយរយៈ។"
+      },
+      "outcome": {
+        "en": "A method that suits you could make saving easy and steady. A small discovery may change everything.",
+        "km": "វិធីសាស្ត្រដែលសមនឹងអ្នក អាចធ្វើឱ្យការសន្សំងាយស្រួល និងនឹងនរ។ ការរកឃើញតូចមួយ អាចផ្លាស់ប្តូរអ្វីៗទាំងអស់។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Take bold action by setting a savings challenge and committing to it fully. Energy and determination can jump-start the habit.",
+        "km": "សូមធ្វើសកម្មភាពក្លាហាន ដោយកំណត់ការប្រកួតប្រជែងសន្សំ ហើយប្តេជ្ញាចិត្តចំពោះវាពេញលេញ។ ថាមពល និងការប្តេជ្ញាចិត្ត អាចចាប់ផ្តើមទម្លាប់នោះ។"
+      },
+      "challenge": {
+        "en": "Starting with a savings target that is too ambitious could lead to burnout and abandonment. Choose a pace you can sustain.",
+        "km": "ការចាប់ផ្តើមជាមួយគោលដៅសន្សំដែលមានមហិច្ឆតាពេក អាចនាំឱ្យអស់កម្លាំង និងការបោះបង់។ សូមជ្រើសរើសល្បឿនដែលអ្នកអាចទ្រទ្រង់បាន។"
+      },
+      "outcome": {
+        "en": "Bold commitment could build savings quickly. Early momentum may carry you further than you expect.",
+        "km": "ការប្តេជ្ញាចិត្តក្លាហាន អាចកសាងការសន្សំយ៉ាងរហ័ស។ សន្ទុះដំបូង អាចនាំអ្នកទៅឆ្ងាយជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Approach saving with confidence and warmth, seeing it as a gift to yourself and those you love. A positive mindset makes the habit easier.",
+        "km": "សូមចូលទៅរកការសន្សំ ដោយទំនុកចិត្ត និងភាពកក់ក្តៅ ដោយមើលឃើញវាជាអំណោយដល់ខ្លួនឯង និងអ្នកដែលអ្នកស្រឡាញ់។ គំនិតវិជ្ជមាន ធ្វើឱ្យទម្លាប់ងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Generosity toward others could leave little for your own savings. Include yourself in your kindness, too.",
+        "km": "ចិត្តទូលាយចំពោះអ្នកដទៃ អាចទុកតិចតួចសម្រាប់ការសន្សំរបស់អ្នក។ សូមរាប់បញ្ចូលខ្លួនឯងក្នុងសេចក្តីសប្បុរសរបស់អ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "A confident, generous approach could build both security and goodwill. People close to you may be inspired to save too.",
+        "km": "វិធីសាស្ត្រមានទំនុកចិត្ត និងចិត្តទូលាយ អាចកសាងទាំងសុវត្ថិភាព និងសុច្ឆន្ទៈ។ មនុស្សជិតស្និទ្ធរបស់អ្នក អាចត្រូវបានបំផុសគំនិតឱ្យសន្សំផងដែរ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Set a long-term savings vision and lead your household toward it. Clear direction helps everyone stay on track.",
+        "km": "សូមកំណត់ចក្ខុវិស័យសន្សំរយៈពេលវែង ហើយដឹកនាំគ្រួសាររបស់អ្នកឆ្ពោះទៅរកវា។ ទិសដៅច្បាស់លាស់ ជួយមនុស្សគ្រប់គ្នាឱ្យនៅលើផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Focusing on big goals could make small regular savings seem pointless. The big goals are built from the small amounts.",
+        "km": "ការផ្តោតលើគោលដៅធំៗ អាចធ្វើឱ្យការសន្សំតូចៗទៀងទាត់ហាក់ដូចជាគ្មានន័យ។ គោលដៅធំៗ ត្រូវបានកសាងពីចំនួនតូចៗ។"
+      },
+      "outcome": {
+        "en": "A clear vision could build lasting wealth over the long run. Your household may follow your lead and grow stronger.",
+        "km": "ចក្ខុវិស័យច្បាស់លាស់ អាចកសាងទ្រព្យសម្បត្តិស្ថិតស្ថេរក្នុងរយៈពេលវែង។ គ្រួសាររបស់អ្នក អាចដើរតាមការដឹកនាំរបស់អ្នក ហើយកាន់តែរឹងមាំ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Connect saving to something you care about emotionally, such as peace of mind or a dream for someone you love. Heartfelt reasons make habits stick.",
+        "km": "សូមភ្ជាប់ការសន្សំទៅនឹងអ្វីមួយដែលអ្នកយកចិត្តទុកដាក់ផ្លូវអារម្មណ៍ ដូចជាសន្តិភាពផ្លូវចិត្ត ឬសុបិនសម្រាប់នរណាម្នាក់ដែលអ្នកស្រឡាញ់។ ហេតុផលចេញពីបេះដូង ធ្វើឱ្យទម្លាប់ជាប់។"
+      },
+      "challenge": {
+        "en": "Feeling that saving takes the joy out of life could make you resist it. Let saving be a source of comfort rather than denial.",
+        "km": "អារម្មណ៍ថាការសន្សំដកសេចក្តីរីករាយចេញពីជីវិត អាចធ្វើឱ្យអ្នកទប់ទល់នឹងវា។ សូមឱ្យការសន្សំជាប្រភពនៃការលួងលោម ជាជាងការបដិសេធ។"
+      },
+      "outcome": {
+        "en": "Saving with heart could bring a deep, quiet sense of security. A fresh feeling of contentment may grow from it.",
+        "km": "ការសន្សំដោយបេះដូង អាចនាំមកនូវអារម្មណ៍សុវត្ថិភាពជ្រាលជ្រៅ និងស្ងប់ស្ងាត់។ អារម្មណ៍ថ្មីនៃការពេញចិត្ត អាចរីកចម្រើនពីវា។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Save alongside a partner or friend who shares your goal, encouraging each other along the way. Two people keeping each other honest often save more.",
+        "km": "សូមសន្សំជាមួយដៃគូ ឬមិត្តភក្តិដែលមានគោលដៅដូចអ្នក ដោយលើកទឹកចិត្តគ្នាទៅវិញទៅមកតាមផ្លូវ។ មនុស្សពីរនាក់ដែលរក្សាគ្នាឱ្យស្មោះត្រង់ ជារឿយៗសន្សំបានច្រើនជាង។"
+      },
+      "challenge": {
+        "en": "Disagreeing with a partner about how much to save could create quiet tension. Agree on an amount that feels fair to both.",
+        "km": "ការមិនយល់ស្របជាមួយដៃគូ អំពីចំនួនដែលត្រូវសន្សំ អាចបង្កើតភាពតានតឹងស្ងាត់ៗ។ សូមយល់ព្រមលើចំនួនដែលមានអារម្មណ៍យុត្តិធម៌ចំពោះទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "Saving together could strengthen both your finances and your bond. Shared progress may feel twice as rewarding.",
+        "km": "ការសន្សំជាមួយគ្នា អាចពង្រឹងទាំងហិរញ្ញវត្ថុ និងចំណងរបស់អ្នក។ ការរីកចម្រើនរួមគ្នា អាចមានអារម្មណ៍ផ្តល់រង្វាន់ទ្វេដង។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Join or create a group of friends who encourage each other to save, sharing tips and small wins. Community support keeps motivation alive.",
+        "km": "សូមចូលរួម ឬបង្កើតក្រុមមិត្តភក្តិ ដែលលើកទឹកចិត្តគ្នាទៅវិញទៅមកឱ្យសន្សំ ដោយចែករំលែកគន្លឹះ និងជ័យជម្នះតូចៗ។ ការគាំទ្រពីសហគមន៍ រក្សាការលើកទឹកចិត្តឱ្យនៅរស់។"
+      },
+      "challenge": {
+        "en": "Social spending with friends could keep eating into what you meant to save. Suggest cheaper ways to meet.",
+        "km": "ការចំណាយសង្គមជាមួយមិត្តភក្តិ អាចបន្តស៊ីអ្វីដែលអ្នកមានបំណងសន្សំ។ សូមស្នើវិធីថោកជាងដើម្បីជួបគ្នា។"
+      },
+      "outcome": {
+        "en": "Friends who save together could make the habit easier and more fun. Shared celebrations may cost less.",
+        "km": "មិត្តភក្តិដែលសន្សំជាមួយគ្នា អាចធ្វើឱ្យទម្លាប់ងាយស្រួល និងសប្បាយជាងមុន។ ការអបអររួមគ្នា អាចចំណាយតិចជាង។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Look again at small amounts you overlook, such as change, refunds or leftover money, and save them. Overlooked money can add up.",
+        "km": "សូមមើលម្តងទៀតនូវចំនួនតូចៗដែលអ្នកមើលរំលង ដូចជាប្រាក់អាប់ ប្រាក់សងវិញ ឬប្រាក់នៅសល់ ហើយសន្សំវា។ ប្រាក់ដែលត្រូវបានមើលរំលង អាចបូកបញ្ចូលគ្នា។"
+      },
+      "challenge": {
+        "en": "Feeling that saving is pointless could make you ignore chances to do it. Even small amounts matter.",
+        "km": "អារម្មណ៍ថាការសន្សំគ្មានន័យ អាចធ្វើឱ្យអ្នកមិនខ្វល់ពីឱកាសដើម្បីធ្វើវា។ សូម្បីតែចំនួនតូចៗ ក៏សំខាន់ដែរ។"
+      },
+      "outcome": {
+        "en": "Paying attention to small amounts could reveal savings you did not know you had. Interest in the habit may grow.",
+        "km": "ការយកចិត្តទុកដាក់ចំពោះចំនួនតូចៗ អាចបង្ហាញពីការសន្សំដែលអ្នកមិនដឹងថាអ្នកមាន។ ចំណាប់អារម្មណ៍ចំពោះទម្លាប់ អាចកើនឡើង។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "If past savings were lost or spent, acknowledge it and start again gently. What remains, even a little, is a starting point.",
+        "km": "ប្រសិនបើការសន្សំកន្លងមកបានបាត់បង់ ឬត្រូវបានចំណាយ សូមទទួលស្គាល់វា ហើយចាប់ផ្តើមម្តងទៀតដោយទន់ភ្លន់។ អ្វីដែលនៅសល់ ទោះតិចក៏ដោយ គឺជាចំណុចចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Regret over lost savings could stop you from trying again. Focus on rebuilding rather than on what is gone.",
+        "km": "ការសោកស្តាយចំពោះការសន្សំដែលបាត់បង់ អាចរារាំងអ្នកពីការព្យាយាមម្តងទៀត។ សូមផ្តោតលើការកសាងឡើងវិញ ជាជាងអ្វីដែលបាត់។"
+      },
+      "outcome": {
+        "en": "Starting again could rebuild both savings and confidence. Hope may return a little more with each deposit.",
+        "km": "ការចាប់ផ្តើមម្តងទៀត អាចកសាងទាំងការសន្សំ និងទំនុកចិត្តឡើងវិញ។ ក្តីសង្ឃឹមអាចត្រឡប់មកវិញបន្តិចបន្ថែម ជាមួយការដាក់ប្រាក់នីមួយៗ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Remember the simple saving habits from childhood or family, such as a jar or a set-aside envelope, and bring one back. Old ways can still work.",
+        "km": "សូមចងចាំទម្លាប់សន្សំសាមញ្ញៗពីកុមារភាព ឬគ្រួសារ ដូចជាកូនជ្រូកសន្សំ ឬស្រោមសំបុត្រទុកដាច់ដោយឡែក ហើយនាំមួយមកវិញ។ វិធីចាស់ អាចនៅតែដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Wishing saving were as easy as it once seemed could hold you back. Shape the habit around the life you have.",
+        "km": "ការប្រាថ្នាថាការសន្សំងាយស្រួលដូចដែលវាធ្លាប់ហាក់ដូចជា អាចរារាំងអ្នក។ សូមរៀបចំទម្លាប់ជុំវិញជីវិតដែលអ្នកមាន។"
+      },
+      "outcome": {
+        "en": "A familiar, simple method could make saving feel natural again. Comfort may come from old habits.",
+        "km": "វិធីសាស្ត្រសាមញ្ញដែលធ្លាប់ស្គាល់ អាចធ្វើឱ្យការសន្សំមានអារម្មណ៍ធម្មជាតិម្តងទៀត។ ការលួងលោម អាចមកពីទម្លាប់ចាស់។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Choose one clear savings goal from the many you dream about. Focus makes saving much more effective.",
+        "km": "សូមជ្រើសរើសគោលដៅសន្សំច្បាស់លាស់មួយ ពីគោលដៅជាច្រើនដែលអ្នកសុបិន។ ការផ្តោត ធ្វើឱ្យការសន្សំមានប្រសិទ្ធភាពជាងមុនច្រើន។"
+      },
+      "challenge": {
+        "en": "Spreading savings across too many dreams could make progress on each feel slow. Choose one to put first.",
+        "km": "ការបែងចែកការសន្សំលើសុបិនច្រើនពេក អាចធ្វើឱ្យការរីកចម្រើនលើនីមួយៗមានអារម្មណ៍យឺត។ សូមជ្រើសរើសមួយដើម្បីដាក់មុនគេ។"
+      },
+      "outcome": {
+        "en": "Focusing on one goal could bring visible progress and real motivation. One dream may come true.",
+        "km": "ការផ្តោតលើគោលដៅមួយ អាចនាំមកនូវការរីកចម្រើនដែលមើលឃើញ និងការលើកទឹកចិត្តពិតប្រាកដ។ សុបិនមួយ អាចក្លាយជាការពិត។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Leave behind spending habits that no longer satisfy you and redirect that money into savings. Walking away can be a gift to yourself.",
+        "km": "សូមទុកទម្លាប់ចំណាយដែលលែងធ្វើឱ្យអ្នកពេញចិត្តនៅពីក្រោយ ហើយបង្វែរប្រាក់នោះចូលក្នុងការសន្សំ។ ការដើរចេញ អាចជាអំណោយដល់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Holding on to habits out of comfort could keep money from reaching your savings. Ask what you truly value.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ ដោយសារភាពសុខស្រួល អាចរារាំងប្រាក់ពីការទៅដល់ការសន្សំរបស់អ្នក។ សូមសួរពីអ្វីដែលអ្នកពិតជាឱ្យតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Redirecting old spending could build savings faster than expected. Letting go may feel freeing rather than like a loss.",
+        "km": "ការបង្វែរការចំណាយចាស់ អាចកសាងការសន្សំលឿនជាងការរំពឹង។ ការលែង អាចមានអារម្មណ៍សេរី ជាជាងដូចជាការបាត់បង់។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Notice the satisfaction of watching savings grow, and let that feeling motivate you. Contentment can be a powerful reward.",
+        "km": "សូមកត់សម្គាល់ការពេញចិត្តនៃការមើលការសន្សំរីកធំ ហើយឱ្យអារម្មណ៍នោះលើកទឹកចិត្តអ្នក។ ការពេញចិត្ត អាចជារង្វាន់ដ៏មានឥទ្ធិពល។"
+      },
+      "challenge": {
+        "en": "Feeling you already have enough could make saving seem unnecessary. A cushion is what keeps that contentment safe.",
+        "km": "អារម្មណ៍ថាអ្នកមានគ្រប់គ្រាន់រួចហើយ អាចធ្វើឱ្យការសន្សំហាក់ដូចជាមិនចាំបាច់។ ទុនបម្រុង គឺជាអ្វីដែលរក្សាការពេញចិត្តនោះឱ្យមានសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Growing savings could bring a quiet, lasting satisfaction. A wish for security may be fulfilled more fully than you expect.",
+        "km": "ការសន្សំដែលកំពុងរីកធំ អាចនាំមកនូវការពេញចិត្តស្ងប់ស្ងាត់ និងស្ថិតស្ថេរ។ បំណងប្រាថ្នាសម្រាប់សុវត្ថិភាព អាចត្រូវបានបំពេញពេញលេញជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Make saving a family habit, perhaps with shared goals children and adults can understand. Togetherness can make saving joyful.",
+        "km": "សូមធ្វើឱ្យការសន្សំជាទម្លាប់គ្រួសារ ប្រហែលជាជាមួយគោលដៅរួម ដែលកុមារ និងមនុស្សពេញវ័យអាចយល់។ ភាពជាមួយគ្នា អាចធ្វើឱ្យការសន្សំរីករាយ។"
+      },
+      "challenge": {
+        "en": "Family pressures could keep pulling money away from savings. Agree together on what is protected and why.",
+        "km": "សម្ពាធគ្រួសារ អាចបន្តទាញប្រាក់ចេញពីការសន្សំ។ សូមយល់ព្រមជាមួយគ្នាលើអ្វីដែលត្រូវការពារ និងមូលហេតុ។"
+      },
+      "outcome": {
+        "en": "Family savings could build lasting security and harmony. Working toward shared goals may bring you closer together.",
+        "km": "ការសន្សំគ្រួសារ អាចកសាងសុវត្ថិភាព និងភាពសុខដុមស្ថិតស្ថេរ។ ការខិតខំឆ្ពោះទៅរកគោលដៅរួម អាចនាំអ្នកឱ្យកាន់តែជិតគ្នា។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Try a playful saving idea, such as a challenge, a jar for small coins or a reward for reaching a target. Fun can make saving easier.",
+        "km": "សូមសាកល្បងគំនិតសន្សំបែបលេងសើច ដូចជាការប្រកួតប្រជែង ពាងសម្រាប់កាក់តូចៗ ឬរង្វាន់សម្រាប់ការឈានដល់គោលដៅ។ ភាពសប្បាយ អាចធ្វើឱ្យការសន្សំងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Treating savings as a game you can raid on a whim could undo progress. Keep the fun but protect the pot.",
+        "km": "ការចាត់ទុកការសន្សំជាល្បែង ដែលអ្នកអាចដកតាមចិត្ត អាចធ្វើឱ្យការរីកចម្រើនត្រឡប់ក្រោយ។ សូមរក្សាភាពសប្បាយ តែការពារកន្លែងសន្សំ។"
+      },
+      "outcome": {
+        "en": "A playful approach could make saving a pleasure rather than a chore. Small surprises may add up.",
+        "km": "វិធីសាស្ត្របែបលេងសើច អាចធ្វើឱ្យការសន្សំជាសេចក្តីរីករាយ ជាជាងការងារ។ ការភ្ញាក់ផ្អើលតូចៗ អាចបូកបញ្ចូលគ្នា។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Let a heartfelt dream guide your saving, such as travel, study or helping someone you love. Inspiration can keep you going.",
+        "km": "សូមឱ្យសុបិនចេញពីបេះដូងណែនាំការសន្សំរបស់អ្នក ដូចជាការធ្វើដំណើរ ការសិក្សា ឬការជួយនរណាម្នាក់ដែលអ្នកស្រឡាញ់។ ការបំផុសគំនិត អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Dreaming without a plan could leave savings stuck. Turn the dream into a number and a simple plan.",
+        "km": "ការសុបិនដោយគ្មានផែនការ អាចធ្វើឱ្យការសន្សំជាប់គាំង។ សូមប្រែសុបិនទៅជាចំនួន និងផែនការសាមញ្ញ។"
+      },
+      "outcome": {
+        "en": "A dream backed by steady saving could come within reach. The heart and the plan may finally pull in the same direction.",
+        "km": "សុបិនដែលគាំទ្រដោយការសន្សំនឹងនរ អាចមកដល់ក្បែរដៃ។ បេះដូង និងផែនការ អាចទាញក្នុងទិសដៅដូចគ្នានៅទីបំផុត។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Be kind to yourself as you save, accepting that some stretches will be easier than others. Compassion keeps habits alive.",
+        "km": "សូមសប្បុរសចំពោះខ្លួនឯង ខណៈអ្នកសន្សំ ដោយទទួលយកថាដំណាក់កាលខ្លះនឹងងាយស្រួលជាងដំណាក់កាលផ្សេង។ សេចក្តីមេត្តា រក្សាទម្លាប់ឱ្យនៅរស់។"
+      },
+      "challenge": {
+        "en": "Giving your savings away to help others could leave you without a safety net. Help within limits.",
+        "km": "ការផ្តល់ការសន្សំរបស់អ្នកចេញ ដើម្បីជួយអ្នកដទៃ អាចធ្វើឱ្យអ្នកគ្មានសំណាញ់សុវត្ថិភាព។ សូមជួយក្នុងដែនកំណត់។"
+      },
+      "outcome": {
+        "en": "Gentle, steady saving could bring security for you and those you care for. Care may be returned.",
+        "km": "ការសន្សំទន់ភ្លន់ និងនឹងនរ អាចនាំមកនូវសុវត្ថិភាពសម្រាប់អ្នក និងអ្នកដែលអ្នកមើលថែ។ ការយកចិត្តទុកដាក់ អាចត្រូវបានតបស្នងវិញ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Keep calm and consistent with saving, even when emotions run high. Steady habits are your anchor.",
+        "km": "សូមរក្សាភាពស្ងប់ស្ងាត់ និងជាប់លាប់ជាមួយការសន្សំ សូម្បីតែពេលអារម្មណ៍ឡើងខ្ពស់។ ទម្លាប់នឹងនរ គឺជាយុថ្ការបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Emotional decisions could lead you to dip into savings. Wait until you feel steady before withdrawing.",
+        "km": "ការសម្រេចចិត្តតាមអារម្មណ៍ អាចនាំអ្នកឱ្យដកពីការសន្សំ។ សូមរង់ចាំរហូតដល់អ្នកមានអារម្មណ៍នឹងនរ មុនពេលដក។"
+      },
+      "outcome": {
+        "en": "Calm, steady saving could bring lasting stability. People around you may look to your example and feel steadier too.",
+        "km": "ការសន្សំស្ងប់ស្ងាត់ និងនឹងនរ អាចនាំមកនូវស្ថិរភាពស្ថិតស្ថេរ។ មនុស្សនៅជុំវិញអ្នក អាចមើលគំរូរបស់អ្នក ហើយមានអារម្មណ៍នឹងនរផងដែរ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Decide clearly how much you will save and from which source, then write it down. A precise commitment is easier to keep than a vague intention.",
+        "km": "សូមសម្រេចឱ្យច្បាស់ថាអ្នកនឹងសន្សំប៉ុន្មាន និងពីប្រភពណា បន្ទាប់មកសរសេរវាចុះ។ ការប្តេជ្ញាចិត្តជាក់លាក់ ងាយរក្សាជាងចេតនាមិនច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Being vague about how much you save could let the habit quietly slip. Clear numbers keep you honest with yourself.",
+        "km": "ការមិនច្បាស់លាស់អំពីចំនួនដែលអ្នកសន្សំ អាចធ្វើឱ្យទម្លាប់រអិលបាត់ដោយស្ងាត់ៗ។ តួលេខច្បាស់លាស់ រក្សាអ្នកឱ្យស្មោះត្រង់ជាមួយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "A clear decision could set your savings on a steady course. Seeing the numbers grow may sharpen your resolve.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់ អាចដាក់ការសន្សំរបស់អ្នកលើផ្លូវនឹងនរ។ ការមើលឃើញតួលេខកើនឡើង អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរបស់អ្នកមុតស្រួច។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "If you are torn between saving and another use for money, choose a split you can live with. A partial plan is better than no plan.",
+        "km": "ប្រសិនបើអ្នកស្ទាក់ស្ទើររវាងការសន្សំ និងការប្រើប្រាក់មួយផ្សេងទៀត សូមជ្រើសរើសការបែងចែកដែលអ្នកអាចរស់នៅជាមួយបាន។ ផែនការមួយផ្នែក ប្រសើរជាងគ្មានផែនការ។"
+      },
+      "challenge": {
+        "en": "Waiting to decide how much to save could mean saving nothing in the meantime. Start with a small fixed amount.",
+        "km": "ការរង់ចាំសម្រេចថាត្រូវសន្សំប៉ុន្មាន អាចមានន័យថាមិនសន្សំអ្វីសោះក្នុងពេលរង់ចាំ។ សូមចាប់ផ្តើមជាមួយចំនួនថេរតូចមួយ។"
+      },
+      "outcome": {
+        "en": "A decision, even a modest one, could get savings moving. Balance between needs may become easier to find.",
+        "km": "ការសម្រេចចិត្ត សូម្បីតែតិចតួចក៏ដោយ អាចធ្វើឱ្យការសន្សំចាប់ផ្តើមផ្លាស់ទី។ តុល្យភាពរវាងតម្រូវការ អាចកាន់តែងាយរក។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "If a past loss made you lose faith in saving, acknowledge the hurt and begin again carefully. Saving can rebuild a sense of safety.",
+        "km": "ប្រសិនបើការបាត់បង់កន្លងមក បានធ្វើឱ្យអ្នកបាត់បង់ជំនឿលើការសន្សំ សូមទទួលស្គាល់ការឈឺចាប់ ហើយចាប់ផ្តើមម្តងទៀតដោយប្រុងប្រយ័ត្ន។ ការសន្សំ អាចកសាងអារម្មណ៍សុវត្ថិភាពឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "A painful memory of losing money could make you avoid saving at all. Small, protected steps can rebuild trust.",
+        "km": "ការចងចាំឈឺចាប់នៃការបាត់បង់ប្រាក់ អាចធ្វើឱ្យអ្នកជៀសវាងការសន្សំទាល់តែសោះ។ ជំហានតូចៗ និងមានការការពារ អាចកសាងការទុកចិត្តឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Healing from a loss could lead to a more resilient saving habit. Each deposit may feel like a small repair.",
+        "km": "ការជាសះស្បើយពីការបាត់បង់ អាចនាំទៅរកទម្លាប់សន្សំដែលធន់ជាងមុន។ ការដាក់ប្រាក់នីមួយៗ អាចមានអារម្មណ៍ដូចជាការជួសជុលតូចមួយ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Let savings rest and grow without frequent checking or moving them around. A quiet pot left alone often does best.",
+        "km": "សូមឱ្យការសន្សំសម្រាក និងរីកធំ ដោយមិនពិនិត្យញឹកញាប់ ឬផ្លាស់ទីវាជុំវិញ។ កន្លែងសន្សំស្ងាត់ដែលទុកឱ្យនៅស្ងៀម ជារឿយៗដំណើរការល្អបំផុត។"
+      },
+      "challenge": {
+        "en": "Pausing your saving habit for too long could make it hard to restart. Keep at least a token amount going.",
+        "km": "ការផ្អាកទម្លាប់សន្សំរបស់អ្នកយូរពេក អាចធ្វើឱ្យពិបាកចាប់ផ្តើមឡើងវិញ។ សូមរក្សាយ៉ាងហោចណាស់ចំនួនតិចតួចមួយឱ្យបន្ត។"
+      },
+      "outcome": {
+        "en": "Savings left to rest could grow steadily into a reliable cushion. Calm patience may serve you well.",
+        "km": "ការសន្សំដែលទុកឱ្យសម្រាក អាចរីកធំជាប់លាប់ទៅជាទុនបម្រុងគួរឱ្យទុកចិត្ត។ ការអត់ធ្មត់ស្ងប់ស្ងាត់ អាចមានប្រយោជន៍សម្រាប់អ្នក។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Avoid using savings to win arguments, prove a point or rescue others from consequences. Your safety net is not a battleground.",
+        "km": "សូមជៀសវាងការប្រើការសន្សំ ដើម្បីឈ្នះការឈ្លោះប្រកែក បង្ហាញចំណុចមួយ ឬជួយសង្គ្រោះអ្នកដទៃពីផលវិបាក។ សំណាញ់សុវត្ថិភាពរបស់អ្នក មិនមែនជាសមរភូមិទេ។"
+      },
+      "challenge": {
+        "en": "Conflict over money could tempt you to spend your savings in frustration. Keep savings separate from disputes.",
+        "km": "ជម្លោះអំពីប្រាក់ អាចល្បួងអ្នកឱ្យចំណាយការសន្សំរបស់អ្នក ដោយការខកចិត្ត។ សូមរក្សាការសន្សំដាច់ដោយឡែកពីជម្លោះ។"
+      },
+      "outcome": {
+        "en": "Protecting savings from conflict could keep them growing and keep you calm. Peace may be its own reward.",
+        "km": "ការការពារការសន្សំពីជម្លោះ អាចរក្សាវាឱ្យរីកធំ ហើយរក្សាអ្នកឱ្យស្ងប់ស្ងាត់។ សន្តិភាព អាចជារង្វាន់របស់វាផ្ទាល់។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Move your savings to a steadier, safer place if they have been scattered or at risk. A calm transition can protect what you have built.",
+        "km": "សូមផ្លាស់ការសន្សំរបស់អ្នក ទៅកន្លែងនឹងនរ និងមានសុវត្ថិភាពជាងមុន ប្រសិនបើវាបានរាយប៉ាយ ឬប្រឈមហានិភ័យ។ ការផ្លាស់ប្តូរស្ងប់ស្ងាត់ អាចការពារអ្វីដែលអ្នកបានកសាង។"
+      },
+      "challenge": {
+        "en": "Carrying old fears about losing money could make you hide savings in unsafe places. Choose security over secrecy.",
+        "km": "ការយកការភ័យខ្លាចចាស់ៗអំពីការបាត់បង់ប្រាក់ អាចធ្វើឱ្យអ្នកលាក់ការសន្សំនៅកន្លែងគ្មានសុវត្ថិភាព។ សូមជ្រើសរើសសុវត្ថិភាព ជាជាងការសម្ងាត់។"
+      },
+      "outcome": {
+        "en": "A safer arrangement could bring calm and steady growth. Calmer waters may lie ahead for your savings.",
+        "km": "ការរៀបចំដែលមានសុវត្ថិភាពជាងមុន អាចនាំមកនូវភាពស្ងប់ស្ងាត់ និងការរីកចម្រើននឹងនរ។ ទឹកស្ងប់ស្ងាត់ជាងមុន អាចរង់ចាំការសន្សំរបស់អ្នក។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Be clever about saving by finding painless ways to set money aside, such as rounding up purchases. Small tricks can make a real difference.",
+        "km": "សូមឆ្លាតក្នុងការសន្សំ ដោយរកវិធីគ្មានការឈឺចាប់ ដើម្បីទុកប្រាក់ដាច់ដោយឡែក ដូចជាការបង្គត់ការទិញឡើង។ ល្បិចតូចៗ អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Promising yourself to make up for a skipped deposit later could quietly undermine the habit. Keep the small promise in the moment instead.",
+        "km": "ការសន្យាជាមួយខ្លួនឯងថានឹងបំពេញការដាក់ប្រាក់ដែលបានរំលងនៅពេលក្រោយ អាចបំផ្លាញទម្លាប់ដោយស្ងាត់ៗ។ សូមរក្សាការសន្យាតូចនៅពេលនោះជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Smart little habits could build savings without strain. Cleverness may pay off quietly, adding up in the background.",
+        "km": "ទម្លាប់តូចៗដ៏ឆ្លាតវៃ អាចកសាងការសន្សំ ដោយគ្មានភាពតានតឹង។ ភាពឆ្លាតវៃ អាចទទួលបានផលដោយស្ងាត់ៗ ដោយបូកបញ្ចូលគ្នានៅខាងក្រោយ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "If you feel unable to save, start with the smallest possible amount to break the feeling of being stuck. One step can change the pattern.",
+        "km": "ប្រសិនបើអ្នកមានអារម្មណ៍ថាមិនអាចសន្សំបាន សូមចាប់ផ្តើមជាមួយចំនួនតូចបំផុតដែលអាចធ្វើបាន ដើម្បីបំបែកអារម្មណ៍ជាប់គាំង។ ជំហានមួយ អាចផ្លាស់ប្តូរលំនាំ។"
+      },
+      "challenge": {
+        "en": "Believing saving is impossible on your income could keep you from trying. If debts make it impossible, a qualified adviser or support service may help.",
+        "km": "ការជឿថាការសន្សំមិនអាចទៅរួចជាមួយចំណូលរបស់អ្នក អាចរារាំងអ្នកពីការព្យាយាម។ ប្រសិនបើបំណុលធ្វើឱ្យវាមិនអាចទៅរួច ទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ឬសេវាគាំទ្រ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "A tiny start could loosen the feeling that saving is beyond you. Belief in your own ability may grow with each deposit.",
+        "km": "ការចាប់ផ្តើមតូចបំផុត អាចបន្ធូរអារម្មណ៍ថាការសន្សំហួសពីសមត្ថភាពរបស់អ្នក។ ជំនឿលើសមត្ថភាពរបស់អ្នកផ្ទាល់ អាចកើនឡើង ជាមួយការដាក់ប្រាក់នីមួយៗ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Let saving ease your worries by building a small cushion for unexpected costs. Knowing it is there can calm anxious thoughts.",
+        "km": "សូមឱ្យការសន្សំបន្ធូរការព្រួយបារម្ភរបស់អ្នក ដោយកសាងទុនបម្រុងតូចមួយសម្រាប់ការចំណាយដែលមិនបានរំពឹងទុក។ ការដឹងថាវានៅទីនោះ អាចធ្វើឱ្យគំនិតថប់បារម្ភស្ងប់។"
+      },
+      "challenge": {
+        "en": "Worry could make you either hoard anxiously or give up saving. If money anxiety feels overwhelming, talk to someone you trust or a counsellor.",
+        "km": "ការព្រួយបារម្ភ អាចធ្វើឱ្យអ្នកប្រមូលទុកដោយថប់បារម្ភ ឬបោះបង់ការសន្សំ។ ប្រសិនបើការថប់បារម្ភអំពីប្រាក់ហាក់ដូចជាលើសកម្លាំង សូមនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ឬអ្នកប្រឹក្សា។"
+      },
+      "outcome": {
+        "en": "A growing cushion could quiet many money worries. Peace of mind may increase with each amount saved.",
+        "km": "ទុនបម្រុងដែលកំពុងរីកធំ អាចធ្វើឱ្យការព្រួយបារម្ភអំពីប្រាក់ជាច្រើនស្ងប់។ សន្តិភាពផ្លូវចិត្ត អាចកើនឡើងជាមួយចំនួននីមួយៗដែលបានសន្សំ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "If savings have hit zero, accept it as a new starting point rather than a failure. Rebuilding from the bottom is still building.",
+        "km": "ប្រសិនបើការសន្សំបានធ្លាក់ដល់សូន្យ សូមទទួលយកវាជាចំណុចចាប់ផ្តើមថ្មី ជាជាងការបរាជ័យ។ ការកសាងឡើងវិញពីបាត នៅតែជាការកសាង។"
+      },
+      "challenge": {
+        "en": "Feeling defeated by financial loss could stop you from starting again. If the situation feels overwhelming, a qualified adviser or support service can help.",
+        "km": "អារម្មណ៍ចាញ់ដោយការបាត់បង់ហិរញ្ញវត្ថុ អាចរារាំងអ្នកពីការចាប់ផ្តើមម្តងទៀត។ ប្រសិនបើស្ថានភាពហាក់ដូចជាលើសកម្លាំង ទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ឬសេវាគាំទ្រ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "A fresh start from zero could lead to a stronger habit than before. Hitting bottom may mark the turn toward recovery.",
+        "km": "ការចាប់ផ្តើមថ្មីពីសូន្យ អាចនាំទៅរកទម្លាប់រឹងមាំជាងមុន។ ការធ្លាក់ដល់បាត អាចសម្គាល់ការបត់ឆ្ពោះទៅរកការស្តារ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Learn about safe, simple places to keep savings and ask questions until you understand them. Informed choices protect your money.",
+        "km": "សូមរៀនអំពីកន្លែងមានសុវត្ថិភាព និងសាមញ្ញ ដើម្បីរក្សាការសន្សំ ហើយសួរសំណួររហូតដល់អ្នកយល់វា។ ជម្រើសដែលមានព័ត៌មាន ការពារប្រាក់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Trusting unverified advice about where to put savings could put them at risk. Check sources carefully.",
+        "km": "ការទុកចិត្តលើដំបូន្មានដែលមិនបានផ្ទៀងផ្ទាត់ អំពីកន្លែងដាក់ការសន្សំ អាចធ្វើឱ្យវាប្រឈមហានិភ័យ។ សូមពិនិត្យប្រភពដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Good information could help your savings grow safely. Your watchfulness may protect what you build from avoidable risks.",
+        "km": "ព័ត៌មានល្អ អាចជួយឱ្យការសន្សំរបស់អ្នករីកធំដោយសុវត្ថិភាព។ ការប្រុងប្រយ័ត្នរបស់អ្នក អាចការពារអ្វីដែលអ្នកកសាងពីហានិភ័យដែលអាចជៀសវាងបាន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Act quickly to set up a savings habit once you have decided, before doubt creeps in. Swift action locks in good intentions.",
+        "km": "សូមធ្វើសកម្មភាពរហ័ស ដើម្បីរៀបចំទម្លាប់សន្សំ នៅពេលអ្នកបានសម្រេចចិត្ត មុនពេលការសង្ស័យលួចចូល។ សកម្មភាពរហ័ស ចាក់សោចេតនាល្អ។"
+      },
+      "challenge": {
+        "en": "Withdrawing savings in a rush for something that feels urgent could undo progress. Give yourself time to think.",
+        "km": "ការដកការសន្សំដោយប្រញាប់ សម្រាប់អ្វីមួយដែលមានអារម្មណ៍បន្ទាន់ អាចធ្វើឱ្យការរីកចម្រើនត្រឡប់ក្រោយ។ សូមផ្តល់ពេលឱ្យខ្លួនឯងគិត។"
+      },
+      "outcome": {
+        "en": "Quick follow-through could get your savings growing right away. Acting while the decision is fresh may make all the difference.",
+        "km": "ការអនុវត្តរហ័ស អាចធ្វើឱ្យការសន្សំរបស់អ្នករីកធំភ្លាមៗ។ ការធ្វើសកម្មភាព ខណៈការសម្រេចចិត្តនៅស្រស់ អាចធ្វើឱ្យមានភាពខុសគ្នាទាំងស្រុង។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Set firm, clear rules for when savings can and cannot be touched. Honest limits protect your future.",
+        "km": "សូមកំណត់ច្បាប់រឹងមាំ និងច្បាស់លាស់ អំពីពេលណាដែលការសន្សំអាច និងមិនអាចប៉ះបាន។ ដែនកំណត់ស្មោះត្រង់ ការពារអនាគតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Being too rigid could make you feel deprived and resentful. Allow a small, planned treat so the rules stay bearable.",
+        "km": "ការតឹងរ៉ឹងពេក អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ខ្វះខាត និងអន់ចិត្ត។ សូមអនុញ្ញាតឱ្យមានរង្វាន់តូចៗដែលបានគ្រោងទុក ដើម្បីឱ្យច្បាប់នៅតែអាចទ្រាំបាន។"
+      },
+      "outcome": {
+        "en": "Clear rules could keep savings safe and growing. Independence may come from the discipline you choose for yourself.",
+        "km": "ច្បាប់ច្បាស់លាស់ អាចរក្សាការសន្សំឱ្យមានសុវត្ថិភាព និងរីកធំ។ ឯករាជ្យភាព អាចមកពីវិន័យដែលអ្នកជ្រើសរើសសម្រាប់ខ្លួនឯង។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Approach saving logically, comparing safe options and seeking qualified advice for larger amounts. Sound decisions protect your money.",
+        "km": "សូមចូលទៅរកការសន្សំដោយតក្កវិជ្ជា ដោយប្រៀបធៀបជម្រើសមានសុវត្ថិភាព និងស្វែងរកដំបូន្មានពីអ្នកជំនាញ សម្រាប់ចំនួនធំៗ។ ការសម្រេចចិត្តត្រឹមត្រូវ ការពារប្រាក់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Overanalysing savings options could delay saving altogether. Start somewhere simple and safe, then improve it later.",
+        "km": "ការវិភាគជម្រើសសន្សំច្រើនពេក អាចពន្យារការសន្សំទាំងស្រុង។ សូមចាប់ផ្តើមនៅកន្លែងសាមញ្ញ និងមានសុវត្ថិភាព បន្ទាប់មកកែលម្អវាពេលក្រោយ។"
+      },
+      "outcome": {
+        "en": "Well-informed choices could help savings grow securely. Careful judgement may keep your cushion safe as it grows larger.",
+        "km": "ជម្រើសដែលមានព័ត៌មានល្អ អាចជួយឱ្យការសន្សំរីកធំដោយសុវត្ថិភាព។ ការវិនិច្ឆ័យប្រុងប្រយ័ត្ន អាចរក្សាទុនបម្រុងរបស់អ្នកឱ្យមានសុវត្ថិភាព ខណៈវារីកធំ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Open a dedicated savings place and make a first deposit, however modest. A tangible start turns intention into reality.",
+        "km": "សូមបើកកន្លែងសន្សំដាច់ដោយឡែកមួយ ហើយធ្វើការដាក់ប្រាក់ដំបូង ទោះតិចតួចយ៉ាងណាក៏ដោយ។ ការចាប់ផ្តើមជាក់ស្តែង ប្រែចេតនាទៅជាការពិត។"
+      },
+      "challenge": {
+        "en": "Thinking you need a large amount to start could keep you waiting forever. Every saver starts small.",
+        "km": "ការគិតថាអ្នកត្រូវការចំនួនធំដើម្បីចាប់ផ្តើម អាចធ្វើឱ្យអ្នករង់ចាំគ្មានទីបញ្ចប់។ អ្នកសន្សំគ្រប់រូប ចាប់ផ្តើមពីតូច។"
+      },
+      "outcome": {
+        "en": "A small first deposit could grow into a solid foundation. Something real and lasting may take root from it.",
+        "km": "ការដាក់ប្រាក់ដំបូងតូចមួយ អាចរីកធំទៅជាមូលដ្ឋានរឹងមាំ។ អ្វីដែលពិតប្រាកដ និងស្ថិតស្ថេរ អាចចាក់ឫសពីវា។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Keep a flexible saving amount that you can adjust when income changes. Saving something, even less, beats stopping.",
+        "km": "សូមរក្សាចំនួនសន្សំបត់បែន ដែលអ្នកអាចកែសម្រួលនៅពេលចំណូលផ្លាស់ប្តូរ។ ការសន្សំអ្វីមួយ សូម្បីតែតិចជាងមុន ប្រសើរជាងការឈប់។"
+      },
+      "challenge": {
+        "en": "Juggling too many priorities could leave saving at the bottom of the list. Put it near the top.",
+        "km": "ការដោះស្រាយអាទិភាពច្រើនពេក អាចធ្វើឱ្យការសន្សំនៅបាតបញ្ជី។ សូមដាក់វានៅជិតកំពូល។"
+      },
+      "outcome": {
+        "en": "Flexible saving could keep the habit alive through changes in income. Balance may come to feel natural rather than forced.",
+        "km": "ការសន្សំបត់បែន អាចរក្សាទម្លាប់ឱ្យនៅរស់ ឆ្លងកាត់ការផ្លាស់ប្តូរចំណូល។ តុល្យភាព អាចមានអារម្មណ៍ធម្មជាតិ ជាជាងការបង្ខំ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Learn from others who save well and share your own progress with people who support you. Teamwork makes habits easier.",
+        "km": "សូមរៀនពីអ្នកដទៃដែលសន្សំបានល្អ ហើយចែករំលែកការរីកចម្រើនរបស់អ្នកជាមួយមនុស្សដែលគាំទ្រអ្នក។ ការងារជាក្រុម ធ្វើឱ្យទម្លាប់ងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Comparing your savings with others' could discourage you. Measure progress against your own starting point instead.",
+        "km": "ការប្រៀបធៀបការសន្សំរបស់អ្នកជាមួយរបស់អ្នកដទៃ អាចធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។ សូមវាស់វែងការរីកចម្រើនធៀបនឹងចំណុចចាប់ផ្តើមរបស់អ្នកផ្ទាល់ជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Support and shared knowledge could help your savings grow. Encouragement from others may keep you going on harder days.",
+        "km": "ការគាំទ្រ និងចំណេះដឹងរួម អាចជួយឱ្យការសន្សំរបស់អ្នករីកធំ។ ការលើកទឹកចិត្តពីអ្នកដទៃ អាចរក្សាអ្នកឱ្យបន្ត ក្នុងគ្រាលំបាក។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Protect your savings carefully while still allowing yourself to live comfortably. Security and enjoyment can coexist.",
+        "km": "សូមការពារការសន្សំរបស់អ្នកដោយប្រុងប្រយ័ត្ន ខណៈពេលនៅតែអនុញ្ញាតឱ្យខ្លួនឯងរស់នៅដោយសុខស្រួល។ សុវត្ថិភាព និងការរីករាយ អាចរួមរស់ជាមួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Holding savings so tightly that you never use them for real needs could cause other problems. Savings are there to help.",
+        "km": "ការកាន់ការសន្សំតឹងពេក រហូតអ្នកមិនដែលប្រើវាសម្រាប់តម្រូវការពិត អាចបង្កបញ្ហាផ្សេងទៀត។ ការសន្សំមានដើម្បីជួយ។"
+      },
+      "outcome": {
+        "en": "A well-protected cushion could bring lasting peace of mind. Stability may grow quietly while you get on with life.",
+        "km": "ទុនបម្រុងដែលបានការពារល្អ អាចនាំមកនូវសន្តិភាពផ្លូវចិត្តស្ថិតស្ថេរ។ ស្ថិរភាព អាចកើនឡើងដោយស្ងាត់ៗ ខណៈអ្នកបន្តរស់នៅ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Even in hard times, saving a very small amount can protect your sense of control. Every little bit helps.",
+        "km": "សូម្បីតែក្នុងគ្រាលំបាក ការសន្សំចំនួនតិចតួចបំផុត អាចការពារអារម្មណ៍នៃការគ្រប់គ្រងរបស់អ្នក។ រាល់បន្តិចជួយ។"
+      },
+      "challenge": {
+        "en": "Feeling too poor to save could deepen a sense of helplessness. If even basic needs are hard to meet, help from a support service may come first.",
+        "km": "អារម្មណ៍ថាក្រពេកដើម្បីសន្សំ អាចធ្វើឱ្យអារម្មណ៍គ្មានទីពឹងកាន់តែជ្រៅ។ ប្រសិនបើសូម្បីតែតម្រូវការមូលដ្ឋានក៏ពិបាកបំពេញ ជំនួយពីសេវាគាំទ្រ អាចមកមុនគេ។"
+      },
+      "outcome": {
+        "en": "A small cushion could bring hope through difficulty. With support, you may slowly rebuild a sense of safety.",
+        "km": "ទុនបម្រុងតូចមួយ អាចនាំមកនូវក្តីសង្ឃឹម ឆ្លងកាត់ការលំបាក។ ដោយមានការគាំទ្រ អ្នកអាចកសាងអារម្មណ៍សុវត្ថិភាពឡើងវិញបន្តិចម្តងៗ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Balance saving with generosity, setting aside some for yourself before giving to others. Fair sharing keeps both habits healthy.",
+        "km": "សូមធ្វើឱ្យមានតុល្យភាពរវាងការសន្សំ និងចិត្តទូលាយ ដោយទុកខ្លះសម្រាប់ខ្លួនឯង មុនពេលផ្តល់ដល់អ្នកដទៃ។ ការចែករំលែកយុត្តិធម៌ រក្សាទម្លាប់ទាំងពីរឱ្យមានសុខភាពល្អ។"
+      },
+      "challenge": {
+        "en": "Lending out savings could leave you without a cushion when you need it. Lend only what you can spare.",
+        "km": "ការឱ្យខ្ចីការសន្សំ អាចធ្វើឱ្យអ្នកគ្មានទុនបម្រុង នៅពេលអ្នកត្រូវការ។ សូមឱ្យខ្ចីតែអ្វីដែលអ្នកអាចទុកបាន។"
+      },
+      "outcome": {
+        "en": "Balanced saving and giving could build security and goodwill. Help you once gave may return when you need it.",
+        "km": "ការសន្សំ និងការផ្តល់ដែលមានតុល្យភាព អាចកសាងសុវត្ថិភាព និងសុច្ឆន្ទៈ។ ជំនួយដែលអ្នកធ្លាប់ផ្តល់ អាចត្រឡប់មកវិញ នៅពេលអ្នកត្រូវការ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Be patient as savings grow slowly at first, trusting that consistency adds up. Long-term thinking makes the habit worthwhile.",
+        "km": "សូមអត់ធ្មត់ ខណៈការសន្សំរីកធំយឺតៗដំបូង ដោយទុកចិត្តថាភាពជាប់លាប់បូកបញ្ចូលគ្នា។ ការគិតរយៈពេលវែង ធ្វើឱ្យទម្លាប់សមនឹងការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Impatience could tempt you to spend savings before they have had time to grow. Let them mature.",
+        "km": "ការមិនអត់ធ្មត់ អាចល្បួងអ្នកឱ្យចំណាយការសន្សំ មុនពេលវាមានពេលរីកធំ។ សូមឱ្យវាទុំ។"
+      },
+      "outcome": {
+        "en": "Money left to grow could become a cushion you are glad of. Small amounts saved with patience may add up to more than expected.",
+        "km": "ប្រាក់ដែលទុកឱ្យរីកធំ អាចក្លាយជាទុនបម្រុងដែលអ្នករីករាយ។ ចំនួនតូចៗដែលសន្សំដោយអត់ធ្មត់ អាចបូកបញ្ចូលគ្នាច្រើនជាងការរំពឹង។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Practise saving regularly until it becomes as automatic as any other routine. Repetition turns effort into a skill.",
+        "km": "សូមហាត់ការសន្សំជាប្រចាំ រហូតដល់វាក្លាយជាស្វ័យប្រវត្តិ ដូចទម្លាប់ផ្សេងទៀតដែរ។ ការធ្វើម្តងហើយម្តងទៀត ប្រែការខិតខំទៅជាជំនាញ។"
+      },
+      "challenge": {
+        "en": "Skipping savings when busy could break the habit. Keep it simple enough to do every time.",
+        "km": "ការរំលងការសន្សំ នៅពេលមមាញឹក អាចបំបែកទម្លាប់។ សូមរក្សាវាឱ្យសាមញ្ញគ្រប់គ្រាន់ ដើម្បីធ្វើរាល់ពេល។"
+      },
+      "outcome": {
+        "en": "A practised habit could build steady, reliable savings. Diligence may pay off in a cushion that keeps on growing.",
+        "km": "ទម្លាប់ដែលបានហាត់ អាចកសាងការសន្សំនឹងនរ និងគួរឱ្យទុកចិត្ត។ ការឧស្សាហ៍ព្យាយាម អាចទទួលបានផលជាទុនបម្រុងដែលបន្តរីកធំ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Build savings that give you independence and choices. Self-reliance is one of the best rewards of saving.",
+        "km": "សូមកសាងការសន្សំ ដែលផ្តល់ឱ្យអ្នកនូវឯករាជ្យភាព និងជម្រើស។ ការពឹងផ្អែកលើខ្លួនឯង គឺជារង្វាន់ល្អបំផុតមួយនៃការសន្សំ។"
+      },
+      "challenge": {
+        "en": "Comfort could make you stop saving once things feel secure. Keep building, because circumstances can change.",
+        "km": "ភាពសុខស្រួល អាចធ្វើឱ្យអ្នកឈប់សន្សំ នៅពេលអ្វីៗមានអារម្មណ៍សុវត្ថិភាព។ សូមបន្តកសាង ព្រោះកាលៈទេសៈអាចផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Savings could bring the freedom to make choices on your own terms. Independence may grow alongside your cushion.",
+        "km": "ការសន្សំ អាចនាំមកនូវសេរីភាពក្នុងការធ្វើជម្រើសតាមលក្ខខណ្ឌរបស់អ្នកផ្ទាល់។ ឯករាជ្យភាព អាចកើនឡើងរួមជាមួយទុនបម្រុងរបស់អ្នក។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Save with your family's long-term security in mind, building something that can support future needs. Lasting goals give saving meaning.",
+        "km": "សូមសន្សំ ដោយគិតពីសុវត្ថិភាពរយៈពេលវែងរបស់គ្រួសារអ្នក ដោយកសាងអ្វីមួយដែលអាចគាំទ្រតម្រូវការនាពេលអនាគត។ គោលដៅស្ថិតស្ថេរ ផ្តល់អត្ថន័យដល់ការសន្សំ។"
+      },
+      "challenge": {
+        "en": "Family demands could keep pulling savings away. Agree together on what is protected so it stays protected.",
+        "km": "តម្រូវការគ្រួសារ អាចបន្តទាញការសន្សំចេញ។ សូមយល់ព្រមជាមួយគ្នាលើអ្វីដែលត្រូវការពារ ដើម្បីឱ្យវានៅតែត្រូវបានការពារ។"
+      },
+      "outcome": {
+        "en": "Long-term savings could build security that reaches beyond you. A lasting legacy may grow from steady habits.",
+        "km": "ការសន្សំរយៈពេលវែង អាចកសាងសុវត្ថិភាពដែលលាតសន្ធឹងហួសពីអ្នក។ កេរដំណែលស្ថិតស្ថេរ អាចរីកចម្រើនពីទម្លាប់នឹងនរ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Build your saving know-how step by step, trying one small habit before adding the next. A diligent beginner can build strong habits.",
+        "km": "សូមកសាងចំណេះដឹងសន្សំរបស់អ្នកម្តងមួយជំហាន ដោយសាកល្បងទម្លាប់តូចមួយ មុនពេលបន្ថែមមួយបន្ទាប់។ អ្នកចាប់ផ្តើមដែលឧស្សាហ៍ព្យាយាម អាចកសាងទម្លាប់រឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Feeling you know too little could delay starting. Begin anyway and learn along the way.",
+        "km": "អារម្មណ៍ថាអ្នកដឹងតិចពេក អាចពន្យារការចាប់ផ្តើម។ សូមចាប់ផ្តើមទោះយ៉ាងណា ហើយរៀនតាមផ្លូវ។"
+      },
+      "outcome": {
+        "en": "Steady learning could build a strong saving habit. A small start may grow into real security.",
+        "km": "ការរៀនជាប់លាប់ អាចកសាងទម្លាប់សន្សំរឹងមាំ។ ការចាប់ផ្តើមតូចមួយ អាចរីកធំទៅជាសុវត្ថិភាពពិតប្រាកដ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Build a slow, steady saving routine that you can keep for the long haul. Reliability beats intensity.",
+        "km": "សូមកសាងទម្លាប់សន្សំយឺតៗ និងនឹងនរ ដែលអ្នកអាចរក្សាបានយូរ។ ភាពគួរឱ្យទុកចិត្ត ប្រសើរជាងភាពខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Being too cautious to adjust your savings plan could miss chances to save more. Review it occasionally.",
+        "km": "ការប្រុងប្រយ័ត្នពេក មិនកែសម្រួលផែនការសន្សំរបស់អ្នក អាចខកខានឱកាសដើម្បីសន្សំបានច្រើនជាងមុន។ សូមពិនិត្យវាម្តងម្កាល។"
+      },
+      "outcome": {
+        "en": "A steady routine could build lasting security. Slow and sure saving may outlast every quick fix you try.",
+        "km": "ទម្លាប់នឹងនរ អាចកសាងសុវត្ថិភាពស្ថិតស្ថេរ។ ការសន្សំយឺតៗ តែប្រាកដ អាចស្ថិតស្ថេរជាងដំណោះស្រាយរហ័សណាមួយដែលអ្នកសាកល្បង។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Save practically by trimming household costs and setting the difference aside. Good sense at home can grow savings.",
+        "km": "សូមសន្សំដោយជាក់ស្តែង ដោយកាត់បន្ថយការចំណាយគ្រួសារ ហើយទុកភាពខុសគ្នាដាច់ដោយឡែក។ សុភវិនិច្ឆ័យនៅផ្ទះ អាចបង្កើនការសន្សំ។"
+      },
+      "challenge": {
+        "en": "Spending on others' comfort could leave nothing to save. Include yourself in the plan before the money is gone.",
+        "km": "ការចំណាយលើភាពសុខស្រួលរបស់អ្នកដទៃ អាចមិនបន្សល់អ្វីដើម្បីសន្សំ។ សូមរាប់បញ្ចូលខ្លួនឯងក្នុងផែនការ មុនពេលប្រាក់អស់។"
+      },
+      "outcome": {
+        "en": "Small household savings could add up to a cushion that makes home feel safer. Good sense may quietly pay for itself.",
+        "km": "ការសន្សំគ្រួសារតូចៗ អាចបូកបញ្ចូលគ្នាទៅជាទុនបម្រុង ដែលធ្វើឱ្យផ្ទះមានអារម្មណ៍សុវត្ថិភាពជាងមុន។ សុភវិនិច្ឆ័យ អាចផ្តល់ផលដោយស្ងាត់ៗ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Use experience and discipline to build substantial savings over the long term. Wise management creates lasting wealth.",
+        "km": "សូមប្រើបទពិសោធន៍ និងវិន័យ ដើម្បីកសាងការសន្សំច្រើនក្នុងរយៈពេលវែង។ ការគ្រប់គ្រងដោយប្រាជ្ញា បង្កើតទ្រព្យសម្បត្តិស្ថិតស្ថេរ។"
+      },
+      "challenge": {
+        "en": "Focusing on growing wealth could crowd out enjoying life. Balance saving with living, so both feel worthwhile.",
+        "km": "ការផ្តោតលើការបង្កើនទ្រព្យសម្បត្តិ អាចរុញច្រានការរីករាយនឹងជីវិត។ សូមធ្វើឱ្យមានតុល្យភាពរវាងការសន្សំ និងការរស់នៅ ដើម្បីឱ្យទាំងពីរមានអារម្មណ៍សមនឹងការខិតខំ។"
+      },
+      "outcome": {
+        "en": "Disciplined saving could build real wealth and security. In time, your resources may support many people beyond yourself.",
+        "km": "ការសន្សំដោយវិន័យ អាចកសាងទ្រព្យសម្បត្តិ និងសុវត្ថិភាពពិតប្រាកដ។ យូរៗទៅ ធនធានរបស់អ្នក អាចគាំទ្រមនុស្សជាច្រើនលើសពីខ្លួនអ្នក។"
+      }
+    }
+  }
+}
