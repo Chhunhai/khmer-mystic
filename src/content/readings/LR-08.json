@@ -1,0 +1,1097 @@
+{
+  "questionId": "LR-08",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You may be excited to take the leap, carried by hope and fresh feelings. The commitment ahead feels like a new adventure.",
+        "km": "អ្នកប្រហែលជារំភើបចង់លោតទៅមុខ ដែលនាំដោយក្តីសង្ឃឹម និងអារម្មណ៍ថ្មីៗ។ ការប្តេជ្ញាចិត្តនៅខាងមុខ ហាក់ដូចជាការផ្សងព្រេងថ្មីមួយ។"
+      },
+      "challenge": {
+        "en": "Committing on a wave of excitement could mean skipping questions that matter. Talk through the practical side before you say yes.",
+        "km": "ការប្តេជ្ញាចិត្តលើរលកនៃភាពរំភើប អាចមានន័យថារំលងសំណួរដែលសំខាន់។ សូមពិភាក្សាពីផ្នែកជាក់ស្តែង មុននឹងអ្នកយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "Keeping both your enthusiasm and your eyes open could make this a promise worth keeping. The adventure may last when it starts on solid ground.",
+        "km": "ការរក្សាទាំងភាពរីករាយ និងការបើកភ្នែកឱ្យធំ អាចធ្វើឱ្យការសន្យានេះសមនឹងរក្សា។ ការផ្សងព្រេងអាចស្ថិតស្ថេរ នៅពេលវាចាប់ផ្តើមលើដីរឹងមាំ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You feel capable of making this work and ready to put in effort. You may have a clear picture of what you want to build.",
+        "km": "អ្នកមានអារម្មណ៍ថាអាចធ្វើឱ្យទំនាក់ទំនងនេះដំណើរការ ហើយត្រៀមខ្លួនខិតខំ។ អ្នកប្រហែលជាមានរូបភាពច្បាស់ពីអ្វីដែលអ្នកចង់កសាង។"
+      },
+      "challenge": {
+        "en": "Believing you can shape the other person into who you want could lead to disappointment. Commit to who they are, not who they might become.",
+        "km": "ការជឿថាអ្នកអាចកែប្រែមនុស្សម្នាក់ទៀតឱ្យទៅជាអ្វីដែលអ្នកចង់បាន អាចនាំទៅរកការខកចិត្ត។ សូមប្តេជ្ញាចិត្តចំពោះអ្វីដែលគេជា មិនមែនអ្វីដែលគេអាចក្លាយជានោះទេ។"
+      },
+      "outcome": {
+        "en": "Accepting each other as you are could give your shared plans real strength. What you build together may rest on honest ground.",
+        "km": "ការទទួលយកគ្នាតាមដែលអ្នកទាំងពីរជា អាចផ្តល់កម្លាំងពិតប្រាកដដល់ផែនការរួម។ អ្វីដែលអ្នកកសាងជាមួយគ្នា អាចឈរលើមូលដ្ឋានស្មោះត្រង់។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Part of you senses something about this commitment that you cannot quite put into words. Quiet feelings may be stirring beneath the surface.",
+        "km": "ផ្នែកមួយនៃខ្លួនអ្នក ដឹងពីអ្វីមួយអំពីការប្តេជ្ញាចិត្តនេះ ដែលអ្នកមិនអាចនិយាយចេញជាពាក្យបាន។ អារម្មណ៍ស្ងាត់ៗ ប្រហែលជាកំពុងកម្រើកនៅក្រោមផ្ទៃ។"
+      },
+      "challenge": {
+        "en": "Ignoring a quiet inner doubt could mean missing something important. Take time to listen to what your intuition is telling you.",
+        "km": "ការមិនអើពើការសង្ស័យខាងក្នុងស្ងាត់ៗ អាចមានន័យថាខកខានអ្វីមួយដ៏សំខាន់។ សូមចំណាយពេលស្តាប់ពីអ្វីដែលវិចារណញាណរបស់អ្នកកំពុងប្រាប់។"
+      },
+      "outcome": {
+        "en": "Honouring your inner voice could lead you to a choice you feel at peace with. Whatever you decide may rest on deep self-trust.",
+        "km": "ការគោរពសំឡេងខាងក្នុងរបស់អ្នក អាចនាំអ្នកទៅរកជម្រើសដែលអ្នកមានចិត្តស្ងប់។ អ្វីក៏ដោយដែលអ្នកសម្រេច អាចឈរលើការទុកចិត្តខ្លួនឯងដ៏ជ្រាលជ្រៅ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "You feel warm and caring toward this person and imagine nurturing a life together. Your heart is ready to give.",
+        "km": "អ្នកមានអារម្មណ៍កក់ក្តៅ និងយកចិត្តទុកដាក់ចំពោះមនុស្សនេះ ហើយស្រមៃពីការថែរក្សាជីវិតរួមគ្នា។ បេះដូងរបស់អ្នកត្រៀមខ្លួនផ្តល់។"
+      },
+      "challenge": {
+        "en": "Giving so much that you forget your own needs could create imbalance later. Make sure care will flow both ways.",
+        "km": "ការផ្តល់ច្រើនពេក រហូតភ្លេចតម្រូវការខ្លួនឯង អាចបង្កើតភាពមិនស្មើគ្នានៅពេលក្រោយ។ សូមប្រាកដថាការយកចិត្តទុកដាក់នឹងហូរទាំងសងខាង។"
+      },
+      "outcome": {
+        "en": "Choosing a partner who nurtures you too could create a warm, abundant bond. A shared life may feel like home.",
+        "km": "ការជ្រើសរើសដៃគូដែលថែរក្សាអ្នកវិញផងដែរ អាចបង្កើតចំណងដ៏កក់ក្តៅ និងសម្បូរបែប។ ជីវិតរួមអាចមានអារម្មណ៍ដូចជាផ្ទះ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "You are thinking seriously about structure, security and the practical side of commitment. A steady, well-ordered life together appeals to you.",
+        "km": "អ្នកកំពុងគិតយ៉ាងម៉ឺងម៉ាត់អំពីរចនាសម្ព័ន្ធ សុវត្ថិភាព និងផ្នែកជាក់ស្តែងនៃការប្តេជ្ញាចិត្ត។ ជីវិតរួមដ៏នឹងនរ និងមានសណ្តាប់ធ្នាប់ ទាក់ទាញអ្នក។"
+      },
+      "challenge": {
+        "en": "Expecting one person to take charge of everything could create an unequal partnership. Agree on how you will share decisions.",
+        "km": "ការរំពឹងឱ្យមនុស្សម្នាក់កាន់កាប់អ្វីៗទាំងអស់ អាចបង្កើតភាពជាដៃគូមិនស្មើគ្នា។ សូមព្រមព្រៀងគ្នាពីរបៀបដែលអ្នកនឹងចែករំលែកការសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Building clear agreements together could give your commitment a firm foundation. Security may grow from shared responsibility.",
+        "km": "ការកសាងកិច្ចព្រមព្រៀងច្បាស់លាស់ជាមួយគ្នា អាចផ្តល់គ្រឹះរឹងមាំដល់ការប្តេជ្ញាចិត្តរបស់អ្នក។ សុវត្ថិភាពអាចកើនឡើងពីការទទួលខុសត្រូវរួម។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Family expectations, tradition or shared beliefs may be shaping your thoughts about commitment. You may want approval from those you respect.",
+        "km": "ការរំពឹងទុករបស់គ្រួសារ ប្រពៃណី ឬជំនឿរួម ប្រហែលជាកំពុងបង្កើតគំនិតរបស់អ្នកអំពីការប្តេជ្ញាចិត្ត។ អ្នកប្រហែលជាចង់បានការយល់ព្រមពីអ្នកដែលអ្នកគោរព។"
+      },
+      "challenge": {
+        "en": "Committing mainly to meet others' expectations could leave your own heart unheard. Make sure this is a choice you truly want.",
+        "km": "ការប្តេជ្ញាចិត្តជាចម្បងដើម្បីបំពេញការរំពឹងទុករបស់អ្នកដទៃ អាចទុកបេះដូងរបស់អ្នកឱ្យមិនត្រូវបានស្តាប់។ សូមប្រាកដថានេះជាជម្រើសដែលអ្នកពិតជាចង់បាន។"
+      },
+      "outcome": {
+        "en": "Combining respect for tradition with your own true wishes could make the commitment meaningful. Shared values may hold you together.",
+        "km": "ការផ្សំការគោរពប្រពៃណី ជាមួយបំណងប្រាថ្នាពិតរបស់អ្នក អាចធ្វើឱ្យការប្តេជ្ញាចិត្តមានអត្ថន័យ។ គុណតម្លៃរួមអាចរក្សាអ្នកទាំងពីរឱ្យនៅជាមួយគ្នា។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "You are facing a real choice of the heart, perhaps the biggest one yet. Your values and feelings are being weighed.",
+        "km": "អ្នកកំពុងប្រឈមមុខនឹងជម្រើសពិតប្រាកដនៃបេះដូង ប្រហែលជាជម្រើសធំបំផុតដែលធ្លាប់មាន។ គុណតម្លៃ និងអារម្មណ៍របស់អ្នក កំពុងត្រូវបានថ្លឹងថ្លែង។"
+      },
+      "challenge": {
+        "en": "Committing while your heart is still divided could lead to regret. Be sure your values and feelings point the same way.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈបេះដូងរបស់អ្នកនៅតែបែកចែក អាចនាំទៅរកការសោកស្តាយ។ សូមប្រាកដថាគុណតម្លៃ និងអារម្មណ៍របស់អ្នក ចង្អុលទៅទិសដៅតែមួយ។"
+      },
+      "outcome": {
+        "en": "A wholehearted choice could bring a deep and lasting union. Commitment may feel natural when values align.",
+        "km": "ជម្រើសដោយអស់ពីចិត្ត អាចនាំមកនូវការរួបរួមដ៏ជ្រាលជ្រៅ និងយូរអង្វែង។ ការប្តេជ្ញាចិត្តអាចមានអារម្មណ៍ធម្មជាតិ នៅពេលគុណតម្លៃស្របគ្នា។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You feel driven to move forward and make things official. Momentum is on your side.",
+        "km": "អ្នកមានកម្លាំងជំរុញចង់ឆ្ពោះទៅមុខ ហើយធ្វើឱ្យអ្វីៗក្លាយជាផ្លូវការ។ សន្ទុះនៅខាងអ្នក។"
+      },
+      "challenge": {
+        "en": "Pushing ahead to reach a goal could override doubts that deserve attention. Check that you both want the same destination.",
+        "km": "ការជំរុញទៅមុខដើម្បីឈានដល់គោលដៅ អាចគ្របដណ្តប់ការសង្ស័យដែលសមនឹងការយកចិត្តទុកដាក់។ សូមពិនិត្យថាអ្នកទាំងពីរចង់បានគោលដៅដូចគ្នា។"
+      },
+      "outcome": {
+        "en": "Moving forward with shared direction could make your commitment strong and purposeful. You may achieve a lot as a team.",
+        "km": "ការឆ្ពោះទៅមុខជាមួយទិសដៅរួម អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរបស់អ្នករឹងមាំ និងមានគោលបំណង។ អ្នកអាចសម្រេចបានច្រើនជាក្រុម។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "You feel steady and strong enough to handle the challenges commitment can bring. Patience is one of your strengths.",
+        "km": "អ្នកមានអារម្មណ៍នឹងនរ និងរឹងមាំល្មមនឹងដោះស្រាយបញ្ហាប្រឈម ដែលការប្តេជ្ញាចិត្តអាចនាំមក។ ការអត់ធ្មត់ គឺជាចំណុចខ្លាំងមួយរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Assuming you can endure anything could lead you to accept what you should not. Strength also means knowing your limits.",
+        "km": "ការសន្មតថាអ្នកអាចទ្រាំបានគ្រប់យ៉ាង អាចនាំអ្នកឱ្យទទួលយកអ្វីដែលអ្នកមិនគួរ។ កម្លាំងក៏មានន័យថាការដឹងពីដែនកំណត់របស់អ្នកដែរ។"
+      },
+      "outcome": {
+        "en": "Bringing gentle strength and clear limits into commitment could create a resilient bond. Mutual compassion may carry you through.",
+        "km": "ការនាំកម្លាំងដ៏ទន់ភ្លន់ និងដែនកំណត់ច្បាស់លាស់ ចូលក្នុងការប្តេជ្ញាចិត្ត អាចបង្កើតចំណងដ៏ធន់។ ក្តីមេត្តាគ្នាទៅវិញទៅមក អាចជួយអ្នកឆ្លងកាត់។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You may want some time alone to think before deciding anything. Stepping back feels necessary to hear your own answer.",
+        "km": "អ្នកប្រហែលជាចង់បានពេលវេលាតែម្នាក់ឯង ដើម្បីគិតមុននឹងសម្រេចអ្វីទាំងអស់។ ការដកខ្លួនបន្តិច ហាក់ដូចជាចាំបាច់ ដើម្បីស្តាប់ចម្លើយរបស់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Endless reflection could leave you stuck and unable to decide at all. Give yourself a fair amount of thinking space, then choose.",
+        "km": "ការពិចារណាគ្មានទីបញ្ចប់ អាចធ្វើឱ្យអ្នកជាប់គាំង និងមិនអាចសម្រេចចិត្តបានសោះ។ សូមផ្តល់ចន្លោះគិតគ្រប់គ្រាន់ដល់ខ្លួនឯង រួចជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "Taking time to know yourself could lead to a wise and well-considered commitment. The choice may feel truly yours.",
+        "km": "ការចំណាយពេលស្គាល់ខ្លួនឯង អាចនាំទៅរកការប្តេជ្ញាចិត្តដ៏ឈ្លាសវៃ និងបានគិតពិចារណាល្អ។ ជម្រើសនោះអាចមានអារម្មណ៍ថាជារបស់អ្នកពិតប្រាកដ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Circumstances may be changing, bringing a natural turning point in the relationship. Timing feels important.",
+        "km": "កាលៈទេសៈប្រហែលជាកំពុងផ្លាស់ប្តូរ ដោយនាំមកនូវចំណុចបត់ធម្មជាតិក្នុងទំនាក់ទំនង។ ពេលវេលាហាក់ដូចជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Relying on fate or good luck to make it work could leave you unprepared. Commitment needs effort, not just good timing.",
+        "km": "ការពឹងលើជោគវាសនា ឬសំណាងល្អឱ្យវាដំណើរការ អាចធ្វើឱ្យអ្នកមិនបានត្រៀមខ្លួន។ ការប្តេជ្ញាចិត្តត្រូវការការខិតខំ មិនមែនត្រឹមតែពេលវេលាល្អទេ។"
+      },
+      "outcome": {
+        "en": "Meeting change with shared effort could carry your commitment through life's ups and downs. Your bond may adapt and grow.",
+        "km": "ការជួបការផ្លាស់ប្តូរដោយការខិតខំរួមគ្នា អាចជួយការប្តេជ្ញាចិត្តរបស់អ្នកឆ្លងកាត់ការឡើងចុះនៃជីវិត។ ចំណងរបស់អ្នកអាចសម្របខ្លួន និងរីកចម្រើន។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "You are weighing the decision fairly and want it to be right for both of you. Honesty matters deeply.",
+        "km": "អ្នកកំពុងថ្លឹងថ្លែងការសម្រេចចិត្តដោយយុត្តិធម៌ ហើយចង់ឱ្យវាត្រឹមត្រូវសម្រាប់អ្នកទាំងពីរ។ ភាពស្មោះត្រង់សំខាន់ខ្លាំងណាស់។"
+      },
+      "challenge": {
+        "en": "Unspoken expectations about money, roles or family could cause unfairness later. Discuss them openly before committing.",
+        "km": "ការរំពឹងទុកដែលមិនបាននិយាយ អំពីប្រាក់ តួនាទី ឬគ្រួសារ អាចបង្កភាពអយុត្តិធម៌នៅពេលក្រោយ។ សូមពិភាក្សាពីវាដោយបើកចំហ មុននឹងប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "Clear, fair agreements could make your commitment balanced and trusting. Mutual respect may become your foundation.",
+        "km": "កិច្ចព្រមព្រៀងច្បាស់លាស់ និងយុត្តិធម៌ អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរបស់អ្នកមានតុល្យភាព និងទុកចិត្តគ្នា។ ការគោរពគ្នាអាចក្លាយជាគ្រឹះរបស់អ្នក។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "You may feel you are waiting, unsure whether this is the right moment to commit. Things may feel on hold.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាកំពុងរង់ចាំ មិនប្រាកដថានេះជាគ្រាត្រឹមត្រូវដើម្បីប្តេជ្ញាចិត្តឬទេ។ អ្វីៗប្រហែលជាហាក់ដូចជាត្រូវបានផ្អាក។"
+      },
+      "challenge": {
+        "en": "Sacrificing your own needs to keep the relationship going could build resentment. Make sure the commitment works for you too.",
+        "km": "ការលះបង់តម្រូវការខ្លួនឯង ដើម្បីរក្សាទំនាក់ទំនង អាចបង្កើតការអាក់អន់ចិត្ត។ សូមប្រាកដថាការប្តេជ្ញាចិត្តនេះដំណើរការសម្រាប់អ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Seeing the situation from a fresh angle could bring clarity about what to do. Patience may reveal the right path.",
+        "km": "ការមើលស្ថានការណ៍ពីមុំថ្មី អាចនាំមកនូវភាពច្បាស់លាស់អំពីអ្វីដែលត្រូវធ្វើ។ ការអត់ធ្មត់អាចបង្ហាញផ្លូវត្រឹមត្រូវ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Committing may mean letting go of an old way of life or an old version of yourself. A big change is in the air.",
+        "km": "ការប្តេជ្ញាចិត្តអាចមានន័យថា ការលះបង់របៀបរស់នៅចាស់ ឬកំណែចាស់នៃខ្លួនឯង។ ការផ្លាស់ប្តូរធំមួយកំពុងកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Clinging to your old independence or habits could make the change harder. Be ready to let some things end.",
+        "km": "ការកាន់ជាប់នឹងឯករាជ្យភាព ឬទម្លាប់ចាស់របស់អ្នក អាចធ្វើឱ្យការផ្លាស់ប្តូរកាន់តែពិបាក។ សូមត្រៀមខ្លួនឱ្យរឿងខ្លះបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "Embracing transformation could open a meaningful new chapter of life. Letting go may make room for something better.",
+        "km": "ការទទួលយកការផ្លាស់ប្តូរ អាចបើកជំពូកថ្មីដ៏មានអត្ថន័យនៃជីវិត។ ការលះបង់អាចបើកចន្លោះសម្រាប់អ្វីដែលល្អជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You are looking for balance and a steady rhythm in the relationship. Compromise seems to come naturally.",
+        "km": "អ្នកកំពុងស្វែងរកតុល្យភាព និងចង្វាក់នឹងនរក្នុងទំនាក់ទំនង។ ការសម្របសម្រួលហាក់ដូចជាកើតឡើងដោយធម្មជាតិ។"
+      },
+      "challenge": {
+        "en": "Rushing the decision could upset the balance you have built. Take the time you need to feel sure.",
+        "km": "ការប្រញាប់សម្រេចចិត្ត អាចធ្វើឱ្យតុល្យភាពដែលអ្នកបានកសាងបាត់បង់។ សូមចំណាយពេលដែលអ្នកត្រូវការ ដើម្បីមានអារម្មណ៍ប្រាកដ។"
+      },
+      "outcome": {
+        "en": "A patient, balanced approach could lead to a harmonious and lasting commitment. Moderation may keep you steady.",
+        "km": "វិធីអត់ធ្មត់ និងមានតុល្យភាព អាចនាំទៅរកការប្តេជ្ញាចិត្តដ៏សុខដុម និងយូរអង្វែង។ ភាពល្មមអាចរក្សាអ្នកឱ្យនឹងនរ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Strong attraction or emotional dependence may be pulling you toward commitment. The pull may be hard to resist.",
+        "km": "ការទាក់ទាញខ្លាំង ឬការពឹងផ្អែកផ្នែកអារម្មណ៍ ប្រហែលជាកំពុងទាញអ្នកឆ្ពោះទៅរកការប្តេជ្ញាចិត្ត។ កម្លាំងទាញនោះប្រហែលជាពិបាកទប់។"
+      },
+      "challenge": {
+        "en": "Committing out of fear of being alone, or to someone who controls you, could trap you. If you feel pressured or unsafe, talk with someone you trust before deciding.",
+        "km": "ការប្តេជ្ញាចិត្តដោយសារខ្លាចនៅម្នាក់ឯង ឬចំពោះនរណាម្នាក់ដែលគ្រប់គ្រងអ្នក អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់។ ប្រសិនបើអ្នកមានអារម្មណ៍ត្រូវបានបង្ខិតបង្ខំ ឬមិនមានសុវត្ថិភាព សូមនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត មុននឹងសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Choosing with clear eyes could free you from unhealthy patterns. A commitment built on freedom may be stronger.",
+        "km": "ការជ្រើសរើសដោយភ្នែកច្បាស់លាស់ អាចដោះលែងអ្នកពីលំនាំមិនល្អ។ ការប្តេជ្ញាចិត្តដែលកសាងលើសេរីភាព អាចរឹងមាំជាងមុន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Something unexpected may have shaken your view of the relationship. You may be reassessing everything.",
+        "km": "អ្វីមួយដែលមិនបានរំពឹងទុក ប្រហែលជាបានរង្គោះរង្គើទស្សនៈរបស់អ្នកចំពោះទំនាក់ទំនង។ អ្នកប្រហែលជាកំពុងវាយតម្លៃអ្វីៗទាំងអស់ឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Ignoring a warning sign or hidden problem could cause bigger trouble later. Face it before committing.",
+        "km": "ការមិនអើពើសញ្ញាព្រមាន ឬបញ្ហាលាក់កំបាំង អាចបង្កបញ្ហាធំជាងនេះនៅពេលក្រោយ។ សូមប្រឈមមុខនឹងវា មុននឹងប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "Facing the truth before you commit could clear the way for a stronger foundation, whatever you decide. Honesty may protect your future.",
+        "km": "ការប្រឈមមុខនឹងការពិត មុនពេលប្តេជ្ញាចិត្ត អាចជម្រះផ្លូវសម្រាប់គ្រឹះដ៏រឹងមាំជាងមុន ទោះបីអ្នកសម្រេចយ៉ាងណាក៏ដោយ។ ភាពស្មោះត្រង់អាចការពារអនាគតរបស់អ្នក។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "You feel hopeful about the future and believe in this relationship. Your heart feels open.",
+        "km": "អ្នកមានក្តីសង្ឃឹមអំពីអនាគត ហើយជឿលើទំនាក់ទំនងនេះ។ បេះដូងរបស់អ្នកមានអារម្មណ៍បើកចំហ។"
+      },
+      "challenge": {
+        "en": "Idealising your partner or the relationship could blind you to real issues. Love them as they truly are.",
+        "km": "ការធ្វើឱ្យដៃគូ ឬទំនាក់ទំនងក្លាយជាឧត្តមគតិ អាចធ្វើឱ្យអ្នកមើលមិនឃើញបញ្ហាពិត។ សូមស្រឡាញ់គេតាមដែលគេពិតជាជា។"
+      },
+      "outcome": {
+        "en": "Committing with hope and realism could create a lasting, healing partnership. Your shared dreams may guide you.",
+        "km": "ការប្តេជ្ញាចិត្តដោយក្តីសង្ឃឹម និងភាពប្រាកដនិយម អាចបង្កើតភាពជាដៃគូដ៏យូរអង្វែង និងព្យាបាល។ ក្តីស្រមៃរួមរបស់អ្នក អាចដឹកនាំអ្នក។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "You may feel unsure, with doubts or mixed signals clouding the picture. Something may not feel fully clear.",
+        "km": "អ្នកប្រហែលជាមិនប្រាកដ ដោយការសង្ស័យ ឬសញ្ញាចម្រុះធ្វើឱ្យរូបភាពស្រអាប់។ អ្វីមួយប្រហែលជាមិនទាន់ច្បាស់ទាំងស្រុង។"
+      },
+      "challenge": {
+        "en": "Committing while you still feel confused could lead to unwelcome surprises. Wait until the doubts have answers you can see.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈអ្នកនៅតែច្របូកច្របល់ អាចនាំទៅរកការភ្ញាក់ផ្អើលដែលមិនចង់បាន។ សូមរង់ចាំរហូតដល់ការសង្ស័យមានចម្លើយដែលអ្នកអាចមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Waiting for clarity could reveal the truth you need to decide well. Trust may grow once doubts are resolved.",
+        "km": "ការរង់ចាំភាពច្បាស់លាស់ អាចបង្ហាញការពិតដែលអ្នកត្រូវការ ដើម្បីសម្រេចចិត្តបានល្អ។ ការទុកចិត្តអាចកើនឡើង នៅពេលការសង្ស័យត្រូវបានដោះស្រាយ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "You feel happy, confident and sure about this relationship. Joy and warmth seem to surround the two of you.",
+        "km": "អ្នកមានអារម្មណ៍សប្បាយ មានទំនុកចិត្ត និងប្រាកដអំពីទំនាក់ទំនងនេះ។ សេចក្តីរីករាយ និងភាពកក់ក្តៅ ហាក់ដូចជាហ៊ុំព័ទ្ធអ្នកទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Assuming happiness means no hard conversations are needed could leave issues unaddressed. Talk about the difficult things too.",
+        "km": "ការសន្មតថាសុភមង្គលមានន័យថា មិនចាំបាច់មានការសន្ទនាពិបាក អាចទុកបញ្ហាឱ្យមិនបានដោះស្រាយ។ សូមនិយាយអំពីរឿងពិបាកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Committing with joy and openness could bring a bright, happy partnership. Your bond may shine.",
+        "km": "ការប្តេជ្ញាចិត្តដោយសេចក្តីរីករាយ និងការបើកចិត្ត អាចនាំមកនូវភាពជាដៃគូដ៏ភ្លឺស្វាង និងរីករាយ។ ចំណងរបស់អ្នកអាចភ្លឺចែងចាំង។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Old relationships may be on your mind as you weigh this step. You can see more clearly what you would do differently.",
+        "km": "ទំនាក់ទំនងចាស់ៗ ប្រហែលជានៅក្នុងគំនិតរបស់អ្នក ខណៈអ្នកថ្លឹងថ្លែងជំហាននេះ។ អ្នកអាចមើលឃើញកាន់តែច្បាស់ពីអ្វីដែលអ្នកនឹងធ្វើខុសពីមុន។"
+      },
+      "challenge": {
+        "en": "Carrying unresolved guilt or old patterns into a new commitment could repeat past mistakes. Heal first.",
+        "km": "ការនាំកំហុសក្នុងចិត្ត ឬលំនាំចាស់ដែលមិនទាន់ដោះស្រាយ ចូលក្នុងការប្តេជ្ញាចិត្តថ្មី អាចធ្វើកំហុសចាស់ម្តងទៀត។ សូមព្យាបាលជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Committing with fresh understanding could mark a true new beginning. Lessons learned may guide your choices.",
+        "km": "ការប្តេជ្ញាចិត្តដោយការយល់ដឹងថ្មី អាចជាសញ្ញានៃការចាប់ផ្តើមថ្មីពិតប្រាកដ។ មេរៀនដែលបានរៀន អាចដឹកនាំជម្រើសរបស់អ្នក។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You feel ready, complete and sure of yourself. This commitment may feel like a natural next step.",
+        "km": "អ្នកមានអារម្មណ៍ត្រៀមខ្លួន ពេញលេញ និងជឿជាក់លើខ្លួនឯង។ ការប្តេជ្ញាចិត្តនេះ អាចមានអារម្មណ៍ដូចជាជំហានបន្ទាប់ដោយធម្មជាតិ។"
+      },
+      "challenge": {
+        "en": "Assuming commitment means the work is done could lead to complacency. A commitment is a beginning, not an ending.",
+        "km": "ការសន្មតថាការប្តេជ្ញាចិត្តមានន័យថាការងារបានចប់ អាចនាំទៅរកការធ្វេសប្រហែស។ ការប្តេជ្ញាចិត្តគឺជាការចាប់ផ្តើម មិនមែនជាទីបញ្ចប់ទេ។"
+      },
+      "outcome": {
+        "en": "Entering commitment with confidence and continued effort could bring deep fulfilment. A new cycle may begin well.",
+        "km": "ការចូលក្នុងការប្តេជ្ញាចិត្តដោយទំនុកចិត្ត និងការខិតខំបន្ត អាចនាំមកនូវការពេញចិត្តដ៏ជ្រាលជ្រៅ។ វដ្តថ្មីអាចចាប់ផ្តើមដោយល្អ។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Passion and excitement may be driving your interest in commitment. Everything feels new and alive.",
+        "km": "ចំណង់ និងភាពរំភើប ប្រហែលជាកំពុងជំរុញចំណាប់អារម្មណ៍របស់អ្នកលើការប្តេជ្ញាចិត្ត។ អ្វីៗហាក់ដូចជាថ្មី និងរស់រវើក។"
+      },
+      "challenge": {
+        "en": "Mistaking the thrill of new love for long-term compatibility could cause problems later. Give it time to deepen.",
+        "km": "ការយល់ច្រឡំភាពរំភើបនៃស្នេហាថ្មី ថាជាភាពសមគ្នារយៈពេលវែង អាចបង្កបញ្ហានៅពេលក្រោយ។ សូមផ្តល់ពេលឱ្យវាជ្រាលជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Letting passion mature into understanding could make commitment strong. Your spark may light a lasting fire.",
+        "km": "ការឱ្យចំណង់ចាស់ទុំទៅជាការយល់ចិត្ត អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរឹងមាំ។ ផ្កាភ្លើងរបស់អ្នក អាចដុតភ្លើងដ៏យូរអង្វែង។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You are thinking about your future and whether this person fits into your plans. Big decisions feel near.",
+        "km": "អ្នកកំពុងគិតអំពីអនាគត ហើយថាតើមនុស្សនេះសមនឹងផែនការរបស់អ្នកឬទេ។ ការសម្រេចចិត្តធំៗហាក់ដូចជានៅជិត។"
+      },
+      "challenge": {
+        "en": "Committing without discussing your long-term plans could lead to clashes later. Compare your visions first.",
+        "km": "ការប្តេជ្ញាចិត្តដោយមិនពិភាក្សាផែនការរយៈពេលវែង អាចនាំទៅរកការប៉ះទង្គិចនៅពេលក្រោយ។ សូមប្រៀបធៀបចក្ខុវិស័យរបស់អ្នកជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Agreeing on shared goals could make your commitment purposeful and strong. Your future may feel aligned.",
+        "km": "ការព្រមព្រៀងលើគោលដៅរួម អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរបស់អ្នកមានគោលបំណង និងរឹងមាំ។ អនាគតរបស់អ្នកអាចមានអារម្មណ៍ស្របគ្នា។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "You feel optimistic and ready to expand your life with this person. New horizons seem possible.",
+        "km": "អ្នកមានសុទិដ្ឋិនិយម និងត្រៀមខ្លួនពង្រីកជីវិតរបស់អ្នកជាមួយមនុស្សនេះ។ ជើងមេឃថ្មីហាក់ដូចជាអាចទៅរួច។"
+      },
+      "challenge": {
+        "en": "Expecting commitment to fix every problem could set you up for disappointment. Keep your hopes high but your expectations realistic.",
+        "km": "ការរំពឹងថាការប្តេជ្ញាចិត្តនឹងដោះស្រាយគ្រប់បញ្ហា អាចនាំអ្នកទៅរកការខកចិត្ត។ សូមរក្សាក្តីសង្ឃឹមឱ្យខ្ពស់ ប៉ុន្តែការរំពឹងទុកឱ្យជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "Growing together could open exciting new possibilities. Your shared life may expand in rewarding ways.",
+        "km": "ការរីកចម្រើនជាមួយគ្នា អាចបើកលទ្ធភាពថ្មីៗដ៏គួរឱ្យរំភើប។ ជីវិតរួមរបស់អ្នក អាចពង្រីកតាមរបៀបដែលគួរឱ្យពេញចិត្ត។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "You feel settled and happy, picturing a stable home life together. Celebration may be in the air.",
+        "km": "អ្នកមានអារម្មណ៍ស្ងប់ និងសប្បាយ ដោយស្រមៃពីជីវិតផ្ទះដែលមានស្ថិរភាពជាមួយគ្នា។ ការអបអរប្រហែលជាកំពុងកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Focusing on the celebration rather than the commitment itself could miss what matters. Think beyond the big day.",
+        "km": "ការផ្តោតលើការអបអរ ជាជាងការប្តេជ្ញាចិត្តខ្លួនឯង អាចខកខានអ្វីដែលសំខាន់។ សូមគិតហួសពីថ្ងៃធំនោះ។"
+      },
+      "outcome": {
+        "en": "Building a joyful, stable home together could make your commitment strong. Happy milestones may follow.",
+        "km": "ការកសាងផ្ទះដ៏រីករាយ និងមានស្ថិរភាពជាមួយគ្នា អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរបស់អ្នករឹងមាំ។ ព្រឹត្តិការណ៍រីករាយៗ អាចកើតឡើងតាមក្រោយ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "There may be tension, disagreements or competing priorities between you. Arguments may flare up over small things.",
+        "km": "ប្រហែលជាមានភាពតានតឹង ការខ្វែងគំនិត ឬអាទិភាពប្រកួតប្រជែងគ្នារវាងអ្នកទាំងពីរ។ ការឈ្លោះប្រហែលជាផ្ទុះឡើងលើរឿងតូចៗ។"
+      },
+      "challenge": {
+        "en": "Committing while frequent conflicts remain unresolved could make them worse. Learn to resolve disagreements first.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈជម្លោះញឹកញាប់នៅតែមិនទាន់ដោះស្រាយ អាចធ្វើឱ្យវាកាន់តែអាក្រក់។ សូមរៀនដោះស្រាយការខ្វែងគំនិតជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Learning to handle conflict well could make your commitment stronger. Respectful disagreement may build trust.",
+        "km": "ការរៀនដោះស្រាយជម្លោះបានល្អ អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរបស់អ្នករឹងមាំជាងមុន។ ការខ្វែងគំនិតដោយការគោរព អាចកសាងការទុកចិត្ត។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "You feel proud of the relationship and confident in your choice. Others may be cheering you on.",
+        "km": "អ្នកមានមោទនភាពចំពោះទំនាក់ទំនង ហើយមានទំនុកចិត្តលើជម្រើសរបស់អ្នក។ អ្នកដទៃប្រហែលជាកំពុងលើកទឹកចិត្តអ្នក។"
+      },
+      "challenge": {
+        "en": "Committing partly to impress others could leave you with the wrong reasons. Choose for yourself, not for show.",
+        "km": "ការប្តេជ្ញាចិត្តមួយផ្នែក ដើម្បីធ្វើឱ្យអ្នកដទៃចាប់អារម្មណ៍ អាចធ្វើឱ្យអ្នកមានហេតុផលខុស។ សូមជ្រើសរើសសម្រាប់ខ្លួនឯង មិនមែនសម្រាប់ការបង្ហាញទេ។"
+      },
+      "outcome": {
+        "en": "Committing for the right reasons could bring lasting pride and joy. Your success may be shared and celebrated.",
+        "km": "ការប្តេជ្ញាចិត្តដោយហេតុផលត្រឹមត្រូវ អាចនាំមកនូវមោទនភាព និងសេចក្តីរីករាយយូរអង្វែង។ ជោគជ័យរបស់អ្នកអាចត្រូវបានចែករំលែក និងអបអរ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may feel the need to protect yourself or your independence. Caution is natural after what you have been through.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ត្រូវការការពារខ្លួន ឬឯករាជ្យភាពរបស់អ្នក។ ការប្រុងប្រយ័ត្នគឺជារឿងធម្មជាតិ បន្ទាប់ពីអ្វីដែលអ្នកបានឆ្លងកាត់។"
+      },
+      "challenge": {
+        "en": "Being too defensive could make it hard to commit fully. Notice whether past hurts are speaking.",
+        "km": "ការការពារខ្លួនខ្លាំងពេក អាចធ្វើឱ្យពិបាកប្តេជ្ញាចិត្តពេញលេញ។ សូមកត់សម្គាល់ថា តើការឈឺចាប់កន្លងមកកំពុងនិយាយឬទេ។"
+      },
+      "outcome": {
+        "en": "Committing while keeping healthy boundaries could protect both you and the relationship. Trust may grow.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈរក្សាព្រំដែនល្អ អាចការពារទាំងអ្នក និងទំនាក់ទំនង។ ការទុកចិត្តអាចកើនឡើង។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things may be moving quickly toward commitment, perhaps faster than either of you expected. The momentum feels exciting.",
+        "km": "អ្វីៗប្រហែលជាកំពុងផ្លាស់ទីយ៉ាងលឿនឆ្ពោះទៅរកការប្តេជ្ញាចិត្ត ប្រហែលជាលឿនជាងអ្វីដែលអ្នកទាំងពីររំពឹង។ សន្ទុះនោះគួរឱ្យរំភើប។"
+      },
+      "challenge": {
+        "en": "Moving too fast could skip conversations about money, family and the future. Slow down just enough to be sure.",
+        "km": "ការផ្លាស់ទីលឿនពេក អាចរំលងការសន្ទនាអំពីប្រាក់ គ្រួសារ និងអនាគត។ សូមបន្ថយល្បឿនល្មមនឹងប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Moving forward with care could bring a quick but solid commitment. Positive change may follow fast.",
+        "km": "ការឆ្ពោះទៅមុខដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវការប្តេជ្ញាចិត្តរហ័ស ប៉ុន្តែរឹងមាំ។ ការផ្លាស់ប្តូរវិជ្ជមាន អាចកើតឡើងតាមក្រោយយ៉ាងលឿន។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may have been through challenges together and feel tested but loyal. Resilience is part of your bond.",
+        "km": "អ្នកប្រហែលជាបានឆ្លងកាត់បញ្ហាប្រឈមជាមួយគ្នា ហើយមានអារម្មណ៍ត្រូវបានសាកល្បង ប៉ុន្តែស្មោះត្រង់។ ភាពធន់គឺជាផ្នែកមួយនៃចំណងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Committing out of exhaustion or to end uncertainty could be a mistake. Make sure you are choosing from strength.",
+        "km": "ការប្តេជ្ញាចិត្តដោយសារការអស់កម្លាំង ឬដើម្បីបញ្ចប់ភាពមិនប្រាកដប្រជា អាចជាកំហុស។ សូមប្រាកដថាអ្នកកំពុងជ្រើសរើសពីកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Committing from a place of strength could make your bond enduring. Past challenges may become shared victories.",
+        "km": "ការប្តេជ្ញាចិត្តពីកន្លែងនៃកម្លាំង អាចធ្វើឱ្យចំណងរបស់អ្នកស្ថិតស្ថេរ។ បញ្ហាប្រឈមកន្លងមក អាចក្លាយជាជ័យជម្នះរួម។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may feel weighed down by responsibilities or pressure around commitment. It may feel like a heavy load.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ធ្ងន់ដោយការទទួលខុសត្រូវ ឬសម្ពាធជុំវិញការប្តេជ្ញាចិត្ត។ វាប្រហែលជាមានអារម្មណ៍ដូចជាបន្ទុកធ្ងន់។"
+      },
+      "challenge": {
+        "en": "Committing while already overwhelmed could add more strain. Lighten your load before taking on more.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈកំពុងលើសលុបរួចហើយ អាចបន្ថែមភាពតានតឹង។ សូមបន្ធូរបន្ទុករបស់អ្នក មុននឹងទទួលបន្ថែម។"
+      },
+      "outcome": {
+        "en": "Sharing responsibilities fairly could make commitment feel lighter rather than heavier. Balance may bring real relief to you both.",
+        "km": "ការចែករំលែកការទទួលខុសត្រូវដោយយុត្តិធម៌ អាចធ្វើឱ្យការប្តេជ្ញាចិត្តមានអារម្មណ៍ស្រាល ជាជាងធ្ងន់។ តុល្យភាពអាចនាំមកនូវការធូរស្រាលពិតប្រាកដដល់អ្នកទាំងពីរ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You feel curious and excited about the possibility of commitment. It may feel like a new adventure.",
+        "km": "អ្នកមានអារម្មណ៍ចង់ដឹងចង់ឃើញ និងរំភើបអំពីលទ្ធភាពនៃការប្តេជ្ញាចិត្ត។ វាប្រហែលជាមានអារម្មណ៍ដូចជាការផ្សងព្រេងថ្មី។"
+      },
+      "challenge": {
+        "en": "Treating commitment lightly could lead to regret. Be sure you are ready for what it means.",
+        "km": "ការចាត់ទុកការប្តេជ្ញាចិត្តជារឿងស្រាល អាចនាំទៅរកការសោកស្តាយ។ សូមប្រាកដថាអ្នកត្រៀមខ្លួនសម្រាប់អ្វីដែលវាមានន័យ។"
+      },
+      "outcome": {
+        "en": "Approaching commitment with curiosity and seriousness could bring growth. You may discover new sides of love.",
+        "km": "ការចូលទៅរកការប្តេជ្ញាចិត្តដោយការចង់ដឹងចង់ឃើញ និងភាពម៉ឺងម៉ាត់ អាចនាំមកនូវការរីកចម្រើន។ អ្នកអាចរកឃើញផ្នែកថ្មីៗនៃស្នេហា។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You feel bold and passionate, eager to make a big move. Adventure seems to be calling you toward this step.",
+        "km": "អ្នកមានអារម្មណ៍ក្លាហាន និងមានចំណង់ ចង់ធ្វើជំហានធំមួយ។ ការផ្សងព្រេងហាក់ដូចជាកំពុងហៅអ្នកឆ្ពោះទៅរកជំហាននេះ។"
+      },
+      "challenge": {
+        "en": "Committing on impulse could leave you unprepared for the long haul. Think it through as carefully as you feel it.",
+        "km": "ការប្តេជ្ញាចិត្តដោយភ្លាមៗ អាចធ្វើឱ្យអ្នកមិនបានត្រៀមខ្លួនសម្រាប់ផ្លូវវែង។ សូមគិតឱ្យល្អិតល្អន់ ដូចដែលអ្នកមានអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "Channelling your passion into a considered commitment could bring excitement and stability. The journey may be thrilling.",
+        "km": "ការបង្វែរចំណង់របស់អ្នកទៅជាការប្តេជ្ញាចិត្តដែលបានគិតពិចារណា អាចនាំមកនូវភាពរំភើប និងស្ថិរភាព។ ដំណើរអាចគួរឱ្យរំភើប។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You feel confident and warm, ready to share your life with someone. You know your own worth.",
+        "km": "អ្នកមានអារម្មណ៍មានទំនុកចិត្ត និងកក់ក្តៅ ត្រៀមខ្លួនចែករំលែកជីវិតរបស់អ្នកជាមួយនរណាម្នាក់។ អ្នកដឹងពីតម្លៃរបស់ខ្លួន។"
+      },
+      "challenge": {
+        "en": "Expecting to keep every part of your independence unchanged could create friction. Commitment means making some room for another person.",
+        "km": "ការរំពឹងថានឹងរក្សាគ្រប់ផ្នែកនៃឯករាជ្យភាពដោយមិនផ្លាស់ប្តូរ អាចបង្កើតការកកិត។ ការប្តេជ្ញាចិត្តមានន័យថាការទុកចន្លោះខ្លះសម្រាប់មនុស្សម្នាក់ទៀត។"
+      },
+      "outcome": {
+        "en": "Bringing confidence and openness to commitment could create a warm, equal partnership. You may thrive together.",
+        "km": "ការនាំទំនុកចិត្ត និងការបើកចិត្តមកកាន់ការប្តេជ្ញាចិត្ត អាចបង្កើតភាពជាដៃគូដ៏កក់ក្តៅ និងស្មើគ្នា។ អ្នកអាចរីកចម្រើនជាមួយគ្នា។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You have a clear vision for the future and feel ready to lead. Commitment fits your plans.",
+        "km": "អ្នកមានចក្ខុវិស័យច្បាស់លាស់សម្រាប់អនាគត ហើយមានអារម្មណ៍ត្រៀមខ្លួនដឹកនាំ។ ការប្តេជ្ញាចិត្តសមនឹងផែនការរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Assuming your partner shares your vision without asking could cause conflict later. Plan the future together, not alone.",
+        "km": "ការសន្មតថាដៃគូចែករំលែកចក្ខុវិស័យរបស់អ្នក ដោយមិនសួរ អាចបង្កជម្លោះនៅពេលក្រោយ។ សូមធ្វើផែនការអនាគតជាមួយគ្នា មិនមែនតែម្នាក់ឯងទេ។"
+      },
+      "outcome": {
+        "en": "Leading together with a shared vision could make commitment powerful. Your partnership may achieve much.",
+        "km": "ការដឹកនាំរួមគ្នាជាមួយចក្ខុវិស័យរួម អាចធ្វើឱ្យការប្តេជ្ញាចិត្តមានឥទ្ធិពល។ ភាពជាដៃគូរបស់អ្នកអាចសម្រេចបានច្រើន។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your heart feels open, full of love and ready to commit. Emotions are flowing freely.",
+        "km": "បេះដូងរបស់អ្នកមានអារម្មណ៍បើកចំហ ពោរពេញដោយក្តីស្រឡាញ់ និងត្រៀមខ្លួនប្តេជ្ញាចិត្ត។ អារម្មណ៍កំពុងហូរដោយសេរី។"
+      },
+      "challenge": {
+        "en": "Letting feelings alone guide the decision could overlook practical concerns. Balance what your heart says with what your head knows.",
+        "km": "ការឱ្យតែអារម្មណ៍ដឹកនាំការសម្រេចចិត្ត អាចមើលរំលងកង្វល់ជាក់ស្តែង។ សូមថ្លឹងថ្លែងអ្វីដែលបេះដូងនិយាយ ជាមួយអ្វីដែលគំនិតដឹង។"
+      },
+      "outcome": {
+        "en": "Committing with an open heart and clear mind could bring deep emotional fulfilment. Love may overflow.",
+        "km": "ការប្តេជ្ញាចិត្តដោយបេះដូងបើកចំហ និងគំនិតច្បាស់លាស់ អាចនាំមកនូវការពេញចិត្តផ្នែកអារម្មណ៍ដ៏ជ្រាលជ្រៅ។ ក្តីស្រឡាញ់អាចហូរហៀរ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "You feel a deep, mutual connection and a real sense of partnership. Committing may feel like the natural next step.",
+        "km": "អ្នកមានអារម្មណ៍ពីទំនាក់ទំនងដ៏ជ្រាលជ្រៅ និងទៅវិញទៅមក ព្រមទាំងអារម្មណ៍ពិតនៃភាពជាដៃគូ។ ការប្តេជ្ញាចិត្តអាចមានអារម្មណ៍ដូចជាជំហានបន្ទាប់ដោយធម្មជាតិ។"
+      },
+      "challenge": {
+        "en": "Assuming you both want the same thing without discussing it could cause surprises. Talk openly about expectations.",
+        "km": "ការសន្មតថាអ្នកទាំងពីរចង់បានដូចគ្នា ដោយមិនពិភាក្សា អាចបង្កការភ្ញាក់ផ្អើល។ សូមនិយាយដោយបើកចំហអំពីការរំពឹងទុក។"
+      },
+      "outcome": {
+        "en": "Committing as true equals could bring a balanced, loving partnership. Your bond may deepen as you share each decision.",
+        "km": "ការប្តេជ្ញាចិត្តជាមនុស្សស្មើគ្នាពិតប្រាកដ អាចនាំមកនូវភាពជាដៃគូដ៏មានតុល្យភាព និងពោរពេញដោយក្តីស្រឡាញ់។ ចំណងរបស់អ្នកអាចកាន់តែជ្រៅ ខណៈអ្នកចែករំលែកការសម្រេចចិត្តនីមួយៗ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friends and community may be supportive and excited for you. You feel surrounded by joy.",
+        "km": "មិត្តភក្តិ និងសហគមន៍ ប្រហែលជាគាំទ្រ និងរំភើបសម្រាប់អ្នក។ អ្នកមានអារម្មណ៍ថាត្រូវបានហ៊ុំព័ទ្ធដោយសេចក្តីរីករាយ។"
+      },
+      "challenge": {
+        "en": "Letting the excitement of friends and family drive your decision could drown out your own feelings. Make the choice between the two of you.",
+        "km": "ការឱ្យភាពរំភើបរបស់មិត្តភក្តិ និងគ្រួសារ ជំរុញការសម្រេចចិត្ត អាចលុបអារម្មណ៍ផ្ទាល់ខ្លួនរបស់អ្នក។ សូមធ្វើជម្រើសនោះរវាងអ្នកទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "Committing with support from loved ones could bring joy and celebration. Your community may strengthen your bond.",
+        "km": "ការប្តេជ្ញាចិត្តដោយមានការគាំទ្រពីមនុស្សជាទីស្រឡាញ់ អាចនាំមកនូវសេចក្តីរីករាយ និងការអបអរ។ សហគមន៍របស់អ្នកអាចពង្រឹងចំណងរបស់អ្នក។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel unsure or unenthusiastic about committing. Something may feel missing, even if you cannot name it.",
+        "km": "អ្នកប្រហែលជាមិនប្រាកដ ឬមិនសូវរំភើបអំពីការប្តេជ្ញាចិត្ត។ អ្វីមួយប្រហែលជាហាក់ដូចជាខ្វះខាត ទោះបីអ្នកមិនអាចដាក់ឈ្មោះវាក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Committing while feeling disengaged could lead to regret. Explore what is holding you back first.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈមានអារម្មណ៍មិនចូលរួម អាចនាំទៅរកការសោកស្តាយ។ សូមស្វែងយល់ពីអ្វីដែលកំពុងទប់អ្នកជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Understanding your hesitation could lead to a clearer decision either way. Renewed interest may follow once you know what was missing.",
+        "km": "ការយល់ពីការស្ទាក់ស្ទើររបស់អ្នក អាចនាំទៅរកការសម្រេចចិត្តច្បាស់ជាងមុន ទោះយ៉ាងណាក៏ដោយ។ ចំណាប់អារម្មណ៍ឡើងវិញ អាចកើតឡើង នៅពេលអ្នកដឹងថាអ្វីដែលខ្វះខាត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Past disappointments or losses may be affecting how you feel about commitment. Old grief may linger.",
+        "km": "ការខកចិត្ត ឬការបាត់បង់កន្លងមក ប្រហែលជាកំពុងប៉ះពាល់អារម្មណ៍របស់អ្នកចំពោះការប្តេជ្ញាចិត្ត។ ទុក្ខសោកចាស់ប្រហែលជានៅសល់។"
+      },
+      "challenge": {
+        "en": "Letting old pain shape a new commitment could cloud your judgement. Heal what you can first.",
+        "km": "ការឱ្យការឈឺចាប់ចាស់បង្កើតការប្តេជ្ញាចិត្តថ្មី អាចធ្វើឱ្យការវិនិច្ឆ័យរបស់អ្នកស្រអាប់។ សូមព្យាបាលអ្វីដែលអ្នកអាចជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Healing the past could let you commit with a freer, lighter heart. Hope may return as old grief loosens its hold.",
+        "km": "ការព្យាបាលអតីតកាល អាចឱ្យអ្នកប្តេជ្ញាចិត្តដោយបេះដូងដែលសេរី និងស្រាលជាងមុន។ ក្តីសង្ឃឹមអាចត្រឡប់មកវិញ ខណៈទុក្ខសោកចាស់បន្ធូរការក្តាប់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "You may feel nostalgic or comforted by familiarity in this relationship. It may feel safe and sweet.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍នឹករលឹក ឬត្រូវបានលួងលោមដោយភាពធ្លាប់ស្គាល់ក្នុងទំនាក់ទំនងនេះ។ វាប្រហែលជាមានអារម្មណ៍សុវត្ថិភាព និងផ្អែមល្ហែម។"
+      },
+      "challenge": {
+        "en": "Committing because it feels familiar rather than right could limit your growth. Make sure it fits the person you have become.",
+        "km": "ការប្តេជ្ញាចិត្តដោយសារវាធ្លាប់ស្គាល់ ជាជាងត្រឹមត្រូវ អាចកំណត់ការរីកចម្រើនរបស់អ្នក។ សូមប្រាកដថាវាសមនឹងមនុស្សដែលអ្នកបានក្លាយជា។"
+      },
+      "outcome": {
+        "en": "Committing to something sweet and real could bring lasting tenderness. New shared memories may grow alongside the old ones.",
+        "km": "ការប្តេជ្ញាចិត្តចំពោះអ្វីដែលផ្អែមល្ហែម និងពិតប្រាកដ អាចនាំមកនូវភាពទន់ភ្លន់យូរអង្វែង។ អនុស្សាវរីយ៍រួមថ្មីៗ អាចរីកចម្រើនរួមជាមួយអនុស្សាវរីយ៍ចាស់។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may have many options or dreams about the future and feel unsure which to choose. Possibilities seem endless.",
+        "km": "អ្នកប្រហែលជាមានជម្រើស ឬក្តីស្រមៃជាច្រើនអំពីអនាគត ហើយមិនប្រាកដថាគួរជ្រើសរើសមួយណា។ លទ្ធភាពហាក់ដូចជាគ្មានទីបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Committing to a dream of the relationship rather than its reality could disappoint you. Look closely at how things actually are.",
+        "km": "ការប្តេជ្ញាចិត្តចំពោះក្តីស្រមៃនៃទំនាក់ទំនង ជាជាងការពិតរបស់វា អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមមើលឱ្យជិតពីរបៀបដែលអ្វីៗពិតជាមាន។"
+      },
+      "outcome": {
+        "en": "Choosing based on reality could bring a satisfying, grounded commitment. Clarity may replace confusion as you decide.",
+        "km": "ការជ្រើសរើសដោយផ្អែកលើការពិត អាចនាំមកនូវការប្តេជ្ញាចិត្តដែលគួរឱ្យពេញចិត្ត និងមានមូលដ្ឋាន។ ភាពច្បាស់លាស់អាចជំនួសភាពច្របូកច្របល់ ខណៈអ្នកសម្រេចចិត្ត។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may feel that something deeper is missing or that you need more. A part of you may be searching.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថា អ្វីមួយដែលជ្រៅជាងនេះកំពុងខ្វះខាត ឬអ្នកត្រូវការច្រើនជាងនេះ។ ផ្នែកមួយនៃខ្លួនអ្នក ប្រហែលជាកំពុងស្វែងរក។"
+      },
+      "challenge": {
+        "en": "Committing while feeling unfulfilled could lead to walking away later. Name what is missing before you make any promise.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈមានអារម្មណ៍មិនពេញចិត្ត អាចនាំទៅរកការដើរចេញនៅពេលក្រោយ។ សូមដាក់ឈ្មោះអ្វីដែលខ្វះខាត មុននឹងធ្វើការសន្យាណាមួយ។"
+      },
+      "outcome": {
+        "en": "Following your deeper needs could lead to the right commitment, whether here or elsewhere. Fulfilment may follow.",
+        "km": "ការធ្វើតាមតម្រូវការជ្រាលជ្រៅរបស់អ្នក អាចនាំទៅរកការប្តេជ្ញាចិត្តត្រឹមត្រូវ ទោះនៅទីនេះ ឬកន្លែងផ្សេង។ ការពេញចិត្តអាចកើតឡើងតាមក្រោយ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You feel content and satisfied, as if a wish is coming true. Commitment feels like a dream fulfilled.",
+        "km": "អ្នកមានអារម្មណ៍ពេញចិត្ត និងស្កប់ស្កល់ ដូចជាបំណងប្រាថ្នាមួយកំពុងក្លាយជាការពិត។ ការប្តេជ្ញាចិត្តមានអារម្មណ៍ដូចជាក្តីស្រមៃដែលបានសម្រេច។"
+      },
+      "challenge": {
+        "en": "Focusing only on your own satisfaction could overlook your partner's needs. Make sure the wish is shared.",
+        "km": "ការផ្តោតតែលើការពេញចិត្តខ្លួនឯង អាចមើលរំលងតម្រូវការរបស់ដៃគូ។ សូមប្រាកដថាបំណងប្រាថ្នានោះត្រូវបានចែករំលែក។"
+      },
+      "outcome": {
+        "en": "Committing together could bring contentment that both of you feel. Wishes you share may come true side by side.",
+        "km": "ការប្តេជ្ញាចិត្តជាមួយគ្នា អាចនាំមកនូវការពេញចិត្តដែលអ្នកទាំងពីរមានអារម្មណ៍។ បំណងប្រាថ្នាដែលអ្នកចែករំលែក អាចក្លាយជាការពិតក្បែរគ្នា។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "You picture a happy, lasting family life together. Belonging and harmony feel close enough to touch.",
+        "km": "អ្នកស្រមៃពីជីវិតគ្រួសារដ៏រីករាយ និងយូរអង្វែងជាមួយគ្នា។ ការជាផ្នែកមួយ និងភាពសុខដុម ហាក់ដូចជានៅជិតល្មមនឹងប៉ះបាន។"
+      },
+      "challenge": {
+        "en": "Expecting a perfect, conflict-free life could set you up for disappointment. Real happiness includes hard times.",
+        "km": "ការរំពឹងជីវិតល្អឥតខ្ចោះ គ្មានជម្លោះ អាចនាំអ្នកទៅរកការខកចិត្ត។ សុភមង្គលពិតរួមមានគ្រាលំបាកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Committing with realistic hopes could bring lasting happiness and belonging. A family life may flourish through ordinary, shared effort.",
+        "km": "ការប្តេជ្ញាចិត្តដោយក្តីសង្ឃឹមជាក់ស្តែង អាចនាំមកនូវសុភមង្គល និងការជាផ្នែកមួយយូរអង្វែង។ ជីវិតគ្រួសារអាចរីកចម្រើន តាមរយៈការខិតខំរួមគ្នាធម្មតា។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "You feel tender, hopeful and emotionally open. A sweet gesture may have touched your heart.",
+        "km": "អ្នកមានអារម្មណ៍ទន់ភ្លន់ មានក្តីសង្ឃឹម និងបើកចិត្តផ្នែកអារម្មណ៍។ កាយវិការផ្អែមល្ហែមមួយ ប្រហែលជាបានប៉ះបេះដូងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Being swept up by sweet moments could overlook practical realities. Look at the whole picture.",
+        "km": "ការត្រូវបានគ្រាផ្អែមល្ហែមនាំទៅ អាចមើលរំលងការពិតជាក់ស្តែង។ សូមមើលរូបភាពទាំងមូល។"
+      },
+      "outcome": {
+        "en": "Committing with both heart and wisdom could bring a gentle, lasting love. Your bond may grow sweetly.",
+        "km": "ការប្តេជ្ញាចិត្តដោយទាំងបេះដូង និងប្រាជ្ញា អាចនាំមកនូវស្នេហាដ៏ទន់ភ្លន់ និងយូរអង្វែង។ ចំណងរបស់អ្នកអាចរីកចម្រើនយ៉ាងផ្អែមល្ហែម។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Romance and idealism may be colouring your view of commitment. A proposal or offer may be on the table.",
+        "km": "មនោសញ្ចេតនា និងឧត្តមគតិនិយម ប្រហែលជាកំពុងជ្រលក់ពណ៌ទស្សនៈរបស់អ្នកចំពោះការប្តេជ្ញាចិត្ត។ សំណើ ឬការផ្តល់ជូនមួយ ប្រហែលជាកំពុងនៅលើតុ។"
+      },
+      "challenge": {
+        "en": "Committing because of a romantic moment rather than real compatibility could disappoint. Look beyond the grand gesture.",
+        "km": "ការប្តេជ្ញាចិត្តដោយសារគ្រាមនោសញ្ចេតនា ជាជាងភាពសមគ្នាពិតប្រាកដ អាចធ្វើឱ្យខកចិត្ត។ សូមមើលហួសពីកាយវិការធំៗ។"
+      },
+      "outcome": {
+        "en": "Committing with romance and realism could bring a lasting, loving bond. Your heart may lead you well.",
+        "km": "ការប្តេជ្ញាចិត្តដោយមនោសញ្ចេតនា និងភាពប្រាកដនិយម អាចនាំមកនូវចំណងដ៏យូរអង្វែង និងពោរពេញដោយក្តីស្រឡាញ់។ បេះដូងរបស់អ្នកអាចដឹកនាំអ្នកបានល្អ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "You feel emotionally connected and intuitive about this relationship. Your heart is deeply involved in the decision.",
+        "km": "អ្នកមានអារម្មណ៍ភ្ជាប់គ្នាផ្នែកអារម្មណ៍ និងមានវិចារណញាណអំពីទំនាក់ទំនងនេះ។ បេះដូងរបស់អ្នកចូលរួមយ៉ាងជ្រាលជ្រៅក្នុងការសម្រេចចិត្ត។"
+      },
+      "challenge": {
+        "en": "Giving so much emotionally that you lose yourself could create imbalance. Keep your own centre.",
+        "km": "ការផ្តល់ច្រើនពេកផ្នែកអារម្មណ៍ រហូតបាត់បង់ខ្លួនឯង អាចបង្កើតភាពមិនស្មើគ្នា។ សូមរក្សាចំណុចកណ្តាលរបស់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Committing with emotional balance could bring deep, caring partnership. Your intuition may guide you well.",
+        "km": "ការប្តេជ្ញាចិត្តដោយតុល្យភាពផ្នែកអារម្មណ៍ អាចនាំមកនូវភាពជាដៃគូដ៏ជ្រាលជ្រៅ និងយកចិត្តទុកដាក់។ វិចារណញាណរបស់អ្នក អាចដឹកនាំអ្នកបានល្អ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You feel calm, mature and emotionally ready to commit. A steady, dependable bond matters more to you than drama.",
+        "km": "អ្នកមានអារម្មណ៍ស្ងប់ ចាស់ទុំ និងត្រៀមខ្លួនផ្នែកអារម្មណ៍ដើម្បីប្តេជ្ញាចិត្ត។ ចំណងដ៏នឹងនរ និងអាចពឹងបាន សំខាន់សម្រាប់អ្នកជាងភាពរំជើបរំជួល។"
+      },
+      "challenge": {
+        "en": "Keeping your feelings too private could leave your partner unsure of your heart. Share openly.",
+        "km": "ការរក្សាអារម្មណ៍របស់អ្នកជាឯកជនពេក អាចធ្វើឱ្យដៃគូមិនប្រាកដពីបេះដូងរបស់អ្នក។ សូមចែករំលែកដោយបើកចំហ។"
+      },
+      "outcome": {
+        "en": "Committing with maturity and openness could bring a balanced, lasting bond. Your steadiness may be a gift.",
+        "km": "ការប្តេជ្ញាចិត្តដោយភាពចាស់ទុំ និងការបើកចិត្ត អាចនាំមកនូវចំណងដ៏មានតុល្យភាព និងយូរអង្វែង។ ភាពនឹងនររបស់អ្នក អាចជាអំណោយ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "You see the relationship clearly and are thinking with a sharp mind. Truth feels important.",
+        "km": "អ្នកមើលឃើញទំនាក់ទំនងយ៉ាងច្បាស់ ហើយកំពុងគិតដោយគំនិតមុតស្រួច។ ការពិតហាក់ដូចជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Avoiding a hard truth to keep things simple could cause bigger problems later. Speak honestly before you commit, even if it is uncomfortable.",
+        "km": "ការជៀសវាងការពិតដ៏លំបាក ដើម្បីរក្សាអ្វីៗឱ្យសាមញ្ញ អាចបង្កបញ្ហាធំជាងនេះនៅពេលក្រោយ។ សូមនិយាយដោយស្មោះត្រង់ មុននឹងប្តេជ្ញាចិត្ត ទោះបីវាមិនស្រួលក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Committing with clarity and honesty could bring a strong, trusting bond. Truth may be your foundation.",
+        "km": "ការប្តេជ្ញាចិត្តដោយភាពច្បាស់លាស់ និងស្មោះត្រង់ អាចនាំមកនូវចំណងដ៏រឹងមាំ និងទុកចិត្តគ្នា។ ការពិតអាចជាគ្រឹះរបស់អ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may feel stuck between options and unable to decide. Part of you may be putting off a difficult choice.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់នៅចន្លោះជម្រើស និងមិនអាចសម្រេចចិត្តបាន។ ផ្នែកមួយនៃខ្លួនអ្នក ប្រហែលជាកំពុងពន្យារជម្រើសដ៏ពិបាក។"
+      },
+      "challenge": {
+        "en": "Avoiding the decision could leave you both waiting in limbo. Facing your real feelings is kinder than keeping someone guessing.",
+        "km": "ការជៀសវាងការសម្រេចចិត្ត អាចទុកអ្នកទាំងពីរឱ្យរង់ចាំក្នុងភាពព្យួរ។ ការប្រឈមមុខនឹងអារម្មណ៍ពិត គឺសប្បុរសជាងការទុកឱ្យនរណាម្នាក់ទាយ។"
+      },
+      "outcome": {
+        "en": "Making a clear decision could bring relief and direction. Clarity may help you move forward.",
+        "km": "ការធ្វើការសម្រេចចិត្តច្បាស់លាស់ អាចនាំមកនូវការធូរស្រាល និងទិសដៅ។ ភាពច្បាស់លាស់អាចជួយអ្នកឱ្យឆ្ពោះទៅមុខ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Past heartbreak may be affecting how you feel about commitment. Old wounds may still hurt.",
+        "km": "ការខូចចិត្តកន្លងមក ប្រហែលជាកំពុងប៉ះពាល់អារម្មណ៍របស់អ្នកចំពោះការប្តេជ្ញាចិត្ត។ របួសចាស់ៗប្រហែលជានៅតែឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "Committing while carrying unhealed pain could affect the new relationship. Heal first if you can.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈកំពុងផ្ទុកការឈឺចាប់ដែលមិនទាន់ជាសះស្បើយ អាចប៉ះពាល់ទំនាក់ទំនងថ្មី។ សូមព្យាបាលជាមុនសិន ប្រសិនបើអ្នកអាច។"
+      },
+      "outcome": {
+        "en": "Healing old wounds could let you commit with your whole heart. Trust may grow once the past stops speaking for you.",
+        "km": "ការព្យាបាលរបួសចាស់ៗ អាចឱ្យអ្នកប្តេជ្ញាចិត្តដោយអស់ពីបេះដូង។ ការទុកចិត្តអាចកើនឡើង នៅពេលអតីតកាលឈប់និយាយជំនួសអ្នក។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may need rest or quiet time to think before deciding. Things may feel paused while you gather yourself.",
+        "km": "អ្នកប្រហែលជាត្រូវការការសម្រាក ឬពេលស្ងប់ស្ងាត់ ដើម្បីគិតមុននឹងសម្រេចចិត្ត។ អ្វីៗប្រហែលជាហាក់ដូចជាត្រូវបានផ្អាក ខណៈអ្នកប្រមូលខ្លួន។"
+      },
+      "challenge": {
+        "en": "Making a life-changing decision while worn out could lead to regret. Rest first, so the choice comes from a clear mind.",
+        "km": "ការធ្វើការសម្រេចចិត្តដែលផ្លាស់ប្តូរជីវិត ខណៈហត់នឿយ អាចនាំទៅរកការសោកស្តាយ។ សូមសម្រាកជាមុនសិន ដើម្បីឱ្យជម្រើសមកពីគំនិតច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Taking time to rest could lead to a calm, clear decision. Peace may guide you.",
+        "km": "ការចំណាយពេលសម្រាក អាចនាំទៅរកការសម្រេចចិត្តដ៏ស្ងប់ និងច្បាស់លាស់។ សន្តិភាពអាចដឹកនាំអ្នក។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "There may be conflict or tension around the decision. Someone may feel they are losing.",
+        "km": "ប្រហែលជាមានជម្លោះ ឬភាពតានតឹងជុំវិញការសម្រេចចិត្ត។ នរណាម្នាក់ប្រហែលជាមានអារម្មណ៍ថាកំពុងចាញ់។"
+      },
+      "challenge": {
+        "en": "Committing after a power struggle could leave resentment behind. Make sure it is a win for both.",
+        "km": "ការប្តេជ្ញាចិត្តបន្ទាប់ពីការប្រជែងអំណាច អាចទុកការអាក់អន់ចិត្តនៅពីក្រោយ។ សូមប្រាកដថាវាជាជ័យជម្នះសម្រាប់អ្នកទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "Resolving conflict fairly could lead to a peaceful commitment between equals. Mutual respect may grow from the way you settle things.",
+        "km": "ការដោះស្រាយជម្លោះដោយយុត្តិធម៌ អាចនាំទៅរកការប្តេជ្ញាចិត្តដ៏សុខសាន្តរវាងមនុស្សស្មើគ្នា។ ការគោរពគ្នាអាចកើនឡើង ពីរបៀបដែលអ្នកដោះស្រាយរឿងរ៉ាវ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Together you may be leaving a rough patch behind and heading somewhere calmer. The relationship feels as if it is in transition.",
+        "km": "អ្នកទាំងពីរប្រហែលជាកំពុងទុកគ្រាលំបាកនៅពីក្រោយ ហើយឆ្ពោះទៅកន្លែងដែលស្ងប់ជាងមុន។ ទំនាក់ទំនងហាក់ដូចជាកំពុងស្ថិតក្នុងការផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Bringing unresolved issues into the commitment could weigh it down from the start. Settle what you can before you move on together.",
+        "km": "ការនាំបញ្ហាដែលមិនទាន់ដោះស្រាយចូលក្នុងការប្តេជ្ញាចិត្ត អាចធ្វើឱ្យវាធ្ងន់តាំងពីដំបូង។ សូមដោះស្រាយអ្វីដែលអ្នកអាច មុននឹងបន្តទៅមុខជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "Moving forward together could bring a calmer, more stable commitment. Peace may follow once the hard crossing is behind you.",
+        "km": "ការឆ្ពោះទៅមុខជាមួយគ្នា អាចនាំមកនូវការប្តេជ្ញាចិត្តដែលស្ងប់ និងមានស្ថិរភាពជាងមុន។ សន្តិភាពអាចកើតឡើង នៅពេលការឆ្លងកាត់ដ៏ពិបាកនៅពីក្រោយអ្នក។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "You may sense that not everything is being said openly between you. Trust may feel less certain than you would like.",
+        "km": "អ្នកប្រហែលជាដឹងថា មិនមែនអ្វីៗទាំងអស់ត្រូវបាននិយាយដោយបើកចំហរវាងអ្នកទាំងពីរទេ។ ការទុកចិត្តប្រហែលជាមិនសូវប្រាកដដូចដែលអ្នកចង់បាន។"
+      },
+      "challenge": {
+        "en": "Committing while secrets or doubts remain could quietly undermine trust. Ask the hard questions before you make any promise.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈអាថ៌កំបាំង ឬការសង្ស័យនៅតែមាន អាចធ្វើឱ្យការទុកចិត្តចុះខ្សោយដោយស្ងាត់ៗ។ សូមសួរសំណួរពិបាកៗ មុននឹងធ្វើការសន្យាណាមួយ។"
+      },
+      "outcome": {
+        "en": "Bringing everything into the open could make the commitment honest and strong. Trust may deepen once nothing is hidden.",
+        "km": "ការនាំអ្វីៗទាំងអស់មកដាក់ឱ្យចំហ អាចធ្វើឱ្យការប្តេជ្ញាចិត្តស្មោះត្រង់ និងរឹងមាំ។ ការទុកចិត្តអាចកាន់តែជ្រៅ នៅពេលគ្មានអ្វីលាក់កំបាំង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel trapped, limited or pressured around this decision. It may seem as if there are few real options.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់ មានកម្រិត ឬត្រូវបានដាក់សម្ពាធជុំវិញការសម្រេចចិត្តនេះ។ វាអាចហាក់ដូចជាមានជម្រើសពិតប្រាកដតិចតួច។"
+      },
+      "challenge": {
+        "en": "Committing because you feel you have no choice could lead to regret. You always have options.",
+        "km": "ការប្តេជ្ញាចិត្តដោយសារអ្នកមានអារម្មណ៍ថាគ្មានជម្រើស អាចនាំទៅរកការសោកស្តាយ។ អ្នកតែងតែមានជម្រើស។"
+      },
+      "outcome": {
+        "en": "Recognising your freedom could help you choose wisely and without pressure. A choice made freely may keep feeling right.",
+        "km": "ការទទួលស្គាល់សេរីភាពរបស់អ្នក អាចជួយអ្នកឱ្យជ្រើសរើសដោយឈ្លាសវៃ និងគ្មានសម្ពាធ។ ជម្រើសដែលធ្វើដោយសេរី អាចបន្តមានអារម្មណ៍ត្រឹមត្រូវ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "You may be worrying a lot about this decision and losing sleep. Anxiety may feel strong.",
+        "km": "អ្នកប្រហែលជាកំពុងព្រួយបារម្ភច្រើនអំពីការសម្រេចចិត្តនេះ ហើយដេកមិនលក់។ ការថប់បារម្ភប្រហែលជាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Committing to calm your anxiety could be the wrong reason. Talk your worries through first.",
+        "km": "ការប្តេជ្ញាចិត្តដើម្បីបន្ធូរការថប់បារម្ភ អាចជាហេតុផលខុស។ សូមនិយាយពីការព្រួយបារម្ភរបស់អ្នកជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Addressing your fears could bring peace and a clearer decision. Calm may return once the worries have been spoken aloud.",
+        "km": "ការដោះស្រាយការភ័យខ្លាចរបស់អ្នក អាចនាំមកនូវសន្តិភាព និងការសម្រេចចិត្តច្បាស់ជាងមុន។ ភាពស្ងប់អាចត្រឡប់មកវិញ នៅពេលការព្រួយបារម្ភត្រូវបាននិយាយចេញ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "You may have just come through something painful in this relationship. It may feel like an ending.",
+        "km": "អ្នកប្រហែលជាទើបឆ្លងកាត់អ្វីមួយដ៏ឈឺចាប់ក្នុងទំនាក់ទំនងនេះ។ វាប្រហែលជាមានអារម្មណ៍ដូចជាការបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Committing straight after a crisis could be premature. Let the dust settle before you make promises.",
+        "km": "ការប្តេជ្ញាចិត្តភ្លាមៗបន្ទាប់ពីវិបត្តិ អាចលឿនពេក។ សូមឱ្យធូលីស្ងប់ មុននឹងអ្នកធ្វើការសន្យា។"
+      },
+      "outcome": {
+        "en": "Letting things heal could lead to a wiser decision about the future. Recovery may bring the clarity that the crisis took away.",
+        "km": "ការឱ្យអ្វីៗជាសះស្បើយ អាចនាំទៅរកការសម្រេចចិត្តដែលឈ្លាសវៃជាងមុនអំពីអនាគត។ ការជាសះស្បើយអាចនាំមកវិញនូវភាពច្បាស់លាស់ ដែលវិបត្តិបានដកយក។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You are curious and asking lots of questions about the relationship. You want to know more.",
+        "km": "អ្នកចង់ដឹងចង់ឃើញ និងកំពុងសួរសំណួរជាច្រើនអំពីទំនាក់ទំនង។ អ្នកចង់ដឹងបន្ថែម។"
+      },
+      "challenge": {
+        "en": "Overanalysing every detail could leave you unable to decide. Gather the facts that matter, then trust yourself.",
+        "km": "ការវិភាគហួសហេតុលើរាល់ព័ត៌មានលម្អិត អាចធ្វើឱ្យអ្នកមិនអាចសម្រេចចិត្តបាន។ សូមប្រមូលការពិតដែលសំខាន់ រួចទុកចិត្តលើខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Asking good questions could lead to a well-informed commitment. Understanding each other may grow with every honest answer.",
+        "km": "ការសួរសំណួរល្អៗ អាចនាំទៅរកការប្តេជ្ញាចិត្តដែលមានព័ត៌មានគ្រប់គ្រាន់។ ការយល់ពីគ្នាអាចកើនឡើង ជាមួយចម្លើយស្មោះត្រង់នីមួយៗ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You feel ready to act quickly and decisively. Things between you may be moving fast.",
+        "km": "អ្នកមានអារម្មណ៍ត្រៀមខ្លួនធ្វើសកម្មភាពរហ័ស និងម៉ឺងម៉ាត់។ អ្វីៗរវាងអ្នកទាំងពីរ ប្រហែលជាកំពុងផ្លាស់ទីលឿន។"
+      },
+      "challenge": {
+        "en": "Rushing into commitment without thinking it through could cause problems. Slow down enough to hear your partner's doubts as well as your own.",
+        "km": "ការប្រញាប់ចូលក្នុងការប្តេជ្ញាចិត្ត ដោយមិនគិតឱ្យល្អិតល្អន់ អាចបង្កបញ្ហា។ សូមបន្ថយល្បឿនល្មមនឹងស្តាប់ការសង្ស័យរបស់ដៃគូ ក៏ដូចជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Acting decisively but thoughtfully could bring a strong commitment. Clear, honest action may serve you both well.",
+        "km": "ការធ្វើសកម្មភាពម៉ឺងម៉ាត់ ប៉ុន្តែដោយគិតពិចារណា អាចនាំមកនូវការប្តេជ្ញាចិត្តដ៏រឹងមាំ។ សកម្មភាពច្បាស់លាស់ និងស្មោះត្រង់ អាចជួយអ្នកទាំងពីរបានល្អ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You see things clearly and have high standards. You know what you will and will not accept.",
+        "km": "អ្នកមើលឃើញអ្វីៗយ៉ាងច្បាស់ ហើយមានស្តង់ដារខ្ពស់។ អ្នកដឹងពីអ្វីដែលអ្នកនឹងទទួលយក និងមិនទទួលយក។"
+      },
+      "challenge": {
+        "en": "Being too critical of small flaws could make any commitment feel impossible. Save your firm standards for what truly matters.",
+        "km": "ការរិះគន់ខ្លាំងពេកលើកំហុសតូចៗ អាចធ្វើឱ្យការប្តេជ្ញាចិត្តណាមួយហាក់ដូចជាមិនអាចទៅរួច។ សូមរក្សាស្តង់ដាររឹងមាំ សម្រាប់អ្វីដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "Committing with clear eyes and fair standards could bring an honest, strong partnership. Respect may grow.",
+        "km": "ការប្តេជ្ញាចិត្តដោយភ្នែកច្បាស់លាស់ និងស្តង់ដារយុត្តិធម៌ អាចនាំមកនូវភាពជាដៃគូដ៏ស្មោះត្រង់ និងរឹងមាំ។ ការគោរពអាចកើនឡើង។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "You are thinking logically about commitment and weighing the pros and cons. Reason is guiding you more than emotion.",
+        "km": "អ្នកកំពុងគិតដោយតក្កវិជ្ជាអំពីការប្តេជ្ញាចិត្ត ហើយថ្លឹងថ្លែងគុណសម្បត្តិ និងគុណវិបត្តិ។ ហេតុផលកំពុងដឹកនាំអ្នក ច្រើនជាងអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Deciding by logic alone could leave out how you actually feel. Let your heart have a vote as well.",
+        "km": "ការសម្រេចចិត្តតែដោយតក្កវិជ្ជា អាចទុកចោលអារម្មណ៍ពិតរបស់អ្នក។ សូមឱ្យបេះដូងរបស់អ្នកមានសំឡេងឆ្នោតផងដែរ។"
+      },
+      "outcome": {
+        "en": "Balancing reason with feeling could bring a well-considered, lasting commitment. Fair agreements may guide you through hard decisions.",
+        "km": "ការរក្សាតុល្យភាពហេតុផលជាមួយអារម្មណ៍ អាចនាំមកនូវការប្តេជ្ញាចិត្តដែលបានគិតពិចារណាល្អ និងយូរអង្វែង។ កិច្ចព្រមព្រៀងយុត្តិធម៌ អាចដឹកនាំអ្នកឆ្លងកាត់ការសម្រេចចិត្តពិបាក។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "You are thinking about the practical foundations of commitment, such as home, money and stability. Security feels important.",
+        "km": "អ្នកកំពុងគិតអំពីគ្រឹះជាក់ស្តែងនៃការប្តេជ្ញាចិត្ត ដូចជាផ្ទះ ប្រាក់ និងស្ថិរភាព។ សុវត្ថិភាពហាក់ដូចជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Leaving money and living arrangements undiscussed could cause strain later. Plan the practical basics together before you commit.",
+        "km": "ការមិនពិភាក្សាពីប្រាក់ និងការរៀបចំការរស់នៅ អាចបង្កភាពតានតឹងនៅពេលក្រោយ។ សូមរៀបចំមូលដ្ឋានជាក់ស្តែងជាមួយគ្នា មុននឹងប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "Building a solid practical foundation could make your commitment secure. Your shared future may feel stable and well planned.",
+        "km": "ការកសាងគ្រឹះជាក់ស្តែងដ៏រឹងមាំ អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរបស់អ្នកមានសុវត្ថិភាព។ អនាគតរួមរបស់អ្នក អាចមានស្ថិរភាព និងបានរៀបចំផែនការល្អ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be juggling many responsibilities alongside this decision. Life feels busy, and time to think is scarce.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀបចំការទទួលខុសត្រូវជាច្រើន រួមជាមួយការសម្រេចចិត្តនេះ។ ជីវិតហាក់ដូចជារវល់ ហើយពេលវេលាគិតមានតិច។"
+      },
+      "challenge": {
+        "en": "Committing while already stretched thin could add strain to everything. Make sure your life has room for a promise this big.",
+        "km": "ការប្តេជ្ញាចិត្ត ខណៈកំពុងតឹងតែងរួចហើយ អាចបន្ថែមភាពតានតឹងលើអ្វីៗទាំងអស់។ សូមប្រាកដថាជីវិតរបស់អ្នកមានចន្លោះសម្រាប់ការសន្យាធំបែបនេះ។"
+      },
+      "outcome": {
+        "en": "Finding balance could help commitment fit comfortably into your life. Flexibility from both sides may keep things running smoothly.",
+        "km": "ការរកតុល្យភាព អាចជួយឱ្យការប្តេជ្ញាចិត្តសមល្អនឹងជីវិតរបស់អ្នក។ ភាពបត់បែនពីទាំងសងខាង អាចរក្សាអ្វីៗឱ្យដំណើរការរលូន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "You are building something together and working well as a team. Cooperation between you feels strong.",
+        "km": "អ្នកកំពុងកសាងអ្វីមួយជាមួយគ្នា ហើយធ្វើការជាក្រុមបានល្អ។ កិច្ចសហការរវាងអ្នកទាំងពីរ ហាក់ដូចជារឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Assuming teamwork in one area means compatibility everywhere could miss differences. Check other areas too.",
+        "km": "ការសន្មតថាការធ្វើការជាក្រុមក្នុងផ្នែកមួយ មានន័យថាសមគ្នាគ្រប់ទីកន្លែង អាចខកខានភាពខុសគ្នា។ សូមពិនិត្យផ្នែកផ្សេងៗផងដែរ។"
+      },
+      "outcome": {
+        "en": "Building on the skills you share could make the commitment strong. Your partnership may achieve a great deal over the long run.",
+        "km": "ការកសាងលើជំនាញដែលអ្នកចែករំលែក អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរឹងមាំ។ ភាពជាដៃគូរបស់អ្នក អាចសម្រេចបានច្រើនក្នុងរយៈពេលវែង។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may value security and want to protect what you have. Holding on feels safe.",
+        "km": "អ្នកប្រហែលជាឱ្យតម្លៃសុវត្ថិភាព ហើយចង់ការពារអ្វីដែលអ្នកមាន។ ការកាន់ជាប់ហាក់ដូចជាមានសុវត្ថិភាព។"
+      },
+      "challenge": {
+        "en": "Committing to hold on rather than to grow could limit the relationship. Make room for change.",
+        "km": "ការប្តេជ្ញាចិត្តដើម្បីកាន់ជាប់ ជាជាងដើម្បីរីកចម្រើន អាចកំណត់ទំនាក់ទំនង។ សូមទុកចន្លោះសម្រាប់ការផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Committing with trust rather than fear could bring real security. Your bond may feel free.",
+        "km": "ការប្តេជ្ញាចិត្តដោយការទុកចិត្ត ជាជាងការភ័យខ្លាច អាចនាំមកនូវសុវត្ថិភាពពិតប្រាកដ។ ចំណងរបស់អ្នកអាចមានអារម្មណ៍សេរី។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "You may be facing hardship or uncertainty, which affects how you see commitment. Times feel tough.",
+        "km": "អ្នកប្រហែលជាកំពុងប្រឈមមុខនឹងការលំបាក ឬភាពមិនប្រាកដប្រជា ដែលប៉ះពាល់របៀបដែលអ្នកមើលការប្តេជ្ញាចិត្ត។ គ្រាហាក់ដូចជាលំបាក។"
+      },
+      "challenge": {
+        "en": "Committing out of fear or financial need could lead to the wrong choice. Choose from love, not lack.",
+        "km": "ការប្តេជ្ញាចិត្តដោយការភ័យខ្លាច ឬតម្រូវការហិរញ្ញវត្ថុ អាចនាំទៅរកជម្រើសខុស។ សូមជ្រើសរើសដោយក្តីស្រឡាញ់ មិនមែនដោយការខ្វះខាតទេ។"
+      },
+      "outcome": {
+        "en": "Facing hard times together could reveal how strong your bond really is. Support given in difficulty may become a lasting foundation.",
+        "km": "ការប្រឈមមុខនឹងគ្រាលំបាកជាមួយគ្នា អាចបង្ហាញថាចំណងរបស់អ្នករឹងមាំប៉ុណ្ណា។ ការគាំទ្រដែលផ្តល់ក្នុងការលំបាក អាចក្លាយជាគ្រឹះយូរអង្វែង។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "There is generosity and a healthy give-and-take in this relationship. Kindness seems to flow both ways.",
+        "km": "មានចិត្តសប្បុរស និងការផ្តល់ និងទទួលដែលមានសុខភាពល្អក្នុងទំនាក់ទំនងនេះ។ ក្តីសប្បុរសហាក់ដូចជាហូរទាំងសងខាង។"
+      },
+      "challenge": {
+        "en": "An imbalance in giving could become a problem over time. Make sure both of you give and receive.",
+        "km": "ភាពមិនស្មើគ្នាក្នុងការផ្តល់ អាចក្លាយជាបញ្ហាតាមពេលវេលា។ សូមប្រាកដថាអ្នកទាំងពីរផ្តល់ និងទទួល។"
+      },
+      "outcome": {
+        "en": "Committing with balanced generosity could bring a fair, loving partnership. Kindness may flourish when neither of you keeps score.",
+        "km": "ការប្តេជ្ញាចិត្តដោយចិត្តសប្បុរសដែលមានតុល្យភាព អាចនាំមកនូវភាពជាដៃគូដ៏យុត្តិធម៌ និងពោរពេញដោយក្តីស្រឡាញ់។ ក្តីសប្បុរសអាចរីកចម្រើន នៅពេលគ្មាននរណារាប់ពិន្ទុ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You have invested time and effort, and you are assessing whether it is worth continuing. Patience has been tested.",
+        "km": "អ្នកបានវិនិយោគពេលវេលា និងការខិតខំ ហើយអ្នកកំពុងវាយតម្លៃថាតើវាសមនឹងបន្តឬទេ។ ការអត់ធ្មត់ត្រូវបានសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Committing just because you have invested so much could keep you in the wrong place. Assess honestly.",
+        "km": "ការប្តេជ្ញាចិត្តគ្រាន់តែដោយសារអ្នកបានវិនិយោគច្រើន អាចរក្សាអ្នកនៅកន្លែងខុស។ សូមវាយតម្លៃដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Honest assessment could lead to a commitment that bears fruit. Patience may be rewarded with something that lasts.",
+        "km": "ការវាយតម្លៃដោយស្មោះត្រង់ អាចនាំទៅរកការប្តេជ្ញាចិត្តដែលផ្តល់ផល។ ការអត់ធ្មត់អាចទទួលបានរង្វាន់ជាអ្វីមួយដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "You are putting steady effort into making the relationship work. Your dedication is clear to anyone watching.",
+        "km": "អ្នកកំពុងដាក់ការខិតខំជាប្រចាំ ដើម្បីធ្វើឱ្យទំនាក់ទំនងដំណើរការ។ ការលះបង់របស់អ្នកច្បាស់សម្រាប់អ្នកណាដែលមើល។"
+      },
+      "challenge": {
+        "en": "Treating commitment like a job could make it feel like duty. Keep the heart in it.",
+        "km": "ការចាត់ទុកការប្តេជ្ញាចិត្តដូចជាការងារ អាចធ្វើឱ្យវាមានអារម្មណ៍ដូចជាភារកិច្ច។ សូមរក្សាបេះដូងនៅក្នុងវា។"
+      },
+      "outcome": {
+        "en": "Continued effort with love could make commitment strong and lasting. Your dedication may pay off.",
+        "km": "ការខិតខំបន្តដោយក្តីស្រឡាញ់ អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរឹងមាំ និងយូរអង្វែង។ ការលះបង់របស់អ្នក អាចទទួលបានផល។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You feel independent and secure, and commitment is a choice rather than a need. You know your worth.",
+        "km": "អ្នកមានអារម្មណ៍ឯករាជ្យ និងមានសុវត្ថិភាព ហើយការប្តេជ្ញាចិត្តគឺជាជម្រើស ជាជាងតម្រូវការ។ អ្នកដឹងពីតម្លៃរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding tightly to your independence could make sharing a life hard. Commitment means relying on each other in some ways.",
+        "km": "ការកាន់ជាប់យ៉ាងតឹងនឹងឯករាជ្យភាពរបស់អ្នក អាចធ្វើឱ្យការចែករំលែកជីវិតពិបាក។ ការប្តេជ្ញាចិត្តមានន័យថាការពឹងផ្អែកគ្នាក្នុងន័យខ្លះ។"
+      },
+      "outcome": {
+        "en": "Committing from a place of security could bring a balanced, respectful bond. Your independence may be honoured rather than lost.",
+        "km": "ការប្តេជ្ញាចិត្តពីកន្លែងនៃសុវត្ថិភាព អាចនាំមកនូវចំណងដ៏មានតុល្យភាព និងគោរពគ្នា។ ឯករាជ្យភាពរបស់អ្នកអាចត្រូវបានគោរព ជាជាងបាត់បង់។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "You are thinking about long-term security, family and legacy. Commitment feels like building a future.",
+        "km": "អ្នកកំពុងគិតអំពីសុវត្ថិភាពរយៈពេលវែង គ្រួសារ និងកេរ្តិ៍ដំណែល។ ការប្តេជ្ញាចិត្តមានអារម្មណ៍ដូចជាការកសាងអនាគត។"
+      },
+      "challenge": {
+        "en": "Family expectations or financial pressure could influence your choice too much. Make sure it is yours.",
+        "km": "ការរំពឹងទុករបស់គ្រួសារ ឬសម្ពាធហិរញ្ញវត្ថុ អាចមានឥទ្ធិពលលើជម្រើសរបស់អ្នកខ្លាំងពេក។ សូមប្រាកដថាវាជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Building a secure future together could bring lasting stability and belonging. Your legacy may grow.",
+        "km": "ការកសាងអនាគតដែលមានសុវត្ថិភាពជាមួយគ្នា អាចនាំមកនូវស្ថិរភាព និងការជាផ្នែកមួយយូរអង្វែង។ កេរ្តិ៍ដំណែលរបស់អ្នកអាចរីកចម្រើន។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You are approaching commitment carefully and want to learn more first. Small steps feel right.",
+        "km": "អ្នកកំពុងចូលទៅរកការប្តេជ្ញាចិត្តដោយប្រុងប្រយ័ត្ន ហើយចង់ដឹងបន្ថែមជាមុនសិន។ ជំហានតូចៗហាក់ដូចជាត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Being too cautious could delay a good decision indefinitely. Gather enough information, then take the step.",
+        "km": "ការប្រុងប្រយ័ត្នពេក អាចពន្យារការសម្រេចចិត្តល្អដោយគ្មានកំណត់។ សូមប្រមូលព័ត៌មានគ្រប់គ្រាន់ រួចដើរជំហាននោះ។"
+      },
+      "outcome": {
+        "en": "Taking measured steps could lead to a solid, well-grounded commitment. Patience may pay off in a bond you understand well.",
+        "km": "ការដើរជំហានដែលបានវាស់វែង អាចនាំទៅរកការប្តេជ្ញាចិត្តដ៏រឹងមាំ និងមានមូលដ្ឋានល្អ។ ការអត់ធ្មត់អាចទទួលបានផល ជាចំណងដែលអ្នកយល់បានល្អ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "You value reliability and slow, steady progress. Commitment feels like a serious step you do not take lightly.",
+        "km": "អ្នកឱ្យតម្លៃភាពគួរឱ្យទុកចិត្ត និងការរីកចម្រើនយឺតៗ ប៉ុន្តែនឹងនរ។ ការប្តេជ្ញាចិត្តមានអារម្មណ៍ដូចជាជំហានម៉ឺងម៉ាត់ ដែលអ្នកមិនធ្វើដោយស្រាលទេ។"
+      },
+      "challenge": {
+        "en": "Moving too slowly could frustrate your partner. Check that your pace works for both of you.",
+        "km": "ការផ្លាស់ទីយឺតពេក អាចធ្វើឱ្យដៃគូធុញថប់។ សូមពិនិត្យថាល្បឿនរបស់អ្នកដំណើរការសម្រាប់អ្នកទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "Steady commitment could bring a dependable, lasting partnership. Reliability may become one of the bond's greatest strengths.",
+        "km": "ការប្តេជ្ញាចិត្តដ៏នឹងនរ អាចនាំមកនូវភាពជាដៃគូដែលអាចពឹងបាន និងយូរអង្វែង។ ភាពគួរឱ្យទុកចិត្ត អាចក្លាយជាចំណុចខ្លាំងបំផុតមួយនៃចំណងនោះ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You feel nurturing and practical, ready to build a caring home. Comfort and good care matter a great deal to you.",
+        "km": "អ្នកមានអារម្មណ៍ថ្នាក់ថ្នម និងជាក់ស្តែង ត្រៀមខ្លួនកសាងផ្ទះដ៏យកចិត្តទុកដាក់។ ភាពសុខស្រួល និងការថែទាំល្អ សំខាន់ខ្លាំងសម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Taking on all the caring could leave you overburdened. Agree on how care will be shared.",
+        "km": "ការទទួលការថែទាំទាំងអស់ អាចធ្វើឱ្យអ្នកផ្ទុកលើសទម្ងន់។ សូមព្រមព្រៀងគ្នាពីរបៀបដែលការថែទាំនឹងត្រូវចែករំលែក។"
+      },
+      "outcome": {
+        "en": "Committing to mutual care could bring a warm, secure home. Comfort may flow both ways.",
+        "km": "ការប្តេជ្ញាចិត្តចំពោះការថែរក្សាគ្នាទៅវិញទៅមក អាចនាំមកនូវផ្ទះដ៏កក់ក្តៅ និងមានសុវត្ថិភាព។ ភាពសុខស្រួលអាចហូរទាំងសងខាង។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You feel secure and successful, ready to share what you have built. Your life rests on a stable footing.",
+        "km": "អ្នកមានអារម្មណ៍សុវត្ថិភាព និងជោគជ័យ ត្រៀមខ្លួនចែករំលែកអ្វីដែលអ្នកបានកសាង។ ជីវិតរបស់អ្នកឈរលើមូលដ្ឋានមានស្ថិរភាព។"
+      },
+      "challenge": {
+        "en": "Focusing on material security alone could overlook emotional needs. Make sure the heart is in it too.",
+        "km": "ការផ្តោតតែលើសុវត្ថិភាពសម្ភារៈ អាចមើលរំលងតម្រូវការផ្លូវចិត្ត។ សូមប្រាកដថាបេះដូងក៏នៅក្នុងវាដែរ។"
+      },
+      "outcome": {
+        "en": "Committing with both security and warmth could bring a rich, lasting bond. Prosperity may be shared.",
+        "km": "ការប្តេជ្ញាចិត្តដោយទាំងសុវត្ថិភាព និងភាពកក់ក្តៅ អាចនាំមកនូវចំណងដ៏សម្បូរបែប និងយូរអង្វែង។ ភាពរុងរឿងអាចត្រូវបានចែករំលែក។"
+      }
+    }
+  }
+}
