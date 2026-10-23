@@ -1,0 +1,1097 @@
+{
+  "questionId": "MF-03",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Look at the spontaneous purchases you make for the thrill of something new. A short pause before buying on a whim can save more than you expect.",
+        "km": "សូមមើលការទិញភ្លាមៗដែលអ្នកធ្វើ ដើម្បីភាពរំភើបនៃអ្វីថ្មី។ ការផ្អាកខ្លីមួយ មុនពេលទិញតាមចិត្ត អាចសន្សំបានច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      },
+      "challenge": {
+        "en": "The excitement of a bargain or a new gadget could hide how often it happens. Small spur-of-the-moment buys add up quietly.",
+        "km": "ភាពរំភើបនៃការបញ្ចុះតម្លៃ ឬឧបករណ៍ថ្មី អាចលាក់ថាវាកើតឡើងញឹកញាប់ប៉ុណ្ណា។ ការទិញតូចៗភ្លាមៗ បូកបញ្ចូលគ្នាដោយស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Keeping spontaneity for experiences rather than things could leave you freer and better off. Fun may cost less than you thought.",
+        "km": "ការរក្សាភាពភ្លាមៗសម្រាប់បទពិសោធន៍ ជាជាងរបស់របរ អាចធ្វើឱ្យអ្នកមានសេរីភាព និងប្រសើរជាងមុន។ ភាពសប្បាយ អាចចំណាយតិចជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Use what you already own before buying more tools, clothes or supplies. Making the most of your resources is a skill in itself.",
+        "km": "សូមប្រើអ្វីដែលអ្នកមានរួចហើយ មុនពេលទិញឧបករណ៍ សម្លៀកបំពាក់ ឬសម្ភារៈបន្ថែម។ ការប្រើប្រាស់ធនធានរបស់អ្នកឱ្យអស់សមត្ថភាព គឺជាជំនាញមួយដោយខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Buying new equipment every time you start a project could leave cupboards full and wallets empty. Ask whether you will truly use it.",
+        "km": "ការទិញឧបករណ៍ថ្មីរាល់ពេលដែលអ្នកចាប់ផ្តើមគម្រោង អាចធ្វើឱ្យទូពេញ ហើយកាបូបទទេ។ សូមសួរថាតើអ្នកពិតជានឹងប្រើវាឬទេ។"
+      },
+      "outcome": {
+        "en": "Getting full value from what you have could free up money for what matters. Resourcefulness may become a quiet source of savings.",
+        "km": "ការទទួលបានតម្លៃពេញលេញពីអ្វីដែលអ្នកមាន អាចដោះលែងប្រាក់សម្រាប់អ្វីដែលសំខាន់។ ភាពចេះរកវិធី អាចក្លាយជាប្រភពនៃការសន្សំដោយស្ងាត់ៗ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Look for the hidden or forgotten payments, such as subscriptions and automatic charges, that slip by unnoticed. Quiet costs are often the easiest to cut.",
+        "km": "សូមរកការទូទាត់ដែលលាក់កំបាំង ឬត្រូវបានភ្លេច ដូចជាការជាវ និងការកាត់ប្រាក់ស្វ័យប្រវត្តិ ដែលរអិលកាត់ដោយមិនកត់សម្គាល់។ ការចំណាយស្ងាត់ៗ ជារឿយៗងាយកាត់បំផុត។"
+      },
+      "challenge": {
+        "en": "Not checking where money goes could let small leaks continue unnoticed. A careful look at statements may surprise you.",
+        "km": "ការមិនពិនិត្យថាប្រាក់ទៅណា អាចធ្វើឱ្យការលេចធ្លាយតូចៗបន្តដោយមិនកត់សម្គាល់។ ការមើលរបាយការណ៍ដោយប្រុងប្រយ័ត្ន អាចធ្វើឱ្យអ្នកភ្ញាក់ផ្អើល។"
+      },
+      "outcome": {
+        "en": "Bringing hidden costs to light could release money you did not know you had. Awareness may turn into steady savings.",
+        "km": "ការនាំការចំណាយលាក់កំបាំងមកដាក់ក្នុងពន្លឺ អាចដោះលែងប្រាក់ដែលអ្នកមិនដឹងថាអ្នកមាន។ ការយល់ដឹង អាចប្រែក្លាយទៅជាការសន្សំនឹងនរ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Notice where comfort spending, such as treats, food or nice things for the home, has grown beyond what you need. Enjoy abundance with a lighter touch.",
+        "km": "សូមកត់សម្គាល់កន្លែងដែលការចំណាយដើម្បីភាពសុខស្រួល ដូចជារង្វាន់ អាហារ ឬរបស់ស្អាតសម្រាប់ផ្ទះ បានកើនលើសពីអ្វីដែលអ្នកត្រូវការ។ សូមរីករាយនឹងភាពសម្បូរបែប ដោយការប៉ះស្រាលជាងមុន។"
+      },
+      "challenge": {
+        "en": "Spoiling yourself or others as a way of showing love could stretch your budget thin. Care can be shown in ways that cost less.",
+        "km": "ការធ្វើឱ្យខ្លួនឯង ឬអ្នកដទៃសប្បាយចិត្ត ជាវិធីបង្ហាញក្តីស្រឡាញ់ អាចធ្វើឱ្យថវិការបស់អ្នកស្តើង។ ការយកចិត្តទុកដាក់ អាចបង្ហាញតាមវិធីដែលចំណាយតិចជាង។"
+      },
+      "outcome": {
+        "en": "Choosing fewer but better comforts could make life feel just as rich while costing less. Abundance may come from enjoying, not acquiring.",
+        "km": "ការជ្រើសរើសភាពសុខស្រួលតិចជាង តែល្អជាង អាចធ្វើឱ្យជីវិតមានអារម្មណ៍សម្បូរដដែល ខណៈពេលចំណាយតិចជាង។ ភាពសម្បូរបែប អាចមកពីការរីករាយ មិនមែនការទិញទេ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Give your spending clear categories and limits so you can see where money goes. A little structure can turn chaos into control.",
+        "km": "សូមផ្តល់ប្រភេទ និងដែនកំណត់ច្បាស់លាស់ដល់ការចំណាយរបស់អ្នក ដើម្បីឱ្យអ្នកអាចមើលឃើញថាប្រាក់ទៅណា។ រចនាសម្ព័ន្ធបន្តិច អាចប្រែភាពច្របូកច្របល់ទៅជាការគ្រប់គ្រង។"
+      },
+      "challenge": {
+        "en": "A budget so strict that it ignores real life could lead to a big splurge when it breaks. Allow a small amount for treats.",
+        "km": "ថវិកាតឹងរ៉ឹងពេក រហូតមិនខ្វល់ពីជីវិតពិត អាចនាំទៅរកការចំណាយហួសហេតុធំ នៅពេលវាបែក។ សូមអនុញ្ញាតឱ្យមានប្រាក់តិចតួចសម្រាប់រង្វាន់។"
+      },
+      "outcome": {
+        "en": "Clear spending limits could bring a calm sense of order and control. Structure may make it easier to say no without strain.",
+        "km": "ដែនកំណត់ចំណាយច្បាស់លាស់ អាចនាំមកនូវអារម្មណ៍ស្ងប់ស្ងាត់នៃរបៀបរៀបរយ និងការគ្រប់គ្រង។ រចនាសម្ព័ន្ធ អាចធ្វើឱ្យងាយស្រួលបដិសេធ ដោយគ្មានភាពតានតឹង។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Question spending you do only because it is expected, such as following customs, brands or what others buy. Not every tradition needs to cost so much.",
+        "km": "សូមចោទសួរការចំណាយដែលអ្នកធ្វើ តែដោយសារវាត្រូវបានគេរំពឹង ដូចជាការដើរតាមទំនៀមទម្លាប់ ម៉ាក ឬអ្វីដែលអ្នកដទៃទិញ។ មិនមែនគ្រប់ប្រពៃណីត្រូវការចំណាយច្រើនបែបនេះទេ។"
+      },
+      "challenge": {
+        "en": "Feeling obliged to spend on events or gifts to meet expectations could strain your budget. Honour the occasion in a way you can afford.",
+        "km": "អារម្មណ៍ថាមានកាតព្វកិច្ចចំណាយលើព្រឹត្តិការណ៍ ឬអំណោយ ដើម្បីបំពេញការរំពឹងទុក អាចធ្វើឱ្យថវិការបស់អ្នកតឹងតែង។ សូមគោរពឱកាសនោះ តាមវិធីដែលអ្នកអាចមានលទ្ធភាព។"
+      },
+      "outcome": {
+        "en": "Keeping meaningful traditions while trimming costly extras could ease pressure. Others may follow your sensible example.",
+        "km": "ការរក្សាប្រពៃណីដែលមានអត្ថន័យ ខណៈពេលកាត់បន្ថយការចំណាយបន្ថែមដ៏ថ្លៃ អាចបន្ធូរសម្ពាធ។ អ្នកដទៃអាចដើរតាមគំរូសមហេតុផលរបស់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Look at shared spending with a partner or family and agree together on what matters most. Joint choices are easier to keep than secret ones.",
+        "km": "សូមមើលការចំណាយរួមជាមួយដៃគូ ឬគ្រួសារ ហើយយល់ព្រមជាមួយគ្នាលើអ្វីដែលសំខាន់បំផុត។ ជម្រើសរួមគ្នា ងាយរក្សាជាងជម្រើសសម្ងាត់។"
+      },
+      "challenge": {
+        "en": "Hiding purchases from someone close could create mistrust as well as debt. Be open about spending you share.",
+        "km": "ការលាក់ការទិញពីនរណាម្នាក់ដែលជិតស្និទ្ធ អាចបង្កើតការមិនទុកចិត្ត ក៏ដូចជាបំណុល។ សូមបើកចំហអំពីការចំណាយដែលអ្នកចែករំលែក។"
+      },
+      "outcome": {
+        "en": "Agreeing on shared priorities could make spending feel fair and calm. Money decisions may bring you closer rather than apart.",
+        "km": "ការយល់ព្រមលើអាទិភាពរួម អាចធ្វើឱ្យការចំណាយមានអារម្មណ៍យុត្តិធម៌ និងស្ងប់ស្ងាត់។ ការសម្រេចចិត្តប្រាក់ អាចនាំអ្នកឱ្យកាន់តែជិត ជាជាងឆ្ងាយ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Steer your spending toward a goal you care about, and let that goal help you resist distractions. Purpose makes self-control easier.",
+        "km": "សូមដឹកនាំការចំណាយរបស់អ្នក ឆ្ពោះទៅរកគោលដៅដែលអ្នកយកចិត្តទុកដាក់ ហើយឱ្យគោលដៅនោះជួយអ្នកទប់ទល់នឹងការរំខាន។ គោលបំណង ធ្វើឱ្យការគ្រប់គ្រងខ្លួនឯងងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Spending on status symbols, such as vehicles or upgrades, to look successful could undermine real progress. Ask who the purchase is really for.",
+        "km": "ការចំណាយលើនិមិត្តសញ្ញាឋានៈ ដូចជាយានជំនិះ ឬការដំឡើងកម្រិត ដើម្បីមើលទៅជោគជ័យ អាចបំផ្លាញការរីកចម្រើនពិតប្រាកដ។ សូមសួរថាការទិញនោះពិតជាសម្រាប់នរណា។"
+      },
+      "outcome": {
+        "en": "Spending aimed at a clear goal could carry you toward it faster. Discipline may feel lighter when you know why.",
+        "km": "ការចំណាយដែលតម្រង់ទៅរកគោលដៅច្បាស់លាស់ អាចនាំអ្នកឆ្ពោះទៅរកវាលឿនជាងមុន។ វិន័យ អាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលអ្នកដឹងពីមូលហេតុ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Practise patience before purchases by waiting a little and seeing if the wish remains. Gentle self-control can change spending habits for good.",
+        "km": "សូមហាត់ការអត់ធ្មត់មុនការទិញ ដោយរង់ចាំបន្តិច ហើយមើលថាតើបំណងប្រាថ្នានៅតែមានឬទេ។ ការគ្រប់គ្រងខ្លួនឯងដោយទន់ភ្លន់ អាចផ្លាស់ប្តូរទម្លាប់ចំណាយជាអចិន្ត្រៃយ៍។"
+      },
+      "challenge": {
+        "en": "Expecting to change a spending habit perfectly could make one slip feel like failure. Notice the slip, then simply pick up where you left off.",
+        "km": "ការរំពឹងថានឹងផ្លាស់ប្តូរទម្លាប់ចំណាយបានល្អឥតខ្ចោះ អាចធ្វើឱ្យការធ្វើខុសម្តងមានអារម្មណ៍ដូចជាការបរាជ័យ។ សូមកត់សម្គាល់ការធ្វើខុស បន្ទាប់មកគ្រាន់តែបន្តពីកន្លែងដែលអ្នកបានឈប់។"
+      },
+      "outcome": {
+        "en": "Steady patience could gradually reshape how you spend. Pausing before buying may become second nature rather than a struggle.",
+        "km": "ការអត់ធ្មត់ជាប់លាប់ អាចរៀបចំរបៀបដែលអ្នកចំណាយឡើងវិញបន្តិចម្តងៗ។ ការផ្អាកមុនពេលទិញ អាចក្លាយជាធម្មជាតិទីពីរ ជាជាងការតស៊ូ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Notice whether you spend more when bored, lonely or tired. Quiet reflection can reveal the feelings behind your purchases.",
+        "km": "សូមកត់សម្គាល់ថាតើអ្នកចំណាយច្រើនជាងមុន នៅពេលធុញទ្រាន់ ឯកោ ឬនឿយហត់ឬទេ។ ការឆ្លុះបញ្ចាំងស្ងប់ស្ងាត់ អាចបង្ហាញពីអារម្មណ៍នៅពីក្រោយការទិញរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Filling empty moments with online browsing could quietly lead to buying. Find low-cost ways to rest or connect instead.",
+        "km": "ការបំពេញពេលទំនេរដោយការរុករកតាមអ៊ីនធឺណិត អាចនាំទៅរកការទិញដោយស្ងាត់ៗ។ សូមរកវិធីចំណាយទាបដើម្បីសម្រាក ឬភ្ជាប់ទំនាក់ទំនងជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Understanding why you spend could help you change it at the root. Insight may lead to lasting change.",
+        "km": "ការយល់ពីមូលហេតុដែលអ្នកចំណាយ អាចជួយអ្នកផ្លាស់ប្តូរវាពីឫសគល់។ ការយល់ដឹង អាចនាំទៅរកការផ្លាស់ប្តូរស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Plan ahead for irregular costs, such as repairs, fees or festivals, so they do not catch you out. Good spending habits include expecting the unexpected.",
+        "km": "សូមធ្វើផែនការទុកជាមុនសម្រាប់ការចំណាយមិនទៀងទាត់ ដូចជាការជួសជុល ថ្លៃសេវា ឬពិធីបុណ្យ ដើម្បីកុំឱ្យវាធ្វើឱ្យអ្នកភ្ញាក់ផ្អើល។ ទម្លាប់ចំណាយល្អ រួមបញ្ចូលការរំពឹងអ្វីដែលមិនបានរំពឹងទុក។"
+      },
+      "challenge": {
+        "en": "Spending a windfall quickly because it feels like extra could waste a real opportunity. Give unexpected money a plan.",
+        "km": "ការចំណាយប្រាក់ដែលទទួលបានដោយមិនរំពឹងទុកយ៉ាងរហ័ស ព្រោះវាមានអារម្មណ៍ដូចជាប្រាក់បន្ថែម អាចខ្ជះខ្ជាយឱកាសពិតប្រាកដ។ សូមផ្តល់ផែនការដល់ប្រាក់ដែលមិនបានរំពឹងទុក។"
+      },
+      "outcome": {
+        "en": "Preparing for ups and downs could make spending smoother and less stressful. Good fortune may be put to better use.",
+        "km": "ការត្រៀមខ្លួនសម្រាប់ការឡើងចុះ អាចធ្វើឱ្យការចំណាយរលូន និងមិនសូវតានតឹង។ សំណាងល្អ អាចត្រូវបានប្រើប្រាស់កាន់តែល្អ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Be honest with yourself about spending that does not match your income. Fair, balanced choices keep you on solid ground.",
+        "km": "សូមស្មោះត្រង់ជាមួយខ្លួនឯង អំពីការចំណាយដែលមិនស្របនឹងចំណូលរបស់អ្នក។ ជម្រើសយុត្តិធម៌ និងមានតុល្យភាព រក្សាអ្នកឱ្យនៅលើដីរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Buying on credit and paying later could build obligations that catch up with you. Spend what you have rather than what you hope to have.",
+        "km": "ការទិញដោយឥណទាន ហើយបង់ពេលក្រោយ អាចកសាងកាតព្វកិច្ចដែលមានផលវិបាកមកលើអ្នក។ សូមចំណាយអ្វីដែលអ្នកមាន ជាជាងអ្វីដែលអ្នកសង្ឃឹមថានឹងមាន។"
+      },
+      "outcome": {
+        "en": "Living within your means could bring a fair, steady balance. Peace of mind may follow honest choices.",
+        "km": "ការរស់នៅក្នុងលទ្ធភាពរបស់អ្នក អាចនាំមកនូវតុល្យភាពយុត្តិធម៌ និងនឹងនរ។ សន្តិភាពផ្លូវចិត្ត អាចកើតឡើងបន្ទាប់ពីជម្រើសស្មោះត្រង់។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Look at your spending from a different angle, perhaps by imagining what you would cut if you had to. A fresh view can reveal easy changes.",
+        "km": "សូមមើលការចំណាយរបស់អ្នកពីមុំផ្សេង ប្រហែលជាដោយស្រមៃថាអ្នកនឹងកាត់អ្វី ប្រសិនបើអ្នកត្រូវតែកាត់។ ទស្សនៈថ្មី អាចបង្ហាញពីការផ្លាស់ប្តូរងាយៗ។"
+      },
+      "challenge": {
+        "en": "Holding on to something because you have already paid a lot for it could keep costs coming. Past spending is not a reason to keep spending.",
+        "km": "ការប្រកាន់ខ្ជាប់អ្វីមួយ ព្រោះអ្នកបានបង់ច្រើនរួចហើយ អាចធ្វើឱ្យការចំណាយបន្តមក។ ការចំណាយកន្លងមក មិនមែនជាហេតុផលដើម្បីបន្តចំណាយទេ។"
+      },
+      "outcome": {
+        "en": "A new perspective could make letting go of costly habits feel easy. What seemed essential may turn out to be optional.",
+        "km": "ទស្សនៈថ្មី អាចធ្វើឱ្យការលែងទម្លាប់ដ៏ថ្លៃមានអារម្មណ៍ងាយស្រួល។ អ្វីដែលហាក់ដូចជាចាំបាច់ អាចប្រែជាជម្រើស។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "End a regular expense that no longer brings you value, such as an unused membership or an old habit. Clearing it out makes room for better choices.",
+        "km": "សូមបញ្ចប់ការចំណាយទៀងទាត់ ដែលលែងនាំមកនូវតម្លៃសម្រាប់អ្នក ដូចជាសមាជិកភាពដែលមិនប្រើ ឬទម្លាប់ចាស់។ ការសម្អាតវាចេញ បើកកន្លែងសម្រាប់ជម្រើសល្អជាង។"
+      },
+      "challenge": {
+        "en": "Keeping a costly routine out of habit could quietly drain your money. Some endings are overdue.",
+        "km": "ការរក្សាទម្លាប់ដ៏ថ្លៃ ដោយសារទម្លាប់ អាចបូមប្រាក់របស់អ្នកដោយស្ងាត់ៗ។ ការបញ្ចប់ខ្លះ គឺហួសពេលហើយ។"
+      },
+      "outcome": {
+        "en": "Cutting out what drains you could change your whole financial picture. A clean break may feel liberating rather than like a loss.",
+        "km": "ការកាត់ចេញអ្វីដែលបូមកម្លាំងអ្នក អាចផ្លាស់ប្តូររូបភាពហិរញ្ញវត្ថុទាំងមូលរបស់អ្នក។ ការបំបែកស្អាត អាចមានអារម្មណ៍ដោះលែង ជាជាងដូចជាការបាត់បង់។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Aim for moderation, allowing some enjoyment while keeping spending in proportion. Balance is easier to sustain than extremes.",
+        "km": "សូមប្រាថ្នាភាពល្មម ដោយអនុញ្ញាតឱ្យមានការរីករាយខ្លះ ខណៈពេលរក្សាការចំណាយឱ្យសមាមាត្រ។ តុល្យភាព ងាយទ្រទ្រង់ជាងភាពខ្លាំងហួសហេតុ។"
+      },
+      "challenge": {
+        "en": "Treating every stretch as either strict or splurge could keep your spending in a constant swing. Aim for ordinary, steady choices most of the time.",
+        "km": "ការចាត់ទុករាល់ដំណាក់កាលថាជាការតឹងរ៉ឹង ឬការចំណាយហួសហេតុ អាចធ្វើឱ្យការចំណាយរបស់អ្នកយោលជានិច្ច។ សូមប្រាថ្នាជម្រើសធម្មតា និងនឹងនរ ភាគច្រើន។"
+      },
+      "outcome": {
+        "en": "Moderate, balanced spending could bring calm and steady progress. You may enjoy more while spending less.",
+        "km": "ការចំណាយល្មម និងមានតុល្យភាព អាចនាំមកនូវភាពស្ងប់ស្ងាត់ និងការរីកចម្រើននឹងនរ។ អ្នកអាចរីករាយបានច្រើនជាងមុន ខណៈពេលចំណាយតិចជាង។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Look honestly at any spending that feels compulsive or hard to stop, such as shopping, gaming or betting. Recognising the pull is the first step to freedom.",
+        "km": "សូមមើលដោយស្មោះត្រង់ទៅលើការចំណាយណាមួយ ដែលមានអារម្មណ៍ដូចជាការបង្ខិតបង្ខំ ឬពិបាកបញ្ឈប់ ដូចជាការទិញទំនិញ ការលេងហ្គេម ឬការភ្នាល់។ ការទទួលស្គាល់ការទាញ គឺជាជំហានដំបូងទៅរកសេរីភាព។"
+      },
+      "challenge": {
+        "en": "A spending habit that feels out of control could cause real harm. If it does, please reach out to a counsellor or support service for help.",
+        "km": "ទម្លាប់ចំណាយដែលមានអារម្មណ៍ហួសពីការគ្រប់គ្រង អាចបង្កគ្រោះថ្នាក់ពិតប្រាកដ។ ប្រសិនបើវាដូច្នេះ សូមទាក់ទងអ្នកប្រឹក្សា ឬសេវាគាំទ្រ ដើម្បីទទួលជំនួយ។"
+      },
+      "outcome": {
+        "en": "Breaking free from a compulsive habit could bring relief to both mind and money. Freedom may feel better than any purchase.",
+        "km": "ការរួចផុតពីទម្លាប់បង្ខិតបង្ខំ អាចនាំមកនូវការធូរស្រាលដល់ទាំងចិត្ត និងប្រាក់។ សេរីភាព អាចមានអារម្មណ៍ល្អជាងការទិញណាមួយ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "If a sudden expense has upset your plans, look at which habits made you vulnerable to it. A shock can show where to build a buffer.",
+        "km": "ប្រសិនបើការចំណាយភ្លាមៗបានរំខានដល់ផែនការរបស់អ្នក សូមមើលថាទម្លាប់ណាដែលធ្វើឱ្យអ្នកងាយរងគ្រោះ។ ការភ្ញាក់ផ្អើល អាចបង្ហាញពីកន្លែងដែលត្រូវកសាងទុនបម្រុង។"
+      },
+      "challenge": {
+        "en": "Spending to feel better after a setback could deepen the problem. Pause before buying when you are shaken.",
+        "km": "ការចំណាយដើម្បីមានអារម្មណ៍ល្អជាងមុន ក្រោយការបរាជ័យ អាចធ្វើឱ្យបញ្ហាកាន់តែជ្រៅ។ សូមផ្អាកមុនពេលទិញ នៅពេលអ្នករង្គោះរង្គើ។"
+      },
+      "outcome": {
+        "en": "Rebuilding after a shock could lead to habits that protect you better. A setback may become a turning point.",
+        "km": "ការកសាងឡើងវិញ ក្រោយការភ្ញាក់ផ្អើល អាចនាំទៅរកទម្លាប់ដែលការពារអ្នកបានល្អជាង។ ការបរាជ័យ អាចក្លាយជាចំណុចបត់។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Replace hopeful spending on luck, such as lottery tickets or get-rich schemes, with small, steady steps. Hope works best when backed by habit.",
+        "km": "សូមជំនួសការចំណាយដោយក្តីសង្ឃឹមលើសំណាង ដូចជាសំបុត្រឆ្នោត ឬគម្រោងរកប្រាក់រហ័ស ដោយជំហានតូចៗ និងនឹងនរ។ ក្តីសង្ឃឹមដំណើរការល្អបំផុត នៅពេលមានទម្លាប់គាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Expecting a lucky break to fix spending problems could keep old habits in place. Small changes are more reliable than luck.",
+        "km": "ការរំពឹងសំណាងដើម្បីជួសជុលបញ្ហាចំណាយ អាចរក្សាទម្លាប់ចាស់ឱ្យនៅដដែល។ ការផ្លាស់ប្តូរតូចៗ គួរឱ្យទុកចិត្តជាងសំណាង។"
+      },
+      "outcome": {
+        "en": "Steady, hopeful changes could gradually rebuild your confidence with money. Renewal may come quietly, one sensible choice at a time.",
+        "km": "ការផ្លាស់ប្តូរនឹងនរ និងមានក្តីសង្ឃឹម អាចកសាងទំនុកចិត្តរបស់អ្នកជាមួយប្រាក់ឡើងវិញបន្តិចម្តងៗ។ ការកើតឡើងវិញ អាចមកដល់ដោយស្ងាត់ៗ ម្តងមួយជម្រើសសមហេតុផល។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Be wary of online deals, flash sales and offers that feel urgent or unclear. Clarity about what you are really buying protects your money.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបញ្ចុះតម្លៃតាមអ៊ីនធឺណិត ការលក់រហ័ស និងការផ្តល់ជូនដែលមានអារម្មណ៍បន្ទាន់ ឬមិនច្បាស់លាស់។ ភាពច្បាស់លាស់អំពីអ្វីដែលអ្នកពិតជាកំពុងទិញ ការពារប្រាក់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Vague or misleading offers could lead you to spend on something that is not what it seems. Read carefully before you pay.",
+        "km": "ការផ្តល់ជូនមិនច្បាស់ ឬបំភាន់ អាចនាំអ្នកឱ្យចំណាយលើអ្វីមួយដែលមិនដូចអ្វីដែលវាហាក់ដូចជា។ សូមអានដោយប្រុងប្រយ័ត្ន មុនពេលអ្នកបង់។"
+      },
+      "outcome": {
+        "en": "Seeing offers clearly could protect you from costly mistakes. Wiser spending may follow once the fog of urgency lifts.",
+        "km": "ការមើលឃើញការផ្តល់ជូនយ៉ាងច្បាស់ អាចការពារអ្នកពីកំហុសដែលមានតម្លៃខ្ពស់។ ការចំណាយឆ្លាតវៃជាងមុន អាចកើតឡើង នៅពេលអ័ព្ទនៃភាពបន្ទាន់ស្រឡះ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Keep celebrations joyful but sensible, enjoying good times without overspending. Happiness does not need to be expensive.",
+        "km": "សូមរក្សាការអបអរឱ្យរីករាយ តែសមហេតុផល ដោយរីករាយនឹងពេលវេលាល្អ ដោយមិនចំណាយហួសហេតុ។ សុភមង្គល មិនចាំបាច់ថ្លៃទេ។"
+      },
+      "challenge": {
+        "en": "Good fortune could tempt you to spend as if it will always last. Keep some of your gains for leaner stretches.",
+        "km": "សំណាងល្អ អាចល្បួងអ្នកឱ្យចំណាយដូចជាវានឹងស្ថិតស្ថេរជានិច្ច។ សូមរក្សាផលចំណេញខ្លះរបស់អ្នក សម្រាប់ដំណាក់កាលខ្វះខាត។"
+      },
+      "outcome": {
+        "en": "Joyful but sensible spending could make good times last longer. Success may feel brighter when it is secure.",
+        "km": "ការចំណាយរីករាយ តែសមហេតុផល អាចធ្វើឱ្យពេលវេលាល្អស្ថិតស្ថេរយូរជាងមុន។ ភាពជោគជ័យ អាចមានអារម្មណ៍ភ្លឺស្វាងជាងមុន នៅពេលវាមានសុវត្ថិភាព។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Review your recent spending honestly, noting what you regret and what you are glad of. An honest audit can be a wake-up call.",
+        "km": "សូមពិនិត្យការចំណាយថ្មីៗរបស់អ្នកដោយស្មោះត្រង់ ដោយកត់សម្គាល់អ្វីដែលអ្នកសោកស្តាយ និងអ្វីដែលអ្នករីករាយ។ ការត្រួតពិនិត្យដោយស្មោះត្រង់ អាចជាការដាស់តឿន។"
+      },
+      "challenge": {
+        "en": "Guilt about past spending could make you avoid looking at it. Use the review to learn, not to punish yourself.",
+        "km": "អារម្មណ៍ខុសអំពីការចំណាយកន្លងមក អាចធ្វើឱ្យអ្នកជៀសវាងការមើលវា។ សូមប្រើការពិនិត្យដើម្បីរៀន មិនមែនដើម្បីដាក់ទោសខ្លួនឯងទេ។"
+      },
+      "outcome": {
+        "en": "An honest review could inspire lasting change. You may feel renewed and much clearer about what deserves your money.",
+        "km": "ការពិនិត្យដោយស្មោះត្រង់ អាចបំផុសការផ្លាស់ប្តូរស្ថិតស្ថេរ។ អ្នកអាចមានអារម្មណ៍ថ្មី និងច្បាស់លាស់ជាងមុនច្រើន អំពីអ្វីដែលសមនឹងប្រាក់របស់អ្នក។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Finish paying off something before taking on anything new. Completing one commitment frees money and energy.",
+        "km": "សូមបង់អ្វីមួយឱ្យរួច មុនពេលទទួលយកអ្វីថ្មី។ ការបញ្ចប់ការប្តេជ្ញាចិត្តមួយ ដោះលែងប្រាក់ និងថាមពល។"
+      },
+      "challenge": {
+        "en": "Starting new purchases before finishing old commitments could leave you stretched. Close one chapter before opening another.",
+        "km": "ការចាប់ផ្តើមការទិញថ្មី មុនពេលបញ្ចប់ការប្តេជ្ញាចិត្តចាស់ អាចធ្វើឱ្យអ្នកតឹងតែង។ សូមបិទជំពូកមួយ មុនពេលបើកជំពូកមួយទៀត។"
+      },
+      "outcome": {
+        "en": "Completing a financial commitment could bring a real sense of freedom. A cleaner slate may make better habits easier.",
+        "km": "ការបញ្ចប់ការប្តេជ្ញាចិត្តហិរញ្ញវត្ថុ អាចនាំមកនូវអារម្មណ៍សេរីភាពពិតប្រាកដ។ ទំព័រស្អាតជាងមុន អាចធ្វើឱ្យទម្លាប់ល្អងាយស្រួលជាង។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Watch the urge to buy everything needed for a new hobby or project before you know it will last. Start with the basics and add later if it sticks.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការជំរុញឱ្យទិញអ្វីៗទាំងអស់ដែលត្រូវការសម្រាប់ចំណង់ចំណូលចិត្ត ឬគម្រោងថ្មី មុនពេលអ្នកដឹងថាវានឹងស្ថិតស្ថេរ។ សូមចាប់ផ្តើមជាមួយមូលដ្ឋាន ហើយបន្ថែមពេលក្រោយ ប្រសិនបើវាជាប់។"
+      },
+      "challenge": {
+        "en": "Enthusiasm for a new idea could lead to spending that fades with the excitement. Let interest prove itself before investing heavily.",
+        "km": "ភាពរំភើបចំពោះគំនិតថ្មី អាចនាំទៅរកការចំណាយដែលរសាត់បាត់ជាមួយភាពរំភើប។ សូមឱ្យចំណាប់អារម្មណ៍បង្ហាញខ្លួនវា មុនពេលវិនិយោគច្រើន។"
+      },
+      "outcome": {
+        "en": "Starting small could let you enjoy new interests without regret. Passion may grow without draining your wallet.",
+        "km": "ការចាប់ផ្តើមតិចៗ អាចឱ្យអ្នករីករាយនឹងចំណាប់អារម្មណ៍ថ្មី ដោយគ្មានការសោកស្តាយ។ ចំណង់ចំណូលចិត្ត អាចរីកចម្រើន ដោយមិនបូមកាបូបរបស់អ្នក។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Plan larger purchases ahead rather than deciding on the spot. Comparing options calmly often leads to better value.",
+        "km": "សូមធ្វើផែនការការទិញធំៗទុកជាមុន ជាជាងសម្រេចចិត្តភ្លាមៗនៅនឹងកន្លែង។ ការប្រៀបធៀបជម្រើសដោយស្ងប់ស្ងាត់ ជារឿយៗនាំទៅរកតម្លៃល្អជាង។"
+      },
+      "challenge": {
+        "en": "Endlessly researching purchases could become its own distraction or excuse to browse. Decide what you need, then stop looking.",
+        "km": "ការស្រាវជ្រាវការទិញគ្មានទីបញ្ចប់ អាចក្លាយជាការរំខាន ឬលេសដើម្បីរុករក។ សូមសម្រេចថាអ្នកត្រូវការអ្វី បន្ទាប់មកឈប់មើល។"
+      },
+      "outcome": {
+        "en": "Planned spending could leave more room for what truly matters. Wider choices may open once impulse is removed.",
+        "km": "ការចំណាយដែលមានផែនការ អាចទុកកន្លែងកាន់តែច្រើនសម្រាប់អ្វីដែលពិតជាសំខាន់។ ជម្រើសទូលាយជាងមុន អាចបើកឡើង នៅពេលការជំរុញភ្លាមៗត្រូវបានដកចេញ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Keep an eye on orders from far away, such as online shopping with shipping and extra fees. Hidden costs often travel with the parcel.",
+        "km": "សូមតាមដានការបញ្ជាទិញពីកន្លែងឆ្ងាយ ដូចជាការទិញតាមអ៊ីនធឺណិតដែលមានថ្លៃដឹកជញ្ជូន និងថ្លៃបន្ថែម។ ការចំណាយលាក់កំបាំង ជារឿយៗធ្វើដំណើរជាមួយកញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Waiting for a delivery could make you forget what it really cost. Check the full price, including fees, before you order.",
+        "km": "ការរង់ចាំការដឹកជញ្ជូន អាចធ្វើឱ្យអ្នកភ្លេចថាវាពិតជាចំណាយប៉ុន្មាន។ សូមពិនិត្យតម្លៃពេញលេញ រួមទាំងថ្លៃសេវា មុនពេលអ្នកបញ្ជាទិញ។"
+      },
+      "outcome": {
+        "en": "Being aware of the full cost could make your spending more deliberate. Fewer surprises may arrive at the door.",
+        "km": "ការដឹងពីការចំណាយពេញលេញ អាចធ្វើឱ្យការចំណាយរបស់អ្នកមានចេតនាជាងមុន។ ការភ្ញាក់ផ្អើលតិចជាងមុន អាចមកដល់មាត់ទ្វារ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Celebrate milestones and gatherings in ways that feel warm without costing too much. Joy can come from people more than spending.",
+        "km": "សូមអបអរព្រឹត្តិការណ៍សំខាន់ និងការជួបជុំ តាមវិធីដែលមានអារម្មណ៍កក់ក្តៅ ដោយមិនចំណាយច្រើនពេក។ សេចក្តីរីករាយ អាចមកពីមនុស្ស ច្រើនជាងការចំណាយ។"
+      },
+      "challenge": {
+        "en": "Spending heavily on parties or home improvements to mark good moments could strain your budget. Mark them modestly.",
+        "km": "ការចំណាយច្រើនលើពិធីជប់លៀង ឬការកែលម្អផ្ទះ ដើម្បីកត់សម្គាល់ពេលវេលាល្អ អាចធ្វើឱ្យថវិការបស់អ្នកតឹងតែង។ សូមកត់សម្គាល់វាដោយសមរម្យ។"
+      },
+      "outcome": {
+        "en": "Simple celebrations could feel just as joyful while protecting your stability. Good times may be easier to enjoy without regret.",
+        "km": "ការអបអរសាមញ្ញ អាចមានអារម្មណ៍រីករាយដដែល ខណៈពេលការពារស្ថិរភាពរបស់អ្នក។ ពេលវេលាល្អ អាចងាយរីករាយជាងមុន ដោយគ្មានការសោកស្តាយ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Notice where you spend to keep up with friends, neighbours or colleagues. Competing through purchases rarely leaves anyone ahead.",
+        "km": "សូមកត់សម្គាល់កន្លែងដែលអ្នកចំណាយ ដើម្បីតាមឱ្យទាន់មិត្តភក្តិ អ្នកជិតខាង ឬសហការី។ ការប្រកួតប្រជែងតាមរយៈការទិញ កម្រធ្វើឱ្យនរណាម្នាក់នៅមុខណាស់។"
+      },
+      "challenge": {
+        "en": "Pressure to match others' spending could lead you into costs you do not need. Your choices do not have to mirror theirs.",
+        "km": "សម្ពាធដើម្បីផ្គូផ្គងការចំណាយរបស់អ្នកដទៃ អាចនាំអ្នកចូលទៅក្នុងការចំណាយដែលអ្នកមិនត្រូវការ។ ជម្រើសរបស់អ្នក មិនចាំបាច់ឆ្លុះបញ្ចាំងពីជម្រើសរបស់ពួកគេទេ។"
+      },
+      "outcome": {
+        "en": "Stepping out of the competition could leave you calmer and better off. Your own priorities may feel clearer.",
+        "km": "ការដើរចេញពីការប្រកួតប្រជែង អាចធ្វើឱ្យអ្នកស្ងប់ស្ងាត់ និងប្រសើរជាងមុន។ អាទិភាពរបស់អ្នកផ្ទាល់ អាចមានអារម្មណ៍ច្បាស់លាស់ជាងមុន។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Watch how you reward yourself after success, so a treat does not become a habit of spending. Recognition can be enjoyed without a big bill.",
+        "km": "សូមតាមដានរបៀបដែលអ្នកផ្តល់រង្វាន់ដល់ខ្លួនឯង ក្រោយភាពជោគជ័យ ដើម្បីកុំឱ្យរង្វាន់ក្លាយជាទម្លាប់ចំណាយ។ ការទទួលស្គាល់ អាចរីករាយបាន ដោយគ្មានវិក្កយបត្រធំ។"
+      },
+      "challenge": {
+        "en": "Buying things to show how well you are doing could undo the progress you are proud of. Let success show quietly.",
+        "km": "ការទិញរបស់ដើម្បីបង្ហាញថាអ្នកកំពុងធ្វើបានល្អប៉ុណ្ណា អាចធ្វើឱ្យការរីកចម្រើនដែលអ្នកមានមោទនភាពត្រឡប់ក្រោយ។ សូមឱ្យភាពជោគជ័យបង្ហាញដោយស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Celebrating wisely could help success last and grow. Pride may come from what you keep, not what you show.",
+        "km": "ការអបអរដោយប្រាជ្ញា អាចជួយឱ្យភាពជោគជ័យស្ថិតស្ថេរ និងរីកចម្រើន។ មោទនភាព អាចមកពីអ្វីដែលអ្នករក្សា មិនមែនអ្វីដែលអ្នកបង្ហាញទេ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Stand firm against sales pressure, persuasive sellers and pushy offers. A polite but clear no is a powerful money habit.",
+        "km": "សូមឈរមាំទល់នឹងសម្ពាធលក់ អ្នកលក់ដែលបញ្ចុះបញ្ចូល និងការផ្តល់ជូនដែលរុញច្រាន។ ការបដិសេធដោយសុភាព តែច្បាស់លាស់ គឺជាទម្លាប់ប្រាក់ដ៏មានឥទ្ធិពល។"
+      },
+      "challenge": {
+        "en": "Feeling you must defend every choice to others could make you buy just to end the conversation. You do not owe anyone a purchase.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែការពាររាល់ជម្រើសចំពោះអ្នកដទៃ អាចធ្វើឱ្យអ្នកទិញ តែដើម្បីបញ្ចប់ការសន្ទនា។ អ្នកមិនជំពាក់ការទិញនរណាម្នាក់ទេ។"
+      },
+      "outcome": {
+        "en": "Holding your ground could protect your money from unwanted spending. Confidence may grow each time you say no.",
+        "km": "ការឈរលើជំហររបស់អ្នក អាចការពារប្រាក់របស់អ្នកពីការចំណាយដែលមិនចង់បាន។ ទំនុកចិត្តអាចកើនឡើង រាល់ពេលដែលអ្នកបដិសេធ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Slow down fast online checkouts and one-click buying, which make spending almost too easy. Adding a small step can protect your budget.",
+        "km": "សូមបន្ថយល្បឿនការទូទាត់តាមអ៊ីនធឺណិតរហ័ស និងការទិញដោយចុចតែម្តង ដែលធ្វើឱ្យការចំណាយស្ទើរតែងាយស្រួលពេក។ ការបន្ថែមជំហានតូចមួយ អាចការពារថវិការបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Making quick buying decisions could lead to regret and returns. Speed is the friend of impulse, not of good value.",
+        "km": "ការធ្វើការសម្រេចចិត្តទិញរហ័ស អាចនាំឱ្យសោកស្តាយ និងការប្រគល់ត្រឡប់។ ល្បឿនគឺជាមិត្តរបស់ការជំរុញភ្លាមៗ មិនមែនរបស់តម្លៃល្អទេ។"
+      },
+      "outcome": {
+        "en": "Slowing down could noticeably reduce wasted spending. Better decisions may come easily once a pause becomes part of buying.",
+        "km": "ការបន្ថយល្បឿន អាចកាត់បន្ថយការចំណាយដែលខ្ជះខ្ជាយគួរឱ្យកត់សម្គាល់។ ការសម្រេចចិត្តល្អជាងមុន អាចមកដល់យ៉ាងងាយ នៅពេលការផ្អាកក្លាយជាផ្នែកមួយនៃការទិញ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Notice if you spend more when you are worn out, buying convenience to cope. Rest can be a cheaper fix than spending.",
+        "km": "សូមកត់សម្គាល់ ប្រសិនបើអ្នកចំណាយច្រើនជាងមុន នៅពេលអ្នកអស់កម្លាំង ដោយទិញភាពងាយស្រួល ដើម្បីដោះស្រាយ។ ការសម្រាក អាចជាដំណោះស្រាយថោកជាងការចំណាយ។"
+      },
+      "challenge": {
+        "en": "Tiredness could wear down your resolve and lead to costly shortcuts. Plan easy, low-cost options for tired moments.",
+        "km": "ភាពនឿយហត់ អាចធ្វើឱ្យការប្តេជ្ញាចិត្តរបស់អ្នកចុះខ្សោយ ហើយនាំទៅរកផ្លូវកាត់ដ៏ថ្លៃ។ សូមរៀបចំជម្រើសងាយស្រួល និងចំណាយទាប សម្រាប់ពេលនឿយហត់។"
+      },
+      "outcome": {
+        "en": "Planning for tired moments could protect your budget. Resilience may hold even when energy is low.",
+        "km": "ការធ្វើផែនការសម្រាប់ពេលនឿយហត់ អាចការពារថវិការបស់អ្នក។ ភាពធន់ អាចនៅនឹងនរ សូម្បីតែពេលថាមពលទាប។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Look at how much you spend on others or on responsibilities you have taken on, and ask what can be shared. Carrying every cost alone is not sustainable.",
+        "km": "សូមមើលថាអ្នកចំណាយប៉ុន្មានលើអ្នកដទៃ ឬលើការទទួលខុសត្រូវដែលអ្នកបានទទួលយក ហើយសួរថាអ្វីដែលអាចចែករំលែកបាន។ ការលីការចំណាយគ្រប់យ៉ាងម្នាក់ឯង មិនអាចទ្រទ្រង់បានទេ។"
+      },
+      "challenge": {
+        "en": "Paying for everyone out of duty could leave nothing for your own needs. It is fair to ask others to contribute.",
+        "km": "ការបង់សម្រាប់មនុស្សគ្រប់គ្នា ដោយសារកាតព្វកិច្ច អាចមិនទុកអ្វីសម្រាប់តម្រូវការរបស់អ្នកផ្ទាល់។ វាយុត្តិធម៌ក្នុងការស្នើឱ្យអ្នកដទៃរួមចំណែក។"
+      },
+      "outcome": {
+        "en": "Sharing costs fairly could lighten your load and free up money. Relief may come from simply asking.",
+        "km": "ការចែករំលែកការចំណាយដោយយុត្តិធម៌ អាចបន្ធូរបន្ទុករបស់អ្នក និងដោះលែងប្រាក់។ ការធូរស្រាល អាចមកពីការគ្រាន់តែសួរ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Be curious about trends and new products without feeling you must buy them. Looking is free; owning is not.",
+        "km": "សូមចង់ដឹងចង់ឃើញអំពីនិន្នាការ និងផលិតផលថ្មី ដោយមិនមានអារម្មណ៍ថាអ្នកត្រូវតែទិញវា។ ការមើលគឺឥតគិតថ្លៃ ការមានគឺមិនមែនទេ។"
+      },
+      "challenge": {
+        "en": "Chasing the latest thing could keep your spending high and your satisfaction short-lived. Ask if the old one still works.",
+        "km": "ការដេញតាមរបស់ចុងក្រោយបំផុត អាចរក្សាការចំណាយរបស់អ្នកឱ្យខ្ពស់ ហើយការពេញចិត្តរបស់អ្នកខ្លី។ សូមសួរថាតើរបស់ចាស់នៅតែដំណើរការឬទេ។"
+      },
+      "outcome": {
+        "en": "Enjoying trends without buying into all of them could save a surprising amount. Curiosity may stay fun and affordable.",
+        "km": "ការរីករាយនឹងនិន្នាការ ដោយមិនទិញទាំងអស់ អាចសន្សំបានច្រើនគួរឱ្យភ្ញាក់ផ្អើល។ ការចង់ដឹងចង់ឃើញ អាចនៅតែសប្បាយ និងមានលទ្ធភាព។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Pause before big, impulsive purchases, especially when you feel restless or excited. A cooling-off period can prevent costly regret.",
+        "km": "សូមផ្អាកមុនការទិញធំៗតាមចិត្តភ្លាមៗ ជាពិសេសនៅពេលអ្នកមានអារម្មណ៍មិនស្ងប់ ឬរំភើប។ រយៈពេលធ្វើឱ្យចិត្តត្រជាក់ អាចការពារការសោកស្តាយដ៏ថ្លៃ។"
+      },
+      "challenge": {
+        "en": "Acting on a sudden urge to buy could leave you with something you regret. Give big decisions a cooling-off pause first.",
+        "km": "ការធ្វើសកម្មភាពតាមការជំរុញភ្លាមៗឱ្យទិញ អាចធ្វើឱ្យអ្នកមានរបស់ដែលអ្នកសោកស្តាយ។ សូមផ្តល់ការផ្អាកឱ្យចិត្តត្រជាក់ដល់ការសម្រេចចិត្តធំៗជាមុន។"
+      },
+      "outcome": {
+        "en": "Taking a breath before big purchases could protect your finances. Energy may go into better choices.",
+        "km": "ការដកដង្ហើម មុនការទិញធំៗ អាចការពារហិរញ្ញវត្ថុរបស់អ្នក។ ថាមពល អាចទៅលើជម្រើសល្អជាង។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Enjoy being generous and hosting others, but set a comfortable limit before you start. Warmth does not have to be expensive.",
+        "km": "សូមរីករាយនឹងការមានចិត្តទូលាយ និងការទទួលភ្ញៀវ តែកំណត់ដែនកំណត់សុខស្រួលមួយ មុនពេលអ្នកចាប់ផ្តើម។ ភាពកក់ក្តៅ មិនចាំបាច់ថ្លៃទេ។"
+      },
+      "challenge": {
+        "en": "Always picking up the bill could quietly drain your money. Let others share the cost sometimes.",
+        "km": "ការបង់វិក្កយបត្រជានិច្ច អាចបូមប្រាក់របស់អ្នកដោយស្ងាត់ៗ។ សូមឱ្យអ្នកដទៃចែករំលែកការចំណាយម្តងម្កាល។"
+      },
+      "outcome": {
+        "en": "Generous but sensible spending could keep both friendships and finances healthy. Hospitality may stay a pleasure.",
+        "km": "ការចំណាយដោយចិត្តទូលាយ តែសមហេតុផល អាចរក្សាទាំងមិត្តភាព និងហិរញ្ញវត្ថុឱ្យមានសុខភាពល្អ។ បដិសណ្ឋារកិច្ច អាចនៅតែជាសេចក្តីរីករាយ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Think carefully before committing to large purchases or ventures that require ongoing costs. Long-term commitments deserve long-term thinking.",
+        "km": "សូមគិតដោយប្រុងប្រយ័ត្ន មុនពេលប្តេជ្ញាចិត្តលើការទិញធំៗ ឬគម្រោងដែលត្រូវការការចំណាយបន្ត។ ការប្តេជ្ញាចិត្តរយៈពេលវែង សមនឹងការគិតរយៈពេលវែង។"
+      },
+      "challenge": {
+        "en": "Big plans could hide small running costs that add up. Look at the total cost over time, not just the price.",
+        "km": "ផែនការធំៗ អាចលាក់ការចំណាយដំណើរការតូចៗ ដែលបូកបញ្ចូលគ្នា។ សូមមើលការចំណាយសរុបតាមរយៈពេល មិនមែនត្រឹមតែតម្លៃទេ។"
+      },
+      "outcome": {
+        "en": "Thoughtful big decisions could build lasting value rather than lasting costs. Vision combined with care may serve you well.",
+        "km": "ការសម្រេចចិត្តធំៗដោយគិតគូរ អាចកសាងតម្លៃស្ថិតស្ថេរ ជាជាងការចំណាយស្ថិតស្ថេរ។ ចក្ខុវិស័យ រួមជាមួយការប្រុងប្រយ័ត្ន អាចមានប្រយោជន៍សម្រាប់អ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Notice when you spend to lift your mood, and look for other ways to feel good that cost little. Emotional spending is common and changeable.",
+        "km": "សូមកត់សម្គាល់ពេលដែលអ្នកចំណាយ ដើម្បីលើកអារម្មណ៍ ហើយរកវិធីផ្សេងដើម្បីមានអារម្មណ៍ល្អ ដែលចំណាយតិច។ ការចំណាយតាមអារម្មណ៍ គឺជារឿងធម្មតា ហើយអាចផ្លាស់ប្តូរបាន។"
+      },
+      "challenge": {
+        "en": "Using shopping to fill an emotional gap could leave both the gap and the bill. Find comfort in people and activities instead.",
+        "km": "ការប្រើការទិញទំនិញ ដើម្បីបំពេញចន្លោះផ្លូវអារម្មណ៍ អាចបន្សល់ទាំងចន្លោះ និងវិក្កយបត្រ។ សូមរកការលួងលោមក្នុងមនុស្ស និងសកម្មភាពជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "A kinder relationship with your feelings could reduce emotional spending. Contentment may come from within rather than from a shop.",
+        "km": "ទំនាក់ទំនងសប្បុរសជាងមុនជាមួយអារម្មណ៍របស់អ្នក អាចកាត់បន្ថយការចំណាយតាមអារម្មណ៍។ ការពេញចិត្ត អាចមកពីខាងក្នុង ជាជាងពីហាង។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Talk with a partner or close friend about spending habits you both want to change. Encouraging each other makes change easier.",
+        "km": "សូមនិយាយជាមួយដៃគូ ឬមិត្តជិតស្និទ្ធ អំពីទម្លាប់ចំណាយដែលអ្នកទាំងពីរចង់ផ្លាស់ប្តូរ។ ការលើកទឹកចិត្តគ្នាទៅវិញទៅមក ធ្វើឱ្យការផ្លាស់ប្តូរងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Spending to please a partner or keep the peace could strain your budget and the relationship. Agree on limits together.",
+        "km": "ការចំណាយដើម្បីផ្គាប់ចិត្តដៃគូ ឬរក្សាសន្តិភាព អាចធ្វើឱ្យថវិការបស់អ្នក និងទំនាក់ទំនងតានតឹង។ សូមយល់ព្រមលើដែនកំណត់ជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "Shared goals could make spending changes feel like teamwork rather than sacrifice. You may both benefit and feel closer for it.",
+        "km": "គោលដៅរួម អាចធ្វើឱ្យការផ្លាស់ប្តូរការចំណាយមានអារម្មណ៍ដូចជាការងារជាក្រុម ជាជាងការលះបង់។ អ្នកទាំងពីរអាចទទួលបានប្រយោជន៍ ហើយមានអារម្មណ៍ជិតស្និទ្ធជាងមុន។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Look at how much social outings, gifts and celebrations cost, and suggest fun that is cheaper. Good friends will understand.",
+        "km": "សូមមើលថាការចេញក្រៅជាមួយមិត្តភក្តិ អំណោយ និងការអបអរ ចំណាយប៉ុន្មាន ហើយស្នើភាពសប្បាយដែលថោកជាង។ មិត្តល្អនឹងយល់។"
+      },
+      "challenge": {
+        "en": "Saying yes to every outing could quietly empty your wallet. It is fine to join some and skip others.",
+        "km": "ការយល់ព្រមចំពោះរាល់ការចេញក្រៅ អាចធ្វើឱ្យកាបូបរបស់អ្នកទទេដោយស្ងាត់ៗ។ វាជារឿងធម្មតាក្នុងការចូលរួមខ្លះ ហើយរំលងខ្លះ។"
+      },
+      "outcome": {
+        "en": "Cheaper ways to enjoy friends could keep connection strong without strain. Shared fun may cost less.",
+        "km": "វិធីថោកជាងក្នុងការរីករាយជាមួយមិត្តភក្តិ អាចរក្សាទំនាក់ទំនងឱ្យរឹងមាំ ដោយគ្មានភាពតានតឹង។ ភាពសប្បាយរួមគ្នា អាចចំណាយតិចជាង។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Ask whether some spending comes from boredom or dissatisfaction rather than real need. Noticing the pattern can help you change it.",
+        "km": "សូមសួរថាតើការចំណាយខ្លះ មកពីការធុញទ្រាន់ ឬការមិនពេញចិត្ត ជាជាងតម្រូវការពិតប្រាកដឬទេ។ ការកត់សម្គាល់លំនាំ អាចជួយអ្នកផ្លាស់ប្តូរវា។"
+      },
+      "challenge": {
+        "en": "Buying to escape a flat mood could become a habit. Look for free ways to refresh your energy.",
+        "km": "ការទិញដើម្បីគេចពីអារម្មណ៍រាបស្មើ អាចក្លាយជាទម្លាប់។ សូមរកវិធីឥតគិតថ្លៃដើម្បីធ្វើឱ្យថាមពលរបស់អ្នកស្រស់ស្រាយ។"
+      },
+      "outcome": {
+        "en": "Finding joy in what you already have could reduce the urge to buy. Appreciation may grow.",
+        "km": "ការរកសេចក្តីរីករាយក្នុងអ្វីដែលអ្នកមានរួចហើយ អាចកាត់បន្ថយការជំរុញឱ្យទិញ។ ការកោតសរសើរ អាចកើនឡើង។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "If a loss or disappointment has led to comfort spending, acknowledge it gently. Healing the feeling can heal the habit.",
+        "km": "ប្រសិនបើការបាត់បង់ ឬការខកចិត្ត បាននាំទៅរកការចំណាយដើម្បីលួងលោម សូមទទួលស្គាល់វាដោយទន់ភ្លន់។ ការព្យាបាលអារម្មណ៍ អាចព្យាបាលទម្លាប់។"
+      },
+      "challenge": {
+        "en": "Spending to numb sadness could deepen money worries. Reach out to someone you trust instead of reaching for your wallet.",
+        "km": "ការចំណាយដើម្បីធ្វើឱ្យភាពសោកសៅស្ពឹក អាចធ្វើឱ្យការព្រួយបារម្ភអំពីប្រាក់កាន់តែជ្រៅ។ សូមទាក់ទងនរណាម្នាក់ដែលអ្នកទុកចិត្ត ជំនួសឱ្យការលូកដៃរកកាបូប។"
+      },
+      "outcome": {
+        "en": "Healing could bring calmer, more mindful spending. What remains may begin to feel like enough, and that feeling may last.",
+        "km": "ការព្យាបាល អាចនាំមកនូវការចំណាយស្ងប់ស្ងាត់ និងដឹងខ្លួនជាងមុន។ អ្វីដែលនៅសល់ អាចចាប់ផ្តើមមានអារម្មណ៍គ្រប់គ្រាន់ ហើយអារម្មណ៍នោះអាចស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Notice spending driven by nostalgia, such as recreating past experiences or buying things that remind you of better times. Memories can be enjoyed for free.",
+        "km": "សូមកត់សម្គាល់ការចំណាយដែលដឹកនាំដោយការនឹករលឹក ដូចជាការបង្កើតបទពិសោធន៍កន្លងមកឡើងវិញ ឬការទិញរបស់ដែលរំលឹកពីគ្រាល្អជាង។ ការចងចាំ អាចរីករាយដោយឥតគិតថ្លៃ។"
+      },
+      "challenge": {
+        "en": "Holding on to old spending habits from easier times could strain your current budget. Adjust to the situation you are in.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ចំណាយចាស់ ពីគ្រាងាយស្រួលជាង អាចធ្វើឱ្យថវិការបស់អ្នកតឹងតែង។ សូមសម្របខ្លួនទៅនឹងស្ថានភាពដែលអ្នកនៅ។"
+      },
+      "outcome": {
+        "en": "Simple pleasures could bring as much joy as costly ones. Kindness and memories may be enough.",
+        "km": "សេចក្តីរីករាយសាមញ្ញ អាចនាំមកនូវសេចក្តីរីករាយដូចរបស់ថ្លៃៗដែរ។ សេចក្តីសប្បុរស និងការចងចាំ អាចគ្រប់គ្រាន់។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Narrow down wish lists and tempting options to what you truly need or love. Too many choices can lead to buying more than you meant.",
+        "km": "សូមបង្រួមបញ្ជីបំណងប្រាថ្នា និងជម្រើសគួរឱ្យល្បួង ឱ្យនៅតែអ្វីដែលអ្នកពិតជាត្រូវការ ឬស្រឡាញ់។ ជម្រើសច្រើនពេក អាចនាំទៅរកការទិញច្រើនជាងអ្វីដែលអ្នកមានបំណង។"
+      },
+      "challenge": {
+        "en": "Dreaming about a lifestyle you cannot afford could lead to spending beyond your means. Enjoy dreams without buying into them.",
+        "km": "ការសុបិនពីរបៀបរស់នៅដែលអ្នកមិនអាចមានលទ្ធភាព អាចនាំទៅរកការចំណាយលើសលទ្ធភាព។ សូមរីករាយនឹងសុបិន ដោយមិនទិញចូលក្នុងវា។"
+      },
+      "outcome": {
+        "en": "Focusing on what you truly want could make spending more satisfying. Fewer, better choices may follow.",
+        "km": "ការផ្តោតលើអ្វីដែលអ្នកពិតជាចង់បាន អាចធ្វើឱ្យការចំណាយពេញចិត្តជាងមុន។ ជម្រើសតិចជាង តែល្អជាង អាចកើតឡើងបន្ទាប់។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Walk away from spending that no longer brings real satisfaction, even if it was once enjoyable. Letting go of a habit can feel freeing.",
+        "km": "សូមដើរចេញពីការចំណាយដែលលែងនាំមកនូវការពេញចិត្តពិតប្រាកដ ទោះបីវាធ្លាប់រីករាយក៏ដោយ។ ការលែងទម្លាប់មួយ អាចមានអារម្មណ៍សេរី។"
+      },
+      "challenge": {
+        "en": "Continuing a habit because it feels familiar could keep money flowing out for little return. Ask whether it still serves you.",
+        "km": "ការបន្តទម្លាប់មួយ ព្រោះវាមានអារម្មណ៍ធ្លាប់ស្គាល់ អាចធ្វើឱ្យប្រាក់បន្តហូរចេញ ដោយផលត្រឡប់តិចតួច។ សូមសួរថាតើវានៅតែមានប្រយោជន៍សម្រាប់អ្នកឬទេ។"
+      },
+      "outcome": {
+        "en": "Leaving an old habit behind could bring relief and more money for what matters. Change may feel lighter than expected.",
+        "km": "ការទុកទម្លាប់ចាស់នៅពីក្រោយ អាចនាំមកនូវការធូរស្រាល និងប្រាក់កាន់តែច្រើនសម្រាប់អ្វីដែលសំខាន់។ ការផ្លាស់ប្តូរ អាចមានអារម្មណ៍ស្រាលជាងការរំពឹង។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Appreciate what you have so the urge to keep buying fades. Contentment is one of the most effective spending habits.",
+        "km": "សូមកោតសរសើរអ្វីដែលអ្នកមាន ដើម្បីឱ្យការជំរុញឱ្យបន្តទិញរសាត់បាត់។ ការពេញចិត្ត គឺជាទម្លាប់ចំណាយដ៏មានប្រសិទ្ធភាពបំផុតមួយ។"
+      },
+      "challenge": {
+        "en": "Rewarding yourself too often could turn treats into routine spending. Keep rewards special so they still feel like rewards.",
+        "km": "ការផ្តល់រង្វាន់ដល់ខ្លួនឯងញឹកញាប់ពេក អាចប្រែរង្វាន់ទៅជាការចំណាយប្រចាំ។ សូមរក្សារង្វាន់ឱ្យពិសេស ដើម្បីឱ្យវានៅតែមានអារម្មណ៍ដូចជារង្វាន់។"
+      },
+      "outcome": {
+        "en": "Contentment could make spending feel calmer and more meaningful. A sense of having enough may grow.",
+        "km": "ការពេញចិត្ត អាចធ្វើឱ្យការចំណាយមានអារម្មណ៍ស្ងប់ស្ងាត់ និងមានអត្ថន័យជាងមុន។ អារម្មណ៍ថាមានគ្រប់គ្រាន់ អាចកើនឡើង។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Look at household spending together with family, agreeing on what everyone values most. Shared choices are easier to keep.",
+        "km": "សូមមើលការចំណាយគ្រួសារជាមួយគ្រួសារ ដោយយល់ព្រមលើអ្វីដែលមនុស្សគ្រប់គ្នាឱ្យតម្លៃបំផុត។ ជម្រើសរួមគ្នា ងាយរក្សាជាង។"
+      },
+      "challenge": {
+        "en": "Trying to give family everything they want could stretch your budget too far. Love does not need to be measured in spending.",
+        "km": "ការព្យាយាមផ្តល់ឱ្យគ្រួសារនូវអ្វីៗទាំងអស់ដែលពួកគេចង់បាន អាចធ្វើឱ្យថវិការបស់អ្នកតឹងពេក។ ក្តីស្រឡាញ់ មិនចាំបាច់វាស់វែងដោយការចំណាយទេ។"
+      },
+      "outcome": {
+        "en": "Shared spending values could bring harmony and security at home. Your family may thrive with less strain.",
+        "km": "គុណតម្លៃចំណាយរួម អាចនាំមកនូវភាពសុខដុម និងសុវត្ថិភាពនៅផ្ទះ។ គ្រួសាររបស់អ្នក អាចរីកចម្រើនជាមួយភាពតានតឹងតិចជាងមុន។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Watch small, playful purchases that seem harmless but add up. An occasional treat is fine; a habit of them adds up fast.",
+        "km": "សូមតាមដានការទិញតូចៗបែបលេងសើច ដែលហាក់ដូចជាគ្មានគ្រោះថ្នាក់ តែបូកបញ្ចូលគ្នា។ រង្វាន់ម្តងម្កាលគឺល្អ ទម្លាប់នៃរង្វាន់ទាំងនោះបូកបញ្ចូលគ្នាលឿន។"
+      },
+      "challenge": {
+        "en": "Small indulgences could feel too minor to matter. Adding them up over a whole cycle may surprise you.",
+        "km": "ការបណ្តោយចិត្តតូចៗ អាចមានអារម្មណ៍តូចពេក មិនសំខាន់។ ការបូកសរុបវាពេញមួយវដ្ត អាចធ្វើឱ្យអ្នកភ្ញាក់ផ្អើល។"
+      },
+      "outcome": {
+        "en": "Trimming small habits could free a surprising amount. Little changes may bring pleasant results that encourage more.",
+        "km": "ការកាត់បន្ថយទម្លាប់តូចៗ អាចដោះលែងប្រាក់ច្រើនគួរឱ្យភ្ញាក់ផ្អើល។ ការផ្លាស់ប្តូរតិចតួច អាចនាំមកនូវលទ្ធផលរីករាយ ដែលលើកទឹកចិត្តឱ្យធ្វើបន្ថែម។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Be cautious of spending driven by romantic ideals or the desire to impress. Heartfelt gestures do not need to be costly.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចំណាយដែលដឹកនាំដោយឧត្តមគតិស្នេហា ឬបំណងប្រាថ្នាចង់ធ្វើឱ្យគេចាប់អារម្មណ៍។ អំពើចេញពីបេះដូង មិនចាំបាច់ថ្លៃទេ។"
+      },
+      "challenge": {
+        "en": "Grand gestures could strain your budget more than they please anyone. Thoughtfulness matters more than the price tag.",
+        "km": "អំពើធំៗ អាចធ្វើឱ្យថវិការបស់អ្នកតឹងតែង ច្រើនជាងការផ្គាប់ចិត្តនរណាម្នាក់។ ការគិតគូរ សំខាន់ជាងស្លាកតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Simple, heartfelt choices could feel just as meaningful. Your heart and budget may both be happier.",
+        "km": "ជម្រើសសាមញ្ញ និងចេញពីបេះដូង អាចមានអារម្មណ៍មានអត្ថន័យដដែល។ បេះដូង និងថវិការបស់អ្នក អាចសប្បាយចិត្តទាំងពីរ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Notice if you spend heavily on caring for others while neglecting your own needs. Generosity works best when balanced.",
+        "km": "សូមកត់សម្គាល់ ប្រសិនបើអ្នកចំណាយច្រើនលើការមើលថែអ្នកដទៃ ខណៈពេលធ្វេសប្រហែសតម្រូវការរបស់អ្នកផ្ទាល់។ ចិត្តទូលាយដំណើរការល្អបំផុត នៅពេលមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Feeling responsible for everyone's comfort could lead to overspending on others. Care for them within your means.",
+        "km": "អារម្មណ៍ថាទទួលខុសត្រូវចំពោះភាពសុខស្រួលរបស់មនុស្សគ្រប់គ្នា អាចនាំទៅរកការចំណាយហួសហេតុលើអ្នកដទៃ។ សូមមើលថែពួកគេក្នុងលទ្ធភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Balanced caring could protect both your heart and your budget. Others may value your care just as much.",
+        "km": "ការមើលថែដោយតុល្យភាព អាចការពារទាំងបេះដូង និងថវិការបស់អ្នក។ អ្នកដទៃអាចឱ្យតម្លៃការយកចិត្តទុកដាក់របស់អ្នកដដែល។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Make spending decisions calmly, never when upset or under emotional pressure. A steady mind spends more wisely.",
+        "km": "សូមធ្វើការសម្រេចចិត្តចំណាយដោយស្ងប់ស្ងាត់ មិនដែលនៅពេលមិនសប្បាយចិត្ត ឬក្រោមសម្ពាធផ្លូវអារម្មណ៍ទេ។ ចិត្តនឹងនរ ចំណាយដោយប្រាជ្ញាជាង។"
+      },
+      "challenge": {
+        "en": "Hiding spending habits from yourself or others could let them grow. Be honest about what you buy.",
+        "km": "ការលាក់ទម្លាប់ចំណាយពីខ្លួនឯង ឬអ្នកដទៃ អាចធ្វើឱ្យវាកើនឡើង។ សូមស្មោះត្រង់អំពីអ្វីដែលអ្នកទិញ។"
+      },
+      "outcome": {
+        "en": "Calm, balanced spending could bring stability and peace. Steady habits may become a strength you hardly have to think about.",
+        "km": "ការចំណាយស្ងប់ស្ងាត់ និងមានតុល្យភាព អាចនាំមកនូវស្ថិរភាព និងសន្តិភាព។ ទម្លាប់នឹងនរ អាចក្លាយជាកម្លាំងដែលអ្នកស្ទើរតែមិនចាំបាច់គិត។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Cut through confusion by listing exactly where your money went last cycle, line by line. Seeing it written down makes the habits obvious.",
+        "km": "សូមកាត់ផ្តាច់ការច្របូកច្របល់ ដោយរាយបញ្ជីយ៉ាងច្បាស់ពីកន្លែងដែលប្រាក់របស់អ្នកបានទៅ ក្នុងវដ្តចុងក្រោយ ម្តងមួយបន្ទាត់។ ការមើលឃើញវាសរសេរចុះ ធ្វើឱ្យទម្លាប់កាន់តែច្បាស់។"
+      },
+      "challenge": {
+        "en": "Seeing the real numbers could be uncomfortable at first. Honest clarity is the starting point for real change.",
+        "km": "ការមើលឃើញតួលេខពិត អាចមិនស្រួលដំបូង។ ភាពច្បាស់លាស់ដោយស្មោះត្រង់ គឺជាចំណុចចាប់ផ្តើមសម្រាប់ការផ្លាស់ប្តូរពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "A clear decision about one habit could make an immediate difference. Clarity may spread to other choices too.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់អំពីទម្លាប់មួយ អាចធ្វើឱ្យមានភាពខុសគ្នាភ្លាមៗ។ ភាពច្បាស់លាស់ អាចរីករាលដាលទៅជម្រើសផ្សេងទៀតផងដែរ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "If you keep putting off a decision about a costly habit, weigh it up honestly and decide. Indecision can be expensive too.",
+        "km": "ប្រសិនបើអ្នកបន្តពន្យារការសម្រេចចិត្តអំពីទម្លាប់ដ៏ថ្លៃ សូមថ្លឹងថ្លែងវាដោយស្មោះត្រង់ ហើយសម្រេចចិត្ត។ ការមិនសម្រេចចិត្ត ក៏អាចថ្លៃដែរ។"
+      },
+      "challenge": {
+        "en": "Avoiding a choice could let a draining expense continue by default. Not deciding is a decision in itself.",
+        "km": "ការជៀសវាងជម្រើស អាចធ្វើឱ្យការចំណាយដែលបូមកម្លាំងបន្តដោយស្វ័យប្រវត្តិ។ ការមិនសម្រេចចិត្ត គឺជាការសម្រេចចិត្តមួយដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Making a firm choice could release both money and mental energy. Balance may return once you decide.",
+        "km": "ការធ្វើជម្រើសរឹងមាំ អាចដោះលែងទាំងប្រាក់ និងថាមពលផ្លូវចិត្ត។ តុល្យភាព អាចត្រឡប់មកវិញ នៅពេលអ្នកសម្រេចចិត្ត។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Look at whether painful feelings have led to spending you later regret. Recognising the link can help you break it.",
+        "km": "សូមមើលថាតើអារម្មណ៍ឈឺចាប់ បាននាំទៅរកការចំណាយដែលអ្នកសោកស្តាយនៅពេលក្រោយឬទេ។ ការទទួលស្គាល់ការភ្ជាប់ អាចជួយអ្នកបំបែកវា។"
+      },
+      "challenge": {
+        "en": "Spending to soothe heartache could add money worries on top of hurt. Look for comfort that does not cost.",
+        "km": "ការចំណាយដើម្បីលួងលោមការឈឺចាប់ក្នុងចិត្ត អាចបន្ថែមការព្រួយបារម្ភអំពីប្រាក់ លើការឈឺចាប់។ សូមរកការលួងលោមដែលមិនចំណាយ។"
+      },
+      "outcome": {
+        "en": "Healing the hurt could also heal the habit. Spending may grow calmer as you recover and find other comforts.",
+        "km": "ការព្យាបាលការឈឺចាប់ ក៏អាចព្យាបាលទម្លាប់ផងដែរ។ ការចំណាយ អាចកាន់តែស្ងប់ស្ងាត់ ខណៈអ្នកជាសះស្បើយ ហើយរកឃើញការលួងលោមផ្សេង។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Give yourself a spending pause, such as a few days without non-essential purchases, to reset your habits. Rest can be good for your wallet too.",
+        "km": "សូមផ្តល់ការផ្អាកចំណាយដល់ខ្លួនឯង ដូចជារយៈពេលខ្លីដោយគ្មានការទិញមិនចាំបាច់ ដើម្បីកំណត់ទម្លាប់របស់អ្នកឡើងវិញ។ ការសម្រាក អាចល្អសម្រាប់កាបូបរបស់អ្នកផងដែរ។"
+      },
+      "challenge": {
+        "en": "Making buying decisions when exhausted could lead to careless spending. Rest first, then decide what you really need.",
+        "km": "ការធ្វើការសម្រេចចិត្តទិញ នៅពេលអស់កម្លាំង អាចនាំទៅរកការចំណាយដោយមិនប្រុងប្រយ័ត្ន។ សូមសម្រាកជាមុន បន្ទាប់មកសម្រេចថាអ្នកពិតជាត្រូវការអ្វី។"
+      },
+      "outcome": {
+        "en": "A deliberate pause could help you return with clearer, calmer habits. Less may feel like more.",
+        "km": "ការផ្អាកដោយចេតនា អាចជួយអ្នកត្រឡប់មកវិញជាមួយទម្លាប់ច្បាស់ និងស្ងប់ស្ងាត់ជាងមុន។ តិចជាង អាចមានអារម្មណ៍ដូចជាច្រើនជាង។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Notice spending that comes from wanting to win, such as outdoing others or proving a point. Victories bought with money rarely satisfy.",
+        "km": "សូមកត់សម្គាល់ការចំណាយ ដែលមកពីការចង់ឈ្នះ ដូចជាការលើសអ្នកដទៃ ឬការបង្ហាញចំណុចមួយ។ ជ័យជម្នះដែលទិញដោយប្រាក់ កម្រផ្តល់ការពេញចិត្តណាស់។"
+      },
+      "challenge": {
+        "en": "Arguments about money could lead to spiteful or reckless spending. Keep disagreements separate from your wallet.",
+        "km": "ការឈ្លោះប្រកែកអំពីប្រាក់ អាចនាំទៅរកការចំណាយដោយសងសឹក ឬដោយមិនប្រុងប្រយ័ត្ន។ សូមរក្សាការខ្វែងគំនិតដាច់ដោយឡែកពីកាបូបរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Letting go of competitive spending could bring calm and savings. Peace of mind may cost nothing at all.",
+        "km": "ការលែងការចំណាយបែបប្រកួតប្រជែង អាចនាំមកនូវភាពស្ងប់ស្ងាត់ និងការសន្សំ។ សន្តិភាពផ្លូវចិត្ត អាចមិនចំណាយអ្វីសោះ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Gradually move away from costly routines toward simpler, cheaper ones. Small transitions are easier to keep than sudden changes.",
+        "km": "សូមផ្លាស់ទីបន្តិចម្តងៗ ចេញពីទម្លាប់ដ៏ថ្លៃ ឆ្ពោះទៅរកទម្លាប់សាមញ្ញ និងថោកជាង។ ការផ្លាស់ប្តូរតូចៗ ងាយរក្សាជាងការផ្លាស់ប្តូរភ្លាមៗ។"
+      },
+      "challenge": {
+        "en": "Carrying old spending habits into a new situation, such as a move or a new job, could repeat old problems. Set new habits from the start.",
+        "km": "ការយកទម្លាប់ចំណាយចាស់ ចូលទៅក្នុងស្ថានភាពថ្មី ដូចជាការផ្លាស់ទីលំនៅ ឬការងារថ្មី អាចធ្វើឱ្យបញ្ហាចាស់កើតឡើងម្តងទៀត។ សូមកំណត់ទម្លាប់ថ្មីតាំងពីដំបូង។"
+      },
+      "outcome": {
+        "en": "A smoother move toward simpler habits could bring calm. Spending may settle into a rhythm that feels easy to keep.",
+        "km": "ការផ្លាស់ទីរលូនឆ្ពោះទៅរកទម្លាប់សាមញ្ញជាងមុន អាចនាំមកនូវភាពស្ងប់ស្ងាត់។ ការចំណាយ អាចចូលទៅក្នុងចង្វាក់ដែលមានអារម្មណ៍ងាយរក្សា។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Watch out for clever marketing tricks, such as limited offers or bundles, designed to make you spend more. Knowing the tactics helps you resist.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះល្បិចទីផ្សារដ៏ឆ្លាតវៃ ដូចជាការផ្តល់ជូនមានកំណត់ ឬកញ្ចប់រួម ដែលរចនាឡើងដើម្បីធ្វើឱ្យអ្នកចំណាយច្រើនជាងមុន។ ការដឹងពីយុទ្ធសាស្ត្រ ជួយអ្នកទប់ទល់។"
+      },
+      "challenge": {
+        "en": "Telling yourself small lies about what you spend could hide a growing problem. Be honest with yourself.",
+        "km": "ការនិយាយកុហកតូចៗដាក់ខ្លួនឯង អំពីអ្វីដែលអ្នកចំណាយ អាចលាក់បញ្ហាដែលកំពុងកើនឡើង។ សូមស្មោះត្រង់ជាមួយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Seeing through sales tactics could save you a good deal over the long run. Smarter, calmer choices may follow.",
+        "km": "ការមើលធ្លុះល្បិចលក់ អាចសន្សំឱ្យអ្នកបានច្រើនក្នុងរយៈពេលវែង។ ជម្រើសឆ្លាតវៃ និងស្ងប់ស្ងាត់ជាងមុន អាចកើតឡើងបន្ទាប់។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "If you feel stuck in a spending pattern, start with one small rule you can keep. Breaking free often begins with a single step.",
+        "km": "ប្រសិនបើអ្នកមានអារម្មណ៍ជាប់គាំងក្នុងលំនាំចំណាយ សូមចាប់ផ្តើមជាមួយច្បាប់តូចមួយដែលអ្នកអាចរក្សាបាន។ ការរួចផុត ជារឿយៗចាប់ផ្តើមជាមួយជំហានតែមួយ។"
+      },
+      "challenge": {
+        "en": "A habit that has run for a long time could feel impossible to shift. If spending has left debts you cannot manage, a qualified adviser or support service may help.",
+        "km": "ទម្លាប់ដែលបានដំណើរការជាយូរ អាចមានអារម្មណ៍ថាមិនអាចផ្លាស់ប្តូរបាន។ ប្រសិនបើការចំណាយបានបន្សល់បំណុលដែលអ្នកមិនអាចគ្រប់គ្រង ទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ឬសេវាគាំទ្រ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "One small change could loosen the grip of an old habit. Freedom may grow step by step.",
+        "km": "ការផ្លាស់ប្តូរតូចមួយ អាចបន្ធូរការក្តាប់នៃទម្លាប់ចាស់។ សេរីភាព អាចកើនឡើងម្តងមួយជំហាន។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Notice whether worry about money is leading you to spend in ways that make things worse. Facing the anxiety can break the cycle.",
+        "km": "សូមកត់សម្គាល់ថាតើការព្រួយបារម្ភអំពីប្រាក់ កំពុងនាំអ្នកឱ្យចំណាយតាមវិធីដែលធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់ឬទេ។ ការប្រឈមមុខនឹងការថប់បារម្ភ អាចបំបែកវដ្ត។"
+      },
+      "challenge": {
+        "en": "Anxious spending could feel like relief but deepen the problem. If worry is constant, talk to someone you trust or a counsellor.",
+        "km": "ការចំណាយដោយថប់បារម្ភ អាចមានអារម្មណ៍ដូចជាការធូរស្រាល តែធ្វើឱ្យបញ្ហាកាន់តែជ្រៅ។ ប្រសិនបើការព្រួយបារម្ភជាប់ជានិច្ច សូមនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ឬអ្នកប្រឹក្សា។"
+      },
+      "outcome": {
+        "en": "Calming anxiety could make spending calmer too. Relief may come from facing fears directly instead of shopping them away.",
+        "km": "ការធ្វើឱ្យការថប់បារម្ភស្ងប់ អាចធ្វើឱ្យការចំណាយស្ងប់ផងដែរ។ ការធូរស្រាល អាចមកពីការប្រឈមមុខនឹងការភ័យខ្លាចដោយផ្ទាល់ ជំនួសឱ្យការទិញដើម្បីបំភ្លេចវា។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "If spending has led you to a financial low point, accept it and look at what must change. Hitting bottom can be the start of new habits.",
+        "km": "ប្រសិនបើការចំណាយបាននាំអ្នកដល់ចំណុចទាបផ្នែកហិរញ្ញវត្ថុ សូមទទួលយកវា ហើយមើលពីអ្វីដែលត្រូវតែផ្លាស់ប្តូរ។ ការធ្លាក់ដល់បាត អាចជាការចាប់ផ្តើមនៃទម្លាប់ថ្មី។"
+      },
+      "challenge": {
+        "en": "Shame about how spending got out of hand could make you hide from the problem. A qualified adviser or support service can help you plan a way back.",
+        "km": "ការខ្មាសអៀនអំពីរបៀបដែលការចំណាយហួសពីការគ្រប់គ្រង អាចធ្វើឱ្យអ្នកលាក់ខ្លួនពីបញ្ហា។ ទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ឬសេវាគាំទ្រ អាចជួយអ្នកធ្វើផែនការផ្លូវត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "A new start with healthier habits could rise from a hard ending. Recovery may begin here.",
+        "km": "ការចាប់ផ្តើមថ្មីជាមួយទម្លាប់ដែលមានសុខភាពល្អជាងមុន អាចងើបចេញពីការបញ្ចប់ដ៏លំបាក។ ការស្តារ អាចចាប់ផ្តើមនៅទីនេះ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Track your spending for a while with curiosity rather than judgement. Watching closely is the easiest way to learn your habits.",
+        "km": "សូមតាមដានការចំណាយរបស់អ្នកមួយរយៈ ដោយការចង់ដឹងចង់ឃើញ ជាជាងការវិនិច្ឆ័យ។ ការមើលយ៉ាងជិត គឺជាវិធីងាយស្រួលបំផុតដើម្បីរៀនពីទម្លាប់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Following spending advice from social media without checking it could lead you astray. Verify before you act.",
+        "km": "ការដើរតាមដំបូន្មានចំណាយពីបណ្តាញសង្គម ដោយមិនពិនិត្យ អាចនាំអ្នកវង្វេង។ សូមផ្ទៀងផ្ទាត់ មុនពេលអ្នកធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "Careful tracking could reveal easy savings you had missed. Knowledge of your own habits may become your best tool.",
+        "km": "ការតាមដានដោយប្រុងប្រយ័ត្ន អាចបង្ហាញពីការសន្សំងាយៗដែលអ្នកបានខកខាន។ ចំណេះដឹងអំពីទម្លាប់របស់អ្នកផ្ទាល់ អាចក្លាយជាឧបករណ៍ល្អបំផុតរបស់អ្នក។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Act quickly to cancel or cut spending you have already decided is wasteful. Swift follow-through stops costs from continuing.",
+        "km": "សូមធ្វើសកម្មភាពរហ័ស ដើម្បីលុបចោល ឬកាត់ការចំណាយដែលអ្នកបានសម្រេចរួចហើយថាខ្ជះខ្ជាយ។ ការអនុវត្តរហ័ស បញ្ឈប់ការចំណាយពីការបន្ត។"
+      },
+      "challenge": {
+        "en": "Rushing into a new purchase to replace an old habit could swap one cost for another. Think before replacing.",
+        "km": "ការប្រញាប់ចូលការទិញថ្មី ដើម្បីជំនួសទម្លាប់ចាស់ អាចប្តូរការចំណាយមួយ សម្រាប់ការចំណាយមួយទៀត។ សូមគិតមុនពេលជំនួស។"
+      },
+      "outcome": {
+        "en": "Decisive cuts could bring quick, visible savings. Seeing that progress may motivate you to make further changes.",
+        "km": "ការកាត់បន្ថយដោយម៉ឺងម៉ាត់ អាចនាំមកនូវការសន្សំរហ័ស និងអាចមើលឃើញ។ ការមើលឃើញការរីកចម្រើននោះ អាចលើកទឹកចិត្តអ្នកឱ្យធ្វើការផ្លាស់ប្តូរបន្ថែម។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Set clear rules for yourself about what you will and will not buy. Honest limits make decisions quicker and easier.",
+        "km": "សូមកំណត់ច្បាប់ច្បាស់លាស់សម្រាប់ខ្លួនឯង អំពីអ្វីដែលអ្នកនឹងទិញ និងមិនទិញ។ ដែនកំណត់ស្មោះត្រង់ ធ្វើឱ្យការសម្រេចចិត្តលឿន និងងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Being too harsh with your rules could make them hard to follow. Keep them firm but realistic.",
+        "km": "ការតឹងរ៉ឹងពេកជាមួយច្បាប់របស់អ្នក អាចធ្វើឱ្យវាពិបាកអនុវត្តតាម។ សូមរក្សាវាឱ្យរឹងមាំ តែប្រាកដនិយម។"
+      },
+      "outcome": {
+        "en": "Clear rules could bring calm, steady control over spending. Fewer decisions in the moment may mean fewer regrets.",
+        "km": "ច្បាប់ច្បាស់លាស់ អាចនាំមកនូវការគ្រប់គ្រងស្ងប់ស្ងាត់ និងនឹងនរលើការចំណាយ។ ការសម្រេចចិត្តតិចជាងមុនភ្លាមៗ អាចមានន័យថាការសោកស្តាយតិចជាងមុន។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Approach spending logically, comparing costs and benefits before you buy. A rational check can prevent costly mistakes.",
+        "km": "សូមចូលទៅរកការចំណាយដោយតក្កវិជ្ជា ដោយប្រៀបធៀបការចំណាយ និងអត្ថប្រយោជន៍ មុនពេលអ្នកទិញ។ ការពិនិត្យដោយសមហេតុផល អាចការពារកំហុសដែលមានតម្លៃខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Overthinking every small purchase could make spending stressful and tiring. Save careful analysis for the bigger decisions.",
+        "km": "ការគិតច្រើនពេកលើរាល់ការទិញតូចៗ អាចធ្វើឱ្យការចំណាយតានតឹង និងនឿយហត់។ សូមរក្សាការវិភាគប្រុងប្រយ័ត្នសម្រាប់ការសម្រេចចិត្តធំៗ។"
+      },
+      "outcome": {
+        "en": "Thoughtful decisions could lead to better value and less regret. Clear judgement may serve you well.",
+        "km": "ការសម្រេចចិត្តដោយគិតគូរ អាចនាំទៅរកតម្លៃល្អជាង និងការសោកស្តាយតិចជាង។ ការវិនិច្ឆ័យច្បាស់លាស់ អាចមានប្រយោជន៍សម្រាប់អ្នក។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Start one practical habit, such as a shopping list or a simple spending record. Small tools can make a big difference.",
+        "km": "សូមចាប់ផ្តើមទម្លាប់ជាក់ស្តែងមួយ ដូចជាបញ្ជីទិញទំនិញ ឬកំណត់ត្រាចំណាយសាមញ្ញ។ ឧបករណ៍តូចៗ អាចធ្វើឱ្យមានភាពខុសគ្នាធំ។"
+      },
+      "challenge": {
+        "en": "Thinking small savings do not matter could keep you from starting at all. Every small change adds to the next.",
+        "km": "ការគិតថាការសន្សំតូចៗមិនសំខាន់ អាចរារាំងអ្នកពីការចាប់ផ្តើមទាល់តែសោះ។ ការផ្លាស់ប្តូរតូចៗនីមួយៗ បន្ថែមទៅលើការផ្លាស់ប្តូរបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A simple habit could grow into lasting savings. A small start may become a solid foundation.",
+        "km": "ទម្លាប់សាមញ្ញមួយ អាចរីកធំទៅជាការសន្សំស្ថិតស្ថេរ។ ការចាប់ផ្តើមតូចមួយ អាចក្លាយជាមូលដ្ឋានរឹងមាំ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Balance spending between needs and wants in a flexible way. Adjusting as you go is easier than strict rules.",
+        "km": "សូមធ្វើឱ្យមានតុល្យភាពក្នុងការចំណាយ រវាងតម្រូវការ និងបំណងប្រាថ្នា តាមវិធីបត់បែន។ ការកែសម្រួលតាមផ្លូវ ងាយស្រួលជាងច្បាប់តឹងរ៉ឹង។"
+      },
+      "challenge": {
+        "en": "Juggling too many payments could lead to missed bills and extra fees. Keep track carefully in one place.",
+        "km": "ការដោះស្រាយការទូទាត់ច្រើនពេក អាចនាំទៅរកការខកខានវិក្កយបត្រ និងការគិតថ្លៃបន្ថែម។ សូមតាមដានដោយប្រុងប្រយ័ត្ននៅកន្លែងតែមួយ។"
+      },
+      "outcome": {
+        "en": "Flexible balance could keep spending steady through change. Adapting as you go may become a quiet strength.",
+        "km": "តុល្យភាពបត់បែន អាចរក្សាការចំណាយឱ្យនឹងនរ ឆ្លងកាត់ការផ្លាស់ប្តូរ។ ការសម្របខ្លួនតាមផ្លូវ អាចក្លាយជាកម្លាំងស្ងប់ស្ងាត់។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Learn spending habits from people who manage well, and share tips with others. Working together can make change easier.",
+        "km": "សូមរៀនទម្លាប់ចំណាយពីមនុស្សដែលគ្រប់គ្រងបានល្អ ហើយចែករំលែកគន្លឹះជាមួយអ្នកដទៃ។ ការធ្វើការជាមួយគ្នា អាចធ្វើឱ្យការផ្លាស់ប្តូរងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Paying for convenience instead of using your own skills could cost more than needed. Do some things yourself.",
+        "km": "ការបង់សម្រាប់ភាពងាយស្រួល ជំនួសឱ្យការប្រើជំនាញរបស់អ្នកផ្ទាល់ អាចចំណាយច្រើនជាងការចាំបាច់។ សូមធ្វើរឿងខ្លះដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Shared know-how could help you build better habits. Small practical skills may save real money over and over.",
+        "km": "ចំណេះដឹងរួម អាចជួយអ្នកកសាងទម្លាប់ល្អជាង។ ជំនាញជាក់ស្តែងតូចៗ អាចសន្សំប្រាក់ពិតប្រាកដម្តងហើយម្តងទៀត។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Spend thoughtfully on what matters while cutting what does not. Careful spending is not the same as never spending.",
+        "km": "សូមចំណាយដោយគិតគូរលើអ្វីដែលសំខាន់ ខណៈពេលកាត់អ្វីដែលមិនសំខាន់។ ការចំណាយដោយប្រុងប្រយ័ត្ន មិនដូចគ្នានឹងការមិនដែលចំណាយទេ។"
+      },
+      "challenge": {
+        "en": "Being so tight with money that you neglect real needs could cost more in the end. Spend wisely, not just less.",
+        "km": "ការតឹងតែងជាមួយប្រាក់ រហូតធ្វេសប្រហែសតម្រូវការពិត អាចចំណាយច្រើនជាងនៅទីបញ្ចប់។ សូមចំណាយដោយប្រាជ្ញា មិនមែនត្រឹមតែតិចជាងទេ។"
+      },
+      "outcome": {
+        "en": "Thoughtful spending could build security without making life feel mean. Balance may bring a quiet sense of peace.",
+        "km": "ការចំណាយដោយគិតគូរ អាចកសាងសុវត្ថិភាព ដោយមិនធ្វើឱ្យជីវិតមានអារម្មណ៍កំសត់។ តុល្យភាព អាចនាំមកនូវអារម្មណ៍ស្ងប់ស្ងាត់នៃសន្តិភាព។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "If money is tight, focus spending on essentials first and look for support where it exists. Protecting the basics is the priority.",
+        "km": "ប្រសិនបើប្រាក់តឹង សូមផ្តោតការចំណាយលើអ្វីដែលចាំបាច់ជាមុន ហើយស្វែងរកការគាំទ្រនៅកន្លែងដែលមាន។ ការការពារមូលដ្ឋាន គឺជាអាទិភាព។"
+      },
+      "challenge": {
+        "en": "Trying to keep up appearances when money is short could make things harder. If you are struggling to cover basics, support services or someone you trust may help.",
+        "km": "ការព្យាយាមរក្សាមុខមាត់ នៅពេលប្រាក់ខ្វះ អាចធ្វើឱ្យអ្វីៗកាន់តែពិបាក។ ប្រសិនបើអ្នកកំពុងតស៊ូដើម្បីបង់មូលដ្ឋាន សេវាគាំទ្រ ឬនរណាម្នាក់ដែលអ្នកទុកចិត្ត អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Careful spending and support could help you through a hard stretch. Things may gradually ease as the basics are secured.",
+        "km": "ការចំណាយដោយប្រុងប្រយ័ត្ន និងការគាំទ្រ អាចជួយអ្នកឆ្លងកាត់ដំណាក់កាលលំបាក។ អ្វីៗអាចធូរស្រាលបន្តិចម្តងៗ នៅពេលមូលដ្ឋានត្រូវបានធានា។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Look at how much you give, lend or spend on others, and keep it within a fair limit. Generosity is healthiest when balanced.",
+        "km": "សូមមើលថាអ្នកផ្តល់ ឱ្យខ្ចី ឬចំណាយលើអ្នកដទៃប៉ុន្មាន ហើយរក្សាវាក្នុងដែនកំណត់យុត្តិធម៌។ ចិត្តទូលាយមានសុខភាពល្អបំផុត នៅពេលមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Lending money you may not get back could strain both your budget and relationships. Give only what you can afford to lose.",
+        "km": "ការឱ្យខ្ចីប្រាក់ដែលអ្នកប្រហែលជាមិនបានមកវិញ អាចធ្វើឱ្យទាំងថវិការបស់អ្នក និងទំនាក់ទំនងតានតឹង។ សូមផ្តល់តែអ្វីដែលអ្នកអាចមានលទ្ធភាពបាត់បង់។"
+      },
+      "outcome": {
+        "en": "Balanced generosity could protect both kindness and security. Fair give and take may keep friendships easy.",
+        "km": "ចិត្តទូលាយដែលមានតុល្យភាព អាចការពារទាំងសេចក្តីសប្បុរស និងសុវត្ថិភាព។ ការផ្តល់ និងទទួលដោយយុត្តិធម៌ អាចរក្សាមិត្តភាពឱ្យងាយស្រួល។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Be patient as new spending habits settle in; results often show only after a while. Consistency matters more than perfection.",
+        "km": "សូមអត់ធ្មត់ ខណៈទម្លាប់ចំណាយថ្មីចូលជ្រៅ លទ្ធផលជារឿយៗលេចឡើងតែបន្ទាប់ពីមួយរយៈ។ ភាពជាប់លាប់ សំខាន់ជាងភាពល្អឥតខ្ចោះ។"
+      },
+      "challenge": {
+        "en": "Expecting instant results could lead to giving up too early. New habits need patience to take root.",
+        "km": "ការរំពឹងលទ្ធផលភ្លាមៗ អាចនាំឱ្យបោះបង់មុនពេល។ ទម្លាប់ថ្មីត្រូវការការអត់ធ្មត់ ដើម្បីចាក់ឫស។"
+      },
+      "outcome": {
+        "en": "Steady habits could bear fruit gradually. Savings may grow quietly until you notice how much has built up.",
+        "km": "ទម្លាប់នឹងនរ អាចផ្តល់ផ្លែផ្កាបន្តិចម្តងៗ។ ការសន្សំ អាចកើនឡើងដោយស្ងាត់ៗ រហូតដល់អ្នកកត់សម្គាល់ថាបានកកកុញប៉ុន្មាន។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Practise good spending habits with care and repetition until they become automatic. Diligence turns choices into routine.",
+        "km": "សូមហាត់ទម្លាប់ចំណាយល្អ ដោយការយកចិត្តទុកដាក់ និងការធ្វើម្តងហើយម្តងទៀត រហូតដល់វាក្លាយជាស្វ័យប្រវត្តិ។ ការឧស្សាហ៍ព្យាយាម ប្រែជម្រើសទៅជាទម្លាប់។"
+      },
+      "challenge": {
+        "en": "Focusing on details while ignoring big costs could miss the real savings. Look at the largest expenses first.",
+        "km": "ការផ្តោតលើព័ត៌មានលម្អិត ខណៈពេលមិនខ្វល់ពីការចំណាយធំៗ អាចខកខានការសន្សំពិតប្រាកដ។ សូមមើលការចំណាយធំបំផុតជាមុន។"
+      },
+      "outcome": {
+        "en": "Practised habits could become effortless and lasting. Spending wisely may stop feeling like work at all.",
+        "km": "ទម្លាប់ដែលបានហាត់ អាចក្លាយជាមិនពិបាក និងស្ថិតស្ថេរ។ ការចំណាយដោយប្រាជ្ញា អាចឈប់មានអារម្មណ៍ដូចជាការងារទាល់តែសោះ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Enjoy the comfort you have earned while avoiding spending that adds little to your life. Contentment can coexist with careful habits.",
+        "km": "សូមរីករាយនឹងភាពសុខស្រួលដែលអ្នកបានរកបាន ខណៈពេលជៀសវាងការចំណាយដែលបន្ថែមតិចតួចដល់ជីវិតរបស់អ្នក។ ការពេញចិត្ត អាចរួមរស់ជាមួយទម្លាប់ប្រុងប្រយ័ត្ន។"
+      },
+      "challenge": {
+        "en": "Treating yourself too often because you can afford it could slowly erode savings. Keep luxury occasional.",
+        "km": "ការផ្តល់រង្វាន់ដល់ខ្លួនឯងញឹកញាប់ពេក ព្រោះអ្នកមានលទ្ធភាព អាចធ្វើឱ្យការសន្សំរលួយបន្តិចម្តងៗ។ សូមរក្សាភាពប្រណីតឱ្យម្តងម្កាល។"
+      },
+      "outcome": {
+        "en": "Mindful comfort could keep your finances secure and your life pleasant. Independence may grow alongside contentment.",
+        "km": "ភាពសុខស្រួលដោយដឹងខ្លួន អាចរក្សាហិរញ្ញវត្ថុរបស់អ្នកឱ្យមានសុវត្ថិភាព ហើយជីវិតរបស់អ្នករីករាយ។ ឯករាជ្យភាព អាចកើនឡើងរួមជាមួយការពេញចិត្ត។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Consider how your spending affects your family's long-term security. Choices made with the future in mind can benefit everyone.",
+        "km": "សូមពិចារណាពីរបៀបដែលការចំណាយរបស់អ្នក ប៉ះពាល់ដល់សុវត្ថិភាពរយៈពេលវែងរបស់គ្រួសារអ្នក។ ជម្រើសដែលធ្វើឡើងដោយគិតពីអនាគត អាចផ្តល់ប្រយោជន៍ដល់មនុស្សគ្រប់គ្នា។"
+      },
+      "challenge": {
+        "en": "Spending to meet family expectations could strain your budget. Agree on priorities together so no one carries it alone.",
+        "km": "ការចំណាយដើម្បីបំពេញការរំពឹងទុករបស់គ្រួសារ អាចធ្វើឱ្យថវិការបស់អ្នកតឹងតែង។ សូមយល់ព្រមលើអាទិភាពជាមួយគ្នា ដើម្បីកុំឱ្យនរណាម្នាក់លីវាម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "Thoughtful spending could build lasting security for your family. A stronger foundation may be something you all share.",
+        "km": "ការចំណាយដោយគិតគូរ អាចកសាងសុវត្ថិភាពស្ថិតស្ថេរសម្រាប់គ្រួសាររបស់អ្នក។ មូលដ្ឋានរឹងមាំជាងមុន អាចជាអ្វីដែលអ្នកទាំងអស់គ្នាចែករំលែក។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learn about prices, budgeting and better value as a curious beginner. Each small lesson can change a habit.",
+        "km": "សូមរៀនអំពីតម្លៃ ការធ្វើថវិកា និងតម្លៃល្អជាង ដូចជាអ្នកចាប់ផ្តើមដែលចង់ដឹងចង់ឃើញ។ មេរៀនតូចៗនីមួយៗ អាចផ្លាស់ប្តូរទម្លាប់មួយ។"
+      },
+      "challenge": {
+        "en": "Feeling you know too little could stop you from trying. Start with what you can manage.",
+        "km": "អារម្មណ៍ថាអ្នកដឹងតិចពេក អាចរារាំងអ្នកពីការព្យាយាម។ សូមចាប់ផ្តើមជាមួយអ្វីដែលអ្នកអាចគ្រប់គ្រងបាន។"
+      },
+      "outcome": {
+        "en": "Steady learning could build smarter habits. Small lessons may add up to real savings and real confidence.",
+        "km": "ការរៀនជាប់លាប់ អាចកសាងទម្លាប់ឆ្លាតវៃជាងមុន។ មេរៀនតូចៗ អាចបូកបញ្ចូលគ្នាទៅជាការសន្សំពិតប្រាកដ និងទំនុកចិត្តពិតប្រាកដ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Build steady, reliable spending routines, such as regular reviews of bills. Slow, consistent habits outlast quick fixes.",
+        "km": "សូមកសាងទម្លាប់ចំណាយនឹងនរ និងគួរឱ្យទុកចិត្ត ដូចជាការពិនិត្យវិក្កយបត្រជាប្រចាំ។ ទម្លាប់យឺតៗ និងជាប់លាប់ ស្ថិតស្ថេរជាងដំណោះស្រាយរហ័ស។"
+      },
+      "challenge": {
+        "en": "Sticking rigidly to old routines could miss easy improvements. Review your habits from time to time.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ចាស់យ៉ាងតឹងរ៉ឹង អាចខកខានការកែលម្អងាយៗ។ សូមពិនិត្យទម្លាប់របស់អ្នកម្តងម្កាល។"
+      },
+      "outcome": {
+        "en": "Reliable habits could bring lasting stability. Steady, unglamorous progress may turn out to be the kind that lasts.",
+        "km": "ទម្លាប់គួរឱ្យទុកចិត្ត អាចនាំមកនូវស្ថិរភាពស្ថិតស្ថេរ។ ការរីកចម្រើននឹងនរ និងមិនភ្លឺចែងចាំង អាចប្រែជាប្រភេទដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Run your household spending practically, focusing on comfort and value rather than appearance. Good sense at home goes far.",
+        "km": "សូមដំណើរការការចំណាយគ្រួសាររបស់អ្នកដោយជាក់ស្តែង ដោយផ្តោតលើភាពសុខស្រួល និងតម្លៃ ជាជាងរូបរាង។ សុភវិនិច្ឆ័យនៅផ្ទះ ទៅបានឆ្ងាយ។"
+      },
+      "challenge": {
+        "en": "Keeping everyone at home comfortable could quietly push your own needs off the budget. Include yourself when you plan.",
+        "km": "ការរក្សាមនុស្សគ្រប់គ្នានៅផ្ទះឱ្យសុខស្រួល អាចរុញតម្រូវការរបស់អ្នកចេញពីថវិកាដោយស្ងាត់ៗ។ សូមរាប់បញ្ចូលខ្លួនឯង នៅពេលអ្នកធ្វើផែនការ។"
+      },
+      "outcome": {
+        "en": "Sensible household choices could make home feel comfortable without strain. Value may matter more than appearance.",
+        "km": "ជម្រើសគ្រួសារសមហេតុផល អាចធ្វើឱ្យផ្ទះមានអារម្មណ៍សុខស្រួល ដោយគ្មានភាពតានតឹង។ តម្លៃ អាចសំខាន់ជាងរូបរាង។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Review larger regular costs, such as housing, transport or insurance, with an experienced eye. Big savings often hide in big bills.",
+        "km": "សូមពិនិត្យការចំណាយទៀងទាត់ធំៗ ដូចជាលំនៅដ្ឋាន ការដឹកជញ្ជូន ឬការធានារ៉ាប់រង ដោយភ្នែកមានបទពិសោធន៍។ ការសន្សំធំៗ ជារឿយៗលាក់ខ្លួនក្នុងវិក្កយបត្រធំៗ។"
+      },
+      "challenge": {
+        "en": "Spending to keep up an image of success could cost more than it is worth. Measure success by security, not appearance.",
+        "km": "ការចំណាយដើម្បីរក្សារូបភាពនៃភាពជោគជ័យ អាចចំណាយច្រើនជាងតម្លៃរបស់វា។ សូមវាស់វែងភាពជោគជ័យដោយសុវត្ថិភាព មិនមែនរូបរាងទេ។"
+      },
+      "outcome": {
+        "en": "Smart choices on big costs could bring lasting savings. Solid security may follow from a few well-made decisions.",
+        "km": "ជម្រើសឆ្លាតវៃលើការចំណាយធំៗ អាចនាំមកនូវការសន្សំស្ថិតស្ថេរ។ សុវត្ថិភាពរឹងមាំ អាចកើតឡើងពីការសម្រេចចិត្តល្អៗមួយចំនួន។"
+      }
+    }
+  }
+}
