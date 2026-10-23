@@ -1,0 +1,1097 @@
+{
+  "questionId": "LF-07",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Trust yourself enough to begin before you feel completely ready. Life often teaches you the way once you take the first step.",
+        "km": "សូមទុកចិត្តខ្លួនឯងឱ្យល្មមដើម្បីចាប់ផ្តើម មុនពេលអ្នកមានអារម្មណ៍ថាត្រៀមខ្លួនរួចរាល់ទាំងស្រុង។ ជីវិតច្រើនតែបង្រៀនអ្នកពីផ្លូវ នៅពេលអ្នកបោះជំហានដំបូង។"
+      },
+      "challenge": {
+        "en": "The hard part to hear may be that freedom still needs some care. Enjoy the leap, but look where you land.",
+        "km": "ផ្នែកដែលពិបាកស្តាប់ ប្រហែលជាថាសេរីភាពនៅតែត្រូវការការប្រុងប្រយ័ត្នខ្លះ។ សូមរីករាយនឹងការលោត ប៉ុន្តែមើលកន្លែងដែលអ្នកនឹងចុះ។"
+      },
+      "outcome": {
+        "en": "Taking the advice could bring a lighter heart and a fresh chapter. Being open to the unknown may lead you somewhere wonderful.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវចិត្តស្រាល និងជំពូកថ្មី។ ការបើកចិត្តចំពោះអ្វីដែលមិនស្គាល់ អាចនាំអ្នកទៅកាន់កន្លែងដ៏អស្ចារ្យ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You already have what you need, so stop waiting and use it. Your skills are ready, even if your confidence is not.",
+        "km": "អ្នកមានអ្វីដែលអ្នកត្រូវការរួចហើយ ដូច្នេះសូមឈប់រង់ចាំ ហើយប្រើវា។ ជំនាញរបស់អ្នកត្រៀមរួចហើយ ទោះបីទំនុកចិត្តរបស់អ្នកមិនទាន់ត្រៀមក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that trying everything means finishing nothing. Pick one aim and give it your full power.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការសាកល្បងគ្រប់យ៉ាង មានន័យថាមិនបានបញ្ចប់អ្វីសោះ។ សូមជ្រើសគោលដៅមួយ ហើយផ្តល់កម្លាំងទាំងអស់ដល់វា។"
+      },
+      "outcome": {
+        "en": "Acting on the advice could turn your ideas into results you can see. You may surprise yourself with what you can create.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចប្រែគំនិតរបស់អ្នកឱ្យទៅជាលទ្ធផលដែលអ្នកអាចមើលឃើញ។ អ្នកអាចធ្វើឱ្យខ្លួនឯងភ្ញាក់ផ្អើល ចំពោះអ្វីដែលអ្នកអាចបង្កើតបាន។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Listen to your inner voice more than to the noise around you. You already sense more of the answer than you admit.",
+        "km": "សូមស្តាប់សំឡេងខាងក្នុងរបស់អ្នក ច្រើនជាងភាពអ៊ូអរនៅជុំវិញ។ អ្នកដឹងចម្លើយច្រើនជាងអ្វីដែលអ្នកទទួលស្គាល់រួចហើយ។"
+      },
+      "challenge": {
+        "en": "It may be hard to accept that not every answer comes quickly. Some truths only show themselves when you wait quietly.",
+        "km": "វាអាចពិបាកទទួលយកថា មិនមែនគ្រប់ចម្លើយមកដល់យ៉ាងរហ័សនោះទេ។ ការពិតខ្លះ បង្ហាញខ្លួនតែនៅពេលអ្នករង់ចាំដោយស្ងប់ស្ងាត់ប៉ុណ្ណោះ។"
+      },
+      "outcome": {
+        "en": "Trusting your intuition could lead you to choices that feel deeply right. Inner calm may become your guide.",
+        "km": "ការទុកចិត្តលើវិចារណញាណរបស់អ្នក អាចនាំអ្នកទៅរកជម្រើសដែលត្រឹមត្រូវយ៉ាងជ្រាលជ្រៅ។ ភាពស្ងប់ខាងក្នុង អាចក្លាយជាអ្នកណែនាំរបស់អ្នក។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Be as kind and generous with yourself as you are with others. You also deserve care, rest and good things.",
+        "km": "សូមមានក្តីមេត្តា និងសប្បុរសចំពោះខ្លួនឯង ដូចដែលអ្នកមានចំពោះអ្នកដទៃ។ អ្នកក៏សមនឹងទទួលការថែទាំ ការសម្រាក និងរឿងល្អៗដែរ។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that you cannot pour from an empty cup. Refill yourself before giving more.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាអ្នកមិនអាចចាក់ពីពែងទទេបានទេ។ សូមបំពេញខ្លួនឯងឡើងវិញ មុននឹងផ្តល់បន្ថែម។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could make your life feel fuller and more nourished. What you nurture, including yourself, may flourish.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចធ្វើឱ្យជីវិតរបស់អ្នកពេញលេញ និងមានជីវជាតិកាន់តែច្រើន។ អ្វីដែលអ្នកថែរក្សា រួមទាំងខ្លួនឯងផង អាចរីកលូតលាស់។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Bring order to your life with clear goals and firm limits. Structure is not a cage; it can be a support.",
+        "km": "សូមនាំសណ្តាប់ធ្នាប់មកក្នុងជីវិតរបស់អ្នក ដោយគោលដៅច្បាស់លាស់ និងដែនកំណត់រឹងមាំ។ របៀបរៀបរយមិនមែនជាទ្រុងទេ វាអាចជាការគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that control has limits. Be firm with yourself, but do not try to rule everyone else.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការគ្រប់គ្រងមានដែនកំណត់។ សូមរឹងមាំចំពោះខ្លួនឯង ប៉ុន្តែកុំព្យាយាមគ្រប់គ្រងអ្នកដទៃទាំងអស់។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could give you stability and quiet authority. People may come to rely on your steady leadership.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចផ្តល់ឱ្យអ្នកនូវស្ថិរភាព និងអំណាចដ៏ស្ងប់ស្ងាត់។ មនុស្សអាចចាប់ផ្តើមពឹងផ្អែកលើភាពជាអ្នកដឹកនាំដ៏នឹងនររបស់អ្នក។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Seek guidance from someone wise and experienced. You do not have to figure everything out alone.",
+        "km": "សូមស្វែងរកការណែនាំពីនរណាម្នាក់ដែលមានប្រាជ្ញា និងបទពិសោធន៍។ អ្នកមិនចាំបាច់ស្វែងយល់អ្វីៗទាំងអស់តែម្នាក់ឯងទេ។"
+      },
+      "challenge": {
+        "en": "It may be uncomfortable to admit that some old rules no longer fit. Respect tradition, but choose what works for you.",
+        "km": "វាអាចពិបាកទទួលស្គាល់ថា ច្បាប់ចាស់ខ្លះលែងសមហើយ។ សូមគោរពប្រពៃណី ប៉ុន្តែជ្រើសរើសអ្វីដែលដំណើរការសម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Listening to good counsel could save you time and mistakes. You may find both wisdom and a sense of belonging.",
+        "km": "ការស្តាប់ដំបូន្មានល្អ អាចជួយសន្សំពេលវេលា និងជៀសវាងកំហុស។ អ្នកអាចរកឃើញទាំងប្រាជ្ញា និងអារម្មណ៍ថាមានកន្លែងរបស់ខ្លួន។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Let your values make your choices, not fear or pressure. When your heart and your actions agree, life feels lighter.",
+        "km": "សូមឱ្យគុណតម្លៃរបស់អ្នកធ្វើការជ្រើសរើស មិនមែនការភ័យខ្លាច ឬសម្ពាធទេ។ នៅពេលចិត្ត និងសកម្មភាពរបស់អ្នកស្របគ្នា ជីវិតហាក់ដូចជាស្រាលជាងមុន។"
+      },
+      "challenge": {
+        "en": "The hard part may be accepting that every real choice means giving something up. Choose anyway, with honesty.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការទទួលយកថា គ្រប់ជម្រើសពិតប្រាកដ មានន័យថាត្រូវលះបង់អ្វីមួយ។ សូមជ្រើសរើសដដែល ដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Following your values could bring harmony and stronger bonds. You may feel more whole and at peace with yourself.",
+        "km": "ការធ្វើតាមគុណតម្លៃរបស់អ្នក អាចនាំមកនូវភាពសុខដុម និងចំណងកាន់តែរឹងមាំ។ អ្នកអាចមានអារម្មណ៍ពេញលេញ និងស្ងប់ចិត្តជាមួយខ្លួនឯងជាងមុន។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Decide where you are going and hold the course. Determination is the key that moves you forward.",
+        "km": "សូមសម្រេចថាអ្នកកំពុងទៅណា ហើយរក្សាទិសដៅនោះ។ ការតាំងចិត្ត គឺជាគន្លឹះដែលរុញអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that you cannot go two ways at once. Unite your goals before pushing harder.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា អ្នកមិនអាចទៅពីរទិសក្នុងពេលតែមួយបានទេ។ សូមបង្រួបបង្រួមគោលដៅរបស់អ្នក មុននឹងរុញខ្លាំងជាងនេះ។"
+      },
+      "outcome": {
+        "en": "Acting with focus could carry you to a well-earned win. Your willpower may take you further than you expect.",
+        "km": "ការធ្វើសកម្មភាពដោយផ្តោតអារម្មណ៍ អាចនាំអ្នកទៅរកជ័យជម្នះដែលអ្នកសមនឹងទទួល។ ឆន្ទៈរបស់អ្នក អាចនាំអ្នកទៅបានឆ្ងាយជាងការរំពឹងទុក។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Be patient and gentle, especially with yourself. Quiet strength can achieve what force cannot.",
+        "km": "សូមអត់ធ្មត់ និងទន់ភ្លន់ ជាពិសេសចំពោះខ្លួនឯង។ កម្លាំងដ៏ស្ងប់ស្ងាត់ អាចសម្រេចបាននូវអ្វីដែលការបង្ខំមិនអាចធ្វើបាន។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that anger or impatience is costing you. Calm your reactions before they decide for you.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាកំហឹង ឬការមិនអត់ធ្មត់ កំពុងធ្វើឱ្យអ្នកខាតបង់។ សូមធ្វើឱ្យប្រតិកម្មរបស់អ្នកស្ងប់ មុនពេលវាសម្រេចជំនួសអ្នក។"
+      },
+      "outcome": {
+        "en": "Taking the advice could build inner confidence that lasts. Others may come to respect your calm courage.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចកសាងទំនុកចិត្តខាងក្នុងដែលស្ថិតស្ថេរ។ អ្នកដទៃអាចចាប់ផ្តើមគោរពភាពក្លាហានដ៏ស្ងប់ស្ងាត់របស់អ្នក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Take time alone to hear your own thoughts clearly. The answer you need may come in a quiet moment.",
+        "km": "សូមចំណាយពេលនៅម្នាក់ឯង ដើម្បីស្តាប់គំនិតរបស់អ្នកឱ្យបានច្បាស់។ ចម្លើយដែលអ្នកត្រូវការ អាចមកដល់ក្នុងពេលស្ងប់ស្ងាត់មួយ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that hiding away will not solve everything. Reflect, then reconnect with people who care.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការលាក់ខ្លួនមិនអាចដោះស្រាយអ្វីៗទាំងអស់បានទេ។ សូមពិចារណា រួចភ្ជាប់ទំនាក់ទំនងឡើងវិញជាមួយមនុស្សដែលយកចិត្តទុកដាក់ចំពោះអ្នក។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring wisdom and a clearer sense of who you are. Your inner guidance may grow stronger.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវប្រាជ្ញា និងការស្គាល់ខ្លួនឯងកាន់តែច្បាស់។ ការណែនាំខាងក្នុងរបស់អ្នក អាចកាន់តែរឹងមាំ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Go with the changes life is bringing instead of fighting them. Every turn of the wheel carries a chance.",
+        "km": "សូមដើរតាមការផ្លាស់ប្តូរដែលជីវិតកំពុងនាំមក ជាជាងប្រឆាំងនឹងវា។ ការវិលនីមួយៗនៃកង់ មានឱកាសមួយ។"
+      },
+      "challenge": {
+        "en": "It may be hard to hear that some things are out of your hands. Focus on how you respond, not on controlling everything.",
+        "km": "វាអាចពិបាកស្តាប់ថា រឿងខ្លះហួសពីដៃរបស់អ្នក។ សូមផ្តោតលើរបៀបដែលអ្នកឆ្លើយតប មិនមែនលើការគ្រប់គ្រងអ្វីៗទាំងអស់ទេ។"
+      },
+      "outcome": {
+        "en": "Staying flexible could help you catch a lucky turn when it comes. Good timing may work in your favour.",
+        "km": "ការរក្សាភាពបត់បែន អាចជួយអ្នកចាប់យកការប្រែប្រួលដ៏សំណាង នៅពេលវាមកដល់។ ពេលវេលាល្អ អាចជួយអ្នក។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Be honest with yourself and fair with others. The right choice is usually the one you can explain without shame.",
+        "km": "សូមស្មោះត្រង់ជាមួយខ្លួនឯង និងយុត្តិធម៌ជាមួយអ្នកដទៃ។ ជម្រើសត្រឹមត្រូវ ច្រើនតែជាជម្រើសដែលអ្នកអាចពន្យល់ដោយមិនខ្មាសអៀន។"
+      },
+      "challenge": {
+        "en": "The hard part may be owning your share of a problem. Accepting responsibility can be the first step to setting things right.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការទទួលស្គាល់ចំណែករបស់អ្នកក្នុងបញ្ហាមួយ។ ការទទួលខុសត្រូវ អាចជាជំហានដំបូងក្នុងការកែអ្វីៗឱ្យត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "Acting with integrity could bring balance and a clear conscience. Fair choices may lead to fair results.",
+        "km": "ការធ្វើសកម្មភាពដោយសុចរិតភាព អាចនាំមកនូវតុល្យភាព និងចិត្តស្អាត។ ជម្រើសដ៏យុត្តិធម៌ អាចនាំទៅរកលទ្ធផលដ៏យុត្តិធម៌។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Stop pushing for a moment and look at things from a new angle. A pause can reveal what effort keeps missing.",
+        "km": "សូមឈប់រុញមួយភ្លែត ហើយមើលអ្វីៗពីមុំថ្មី។ ការផ្អាក អាចបង្ហាញអ្វីដែលការខិតខំនៅតែមើលរំលង។"
+      },
+      "challenge": {
+        "en": "You may need to hear that waiting is not the same as failing. Accept the pause and use it well.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការរង់ចាំមិនមែនដូចគ្នានឹងការបរាជ័យទេ។ សូមទទួលយកការផ្អាក ហើយប្រើវាឱ្យបានល្អ។"
+      },
+      "outcome": {
+        "en": "Seeing differently could open a way forward you had not considered. Letting go of one belief may change everything.",
+        "km": "ការមើលខុសពីមុន អាចបើកផ្លូវទៅមុខដែលអ្នកមិនធ្លាប់គិតដល់។ ការលែងប្រកាន់ជំនឿមួយ អាចផ្លាស់ប្តូរអ្វីៗទាំងអស់។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Let go of what has run its course, even if it was once important. Endings make room for new life.",
+        "km": "សូមដោះលែងអ្វីដែលបានដល់ទីបញ្ចប់របស់វា ទោះបីវាធ្លាប់សំខាន់ក៏ដោយ។ ការបញ្ចប់ បើកកន្លែងសម្រាប់ជីវិតថ្មី។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that holding on is causing more pain than letting go. Allow the chapter to close.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាការតោងជាប់ កំពុងបង្កការឈឺចាប់ច្រើនជាងការដោះលែង។ សូមអនុញ្ញាតឱ្យជំពូកនោះបិទ។"
+      },
+      "outcome": {
+        "en": "Accepting change could bring deep renewal. A new beginning may follow what you release.",
+        "km": "ការទទួលយកការផ្លាស់ប្តូរ អាចនាំមកនូវការកើតឡើងវិញយ៉ាងជ្រាលជ្រៅ។ ការចាប់ផ្តើមថ្មី អាចមកបន្ទាប់ពីអ្វីដែលអ្នកដោះលែង។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Find the middle way, and avoid extremes in work, feelings and habits. Moderation is quietly powerful.",
+        "km": "សូមរកផ្លូវកណ្តាល ហើយជៀសវាងភាពហួសហេតុ ក្នុងការងារ អារម្មណ៍ និងទម្លាប់។ ភាពល្មមមានអំណាចដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that rushing will not help. Steady, patient steps work better than big leaps.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការប្រញាប់មិនអាចជួយបានទេ។ ជំហានដ៏នឹងនរ និងអត់ធ្មត់ មានប្រសិទ្ធភាពជាងការលោតធំៗ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring calm and balance into daily life. Patience may give results that last.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវភាពស្ងប់ និងតុល្យភាពក្នុងជីវិតប្រចាំថ្ងៃ។ ការអត់ធ្មត់ អាចផ្តល់លទ្ធផលដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Be honest about what is holding you back, whether a habit, a fear or a person. Seeing it clearly is the start of freedom.",
+        "km": "សូមស្មោះត្រង់អំពីអ្វីដែលកំពុងរារាំងអ្នក មិនថាជាទម្លាប់ ការភ័យខ្លាច ឬមនុស្សម្នាក់។ ការមើលឃើញវាច្បាស់ គឺជាការចាប់ផ្តើមនៃសេរីភាព។"
+      },
+      "challenge": {
+        "en": "The hard part may be admitting that you have more choice than it feels. Seek support if breaking free seems too hard alone.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការទទួលស្គាល់ថា អ្នកមានជម្រើសច្រើនជាងអ្វីដែលអ្នកគិត។ សូមស្វែងរកការគាំទ្រ ប្រសិនបើការរំដោះខ្លួនហាក់ពិបាកពេកសម្រាប់ធ្វើតែម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "Taking the advice could loosen something that has bound you. You may feel lighter and more in charge of your life.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចបន្ធូរអ្វីមួយដែលធ្លាប់ចងអ្នក។ អ្នកអាចមានអារម្មណ៍ស្រាល និងគ្រប់គ្រងជីវិតរបស់ខ្លួនបានកាន់តែច្រើន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Stop propping up what is clearly falling apart. It is safer to rebuild on truth than to protect a weak foundation.",
+        "km": "សូមឈប់ទប់អ្វីដែលច្បាស់ជាកំពុងដួលរលំ។ ការកសាងឡើងវិញលើការពិត មានសុវត្ថិភាពជាងការការពារមូលដ្ឋានដែលខ្សោយ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that some upheaval cannot be avoided. Protect what is essential and let the rest fall.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការរង្គោះរង្គើខ្លះមិនអាចជៀសវាងបានទេ។ សូមការពារអ្វីដែលចាំបាច់ ហើយឱ្យអ្វីផ្សេងទៀតធ្លាក់ចុះ។"
+      },
+      "outcome": {
+        "en": "Facing the change honestly could lead to a stronger, truer life. What survives may be what really matters.",
+        "km": "ការប្រឈមមុខនឹងការផ្លាស់ប្តូរដោយស្មោះត្រង់ អាចនាំទៅរកជីវិតដែលរឹងមាំ និងពិតប្រាកដជាងមុន។ អ្វីដែលនៅរស់រានមានជីវិត អាចជាអ្វីដែលពិតជាសំខាន់។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Keep hope alive, even if things have been hard. Better days are possible, and you are allowed to believe in them.",
+        "km": "សូមរក្សាក្តីសង្ឃឹមឱ្យនៅរស់ ទោះបីអ្វីៗធ្លាប់លំបាកក៏ដោយ។ ថ្ងៃដ៏ល្អជាងនេះ អាចកើតឡើងបាន ហើយអ្នកមានសិទ្ធិជឿលើវា។"
+      },
+      "challenge": {
+        "en": "It may be hard to trust good news after disappointment. Let small signs of healing count.",
+        "km": "វាអាចពិបាកទុកចិត្តដំណឹងល្អ បន្ទាប់ពីការខកចិត្ត។ សូមឱ្យសញ្ញាតូចៗនៃការជាសះស្បើយមានតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Holding on to hope could bring renewal and peace. Your faith in the future may help it come true.",
+        "km": "ការរក្សាក្តីសង្ឃឹម អាចនាំមកនូវការកើតឡើងវិញ និងសន្តិភាព។ ជំនឿរបស់អ្នកលើអនាគត អាចជួយឱ្យវាក្លាយជាការពិត។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Do not believe every fear your mind tells you. Check what is real before you act on worry.",
+        "km": "សូមកុំជឿគ្រប់ការភ័យខ្លាចដែលគំនិតរបស់អ្នកប្រាប់។ សូមពិនិត្យអ្វីដែលពិត មុននឹងធ្វើសកម្មភាពតាមការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that not everything is as it seems, including people. Take your time before trusting.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា មិនមែនអ្វីៗទាំងអស់ដូចដែលវាមើលទៅនោះទេ រួមទាំងមនុស្សផង។ សូមចំណាយពេល មុននឹងទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Seeking the truth calmly could clear away confusion. Things may turn out gentler than your fears suggest.",
+        "km": "ការស្វែងរកការពិតដោយស្ងប់ស្ងាត់ អាចកម្ចាត់ភាពច្របូកច្របល់។ អ្វីៗអាចចេញមកទន់ភ្លន់ជាងអ្វីដែលការភ័យខ្លាចរបស់អ្នកបង្ហាញ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Let yourself enjoy life and believe in your own light. Joy and confidence are good guides.",
+        "km": "សូមអនុញ្ញាតឱ្យខ្លួនឯងរីករាយនឹងជីវិត ហើយជឿលើពន្លឺរបស់ខ្លួន។ សេចក្តីរីករាយ និងទំនុកចិត្ត គឺជាអ្នកណែនាំល្អ។"
+      },
+      "challenge": {
+        "en": "The hard part may be staying humble when things go well. Keep listening and paying attention to details.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការរក្សាភាពរាបទាប នៅពេលអ្វីៗដំណើរការល្អ។ សូមបន្តស្តាប់ និងយកចិត្តទុកដាក់លើព័ត៌មានលម្អិត។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring success, warmth and recognition. Your happiness may brighten the lives of others too.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវភាពជោគជ័យ ភាពកក់ក្តៅ និងការទទួលស្គាល់។ សេចក្តីរីករាយរបស់អ្នក អាចធ្វើឱ្យជីវិតរបស់អ្នកដទៃភ្លឺស្វាងផងដែរ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Forgive yourself and answer the call to start again. Your past is a teacher, not a sentence.",
+        "km": "សូមអភ័យទោសឱ្យខ្លួនឯង ហើយឆ្លើយតបនឹងការហៅឱ្យចាប់ផ្តើមម្តងទៀត។ អតីតកាលរបស់អ្នកគឺជាគ្រូ មិនមែនជាការកាត់ទោសទេ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that judging yourself harshly helps no one. Learn the lesson and move on.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការវិនិច្ឆ័យខ្លួនឯងយ៉ាងតឹងរ៉ឹង មិនជួយនរណាម្នាក់ទេ។ សូមរៀនមេរៀន ហើយបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring a fresh start and clear purpose. You may feel reborn.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការចាប់ផ្តើមថ្មី និងគោលបំណងច្បាស់លាស់។ អ្នកអាចមានអារម្មណ៍ដូចជាកើតជាថ្មី។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Finish what you started and honour how far you have come. Completion brings peace and freedom.",
+        "km": "សូមបញ្ចប់អ្វីដែលអ្នកបានចាប់ផ្តើម ហើយគោរពចម្ងាយដែលអ្នកបានមកដល់។ ការបញ្ចប់ នាំមកនូវសន្តិភាព និងសេរីភាព។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that loose ends are holding you back. Close the last details before moving on.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថារឿងតូចៗដែលមិនទាន់ចប់ កំពុងរារាំងអ្នក។ សូមបញ្ចប់ព័ត៌មានលម្អិតចុងក្រោយ មុននឹងបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring a deep sense of fulfilment. A new journey may open once the current one closes.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវអារម្មណ៍នៃការសម្រេចបានយ៉ាងជ្រាលជ្រៅ។ ដំណើរថ្មីអាចបើកឡើង នៅពេលដំណើរបច្ចុប្បន្នបិទ។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Follow the spark that excites you, and act on it while it is still fresh. Inspiration grows stronger when you put it to use.",
+        "km": "សូមដើរតាមផ្កាភ្លើងដែលធ្វើឱ្យអ្នករំភើប ហើយធ្វើតាមវា ខណៈវានៅស្រស់។ ការបំផុសគំនិតកាន់តែខ្លាំង នៅពេលអ្នកយកវាមកប្រើ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that ideas fade without action. Take one real step while your energy is high.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា គំនិតរសាត់បាត់ ប្រសិនបើគ្មានសកម្មភាព។ សូមបោះជំហានពិតមួយ ខណៈថាមពលរបស់អ្នកនៅខ្ពស់។"
+      },
+      "outcome": {
+        "en": "Acting on inspiration could start something exciting and new. Your enthusiasm may carry you far.",
+        "km": "ការធ្វើតាមការបំផុសគំនិត អាចចាប់ផ្តើមអ្វីមួយថ្មី និងគួរឱ្យរំភើប។ ភាពរំភើបរបស់អ្នក អាចនាំអ្នកទៅបានឆ្ងាយ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Think bigger about your future, and then make a plan. Your world can be wider than it is.",
+        "km": "សូមគិតឱ្យធំជាងនេះអំពីអនាគតរបស់អ្នក ហើយបន្ទាប់មករៀបផែនការ។ ពិភពរបស់អ្នក អាចទូលំទូលាយជាងអ្វីដែលវាមាន។"
+      },
+      "challenge": {
+        "en": "The hard part may be leaving your comfort zone. A plan only matters when you take its first step.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការចាកចេញពីតំបន់ស្រួលរបស់អ្នក។ ផែនការមួយមានន័យ តែនៅពេលអ្នកបោះជំហានដំបូងរបស់វា។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could open new horizons and choices. Bold planning may lead to real progress.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចបើកជើងមេឃ និងជម្រើសថ្មីៗ។ ការរៀបផែនការដ៏ក្លាហាន អាចនាំទៅរកការរីកចម្រើនពិតប្រាកដ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Keep going, because your efforts are starting to pay off. Look further ahead than you usually do.",
+        "km": "សូមបន្តទៅមុខ ព្រោះការខិតខំរបស់អ្នកកំពុងចាប់ផ្តើមផ្តល់ផល។ សូមមើលទៅមុខឆ្ងាយជាងអ្វីដែលអ្នកធ្លាប់មើល។"
+      },
+      "challenge": {
+        "en": "You may need to hear that patience is part of progress. Do not give up just before results arrive.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការអត់ធ្មត់គឺជាផ្នែកមួយនៃការរីកចម្រើន។ សូមកុំបោះបង់ មុនពេលលទ្ធផលមកដល់។"
+      },
+      "outcome": {
+        "en": "Staying the course could bring wider success and new contacts. Your reach may grow beyond what you imagined.",
+        "km": "ការរក្សាទិសដៅ អាចនាំមកនូវភាពជោគជ័យកាន់តែទូលំទូលាយ និងទំនាក់ទំនងថ្មី។ ឥទ្ធិពលរបស់អ្នក អាចរីកធំហួសពីអ្វីដែលអ្នកស្រមៃ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Celebrate what is good in your life, and share it with people you love. Joy shared is joy doubled.",
+        "km": "សូមអបអរអ្វីដែលល្អក្នុងជីវិតរបស់អ្នក ហើយចែករំលែកវាជាមួយមនុស្សដែលអ្នកស្រឡាញ់។ សេចក្តីរីករាយដែលចែករំលែក គឺជាសេចក្តីរីករាយទ្វេដង។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that you rarely stop to enjoy what you have built. Make time to rest and appreciate.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាអ្នកកម្រឈប់ដើម្បីរីករាយនឹងអ្វីដែលអ្នកបានកសាង។ សូមទុកពេលដើម្បីសម្រាក និងដឹងគុណ។"
+      },
+      "outcome": {
+        "en": "Taking the advice could strengthen your sense of home and belonging. Happy moments may become lasting memories.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចពង្រឹងអារម្មណ៍នៃផ្ទះ និងការមានកន្លែងរបស់ខ្លួន។ ពេលវេលាដ៏រីករាយ អាចក្លាយជាអនុស្សាវរីយ៍យូរអង្វែង។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Choose your battles and listen before you argue. Not every disagreement deserves your energy.",
+        "km": "សូមជ្រើសការប្រយុទ្ធរបស់អ្នក ហើយស្តាប់មុននឹងប្រកែក។ មិនមែនគ្រប់ការខ្វែងគំនិតសុទ្ធតែសមនឹងថាមពលរបស់អ្នកនោះទេ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that being right is not always worth the fight. Look for common ground.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការធ្វើជាអ្នកត្រូវ មិនតែងតែសមនឹងការប្រយុទ្ធនោះទេ។ សូមស្វែងរកចំណុចរួម។"
+      },
+      "outcome": {
+        "en": "Handling conflict wisely could bring more peace and respect. Healthy competition may even make you stronger.",
+        "km": "ការដោះស្រាយជម្លោះដោយឈ្លាសវៃ អាចនាំមកនូវសន្តិភាព និងការគោរពកាន់តែច្រើន។ ការប្រកួតប្រជែងដ៏ល្អ ថែមទាំងអាចធ្វើឱ្យអ្នកកាន់តែរឹងមាំ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Believe in your achievements and let yourself be seen. You have earned your place.",
+        "km": "សូមជឿលើសមិទ្ធផលរបស់អ្នក ហើយអនុញ្ញាតឱ្យខ្លួនឯងត្រូវបានគេមើលឃើញ។ អ្នកសមនឹងទទួលបានកន្លែងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "The hard part may be remembering those who helped you along the way. Share the credit generously.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការចងចាំអ្នកដែលបានជួយអ្នកតាមផ្លូវ។ សូមចែករំលែកកិត្តិយសដោយចិត្តទូលាយ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring recognition and growing confidence. Your example may encourage others to believe in their own progress too.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការទទួលស្គាល់ និងទំនុកចិត្តដែលកំពុងកើនឡើង។ គំរូរបស់អ្នក អាចលើកទឹកចិត្តអ្នកដទៃឱ្យជឿលើការរីកចម្រើនរបស់ខ្លួនដែរ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Stand up for what you believe in, calmly and firmly. Your position is worth defending.",
+        "km": "សូមក្រោកឈរការពារអ្វីដែលអ្នកជឿជាក់ ដោយស្ងប់ស្ងាត់ និងរឹងមាំ។ ជំហររបស់អ្នក សមនឹងការការពារ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that you cannot fight on every front. Save your strength for what matters most.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា អ្នកមិនអាចប្រយុទ្ធគ្រប់ទិសបានទេ។ សូមសន្សំកម្លាំងរបស់អ្នកសម្រាប់អ្វីដែលសំខាន់បំផុត។"
+      },
+      "outcome": {
+        "en": "Holding your ground could protect what you value and earn respect. Courage may prove stronger than pressure.",
+        "km": "ការរក្សាជំហររបស់អ្នក អាចការពារអ្វីដែលអ្នកឱ្យតម្លៃ និងទទួលបានការគោរព។ ភាពក្លាហាន អាចបង្ហាញថាខ្លាំងជាងសម្ពាធ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Act while the timing is good, and respond to messages promptly. Things are ready to move.",
+        "km": "សូមធ្វើសកម្មភាព ខណៈពេលវេលាល្អ ហើយឆ្លើយតបសារទាន់ពេល។ អ្វីៗត្រៀមរួចជាស្រេចដើម្បីដំណើរការ។"
+      },
+      "challenge": {
+        "en": "The hard part may be slowing down enough to check details. Speed is good, but carelessness is not.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការបន្ថយល្បឿនឱ្យល្មម ដើម្បីពិនិត្យព័ត៌មានលម្អិត។ ល្បឿនគឺល្អ ប៉ុន្តែការធ្វេសប្រហែសមិនល្អទេ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring quick progress and good news. Things may come together faster than you expect.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការរីកចម្រើនរហ័ស និងដំណឹងល្អ។ អ្វីៗអាចរួមគ្នាលឿនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Keep going, but look after yourself along the way. You are stronger and closer than you feel.",
+        "km": "សូមបន្តទៅមុខ ប៉ុន្តែថែរក្សាខ្លួនឯងតាមផ្លូវ។ អ្នករឹងមាំ និងជិតដល់ទីដៅជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "You may need to hear that past hurts should not make you shut everyone out. Guard yourself, but stay open to help.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការឈឺចាប់ពីមុនមិនគួរធ្វើឱ្យអ្នកបិទទ្វារលើគ្រប់គ្នាទេ។ សូមការពារខ្លួន ប៉ុន្តែបើកចិត្តទទួលជំនួយ។"
+      },
+      "outcome": {
+        "en": "Persisting with care could carry you through to the finish. Your resilience may be rewarded.",
+        "km": "ការតស៊ូដោយប្រុងប្រយ័ត្ន អាចនាំអ្នកឆ្លងដល់ទីបញ្ចប់។ ភាពធន់របស់អ្នក អាចទទួលបានរង្វាន់។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Put down what is not yours to carry, and ask for help with the rest. You do not have to do it all.",
+        "km": "សូមដាក់ចុះនូវអ្វីដែលមិនមែនជារបស់អ្នកត្រូវលីសែង ហើយសុំជំនួយសម្រាប់អ្វីដែលនៅសល់។ អ្នកមិនចាំបាច់ធ្វើវាទាំងអស់ទេ។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that saying yes to everything is hurting you. Learn to say no kindly.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាការយល់ព្រមលើគ្រប់យ៉ាង កំពុងធ្វើឱ្យអ្នកឈឺចាប់។ សូមរៀនបដិសេធដោយទន់ភ្លន់។"
+      },
+      "outcome": {
+        "en": "Lightening your load could bring relief and clearer focus. Life may feel manageable again.",
+        "km": "ការធ្វើឱ្យបន្ទុករបស់អ្នកស្រាល អាចនាំមកនូវការធូរស្រាល និងការផ្តោតអារម្មណ៍កាន់តែច្បាស់។ ជីវិតអាចងាយគ្រប់គ្រងម្តងទៀត។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Stay curious and try something new without worrying about being good at it. Beginners learn the fastest.",
+        "km": "សូមរក្សាចិត្តចង់ដឹង ហើយសាកល្បងអ្វីថ្មី ដោយមិនបារម្ភថាធ្វើបានល្អឬអត់។ អ្នកចាប់ផ្តើមរៀនបានលឿនបំផុត។"
+      },
+      "challenge": {
+        "en": "You may need to hear that finishing matters as much as starting. Follow one idea all the way.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការបញ្ចប់សំខាន់ដូចការចាប់ផ្តើមដែរ។ សូមដើរតាមគំនិតមួយរហូតដល់ចប់។"
+      },
+      "outcome": {
+        "en": "Following your curiosity could lead to exciting discoveries. A playful spirit may open doors.",
+        "km": "ការដើរតាមចិត្តចង់ដឹងរបស់អ្នក អាចនាំទៅរកការរកឃើញដ៏គួរឱ្យរំភើប។ ស្មារតីដ៏រីករាយ អាចបើកទ្វារ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Be bold and take action on what you want. Hesitation will not bring it closer.",
+        "km": "សូមក្លាហាន ហើយធ្វើសកម្មភាពលើអ្វីដែលអ្នកចង់បាន។ ការស្ទាក់ស្ទើរ មិនអាចនាំវាឱ្យកាន់តែជិតបានទេ។"
+      },
+      "challenge": {
+        "en": "The hard part may be pausing to aim before you charge. Courage works best with a plan.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការផ្អាកដើម្បីកំណត់គោលដៅ មុននឹងប្រញាប់ទៅមុខ។ ភាពក្លាហានមានប្រសិទ្ធភាពបំផុត នៅពេលមានផែនការ។"
+      },
+      "outcome": {
+        "en": "Acting boldly could bring adventure and fast progress. Your energy may move things that have been stuck.",
+        "km": "ការធ្វើសកម្មភាពដោយក្លាហាន អាចនាំមកនូវដំណើរផ្សងព្រេង និងការរីកចម្រើនរហ័ស។ ថាមពលរបស់អ្នក អាចរុញអ្វីៗដែលធ្លាប់ជាប់គាំងឱ្យដើរ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Be confident and warm, and let your true self shine. People are drawn to who you really are.",
+        "km": "សូមមានទំនុកចិត្ត និងកក់ក្តៅ ហើយឱ្យខ្លួនពិតរបស់អ្នកភ្លឺចែងចាំង។ មនុស្សត្រូវបានទាក់ទាញដោយខ្លួនពិតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "You may need to hear that you cannot do everything alone. Let others help so you do not burn out.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា អ្នកមិនអាចធ្វើគ្រប់យ៉ាងតែម្នាក់ឯងបានទេ។ សូមឱ្យអ្នកដទៃជួយ ដើម្បីកុំឱ្យអ្នកអស់កម្លាំង។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring support, friendship and success. Your warmth may inspire those around you.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការគាំទ្រ មិត្តភាព និងភាពជោគជ័យ។ ភាពកក់ក្តៅរបស់អ្នក អាចបំផុសមនុស្សនៅជុំវិញ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Take the lead in your own life and follow your vision. You are capable of more than you think.",
+        "km": "សូមដឹកនាំជីវិតរបស់អ្នកដោយខ្លួនឯង ហើយដើរតាមចក្ខុវិស័យរបស់អ្នក។ អ្នកមានសមត្ថភាពច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that impatience with others is slowing you down. Lead by example, not pressure.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាការមិនអត់ធ្មត់ជាមួយអ្នកដទៃ កំពុងធ្វើឱ្យអ្នកយឺត។ សូមដឹកនាំដោយការធ្វើជាគំរូ មិនមែនដោយសម្ពាធទេ។"
+      },
+      "outcome": {
+        "en": "Following your vision could bring real achievement and respect. Others may be inspired to join you.",
+        "km": "ការដើរតាមចក្ខុវិស័យរបស់អ្នក អាចនាំមកនូវសមិទ្ធផលពិតប្រាកដ និងការគោរព។ អ្នកដទៃអាចត្រូវបានបំផុសឱ្យចូលរួមជាមួយអ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Open your heart and let love in, starting with love for yourself. Feelings are not a weakness.",
+        "km": "សូមបើកចិត្ត ហើយអនុញ្ញាតឱ្យក្តីស្រឡាញ់ចូលមក ចាប់ផ្តើមពីការស្រឡាញ់ខ្លួនឯង។ អារម្មណ៍មិនមែនជាភាពទន់ខ្សោយទេ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that protecting yourself too much can keep good things out. Take a small risk on kindness.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការការពារខ្លួនច្រើនពេក អាចធ្វើឱ្យរឿងល្អៗចូលមិនបាន។ សូមហ៊ានប្រថុយបន្តិចដើម្បីក្តីមេត្តា។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring new love, joy and emotional healing. Your heart may feel full again.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវក្តីស្រឡាញ់ថ្មី សេចក្តីរីករាយ និងការព្យាបាលផ្នែកអារម្មណ៍។ ចិត្តរបស់អ្នកអាចពេញលេញម្តងទៀត។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Value the people who stand beside you, and meet them halfway. Good relationships are built from both sides.",
+        "km": "សូមឱ្យតម្លៃមនុស្សដែលឈរក្បែរអ្នក ហើយជួបពួកគេពាក់កណ្តាលផ្លូវ។ ទំនាក់ទំនងល្អ ត្រូវបានកសាងពីភាគីទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "The hard part may be speaking up when a relationship feels unequal. Honest talk can restore balance.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការនិយាយចេញ នៅពេលទំនាក់ទំនងមួយហាក់ដូចជាមិនស្មើគ្នា។ ការនិយាយដោយស្មោះត្រង់ អាចស្តារតុល្យភាពឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could deepen a bond that matters. Mutual respect may bring lasting happiness.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចធ្វើឱ្យចំណងដ៏សំខាន់មួយកាន់តែជ្រាលជ្រៅ។ ការគោរពគ្នាទៅវិញទៅមក អាចនាំមកនូវសុភមង្គលយូរអង្វែង។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Make time for friends and laughter. You need joy and company more than you may admit.",
+        "km": "សូមទុកពេលសម្រាប់មិត្តភក្តិ និងសំណើច។ អ្នកត្រូវការសេចក្តីរីករាយ និងការជួបជុំ ច្រើនជាងអ្វីដែលអ្នកប្រហែលជាទទួលស្គាល់។"
+      },
+      "challenge": {
+        "en": "You may need to hear that too much fun can crowd out your goals. Balance social life with your own plans.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការសប្បាយច្រើនពេក អាចរុញគោលដៅរបស់អ្នកចេញ។ សូមរក្សាតុល្យភាពរវាងជីវិតសង្គម និងផែនការផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring happiness and a strong support circle. Shared joy may carry you through hard times.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវសុភមង្គល និងរង្វង់គាំទ្រដ៏រឹងមាំ។ សេចក្តីរីករាយដែលចែករំលែក អាចនាំអ្នកឆ្លងកាត់ពេលវេលាលំបាក។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Look again at what life is offering before you decide it is not enough. Something good may be right in front of you.",
+        "km": "សូមមើលម្តងទៀតពីអ្វីដែលជីវិតកំពុងផ្តល់ឱ្យ មុននឹងសម្រេចថាវាមិនគ្រប់គ្រាន់។ អ្វីមួយល្អ អាចនៅចំពោះមុខអ្នក។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that boredom is making you ungrateful. Notice what you have been taking for granted.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាភាពធុញទ្រាន់ កំពុងធ្វើឱ្យអ្នកភ្លេចដឹងគុណ។ សូមកត់សម្គាល់អ្វីដែលអ្នកធ្លាប់ចាត់ទុកថាជារឿងធម្មតា។"
+      },
+      "outcome": {
+        "en": "Opening your eyes could renew your interest in life. A new chance may already be waiting.",
+        "km": "ការបើកភ្នែកមើល អាចធ្វើឱ្យអ្នកចាប់អារម្មណ៍នឹងជីវិតឡើងវិញ។ ឱកាសថ្មី ប្រហែលជាកំពុងរង់ចាំរួចហើយ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "It is okay to grieve, but do not forget what you still have. Turn around and see what remains.",
+        "km": "វាមិនអីទេក្នុងការសោកស្តាយ ប៉ុន្តែកុំភ្លេចអ្វីដែលអ្នកនៅតែមាន។ សូមងាកមកមើលអ្វីដែលនៅសល់។"
+      },
+      "challenge": {
+        "en": "You may need to hear that regret cannot change the past. Let yourself feel it, then let it go.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការសោកស្តាយមិនអាចផ្លាស់ប្តូរអតីតកាលបានទេ។ សូមអនុញ្ញាតឱ្យខ្លួនមានអារម្មណ៍វា រួចដោះលែងវា។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring comfort and slow healing. You may find more left to build on than you thought.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការលួងលោម និងការជាសះស្បើយបន្តិចម្តងៗ។ អ្នកអាចរកឃើញអ្វីដែលនៅសល់សម្រាប់កសាងបន្ត ច្រើនជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Remember the simple joys and kind people from your past. Their kindness can still guide you.",
+        "km": "សូមនឹកចាំសេចក្តីរីករាយសាមញ្ញៗ និងមនុស្សចិត្តល្អពីអតីតកាលរបស់អ្នក។ ក្តីមេត្តារបស់ពួកគេ នៅតែអាចណែនាំអ្នកបាន។"
+      },
+      "challenge": {
+        "en": "The hard part may be accepting that the past cannot return. Carry its lessons forward, not its longing.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការទទួលយកថាអតីតកាលមិនអាចត្រឡប់មកវិញបានទេ។ សូមនាំមេរៀនរបស់វាទៅមុខ មិនមែនការនឹករលឹករបស់វាទេ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring comfort, warmth and reconnection. Old bonds may bring new happiness.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការលួងលោម ភាពកក់ក្តៅ និងការភ្ជាប់ទំនាក់ទំនងឡើងវិញ។ ចំណងចាស់ៗ អាចនាំមកនូវសុភមង្គលថ្មី។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Choose one dream and make it real, rather than chasing them all. Focus turns wishes into results.",
+        "km": "សូមជ្រើសក្តីស្រមៃមួយ ហើយធ្វើឱ្យវាក្លាយជាការពិត ជាជាងដេញតាមទាំងអស់។ ការផ្តោតអារម្មណ៍ ប្រែក្តីប្រាថ្នាឱ្យទៅជាលទ្ធផល។"
+      },
+      "challenge": {
+        "en": "You may need to hear that some of your options are fantasies. Be honest about what is truly possible.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ជម្រើសខ្លះរបស់អ្នកគ្រាន់តែជាការស្រមៃ។ សូមស្មោះត្រង់អំពីអ្វីដែលពិតជាអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Choosing wisely could bring clarity and real progress. One dream fulfilled may matter more than many imagined.",
+        "km": "ការជ្រើសរើសដោយឈ្លាសវៃ អាចនាំមកនូវភាពច្បាស់លាស់ និងការរីកចម្រើនពិតប្រាកដ។ ក្តីស្រមៃមួយដែលបានសម្រេច អាចសំខាន់ជាងក្តីស្រមៃជាច្រើនដែលគ្រាន់តែស្រមៃ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Be brave enough to walk away from what no longer fulfils you. You deserve a life with meaning.",
+        "km": "សូមក្លាហានល្មមដើម្បីដើរចេញពីអ្វីដែលលែងបំពេញចិត្តអ្នក។ អ្នកសមនឹងទទួលបានជីវិតដែលមានអត្ថន័យ។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that staying is costing you more than leaving. Be clear about what you are seeking.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាការស្នាក់នៅ កំពុងធ្វើឱ្យអ្នកខាតច្រើនជាងការចាកចេញ។ សូមច្បាស់លាស់អំពីអ្វីដែលអ្នកកំពុងស្វែងរក។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could lead you to something deeper and truer. Leaving with care may bring peace.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំអ្នកទៅរកអ្វីដែលជ្រាលជ្រៅ និងពិតប្រាកដជាងមុន។ ការចាកចេញដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវសន្តិភាព។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Allow yourself to feel satisfied with what you have achieved. You are allowed to enjoy good things.",
+        "km": "សូមអនុញ្ញាតឱ្យខ្លួនឯងពេញចិត្តនឹងអ្វីដែលអ្នកបានសម្រេច។ អ្នកមានសិទ្ធិរីករាយនឹងរឿងល្អៗ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that comfort is not the same as growth. Keep one dream alive.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ភាពសុខស្រួលមិនដូចគ្នានឹងការរីកចម្រើនទេ។ សូមរក្សាក្តីស្រមៃមួយឱ្យនៅរស់។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring contentment and a wish come true. Gratitude may keep your happiness growing.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវភាពពេញចិត្ត និងក្តីប្រាថ្នាដែលបានសម្រេច។ ការដឹងគុណ អាចរក្សាសុភមង្គលរបស់អ្នកឱ្យបន្តរីកចម្រើន។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Put love and family first, in whatever form family takes for you. Happiness grows at home.",
+        "km": "សូមដាក់ក្តីស្រឡាញ់ និងគ្រួសារជាមុន តាមទម្រង់ណាក៏ដោយដែលគ្រួសារមានសម្រាប់អ្នក។ សុភមង្គលរីកលូតលាស់ក្នុងផ្ទះ។"
+      },
+      "challenge": {
+        "en": "The hard part may be letting go of the picture of a perfect family. Love the real people in front of you.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការដោះលែងរូបភាពនៃគ្រួសារដ៏ល្អឥតខ្ចោះ។ សូមស្រឡាញ់មនុស្សពិតដែលនៅចំពោះមុខអ្នក។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring harmony and lasting joy. Home may become your greatest source of peace.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវភាពសុខដុម និងសេចក្តីរីករាយយូរអង្វែង។ ផ្ទះអាចក្លាយជាប្រភពសន្តិភាពដ៏ធំបំផុតរបស់អ្នក។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Be gentle with your feelings and open to small surprises. A creative idea or kind word may guide you.",
+        "km": "សូមទន់ភ្លន់ចំពោះអារម្មណ៍របស់អ្នក ហើយបើកចិត្តចំពោះការភ្ញាក់ផ្អើលតូចៗ។ គំនិតច្នៃប្រឌិត ឬពាក្យសម្តីល្អមួយ អាចណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "You may need to hear that not every comment is about you. Do not let small things hurt you deeply.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា មិនមែនគ្រប់ការនិយាយសុទ្ធតែសំដៅលើអ្នកនោះទេ។ សូមកុំឱ្យរឿងតូចៗធ្វើឱ្យអ្នកឈឺចាប់ខ្លាំង។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring pleasant news and creative joy. A softer heart may open new doors.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវដំណឹងដ៏រីករាយ និងសេចក្តីរីករាយក្នុងការច្នៃប្រឌិត។ ចិត្តដែលទន់ភ្លន់ជាងមុន អាចបើកទ្វារថ្មី។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Follow your heart, but keep your feet on the ground. Dreams need practical steps.",
+        "km": "សូមដើរតាមចិត្តរបស់អ្នក ប៉ុន្តែរក្សាជើងឱ្យនៅលើដី។ ក្តីស្រមៃត្រូវការជំហានជាក់ស្តែង។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that not every beautiful idea will work. Check reality before you commit.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាមិនមែនគ្រប់គំនិតដ៏ស្រស់ស្អាតសុទ្ធតែដំណើរការនោះទេ។ សូមពិនិត្យការពិត មុននឹងប្តេជ្ញា។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring romance, creativity and a deeper sense of meaning. Your sincerity may open hearts that were closed.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវមនោសញ្ចេតនា ការច្នៃប្រឌិត និងអត្ថន័យកាន់តែជ្រាលជ្រៅ។ ភាពស្មោះរបស់អ្នក អាចបើកចិត្តដែលធ្លាប់បិទ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Trust your intuition and treat your own feelings with compassion. You understand more than you think.",
+        "km": "សូមទុកចិត្តលើវិចារណញាណរបស់អ្នក ហើយមើលអារម្មណ៍របស់ខ្លួនដោយក្តីមេត្តា។ អ្នកយល់ច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "You may need to hear that you cannot carry everyone's feelings. Care with healthy limits.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា អ្នកមិនអាចលីសែងអារម្មណ៍របស់គ្រប់គ្នាបានទេ។ សូមយកចិត្តទុកដាក់ ជាមួយដែនកំណត់ដ៏ល្អ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring emotional peace and deeper connections. Your care may heal others and yourself.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវសន្តិភាពផ្នែកអារម្មណ៍ និងទំនាក់ទំនងកាន់តែជ្រាលជ្រៅ។ ការយកចិត្តទុកដាក់របស់អ្នក អាចព្យាបាលចិត្តអ្នកដទៃ និងខ្លួនឯង។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Stay calm and mature, even when feelings run high. Your steadiness is a gift to others.",
+        "km": "សូមរក្សាភាពស្ងប់ និងភាពចាស់ទុំ ទោះបីអារម្មណ៍ឡើងខ្ពស់ក៏ដោយ។ ភាពនឹងនររបស់អ្នក គឺជាអំណោយសម្រាប់អ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "The hard part may be letting people see what you truly feel. Calm does not mean hidden.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការឱ្យមនុស្សឃើញអ្វីដែលអ្នកពិតជាមានអារម្មណ៍។ ភាពស្ងប់ មិនមានន័យថាលាក់ទុកនោះទេ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring respect and a steadier emotional life. People may trust you deeply because they know where they stand.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការគោរព និងជីវិតផ្នែកអារម្មណ៍ដែលនឹងនរជាងមុន។ មនុស្សអាចទុកចិត្តអ្នកយ៉ាងជ្រាលជ្រៅ ព្រោះពួកគេដឹងច្បាស់ពីអារម្មណ៍របស់អ្នក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Face the truth clearly, even if it is uncomfortable. Clarity is the first step to the right decision.",
+        "km": "សូមប្រឈមមុខនឹងការពិតយ៉ាងច្បាស់ ទោះបីវាមិនស្រួលក៏ដោយ។ ភាពច្បាស់លាស់ គឺជាជំហានដំបូងទៅរកការសម្រេចចិត្តត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that truth spoken harshly can wound. Be clear, but also be kind.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការពិតដែលនិយាយយ៉ាងគ្រោតគ្រាត អាចធ្វើឱ្យឈឺចាប់។ សូមនិយាយឱ្យច្បាស់ ប៉ុន្តែក៏ត្រូវមានក្តីមេត្តាដែរ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring a breakthrough and new understanding. A clear mind may lead you forward.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការរកឃើញថ្មីដ៏សំខាន់ និងការយល់ដឹងថ្មី។ គំនិតច្បាស់លាស់ អាចនាំអ្នកទៅមុខ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Stop avoiding the decision you have been putting off, and make it. Not choosing is still a choice, often the hardest one.",
+        "km": "សូមឈប់គេចពីការសម្រេចចិត្តដែលអ្នកបានពន្យារ ហើយធ្វើវាចុះ។ ការមិនជ្រើសរើស ក៏នៅតែជាជម្រើសមួយ ហើយច្រើនតែជាជម្រើសដែលពិបាកបំផុត។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that no option is perfect. Gather the facts and choose anyway.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាគ្មានជម្រើសណាល្អឥតខ្ចោះទេ។ សូមប្រមូលការពិត ហើយជ្រើសរើសដដែល។"
+      },
+      "outcome": {
+        "en": "Deciding could bring relief and let life move again. Peace may follow a clear choice.",
+        "km": "ការសម្រេចចិត្ត អាចនាំមកនូវការធូរស្រាល ហើយឱ្យជីវិតដើរម្តងទៀត។ សន្តិភាពអាចមកបន្ទាប់ពីជម្រើសច្បាស់លាស់។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Let yourself feel the hurt instead of pretending it is not there. Healing starts with honesty.",
+        "km": "សូមអនុញ្ញាតឱ្យខ្លួនមានអារម្មណ៍ឈឺចាប់ ជាជាងធ្វើពុតថាវាមិនមាន។ ការជាសះស្បើយចាប់ផ្តើមពីភាពស្មោះត្រង់។"
+      },
+      "challenge": {
+        "en": "You may need to hear that hiding pain makes it heavier. Share it with someone you trust.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការលាក់ការឈឺចាប់ ធ្វើឱ្យវាកាន់តែធ្ងន់។ សូមចែករំលែកវាជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring release and real healing. A painful chapter may finally close, leaving you lighter.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការរួចផុត និងការជាសះស្បើយពិតប្រាកដ។ ជំពូកដ៏ឈឺចាប់មួយ អាចបិទទៅវិញ ដោយទុកឱ្យអ្នកមានអារម្មណ៍ស្រាល។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest without guilt and give your mind some peace. You cannot pour energy from an empty tank.",
+        "km": "សូមសម្រាកដោយគ្មានអារម្មណ៍ខុស ហើយផ្តល់សន្តិភាពដល់គំនិតរបស់អ្នក។ អ្នកមិនអាចយកថាមពលពីធុងទទេបានទេ។"
+      },
+      "challenge": {
+        "en": "The hard part may be accepting that you need a break. Pushing on could lead to burnout.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការទទួលយកថាអ្នកត្រូវការការសម្រាក។ ការបន្តរុញទៅមុខ អាចនាំទៅរកការអស់កម្លាំង។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could restore your energy and the clarity you have been missing. You may return to your tasks calmer and stronger.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចស្តារថាមពល និងភាពច្បាស់លាស់ដែលអ្នកខ្វះឡើងវិញ។ អ្នកអាចត្រឡប់ទៅកិច្ចការរបស់អ្នកវិញ ដោយស្ងប់ និងរឹងមាំជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Walk away from fights that cost more than they are worth. Peace is sometimes the smarter victory.",
+        "km": "សូមដើរចេញពីការប្រយុទ្ធ ដែលចំណាយច្រើនជាងតម្លៃរបស់វា។ សន្តិភាព ពេលខ្លះជាជ័យជម្នះដែលឆ្លាតជាង។"
+      },
+      "challenge": {
+        "en": "You may need to hear that winning at any cost is still losing. Let pride go.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការឈ្នះដោយមិនគិតពីតម្លៃ នៅតែជាការចាញ់។ សូមដោះលែងមោទនភាព។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring calm and repaired relationships. Choosing peace may protect what matters.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវភាពស្ងប់ និងទំនាក់ទំនងដែលបានជួសជុល។ ការជ្រើសរើសសន្តិភាព អាចការពារអ្វីដែលសំខាន់។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Keep moving toward calmer waters, one step at a time. You are leaving the worst behind.",
+        "km": "សូមបន្តដើរឆ្ពោះទៅរកភាពស្ងប់ស្ងាត់ ម្តងមួយជំហាន។ អ្នកកំពុងទុកអ្វីដែលអាក្រក់បំផុតនៅពីក្រោយ។"
+      },
+      "challenge": {
+        "en": "The hard part may be letting go of what you left behind. Look forward, not back.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការដោះលែងអ្វីដែលអ្នកបានទុកចោល។ សូមមើលទៅមុខ មិនមែនថយក្រោយទេ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring peace and a fresh outlook. Calmer days may be ahead.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវសន្តិភាព និងទស្សនៈថ្មី។ ថ្ងៃដែលស្ងប់ជាងមុន អាចនៅខាងមុខ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Think carefully and plan cleverly, but keep your methods honest. Cleverness works best when you could explain it openly.",
+        "km": "សូមគិតដោយប្រុងប្រយ័ត្ន និងរៀបផែនការដោយឆ្លាតវៃ ប៉ុន្តែរក្សាវិធីសាស្ត្ររបស់អ្នកឱ្យស្មោះត្រង់។ ភាពឆ្លាតវៃមានប្រសិទ្ធភាពបំផុត នៅពេលអ្នកអាចពន្យល់វាដោយបើកចំហ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that shortcuts often cost more later. Choose the honest way.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ផ្លូវកាត់ច្រើនតែចំណាយច្រើនជាងនៅពេលក្រោយ។ សូមជ្រើសផ្លូវដែលស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could help you solve a tricky problem cleanly. Honest strategy may protect you.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចជួយអ្នកដោះស្រាយបញ្ហាដ៏ស្មុគស្មាញមួយបានយ៉ាងស្អាត។ យុទ្ធសាស្ត្រដ៏ស្មោះត្រង់ អាចការពារអ្នក។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Ask yourself which limits are real and which are only fears. You are probably freer than you feel.",
+        "km": "សូមសួរខ្លួនឯងថា ដែនកំណត់ណាជាការពិត ហើយមួយណាគ្រាន់តែជាការភ័យខ្លាច។ អ្នកប្រហែលជាមានសេរីភាពច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that fear is building the walls. Take one small step past them.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាការភ័យខ្លាច កំពុងសាងសង់ជញ្ជាំង។ សូមបោះជំហានតូចមួយហួសពីវា។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring a sense of freedom and new options. Asking for help may open the way.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវអារម្មណ៍នៃសេរីភាព និងជម្រើសថ្មីៗ។ ការសុំជំនួយ អាចបើកផ្លូវ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Share your worries instead of carrying them alone at night. Fear grows in silence.",
+        "km": "សូមចែករំលែកកង្វល់របស់អ្នក ជាជាងលីសែងវាតែម្នាក់ឯងនៅពេលយប់។ ការភ័យខ្លាចរីកធំក្នុងភាពស្ងៀមស្ងាត់។"
+      },
+      "challenge": {
+        "en": "You may need to hear that anxiety is not always telling the truth. If it disturbs your sleep or health, seek professional support.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការថប់បារម្ភមិនតែងតែនិយាយការពិតនោះទេ។ ប្រសិនបើវារំខានដំណេក ឬសុខភាពរបស់អ្នក សូមស្វែងរកការគាំទ្រពីអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring calmer nights and clearer thinking. You may feel less alone.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវយប់ដែលស្ងប់ជាង និងការគិតកាន់តែច្បាស់។ អ្នកអាចមានអារម្មណ៍ឯកោតិចជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Accept that something has ended, and let yourself begin to heal. The worst may already be over.",
+        "km": "សូមទទួលយកថាអ្វីមួយបានបញ្ចប់ ហើយអនុញ្ញាតឱ្យខ្លួនឯងចាប់ផ្តើមជាសះស្បើយ។ អ្វីដែលអាក្រក់បំផុត ប្រហែលជាបានកន្លងផុតទៅហើយ។"
+      },
+      "challenge": {
+        "en": "The hard part may be stopping yourself from reliving the pain. Let the past be past.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការបញ្ឈប់ខ្លួនឯងពីការរំលឹកការឈឺចាប់ម្តងហើយម្តងទៀត។ សូមឱ្យអតីតកាលនៅជាអតីតកាល។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring recovery and a genuine new beginning. You may rise from a low point stronger than before.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការស្តារឡើងវិញ និងការចាប់ផ្តើមថ្មីពិតប្រាកដ។ អ្នកអាចក្រោកឡើងពីចំណុចទាប ដោយរឹងមាំជាងមុន។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Ask questions, check your sources and keep learning. Curiosity can reveal what you need to know before you act.",
+        "km": "សូមសួរសំណួរ ពិនិត្យប្រភព ហើយបន្តរៀនសូត្រ។ ចិត្តចង់ដឹង អាចបង្ហាញអ្វីដែលអ្នកត្រូវដឹង មុននឹងធ្វើសកម្មភាព។"
+      },
+      "challenge": {
+        "en": "You may need to hear that gossip and hasty words cause trouble. Think before you speak.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការនិយាយដើមគេ និងពាក្យប្រញាប់ប្រញាល់ បង្កបញ្ហា។ សូមគិតមុននឹងនិយាយ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring useful knowledge and new ideas. A sharp mind may open doors.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវចំណេះដឹងមានប្រយោជន៍ និងគំនិតថ្មីៗ។ គំនិតមុតស្រួច អាចបើកទ្វារ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Act decisively on what you know is right, instead of waiting for perfect timing. Hesitation is costing you momentum.",
+        "km": "សូមធ្វើសកម្មភាពដោយម៉ឺងម៉ាត់ លើអ្វីដែលអ្នកដឹងថាត្រឹមត្រូវ ជាជាងរង់ចាំពេលល្អឥតខ្ចោះ។ ការស្ទាក់ស្ទើរ កំពុងធ្វើឱ្យអ្នកបាត់បង់សន្ទុះ។"
+      },
+      "challenge": {
+        "en": "The hard part may be listening before you charge ahead. Others' views matter too.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការស្តាប់ មុននឹងប្រញាប់ទៅមុខ។ ទស្សនៈរបស់អ្នកដទៃក៏សំខាន់ដែរ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring fast progress and clear results. Bold decisions may move things forward.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការរីកចម្រើនរហ័ស និងលទ្ធផលច្បាស់លាស់។ ការសម្រេចចិត្តដ៏ក្លាហាន អាចរុញអ្វីៗទៅមុខ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Speak honestly and set clear limits. You do not owe anyone a long explanation for your needs.",
+        "km": "សូមនិយាយដោយស្មោះត្រង់ ហើយកំណត់ដែនកំណត់ឱ្យច្បាស់។ អ្នកមិនជំពាក់ការពន្យល់វែងឆ្ងាយដល់នរណាម្នាក់ អំពីតម្រូវការរបស់អ្នកទេ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that honesty without warmth can push people away. Soften your delivery.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ភាពស្មោះត្រង់ដែលគ្មានភាពកក់ក្តៅ អាចរុញមនុស្សចេញ។ សូមបន្ទន់របៀបនិយាយរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring respect and a stronger sense of independence. Clear boundaries may make daily life simpler and calmer.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការគោរព និងអារម្មណ៍នៃឯករាជ្យភាពកាន់តែរឹងមាំ។ ដែនកំណត់ច្បាស់លាស់ អាចធ្វើឱ្យជីវិតប្រចាំថ្ងៃសាមញ្ញ និងស្ងប់ជាងមុន។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Use your head, weigh the facts and decide fairly. Logic will serve you well.",
+        "km": "សូមប្រើខួរក្បាល ថ្លឹងថ្លែងការពិត ហើយសម្រេចចិត្តដោយយុត្តិធម៌។ ហេតុផលអាចជួយអ្នកបានល្អ។"
+      },
+      "challenge": {
+        "en": "The hard part may be remembering the human side of a decision. Fair also means kind.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការចងចាំផ្នែកមនុស្សនៃការសម្រេចចិត្ត។ យុត្តិធម៌ ក៏មានន័យថាមានក្តីមេត្តាដែរ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring sound decisions and the trust of others. People may come to value your judgement when it matters most.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការសម្រេចចិត្តដ៏ត្រឹមត្រូវ និងការទុកចិត្តពីអ្នកដទៃ។ មនុស្សអាចចាប់ផ្តើមឱ្យតម្លៃការវិនិច្ឆ័យរបស់អ្នក នៅពេលដែលវាសំខាន់បំផុត។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Start small and practical, and plant a seed you can tend. A real beginning beats a perfect plan.",
+        "km": "សូមចាប់ផ្តើមពីតូច និងជាក់ស្តែង ហើយដាំគ្រាប់ពូជដែលអ្នកអាចថែរក្សាបាន។ ការចាប់ផ្តើមពិតប្រាកដ ល្អជាងផែនការដ៏ល្អឥតខ្ចោះ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that waiting for certainty can mean missing your chance. Take the first step.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការរង់ចាំភាពប្រាកដប្រជា អាចមានន័យថាខកខានឱកាសរបស់អ្នក។ សូមបោះជំហានដំបូង។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring new security and growth. A small start may become something solid.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវសុវត្ថិភាព និងការរីកចម្រើនថ្មី។ ការចាប់ផ្តើមតូចមួយ អាចក្លាយជាអ្វីមួយដែលរឹងមាំ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Set priorities and let go of what is not important. You cannot balance everything at once.",
+        "km": "សូមកំណត់អាទិភាព ហើយដោះលែងអ្វីដែលមិនសំខាន់។ អ្នកមិនអាចរក្សាតុល្យភាពអ្វីៗទាំងអស់ក្នុងពេលតែមួយបានទេ។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that you are taking on too much. Drop one ball on purpose.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាអ្នកកំពុងទទួលបន្ទុកច្រើនពេក។ សូមដាក់ចុះរឿងមួយដោយចេតនា។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring calmer, more manageable days. Flexibility may become a strength instead of a constant juggling act.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវថ្ងៃដែលស្ងប់ និងងាយគ្រប់គ្រងជាងមុន។ ភាពបត់បែន អាចក្លាយជាកម្លាំង ជាជាងការរត់តាមរឿងច្រើនជានិច្ច។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Work with others and value what each person brings. Together you can build more.",
+        "km": "សូមធ្វើការជាមួយអ្នកដទៃ ហើយឱ្យតម្លៃអ្វីដែលម្នាក់ៗនាំមក។ ជាមួយគ្នា អ្នកអាចកសាងបានច្រើនជាងនេះ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that doing it all yourself slows you down. Ask for feedback and help.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯង ធ្វើឱ្យអ្នកយឺត។ សូមសុំមតិកែលម្អ និងជំនួយ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring quality results and recognition for your part in them. Working as a team may take you further than effort alone.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវលទ្ធផលដែលមានគុណភាព និងការទទួលស្គាល់ចំពោះចំណែករបស់អ្នក។ ការធ្វើការជាក្រុម អាចនាំអ្នកទៅបានឆ្ងាយជាងការខិតខំតែម្នាក់ឯង។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Protect what matters, but do not let fear make you stingy with life. Security should support you, not trap you.",
+        "km": "សូមការពារអ្វីដែលសំខាន់ ប៉ុន្តែកុំឱ្យការភ័យខ្លាចធ្វើឱ្យអ្នកកំណាញ់ជាមួយជីវិត។ សុវត្ថិភាពគួរតែគាំទ្រអ្នក មិនមែនចាប់អ្នកទុកទេ។"
+      },
+      "challenge": {
+        "en": "The hard part may be loosening your grip. Holding too tightly can close doors.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការបន្ធូរការកាន់ក្តាប់របស់អ្នក។ ការកាន់ក្តាប់តឹងពេក អាចបិទទ្វារ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring both stability and new growth. A little openness may go a long way.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវទាំងស្ថិរភាព និងការរីកចម្រើនថ្មី។ ការបើកចិត្តបន្តិច អាចនាំទៅបានឆ្ងាយ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Ask for help when you need it, without shame. Support is closer than it looks.",
+        "km": "សូមសុំជំនួយនៅពេលអ្នកត្រូវការ ដោយគ្មានការខ្មាសអៀន។ ការគាំទ្រនៅជិតជាងអ្វីដែលមើលទៅ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that struggling alone is not strength. If money or health is a worry, contact a qualified service.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការតស៊ូតែម្នាក់ឯងមិនមែនជាកម្លាំងទេ។ ប្រសិនបើលុយកាក់ ឬសុខភាពជាកង្វល់ សូមទាក់ទងសេវាកម្មដែលមានជំនាញ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could ease a hard time and bring relief. Things may slowly improve.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចបន្ធូរពេលវេលាលំបាក និងនាំមកនូវការធូរស្រាល។ អ្វីៗអាចប្រសើរឡើងបន្តិចម្តងៗ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Give where you can and receive help with grace when it is offered. Fair giving and receiving keeps relationships healthy.",
+        "km": "សូមផ្តល់នៅកន្លែងដែលអ្នកអាច ហើយទទួលជំនួយដោយសុភាព នៅពេលគេផ្តល់ឱ្យ។ ការផ្តល់ និងទទួលដោយយុត្តិធម៌ រក្សាទំនាក់ទំនងឱ្យល្អ។"
+      },
+      "challenge": {
+        "en": "The hard part may be noticing when help comes with strings. Keep things fair and clear.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការកត់សម្គាល់ នៅពេលជំនួយមានលក្ខខណ្ឌភ្ជាប់។ សូមរក្សាអ្វីៗឱ្យយុត្តិធម៌ និងច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring balance and goodwill to your relationships. Kindness given freely may return to you when you need it.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវតុល្យភាព និងសុច្ឆន្ទៈក្នុងទំនាក់ទំនងរបស់អ្នក។ ក្តីសប្បុរសដែលផ្តល់ដោយស្ម័គ្រចិត្ត អាចត្រឡប់មករកអ្នក នៅពេលអ្នកត្រូវការ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Be patient with your efforts and check what is growing. Good things take time.",
+        "km": "សូមអត់ធ្មត់ជាមួយការខិតខំរបស់អ្នក ហើយពិនិត្យមើលអ្វីដែលកំពុងលូតលាស់។ រឿងល្អៗត្រូវការពេលវេលា។"
+      },
+      "challenge": {
+        "en": "You may need to hear that quitting just before the harvest wastes your work. Adjust what is not working instead of abandoning everything.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការបោះបង់មុនពេលប្រមូលផលបន្តិច ធ្វើឱ្យការងាររបស់អ្នកខ្ជះខ្ជាយ។ សូមកែសម្រួលអ្វីដែលមិនដំណើរការ ជាជាងបោះបង់អ្វីៗទាំងអស់។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring a rewarding harvest from work you have already done. Patience may pay off better than starting over.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការប្រមូលផលដ៏មានតម្លៃ ពីការងារដែលអ្នកបានធ្វើរួចហើយ។ ការអត់ធ្មត់ អាចផ្តល់ផលល្អជាងការចាប់ផ្តើមឡើងវិញ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Keep practising and take pride in doing things well. Mastery is built step by step.",
+        "km": "សូមបន្តហាត់ហ្វឹក ហើយមានមោទនភាពក្នុងការធ្វើអ្វីៗឱ្យបានល្អ។ ភាពស្ទាត់ជំនាញ ត្រូវបានកសាងម្តងមួយជំហាន។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that perfectionism is slowing you down. Progress matters more than flawlessness.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាការចង់បានភាពល្អឥតខ្ចោះ កំពុងធ្វើឱ្យអ្នកយឺត។ ការរីកចម្រើនសំខាន់ជាងភាពឥតខ្ចោះ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring real skill, confidence and reward. Your dedication may be noticed by people who can open doors.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវជំនាញពិតប្រាកដ ទំនុកចិត្ត និងរង្វាន់។ ការលះបង់របស់អ្នក អាចត្រូវបានកត់សម្គាល់ដោយមនុស្សដែលអាចបើកទ្វារឱ្យអ្នក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Value your independence and enjoy what you have built. You have earned some comfort.",
+        "km": "សូមឱ្យតម្លៃឯករាជ្យភាពរបស់អ្នក ហើយរីករាយនឹងអ្វីដែលអ្នកបានកសាង។ អ្នកសមនឹងទទួលបានភាពសុខស្រួលខ្លះ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that self-reliance can quietly become loneliness. Let people in, even if you could manage alone.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការពឹងលើខ្លួនឯង អាចក្លាយជាភាពឯកោដោយស្ងាត់ៗ។ សូមអនុញ្ញាតឱ្យមនុស្សចូលមកក្នុងជីវិតអ្នក ទោះបីអ្នកអាចធ្វើបានតែម្នាក់ឯងក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring ease, freedom and pride. Sharing success may make it richer.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវភាពស្រួល សេរីភាព និងមោទនភាព។ ការចែករំលែកភាពជោគជ័យ អាចធ្វើឱ្យវាកាន់តែមានតម្លៃ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Think long-term and care for your roots. What you build may support those who come after you.",
+        "km": "សូមគិតរយៈពេលវែង ហើយថែរក្សាឫសគល់របស់អ្នក។ អ្វីដែលអ្នកកសាង អាចគាំទ្រអ្នកដែលមកបន្ទាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "The hard part may be honouring family while following your own path. You can do both.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការគោរពគ្រួសារ ខណៈដើរតាមផ្លូវរបស់ខ្លួន។ អ្នកអាចធ្វើទាំងពីរបាន។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring lasting security and more harmony in your family. What you build may outlast you and help others.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវសុវត្ថិភាពយូរអង្វែង និងភាពសុខដុមកាន់តែច្រើនក្នុងគ្រួសារ។ អ្វីដែលអ្នកកសាង អាចស្ថិតនៅយូរជាងអ្នក និងជួយអ្នកដទៃ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learn something practical and start where you are. Small lessons lead to big changes.",
+        "km": "សូមរៀនអ្វីមួយដែលជាក់ស្តែង ហើយចាប់ផ្តើមពីកន្លែងដែលអ្នកនៅ។ មេរៀនតូចៗ នាំទៅរកការផ្លាស់ប្តូរធំៗ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that dreaming is not doing. Begin with one simple step.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការស្រមៃមិនមែនជាការធ្វើទេ។ សូមចាប់ផ្តើមដោយជំហានសាមញ្ញមួយ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring new skills and practical opportunities. A modest start in learning may grow into something you are proud of.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវជំនាញថ្មី និងឱកាសជាក់ស្តែង។ ការចាប់ផ្តើមតិចតួចក្នុងការរៀនសូត្រ អាចរីកធំទៅជាអ្វីដែលអ្នកមានមោទនភាព។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Keep steady, keep your promises and keep going, even when it feels slow. Reliability is a quiet kind of strength.",
+        "km": "សូមរក្សាភាពនឹងនរ រក្សាពាក្យសន្យា ហើយបន្តទៅមុខ ទោះបីវាហាក់ដូចជាយឺតក៏ដោយ។ ភាពគួរឱ្យទុកចិត្ត គឺជាកម្លាំងមួយប្រភេទដ៏ស្ងប់ស្ងាត់។"
+      },
+      "challenge": {
+        "en": "The hard part may be accepting that some change is needed. Do not let routine become a rut.",
+        "km": "ផ្នែកដែលពិបាក ប្រហែលជាការទទួលយកថាការផ្លាស់ប្តូរខ្លះជាការចាំបាច់។ សូមកុំឱ្យទម្លាប់ក្លាយជាភាពដដែលៗ។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring steady progress and the trust of people around you. Your consistency may be rewarded in lasting ways.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវការរីកចម្រើនដ៏នឹងនរ និងការទុកចិត្តពីមនុស្សនៅជុំវិញអ្នក។ ភាពជាប់លាប់របស់អ្នក អាចទទួលបានរង្វាន់ដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Look after your home, your body and your daily comfort. Practical self-care is not selfish.",
+        "km": "សូមថែរក្សាផ្ទះ រាងកាយ និងភាពសុខស្រួលប្រចាំថ្ងៃរបស់អ្នក។ ការថែរក្សាខ្លួនឯងជាក់ស្តែង មិនមែនជាភាពអាត្មានិយមទេ។"
+      },
+      "challenge": {
+        "en": "You may need to hear that caring for everyone else is leaving you empty. Include yourself.",
+        "km": "អ្នកប្រហែលជាត្រូវស្តាប់ថា ការថែរក្សាអ្នកដទៃទាំងអស់ កំពុងធ្វើឱ្យអ្នកទទេ។ សូមរាប់បញ្ចូលខ្លួនឯងផង។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring comfort, abundance and a calmer home. A well-tended life may flourish in ways others can feel too.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវភាពសុខស្រួល ភាពបរិបូរណ៍ និងផ្ទះដែលស្ងប់ជាងមុន។ ជីវិតដែលត្រូវបានថែរក្សាបានល្អ អាចរីកលូតលាស់ តាមរបៀបដែលអ្នកដទៃក៏ទទួលបានផលដែរ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Manage your resources wisely and think about lasting value. Success means more when it is shared.",
+        "km": "សូមគ្រប់គ្រងធនធានរបស់អ្នកដោយឈ្លាសវៃ ហើយគិតពីតម្លៃយូរអង្វែង។ ភាពជោគជ័យមានន័យកាន់តែច្រើន នៅពេលវាត្រូវបានចែករំលែក។"
+      },
+      "challenge": {
+        "en": "The hard truth may be that money or status cannot fill every need. Leave space in your life for the people and rest that sustain you.",
+        "km": "ការពិតដែលពិបាកស្តាប់ ប្រហែលជាថាលុយកាក់ ឬឋានៈ មិនអាចបំពេញគ្រប់តម្រូវការបានទេ។ សូមទុកកន្លែងក្នុងជីវិតសម្រាប់មនុស្ស និងការសម្រាក ដែលទ្រទ្រង់អ្នក។"
+      },
+      "outcome": {
+        "en": "Taking the advice to heart could bring lasting success and security. Wise choices may benefit everyone around you.",
+        "km": "ការអនុវត្តតាមដំបូន្មាន អាចនាំមកនូវភាពជោគជ័យ និងសុវត្ថិភាពយូរអង្វែង។ ជម្រើសដ៏ឈ្លាសវៃ អាចផ្តល់ប្រយោជន៍ដល់គ្រប់គ្នានៅជុំវិញអ្នក។"
+      }
+    }
+  }
+}
