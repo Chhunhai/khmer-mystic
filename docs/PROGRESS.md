@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 14 of 100 questions (3,276 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 15 of 100 questions (3,510 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-23: Drafted LR-05 (“How can I strengthen my relationship?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/LR-05.json. present a concrete way to strengthen the bond, challenge the habit that wears it down, outcome what that effort can bring AI-drafted; English and native Khmer review pending. Saved coverage 15/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted LR-04 (“What is blocking me from finding love?”, obstacle): 78 cards × 3 positions in English and Khmer, src/content/readings/LR-04.json. present what you bring to the search for love, challenge names the block as a plain warning, outcome where facing it can lead AI-drafted; English and native Khmer review pending. Saved coverage 14/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted LR-03 (“Is new love coming into my life?”, yesno): 78 cards × 3 positions in English and Khmer, src/content/readings/LR-03.json. present where you stand toward new love, challenge what could keep it away, outcome phrased as how love could come so it reads with a yes, not-yet or depends lean AI-drafted; English and native Khmer review pending. Saved coverage 13/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted LR-02 (“How can I understand my partner better?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/LR-02.json. present a concrete way to listen or learn about a partner, challenge the habit that blocks understanding, outcome what that effort can bring AI-drafted; English and native Khmer review pending. Saved coverage 12/100 questions; checks, typecheck and lint pass
