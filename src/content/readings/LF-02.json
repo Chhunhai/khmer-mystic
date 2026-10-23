@@ -1,0 +1,1097 @@
+{
+  "questionId": "LF-02",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Focus on one small beginning you have been postponing; choose a manageable experiment that lets you learn through experience.",
+        "km": "សូមផ្តោតលើការចាប់ផ្តើមតូចមួយដែលអ្នកបានពន្យារ ហើយជ្រើសការសាកល្បងដែលអាចធ្វើបាន ដើម្បីរៀនតាមបទពិសោធន៍។"
+      },
+      "challenge": {
+        "en": "Excitement could distract you from preparation; check what your first step requires before committing more than you can comfortably manage.",
+        "km": "ភាពរំភើបអាចធ្វើឱ្យភ្លេចការត្រៀមខ្លួន។ សូមពិនិត្យតម្រូវការនៃជំហានដំបូង មុនទទួលបន្ទុកលើសលទ្ធភាពខ្លួន។"
+      },
+      "outcome": {
+        "en": "Trying a modest new experience could reveal an interest worth developing, giving your next effort a clearer direction.",
+        "km": "ការសាកល្បងបទពិសោធន៍ថ្មីតូចមួយ អាចបង្ហាញចំណាប់អារម្មណ៍ដែលគួរអភិវឌ្ឍ និងផ្តល់ទិសដៅច្បាស់សម្រាប់ការខិតខំបន្ទាប់។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Choose one task that uses a skill you already have, and turn an idea into something you can finish.",
+        "km": "សូមជ្រើសកិច្ចការមួយដែលប្រើជំនាញមានស្រាប់ ហើយប្តូរគំនិតទៅជាអ្វីដែលអ្នកអាចធ្វើឱ្យចប់។"
+      },
+      "challenge": {
+        "en": "Dividing your attention among too many plans could weaken your effort; set one priority and put the others aside temporarily.",
+        "km": "ការបែងចែកអារម្មណ៍លើផែនការច្រើនពេក អាចបន្ថយប្រសិទ្ធភាព។ សូមកំណត់អាទិភាពមួយ ហើយទុកផែនការផ្សេងមួយរយៈ។"
+      },
+      "outcome": {
+        "en": "Applying your abilities to a clear task could produce a useful result and show you where to invest further effort.",
+        "km": "ការប្រើសមត្ថភាពលើកិច្ចការច្បាស់មួយ អាចផ្តល់លទ្ធផលមានប្រយោជន៍ និងបង្ហាញថាគួរចំណាយកម្លាំងបន្ថែមទៅលើអ្វី។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Make space for quiet reflection; write down what you sense, what you know and what still needs clarification.",
+        "km": "សូមទុកពេលស្ងប់សម្រាប់ពិចារណា ហើយកត់អ្វីដែលអ្នកមានអារម្មណ៍ អ្វីដែលដឹង និងអ្វីដែលត្រូវបញ្ជាក់បន្ថែម។"
+      },
+      "challenge": {
+        "en": "Pressure to have an immediate answer could hide missing information; allow uncertainty while you observe and ask careful questions.",
+        "km": "សម្ពាធចង់បានចម្លើយភ្លាមៗ អាចបិទបាំងព័ត៌មានដែលខ្វះ។ សូមទទួលភាពមិនប្រាកដប្រជា ខណៈសង្កេត និងសួរដោយគិតគូរ។"
+      },
+      "outcome": {
+        "en": "Patient attention could reveal a detail you overlooked, helping you choose a focus that reflects your needs more accurately.",
+        "km": "ការយកចិត្តទុកដាក់ដោយអត់ធ្មត់ អាចបង្ហាញព័ត៌មានដែលធ្លាប់រំលង និងជួយជ្រើសអ្វីដែលស្របនឹងតម្រូវការខ្លួនជាងមុន។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Give regular care to something you want to grow, whether a relationship, a creative project or your everyday surroundings.",
+        "km": "សូមថែទាំជាប្រចាំនូវអ្វីដែលចង់ឱ្យរីកចម្រើន ដូចជាទំនាក់ទំនង គម្រោងច្នៃប្រឌិត ឬបរិយាកាសរស់នៅប្រចាំថ្ងៃ។"
+      },
+      "challenge": {
+        "en": "Tending everyone else's needs could crowd out your own; reserve some time and energy for the care you also require.",
+        "km": "ការថែតម្រូវការអ្នកដទៃទាំងអស់ អាចធ្វើឱ្យភ្លេចតម្រូវការខ្លួន។ សូមរក្សាពេលនិងកម្លាំងខ្លះសម្រាប់ថែខ្លួនឯងដែរ។"
+      },
+      "outcome": {
+        "en": "Consistent nurturing could make a valued part of your life more satisfying, even if its growth is gradual.",
+        "km": "ការថែទាំជាប់លាប់អាចធ្វើឱ្យផ្នែកដែលអ្នកឱ្យតម្លៃក្នុងជីវិត កាន់តែពេញចិត្ត ទោះរីកចម្រើនបន្តិចម្តងៗក៏ដោយ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Put a simple structure around your main responsibility; decide what needs doing, when you will do it and what can wait.",
+        "km": "សូមរៀបចំទំនួលខុសត្រូវចម្បងឱ្យសាមញ្ញ ដោយសម្រេចថាត្រូវធ្វើអ្វី ពេលណាធ្វើ និងអ្វីអាចរង់ចាំ។"
+      },
+      "challenge": {
+        "en": "Trying to control every detail could make cooperation harder; keep clear expectations while allowing reasonable flexibility in how things get done.",
+        "km": "ការព្យាយាមគ្រប់គ្រងគ្រប់ចំណុច អាចធ្វើឱ្យពិបាកសហការ។ សូមកំណត់ការរំពឹងឱ្យច្បាស់ ហើយអនុញ្ញាតភាពបត់បែនសមស្របក្នុងការងារ។"
+      },
+      "outcome": {
+        "en": "A routine you can maintain could make your commitments more dependable and free attention for decisions that truly need you.",
+        "km": "ទម្លាប់ដែលអ្នកអាចរក្សាបាន អាចធ្វើឱ្យការប្តេជ្ញាគួរឱ្យពឹង និងទុកអារម្មណ៍សម្រាប់ការសម្រេចដែលត្រូវការអ្នកពិតប្រាកដ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Focus on learning from a trusted source; choose one useful lesson or established practice to apply to your situation.",
+        "km": "សូមផ្តោតលើការរៀនពីប្រភពដែលទុកចិត្ត ហើយជ្រើសមេរៀន ឬការអនុវត្តមានប្រយោជន៍មួយមកប្រើក្នុងស្ថានភាពខ្លួន។"
+      },
+      "challenge": {
+        "en": "Following advice automatically could distract you from your own values; ask which parts fit your situation before adopting the whole approach.",
+        "km": "ការធ្វើតាមដំបូន្មានដោយមិនពិចារណា អាចនាំចេញពីគុណតម្លៃខ្លួន។ សូមសួរថាផ្នែកណាសមពិតប្រាកដ មុនទទួលយកវិធីទាំងមូល។"
+      },
+      "outcome": {
+        "en": "Putting a useful lesson into practice could give you firmer guidance and a clearer sense of what you stand for.",
+        "km": "ការអនុវត្តមេរៀនមានប្រយោជន៍ អាចផ្តល់ការណែនាំរឹងមាំ និងជួយឱ្យយល់ច្បាស់ថាខ្លួនប្រកាន់យកអ្វី។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Clarify which value matters most in a current choice, then give your attention to the commitment that best reflects it.",
+        "km": "សូមបញ្ជាក់គុណតម្លៃសំខាន់បំផុតក្នុងជម្រើសបច្ចុប្បន្ន រួចផ្តោតលើការប្តេជ្ញាដែលស្របនឹងគុណតម្លៃនោះបំផុត។"
+      },
+      "challenge": {
+        "en": "Wanting incompatible things could keep your attention divided; acknowledge the tradeoff instead of promising yourself you can avoid choosing.",
+        "km": "ការចង់បានអ្វីដែលមិនអាចស្របគ្នា អាចធ្វើឱ្យអារម្មណ៍បែកខ្ញែក។ សូមទទួលស្គាល់អ្វីដែលត្រូវលះបង់ ជាជាងគិតថាអាចគេចពីការជ្រើស។"
+      },
+      "outcome": {
+        "en": "A choice grounded in your values could make your commitments clearer and help supportive relationships develop more honestly.",
+        "km": "ជម្រើសផ្អែកលើគុណតម្លៃខ្លួន អាចធ្វើឱ្យការប្តេជ្ញាច្បាស់ និងជួយទំនាក់ទំនងគាំទ្ររីកចម្រើនដោយស្មោះត្រង់ជាងមុន។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Choose a clear destination for your effort and a next step you can measure, so determination has somewhere useful to go.",
+        "km": "សូមជ្រើសគោលដៅច្បាស់ និងជំហានបន្ទាប់ដែលអាចវាស់បាន ដើម្បីឱ្យការប្តេជ្ញានាំទៅអ្វីដែលមានប្រយោជន៍។"
+      },
+      "challenge": {
+        "en": "Conflicting priorities could pull you off course; decide which demand comes first before increasing the pace of your work.",
+        "km": "អាទិភាពផ្ទុយគ្នាអាចទាញអ្នកចេញពីទិសដៅ។ សូមសម្រេចថាតម្រូវការណាសំខាន់មុន មុនបង្កើនល្បឿនការងារ។"
+      },
+      "outcome": {
+        "en": "Directing your energy toward one chosen aim could help you overcome a practical obstacle and recognise real progress.",
+        "km": "ការប្រមូលកម្លាំងទៅគោលដៅដែលជ្រើសមួយ អាចជួយឆ្លងឧបសគ្គជាក់ស្តែង និងស្គាល់ការរីកចម្រើនពិតប្រាកដ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Focus on how you respond under pressure; give yourself a pause before choosing the next calm, constructive action.",
+        "km": "សូមផ្តោតលើរបៀបឆ្លើយតបក្រោមសម្ពាធ ហើយផ្អាកបន្តិច មុនជ្រើសសកម្មភាពបន្ទាប់ដែលស្ងប់ស្ងាត់និងស្ថាបនា។"
+      },
+      "challenge": {
+        "en": "Frustration could turn persistence into force; soften your approach without abandoning the boundary or purpose that matters to you.",
+        "km": "ភាពមួម៉ៅអាចធ្វើឱ្យការតស៊ូប្រែជាការបង្ខំ។ សូមបន្ទន់វិធីសាស្ត្រ ដោយរក្សាព្រំដែន ឬគោលបំណងសំខាន់សម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Practising patient responses could build confidence in your ability to handle difficulty without adding more conflict.",
+        "km": "ការអនុវត្តឆ្លើយតបដោយអត់ធ្មត់ អាចបង្កើនទំនុកចិត្តលើសមត្ថភាពដោះស្រាយការលំបាក ដោយមិនបន្ថែមជម្លោះ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Set aside quiet time to identify your own priority, away from the opinions and expectations competing for your attention.",
+        "km": "សូមទុកពេលស្ងប់សម្រាប់រកអាទិភាពខ្លួន ដោយដកឆ្ងាយពីមតិនិងការរំពឹងដែលប្រជែងយកការយកចិត្តទុកដាក់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Reflection could become withdrawal if you stop reaching out; keep one trusted connection available while you work things through.",
+        "km": "ការពិចារណាអាចក្លាយជាការដកខ្លួន បើអ្នកឈប់ទាក់ទងគេ។ សូមរក្សាទំនាក់ទំនងទុកចិត្តមួយ ខណៈព្យាយាមយល់រឿងរ៉ាវ។"
+      },
+      "outcome": {
+        "en": "Listening to your own considered judgement could help you choose a priority that feels worthwhile even without outside approval.",
+        "km": "ការស្តាប់ការវិនិច្ឆ័យរបស់ខ្លួនដោយគិតគូរ អាចជួយជ្រើសអាទិភាពមានតម្លៃ ទោះគ្មានការយល់ព្រមពីអ្នកដទៃក៏ដោយ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Review what has changed around you and adjust one plan to match the circumstances you actually face.",
+        "km": "សូមពិនិត្យអ្វីដែលបានផ្លាស់ប្តូរជុំវិញខ្លួន ហើយកែផែនការមួយឱ្យស្របនឹងស្ថានភាពដែលអ្នកប្រឈមពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Trying to control an uncertain outcome could consume your attention; separate what you can influence from what requires adaptation.",
+        "km": "ការព្យាយាមគ្រប់គ្រងលទ្ធផលមិនប្រាកដ អាចប្រើអស់ការយកចិត្តទុកដាក់។ សូមបែងចែកអ្វីដែលអាចធ្វើបាន និងអ្វីដែលត្រូវសម្របខ្លួន។"
+      },
+      "outcome": {
+        "en": "Remaining flexible could help you notice an opening and respond thoughtfully when circumstances shift again.",
+        "km": "ការរក្សាភាពបត់បែនអាចជួយឱ្យស្គាល់ឱកាស និងឆ្លើយតបដោយគិតគូរ ពេលស្ថានភាពផ្លាស់ប្តូរម្តងទៀត។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Give attention to a decision or agreement that needs fairness; check the facts and take responsibility for your part.",
+        "km": "សូមយកចិត្តទុកដាក់ការសម្រេច ឬកិច្ចព្រមព្រៀងដែលត្រូវការយុត្តិធម៌ ដោយពិនិត្យការពិត និងទទួលខុសត្រូវចំណែកខ្លួន។"
+      },
+      "challenge": {
+        "en": "Focusing only on evidence that supports you could distort your judgement; consider the strongest concern from the other side.",
+        "km": "ការផ្តោតតែលើភស្តុតាងគាំទ្រខ្លួន អាចធ្វើឱ្យការវិនិច្ឆ័យលម្អៀង។ សូមពិចារណាកង្វល់សំខាន់បំផុតពីម្ខាងទៀត។"
+      },
+      "outcome": {
+        "en": "An accountable, balanced decision could reduce confusion and give everyone a clearer understanding of their responsibilities.",
+        "km": "ការសម្រេចមានតុល្យភាពនិងការទទួលខុសត្រូវ អាចកាត់បន្ថយភាពច្របូកច្របល់ និងធ្វើឱ្យគ្រប់គ្នាយល់ភារកិច្ចខ្លួនច្បាស់។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Pause an unproductive effort long enough to examine it differently; a changed question may be more useful than more pressure.",
+        "km": "សូមផ្អាកការខិតខំដែលមិនបានផល ដើម្បីមើលវាតាមវិធីផ្សេង។ ការប្តូរសំណួរអាចមានប្រយោជន៍ជាងការបន្ថែមសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Impatience with a delay could keep you repeating the same approach; ask what you can learn while movement is limited.",
+        "km": "ការមិនអត់ធ្មត់នឹងការពន្យារ អាចធ្វើឱ្យបន្តវិធីដដែល។ សូមសួរថាអាចរៀនអ្វីបាន ខណៈការបោះជំហានមានកម្រិត។"
+      },
+      "outcome": {
+        "en": "Reconsidering your approach could reveal an option that constant effort had obscured, making the next step more purposeful.",
+        "km": "ការពិចារណាវិធីសាស្ត្រឡើងវិញ អាចបង្ហាញជម្រើសដែលការខិតខំរហូតបានបិទបាំង និងធ្វើឱ្យជំហានបន្ទាប់មានគោលបំណងច្បាស់។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Identify one outdated commitment or habit you are ready to release, and make a considered plan for what replaces it.",
+        "km": "សូមរកការប្តេជ្ញា ឬទម្លាប់ចាស់មួយដែលត្រៀមលែង ហើយរៀបផែនការដោយគិតគូរចំពោះអ្វីដែលនឹងជំនួស។"
+      },
+      "challenge": {
+        "en": "Keeping something only because it once mattered could use energy you need elsewhere; distinguish respect for the past from obligation to repeat it.",
+        "km": "ការរក្សាអ្វីមួយតែព្រោះវាធ្លាប់សំខាន់ អាចប្រើកម្លាំងដែលត្រូវការនៅកន្លែងផ្សេង។ សូមបែងចែកការគោរពអតីតកាលពីការបង្ខំខ្លួនឱ្យធ្វើដដែល។"
+      },
+      "outcome": {
+        "en": "Letting an outdated pattern end could create room for a more suitable priority, without needing to change everything at once.",
+        "km": "ការឱ្យទម្លាប់លែងសមមួយបញ្ចប់ អាចទុកកន្លែងសម្រាប់អាទិភាពសមជាងមុន ដោយមិនចាំបាច់ប្តូរគ្រប់យ៉ាងក្នុងពេលតែមួយ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Focus on a sustainable rhythm; make one small adjustment that brings your effort, rest and responsibilities into better balance.",
+        "km": "សូមផ្តោតលើចង្វាក់ដែលអាចរក្សាបាន ហើយកែតូចមួយដើម្បីឱ្យការខិតខំ ការសម្រាក និងភារកិច្ចមានតុល្យភាពជាងមុន។"
+      },
+      "challenge": {
+        "en": "Trying to fix everything through a sudden extreme change could be hard to sustain; choose an adjustment you can repeat comfortably.",
+        "km": "ការព្យាយាមកែគ្រប់យ៉ាងដោយប្តូរខ្លាំងភ្លាមៗ អាចពិបាករក្សា។ សូមជ្រើសការកែដែលអ្នកអាចធ្វើបន្តដោយស្រួល។"
+      },
+      "outcome": {
+        "en": "Maintaining a moderate pace could make your progress more consistent and leave enough energy for the rest of your life.",
+        "km": "ការរក្សាល្បឿនមធ្យមអាចធ្វើឱ្យការរីកចម្រើនជាប់លាប់ និងទុកកម្លាំងគ្រប់គ្រាន់សម្រាប់ផ្នែកផ្សេងនៃជីវិត។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Notice a habit or attachment that narrows your choices, and identify one small way to regain some say over it.",
+        "km": "សូមកត់សម្គាល់ទម្លាប់ ឬការជាប់ចិត្តដែលកម្រិតជម្រើស ហើយរកវិធីតូចមួយដើម្បីមានសិទ្ធិសម្រេចលើវាវិញ។"
+      },
+      "challenge": {
+        "en": "A familiar pattern may offer comfort while keeping you stuck; name its cost honestly and seek support where changing it feels difficult.",
+        "km": "ទម្លាប់ធ្លាប់ស្គាល់អាចផ្តល់ភាពស្រួល តែក៏រក្សាអ្នកឱ្យជាប់គាំង។ សូមទទួលស្គាល់ផលប៉ះពាល់ និងរកការគាំទ្របើពិបាកកែ។"
+      },
+      "outcome": {
+        "en": "Small supported changes could loosen a limiting pattern and give you more freedom to choose what deserves your attention.",
+        "km": "ការកែតូចៗដែលមានការគាំទ្រ អាចបន្ថយទម្លាប់រឹតត្បិត និងផ្តល់សេរីភាពជ្រើសអ្វីដែលគួរយកចិត្តទុកដាក់។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Focus on the essentials when plans feel unsettled; identify what needs stabilising before trying to rebuild the whole picture.",
+        "km": "ពេលផែនការមិននឹងនរ សូមផ្តោតលើអ្វីចាំបាច់ ហើយរកអ្វីដែលត្រូវធ្វើឱ្យរឹងមាំ មុនព្យាយាមកសាងទាំងមូលឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Defending a plan that no longer works could increase strain; separate what can be repaired from what needs a fresh approach.",
+        "km": "ការការពារផែនការដែលលែងដំណើរការ អាចបន្ថែមសម្ពាធ។ សូមបែងចែកអ្វីអាចជួសជុល និងអ្វីត្រូវការវិធីថ្មី។"
+      },
+      "outcome": {
+        "en": "Rebuilding one dependable element at a time could create a firmer foundation, even while some uncertainty remains.",
+        "km": "ការកសាងផ្នែកដែលពឹងបានម្តងមួយ អាចបង្កើតគ្រឹះរឹងមាំជាងមុន ទោះនៅមានភាពមិនប្រាកដប្រជាខ្លះក៏ដោយ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Give a hopeful aim one practical expression, such as returning to an activity that renews your interest in life.",
+        "km": "សូមបង្ហាញគោលដៅមានក្តីសង្ឃឹមតាមសកម្មភាពជាក់ស្តែងមួយ ដូចជាត្រឡប់ទៅសកម្មភាពដែលធ្វើឱ្យអ្នកមានចំណាប់អារម្មណ៍ក្នុងជីវិតឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Doubt could make small improvements seem unimportant; record one sign of progress rather than demanding proof that everything will work out.",
+        "km": "ការសង្ស័យអាចធ្វើឱ្យការកែលម្អតូចហាក់មិនសំខាន់។ សូមកត់សញ្ញារីកចម្រើនមួយ ជាជាងទាមទារភស្តុតាងថាគ្រប់យ៉ាងនឹងល្អ។"
+      },
+      "outcome": {
+        "en": "Giving steady attention to what inspires you could restore a sense of possibility and make continued effort feel more worthwhile.",
+        "km": "ការយកចិត្តទុកដាក់ជាប់លាប់ចំពោះអ្វីបំផុសគំនិត អាចស្តារអារម្មណ៍នៃលទ្ធភាព និងធ្វើឱ្យការបន្តខិតខំមានតម្លៃជាងមុន។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Focus on distinguishing facts from fears; write down what is known before deciding which concern needs action.",
+        "km": "សូមផ្តោតលើការបែងចែកការពិតពីការភ័យខ្លាច ដោយកត់អ្វីដែលដឹង មុនសម្រេចថាកង្វល់ណាត្រូវធ្វើសកម្មភាព។"
+      },
+      "challenge": {
+        "en": "An uncertain feeling could become a convincing story; check your interpretation before treating it as evidence about the situation.",
+        "km": "អារម្មណ៍មិនប្រាកដអាចក្លាយជារឿងដែលហាក់គួរឱ្យជឿ។ សូមពិនិត្យការបកស្រាយខ្លួន មុនចាត់ទុកវាជាភស្តុតាងនៃស្ថានភាព។"
+      },
+      "outcome": {
+        "en": "Careful observation could make a confusing issue easier to understand, helping you choose a proportionate response instead of reacting to guesses.",
+        "km": "ការសង្កេតប្រុងប្រយ័ត្នអាចធ្វើឱ្យបញ្ហាច្របូកច្របល់ងាយយល់ និងជួយជ្រើសការឆ្លើយតបសមស្រប ជាជាងប្រតិកម្មតាមការទាយ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Build on what is already working; choose a task that uses your confidence and makes a positive contribution visible.",
+        "km": "សូមបន្តលើអ្វីដែលដំណើរការល្អ ដោយជ្រើសកិច្ចការដែលប្រើទំនុកចិត្ត និងបង្ហាញការចូលរួមវិជ្ជមានរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Confidence could tempt you to skip a useful check; welcome feedback and review the details before calling a task complete.",
+        "km": "ទំនុកចិត្តអាចធ្វើឱ្យចង់រំលងការពិនិត្យចាំបាច់។ សូមទទួលមតិកែលម្អ និងពិនិត្យព័ត៌មានលម្អិត មុនចាត់ទុកកិច្ចការថាចប់។"
+      },
+      "outcome": {
+        "en": "Using your strengths openly could bring satisfying progress and make it easier to recognise and share what you have achieved.",
+        "km": "ការប្រើចំណុចខ្លាំងដោយបើកចំហ អាចនាំការរីកចម្រើនគួរឱ្យពេញចិត្ត និងធ្វើឱ្យងាយស្គាល់និងចែករំលែកសមិទ្ធផល។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Review a past choice for one useful lesson, then decide how that lesson should change what you do next.",
+        "km": "សូមពិនិត្យជម្រើសកន្លងមក ដើម្បីរកមេរៀនមានប្រយោជន៍មួយ រួចសម្រេចថាមេរៀននោះគួរប្តូរសកម្មភាពបន្ទាប់យ៉ាងដូចម្តេច។"
+      },
+      "challenge": {
+        "en": "Repeated self-criticism could replace useful reflection; name a specific adjustment instead of making a broad judgement about your worth.",
+        "km": "ការរិះគន់ខ្លួនដដែលៗអាចជំនួសការពិចារណាមានប្រយោជន៍។ សូមកំណត់ការកែជាក់លាក់ ជាជាងវិនិច្ឆ័យតម្លៃខ្លួនទាំងមូល។"
+      },
+      "outcome": {
+        "en": "Acting on what you have learned could give a familiar issue a fresh direction and renew your sense of purpose.",
+        "km": "ការធ្វើតាមអ្វីដែលបានរៀន អាចផ្តល់ទិសដៅថ្មីដល់បញ្ហាធ្លាប់ស្គាល់ និងធ្វើឱ្យគោលបំណងរបស់អ្នកស្រស់ថ្លាឡើងវិញ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Focus on finishing a meaningful piece of work; identify the remaining detail that would let you close this chapter properly.",
+        "km": "សូមផ្តោតលើការបញ្ចប់ការងារមានន័យ ដោយរកចំណុចនៅសល់ដែលនឹងជួយបិទដំណាក់កាលនេះឱ្យបានល្អ។"
+      },
+      "challenge": {
+        "en": "Starting something new could be more tempting than completing loose ends; give unfinished responsibilities a clear place in your plan.",
+        "km": "ការចាប់ផ្តើមថ្មីអាចទាក់ទាញជាងការបញ្ចប់រឿងនៅសល់។ សូមរៀបចំភារកិច្ចមិនទាន់រួចឱ្យមានកន្លែងច្បាស់ក្នុងផែនការ។"
+      },
+      "outcome": {
+        "en": "Bringing a worthwhile task to completion could provide satisfaction and free your attention for a new priority.",
+        "km": "ការបញ្ចប់កិច្ចការមានតម្លៃ អាចផ្តល់ភាពពេញចិត្ត និងដោះលែងការយកចិត្តទុកដាក់សម្រាប់អាទិភាពថ្មីពិតប្រាកដ។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Give a fresh idea a short trial; use your enthusiasm to make a first sketch, attempt or practical demonstration.",
+        "km": "សូមសាកគំនិតថ្មីមួយរយៈខ្លី ដោយប្រើកម្លាំងចិត្តធ្វើគំនូរព្រាង ការសាកល្បង ឬការបង្ហាញជាក់ស្តែងដំបូង។"
+      },
+      "challenge": {
+        "en": "Waiting for inspiration to stay strong could leave the idea untouched; define a small action you can take even with ordinary energy.",
+        "km": "ការរង់ចាំឱ្យកម្លាំងចិត្តនៅតែខ្លាំង អាចធ្វើឱ្យគំនិតមិនបានអនុវត្ត។ សូមកំណត់សកម្មភាពតូចដែលអាចធ្វើបាន ទោះមានកម្លាំងធម្មតាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Testing an idea could turn a brief spark into a project you understand well enough to develop or thoughtfully set aside.",
+        "km": "ការសាកគំនិតអាចប្តូរកម្លាំងចិត្តខ្លីទៅជាគម្រោងដែលអ្នកយល់គ្រប់គ្រាន់ ដើម្បីអភិវឌ្ឍ ឬទុកមួយឡែកដោយគិតគូរ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Compare your main options against one clear priority, then choose which direction deserves your next practical investigation.",
+        "km": "សូមប្រៀបធៀបជម្រើសចម្បងតាមអាទិភាពច្បាស់មួយ រួចជ្រើសទិសដៅដែលគួរស្វែងយល់ជាក់ស្តែងបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Endless planning could postpone useful experience; decide what information is enough to begin a small, reversible step.",
+        "km": "ការរៀបផែនការមិនចេះចប់ អាចពន្យារបទពិសោធន៍មានប្រយោជន៍។ សូមសម្រេចថាព័ត៌មានប៉ុណ្ណាគ្រប់គ្រាន់សម្រាប់ជំហានតូចដែលអាចកែវិញបាន។"
+      },
+      "outcome": {
+        "en": "Turning a chosen direction into a simple plan could make a larger ambition feel reachable rather than merely interesting.",
+        "km": "ការប្តូរទិសដៅដែលជ្រើសទៅជាផែនការសាមញ្ញ អាចធ្វើឱ្យបំណងធំហាក់អាចសម្រេចបាន មិនមែនគ្រាន់តែគួរឱ្យចាប់អារម្មណ៍។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Follow up on effort you have already made; check for responses and identify where a thoughtful next contact could help.",
+        "km": "សូមតាមដានការខិតខំដែលបានធ្វើ ដោយពិនិត្យការឆ្លើយតប និងរកកន្លែងដែលការទាក់ទងបន្ទាប់ដោយគិតគូរអាចជួយបាន។"
+      },
+      "challenge": {
+        "en": "Waiting passively for results could narrow your attention; keep your existing work moving while exploring one useful connection beyond familiar circles.",
+        "km": "ការរង់ចាំលទ្ធផលដោយមិនធ្វើអ្វី អាចកម្រិតការយកចិត្តទុកដាក់។ សូមបន្តការងារមានស្រាប់ ហើយស្វែងរកទំនាក់ទំនងមានប្រយោជន៍ក្រៅរង្វង់ធ្លាប់ស្គាល់។"
+      },
+      "outcome": {
+        "en": "Following through and looking a little further afield could reveal a chance to extend work you have already begun.",
+        "km": "ការតាមដានរហូត និងមើលឆ្ងាយបន្តិច អាចបង្ហាញឱកាសពង្រីកការងារដែលអ្នកបានចាប់ផ្តើមរួច។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Make time to appreciate a shared achievement or a supportive place; acknowledge the people and routines that help you feel settled.",
+        "km": "សូមទុកពេលឱ្យតម្លៃសមិទ្ធផលរួម ឬកន្លែងគាំទ្រ ហើយទទួលស្គាល់មនុស្សនិងទម្លាប់ដែលជួយឱ្យអ្នកមានភាពនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Rushing toward the next task could hide a milestone worth marking; allow a pause to recognise what has gone well.",
+        "km": "ការប្រញាប់ទៅកិច្ចការបន្ទាប់ អាចបិទបាំងសមិទ្ធផលគួរឱ្យចងចាំ។ សូមផ្អាកបន្តិចដើម្បីទទួលស្គាល់អ្វីដែលដំណើរការល្អ។"
+      },
+      "outcome": {
+        "en": "Sharing appreciation could strengthen the foundation beneath your plans and make future effort feel more supported.",
+        "km": "ការចែករំលែកការដឹងគុណ អាចពង្រឹងគ្រឹះនៃផែនការ និងធ្វើឱ្យការខិតខំបន្ទាប់មានការគាំទ្រជាងមុន។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Focus on handling a difference constructively; identify the shared aim before arguing over how to reach it.",
+        "km": "សូមផ្តោតលើការដោះស្រាយភាពខុសគ្នាដោយស្ថាបនា ហើយរកគោលដៅរួម មុនប្រកែកពីរបៀបទៅដល់វា។"
+      },
+      "challenge": {
+        "en": "Small rivalries could consume attention meant for your goals; listen for the useful point instead of preparing the next rebuttal.",
+        "km": "ការប្រកួតប្រជែងតូចៗអាចប្រើអស់អារម្មណ៍សម្រាប់គោលដៅ។ សូមស្តាប់ចំណុចមានប្រយោជន៍ ជាជាងរៀបចំពាក្យតបប្រកែកបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Working through differences respectfully could sharpen your approach and help you cooperate without needing complete agreement.",
+        "km": "ការដោះស្រាយភាពខុសគ្នាដោយគោរព អាចធ្វើឱ្យវិធីសាស្ត្រប្រសើរ និងជួយសហការ ដោយមិនត្រូវការការយល់ស្របទាំងស្រុង។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Recognise a result you have earned and identify the effort behind it, so your next focus builds on something real.",
+        "km": "សូមទទួលស្គាល់លទ្ធផលដែលបានខិតខំរក និងការខិតខំនៅពីក្រោយវា ដើម្បីឱ្យការផ្តោតបន្ទាប់ផ្អែកលើអ្វីពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Chasing approval could distract you from doing work you value; share credit and use your own standards alongside outside feedback.",
+        "km": "ការដេញតាមការសរសើរអាចបង្វែរពីការងារដែលអ្នកឱ្យតម្លៃ។ សូមចែករំលែកកិត្តិយស និងប្រើស្តង់ដារខ្លួនរួមជាមួយមតិអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Building on genuine progress could bring further recognition, while keeping the purpose of your effort clearer than the need for applause.",
+        "km": "ការបន្តពីការរីកចម្រើនពិត អាចនាំការទទួលស្គាល់បន្ថែម ហើយរក្សាគោលបំណងនៃការខិតខំឱ្យច្បាស់ជាងតម្រូវការសរសើរ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Protect time for your most important priority; state one boundary clearly where outside demands are pushing it aside.",
+        "km": "សូមការពារពេលសម្រាប់អាទិភាពសំខាន់បំផុត ហើយប្រាប់ព្រំដែនមួយឱ្យច្បាស់ នៅកន្លែងដែលការទាមទារផ្សេងកំពុងរុញវាចេញ។"
+      },
+      "challenge": {
+        "en": "Defending every position could leave you exhausted; choose the issue that matters enough to hold firm and let smaller disputes pass.",
+        "km": "ការការពារគ្រប់ជំហរអាចធ្វើឱ្យអស់កម្លាំង។ សូមជ្រើសបញ្ហាសំខាន់គ្រប់គ្រាន់ដើម្បីរក្សាជំហរ ហើយឱ្យជម្លោះតូចៗកន្លងផុត។"
+      },
+      "outcome": {
+        "en": "Consistent boundaries could preserve the attention your main goal needs, even when other people continue to ask for more.",
+        "km": "ព្រំដែនជាប់លាប់អាចរក្សាការយកចិត្តទុកដាក់សម្រាប់គោលដៅចម្បង ទោះអ្នកដទៃបន្តទាមទារបន្ថែមក៏ដោយ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Sort incoming messages and tasks by what needs a response first, then communicate your next action clearly.",
+        "km": "សូមរៀបសារនិងកិច្ចការចូលមកតាមលំដាប់ដែលត្រូវឆ្លើយមុន រួចប្រាប់សកម្មភាពបន្ទាប់របស់អ្នកឱ្យច្បាស់។"
+      },
+      "challenge": {
+        "en": "A fast pace could encourage rushed commitments; check the details of one request before adding it to your list.",
+        "km": "ល្បឿនលឿនអាចជំរុញឱ្យទទួលកិច្ចការដោយប្រញាប់។ សូមពិនិត្យព័ត៌មាននៃសំណើមួយ មុនបន្ថែមទៅបញ្ជីរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Clear responses and sensible ordering could help several moving tasks come together without scattering your attention.",
+        "km": "ការឆ្លើយច្បាស់ និងការរៀបលំដាប់សមស្រប អាចជួយឱ្យកិច្ចការជាច្រើនស្របគ្នា ដោយមិនធ្វើឱ្យអារម្មណ៍ខ្ចាត់ខ្ចាយ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Assess your remaining energy before choosing the next effort; protect enough rest to continue with something that still matters.",
+        "km": "សូមពិនិត្យកម្លាំងនៅសល់ មុនជ្រើសការខិតខំបន្ទាប់ ហើយរក្សាការសម្រាកគ្រប់គ្រាន់ដើម្បីបន្តអ្វីដែលនៅសំខាន់។"
+      },
+      "challenge": {
+        "en": "Past setbacks could make every request feel threatening; distinguish a necessary boundary from a reaction based only on an old disappointment.",
+        "km": "ការបរាជ័យពីមុនអាចធ្វើឱ្យរាល់សំណើហាក់គំរាម។ សូមបែងចែកព្រំដែនចាំបាច់ពីប្រតិកម្មដែលផ្អែកតែលើការខកចិត្តចាស់។"
+      },
+      "outcome": {
+        "en": "Pacing your persistence could help you complete a demanding stretch without treating exhaustion as proof of dedication.",
+        "km": "ការតស៊ូដោយគិតពីកម្រិតកម្លាំង អាចជួយបញ្ចប់ដំណាក់កាលលំបាក ដោយមិនចាត់ទុកភាពហត់នឿយជាភស្តុតាងនៃការប្តេជ្ញា។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Review your responsibilities and choose one burden to share, simplify or postpone so your main priority has room.",
+        "km": "សូមពិនិត្យភារកិច្ច ហើយជ្រើសបន្ទុកមួយដើម្បីចែករំលែក សម្រួល ឬពន្យារ ដើម្បីទុកកន្លែងសម្រាប់អាទិភាពចម្បង។"
+      },
+      "challenge": {
+        "en": "Feeling responsible for everything could make delegation uncomfortable; explain what help is needed instead of silently taking on more.",
+        "km": "អារម្មណ៍ត្រូវទទួលខុសត្រូវគ្រប់យ៉ាង អាចធ្វើឱ្យពិបាកចែកការងារ។ សូមប្រាប់ជំនួយដែលត្រូវការ ជាជាងទទួលបន្ថែមដោយស្ងៀមស្ងាត់។"
+      },
+      "outcome": {
+        "en": "Reducing an unnecessary load could improve the attention you give essential tasks and make continued effort feel more manageable.",
+        "km": "ការបន្ថយបន្ទុកមិនចាំបាច់ អាចធ្វើឱ្យយកចិត្តទុកដាក់កិច្ចការសំខាន់បានល្អ និងធ្វើឱ្យការបន្តខិតខំងាយគ្រប់គ្រង។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Choose one curiosity to explore through a small activity, giving yourself permission to be a beginner rather than an expert.",
+        "km": "សូមជ្រើសអ្វីដែលចង់ដឹងមួយមកសាកតាមសកម្មភាពតូច ហើយអនុញ្ញាតឱ្យខ្លួនជាអ្នកចាប់ផ្តើម ជាជាងទាមទារភាពជាអ្នកជំនាញ។"
+      },
+      "challenge": {
+        "en": "Collecting exciting ideas could replace exploring any of them; finish one short experiment before opening another possibility.",
+        "km": "ការប្រមូលគំនិតគួរឱ្យរំភើបអាចជំនួសការសាកគំនិតណាមួយ។ សូមបញ្ចប់ការសាកខ្លីមួយ មុនបើកលទ្ធភាពថ្មី។"
+      },
+      "outcome": {
+        "en": "Following your curiosity through a complete attempt could show you what energises you and what you want to learn next.",
+        "km": "ការធ្វើតាមការចង់ដឹងរហូតចប់ការសាកមួយ អាចបង្ហាញអ្វីដែលផ្តល់កម្លាំង និងអ្វីដែលចង់រៀនបន្ទាប់។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Direct your enthusiasm into one considered move; decide what you are aiming for before using the energy to get started.",
+        "km": "សូមនាំភាពស្វាហាប់ទៅសកម្មភាពគិតគូរមួយ ដោយសម្រេចគោលដៅ មុនប្រើកម្លាំងដើម្បីចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Impatience could make action feel urgent when preparation is still needed; pause to check the consequences of your next move.",
+        "km": "ការមិនអត់ធ្មត់អាចធ្វើឱ្យសកម្មភាពហាក់បន្ទាន់ ខណៈនៅត្រូវត្រៀមខ្លួន។ សូមផ្អាកពិនិត្យផលវិបាកនៃជំហានបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Courage supported by preparation could turn restless energy into meaningful movement, with room to adjust as you learn.",
+        "km": "ភាពក្លាហានដែលមានការត្រៀមខ្លួនគាំទ្រ អាចប្តូរកម្លាំងមិនស្ងប់ទៅសកម្មភាពមានន័យ និងទុកឱកាសកែតាមអ្វីបានរៀន។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Give attention to expressing a useful idea with confidence and warmth, especially where you have been waiting to be invited.",
+        "km": "សូមយកចិត្តទុកដាក់បង្ហាញគំនិតមានប្រយោជន៍ដោយទំនុកចិត្តនិងភាពកក់ក្តៅ ជាពិសេសនៅកន្លែងដែលអ្នកបានរង់ចាំគេអញ្ជើញ។"
+      },
+      "challenge": {
+        "en": "Being the capable one could lead you to do too much alone; invite a specific contribution before your enthusiasm becomes fatigue.",
+        "km": "ការជាមនុស្សមានសមត្ថភាពអាចធ្វើឱ្យរ៉ាប់រងច្រើនម្នាក់ឯង។ សូមសុំការចូលរួមជាក់លាក់ មុនភាពស្វាហាប់ប្រែជាភាពនឿយហត់។"
+      },
+      "outcome": {
+        "en": "Sharing your ideas generously could attract helpful participation and make an important project feel less dependent on you alone.",
+        "km": "ការចែករំលែកគំនិតដោយសប្បុរស អាចទាក់ទាញការចូលរួមមានប្រយោជន៍ និងធ្វើឱ្យគម្រោងសំខាន់លែងពឹងតែអ្នកម្នាក់។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Define the purpose of a goal you want to lead, then identify the first responsibility you are willing to own.",
+        "km": "សូមកំណត់គោលបំណងនៃគោលដៅដែលចង់ដឹកនាំ រួចរកទំនួលខុសត្រូវដំបូងដែលអ្នកព្រមរ៉ាប់រង។"
+      },
+      "challenge": {
+        "en": "Expecting others to share your urgency could weaken support; explain the aim and agree on a pace people can sustain.",
+        "km": "ការរំពឹងឱ្យគេប្រញាប់ដូចអ្នក អាចបន្ថយការគាំទ្រ។ សូមពន្យល់គោលដៅ និងព្រមព្រៀងល្បឿនដែលមនុស្សអាចរក្សាបាន។"
+      },
+      "outcome": {
+        "en": "Pairing a clear purpose with responsible leadership could help turn an ambitious intention into coordinated, practical progress.",
+        "km": "ការរួមគោលបំណងច្បាស់នឹងការដឹកនាំទទួលខុសត្រូវ អាចជួយប្តូរបំណងធំទៅការរីកចម្រើនជាក់ស្តែងដែលមានការសម្របសម្រួល។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Make room for a kind exchange or a creative activity that helps you notice and express what you are feeling.",
+        "km": "សូមទុកកន្លែងសម្រាប់ការប្រាស្រ័យល្អ ឬសកម្មភាពច្នៃប្រឌិត ដែលជួយស្គាល់និងបង្ហាញអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Fear of disappointment could make receiving care difficult; allow a small act of kindness without rushing past your own boundaries.",
+        "km": "ការភ័យខ្លាចខកចិត្តអាចធ្វើឱ្យពិបាកទទួលការយកចិត្តទុកដាក់។ សូមទទួលកាយវិការល្អតូចមួយ ដោយមិនប្រញាប់ឆ្លងព្រំដែនខ្លួន។"
+      },
+      "outcome": {
+        "en": "Giving feelings a gentle outlet could renew your sense of connection and help you recognise where care is available.",
+        "km": "ការផ្តល់ផ្លូវបង្ហាញអារម្មណ៍ដោយទន់ភ្លន់ អាចស្តារអារម្មណ៍នៃទំនាក់ទំនង និងជួយស្គាល់កន្លែងដែលមានការយកចិត្តទុកដាក់។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Give one important connection your full attention; ask what each person needs rather than assuming you already understand.",
+        "km": "សូមយកចិត្តទុកដាក់ពេញលេញលើទំនាក់ទំនងសំខាន់មួយ ហើយសួរតម្រូវការម្នាក់ៗ ជាជាងសន្មតថាយល់រួច។"
+      },
+      "challenge": {
+        "en": "Unequal effort could quietly become resentment; discuss a specific imbalance and make room for both giving and receiving.",
+        "km": "ការខិតខំមិនស្មើគ្នាអាចក្លាយជាការអាក់អន់ចិត្ត។ សូមពិភាក្សាចំណុចមិនស្មើជាក់លាក់ និងទុកកន្លែងទាំងការផ្តល់និងការទទួល។"
+      },
+      "outcome": {
+        "en": "A respectful conversation could strengthen cooperation and help you build a connection in which both people feel considered.",
+        "km": "សន្ទនាដោយគោរពអាចពង្រឹងកិច្ចសហការ និងជួយកសាងទំនាក់ទំនងដែលមនុស្សទាំងពីរមានអារម្មណ៍ថាទទួលការគិតគូរ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Make time for a supportive friend or a shared activity; let connection be a deliberate priority rather than an afterthought.",
+        "km": "សូមទុកពេលសម្រាប់មិត្តដែលគាំទ្រ ឬសកម្មភាពរួម ហើយយកទំនាក់ទំនងជាអាទិភាពដោយចេតនា ជាជាងនឹកឃើញតែក្រោយ។"
+      },
+      "challenge": {
+        "en": "Accepting every invitation could crowd out your personal priorities; choose the gatherings that leave you encouraged instead of overextended.",
+        "km": "ការទទួលរាល់ការអញ្ជើញអាចរុញអាទិភាពខ្លួនចេញ។ សូមជ្រើសការជួបជុំដែលលើកទឹកចិត្ត ជាជាងធ្វើឱ្យលើសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Investing in friendships that support you could bring shared joy and a stronger sense that you do not have to do everything alone.",
+        "km": "ការថែរក្សាមិត្តភាពដែលគាំទ្រ អាចនាំសេចក្តីរីករាយរួម និងអារម្មណ៍ថាអ្នកមិនត្រូវធ្វើគ្រប់យ៉ាងម្នាក់ឯង។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Examine what feels unsatisfying and give one overlooked option a fair look before deciding that nothing interests you.",
+        "km": "សូមពិនិត្យអ្វីដែលមិនពេញចិត្ត ហើយមើលជម្រើសដែលធ្លាប់រំលងមួយដោយយុត្តិធម៌ មុនសម្រេចថាគ្មានអ្វីគួរឱ្យចាប់អារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Staying absorbed in dissatisfaction could make a useful offer easy to dismiss; ask what it actually contains before saying no.",
+        "km": "ការជាប់ក្នុងភាពមិនពេញចិត្តអាចធ្វើឱ្យងាយបដិសេធឱកាសល្អ។ សូមសួរថាវាមានអ្វីពិតប្រាកដ មុននិយាយថាទេ។"
+      },
+      "outcome": {
+        "en": "Giving an available possibility some attention could renew your interest or clarify what kind of change you really need.",
+        "km": "ការយកចិត្តទុកដាក់លទ្ធភាពដែលមាន អាចធ្វើឱ្យចាប់អារម្មណ៍ឡើងវិញ ឬបញ្ជាក់ការផ្លាស់ប្តូរបែបណាដែលអ្នកត្រូវការពិត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Acknowledge a disappointment and identify one source of support that remains, without asking yourself to feel positive immediately.",
+        "km": "សូមទទួលស្គាល់ការខកចិត្ត និងរកប្រភពគាំទ្រដែលនៅមានមួយ ដោយមិនទាមទារឱ្យខ្លួនមានអារម្មណ៍វិជ្ជមានភ្លាមៗ។"
+      },
+      "challenge": {
+        "en": "Reviewing only what went wrong could hide what is still possible; give some attention to a choice that remains open.",
+        "km": "ការគិតតែអ្វីដែលខុសអាចបិទបាំងលទ្ធភាពនៅសល់។ សូមផ្តល់ការយកចិត្តទុកដាក់ខ្លះដល់ជម្រើសដែលនៅបើក។"
+      },
+      "outcome": {
+        "en": "Balancing space for sadness with available support could help you take a next step without denying what you have lost.",
+        "km": "ការរកតុល្យភាពរវាងការទុកកន្លែងឱ្យទុក្ខ និងការគាំទ្រដែលមាន អាចជួយបោះជំហានបន្ទាប់ ដោយមិនបដិសេធការបាត់បង់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Reconnect with a simple activity or trusted person that reminds you of kindness, and notice what remains useful in that connection.",
+        "km": "សូមភ្ជាប់ឡើងវិញនឹងសកម្មភាពសាមញ្ញ ឬមនុស្សទុកចិត្តដែលរំលឹកក្តីមេត្តា ហើយកត់សម្គាល់អ្វីដែលនៅមានប្រយោជន៍ក្នុងទំនាក់ទំនងនោះ។"
+      },
+      "challenge": {
+        "en": "Trying to recreate an ideal memory could distract you from present needs; keep the lesson while allowing the situation to be different.",
+        "km": "ការព្យាយាមបង្កើតអនុស្សាវរីយ៍ល្អដូចមុន អាចបង្វែរពីតម្រូវការបច្ចុប្បន្ន។ សូមរក្សាមេរៀន ហើយទទួលថាស្ថានភាពអាចខុសពីមុន។"
+      },
+      "outcome": {
+        "en": "Bringing a familiar kindness into your present routine could offer comfort without requiring you to live as you once did.",
+        "km": "ការនាំក្តីមេត្តាធ្លាប់ស្គាល់មកក្នុងទម្លាប់បច្ចុប្បន្ន អាចផ្តល់ភាពកក់ក្តៅ ដោយមិនទាមទារឱ្យរស់ដូចកាលពីមុន។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Narrow your options by checking what each one requires, then give one realistic possibility a small, practical test.",
+        "km": "សូមបង្រួមជម្រើសដោយពិនិត្យតម្រូវការនីមួយៗ រួចសាកលទ្ធភាពជាក់ស្តែងមួយតាមជំហានតូច។"
+      },
+      "challenge": {
+        "en": "An attractive image could hide effort, limits or missing details; look beyond how an option feels to how it would actually work.",
+        "km": "រូបភាពទាក់ទាញអាចបិទបាំងការខិតខំ កម្រិត ឬព័ត៌មានខ្វះ។ សូមមើលហួសអារម្មណ៍ទៅរបៀបដែលជម្រើសនោះដំណើរការពិត។"
+      },
+      "outcome": {
+        "en": "Testing one grounded choice could replace scattered imagining with clearer knowledge of where your attention is best spent.",
+        "km": "ការសាកជម្រើសជាក់ស្តែងមួយ អាចជំនួសការស្រមៃខ្ចាត់ខ្ចាយដោយការយល់ច្បាស់ថាគួរផ្តោតលើអ្វី។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Review a commitment that no longer feels meaningful, and clarify what you would need before deciding to change or leave it.",
+        "km": "សូមពិនិត្យការប្តេជ្ញាដែលលែងមានន័យ ហើយបញ្ជាក់តម្រូវការខ្លួន មុនសម្រេចថាត្រូវកែ ឬចាកចេញពីវា។"
+      },
+      "challenge": {
+        "en": "Discomfort with leaving the familiar could delay honest reflection; describe what you are seeking instead of focusing only on what you would lose.",
+        "km": "ភាពមិនស្រួលចិត្តនឹងការចាកចេញអាចពន្យារការពិចារណាស្មោះត្រង់។ សូមប្រាប់អ្វីដែលកំពុងស្វែងរក ជាជាងផ្តោតតែលើអ្វីដែលនឹងបាត់។"
+      },
+      "outcome": {
+        "en": "Clarifying what matters to you could support a thoughtful transition toward a commitment that fits your present needs better.",
+        "km": "ការបញ្ជាក់អ្វីដែលសំខាន់ចំពោះខ្លួន អាចគាំទ្រការផ្លាស់ប្តូរគិតគូរ ទៅការប្តេជ្ញាដែលសមនឹងតម្រូវការបច្ចុប្បន្នជាងមុន។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Name something that already brings satisfaction and make time to enjoy it, rather than immediately replacing it with another goal.",
+        "km": "សូមរកអ្វីដែលផ្តល់ភាពពេញចិត្តស្រាប់ ហើយទុកពេលរីករាយនឹងវា ជាជាងប្រញាប់ជំនួសដោយគោលដៅផ្សេង។"
+      },
+      "challenge": {
+        "en": "Comfort could make you neglect what sustains it; give a little care to the relationship or routine behind a good part of life.",
+        "km": "ភាពសុខស្រួលអាចធ្វើឱ្យភ្លេចអ្វីដែលទ្រទ្រង់វា។ សូមថែទំនាក់ទំនង ឬទម្លាប់ដែលគាំទ្រផ្នែកល្អនៃជីវិតបន្តិច។"
+      },
+      "outcome": {
+        "en": "Practising appreciation could make progress feel more rewarding and help you choose goals from interest rather than a constant sense of lack.",
+        "km": "ការអនុវត្តឱ្យតម្លៃអ្វីមានស្រាប់ អាចធ្វើឱ្យការរីកចម្រើនពេញចិត្តជាងមុន និងជួយជ្រើសគោលដៅតាមចំណាប់អារម្មណ៍ ជាជាងអារម្មណ៍ខ្វះជានិច្ច។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Give practical attention to the people you feel at home with; a shared meal or unhurried conversation can be a worthwhile priority.",
+        "km": "សូមយកចិត្តទុកដាក់ជាក់ស្តែងចំពោះមនុស្សដែលធ្វើឱ្យកក់ក្តៅ។ អាហាររួម ឬសន្ទនាមិនប្រញាប់ អាចជាអាទិភាពមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Trying to make everyone happy could put pressure on real connection; discuss one need honestly instead of maintaining a perfect appearance.",
+        "km": "ការព្យាយាមធ្វើឱ្យគ្រប់គ្នាសប្បាយអាចដាក់សម្ពាធលើទំនាក់ទំនងពិត។ សូមពិភាក្សាតម្រូវការមួយដោយស្មោះត្រង់ ជាជាងរក្សារូបភាពឥតខ្ចោះ។"
+      },
+      "outcome": {
+        "en": "Everyday care and realistic expectations could strengthen belonging, making your closest connections a steadier source of support.",
+        "km": "ការថែទាំប្រចាំថ្ងៃ និងការរំពឹងជាក់ស្តែង អាចពង្រឹងភាពជាផ្នែកមួយ និងធ្វើឱ្យទំនាក់ទំនងជិតស្និទ្ធជាប្រភពគាំទ្រនឹងនរជាងមុន។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Give a gentle feeling or creative idea a small expression, such as a thoughtful message, a sketch or a quiet conversation.",
+        "km": "សូមបង្ហាញអារម្មណ៍ទន់ភ្លន់ ឬគំនិតច្នៃប្រឌិតតាមរឿងតូច ដូចជាសារយកចិត្តទុកដាក់ គំនូរព្រាង ឬសន្ទនាស្ងប់។"
+      },
+      "challenge": {
+        "en": "Taking a remark personally could pull attention away from what you intended; check its meaning before deciding how to respond.",
+        "km": "ការយកពាក្យមួយមកគិតថាសំដៅខ្លួន អាចបង្វែរអារម្មណ៍ពីបំណងដើម។ សូមពិនិត្យន័យរបស់វា មុនសម្រេចរបៀបឆ្លើយ។"
+      },
+      "outcome": {
+        "en": "Expressing yourself with curiosity could invite a kind exchange or reveal a creative interest you want to explore further.",
+        "km": "ការបង្ហាញខ្លួនដោយចង់ស្វែងយល់ អាចនាំការប្រាស្រ័យល្អ ឬបង្ហាញចំណាប់អារម្មណ៍ច្នៃប្រឌិតដែលចង់ស្វែងយល់បន្ថែម។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Translate something you care about into a sincere invitation or proposal, keeping the request clear and open to an honest response.",
+        "km": "សូមប្តូរអ្វីដែលអ្នកយកចិត្តទុកដាក់ទៅការអញ្ជើញ ឬសំណើស្មោះ ដោយប្រាប់ឱ្យច្បាស់ និងទទួលចម្លើយស្មោះត្រង់។"
+      },
+      "challenge": {
+        "en": "An inspiring picture could obscure practical needs; check whether the time, effort and expectations behind your idea are realistic.",
+        "km": "រូបភាពបំផុសគំនិតអាចបិទបាំងតម្រូវការជាក់ស្តែង។ សូមពិនិត្យថាពេលវេលា កម្លាំង និងការរំពឹងនៅពីក្រោយគំនិតអាចធ្វើបានឬទេ។"
+      },
+      "outcome": {
+        "en": "Combining heartfelt intention with a realistic request could open a meaningful conversation and show whether an idea has shared support.",
+        "km": "ការរួមបំណងពីចិត្តនឹងសំណើជាក់ស្តែង អាចបើកសន្ទនាមានន័យ និងបង្ហាញថាគំនិតមានការគាំទ្ររួមឬទេ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Listen carefully to your feelings before responding to someone else's needs, so your care includes an honest understanding of your own capacity.",
+        "km": "សូមស្តាប់អារម្មណ៍ខ្លួន មុនឆ្លើយតបតម្រូវការអ្នកដទៃ ដើម្បីឱ្យការថែទាំរួមការយល់ស្មោះត្រង់ពីលទ្ធភាពខ្លួន។"
+      },
+      "challenge": {
+        "en": "Absorbing another person's mood could make your priorities hard to hear; offer compassion without taking responsibility for every feeling.",
+        "km": "ការទទួលយកអារម្មណ៍អ្នកដទៃអាចធ្វើឱ្យពិបាកស្គាល់អាទិភាពខ្លួន។ សូមផ្តល់ក្តីមេត្តា ដោយមិនរ៉ាប់រងរាល់អារម្មណ៍ទាំងអស់។"
+      },
+      "outcome": {
+        "en": "Caring with clear limits could deepen understanding while leaving you enough emotional space to attend to your own life.",
+        "km": "ការថែទាំដោយមានកម្រិតច្បាស់ អាចធ្វើឱ្យយល់គ្នាជ្រាលជ្រៅ ហើយទុកកន្លែងផ្លូវចិត្តគ្រប់គ្រាន់សម្រាប់ជីវិតខ្លួន។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Focus on expressing a strong feeling calmly; choose a moment when you can explain both what matters and what you need.",
+        "km": "សូមផ្តោតលើការបង្ហាញអារម្មណ៍ខ្លាំងដោយស្ងប់ ហើយជ្រើសពេលដែលអាចពន្យល់ទាំងអ្វីសំខាន់និងតម្រូវការខ្លួន។"
+      },
+      "challenge": {
+        "en": "Keeping composed could become hiding your needs; share one honest detail instead of expecting others to understand your silence.",
+        "km": "ការរក្សាភាពស្ងប់អាចក្លាយជាការលាក់តម្រូវការ។ សូមចែករំលែកចំណុចស្មោះមួយ ជាជាងរំពឹងឱ្យគេយល់ភាពស្ងៀមរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Calm honesty could make a difficult exchange more constructive and help others understand how to support you.",
+        "km": "ភាពស្មោះត្រង់ស្ងប់ស្ងាត់ អាចធ្វើឱ្យការប្រាស្រ័យពិបាកកាន់តែស្ថាបនា និងជួយគេយល់របៀបគាំទ្រអ្នក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "State the main issue in one clear sentence, then identify the fact or decision that would help you move forward.",
+        "km": "សូមប្រាប់បញ្ហាចម្បងជាប្រយោគច្បាស់មួយ រួចរកការពិត ឬការសម្រេចដែលអាចជួយឱ្យបោះទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Wanting to be direct could make your words sharper than necessary; keep the message truthful while considering how it will be received.",
+        "km": "ការចង់និយាយត្រង់អាចធ្វើឱ្យពាក្យមុតជាងចាំបាច់។ សូមរក្សាសារពិត ហើយគិតពីរបៀបដែលអ្នកស្តាប់នឹងទទួលវា។"
+      },
+      "outcome": {
+        "en": "Clarifying the real issue could reduce wasted effort and give you a more useful question to answer next.",
+        "km": "ការបញ្ជាក់បញ្ហាពិតអាចកាត់បន្ថយការខិតខំឥតប្រយោជន៍ និងផ្តល់សំណួរដែលមានប្រយោជន៍ជាងមុនសម្រាប់ឆ្លើយបន្ទាប់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Give an unresolved choice some focused attention; list the missing information and decide which priority should guide the decision.",
+        "km": "សូមផ្តោតលើជម្រើសមិនទាន់សម្រេច ដោយរាយព័ត៌មានដែលខ្វះ និងជ្រើសអាទិភាពដែលគួរដឹកនាំការសម្រេច។"
+      },
+      "challenge": {
+        "en": "Avoiding discomfort could keep the choice on hold; distinguish needing more facts from hoping the decision will disappear.",
+        "km": "ការគេចពីភាពមិនស្រួលចិត្តអាចទុកជម្រើសឱ្យនៅផ្អាក។ សូមបែងចែកការត្រូវការការពិតបន្ថែមពីការសង្ឃឹមថារឿងត្រូវសម្រេចនឹងបាត់ទៅ។"
+      },
+      "outcome": {
+        "en": "Using clear priorities could help you reach a considered choice, even if neither option removes every uncertainty.",
+        "km": "ការប្រើអាទិភាពច្បាស់អាចជួយឱ្យជ្រើសដោយគិតគូរ ទោះជម្រើសទាំងពីរមិនអាចលុបភាពមិនប្រាកដទាំងអស់ក៏ដោយ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Give a painful feeling a gentle outlet, such as writing privately or speaking with someone who can listen without rushing you.",
+        "km": "សូមផ្តល់ផ្លូវបង្ហាញអារម្មណ៍ឈឺចាប់ដោយទន់ភ្លន់ ដូចជាសរសេរផ្ទាល់ខ្លួន ឬនិយាយជាមួយអ្នកស្តាប់ដោយមិនបង្ខំឱ្យប្រញាប់។"
+      },
+      "challenge": {
+        "en": "Pretending the hurt does not matter could take more energy than acknowledging it; let yourself name what has been difficult.",
+        "km": "ការធ្វើពុតថាការឈឺចាប់មិនសំខាន់ អាចប្រើកម្លាំងច្រើនជាងការទទួលស្គាល់។ សូមអនុញ្ញាតឱ្យខ្លួនប្រាប់អ្វីដែលពិបាក។"
+      },
+      "outcome": {
+        "en": "Making room for honest feelings could help you identify the care you need, without forcing a quick resolution.",
+        "km": "ការទុកកន្លែងសម្រាប់អារម្មណ៍ស្មោះ អាចជួយស្គាល់ការថែទាំដែលត្រូវការ ដោយមិនបង្ខំឱ្យដោះស្រាយចប់ឆាប់។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Protect a quiet break from demands and decisions; let rest be a planned part of your day rather than leftover time.",
+        "km": "សូមរក្សាពេលសម្រាកស្ងប់ពីការទាមទារនិងការសម្រេច ហើយរៀបការសម្រាកក្នុងថ្ងៃ ជាជាងទុកតែពេលសល់។"
+      },
+      "challenge": {
+        "en": "Feeling you must stay productive could make rest seem undeserved; postpone a nonessential task and notice what your energy is telling you.",
+        "km": "អារម្មណ៍ត្រូវតែធ្វើការរហូត អាចធ្វើឱ្យគិតថាមិនសមនឹងសម្រាក។ សូមពន្យារកិច្ចការមិនចាំបាច់ និងស្តាប់ស្ថានភាពកម្លាំងខ្លួន។"
+      },
+      "outcome": {
+        "en": "Allowing a deliberate pause could help you return to your priorities with more clarity and a better sense of your limits.",
+        "km": "ការផ្អាកដោយចេតនាអាចជួយត្រឡប់ទៅអាទិភាពដោយច្បាស់ជាងមុន និងយល់កម្រិតខ្លួនបានល្អ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Review whether a disagreement deserves more of your attention; choose the outcome you want beyond simply proving your point.",
+        "km": "សូមពិនិត្យថាការខ្វែងគំនិតគួរទទួលអារម្មណ៍បន្ថែមឬទេ ហើយជ្រើសលទ្ធផលដែលចង់បាន ហួសពីការបង្ហាញថាខ្លួនត្រូវ។"
+      },
+      "challenge": {
+        "en": "The urge to win could keep a draining argument alive; protect your boundary without responding to every provocation.",
+        "km": "បំណងចង់ឈ្នះអាចបន្តការប្រកែកបង្ហូរកម្លាំង។ សូមការពារព្រំដែនខ្លួន ដោយមិនតបរាល់ការបង្កហេតុ។"
+      },
+      "outcome": {
+        "en": "Leaving an unproductive contest could free your attention for a more worthwhile task while preserving what matters to you.",
+        "km": "ការចាកចេញពីការប្រជែងឥតប្រយោជន៍ អាចទុកអារម្មណ៍សម្រាប់កិច្ចការមានតម្លៃជាង ហើយរក្សាអ្វីដែលសំខាន់ចំពោះអ្នក។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Choose a practical step toward a calmer routine, especially if you are already moving away from an exhausting situation.",
+        "km": "សូមជ្រើសជំហានជាក់ស្តែងទៅរកទម្លាប់ស្ងប់ជាងមុន ជាពិសេសបើអ្នកកំពុងចាកចេញពីស្ថានភាពធ្វើឱ្យអស់កម្លាំង។"
+      },
+      "challenge": {
+        "en": "Missing the familiar could distract you from the reason for a change; acknowledge that feeling while keeping your next step manageable.",
+        "km": "ការនឹកអ្វីធ្លាប់ស្គាល់អាចបង្វែរពីហេតុផលនៃការផ្លាស់ប្តូរ។ សូមទទួលស្គាល់អារម្មណ៍នោះ ហើយរក្សាជំហានបន្ទាប់ឱ្យអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Steady attention to a thoughtful transition could reduce daily friction and give you more room to consider what comes next.",
+        "km": "ការយកចិត្តទុកដាក់ជាប់លាប់លើការផ្លាស់ប្តូរគិតគូរ អាចកាត់បន្ថយការលំបាកប្រចាំថ្ងៃ និងទុកកន្លែងគិតអ្វីបន្ទាប់។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Plan your next move carefully, checking that your approach is both effective and honest about what others need to know.",
+        "km": "សូមរៀបជំហានបន្ទាប់ដោយប្រុងប្រយ័ត្ន ហើយពិនិត្យថាវិធីសាស្ត្រមានប្រសិទ្ធភាព និងស្មោះត្រង់ចំពោះអ្វីដែលគេត្រូវដឹង។"
+      },
+      "challenge": {
+        "en": "Avoiding an awkward conversation could create a larger problem later; address the essential detail instead of relying on a convenient omission.",
+        "km": "ការគេចពីសន្ទនាពិបាកអាចបង្កបញ្ហាធំក្រោយមក។ សូមដោះស្រាយចំណុចចាំបាច់ ជាជាងពឹងលើការលាក់ព័ត៌មានដើម្បីភាពងាយស្រួល។"
+      },
+      "outcome": {
+        "en": "A thoughtful plan with clear responsibilities could help you handle a complicated task without depending on shortcuts or secrecy.",
+        "km": "ផែនការគិតគូរជាមួយភារកិច្ចច្បាស់ អាចជួយដោះស្រាយការងារស្មុគស្មាញ ដោយមិនពឹងផ្លូវកាត់ឬការលាក់បាំង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Separate a real constraint from an assumption about what is impossible, then identify one choice that remains within reach.",
+        "km": "សូមបែងចែកកម្រិតពិតពីការសន្មតថាអ្វីមិនអាចធ្វើបាន រួចរកជម្រើសមួយដែលនៅក្នុងលទ្ធភាព។"
+      },
+      "challenge": {
+        "en": "Feeling trapped could make available help hard to notice; describe the specific barrier and ask what support might address it.",
+        "km": "អារម្មណ៍ជាប់គាំងអាចធ្វើឱ្យពិបាកស្គាល់ជំនួយដែលមាន។ សូមប្រាប់ឧបសគ្គជាក់លាក់ ហើយសួរថាការគាំទ្រអ្វីអាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Examining one barrier carefully could reveal a practical option and strengthen your sense of agency without denying genuine limits.",
+        "km": "ការពិនិត្យឧបសគ្គមួយដោយប្រុងប្រយ័ត្ន អាចបង្ហាញជម្រើសជាក់ស្តែង និងពង្រឹងអារម្មណ៍ថាអាចសម្រេចដោយខ្លួន ដោយមិនបដិសេធកម្រិតពិត។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Put one worry into words and separate what needs an action from what is an imagined possibility you cannot settle now.",
+        "km": "សូមនិយាយកង្វល់មួយឱ្យច្បាស់ ហើយបែងចែកអ្វីត្រូវធ្វើសកម្មភាពពីលទ្ធភាពក្នុងការស្រមៃដែលមិនអាចដោះស្រាយឥឡូវ។"
+      },
+      "challenge": {
+        "en": "Replaying the same concern could use up your attention without adding information; share it with someone trusted or write down the next useful question.",
+        "km": "ការគិតកង្វល់ដដែលអាចប្រើអស់អារម្មណ៍ដោយមិនបន្ថែមព័ត៌មាន។ សូមចែករំលែកជាមួយអ្នកទុកចិត្ត ឬកត់សំណួរមានប្រយោជន៍បន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A clearer view of a worry could make one manageable response easier to choose, even if some uncertainty remains.",
+        "km": "ការមើលកង្វល់បានច្បាស់ អាចធ្វើឱ្យងាយជ្រើសការឆ្លើយតបដែលអាចធ្វើបាន ទោះភាពមិនប្រាកដខ្លះនៅសល់ក៏ដោយ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Attend to what you need after a difficult ending, beginning with one simple responsibility or source of support you can manage.",
+        "km": "សូមយកចិត្តទុកដាក់តម្រូវការក្រោយការបញ្ចប់លំបាក ដោយចាប់ពីភារកិច្ចសាមញ្ញ ឬប្រភពគាំទ្រមួយដែលអ្នកអាចទទួលបាន។"
+      },
+      "challenge": {
+        "en": "Trying to undo what has already ended could keep your attention in the past; identify what is still yours to care for.",
+        "km": "ការព្យាយាមបង្វិលអ្វីដែលបញ្ចប់រួច អាចទុកអារម្មណ៍ក្នុងអតីតកាល។ សូមរកអ្វីដែលនៅជារបស់អ្នកត្រូវថែរក្សា។"
+      },
+      "outcome": {
+        "en": "Giving a new stage a modest beginning could make room for a different experience without requiring you to feel ready for everything.",
+        "km": "ការចាប់ដំណាក់កាលថ្មីតូចមួយ អាចទុកកន្លែងសម្រាប់បទពិសោធន៍ផ្សេង ដោយមិនទាមទារឱ្យអ្នកត្រៀមរួចសម្រាប់គ្រប់យ៉ាង។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Choose one question worth investigating and seek a reliable answer, instead of letting unrelated information set your agenda.",
+        "km": "សូមជ្រើសសំណួរដែលគួរស្វែងយល់មួយ ហើយរកចម្លើយគួរឱ្យទុកចិត្ត ជាជាងឱ្យព័ត៌មានមិនពាក់ព័ន្ធកំណត់អ្វីដែលអ្នកធ្វើ។"
+      },
+      "challenge": {
+        "en": "An interesting claim could draw you into speculation; verify its source before repeating it or making it the basis of a decision.",
+        "km": "ពាក្យអះអាងគួរឱ្យចាប់អារម្មណ៍អាចទាញទៅការស្មាន។ សូមផ្ទៀងផ្ទាត់ប្រភព មុននិយាយបន្ត ឬយកធ្វើមូលដ្ឋានសម្រេច។"
+      },
+      "outcome": {
+        "en": "Purposeful learning could give you a useful idea to apply and a clearer sense of which questions deserve further attention.",
+        "km": "ការរៀនមានគោលបំណងអាចផ្តល់គំនិតមានប្រយោជន៍សម្រាប់អនុវត្ត និងជួយឱ្យដឹងថាសំណួរណាគួរយកចិត្តទុកដាក់បន្ថែម។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Channel your urgency into a well-defined task, checking the aim and essential facts before acting decisively.",
+        "km": "សូមនាំអារម្មណ៍ប្រញាប់ទៅកិច្ចការច្បាស់ ដោយពិនិត្យគោលដៅនិងការពិតចាំបាច់ មុនធ្វើសកម្មភាពដាច់ខាត។"
+      },
+      "challenge": {
+        "en": "Certainty about your view could make you interrupt useful feedback; let the other person finish before choosing your response.",
+        "km": "ភាពប្រាកដនឹងមតិខ្លួនអាចធ្វើឱ្យកាត់មតិកែលម្អមានប្រយោជន៍។ សូមឱ្យអ្នកដទៃនិយាយចប់ មុនជ្រើសការឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "A direct action grounded in listening could move a stalled task forward while reducing avoidable mistakes or friction.",
+        "km": "សកម្មភាពត្រង់ដែលផ្អែកលើការស្តាប់ អាចនាំកិច្ចការជាប់គាំងទៅមុខ និងកាត់បន្ថយកំហុសឬការប៉ះទង្គិចដែលអាចជៀសបាន។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clarify a boundary or expectation in plain language, so your time and attention are not spent managing avoidable ambiguity.",
+        "km": "សូមបញ្ជាក់ព្រំដែនឬការរំពឹងដោយពាក្យសាមញ្ញ ដើម្បីកុំឱ្យចំណាយពេលនិងអារម្មណ៍ដោះស្រាយភាពមិនច្បាស់ដែលអាចជៀសបាន។"
+      },
+      "challenge": {
+        "en": "Protecting your judgement could make you sound dismissive; keep the boundary firm while acknowledging the other person's perspective.",
+        "km": "ការការពារការវិនិច្ឆ័យខ្លួនអាចធ្វើឱ្យស្តាប់ទៅដូចមើលរំលងគេ។ សូមរក្សាព្រំដែនរឹងមាំ ហើយទទួលស្គាល់ទស្សនៈអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Clear, considerate communication could reduce misunderstandings and help you give attention to commitments you have actually chosen.",
+        "km": "ការប្រាស្រ័យច្បាស់និងគិតគូរ អាចកាត់បន្ថយការយល់ច្រឡំ និងជួយផ្តោតលើការប្តេជ្ញាដែលអ្នកបានជ្រើសពិតប្រាកដ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Set fair criteria for a decision you need to make, then weigh the evidence rather than the loudest opinion.",
+        "km": "សូមកំណត់លក្ខណៈវិនិច្ឆ័យយុត្តិធម៌សម្រាប់ការសម្រេច រួចថ្លឹងភស្តុតាង ជាជាងធ្វើតាមមតិដែលឮខ្លាំងបំផុត។"
+      },
+      "challenge": {
+        "en": "A tidy logical answer could overlook someone's circumstances; include the human impact before deciding what is reasonable.",
+        "km": "ចម្លើយសមហេតុផលល្អមួយអាចរំលងស្ថានភាពមនុស្ស។ សូមរាប់បញ្ចូលផលប៉ះពាល់លើមនុស្ស មុនសម្រេចអ្វីសមស្រប។"
+      },
+      "outcome": {
+        "en": "Reasoning that includes fairness could produce a decision you can explain clearly and carry out with greater consistency.",
+        "km": "ហេតុផលដែលរួមភាពយុត្តិធម៌ អាចនាំការសម្រេចដែលអាចពន្យល់ច្បាស់ និងអនុវត្តបានជាប់លាប់ជាងមុន។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Choose one practical opportunity to examine closely, and identify the smallest useful step you can take with resources already available.",
+        "km": "សូមជ្រើសឱកាសជាក់ស្តែងមួយពិនិត្យឱ្យច្បាស់ ហើយរកជំហានតូចបំផុតដែលមានប្រយោជន៍ និងអាចធ្វើដោយធនធានមានស្រាប់។"
+      },
+      "challenge": {
+        "en": "Waiting for an ideal starting point could leave useful preparation undone; clarify the requirements before deciding whether to proceed.",
+        "km": "ការរង់ចាំចំណុចចាប់ផ្តើមល្អឥតខ្ចោះ អាចធ្វើឱ្យមិនបានត្រៀមអ្វីមានប្រយោជន៍។ សូមបញ្ជាក់តម្រូវការ មុនសម្រេចថាត្រូវបន្តឬទេ។"
+      },
+      "outcome": {
+        "en": "A careful practical start could give you a foundation to develop, with clearer knowledge of the effort it will need.",
+        "km": "ការចាប់ផ្តើមជាក់ស្តែងដោយប្រុងប្រយ័ត្ន អាចផ្តល់គ្រឹះសម្រាប់អភិវឌ្ឍ និងការយល់ច្បាស់ពីកម្លាំងដែលវាត្រូវការ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Sort your responsibilities into what must happen, what can wait and what needs adjustment, rather than giving everything equal attention.",
+        "km": "សូមបែងចែកភារកិច្ចជាអ្វីត្រូវធ្វើ អ្វីអាចរង់ចាំ និងអ្វីត្រូវកែ ជាជាងផ្តល់ការយកចិត្តទុកដាក់ស្មើគ្នាដល់គ្រប់យ៉ាង។"
+      },
+      "challenge": {
+        "en": "Switching constantly between demands could increase mistakes; finish a manageable part of one task before moving to the next.",
+        "km": "ការប្តូរពីការទាមទារមួយទៅមួយរហូត អាចបង្កើនកំហុស។ សូមបញ្ចប់ផ្នែកដែលអាចធ្វើបាននៃកិច្ចការមួយ មុនប្តូរទៅបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A flexible order of priorities could help you meet essential responsibilities without treating every interruption as equally urgent.",
+        "km": "លំដាប់អាទិភាពបត់បែនអាចជួយបំពេញភារកិច្ចចាំបាច់ ដោយមិនចាត់ទុករាល់ការរំខានថាបន្ទាន់ស្មើគ្នា។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Focus on a shared task where your skills can help; clarify your role and ask for feedback that improves the work.",
+        "km": "សូមផ្តោតលើកិច្ចការរួមដែលជំនាញអ្នកអាចជួយបាន ដោយបញ្ជាក់តួនាទី និងសុំមតិដែលជួយកែលម្អការងារ។"
+      },
+      "challenge": {
+        "en": "Unspoken expectations could cause duplicated effort or missed steps; agree on who does what before adding more work.",
+        "km": "ការរំពឹងមិនបាននិយាយអាចបង្កការងារជាន់គ្នា ឬរំលងជំហាន។ សូមព្រមព្រៀងថានរណាធ្វើអ្វី មុនបន្ថែមការងារ។"
+      },
+      "outcome": {
+        "en": "Combining skills with clear communication could improve the result and help you learn something you would miss working alone.",
+        "km": "ការរួមជំនាញនិងការប្រាស្រ័យច្បាស់ អាចកែលម្អលទ្ធផល និងជួយរៀនអ្វីដែលអ្នកអាចរំលងបើធ្វើម្នាក់ឯង។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Review what you are protecting and why; give attention to the routines that preserve stability without closing off every change.",
+        "km": "សូមពិនិត្យអ្វីដែលកំពុងការពារ និងមូលហេតុ ហើយថែទម្លាប់ដែលរក្សាស្ថិរភាព ដោយមិនបិទរាល់ការផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Holding on simply to avoid uncertainty could make useful adjustments difficult; identify one change that does not threaten your essentials.",
+        "km": "ការតោងដើម្បីគេចភាពមិនប្រាកដ អាចធ្វើឱ្យពិបាកកែអ្វីមានប្រយោជន៍។ សូមរកការកែមួយដែលមិនប៉ះពាល់អ្វីចាំបាច់។"
+      },
+      "outcome": {
+        "en": "Balancing preservation with a little flexibility could help your foundation remain dependable as your needs develop.",
+        "km": "ការរកតុល្យភាពរវាងការរក្សានិងភាពបត់បែនបន្តិច អាចជួយឱ្យគ្រឹះនៅពឹងបាន ខណៈតម្រូវការរបស់អ្នកប្រែប្រួល។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Name your most pressing practical need and look for an available source of help, rather than trying to carry every difficulty privately.",
+        "km": "សូមប្រាប់តម្រូវការជាក់ស្តែងបន្ទាន់បំផុត ហើយរកប្រភពជំនួយដែលមាន ជាជាងព្យាយាមរ៉ាប់រងការលំបាកទាំងអស់ម្នាក់ឯង។"
+      },
+      "challenge": {
+        "en": "Shame or discouragement could make asking feel impossible; begin with a specific request to someone or somewhere you trust.",
+        "km": "ការខ្មាស ឬបាក់ទឹកចិត្តអាចធ្វើឱ្យការសុំហាក់មិនអាចធ្វើបាន។ សូមចាប់ពីសំណើជាក់លាក់ទៅមនុស្ស ឬកន្លែងដែលទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Reaching out could reveal support or information that makes a difficult responsibility more manageable, even if the whole situation takes time.",
+        "km": "ការទាក់ទងសុំជំនួយអាចបង្ហាញការគាំទ្រ ឬព័ត៌មានដែលធ្វើឱ្យភារកិច្ចលំបាកងាយគ្រប់គ្រង ទោះស្ថានភាពទាំងមូលត្រូវការពេលក៏ដោយ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Pay attention to how you give and receive support; choose a fair exchange that respects both people's needs and limits.",
+        "km": "សូមយកចិត្តទុកដាក់របៀបផ្តល់និងទទួលការគាំទ្រ ហើយជ្រើសការផ្លាស់ប្តូរយុត្តិធម៌ដែលគោរពតម្រូវការនិងកម្រិតទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Giving beyond your capacity or accepting unclear expectations could create strain; agree on what help is actually being offered.",
+        "km": "ការផ្តល់លើសលទ្ធភាព ឬទទួលការរំពឹងមិនច្បាស់ អាចបង្កសម្ពាធ។ សូមព្រមព្រៀងថាជំនួយអ្វីត្រូវបានផ្តល់ពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Clear, balanced support could strengthen trust and leave both sides better able to contribute without hidden obligations.",
+        "km": "ការគាំទ្រច្បាស់និងមានតុល្យភាព អាចពង្រឹងទំនុកចិត្ត និងធ្វើឱ្យទាំងពីរចូលរួមបានល្អ ដោយគ្មានភារកិច្ចលាក់លៀម។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Review the results of an effort already underway, and decide whether it needs more time, a small adjustment or a changed priority.",
+        "km": "សូមពិនិត្យលទ្ធផលនៃការខិតខំកំពុងធ្វើ ហើយសម្រេចថាវាត្រូវការពេលបន្ថែម ការកែតូច ឬការប្តូរអាទិភាព។"
+      },
+      "challenge": {
+        "en": "Impatience could make you abandon useful work or continue blindly; use evidence of progress to guide your next investment of effort.",
+        "km": "ការមិនអត់ធ្មត់អាចធ្វើឱ្យបោះបង់ការងារល្អ ឬបន្តដោយមិនពិចារណា។ សូមប្រើសញ្ញារីកចម្រើនដឹកនាំការចំណាយកម្លាំងបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Patient review could help you keep nurturing what responds and stop spending attention on an approach that needs revision.",
+        "km": "ការពិនិត្យអត់ធ្មត់អាចជួយបន្តថែអ្វីដែលដំណើរការ និងឈប់ចំណាយអារម្មណ៍លើវិធីដែលត្រូវកែសម្រួល។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Practise one useful skill with close attention to a small detail, choosing steady improvement over trying to do everything perfectly.",
+        "km": "សូមហាត់ជំនាញមានប្រយោជន៍មួយដោយយកចិត្តទុកដាក់ចំណុចតូច ហើយជ្រើសការកែលម្អជាប់លាប់ ជាជាងធ្វើគ្រប់យ៉ាងឱ្យឥតខ្ចោះ។"
+      },
+      "challenge": {
+        "en": "Repetition could feel pointless if you cannot see progress; set a specific learning aim and notice what changes with practice.",
+        "km": "ការធ្វើដដែលអាចហាក់គ្មានន័យ បើមិនឃើញការរីកចម្រើន។ សូមកំណត់គោលដៅរៀនជាក់លាក់ ហើយសង្កេតអ្វីដែលផ្លាស់ប្តូរតាមការហាត់។"
+      },
+      "outcome": {
+        "en": "Consistent, attentive practice could improve the quality of your work and give you stronger confidence in a skill you can use.",
+        "km": "ការហាត់ជាប់លាប់និងយកចិត្តទុកដាក់ អាចលើកគុណភាពការងារ និងបង្កើនទំនុកចិត្តលើជំនាញដែលអ្នកអាចប្រើបាន។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Appreciate what your own effort has made possible, and choose one way to enjoy or maintain it with care.",
+        "km": "សូមឱ្យតម្លៃអ្វីដែលកម្លាំងខ្លួនបានធ្វើឱ្យអាចកើតឡើង ហើយជ្រើសវិធីមួយដើម្បីរីករាយ ឬថែរក្សាវា។"
+      },
+      "challenge": {
+        "en": "Insisting on complete self-reliance could make support feel unwelcome; allow a trusted person to share a task or a good moment.",
+        "km": "ការទាមទារពឹងខ្លួនទាំងស្រុងអាចធ្វើឱ្យមិនចង់ទទួលការគាំទ្រ។ សូមឱ្យអ្នកទុកចិត្តចូលរួមកិច្ចការ ឬពេលវេលាល្អ។"
+      },
+      "outcome": {
+        "en": "Combining independence with appreciation could make your achievements feel more satisfying and help you decide what is already enough.",
+        "km": "ការរួមឯករាជ្យភាពនិងការឱ្យតម្លៃ អាចធ្វើឱ្យសមិទ្ធផលកាន់តែពេញចិត្ត និងជួយសម្រេចថាអ្វីគ្រប់គ្រាន់ហើយ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Give attention to a lasting responsibility you share with others, and discuss what will help that foundation remain dependable.",
+        "km": "សូមយកចិត្តទុកដាក់ភារកិច្ចយូរអង្វែងដែលចែករំលែកជាមួយគេ ហើយពិភាក្សាអ្វីដែលជួយរក្សាគ្រឹះនោះឱ្យពឹងបាន។"
+      },
+      "challenge": {
+        "en": "Inherited expectations could crowd out your own priorities; explain what you can honour and where your needs differ.",
+        "km": "ការរំពឹងទទួលបន្តពីមុនអាចរុញអាទិភាពខ្លួនចេញ។ សូមពន្យល់អ្វីដែលអ្នកអាចគោរពតាម និងកន្លែងដែលតម្រូវការខុសគ្នា។"
+      },
+      "outcome": {
+        "en": "Caring for a shared foundation with clear expectations could support greater continuity for you and the people who depend on it.",
+        "km": "ការថែគ្រឹះរួមដោយមានការរំពឹងច្បាស់ អាចគាំទ្រភាពបន្តសម្រាប់អ្នក និងមនុស្សដែលពឹងលើវា។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Choose a practical subject to learn and complete one small exercise, giving your interest a concrete place in your routine.",
+        "km": "សូមជ្រើសមុខវិជ្ជាជាក់ស្តែងមួយរៀន ហើយបញ្ចប់លំហាត់តូចមួយ ដើម្បីឱ្យចំណាប់អារម្មណ៍មានកន្លែងពិតក្នុងទម្លាប់។"
+      },
+      "challenge": {
+        "en": "Planning to learn could replace learning itself; set aside a manageable session and work with the material already available.",
+        "km": "ការគ្រោងរៀនអាចជំនួសការរៀនពិត។ សូមទុកពេលដែលអាចធ្វើបាន ហើយចាប់ធ្វើជាមួយសម្ភារៈដែលមានស្រាប់។"
+      },
+      "outcome": {
+        "en": "Completing small learning tasks could build useful competence and reveal a practical project suited to your developing skills.",
+        "km": "ការបញ្ចប់កិច្ចការរៀនតូចៗ អាចកសាងសមត្ថភាពមានប្រយោជន៍ និងបង្ហាញគម្រោងជាក់ស្តែងសមនឹងជំនាញកំពុងរីកចម្រើន។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Attend to one ordinary commitment that benefits from consistency, and choose a pace you can repeat without overpromising.",
+        "km": "សូមថែការប្តេជ្ញាធម្មតាមួយដែលត្រូវការភាពជាប់លាប់ ហើយជ្រើសល្បឿនដែលអាចធ្វើបន្ត ដោយមិនសន្យាលើសលទ្ធភាព។"
+      },
+      "challenge": {
+        "en": "Following a routine automatically could hide a needed improvement; review one repeated step and change it if it no longer helps.",
+        "km": "ការធ្វើតាមទម្លាប់ដោយមិនគិតអាចបិទបាំងការកែលម្អចាំបាច់។ សូមពិនិត្យជំហានធ្វើដដែលមួយ ហើយកែបើវាលែងជួយ។"
+      },
+      "outcome": {
+        "en": "Reliable follow-through with occasional adjustment could produce steady progress that does not depend on bursts of motivation.",
+        "km": "ការធ្វើឱ្យចប់ទៀងទាត់ និងកែសម្រួលម្តងម្កាល អាចនាំការរីកចម្រើនជាប់លាប់ ដែលមិនពឹងតែលើកម្លាំងចិត្តមួយភ្លែត។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Choose one practical act of care that improves daily life, remembering to include your own comfort among the needs you attend to.",
+        "km": "សូមជ្រើសការថែទាំជាក់ស្តែងមួយដែលកែលម្អជីវិតប្រចាំថ្ងៃ ហើយកុំភ្លេចរាប់បញ្ចូលភាពស្រួលខ្លួនក្នុងតម្រូវការដែលថែ។"
+      },
+      "challenge": {
+        "en": "Organising everyone else's wellbeing could leave you depleted; ask for a specific share of the work and protect time to replenish yourself.",
+        "km": "ការរៀបចំសុខុមាលភាពគ្រប់គ្នាអាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមសុំឱ្យគេចែកការងារជាក់លាក់ និងរក្សាពេលស្តារកម្លាំងខ្លួន។"
+      },
+      "outcome": {
+        "en": "Care that includes your own limits could make everyday life more comfortable and help you support others with greater steadiness.",
+        "km": "ការថែទាំដែលគិតពីកម្រិតខ្លួន អាចធ្វើឱ្យជីវិតប្រចាំថ្ងៃស្រួល និងជួយគាំទ្រអ្នកដទៃដោយនឹងនរជាងមុន។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Focus on maintaining something valuable through responsible choices, using your experience to decide what needs attention before adding more ambitions.",
+        "km": "សូមផ្តោតលើការរក្សាអ្វីមានតម្លៃតាមជម្រើសទទួលខុសត្រូវ ហើយប្រើបទពិសោធន៍សម្រេចអ្វីត្រូវថែ មុនបន្ថែមបំណងធំ។"
+      },
+      "challenge": {
+        "en": "Measuring success only through visible results could hide what gives life meaning; check whether your priorities leave room for people and enjoyment.",
+        "km": "ការវាស់ជោគជ័យតែលទ្ធផលមើលឃើញ អាចបិទបាំងអត្ថន័យជីវិត។ សូមពិនិត្យថាអាទិភាពទុកកន្លែងសម្រាប់មនុស្សនិងការរីករាយឬទេ។"
+      },
+      "outcome": {
+        "en": "Stewarding your responsibilities with a clear sense of purpose could help worthwhile achievements last and remain useful to your wider life.",
+        "km": "ការថែភារកិច្ចដោយមានគោលបំណងច្បាស់ អាចជួយរក្សាសមិទ្ធផលមានតម្លៃឱ្យយូរ និងនៅមានប្រយោជន៍ចំពោះជីវិតទូលំទូលាយ។"
+      }
+    }
+  }
+}

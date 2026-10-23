@@ -5,9 +5,10 @@ import templates from './templates.json';
 import uiStrings from './ui-strings.json';
 import legalText from './legal.json';
 import lifePath from './readings/LF-01.json';
+import currentFocus from './readings/LF-02.json';
 import type { Content, QuestionReading } from '../engine/types.ts';
 
-const questionReadings = { 'LF-01': lifePath } satisfies Record<string, QuestionReading>;
+const questionReadings = { 'LF-01': lifePath, 'LF-02': currentFocus } satisfies Record<string, QuestionReading>;
 export const content = { cards, zodiac, topics, templates, questionReadings } as unknown as Content;
 export { uiStrings };
 

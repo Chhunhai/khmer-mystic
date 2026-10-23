@@ -1,16 +1,21 @@
 # Saved question-specific readings
 
-## First batch
+## Completed draft batches
 
-`src/content/readings/LF-01.json` covers “What does my current path look like?”:
+| File | Question | Coverage |
+| --- | --- | --- |
+| `src/content/readings/LF-01.json` | What does my current path look like? | 78 cards × 3 positions, English and Khmer |
+| `src/content/readings/LF-02.json` | What should I focus on right now? | 78 cards × 3 positions, English and Khmer |
 
-- 78 cards × 3 positions = 234 bilingual interpretations (468 individual language texts).
+- Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 468 bilingual interpretations across 2 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
 - Editorial status: draft. English editorial review and native Khmer review remain pending; automated checks do not certify translation quality.
-- Enabled in the current app for preview. The other 99 questions still use the existing generic meanings and templates.
+- Enabled in the current app for preview. The other 98 questions still use the existing generic meanings and templates.
 - No external generation service, API credentials or runtime network calls are involved.
 
 This is a library of individual card interpretations, not a library of every three-card spread. Shared templates still connect the passages and determine the theme, arc, mood, time wording and zodiac advice. The overall answer for LF-01 uses the saved Present interpretation. A complete spread is still assembled deterministically rather than authored as a single AI response.
+
+LF-02 is an action question (`how`): its Present text names a practical focus, its Challenge text addresses a barrier or distraction, and its Outcome text describes what that effort could bring. The existing `how` templates frame these passages. Its short overall answer still uses the shared three-card advice template; the saved guidance appears in the full reading and card captions.
 
 ## File format
 
@@ -29,4 +34,4 @@ All user-facing reading prose belongs in JSON. `src/engine/reading.ts` only sele
 5. Review complete readings as well as individual entries. Include difficult cards, mixed moods, all time frames and both languages; check how the summary and connecting templates fit the new text.
 6. Record editorial/translation review status and update `docs/PROGRESS.md` with the same commit.
 
-Next batch: LF-02, “What should I focus on right now?”, after reviewing the pilot's tone and Khmer. Full coverage of all 100 questions would contain 23,400 bilingual entries. Reassess installed content size and loading performance as the library grows.
+Next batch: LF-03, “What challenges might I face soon?” Editorial and native Khmer review remain pending for both completed batches. Full coverage of all 100 questions would contain 23,400 bilingual entries. Reassess installed content size and loading performance as the library grows.

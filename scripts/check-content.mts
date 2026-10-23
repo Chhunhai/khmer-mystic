@@ -37,6 +37,11 @@ for (const file of readingFiles) {
   questionReadings[saved.questionId] = saved;
 }
 assert.ok(questionReadings['LF-01'], 'first question pilot is present');
+assert.ok(questionReadings['LF-02'], 'second question batch is present');
+for (const card of content.cards)
+  for (const position of positions)
+    for (const lang of languages)
+      assert.notEqual(questionReadings['LF-02'].cards[card.id]![position][lang], questionReadings['LF-01'].cards[card.id]![position][lang], `${card.id} ${position} ${lang}: focus guidance differs from path description`);
 content.questionReadings = questionReadings;
 
 assert.equal(content.cards.length, 78, '78 cards');
@@ -54,6 +59,9 @@ assert.deepEqual(buildReading({ ...input, cardIds: [...input.cardIds], lang: 'en
 const partText = (r: typeof en, key: string) => r.parts.find(p => p.key === key)?.text ?? '';
 assert.ok(partText(en, 'theme').startsWith('Two or more Major cards'), 'Major theme');
 assert.ok(km.parts.every(p => !/[A-Za-z]{3,}/.test(p.text)), 'Khmer reading has no English words');
+assert.ok(partText(en, 'present').includes('Build on what is already working'), 'LF-02 gives actionable Sun focus');
+assert.ok(partText(en, 'challenge').includes('Defending a plan that no longer works'), 'LF-02 gives Tower obstacle guidance');
+assert.ok(partText(en, 'outcome').includes('Giving steady attention to what inspires you'), 'LF-02 gives Star effort outcome');
 assert.equal(new Set(drawCards(content.cards)).size, 3, 'three different cards');
 
 // Every question has a kind, and every question, time frame and language builds a complete reading.
