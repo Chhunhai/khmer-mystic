@@ -70,12 +70,17 @@ export interface QuestionReading {
   cards: Partial<Record<string, Card['meaning']>>;
 }
 
+export type CardPosition = keyof Card['meaning'];
+/** Saved applications of a card's meaning for an animal, position and card mood. */
+export type ZodiacReading = Record<CardPosition, Record<Tag, Text>>;
+
 export interface Content {
   cards: Card[];
   zodiac: Zodiac[];
   topics: Topic[];
   templates: Templates;
   questionReadings?: Partial<Record<string, QuestionReading>>;
+  zodiacReadings?: Partial<Record<string, ZodiacReading>>;
 }
 
 export interface ReadingInput {

@@ -35,3 +35,14 @@ All user-facing reading prose belongs in JSON. `src/engine/reading.ts` only sele
 6. Record editorial/translation review status and update `docs/PROGRESS.md` with the same commit.
 
 Next batch: LF-03, “What challenges might I face soon?” Editorial and native Khmer review remain pending for both completed batches. Full coverage of all 100 questions would contain 23,400 bilingual entries. Reassess installed content size and loading performance as the library grows.
+
+## Zodiac guidance
+
+`src/content/zodiac-readings.json` gives each of the 12 birth-year animals its own guidance for every card position (Present, Challenge, Outcome) and card mood (bright, steady, testing): 108 bilingual entries. The same card therefore reads differently for a Tiger and a Rabbit.
+
+- Each card paragraph is the card's meaning (saved question text, else the generic meaning) followed by the animal's guidance for that position and the card's mood.
+- The short answer quotes only the first sentence of the answering card's meaning, then adds that card's animal guidance once. The answering card depends on the question kind: Present for state / how / who, Challenge for obstacle / lesson, Outcome for heading / what-if / yes-no / when.
+- When an animal has guidance, the fixed birth-year line (`zodiac.json` strength) is left out, because the animal already speaks in every card. The closing advice line stays.
+- Guidance never changes the cards, the lean, the theme or the mood. An animal without guidance falls back to the old behaviour.
+- Write each entry as one complete sentence (or two short ones) in plain, second-person language, without the animal's name, card names or placeholders.
+- Editorial status: AI-drafted on 2026-10-23; English editorial review and native Khmer review pending.

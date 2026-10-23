@@ -24,9 +24,12 @@ export function FullReadingText({ wide = false }: { wide?: boolean }) {
   return (
     <View style={[styles.stack, wide && styles.stackWide]}>
       <AppText size={16}>{r.part('opening')}</AppText>
-      <AppText size={size} style={styles.muted}>
-        {r.part('strength')}
-      </AppText>
+      {/* The birth-year line, when the animal has no guidance woven into the cards. */}
+      {r.part('strength') ? (
+        <AppText size={size} style={styles.muted}>
+          {r.part('strength')}
+        </AppText>
+      ) : null}
       {cardParts.map((key, i) =>
         wide ? (
           <View key={key} style={styles.wideCard}>

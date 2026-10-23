@@ -1,6 +1,6 @@
 // Khmer Mystic reading engine.
 // Pure functions: the same inputs always give the same reading. No network, no AI.
-import type { AnswerKey, Card, Content, Lang, QuestionKind, Reading, ReadingInput, Tag } from './types.ts';
+import type { AnswerKey, Card, CardPosition, Content, Lang, QuestionKind, Reading, ReadingInput, Tag } from './types.ts';
 
 export function fnv1a(str: string): number {
   let h = 0x811c9dc5;
@@ -16,6 +16,19 @@ function fill(template: string, values: Record<string, string>): string {
 }
 
 const tagScore: Record<Card['tag'], number> = { bright: 1, steady: 0, testing: -1 };
+
+// The question determines which card's zodiac guidance belongs in the short answer.
+const answerPosition: Record<QuestionKind, CardPosition> = {
+  state: 'present', how: 'present', who: 'present',
+  obstacle: 'challenge', lesson: 'challenge',
+  heading: 'outcome', whatif: 'outcome', yesno: 'outcome', when: 'outcome',
+};
+
+/** The first sentence of a passage (English . ! ? or Khmer ។), so a short answer never repeats a whole paragraph. */
+export function firstSentence(text: string, lang: Lang): string {
+  const match = lang === 'km' ? text.match(/^.*?។/) : text.match(/^.*?[.!?](?=\s|$)/);
+  return match ? match[0] : text;
+}
 
 /** Mood of the whole draw: all three cards count, not only the Outcome card. */
 export function moodScore(cards: Card[]): number {
@@ -64,8 +77,15 @@ export function buildReading(input: ReadingInput, content: Content): Reading {
   if (!z || !topic || !question || !tf || found.some(c => !c)) throw new Error('Unknown input id');
   const cards = found as [Card, Card, Card];
   const questionReading = content.questionReadings?.[questionId];
-  const meaning = (card: Card, position: keyof Card['meaning']) =>
+  const zodiacGuidance = (card: Card, position: CardPosition) =>
+    content.zodiacReadings?.[zodiacId]?.[position]?.[card.tag]?.[lang] ?? '';
+  // The card's meaning for this question (saved text, else the generic meaning), then the animal's guidance.
+  const baseMeaning = (card: Card, position: CardPosition) =>
     questionReading?.cards[card.id]?.[position]?.[lang] ?? card.meaning[position][lang];
+  const meaning = (card: Card, position: CardPosition) =>
+    [baseMeaning(card, position), zodiacGuidance(card, position)].filter(Boolean).join(' ');
+  // With guidance, the animal already speaks in every card, so the fixed birth-year line is left out.
+  const hasZodiacGuidance = !!content.zodiacReadings?.[zodiacId];
 
   const T = content.templates;
   const kind = question.kind;
@@ -102,10 +122,22 @@ export function buildReading(input: ReadingInput, content: Content): Reading {
   }
 
   const answer = answerKey(kind, cards);
+  const answerTemplate = T.answers[answer][lang];
+  const position = answerPosition[kind];
+  const answerCard = { present: cards[0], challenge: cards[1], outcome: cards[2] }[position];
+  // The short answer quotes only the first sentence of a meaning (the card paragraph has the rest),
+  // then adds the animal's guidance for the card that answers this kind of question, once.
+  const short: Record<string, string> = {
+    ...v,
+    present: firstSentence(baseMeaning(cards[0], 'present'), lang),
+    challenge: firstSentence(baseMeaning(cards[1], 'challenge'), lang),
+    outcome: firstSentence(baseMeaning(cards[2], 'outcome'), lang),
+  };
+  const answerText = [fill(answerTemplate, short), zodiacGuidance(answerCard, position)].filter(Boolean).join(' ');
   const parts: Reading['parts'] = [{ key: 'opening', text: fill(pick(T.parts.opening, 0), v) }];
-  parts.push({ key: 'answer', text: fill(T.answers[answer][lang], v) });
+  parts.push({ key: 'answer', text: answerText });
+  if (!hasZodiacGuidance) parts.push({ key: 'strength', text: fill(pick(T.parts.strength, 1), v) });
   parts.push(
-    { key: 'strength', text: fill(pick(T.parts.strength, 1), v) },
     { key: 'present', text: fill(pick(part('present'), 2), v) },
     { key: 'challenge', text: fill(pick(part('challenge'), 3), v) },
     { key: 'outcome', text: fill(part('outcome')[lang][0], v) },

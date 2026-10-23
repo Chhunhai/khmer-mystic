@@ -1,0 +1,530 @@
+{
+  "RAT": {
+    "present": {
+      "bright": {
+        "en": "Use your eye for openings to choose one promising possibility, then check the details before following it.",
+        "km": "សូមប្រើភាពរហ័សមើលឃើញឱកាស ដើម្បីជ្រើសលទ្ធភាពល្អមួយ ហើយពិនិត្យព័ត៌មានមុនធ្វើតាមវា។"
+      },
+      "steady": {
+        "en": "Put your resourcefulness into a small improvement using what is already available, rather than collecting more options.",
+        "km": "សូមប្រើភាពចេះរកវិធី ដើម្បីកែលម្អតូចមួយដោយអ្វីដែលមានស្រាប់ ជាជាងប្រមូលជម្រើសបន្ថែម។"
+      },
+      "testing": {
+        "en": "Separate the actual obstacle from imagined complications; your next useful move may be simpler than your first plan.",
+        "km": "សូមបែងចែកឧបសគ្គពិតពីភាពស្មុគស្មាញក្នុងស្រមៃ។ ជំហានមានប្រយោជន៍បន្ទាប់អាចសាមញ្ញជាងផែនការដំបូង។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "The tempting part may be chasing every opening; protect the good possibility by giving it your undivided attention.",
+        "km": "អ្វីដែលទាក់ទាញអាចជាការដេញតាមគ្រប់ឱកាស។ សូមរក្សាលទ្ធភាពល្អ ដោយផ្តល់ការយកចិត្តទុកដាក់ពេញលេញដល់វា។"
+      },
+      "steady": {
+        "en": "Planning several moves ahead can distract you from the task at hand; finish one useful step before revising the strategy.",
+        "km": "ការគ្រោងច្រើនជំហានទៅមុខអាចបង្វែរពីកិច្ចការកំពុងធ្វើ។ សូមបញ្ចប់ជំហានមានប្រយោជន៍មួយ មុនកែយុទ្ធសាស្ត្រ។"
+      },
+      "testing": {
+        "en": "A quick workaround could leave the underlying difficulty untouched; name the real issue before searching for a clever solution.",
+        "km": "វិធីបញ្ចៀសរហ័សអាចទុកបញ្ហាដើមឱ្យនៅដដែល។ សូមបញ្ជាក់បញ្ហាពិត មុនស្វែងរកដំណោះស្រាយឆ្លាតវៃ។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Following through on one well-chosen opening could turn your quick insight into a result you can build on.",
+        "km": "ការធ្វើតាមឱកាសដែលជ្រើសល្អមួយរហូត អាចប្តូរការយល់រហ័សទៅលទ្ធផលដែលអាចកសាងបន្ត។"
+      },
+      "steady": {
+        "en": "Small resourceful adjustments could gradually show which ideas deserve more of your time and which can be left aside.",
+        "km": "ការកែតូចៗដោយចេះរកវិធី អាចបង្ហាញបន្តិចម្តងថាគំនិតណាគួរទទួលពេលបន្ថែម និងណាអាចទុកមួយឡែក។"
+      },
+      "testing": {
+        "en": "Checking each assumption before changing course could help you find a workable response without multiplying your worries.",
+        "km": "ការពិនិត្យការសន្មតមុនប្តូរទិស អាចជួយរកការឆ្លើយតបដែលធ្វើបាន ដោយមិនបន្ថែមការបារម្ភ។"
+      }
+    }
+  },
+  "OX": {
+    "present": {
+      "bright": {
+        "en": "Give this encouraging situation a dependable routine; your steady effort can help something promising take root.",
+        "km": "សូមផ្តល់ទម្លាប់ទៀងទាត់ដល់ស្ថានភាពល្អនេះ។ ការខិតខំជាប់លាប់អាចជួយឱ្យអ្វីដែលមានសក្តានុពលចាក់ឫស។"
+      },
+      "steady": {
+        "en": "Choose a pace you can maintain and let regular attention matter more than a dramatic change.",
+        "km": "សូមជ្រើសល្បឿនដែលអាចរក្សាបាន ហើយឱ្យការយកចិត្តទុកដាក់ទៀងទាត់សំខាន់ជាងការផ្លាស់ប្តូរធំ។"
+      },
+      "testing": {
+        "en": "Use patience to take the difficulty one piece at a time, while allowing yourself to change a method that is not helping.",
+        "km": "សូមប្រើការអត់ធ្មត់ដោះស្រាយការលំបាកម្តងមួយផ្នែក ហើយអនុញ្ញាតឱ្យខ្លួនកែវិធីដែលមិនជួយ។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "Protecting what works too tightly could limit its growth; try one modest adjustment without discarding your foundation.",
+        "km": "ការការពារអ្វីដំណើរការខ្លាំងពេកអាចកម្រិតការរីកចម្រើន។ សូមសាកកែតូចមួយ ដោយមិនបោះបង់គ្រឹះ។"
+      },
+      "steady": {
+        "en": "A familiar routine may continue after its purpose has changed; check whether persistence still serves the result you want.",
+        "km": "ទម្លាប់ធ្លាប់ស្គាល់អាចបន្ត ទោះគោលបំណងបានផ្លាស់ប្តូរ។ សូមពិនិត្យថាការតស៊ូនៅបម្រើលទ្ធផលដែលចង់បានឬទេ។"
+      },
+      "testing": {
+        "en": "Endurance alone may not resolve this obstacle; accept help or a different approach instead of carrying the same strain indefinitely.",
+        "km": "ការទ្រាំតែឯងអាចមិនដោះស្រាយឧបសគ្គនេះ។ សូមទទួលជំនួយ ឬវិធីផ្សេង ជាជាងរ៉ាប់រងសម្ពាធដដែលរហូត។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Consistent care could help this promising direction become something reliable, especially if you keep reviewing what it needs.",
+        "km": "ការថែទាំជាប់លាប់អាចជួយឱ្យទិសដៅល្អក្លាយជាអ្វីដែលពឹងបាន ជាពិសេសបើបន្តពិនិត្យតម្រូវការរបស់វា។"
+      },
+      "steady": {
+        "en": "Patient follow-through could produce progress you can sustain, even when the changes are too small to notice immediately.",
+        "km": "ការធ្វើរហូតដោយអត់ធ្មត់ អាចនាំការរីកចម្រើនដែលរក្សាបាន ទោះការផ្លាស់ប្តូរតូចពេកមិនឃើញភ្លាមក៏ដោយ។"
+      },
+      "testing": {
+        "en": "Combining perseverance with a revised plan could make the next stretch more manageable than simply working harder.",
+        "km": "ការរួមភាពតស៊ូនឹងផែនការកែថ្មី អាចធ្វើឱ្យដំណាក់កាលបន្ទាប់ងាយគ្រប់គ្រងជាងការខិតខំខ្លាំងតែប៉ុណ្ណោះ។"
+      }
+    }
+  },
+  "TIG": {
+    "present": {
+      "bright": {
+        "en": "Let your courage take the form of one thoughtful initiative, while leaving room for others to join at their own pace.",
+        "km": "សូមបង្ហាញភាពក្លាហានតាមការផ្តួចផ្តើមគិតគូរមួយ ហើយទុកឱ្យអ្នកដទៃចូលរួមតាមល្បឿនរបស់គេ។"
+      },
+      "steady": {
+        "en": "Give your drive a clear direction before acting; a deliberate step can use your energy better than a sudden leap.",
+        "km": "សូមផ្តល់ទិសដៅច្បាស់ដល់កម្លាំងចិត្ត មុនធ្វើសកម្មភាព។ ជំហានគិតគូរអាចប្រើកម្លាំងបានល្អជាងការលោតភ្លាម។"
+      },
+      "testing": {
+        "en": "Courage here can mean facing one difficult truth calmly, rather than trying to overpower the whole situation at once.",
+        "km": "ភាពក្លាហាននៅទីនេះអាចមានន័យថាប្រឈមការពិតពិបាកមួយដោយស្ងប់ ជាជាងព្យាយាមឈ្នះស្ថានភាពទាំងមូលភ្លាមៗ។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "Enthusiasm could turn into pressure for a perfect result; let what is already good develop without forcing the pace.",
+        "km": "ភាពស្វាហាប់អាចប្រែជាសម្ពាធចង់បានលទ្ធផលឥតខ្ចោះ។ សូមឱ្យអ្វីល្អស្រាប់រីកចម្រើន ដោយមិនបង្ខំល្បឿន។"
+      },
+      "steady": {
+        "en": "Impatience may make ordinary progress feel insufficient; judge the step by its usefulness rather than its speed.",
+        "km": "ការមិនអត់ធ្មត់អាចធ្វើឱ្យការរីកចម្រើនធម្មតាហាក់មិនគ្រប់។ សូមវាស់ជំហានតាមប្រយោជន៍ ជាជាងល្បឿន។"
+      },
+      "testing": {
+        "en": "Responding forcefully could add another struggle; pause, identify what you can influence, and direct your courage there.",
+        "km": "ការឆ្លើយខ្លាំងអាចបន្ថែមការតស៊ូមួយទៀត។ សូមផ្អាក រកអ្វីដែលអ្នកអាចធ្វើបាន ហើយនាំភាពក្លាហានទៅទីនោះ។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Boldness guided by listening could help you carry this opening forward while keeping the support of people beside you.",
+        "km": "ភាពក្លាហានដែលមានការស្តាប់ដឹកនាំ អាចជួយនាំឱកាសនេះទៅមុខ ហើយរក្សាការគាំទ្រពីមនុស្សនៅក្បែរ។"
+      },
+      "steady": {
+        "en": "Choosing when to act and when to wait could turn your energy into progress that lasts beyond the first burst.",
+        "km": "ការជ្រើសពេលធ្វើនិងពេលរង់ចាំ អាចប្តូរកម្លាំងទៅការរីកចម្រើនដែលនៅយូរ ហួសពីភាពស្វាហាប់ដំបូង។"
+      },
+      "testing": {
+        "en": "A calm, courageous response could help you navigate the difficulty without treating every setback as a battle to win.",
+        "km": "ការឆ្លើយតបស្ងប់និងក្លាហាន អាចជួយឆ្លងការលំបាក ដោយមិនចាត់ទុករាល់ឧបសគ្គជាសមរភូមិត្រូវឈ្នះ។"
+      }
+    }
+  },
+  "RAB": {
+    "present": {
+      "bright": {
+        "en": "Let your gentleness strengthen this connection, and make sure your own wishes have a place in the good experience.",
+        "km": "សូមឱ្យភាពទន់ភ្លន់ពង្រឹងទំនាក់ទំនងនេះ ហើយធានាថាបំណងខ្លួនក៏មានកន្លែងក្នុងបទពិសោធន៍ល្អ។"
+      },
+      "steady": {
+        "en": "A quiet, honest conversation can help you understand what is needed without putting your own needs last.",
+        "km": "សន្ទនាស្ងប់និងស្មោះអាចជួយយល់អ្វីដែលត្រូវការ ដោយមិនដាក់តម្រូវការខ្លួននៅក្រោយគេ។"
+      },
+      "testing": {
+        "en": "Treat yourself with the kindness you offer others, and name one need instead of keeping the difficulty entirely to yourself.",
+        "km": "សូមមេត្តាខ្លួនដូចដែលមេត្តាអ្នកដទៃ ហើយប្រាប់តម្រូវការមួយ ជាជាងទុកការលំបាកទាំងអស់ក្នុងខ្លួន។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "Keeping everyone comfortable could hide your own preferences; share one honest wish rather than preserving a picture of perfect harmony.",
+        "km": "ការរក្សាគ្រប់គ្នាឱ្យស្រួលចិត្តអាចលាក់ចំណង់ខ្លួន។ សូមប្រាប់បំណងស្មោះមួយ ជាជាងរក្សារូបភាពសុខដុមឥតខ្ចោះ។"
+      },
+      "steady": {
+        "en": "Avoiding a small disagreement may leave expectations unclear; a gentle boundary can prevent a larger misunderstanding later.",
+        "km": "ការគេចការខ្វែងគំនិតតូចអាចទុកការរំពឹងមិនច្បាស់។ ព្រំដែនទន់ភ្លន់អាចការពារការយល់ច្រឡំធំក្រោយមក។"
+      },
+      "testing": {
+        "en": "Silence may feel peaceful while leaving the hurt unresolved; choose a trusted listener or a safe way to express what matters.",
+        "km": "ភាពស្ងៀមអាចហាក់សុខសាន្ត តែទុកការឈឺចាប់មិនដោះស្រាយ។ សូមជ្រើសអ្នកស្តាប់ទុកចិត្ត ឬវិធីសុវត្ថិភាពប្រាប់អ្វីសំខាន់។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Kindness paired with a clear voice could help this positive direction include your happiness as well as everyone else's.",
+        "km": "ក្តីមេត្តារួមនឹងការនិយាយច្បាស់ អាចជួយឱ្យទិសដៅល្អនេះរួមសុភមង្គលរបស់អ្នក ក៏ដូចជារបស់គេ។"
+      },
+      "steady": {
+        "en": "Expressing your needs gently and consistently could build trust without requiring you to agree to more than feels right.",
+        "km": "ការប្រាប់តម្រូវការដោយទន់ភ្លន់និងជាប់លាប់ អាចកសាងទំនុកចិត្ត ដោយមិនតម្រូវឱ្យព្រមលើសអ្វីដែលសមនឹងខ្លួន។"
+      },
+      "testing": {
+        "en": "Allowing yourself support and firmer boundaries could make a difficult phase less lonely, even before it is fully resolved.",
+        "km": "ការអនុញ្ញាតឱ្យខ្លួនទទួលការគាំទ្រ និងព្រំដែនរឹងជាងមុន អាចធ្វើឱ្យដំណាក់កាលលំបាកលែងឯកោ ទោះមិនទាន់ចប់ក៏ដោយ។"
+      }
+    }
+  },
+  "DRA": {
+    "present": {
+      "bright": {
+        "en": "Use your vision to give this opening a purpose people can share, and invite their ideas before deciding the direction.",
+        "km": "សូមប្រើចក្ខុវិស័យផ្តល់គោលបំណងរួមដល់ឱកាសនេះ ហើយអញ្ជើញគំនិតអ្នកដទៃ មុនសម្រេចទិសដៅ។"
+      },
+      "steady": {
+        "en": "Bring a larger ambition down to one clear commitment, so your energy supports a step others can understand.",
+        "km": "សូមបង្រួមបំណងធំទៅការប្តេជ្ញាច្បាស់មួយ ដើម្បីឱ្យកម្លាំងគាំទ្រជំហានដែលអ្នកដទៃអាចយល់។"
+      },
+      "testing": {
+        "en": "When the larger picture feels unsettled, listen for practical information before trying to inspire everyone toward a new plan.",
+        "km": "ពេលស្ថានភាពទាំងមូលមិននឹងនរ សូមស្តាប់ព័ត៌មានជាក់ស្តែង មុនព្យាយាមបំផុសគ្រប់គ្នាទៅផែនការថ្មី។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "A grand expectation could overshadow a good experience; ask what would make it meaningful to others, not only impressive to you.",
+        "km": "ការរំពឹងធំអាចបិទបាំងបទពិសោធន៍ល្អ។ សូមសួរអ្វីធ្វើឱ្យមានន័យចំពោះគេ មិនមែនតែអស្ចារ្យសម្រាប់អ្នក។"
+      },
+      "steady": {
+        "en": "A strong vision may leave little room for quieter contributions; invite a different view before treating your plan as settled.",
+        "km": "ចក្ខុវិស័យខ្លាំងអាចទុកកន្លែងតិចសម្រាប់មតិស្ងប់។ សូមអញ្ជើញទស្សនៈផ្សេង មុនចាត់ទុកផែនការខ្លួនថាសម្រេចរួច។"
+      },
+      "testing": {
+        "en": "Trying to lead through every difficulty alone could increase pressure; let someone else's experience shape the response.",
+        "km": "ការព្យាយាមដឹកនាំឆ្លងគ្រប់ការលំបាកម្នាក់ឯង អាចបន្ថែមសម្ពាធ។ សូមឱ្យបទពិសោធន៍អ្នកដទៃចូលរួមកំណត់ការឆ្លើយតប។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "A shared vision could carry this opportunity further when the people involved have helped define what success means.",
+        "km": "ចក្ខុវិស័យរួមអាចនាំឱកាសនេះទៅឆ្ងាយ ពេលអ្នកពាក់ព័ន្ធបានចូលរួមកំណត់ន័យនៃជោគជ័យ។"
+      },
+      "steady": {
+        "en": "Turning ambition into clear shared responsibilities could give your plans a more dependable route forward.",
+        "km": "ការប្តូរបំណងធំទៅភារកិច្ចរួមច្បាស់ អាចផ្តល់ផ្លូវទៅមុខដែលពឹងបានជាងមុនដល់ផែនការ។"
+      },
+      "testing": {
+        "en": "Revising your vision with honest feedback could help you rebuild direction without needing to have every answer yourself.",
+        "km": "ការកែចក្ខុវិស័យតាមមតិស្មោះ អាចជួយកសាងទិសដៅឡើងវិញ ដោយមិនចាំបាច់មានគ្រប់ចម្លើយដោយខ្លួនឯង។"
+      }
+    }
+  },
+  "SNA": {
+    "present": {
+      "bright": {
+        "en": "Notice the quieter details behind this promising situation, then share one observation that could help it develop thoughtfully.",
+        "km": "សូមសង្កេតព័ត៌មានស្ងប់នៅពីក្រោយស្ថានភាពល្អនេះ រួចចែករំលែកការយល់ឃើញមួយដែលអាចជួយឱ្យវារីកចម្រើនដោយគិតគូរ។"
+      },
+      "steady": {
+        "en": "Give careful thought a clear expression; explaining your reasoning may be more useful than keeping it entirely in your head.",
+        "km": "សូមបង្ហាញការគិតហ្មត់ចត់ឱ្យច្បាស់។ ការពន្យល់ហេតុផលអាចមានប្រយោជន៍ជាងការទុកគ្រប់យ៉ាងក្នុងគំនិត។"
+      },
+      "testing": {
+        "en": "Use reflection to separate what you sense from what you can verify, and let a trusted perspective help you check the difference.",
+        "km": "សូមប្រើការពិចារណាបែងចែកអារម្មណ៍ពីអ្វីដែលអាចផ្ទៀងផ្ទាត់ ហើយឱ្យទស្សនៈទុកចិត្តជួយពិនិត្យភាពខុសគ្នា។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "Looking for hidden complications could make a good moment hard to enjoy; acknowledge what is clear before searching for what is missing.",
+        "km": "ការរកភាពស្មុគស្មាញលាក់លៀមអាចធ្វើឱ្យពិបាករីករាយពេលល្អ។ សូមទទួលស្គាល់អ្វីច្បាស់ មុនរកអ្វីដែលខ្វះ។"
+      },
+      "steady": {
+        "en": "Keeping your reasoning private may leave others guessing; explain the important concern instead of expecting them to infer it.",
+        "km": "ការលាក់ហេតុផលអាចទុកឱ្យគេទាយ។ សូមពន្យល់កង្វល់សំខាន់ ជាជាងរំពឹងឱ្យគេសន្និដ្ឋានដោយខ្លួនឯង។"
+      },
+      "testing": {
+        "en": "Repeated analysis could deepen uncertainty without adding facts; ask a direct question or share the concern before drawing a conclusion.",
+        "km": "ការវិភាគដដែលអាចបន្ថែមភាពមិនប្រាកដដោយគ្មានការពិតថ្មី។ សូមសួរត្រង់ ឬប្រាប់កង្វល់ មុនសន្និដ្ឋាន។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Careful insight shared at the right moment could help you make more of this opening without rushing its development.",
+        "km": "ការយល់ហ្មត់ចត់ដែលចែករំលែកត្រូវពេល អាចជួយប្រើឱកាសនេះឱ្យល្អ ដោយមិនប្រញាប់ការរីកចម្រើន។"
+      },
+      "steady": {
+        "en": "Making your thoughts easier to understand could turn private reflection into useful cooperation and a clearer next step.",
+        "km": "ការធ្វើឱ្យគំនិតងាយយល់ អាចប្តូរការពិចារណាផ្ទាល់ខ្លួនទៅកិច្ចសហការមានប្រយោជន៍ និងជំហានបន្ទាប់ច្បាស់។"
+      },
+      "testing": {
+        "en": "Checking your impressions with reliable information could reduce needless uncertainty and help you respond to the issue that is actually there.",
+        "km": "ការផ្ទៀងផ្ទាត់អារម្មណ៍ជាមួយព័ត៌មានទុកចិត្ត អាចកាត់ភាពមិនប្រាកដមិនចាំបាច់ និងជួយឆ្លើយតបបញ្ហាដែលមានពិត។"
+      }
+    }
+  },
+  "HOR": {
+    "present": {
+      "bright": {
+        "en": "Use your enthusiasm to participate fully in one good opening, and decide what following through would look like before moving on.",
+        "km": "សូមប្រើភាពស្វាហាប់ចូលរួមឱកាសល្អមួយពេញលេញ ហើយសម្រេចថាការធ្វើឱ្យចប់ត្រូវធ្វើអ្វី មុនទៅរឿងផ្សេង។"
+      },
+      "steady": {
+        "en": "Give your need for freedom a manageable commitment, with enough flexibility to stay interested while still completing something useful.",
+        "km": "សូមភ្ជាប់បំណងសេរីភាពនឹងការប្តេជ្ញាដែលអាចធ្វើបាន ដោយមានភាពបត់បែនគ្រប់គ្រាន់ដើម្បីនៅចាប់អារម្មណ៍ និងបញ្ចប់អ្វីមានប្រយោជន៍។"
+      },
+      "testing": {
+        "en": "Before escaping into a new direction, pause to identify the part of this difficulty that still needs your attention.",
+        "km": "មុនគេចទៅទិសដៅថ្មី សូមផ្អាករកផ្នែកនៃការលំបាកនេះដែលនៅត្រូវការការយកចិត្តទុកដាក់របស់អ្នក។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "The next exciting possibility could distract you from enjoying this one; stay long enough to give it a fair chance.",
+        "km": "លទ្ធភាពរំភើបបន្ទាប់អាចបង្វែរពីការរីករាយនឹងរឿងនេះ។ សូមនៅយូរគ្រប់គ្រាន់ដើម្បីផ្តល់ឱកាសសមស្របដល់វា។"
+      },
+      "steady": {
+        "en": "Restlessness may make a necessary routine feel restrictive; keep a small finish line in view instead of abandoning the task.",
+        "km": "ភាពមិនស្ងប់អាចធ្វើឱ្យទម្លាប់ចាំបាច់ហាក់រឹតត្បិត។ សូមចាំចំណុចបញ្ចប់តូចមួយ ជាជាងបោះបង់កិច្ចការ។"
+      },
+      "testing": {
+        "en": "Changing direction too quickly could leave the same problem waiting elsewhere; address one unfinished responsibility before deciding your next move.",
+        "km": "ការប្តូរទិសលឿនពេកអាចទុកបញ្ហាដដែលរង់ចាំនៅកន្លែងផ្សេង។ សូមដោះស្រាយភារកិច្ចមិនទាន់ចប់មួយ មុនជ្រើសជំហានបន្ទាប់។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Staying with a promising experience through its next stage could give your adventurous energy something lasting to show for it.",
+        "km": "ការបន្តបទពិសោធន៍ល្អដល់ដំណាក់កាលបន្ទាប់ អាចឱ្យកម្លាំងចូលចិត្តសាកថ្មីបង្កើតអ្វីដែលនៅយូរ។"
+      },
+      "steady": {
+        "en": "Completing a modest commitment could create more freedom by leaving fewer unfinished demands pulling at your attention.",
+        "km": "ការបញ្ចប់ការប្តេជ្ញាតូចអាចបង្កើតសេរីភាពជាងមុន ដោយកាត់បន្ថយភារកិច្ចមិនទាន់ចប់ដែលទាញអារម្មណ៍។"
+      },
+      "testing": {
+        "en": "Facing the unfinished part with a measured pace could help your next change become a considered choice rather than a hurried exit.",
+        "km": "ការប្រឈមផ្នែកមិនទាន់ចប់ដោយល្បឿនសម អាចធ្វើឱ្យការផ្លាស់ប្តូរបន្ទាប់ជាជម្រើសគិតគូរ ជាជាងការចាកចេញប្រញាប់។"
+      }
+    }
+  },
+  "GOA": {
+    "present": {
+      "bright": {
+        "en": "Let your creativity add something personal to this good moment, without waiting for everyone to approve of the way you express it.",
+        "km": "សូមឱ្យការច្នៃប្រឌិតបន្ថែមលក្ខណៈផ្ទាល់ខ្លួនដល់ពេលល្អនេះ ដោយមិនរង់ចាំគ្រប់គ្នាយល់ព្រមលើរបៀបបង្ហាញ។"
+      },
+      "steady": {
+        "en": "Choose a small act of care or creativity that feels right to you, and give your own judgement room to guide it.",
+        "km": "សូមជ្រើសការថែទាំ ឬការច្នៃប្រឌិតតូចដែលសមនឹងខ្លួន ហើយទុកឱ្យការវិនិច្ឆ័យរបស់អ្នកដឹកនាំវា។"
+      },
+      "testing": {
+        "en": "Be gentle with your uncertainty, and seek one manageable expression of care instead of measuring yourself against other people's opinions.",
+        "km": "សូមទន់ភ្លន់ចំពោះភាពមិនប្រាកដខ្លួន ហើយរកការថែទាំដែលអាចធ្វើបានមួយ ជាជាងវាស់ខ្លួនតាមមតិអ្នកដទៃ។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "Comparing a good experience with someone else's ideal could diminish it; notice what makes it meaningful to you personally.",
+        "km": "ការប្រៀបបទពិសោធន៍ល្អនឹងឧត្តមគតិអ្នកដទៃអាចបន្ថយតម្លៃវា។ សូមកត់សម្គាល់អ្វីធ្វើឱ្យវាមានន័យសម្រាប់ខ្លួន។"
+      },
+      "steady": {
+        "en": "Waiting for reassurance could delay a choice you can make yourself; test a small idea before asking for more opinions.",
+        "km": "ការរង់ចាំការធានាអាចពន្យារជម្រើសដែលអ្នកអាចធ្វើខ្លួនឯង។ សូមសាកគំនិតតូចមួយ មុនសុំមតិបន្ថែម។"
+      },
+      "testing": {
+        "en": "Criticism may feel like a judgement of your whole self; separate one useful suggestion from comments that do not help you grow.",
+        "km": "ការរិះគន់អាចហាក់ជាការវិនិច្ឆ័យខ្លួនទាំងមូល។ សូមបែងចែកសំណើមានប្រយោជន៍មួយពីពាក្យដែលមិនជួយឱ្យរីកចម្រើន។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Trusting your creative judgement could make this opening feel more personal and satisfying, even if others would approach it differently.",
+        "km": "ការទុកចិត្តលើការវិនិច្ឆ័យច្នៃប្រឌិត អាចធ្វើឱ្យឱកាសនេះមានលក្ខណៈផ្ទាល់ខ្លួននិងពេញចិត្ត ទោះគេមានវិធីផ្សេងក៏ដោយ។"
+      },
+      "steady": {
+        "en": "Making small choices from your own values could gradually strengthen confidence in the care and creativity you bring.",
+        "km": "ការធ្វើជម្រើសតូចតាមគុណតម្លៃខ្លួន អាចពង្រឹងទំនុកចិត្តបន្តិចម្តងលើការថែទាំនិងច្នៃប្រឌិតដែលអ្នកផ្តល់។"
+      },
+      "testing": {
+        "en": "Keeping supportive feedback and releasing unhelpful comparison could leave more room for a gentler, self-directed next step.",
+        "km": "ការរក្សាមតិគាំទ្រ និងលែងការប្រៀបធៀបគ្មានប្រយោជន៍ អាចទុកកន្លែងសម្រាប់ជំហានទន់ភ្លន់ដែលខ្លួនជាអ្នកដឹកនាំ។"
+      }
+    }
+  },
+  "MON": {
+    "present": {
+      "bright": {
+        "en": "Use your inventiveness to explore one useful possibility, then give it enough attention to move beyond an entertaining idea.",
+        "km": "សូមប្រើភាពចេះច្នៃស្វែងយល់លទ្ធភាពមានប្រយោជន៍មួយ ហើយផ្តោតគ្រប់គ្រាន់ដើម្បីឱ្យវាហួសពីគំនិតកម្សាន្ត។"
+      },
+      "steady": {
+        "en": "Try one simple experiment and observe what it teaches you, rather than changing several things before you can compare the result.",
+        "km": "សូមសាករឿងសាមញ្ញមួយ និងសង្កេតមេរៀន ជាជាងប្តូរច្រើនយ៉ាងមុនអាចប្រៀបធៀបលទ្ធផល។"
+      },
+      "testing": {
+        "en": "Let your problem-solving begin with an honest description of the difficulty, including the part that cannot be fixed by a quick trick.",
+        "km": "សូមចាប់ផ្តើមដោះស្រាយដោយពិពណ៌នាការលំបាកស្មោះ រួមទាំងផ្នែកដែលមិនអាចកែដោយល្បិចរហ័ស។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "Looking for constant novelty could make a good situation seem ordinary too soon; discover what deepens when you stay engaged.",
+        "km": "ការរកអ្វីថ្មីជានិច្ចអាចធ្វើឱ្យស្ថានភាពល្អហាក់ធម្មតាឆាប់ពេក។ សូមស្វែងរកអ្វីដែលជ្រាលជ្រៅពេលបន្តចូលរួម។"
+      },
+      "steady": {
+        "en": "A clever shortcut may skip a step that matters; check the purpose of the routine before trying to improve it.",
+        "km": "ផ្លូវកាត់ឆ្លាតអាចរំលងជំហានសំខាន់។ សូមពិនិត្យគោលបំណងទម្លាប់ មុនព្យាយាមកែលម្អវា។"
+      },
+      "testing": {
+        "en": "Humour or distraction could keep a serious concern unspoken; address it directly before trying to lighten the mood.",
+        "km": "ការលេងសើចឬបង្វែរអារម្មណ៍ អាចទុកកង្វល់ធ្ងន់មិនបាននិយាយ។ សូមដោះស្រាយត្រង់ មុនព្យាយាមបន្ធូរបរិយាកាស។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Following an inventive idea through could turn curiosity into a useful result, especially when you share clearly what you have learned.",
+        "km": "ការធ្វើតាមគំនិតច្នៃរហូត អាចប្តូរការចង់ដឹងទៅលទ្ធផលមានប្រយោជន៍ ជាពិសេសពេលចែករំលែកមេរៀនឱ្យច្បាស់។"
+      },
+      "steady": {
+        "en": "Patient experimentation could show which adjustments actually help, giving your cleverness a more reliable foundation.",
+        "km": "ការសាកដោយអត់ធ្មត់អាចបង្ហាញថាការកែណាជួយពិត និងផ្តល់គ្រឹះពឹងបានជាងមុនដល់ភាពឆ្លាតវៃ។"
+      },
+      "testing": {
+        "en": "Honesty and sustained attention could help you solve the real problem, rather than finding another way to avoid it.",
+        "km": "ភាពស្មោះត្រង់និងការផ្តោតជាប់លាប់ អាចជួយដោះស្រាយបញ្ហាពិត ជាជាងរកវិធីគេចមួយទៀត។"
+      }
+    }
+  },
+  "ROO": {
+    "present": {
+      "bright": {
+        "en": "Recognise the care and effort already making this situation work, and offer appreciation before suggesting the next improvement.",
+        "km": "សូមទទួលស្គាល់ការថែទាំនិងការខិតខំដែលធ្វើឱ្យស្ថានភាពនេះល្អ ហើយបង្ហាញការដឹងគុណ មុនស្នើការកែលម្អបន្ទាប់។"
+      },
+      "steady": {
+        "en": "Use your attention to detail on one worthwhile task, with a clear point at which good work is complete enough.",
+        "km": "សូមប្រើការយកចិត្តទុកដាក់លម្អិតលើកិច្ចការមានតម្លៃមួយ និងកំណត់ចំណុចដែលការងារល្អគ្រប់គ្រាន់អាចបញ្ចប់។"
+      },
+      "testing": {
+        "en": "Be honest about the difficulty without turning it into blame; identify the specific issue that can be addressed with care.",
+        "km": "សូមស្មោះត្រង់ចំពោះការលំបាក ដោយមិនប្រែវាជាការស្តីបន្ទោស ហើយរកបញ្ហាជាក់លាក់ដែលអាចដោះស្រាយដោយគិតគូរ។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "Noticing every flaw could crowd out enjoyment; name what is working before deciding whether anything truly needs correcting.",
+        "km": "ការសង្កេតគ្រប់កំហុសអាចរុញការរីករាយចេញ។ សូមប្រាប់អ្វីដំណើរការល្អ មុនសម្រេចថាមានអ្វីត្រូវកែពិតឬទេ។"
+      },
+      "steady": {
+        "en": "High standards may become pressure on yourself or others; choose the important detail and let minor imperfections be acceptable.",
+        "km": "ស្តង់ដារខ្ពស់អាចក្លាយជាសម្ពាធលើខ្លួនឬគេ។ សូមជ្រើសចំណុចសំខាន់ ហើយទទួលភាពមិនឥតខ្ចោះតូចៗ។"
+      },
+      "testing": {
+        "en": "Harsh criticism could make the problem harder to discuss; describe what needs changing without judging the person's whole character.",
+        "km": "ការរិះគន់ខ្លាំងអាចធ្វើឱ្យពិបាកពិភាក្សាបញ្ហា។ សូមប្រាប់អ្វីត្រូវកែ ដោយមិនវិនិច្ឆ័យចរិតមនុស្សទាំងមូល។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Appreciation alongside careful work could make success easier to share and encourage others to keep contributing.",
+        "km": "ការដឹងគុណរួមជាមួយការងារហ្មត់ចត់ អាចធ្វើឱ្យជោគជ័យងាយចែករំលែក និងលើកទឹកចិត្តគេឱ្យបន្តចូលរួម។"
+      },
+      "steady": {
+        "en": "Clear standards expressed kindly could improve the work without letting perfection take over your time or relationships.",
+        "km": "ស្តង់ដារច្បាស់ដែលប្រាប់ដោយចិត្តល្អ អាចកែលម្អការងារ ដោយមិនឱ្យភាពឥតខ្ចោះគ្រប់គ្រងពេលវេលាឬទំនាក់ទំនង។"
+      },
+      "testing": {
+        "en": "Specific, compassionate feedback could create room for repair where blame would only make people more guarded.",
+        "km": "មតិជាក់លាក់និងមេត្តា អាចបង្កើតឱកាសកែសម្រួល នៅកន្លែងដែលការបន្ទោសនឹងធ្វើឱ្យមនុស្សប្រុងខ្លួនកាន់តែខ្លាំង។"
+      }
+    }
+  },
+  "DOG": {
+    "present": {
+      "bright": {
+        "en": "Let your loyalty support the people or commitments that matter, while allowing yourself to enjoy what does not need protecting.",
+        "km": "សូមឱ្យភាពស្មោះស្ម័គ្រគាំទ្រមនុស្សឬការប្តេជ្ញាសំខាន់ ហើយអនុញ្ញាតឱ្យរីករាយអ្វីដែលមិនត្រូវការការពារ។"
+      },
+      "steady": {
+        "en": "Be clear about the responsibility that is yours, and share the rest fairly instead of quietly taking it all on.",
+        "km": "សូមបញ្ជាក់ភារកិច្ចដែលជារបស់ខ្លួន ហើយចែកផ្នែកផ្សេងដោយយុត្តិធម៌ ជាជាងទទួលទាំងអស់ស្ងៀមៗ។"
+      },
+      "testing": {
+        "en": "Check whether a worry points to a real duty or a feared possibility; offer support where it is useful rather than guarding everything.",
+        "km": "សូមពិនិត្យថាកង្វល់សំដៅភារកិច្ចពិត ឬលទ្ធភាពដែលខ្លាច ហើយគាំទ្រកន្លែងមានប្រយោជន៍ ជាជាងការពារគ្រប់យ៉ាង។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "Worrying about losing a good situation could make you overprotective; trust others with their part in keeping it healthy.",
+        "km": "ការបារម្ភបាត់បង់ស្ថានភាពល្អអាចធ្វើឱ្យការពារជ្រុល។ សូមទុកចិត្តគេឱ្យទទួលចំណែកថែរក្សារបស់គេ។"
+      },
+      "steady": {
+        "en": "Loyalty does not require accepting every duty; explain your limits so responsibility remains fair to you as well.",
+        "km": "ភាពស្មោះស្ម័គ្រមិនទាមទារឱ្យទទួលគ្រប់ភារកិច្ចទេ។ សូមពន្យល់កម្រិតខ្លួន ដើម្បីឱ្យការទទួលខុសត្រូវយុត្តិធម៌ចំពោះអ្នកដែរ។"
+      },
+      "testing": {
+        "en": "Trying to prevent every bad possibility could exhaust you; choose one real concern to address and let trusted people help.",
+        "km": "ការព្យាយាមការពាររាល់លទ្ធភាពអាក្រក់អាចធ្វើឱ្យអស់កម្លាំង។ សូមជ្រើសកង្វល់ពិតមួយដោះស្រាយ ហើយឱ្យអ្នកទុកចិត្តជួយ។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Trusting a shared commitment could strengthen connection while giving you more room to enjoy the security you help create.",
+        "km": "ការទុកចិត្តការប្តេជ្ញារួមអាចពង្រឹងទំនាក់ទំនង និងទុកកន្លែងរីករាយនឹងស្ថិរភាពដែលអ្នកជួយកសាង។"
+      },
+      "steady": {
+        "en": "Fairly divided responsibilities could make your loyalty more sustainable and leave fewer reasons to stay constantly on guard.",
+        "km": "ភារកិច្ចចែកដោយយុត្តិធម៌ អាចធ្វើឱ្យភាពស្មោះស្ម័គ្របន្តបានយូរ និងបន្ថយហេតុដែលត្រូវប្រុងជានិច្ច។"
+      },
+      "testing": {
+        "en": "Responding to the actual concern rather than every feared outcome could help you support others without carrying all their uncertainty.",
+        "km": "ការឆ្លើយកង្វល់ពិត ជាជាងរាល់លទ្ធផលដែលខ្លាច អាចជួយគាំទ្រគេ ដោយមិនរ៉ាប់រងភាពមិនប្រាកដទាំងអស់របស់គេ។"
+      }
+    }
+  },
+  "PIG": {
+    "present": {
+      "bright": {
+        "en": "Share the good in a way that feels generous and comfortable, leaving enough time and energy for your own enjoyment too.",
+        "km": "សូមចែករំលែកអ្វីល្អដោយសប្បុរសនិងសមលទ្ធភាព ហើយទុកពេលនិងកម្លាំងគ្រប់គ្រាន់សម្រាប់ការរីករាយខ្លួនដែរ។"
+      },
+      "steady": {
+        "en": "Choose one useful act of generosity that fits your capacity, rather than promising more care than you can sustain.",
+        "km": "សូមជ្រើសអំពើសប្បុរសមានប្រយោជន៍មួយដែលសមលទ្ធភាព ជាជាងសន្យាថែទាំលើសអ្វីដែលអាចរក្សា។"
+      },
+      "testing": {
+        "en": "Include yourself among the people who deserve support; receiving help can matter as much as finding another way to give.",
+        "km": "សូមរាប់ខ្លួនក្នុងចំណោមអ្នកសមនឹងទទួលការគាំទ្រ។ ការទទួលជំនួយអាចសំខាន់ដូចការរកវិធីផ្តល់បន្ថែម។"
+      }
+    },
+    "challenge": {
+      "bright": {
+        "en": "Wanting to make a good moment special could lead you to overextend yourself; a sincere gesture need not be a large one.",
+        "km": "ការចង់ធ្វើឱ្យពេលល្អពិសេសអាចនាំឱ្យលើសកម្លាំង។ កាយវិការស្មោះមិនចាំបាច់ត្រូវធំទេ។"
+      },
+      "steady": {
+        "en": "Saying yes too easily could turn kindness into a burden; check your available time and energy before making another commitment.",
+        "km": "ការព្រមងាយពេកអាចប្តូរចិត្តល្អទៅបន្ទុក។ សូមពិនិត្យពេលនិងកម្លាំងដែលមាន មុនប្តេជ្ញាបន្ថែម។"
+      },
+      "testing": {
+        "en": "Giving more may not resolve this difficulty; protect your limits and ask whether the support you offer is actually helping.",
+        "km": "ការផ្តល់បន្ថែមអាចមិនដោះស្រាយការលំបាកនេះ។ សូមរក្សាកម្រិតខ្លួន ហើយសួរថាការគាំទ្រដែលផ្តល់កំពុងជួយពិតឬទេ។"
+      }
+    },
+    "outcome": {
+      "bright": {
+        "en": "Generosity within your means could make shared happiness easier to sustain, without leaving your own needs outside the celebration.",
+        "km": "ភាពសប្បុរសតាមលទ្ធភាព អាចធ្វើឱ្យសុភមង្គលរួមនៅបានយូរ ដោយមិនទុកតម្រូវការខ្លួនក្រៅការអបអរ។"
+      },
+      "steady": {
+        "en": "Balanced giving and receiving could help care remain a source of warmth instead of an obligation you struggle to maintain.",
+        "km": "ការផ្តល់និងទទួលមានតុល្យភាព អាចជួយឱ្យការថែទាំនៅជាប្រភពកក់ក្តៅ ជាជាងភារកិច្ចដែលពិបាករក្សា។"
+      },
+      "testing": {
+        "en": "Accepting support and limiting what you promise could leave you better able to respond to this difficult stage with care.",
+        "km": "ការទទួលគាំទ្រ និងកំណត់អ្វីដែលសន្យា អាចធ្វើឱ្យអ្នកមានលទ្ធភាពឆ្លើយតបដំណាក់កាលលំបាកនេះដោយយកចិត្តទុកដាក់។"
+      }
+    }
+  }
+}

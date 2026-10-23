@@ -1,11 +1,11 @@
 // Checks all content and reproduces the worked example. Run: npm run check
 import assert from 'node:assert';
 import { readFileSync, readdirSync } from 'node:fs';
-import { buildReading, drawCards } from '../src/engine/reading.ts';
+import { buildReading, drawCards, firstSentence } from '../src/engine/reading.ts';
 import type { Content, QuestionReading } from '../src/engine/types.ts';
 
 const load = (f: string) => JSON.parse(readFileSync(new URL(`../src/content/${f}.json`, import.meta.url), 'utf8'));
-const content: Content = { cards: load('cards'), zodiac: load('zodiac'), topics: load('topics'), templates: load('templates') };
+const content: Content = { cards: load('cards'), zodiac: load('zodiac'), topics: load('topics'), templates: load('templates'), zodiacReadings: load('zodiac-readings') };
 const genericContent = { ...content };
 const questionReadings: Record<string, QuestionReading> = {};
 const readingFiles = readdirSync(new URL('../src/content/readings/', import.meta.url)).filter(f => f.endsWith('.json'));
@@ -13,6 +13,28 @@ const appContentSource = readFileSync(new URL('../src/content/index.ts', import.
 const questionIds = new Set(content.topics.flatMap(t => t.questions.map(q => q.id)));
 const positions = ['present', 'challenge', 'outcome'] as const;
 const languages = ['en', 'km'] as const;
+const tags = ['bright', 'steady', 'testing'] as const;
+const zodiacReadings = content.zodiacReadings!;
+assert.deepEqual(Object.keys(zodiacReadings).sort(), content.zodiac.map(z => z.id).sort(), 'guidance covers exactly the 12 animals');
+for (const zodiac of content.zodiac) {
+  const entry = zodiacReadings[zodiac.id]!;
+  assert.deepEqual(Object.keys(entry).sort(), [...positions].sort(), `${zodiac.id}: all positions`);
+  for (const position of positions) {
+    assert.deepEqual(Object.keys(entry[position]).sort(), [...tags].sort(), `${zodiac.id} ${position}: all card moods`);
+    for (const tag of tags) {
+      assert.deepEqual(Object.keys(entry[position][tag]).sort(), [...languages].sort(), `${zodiac.id} ${position} ${tag}: bilingual`);
+      for (const lang of languages) {
+        const text = entry[position][tag][lang];
+        assert.ok(typeof text === 'string' && text.trim() === text && text.length > 20 && !/[{}]|undefined|TODO|TBD/.test(text), 'complete saved zodiac guidance');
+        assert.ok(lang === 'en' ? !/[\u1780-\u17ff]/.test(text) : /[\u1780-\u17ff]/.test(text) && !/[A-Za-z]/.test(text), 'zodiac guidance stays in its language');
+      }
+    }
+  }
+}
+for (const position of positions)
+  for (const tag of tags)
+    for (const lang of languages)
+      assert.equal(new Set(content.zodiac.map(z => zodiacReadings[z.id]![position][tag][lang])).size, 12, `${position} ${tag} ${lang}: every animal has distinct guidance`);
 for (const file of readingFiles) {
   const saved: QuestionReading = load(`readings/${file.slice(0, -5)}`);
   assert.equal(file, `${saved.questionId}.json`, 'reading filename matches question ID');
@@ -103,8 +125,10 @@ for (const saved of Object.values(questionReadings))
             const request = { lang, zodiacId: zodiac.id, questionId: saved.questionId, timeFrame: tf.id, cardIds };
             const r = buildReading(request, content);
             assert.ok(partText(r, position).includes(saved.cards[c.id]![position][lang]), `${saved.questionId} ${c.id} ${position} ${lang}: saved text used`);
+            assert.equal(partText(r, position).split(zodiacReadings[zodiac.id]![position][c.tag][lang]).length - 1, 1, 'each card uses its own position/mood guidance exactly once');
             if (slot === 0 && saved.questionId === 'LF-01') {
-              assert.ok(partText(r, 'answer').includes(saved.cards[c.id]!.present[lang]), 'overall answer uses saved present text too');
+              assert.ok(partText(r, 'answer').includes(firstSentence(saved.cards[c.id]!.present[lang], lang)), 'overall answer uses saved present text too');
+              assert.ok(!partText(r, 'answer').includes(saved.cards[c.id]!.present[lang]) || firstSentence(saved.cards[c.id]!.present[lang], lang) === saved.cards[c.id]!.present[lang], 'overall answer does not repeat the whole present paragraph');
             }
             assert.deepEqual(buildReading(request, content), r, 'saved readings remain deterministic');
             assert.equal(r.parts.at(-1)?.key, 'disclaimer', 'disclaimer remains last');
@@ -129,6 +153,52 @@ assert.equal(partText(partial, 'outcome'), partText(generic, 'outcome'), 'missin
 assert.ok(partText(pilot, 'challenge').includes('Expecting your life or relationships to look perfect'), 'screenshot uses question-specific Ten of Cups challenge');
 assert.ok(partText(pilot, 'outcome').includes('a kind gesture or a creative possibility'), 'screenshot uses question-specific Page of Cups outcome');
 console.log(`Saved reading checks passed: ${readingFiles.length} question files, ${savedCases} card/position/language/time/animal cases; other questions retain existing text.`);
+
+// Hold every other input fixed: each animal changes the actual card paragraphs and
+// short answer, not just the strength/advice sections or the template variant.
+const noZodiacContent: Content = { ...content, zodiacReadings: undefined };
+const summaryPosition = { state: 'present', how: 'present', who: 'present', obstacle: 'challenge', lesson: 'challenge', heading: 'outcome', whatif: 'outcome', yesno: 'outcome', when: 'outcome' } as const;
+let zodiacCases = 0;
+for (const topic of content.topics)
+  for (const question of topic.questions)
+    for (const tf of content.templates.timeFrames)
+      for (const cardIds of draws)
+        for (const lang of languages) {
+          const distinct = Object.fromEntries(['answer', ...positions].map(p => [p, new Set<string>()]));
+          const summary = summaryPosition[question.kind];
+          const summaryCard = content.cards.find(c => c.id === cardIds[positions.indexOf(summary)])!;
+          for (const zodiac of content.zodiac) {
+            const input = { lang, zodiacId: zodiac.id, questionId: question.id, timeFrame: tf.id, cardIds };
+            const r = buildReading(input, content);
+            const plain = buildReading(input, noZodiacContent);
+            const summaryGuidance = zodiacReadings[zodiac.id]![summary][summaryCard.tag][lang];
+            assert.equal(partText(r, 'answer').split(summaryGuidance).length - 1, 1, `${question.id}: summary has the relevant zodiac guidance once`);
+            assert.equal(partText(r, 'answer').replace(summaryGuidance, '').trim(), partText(plain, 'answer'), 'zodiac never changes the base answer or its lean');
+            for (const [slot, position] of positions.entries()) {
+              const card = content.cards.find(c => c.id === cardIds[slot])!;
+              const guidance = zodiacReadings[zodiac.id]![position][card.tag][lang];
+              const paragraph = partText(r, position);
+              assert.equal(paragraph.split(guidance).length - 1, 1, 'matching zodiac guidance used once');
+              assert.equal(paragraph.replace(guidance, '').trim(), partText(plain, position), 'card meaning stays anchored');
+              distinct[position].add(paragraph);
+            }
+            distinct.answer.add(partText(r, 'answer'));
+            assert.equal(partText(r, 'theme'), partText(plain, 'theme'), 'card mood, arc and theme are unaffected by zodiac guidance');
+            assert.deepEqual(r.cards, plain.cards, 'selected cards remain unchanged');
+            assert.equal(partText(r, 'disclaimer'), partText(plain, 'disclaimer'), 'disclaimer preserved');
+            assert.ok(r.parts.every(p => p.text && !/[{}]|undefined/.test(p.text)), 'complete personalised reading');
+            assert.ok(r.parts.every(p => lang === 'km' ? !/[A-Za-z]/.test(p.text) : !/[\u1780-\u17ff]/.test(p.text)), 'one language across all personalised parts');
+            assert.deepEqual(buildReading(input, content), r, 'personalisation remains deterministic');
+            zodiacCases++;
+          }
+          for (const [position, texts] of Object.entries(distinct)) assert.equal(texts.size, 12, `${question.id} ${lang} ${position}: changing only animal changes text for all 12`);
+        }
+// Optional/missing animal content preserves the old behaviour without mixing animals.
+const missingAnimalContent: Content = { ...content, zodiacReadings: { RAT: zodiacReadings.RAT } };
+assert.deepEqual(buildReading(request, missingAnimalContent), buildReading(request, noZodiacContent), 'missing Tiger guidance falls back to unmodified meanings');
+assert.deepEqual(buildReading(request, { ...content, zodiacReadings: {} }), buildReading(request, noZodiacContent), 'empty guidance library is backwards compatible');
+assert.equal(JSON.stringify(content), contentBefore, 'personalisation does not mutate content');
+console.log(`Zodiac checks passed: 108 bilingual entries, ${zodiacCases} readings; all 12 animals change all card paragraphs and the short answer.`);
 
 // Yes/no questions lean with the mood of all three cards.
 const lean = (cardIds: string[]) =>
