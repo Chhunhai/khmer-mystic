@@ -343,8 +343,8 @@
         "km": "ការខិតខំដែលអ្នកបានធ្វើពីមុន កំពុងចាប់ផ្តើមឈានទៅដល់ឆ្ងាយជាងមុន។ អ្នកស្ថិតក្នុងជំហរល្អ ដើម្បីមើលឃើញអ្វីដែលត្រឡប់មកវិញពីការខិតខំនោះ។"
       },
       "challenge": {
-        "en": "Impatience could make you give up just before your efforts pay off. Keep watching for responses and follow up on them.",
-        "km": "ការមិនអត់ធ្មត់ អាចធ្វើឱ្យអ្នកបោះបង់ មុនពេលការខិតខំរបស់អ្នកផ្តល់ផល។ សូមបន្តតាមដានការឆ្លើយតប ហើយធ្វើការតាមដានបន្ត។"
+        "en": "Losing patience while you wait for replies could make you drop a promising lead early. Follow up once more before you move on.",
+        "km": "ការបាត់ការអត់ធ្មត់ ខណៈរង់ចាំការឆ្លើយតប អាចធ្វើឱ្យអ្នកបោះបង់ឱកាសមួយលឿនពេក។ សូមតាមដានម្តងទៀត មុននឹងបន្តទៅរឿងផ្សេង។"
       },
       "outcome": {
         "en": "An opportunity may arrive from further away, through contacts, travel or work you sent out earlier. Following it up could expand what you are building.",
@@ -469,8 +469,8 @@
         "km": "អ្នកពោរពេញដោយថាមពល ហើយត្រៀមខ្លួនធ្វើសកម្មភាព។ ភាពក្លាហាននោះ មានន័យថាអ្នកងាយកត់សម្គាល់ និងដេញតាមឱកាសថ្មីៗ។"
       },
       "challenge": {
-        "en": "Rushing at an opening without a plan could cause mistakes you then have to fix. Aim first, then move quickly.",
-        "km": "ការប្រញាប់ទៅរកឱកាសដោយគ្មានផែនការ អាចបង្កកំហុសដែលអ្នកត្រូវជួសជុលនៅពេលក្រោយ។ សូមកំណត់គោលដៅជាមុន រួចចាំធ្វើឱ្យលឿន។"
+        "en": "Grabbing at an opening the moment it appears could lead to costly mistakes. Take a breath and look at what it really involves.",
+        "km": "ការចាប់យកឱកាសមួយភ្លាមៗ នៅពេលវាលេចឡើង អាចនាំទៅរកកំហុសដែលមានតម្លៃខ្ពស់។ សូមដកដង្ហើម ហើយមើលពីអ្វីដែលវាពាក់ព័ន្ធពិតប្រាកដ។"
       },
       "outcome": {
         "en": "An opportunity may arrive that calls for quick, bold action, such as a move, a change or a new venture. Going for it with some preparation could move you forward fast.",
@@ -717,8 +717,8 @@
     },
     "SWO-02": {
       "present": {
-        "en": "You may be stuck between two options and unsure which to take. Holding still feels safer, but it can also keep openings closed.",
-        "km": "អ្នកប្រហែលជាជាប់នៅចន្លោះជម្រើសពីរ ហើយមិនប្រាកដថាគួរយកមួយណា។ ការនៅស្ងៀមហាក់ដូចជាមានសុវត្ថិភាពជាង ប៉ុន្តែវាក៏អាចធ្វើឱ្យឱកាសនៅតែបិទដែរ។"
+        "en": "Two paths may be open, and you are hesitating between them. While you stay undecided, both opportunities can stay just out of reach.",
+        "km": "ផ្លូវពីរអាចកំពុងបើកចំហ ហើយអ្នកកំពុងស្ទាក់ស្ទើររវាងវា។ ខណៈអ្នកនៅតែមិនទាន់សម្រេច ឱកាសទាំងពីរ អាចនៅតែហួសពីដៃបន្តិច។"
       },
       "challenge": {
         "en": "Avoiding a decision could let both opportunities slip away. Gather the facts you need and choose.",
@@ -843,8 +843,8 @@
     },
     "SWO-11": {
       "present": {
-        "en": "Your mind is alert and curious, picking up news quickly. You may hear about openings before others do.",
-        "km": "គំនិតរបស់អ្នកភ្ញាក់រលឹក និងចង់ដឹង ដោយទទួលដំណឹងបានរហ័ស។ អ្នកអាចឮអំពីឱកាសមុនអ្នកដទៃ។"
+        "en": "You are quick to hear news and spot new ideas. That sharp, curious mind may notice an opening before anyone else does.",
+        "km": "អ្នករហ័សក្នុងការឮដំណឹង និងមើលឃើញគំនិតថ្មីៗ។ គំនិតដ៏មុតស្រួច និងចង់ដឹងនោះ អាចកត់សម្គាល់ឱកាសមួយមុនអ្នកដទៃ។"
       },
       "challenge": {
         "en": "Acting on rumours could lead you after a chance that is not real. Check where information comes from before you move.",
@@ -1081,8 +1081,8 @@
     },
     "PEN-14": {
       "present": {
-        "en": "You are in a strong position, with experience and resources behind you. Others may see you as someone worth investing in.",
-        "km": "អ្នកស្ថិតក្នុងជំហររឹងមាំ ដោយមានបទពិសោធន៍ និងធនធាននៅពីក្រោយ។ អ្នកដទៃអាចមើលឃើញអ្នកថាជាមនុស្សដែលគួរវិនិយោគលើ។"
+        "en": "Experience and resources put you on solid ground. People may see you as someone worth trusting with a larger opportunity.",
+        "km": "បទពិសោធន៍ និងធនធាន ធ្វើឱ្យអ្នកឈរលើមូលដ្ឋានរឹងមាំ។ មនុស្សអាចមើលឃើញអ្នកថាជាមនុស្សដែលគួរទុកចិត្តប្រគល់ឱកាសធំជាងនេះឱ្យ។"
       },
       "challenge": {
         "en": "Measuring every opening only by money or status could make you miss one that brings meaning. Ask what truly matters to you.",
