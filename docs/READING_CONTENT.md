@@ -35,6 +35,7 @@
 | `src/content/readings/CW-09.json` | How can I handle stress at work? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/CW-10.json` | Where is my career heading? | 78 cards × 3 positions, English and Khmer (heading) |
 | `src/content/readings/MF-01.json` | What is my current financial situation like? | 78 cards × 3 positions, English and Khmer (state) |
+| `src/content/readings/MF-02.json` | How can I improve my money situation? | 78 cards × 3 positions, English and Khmer (how) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
