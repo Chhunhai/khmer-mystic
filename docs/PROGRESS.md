@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 26 of 100 questions (6,084 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 27 of 100 questions (6,318 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-23: Drafted CW-07 (“What can I expect from an upcoming interview or promotion?”, heading): 78 cards × 3 positions in English and Khmer, src/content/readings/CW-07.json. Present = how you go in, Challenge = what could trip you up in the process, Outcome = possible results phrased as could/may; 'this step/process' refers to the interview or promotion named in the question AI-drafted; English and native Khmer review pending. Saved coverage 27/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted CW-06 (“What skills should I develop?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/CW-06.json. each card names a concrete skill area (planning, emotional intelligence, analysis, trades and finance); exam-anxiety entry suggests talking to someone AI-drafted; English and native Khmer review pending. Saved coverage 26/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted CW-05 (“How can I improve relations with my colleagues?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/CW-05.json. colleague relations framed as goodwill, credit, gossip, fairness and boundaries; HR or counsellor suggested on SWO-03/08/09/10 AI-drafted; English and native Khmer review pending. Saved coverage 25/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted CW-04 (“What is holding back my career?”, obstacle): 78 cards × 3 positions in English and Khmer, src/content/readings/CW-04.json. present what you bring into your work, challenge names the block as a plain warning, outcome where facing it can lead AI-drafted; English and native Khmer review pending. Saved coverage 24/100 questions; checks, typecheck and lint pass
