@@ -1,0 +1,1097 @@
+{
+  "questionId": "FF-04",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "An open, unassuming attitude may be the best way to begin helping. Asking the relative what they need, without assuming you know, could set the right tone.",
+        "km": "អាកប្បកិរិយាបើកចំហ និងរាបទាប ប្រហែលជាវិធីល្អបំផុតក្នុងការចាប់ផ្តើមជួយ។ ការសួរសាច់ញាតិថាពួកគេត្រូវការអ្វី ដោយមិនសន្មតថាអ្នកដឹង អាចកំណត់បរិយាកាសត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Offering help on impulse and then disappearing could leave the relative worse off. Promise only the support you can keep up.",
+        "km": "ការផ្តល់ជំនួយតាមចិត្តភ្លាមៗ ហើយបន្ទាប់មកបាត់ខ្លួន អាចធ្វើឱ្យសាច់ញាតិកាន់តែលំបាក។ សូមសន្យាតែការគាំទ្រដែលអ្នកអាចរក្សាបាន។"
+      },
+      "outcome": {
+        "en": "A fresh, light-hearted presence could lift a struggling relative's spirits. Small, unexpected kindnesses may mean more to them than grand plans.",
+        "km": "វត្តមានថ្មី និងចិត្តស្រាល អាចលើកស្ទួយស្មារតីរបស់សាច់ញាតិដែលកំពុងលំបាក។ ភាពសប្បុរសតូចៗដែលមិនបានរំពឹងទុក អាចមានន័យសម្រាប់ពួកគេច្រើនជាងផែនការធំៗ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may have practical skills that could make a real difference to the relative. Using what you know, from cooking to paperwork, could ease their load.",
+        "km": "អ្នកប្រហែលជាមានជំនាញជាក់ស្តែងដែលអាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដសម្រាប់សាច់ញាតិ។ ការប្រើអ្វីដែលអ្នកដឹង ចាប់ពីការធ្វើម្ហូប រហូតដល់ឯកសារ អាចបន្ធូរបន្ទុករបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Taking over completely could leave the relative feeling powerless. Help them do things for themselves where they can.",
+        "km": "ការគ្រប់គ្រងទាំងស្រុង អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ថាគ្មានអំណាច។ សូមជួយពួកគេធ្វើអ្វីៗដោយខ្លួនឯង នៅកន្លែងដែលពួកគេអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Skilful, well-aimed help could give the relative real relief and confidence. Solving one practical problem together may lift a weight off them.",
+        "km": "ជំនួយដែលប៉ិនប្រសប់ និងតម្រង់គោលដៅល្អ អាចផ្តល់ឱ្យសាច់ញាតិនូវការធូរស្បើយ និងទំនុកចិត្តពិតប្រាកដ។ ការដោះស្រាយបញ្ហាជាក់ស្តែងមួយជាមួយគ្នា អាចដកទម្ងន់ចេញពីពួកគេ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Quiet, attentive listening may be the support the relative needs most. Noticing what they leave unsaid could tell you how to help.",
+        "km": "ការស្តាប់ស្ងាត់ៗ និងយកចិត្តទុកដាក់ ប្រហែលជាការគាំទ្រដែលសាច់ញាតិត្រូវការបំផុត។ ការកត់សម្គាល់អ្វីដែលពួកគេមិនបាននិយាយ អាចប្រាប់អ្នកពីរបៀបជួយ។"
+      },
+      "challenge": {
+        "en": "Pressing the relative to open up before they are ready could push them away. Let them know you are there, and leave the door open for them to talk.",
+        "km": "ការជំរុញសាច់ញាតិឱ្យបើកចិត្ត មុនពេលពួកគេត្រៀមខ្លួន អាចរុញពួកគេឱ្យឆ្ងាយ។ សូមប្រាប់ពួកគេថាអ្នកនៅទីនេះ ហើយទុកទ្វារបើកចំហឱ្យពួកគេនិយាយ។"
+      },
+      "outcome": {
+        "en": "Patient, understanding presence could help the relative feel safe to share their troubles. Simply being heard may ease more than advice ever could.",
+        "km": "វត្តមានអត់ធ្មត់ និងយល់ចិត្ត អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍សុវត្ថិភាពក្នុងការចែករំលែកបញ្ហារបស់ពួកគេ។ គ្រាន់តែការត្រូវបានគេស្តាប់ អាចបន្ធូរបានច្រើនជាងដំបូន្មានណាមួយ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Warm, nurturing care may be the heart of the support you can offer. A home-cooked meal or a comfortable space could mean a great deal to the relative.",
+        "km": "ការយកចិត្តទុកដាក់កក់ក្តៅ និងថែទាំ ប្រហែលជាបេះដូងនៃការគាំទ្រដែលអ្នកអាចផ្តល់។ អាហារដែលចម្អិននៅផ្ទះ ឬកន្លែងស្រួល អាចមានន័យច្រើនសម្រាប់សាច់ញាតិ។"
+      },
+      "challenge": {
+        "en": "Caring for the relative without caring for yourself could wear you out. Keep some energy for your own rest and needs.",
+        "km": "ការមើលថែសាច់ញាតិ ដោយមិនមើលថែខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមរក្សាថាមពលខ្លះសម្រាប់ការសម្រាក និងតម្រូវការរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Generous, nurturing care could help the relative feel loved and secure. Your support may give them strength to face what they are going through.",
+        "km": "ការយកចិត្តទុកដាក់ដោយចិត្តទូលាយ និងថែទាំ អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍ថាត្រូវបានស្រលាញ់ និងមានសុវត្ថិភាព។ ការគាំទ្ររបស់អ្នក អាចផ្តល់កម្លាំងដល់ពួកគេដើម្បីប្រឈមមុខនឹងអ្វីដែលពួកគេកំពុងឆ្លងកាត់។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Structure and reliability may be the support the relative needs. Helping them organise appointments, bills or routines could bring calm to a chaotic time.",
+        "km": "រចនាសម្ព័ន្ធ និងភាពអាចទុកចិត្តបាន ប្រហែលជាការគាំទ្រដែលសាច់ញាតិត្រូវការ។ ការជួយពួកគេរៀបចំការណាត់ជួប វិក្កយបត្រ ឬទម្លាប់ អាចនាំភាពស្ងប់ដល់ដំណាក់កាលច្របូកច្របល់។"
+      },
+      "challenge": {
+        "en": "Organising the relative's life without asking could feel controlling. Offer a plan, but let them decide what to accept.",
+        "km": "ការរៀបចំជីវិតរបស់សាច់ញាតិដោយមិនសួរ អាចមានអារម្មណ៍ដូចជាការគ្រប់គ្រង។ សូមផ្តល់ផែនការ ប៉ុន្តែឱ្យពួកគេសម្រេចថាត្រូវទទួលយកអ្វី។"
+      },
+      "outcome": {
+        "en": "A steady, dependable framework could help the relative regain a sense of control. Knowing what comes next may ease their worry.",
+        "km": "ក្របខណ្ឌនឹងនរ និងអាចទុកចិត្តបាន អាចជួយសាច់ញាតិឱ្យទទួលបានអារម្មណ៍នៃការគ្រប់គ្រងឡើងវិញ។ ការដឹងថាអ្វីនឹងកើតឡើងបន្ទាប់ អាចបន្ធូរការព្រួយបារម្ភរបស់ពួកគេ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Drawing on family traditions or trusted advice may help you support the relative. A respected elder, teacher or community figure could also offer guidance.",
+        "km": "ការទាញយកពីប្រពៃណីគ្រួសារ ឬដំបូន្មានដែលទុកចិត្ត អាចជួយអ្នកគាំទ្រសាច់ញាតិ។ មនុស្សចាស់ដែលគេគោរព គ្រូ ឬបុគ្គលសហគមន៍ ក៏អាចផ្តល់ការណែនាំដែរ។"
+      },
+      "challenge": {
+        "en": "Insisting on the \"proper\" way to cope could leave the relative feeling judged. Respect their own way of dealing with things.",
+        "km": "ការទទូចលើរបៀប «ត្រឹមត្រូវ» ក្នុងការទប់ទល់ អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ថាត្រូវបានវិនិច្ឆ័យ។ សូមគោរពរបៀបផ្ទាល់ខ្លួនរបស់ពួកគេក្នុងការដោះស្រាយអ្វីៗ។"
+      },
+      "outcome": {
+        "en": "Connecting the relative with wise, trusted support could help them through. Shared family values may give them comfort and a sense of direction.",
+        "km": "ការភ្ជាប់សាច់ញាតិជាមួយការគាំទ្រដែលមានប្រាជ្ញា និងទុកចិត្ត អាចជួយពួកគេឆ្លងកាត់។ គុណតម្លៃគ្រួសាររួម អាចផ្តល់ភាពស្រួល និងអារម្មណ៍នៃទិសដៅដល់ពួកគេ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Choosing to stand by the relative may be the most important support you can give. Letting them know they can count on you could mean everything.",
+        "km": "ការជ្រើសរើសឈរក្បែរសាច់ញាតិ ប្រហែលជាការគាំទ្រសំខាន់បំផុតដែលអ្នកអាចផ្តល់។ ការប្រាប់ពួកគេថាពួកគេអាចពឹងលើអ្នក អាចមានន័យគ្រប់យ៉ាង។"
+      },
+      "challenge": {
+        "en": "Being caught between the relative and someone else could strain your loyalty. Support them without being drawn into taking sides.",
+        "km": "ការជាប់នៅចន្លោះសាច់ញាតិ និងនរណាម្នាក់ផ្សេងទៀត អាចធ្វើឱ្យភាពស្មោះត្រង់របស់អ្នកតានតឹង។ សូមគាំទ្រពួកគេ ដោយមិនត្រូវបានទាញចូលក្នុងការកាន់ជើង។"
+      },
+      "outcome": {
+        "en": "Your steady loyalty could give the relative courage to face their difficulty. Knowing someone is on their side may make all the difference.",
+        "km": "ភាពស្មោះត្រង់នឹងនររបស់អ្នក អាចផ្តល់ភាពក្លាហានដល់សាច់ញាតិដើម្បីប្រឈមមុខនឹងការលំបាករបស់ពួកគេ។ ការដឹងថានរណាម្នាក់នៅខាងពួកគេ អាចធ្វើឱ្យមានភាពខុសគ្នាទាំងស្រុង។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Determined, focused help may be what the relative needs to get through a challenge. Helping them set and reach one clear goal could build momentum.",
+        "km": "ជំនួយដែលតាំងចិត្ត និងផ្តោត ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការដើម្បីឆ្លងកាត់បញ្ហាប្រឈម។ ការជួយពួកគេកំណត់ និងសម្រេចគោលដៅច្បាស់លាស់មួយ អាចកសាងសន្ទុះ។"
+      },
+      "challenge": {
+        "en": "Pushing the relative harder than they can manage could add to their stress. Encourage them at a pace that suits them.",
+        "km": "ការជំរុញសាច់ញាតិខ្លាំងជាងអ្វីដែលពួកគេអាចទ្រាំបាន អាចបន្ថែមភាពតានតឹងរបស់ពួកគេ។ សូមលើកទឹកចិត្តពួកគេក្នុងល្បឿនដែលសមនឹងពួកគេ។"
+      },
+      "outcome": {
+        "en": "Steady encouragement could help the relative overcome what is holding them back. Reaching a goal with your support may restore their confidence.",
+        "km": "ការលើកទឹកចិត្តទៀងទាត់ អាចជួយសាច់ញាតិយកឈ្នះអ្វីដែលកំពុងរារាំងពួកគេ។ ការសម្រេចគោលដៅមួយដោយមានការគាំទ្ររបស់អ្នក អាចស្តារទំនុកចិត្តរបស់ពួកគេ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Gentle strength and patience may be your best gifts to the relative. Staying calm while they struggle could help them feel steadier.",
+        "km": "កម្លាំងទន់ភ្លន់ និងការអត់ធ្មត់ ប្រហែលជាអំណោយល្អបំផុតរបស់អ្នកដល់សាច់ញាតិ។ ការនៅស្ងប់ ខណៈពួកគេកំពុងតស៊ូ អាចជួយពួកគេឱ្យមានអារម្មណ៍នឹងនរជាងមុន។"
+      },
+      "challenge": {
+        "en": "Losing patience with the relative's slow progress could discourage them. Remember that recovery or change rarely moves as fast as anyone hopes.",
+        "km": "ការបាត់បង់ការអត់ធ្មត់ចំពោះវឌ្ឍនភាពយឺតរបស់សាច់ញាតិ អាចធ្វើឱ្យពួកគេបាក់ទឹកចិត្ត។ សូមចងចាំថាការងើបឡើងវិញ ឬការផ្លាស់ប្តូរ កម្រទៅមុខលឿនដូចដែលនរណាម្នាក់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Calm, kind support could help the relative find their own inner strength. Your faith in them may help them believe in themselves.",
+        "km": "ការគាំទ្រស្ងប់ស្ងាត់ និងសប្បុរស អាចជួយសាច់ញាតិរកឃើញកម្លាំងខាងក្នុងរបស់ពួកគេ។ ជំនឿរបស់អ្នកលើពួកគេ អាចជួយពួកគេឱ្យជឿលើខ្លួនឯង។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Thoughtful reflection may help you understand what kind of support the relative truly needs. Taking a quiet moment to consider could guide you.",
+        "km": "ការពិចារណាដោយការគិតគូរ អាចជួយអ្នកឱ្យយល់ពីប្រភេទនៃការគាំទ្រដែលសាច់ញាតិពិតជាត្រូវការ។ ការចំណាយពេលស្ងាត់ៗដើម្បីពិចារណា អាចណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Holding back to think things over could leave the relative feeling alone. Reach out even while you are still working out how best to help.",
+        "km": "ការទប់ខ្លួនដើម្បីគិតពិចារណា អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ឯកោ។ សូមឈោងទៅរក សូម្បីតែខណៈអ្នកនៅតែកំពុងរកវិធីជួយល្អបំផុត។"
+      },
+      "outcome": {
+        "en": "Wise, well-considered support could make a lasting difference to the relative. Gentle guidance may help them find their own answers.",
+        "km": "ការគាំទ្រដែលមានប្រាជ្ញា និងពិចារណាបានល្អ អាចធ្វើឱ្យមានភាពខុសគ្នាស្ថិតស្ថេរសម្រាប់សាច់ញាតិ។ ការណែនាំដោយទន់ភ្លន់ អាចជួយពួកគេរកចម្លើយដោយខ្លួនឯង។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "The relative may be going through a period of change or uncertainty. Helping them adapt to shifting circumstances could be the support they need.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងឆ្លងកាត់ដំណាក់កាលនៃការផ្លាស់ប្តូរ ឬភាពមិនច្បាស់លាស់។ ការជួយពួកគេសម្របខ្លួនទៅនឹងកាលៈទេសៈដែលប្រែប្រួល អាចជាការគាំទ្រដែលពួកគេត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Trying to stop changes the relative cannot control could add to their frustration. Help them accept what they cannot change.",
+        "km": "ការព្យាយាមបញ្ឈប់ការផ្លាស់ប្តូរដែលសាច់ញាតិមិនអាចគ្រប់គ្រង អាចបន្ថែមការខកចិត្តរបស់ពួកគេ។ សូមជួយពួកគេទទួលយកអ្វីដែលពួកគេមិនអាចផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Helping the relative ride out a difficult turn could see them through to calmer ground. A change in their fortunes may be closer than it seems.",
+        "km": "ការជួយសាច់ញាតិឆ្លងកាត់ការប្រែប្រួលដ៏លំបាក អាចនាំពួកគេទៅរកដីស្ងប់ជាងមុន។ ការផ្លាស់ប្តូរសំណាងរបស់ពួកគេ អាចនៅជិតជាងអ្វីដែលវាមើលទៅ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Fair, honest support may be what the relative needs. Helping them see their situation clearly, without blame, could guide good decisions.",
+        "km": "ការគាំទ្រដោយយុត្តិធម៌ និងស្មោះត្រង់ ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការ។ ការជួយពួកគេឱ្យមើលឃើញស្ថានភាពរបស់ពួកគេយ៉ាងច្បាស់ ដោយគ្មានការបន្ទោស អាចណែនាំការសម្រេចចិត្តល្អ។"
+      },
+      "challenge": {
+        "en": "Judging the relative's choices could make them less likely to accept help. Offer support without lecturing them about what they should have done.",
+        "km": "ការវិនិច្ឆ័យជម្រើសរបស់សាច់ញាតិ អាចធ្វើឱ្យពួកគេមិនសូវទទួលយកជំនួយ។ សូមផ្តល់ការគាំទ្រ ដោយមិនបង្រៀនពួកគេអំពីអ្វីដែលពួកគេគួរធ្វើ។"
+      },
+      "outcome": {
+        "en": "Honest, balanced support could help the relative make wise choices. If legal or official matters are involved, encouraging proper advice may help them most.",
+        "km": "ការគាំទ្រដោយស្មោះត្រង់ និងមានតុល្យភាព អាចជួយសាច់ញាតិធ្វើជម្រើសដ៏ឆ្លាតវៃ។ ប្រសិនបើមានរឿងច្បាប់ ឬរឿងផ្លូវការពាក់ព័ន្ធ ការលើកទឹកចិត្តឱ្យស្វែងរកដំបូន្មានត្រឹមត្រូវ អាចជួយពួកគេបំផុត។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Simply being present, without trying to fix things, may be the support the relative needs. Waiting alongside them could bring comfort.",
+        "km": "គ្រាន់តែការនៅក្បែរ ដោយមិនព្យាយាមជួសជុលអ្វីៗ ប្រហែលជាការគាំទ្រដែលសាច់ញាតិត្រូវការ។ ការរង់ចាំក្បែរពួកគេ អាចនាំមកនូវភាពស្រួល។"
+      },
+      "challenge": {
+        "en": "Sacrificing too much of yourself could leave you depleted and resentful. Find a balance between helping and looking after your own needs.",
+        "km": "ការលះបង់ខ្លួនឯងច្រើនពេក អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងអាក់អន់ចិត្ត។ សូមរកតុល្យភាពរវាងការជួយ និងការមើលថែតម្រូវការរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Seeing the situation from the relative's point of view could change how you help. A new perspective may reveal what they truly need.",
+        "km": "ការមើលស្ថានភាពពីទស្សនៈរបស់សាច់ញាតិ អាចផ្លាស់ប្តូររបៀបដែលអ្នកជួយ។ ទស្សនៈថ្មីមួយ អាចបង្ហាញពីអ្វីដែលពួកគេពិតជាត្រូវការ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "The relative may be going through a major ending or transition, such as a loss or life change. Supporting them through it gently could mean a lot.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងឆ្លងកាត់ទីបញ្ចប់ ឬការផ្លាស់ប្តូរធំ ដូចជាការបាត់បង់ ឬការផ្លាស់ប្តូរជីវិត។ ការគាំទ្រពួកគេឆ្លងកាត់វាដោយទន់ភ្លន់ អាចមានន័យច្រើន។"
+      },
+      "challenge": {
+        "en": "Urging the relative to move on before they are ready could make them feel rushed. Allow them to grieve or adjust at their own pace.",
+        "km": "ការជំរុញសាច់ញាតិឱ្យបន្តទៅមុខ មុនពេលពួកគេត្រៀមខ្លួន អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ប្រញាប់ប្រញាល់។ សូមអនុញ្ញាតឱ្យពួកគេកាន់ទុក្ខ ឬសម្របខ្លួនតាមល្បឿនរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Walking alongside the relative through change could help them find new beginnings. Your presence may make the transition easier to bear.",
+        "km": "ការដើរក្បែរសាច់ញាតិឆ្លងកាត់ការផ្លាស់ប្តូរ អាចជួយពួកគេរកការចាប់ផ្តើមថ្មី។ វត្តមានរបស់អ្នក អាចធ្វើឱ្យការផ្លាស់ប្តូរងាយទ្រាំជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Patient, balanced support may suit what the relative is going through. Offering steady help without overwhelming them could be just right.",
+        "km": "ការគាំទ្រដោយអត់ធ្មត់ និងមានតុល្យភាព អាចសមនឹងអ្វីដែលសាច់ញាតិកំពុងឆ្លងកាត់។ ការផ្តល់ជំនួយទៀងទាត់ ដោយមិនធ្វើឱ្យពួកគេលើសកម្លាំង អាចសមល្មម។"
+      },
+      "challenge": {
+        "en": "Swinging between too much help and too little could confuse the relative. Find a steady level of support you can keep up.",
+        "km": "ការប្តូរទៅមករវាងជំនួយច្រើនពេក និងតិចពេក អាចធ្វើឱ្យសាច់ញាតិច្របូកច្របល់។ សូមរកកម្រិតគាំទ្រនឹងនរមួយ ដែលអ្នកអាចរក្សាបាន។"
+      },
+      "outcome": {
+        "en": "Moderate, consistent support could help the relative heal or grow steadily. Balance may protect both of you from burnout.",
+        "km": "ការគាំទ្រកម្រិតមធ្យម និងស៊ីសង្វាក់ អាចជួយសាច់ញាតិឱ្យជាសះស្បើយ ឬរីកចម្រើនជាលំដាប់។ តុល្យភាព អាចការពារអ្នកទាំងពីរពីការអស់កម្លាំង។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "The relative may be caught in an unhealthy pattern, such as an addiction, debt or harmful relationship. Recognising it clearly could shape how you help.",
+        "km": "សាច់ញាតិប្រហែលជាជាប់ក្នុងគំរូមិនល្អ ដូចជាការញៀន បំណុល ឬទំនាក់ទំនងដែលបង្កគ្រោះថ្នាក់។ ការទទួលស្គាល់វាយ៉ាងច្បាស់ អាចកំណត់របៀបដែលអ្នកជួយ។"
+      },
+      "challenge": {
+        "en": "Covering up for the relative or enabling harmful habits could make things worse. Encourage them to seek professional help, and get support for yourself too.",
+        "km": "ការគ្របបាំងឱ្យសាច់ញាតិ ឬការជួយសម្រួលទម្លាប់ដែលបង្កគ្រោះថ្នាក់ អាចធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់។ សូមលើកទឹកចិត្តពួកគេឱ្យស្វែងរកជំនួយពីអ្នកជំនាញ ហើយស្វែងរកការគាំទ្រសម្រាប់ខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "Supporting the relative toward proper help could open a path to freedom from what binds them. Loving firmness may help more than rescuing.",
+        "km": "ការគាំទ្រសាច់ញាតិឆ្ពោះទៅរកជំនួយត្រឹមត្រូវ អាចបើកផ្លូវទៅរកសេរីភាពពីអ្វីដែលចងពួកគេ។ ភាពម៉ឺងម៉ាត់ដោយក្តីស្រលាញ់ អាចជួយបានច្រើនជាងការសង្គ្រោះ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "The relative may have been hit by a sudden crisis, such as illness, job loss or a shock. Steady, practical support could help them through the upheaval.",
+        "km": "សាច់ញាតិប្រហែលជាត្រូវបានវាយប្រហារដោយវិបត្តិភ្លាមៗ ដូចជាជំងឺ ការបាត់បង់ការងារ ឬការភ្ញាក់ផ្អើល។ ការគាំទ្រនឹងនរ និងជាក់ស្តែង អាចជួយពួកគេឆ្លងកាត់ភាពចលាចល។"
+      },
+      "challenge": {
+        "en": "Panicking alongside the relative could add to their distress. Stay calm, focus on immediate needs and seek emergency help if anyone is at risk.",
+        "km": "ការភិតភ័យជាមួយសាច់ញាតិ អាចបន្ថែមការឈឺចាប់របស់ពួកគេ។ សូមនៅស្ងប់ ផ្តោតលើតម្រូវការបន្ទាន់ ហើយស្វែងរកជំនួយបន្ទាន់ ប្រសិនបើនរណាម្នាក់ប្រឈមគ្រោះថ្នាក់។"
+      },
+      "outcome": {
+        "en": "Helping the relative rebuild after a shock could make a lasting difference. Your steady support may help them find solid ground again.",
+        "km": "ការជួយសាច់ញាតិកសាងឡើងវិញបន្ទាប់ពីការភ្ញាក់ផ្អើល អាចធ្វើឱ្យមានភាពខុសគ្នាស្ថិតស្ថេរ។ ការគាំទ្រនឹងនររបស់អ្នក អាចជួយពួកគេរកឃើញដីរឹងមាំម្តងទៀត។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and encouragement may be what the relative needs most. Reminding them of their strengths could lift their spirits.",
+        "km": "ក្តីសង្ឃឹម និងការលើកទឹកចិត្ត ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការបំផុត។ ការរំលឹកពួកគេពីចំណុចខ្លាំងរបស់ពួកគេ អាចលើកស្ទួយស្មារតីរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Offering only cheerful words could seem to dismiss real struggles. Acknowledge the difficulty before offering hope.",
+        "km": "ការផ្តល់តែពាក្យសម្តីរីករាយ អាចហាក់ដូចជាមិនអើពើនឹងការតស៊ូពិតប្រាកដ។ សូមទទួលស្គាល់ការលំបាក មុនពេលផ្តល់ក្តីសង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Gentle encouragement could help the relative heal and look forward again. Your steady belief in them may help them believe in themselves.",
+        "km": "ការលើកទឹកចិត្តដោយទន់ភ្លន់ អាចជួយសាច់ញាតិឱ្យជាសះស្បើយ និងមើលទៅមុខម្តងទៀត។ ជំនឿនឹងនររបស់អ្នកលើពួកគេ អាចជួយពួកគេឱ្យជឿលើខ្លួនឯង។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "The relative's situation may be unclear, with confusion or hidden worries. Gently helping them sort fact from fear could be valuable.",
+        "km": "ស្ថានភាពរបស់សាច់ញាតិ ប្រហែលជាមិនច្បាស់លាស់ ជាមួយភាពច្របូកច្របល់ ឬការព្រួយបារម្ភលាក់កំបាំង។ ការជួយពួកគេដោយទន់ភ្លន់ឱ្យបែងចែកការពិតពីការភ័យខ្លាច អាចមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Feeding the relative's fears with worst-case stories could make them more anxious. Help them find reliable information and, where needed, professional advice.",
+        "km": "ការបញ្ចូលការភ័យខ្លាចរបស់សាច់ញាតិដោយរឿងអាក្រក់បំផុត អាចធ្វើឱ្យពួកគេថប់បារម្ភកាន់តែខ្លាំង។ សូមជួយពួកគេរកព័ត៌មានដែលអាចទុកចិត្តបាន និងដំបូន្មានពីអ្នកជំនាញ នៅពេលចាំបាច់។"
+      },
+      "outcome": {
+        "en": "Helping the relative see their situation clearly could ease their worry. Once the facts are known, the next step may feel far less frightening.",
+        "km": "ការជួយសាច់ញាតិឱ្យមើលឃើញស្ថានភាពរបស់ពួកគេយ៉ាងច្បាស់ អាចបន្ធូរការព្រួយបារម្ភរបស់ពួកគេ។ នៅពេលការពិតត្រូវបានដឹង ជំហានបន្ទាប់អាចមានអារម្មណ៍មិនសូវគួរឱ្យខ្លាច។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Bringing warmth and good cheer may lift the relative's spirits. Sharing simple joys together could remind them that good things remain.",
+        "km": "ការនាំភាពកក់ក្តៅ និងភាពរីករាយ អាចលើកស្ទួយស្មារតីរបស់សាច់ញាតិ។ ការចែករំលែកភាពរីករាយសាមញ្ញៗជាមួយគ្នា អាចរំលឹកពួកគេថារឿងល្អៗនៅតែមាន។"
+      },
+      "challenge": {
+        "en": "Forcing cheerfulness on a relative who is low could make them feel unheard. Sit with how they feel before trying to lift the mood.",
+        "km": "ការបង្ខំភាពរីករាយលើសាច់ញាតិដែលកំពុងធ្លាក់ទឹកចិត្ត អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាមិនត្រូវបានគេស្តាប់។ សូមនៅជាមួយអារម្មណ៍របស់ពួកគេ មុនពេលព្យាយាមលើកស្ទួយអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "Shared joy could help the relative recover their confidence and hope. A day out or a good laugh together may do more good than you expect.",
+        "km": "សេចក្តីរីករាយរួមគ្នា អាចជួយសាច់ញាតិទទួលបានទំនុកចិត្ត និងក្តីសង្ឃឹមឡើងវិញ។ ការដើរលេងមួយថ្ងៃ ឬការសើចជាមួយគ្នា អាចធ្វើល្អបានច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Helping the relative look back honestly at what led to their difficulty may be useful. Gentle reflection could help them make a fresh start.",
+        "km": "ការជួយសាច់ញាតិមើលទៅក្រោយដោយស្មោះត្រង់ពីអ្វីដែលនាំទៅរកការលំបាករបស់ពួកគេ អាចមានប្រយោជន៍។ ការពិចារណាដោយទន់ភ្លន់ អាចជួយពួកគេធ្វើការចាប់ផ្តើមថ្មី។"
+      },
+      "challenge": {
+        "en": "Reminding the relative of past mistakes could weigh them down. Focus on what they can do from here, not on blame.",
+        "km": "ការរំលឹកសាច់ញាតិពីកំហុសកន្លងមក អាចធ្វើឱ្យពួកគេធ្ងន់។ សូមផ្តោតលើអ្វីដែលពួកគេអាចធ្វើពីទីនេះ មិនមែនលើការបន្ទោសទេ។"
+      },
+      "outcome": {
+        "en": "Your support could help the relative answer a call to change and begin again. Forgiveness, including self-forgiveness, may set them free.",
+        "km": "ការគាំទ្ររបស់អ្នក អាចជួយសាច់ញាតិឆ្លើយតបនឹងការអំពាវនាវឱ្យផ្លាស់ប្តូរ និងចាប់ផ្តើមម្តងទៀត។ ការអភ័យទោស រួមទាំងការអភ័យទោសខ្លួនឯង អាចរំដោះពួកគេ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "The relative may be close to completing something important, like recovery or a big goal. Helping them over the last hurdle could matter a great deal.",
+        "km": "សាច់ញាតិប្រហែលជាជិតបញ្ចប់អ្វីមួយដែលសំខាន់ ដូចជាការងើបឡើងវិញ ឬគោលដៅធំ។ ការជួយពួកគេឆ្លងកាត់ឧបសគ្គចុងក្រោយ អាចសំខាន់ណាស់។"
+      },
+      "challenge": {
+        "en": "Stepping back just before the finish could leave the relative without support at a crucial moment. Stay involved until they feel truly settled.",
+        "km": "ការដកខ្លួនចេញមុនចុងបញ្ចប់បន្តិច អាចទុកសាច់ញាតិដោយគ្មានការគាំទ្រ នៅពេលសំខាន់។ សូមបន្តចូលរួម រហូតដល់ពួកគេមានអារម្មណ៍នឹងនរពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Seeing the relative through to the end of their challenge could bring shared satisfaction. Celebrating their success together may strengthen your bond.",
+        "km": "ការនាំសាច់ញាតិឆ្លងកាត់ទៅដល់ចុងបញ្ចប់នៃបញ្ហាប្រឈមរបស់ពួកគេ អាចនាំមកនូវការពេញចិត្តរួមគ្នា។ ការអបអរភាពជោគជ័យរបស់ពួកគេជាមួយគ្នា អាចពង្រឹងចំណងរបស់អ្នក។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A burst of encouragement may be just what the relative needs to get going again. Sharing a new idea or opportunity with them could spark fresh hope.",
+        "km": "ការលើកទឹកចិត្តភ្លាមៗ ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការដើម្បីចាប់ផ្តើមឡើងវិញ។ ការចែករំលែកគំនិត ឬឱកាសថ្មីជាមួយពួកគេ អាចបញ្ឆេះក្តីសង្ឃឹមថ្មី។"
+      },
+      "challenge": {
+        "en": "Rushing in with lots of suggestions could overwhelm the relative. Offer one idea and let them take it at their own pace.",
+        "km": "ការប្រញាប់ចូលជាមួយសំណើជាច្រើន អាចធ្វើឱ្យសាច់ញាតិលើសកម្លាំង។ សូមផ្តល់គំនិតមួយ ហើយឱ្យពួកគេទទួលយកវាតាមល្បឿនរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Your enthusiasm could help the relative find new energy and direction. A small new beginning may grow into real change for them.",
+        "km": "ភាពរំភើបរបស់អ្នក អាចជួយសាច់ញាតិរកថាមពល និងទិសដៅថ្មី។ ការចាប់ផ្តើមថ្មីតូចមួយ អាចរីកចម្រើនទៅជាការផ្លាស់ប្តូរពិតប្រាកដសម្រាប់ពួកគេ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Helping the relative plan their next steps may be the most useful support. Sitting down together to map out options could bring clarity.",
+        "km": "ការជួយសាច់ញាតិរៀបចំផែនការជំហានបន្ទាប់របស់ពួកគេ ប្រហែលជាការគាំទ្រដែលមានប្រយោជន៍បំផុត។ ការអង្គុយជាមួយគ្នាដើម្បីគូសផែនទីជម្រើស អាចនាំមកនូវភាពច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Making the relative's plans for them could leave them feeling sidelined. Help them decide rather than deciding for them.",
+        "km": "ការធ្វើផែនការរបស់សាច់ញាតិជំនួសពួកគេ អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាត្រូវបានទុកចោល។ សូមជួយពួកគេសម្រេចចិត្ត ជាជាងសម្រេចចិត្តជំនួសពួកគេ។"
+      },
+      "outcome": {
+        "en": "A clear plan built together could give the relative confidence to move forward. Having a direction may ease their anxiety.",
+        "km": "ផែនការច្បាស់លាស់ដែលកសាងជាមួយគ្នា អាចផ្តល់ទំនុកចិត្តដល់សាច់ញាតិដើម្បីទៅមុខ។ ការមានទិសដៅ អាចបន្ធូរការថប់បារម្ភរបស់ពួកគេ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Supporting the relative's hopes for the future may matter to them. Showing interest in their plans, even from a distance, could encourage them.",
+        "km": "ការគាំទ្រក្តីសង្ឃឹមរបស់សាច់ញាតិសម្រាប់ផ្លូវខាងមុខ អាចសំខាន់សម្រាប់ពួកគេ។ ការបង្ហាញចំណាប់អារម្មណ៍លើផែនការរបស់ពួកគេ សូម្បីតែពីចម្ងាយ អាចលើកទឹកចិត្តពួកគេ។"
+      },
+      "challenge": {
+        "en": "Living far apart could make support harder to give. Stay in touch regularly and offer help in practical ways you can manage.",
+        "km": "ការរស់នៅឆ្ងាយពីគ្នា អាចធ្វើឱ្យការគាំទ្រពិបាកផ្តល់។ សូមរក្សាទំនាក់ទំនងជាប្រចាំ ហើយផ្តល់ជំនួយតាមរបៀបជាក់ស្តែងដែលអ្នកអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Backing the relative's ambitions could help them reach further than they thought possible. Your belief may give them the push they need.",
+        "km": "ការគាំទ្រមហិច្ឆតារបស់សាច់ញាតិ អាចជួយពួកគេឱ្យទៅដល់ឆ្ងាយជាងអ្វីដែលពួកគេគិតថាអាចទៅរួច។ ជំនឿរបស់អ្នក អាចផ្តល់ឱ្យពួកគេនូវការជំរុញដែលពួកគេត្រូវការ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Including the relative in family gatherings and celebrations may help them feel supported. A sense of belonging could lift their spirits.",
+        "km": "ការរួមបញ្ចូលសាច់ញាតិក្នុងការជួបជុំ និងការអបអរគ្រួសារ អាចជួយពួកគេឱ្យមានអារម្មណ៍ថាត្រូវបានគាំទ្រ។ អារម្មណ៍ជាផ្នែកមួយ អាចលើកស្ទួយស្មារតីរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Pressuring a struggling relative to join in festivities could feel overwhelming. Invite them gently and accept if they decline.",
+        "km": "ការដាក់សម្ពាធលើសាច់ញាតិដែលកំពុងលំបាកឱ្យចូលរួមពិធីបុណ្យ អាចមានអារម្មណ៍លើសកម្លាំង។ សូមអញ្ជើញពួកគេដោយទន់ភ្លន់ ហើយទទួលយកប្រសិនបើពួកគេបដិសេធ។"
+      },
+      "outcome": {
+        "en": "Feeling welcomed at home could help the relative regain stability and joy. Celebrating small milestones may build their confidence.",
+        "km": "ការមានអារម្មណ៍ថាត្រូវបានស្វាគមន៍នៅផ្ទះ អាចជួយសាច់ញាតិទទួលបានស្ថិរភាព និងសេចក្តីរីករាយឡើងវិញ។ ការអបអរព្រឹត្តិការណ៍សំខាន់តូចៗ អាចកសាងទំនុកចិត្តរបស់ពួកគេ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "The relative may be caught up in conflict or competition with others. Helping them step back from the fight could be the support they need.",
+        "km": "សាច់ញាតិប្រហែលជាជាប់ក្នុងជម្លោះ ឬការប្រកួតប្រជែងជាមួយអ្នកដទៃ។ ការជួយពួកគេដកខ្លួនចេញពីការប្រយុទ្ធ អាចជាការគាំទ្រដែលពួកគេត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Joining the relative's quarrels could make things worse for everyone. Support them without fuelling the conflict.",
+        "km": "ការចូលរួមក្នុងការឈ្លោះប្រកែករបស់សាច់ញាតិ អាចធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់សម្រាប់អ្នករាល់គ្នា។ សូមគាំទ្រពួកគេ ដោយមិនបញ្ឆេះជម្លោះ។"
+      },
+      "outcome": {
+        "en": "Helping the relative find calmer ways to handle conflict could ease their stress. A peaceful perspective may help them choose their battles wisely.",
+        "km": "ការជួយសាច់ញាតិរកវិធីស្ងប់ជាងមុនក្នុងការដោះស្រាយជម្លោះ អាចបន្ធូរភាពតានតឹងរបស់ពួកគេ។ ទស្សនៈសន្តិភាព អាចជួយពួកគេជ្រើសរើសការប្រយុទ្ធរបស់ពួកគេដោយឆ្លាតវៃ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Recognising the relative's efforts and achievements may be powerful support. Telling them you are proud could boost their confidence.",
+        "km": "ការទទួលស្គាល់ការខិតខំ និងសមិទ្ធផលរបស់សាច់ញាតិ អាចជាការគាំទ្រដ៏មានឥទ្ធិពល។ ការប្រាប់ពួកគេថាអ្នកមានមោទនភាព អាចជំរុញទំនុកចិត្តរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Praising only big successes could overlook the small steps that matter. Notice and encourage their progress, however modest.",
+        "km": "ការសរសើរតែភាពជោគជ័យធំៗ អាចមើលរំលងជំហានតូចៗដែលសំខាន់។ សូមកត់សម្គាល់ និងលើកទឹកចិត្តវឌ្ឍនភាពរបស់ពួកគេ ទោះបីតិចតួចយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Your recognition could help the relative feel valued and motivated. Celebrating their wins may encourage them to keep going.",
+        "km": "ការទទួលស្គាល់របស់អ្នក អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍ថាត្រូវបានគេឱ្យតម្លៃ និងមានកម្លាំងចិត្ត។ ការអបអរជ័យជម្នះរបស់ពួកគេ អាចលើកទឹកចិត្តពួកគេឱ្យបន្ត។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "The relative may be facing pressure and need someone in their corner. Standing up for them, where appropriate, could give them strength.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងប្រឈមនឹងសម្ពាធ ហើយត្រូវការនរណាម្នាក់នៅខាងពួកគេ។ ការក្រោកឈរការពារពួកគេ នៅពេលសមស្រប អាចផ្តល់កម្លាំងដល់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Fighting the relative's battles for them could leave them less able to cope alone. Help them find their own voice.",
+        "km": "ការប្រយុទ្ធជំនួសសាច់ញាតិ អាចធ្វើឱ្យពួកគេមិនសូវអាចទប់ទល់តែម្នាក់ឯង។ សូមជួយពួកគេរកសំឡេងផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Backing the relative while they stand firm could help them hold their ground. Your support may give them courage to persevere.",
+        "km": "ការគាំទ្រសាច់ញាតិ ខណៈពួកគេឈររឹងមាំ អាចជួយពួកគេរក្សាជំហររបស់ពួកគេ។ ការគាំទ្ររបស់អ្នក អាចផ្តល់ភាពក្លាហានដល់ពួកគេដើម្បីតស៊ូ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Quick, practical help may be what the relative needs most urgently. Responding promptly when they ask for help could make a real difference.",
+        "km": "ជំនួយរហ័ស និងជាក់ស្តែង ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការបន្ទាន់បំផុត។ ការឆ្លើយតបយ៉ាងរហ័ស នៅពេលពួកគេសុំជំនួយ អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Rushing to fix things without understanding the situation could cause mistakes. Ask a few questions before jumping in.",
+        "km": "ការប្រញាប់ជួសជុលអ្វីៗ ដោយមិនយល់ពីស្ថានភាព អាចបង្កកំហុស។ សូមសួរសំណួរពីរបី មុនពេលលោតចូល។"
+      },
+      "outcome": {
+        "en": "Swift, well-aimed help could ease the relative's burden quickly. Staying in regular contact may keep them from feeling alone.",
+        "km": "ជំនួយរហ័ស និងតម្រង់គោលដៅល្អ អាចបន្ធូរបន្ទុករបស់សាច់ញាតិយ៉ាងរហ័ស។ ការរក្សាទំនាក់ទំនងជាប្រចាំ អាចការពារពួកគេពីអារម្មណ៍ឯកោ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "The relative may be worn down after a hard struggle, still holding on. Gentle encouragement could help them through the final stretch.",
+        "km": "សាច់ញាតិប្រហែលជាអស់កម្លាំង បន្ទាប់ពីការតស៊ូដ៏លំបាក នៅតែតស៊ូ។ ការលើកទឹកចិត្តដោយទន់ភ្លន់ អាចជួយពួកគេឆ្លងកាត់ដំណាក់កាលចុងក្រោយ។"
+      },
+      "challenge": {
+        "en": "The relative's defensiveness could make them push help away. Be patient and keep offering support without pressure.",
+        "km": "ការការពារខ្លួនរបស់សាច់ញាតិ អាចធ្វើឱ្យពួកគេរុញជំនួយចេញ។ សូមអត់ធ្មត់ ហើយបន្តផ្តល់ការគាំទ្រដោយគ្មានសម្ពាធ។"
+      },
+      "outcome": {
+        "en": "Standing by the relative through the last of their struggle could help them come out stronger. Your loyalty may mean more than you know.",
+        "km": "ការឈរក្បែរសាច់ញាតិឆ្លងកាត់ផ្នែកចុងក្រោយនៃការតស៊ូរបស់ពួកគេ អាចជួយពួកគេចេញមកកាន់តែរឹងមាំ។ ភាពស្មោះត្រង់របស់អ្នក អាចមានន័យច្រើនជាងអ្វីដែលអ្នកដឹង។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "The relative may be carrying too much, struggling under heavy responsibilities. Taking a task off their hands could bring real relief.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងទទួលបន្ទុកច្រើនពេក ដោយតស៊ូក្រោមការទទួលខុសត្រូវធ្ងន់។ ការដកកិច្ចការមួយចេញពីដៃរបស់ពួកគេ អាចនាំមកនូវការធូរស្បើយពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Adding your own worries to the relative's load could make things harder. Offer help without expecting anything in return.",
+        "km": "ការបន្ថែមការព្រួយបារម្ភរបស់អ្នកទៅលើបន្ទុករបស់សាច់ញាតិ អាចធ្វើឱ្យអ្វីៗកាន់តែពិបាក។ សូមផ្តល់ជំនួយ ដោយមិនរំពឹងអ្វីត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "Sharing the relative's burden could help them breathe again. Taking on even one regular chore may restore some of their strength.",
+        "km": "ការចែករំលែកបន្ទុករបស់សាច់ញាតិ អាចជួយពួកគេឱ្យដកដង្ហើមបានម្តងទៀត។ ការទទួលយកកិច្ចការទៀងទាត់សូម្បីតែមួយ អាចស្តារកម្លាំងខ្លះរបស់ពួកគេ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Showing curiosity about the relative's interests may help them feel supported. Asking about their passions could bring a spark back.",
+        "km": "ការបង្ហាញការចង់ដឹងអំពីចំណាប់អារម្មណ៍របស់សាច់ញាតិ អាចជួយពួកគេឱ្យមានអារម្មណ៍ថាត្រូវបានគាំទ្រ។ ការសួរអំពីចំណង់ចំណូលចិត្តរបស់ពួកគេ អាចនាំភាពរស់រវើកត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Dismissing a younger relative's ideas as unrealistic could discourage them deeply. Listen with an open mind before offering your view.",
+        "km": "ការបដិសេធគំនិតរបស់សាច់ញាតិវ័យក្មេងថាមិនជាក់ស្តែង អាចធ្វើឱ្យពួកគេបាក់ទឹកចិត្តយ៉ាងជ្រៅ។ សូមស្តាប់ដោយចិត្តបើកចំហ មុនពេលផ្តល់ទស្សនៈរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Encouraging the relative's curiosity could help them discover new strengths. A fresh interest, gently supported, may lift their mood more than advice.",
+        "km": "ការលើកទឹកចិត្តការចង់ដឹងរបស់សាច់ញាតិ អាចជួយពួកគេរកឃើញចំណុចខ្លាំងថ្មី។ ចំណាប់អារម្មណ៍ថ្មីមួយ ដែលគាំទ្រដោយទន់ភ្លន់ អាចលើកស្ទួយអារម្មណ៍របស់ពួកគេបានច្រើនជាងដំបូន្មាន។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Energetic, hands-on help may be what the relative needs to get moving. Turning up ready to act could lift their spirits.",
+        "km": "ជំនួយស្វាហាប់ និងផ្ទាល់ដៃ ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការដើម្បីចាប់ផ្តើមផ្លាស់ទី។ ការមកដល់ដោយត្រៀមខ្លួនធ្វើសកម្មភាព អាចលើកស្ទួយស្មារតីរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Charging in with big changes could overwhelm a relative who needs calm. Match your energy to what they can handle.",
+        "km": "ការប្រញាប់ចូលជាមួយការផ្លាស់ប្តូរធំៗ អាចធ្វើឱ្យសាច់ញាតិដែលត្រូវការភាពស្ងប់លើសកម្លាំង។ សូមផ្គូផ្គងថាមពលរបស់អ្នកជាមួយអ្វីដែលពួកគេអាចទ្រាំបាន។"
+      },
+      "outcome": {
+        "en": "Lively, practical support could help the relative break out of a rut. An outing or adventure together may give them a fresh outlook.",
+        "km": "ការគាំទ្ររស់រវើក និងជាក់ស្តែង អាចជួយសាច់ញាតិចេញពីភាពជាប់គាំង។ ការដើរលេង ឬការផ្សងព្រេងជាមួយគ្នា អាចផ្តល់ឱ្យពួកគេនូវទស្សនៈថ្មី។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your warmth and confidence may be a source of strength for the relative. Being a cheerful, reliable presence could help them cope.",
+        "km": "ភាពកក់ក្តៅ និងទំនុកចិត្តរបស់អ្នក អាចជាប្រភពកម្លាំងសម្រាប់សាច់ញាតិ។ ការធ្វើជាវត្តមានរីករាយ និងអាចទុកចិត្តបាន អាចជួយពួកគេទប់ទល់។"
+      },
+      "challenge": {
+        "en": "Taking on the role of everyone's helper could wear you out. Look after your own energy as you support the relative.",
+        "km": "ការទទួលតួនាទីជាអ្នកជួយរបស់អ្នករាល់គ្នា អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមមើលថែថាមពលរបស់អ្នក ខណៈអ្នកគាំទ្រសាច់ញាតិ។"
+      },
+      "outcome": {
+        "en": "Your confident encouragement could help the relative believe they can get through this. A warm presence may make a hard road feel shorter.",
+        "km": "ការលើកទឹកចិត្តប្រកបដោយទំនុកចិត្តរបស់អ្នក អាចជួយសាច់ញាតិឱ្យជឿថាពួកគេអាចឆ្លងកាត់រឿងនេះ។ វត្តមានកក់ក្តៅ អាចធ្វើឱ្យផ្លូវលំបាកមានអារម្មណ៍ខ្លីជាងមុន។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Offering guidance and a clear sense of direction may help the relative. Sharing your experience, without lecturing, could inspire them.",
+        "km": "ការផ្តល់ការណែនាំ និងអារម្មណ៍ច្បាស់លាស់នៃទិសដៅ អាចជួយសាច់ញាតិ។ ការចែករំលែកបទពិសោធន៍របស់អ្នក ដោយមិនបង្រៀន អាចបំផុសគំនិតពួកគេ។"
+      },
+      "challenge": {
+        "en": "Telling the relative exactly what to do could make them resist your help. Offer a few ideas and let them choose the one that suits them.",
+        "km": "ការប្រាប់សាច់ញាតិយ៉ាងពិតប្រាកដពីអ្វីដែលត្រូវធ្វើ អាចធ្វើឱ្យពួកគេប្រឆាំងនឹងជំនួយរបស់អ្នក។ សូមផ្តល់គំនិតពីរបី ហើយឱ្យពួកគេជ្រើសរើសគំនិតដែលសមនឹងពួកគេ។"
+      },
+      "outcome": {
+        "en": "Inspiring, respectful guidance could help the relative find their own path forward. Your example may encourage them to aim higher.",
+        "km": "ការណែនាំដែលបំផុសគំនិត និងគោរព អាចជួយសាច់ញាតិរកផ្លូវទៅមុខផ្ទាល់ខ្លួន។ គំរូរបស់អ្នក អាចលើកទឹកចិត្តពួកគេឱ្យតម្រង់ខ្ពស់ជាងមុន។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "An open, loving heart may be the greatest support you can offer the relative. Telling them plainly that you care could mean more than any practical help.",
+        "km": "ចិត្តបើកចំហ និងពោរពេញដោយក្តីស្រលាញ់ ប្រហែលជាការគាំទ្រធំបំផុតដែលអ្នកអាចផ្តល់ដល់សាច់ញាតិ។ ការប្រាប់ពួកគេដោយត្រង់ៗថាអ្នកយកចិត្តទុកដាក់ អាចមានន័យច្រើនជាងជំនួយជាក់ស្តែងណាមួយ។"
+      },
+      "challenge": {
+        "en": "Holding back affection because you feel awkward could leave the relative feeling alone. Show your care in small ways, like a message or a visit.",
+        "km": "ការទប់ក្តីស្រលាញ់ ដោយសារអ្នកមានអារម្មណ៍ឆ្គង អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ឯកោ។ សូមបង្ហាញការយកចិត្តទុកដាក់របស់អ្នកតាមរបៀបតូចៗ ដូចជាសារ ឬការមកលេង។"
+      },
+      "outcome": {
+        "en": "Heartfelt support could help the relative feel loved and less alone. Emotional warmth may be the beginning of their healing.",
+        "km": "ការគាំទ្រដែលចេញពីចិត្ត អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍ថាត្រូវបានស្រលាញ់ និងមិនសូវឯកោ។ ភាពកក់ក្តៅផ្លូវចិត្ត អាចជាការចាប់ផ្តើមនៃការជាសះស្បើយរបស់ពួកគេ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A close, trusting bond with the relative may be your strongest tool for support. Spending one-to-one time together could strengthen it.",
+        "km": "ចំណងជិតស្និទ្ធ និងទុកចិត្តជាមួយសាច់ញាតិ ប្រហែលជាឧបករណ៍ខ្លាំងបំផុតរបស់អ្នកសម្រាប់ការគាំទ្រ។ ការចំណាយពេលម្នាក់ទល់ម្នាក់ជាមួយគ្នា អាចពង្រឹងវា។"
+      },
+      "challenge": {
+        "en": "Supporting the relative only on your terms could leave them feeling unheard. Ask what kind of help they would welcome.",
+        "km": "ការគាំទ្រសាច់ញាតិតែតាមលក្ខខណ្ឌរបស់អ្នក អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាមិនត្រូវបានគេស្តាប់។ សូមសួរពីប្រភេទជំនួយដែលពួកគេនឹងស្វាគមន៍។"
+      },
+      "outcome": {
+        "en": "A trusting partnership could help the relative face their challenges with more confidence. Leaning on each other may deepen the bond between you.",
+        "km": "ភាពជាដៃគូដែលទុកចិត្តគ្នា អាចជួយសាច់ញាតិប្រឈមមុខនឹងបញ្ហាប្រឈមរបស់ពួកគេដោយទំនុកចិត្តជាងមុន។ ការពឹងផ្អែកលើគ្នាទៅវិញទៅមក អាចពង្រឹងចំណងរវាងអ្នក។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Rallying friends and other relatives around the person may help. A small circle of support could ease their sense of isolation.",
+        "km": "ការប្រមូលមិត្តភក្តិ និងសាច់ញាតិផ្សេងទៀតជុំវិញមនុស្សនោះ អាចជួយបាន។ រង្វង់គាំទ្រតូចមួយ អាចបន្ធូរអារម្មណ៍ឯកោរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Too many visitors or well-meaning advice could overwhelm the relative. Coordinate with others so support arrives steadily rather than all at once.",
+        "km": "អ្នកមកលេង ឬដំបូន្មានដែលមានចេតនាល្អច្រើនពេក អាចធ្វើឱ្យសាច់ញាតិលើសកម្លាំង។ សូមសម្របសម្រួលជាមួយអ្នកដទៃ ដើម្បីឱ្យការគាំទ្រមកដល់ជាលំដាប់ ជាជាងទាំងអស់ក្នុងពេលតែមួយ។"
+      },
+      "outcome": {
+        "en": "A caring community could help the relative feel surrounded by love. Shared moments of laughter may lift their spirits more than advice.",
+        "km": "សហគមន៍ដែលយកចិត្តទុកដាក់ អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍ថាត្រូវបានហ៊ុំព័ទ្ធដោយក្តីស្រលាញ់។ ពេលសើចរួមគ្នា អាចលើកស្ទួយស្មារតីរបស់ពួកគេបានច្រើនជាងដំបូន្មាន។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "The relative may seem withdrawn or uninterested in help. Gently staying in touch, without pushing, could keep the door open.",
+        "km": "សាច់ញាតិប្រហែលជាហាក់ដូចជាដកខ្លួន ឬមិនចាប់អារម្មណ៍នឹងជំនួយ។ ការរក្សាទំនាក់ទំនងដោយទន់ភ្លន់ ដោយមិនជំរុញ អាចរក្សាទ្វារឱ្យបើកចំហ។"
+      },
+      "challenge": {
+        "en": "Taking the relative's withdrawal personally could make you give up. Keep reaching out quietly, and suggest professional support if their low mood does not lift.",
+        "km": "ការចាត់ទុកការដកខ្លួនរបស់សាច់ញាតិជារឿងផ្ទាល់ខ្លួន អាចធ្វើឱ្យអ្នកបោះបង់។ សូមបន្តឈោងទៅរកដោយស្ងៀមស្ងាត់ ហើយស្នើការគាំទ្រពីអ្នកជំនាញ ប្រសិនបើអារម្មណ៍ធ្លាក់ចុះរបស់ពួកគេមិនធូរស្បើយ។"
+      },
+      "outcome": {
+        "en": "Patient, gentle contact could help the relative reconnect when they are ready. A simple, repeated invitation may be accepted in the end.",
+        "km": "ការទាក់ទងដោយអត់ធ្មត់ និងទន់ភ្លន់ អាចជួយសាច់ញាតិភ្ជាប់ទំនាក់ទំនងឡើងវិញ នៅពេលពួកគេត្រៀមខ្លួន។ ការអញ្ជើញសាមញ្ញដែលធ្វើម្តងហើយម្តងទៀត អាចត្រូវបានទទួលយក។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "The relative may be grieving a loss or disappointment. Simply acknowledging their sadness could be the most important support you offer.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងកាន់ទុក្ខការបាត់បង់ ឬការខកចិត្ត។ គ្រាន់តែការទទួលស្គាល់ភាពសោកសៅរបស់ពួកគេ អាចជាការគាំទ្រសំខាន់បំផុតដែលអ្នកផ្តល់។"
+      },
+      "challenge": {
+        "en": "Rushing the relative to look on the bright side could make them feel unheard. Allow them to grieve, and suggest a counsellor if sadness lingers heavily.",
+        "km": "ការប្រញាប់ឱ្យសាច់ញាតិមើលផ្នែកភ្លឺ អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាមិនត្រូវបានគេស្តាប់។ សូមអនុញ្ញាតឱ្យពួកគេកាន់ទុក្ខ ហើយស្នើអ្នកប្រឹក្សា ប្រសិនបើភាពសោកសៅនៅតែធ្ងន់។"
+      },
+      "outcome": {
+        "en": "Gentle companionship through grief could help the relative heal. With support, they may come to see what remains as well as what was lost.",
+        "km": "ការនៅជាមួយដោយទន់ភ្លន់ឆ្លងកាត់ការសោកសៅ អាចជួយសាច់ញាតិឱ្យជាសះស្បើយ។ ដោយមានការគាំទ្រ ពួកគេអាចមើលឃើញអ្វីដែលនៅសល់ ក៏ដូចជាអ្វីដែលបានបាត់បង់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Simple kindness and shared memories may comfort the relative. Reminding them of happy times together could lift their mood.",
+        "km": "ភាពសប្បុរសសាមញ្ញ និងអនុស្សាវរីយ៍រួម អាចលួងលោមសាច់ញាតិ។ ការរំលឹកពួកគេពីគ្រារីករាយជាមួយគ្នា អាចលើកស្ទួយអារម្មណ៍របស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Dwelling on how things used to be could make the relative's present feel worse. Focus on what can still bring them joy.",
+        "km": "ការគិតច្រើនពីរបៀបដែលអ្វីៗធ្លាប់មាន អាចធ្វើឱ្យស្ថានភាពបច្ចុប្បន្នរបស់សាច់ញាតិកាន់តែអាក្រក់។ សូមផ្តោតលើអ្វីដែលនៅតែអាចនាំសេចក្តីរីករាយដល់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Small, kind gestures could bring warmth and comfort to the relative. A favourite dish, an old song or a familiar visit may mean more than you expect.",
+        "km": "កាយវិការតូចៗ និងសប្បុរស អាចនាំភាពកក់ក្តៅ និងភាពស្រួលដល់សាច់ញាតិ។ ម្ហូបដែលចូលចិត្ត បទចម្រៀងចាស់ ឬការមកលេងដែលស៊ាំ អាចមានន័យច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "The relative may be overwhelmed by choices or confused about what to do. Helping them sort realistic options from wishful thinking could bring clarity.",
+        "km": "សាច់ញាតិប្រហែលជាលើសកម្លាំងដោយជម្រើស ឬច្របូកច្របល់អំពីអ្វីដែលត្រូវធ្វើ។ ការជួយពួកគេបែងចែកជម្រើសជាក់ស្តែងពីការគិតបែបស្រមៃ អាចនាំមកនូវភាពច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Encouraging unrealistic hopes could set the relative up for disappointment. Be honest about what seems possible, while staying kind and on their side.",
+        "km": "ការលើកទឹកចិត្តក្តីសង្ឃឹមមិនជាក់ស្តែង អាចធ្វើឱ្យសាច់ញាតិខកចិត្ត។ សូមស្មោះត្រង់អំពីអ្វីដែលហាក់ដូចជាអាចទៅរួច ខណៈនៅតែសប្បុរស និងនៅខាងពួកគេ។"
+      },
+      "outcome": {
+        "en": "Helping the relative choose one clear path could ease their confusion. A realistic plan may give them hope they can act on.",
+        "km": "ការជួយសាច់ញាតិជ្រើសរើសផ្លូវច្បាស់លាស់មួយ អាចបន្ធូរភាពច្របូកច្របល់របស់ពួកគេ។ ផែនការជាក់ស្តែងមួយ អាចផ្តល់ឱ្យពួកគេនូវក្តីសង្ឃឹមដែលពួកគេអាចធ្វើសកម្មភាពបាន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "The relative may be moving away from something that no longer works for them. Supporting their decision to change could matter a great deal.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងផ្លាស់ចេញពីអ្វីដែលលែងដំណើរការសម្រាប់ពួកគេ។ ការគាំទ្រការសម្រេចចិត្តផ្លាស់ប្តូររបស់ពួកគេ អាចសំខាន់ណាស់។"
+      },
+      "challenge": {
+        "en": "Trying to hold the relative back from a necessary change could strain your relationship. Share any worries once, then respect their need to move on.",
+        "km": "ការព្យាយាមទប់សាច់ញាតិពីការផ្លាស់ប្តូរដែលចាំបាច់ អាចធ្វើឱ្យទំនាក់ទំនងរបស់អ្នកតានតឹង។ សូមចែករំលែកការព្រួយបារម្ភម្តង បន្ទាប់មកគោរពតម្រូវការរបស់ពួកគេក្នុងការបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Backing the relative's search for something better could help them find fulfilment. Your understanding may make the transition easier.",
+        "km": "ការគាំទ្រការស្វែងរកអ្វីដែលល្អជាងរបស់សាច់ញាតិ អាចជួយពួកគេរកការពេញចិត្ត។ ការយល់ដឹងរបស់អ្នក អាចធ្វើឱ្យការផ្លាស់ប្តូរងាយស្រួលជាងមុន។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Helping the relative notice what is still good in their life may lift them. Gratitude for small comforts could ease their worry.",
+        "km": "ការជួយសាច់ញាតិកត់សម្គាល់អ្វីដែលនៅតែល្អក្នុងជីវិតរបស់ពួកគេ អាចលើកស្ទួយពួកគេ។ ការដឹងគុណចំពោះភាពស្រួលតូចៗ អាចបន្ធូរការព្រួយបារម្ភរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Assuming the relative is fine because they seem comfortable could miss hidden struggles. Check in gently and ask how they are really feeling.",
+        "km": "ការសន្មតថាសាច់ញាតិមិនអីទេ ដោយសារពួកគេហាក់ដូចជាស្រួល អាចខកខានការតស៊ូលាក់កំបាំង។ សូមសួរសុខទុក្ខដោយទន់ភ្លន់ ហើយសួរពីអារម្មណ៍ពិតប្រាកដរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Your support could help the relative reach a place of contentment. Simple pleasures shared together, like a meal or a walk, may bring real comfort.",
+        "km": "ការគាំទ្ររបស់អ្នក អាចជួយសាច់ញាតិទៅដល់កន្លែងនៃការពេញចិត្ត។ ភាពរីករាយសាមញ្ញៗដែលចែករំលែកជាមួយគ្នា ដូចជាអាហារ ឬការដើរលេង អាចនាំមកនូវភាពស្រួលពិតប្រាកដ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "The love that binds your family may be a powerful source of support for the relative. Reminding them that they belong could strengthen them.",
+        "km": "ក្តីស្រលាញ់ដែលចងគ្រួសាររបស់អ្នក អាចជាប្រភពគាំទ្រដ៏មានឥទ្ធិពលសម្រាប់សាច់ញាតិ។ ការរំលឹកពួកគេថាពួកគេជាផ្នែកមួយ អាចពង្រឹងពួកគេ។"
+      },
+      "challenge": {
+        "en": "Pretending everything is fine to protect family harmony could leave the relative unsupported. Let them share their struggles openly.",
+        "km": "ការធ្វើពុតថាអ្វីៗល្អ ដើម្បីការពារភាពសុខដុមក្នុងគ្រួសារ អាចទុកសាច់ញាតិដោយគ្មានការគាំទ្រ។ សូមឱ្យពួកគេចែករំលែកការតស៊ូរបស់ពួកគេដោយចំហ។"
+      },
+      "outcome": {
+        "en": "A united, caring family could carry the relative through their difficulty. Feeling held by everyone may give them lasting strength.",
+        "km": "គ្រួសាររួបរួម និងយកចិត្តទុកដាក់ អាចនាំសាច់ញាតិឆ្លងកាត់ការលំបាករបស់ពួកគេ។ ការមានអារម្មណ៍ថាត្រូវបានអ្នករាល់គ្នាទ្រទ្រង់ អាចផ្តល់កម្លាំងស្ថិតស្ថេរដល់ពួកគេ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Gentle, creative gestures may reach the relative when words feel hard. A handwritten note, a song or a small gift could show you are thinking of them.",
+        "km": "កាយវិការទន់ភ្លន់ និងច្នៃប្រឌិត អាចទៅដល់សាច់ញាតិ នៅពេលពាក្យសម្តីមានអារម្មណ៍ពិបាក។ កំណត់ចំណាំសរសេរដោយដៃ បទចម្រៀង ឬអំណោយតូចមួយ អាចបង្ហាញថាអ្នកកំពុងគិតពីពួកគេ។"
+      },
+      "challenge": {
+        "en": "Brushing off the relative's sensitive feelings could make them close up. Take their emotions seriously, even if they seem small.",
+        "km": "ការមិនអើពើនឹងអារម្មណ៍រសើបរបស់សាច់ញាតិ អាចធ្វើឱ្យពួកគេបិទខ្លួន។ សូមយកអារម្មណ៍របស់ពួកគេឱ្យធ្ងន់ធ្ងរ ទោះបីជាវាហាក់ដូចជាតូចក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Tender, thoughtful gestures could help the relative feel understood and cared for. Small kindnesses may open the door to deeper conversations.",
+        "km": "កាយវិការទន់ភ្លន់ និងគិតគូរ អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍ថាត្រូវបានយល់ និងយកចិត្តទុកដាក់។ ភាពសប្បុរសតូចៗ អាចបើកទ្វារទៅរកការសន្ទនាកាន់តែជ្រៅ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Offering heartfelt encouragement may be what the relative needs. A sincere invitation to talk or spend time together could lift them.",
+        "km": "ការផ្តល់ការលើកទឹកចិត្តចេញពីចិត្ត ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការ។ ការអញ្ជើញដោយស្មោះឱ្យនិយាយ ឬចំណាយពេលជាមួយគ្នា អាចលើកស្ទួយពួកគេ។"
+      },
+      "challenge": {
+        "en": "Promising more than you can give could leave the relative let down. Offer only the help you can truly follow through on.",
+        "km": "ការសន្យាច្រើនជាងអ្វីដែលអ្នកអាចផ្តល់ អាចធ្វើឱ្យសាច់ញាតិខកចិត្ត។ សូមផ្តល់តែជំនួយដែលអ្នកអាចអនុវត្តតាមបានពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Sincere, heartfelt support could help the relative feel valued and hopeful. Keeping each small promise you make may show them they can rely on you.",
+        "km": "ការគាំទ្រដោយស្មោះត្រង់ និងចេញពីចិត្ត អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍ថាត្រូវបានគេឱ្យតម្លៃ និងមានក្តីសង្ឃឹម។ ការរក្សាការសន្យាតូចៗនីមួយៗដែលអ្នកធ្វើ អាចបង្ហាញពួកគេថាពួកគេអាចពឹងលើអ្នក។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your compassion and intuition may help you sense what the relative needs. Trusting your feelings about how to help could guide you well.",
+        "km": "មេត្តាករុណា និងវិចារណញាណរបស់អ្នក អាចជួយអ្នកឱ្យដឹងពីអ្វីដែលសាច់ញាតិត្រូវការ។ ការទុកចិត្តលើអារម្មណ៍របស់អ្នកអំពីរបៀបជួយ អាចណែនាំអ្នកបានល្អ។"
+      },
+      "challenge": {
+        "en": "Taking on the relative's pain as your own could leave you exhausted. Care deeply, but keep enough distance to stay steady for them.",
+        "km": "ការទទួលយកការឈឺចាប់របស់សាច់ញាតិជារបស់អ្នក អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមយកចិត្តទុកដាក់យ៉ាងជ្រៅ ប៉ុន្តែរក្សាចម្ងាយគ្រប់គ្រាន់ ដើម្បីនៅនឹងនរសម្រាប់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Compassionate, intuitive care could help the relative feel deeply understood. Your empathy may be a source of healing for them.",
+        "km": "ការមើលថែដោយមេត្តាករុណា និងវិចារណញាណ អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍ថាត្រូវបានយល់យ៉ាងជ្រៅ។ ការយល់ចិត្តរបស់អ្នក អាចជាប្រភពនៃការជាសះស្បើយសម្រាប់ពួកគេ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Emotional steadiness may be the gift the relative most needs from you. Staying composed when they are upset could help them feel safe enough to calm down.",
+        "km": "ភាពនឹងនរផ្នែកអារម្មណ៍ ប្រហែលជាអំណោយដែលសាច់ញាតិត្រូវការពីអ្នកបំផុត។ ការនៅស្ងប់ នៅពេលពួកគេខកចិត្ត អាចជួយពួកគេឱ្យមានអារម្មណ៍សុវត្ថិភាពគ្រប់គ្រាន់ដើម្បីស្ងប់។"
+      },
+      "challenge": {
+        "en": "Staying too detached could make the relative feel you do not care. Let them see your warmth alongside your calm.",
+        "km": "ការនៅដាច់ឆ្ងាយពេក អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ថាអ្នកមិនយកចិត្តទុកដាក់។ សូមឱ្យពួកគេឃើញភាពកក់ក្តៅរបស់អ្នក រួមជាមួយភាពស្ងប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Balanced, steady support could help the relative regain their footing. Seeing you stay calm may help them find their own composure.",
+        "km": "ការគាំទ្រដែលមានតុល្យភាព និងនឹងនរ អាចជួយសាច់ញាតិទទួលបានជំហររបស់ពួកគេឡើងវិញ។ ការឃើញអ្នកនៅស្ងប់ អាចជួយពួកគេរកឃើញភាពស្ងប់ផ្ទាល់ខ្លួន។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Honest, clear words may be the support the relative needs. Gently telling them the truth about their situation could help them face it.",
+        "km": "ពាក្យសម្តីស្មោះត្រង់ និងច្បាស់លាស់ ប្រហែលជាការគាំទ្រដែលសាច់ញាតិត្រូវការ។ ការប្រាប់ពួកគេដោយទន់ភ្លន់ពីការពិតអំពីស្ថានភាពរបស់ពួកគេ អាចជួយពួកគេប្រឈមមុខនឹងវា។"
+      },
+      "challenge": {
+        "en": "Delivering hard truths without kindness could hurt the relative more than help. Choose gentle words and a private moment.",
+        "km": "ការនិយាយការពិតដ៏លំបាកដោយគ្មានភាពសប្បុរស អាចធ្វើឱ្យសាច់ញាតិឈឺចាប់ច្រើនជាងជួយ។ សូមជ្រើសរើសពាក្យទន់ភ្លន់ និងពេលឯកជន។"
+      },
+      "outcome": {
+        "en": "Honest, caring clarity could help the relative make better decisions. Once they see their situation plainly, they may feel freer to act on it.",
+        "km": "ភាពច្បាស់លាស់ដោយស្មោះត្រង់ និងយកចិត្តទុកដាក់ អាចជួយសាច់ញាតិធ្វើការសម្រេចចិត្តល្អជាងមុន។ នៅពេលពួកគេមើលឃើញស្ថានភាពរបស់ពួកគេយ៉ាងច្បាស់ ពួកគេអាចមានអារម្មណ៍សេរីជាងមុនក្នុងការធ្វើសកម្មភាព។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "The relative may be stuck on a difficult decision, unable to move either way. Helping them weigh the options calmly could ease the deadlock.",
+        "km": "សាច់ញាតិប្រហែលជាជាប់គាំងលើការសម្រេចចិត្តដ៏លំបាក មិនអាចផ្លាស់ទីទៅខាងណាបាន។ ការជួយពួកគេថ្លឹងថ្លែងជម្រើសដោយស្ងប់ស្ងាត់ អាចបន្ធូរភាពជាប់គាំង។"
+      },
+      "challenge": {
+        "en": "Making the decision for the relative could leave them resentful. Help them think it through, but let the choice be theirs.",
+        "km": "ការធ្វើការសម្រេចចិត្តជំនួសសាច់ញាតិ អាចធ្វើឱ្យពួកគេអាក់អន់ចិត្ត។ សូមជួយពួកគេគិតឱ្យល្អិតល្អន់ ប៉ុន្តែទុកជម្រើសជារបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Gentle guidance could help the relative reach a decision they can live with. Talking it through with someone patient may bring them real relief.",
+        "km": "ការណែនាំដោយទន់ភ្លន់ អាចជួយសាច់ញាតិសម្រេចចិត្តដែលពួកគេអាចរស់នៅជាមួយបាន។ ការពិភាក្សាជាមួយនរណាម្នាក់ដែលអត់ធ្មត់ អាចនាំការធូរស្បើយពិតប្រាកដដល់ពួកគេ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "The relative may be hurting deeply, perhaps from heartbreak or betrayal. Being a gentle, listening presence could help them through.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងឈឺចាប់យ៉ាងជ្រៅ ប្រហែលជាដោយសារការខូចចិត្ត ឬការក្បត់។ ការធ្វើជាវត្តមានទន់ភ្លន់ និងស្តាប់ អាចជួយពួកគេឆ្លងកាត់។"
+      },
+      "challenge": {
+        "en": "Trying to fix the relative's pain could leave them feeling rushed. Let them feel it, and suggest a counsellor if they are struggling to cope.",
+        "km": "ការព្យាយាមជួសជុលការឈឺចាប់របស់សាច់ញាតិ អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ប្រញាប់ប្រញាល់។ សូមឱ្យពួកគេមានអារម្មណ៍វា ហើយស្នើអ្នកប្រឹក្សា ប្រសិនបើពួកគេពិបាកទប់ទល់។"
+      },
+      "outcome": {
+        "en": "Patient, caring support could help the relative heal from heartache. Your presence may remind them they are not alone.",
+        "km": "ការគាំទ្រដោយអត់ធ្មត់ និងយកចិត្តទុកដាក់ អាចជួយសាច់ញាតិឱ្យជាសះស្បើយពីការឈឺចាប់ក្នុងចិត្ត។ វត្តមានរបស់អ្នក អាចរំលឹកពួកគេថាពួកគេមិននៅម្នាក់ឯងទេ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest and recovery may be what the relative needs most. Helping them take a break, by covering a task or giving them quiet, could support healing.",
+        "km": "ការសម្រាក និងការស្តារកម្លាំង ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការបំផុត។ ការជួយពួកគេឱ្យសម្រាក ដោយធ្វើកិច្ចការជំនួស ឬផ្តល់ភាពស្ងប់ដល់ពួកគេ អាចគាំទ្រការជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Pushing the relative to get back to normal too fast could set them back. Respect their need for rest, even if others expect them to cope already.",
+        "km": "ការជំរុញសាច់ញាតិឱ្យត្រឡប់ទៅធម្មតាលឿនពេក អាចធ្វើឱ្យពួកគេថយក្រោយ។ សូមគោរពតម្រូវការសម្រាករបស់ពួកគេ ទោះបីជាអ្នកដទៃរំពឹងថាពួកគេគួរតែទប់ទល់បានរួចហើយក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Allowing the relative proper rest could help them return stronger. Your patience with their recovery may become one of the kindest things you give.",
+        "km": "ការអនុញ្ញាតឱ្យសាច់ញាតិសម្រាកត្រឹមត្រូវ អាចជួយពួកគេត្រឡប់មកវិញកាន់តែរឹងមាំ។ ការអត់ធ្មត់របស់អ្នកចំពោះការងើបឡើងវិញរបស់ពួកគេ អាចក្លាយជាអំណោយសប្បុរសបំផុតមួយដែលអ្នកផ្តល់។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "The relative may be caught in a conflict where someone is set on winning. Helping them see what is worth fighting for could protect them.",
+        "km": "សាច់ញាតិប្រហែលជាជាប់ក្នុងជម្លោះ ដែលនរណាម្នាក់តាំងចិត្តចង់ឈ្នះ។ ការជួយពួកគេឱ្យមើលឃើញអ្វីដែលសមនឹងតស៊ូ អាចការពារពួកគេ។"
+      },
+      "challenge": {
+        "en": "Taking sides in the relative's dispute could widen it and draw you in. Support them as a person without adding fuel to the quarrel.",
+        "km": "ការកាន់ជើងក្នុងជម្លោះរបស់សាច់ញាតិ អាចពង្រីកវា ហើយទាញអ្នកចូល។ សូមគាំទ្រពួកគេជាមនុស្ស ដោយមិនបន្ថែមប្រេងលើការឈ្លោះប្រកែក។"
+      },
+      "outcome": {
+        "en": "Helping the relative walk away from a pointless fight could bring them peace. Choosing their battles may protect their wellbeing.",
+        "km": "ការជួយសាច់ញាតិដើរចេញពីការប្រយុទ្ធដែលគ្មានន័យ អាចនាំសន្តិភាពដល់ពួកគេ។ ការជ្រើសរើសការប្រយុទ្ធរបស់ពួកគេ អាចការពារសុខុមាលភាពរបស់ពួកគេ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "The relative may be moving on from a difficult situation. Practical help with the transition, like moving or settling in, could be welcome.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងបន្តទៅមុខពីស្ថានភាពលំបាក។ ជំនួយជាក់ស្តែងក្នុងការផ្លាស់ប្តូរ ដូចជាការផ្លាស់ទីលំនៅ ឬការចូលរបៀប អាចត្រូវបានស្វាគមន៍។"
+      },
+      "challenge": {
+        "en": "Bringing up the past could make it harder for the relative to move on. Focus your conversations on what they want to build from here.",
+        "km": "ការលើកអតីតកាលឡើង អាចធ្វើឱ្យសាច់ញាតិពិបាកបន្តទៅមុខ។ សូមផ្តោតការសន្ទនារបស់អ្នកលើអ្វីដែលពួកគេចង់កសាងពីទីនេះ។"
+      },
+      "outcome": {
+        "en": "Steady support through change could help the relative reach calmer waters. Helping them settle into a new home or routine may bring real relief.",
+        "km": "ការគាំទ្រនឹងនរឆ្លងកាត់ការផ្លាស់ប្តូរ អាចជួយសាច់ញាតិទៅដល់ទឹកស្ងប់ជាងមុន។ ការជួយពួកគេចូលរបៀបក្នុងផ្ទះ ឬទម្លាប់ថ្មី អាចនាំមកនូវការធូរស្បើយពិតប្រាកដ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "The relative may not be telling you the whole story, perhaps out of shame or fear. Creating a safe, non-judgemental space could help them open up.",
+        "km": "សាច់ញាតិប្រហែលជាមិនប្រាប់អ្នកពីរឿងរ៉ាវទាំងមូល ប្រហែលជាដោយសារការខ្មាសអៀន ឬការភ័យខ្លាច។ ការបង្កើតកន្លែងមានសុវត្ថិភាព និងមិនវិនិច្ឆ័យ អាចជួយពួកគេឱ្យបើកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Snooping or going behind the relative's back could destroy their trust in you. Respect their privacy, and let them choose what to share.",
+        "km": "ការលបមើល ឬការធ្វើការពីក្រោយខ្នងសាច់ញាតិ អាចបំផ្លាញការទុកចិត្តរបស់ពួកគេលើអ្នក។ សូមគោរពឯកជនភាពរបស់ពួកគេ ហើយឱ្យពួកគេជ្រើសរើសអ្វីដែលត្រូវចែករំលែក។"
+      },
+      "outcome": {
+        "en": "Building trust patiently could help the relative share what they have been hiding. Honest conversation may open the way to real help.",
+        "km": "ការកសាងការទុកចិត្តដោយអត់ធ្មត់ អាចជួយសាច់ញាតិចែករំលែកអ្វីដែលពួកគេបានលាក់។ ការសន្ទនាស្មោះត្រង់ អាចបើកផ្លូវទៅរកជំនួយពិតប្រាកដ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "The relative may feel trapped by their circumstances, unable to see a way out. Helping them notice small options could ease their sense of helplessness.",
+        "km": "សាច់ញាតិប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់ដោយកាលៈទេសៈរបស់ពួកគេ មិនអាចមើលឃើញផ្លូវចេញ។ ការជួយពួកគេកត់សម្គាល់ជម្រើសតូចៗ អាចបន្ធូរអារម្មណ៍អស់សង្ឃឹមរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Agreeing that nothing can change could deepen the relative's despair. If they are in danger or a harmful situation, help them reach a support service.",
+        "km": "ការយល់ព្រមថាគ្មានអ្វីអាចផ្លាស់ប្តូរ អាចធ្វើឱ្យការអស់សង្ឃឹមរបស់សាច់ញាតិកាន់តែជ្រៅ។ ប្រសិនបើពួកគេស្ថិតក្នុងគ្រោះថ្នាក់ ឬស្ថានភាពដែលបង្កគ្រោះថ្នាក់ សូមជួយពួកគេទាក់ទងសេវាគាំទ្រ។"
+      },
+      "outcome": {
+        "en": "Helping the relative find one small step forward could begin to free them. Outside support may open doors they could not see alone.",
+        "km": "ការជួយសាច់ញាតិរកជំហានទៅមុខតូចមួយ អាចចាប់ផ្តើមរំដោះពួកគេ។ ការគាំទ្រពីខាងក្រៅ អាចបើកទ្វារដែលពួកគេមិនអាចមើលឃើញតែម្នាក់ឯង។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "The relative may be overwhelmed by worry or anxiety. Listening calmly and helping them separate real problems from fears could bring relief.",
+        "km": "សាច់ញាតិប្រហែលជាលើសកម្លាំងដោយការព្រួយបារម្ភ ឬការថប់បារម្ភ។ ការស្តាប់ដោយស្ងប់ស្ងាត់ និងការជួយពួកគេបែងចែកបញ្ហាពិតពីការភ័យខ្លាច អាចនាំមកនូវការធូរស្បើយ។"
+      },
+      "challenge": {
+        "en": "Dismissing the relative's worries could make them feel more alone. Take their fears seriously, and encourage professional help if anxiety is severe.",
+        "km": "ការមិនអើពើនឹងការព្រួយបារម្ភរបស់សាច់ញាតិ អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ឯកោជាងមុន។ សូមយកការភ័យខ្លាចរបស់ពួកគេឱ្យធ្ងន់ធ្ងរ ហើយលើកទឹកចិត្តឱ្យស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភធ្ងន់ធ្ងរ។"
+      },
+      "outcome": {
+        "en": "Steady, reassuring support could ease the relative's anxiety. Knowing someone is with them in the dark moments may help them rest.",
+        "km": "ការគាំទ្រនឹងនរ និងធានា អាចបន្ធូរការថប់បារម្ភរបស់សាច់ញាតិ។ ការដឹងថានរណាម្នាក់នៅជាមួយពួកគេក្នុងពេលងងឹត អាចជួយពួកគេឱ្យសម្រាក។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "The relative may be at a very low point after a painful ending or crisis. Simply staying by their side could be the most important support.",
+        "km": "សាច់ញាតិប្រហែលជាស្ថិតនៅចំណុចទាបខ្លាំង បន្ទាប់ពីទីបញ្ចប់ ឬវិបត្តិដ៏ឈឺចាប់។ គ្រាន់តែការនៅក្បែរពួកគេ អាចជាការគាំទ្រសំខាន់បំផុត។"
+      },
+      "challenge": {
+        "en": "Trying to cheer the relative up before they are ready could feel dismissive. If they talk of harming themselves, contact emergency or crisis services straight away.",
+        "km": "ការព្យាយាមធ្វើឱ្យសាច់ញាតិសប្បាយ មុនពេលពួកគេត្រៀមខ្លួន អាចមានអារម្មណ៍ដូចជាមិនអើពើ។ ប្រសិនបើពួកគេនិយាយអំពីការធ្វើបាបខ្លួនឯង សូមទាក់ទងសេវាបន្ទាន់ ឬសេវាវិបត្តិភ្លាមៗ។"
+      },
+      "outcome": {
+        "en": "Standing by the relative through their darkest point could help them begin to rebuild. Hope may return slowly with your support.",
+        "km": "ការឈរក្បែរសាច់ញាតិឆ្លងកាត់ចំណុចងងឹតបំផុតរបស់ពួកគេ អាចជួយពួកគេចាប់ផ្តើមកសាងឡើងវិញ។ ក្តីសង្ឃឹមអាចត្រឡប់មកវិញបន្តិចម្តងៗ ជាមួយការគាំទ្ររបស់អ្នក។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Asking thoughtful questions may help you understand what the relative is facing. Gathering the facts gently could show you how best to help.",
+        "km": "ការសួរសំណួរដោយគិតគូរ អាចជួយអ្នកឱ្យយល់ពីអ្វីដែលសាច់ញាតិកំពុងប្រឈម។ ការប្រមូលការពិតដោយទន់ភ្លន់ អាចបង្ហាញអ្នកពីរបៀបជួយល្អបំផុត។"
+      },
+      "challenge": {
+        "en": "Passing on what the relative tells you could break their trust. Keep their confidences unless someone is at risk.",
+        "km": "ការបញ្ជូនបន្តនូវអ្វីដែលសាច់ញាតិប្រាប់អ្នក អាចបំបែកការទុកចិត្តរបស់ពួកគេ។ សូមរក្សាអាថ៌កំបាំងរបស់ពួកគេ លើកលែងតែនរណាម្នាក់ប្រឈមគ្រោះថ្នាក់។"
+      },
+      "outcome": {
+        "en": "Careful listening and good questions could help the relative see their situation more clearly. Your interest may encourage them to seek solutions.",
+        "km": "ការស្តាប់ដោយយកចិត្តទុកដាក់ និងសំណួរល្អ អាចជួយសាច់ញាតិមើលឃើញស្ថានភាពរបស់ពួកគេកាន់តែច្បាស់។ ចំណាប់អារម្មណ៍របស់អ្នក អាចលើកទឹកចិត្តពួកគេឱ្យស្វែងរកដំណោះស្រាយ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Decisive action on the relative's behalf may be needed, such as making a call or arranging help. Acting promptly, with their agreement, could make a difference.",
+        "km": "សកម្មភាពម៉ឺងម៉ាត់ជំនួសសាច់ញាតិ ប្រហែលជាចាំបាច់ ដូចជាការហៅទូរស័ព្ទ ឬការរៀបចំជំនួយ។ ការធ្វើសកម្មភាពរហ័ស ដោយមានការយល់ព្រមពីពួកគេ អាចធ្វើឱ្យមានភាពខុសគ្នា។"
+      },
+      "challenge": {
+        "en": "Charging ahead without consulting the relative could leave them feeling powerless. Check what they want before you act.",
+        "km": "ការប្រញាប់ទៅមុខ ដោយមិនពិគ្រោះជាមួយសាច់ញាតិ អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាគ្មានអំណាច។ សូមពិនិត្យពីអ្វីដែលពួកគេចង់បាន មុនពេលអ្នកធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "Swift, well-judged help could get the relative the support they need. Making the right call at the right moment may stop a crisis from deepening.",
+        "km": "ជំនួយរហ័ស និងវិនិច្ឆ័យបានល្អ អាចផ្តល់ឱ្យសាច់ញាតិនូវការគាំទ្រដែលពួកគេត្រូវការ។ ការធ្វើការហៅទូរស័ព្ទត្រឹមត្រូវនៅពេលត្រឹមត្រូវ អាចបញ្ឈប់វិបត្តិពីការកាន់តែជ្រៅ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear, honest advice may be the support the relative needs from you. Helping them see their situation without illusions could guide good choices.",
+        "km": "ដំបូន្មានច្បាស់លាស់ និងស្មោះត្រង់ ប្រហែលជាការគាំទ្រដែលសាច់ញាតិត្រូវការពីអ្នក។ ការជួយពួកគេមើលឃើញស្ថានភាពរបស់ពួកគេដោយគ្មានការបំភាន់ អាចណែនាំជម្រើសល្អ។"
+      },
+      "challenge": {
+        "en": "Being too blunt could make the relative feel criticised rather than helped. Pair your honesty with warmth so they can take it in.",
+        "km": "ការត្រង់ពេក អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ថាត្រូវបានរិះគន់ ជាជាងត្រូវបានជួយ។ សូមភ្ជាប់ភាពស្មោះត្រង់របស់អ្នកជាមួយភាពកក់ក្តៅ ដើម្បីឱ្យពួកគេអាចទទួលយកវា។"
+      },
+      "outcome": {
+        "en": "Honest, fair guidance could help the relative make wise decisions. Having someone who tells them the truth kindly may steady them through hard choices.",
+        "km": "ការណែនាំស្មោះត្រង់ និងយុត្តិធម៌ អាចជួយសាច់ញាតិធ្វើការសម្រេចចិត្តដ៏ឆ្លាតវៃ។ ការមាននរណាម្នាក់ដែលប្រាប់ពួកគេពីការពិតដោយសប្បុរស អាចធ្វើឱ្យពួកគេនឹងនរឆ្លងកាត់ជម្រើសលំបាក។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Calm, logical support may help the relative handle a complicated situation. Helping them think through practical steps could ease their stress.",
+        "km": "ការគាំទ្រស្ងប់ស្ងាត់ និងមានតក្កវិជ្ជា អាចជួយសាច់ញាតិដោះស្រាយស្ថានភាពស្មុគស្មាញ។ ការជួយពួកគេគិតពីជំហានជាក់ស្តែង អាចបន្ធូរភាពតានតឹងរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Focusing only on solutions could overlook the relative's feelings. Acknowledge how they feel before giving advice.",
+        "km": "ការផ្តោតតែលើដំណោះស្រាយ អាចមើលរំលងអារម្មណ៍របស់សាច់ញាតិ។ សូមទទួលស្គាល់អារម្មណ៍របស់ពួកគេ មុនពេលផ្តល់ដំបូន្មាន។"
+      },
+      "outcome": {
+        "en": "Wise, structured help could guide the relative through a difficult time. Clear advice and, where needed, a referral to the right professional may help.",
+        "km": "ជំនួយដែលមានប្រាជ្ញា និងមានរចនាសម្ព័ន្ធ អាចដឹកនាំសាច់ញាតិឆ្លងកាត់ដំណាក់កាលលំបាក។ ដំបូន្មានច្បាស់លាស់ និងការបញ្ជូនទៅអ្នកជំនាញត្រឹមត្រូវ នៅពេលចាំបាច់ អាចជួយបាន។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Practical, tangible help may be the support the relative needs most. Offering something concrete, like a meal, a lift or help with costs, could ease their load.",
+        "km": "ជំនួយជាក់ស្តែង និងរូបី ប្រហែលជាការគាំទ្រដែលសាច់ញាតិត្រូវការបំផុត។ ការផ្តល់អ្វីមួយជាក់ស្តែង ដូចជាអាហារ ការជូនដំណើរ ឬជំនួយលើថ្លៃចំណាយ អាចបន្ធូរបន្ទុករបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Offering only money could leave the relative's emotional needs unmet. Pair practical help with time and attention.",
+        "km": "ការផ្តល់តែប្រាក់ អាចទុកតម្រូវការផ្លូវចិត្តរបស់សាច់ញាតិមិនត្រូវបានបំពេញ។ សូមភ្ជាប់ជំនួយជាក់ស្តែងជាមួយការនៅជាមួយ និងការយកចិត្តទុកដាក់។"
+      },
+      "outcome": {
+        "en": "A practical gift of help could give the relative a fresh start. Small, concrete support may grow into real stability for them.",
+        "km": "អំណោយជំនួយជាក់ស្តែង អាចផ្តល់ឱ្យសាច់ញាតិនូវការចាប់ផ្តើមថ្មី។ ការគាំទ្រតូចៗ និងជាក់ស្តែង អាចរីកចម្រើនទៅជាស្ថិរភាពពិតប្រាកដសម្រាប់ពួកគេ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "The relative may be juggling too many demands. Helping them prioritise or taking one task off their plate could make a big difference.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងចាត់ចែងតម្រូវការច្រើនពេក។ ការជួយពួកគេកំណត់អាទិភាព ឬការដកកិច្ចការមួយចេញពីពួកគេ អាចធ្វើឱ្យមានភាពខុសគ្នាធំ។"
+      },
+      "challenge": {
+        "en": "Adding your own requests to the relative's load could overwhelm them further. Ask what would help rather than what you need from them.",
+        "km": "ការបន្ថែមសំណើរបស់អ្នកទៅលើបន្ទុករបស់សាច់ញាតិ អាចធ្វើឱ្យពួកគេលើសកម្លាំងកាន់តែខ្លាំង។ សូមសួរពីអ្វីដែលនឹងជួយ ជាជាងអ្វីដែលអ្នកត្រូវការពីពួកគេ។"
+      },
+      "outcome": {
+        "en": "Helping the relative find balance could ease their stress and restore their energy. A lighter load may let them cope better.",
+        "km": "ការជួយសាច់ញាតិរកតុល្យភាព អាចបន្ធូរភាពតានតឹង និងស្តារថាមពលរបស់ពួកគេ។ បន្ទុកស្រាលជាងមុន អាចឱ្យពួកគេទប់ទល់បានល្អជាងមុន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Working alongside the relative on a practical task may be the best support. Doing it together, rather than for them, could build their confidence.",
+        "km": "ការធ្វើការក្បែរសាច់ញាតិលើកិច្ចការជាក់ស្តែង ប្រហែលជាការគាំទ្រល្អបំផុត។ ការធ្វើវាជាមួយគ្នា ជាជាងធ្វើជំនួសពួកគេ អាចកសាងទំនុកចិត្តរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Criticising how the relative does things could discourage them from trying. Offer tips gently and praise the effort they are making.",
+        "km": "ការរិះគន់របៀបដែលសាច់ញាតិធ្វើអ្វីៗ អាចធ្វើឱ្យពួកគេបាក់ទឹកចិត្តក្នុងការព្យាយាម។ សូមផ្តល់គន្លឹះដោយទន់ភ្លន់ ហើយសរសើរការខិតខំដែលពួកគេកំពុងធ្វើ។"
+      },
+      "outcome": {
+        "en": "Teamwork on a shared task could help the relative feel capable and supported. Building something together may strengthen your bond.",
+        "km": "ការងារជាក្រុមលើកិច្ចការរួម អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍ថាមានសមត្ថភាព និងត្រូវបានគាំទ្រ។ ការកសាងអ្វីមួយជាមួយគ្នា អាចពង្រឹងចំណងរបស់អ្នក។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "The relative may be holding on tightly, perhaps afraid to accept help or let go of control. Respecting their independence could help them accept support.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងកាន់យ៉ាងតឹង ប្រហែលជាខ្លាចទទួលយកជំនួយ ឬបោះបង់ការគ្រប់គ្រង។ ការគោរពឯករាជ្យភាពរបស់ពួកគេ អាចជួយពួកគេទទួលយកការគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Insisting on helping in your own way could make the relative resist. Offer choices and let them decide how much help to accept.",
+        "km": "ការទទូចលើការជួយតាមរបៀបរបស់អ្នក អាចធ្វើឱ្យសាច់ញាតិប្រឆាំង។ សូមផ្តល់ជម្រើស ហើយឱ្យពួកគេសម្រេចថាត្រូវទទួលយកជំនួយប៉ុណ្ណា។"
+      },
+      "outcome": {
+        "en": "Gentle, respectful support could help the relative feel secure enough to accept help. Trust may grow slowly but surely.",
+        "km": "ការគាំទ្រដោយទន់ភ្លន់ និងគោរព អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍សុវត្ថិភាពគ្រប់គ្រាន់ដើម្បីទទួលយកជំនួយ។ ការទុកចិត្តអាចកើនឡើងយឺតៗ ប៉ុន្តែប្រាកដ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "The relative may be facing hardship, such as money troubles, illness or isolation. Practical help and simply showing up could matter a great deal.",
+        "km": "សាច់ញាតិប្រហែលជាកំពុងប្រឈមនឹងការលំបាក ដូចជាបញ្ហាប្រាក់ ជំងឺ ឬភាពឯកោ។ ជំនួយជាក់ស្តែង និងគ្រាន់តែការមកជួប អាចសំខាន់ណាស់។"
+      },
+      "challenge": {
+        "en": "Feeling helpless could make you avoid the relative. Even small gestures, and pointing them to support services, can help.",
+        "km": "ការមានអារម្មណ៍ថាគ្មានអំណាចជួយ អាចធ្វើឱ្យអ្នកជៀសវាងសាច់ញាតិ។ សូម្បីតែកាយវិការតូចៗ និងការណែនាំពួកគេទៅកាន់សេវាគាំទ្រ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Standing by the relative through hardship could help them find their way back. Connecting them with community or professional help may ease their burden.",
+        "km": "ការឈរក្បែរសាច់ញាតិឆ្លងកាត់ការលំបាក អាចជួយពួកគេរកផ្លូវត្រឡប់មកវិញ។ ការភ្ជាប់ពួកគេជាមួយជំនួយពីសហគមន៍ ឬអ្នកជំនាញ អាចបន្ធូរបន្ទុករបស់ពួកគេ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Generosity, whether of time, money or care, may be what the relative needs. Giving freely, within your means, could ease their difficulties.",
+        "km": "ភាពសប្បុរស ទោះជាពេលវេលា ប្រាក់ ឬការយកចិត្តទុកដាក់ ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការ។ ការផ្តល់ដោយសេរី តាមលទ្ធភាពរបស់អ្នក អាចបន្ធូរការលំបាករបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Help that comes with a hidden price could leave the relative feeling they owe you. Give what you can afford to give, and expect nothing back.",
+        "km": "ជំនួយដែលមកជាមួយតម្លៃលាក់កំបាំង អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ថាពួកគេជំពាក់អ្នក។ សូមផ្តល់អ្វីដែលអ្នកមានលទ្ធភាពផ្តល់ ហើយមិនរំពឹងអ្វីត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "Generous, balanced support could help the relative regain stability. Kindness given freely may be returned in many ways.",
+        "km": "ការគាំទ្រដោយចិត្តទូលាយ និងមានតុល្យភាព អាចជួយសាច់ញាតិទទួលបានស្ថិរភាពឡើងវិញ។ ភាពសប្បុរសដែលផ្តល់ដោយសេរី អាចត្រូវបានតបវិញតាមរបៀបជាច្រើន។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Supporting the relative may require patience, as real change rarely happens all at once. Steady, consistent help could matter more than quick fixes.",
+        "km": "ការគាំទ្រសាច់ញាតិ ប្រហែលជាត្រូវការការអត់ធ្មត់ ព្រោះការផ្លាស់ប្តូរពិតប្រាកដកម្រកើតឡើងក្នុងពេលតែមួយ។ ជំនួយទៀងទាត់ និងស៊ីសង្វាក់ អាចសំខាន់ជាងការជួសជុលរហ័ស។"
+      },
+      "challenge": {
+        "en": "Expecting quick results could leave you frustrated with the relative. Keep offering support even when progress is slow.",
+        "km": "ការរំពឹងលទ្ធផលរហ័ស អាចធ្វើឱ្យអ្នកខកចិត្តចំពោះសាច់ញាតិ។ សូមបន្តផ្តល់ការគាំទ្រ សូម្បីតែនៅពេលវឌ្ឍនភាពយឺត។"
+      },
+      "outcome": {
+        "en": "Patient, sustained support could help the relative make lasting progress. Your steadiness, visit after visit, may be what carries them through.",
+        "km": "ការគាំទ្រដោយអត់ធ្មត់ និងជាប់លាប់ អាចជួយសាច់ញាតិធ្វើវឌ្ឍនភាពស្ថិតស្ថេរ។ ភាពនឹងនររបស់អ្នក ពីការមកលេងមួយទៅមួយ អាចជាអ្វីដែលនាំពួកគេឆ្លងកាត់។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Reliable, hands-on help with daily tasks may be what the relative needs. Showing up consistently to do the small things could ease their load.",
+        "km": "ជំនួយដែលអាចទុកចិត្តបាន និងផ្ទាល់ដៃលើកិច្ចការប្រចាំថ្ងៃ ប្រហែលជាអ្វីដែលសាច់ញាតិត្រូវការ។ ការមកជួយជាប្រចាំដើម្បីធ្វើរឿងតូចៗ អាចបន្ធូរបន្ទុករបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Getting so busy with your own work that you forget to check in could leave the relative feeling alone. Set a regular reminder to reach out.",
+        "km": "ការមមាញឹកខ្លាំងជាមួយការងាររបស់អ្នក រហូតភ្លេចសួរសុខទុក្ខ អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ឯកោ។ សូមកំណត់ការរំលឹកទៀងទាត់ដើម្បីទាក់ទងទៅពួកគេ។"
+      },
+      "outcome": {
+        "en": "Diligent, steady help could make a real difference in the relative's daily life. Your reliability may become a source of comfort to them.",
+        "km": "ជំនួយដោយឧស្សាហ៍ និងទៀងទាត់ អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដក្នុងជីវិតប្រចាំថ្ងៃរបស់សាច់ញាតិ។ ភាពអាចទុកចិត្តបានរបស់អ្នក អាចក្លាយជាប្រភពនៃភាពស្រួលសម្រាប់ពួកគេ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Helping the relative regain their independence may be the best support. Encouraging them to do what they can for themselves could restore their dignity.",
+        "km": "ការជួយសាច់ញាតិទទួលបានឯករាជ្យភាពរបស់ពួកគេឡើងវិញ ប្រហែលជាការគាំទ្រល្អបំផុត។ ការលើកទឹកចិត្តពួកគេឱ្យធ្វើអ្វីដែលពួកគេអាចធ្វើដោយខ្លួនឯង អាចស្តារសេចក្តីថ្លៃថ្នូររបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Doing too much for the relative could leave them dependent. Step back where they can manage on their own.",
+        "km": "ការធ្វើច្រើនពេកសម្រាប់សាច់ញាតិ អាចធ្វើឱ្យពួកគេពឹងផ្អែក។ សូមថយក្រោយ នៅកន្លែងដែលពួកគេអាចគ្រប់គ្រងដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Supporting the relative toward self-reliance could give them lasting confidence. Their growing independence may bring you both satisfaction.",
+        "km": "ការគាំទ្រសាច់ញាតិឆ្ពោះទៅរកការពឹងលើខ្លួនឯង អាចផ្តល់ទំនុកចិត្តស្ថិតស្ថេរដល់ពួកគេ។ ឯករាជ្យភាពដែលកំពុងកើនឡើងរបស់ពួកគេ អាចនាំការពេញចិត្តដល់អ្នកទាំងពីរ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "The wider family's resources and support may help the relative. Bringing relatives together to share the load could make a big difference.",
+        "km": "ធនធាន និងការគាំទ្ររបស់គ្រួសារធំ អាចជួយសាច់ញាតិ។ ការប្រមូលសាច់ញាតិមកជួបជុំគ្នាដើម្បីចែករំលែកបន្ទុក អាចធ្វើឱ្យមានភាពខុសគ្នាធំ។"
+      },
+      "challenge": {
+        "en": "Disagreements within the family about how to help could leave the relative caught in the middle. Agree on a shared plan so everyone pulls the same way.",
+        "km": "ការខ្វែងគំនិតក្នុងគ្រួសារអំពីរបៀបជួយ អាចធ្វើឱ្យសាច់ញាតិជាប់នៅកណ្តាល។ សូមព្រមព្រៀងគ្នាលើផែនការរួម ដើម្បីឱ្យអ្នករាល់គ្នាទាញទៅទិសតែមួយ។"
+      },
+      "outcome": {
+        "en": "A united family effort could give the relative lasting security and belonging. Shared support may ease the load on everyone.",
+        "km": "ការខិតខំរួបរួមរបស់គ្រួសារ អាចផ្តល់សុវត្ថិភាព និងការជាផ្នែកមួយស្ថិតស្ថេរដល់សាច់ញាតិ។ ការគាំទ្ររួមគ្នា អាចបន្ធូរបន្ទុកលើអ្នករាល់គ្នា។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Helping the relative learn a new skill or find new information may be useful support. A course, a resource or practical advice could open new doors.",
+        "km": "ការជួយសាច់ញាតិរៀនជំនាញថ្មី ឬរកព័ត៌មានថ្មី អាចជាការគាំទ្រដែលមានប្រយោជន៍។ វគ្គសិក្សា ធនធាន ឬដំបូន្មានជាក់ស្តែង អាចបើកទ្វារថ្មី។"
+      },
+      "challenge": {
+        "en": "Overloading the relative with information and advice could overwhelm them. Share one helpful resource at a pace they can take in.",
+        "km": "ការផ្ទុកព័ត៌មាន និងដំបូន្មានច្រើនពេកលើសាច់ញាតិ អាចធ្វើឱ្យពួកគេលើសកម្លាំង។ សូមចែករំលែកធនធានមានប្រយោជន៍មួយ ក្នុងល្បឿនដែលពួកគេអាចទទួលយកបាន។"
+      },
+      "outcome": {
+        "en": "Encouraging the relative's learning could help them build a better situation for themselves. Each small skill they gain may add to their confidence.",
+        "km": "ការលើកទឹកចិត្តការរៀនរបស់សាច់ញាតិ អាចជួយពួកគេកសាងស្ថានភាពល្អជាងមុនសម្រាប់ខ្លួនឯង។ ជំនាញតូចៗនីមួយៗដែលពួកគេទទួលបាន អាចបន្ថែមទំនុកចិត្តរបស់ពួកគេ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Being a steady, dependable presence may be the support the relative values most. Keeping regular contact and keeping your word could reassure them.",
+        "km": "ការធ្វើជាវត្តមាននឹងនរ និងអាចទុកចិត្តបាន ប្រហែលជាការគាំទ្រដែលសាច់ញាតិឱ្យតម្លៃបំផុត។ ការរក្សាទំនាក់ទំនងទៀងទាត់ និងការរក្សាពាក្យសម្តី អាចធានាដល់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Being too cautious about getting involved could leave the relative waiting for help. Take a clear, practical step forward.",
+        "km": "ការប្រុងប្រយ័ត្នពេកក្នុងការចូលរួម អាចធ្វើឱ្យសាច់ញាតិរង់ចាំជំនួយ។ សូមបោះជំហានទៅមុខច្បាស់លាស់ និងជាក់ស្តែងមួយ។"
+      },
+      "outcome": {
+        "en": "Consistent, reliable support could give the relative a solid base to rebuild from. Knowing they can count on you may ease their worry.",
+        "km": "ការគាំទ្រស៊ីសង្វាក់ និងអាចទុកចិត្តបាន អាចផ្តល់ឱ្យសាច់ញាតិនូវមូលដ្ឋានរឹងមាំដើម្បីកសាងឡើងវិញ។ ការដឹងថាពួកគេអាចពឹងលើអ្នក អាចបន្ធូរការព្រួយបារម្ភរបស់ពួកគេ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Nurturing, practical care may be your natural way to support the relative. Cooking, tidying or simply making them comfortable could mean a great deal.",
+        "km": "ការមើលថែជាក់ស្តែង និងថែទាំ ប្រហែលជារបៀបធម្មជាតិរបស់អ្នកក្នុងការគាំទ្រសាច់ញាតិ។ ការធ្វើម្ហូប ការរៀបចំ ឬគ្រាន់តែការធ្វើឱ្យពួកគេស្រួល អាចមានន័យច្រើន។"
+      },
+      "challenge": {
+        "en": "Caring for the relative without rest could leave you depleted. Accept help from others so you can keep going.",
+        "km": "ការមើលថែសាច់ញាតិដោយគ្មានការសម្រាក អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមទទួលយកជំនួយពីអ្នកដទៃ ដើម្បីឱ្យអ្នកអាចបន្តបាន។"
+      },
+      "outcome": {
+        "en": "Practical, loving care could help the relative feel safe and looked after. Comfort and routine may support their recovery.",
+        "km": "ការមើលថែជាក់ស្តែង និងពោរពេញដោយក្តីស្រលាញ់ អាចជួយសាច់ញាតិឱ្យមានអារម្មណ៍សុវត្ថិភាព និងត្រូវបានមើលថែ។ ភាពស្រួល និងទម្លាប់ អាចគាំទ្រការងើបឡើងវិញរបស់ពួកគេ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Providing stability and security may be the most useful support you can offer. A steady hand in a difficult time could reassure the relative.",
+        "km": "ការផ្តល់ស្ថិរភាព និងសុវត្ថិភាព ប្រហែលជាការគាំទ្រដែលមានប្រយោជន៍បំផុតដែលអ្នកអាចផ្តល់។ ដៃនឹងនរក្នុងពេលលំបាក អាចធានាដល់សាច់ញាតិ។"
+      },
+      "challenge": {
+        "en": "Offering only material support could leave the relative's emotional needs unmet. Show care in words and presence too.",
+        "km": "ការផ្តល់តែការគាំទ្រផ្នែកសម្ភារៈ អាចទុកតម្រូវការផ្លូវចិត្តរបស់សាច់ញាតិមិនត្រូវបានបំពេញ។ សូមបង្ហាញការយកចិត្តទុកដាក់តាមពាក្យសម្តី និងវត្តមានផងដែរ។"
+      },
+      "outcome": {
+        "en": "Steady, generous support could help the relative regain their footing and security. Your reliability may give them confidence to move forward.",
+        "km": "ការគាំទ្រនឹងនរ និងចិត្តទូលាយ អាចជួយសាច់ញាតិទទួលបានជំហរ និងសុវត្ថិភាពរបស់ពួកគេឡើងវិញ។ ភាពអាចទុកចិត្តបានរបស់អ្នក អាចផ្តល់ទំនុកចិត្តដល់ពួកគេដើម្បីទៅមុខ។"
+      }
+    }
+  }
+}
