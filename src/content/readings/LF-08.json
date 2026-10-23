@@ -1,0 +1,1097 @@
+{
+  "questionId": "LF-08",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "The energy around you is light, open and full of new beginnings. It invites you to try something unfamiliar with a curious heart.",
+        "km": "ថាមពលនៅជុំវិញអ្នក ស្រាល បើកចំហ និងពោរពេញដោយការចាប់ផ្តើមថ្មី។ វាអញ្ជើញអ្នកឱ្យសាកល្បងអ្វីដែលមិនធ្លាប់ស្គាល់ ដោយចិត្តចង់ដឹងចង់ឃើញ។"
+      },
+      "challenge": {
+        "en": "A restless, carefree mood could make you careless with details or promises. Enjoy the sense of freedom, but keep one eye on where you step.",
+        "km": "អារម្មណ៍មិនស្ងប់ និងគ្មានកង្វល់ អាចធ្វើឱ្យអ្នកធ្វេសប្រហែសចំពោះព័ត៌មានលម្អិត ឬការសន្យា។ សូមរីករាយនឹងអារម្មណ៍នៃសេរីភាព ប៉ុន្តែមើលកន្លែងដែលអ្នកបោះជំហានផង។"
+      },
+      "outcome": {
+        "en": "The energy around you is moving toward adventure and fresh experience. It could carry you into a new chapter that feels freer than the last.",
+        "km": "ថាមពលនៅជុំវិញអ្នក កំពុងឆ្ពោះទៅរកដំណើរផ្សងព្រេង និងបទពិសោធន៍ថ្មី។ វាអាចនាំអ្នកចូលទៅក្នុងជំពូកថ្មី ដែលមានសេរីភាពជាងជំពូកមុន។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "A focused, capable energy surrounds you, as if the right tools are within reach. Things you start with intention have a good chance to work.",
+        "km": "ថាមពលដែលផ្តោត និងមានសមត្ថភាព កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាឧបករណ៍ត្រឹមត្រូវនៅក្បែរដៃ។ អ្វីដែលអ្នកចាប់ផ្តើមដោយចេតនាច្បាស់ មានឱកាសល្អក្នុងការទទួលបានជោគជ័យ។"
+      },
+      "challenge": {
+        "en": "Energy pulled in too many directions could leave your real talent half used. Several plans at once may leave each one weak.",
+        "km": "ថាមពលដែលត្រូវបានទាញទៅច្រើនទិសពេក អាចធ្វើឱ្យទេពកោសល្យពិតរបស់អ្នកត្រូវបានប្រើត្រឹមពាក់កណ្តាល។ ផែនការច្រើនក្នុងពេលតែមួយ អាចធ្វើឱ្យផែនការនីមួយៗចុះខ្សោយ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward visible results and a sense of personal power. What you put your mind to could start to take real shape.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកលទ្ធផលដែលមើលឃើញ និងអារម្មណ៍នៃអំណាចផ្ទាល់ខ្លួន។ អ្វីដែលអ្នកផ្តោតចិត្តលើ អាចចាប់ផ្តើមមានរូបរាងពិតប្រាកដ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "A quiet, mysterious energy surrounds you, full of things not yet spoken. Your intuition is unusually sharp.",
+        "km": "ថាមពលដ៏ស្ងប់ស្ងាត់ និងអាថ៌កំបាំង កំពុងនៅជុំវិញអ្នក ពោរពេញដោយអ្វីៗដែលមិនទាន់បាននិយាយ។ វិចារណញាណរបស់អ្នកមុតស្រួចជាងធម្មតា។"
+      },
+      "challenge": {
+        "en": "Hidden currents around you could make it hard to know what others really think. Avoid filling the silence with assumptions.",
+        "km": "ចរន្តលាក់កំបាំងនៅជុំវិញអ្នក អាចធ្វើឱ្យពិបាកដឹងថាអ្នកដទៃគិតអ្វីពិតប្រាកដ។ សូមជៀសវាងការបំពេញភាពស្ងៀមស្ងាត់ដោយការសន្មត។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward revelation, as hidden things slowly come to light. Patience could reward you with understanding.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការបង្ហាញឱ្យដឹង ខណៈអ្វីៗដែលលាក់កំបាំង លេចចេញមកបន្តិចម្តងៗ។ ការអត់ធ្មត់ អាចផ្តល់រង្វាន់ដល់អ្នកជាការយល់ដឹង។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "A warm, nurturing energy surrounds you, encouraging growth and comfort. Life feels fertile, as if what you tend wants to grow.",
+        "km": "ថាមពលដ៏កក់ក្តៅ និងថែរក្សា កំពុងនៅជុំវិញអ្នក ដោយលើកទឹកចិត្តឱ្យមានការរីកចម្រើន និងភាពសុខស្រួល។ ជីវិតពោរពេញដោយជីជាតិ ហាក់ដូចជាអ្វីដែលអ្នកថែរក្សា ចង់លូតលាស់។"
+      },
+      "challenge": {
+        "en": "Giving more care than you receive could slowly drain your own reserves. The warmth you offer others should include you as well.",
+        "km": "ការផ្តល់ការថែទាំច្រើនជាងអ្វីដែលអ្នកទទួល អាចបង្ហូរកម្លាំងបម្រុងរបស់អ្នកបន្តិចម្តងៗ។ ភាពកក់ក្តៅដែលអ្នកផ្តល់ឱ្យអ្នកដទៃ គួរតែរួមបញ្ចូលខ្លួនអ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward abundance and creative fulfilment. Projects, relationships or a home could flourish under steady care.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពបរិបូរណ៍ និងការពេញចិត្តក្នុងការច្នៃប្រឌិត។ គម្រោង ទំនាក់ទំនង ឬផ្ទះ អាចរីកលូតលាស់ ក្រោមការថែរក្សាជាប់លាប់។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "A steady, structured energy surrounds you, asking for order and responsibility. Things work best when they have a clear shape.",
+        "km": "ថាមពលដ៏នឹងនរ និងមានរបៀបរៀបរយ កំពុងនៅជុំវិញអ្នក ដោយទាមទារសណ្តាប់ធ្នាប់ និងការទទួលខុសត្រូវ។ អ្វីៗដំណើរការល្អបំផុត នៅពេលវាមានទម្រង់ច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "A rigid, controlling mood could creep into your plans and relationships. Rules that once helped may start to feel like walls.",
+        "km": "អារម្មណ៍តឹងរ៉ឹង និងចង់គ្រប់គ្រង អាចលួចចូលក្នុងផែនការ និងទំនាក់ទំនងរបស់អ្នក។ ច្បាប់ដែលធ្លាប់ជួយ អាចចាប់ផ្តើមហាក់ដូចជាជញ្ជាំង។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward stability and firm foundations. Your efforts could settle into something solid and respected.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកស្ថិរភាព និងមូលដ្ឋានរឹងមាំ។ ការខិតខំរបស់អ្នក អាចស្ងប់ទៅជាអ្វីមួយដែលរឹងមាំ និងត្រូវបានគោរព។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "A traditional, guiding energy surrounds you, with advice, customs or teachers close by. Shared values feel important.",
+        "km": "ថាមពលនៃប្រពៃណី និងការណែនាំ កំពុងនៅជុំវិញអ្នក ដោយមានដំបូន្មាន ទំនៀមទម្លាប់ ឬគ្រូនៅក្បែរ។ គុណតម្លៃរួមគ្នា ហាក់ដូចជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Pressure to fit in or follow the usual way could drown out your own voice. Not every expectation around you is meant for you.",
+        "km": "សម្ពាធឱ្យចុះសម្រុងនឹងគេ ឬធ្វើតាមរបៀបធម្មតា អាចគ្របដណ្តប់សំឡេងរបស់អ្នកផ្ទាល់។ មិនមែនគ្រប់ការរំពឹងទុកនៅជុំវិញអ្នក សុទ្ធតែសម្រាប់អ្នកនោះទេ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward learning, guidance and belonging. A mentor or community could play a meaningful role.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការរៀនសូត្រ ការណែនាំ និងការមានកន្លែងរបស់ខ្លួន។ អ្នកណែនាំ ឬសហគមន៍មួយ អាចដើរតួនាទីដ៏មានអត្ថន័យ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "The energy around you is about connection and choice. A relationship or a decision of the heart is drawing your attention.",
+        "km": "ថាមពលនៅជុំវិញអ្នក ទាក់ទងនឹងការភ្ជាប់ទំនាក់ទំនង និងជម្រើស។ ទំនាក់ទំនង ឬការសម្រេចចិត្តពីចិត្តមួយ កំពុងទាក់ទាញការយកចិត្តទុកដាក់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Mixed feelings about a person or a choice could pull you in two directions. Trying to please everyone may blur what you truly want.",
+        "km": "អារម្មណ៍ចម្រុះអំពីមនុស្សម្នាក់ ឬជម្រើសមួយ អាចទាញអ្នកទៅពីរទិស។ ការព្យាយាមផ្គាប់ចិត្តគ្រប់គ្នា អាចធ្វើឱ្យអ្វីដែលអ្នកចង់បានពិតប្រាកដមិនច្បាស់។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward harmony and a choice made from the heart. A close bond could grow stronger and more honest.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពសុខដុម និងជម្រើសដែលធ្វើចេញពីចិត្ត។ ចំណងជិតស្និទ្ធមួយ អាចកាន់តែរឹងមាំ និងស្មោះត្រង់ជាងមុន។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Driven, forward-moving energy surrounds you. There is momentum behind your plans and a feeling of going somewhere.",
+        "km": "ថាមពលដែលមានកម្លាំងចិត្ត និងរុញទៅមុខ កំពុងនៅជុំវិញអ្នក។ មានសន្ទុះនៅពីក្រោយផែនការរបស់អ្នក និងអារម្មណ៍ថាកំពុងទៅកន្លែងណាមួយ។"
+      },
+      "challenge": {
+        "en": "Competing goals could make your drive swerve instead of moving straight ahead. Different desires may need to agree before you speed up.",
+        "km": "គោលដៅដែលប្រជែងគ្នា អាចធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកវង្វេង ជាជាងទៅមុខត្រង់។ បំណងប្រាថ្នាផ្សេងៗ ប្រហែលជាត្រូវស្របគ្នាសិន មុនពេលអ្នកបង្កើនល្បឿន។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward victory through focus and willpower. You could break through an obstacle that once slowed you.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកជ័យជម្នះ តាមរយៈការផ្តោតអារម្មណ៍ និងឆន្ទៈ។ អ្នកអាចឆ្លងកាត់ឧបសគ្គមួយ ដែលធ្លាប់ធ្វើឱ្យអ្នកយឺត។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "A calm, brave energy surrounds you, gentle on the outside and strong within. Patience is giving you quiet power.",
+        "km": "ថាមពលដ៏ស្ងប់ និងក្លាហាន កំពុងនៅជុំវិញអ្នក ទន់ភ្លន់នៅខាងក្រៅ និងរឹងមាំនៅខាងក្នុង។ ការអត់ធ្មត់ កំពុងផ្តល់ឱ្យអ្នកនូវអំណាចដ៏ស្ងប់ស្ងាត់។"
+      },
+      "challenge": {
+        "en": "Frustration kept under the surface could build until it breaks out at the wrong moment. Give it a calm outlet before it grows.",
+        "km": "ការមួម៉ៅដែលទប់ទុកក្នុងចិត្ត អាចកើនឡើងរហូតដល់ផ្ទុះនៅពេលមិនសមរម្យ។ សូមរកវិធីបញ្ចេញវាដោយស្ងប់ស្ងាត់ មុនពេលវាធំឡើង។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward inner confidence and self-mastery. Gentle strength could win you respect and peace.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកទំនុកចិត្តខាងក្នុង និងការគ្រប់គ្រងខ្លួនឯង។ កម្លាំងដ៏ទន់ភ្លន់ អាចធ្វើឱ្យអ្នកទទួលបានការគោរព និងសន្តិភាព។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "A reflective, inward energy surrounds you, inviting solitude and thought. The outside world feels quieter than usual.",
+        "km": "ថាមពលនៃការពិចារណា និងបែរចូលខាងក្នុង កំពុងនៅជុំវិញអ្នក ដោយអញ្ជើញឱ្យមានភាពឯកា និងការគិត។ ពិភពខាងក្រៅហាក់ដូចជាស្ងាត់ជាងធម្មតា។"
+      },
+      "challenge": {
+        "en": "A withdrawn mood could slide into loneliness if you shut everyone out. Quiet time may need balancing with a little company.",
+        "km": "អារម្មណ៍ចង់ដកខ្លួន អាចរអិលទៅជាភាពឯកោ ប្រសិនបើអ្នកបិទទ្វារលើគ្រប់គ្នា។ ពេលវេលាស្ងប់ស្ងាត់ ប្រហែលជាត្រូវការតុល្យភាពជាមួយការជួបជុំបន្តិច។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward wisdom and self-understanding. Answers could come from within as the noise fades.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកប្រាជ្ញា និងការស្គាល់ខ្លួនឯង។ ចម្លើយអាចមកពីខាងក្នុង ខណៈភាពអ៊ូអររសាត់បាត់។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "A shifting, changeable energy surrounds you, as if the wheel is turning. Circumstances are in motion.",
+        "km": "ថាមពលដែលប្រែប្រួល កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាកង់កំពុងវិល។ កាលៈទេសៈកំពុងមានចលនា។"
+      },
+      "challenge": {
+        "en": "Rapid, unpredictable change could leave you feeling out of control. Gripping too tightly may make the ride rougher than it needs to be.",
+        "km": "ការផ្លាស់ប្តូររហ័ស និងមិនអាចទាយទុកបាន អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាបាត់ការគ្រប់គ្រង។ ការកាន់ក្តាប់តឹងពេក អាចធ្វើឱ្យដំណើររដុបជាងអ្វីដែលចាំបាច់។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward a turning point, possibly a lucky one. New cycles could open as old ones close.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកចំណុចបត់មួយ ប្រហែលជាចំណុចបត់ដ៏សំណាង។ វដ្តថ្មីអាចបើកឡើង ខណៈវដ្តចាស់បិទទៅ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A clear, balanced energy surrounds you, focused on truth and fairness. Actions and consequences feel closely linked.",
+        "km": "ថាមពលដ៏ច្បាស់លាស់ និងមានតុល្យភាព កំពុងនៅជុំវិញអ្នក ដោយផ្តោតលើការពិត និងភាពយុត្តិធម៌។ សកម្មភាព និងផលវិបាក ហាក់ដូចជាភ្ជាប់គ្នាយ៉ាងជិតស្និទ្ធ។"
+      },
+      "challenge": {
+        "en": "A feeling of being judged, by others or by yourself, could weigh on you. Fairness is easier to live with when it includes compassion.",
+        "km": "អារម្មណ៍ថាត្រូវបានគេវិនិច្ឆ័យ ទោះពីអ្នកដទៃ ឬពីខ្លួនឯង អាចធ្ងន់លើអ្នក។ ភាពយុត្តិធម៌ងាយទទួលយកជាងមុន នៅពេលវារួមបញ្ចូលក្តីមេត្តា។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward resolution and balance. A fair decision or agreement could settle something important.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកដំណោះស្រាយ និងតុល្យភាព។ ការសម្រេចចិត្ត ឬកិច្ចព្រមព្រៀងដ៏យុត្តិធម៌ អាចដោះស្រាយអ្វីមួយដ៏សំខាន់។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "A still, suspended energy surrounds you, as if life is on pause. Things may be waiting for a new way of seeing.",
+        "km": "ថាមពលដ៏ស្ងៀមស្ងាត់ និងផ្អាក កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាជីវិតកំពុងផ្អាក។ អ្វីៗប្រហែលជាកំពុងរង់ចាំរបៀបមើលថ្មី។"
+      },
+      "challenge": {
+        "en": "Restlessness could make a necessary pause feel unbearable. Fighting the delay may only keep things stuck for longer.",
+        "km": "ភាពអន្ទះអន្ទែង អាចធ្វើឱ្យការផ្អាកដែលចាំបាច់ ហាក់ដូចជាមិនអាចទ្រាំបាន។ ការប្រឆាំងនឹងការពន្យារពេល អាចគ្រាន់តែធ្វើឱ្យអ្វីៗជាប់គាំងយូរជាងមុន។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward a shift in perspective that unlocks progress. Surrender could bring an unexpected breakthrough.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការផ្លាស់ប្តូរទស្សនៈ ដែលដោះសោការរីកចម្រើន។ ការព្រមទទួលយក អាចនាំមកនូវការរកឃើញដែលមិននឹកស្មានដល់។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "A transforming energy surrounds you, with endings and beginnings close together. Something is changing at a deep level.",
+        "km": "ថាមពលនៃការប្រែប្រួល កំពុងនៅជុំវិញអ្នក ដោយការបញ្ចប់ និងការចាប់ផ្តើមនៅជិតគ្នា។ អ្វីមួយកំពុងផ្លាស់ប្តូរនៅកម្រិតជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Fear of endings could make you resist a change that is already under way. Clinging to the old may cause more pain than letting go.",
+        "km": "ការខ្លាចការបញ្ចប់ អាចធ្វើឱ្យអ្នកប្រឆាំងនឹងការផ្លាស់ប្តូរដែលកំពុងកើតឡើងរួចហើយ។ ការតោងជាប់នឹងអ្វីចាស់ អាចបង្កការឈឺចាប់ច្រើនជាងការដោះលែង។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward renewal after a necessary ending. A new chapter could begin once the old one closes.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការកើតឡើងវិញ បន្ទាប់ពីការបញ្ចប់ដែលចាំបាច់។ ជំពូកថ្មីអាចចាប់ផ្តើម នៅពេលជំពូកចាស់បិទ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "A calm, healing energy surrounds you, blending different parts of life gently. Balance is within reach.",
+        "km": "ថាមពលដ៏ស្ងប់ និងព្យាបាល កំពុងនៅជុំវិញអ្នក ដោយផ្សំផ្នែកផ្សេងៗនៃជីវិតដោយទន់ភ្លន់។ តុល្យភាពនៅក្បែរដៃ។"
+      },
+      "challenge": {
+        "en": "Impatience could tip a fragile sense of balance. Rushing between extremes may undo what a gentler pace has built.",
+        "km": "ការមិនអត់ធ្មត់ អាចធ្វើឱ្យតុល្យភាពដ៏ផុយស្រួយបាត់បង់។ ការប្រញាប់ពីភាពហួសហេតុម្ខាងទៅម្ខាង អាចបំផ្លាញអ្វីដែលល្បឿនទន់ភ្លន់បានកសាង។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward harmony and steady wellbeing. Patience could bring a lasting sense of peace.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពសុខដុម និងសុខុមាលភាពដ៏នឹងនរ។ ការអត់ធ្មត់ អាចនាំមកនូវអារម្មណ៍នៃសន្តិភាពយូរអង្វែង។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "A heavy, binding energy surrounds you, linked to habits, temptations or fears. Something may have more hold on you than it should.",
+        "km": "ថាមពលដ៏ធ្ងន់ និងចងរឹត កំពុងនៅជុំវិញអ្នក ដែលភ្ជាប់ទៅនឹងទម្លាប់ ការល្បួង ឬការភ័យខ្លាច។ អ្វីមួយប្រហែលជាមានឥទ្ធិពលលើអ្នកច្រើនជាងអ្វីដែលគួរមាន។"
+      },
+      "challenge": {
+        "en": "A pull toward an unhealthy habit or comfort could quietly drain your freedom. What feels soothing may be what keeps you stuck.",
+        "km": "ការទាញទៅរកទម្លាប់ ឬភាពស្រួលដែលមិនល្អ អាចបង្ហូរសេរីភាពរបស់អ្នកដោយស្ងាត់ៗ។ អ្វីដែលហាក់ដូចជាលួងលោម អាចជាអ្វីដែលធ្វើឱ្យអ្នកជាប់គាំង។"
+      },
+      "outcome": {
+        "en": "The energy could shift toward release once the pattern is named. Freedom may grow as its grip weakens.",
+        "km": "ថាមពលអាចប្រែប្រួលទៅរកការរួចផុត នៅពេលលំនាំនោះត្រូវបានដាក់ឈ្មោះ។ សេរីភាពអាចកើនឡើង ខណៈការកាន់ក្តាប់របស់វាចុះខ្សោយ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A sudden, unsettled energy surrounds you, shaking what seemed secure. Change may be arriving whether invited or not.",
+        "km": "ថាមពលភ្លាមៗ និងមិននឹងនរ កំពុងនៅជុំវិញអ្នក ដោយធ្វើឱ្យអ្វីដែលហាក់ដូចជាមានសុវត្ថិភាពរង្គោះរង្គើ។ ការផ្លាស់ប្តូរអាចកំពុងមកដល់ ទោះបានអញ្ជើញ ឬមិនបានអញ្ជើញក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "A sense of shock or upheaval could leave you feeling exposed. Holding up what is already falling may only make it hurt more.",
+        "km": "អារម្មណ៍នៃការភ្ញាក់ផ្អើល ឬការរង្គោះរង្គើ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាគ្មានអ្វីការពារ។ ការទប់អ្វីដែលកំពុងដួលរលំ អាចគ្រាន់តែធ្វើឱ្យឈឺចាប់ជាងមុន។"
+      },
+      "outcome": {
+        "en": "The energy is heading through disruption toward a more honest foundation. What remains could be stronger and truer.",
+        "km": "ថាមពលកំពុងឆ្លងកាត់ការរំខាន ឆ្ពោះទៅរកមូលដ្ឋានដែលពិតប្រាកដជាងមុន។ អ្វីដែលនៅសល់ អាចរឹងមាំ និងពិតប្រាកដជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "A hopeful, healing energy surrounds you, like light after a storm. Faith in the future is returning.",
+        "km": "ថាមពលដ៏ពោរពេញដោយក្តីសង្ឃឹម និងព្យាបាល កំពុងនៅជុំវិញអ្នក ដូចជាពន្លឺក្រោយព្យុះ។ ជំនឿលើអនាគតកំពុងត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Lingering doubt could dim a hope that is just starting to return. Old disappointments may whisper that good things never last.",
+        "km": "ការសង្ស័យដែលនៅសល់ អាចធ្វើឱ្យក្តីសង្ឃឹមដែលទើបតែចាប់ផ្តើមត្រឡប់មកវិញ ស្រអាប់។ ការខកចិត្តចាស់ៗ អាចខ្សឹបប្រាប់ថារឿងល្អៗមិនដែលស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward renewal, inspiration and peace. Your hopes could gently start to come true.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការកើតឡើងវិញ ការបំផុសគំនិត និងសន្តិភាព។ ក្តីសង្ឃឹមរបស់អ្នក អាចចាប់ផ្តើមក្លាយជាការពិតដោយទន់ភ្លន់។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "A hazy, emotional energy surrounds you, where things are hard to read. Dreams, fears and intuition are all strong.",
+        "km": "ថាមពលដ៏ស្រអាប់ និងពោរពេញដោយអារម្មណ៍ កំពុងនៅជុំវិញអ្នក ដែលអ្វីៗពិបាកយល់។ សុបិន ការភ័យខ្លាច និងវិចារណញាណ សុទ្ធតែខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Confusion or hidden motives in the air could lead you astray. Fears may dress themselves up as facts, so check before you believe.",
+        "km": "ការភាន់ច្រឡំ ឬគោលបំណងលាក់កំបាំងនៅជុំវិញ អាចនាំអ្នកឱ្យវង្វេង។ ការភ័យខ្លាច អាចក្លែងខ្លួនជាការពិត ដូច្នេះសូមពិនិត្យមុននឹងជឿ។"
+      },
+      "outcome": {
+        "en": "The energy is heading slowly toward clarity as the fog lifts. Trusting what you can verify could guide you through.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពច្បាស់លាស់បន្តិចម្តងៗ ខណៈអ័ព្ទរសាយ។ ការទុកចិត្តលើអ្វីដែលអ្នកអាចផ្ទៀងផ្ទាត់ អាចណែនាំអ្នកឆ្លងកាត់។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "A bright, joyful energy surrounds you, full of warmth and confidence. Things feel easier and more open.",
+        "km": "ថាមពលដ៏ភ្លឺស្វាង និងរីករាយ កំពុងនៅជុំវិញអ្នក ពោរពេញដោយភាពកក់ក្តៅ និងទំនុកចិត្ត។ អ្វីៗហាក់ដូចជាងាយស្រួល និងបើកចំហជាងមុន។"
+      },
+      "challenge": {
+        "en": "An easy, sunny mood could hide a small problem that needs attention. Bright days still call for care with the details.",
+        "km": "អារម្មណ៍ស្រួល និងភ្លឺស្វាង អាចបិទបាំងបញ្ហាតូចមួយដែលត្រូវការការយកចិត្តទុកដាក់។ ថ្ងៃដ៏ភ្លឺស្វាង នៅតែត្រូវការការប្រុងប្រយ័ត្នលើព័ត៌មានលម្អិត។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward success, happiness and recognition. Good things could grow and be shared widely.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពជោគជ័យ សុភមង្គល និងការទទួលស្គាល់។ រឿងល្អៗអាចរីកចម្រើន និងត្រូវបានចែករំលែកយ៉ាងទូលំទូលាយ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "An awakening energy surrounds you, calling you to look back honestly and rise again. Something is asking for renewal.",
+        "km": "ថាមពលនៃការភ្ញាក់ដឹងខ្លួន កំពុងនៅជុំវិញអ្នក ដោយហៅអ្នកឱ្យក្រឡេកមើលក្រោយដោយស្មោះត្រង់ ហើយក្រោកឡើងម្តងទៀត។ អ្វីមួយកំពុងស្នើសុំការកើតឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Harsh self-judgement could drown out a call to begin again. Guilt about the past may hold you back from a fresh start.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងយ៉ាងតឹងរ៉ឹង អាចគ្របដណ្តប់ការហៅឱ្យចាប់ផ្តើមម្តងទៀត។ អារម្មណ៍ខុសអំពីអតីតកាល អាចរារាំងអ្នកពីការចាប់ផ្តើមថ្មី។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward a fresh start and a clear decision. A sense of purpose could return strongly.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការចាប់ផ្តើមថ្មី និងការសម្រេចចិត្តច្បាស់លាស់។ អារម្មណ៍នៃគោលបំណង អាចត្រឡប់មកវិញយ៉ាងខ្លាំង។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "A complete, fulfilling energy surrounds you, as if a circle is closing. There is a sense of arrival.",
+        "km": "ថាមពលនៃភាពពេញលេញ និងការសម្រេចបាន កំពុងនៅជុំវិញអ្នក ហាក់ដូចជារង្វង់មួយកំពុងបិទ។ មានអារម្មណ៍ថាបានមកដល់ទីដៅ។"
+      },
+      "challenge": {
+        "en": "Unfinished details could keep a chapter from closing properly. Rushing on to the next thing may leave something important behind.",
+        "km": "ព័ត៌មានលម្អិតដែលមិនទាន់ចប់ អាចរារាំងជំពូកមួយមិនឱ្យបិទបានត្រឹមត្រូវ។ ការប្រញាប់ទៅរឿងបន្ទាប់ អាចទុកអ្វីមួយសំខាន់នៅពីក្រោយ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward completion and a new, wider journey. Success could open doors to the next stage.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការបញ្ចប់ និងដំណើរថ្មីដែលទូលំទូលាយជាងមុន។ ភាពជោគជ័យ អាចបើកទ្វារទៅកាន់ដំណាក់កាលបន្ទាប់។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A spark of fresh, eager energy surrounds you. New ideas and motivation seem to arrive easily.",
+        "km": "ផ្កាភ្លើងនៃថាមពលស្រស់ និងរំភើប កំពុងនៅជុំវិញអ្នក។ គំនិតថ្មី និងកម្លាំងចិត្ត ហាក់ដូចជាមកដល់យ៉ាងងាយ។"
+      },
+      "challenge": {
+        "en": "Excitement that never turns into action could burn out quickly. A fresh idea may fade if it waits too long to be used.",
+        "km": "ភាពរំភើបដែលមិនដែលប្រែជាសកម្មភាព អាចឆេះអស់យ៉ាងរហ័ស។ គំនិតថ្មីអាចរសាត់បាត់ ប្រសិនបើវារង់ចាំយូរពេកមុនត្រូវបានប្រើ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward a new beginning full of passion. Something you start could grow quickly.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការចាប់ផ្តើមថ្មីដែលពោរពេញដោយចំណង់។ អ្វីដែលអ្នកចាប់ផ្តើម អាចរីកធំយ៉ាងរហ័ស។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Restless, forward-looking energy surrounds you, with plans and possibilities in the air. The world feels bigger.",
+        "km": "ថាមពលដែលមិនស្ងប់ និងសម្លឹងទៅមុខ កំពុងនៅជុំវិញអ្នក ដោយមានផែនការ និងលទ្ធភាពនៅគ្រប់ទីកន្លែង។ ពិភពលោកហាក់ដូចជាធំជាងមុន។"
+      },
+      "challenge": {
+        "en": "Endless planning could keep your energy stuck in your head. At some point, a choice may need to be made and acted on.",
+        "km": "ការរៀបផែនការមិនចេះចប់ អាចធ្វើឱ្យថាមពលរបស់អ្នកជាប់នៅក្នុងក្បាល។ នៅពេលណាមួយ ជម្រើសប្រហែលជាត្រូវធ្វើ និងអនុវត្ត។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward expansion and bolder steps. New horizons could open once you commit.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការពង្រីក និងជំហានដែលក្លាហានជាងមុន។ ជើងមេឃថ្មីអាចបើកឡើង នៅពេលអ្នកប្តេជ្ញា។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "An expanding, hopeful energy surrounds you, as efforts begin to reach further. Results seem to be on the way.",
+        "km": "ថាមពលដែលពង្រីក និងពោរពេញដោយក្តីសង្ឃឹម កំពុងនៅជុំវិញអ្នក ខណៈការខិតខំចាប់ផ្តើមឈានទៅឆ្ងាយជាងមុន។ លទ្ធផលហាក់ដូចជាកំពុងធ្វើដំណើរមក។"
+      },
+      "challenge": {
+        "en": "Waiting for results could stir up impatience and doubt. Progress may feel slower than it really is when you watch it too closely.",
+        "km": "ការរង់ចាំលទ្ធផល អាចបង្កើតការមិនអត់ធ្មត់ និងការសង្ស័យ។ ការរីកចម្រើនអាចហាក់ដូចជាយឺតជាងការពិត នៅពេលអ្នកតាមដានវាជិតពេក។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward growth and wider opportunities. Your efforts could pay off from unexpected places.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការរីកចម្រើន និងឱកាសកាន់តែទូលំទូលាយ។ ការខិតខំរបស់អ្នក អាចផ្តល់ផលពីកន្លែងដែលមិននឹកស្មានដល់។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A festive, settled energy surrounds you, with a sense of home and celebration. People around you feel supportive.",
+        "km": "ថាមពលនៃការប្រារព្ធ និងស្ងប់សុខ កំពុងនៅជុំវិញអ្នក ជាមួយអារម្មណ៍នៃផ្ទះ និងការអបអរ។ មនុស្សនៅជុំវិញអ្នក ហាក់ដូចជាគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "A busy routine could make you miss the happiness already present. Joy needs to be noticed before it can really be felt.",
+        "km": "ទម្លាប់ដ៏មមាញឹក អាចធ្វើឱ្យអ្នករំលងសុភមង្គលដែលមានស្រាប់។ សេចក្តីរីករាយត្រូវតែត្រូវបានកត់សម្គាល់សិន ទើបអាចទទួលអារម្មណ៍វាបានពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward stability and happy milestones. A celebration or a settled home could be part of it.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកស្ថិរភាព និងព្រឹត្តិការណ៍សំខាន់ដ៏រីករាយ។ ការអបអរ ឬផ្ទះដែលស្ងប់សុខ អាចជាផ្នែកមួយនៃវា។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Competitive, restless energy surrounds you, with many voices and opinions clashing. Things feel busy and noisy.",
+        "km": "ថាមពលនៃការប្រកួតប្រជែង និងមិនស្ងប់ កំពុងនៅជុំវិញអ្នក ដោយមានសំឡេង និងមតិជាច្រើនប៉ះទង្គិចគ្នា។ អ្វីៗហាក់ដូចជាមមាញឹក និងអ៊ូអរ។"
+      },
+      "challenge": {
+        "en": "Constant friction and small rivalries could wear down your patience. Petty arguments may drain energy you need for what matters.",
+        "km": "ការប៉ះទង្គិច និងការប្រជែងតូចៗជាប្រចាំ អាចធ្វើឱ្យការអត់ធ្មត់របស់អ្នករលាយបាត់។ ការប្រកែករឿងតូចតាច អាចបង្ហូរថាមពលដែលអ្នកត្រូវការសម្រាប់អ្វីដែលសំខាន់។"
+      },
+      "outcome": {
+        "en": "The energy could settle once people find common ground. Healthy competition may then sharpen everyone involved, including you.",
+        "km": "ថាមពលអាចស្ងប់ទៅវិញ នៅពេលមនុស្សរកឃើញចំណុចរួម។ បន្ទាប់មក ការប្រកួតប្រជែងដ៏ល្អ អាចធ្វើឱ្យអ្នកពាក់ព័ន្ធទាំងអស់មុតស្រួចជាងមុន រួមទាំងអ្នកផងដែរ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "A proud, encouraging energy surrounds you, with recognition in the air. Your efforts are being noticed.",
+        "km": "ថាមពលនៃមោទនភាព និងការលើកទឹកចិត្ត កំពុងនៅជុំវិញអ្នក ដោយមានការទទួលស្គាល់នៅគ្រប់ទីកន្លែង។ ការខិតខំរបស់អ្នក កំពុងត្រូវបានគេកត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Attention from others could stir pride in you or envy in them. Success that is shared tends to last longer than success kept to yourself.",
+        "km": "ការយកចិត្តទុកដាក់ពីអ្នកដទៃ អាចបង្កើតមោទនភាពក្នុងខ្លួនអ្នក ឬការច្រណែនក្នុងខ្លួនគេ។ ភាពជោគជ័យដែលចែករំលែក ច្រើនតែស្ថិតស្ថេរជាងភាពជោគជ័យដែលទុកសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward victory and public appreciation. Confidence could carry you into bigger roles.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកជ័យជម្នះ និងការកោតសរសើរជាសាធារណៈ។ ទំនុកចិត្ត អាចនាំអ្នកទៅកាន់តួនាទីធំជាងមុន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "A defensive, determined energy surrounds you, as if you must stand your ground. Pressure is coming from several sides.",
+        "km": "ថាមពលនៃការការពារខ្លួន និងការតាំងចិត្ត កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាអ្នកត្រូវឈរការពារជំហរ។ សម្ពាធកំពុងមកពីច្រើនទិស។"
+      },
+      "challenge": {
+        "en": "Feeling that you must always be on guard could exhaust you. Not every challenge around you needs a fight.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែប្រុងប្រយ័ត្នជានិច្ច អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ មិនមែនគ្រប់ការប្រជែងនៅជុំវិញអ្នក សុទ្ធតែត្រូវការការប្រយុទ្ធនោះទេ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward a stronger position if you hold firm on what matters. Courage could outlast the pressure.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកជំហររឹងមាំជាងមុន ប្រសិនបើអ្នករឹងមាំលើអ្វីដែលសំខាន់។ ភាពក្លាហាន អាចស្ថិតនៅយូរជាងសម្ពាធ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Fast, lively energy surrounds you, with news and movement everywhere you look. Things are speeding up.",
+        "km": "ថាមពលរហ័ស និងរស់រវើក កំពុងនៅជុំវិញអ្នក ដោយមានដំណឹង និងចលនានៅគ្រប់ទីកន្លែងដែលអ្នកមើល។ អ្វីៗកំពុងបង្កើនល្បឿន។"
+      },
+      "challenge": {
+        "en": "A rushed, hurried atmosphere could lead to hasty choices. Speed may hide small mistakes until they become bigger ones.",
+        "km": "បរិយាកាសប្រញាប់ប្រញាល់ អាចនាំទៅរកជម្រើសដែលធ្វើដោយប្រញាប់។ ល្បឿនអាចបិទបាំងកំហុសតូចៗ រហូតដល់វាក្លាយជាកំហុសធំ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward quick progress and good news. Things could come together faster than expected.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការរីកចម្រើនរហ័ស និងដំណឹងល្អ។ អ្វីៗអាចរួមគ្នាលឿនជាងការរំពឹងទុក។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "A weary but resilient energy surrounds you, as if you have been through a long struggle. You are still standing.",
+        "km": "ថាមពលដែលនឿយហត់ ប៉ុន្តែធន់ កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាអ្នកបានឆ្លងកាត់ការតស៊ូដ៏យូរ។ អ្នកនៅតែឈរ។"
+      },
+      "challenge": {
+        "en": "Tiredness and old wounds could make you suspicious of everything new. Being guarded may stop you from accepting help when it comes.",
+        "km": "ភាពនឿយហត់ និងរបួសចាស់ៗ អាចធ្វើឱ្យអ្នកសង្ស័យគ្រប់យ៉ាងដែលថ្មី។ ការប្រុងប្រយ័ត្នពេក អាចរារាំងអ្នកពីការទទួលយកជំនួយ នៅពេលវាមកដល់។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward the end of a hard stretch. Persistence could carry you through to relief.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកទីបញ្ចប់នៃដំណាក់កាលលំបាក។ ការតស៊ូ អាចនាំអ្នកឆ្លងកាត់ទៅរកការធូរស្រាល។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "A heavy, burdened energy surrounds you, with many responsibilities pressing in. It may feel like too much at once.",
+        "km": "ថាមពលដ៏ធ្ងន់ និងពោរពេញដោយបន្ទុក កំពុងនៅជុំវិញអ្នក ដោយមានភារកិច្ចជាច្រើនសង្កត់មក។ វាអាចហាក់ដូចជាច្រើនពេកក្នុងពេលតែមួយ។"
+      },
+      "challenge": {
+        "en": "Carrying every burden alone could push you toward burnout. The weight may be more than one person should ever hold.",
+        "km": "ការលីសែងគ្រប់បន្ទុកតែម្នាក់ឯង អាចរុញអ្នកទៅរកការអស់កម្លាំង។ ទម្ងន់នោះ អាចច្រើនជាងអ្វីដែលមនុស្សម្នាក់គួរទ្រាំ។"
+      },
+      "outcome": {
+        "en": "The energy could lighten once some burdens are shared or set down. Relief may follow honest limits.",
+        "km": "ថាមពលអាចស្រាលជាងមុន នៅពេលបន្ទុកខ្លះត្រូវបានចែករំលែក ឬដាក់ចុះ។ ការធូរស្រាលអាចមកបន្ទាប់ពីការកំណត់ដែនកំណត់ដោយស្មោះត្រង់។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "A curious, youthful energy surrounds you, full of interest in new things. News or ideas may be exciting you.",
+        "km": "ថាមពលដ៏ចង់ដឹង និងក្មេងខ្ចី កំពុងនៅជុំវិញអ្នក ពោរពេញដោយចំណាប់អារម្មណ៍លើរឿងថ្មីៗ។ ដំណឹង ឬគំនិតមួយ ប្រហែលជាកំពុងធ្វើឱ្យអ្នករំភើប។"
+      },
+      "challenge": {
+        "en": "Restless curiosity could scatter your focus across too many things. Starting many projects may leave little finished and little gained.",
+        "km": "ចិត្តចង់ដឹងដែលមិនស្ងប់ អាចធ្វើឱ្យការផ្តោតអារម្មណ៍របស់អ្នកខ្ចាត់ខ្ចាយលើរឿងច្រើនពេក។ ការចាប់ផ្តើមគម្រោងច្រើន អាចធ្វើឱ្យមានរឿងតិចតួចដែលបានបញ្ចប់ និងទទួលបានផល។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward discovery and adventure. A new interest could grow into something meaningful if you stay with it.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការរកឃើញ និងដំណើរផ្សងព្រេង។ ចំណាប់អារម្មណ៍ថ្មីមួយ អាចរីកធំទៅជាអ្វីមួយដែលមានអត្ថន័យ ប្រសិនបើអ្នកនៅជាប់ជាមួយវា។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold, energetic movement surrounds you, as if change is about to happen fast. You may feel ready to act.",
+        "km": "ចលនាដ៏ក្លាហាន និងពោរពេញដោយថាមពល កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាការផ្លាស់ប្តូរនឹងកើតឡើងយ៉ាងលឿន។ អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រៀមធ្វើសកម្មភាព។"
+      },
+      "challenge": {
+        "en": "Impulsive energy could lead to rash decisions you later regret. Charging ahead without a plan may create problems that could be avoided.",
+        "km": "ថាមពលដែលធ្វើតាមចិត្តភ្លាមៗ អាចនាំទៅរកការសម្រេចចិត្តដោយមិនគិត ដែលអ្នកសោកស្តាយនៅពេលក្រោយ។ ការប្រញាប់ទៅមុខដោយគ្មានផែនការ អាចបង្កបញ្ហាដែលអាចជៀសវាងបាន។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward exciting change, travel or a new venture. Bold action could move you forward quickly.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការផ្លាស់ប្តូរដ៏គួរឱ្យរំភើប ការធ្វើដំណើរ ឬមុខរបរថ្មី។ សកម្មភាពដ៏ក្លាហាន អាចរុញអ្នកទៅមុខយ៉ាងរហ័ស។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "A confident, magnetic energy surrounds you, drawing people in. You may feel more like yourself than usual.",
+        "km": "ថាមពលដ៏មានទំនុកចិត្ត និងទាក់ទាញ កំពុងនៅជុំវិញអ្នក ដោយទាក់ទាញមនុស្សឱ្យចូលមកជិត។ អ្នកប្រហែលជាមានអារម្មណ៍ថាជាខ្លួនឯងច្រើនជាងធម្មតា។"
+      },
+      "challenge": {
+        "en": "Being everyone's source of energy could leave you running on empty. Others may lean on you more than is fair.",
+        "km": "ការធ្វើជាប្រភពថាមពលរបស់គ្រប់គ្នា អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ អ្នកដទៃអាចពឹងលើអ្នកច្រើនជាងអ្វីដែលយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward success and warm support. Your confidence could inspire others to join you.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពជោគជ័យ និងការគាំទ្រដ៏កក់ក្តៅ។ ទំនុកចិត្តរបស់អ្នក អាចបំផុសអ្នកដទៃឱ្យចូលរួមជាមួយអ្នក។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "A visionary, leading energy surrounds you, encouraging you to take charge. Big plans feel possible.",
+        "km": "ថាមពលនៃចក្ខុវិស័យ និងការដឹកនាំ កំពុងនៅជុំវិញអ្នក ដោយលើកទឹកចិត្តអ្នកឱ្យទទួលបន្ទុក។ ផែនការធំៗហាក់ដូចជាអាចធ្វើទៅបាន។"
+      },
+      "challenge": {
+        "en": "Impatience with people who move more slowly could create friction. Not everyone around you can keep your pace or share your urgency.",
+        "km": "ការមិនអត់ធ្មត់ជាមួយមនុស្សដែលដើរយឺតជាង អាចបង្កការប៉ះទង្គិច។ មិនមែនគ្រប់គ្នានៅជុំវិញអ្នក អាចដើរតាមល្បឿន ឬមានភាពបន្ទាន់ដូចអ្នកនោះទេ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward leadership and real achievement. Your vision could take shape with others' help.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពជាអ្នកដឹកនាំ និងសមិទ្ធផលពិតប្រាកដ។ ចក្ខុវិស័យរបស់អ្នក អាចមានរូបរាងដោយមានជំនួយពីអ្នកដទៃ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "A loving, open-hearted energy surrounds you, full of new feelings. Kindness and affection seem close.",
+        "km": "ថាមពលនៃក្តីស្រឡាញ់ និងចិត្តទូលាយ កំពុងនៅជុំវិញអ្នក ពោរពេញដោយអារម្មណ៍ថ្មីៗ។ ក្តីមេត្តា និងក្តីស្រឡាញ់ ហាក់ដូចជានៅជិត។"
+      },
+      "challenge": {
+        "en": "Fear of being hurt again could close your heart to kindness that is offered. Guarding yourself too carefully may keep love out.",
+        "km": "ការខ្លាចឈឺចាប់ម្តងទៀត អាចបិទចិត្តរបស់អ្នកពីក្តីមេត្តាដែលគេផ្តល់ឱ្យ។ ការការពារខ្លួនប្រុងប្រយ័ត្នពេក អាចធ្វើឱ្យក្តីស្រឡាញ់ចូលមិនបាន។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward emotional renewal and new connection. Love or friendship could deepen naturally.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការកើតឡើងវិញផ្នែកអារម្មណ៍ និងទំនាក់ទំនងថ្មី។ ក្តីស្រឡាញ់ ឬមិត្តភាព អាចកាន់តែជ្រាលជ្រៅដោយធម្មជាតិ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A connected, harmonious energy surrounds you, centred on one close bond. Mutual understanding feels strong.",
+        "km": "ថាមពលនៃការភ្ជាប់ទំនាក់ទំនង និងភាពសុខដុម កំពុងនៅជុំវិញអ្នក ដោយផ្តោតលើចំណងជិតស្និទ្ធមួយ។ ការយល់គ្នាទៅវិញទៅមក ហាក់ដូចជារឹងមាំ។"
+      },
+      "challenge": {
+        "en": "An imbalance in a close relationship could quietly creep in. One side giving more may slowly breed resentment if it goes unspoken.",
+        "km": "ភាពមិនស្មើគ្នាក្នុងទំនាក់ទំនងជិតស្និទ្ធ អាចលួចចូលមកដោយស្ងាត់ៗ។ ភាគីម្ខាងផ្តល់ច្រើនជាង អាចបង្កើតការអាក់អន់ចិត្តបន្តិចម្តងៗ ប្រសិនបើមិនបាននិយាយចេញ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward partnership and deeper trust. A relationship could become a real source of support.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពជាដៃគូ និងការទុកចិត្តកាន់តែជ្រាលជ្រៅ។ ទំនាក់ទំនងមួយ អាចក្លាយជាប្រភពគាំទ្រពិតប្រាកដ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A sociable, celebratory energy surrounds you, with friends and good times close at hand. Laughter comes easily.",
+        "km": "ថាមពលនៃការជួបជុំ និងការអបអរ កំពុងនៅជុំវិញអ្នក ជាមួយមិត្តភក្តិ និងពេលវេលាល្អៗនៅក្បែរដៃ។ សំណើចកើតឡើងយ៉ាងងាយ។"
+      },
+      "challenge": {
+        "en": "Too much socialising could distract you from your own priorities. Having fun may quietly become a way to avoid harder things.",
+        "km": "ការជួបជុំសង្គមច្រើនពេក អាចបង្វែរអ្នកពីអាទិភាពផ្ទាល់ខ្លួន។ ការសប្បាយ អាចក្លាយជាមធ្យោបាយគេចពីរឿងដែលពិបាកដោយស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward shared joy and a stronger circle of friends. Community could support you well.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកសេចក្តីរីករាយរួមគ្នា និងរង្វង់មិត្តភក្តិកាន់តែរឹងមាំ។ សហគមន៍អាចគាំទ្រអ្នកបានល្អ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "A flat, withdrawn energy surrounds you, as if nothing quite excites you. Boredom or discontent may be strong.",
+        "km": "ថាមពលដែលគ្មានជីវិត និងដកខ្លួន កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាគ្មានអ្វីធ្វើឱ្យអ្នករំភើបសោះ។ ភាពធុញទ្រាន់ ឬការមិនពេញចិត្ត ប្រហែលជាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "A flat, uninterested mood could make you overlook real chances. Turning inward too long may shut out what life is offering.",
+        "km": "អារម្មណ៍ដែលគ្មានជីវិត និងមិនចាប់អារម្មណ៍ អាចធ្វើឱ្យអ្នកមើលរំលងឱកាសពិត។ ការបែរចូលខាងក្នុងយូរពេក អាចបិទអ្វីដែលជីវិតកំពុងផ្តល់ឱ្យ។"
+      },
+      "outcome": {
+        "en": "The energy could lift once you notice what you have been ignoring. Fresh interest may return.",
+        "km": "ថាមពលអាចប្រសើរឡើង នៅពេលអ្នកកត់សម្គាល់អ្វីដែលអ្នកធ្លាប់មិនខ្វល់។ ចំណាប់អារម្មណ៍ថ្មី អាចត្រឡប់មកវិញ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "A sad, grieving energy surrounds you, focused on what was lost. Disappointment may still feel close.",
+        "km": "ថាមពលនៃភាពសោកសៅ និងការកាន់ទុក្ខ កំពុងនៅជុំវិញអ្នក ដោយផ្តោតលើអ្វីដែលបានបាត់បង់។ ការខកចិត្ត ប្រហែលជានៅតែជិតចិត្ត។"
+      },
+      "challenge": {
+        "en": "Lingering regret could hide what is still good around you. Grief may harden into a habit if it has nowhere to go.",
+        "km": "ការសោកស្តាយដែលនៅសល់ អាចបិទបាំងអ្វីដែលនៅតែល្អនៅជុំវិញអ្នក។ ទុក្ខព្រួយអាចរឹងទៅជាទម្លាប់ ប្រសិនបើវាគ្មានកន្លែងបញ្ចេញ។"
+      },
+      "outcome": {
+        "en": "The energy is moving slowly toward acceptance and healing. What remains could become a new foundation.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការទទួលយក និងការជាសះស្បើយបន្តិចម្តងៗ។ អ្វីដែលនៅសល់ អាចក្លាយជាមូលដ្ឋានថ្មី។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "A nostalgic, tender energy surrounds you, with memories and old friends close. Comfort comes from the familiar.",
+        "km": "ថាមពលនៃការនឹករលឹក និងទន់ភ្លន់ កំពុងនៅជុំវិញអ្នក ដោយមានអនុស្សាវរីយ៍ និងមិត្តចាស់ៗនៅជិត។ ការលួងលោមមកពីអ្វីដែលធ្លាប់ស្គាល់។"
+      },
+      "challenge": {
+        "en": "Longing for the way things used to be could make the present feel thin. Old patterns may return along with old memories.",
+        "km": "ការនឹករលឹកពីរបៀបដែលអ្វីៗធ្លាប់មាន អាចធ្វើឱ្យបច្ចុប្បន្នហាក់ដូចជាខ្វះខាត។ លំនាំចាស់ៗ អាចត្រឡប់មកវិញជាមួយអនុស្សាវរីយ៍ចាស់។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward reunion and gentle comfort. Kindness from the past could brighten the future.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការជួបជុំគ្នាឡើងវិញ និងការលួងលោមដ៏ទន់ភ្លន់។ ក្តីមេត្តាពីអតីតកាល អាចធ្វើឱ្យអនាគតភ្លឺស្វាង។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "A dreamy, scattered energy surrounds you, full of options and wishes. It may be hard to tell what is real.",
+        "km": "ថាមពលដ៏ស្រមៃ និងខ្ចាត់ខ្ចាយ កំពុងនៅជុំវិញអ្នក ពោរពេញដោយជម្រើស និងក្តីប្រាថ្នា។ វាអាចពិបាកដឹងថាអ្វីជាការពិត។"
+      },
+      "challenge": {
+        "en": "Daydreams and too many options could lead you toward the wrong choice. What glitters most may not be what it seems.",
+        "km": "ការស្រមៃ និងជម្រើសច្រើនពេក អាចនាំអ្នកទៅរកជម្រើសខុស។ អ្វីដែលភ្លឺចែងចាំងជាងគេ ប្រហែលជាមិនដូចអ្វីដែលវាមើលទៅនោះទេ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward clarity once you choose one path. Focus could turn a dream into something real.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពច្បាស់លាស់ នៅពេលអ្នកជ្រើសផ្លូវមួយ។ ការផ្តោតអារម្មណ៍ អាចប្រែក្តីស្រមៃឱ្យទៅជាការពិត។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "A searching, restless energy surrounds you, as if something no longer satisfies. Part of you wants to move on.",
+        "km": "ថាមពលនៃការស្វែងរក និងមិនស្ងប់ កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាអ្វីមួយលែងធ្វើឱ្យពេញចិត្ត។ ផ្នែកមួយនៃខ្លួនអ្នក ចង់បន្តទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Fear of leaving could keep you stuck in something that feels empty. Doubt may make a needed change seem harder than it is.",
+        "km": "ការខ្លាចចាកចេញ អាចធ្វើឱ្យអ្នកជាប់នៅក្នុងអ្វីដែលទទេ។ ការសង្ស័យ អាចធ្វើឱ្យការផ្លាស់ប្តូរដែលចាំបាច់ ហាក់ដូចជាពិបាកជាងការពិត។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward a meaningful new direction. Walking away from what is empty could lead to what fulfils you.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកទិសដៅថ្មីដ៏មានអត្ថន័យ។ ការដើរចេញពីអ្វីដែលទទេ អាចនាំទៅរកអ្វីដែលបំពេញចិត្តអ្នក។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "A content, satisfied energy surrounds you, as if a wish is near. There is much to feel good about.",
+        "km": "ថាមពលនៃភាពពេញចិត្ត កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាក្តីប្រាថ្នាមួយនៅជិត។ មានរឿងជាច្រើនដែលគួរឱ្យរីករាយ។"
+      },
+      "challenge": {
+        "en": "Comfort could slide into complacency if you stop tending what makes you happy. Good things still need care to last.",
+        "km": "ភាពសុខស្រួល អាចរអិលទៅជាការធ្វេសប្រហែស ប្រសិនបើអ្នកឈប់ថែរក្សាអ្វីដែលធ្វើឱ្យអ្នកសប្បាយ។ រឿងល្អៗនៅតែត្រូវការការថែរក្សា ដើម្បីស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward fulfilment and gratitude. A heartfelt wish could come true, and contentment may settle in.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការសម្រេចបាន និងការដឹងគុណ។ ក្តីប្រាថ្នាពីបេះដូងមួយ អាចក្លាយជាការពិត ហើយភាពពេញចិត្តអាចចូលមកស្ថិតនៅ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "A loving, harmonious energy surrounds your home and close relationships. Belonging and happiness feel strong.",
+        "km": "ថាមពលនៃក្តីស្រឡាញ់ និងភាពសុខដុម កំពុងនៅជុំវិញផ្ទះ និងទំនាក់ទំនងជិតស្និទ្ធរបស់អ្នក។ ការមានកន្លែងរបស់ខ្លួន និងសុភមង្គល ហាក់ដូចជារឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Expecting perfection at home could strain the harmony you have. Real families and friendships come with real flaws.",
+        "km": "ការរំពឹងភាពល្អឥតខ្ចោះនៅក្នុងផ្ទះ អាចធ្វើឱ្យភាពសុខដុមដែលអ្នកមានតានតឹង។ គ្រួសារ និងមិត្តភាពពិតប្រាកដ តែងតែមានចំណុចខ្វះខាតពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward lasting peace and joy at home. Family bonds could grow stronger.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកសន្តិភាព និងសេចក្តីរីករាយយូរអង្វែងនៅក្នុងផ្ទះ។ ចំណងគ្រួសារ អាចកាន់តែរឹងមាំ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A gentle, playful energy surrounds you, open to small surprises. Creative or tender feelings may be stirring.",
+        "km": "ថាមពលដ៏ទន់ភ្លន់ និងលេងសើច កំពុងនៅជុំវិញអ្នក ដោយបើកចំហចំពោះការភ្ញាក់ផ្អើលតូចៗ។ អារម្មណ៍ច្នៃប្រឌិត ឬទន់ភ្លន់ ប្រហែលជាកំពុងរំជួល។"
+      },
+      "challenge": {
+        "en": "Oversensitivity could make small comments feel like big wounds. Tender feelings may be bruised more easily than usual.",
+        "km": "ការរសើបពេក អាចធ្វើឱ្យពាក្យនិយាយតូចៗ ហាក់ដូចជារបួសធំ។ អារម្មណ៍ទន់ភ្លន់ អាចងាយរងរបួសជាងធម្មតា។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward pleasant news and creative inspiration. A kind gesture could brighten things.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកដំណឹងដ៏រីករាយ និងការបំផុសគំនិតច្នៃប្រឌិត។ កាយវិការដ៏សប្បុរសមួយ អាចធ្វើឱ្យអ្វីៗភ្លឺស្វាង។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "A romantic, idealistic energy surrounds you, drawing you toward beauty and feeling. Your heart may be leading.",
+        "km": "ថាមពលនៃមនោសញ្ចេតនា និងឧត្តមគតិ កំពុងនៅជុំវិញអ្នក ដោយទាញអ្នកទៅរកភាពស្រស់ស្អាត និងអារម្មណ៍។ ចិត្តរបស់អ្នក ប្រហែលជាកំពុងដឹកនាំ។"
+      },
+      "challenge": {
+        "en": "Romantic ideals could hide practical problems from view. A beautiful dream may need a gentle reality check.",
+        "km": "ឧត្តមគតិបែបមនោសញ្ចេតនា អាចបិទបាំងបញ្ហាជាក់ស្តែងមិនឱ្យឃើញ។ ក្តីស្រមៃដ៏ស្រស់ស្អាត អាចត្រូវការការពិនិត្យជាមួយការពិតដោយទន់ភ្លន់។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward an offer or invitation that touches your heart. Sincerity could open new doors.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការផ្តល់ជូន ឬការអញ្ជើញដែលប៉ះចិត្តអ្នក។ ភាពស្មោះ អាចបើកទ្វារថ្មី។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "A compassionate, intuitive energy surrounds you, sensitive to others' feelings. You may be the one people turn to.",
+        "km": "ថាមពលនៃក្តីអាណិតអាសូរ និងវិចារណញាណ កំពុងនៅជុំវិញអ្នក ដោយរសើបចំពោះអារម្មណ៍អ្នកដទៃ។ អ្នកប្រហែលជាមនុស្សដែលគេងាកមករក។"
+      },
+      "challenge": {
+        "en": "Absorbing everyone's emotions could leave you drained and unsure of your own. Your feelings need room too.",
+        "km": "ការស្រូបយកអារម្មណ៍របស់គ្រប់គ្នា អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងមិនច្បាស់ពីអារម្មណ៍ខ្លួនឯង។ អារម្មណ៍របស់អ្នកផ្ទាល់ ក៏ត្រូវការកន្លែងដែរ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward emotional healing and deeper understanding. Your care could help others and yourself.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការព្យាបាលផ្នែកអារម្មណ៍ និងការយល់ដឹងកាន់តែជ្រាលជ្រៅ។ ការយកចិត្តទុកដាក់របស់អ្នក អាចជួយអ្នកដទៃ និងខ្លួនឯង។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "A calm, emotionally mature energy surrounds you, steady even when feelings run high. Others find you reassuring.",
+        "km": "ថាមពលដ៏ស្ងប់ និងចាស់ទុំផ្នែកអារម្មណ៍ កំពុងនៅជុំវិញអ្នក នឹងនរ ទោះបីអារម្មណ៍ឡើងខ្ពស់ក៏ដោយ។ អ្នកដទៃយល់ថាអ្នកធ្វើឱ្យពួកគេស្ងប់ចិត្ត។"
+      },
+      "challenge": {
+        "en": "Keeping feelings under tight control could create distance from people you love. Calm may turn into a mask that hides what you need.",
+        "km": "ការគ្រប់គ្រងអារម្មណ៍តឹងពេក អាចបង្កើតគម្លាតពីមនុស្សដែលអ្នកស្រឡាញ់។ ភាពស្ងប់ អាចក្លាយជារបាំងមុខដែលលាក់អ្វីដែលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward emotional balance and quiet respect. Steady kindness could earn the deep trust of people around you.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកតុល្យភាពផ្នែកអារម្មណ៍ និងការគោរពដ៏ស្ងប់ស្ងាត់។ ក្តីមេត្តាដ៏នឹងនរ អាចទទួលបានការទុកចិត្តយ៉ាងជ្រាលជ្រៅពីមនុស្សនៅជុំវិញអ្នក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A sharp, clear energy surrounds you, cutting through confusion. Truth and new ideas feel close.",
+        "km": "ថាមពលដ៏មុតស្រួច និងច្បាស់លាស់ កំពុងនៅជុំវិញអ្នក ដោយកាត់ផ្តាច់ភាពច្របូកច្របល់។ ការពិត និងគំនិតថ្មីៗ ហាក់ដូចជានៅជិត។"
+      },
+      "challenge": {
+        "en": "Sharp words could cut people more than you intend. Clarity without kindness may wound even when it is true.",
+        "km": "ពាក្យសម្តីមុតស្រួច អាចធ្វើឱ្យមនុស្សឈឺចាប់ច្រើនជាងអ្វីដែលអ្នកចង់។ ភាពច្បាស់លាស់ដែលគ្មានក្តីមេត្តា អាចធ្វើឱ្យរបួស ទោះបីវាជាការពិតក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward a breakthrough and a clear decision. New understanding could change your direction.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការរកឃើញថ្មីដ៏សំខាន់ និងការសម្រេចចិត្តច្បាស់លាស់។ ការយល់ដឹងថ្មី អាចផ្លាស់ប្តូរទិសដៅរបស់អ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "A tense, undecided energy surrounds you, as if you are holding your breath. A choice is waiting.",
+        "km": "ថាមពលដ៏តានតឹង និងមិនទាន់សម្រេច កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាអ្នកកំពុងទប់ដង្ហើម។ ជម្រើសមួយកំពុងរង់ចាំ។"
+      },
+      "challenge": {
+        "en": "Avoiding a decision could keep tension building around you. Not choosing may slowly become a problem of its own.",
+        "km": "ការគេចពីការសម្រេចចិត្ត អាចធ្វើឱ្យភាពតានតឹងនៅជុំវិញអ្នកបន្តកើនឡើង។ ការមិនជ្រើសរើស អាចក្លាយជាបញ្ហាមួយដោយខ្លួនវាបន្តិចម្តងៗ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward release once a decision is made. Peace could follow a clear choice.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការធូរស្រាល នៅពេលការសម្រេចចិត្តត្រូវបានធ្វើ។ សន្តិភាពអាចមកបន្ទាប់ពីជម្រើសច្បាស់លាស់។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "A painful, sorrowful energy surrounds you, linked to hurt or disappointment. Your heart may feel bruised.",
+        "km": "ថាមពលនៃការឈឺចាប់ និងទុក្ខសោក កំពុងនៅជុំវិញអ្នក ដែលភ្ជាប់ទៅនឹងរបួសចិត្ត ឬការខកចិត្ត។ ចិត្តរបស់អ្នក ប្រហែលជាមានស្នាមជាំ។"
+      },
+      "challenge": {
+        "en": "Holding hurt inside could make it heavier with time. Hiding sadness from others may slow your healing.",
+        "km": "ការទប់ការឈឺចាប់ទុកក្នុងចិត្ត អាចធ្វើឱ្យវាកាន់តែធ្ងន់តាមពេលវេលា។ ការលាក់ភាពសោកសៅពីអ្នកដទៃ អាចធ្វើឱ្យការជាសះស្បើយរបស់អ្នកយឺត។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward release and healing once the hurt is faced. Tears could clear the way for peace.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការរួចផុត និងការជាសះស្បើយ នៅពេលការឈឺចាប់ត្រូវបានប្រឈមមុខ។ ទឹកភ្នែកអាចបើកផ្លូវទៅរកសន្តិភាព។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "A quiet, resting energy surrounds you, calling for pause and recovery. Your body and mind may want stillness.",
+        "km": "ថាមពលដ៏ស្ងប់ស្ងាត់ និងសម្រាក កំពុងនៅជុំវិញអ្នក ដោយហៅឱ្យផ្អាក និងស្តារកម្លាំង។ រាងកាយ និងចិត្តរបស់អ្នក ប្រហែលជាចង់បានភាពស្ងៀមស្ងាត់។"
+      },
+      "challenge": {
+        "en": "Ignoring your need for rest could lead to exhaustion. Guilt about slowing down may push you further than is healthy.",
+        "km": "ការមិនខ្វល់ពីតម្រូវការសម្រាក អាចនាំទៅរកការអស់កម្លាំង។ អារម្មណ៍ខុសពេលបន្ថយល្បឿន អាចរុញអ្នកទៅឆ្ងាយជាងអ្វីដែលល្អសម្រាប់សុខភាព។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward renewal after a real rest. Coming back refreshed could make everything look clearer and lighter.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការកើតឡើងវិញ បន្ទាប់ពីការសម្រាកពិតប្រាកដ។ ការត្រឡប់មកវិញដោយស្រស់ស្រាយ អាចធ្វើឱ្យអ្វីៗមើលទៅច្បាស់ និងស្រាលជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "A tense, conflicted energy surrounds you, with winners and losers in the air. Pride may be stirring trouble.",
+        "km": "ថាមពលនៃភាពតានតឹង និងជម្លោះ កំពុងនៅជុំវិញអ្នក ដោយមានអ្នកឈ្នះ និងអ្នកចាញ់។ មោទនភាព ប្រហែលជាកំពុងបង្កបញ្ហា។"
+      },
+      "challenge": {
+        "en": "A need to win at all costs could damage relationships around you. Empty victories may leave bitterness that lasts longer than the argument.",
+        "km": "តម្រូវការចង់ឈ្នះដោយមិនគិតពីតម្លៃ អាចធ្វើឱ្យខូចទំនាក់ទំនងនៅជុំវិញអ្នក។ ជ័យជម្នះទទេ អាចទុកនូវភាពជូរចត់ដែលស្ថិតនៅយូរជាងការប្រកែក។"
+      },
+      "outcome": {
+        "en": "The energy could settle once someone chooses peace over pride. Walking away may bring more relief than winning.",
+        "km": "ថាមពលអាចស្ងប់ទៅវិញ នៅពេលនរណាម្នាក់ជ្រើសរើសសន្តិភាពជាជាងមោទនភាព។ ការដើរចេញ អាចនាំមកនូវការធូរស្រាលច្រើនជាងការឈ្នះ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "A transitional energy surrounds you, moving from trouble toward calmer waters. Things are slowly easing.",
+        "km": "ថាមពលនៃការផ្លាស់ប្តូរ កំពុងនៅជុំវិញអ្នក ដោយដើរពីបញ្ហា ទៅរកភាពស្ងប់ស្ងាត់។ អ្វីៗកំពុងធូរស្រាលបន្តិចម្តងៗ។"
+      },
+      "challenge": {
+        "en": "Looking back with longing could slow your journey toward calmer days. Sadness about what you left may weigh on you.",
+        "km": "ការក្រឡេកមើលក្រោយដោយការនឹករលឹក អាចធ្វើឱ្យដំណើររបស់អ្នកទៅរកថ្ងៃដែលស្ងប់ជាងមុនយឺត។ ភាពសោកសៅអំពីអ្វីដែលអ្នកបានចាកចេញ អាចធ្ងន់លើអ្នក។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward peace and a fresh start. Calmer days could be ahead once the hardest part of the journey is behind you.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកសន្តិភាព និងការចាប់ផ្តើមថ្មី។ ថ្ងៃដែលស្ងប់ជាងមុន អាចនៅខាងមុខ នៅពេលផ្នែកដ៏លំបាកបំផុតនៃដំណើរកន្លងផុត។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "A secretive, strategic energy surrounds you, where not everything is said openly. Cleverness is in play.",
+        "km": "ថាមពលនៃការលាក់កំបាំង និងយុទ្ធសាស្ត្រ កំពុងនៅជុំវិញអ្នក ដែលមិនមែនអ្វីៗទាំងអស់ត្រូវបាននិយាយដោយបើកចំហ។ ភាពឆ្លាតវៃកំពុងដើរតួ។"
+      },
+      "challenge": {
+        "en": "Hidden agendas, yours or someone else's, could create mistrust. Shortcuts taken quietly may backfire when they come to light.",
+        "km": "គោលបំណងលាក់កំបាំង ទោះរបស់អ្នក ឬរបស់អ្នកដទៃ អាចបង្កើតការមិនទុកចិត្ត។ ផ្លូវកាត់ដែលធ្វើដោយស្ងាត់ៗ អាចត្រឡប់មកប៉ះពាល់វិញ នៅពេលវាត្រូវបានគេដឹង។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward the truth coming out. An honest strategy could protect you best when hidden things surface.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការពិតដែលលេចចេញមក។ យុទ្ធសាស្ត្រដ៏ស្មោះត្រង់ អាចការពារអ្នកបានល្អបំផុត នៅពេលអ្វីៗដែលលាក់កំបាំងលេចចេញ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "A tight, restrictive energy surrounds you, as if options are closing in. You may feel trapped.",
+        "km": "ថាមពលដ៏តឹងតែង និងរឹតត្បិត កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាជម្រើសកំពុងរួមតូច។ អ្នកប្រហែលជាមានអារម្មណ៍ថាជាប់អន្ទាក់។"
+      },
+      "challenge": {
+        "en": "Fear could make your limits seem stronger than they really are. A feeling of helplessness may keep you standing still.",
+        "km": "ការភ័យខ្លាច អាចធ្វើឱ្យដែនកំណត់របស់អ្នក ហាក់ដូចជារឹងមាំជាងការពិត។ អារម្មណ៍ថាគ្មានជំនួយ អាចធ្វើឱ្យអ្នកនៅស្ងៀមនៅកន្លែងដដែល។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward freedom once one small step is taken. Limits could loosen faster than expected.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកសេរីភាព នៅពេលជំហានតូចមួយត្រូវបានបោះ។ ដែនកំណត់អាចធូររលុងលឿនជាងការរំពឹងទុក។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "An anxious, restless energy surrounds you, full of worry and sleepless thoughts. Fear may feel close.",
+        "km": "ថាមពលនៃការថប់បារម្ភ និងមិនស្ងប់ កំពុងនៅជុំវិញអ្នក ពោរពេញដោយកង្វល់ និងគំនិតដែលធ្វើឱ្យដេកមិនលក់។ ការភ័យខ្លាច ហាក់ដូចជានៅជិត។"
+      },
+      "challenge": {
+        "en": "Worry could grow louder in silence and isolation. If anxiety starts affecting your sleep or health, professional support may help.",
+        "km": "ការព្រួយបារម្ភ អាចកាន់តែខ្លាំងក្នុងភាពស្ងៀមស្ងាត់ និងភាពឯកោ។ ប្រសិនបើការថប់បារម្ភចាប់ផ្តើមប៉ះពាល់ដល់ដំណេក ឬសុខភាពរបស់អ្នក ការគាំទ្រពីអ្នកជំនាញអាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward relief once fears are shared. Things could look brighter in daylight.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការធូរស្រាល នៅពេលការភ័យខ្លាចត្រូវបានចែករំលែក។ អ្វីៗអាចមើលទៅភ្លឺស្វាងជាងមុននៅពេលថ្ងៃ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A heavy, ending energy surrounds you, as if something has run its painful course. The lowest point may be close.",
+        "km": "ថាមពលដ៏ធ្ងន់ និងនៃការបញ្ចប់ កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាអ្វីមួយបានដល់ទីបញ្ចប់ដ៏ឈឺចាប់របស់វា។ ចំណុចទាបបំផុត ប្រហែលជានៅជិត។"
+      },
+      "challenge": {
+        "en": "Dwelling on a painful ending could keep the wound open. Replaying what went wrong may delay the recovery that is possible.",
+        "km": "ការគិតច្រើនពីការបញ្ចប់ដ៏ឈឺចាប់ អាចធ្វើឱ្យរបួសនៅតែបើក។ ការរំលឹកអ្វីដែលខុសម្តងហើយម្តងទៀត អាចពន្យារការជាសះស្បើយដែលអាចកើតឡើងបាន។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward recovery and a new dawn. The worst could already be behind you.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការស្តារឡើងវិញ និងអរុណរះថ្មី។ អ្វីដែលអាក្រក់បំផុត អាចកន្លងផុតទៅហើយ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "An alert, curious energy surrounds you, full of questions and news. Information is moving quickly.",
+        "km": "ថាមពលដ៏ភ្ញាក់រលឹក និងចង់ដឹង កំពុងនៅជុំវិញអ្នក ពោរពេញដោយសំណួរ និងដំណឹង។ ព័ត៌មានកំពុងផ្លាស់ទីយ៉ាងរហ័ស។"
+      },
+      "challenge": {
+        "en": "Gossip and half-truths could cause misunderstandings. Words may travel faster than facts, so check before you repeat anything.",
+        "km": "ការនិយាយដើមគេ និងការពិតពាក់កណ្តាល អាចបង្កការយល់ច្រឡំ។ ពាក្យសម្តីអាចធ្វើដំណើរលឿនជាងការពិត ដូច្នេះសូមពិនិត្យមុននឹងនិយាយតពីគេ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward new knowledge and sharper understanding. Curiosity could lead to useful discoveries.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកចំណេះដឹងថ្មី និងការយល់ដឹងកាន់តែមុតស្រួច។ ចិត្តចង់ដឹង អាចនាំទៅរកការរកឃើញដែលមានប្រយោជន៍។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "A fast, forceful energy surrounds you, driven by strong opinions. Things are being pushed hard.",
+        "km": "ថាមពលរហ័ស និងខ្លាំង កំពុងនៅជុំវិញអ្នក ដោយត្រូវបានជំរុញដោយមតិខ្លាំងៗ។ អ្វីៗកំពុងត្រូវបានរុញយ៉ាងខ្លាំង។"
+      },
+      "challenge": {
+        "en": "A hurried, forceful mood could run over other people's feelings. Charging ahead may win the moment but cause lasting conflict.",
+        "km": "អារម្មណ៍ប្រញាប់ និងខ្លាំងក្លា អាចជាន់ឈ្លីអារម្មណ៍របស់អ្នកដទៃ។ ការប្រញាប់ទៅមុខ អាចឈ្នះមួយភ្លែត ប៉ុន្តែបង្កជម្លោះយូរអង្វែង។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward quick decisions and rapid change. Decisive action could move things forward fast.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការសម្រេចចិត្តរហ័ស និងការផ្លាស់ប្តូរលឿន។ សកម្មភាពដ៏ម៉ឺងម៉ាត់ អាចរុញអ្វីៗទៅមុខយ៉ាងលឿន។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "A clear, honest energy surrounds you, with little room for illusion or pretence. Boundaries feel important.",
+        "km": "ថាមពលដ៏ច្បាស់លាស់ និងស្មោះត្រង់ កំពុងនៅជុំវិញអ្នក ដោយមានកន្លែងតិចតួចសម្រាប់ការបំភាន់ ឬការធ្វើពុត។ ដែនកំណត់ ហាក់ដូចជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Too much coolness could push warmth and support away. Honest words may sound harsher than you mean them to.",
+        "km": "ភាពត្រជាក់ច្រើនពេក អាចរុញភាពកក់ក្តៅ និងការគាំទ្រចេញ។ ពាក្យសម្តីស្មោះត្រង់ អាចស្តាប់ទៅគ្រោតគ្រាតជាងអ្វីដែលអ្នកចង់មានន័យ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward independence and clear decisions. Respect could follow the honesty you show, both to yourself and others.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកឯករាជ្យភាព និងការសម្រេចចិត្តច្បាស់លាស់។ ការគោរពអាចមកបន្ទាប់ពីភាពស្មោះត្រង់ដែលអ្នកបង្ហាញ ទាំងចំពោះខ្លួនឯង និងអ្នកដទៃ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "A rational, authoritative energy surrounds you, focused on facts and fairness. Clear thinking is valued.",
+        "km": "ថាមពលនៃហេតុផល និងអំណាច កំពុងនៅជុំវិញអ្នក ដោយផ្តោតលើការពិត និងភាពយុត្តិធម៌។ ការគិតច្បាស់លាស់ ត្រូវបានគេឱ្យតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Cold logic could creep into decisions that also need a human touch. Feelings may be set aside too easily.",
+        "km": "ហេតុផលដ៏ត្រជាក់ អាចលួចចូលក្នុងការសម្រេចចិត្ត ដែលត្រូវការការយកចិត្តទុកដាក់ផ្នែកមនុស្សធម៌ផងដែរ។ អារម្មណ៍អាចត្រូវបានគេទុកមួយឡែកយ៉ាងងាយពេក។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward sound judgement and trusted authority. Fair decisions could bring lasting respect.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការវិនិច្ឆ័យដ៏ត្រឹមត្រូវ និងអំណាចដែលគេទុកចិត្ត។ ការសម្រេចចិត្តដ៏យុត្តិធម៌ អាចនាំមកនូវការគោរពយូរអង្វែង។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A grounded, promising energy surrounds you, with practical new beginnings close. Something solid is ready to start.",
+        "km": "ថាមពលដ៏នឹងនរ និងមានសក្តានុពល កំពុងនៅជុំវិញអ្នក ដោយមានការចាប់ផ្តើមថ្មីជាក់ស្តែងនៅជិត។ អ្វីមួយដែលរឹងមាំ ត្រៀមរួចជាស្រេចដើម្បីចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Hesitation could let a promising chance slip by. Waiting for complete certainty may cost you a good start.",
+        "km": "ការស្ទាក់ស្ទើរ អាចធ្វើឱ្យឱកាសដ៏មានសក្តានុពលរអិលបាត់។ ការរង់ចាំភាពប្រាកដប្រជាទាំងស្រុង អាចធ្វើឱ្យអ្នកបាត់ការចាប់ផ្តើមដ៏ល្អ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward security and tangible growth. A small beginning could become something lasting.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកសុវត្ថិភាព និងការរីកចម្រើនជាក់ស្តែង។ ការចាប់ផ្តើមតូចមួយ អាចក្លាយជាអ្វីមួយដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "A busy, juggling energy surrounds you, with many demands at once. Flexibility is keeping things afloat.",
+        "km": "ថាមពលដ៏មមាញឹក និងចាត់ចែងច្រើនរឿង កំពុងនៅជុំវិញអ្នក ដោយមានការទាមទារជាច្រើនក្នុងពេលតែមួយ។ ភាពបត់បែន កំពុងរក្សាអ្វីៗឱ្យដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Juggling too much could cause something important to drop. Constant switching between tasks may wear you out.",
+        "km": "ការចាត់ចែងរឿងច្រើនពេក អាចធ្វើឱ្យអ្វីមួយសំខាន់ធ្លាក់។ ការប្តូរពីកិច្ចការមួយទៅមួយជាប្រចាំ អាចធ្វើឱ្យអ្នកនឿយហត់។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward better balance once priorities are clear. Things could become more manageable.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកតុល្យភាពល្អជាងមុន នៅពេលអាទិភាពច្បាស់លាស់។ អ្វីៗអាចងាយគ្រប់គ្រងជាងមុន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "A cooperative, productive energy surrounds you, with teamwork and skill in focus. Others value what you bring.",
+        "km": "ថាមពលនៃកិច្ចសហការ និងផលិតភាព កំពុងនៅជុំវិញអ្នក ដោយផ្តោតលើការងារជាក្រុម និងជំនាញ។ អ្នកដទៃឱ្យតម្លៃអ្វីដែលអ្នកនាំមក។"
+      },
+      "challenge": {
+        "en": "Poor communication could slow good work around you. Unclear roles in a group may cause friction or wasted effort.",
+        "km": "ការប្រាស្រ័យទាក់ទងមិនល្អ អាចធ្វើឱ្យការងារល្អនៅជុំវិញអ្នកយឺត។ តួនាទីមិនច្បាស់ក្នុងក្រុម អាចបង្កការប៉ះទង្គិច ឬការខិតខំឥតប្រយោជន៍។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward quality results and recognition. Working together could achieve more than working alone.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកលទ្ធផលដែលមានគុណភាព និងការទទួលស្គាល់។ ការធ្វើការជាមួយគ្នា អាចសម្រេចបានច្រើនជាងការធ្វើតែម្នាក់ឯង។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "A cautious, protective energy surrounds you, focused on keeping things safe. Holding on feels important.",
+        "km": "ថាមពលនៃការប្រុងប្រយ័ត្ន និងការការពារ កំពុងនៅជុំវិញអ្នក ដោយផ្តោតលើការរក្សាអ្វីៗឱ្យមានសុវត្ថិភាព។ ការកាន់ទុកហាក់ដូចជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Fear of loss could make you hold everything too tightly. Guarding what you have may block room for new growth.",
+        "km": "ការខ្លាចបាត់បង់ អាចធ្វើឱ្យអ្នកកាន់ក្តាប់អ្វីៗតឹងពេក។ ការការពារអ្វីដែលអ្នកមាន អាចរារាំងកន្លែងសម្រាប់ការរីកចម្រើនថ្មី។"
+      },
+      "outcome": {
+        "en": "The energy could shift toward stable security with a little more openness. Balance may bring both safety and growth.",
+        "km": "ថាមពលអាចប្រែប្រួលទៅរកសុវត្ថិភាពដ៏នឹងនរ ជាមួយការបើកចិត្តបន្ថែមបន្តិច។ តុល្យភាពអាចនាំមកនូវទាំងសុវត្ថិភាព និងការរីកចម្រើន។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "A lean, difficult energy surrounds you, with resources or support feeling thin. You may feel left out in the cold.",
+        "km": "ថាមពលដ៏ខ្វះខាត និងលំបាក កំពុងនៅជុំវិញអ្នក ដោយធនធាន ឬការគាំទ្រហាក់ដូចជាតិចតួច។ អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានគេទុកចោល។"
+      },
+      "challenge": {
+        "en": "Shame or pride could stop you from seeking the help you need. Struggling alone may make a hard time last longer.",
+        "km": "ការខ្មាសអៀន ឬមោទនភាព អាចរារាំងអ្នកពីការស្វែងរកជំនួយដែលអ្នកត្រូវការ។ ការតស៊ូតែម្នាក់ឯង អាចធ្វើឱ្យពេលវេលាលំបាកស្ថិតនៅយូរជាងមុន។"
+      },
+      "outcome": {
+        "en": "The energy could turn toward relief once support is accepted. Help may be nearer than you think, from people or services who care.",
+        "km": "ថាមពលអាចប្រែទៅរកការធូរស្រាល នៅពេលការគាំទ្រត្រូវបានទទួលយក។ ជំនួយអាចនៅជិតជាងអ្វីដែលអ្នកគិត ពីមនុស្ស ឬសេវាកម្មដែលយកចិត្តទុកដាក់។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "A generous energy surrounds you, with help given and received. Kindness is flowing in both directions.",
+        "km": "ថាមពលនៃសេចក្តីសប្បុរស កំពុងនៅជុំវិញអ្នក ដោយមានជំនួយផ្តល់ និងទទួល។ ក្តីមេត្តាកំពុងហូរទៅមកទាំងសងខាង។"
+      },
+      "challenge": {
+        "en": "Uneven giving and receiving could create a sense of obligation. Help that comes with hidden strings may cause strain.",
+        "km": "ការផ្តល់ និងទទួលមិនស្មើគ្នា អាចបង្កើតអារម្មណ៍ជំពាក់គុណ។ ជំនួយដែលមានលក្ខខណ្ឌលាក់កំបាំង អាចបង្កភាពតានតឹង។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward fairness and shared support. Generosity could return to you, often from where you least expect it.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពយុត្តិធម៌ និងការគាំទ្ររួមគ្នា។ សេចក្តីសប្បុរសអាចត្រឡប់មករកអ្នកវិញ ច្រើនតែពីកន្លែងដែលអ្នកមិនរំពឹងទុក។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "A patient, waiting energy surrounds you, as if seeds are growing underground. Results are not yet visible.",
+        "km": "ថាមពលនៃការអត់ធ្មត់ និងការរង់ចាំ កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាគ្រាប់ពូជកំពុងដុះនៅក្រោមដី។ លទ្ធផលមិនទាន់អាចមើលឃើញនៅឡើយទេ។"
+      },
+      "challenge": {
+        "en": "Impatience could make you dig up what is still growing. Doubt about slow results may tempt you to quit too early.",
+        "km": "ការមិនអត់ធ្មត់ អាចធ្វើឱ្យអ្នកជីកអ្វីដែលកំពុងលូតលាស់ឡើង។ ការសង្ស័យអំពីលទ្ធផលយឺត អាចល្បួងអ្នកឱ្យបោះបង់លឿនពេក។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward a worthwhile harvest. Patience with steady effort could pay off in ways that last.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការប្រមូលផលដ៏មានតម្លៃ។ ការអត់ធ្មត់ជាមួយការខិតខំជាប់លាប់ អាចផ្តល់ផលតាមរបៀបដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "A diligent, focused energy surrounds you, encouraging careful work and practice. Skill is building quietly.",
+        "km": "ថាមពលនៃការឧស្សាហ៍ព្យាយាម និងការផ្តោតអារម្មណ៍ កំពុងនៅជុំវិញអ្នក ដោយលើកទឹកចិត្តឱ្យធ្វើការដោយប្រុងប្រយ័ត្ន និងហាត់ហ្វឹក។ ជំនាញកំពុងកើនឡើងដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Repetitive work could start to feel dull and tempt you toward shortcuts. Losing sight of your purpose may lower the quality of what you do.",
+        "km": "ការងារដដែលៗ អាចចាប់ផ្តើមគួរឱ្យធុញ ហើយល្បួងអ្នកឱ្យប្រើផ្លូវកាត់។ ការភ្លេចគោលបំណង អាចធ្វើឱ្យគុណភាពនៃអ្វីដែលអ្នកធ្វើធ្លាក់ចុះ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward mastery and well-earned reward. Your dedication could be noticed by people who matter to your progress.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពស្ទាត់ជំនាញ និងរង្វាន់ដែលសមនឹងទទួល។ ការលះបង់របស់អ្នក អាចត្រូវបានកត់សម្គាល់ដោយមនុស្សដែលសំខាន់សម្រាប់ការរីកចម្រើនរបស់អ្នក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "A comfortable, independent energy surrounds you, as if you are enjoying the fruits of your work. Life feels abundant.",
+        "km": "ថាមពលនៃភាពសុខស្រួល និងឯករាជ្យ កំពុងនៅជុំវិញអ្នក ហាក់ដូចជាអ្នកកំពុងរីករាយនឹងផលនៃការងាររបស់អ្នក។ ជីវិតហាក់ដូចជាបរិបូរណ៍។"
+      },
+      "challenge": {
+        "en": "Self-sufficiency could slowly turn into isolation. Enjoying good things alone may start to feel empty.",
+        "km": "ការពឹងខ្លួនឯងបាន អាចប្រែទៅជាភាពឯកោបន្តិចម្តងៗ។ ការរីករាយនឹងរឿងល្អៗតែម្នាក់ឯង អាចចាប់ផ្តើមហាក់ដូចជាទទេ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward lasting comfort and pride in what you have built. Sharing it could make it richer.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពសុខស្រួលយូរអង្វែង និងមោទនភាពចំពោះអ្វីដែលអ្នកបានកសាង។ ការចែករំលែកវា អាចធ្វើឱ្យវាកាន់តែមានតម្លៃ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "A rooted, secure energy surrounds you, linked to family and long-term stability. Tradition and legacy feel present.",
+        "km": "ថាមពលដែលមានឫសគល់ និងសុវត្ថិភាព កំពុងនៅជុំវិញអ្នក ដោយភ្ជាប់ទៅនឹងគ្រួសារ និងស្ថិរភាពរយៈពេលវែង។ ប្រពៃណី និងកេរ្តិ៍ដំណែល ហាក់ដូចជាមានវត្តមាន។"
+      },
+      "challenge": {
+        "en": "Family pressure or tradition could weigh on your own choices. Others' expectations may feel heavier than your own wishes.",
+        "km": "សម្ពាធពីគ្រួសារ ឬប្រពៃណី អាចធ្ងន់លើជម្រើសរបស់អ្នក។ ការរំពឹងរបស់អ្នកដទៃ អាចហាក់ដូចជាធ្ងន់ជាងបំណងប្រាថ្នារបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward lasting security and family harmony. What you build could serve generations.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកសុវត្ថិភាពយូរអង្វែង និងភាពសុខដុមក្នុងគ្រួសារ។ អ្វីដែលអ្នកកសាង អាចបម្រើជំនាន់ជាច្រើន។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A studious, practical energy surrounds you, curious about learning something useful. New skills feel within reach.",
+        "km": "ថាមពលនៃការសិក្សា និងជាក់ស្តែង កំពុងនៅជុំវិញអ្នក ដោយចង់ដឹងចង់រៀនអ្វីមួយដែលមានប្រយោជន៍។ ជំនាញថ្មីៗ ហាក់ដូចជានៅក្បែរដៃ។"
+      },
+      "challenge": {
+        "en": "Daydreaming about a plan could replace actually starting it. Good intentions may stay unfinished without a simple routine.",
+        "km": "ការស្រមៃអំពីផែនការ អាចជំនួសការចាប់ផ្តើមធ្វើវាពិតប្រាកដ។ ចេតនាល្អ អាចនៅតែមិនបានបញ្ចប់ ប្រសិនបើគ្មានទម្លាប់សាមញ្ញមួយ។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward new opportunities through learning. A small start could grow steadily into a skill you rely on.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកឱកាសថ្មី តាមរយៈការរៀនសូត្រ។ ការចាប់ផ្តើមតូចមួយ អាចរីកចម្រើនជាប់លាប់ទៅជាជំនាញដែលអ្នកពឹងផ្អែកបាន។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "A slow, steady energy surrounds you, focused on routine and reliability. Progress is quiet but real.",
+        "km": "ថាមពលដ៏យឺត និងនឹងនរ កំពុងនៅជុំវិញអ្នក ដោយផ្តោតលើទម្លាប់ និងភាពគួរឱ្យទុកចិត្ត។ ការរីកចម្រើនស្ងាត់ៗ ប៉ុន្តែពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "A safe routine could harden into a rut. Too much caution may stall growth that a small change would allow.",
+        "km": "ទម្លាប់ដែលមានសុវត្ថិភាព អាចរឹងទៅជាភាពដដែលៗ។ ការប្រុងប្រយ័ត្នច្រើនពេក អាចធ្វើឱ្យការរីកចម្រើនជាប់គាំង ដែលការផ្លាស់ប្តូរតូចមួយអាចដោះស្រាយបាន។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward dependable progress and trust. Persistence could bring solid results, even if they arrive slowly.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកការរីកចម្រើនដែលអាចពឹងបាន និងការទុកចិត្ត។ ការតស៊ូអាចនាំមកនូវលទ្ធផលរឹងមាំ ទោះបីវាមកដល់យឺតក៏ដោយ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "A nurturing, grounded energy surrounds you, focused on home, comfort and care. Practical warmth is strong.",
+        "km": "ថាមពលនៃការថែរក្សា និងនឹងនរ កំពុងនៅជុំវិញអ្នក ដោយផ្តោតលើផ្ទះ ភាពសុខស្រួល និងការថែទាំ។ ភាពកក់ក្តៅជាក់ស្តែង មានកម្លាំងខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Caring for everyone and everything could leave you depleted. Your own needs may be the ones most easily overlooked.",
+        "km": "ការថែរក្សាគ្រប់គ្នា និងគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ តម្រូវការរបស់អ្នកផ្ទាល់ អាចជាតម្រូវការដែលងាយត្រូវបានមើលរំលងបំផុត។"
+      },
+      "outcome": {
+        "en": "The energy is moving toward comfort, abundance and security. A well-tended home could feel like a haven.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពសុខស្រួល ភាពបរិបូរណ៍ និងសុវត្ថិភាព។ ផ្ទះដែលត្រូវបានថែរក្សាបានល្អ អាចក្លាយជាជម្រកដ៏សុខសាន្ត។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "A prosperous, stable energy surrounds you, backed by experience and resources. Things feel secure and well managed.",
+        "km": "ថាមពលនៃភាពរុងរឿង និងស្ថិរភាព កំពុងនៅជុំវិញអ្នក ដោយមានបទពិសោធន៍ និងធនធានគាំទ្រ។ អ្វីៗហាក់ដូចជាមានសុវត្ថិភាព និងគ្រប់គ្រងបានល្អ។"
+      },
+      "challenge": {
+        "en": "A focus on material success could crowd out rest and closeness. Status may start to matter more than it should.",
+        "km": "ការផ្តោតលើភាពជោគជ័យផ្នែកសម្ភារៈ អាចរុញការសម្រាក និងភាពស្និទ្ធស្នាលចេញ។ ឋានៈអាចចាប់ផ្តើមសំខាន់ជាងអ្វីដែលគួរ។"
+      },
+      "outcome": {
+        "en": "The energy is heading toward lasting success and security. Wise stewardship of what you have could benefit many people around you.",
+        "km": "ថាមពលកំពុងឆ្ពោះទៅរកភាពជោគជ័យ និងសុវត្ថិភាពយូរអង្វែង។ ការគ្រប់គ្រងដោយឈ្លាសវៃលើអ្វីដែលអ្នកមាន អាចផ្តល់ប្រយោជន៍ដល់មនុស្សជាច្រើននៅជុំវិញអ្នក។"
+      }
+    }
+  }
+}
