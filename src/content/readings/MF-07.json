@@ -1,0 +1,1097 @@
+{
+  "questionId": "MF-07",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You may be in a mood to take chances with money, drawn by excitement or a fresh start. That openness is lively but can leave you exposed.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ចង់ប្រថុយជាមួយប្រាក់ ដោយត្រូវបានទាក់ទាញដោយភាពរំភើប ឬការចាប់ផ្តើមថ្មី។ ភាពបើកចំហនោះ រស់រវើក តែអាចធ្វើឱ្យអ្នកងាយរងគ្រោះ។"
+      },
+      "challenge": {
+        "en": "Be careful of leaping into a deal, trip or purchase without reading the details. Enthusiasm can hide costs that only appear later.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការលោតចូលកិច្ចព្រមព្រៀង ការធ្វើដំណើរ ឬការទិញ ដោយមិនអានព័ត៌មានលម្អិត។ ភាពរំភើប អាចលាក់ការចំណាយដែលលេចឡើងតែនៅពេលក្រោយ។"
+      },
+      "outcome": {
+        "en": "Pairing your sense of adventure with a quick check of the facts could keep your money safe. Freedom may feel better when it is not costly.",
+        "km": "ការផ្គូផ្គងស្មារតីផ្សងព្រេងរបស់អ្នក ជាមួយការពិនិត្យការពិតរហ័ស អាចរក្សាប្រាក់របស់អ្នកឱ្យមានសុវត្ថិភាព។ សេរីភាព អាចមានអារម្មណ៍ល្អជាងមុន នៅពេលវាមិនថ្លៃ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You have the skill to make money work for you, and you may feel confident about a plan. Confidence is useful, provided the plan holds up.",
+        "km": "អ្នកមានជំនាញធ្វើឱ្យប្រាក់ធ្វើការសម្រាប់អ្នក ហើយអ្នកប្រហែលជាមានទំនុកចិត្តលើផែនការមួយ។ ទំនុកចិត្តមានប្រយោជន៍ ប្រសិនបើផែនការនោះរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Watch for overestimating what you can manage or juggling too many money projects at once. Clever plans can still fall short when spread thin.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប៉ាន់ស្មានហួសពីអ្វីដែលអ្នកអាចគ្រប់គ្រង ឬការដោះស្រាយគម្រោងប្រាក់ច្រើនពេកក្នុងពេលតែមួយ។ ផែនការឆ្លាតវៃ នៅតែអាចខ្វះខាត នៅពេលត្រូវបានបែងចែកស្តើងពេក។"
+      },
+      "outcome": {
+        "en": "Focusing your skill on one well-tested idea could protect you from costly mistakes. Careful mastery may pay off better than many gambles.",
+        "km": "ការផ្តោតជំនាញរបស់អ្នកលើគំនិតមួយដែលបានសាកល្បងល្អ អាចការពារអ្នកពីកំហុសដែលមានតម្លៃខ្ពស់។ ការស្ទាត់ជំនាញដោយប្រុងប្រយ័ត្ន អាចទទួលបានផលល្អជាងការប្រថុយច្រើន។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Something about your finances may be unclear or not fully known, such as fees, terms or what others are planning. Your instincts may sense it.",
+        "km": "អ្វីមួយអំពីហិរញ្ញវត្ថុរបស់អ្នក ប្រហែលជាមិនច្បាស់ ឬមិនដឹងពេញលេញ ដូចជាថ្លៃសេវា លក្ខខណ្ឌ ឬអ្វីដែលអ្នកដទៃកំពុងគ្រោង។ សភាវគតិរបស់អ្នក ប្រហែលជាដឹងវា។"
+      },
+      "challenge": {
+        "en": "Be wary of hidden charges, fine print and information that is not being shared. What you do not see can still cost you.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការគិតថ្លៃលាក់កំបាំង អក្សរតូចៗ និងព័ត៌មានដែលមិនត្រូវបានចែករំលែក។ អ្វីដែលអ្នកមិនឃើញ នៅតែអាចធ្វើឱ្យអ្នកខាតបង់។"
+      },
+      "outcome": {
+        "en": "Asking questions until things are clear could save you from unpleasant surprises. Trusting your quiet doubts may prove wise.",
+        "km": "ការសួរសំណួររហូតដល់អ្វីៗច្បាស់ អាចសង្គ្រោះអ្នកពីការភ្ញាក់ផ្អើលមិនរីករាយ។ ការទុកចិត្តលើការសង្ស័យស្ងាត់ៗរបស់អ្នក អាចបង្ហាញថាឆ្លាតវៃ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Money may feel plentiful, or you may enjoy spending on comfort, food and the people you love. Generosity is a strength that needs limits.",
+        "km": "ប្រាក់ប្រហែលជាមានអារម្មណ៍សម្បូរ ឬអ្នកប្រហែលជារីករាយនឹងការចំណាយលើភាពសុខស្រួល អាហារ និងមនុស្សដែលអ្នកស្រឡាញ់។ ចិត្តទូលាយ គឺជាចំណុចខ្លាំងដែលត្រូវការដែនកំណត់។"
+      },
+      "challenge": {
+        "en": "Take care with overindulgence, whether in treats, gifts or lifestyle upgrades. Abundance can quietly turn into overspending.",
+        "km": "សូមប្រុងប្រយ័ត្នជាមួយការបណ្តោយចិត្តហួសហេតុ មិនថាលើរង្វាន់ អំណោយ ឬការដំឡើងរបៀបរស់នៅ។ ភាពសម្បូរបែប អាចប្រែទៅជាការចំណាយហួសហេតុដោយស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Enjoying abundance with some restraint could keep it lasting. A comfortable life may stay comfortable when it is not stretched.",
+        "km": "ការរីករាយនឹងភាពសម្បូរបែប ជាមួយការទប់ចិត្តខ្លះ អាចរក្សាវាឱ្យស្ថិតស្ថេរ។ ជីវិតសុខស្រួល អាចនៅតែសុខស្រួល នៅពេលវាមិនត្រូវបានទាញតឹងពេក។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Your money may be well organised and under control, with clear rules. Stability is a strength, though rigid control has its own risks.",
+        "km": "ប្រាក់របស់អ្នក ប្រហែលជាត្រូវបានរៀបចំយ៉ាងល្អ និងស្ថិតក្រោមការគ្រប់គ្រង ដោយមានច្បាប់ច្បាស់លាស់។ ស្ថិរភាព គឺជាចំណុចខ្លាំង ទោះបីការគ្រប់គ្រងតឹងរ៉ឹងមានហានិភ័យរបស់វាផ្ទាល់ក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Be careful about being so controlling that you miss sensible opportunities or shut out others' input. Too much rigidity can cost as much as carelessness.",
+        "km": "សូមប្រុងប្រយ័ត្នអំពីការគ្រប់គ្រងខ្លាំងពេក រហូតអ្នកខកខានឱកាសសមហេតុផល ឬបិទការចូលរួមពីអ្នកដទៃ។ ភាពតឹងរ៉ឹងហួសហេតុ អាចចំណាយដូចការធ្វេសប្រហែសដែរ។"
+      },
+      "outcome": {
+        "en": "Keeping structure while allowing flexibility could protect and grow what you have. Order may become your safety net.",
+        "km": "ការរក្សារចនាសម្ព័ន្ធ ខណៈពេលអនុញ្ញាតឱ្យមានភាពបត់បែន អាចការពារ និងបង្កើនអ្វីដែលអ្នកមាន។ របៀបរៀបរយ អាចក្លាយជាសំណាញ់សុវត្ថិភាពរបស់អ្នក។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "You may be following money advice from family, tradition or an authority you trust. Guidance helps, though not all of it fits your life.",
+        "km": "អ្នកប្រហែលជាកំពុងដើរតាមដំបូន្មានប្រាក់ពីគ្រួសារ ប្រពៃណី ឬអាជ្ញាធរដែលអ្នកទុកចិត្ត។ ការណែនាំជួយបាន ទោះបីមិនមែនទាំងអស់សមនឹងជីវិតរបស់អ្នកក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Think twice before following money advice just because it comes from someone in authority. Check that it suits your own situation.",
+        "km": "សូមគិតពីរដង មុនពេលដើរតាមដំបូន្មានប្រាក់ តែដោយសារវាមកពីនរណាម្នាក់ដែលមានអំណាច។ សូមពិនិត្យថាវាសមនឹងស្ថានភាពរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Combining good advice with your own judgement could keep your finances on solid ground. Wise guidance may serve you well.",
+        "km": "ការរួមបញ្ចូលដំបូន្មានល្អ ជាមួយការវិនិច្ឆ័យរបស់អ្នកផ្ទាល់ អាចរក្សាហិរញ្ញវត្ថុរបស់អ្នកឱ្យនៅលើដីរឹងមាំ។ ការណែនាំដោយប្រាជ្ញា អាចមានប្រយោជន៍សម្រាប់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "You may be facing a money choice that involves someone else, such as a partner, friend or business associate. Trust is part of the decision.",
+        "km": "អ្នកប្រហែលជាកំពុងប្រឈមមុខនឹងជម្រើសប្រាក់ ដែលពាក់ព័ន្ធនឹងនរណាម្នាក់ផ្សេង ដូចជាដៃគូ មិត្តភក្តិ ឬដៃគូអាជីវកម្ម។ ការទុកចិត្ត គឺជាផ្នែកមួយនៃការសម្រេចចិត្ត។"
+      },
+      "challenge": {
+        "en": "Guard against mixing money and relationships without clear agreements. Joint accounts, loans or ventures can strain even close bonds.",
+        "km": "សូមការពារពីការលាយបញ្ចូលប្រាក់ និងទំនាក់ទំនង ដោយគ្មានកិច្ចព្រមព្រៀងច្បាស់លាស់។ គណនីរួម ប្រាក់កម្ចី ឬគម្រោងរួម អាចធ្វើឱ្យសូម្បីតែចំណងជិតស្និទ្ធក៏តានតឹង។"
+      },
+      "outcome": {
+        "en": "Clear, honest agreements could protect both your money and your relationships. Shared decisions may stay friendly.",
+        "km": "កិច្ចព្រមព្រៀងច្បាស់លាស់ និងស្មោះត្រង់ អាចការពារទាំងប្រាក់ និងទំនាក់ទំនងរបស់អ្នក។ ការសម្រេចចិត្តរួមគ្នា អាចនៅតែរួសរាយ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You may be driving hard toward a financial goal, full of determination. Ambition is pushing you forward quickly.",
+        "km": "អ្នកប្រហែលជាកំពុងជំរុញខ្លាំងឆ្ពោះទៅរកគោលដៅហិរញ្ញវត្ថុ ដោយពោរពេញដោយការប្តេជ្ញាចិត្ត។ មហិច្ឆតា កំពុងជំរុញអ្នកទៅមុខយ៉ាងរហ័ស។"
+      },
+      "challenge": {
+        "en": "Look out for taking big risks or shortcuts to reach a goal faster. Speed can tempt you past warning signs.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រថុយធំ ឬផ្លូវកាត់ ដើម្បីឈានដល់គោលដៅលឿនជាងមុន។ ល្បឿន អាចល្បួងអ្នកឱ្យរំលងសញ្ញាព្រមាន។"
+      },
+      "outcome": {
+        "en": "Steering steadily rather than racing could get you there safely. Controlled progress may protect what you gain.",
+        "km": "ការដឹកនាំដោយនឹងនរ ជាជាងការប្រណាំង អាចនាំអ្នកទៅដល់ទីនោះដោយសុវត្ថិភាព។ ការរីកចម្រើនដែលបានគ្រប់គ្រង អាចការពារអ្វីដែលអ្នកទទួលបាន។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "You may be under some financial pressure, coping with patience and inner strength. You have more resilience than you think.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្រោមសម្ពាធហិរញ្ញវត្ថុខ្លះ ដោយដោះស្រាយដោយការអត់ធ្មត់ និងកម្លាំងខាងក្នុង។ អ្នកមានភាពធន់ច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "Be careful of frustration pushing you into a hasty money decision. Anger and money rarely mix well.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការខកចិត្ត ដែលរុញអ្នកចូលការសម្រេចចិត្តប្រាក់ប្រញាប់។ កំហឹង និងប្រាក់ កម្រលាយបញ្ចូលគ្នាបានល្អណាស់។"
+      },
+      "outcome": {
+        "en": "Calm patience could see you through a testing period without loss. Steady self-control may protect your finances.",
+        "km": "ការអត់ធ្មត់ស្ងប់ស្ងាត់ អាចនាំអ្នកឆ្លងកាត់ដំណាក់កាលសាកល្បង ដោយគ្មានការខាតបង់។ ការគ្រប់គ្រងខ្លួនឯងនឹងនរ អាចការពារហិរញ្ញវត្ថុរបស់អ្នក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You may be handling money mostly on your own, thinking carefully but privately. Independence is a strength that can also isolate.",
+        "km": "អ្នកប្រហែលជាកំពុងគ្រប់គ្រងប្រាក់ភាគច្រើនដោយខ្លួនឯង ដោយគិតដោយប្រុងប្រយ័ត្ន តែឯកជន។ ឯករាជ្យភាព គឺជាចំណុចខ្លាំងដែលក៏អាចធ្វើឱ្យឯកោដែរ។"
+      },
+      "challenge": {
+        "en": "Take care not to make big money decisions without a second opinion. Even careful thinkers can miss what others would spot.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំធ្វើការសម្រេចចិត្តប្រាក់ធំៗ ដោយគ្មានមតិទីពីរ។ សូម្បីតែអ្នកគិតដោយប្រុងប្រយ័ត្ន ក៏អាចខកខានអ្វីដែលអ្នកដទៃនឹងមើលឃើញដែរ។"
+      },
+      "outcome": {
+        "en": "Checking your thinking with someone you trust could prevent avoidable mistakes. Wisdom may grow from shared reflection.",
+        "km": "ការពិនិត្យការគិតរបស់អ្នក ជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត អាចការពារកំហុសដែលអាចជៀសវាងបាន។ ប្រាជ្ញា អាចរីកចម្រើនពីការឆ្លុះបញ្ចាំងរួមគ្នា។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Money may be in a changing phase, with ups and downs outside your control. Luck may feel like it is playing a role.",
+        "km": "ប្រាក់ប្រហែលជាស្ថិតក្នុងដំណាក់កាលផ្លាស់ប្តូរ ដោយមានការឡើងចុះហួសពីការគ្រប់គ្រងរបស់អ្នក។ សំណាងប្រហែលជាមានអារម្មណ៍ថាកំពុងដើរតួ។"
+      },
+      "challenge": {
+        "en": "Beware of betting on luck, whether through gambling, speculation or hoping a good stretch will last. Fortune can turn as quickly as it came.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការភ្នាល់លើសំណាង មិនថាតាមរយៈល្បែង ការប៉ាន់ស្មាន ឬការសង្ឃឹមថាដំណាក់កាលល្អនឹងស្ថិតស្ថេរ។ សំណាងអាចប្រែប្រួលលឿនដូចពេលវាមកដល់។"
+      },
+      "outcome": {
+        "en": "Planning for both ups and downs could keep you steady whatever happens. A cushion may turn uncertainty into security.",
+        "km": "ការធ្វើផែនការសម្រាប់ទាំងការឡើង និងការចុះ អាចរក្សាអ្នកឱ្យនឹងនរ មិនថាអ្វីកើតឡើង។ ទុនបម្រុង អាចប្រែភាពមិនប្រាកដប្រជាទៅជាសុវត្ថិភាព។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Contracts, agreements or obligations may be playing a part in your finances. Fairness and accuracy matter here.",
+        "km": "កិច្ចសន្យា កិច្ចព្រមព្រៀង ឬកាតព្វកិច្ច ប្រហែលជាកំពុងដើរតួក្នុងហិរញ្ញវត្ថុរបស់អ្នក។ ភាពយុត្តិធម៌ និងភាពត្រឹមត្រូវ មានសារៈសំខាន់នៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Be careful with anything you sign, promise or guarantee for someone else. Read the terms and understand your obligations fully.",
+        "km": "សូមប្រុងប្រយ័ត្នជាមួយអ្វីៗដែលអ្នកចុះហត្ថលេខា សន្យា ឬធានាសម្រាប់នរណាម្នាក់ផ្សេង។ សូមអានលក្ខខណ្ឌ ហើយយល់ពីកាតព្វកិច្ចរបស់អ្នកពេញលេញ។"
+      },
+      "outcome": {
+        "en": "Clear, fair agreements could protect you from disputes and loss. Honest dealings may keep things balanced.",
+        "km": "កិច្ចព្រមព្រៀងច្បាស់លាស់ និងយុត្តិធម៌ អាចការពារអ្នកពីជម្លោះ និងការខាតបង់។ ការប្រព្រឹត្តដោយស្មោះត្រង់ អាចរក្សាអ្វីៗឱ្យមានតុល្យភាព។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Financial progress may feel stalled, and you may be waiting for something to change. A pause can be useful if you use it well.",
+        "km": "ការរីកចម្រើនផ្នែកហិរញ្ញវត្ថុ ប្រហែលជាមានអារម្មណ៍ជាប់គាំង ហើយអ្នកប្រហែលជាកំពុងរង់ចាំអ្វីមួយផ្លាស់ប្តូរ។ ការផ្អាក អាចមានប្រយោជន៍ ប្រសិនបើអ្នកប្រើវាបានល្អ។"
+      },
+      "challenge": {
+        "en": "Watch for desperate moves made out of impatience, such as quick loans or risky schemes to break the stalemate. Waiting can be cheaper than forcing.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះចលនាដោយអស់សង្ឃឹម ដែលធ្វើឡើងដោយការមិនអត់ធ្មត់ ដូចជាប្រាក់កម្ចីរហ័ស ឬគម្រោងប្រថុយ ដើម្បីបំបែកភាពជាប់គាំង។ ការរង់ចាំ អាចថោកជាងការបង្ខំ។"
+      },
+      "outcome": {
+        "en": "Patience and a new perspective could reveal safer options. What seems stuck may shift without risky moves.",
+        "km": "ការអត់ធ្មត់ និងទស្សនៈថ្មី អាចបង្ហាញជម្រើសដែលមានសុវត្ថិភាពជាងមុន។ អ្វីដែលហាក់ដូចជាជាប់គាំង អាចផ្លាស់ប្តូរដោយគ្មានចលនាប្រថុយ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "A significant financial change may be underway, such as a job ending or a major expense. Endings bring both risk and opportunity.",
+        "km": "ការផ្លាស់ប្តូរហិរញ្ញវត្ថុដ៏សំខាន់ ប្រហែលជាកំពុងដំណើរការ ដូចជាការបញ្ចប់ការងារ ឬការចំណាយធំ។ ការបញ្ចប់ នាំមកនូវទាំងហានិភ័យ និងឱកាស។"
+      },
+      "challenge": {
+        "en": "Be careful of resisting a necessary change or spending to avoid facing it. Clinging to what is ending can cost more.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទប់ទល់នឹងការផ្លាស់ប្តូរចាំបាច់ ឬការចំណាយដើម្បីជៀសវាងការប្រឈមមុខនឹងវា។ ការប្រកាន់ខ្ជាប់អ្វីដែលកំពុងបញ្ចប់ អាចចំណាយច្រើនជាង។"
+      },
+      "outcome": {
+        "en": "Accepting change and planning for it could lead to a healthier financial position. Transformation may bring renewal.",
+        "km": "ការទទួលយកការផ្លាស់ប្តូរ និងការធ្វើផែនការសម្រាប់វា អាចនាំទៅរកជំហរហិរញ្ញវត្ថុដែលមានសុខភាពល្អជាងមុន។ ការផ្លាស់ប្តូរ អាចនាំមកនូវការកើតឡើងវិញ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You may be trying to keep money in balance, managing several needs at once. Moderation has been serving you.",
+        "km": "អ្នកប្រហែលជាកំពុងព្យាយាមរក្សាប្រាក់ឱ្យមានតុល្យភាព ដោយគ្រប់គ្រងតម្រូវការជាច្រើនក្នុងពេលតែមួយ។ ភាពល្មម កំពុងមានប្រយោជន៍សម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for extremes, whether a sudden splurge after careful saving or harsh cuts after overspending. Swings can undo balance.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះភាពខ្លាំងហួសហេតុ មិនថាការចំណាយហួសហេតុភ្លាមៗ ក្រោយការសន្សំប្រុងប្រយ័ត្ន ឬការកាត់បន្ថយតឹងរ៉ឹង ក្រោយការចំណាយហួសហេតុ។ ការយោល អាចធ្វើឱ្យតុល្យភាពត្រឡប់ក្រោយ។"
+      },
+      "outcome": {
+        "en": "Staying moderate could protect your finances from costly swings in either direction. Patient balance may keep things steady and calm.",
+        "km": "ការរក្សាភាពល្មម អាចការពារហិរញ្ញវត្ថុរបស់អ្នក ពីការយោលទៅម្ខាងៗដែលមានតម្លៃខ្ពស់។ តុល្យភាពដោយអត់ធ្មត់ អាចរក្សាអ្វីៗឱ្យនឹងនរ និងស្ងប់ស្ងាត់។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Money may be tied up with a habit, debt or temptation that feels hard to escape. You may already sense its pull.",
+        "km": "ប្រាក់ប្រហែលជាជាប់ទាក់ទងនឹងទម្លាប់ បំណុល ឬការល្បួង ដែលមានអារម្មណ៍ពិបាករួចខ្លួន។ អ្នកប្រហែលជាមានអារម្មណ៍ពីការទាញរបស់វារួចហើយ។"
+      },
+      "challenge": {
+        "en": "Beware of high-cost borrowing, gambling or anything that promises quick relief but deepens the hole. If you feel trapped, a qualified adviser or support service can help.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការខ្ចីដែលមានការចំណាយខ្ពស់ ល្បែង ឬអ្វីៗដែលសន្យាការធូរស្រាលរហ័ស តែធ្វើឱ្យរណ្តៅកាន់តែជ្រៅ។ ប្រសិនបើអ្នកមានអារម្មណ៍ជាប់អន្ទាក់ ទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ឬសេវាគាំទ្រ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Stepping away from a harmful money pattern could bring real freedom. Help may make breaking free easier.",
+        "km": "ការដកខ្លួនចេញពីលំនាំប្រាក់ដែលបង្កគ្រោះថ្នាក់ អាចនាំមកនូវសេរីភាពពិតប្រាកដ។ ជំនួយ អាចធ្វើឱ្យការរួចខ្លួនងាយស្រួលជាង។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "An unexpected expense or financial shock may be shaking things up and unsettling your plans. Your stability is being tested.",
+        "km": "ការចំណាយដែលមិនបានរំពឹងទុក ឬការភ្ញាក់ផ្អើលផ្នែកហិរញ្ញវត្ថុ ប្រហែលជាកំពុងរង្គោះរង្គើអ្វីៗ ហើយរំខានដល់ផែនការរបស់អ្នក។ ស្ថិរភាពរបស់អ្នក កំពុងត្រូវបានសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Be careful of panic decisions after a shock, such as selling, borrowing or signing in a hurry. Pause before you act.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសម្រេចចិត្តដោយភ័យស្លន់ស្លោ ក្រោយការភ្ញាក់ផ្អើល ដូចជាការលក់ ការខ្ចី ឬការចុះហត្ថលេខាដោយប្រញាប់។ សូមផ្អាកមុនពេលអ្នកធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "Calm rebuilding after a shock could leave you better protected. A setback may teach valuable lessons.",
+        "km": "ការកសាងឡើងវិញដោយស្ងប់ស្ងាត់ ក្រោយការភ្ញាក់ផ្អើល អាចធ្វើឱ្យអ្នកត្រូវបានការពារបានល្អជាងមុន។ ការបរាជ័យ អាចបង្រៀនមេរៀនដ៏មានតម្លៃ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope is returning to your finances after a difficult stretch. Optimism is helpful, so long as it stays grounded.",
+        "km": "ក្តីសង្ឃឹមកំពុងត្រឡប់មកហិរញ្ញវត្ថុរបស់អ្នកវិញ បន្ទាប់ពីដំណាក់កាលលំបាក។ សុទិដ្ឋិនិយមមានប្រយោជន៍ ដរាបណាវានៅតែមានមូលដ្ឋាន។"
+      },
+      "challenge": {
+        "en": "Look out for relaxing too much once things improve, or spending hope before it has turned into money. Recovery needs steady care.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធូរចិត្តពេក នៅពេលអ្វីៗប្រសើរឡើង ឬការចំណាយក្តីសង្ឃឹម មុនពេលវាប្រែទៅជាប្រាក់។ ការស្តារ ត្រូវការការថែទាំនឹងនរ។"
+      },
+      "outcome": {
+        "en": "Steady, grounded hope could carry your recovery all the way through. Your situation may keep improving with patient care.",
+        "km": "ក្តីសង្ឃឹមនឹងនរ និងមានមូលដ្ឋាន អាចនាំការស្តាររបស់អ្នកឆ្លងកាត់រហូតដល់ទីបញ្ចប់។ ស្ថានភាពរបស់អ្នក អាចបន្តប្រសើរឡើង ជាមួយការថែទាំដោយអត់ធ្មត់។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Something about your money may be hazy, such as a vague offer, an unclear bill or a rumour. Doubt may be clouding your judgement.",
+        "km": "អ្វីមួយអំពីប្រាក់របស់អ្នក ប្រហែលជាស្រពិចស្រពិល ដូចជាការផ្តល់ជូនមិនច្បាស់ វិក្កយបត្រមិនច្បាស់ ឬពាក្យចចាមអារ៉ាម។ ការសង្ស័យ ប្រហែលជាកំពុងធ្វើឱ្យការវិនិច្ឆ័យរបស់អ្នកស្រអាប់។"
+      },
+      "challenge": {
+        "en": "Beware of scams, vague promises and offers that seem too good to be true. If something feels off, check it before parting with money.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបោកប្រាស់ ការសន្យាមិនច្បាស់លាស់ និងការផ្តល់ជូនដែលហាក់ដូចជាល្អពេកមិនគួរជាការពិត។ ប្រសិនបើអ្វីមួយមានអារម្មណ៍មិនត្រឹមត្រូវ សូមពិនិត្យវា មុនពេលផ្តល់ប្រាក់ចេញ។"
+      },
+      "outcome": {
+        "en": "Checking everything carefully could protect you from deception. Clarity may arrive once the facts are confirmed.",
+        "km": "ការពិនិត្យអ្វីៗទាំងអស់ដោយប្រុងប្រយ័ត្ន អាចការពារអ្នកពីការបោកបញ្ឆោត។ ភាពច្បាស់លាស់ អាចមកដល់ នៅពេលការពិតត្រូវបានបញ្ជាក់។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Things may be going well with money, and you may feel confident and generous. Success is real and worth enjoying.",
+        "km": "អ្វីៗប្រហែលជាកំពុងដំណើរការល្អជាមួយប្រាក់ ហើយអ្នកប្រហែលជាមានអារម្មណ៍មានទំនុកចិត្ត និងចិត្តទូលាយ។ ភាពជោគជ័យពិតប្រាកដ ហើយសមនឹងការរីករាយ។"
+      },
+      "challenge": {
+        "en": "Take care not to let good times lead to overconfidence or careless spending. Success can make risks look smaller than they are.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យពេលវេលាល្អនាំទៅរកទំនុកចិត្តហួសហេតុ ឬការចំណាយដោយមិនប្រុងប្រយ័ត្ន។ ភាពជោគជ័យ អាចធ្វើឱ្យហានិភ័យមើលទៅតូចជាងការពិត។"
+      },
+      "outcome": {
+        "en": "Enjoying success while keeping some aside could make it last. Bright times may continue with care.",
+        "km": "ការរីករាយនឹងភាពជោគជ័យ ខណៈពេលរក្សាខ្លះទុក អាចធ្វើឱ្យវាស្ថិតស្ថេរ។ ពេលវេលាភ្លឺស្វាង អាចបន្តជាមួយការប្រុងប្រយ័ត្ន។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You may be reviewing past money choices and seeing them more clearly. Honest reflection is shaping your next steps.",
+        "km": "អ្នកប្រហែលជាកំពុងពិនិត្យជម្រើសប្រាក់កន្លងមក ហើយមើលឃើញវាកាន់តែច្បាស់។ ការឆ្លុះបញ្ចាំងដោយស្មោះត្រង់ កំពុងរៀបចំជំហានបន្ទាប់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for repeating an old money mistake out of habit, or judging yourself so harshly that you freeze. Learn and move on.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើកំហុសប្រាក់ចាស់ម្តងទៀត ដោយសារទម្លាប់ ឬការវិនិច្ឆ័យខ្លួនឯងតឹងរ៉ឹងពេក រហូតអ្នកកកស្ងៀម។ សូមរៀន ហើយបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Learning from the past could protect your future. A wiser approach may emerge from honest review.",
+        "km": "ការរៀនពីអតីតកាល អាចការពារអនាគតរបស់អ្នក។ វិធីសាស្ត្រឆ្លាតវៃជាងមុន អាចលេចចេញពីការពិនិត្យដោយស្មោះត្រង់។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You may be nearing the end of a money goal, such as clearing a debt or reaching a savings target. The finish feels within reach.",
+        "km": "អ្នកប្រហែលជាកំពុងខិតជិតចុងបញ្ចប់នៃគោលដៅប្រាក់មួយ ដូចជាការសងបំណុលឱ្យអស់ ឬការឈានដល់គោលដៅសន្សំ។ ខ្សែបញ្ចប់ មានអារម្មណ៍ថាស្ថិតនៅក្បែរដៃ។"
+      },
+      "challenge": {
+        "en": "Be careful of loosening your grip just before the finish line, or spending the gains before they are secure. Complete what you started.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបន្ធូរការក្តាប់ មុនពេលដល់ខ្សែបញ្ចប់បន្តិច ឬការចំណាយផលចំណេញ មុនពេលវាមានសុវត្ថិភាព។ សូមបញ្ចប់អ្វីដែលអ្នកបានចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Finishing carefully could lock in your progress. A new phase may begin from a secure place.",
+        "km": "ការបញ្ចប់ដោយប្រុងប្រយ័ត្ន អាចចាក់សោការរីកចម្រើនរបស់អ្នក។ ដំណាក់កាលថ្មី អាចចាប់ផ្តើមពីកន្លែងមានសុវត្ថិភាព។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "An exciting money idea may have caught your attention, perhaps a side venture or a fresh way to earn. The spark feels strong and inviting.",
+        "km": "គំនិតប្រាក់គួរឱ្យរំភើបមួយ ប្រហែលជាបានទាក់ទាញការចាប់អារម្មណ៍របស់អ្នក ប្រហែលជាមុខរបរបន្ទាប់បន្សំ ឬវិធីថ្មីក្នុងការរកប្រាក់។ ផ្កាភ្លើងនេះ មានអារម្មណ៍ខ្លាំង និងទាក់ទាញ។"
+      },
+      "challenge": {
+        "en": "Be wary of pouring money into a new idea before you have tested it on a small scale. Excitement is not the same as a plan.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចាក់ប្រាក់ចូលក្នុងគំនិតថ្មី មុនពេលអ្នកបានសាកល្បងវាក្នុងកម្រិតតូច។ ភាពរំភើប មិនដូចគ្នានឹងផែនការទេ។"
+      },
+      "outcome": {
+        "en": "Testing an idea carefully could turn a spark into steady income. You may keep the excitement without risking too much.",
+        "km": "ការសាកល្បងគំនិតដោយប្រុងប្រយ័ត្ន អាចបង្វែរផ្កាភ្លើងទៅជាចំណូលនឹងនរ។ អ្នកអាចរក្សាភាពរំភើប ដោយមិនប្រថុយច្រើនពេក។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You may be weighing a bigger money move, looking beyond what feels safe and familiar. Plans are forming, but nothing is fixed yet.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងការផ្លាស់ប្តូរប្រាក់ធំជាងមុន ដោយមើលហួសពីអ្វីដែលមានអារម្មណ៍សុវត្ថិភាព និងស៊ាំ។ ផែនការកំពុងបង្កើតឡើង ប៉ុន្តែគ្មានអ្វីត្រូវបានកំណត់នៅឡើយទេ។"
+      },
+      "challenge": {
+        "en": "Watch for plans that look good on paper but ignore real costs and risks. Check the numbers before you commit to anything.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះផែនការដែលមើលទៅល្អលើក្រដាស ប៉ុន្តែមិនអើពើនឹងថ្លៃដើម និងហានិភ័យពិតប្រាកដ។ សូមពិនិត្យតួលេខ មុនពេលអ្នកប្តេជ្ញាលើអ្វីមួយ។"
+      },
+      "outcome": {
+        "en": "Grounding your plans in real figures could make a bold move much safer. Careful planning may open a wider path.",
+        "km": "ការផ្អែកផែនការរបស់អ្នកលើតួលេខពិត អាចធ្វើឱ្យការផ្លាស់ប្តូរដ៏ក្លាហានមានសុវត្ថិភាពជាងមុនច្រើន។ ការរៀបចំផែនការដោយប្រុងប្រយ័ត្ន អាចបើកផ្លូវទូលាយជាងមុន។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "There may be room for your money to grow, and you may be looking further ahead than before. Early efforts are starting to show promise.",
+        "km": "ប្រហែលជាមានលទ្ធភាពឱ្យប្រាក់របស់អ្នករីកចម្រើន ហើយអ្នកប្រហែលជាកំពុងមើលទៅមុខឆ្ងាយជាងមុន។ ការខិតខំដំបូងៗ កំពុងចាប់ផ្តើមបង្ហាញសញ្ញាល្អ។"
+      },
+      "challenge": {
+        "en": "Be careful of expanding faster than your income can support, or counting on returns that have not arrived. Grow at a pace you can afford.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការពង្រីកលឿនជាងចំណូលរបស់អ្នកអាចទ្រទ្រង់បាន ឬការពឹងលើផលចំណេញដែលមិនទាន់មកដល់។ សូមរីកចម្រើនក្នុងល្បឿនដែលអ្នកអាចមានលទ្ធភាព។"
+      },
+      "outcome": {
+        "en": "Measured growth could let your gains build without strain. A wider horizon may open on solid ground.",
+        "km": "ការរីកចម្រើនដោយមានកម្រិត អាចឱ្យផលចំណេញរបស់អ្នកកើនឡើង ដោយគ្មានសម្ពាធ។ ជើងមេឃទូលាយជាងមុន អាចបើកចំហលើដីរឹងមាំ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "There may be something to celebrate with money, such as a milestone, a home or a happy gathering. Good feelings are running high.",
+        "km": "ប្រហែលជាមានអ្វីមួយដែលត្រូវអបអរជាមួយប្រាក់ ដូចជាសមិទ្ធផលមួយ ផ្ទះមួយ ឬការជួបជុំដ៏រីករាយ។ អារម្មណ៍ល្អ កំពុងកើនឡើងខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Watch for celebrations that cost more than you planned, or pressure to spend to keep everyone happy. Joy does not need a large bill.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការអបអរដែលចំណាយច្រើនជាងអ្នកបានគ្រោងទុក ឬសម្ពាធឱ្យចំណាយ ដើម្បីឱ្យអ្នករាល់គ្នាសប្បាយចិត្ត។ សេចក្តីរីករាយ មិនត្រូវការវិក្កយបត្រធំទេ។"
+      },
+      "outcome": {
+        "en": "Celebrating within your means could keep the happiness free of regret. Stability at home may stay secure.",
+        "km": "ការអបអរក្នុងលទ្ធភាពរបស់អ្នក អាចរក្សាសុភមង្គលឱ្យគ្មានការសោកស្តាយ។ ស្ថិរភាពនៅផ្ទះ អាចនៅតែមានសុវត្ថិភាព។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Money may feel competitive or tense, with others pulling in different directions over costs or shares. Small disagreements may be adding up.",
+        "km": "ប្រាក់ប្រហែលជាមានអារម្មណ៍ប្រកួតប្រជែង ឬតានតឹង ដោយអ្នកដទៃទាញក្នុងទិសដៅផ្សេងៗគ្នា អំពីថ្លៃដើម ឬចំណែក។ ការមិនចុះសម្រុងតូចៗ ប្រហែលជាកំពុងកើនឡើង។"
+      },
+      "challenge": {
+        "en": "Beware of spending just to keep up with others, or letting arguments about money drag on unresolved. Rivalry rarely improves a budget.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចំណាយគ្រាន់តែដើម្បីតាមឱ្យទាន់អ្នកដទៃ ឬការទុកឱ្យជម្លោះអំពីប្រាក់អូសបន្លាយដោយមិនដោះស្រាយ។ ការប្រកួតប្រជែង កម្រធ្វើឱ្យថវិកាប្រសើរឡើងណាស់។"
+      },
+      "outcome": {
+        "en": "Stepping out of the contest could leave more money and calm in your hands. Clear agreements may settle the friction.",
+        "km": "ការដកខ្លួនចេញពីការប្រកួតប្រជែង អាចទុកប្រាក់ និងភាពស្ងប់ស្ងាត់កាន់តែច្រើននៅក្នុងដៃរបស់អ្នក។ កិច្ចព្រមព្រៀងច្បាស់លាស់ អាចដោះស្រាយការកកិត។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "A money win may have come your way, such as a pay rise, praise or a goal reached. You may feel proud and noticed.",
+        "km": "ជ័យជម្នះផ្នែកប្រាក់មួយ ប្រហែលជាបានមករកអ្នក ដូចជាការដំឡើងប្រាក់ឈ្នួល ការសរសើរ ឬគោលដៅដែលសម្រេចបាន។ អ្នកប្រហែលជាមានអារម្មណ៍មោទនភាព និងត្រូវបានគេកត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Be wary of spending to show off success, or assuming a single win will keep repeating itself. Recognition can fade faster than bills do.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចំណាយដើម្បីបង្ហាញភាពជោគជ័យ ឬការសន្មតថាជ័យជម្នះតែមួយនឹងកើតឡើងម្តងហើយម្តងទៀត។ ការទទួលស្គាល់ អាចរសាត់បាត់លឿនជាងវិក្កយបត្រ។"
+      },
+      "outcome": {
+        "en": "Saving part of a win could turn a proud moment into lasting security. Quiet confidence may serve you better than display.",
+        "km": "ការសន្សំផ្នែកខ្លះនៃជ័យជម្នះ អាចបង្វែរពេលមោទនភាពទៅជាសុវត្ថិភាពយូរអង្វែង។ ទំនុកចិត្តស្ងប់ស្ងាត់ អាចបម្រើអ្នកបានល្អជាងការបង្ហាញ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may be defending your money, perhaps saying no to requests or holding firm on a decision. It may feel like a lot of pressure.",
+        "km": "អ្នកប្រហែលជាកំពុងការពារប្រាក់របស់អ្នក ប្រហែលជាការបដិសេធសំណើ ឬការកាន់ជំហរយ៉ាងរឹងមាំលើការសម្រេចចិត្តមួយ។ វាអាចមានអារម្មណ៍ដូចជាសម្ពាធច្រើន។"
+      },
+      "challenge": {
+        "en": "Take care not to give in to pushy requests to lend, sign or pay out of guilt. Your boundaries protect your security.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំចុះចាញ់សំណើដែលបង្ខិតបង្ខំឱ្យខ្ចីឱ្យ ចុះហត្ថលេខា ឬបង់ប្រាក់ដោយសារអារម្មណ៍មានកំហុស។ ព្រំដែនរបស់អ្នក ការពារសុវត្ថិភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Holding firm where it matters could keep your savings safe. Respect for your limits may grow over time.",
+        "km": "ការកាន់ជំហររឹងមាំនៅកន្លែងដែលសំខាន់ អាចរក្សាប្រាក់សន្សំរបស់អ្នកឱ្យមានសុវត្ថិភាព។ ការគោរពចំពោះដែនកំណត់របស់អ្នក អាចកើនឡើង។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Money matters may be moving quickly, with offers, payments or decisions arriving all at once. Things may feel rushed.",
+        "km": "រឿងប្រាក់ប្រហែលជាកំពុងផ្លាស់ទីយ៉ាងលឿន ដោយការផ្តល់ជូន ការបង់ប្រាក់ ឬការសម្រេចចិត្តមកដល់ក្នុងពេលតែមួយ។ អ្វីៗប្រហែលជាមានអារម្មណ៍ប្រញាប់ប្រញាល់។"
+      },
+      "challenge": {
+        "en": "Watch for deals that push you to decide on the spot, or messages urging an instant transfer. Pressure to hurry is a common warning sign.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះកិច្ចព្រមព្រៀងដែលជំរុញអ្នកឱ្យសម្រេចចិត្តភ្លាមៗ ឬសារដែលជំរុញឱ្យផ្ទេរប្រាក់ភ្លាមៗ។ សម្ពាធឱ្យប្រញាប់ គឺជាសញ្ញាព្រមានទូទៅមួយ។"
+      },
+      "outcome": {
+        "en": "Slowing down to check could keep you clear of costly mistakes. Good opportunities may still be there after a pause.",
+        "km": "ការបន្ថយល្បឿនដើម្បីពិនិត្យ អាចធ្វើឱ្យអ្នកជៀសផុតពីកំហុសដែលមានតម្លៃថ្លៃ។ ឱកាសល្អ អាចនៅតែមាន បន្ទាប់ពីការផ្អាកមួយ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may have been through money setbacks and feel guarded, tired but still standing. Hard lessons have made you cautious.",
+        "km": "អ្នកប្រហែលជាបានឆ្លងកាត់ការថយក្រោយផ្នែកប្រាក់ ហើយមានអារម្មណ៍ប្រុងប្រយ័ត្ន អស់កម្លាំង ប៉ុន្តែនៅតែឈរ។ មេរៀនលំបាកៗ បានធ្វើឱ្យអ្នកប្រុងប្រយ័ត្ន។"
+      },
+      "challenge": {
+        "en": "Be careful that worn-out caution does not turn into giving up, or that tiredness leads to one careless choice. Rest before deciding.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យការប្រុងប្រយ័ត្នដែលអស់កម្លាំង ប្រែក្លាយទៅជាការបោះបង់ ឬកុំឱ្យភាពអស់កម្លាំងនាំទៅរកជម្រើសធ្វេសប្រហែសមួយ។ សូមសម្រាកមុនពេលសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Steady persistence could see you through the last stretch. Your resilience may protect what you have built.",
+        "km": "ការតស៊ូដោយនឹងនរ អាចនាំអ្នកឆ្លងកាត់ផ្លូវចុងក្រោយ។ ភាពធន់របស់អ្នក អាចការពារអ្វីដែលអ្នកបានកសាង។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may be carrying a heavy load of money responsibilities, perhaps bills, debts or family needs. It may feel like too much for one person.",
+        "km": "អ្នកប្រហែលជាកំពុងលីទម្ងន់ធ្ងន់នៃការទទួលខុសត្រូវផ្នែកប្រាក់ ប្រហែលជាវិក្កយបត្រ បំណុល ឬតម្រូវការគ្រួសារ។ វាអាចមានអារម្មណ៍ថាច្រើនពេកសម្រាប់មនុស្សម្នាក់។"
+      },
+      "challenge": {
+        "en": "Beware of taking on more obligations or debt to cover the ones you already have. If the load feels unmanageable, a debt adviser may help.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទទួលយកកាតព្វកិច្ច ឬបំណុលបន្ថែម ដើម្បីគ្របដណ្តប់អ្វីដែលអ្នកមានរួចហើយ។ ប្រសិនបើបន្ទុកមានអារម្មណ៍មិនអាចគ្រប់គ្រងបាន ទីប្រឹក្សាបំណុល អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Sharing or setting down some of the load could bring real relief. A lighter path may become easier to manage.",
+        "km": "ការចែករំលែក ឬដាក់ចុះផ្នែកខ្លះនៃបន្ទុក អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។ ផ្លូវស្រាលជាងមុន អាចកាន់តែងាយស្រួលគ្រប់គ្រង។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You may be curious and eager about a new way to earn or grow money. Fresh enthusiasm is opening new doors.",
+        "km": "អ្នកប្រហែលជាចង់ដឹង និងចង់សាកល្បងវិធីថ្មីក្នុងការរកប្រាក់ ឬបង្កើនប្រាក់។ ភាពរំភើបថ្មីស្រឡាង កំពុងបើកទ្វារថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Be wary of trends or tips that promise quick gains to beginners. Learn how something works before you put money into it.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះនិន្នាការ ឬគន្លឹះដែលសន្យាផលចំណេញរហ័សដល់អ្នកចាប់ផ្តើមដំបូង។ សូមរៀនពីរបៀបដែលអ្វីមួយដំណើរការ មុនពេលអ្នកដាក់ប្រាក់ចូល។"
+      },
+      "outcome": {
+        "en": "Curiosity backed by learning could grow into real skill with money. Small, informed steps may lead somewhere worthwhile.",
+        "km": "ការចង់ដឹងដែលគាំទ្រដោយការរៀនសូត្រ អាចរីកចម្រើនទៅជាជំនាញពិតប្រាកដជាមួយប្រាក់។ ជំហានតូចៗដែលមានព័ត៌មានគ្រប់គ្រាន់ អាចនាំទៅកន្លែងដែលមានតម្លៃ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You may feel eager to act fast with money, keen to make something happen. Your drive to move is strong.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ចង់ធ្វើសកម្មភាពលឿនជាមួយប្រាក់ ដោយចង់ឱ្យអ្វីមួយកើតឡើង។ កម្លាំងជំរុញរបស់អ្នកដើម្បីផ្លាស់ទី គឺខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Look out for impulsive moves, such as big purchases or risky bets made in a rush of excitement. Speed can cost more than it saves.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសម្រេចចិត្តដោយមិនបានគិតដល់ ដូចជាការទិញធំៗ ឬការភ្នាល់ប្រថុយប្រថាន ដែលធ្វើឡើងក្នុងភាពរំភើបប្រញាប់ប្រញាល់។ ល្បឿនអាចចំណាយច្រើនជាងអ្វីដែលវាសន្សំបាន។"
+      },
+      "outcome": {
+        "en": "Channelling boldness into a clear plan could bring real progress. Your drive may carry you far with some care.",
+        "km": "ការបង្វែរភាពក្លាហានទៅក្នុងផែនការច្បាស់លាស់ អាចនាំមកនូវការរីកចម្រើនពិតប្រាកដ។ កម្លាំងជំរុញរបស់អ្នក អាចនាំអ្នកទៅឆ្ងាយ ជាមួយការប្រុងប្រយ័ត្នខ្លះ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You may feel confident and capable with money, handling your own affairs with warmth and energy. Others may look to you for help.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មានទំនុកចិត្ត និងមានសមត្ថភាពជាមួយប្រាក់ ដោយគ្រប់គ្រងកិច្ចការផ្ទាល់ខ្លួនដោយភាពកក់ក្តៅ និងថាមពល។ អ្នកដទៃប្រហែលជាសម្លឹងមកអ្នកសម្រាប់ជំនួយ។"
+      },
+      "challenge": {
+        "en": "Take care not to become everyone's lender or rescuer at the cost of your own security. Generosity works best with clear limits.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំក្លាយជាអ្នកឱ្យខ្ចី ឬអ្នកជួយសង្គ្រោះរបស់អ្នករាល់គ្នា ដោយលះបង់សុវត្ថិភាពផ្ទាល់ខ្លួនរបស់អ្នក។ ចិត្តសប្បុរស ដំណើរការល្អបំផុត ជាមួយដែនកំណត់ច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Confident boundaries could let you help others and still thrive. Your warmth may stay a strength rather than a drain.",
+        "km": "ព្រំដែនដែលមានទំនុកចិត្ត អាចឱ្យអ្នកជួយអ្នកដទៃ ហើយនៅតែរីកចម្រើន។ ភាពកក់ក្តៅរបស់អ្នក អាចនៅតែជាចំណុចខ្លាំង ជាជាងការបាត់បង់កម្លាំង។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You may be thinking big about money, with a vision for where you want to go. You may be taking charge of the direction.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតធំអំពីប្រាក់ ដោយមានចក្ខុវិស័យសម្រាប់កន្លែងដែលអ្នកចង់ទៅ។ អ្នកប្រហែលជាកំពុងទទួលបន្ទុកលើទិសដៅ។"
+      },
+      "challenge": {
+        "en": "Guard against overconfidence that skips the details, or big promises you cannot yet fund. A vision still needs a careful budget.",
+        "km": "សូមការពារខ្លួនពីទំនុកចិត្តហួសហេតុ ដែលរំលងព័ត៌មានលម្អិត ឬការសន្យាធំៗដែលអ្នកមិនទាន់អាចផ្តល់មូលនិធិបាន។ ចក្ខុវិស័យមួយ នៅតែត្រូវការថវិកាប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Leading with both vision and care could build something lasting. Bold goals may become reachable step by step.",
+        "km": "ការដឹកនាំដោយទាំងចក្ខុវិស័យ និងការប្រុងប្រយ័ត្ន អាចកសាងអ្វីមួយដែលស្ថិតស្ថេរ។ គោលដៅដ៏ក្លាហាន អាចក្លាយជាអាចសម្រេចបាន មួយជំហានម្តងៗ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Money may be tied up with your feelings, perhaps a wish to give, treat yourself or start fresh. Emotion is shaping your choices.",
+        "km": "ប្រាក់ប្រហែលជាជាប់ទាក់ទងនឹងអារម្មណ៍របស់អ្នក ប្រហែលជាបំណងចង់ផ្តល់ឱ្យ ផ្គាប់ចិត្តខ្លួនឯង ឬចាប់ផ្តើមថ្មី។ អារម្មណ៍ កំពុងរៀបចំជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Be careful of spending to fill an emotional need, such as comfort, love or approval. A purchase may soothe the moment without meeting the need.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចំណាយ ដើម្បីបំពេញតម្រូវការផ្លូវចិត្ត ដូចជាការលួងលោម សេចក្តីស្រឡាញ់ ឬការទទួលស្គាល់។ ការទិញអ្វីមួយ អាចលួងលោមខណៈនោះ ដោយមិនបំពេញតម្រូវការពិត។"
+      },
+      "outcome": {
+        "en": "Noticing what you truly feel could lead to kinder and wiser spending. Giving from a full heart may bring lasting joy.",
+        "km": "ការកត់សម្គាល់ពីអ្វីដែលអ្នកពិតជាមានអារម្មណ៍ អាចនាំទៅរកការចំណាយដោយសប្បុរស និងឆ្លាតវៃជាងមុន។ ការផ្តល់ឱ្យពីបេះដូងពេញលេញ អាចនាំមកនូវសេចក្តីរីករាយយូរអង្វែង។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Money may involve a close partner or a shared arrangement, such as a joint account or a deal between two people. Trust matters here.",
+        "km": "ប្រាក់ប្រហែលជាពាក់ព័ន្ធនឹងដៃគូជិតស្និទ្ធ ឬការរៀបចំរួមគ្នា ដូចជាគណនីរួម ឬកិច្ចព្រមព្រៀងរវាងមនុស្សពីរនាក់។ ការទុកចិត្ត មានសារៈសំខាន់នៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Watch for unspoken assumptions about who pays for what, or agreements made on trust alone. Put shared money terms in writing.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសន្មតដែលមិនបាននិយាយចេញ អំពីអ្នកណាបង់ប្រាក់សម្រាប់អ្វី ឬកិច្ចព្រមព្រៀងដែលធ្វើឡើងដោយផ្អែកលើការទុកចិត្តតែម្យ៉ាង។ សូមសរសេរលក្ខខណ្ឌប្រាក់រួមជាលាយលក្ខណ៍អក្សរ។"
+      },
+      "outcome": {
+        "en": "Clear agreements could protect both your money and the relationship. Shared plans may grow on honest ground.",
+        "km": "កិច្ចព្រមព្រៀងច្បាស់លាស់ អាចការពារទាំងប្រាក់របស់អ្នក និងទំនាក់ទំនង។ ផែនការរួមគ្នា អាចរីកចម្រើនលើមូលដ្ឋានស្មោះត្រង់។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Your social life may be lively, with gatherings, gifts and shared outings. Friendship is bringing a lot of warmth.",
+        "km": "ជីវិតសង្គមរបស់អ្នក ប្រហែលជារស់រវើក ជាមួយការជួបជុំ អំណោយ និងការដើរលេងរួមគ្នា។ មិត្តភាព កំពុងនាំមកនូវភាពកក់ក្តៅច្រើន។"
+      },
+      "challenge": {
+        "en": "Look out for group spending that quietly adds up, or feeling you must match what friends spend. Saying no once in a while is fine.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចំណាយជាក្រុមដែលកើនឡើងដោយស្ងាត់ៗ ឬអារម្មណ៍ថាអ្នកត្រូវតែចំណាយស្មើមិត្តភក្តិ។ ការបដិសេធម្តងម្កាល គឺមិនអីទេ។"
+      },
+      "outcome": {
+        "en": "Enjoying friends within a budget could keep both the fun and your savings. Good company may not need to cost much.",
+        "km": "ការរីករាយជាមួយមិត្តភក្តិក្នុងថវិកា អាចរក្សាទាំងភាពសប្បាយ និងប្រាក់សន្សំរបស់អ្នក។ ការរួមដំណើរល្អ ប្រហែលជាមិនចាំបាច់ចំណាយច្រើនទេ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel flat or uninterested in money matters, letting letters and statements pile up unopened. Little seems worth the effort.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ស្ពឹក ឬមិនចាប់អារម្មណ៍នឹងរឿងប្រាក់ ដោយទុកឱ្យសំបុត្រ និងរបាយការណ៍គរឡើងដោយមិនបើក។ ហាក់ដូចជាមានតិចតួចណាស់ ដែលសមនឹងការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Beware of ignoring bills or overlooking a useful offer because you feel too drained to look. Small neglect can grow into bigger costs.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការមិនអើពើនឹងវិក្កយបត្រ ឬការរំលងការផ្តល់ជូនដ៏មានប្រយោជន៍ ដោយសារអ្នកមានអារម្មណ៍អស់កម្លាំងពេកក្នុងការមើល។ ការធ្វេសប្រហែសតូចៗ អាចរីកធំទៅជាការចំណាយធំជាងមុន។"
+      },
+      "outcome": {
+        "en": "Taking one small look could reconnect you with what matters. Fresh interest may return once things feel manageable.",
+        "km": "ការមើលតូចមួយ អាចភ្ជាប់អ្នកឡើងវិញជាមួយអ្វីដែលសំខាន់។ ចំណាប់អារម្មណ៍ថ្មី អាចត្រឡប់មកវិញ នៅពេលអ្វីៗមានអារម្មណ៍អាចគ្រប់គ្រងបាន។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "You may be feeling the sting of a money loss or a choice you regret. Disappointment may be hard to shake.",
+        "km": "អ្នកប្រហែលជាកំពុងមានអារម្មណ៍ឈឺចាប់ពីការបាត់បង់ប្រាក់ ឬជម្រើសមួយដែលអ្នកសោកស្តាយ។ ការខកចិត្ត ប្រហែលជាពិបាកនឹងបំភ្លេច។"
+      },
+      "challenge": {
+        "en": "Be wary of chasing a loss by taking bigger risks to win it back. Trying to recover quickly often deepens the hole.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដេញតាមការខាតបង់ ដោយការប្រថុយធំជាងមុន ដើម្បីរកវាមកវិញ។ ការព្យាយាមរកមកវិញយ៉ាងរហ័ស ជារឿយៗធ្វើឱ្យរណ្តៅកាន់តែជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Accepting the loss could free you to rebuild calmly. What remains may be more than it seems.",
+        "km": "ការទទួលយកការខាតបង់ អាចដោះលែងអ្នកឱ្យកសាងឡើងវិញដោយស្ងប់ស្ងាត់។ អ្វីដែលនៅសល់ ប្រហែលជាច្រើនជាងអ្វីដែលវាមើលទៅ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "You may be thinking about money in terms of family, old habits or someone from your past. Familiar ties feel comforting.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតអំពីប្រាក់ ទាក់ទងនឹងគ្រួសារ ទម្លាប់ចាស់ ឬនរណាម្នាក់ពីអតីតកាលរបស់អ្នក។ ចំណងដែលធ្លាប់ស្គាល់ មានអារម្មណ៍លួងលោម។"
+      },
+      "challenge": {
+        "en": "Take care with lending to old friends or family on feelings alone, or following money habits simply because they are familiar. Kindness still needs clear terms.",
+        "km": "សូមប្រុងប្រយ័ត្នជាមួយការឱ្យមិត្តចាស់ ឬគ្រួសារខ្ចី ដោយផ្អែកលើអារម្មណ៍តែម្យ៉ាង ឬការធ្វើតាមទម្លាប់ប្រាក់ គ្រាន់តែដោយសារវាធ្លាប់ស្គាល់។ ចិត្តល្អ នៅតែត្រូវការលក្ខខណ្ឌច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Mixing warmth with clear terms could keep both bonds and money intact. Old lessons may guide you well.",
+        "km": "ការលាយបញ្ចូលភាពកក់ក្តៅជាមួយលក្ខខណ្ឌច្បាស់លាស់ អាចរក្សាទាំងចំណង និងប្រាក់ឱ្យនៅដដែល។ មេរៀនចាស់ៗ អាចណែនាំអ្នកបានល្អ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may face many money options or dreams, each looking attractive in its own way. Telling fact from fantasy may be difficult.",
+        "km": "អ្នកប្រហែលជាកំពុងប្រឈមនឹងជម្រើស ឬក្តីសុបិនប្រាក់ជាច្រើន ដែលនីមួយៗមើលទៅទាក់ទាញតាមរបៀបរបស់វា។ ការបែងចែកការពិតពីការស្រមើស្រមៃ អាចពិបាក។"
+      },
+      "challenge": {
+        "en": "Be wary of offers that sound too good to be true, such as guaranteed returns or prizes you must pay to claim. Check before you believe.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្តល់ជូនដែលស្តាប់ទៅល្អពេកមិនគួរជាការពិត ដូចជាផលចំណេញដែលធានា ឬរង្វាន់ដែលអ្នកត្រូវបង់ប្រាក់ដើម្បីទទួលបាន។ សូមពិនិត្យមុនពេលអ្នកជឿ។"
+      },
+      "outcome": {
+        "en": "Testing each option against the facts could reveal the one worth choosing. Clear sight may protect you from costly illusions.",
+        "km": "ការសាកល្បងជម្រើសនីមួយៗ ធៀបនឹងការពិត អាចបង្ហាញជម្រើសដែលសមនឹងការជ្រើសរើស។ ការមើលឃើញច្បាស់ អាចការពារអ្នកពីការបំភាន់ដែលមានតម្លៃថ្លៃ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be ready to walk away from a money habit, job or arrangement that no longer feels right. You may want something more meaningful.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនដើរចេញពីទម្លាប់ប្រាក់ ការងារ ឬការរៀបចំមួយ ដែលលែងមានអារម្មណ៍ត្រឹមត្រូវ។ អ្នកប្រហែលជាចង់បានអ្វីមួយដែលមានអត្ថន័យជាងនេះ។"
+      },
+      "challenge": {
+        "en": "Be careful of leaving something secure without a plan for what comes next. Walking away works best with a cushion in place.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចាកចេញពីអ្វីមួយដែលមានសុវត្ថិភាព ដោយគ្មានផែនការសម្រាប់អ្វីដែលបន្ទាប់។ ការដើរចេញ ដំណើរការល្អបំផុត នៅពេលមានប្រាក់បម្រុងរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Leaving with a safety net could make the change feel freeing rather than frightening. A more meaningful path may open.",
+        "km": "ការចាកចេញជាមួយសំណាញ់សុវត្ថិភាព អាចធ្វើឱ្យការផ្លាស់ប្តូរមានអារម្មណ៍រំដោះ ជាជាងគួរឱ្យភ័យខ្លាច។ ផ្លូវដែលមានអត្ថន័យជាងមុន អាចបើកចំហ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You may feel comfortable with money, with enough to enjoy some of the things you wanted. A sense of contentment is present.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ស្រួលជាមួយប្រាក់ ដោយមានគ្រប់គ្រាន់ដើម្បីរីករាយនឹងរបស់ខ្លះដែលអ្នកចង់បាន។ អារម្មណ៍ពេញចិត្ត កំពុងមានវត្តមាន។"
+      },
+      "challenge": {
+        "en": "Watch for comfort turning into complacency, such as dropping your savings habit or overindulging. Contentment lasts longer when it is looked after.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះភាពស្រួលដែលប្រែក្លាយទៅជាការធ្វេសប្រហែស ដូចជាការបោះបង់ទម្លាប់សន្សំ ឬការលើសលុបពេក។ ការពេញចិត្ត ស្ថិតស្ថេរយូរជាង នៅពេលវាត្រូវបានថែរក្សា។"
+      },
+      "outcome": {
+        "en": "Enjoying comfort while keeping good habits could make it lasting. Your wishes may keep coming true with care.",
+        "km": "ការរីករាយនឹងភាពស្រួល ខណៈរក្សាទម្លាប់ល្អ អាចធ្វើឱ្យវាស្ថិតស្ថេរ។ បំណងប្រាថ្នារបស់អ្នក អាចបន្តក្លាយជាការពិត ជាមួយការថែរក្សា។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Money may be closely tied to family harmony and the security of your home. Shared wellbeing matters deeply to you.",
+        "km": "ប្រាក់ប្រហែលជាជាប់ទាក់ទងយ៉ាងជិតស្និទ្ធនឹងភាពសុខដុមក្នុងគ្រួសារ និងសុវត្ថិភាពនៃផ្ទះរបស់អ្នក។ សុខុមាលភាពរួម មានសារៈសំខាន់យ៉ាងជ្រៅសម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Take care not to keep up appearances or avoid money talks to protect the peace at home. Silence can let small problems grow.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំរក្សាមុខមាត់ ឬជៀសវាងការនិយាយអំពីប្រាក់ ដើម្បីការពារសន្តិភាពនៅផ្ទះ។ ភាពស្ងៀមស្ងាត់ អាចឱ្យបញ្ហាតូចៗរីកធំ។"
+      },
+      "outcome": {
+        "en": "Open family talks about money could strengthen both security and closeness. A shared plan may keep everyone at ease.",
+        "km": "ការនិយាយគ្នាក្នុងគ្រួសារដោយបើកចំហអំពីប្រាក់ អាចពង្រឹងទាំងសុវត្ថិភាព និងភាពជិតស្និទ្ធ។ ផែនការរួមគ្នា អាចធ្វើឱ្យអ្នករាល់គ្នាមានភាពស្រួល។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "You may be receiving money news or ideas that stir your feelings, perhaps an offer or a hopeful message. Your intuition is active.",
+        "km": "អ្នកប្រហែលជាកំពុងទទួលដំណឹង ឬគំនិតប្រាក់ ដែលរំញោចអារម្មណ៍របស់អ្នក ប្រហែលជាការផ្តល់ជូន ឬសារដែលផ្តល់ក្តីសង្ឃឹម។ វិចារណញាណរបស់អ្នក កំពុងសកម្ម។"
+      },
+      "challenge": {
+        "en": "Be wary of messages that tug at your emotions to get money, such as sudden requests from strangers or new online friends. Verify before you send anything.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះសារដែលទាញអារម្មណ៍របស់អ្នក ដើម្បីទទួលបានប្រាក់ ដូចជាសំណើភ្លាមៗពីមនុស្សចម្លែក ឬមិត្តភក្តិតាមអនឡាញថ្មី។ សូមផ្ទៀងផ្ទាត់ មុនពេលអ្នកផ្ញើអ្វីមួយ។"
+      },
+      "outcome": {
+        "en": "Listening to your gut while checking the facts could keep you safe. Genuine opportunities may still reach you.",
+        "km": "ការស្តាប់អារម្មណ៍ខាងក្នុង ខណៈពេលពិនិត្យការពិត អាចរក្សាអ្នកឱ្យមានសុវត្ថិភាព។ ឱកាសពិតប្រាកដ អាចនៅតែមកដល់អ្នក។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "An appealing money offer may have arrived, perhaps charming, persuasive or full of promise. It may feel like a dream come true.",
+        "km": "ការផ្តល់ជូនប្រាក់ដ៏ទាក់ទាញមួយ ប្រហែលជាបានមកដល់ ប្រហែលជាគួរឱ្យចាប់ចិត្ត គួរឱ្យជឿ ឬពោរពេញដោយការសន្យា។ វាអាចមានអារម្មណ៍ដូចជាក្តីសុបិនក្លាយជាការពិត។"
+      },
+      "challenge": {
+        "en": "Look out for charm that hides weak terms, or someone sweet-talking you into a purchase or investment. Read the details closely.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះភាពគួរឱ្យចាប់ចិត្ត ដែលលាក់លក្ខខណ្ឌខ្សោយ ឬនរណាម្នាក់ដែលនិយាយផ្អែមល្ហែម ដើម្បីបញ្ចុះបញ្ចូលអ្នកឱ្យទិញ ឬវិនិយោគ។ សូមអានព័ត៌មានលម្អិតដោយយកចិត្តទុកដាក់។"
+      },
+      "outcome": {
+        "en": "Letting your head check what your heart likes could lead to a sound choice. A good offer may survive close scrutiny.",
+        "km": "ការឱ្យក្បាលពិនិត្យអ្វីដែលបេះដូងចូលចិត្ត អាចនាំទៅរកជម្រើសដ៏ត្រឹមត្រូវ។ ការផ្តល់ជូនល្អ អាចឆ្លងផុតការពិនិត្យយ៉ាងល្អិតល្អន់។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "You may be caring and supportive with money, often thinking of others' needs before your own. Compassion guides your choices.",
+        "km": "អ្នកប្រហែលជាយកចិត្តទុកដាក់ និងគាំទ្រជាមួយប្រាក់ ដោយជារឿយៗគិតពីតម្រូវការរបស់អ្នកដទៃ មុនពេលតម្រូវការរបស់ខ្លួនឯង។ សេចក្តីមេត្តា ណែនាំជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Be careful of giving so much that your own needs go unmet, or saying yes out of guilt. Caring for yourself is not selfish.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្តល់ឱ្យច្រើនពេក រហូតតម្រូវការផ្ទាល់ខ្លួនរបស់អ្នកមិនត្រូវបានបំពេញ ឬការយល់ព្រមដោយសារអារម្មណ៍មានកំហុស។ ការថែរក្សាខ្លួនឯង មិនមែនជាភាពអាត្មានិយមទេ។"
+      },
+      "outcome": {
+        "en": "Balanced giving could let your kindness last without draining you. Your own security may become part of how you care.",
+        "km": "ការផ្តល់ឱ្យដោយតុល្យភាព អាចឱ្យចិត្តសប្បុរសរបស់អ្នកស្ថិតស្ថេរ ដោយមិនធ្វើឱ្យអ្នកអស់កម្លាំង។ សុវត្ថិភាពផ្ទាល់ខ្លួនរបស់អ្នក អាចក្លាយជាផ្នែកមួយនៃរបៀបដែលអ្នកថែរក្សា។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You may handle money with calm and emotional balance, staying steady when others worry. Family or friends may lean on your steadiness.",
+        "km": "អ្នកប្រហែលជាគ្រប់គ្រងប្រាក់ដោយភាពស្ងប់ស្ងាត់ និងតុល្យភាពអារម្មណ៍ ដោយនៅនឹងនរ នៅពេលអ្នកដទៃព្រួយបារម្ភ។ គ្រួសារ ឬមិត្តភក្តិ ប្រហែលជាពឹងផ្អែកលើភាពនឹងនររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for hiding money stress behind a calm face, or avoiding hard decisions to keep the peace. Steady does not mean silent.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការលាក់ភាពតានតឹងអំពីប្រាក់ នៅពីក្រោយមុខស្ងប់ស្ងាត់ ឬការជៀសវាងការសម្រេចចិត្តលំបាក ដើម្បីរក្សាសន្តិភាព។ ភាពនឹងនរ មិនមានន័យថាស្ងៀមស្ងាត់ទេ។"
+      },
+      "outcome": {
+        "en": "Calm honesty could help you and others make wiser money choices. Your balance may become a lasting source of security.",
+        "km": "ភាពស្មោះត្រង់ដោយស្ងប់ស្ងាត់ អាចជួយអ្នក និងអ្នកដទៃធ្វើជម្រើសប្រាក់ដ៏ឆ្លាតវៃជាងមុន។ តុល្យភាពរបស់អ្នក អាចក្លាយជាប្រភពសុវត្ថិភាពយូរអង្វែង។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A clear truth about your money may be coming into focus, perhaps a number you had avoided. Seeing it plainly gives you power.",
+        "km": "ការពិតច្បាស់លាស់មួយអំពីប្រាក់របស់អ្នក ប្រហែលជាកំពុងលេចចេញកាន់តែច្បាស់ ប្រហែលជាតួលេខមួយដែលអ្នកបានជៀសវាង។ ការមើលឃើញវាយ៉ាងច្បាស់ ផ្តល់អំណាចដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for looking away from facts that feel uncomfortable, such as a rising balance or a missed payment. Clarity only helps once you face it.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការងាកមុខចេញពីការពិតដែលមានអារម្មណ៍មិនស្រួល ដូចជាសមតុល្យបំណុលកើនឡើង ឬការបង់ប្រាក់ដែលខកខាន។ ភាពច្បាស់លាស់ ជួយបានតែនៅពេលអ្នកប្រឈមមុខនឹងវា។"
+      },
+      "outcome": {
+        "en": "Facing the facts could cut through confusion and lead to a sharper plan. Honest numbers may become your best protection.",
+        "km": "ការប្រឈមមុខនឹងការពិត អាចកាត់ផ្តាច់ភាពច្របូកច្របល់ ហើយនាំទៅរកផែនការច្បាស់ជាងមុន។ តួលេខស្មោះត្រង់ អាចក្លាយជាការការពារល្អបំផុតរបស់អ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be stuck between two money choices, unable to decide and hoping the problem will settle itself. Avoiding it feels easier.",
+        "km": "អ្នកប្រហែលជាជាប់គាំងរវាងជម្រើសប្រាក់ពីរ មិនអាចសម្រេចចិត្តបាន ហើយសង្ឃឹមថាបញ្ហានឹងដោះស្រាយដោយខ្លួនឯង។ ការជៀសវាងវា មានអារម្មណ៍ងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Be careful of letting indecision make the choice for you, as fees or chances can slip by while you wait. Gather what you need and choose.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកឱ្យភាពមិនអាចសម្រេចចិត្ត ធ្វើជម្រើសជំនួសអ្នក ព្រោះថ្លៃសេវា ឬឱកាសអាចរអិលបាត់ ខណៈអ្នករង់ចាំ។ សូមប្រមូលអ្វីដែលអ្នកត្រូវការ ហើយជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "Making a clear decision could ease the tension and stop hidden costs. Peace of mind may follow even an imperfect choice.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់ អាចបន្ធូរភាពតានតឹង ហើយបញ្ឈប់ការចំណាយលាក់កំបាំង។ ភាពស្ងប់ចិត្ត អាចកើតឡើងតាមក្រោយ សូម្បីតែជម្រើសមិនល្អឥតខ្ចោះ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Money may be linked to hurt, perhaps a betrayal, a broken promise or a painful loss. The sting may still be fresh.",
+        "km": "ប្រាក់ប្រហែលជាជាប់ទាក់ទងនឹងការឈឺចាប់ ប្រហែលជាការក្បត់ ការសន្យាដែលខូច ឬការបាត់បង់ដ៏ឈឺចាប់។ ការឈឺចាប់ ប្រហែលជានៅតែថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Be wary of making big money decisions while you are still hurting, or spending to numb the pain. Let your feelings settle first.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើការសម្រេចចិត្តប្រាក់ធំៗ ខណៈអ្នកនៅតែឈឺចាប់ ឬការចំណាយដើម្បីបំបាត់ការឈឺចាប់។ សូមរង់ចាំឱ្យអារម្មណ៍ស្ងប់សិន។"
+      },
+      "outcome": {
+        "en": "Healing before acting could lead to choices you will not regret. Clearer thinking may return as the pain eases.",
+        "km": "ការព្យាបាលចិត្តមុនពេលធ្វើសកម្មភាព អាចនាំទៅរកជម្រើសដែលអ្នកនឹងមិនសោកស្តាយ។ ការគិតច្បាស់ជាងមុន អាចត្រឡប់មកវិញ នៅពេលការឈឺចាប់ធូរស្រាល។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may need a pause from money stress, a chance to rest and gather your thoughts. Quiet reflection may be very welcome.",
+        "km": "អ្នកប្រហែលជាត្រូវការការផ្អាកពីភាពតានតឹងអំពីប្រាក់ ជាឱកាសដើម្បីសម្រាក និងប្រមូលគំនិតរបស់អ្នក។ ការឆ្លុះបញ្ចាំងស្ងប់ស្ងាត់ ប្រហែលជាត្រូវបានស្វាគមន៍យ៉ាងខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Take care that a needed rest does not become ignoring due dates or letting important tasks slide. Pause the worry, not the essentials.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យការសម្រាកដែលចាំបាច់ ក្លាយជាការមិនអើពើនឹងកាលកំណត់បង់ប្រាក់ ឬការទុកឱ្យកិច្ចការសំខាន់ៗរអិលបាត់។ សូមផ្អាកការព្រួយបារម្ភ មិនមែនរឿងចាំបាច់ទេ។"
+      },
+      "outcome": {
+        "en": "Resting while keeping the basics covered could restore your energy and focus. A calmer mind may make better plans.",
+        "km": "ការសម្រាក ខណៈរក្សាមូលដ្ឋានគ្រឹះឱ្យគ្របដណ្តប់ អាចស្តារថាមពល និងការផ្តោតអារម្មណ៍របស់អ្នកឡើងវិញ។ ចិត្តស្ងប់ជាងមុន អាចធ្វើផែនការល្អជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "A money dispute may be brewing, with someone trying to win at your expense or you tempted to fight hard over a share. Feelings may be running hot.",
+        "km": "ជម្លោះប្រាក់មួយ ប្រហែលជាកំពុងកើតឡើង ដោយនរណាម្នាក់ព្យាយាមឈ្នះ ដោយការខាតបង់របស់អ្នក ឬអ្នកត្រូវបានល្បួងឱ្យតយុទ្ធយ៉ាងខ្លាំងលើចំណែកមួយ។ អារម្មណ៍ ប្រហែលជាកំពុងក្តៅ។"
+      },
+      "challenge": {
+        "en": "Beware of winning an argument about money but losing trust, goodwill or more than it was worth. Some battles cost more than they gain.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការឈ្នះការឈ្លោះប្រកែកអំពីប្រាក់ ប៉ុន្តែបាត់បង់ការទុកចិត្ត ឆន្ទៈល្អ ឬច្រើនជាងតម្លៃរបស់វា។ ការប្រយុទ្ធខ្លះ ចំណាយច្រើនជាងអ្វីដែលវាទទួលបាន។"
+      },
+      "outcome": {
+        "en": "Choosing which disputes matter could protect both money and relationships. A fair settlement may serve you better than victory.",
+        "km": "ការជ្រើសរើសថាជម្លោះណាមួយសំខាន់ អាចការពារទាំងប្រាក់ និងទំនាក់ទំនង។ ការដោះស្រាយដោយយុត្តិធម៌ អាចបម្រើអ្នកបានល្អជាងជ័យជម្នះ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You may be leaving a hard money situation behind and heading toward something calmer. Progress may feel slow but hopeful.",
+        "km": "អ្នកប្រហែលជាកំពុងបន្សល់ទុកស្ថានភាពប្រាក់លំបាក ហើយឆ្ពោះទៅរកអ្វីមួយដែលស្ងប់ស្ងាត់ជាងមុន។ ការរីកចម្រើន អាចមានអារម្មណ៍យឺត ប៉ុន្តែមានក្តីសង្ឃឹម។"
+      },
+      "challenge": {
+        "en": "Look out for carrying old money habits into your new situation, or underestimating the costs of a move. Plan for the journey as well as the destination.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការយកទម្លាប់ប្រាក់ចាស់ៗ ចូលទៅក្នុងស្ថានភាពថ្មីរបស់អ្នក ឬការប៉ាន់ស្មានថ្លៃដើមនៃការផ្លាស់ប្តូរទាបពេក។ សូមរៀបចំផែនការសម្រាប់ដំណើរ ក៏ដូចជាគោលដៅ។"
+      },
+      "outcome": {
+        "en": "Leaving old habits behind could make the calmer place truly yours. Steadier finances may lie on the other side.",
+        "km": "ការបន្សល់ទុកទម្លាប់ចាស់ៗ អាចធ្វើឱ្យកន្លែងស្ងប់ស្ងាត់ជាងមុន ក្លាយជារបស់អ្នកពិតប្រាកដ។ ហិរញ្ញវត្ថុនឹងនរជាងមុន អាចស្ថិតនៅម្ខាងទៀត។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Something about a money matter may not be what it seems, perhaps hidden terms or someone not being fully honest. Your instincts may be uneasy.",
+        "km": "អ្វីមួយអំពីរឿងប្រាក់ ប្រហែលជាមិនដូចអ្វីដែលវាមើលទៅ ប្រហែលជាលក្ខខណ្ឌលាក់កំបាំង ឬនរណាម្នាក់ដែលមិនស្មោះត្រង់ទាំងស្រុង។ សភាវគតិរបស់អ្នក ប្រហែលជាមិនស្រួល។"
+      },
+      "challenge": {
+        "en": "Be wary of scams, hidden fees and people asking for passwords, codes or upfront payments. If anything feels off, stop and verify.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបោកប្រាស់ ថ្លៃសេវាលាក់កំបាំង និងមនុស្សដែលសុំពាក្យសម្ងាត់ លេខកូដ ឬការបង់ប្រាក់ជាមុន។ ប្រសិនបើអ្វីមួយមានអារម្មណ៍មិនត្រឹមត្រូវ សូមឈប់ ហើយផ្ទៀងផ្ទាត់។"
+      },
+      "outcome": {
+        "en": "Trusting your doubts and checking carefully could keep your money safe. The truth may come out before harm is done.",
+        "km": "ការទុកចិត្តលើការសង្ស័យរបស់អ្នក និងការពិនិត្យដោយប្រុងប្រយ័ត្ន អាចរក្សាប្រាក់របស់អ្នកឱ្យមានសុវត្ថិភាព។ ការពិតអាចលេចចេញ មុនពេលគ្រោះថ្នាក់កើតឡើង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel trapped by money, seeing few ways out of a debt, contract or situation. Fear may be narrowing your view.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់ដោយប្រាក់ ដោយឃើញផ្លូវចេញតិចតួចពីបំណុល កិច្ចសន្យា ឬស្ថានភាពមួយ។ ការភ័យខ្លាច ប្រហែលជាកំពុងធ្វើឱ្យទិដ្ឋភាពរបស់អ្នកតូចចង្អៀត។"
+      },
+      "challenge": {
+        "en": "Take care not to assume there are no options before you have asked. A free debt adviser or support service may see ways out you cannot.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំសន្មតថាគ្មានជម្រើស មុនពេលអ្នកបានសួរ។ ទីប្រឹក្សាបំណុលឥតគិតថ្លៃ ឬសេវាគាំទ្រ អាចមើលឃើញផ្លូវចេញដែលអ្នកមិនអាចមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Reaching out could reveal choices you could not see alone. The trap may loosen once you take one step.",
+        "km": "ការស្វែងរកជំនួយ អាចបង្ហាញជម្រើសដែលអ្នកមិនអាចមើលឃើញតែម្នាក់ឯង។ អន្ទាក់អាចធូរស្រាល នៅពេលអ្នកបោះជំហានមួយ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Money worries may be keeping you awake, with fears running in circles. The anxiety may feel bigger than the problem.",
+        "km": "ការព្រួយបារម្ភអំពីប្រាក់ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកដេកមិនលក់ ដោយការភ័យខ្លាចវិលជុំវិញ។ ការថប់បារម្ភ អាចមានអារម្មណ៍ធំជាងបញ្ហា។"
+      },
+      "challenge": {
+        "en": "Watch for letting fear drive rushed choices, such as a costly quick loan to escape the worry. If anxiety feels overwhelming, talk to someone or a counsellor.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកឱ្យការភ័យខ្លាចជំរុញជម្រើសប្រញាប់ប្រញាល់ ដូចជាប្រាក់កម្ចីរហ័សដែលមានតម្លៃថ្លៃ ដើម្បីគេចពីការព្រួយបារម្ភ។ ប្រសិនបើការថប់បារម្ភមានអារម្មណ៍លើសលប់ សូមនិយាយជាមួយនរណាម្នាក់ ឬអ្នកប្រឹក្សា។"
+      },
+      "outcome": {
+        "en": "Writing worries down and sharing them could shrink them to a manageable size. Rest and clarity may return together.",
+        "km": "ការសរសេរការព្រួយបារម្ភ ហើយចែករំលែកវា អាចបង្រួមវាឱ្យមានទំហំដែលអាចគ្រប់គ្រងបាន។ ការសម្រាក និងភាពច្បាស់លាស់ អាចត្រឡប់មកវិញជាមួយគ្នា។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A money situation may feel like it has hit its lowest point, with little left to lose. It may be painful, but it is also an ending.",
+        "km": "ស្ថានភាពប្រាក់មួយ ប្រហែលជាមានអារម្មណ៍ថាបានធ្លាក់ដល់ចំណុចទាបបំផុត ដោយមានតិចតួចដែលនៅសល់ត្រូវបាត់បង់។ វាអាចឈឺចាប់ ប៉ុន្តែវាក៏ជាការបញ្ចប់ផងដែរ។"
+      },
+      "challenge": {
+        "en": "Be careful of desperate moves to fix everything at once, such as risky loans or bets. If you feel at risk, contact a support service.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្លាស់ទីដោយអស់សង្ឃឹម ដើម្បីជួសជុលអ្វីៗទាំងអស់ក្នុងពេលតែមួយ ដូចជាប្រាក់កម្ចី ឬការភ្នាល់ប្រថុយប្រថាន។ ប្រសិនបើអ្នកមានអារម្មណ៍ស្ថិតក្នុងហានិភ័យ សូមទាក់ទងសេវាគាំទ្រ។"
+      },
+      "outcome": {
+        "en": "Accepting the low point could free you to rebuild from a clear base. Your situation may slowly begin to rise from here.",
+        "km": "ការទទួលយកចំណុចទាប អាចដោះលែងអ្នកឱ្យកសាងឡើងវិញពីមូលដ្ឋានច្បាស់លាស់។ ស្ថានភាពរបស់អ្នក អាចចាប់ផ្តើមកើនឡើងបន្តិចម្តងៗពីទីនេះ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You may be watchful and curious about money, asking questions and noticing details others miss. Your mind is sharp and alert.",
+        "km": "អ្នកប្រហែលជាប្រុងប្រយ័ត្ន និងចង់ដឹងអំពីប្រាក់ ដោយសួរសំណួរ និងកត់សម្គាល់ព័ត៌មានលម្អិតដែលអ្នកដទៃរំលង។ ចិត្តរបស់អ្នកមុតស្រួច និងភ្ញាក់រលឹក។"
+      },
+      "challenge": {
+        "en": "Be wary of acting on rumours, gossip or a single source of advice. Check information against trusted sources before acting.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើសកម្មភាពផ្អែកលើពាក្យចចាមអារ៉ាម ការនិយាយដើម ឬប្រភពដំបូន្មានតែមួយ។ សូមពិនិត្យព័ត៌មានជាមួយប្រភពដែលគួរឱ្យទុកចិត្ត មុនពេលធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "Careful checking could make your curiosity a real advantage. You may spot problems before they cost you.",
+        "km": "ការពិនិត្យដោយប្រុងប្រយ័ត្ន អាចធ្វើឱ្យការចង់ដឹងរបស់អ្នក ក្លាយជាអត្ថប្រយោជន៍ពិតប្រាកដ។ អ្នកអាចមើលឃើញបញ្ហា មុនពេលវាធ្វើឱ្យអ្នកខាតបង់។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You may be rushing ahead with a money decision, driven by urgency and strong conviction. Things are moving fast in your mind.",
+        "km": "អ្នកប្រហែលជាកំពុងប្រញាប់ទៅមុខជាមួយការសម្រេចចិត្តប្រាក់មួយ ដោយត្រូវបានជំរុញដោយភាពបន្ទាន់ និងការជឿជាក់ខ្លាំង។ អ្វីៗកំពុងផ្លាស់ទីលឿននៅក្នុងចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Beware of charging into a deal or argument without the full facts. Haste can turn a small error into a costly one.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការរត់ចូលទៅក្នុងកិច្ចព្រមព្រៀង ឬការឈ្លោះប្រកែក ដោយគ្មានការពិតពេញលេញ។ ភាពប្រញាប់ អាចបង្វែរកំហុសតូចមួយ ទៅជាកំហុសដែលមានតម្លៃថ្លៃ។"
+      },
+      "outcome": {
+        "en": "Pausing to gather facts could turn urgency into wise action. Your drive may achieve more with a clear aim.",
+        "km": "ការផ្អាកដើម្បីប្រមូលការពិត អាចបង្វែរភាពបន្ទាន់ទៅជាសកម្មភាពដ៏ឆ្លាតវៃ។ កម្លាំងជំរុញរបស់អ្នក អាចសម្រេចបានច្រើនជាងមុន ជាមួយគោលដៅច្បាស់លាស់។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You may be looking at money with a clear and honest eye, cutting through excuses. Hard-won experience is guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងមើលប្រាក់ដោយភ្នែកច្បាស់លាស់ និងស្មោះត្រង់ ដោយកាត់ផ្តាច់លេសនានា។ បទពិសោធន៍ដែលទទួលបានដោយលំបាក កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Take care not to become so guarded that you refuse all help or shut out good advice. Being clear-eyed still leaves room for trust.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំក្លាយជាអ្នកការពារខ្លួនខ្លាំងពេក រហូតអ្នកបដិសេធជំនួយទាំងអស់ ឬបិទទ្វារដាក់ដំបូន្មានល្អ។ ការមើលឃើញច្បាស់ នៅតែទុកកន្លែងសម្រាប់ការទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Honest judgement combined with openness could keep your finances sound. Your clarity may protect you and those around you.",
+        "km": "ការវិនិច្ឆ័យស្មោះត្រង់ រួមផ្សំជាមួយភាពបើកចំហ អាចរក្សាហិរញ្ញវត្ថុរបស់អ្នកឱ្យល្អ។ ភាពច្បាស់លាស់របស់អ្នក អាចការពារអ្នក និងអ្នកនៅជុំវិញអ្នក។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "You may be weighing money matters with logic and authority, perhaps dealing with contracts, rules or formal decisions. A firm, fair mind is needed.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងរឿងប្រាក់ ដោយតក្កវិជ្ជា និងសិទ្ធិអំណាច ប្រហែលជាដោះស្រាយកិច្ចសន្យា ច្បាប់ ឬការសម្រេចចិត្តផ្លូវការ។ ចិត្តរឹងមាំ និងយុត្តិធម៌ គឺត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Be careful of signing anything you do not fully understand, or relying on logic while ignoring the human side. For legal matters, seek qualified advice.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចុះហត្ថលេខាលើអ្វីដែលអ្នកមិនយល់ច្បាស់ទាំងស្រុង ឬការពឹងលើតក្កវិជ្ជា ខណៈមិនអើពើនឹងផ្នែកមនុស្ស។ សម្រាប់រឿងច្បាប់ សូមស្វែងរកដំបូន្មានពីអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Clear understanding before committing could keep you on solid ground. Fair, informed decisions may serve you well.",
+        "km": "ការយល់ដឹងច្បាស់ មុនពេលប្តេជ្ញាចិត្ត អាចរក្សាអ្នកឱ្យនៅលើដីរឹងមាំ។ ការសម្រេចចិត្តយុត្តិធម៌ និងមានព័ត៌មានគ្រប់គ្រាន់ អាចបម្រើអ្នកបានល្អ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A new money opportunity may be within reach, such as a job offer, a windfall or a fresh source of income. It feels solid and real.",
+        "km": "ឱកាសប្រាក់ថ្មីមួយ ប្រហែលជាស្ថិតនៅក្បែរដៃ ដូចជាការផ្តល់ការងារ ប្រាក់ដែលទទួលបានដោយមិននឹកស្មាន ឬប្រភពចំណូលថ្មី។ វាមានអារម្មណ៍រឹងមាំ និងពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Be careful of spending a new gain before it is safely in hand, or treating a one-time sum as regular income. Plan where it goes first.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចំណាយផលចំណេញថ្មី មុនពេលវាស្ថិតនៅក្នុងដៃដោយសុវត្ថិភាព ឬការចាត់ទុកប្រាក់ដែលទទួលបានតែម្តង ជាចំណូលទៀងទាត់។ សូមរៀបចំផែនការថាវានឹងទៅណាជាមុន។"
+      },
+      "outcome": {
+        "en": "Planting a new gain wisely could grow into lasting security. A small seed may become something substantial.",
+        "km": "ការដាំផលចំណេញថ្មីដោយឆ្លាតវៃ អាចរីកចម្រើនទៅជាសុវត្ថិភាពយូរអង្វែង។ គ្រាប់ពូជតូចមួយ អាចក្លាយជាអ្វីមួយដែលធំធេង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be juggling several money demands, moving funds around to keep everything covered. It takes skill to stay balanced.",
+        "km": "អ្នកប្រហែលជាកំពុងចាប់ផ្តួលតម្រូវការប្រាក់ជាច្រើន ដោយផ្លាស់ទីមូលនិធិជុំវិញ ដើម្បីគ្របដណ្តប់អ្វីៗទាំងអស់។ វាត្រូវការជំនាញដើម្បីរក្សាតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Watch for borrowing from one place to pay another, or losing track of which bill is due. Juggling too long can lead to a drop.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការខ្ចីពីកន្លែងមួយ ដើម្បីបង់កន្លែងមួយទៀត ឬការបាត់ដានថាវិក្កយបត្រណាដល់កំណត់។ ការចាប់ផ្តួលយូរពេក អាចនាំឱ្យធ្លាក់។"
+      },
+      "outcome": {
+        "en": "Simplifying what you juggle could bring steadier balance and less stress. Fewer moving parts may mean fewer unpleasant surprises.",
+        "km": "ការធ្វើឱ្យសាមញ្ញនូវអ្វីដែលអ្នកចាប់ផ្តួល អាចនាំមកនូវតុល្យភាពនឹងនរជាងមុន និងភាពតានតឹងតិចជាងមុន។ ផ្នែកដែលផ្លាស់ទីតិចជាងមុន អាចមានន័យថាការភ្ញាក់ផ្អើលមិនល្អតិចជាងមុន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "You may be working with others on a money project, such as a shared business, repair or savings group. Teamwork is building something.",
+        "km": "អ្នកប្រហែលជាកំពុងធ្វើការជាមួយអ្នកដទៃលើគម្រោងប្រាក់មួយ ដូចជាអាជីវកម្មរួម ការជួសជុល ឬក្រុមសន្សំប្រាក់។ ការងារជាក្រុម កំពុងកសាងអ្វីមួយ។"
+      },
+      "challenge": {
+        "en": "Be wary of vague roles and unrecorded contributions in group money arrangements. Agree who pays, who holds the funds and how it is tracked.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះតួនាទីមិនច្បាស់លាស់ និងការរួមចំណែកដែលមិនបានកត់ត្រា ក្នុងការរៀបចំប្រាក់ជាក្រុម។ សូមព្រមព្រៀងគ្នាថាអ្នកណាបង់ អ្នកណាកាន់មូលនិធិ និងរបៀបតាមដានវា។"
+      },
+      "outcome": {
+        "en": "Clear teamwork could turn shared effort into a fair, shared reward. Good records may keep trust strong among everyone involved.",
+        "km": "ការងារជាក្រុមច្បាស់លាស់ អាចបង្វែរការខិតខំរួមគ្នា ទៅជារង្វាន់រួមគ្នាដោយយុត្តិធម៌។ កំណត់ត្រាល្អ អាចរក្សាការទុកចិត្តឱ្យរឹងមាំ ក្នុងចំណោមអ្នកពាក់ព័ន្ធទាំងអស់។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be holding on tightly to money, focused on keeping what you have safe. Security feels very important.",
+        "km": "អ្នកប្រហែលជាកំពុងកាន់ប្រាក់យ៉ាងតឹង ដោយផ្តោតលើការរក្សាអ្វីដែលអ្នកមានឱ្យមានសុវត្ថិភាព។ សុវត្ថិភាព មានអារម្មណ៍សំខាន់ណាស់។"
+      },
+      "challenge": {
+        "en": "Take care that fear of loss does not stop you paying for real needs, such as health or repairs. Holding too tight can end up costing more.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យការភ័យខ្លាចការបាត់បង់ បញ្ឈប់អ្នកពីការបង់ប្រាក់សម្រាប់តម្រូវការពិត ដូចជាសុខភាព ឬការជួសជុល។ ការកាន់តឹងពេក អាចបញ្ចប់ដោយការចំណាយច្រើនជាងមុន។"
+      },
+      "outcome": {
+        "en": "Loosening your grip a little could bring security and ease together. Money may serve you rather than rule you.",
+        "km": "ការបន្ធូរការក្តាប់បន្តិច អាចនាំមកនូវសុវត្ថិភាព និងភាពស្រួលជាមួយគ្នា។ ប្រាក់អាចបម្រើអ្នក ជាជាងគ្រប់គ្រងអ្នក។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Money may feel tight, and you may feel left out in the cold or without support. Hardship may be weighing on you.",
+        "km": "ប្រាក់ប្រហែលជាមានអារម្មណ៍តឹងតែង ហើយអ្នកប្រហែលជាមានអារម្មណ៍ត្រូវគេទុកចោល ឬគ្មានការគាំទ្រ។ ការលំបាក ប្រហែលជាកំពុងសង្កត់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "Beware of being too proud or ashamed to ask for help that may be available to you. Support services, family or community may be closer than you think.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការមានមោទនភាព ឬខ្មាសអៀនពេកក្នុងការសុំជំនួយ ដែលអាចមានសម្រាប់អ្នក។ សេវាគាំទ្រ គ្រួសារ ឬសហគមន៍ អាចនៅជិតជាងអ្វីដែលអ្នកគិត។"
+      },
+      "outcome": {
+        "en": "Accepting help could carry you through the hardest stretch. Warmth and stability may return step by step.",
+        "km": "ការទទួលយកជំនួយ អាចនាំអ្នកឆ្លងកាត់ផ្នែកលំបាកបំផុត។ ភាពកក់ក្តៅ និងស្ថិរភាព អាចត្រឡប់មកវិញមួយជំហានម្តងៗ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Money may be moving between you and others, as a gift, a loan or help given or received. Give and take is part of the picture.",
+        "km": "ប្រាក់ប្រហែលជាកំពុងផ្លាស់ទីរវាងអ្នក និងអ្នកដទៃ ជាអំណោយ ប្រាក់កម្ចី ឬជំនួយដែលបានផ្តល់ ឬទទួល។ ការផ្តល់ និងការទទួល គឺជាផ្នែកមួយនៃរូបភាព។"
+      },
+      "challenge": {
+        "en": "Look out for help that comes with strings attached, or lending more than you could afford to lose. Agree on terms before money changes hands.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះជំនួយដែលភ្ជាប់មកជាមួយលក្ខខណ្ឌលាក់កំបាំង ឬការឱ្យខ្ចីច្រើនជាងអ្វីដែលអ្នកអាចបាត់បង់បាន។ សូមព្រមព្រៀងលើលក្ខខណ្ឌ មុនពេលប្រាក់ផ្លាស់ប្តូរដៃ។"
+      },
+      "outcome": {
+        "en": "Fair and clear giving could keep generosity a blessing on both sides. Balance may return to how money flows.",
+        "km": "ការផ្តល់ឱ្យដោយយុត្តិធម៌ និងច្បាស់លាស់ អាចរក្សាចិត្តសប្បុរសឱ្យជាពរជ័យសម្រាប់ភាគីទាំងពីរ។ តុល្យភាពអាចត្រឡប់មកវិញ ក្នុងរបៀបដែលប្រាក់ហូរ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may be waiting to see whether savings or an investment of effort will pay off. Growth may feel slow.",
+        "km": "អ្នកប្រហែលជាកំពុងរង់ចាំមើលថា តើប្រាក់សន្សំ ឬការវិនិយោគកម្លាំងរបស់អ្នក នឹងទទួលបានផលឬអត់។ ការរីកចម្រើន អាចមានអារម្មណ៍យឺត។"
+      },
+      "challenge": {
+        "en": "Be careful of pulling money out too early in frustration, or switching plans every time results seem slow. Steady patience often protects value.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដកប្រាក់ចេញមុនពេលដោយការខកចិត្ត ឬការប្តូរផែនការរាល់ពេលដែលលទ្ធផលហាក់ដូចជាយឺត។ ការអត់ធ្មត់ដោយនឹងនរ ជារឿយៗការពារតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Patient review could show what is working and what to change. Your harvest may be larger than it looks.",
+        "km": "ការពិនិត្យដោយអត់ធ្មត់ អាចបង្ហាញពីអ្វីដែលកំពុងដំណើរការ និងអ្វីដែលត្រូវផ្លាស់ប្តូរ។ ផលដំណាំរបស់អ្នក អាចធំជាងអ្វីដែលវាមើលទៅ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "You may be working hard and carefully on your finances, building good habits through practice. Your effort is steady and focused.",
+        "km": "អ្នកប្រហែលជាកំពុងខិតខំធ្វើការ និងប្រុងប្រយ័ត្នលើហិរញ្ញវត្ថុរបស់អ្នក ដោយកសាងទម្លាប់ល្អតាមរយៈការអនុវត្ត។ ការខិតខំរបស់អ្នក នឹងនរ និងផ្តោតអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Watch for overwork that wears you down, or perfectionism that keeps you redoing a budget instead of living it. Good enough can still be good.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើការហួសកម្លាំង ដែលធ្វើឱ្យអ្នកអស់កម្លាំង ឬភាពល្អឥតខ្ចោះ ដែលធ្វើឱ្យអ្នកធ្វើថវិកាឡើងវិញម្តងហើយម្តងទៀត ជំនួសឱ្យការរស់នៅតាមវា។ ល្អគ្រប់គ្រាន់ នៅតែអាចល្អ។"
+      },
+      "outcome": {
+        "en": "Steady practice without strain could make your money skills second nature. Quiet competence may build real security.",
+        "km": "ការអនុវត្តដោយនឹងនរ ដោយគ្មានសម្ពាធ អាចធ្វើឱ្យជំនាញប្រាក់របស់អ្នក ក្លាយជាធម្មជាតិទីពីរ។ សមត្ថភាពស្ងប់ស្ងាត់ អាចកសាងសុវត្ថិភាពពិតប្រាកដ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You may have reached a comfortable, independent place with money, enjoying what your effort has built. Self-reliance feels good.",
+        "km": "អ្នកប្រហែលជាបានឈានដល់កន្លែងស្រួល និងឯករាជ្យជាមួយប្រាក់ ដោយរីករាយនឹងអ្វីដែលការខិតខំរបស់អ្នកបានកសាង។ ការពឹងលើខ្លួនឯង មានអារម្មណ៍ល្អ។"
+      },
+      "challenge": {
+        "en": "Be wary of luxury creeping in, where each comfort raises what you feel you need. Keep enjoying without loosening your foundations.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះភាពប្រណីតដែលលូនចូលមក ដែលភាពស្រួលនីមួយៗ បង្កើនអ្វីដែលអ្នកមានអារម្មណ៍ថាត្រូវការ។ សូមបន្តរីករាយ ដោយមិនបន្ធូរគ្រឹះរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Enjoying comfort with care could keep your independence secure. What you have built may continue to support you.",
+        "km": "ការរីករាយនឹងភាពស្រួលដោយប្រុងប្រយ័ត្ន អាចរក្សាឯករាជ្យភាពរបស់អ្នកឱ្យមានសុវត្ថិភាព។ អ្វីដែលអ្នកបានកសាង អាចបន្តគាំទ្រអ្នក។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Money may involve family wealth, property or an inheritance, with long-term security at stake. Many people may have an interest.",
+        "km": "ប្រាក់ប្រហែលជាពាក់ព័ន្ធនឹងទ្រព្យសម្បត្តិគ្រួសារ អចលនទ្រព្យ ឬមរតក ដោយសុវត្ថិភាពរយៈពេលវែងស្ថិតក្នុងហានិភ័យ។ មនុស្សជាច្រើន ប្រហែលជាមានផលប្រយោជន៍។"
+      },
+      "challenge": {
+        "en": "Take care with family property or shared assets where agreements are unclear or unwritten. For legal questions, a qualified professional can help.",
+        "km": "សូមប្រុងប្រយ័ត្នជាមួយអចលនទ្រព្យគ្រួសារ ឬទ្រព្យសម្បត្តិរួម ដែលកិច្ចព្រមព្រៀងមិនច្បាស់លាស់ ឬមិនបានសរសេរ។ សម្រាប់សំណួរច្បាប់ អ្នកជំនាញដែលមានលក្ខណៈសម្បត្តិ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Clear arrangements could protect both family bonds and family wealth. Security may pass smoothly to those who come after.",
+        "km": "ការរៀបចំច្បាស់លាស់ អាចការពារទាំងចំណងគ្រួសារ និងទ្រព្យសម្បត្តិគ្រួសារ។ សុវត្ថិភាពអាចបន្តដោយរលូន ទៅកាន់អ្នកដែលមកក្រោយ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You may be learning about money, perhaps starting to budget, save or study a practical skill. A solid foundation is forming.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនអំពីប្រាក់ ប្រហែលជាចាប់ផ្តើមធ្វើថវិកា សន្សំ ឬសិក្សាជំនាញជាក់ស្តែងមួយ។ គ្រឹះរឹងមាំមួយ កំពុងបង្កើតឡើង។"
+      },
+      "challenge": {
+        "en": "Be careful of paying for courses or schemes that promise easy wealth to beginners. Free, trusted sources are often the best place to start.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបង់ប្រាក់សម្រាប់វគ្គសិក្សា ឬគម្រោងដែលសន្យាទ្រព្យសម្បត្តិងាយស្រួលដល់អ្នកចាប់ផ្តើមដំបូង។ ប្រភពឥតគិតថ្លៃ និងគួរឱ្យទុកចិត្ត ជារឿយៗជាកន្លែងល្អបំផុតដើម្បីចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Patient learning could build skills that serve you for life. Small, steady habits may grow into real strength.",
+        "km": "ការរៀនដោយអត់ធ្មត់ អាចកសាងជំនាញដែលបម្រើអ្នកពេញមួយជីវិត។ ទម្លាប់តូចៗ និងនឹងនរ អាចរីកចម្រើនទៅជាកម្លាំងពិតប្រាកដ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "You may be steady and methodical with money, sticking to routines and moving carefully. Reliability is your strength.",
+        "km": "អ្នកប្រហែលជានឹងនរ និងមានរបៀបរៀបរយជាមួយប្រាក់ ដោយប្រកាន់ខ្ជាប់ទម្លាប់ ហើយផ្លាស់ទីដោយប្រុងប្រយ័ត្ន។ ភាពអាចទុកចិត្តបាន គឺជាចំណុចខ្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for sticking with an old routine that has stopped serving you, such as a costly plan or account you never review. Steady still needs checking.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រកាន់ខ្ជាប់ទម្លាប់ចាស់ដែលឈប់បម្រើអ្នក ដូចជាគម្រោងថ្លៃ ឬគណនីដែលអ្នកមិនដែលពិនិត្យ។ ភាពនឹងនរ នៅតែត្រូវការការពិនិត្យ។"
+      },
+      "outcome": {
+        "en": "Reviewing routines regularly could keep steady progress on track. Reliable habits may build lasting wealth.",
+        "km": "ការពិនិត្យទម្លាប់ជាទៀងទាត់ អាចរក្សាការរីកចម្រើនដោយនឹងនរឱ្យស្ថិតលើផ្លូវត្រូវ។ ទម្លាប់ដែលអាចទុកចិត្តបាន អាចកសាងទ្រព្យសម្បត្តិយូរអង្វែង។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You may be practical and nurturing with money, making your home and resources stretch well for everyone. Comfort and care go together.",
+        "km": "អ្នកប្រហែលជាជាក់ស្តែង និងចិញ្ចឹមបីបាច់ជាមួយប្រាក់ ដោយធ្វើឱ្យផ្ទះ និងធនធានរបស់អ្នក គ្រប់គ្រាន់សម្រាប់អ្នករាល់គ្នា។ ភាពស្រួល និងការថែរក្សា ដើរជាមួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Take care not to cover everyone else's costs while your own savings quietly shrink. Looking after yourself keeps you able to help.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំចេញថ្លៃឱ្យអ្នកដទៃទាំងអស់ ខណៈប្រាក់សន្សំផ្ទាល់ខ្លួនរបស់អ្នករួញតូចដោយស្ងាត់ៗ។ ការថែរក្សាខ្លួនឯង ធ្វើឱ្យអ្នកនៅតែអាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Practical care that includes yourself could keep the whole household secure. Your resources may stretch further with balance.",
+        "km": "ការថែរក្សាជាក់ស្តែងដែលរួមបញ្ចូលខ្លួនឯង អាចរក្សាគ្រួសារទាំងមូលឱ្យមានសុវត្ថិភាព។ ធនធានរបស់អ្នក អាចលាតសន្ធឹងបានឆ្ងាយជាងមុន ជាមួយតុល្យភាព។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You may hold a strong position with money, with savings, assets or a good income behind you. People may admire what you have.",
+        "km": "អ្នកប្រហែលជាមានជំហររឹងមាំជាមួយប្រាក់ ដោយមានប្រាក់សន្សំ ទ្រព្យសម្បត្តិ ឬចំណូលល្អនៅពីក្រោយអ្នក។ មនុស្សប្រហែលជាកោតសរសើរអ្វីដែលអ្នកមាន។"
+      },
+      "challenge": {
+        "en": "Guard against becoming so focused on wealth that you guarantee others' loans or take on risks to protect your status. Success still needs careful handling.",
+        "km": "សូមការពារខ្លួនពីការផ្តោតលើទ្រព្យសម្បត្តិខ្លាំងពេក រហូតអ្នកធានាប្រាក់កម្ចីរបស់អ្នកដទៃ ឬទទួលយកហានិភ័យ ដើម្បីការពារឋានៈរបស់អ្នក។ ភាពជោគជ័យ នៅតែត្រូវការការគ្រប់គ្រងដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Steady stewardship could keep your security strong and lasting. Your success may become a foundation for others too.",
+        "km": "ការថែរក្សាទ្រព្យដោយនឹងនរ អាចរក្សាសុវត្ថិភាពរបស់អ្នកឱ្យរឹងមាំ និងស្ថិតស្ថេរ។ ភាពជោគជ័យរបស់អ្នក អាចក្លាយជាគ្រឹះសម្រាប់អ្នកដទៃផងដែរ។"
+      }
+    }
+  }
+}
