@@ -1,0 +1,1097 @@
+{
+  "questionId": "MF-06",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Loosen your grip on worst-case thinking and remember that you have found your way through uncertainty before. A little trust in yourself can lighten the load.",
+        "km": "សូមបន្ធូរការក្តាប់លើការគិតពីករណីអាក្រក់បំផុត ហើយចងចាំថាអ្នកធ្លាប់រកផ្លូវឆ្លងកាត់ភាពមិនប្រាកដប្រជាពីមុន។ ការទុកចិត្តលើខ្លួនឯងបន្តិច អាចធ្វើឱ្យបន្ទុកស្រាល។"
+      },
+      "challenge": {
+        "en": "Ignoring money matters completely to avoid feeling anxious could let real problems grow quietly. A light touch is different from looking away.",
+        "km": "ការមិនខ្វល់ពីរឿងប្រាក់ទាំងស្រុង ដើម្បីជៀសវាងអារម្មណ៍ថប់បារម្ភ អាចធ្វើឱ្យបញ្ហាពិតកើនឡើងដោយស្ងាត់ៗ។ ការប៉ះស្រាលៗ ខុសពីការងាកមុខចេញ។"
+      },
+      "outcome": {
+        "en": "A more relaxed attitude could make money feel less frightening and more manageable. You may find you cope better than you feared.",
+        "km": "អាកប្បកិរិយាធូរស្រាលជាងមុន អាចធ្វើឱ្យប្រាក់មានអារម្មណ៍មិនសូវគួរឱ្យខ្លាច ហើយងាយគ្រប់គ្រងជាងមុន។ អ្នកអាចរកឃើញថាអ្នកដោះស្រាយបានល្អជាងអ្វីដែលអ្នកខ្លាច។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Focus on what you can actually do about money, however small, and do one thing. Taking action is one of the quickest ways to calm worry.",
+        "km": "សូមផ្តោតលើអ្វីដែលអ្នកពិតជាអាចធ្វើបានអំពីប្រាក់ ទោះតូចយ៉ាងណាក៏ដោយ ហើយធ្វើរឿងមួយ។ ការធ្វើសកម្មភាព គឺជាវិធីរហ័សបំផុតមួយ ដើម្បីធ្វើឱ្យការព្រួយបារម្ភស្ងប់។"
+      },
+      "challenge": {
+        "en": "Feeling powerless could make worry spiral. Remind yourself of the skills and resources you already have.",
+        "km": "អារម្មណ៍គ្មានអំណាច អាចធ្វើឱ្យការព្រួយបារម្ភវិលកាន់តែខ្លាំង។ សូមរំលឹកខ្លួនឯងពីជំនាញ និងធនធានដែលអ្នកមានរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Small, practical actions could restore a real sense of control. Worry may shrink as your confidence grows.",
+        "km": "សកម្មភាពតូចៗ និងជាក់ស្តែង អាចស្តារអារម្មណ៍ពិតប្រាកដនៃការគ្រប់គ្រង។ ការព្រួយបារម្ភអាចរួមតូច ខណៈទំនុកចិត្តរបស់អ្នកកើនឡើង។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Spend a quiet moment noticing exactly what you are afraid of with money. Naming a fear often makes it smaller.",
+        "km": "សូមចំណាយពេលស្ងប់ស្ងាត់មួយ កត់សម្គាល់យ៉ាងច្បាស់ពីអ្វីដែលអ្នកខ្លាចអំពីប្រាក់។ ការដាក់ឈ្មោះការភ័យខ្លាច ជារឿយៗធ្វើឱ្យវាតូចជាងមុន។"
+      },
+      "challenge": {
+        "en": "Keeping worries locked inside could let them grow larger in the dark. Writing them down can bring them into proportion.",
+        "km": "ការចាក់សោការព្រួយបារម្ភនៅខាងក្នុង អាចធ្វើឱ្យវាកើនធំក្នុងភាពងងឹត។ ការសរសេរវាចុះ អាចនាំវាឱ្យមានសមាមាត្រ។"
+      },
+      "outcome": {
+        "en": "A clearer view of your fears could reveal which ones are real and which are not. Calm may follow understanding.",
+        "km": "ទិដ្ឋភាពច្បាស់ជាងមុនអំពីការភ័យខ្លាចរបស់អ្នក អាចបង្ហាញថាមួយណាពិត និងមួយណាមិនពិត។ ភាពស្ងប់ស្ងាត់ អាចកើតឡើងបន្ទាប់ពីការយល់ដឹង។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Look after your basic wellbeing, with rest, good food and kindness to yourself, while you deal with money. A cared-for mind worries less.",
+        "km": "សូមមើលថែសុខុមាលភាពមូលដ្ឋានរបស់អ្នក ដោយការសម្រាក អាហារល្អ និងសេចក្តីសប្បុរសចំពោះខ្លួនឯង ខណៈអ្នកដោះស្រាយជាមួយប្រាក់។ ចិត្តដែលត្រូវបានថែទាំ ព្រួយបារម្ភតិចជាង។"
+      },
+      "challenge": {
+        "en": "Comfort spending to soothe worry could add to the problem. Find comforts that do not cost money.",
+        "km": "ការចំណាយដើម្បីភាពសុខស្រួល ដើម្បីលួងលោមការព្រួយបារម្ភ អាចបន្ថែមបញ្ហា។ សូមរកការលួងលោមដែលមិនចំណាយប្រាក់។"
+      },
+      "outcome": {
+        "en": "Nurturing yourself could help you face money matters with more calm. A sense of enough may grow.",
+        "km": "ការថែទាំខ្លួនឯង អាចជួយអ្នកប្រឈមមុខនឹងរឿងប្រាក់ ដោយស្ងប់ស្ងាត់ជាងមុន។ អារម្មណ៍នៃការគ្រប់គ្រាន់ អាចកើនឡើង។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Give your finances a simple, clear structure, such as knowing what comes in and what goes out. Order can calm a racing mind.",
+        "km": "សូមផ្តល់រចនាសម្ព័ន្ធសាមញ្ញ និងច្បាស់លាស់ដល់ហិរញ្ញវត្ថុរបស់អ្នក ដូចជាការដឹងពីអ្វីដែលចូល និងអ្វីដែលចេញ។ របៀបរៀបរយ អាចធ្វើឱ្យចិត្តដែលវិលប្រញាប់ស្ងប់។"
+      },
+      "challenge": {
+        "en": "Trying to control every detail could make anxiety worse. Focus on the few numbers that matter most.",
+        "km": "ការព្យាយាមគ្រប់គ្រងរាល់ព័ត៌មានលម្អិត អាចធ្វើឱ្យការថប់បារម្ភកាន់តែអាក្រក់។ សូមផ្តោតលើតួលេខមួយចំនួនដែលសំខាន់បំផុត។"
+      },
+      "outcome": {
+        "en": "A clear structure could bring steady peace of mind. You may feel more in charge and less afraid.",
+        "km": "រចនាសម្ព័ន្ធច្បាស់លាស់ អាចនាំមកនូវសន្តិភាពផ្លូវចិត្តនឹងនរ។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងបានច្រើនជាងមុន និងខ្លាចតិចជាងមុន។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Seek steady guidance from someone experienced, such as a qualified adviser or a wise relative. Trusted advice can ease uncertainty.",
+        "km": "សូមស្វែងរកការណែនាំនឹងនរពីនរណាម្នាក់ដែលមានបទពិសោធន៍ ដូចជាទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ឬសាច់ញាតិដែលមានប្រាជ្ញា។ ដំបូន្មានដែលគួរឱ្យទុកចិត្ត អាចបន្ធូរភាពមិនប្រាកដប្រជា។"
+      },
+      "challenge": {
+        "en": "Measuring yourself against where you think you should be with money could fuel worry. Your path and timing are your own.",
+        "km": "ការវាស់វែងខ្លួនឯង ធៀបនឹងកន្លែងដែលអ្នកគិតថាអ្នកគួរតែនៅជាមួយប្រាក់ អាចបង្កើនការព្រួយបារម្ភ។ ផ្លូវ និងចង្វាក់របស់អ្នក គឺជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Good guidance could bring reassurance and a clearer path. You may feel less alone with money questions.",
+        "km": "ការណែនាំល្អ អាចនាំមកនូវការធានា និងផ្លូវច្បាស់ជាងមុន។ អ្នកអាចមានអារម្មណ៍ឯកោតិចជាងមុន ជាមួយសំណួរអំពីប្រាក់។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Share money worries with a partner or someone close, and decide together what to do. Facing things as a team can ease the weight.",
+        "km": "សូមចែករំលែកការព្រួយបារម្ភអំពីប្រាក់ ជាមួយដៃគូ ឬនរណាម្នាក់ដែលជិតស្និទ្ធ ហើយសម្រេចជាមួយគ្នាថាត្រូវធ្វើអ្វី។ ការប្រឈមមុខជាក្រុម អាចបន្ធូរទម្ងន់។"
+      },
+      "challenge": {
+        "en": "Hiding money troubles from someone close could create tension and isolation on top of worry. Honest talk can bring relief.",
+        "km": "ការលាក់បញ្ហាប្រាក់ពីនរណាម្នាក់ដែលជិតស្និទ្ធ អាចបង្កើតភាពតានតឹង និងភាពឯកោ បន្ថែមលើការព្រួយបារម្ភ។ ការនិយាយដោយស្មោះត្រង់ អាចនាំមកនូវការធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "Shared decisions could bring both relief and closeness. Money may stop being a source of secret worry.",
+        "km": "ការសម្រេចចិត្តរួមគ្នា អាចនាំមកនូវទាំងការធូរស្រាល និងភាពជិតស្និទ្ធ។ ប្រាក់អាចឈប់ជាប្រភពនៃការព្រួយបារម្ភសម្ងាត់។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Set one clear money goal and steer toward it, so energy goes into progress rather than worry. Direction calms the mind.",
+        "km": "សូមកំណត់គោលដៅប្រាក់ច្បាស់លាស់មួយ ហើយដឹកនាំឆ្ពោះទៅរកវា ដើម្បីឱ្យថាមពលទៅលើការរីកចម្រើន ជាជាងការព្រួយបារម្ភ។ ទិសដៅ ធ្វើឱ្យចិត្តស្ងប់។"
+      },
+      "challenge": {
+        "en": "Pushing too hard to fix everything at once could make you more stressed. Take one step at a time.",
+        "km": "ការជំរុញខ្លាំងពេកដើម្បីជួសជុលអ្វីៗទាំងអស់ក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នកតានតឹងជាងមុន។ សូមបោះជំហានម្តងមួយ។"
+      },
+      "outcome": {
+        "en": "Focused progress on one money goal could replace worry with a sense of moving forward. Each step completed may build confidence.",
+        "km": "ការរីកចម្រើនដោយផ្តោតលើគោលដៅប្រាក់មួយ អាចជំនួសការព្រួយបារម្ភដោយអារម្មណ៍នៃការឆ្ពោះទៅមុខ។ ជំហាននីមួយៗដែលបានបញ្ចប់ អាចកសាងទំនុកចិត្ត។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Meet money worries with patience and gentle courage rather than panic. Calm strength can carry you through difficult moments.",
+        "km": "សូមប្រឈមមុខនឹងការព្រួយបារម្ភអំពីប្រាក់ ដោយការអត់ធ្មត់ និងភាពក្លាហានទន់ភ្លន់ ជាជាងការភ័យស្លន់ស្លោ។ កម្លាំងស្ងប់ស្ងាត់ អាចនាំអ្នកឆ្លងកាត់ពេលវេលាលំបាក។"
+      },
+      "challenge": {
+        "en": "Being hard on yourself for money mistakes could deepen anxiety. Treat yourself as kindly as you would a friend.",
+        "km": "ការតឹងរ៉ឹងចំពោះខ្លួនឯង ចំពោះកំហុសប្រាក់ អាចធ្វើឱ្យការថប់បារម្ភកាន់តែជ្រៅ។ សូមប្រព្រឹត្តចំពោះខ្លួនឯងដោយសប្បុរស ដូចអ្នកនឹងធ្វើចំពោះមិត្តភក្តិ។"
+      },
+      "outcome": {
+        "en": "Patient courage could help you feel steadier about money. Inner strength may become a source of calm.",
+        "km": "ភាពក្លាហានដោយអត់ធ្មត់ អាចជួយអ្នកមានអារម្មណ៍នឹងនរជាងមុនអំពីប្រាក់។ កម្លាំងខាងក្នុង អាចក្លាយជាប្រភពនៃភាពស្ងប់ស្ងាត់។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Take some quiet time to reflect on what security really means to you. Knowing what you truly need can ease endless worry.",
+        "km": "សូមចំណាយពេលស្ងប់ស្ងាត់ខ្លះ ដើម្បីឆ្លុះបញ្ចាំងពីអ្វីដែលសុវត្ថិភាពពិតជាមានន័យសម្រាប់អ្នក។ ការដឹងពីអ្វីដែលអ្នកពិតជាត្រូវការ អាចបន្ធូរការព្រួយបារម្ភគ្មានទីបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Turning money worries over alone, again and again, could keep them circling. Share your thoughts with someone you trust.",
+        "km": "ការគិតពីការព្រួយបារម្ភអំពីប្រាក់ម្នាក់ឯង ម្តងហើយម្តងទៀត អាចធ្វើឱ្យវាវិលជុំវិញ។ សូមចែករំលែកគំនិតរបស់អ្នក ជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Inner clarity could bring a deeper sense of peace about money. You may need less than you feared.",
+        "km": "ភាពច្បាស់លាស់ខាងក្នុង អាចនាំមកនូវអារម្មណ៍ស្ងប់ចិត្តជ្រៅជាងមុនអំពីប្រាក់។ អ្នកប្រហែលជាត្រូវការតិចជាងអ្វីដែលអ្នកខ្លាច។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Accept that money has ups and downs, and prepare a small cushion for the lows. Preparation turns uncertainty into something manageable.",
+        "km": "សូមទទួលយកថាប្រាក់មានការឡើងចុះ ហើយរៀបចំទុនបម្រុងតូចមួយសម្រាប់ពេលធ្លាក់។ ការត្រៀមខ្លួន ប្រែភាពមិនប្រាកដប្រជាទៅជាអ្វីដែលអាចគ្រប់គ្រងបាន។"
+      },
+      "challenge": {
+        "en": "Worrying about prices or markets you cannot control could drain energy. Put your attention on the bills and choices that are yours.",
+        "km": "ការព្រួយបារម្ភអំពីតម្លៃ ឬទីផ្សារដែលអ្នកមិនអាចគ្រប់គ្រង អាចបូមថាមពល។ សូមដាក់ការយកចិត្តទុកដាក់របស់អ្នកលើវិក្កយបត្រ និងជម្រើសដែលជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Being prepared for change could reduce fear of it. Ups and downs may feel less threatening.",
+        "km": "ការត្រៀមខ្លួនសម្រាប់ការផ្លាស់ប្តូរ អាចកាត់បន្ថយការភ័យខ្លាចចំពោះវា។ ការឡើងចុះ អាចមានអារម្មណ៍គំរាមកំហែងតិចជាងមុន។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Look at your finances honestly and fairly, without exaggerating or minimising. Seeing the real picture can ease vague anxiety.",
+        "km": "សូមមើលហិរញ្ញវត្ថុរបស់អ្នកដោយស្មោះត្រង់ និងយុត្តិធម៌ ដោយមិនបំផ្លើស ឬបន្ថយ។ ការមើលឃើញរូបភាពពិត អាចបន្ធូរការថប់បារម្ភមិនច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Unresolved debts or loose agreements could keep worry alive in the background. Dealing with them one by one can quiet it.",
+        "km": "បំណុល ឬកិច្ចព្រមព្រៀងរលុងដែលមិនទាន់ដោះស្រាយ អាចរក្សាការព្រួយបារម្ភឱ្យនៅរស់នៅខាងក្រោយ។ ការដោះស្រាយវាម្តងមួយៗ អាចធ្វើឱ្យវាស្ងប់។"
+      },
+      "outcome": {
+        "en": "A fair, honest view of your finances could bring balance and calm. Settling even one matter may lift a noticeable weight.",
+        "km": "ទស្សនៈយុត្តិធម៌ និងស្មោះត្រង់អំពីហិរញ្ញវត្ថុរបស់អ្នក អាចនាំមកនូវតុល្យភាព និងភាពស្ងប់ស្ងាត់។ ការដោះស្រាយសូម្បីតែរឿងមួយ អាចលើកទម្ងន់គួរឱ្យកត់សម្គាល់។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Try seeing your money situation from a different angle, perhaps as a temporary phase rather than a permanent state. A new view can soften fear.",
+        "km": "សូមសាកល្បងមើលស្ថានភាពប្រាក់របស់អ្នកពីមុំផ្សេង ប្រហែលជាដំណាក់កាលបណ្តោះអាសន្ន ជាជាងស្ថានភាពអចិន្ត្រៃយ៍។ ទស្សនៈថ្មី អាចបន្ទន់ការភ័យខ្លាច។"
+      },
+      "challenge": {
+        "en": "Feeling stuck could make money worry feel endless. Remember that income, costs and circumstances all change.",
+        "km": "អារម្មណ៍ជាប់គាំង អាចធ្វើឱ្យការព្រួយបារម្ភអំពីប្រាក់មានអារម្មណ៍គ្មានទីបញ្ចប់។ សូមចងចាំថាចំណូល ការចំណាយ និងកាលៈទេសៈ សុទ្ធតែផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Seeing a tight patch as temporary could bring unexpected relief. What feels stuck may begin to move again.",
+        "km": "ការមើលឃើញដំណាក់កាលតឹងតែងថាជាបណ្តោះអាសន្ន អាចនាំមកនូវការធូរស្រាលដែលមិនបានរំពឹងទុក។ អ្វីដែលមានអារម្មណ៍ជាប់គាំង អាចចាប់ផ្តើមផ្លាស់ទីម្តងទៀត។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Let go of old money fears or habits that no longer reflect your situation. Releasing the past can lighten the present.",
+        "km": "សូមលែងការភ័យខ្លាច ឬទម្លាប់ប្រាក់ចាស់ៗ ដែលលែងឆ្លុះបញ្ចាំងពីស្ថានភាពរបស់អ្នក។ ការដោះលែងអតីតកាល អាចធ្វើឱ្យបច្ចុប្បន្នស្រាលជាងមុន។"
+      },
+      "challenge": {
+        "en": "Holding on to worries from a past crisis could keep you anxious long after it has passed. Notice whether the fear still fits.",
+        "km": "ការកាន់ការព្រួយបារម្ភពីវិបត្តិកន្លងមក អាចធ្វើឱ្យអ្នកថប់បារម្ភយូរបន្ទាប់ពីវាបានកន្លងផុត។ សូមកត់សម្គាល់ថាតើការភ័យខ្លាចនៅតែសមឬទេ។"
+      },
+      "outcome": {
+        "en": "Releasing old fears could bring a fresh sense of freedom. A lighter relationship with money may begin.",
+        "km": "ការដោះលែងការភ័យខ្លាចចាស់ អាចនាំមកនូវអារម្មណ៍ថ្មីនៃសេរីភាព។ ទំនាក់ទំនងស្រាលជាងមុនជាមួយប្រាក់ អាចចាប់ផ្តើម។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Find a middle path with money, neither ignoring it nor checking it constantly. A regular, short check-in can replace endless worrying.",
+        "km": "សូមរកផ្លូវកណ្តាលជាមួយប្រាក់ ដោយមិនមិនខ្វល់ពីវា ក៏មិនពិនិត្យវាជានិច្ច។ ការពិនិត្យខ្លីៗ និងទៀងទាត់ អាចជំនួសការព្រួយបារម្ភគ្មានទីបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Swinging between panicking over money and avoiding it altogether could make worry worse. Aim for steady, regular attention.",
+        "km": "ការយោលរវាងការភ័យស្លន់ស្លោអំពីប្រាក់ និងការជៀសវាងវាទាំងស្រុង អាចធ្វើឱ្យការព្រួយបារម្ភកាន់តែអាក្រក់។ សូមប្រាថ្នាការយកចិត្តទុកដាក់នឹងនរ និងទៀងទាត់។"
+      },
+      "outcome": {
+        "en": "A balanced approach could bring lasting peace of mind. Money may become one part of life rather than its centre.",
+        "km": "វិធីសាស្ត្រមានតុល្យភាព អាចនាំមកនូវសន្តិភាពផ្លូវចិត្តស្ថិតស្ថេរ។ ប្រាក់អាចក្លាយជាផ្នែកមួយនៃជីវិត ជាជាងចំណុចកណ្តាលរបស់វា។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Notice the patterns or beliefs that keep you trapped in money anxiety. Seeing the chain is the first step to loosening it.",
+        "km": "សូមកត់សម្គាល់លំនាំ ឬជំនឿ ដែលរក្សាអ្នកឱ្យជាប់អន្ទាក់ក្នុងការថប់បារម្ភអំពីប្រាក់។ ការមើលឃើញច្រវាក់ គឺជាជំហានដំបូងក្នុងការបន្ធូរវា។"
+      },
+      "challenge": {
+        "en": "Debt or compulsive habits could keep worry constant. If you feel trapped, a qualified adviser, counsellor or support service can help.",
+        "km": "បំណុល ឬទម្លាប់បង្ខិតបង្ខំ អាចរក្សាការព្រួយបារម្ភឱ្យជាប់ជានិច្ច។ ប្រសិនបើអ្នកមានអារម្មណ៍ជាប់អន្ទាក់ ទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ អ្នកប្រឹក្សា ឬសេវាគាំទ្រ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Breaking an anxious pattern could bring real relief. You may feel freer than you have in a long while.",
+        "km": "ការបំបែកលំនាំថប់បារម្ភ អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍សេរីជាងអ្វីដែលអ្នកមានជាយូរមកហើយ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "If a money shock has hit, list what must be paid first and let the rest wait. Sorting the urgent from the rest calms panic.",
+        "km": "ប្រសិនបើការភ្ញាក់ផ្អើលផ្នែកប្រាក់បានកើតឡើង សូមរាយបញ្ជីអ្វីដែលត្រូវតែបង់មុន ហើយឱ្យអ្វីផ្សេងទៀតរង់ចាំ។ ការតម្រៀបអ្វីដែលបន្ទាន់ ចេញពីអ្វីផ្សេងទៀត ធ្វើឱ្យការភ័យស្លន់ស្លោស្ងប់។"
+      },
+      "challenge": {
+        "en": "A sudden crisis could trigger panic decisions. If you feel overwhelmed, reach out for qualified advice or support.",
+        "km": "វិបត្តិភ្លាមៗ អាចបង្កការសម្រេចចិត្តដោយភ័យស្លន់ស្លោ។ ប្រសិនបើអ្នកមានអារម្មណ៍លើសកម្លាំង សូមស្វែងរកដំបូន្មានពីអ្នកជំនាញ ឬការគាំទ្រ។"
+      },
+      "outcome": {
+        "en": "Coming through a shock could leave you calmer and better prepared. Worry may ease as stability returns.",
+        "km": "ការឆ្លងកាត់ការភ្ញាក់ផ្អើល អាចធ្វើឱ្យអ្នកស្ងប់ស្ងាត់ និងត្រៀមខ្លួនបានល្អជាងមុន។ ការព្រួយបារម្ភអាចធូរស្រាល ខណៈស្ថិរភាពត្រឡប់មកវិញ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hold on to hope, and remind yourself that money situations can and do improve. Noticing small signs of progress can keep you going.",
+        "km": "សូមកាន់ក្តីសង្ឃឹម ហើយរំលឹកខ្លួនឯងថាស្ថានភាពប្រាក់អាច ហើយពិតជាប្រសើរឡើង។ ការកត់សម្គាល់សញ្ញាតូចៗនៃការរីកចម្រើន អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Feeling that money will never improve could make every bill seem like a disaster. Someone you trust may help you see a way through.",
+        "km": "អារម្មណ៍ថាប្រាក់នឹងមិនដែលប្រសើរឡើង អាចធ្វើឱ្យរាល់វិក្កយបត្រហាក់ដូចជាគ្រោះមហន្តរាយ។ នរណាម្នាក់ដែលអ្នកទុកចិត្ត អាចជួយអ្នកមើលឃើញផ្លូវឆ្លងកាត់។"
+      },
+      "outcome": {
+        "en": "Renewed hope could ease worry and bring fresh energy for practical steps. A brighter outlook on money may slowly return.",
+        "km": "ក្តីសង្ឃឹមថ្មី អាចបន្ធូរការព្រួយបារម្ភ ហើយនាំមកនូវថាមពលថ្មីសម្រាប់ជំហានជាក់ស្តែង។ ទស្សនៈភ្លឺស្វាងជាងមុនអំពីប្រាក់ អាចត្រឡប់មកវិញបន្តិចម្តងៗ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Separate real money facts from fears and imagined scenarios. Checking the actual numbers can calm a frightened mind.",
+        "km": "សូមញែកការពិតអំពីប្រាក់ ចេញពីការភ័យខ្លាច និងសេណារីយ៉ូដែលស្រមៃ។ ការពិនិត្យតួលេខពិតប្រាកដ អាចធ្វើឱ្យចិត្តដែលភ័យខ្លាចស្ងប់។"
+      },
+      "challenge": {
+        "en": "Imagining the worst could make worry far bigger than the problem. Ask what you actually know.",
+        "km": "ការស្រមៃរឿងអាក្រក់បំផុត អាចធ្វើឱ្យការព្រួយបារម្ភធំជាងបញ្ហាឆ្ងាយ។ សូមសួរថាអ្វីដែលអ្នកពិតជាដឹង។"
+      },
+      "outcome": {
+        "en": "Clarity could dissolve money fears that were never based on the real figures. Calm may return as the fog lifts.",
+        "km": "ភាពច្បាស់លាស់ អាចរំលាយការភ័យខ្លាចអំពីប្រាក់ ដែលមិនដែលផ្អែកលើតួលេខពិត។ ភាពស្ងប់ស្ងាត់អាចត្រឡប់មកវិញ នៅពេលអ័ព្ទស្រឡះ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Notice what is going well with money, however small, and let it lift your mood. Positive focus can balance worry.",
+        "km": "សូមកត់សម្គាល់អ្វីដែលកំពុងដំណើរការល្អជាមួយប្រាក់ ទោះតូចយ៉ាងណាក៏ដោយ ហើយឱ្យវាលើកអារម្មណ៍របស់អ្នក។ ការផ្តោតវិជ្ជមាន អាចធ្វើឱ្យការព្រួយបារម្ភមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Putting on a cheerful face while worrying inside could leave you isolated. Share how you really feel.",
+        "km": "ការធ្វើមុខរីករាយ ខណៈពេលព្រួយបារម្ភនៅខាងក្នុង អាចធ្វើឱ្យអ្នកឯកោ។ សូមចែករំលែកពីអារម្មណ៍ពិតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Seeing your progress clearly could bring real optimism. Worry may fade in the light of what is working.",
+        "km": "ការមើលឃើញការរីកចម្រើនរបស់អ្នកយ៉ាងច្បាស់ អាចនាំមកនូវសុទិដ្ឋិនិយមពិតប្រាកដ។ ការព្រួយបារម្ភអាចរសាត់បាត់ ក្នុងពន្លឺនៃអ្វីដែលកំពុងដំណើរការ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Take an honest look at how worry has shaped your money choices, and decide what to do differently. Awareness can be a turning point.",
+        "km": "សូមមើលដោយស្មោះត្រង់ពីរបៀបដែលការព្រួយបារម្ភបានរៀបចំជម្រើសប្រាក់របស់អ្នក ហើយសម្រេចថាត្រូវធ្វើអ្វីខុសពីមុន។ ការយល់ដឹង អាចជាចំណុចបត់។"
+      },
+      "challenge": {
+        "en": "Blaming yourself for past money choices could feed worry. Forgive the mistakes and put your energy into next steps.",
+        "km": "ការបន្ទោសខ្លួនឯងចំពោះជម្រើសប្រាក់កន្លងមក អាចចិញ្ចឹមការព្រួយបារម្ភ។ សូមអភ័យទោសកំហុស ហើយដាក់ថាមពលរបស់អ្នកទៅលើជំហានបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A fresh start with less fear could change how money feels to you. You may feel renewed and clearer about what matters.",
+        "km": "ការចាប់ផ្តើមថ្មីជាមួយការភ័យខ្លាចតិចជាងមុន អាចផ្លាស់ប្តូររបៀបដែលប្រាក់មានអារម្មណ៍ចំពោះអ្នក។ អ្នកអាចមានអារម្មណ៍ថ្មី និងច្បាស់លាស់ជាងមុនអំពីអ្វីដែលសំខាន់។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Recognise how far you have come and how much you have already handled. Completion of small goals can quiet big fears.",
+        "km": "សូមទទួលស្គាល់ថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា និងបានដោះស្រាយរួចហើយច្រើនប៉ុណ្ណា។ ការបញ្ចប់គោលដៅតូចៗ អាចធ្វើឱ្យការភ័យខ្លាចធំៗស្ងប់។"
+      },
+      "challenge": {
+        "en": "Moving the goalposts every time you reach one could keep worry alive. Let yourself feel the achievement.",
+        "km": "ការផ្លាស់ទីគោលដៅរាល់ពេលដែលអ្នកឈានដល់មួយ អាចរក្សាការព្រួយបារម្ភឱ្យនៅរស់។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍នៃសមិទ្ធផល។"
+      },
+      "outcome": {
+        "en": "Paying off something or reaching a target could quiet a worry you have carried for a long while. Calm may feel well earned.",
+        "km": "ការបង់អ្វីមួយឱ្យរួច ឬការឈានដល់គោលដៅ អាចធ្វើឱ្យការព្រួយបារម្ភដែលអ្នកបានកាន់ជាយូរមកហើយស្ងប់។ ភាពស្ងប់ស្ងាត់ អាចមានអារម្មណ៍ថាបានរកបានយ៉ាងសមរម្យ។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Channel anxious energy into one positive money action, such as checking a balance or making a small payment. Doing something often eases worrying about it.",
+        "km": "សូមបង្វែរថាមពលថប់បារម្ភ ទៅក្នុងសកម្មភាពប្រាក់វិជ្ជមានមួយ ដូចជាការពិនិត្យសមតុល្យ ឬការបង់ប្រាក់តូចមួយ។ ការធ្វើអ្វីមួយ ជារឿយៗបន្ធូរការព្រួយបារម្ភអំពីវា។"
+      },
+      "challenge": {
+        "en": "Starting many fixes at once out of nervous energy could leave you more scattered and stressed. Pick one task and finish it before the next.",
+        "km": "ការចាប់ផ្តើមដំណោះស្រាយជាច្រើនក្នុងពេលតែមួយ ដោយសារថាមពលភ័យខ្លាច អាចធ្វើឱ្យអ្នករាយប៉ាយ និងតានតឹងជាងមុន។ សូមជ្រើសរើសកិច្ចការមួយ ហើយបញ្ចប់វា មុនពេលធ្វើកិច្ចការបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A fresh start on one small task could break the cycle of worry. Each finished step may make the next feel easier.",
+        "km": "ការចាប់ផ្តើមថ្មីលើកិច្ចការតូចមួយ អាចបំបែកវដ្តនៃការព្រួយបារម្ភ។ ជំហាននីមួយៗដែលបានបញ្ចប់ អាចធ្វើឱ្យជំហានបន្ទាប់មានអារម្មណ៍ងាយស្រួលជាង។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Make a simple plan that looks ahead a little, so you are not caught off guard by bills or costs. Knowing what is coming can quiet fear.",
+        "km": "សូមធ្វើផែនការសាមញ្ញ ដែលមើលទៅមុខបន្តិច ដើម្បីកុំឱ្យវិក្កយបត្រ ឬការចំណាយធ្វើឱ្យអ្នកភ្ញាក់ផ្អើល។ ការដឹងពីអ្វីដែលនឹងមកដល់ អាចធ្វើឱ្យការភ័យខ្លាចស្ងប់។"
+      },
+      "challenge": {
+        "en": "Planning endlessly without acting could keep worry alive. Choose one step and take it, even if the plan is not perfect.",
+        "km": "ការធ្វើផែនការគ្មានទីបញ្ចប់ ដោយមិនធ្វើសកម្មភាព អាចរក្សាការព្រួយបារម្ភឱ្យនៅរស់។ សូមជ្រើសរើសជំហានមួយ ហើយបោះវា ទោះបីផែនការមិនល្អឥតខ្ចោះក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Looking ahead with a plan could replace dread with readiness. Fewer surprises may mean far fewer worries.",
+        "km": "ការមើលទៅមុខជាមួយផែនការ អាចជំនួសការភ័យខ្លាចដោយការត្រៀមខ្លួន។ ការភ្ញាក់ផ្អើលតិចជាងមុន អាចមានន័យថាការព្រួយបារម្ភតិចជាងមុនច្រើន។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Look at the bigger picture of where your money is going over the long run, not just this moment's pressure. Perspective can shrink immediate fears.",
+        "km": "សូមមើលរូបភាពធំពីកន្លែងដែលប្រាក់របស់អ្នកកំពុងទៅក្នុងរយៈពេលវែង មិនមែនត្រឹមតែសម្ពាធពេលនេះទេ។ ទស្សនៈ អាចបង្រួមការភ័យខ្លាចភ្លាមៗ។"
+      },
+      "challenge": {
+        "en": "Waiting anxiously for things to improve on their own could leave you feeling helpless. Take one small action while you wait.",
+        "km": "ការរង់ចាំដោយថប់បារម្ភឱ្យអ្វីៗប្រសើរឡើងដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកមានអារម្មណ៍គ្មានទីពឹង។ សូមធ្វើសកម្មភាពតូចមួយ ខណៈពេលអ្នករង់ចាំ។"
+      },
+      "outcome": {
+        "en": "Seeing progress from a distance could reassure you that things are moving. Earlier efforts may start to show.",
+        "km": "ការមើលឃើញការរីកចម្រើនពីចម្ងាយ អាចធានាដល់អ្នកថាអ្វីៗកំពុងផ្លាស់ទី។ ការខិតខំពីមុន អាចចាប់ផ្តើមបង្ហាញ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Spend time with people who make you feel secure, and remember the stable things in your life beyond money. Belonging is a buffer against worry.",
+        "km": "សូមចំណាយពេលជាមួយមនុស្សដែលធ្វើឱ្យអ្នកមានអារម្មណ៍សុវត្ថិភាព ហើយចងចាំពីរឿងមានស្ថិរភាពក្នុងជីវិតរបស់អ្នក ក្រៅពីប្រាក់។ ការជាផ្នែកមួយ គឺជារបាំងប្រឆាំងនឹងការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Feeling you must spend to keep up appearances at gatherings could add pressure. Real friends value your company, not your spending.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែចំណាយ ដើម្បីរក្សាមុខមាត់នៅការជួបជុំ អាចបន្ថែមសម្ពាធ។ មិត្តពិតឱ្យតម្លៃវត្តមានរបស់អ្នក មិនមែនការចំណាយរបស់អ្នកទេ។"
+      },
+      "outcome": {
+        "en": "A sense of stability beyond money could ease worry noticeably. Simple shared moments may feel richer than you expect.",
+        "km": "អារម្មណ៍នៃស្ថិរភាពក្រៅពីប្រាក់ អាចបន្ធូរការព្រួយបារម្ភគួរឱ្យកត់សម្គាល់។ ពេលវេលារួមគ្នាសាមញ្ញៗ អាចមានអារម្មណ៍សម្បូរជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Notice where comparing yourself with others is feeding money worry. Your situation is yours, not a contest.",
+        "km": "សូមកត់សម្គាល់កន្លែងដែលការប្រៀបធៀបខ្លួនឯងជាមួយអ្នកដទៃ កំពុងចិញ្ចឹមការព្រួយបារម្ភអំពីប្រាក់។ ស្ថានភាពរបស់អ្នក គឺជារបស់អ្នក មិនមែនជាការប្រកួតប្រជែងទេ។"
+      },
+      "challenge": {
+        "en": "Arguments about money could leave you tense and anxious long after they end. Settle disagreements calmly where you can.",
+        "km": "ការឈ្លោះប្រកែកអំពីប្រាក់ អាចធ្វើឱ្យអ្នកតានតឹង និងថប់បារម្ភយូរបន្ទាប់ពីវាបញ្ចប់។ សូមដោះស្រាយការខ្វែងគំនិតដោយស្ងប់ស្ងាត់ នៅកន្លែងដែលអ្នកអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Letting go of comparison could bring surprising peace about money. You may find your own situation easier to accept and improve.",
+        "km": "ការលែងការប្រៀបធៀប អាចនាំមកនូវសន្តិភាពគួរឱ្យភ្ញាក់ផ្អើលអំពីប្រាក់។ អ្នកអាចរកឃើញថាស្ថានភាពរបស់អ្នកងាយទទួលយក និងកែលម្អជាងមុន។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Remind yourself of money challenges you have already overcome. Past success is evidence you can handle what comes.",
+        "km": "សូមរំលឹកខ្លួនឯងពីការប្រឈមផ្នែកប្រាក់ ដែលអ្នកបានយកឈ្នះរួចហើយ។ ភាពជោគជ័យកន្លងមក គឺជាភស្តុតាងថាអ្នកអាចដោះស្រាយអ្វីដែលមកដល់។"
+      },
+      "challenge": {
+        "en": "Measuring your worth by your bank balance could make worry feel personal. You are more than your money.",
+        "km": "ការវាស់វែងតម្លៃរបស់អ្នក តាមសមតុល្យគណនីធនាគារ អាចធ្វើឱ្យការព្រួយបារម្ភមានអារម្មណ៍ផ្ទាល់ខ្លួន។ អ្នកមានតម្លៃលើសពីប្រាក់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Recognising your own resilience could bring lasting confidence. Worry may lose some of its power over you.",
+        "km": "ការទទួលស្គាល់ភាពធន់របស់អ្នកផ្ទាល់ អាចនាំមកនូវទំនុកចិត្តស្ថិតស្ថេរ។ ការព្រួយបារម្ភ អាចបាត់បង់អំណាចខ្លះលើអ្នក។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Set firm boundaries with people or situations that keep adding to your money stress. Protecting your peace is allowed.",
+        "km": "សូមកំណត់ព្រំដែនរឹងមាំ ជាមួយមនុស្ស ឬស្ថានភាព ដែលបន្តបន្ថែមភាពតានតឹងអំពីប្រាក់របស់អ្នក។ ការការពារសន្តិភាពរបស់អ្នក ត្រូវបានអនុញ្ញាត។"
+      },
+      "challenge": {
+        "en": "Feeling you must defend every spending choice to others could keep you on edge. You do not owe everyone an explanation.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែការពាររាល់ជម្រើសចំណាយចំពោះអ្នកដទៃ អាចធ្វើឱ្យអ្នកតានតឹងជានិច្ច។ អ្នកមិនជំពាក់ការពន្យល់ដល់មនុស្សគ្រប់គ្នាទេ។"
+      },
+      "outcome": {
+        "en": "Clear boundaries could bring calm and a sense of control. Fewer outside pressures may mean less worry.",
+        "km": "ព្រំដែនច្បាស់លាស់ អាចនាំមកនូវភាពស្ងប់ស្ងាត់ និងអារម្មណ៍នៃការគ្រប់គ្រង។ សម្ពាធខាងក្រៅតិចជាងមុន អាចមានន័យថាការព្រួយបារម្ភតិចជាងមុន។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Deal with small money tasks quickly so they do not pile up and become overwhelming. Quick action stops worry from growing.",
+        "km": "សូមដោះស្រាយកិច្ចការប្រាក់តូចៗឱ្យរហ័ស ដើម្បីកុំឱ្យវាគរ ហើយក្លាយជាលើសកម្លាំង។ សកម្មភាពរហ័ស បញ្ឈប់ការព្រួយបារម្ភពីការកើនឡើង។"
+      },
+      "challenge": {
+        "en": "Rushing money decisions out of panic could make things worse. Pause and breathe before paying, borrowing or signing.",
+        "km": "ការប្រញាប់សម្រេចចិត្តប្រាក់ ដោយសារការភ័យស្លន់ស្លោ អាចធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់។ សូមផ្អាក និងដកដង្ហើម មុនពេលបង់ ខ្ចី ឬចុះហត្ថលេខា។"
+      },
+      "outcome": {
+        "en": "Clearing small tasks promptly could bring quick relief. A lighter to-do list may mean a lighter mind.",
+        "km": "ការបញ្ចប់កិច្ចការតូចៗឱ្យរហ័ស អាចនាំមកនូវការធូរស្រាលរហ័ស។ បញ្ជីកិច្ចការស្រាលជាងមុន អាចមានន័យថាចិត្តស្រាលជាងមុន។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Acknowledge how much you have endured with money and give yourself credit for still standing. Resilience deserves recognition.",
+        "km": "សូមទទួលស្គាល់ថាអ្នកបានស៊ូទ្រាំប៉ុណ្ណាជាមួយប្រាក់ ហើយផ្តល់កិត្តិយសដល់ខ្លួនឯង ដែលនៅតែឈរ។ ភាពធន់ សមនឹងការទទួលស្គាល់។"
+      },
+      "challenge": {
+        "en": "Exhaustion from long worry could make everything feel harder. Rest is part of coping, not a luxury.",
+        "km": "ការអស់កម្លាំងពីការព្រួយបារម្ភយូរ អាចធ្វើឱ្យអ្វីៗមានអារម្មណ៍ពិបាកជាងមុន។ ការសម្រាក គឺជាផ្នែកមួយនៃការដោះស្រាយ មិនមែនជាភាពប្រណីតទេ។"
+      },
+      "outcome": {
+        "en": "Your persistence could carry you onto calmer financial ground. The money pressure that wore you down may finally begin to ease.",
+        "km": "ការតស៊ូរបស់អ្នក អាចនាំអ្នកឡើងលើដីហិរញ្ញវត្ថុស្ងប់ស្ងាត់ជាងមុន។ សម្ពាធប្រាក់ដែលធ្វើឱ្យអ្នកអស់កម្លាំង អាចចាប់ផ្តើមធូរស្រាលនៅទីបំផុត។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Look at what money burdens you are carrying for others, and ask whether some can be shared. Lightening the load lightens the worry.",
+        "km": "សូមមើលពីបន្ទុកប្រាក់ដែលអ្នកកំពុងលីសម្រាប់អ្នកដទៃ ហើយសួរថាតើខ្លះអាចចែករំលែកបានឬទេ។ ការបន្ធូរបន្ទុក បន្ធូរការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Carrying every financial responsibility alone could leave you exhausted and anxious. Asking for help is reasonable.",
+        "km": "ការលីការទទួលខុសត្រូវហិរញ្ញវត្ថុគ្រប់យ៉ាងម្នាក់ឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងថប់បារម្ភ។ ការស្នើសុំជំនួយ គឺសមហេតុផល។"
+      },
+      "outcome": {
+        "en": "Sharing the load could bring immediate relief. Worry may ease as responsibility is spread more fairly.",
+        "km": "ការចែករំលែកបន្ទុក អាចនាំមកនូវការធូរស្រាលភ្លាមៗ។ ការព្រួយបារម្ភអាចធូរស្រាល ខណៈការទទួលខុសត្រូវត្រូវបានចែកចាយដោយយុត្តិធម៌ជាងមុន។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Learn a little about managing money, perhaps from a free resource or a knowledgeable friend. Understanding reduces fear of the unknown.",
+        "km": "សូមរៀនបន្តិចអំពីការគ្រប់គ្រងប្រាក់ ប្រហែលជាពីធនធានឥតគិតថ្លៃ ឬមិត្តភក្តិដែលមានចំណេះដឹង។ ការយល់ដឹង កាត់បន្ថយការភ័យខ្លាចចំពោះអ្វីដែលមិនស្គាល់។"
+      },
+      "challenge": {
+        "en": "Reading alarming money news could feed worry without helping you act. Choose calm, reliable sources instead.",
+        "km": "ការអានព័ត៌មានប្រាក់ដែលគួរឱ្យភ័យខ្លាច អាចចិញ្ចឹមការព្រួយបារម្ភ ដោយមិនជួយអ្នកធ្វើសកម្មភាព។ សូមជ្រើសរើសប្រភពស្ងប់ស្ងាត់ និងគួរឱ្យទុកចិត្តជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "New understanding could make money feel less mysterious and less frightening. Confidence may grow with knowledge.",
+        "km": "ការយល់ដឹងថ្មី អាចធ្វើឱ្យប្រាក់មានអារម្មណ៍មិនសូវអាថ៌កំបាំង និងមិនសូវគួរឱ្យខ្លាច។ ទំនុកចិត្តអាចកើនឡើងជាមួយចំណេះដឹង។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Use physical energy to release money stress, such as a walk or exercise, before tackling the numbers. A clear head makes better choices.",
+        "km": "សូមប្រើថាមពលរាងកាយ ដើម្បីបញ្ចេញភាពតានតឹងអំពីប្រាក់ ដូចជាការដើរ ឬការហាត់ប្រាណ មុនពេលដោះស្រាយតួលេខ។ ក្បាលច្បាស់ ធ្វើជម្រើសល្អជាង។"
+      },
+      "challenge": {
+        "en": "Making impulsive money moves to escape worry could create new problems. Calm down before deciding anything.",
+        "km": "ការធ្វើចលនាប្រាក់តាមចិត្តភ្លាមៗ ដើម្បីគេចពីការព្រួយបារម្ភ អាចបង្កើតបញ្ហាថ្មី។ សូមធ្វើឱ្យចិត្តស្ងប់ មុនពេលសម្រេចចិត្តអ្វីមួយ។"
+      },
+      "outcome": {
+        "en": "Releasing tension could help you think clearly and act wisely. Calmer energy may bring better results.",
+        "km": "ការបញ្ចេញភាពតានតឹង អាចជួយអ្នកគិតឱ្យច្បាស់ និងធ្វើសកម្មភាពដោយប្រាជ្ញា។ ថាមពលស្ងប់ស្ងាត់ជាងមុន អាចនាំមកនូវលទ្ធផលល្អជាង។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Approach money with a confident, warm attitude toward yourself, believing you can handle it. Self-belief can quiet anxious thoughts.",
+        "km": "សូមចូលទៅរកប្រាក់ ដោយអាកប្បកិរិយាមានទំនុកចិត្ត និងកក់ក្តៅចំពោះខ្លួនឯង ដោយជឿថាអ្នកអាចដោះស្រាយវាបាន។ ជំនឿលើខ្លួនឯង អាចធ្វើឱ្យគំនិតថប់បារម្ភស្ងប់។"
+      },
+      "challenge": {
+        "en": "Taking on other people's money worries could pile onto your own. Care for them without carrying all of it.",
+        "km": "ការទទួលយកការព្រួយបារម្ភអំពីប្រាក់របស់អ្នកដទៃ អាចគរលើការព្រួយបារម្ភរបស់អ្នក។ សូមយកចិត្តទុកដាក់ពួកគេ ដោយមិនលីវាទាំងអស់។"
+      },
+      "outcome": {
+        "en": "A confident outlook could make money feel more manageable. Your steadiness may reassure people around you as well.",
+        "km": "ទស្សនៈមានទំនុកចិត្ត អាចធ្វើឱ្យប្រាក់មានអារម្មណ៍ងាយគ្រប់គ្រងជាងមុន។ ភាពនឹងនររបស់អ្នក អាចធានាដល់មនុស្សនៅជុំវិញអ្នកផងដែរ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Take a calm, big-picture view and set a clear direction for your finances. Leadership over your own money reduces fear.",
+        "km": "សូមមើលរូបភាពធំដោយស្ងប់ស្ងាត់ ហើយកំណត់ទិសដៅច្បាស់លាស់សម្រាប់ហិរញ្ញវត្ថុរបស់អ្នក។ ភាពជាអ្នកដឹកនាំលើប្រាក់របស់អ្នកផ្ទាល់ កាត់បន្ថយការភ័យខ្លាច។"
+      },
+      "challenge": {
+        "en": "Feeling responsible for everyone's financial security could weigh heavily. Share the planning where others can help.",
+        "km": "អារម្មណ៍ថាទទួលខុសត្រូវចំពោះសុវត្ថិភាពហិរញ្ញវត្ថុរបស់មនុស្សគ្រប់គ្នា អាចធ្ងន់ខ្លាំង។ សូមចែករំលែកការធ្វើផែនការ នៅកន្លែងដែលអ្នកដទៃអាចជួយ។"
+      },
+      "outcome": {
+        "en": "Clear direction could replace worry with purpose. You may feel steadier as a plan takes shape.",
+        "km": "ទិសដៅច្បាស់លាស់ អាចជំនួសការព្រួយបារម្ភដោយគោលបំណង។ អ្នកអាចមានអារម្មណ៍នឹងនរជាងមុន ខណៈផែនការមានរូបរាង។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Allow yourself to feel the emotions money stirs up, such as fear, shame or sadness, without judging them. Feelings that are acknowledged tend to soften.",
+        "km": "សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ដែលប្រាក់ធ្វើឱ្យកើតឡើង ដូចជាការភ័យខ្លាច ការខ្មាសអៀន ឬភាពសោកសៅ ដោយមិនវិនិច្ឆ័យវា។ អារម្មណ៍ដែលត្រូវបានទទួលស្គាល់ ច្រើនតែទន់ភ្លន់។"
+      },
+      "challenge": {
+        "en": "Pushing money feelings away could make them surface as stress elsewhere in your life. Give them a little room to be heard.",
+        "km": "ការរុញអារម្មណ៍អំពីប្រាក់ចេញ អាចធ្វើឱ្យវាលេចឡើងជាភាពតានតឹងនៅកន្លែងផ្សេងក្នុងជីវិតរបស់អ្នក។ សូមផ្តល់កន្លែងបន្តិចឱ្យវាត្រូវបានស្តាប់។"
+      },
+      "outcome": {
+        "en": "Emotional honesty about money could bring a gentler, calmer relationship with it. Compassion for yourself may ease the worry.",
+        "km": "ភាពស្មោះត្រង់ផ្លូវអារម្មណ៍អំពីប្រាក់ អាចនាំមកនូវទំនាក់ទំនងទន់ភ្លន់ និងស្ងប់ស្ងាត់ជាងមុនជាមួយវា។ សេចក្តីមេត្តាចំពោះខ្លួនឯង អាចបន្ធូរការព្រួយបារម្ភ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Talk openly with someone you trust about your money worries. Being heard can halve the weight of a fear.",
+        "km": "សូមនិយាយដោយបើកចំហ ជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត អំពីការព្រួយបារម្ភអំពីប្រាក់របស់អ្នក។ ការត្រូវបានស្តាប់ អាចកាត់បន្ថយទម្ងន់នៃការភ័យខ្លាចពាក់កណ្តាល។"
+      },
+      "challenge": {
+        "en": "Keeping money worries secret from a partner could create distance and suspicion. Honesty can bring you closer.",
+        "km": "ការរក្សាការព្រួយបារម្ភអំពីប្រាក់ជាការសម្ងាត់ពីដៃគូ អាចបង្កើតគម្លាត និងការសង្ស័យ។ ភាពស្មោះត្រង់ អាចនាំអ្នកឱ្យកាន់តែជិត។"
+      },
+      "outcome": {
+        "en": "Sharing the worry could bring both relief and support. Facing money together may feel far less frightening.",
+        "km": "ការចែករំលែកការព្រួយបារម្ភ អាចនាំមកនូវទាំងការធូរស្រាល និងការគាំទ្រ។ ការប្រឈមមុខនឹងប្រាក់ជាមួយគ្នា អាចមានអារម្មណ៍មិនសូវគួរឱ្យខ្លាចជាងមុនឆ្ងាយ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Lean on friends and community for support and simple, low-cost good times. Connection can remind you that life is more than money.",
+        "km": "សូមពឹងផ្អែកលើមិត្តភក្តិ និងសហគមន៍ សម្រាប់ការគាំទ្រ និងពេលវេលាល្អសាមញ្ញ ដែលចំណាយទាប។ ការភ្ជាប់ទំនាក់ទំនង អាចរំលឹកអ្នកថាជីវិតមានលើសពីប្រាក់។"
+      },
+      "challenge": {
+        "en": "Avoiding friends because you feel embarrassed about money could leave you isolated. True friends will understand.",
+        "km": "ការជៀសវាងមិត្តភក្តិ ព្រោះអ្នកមានអារម្មណ៍ខ្មាសអំពីប្រាក់ អាចធ្វើឱ្យអ្នកឯកោ។ មិត្តពិតនឹងយល់។"
+      },
+      "outcome": {
+        "en": "Shared laughter and support could ease worry in ways money cannot. Friends may remind you of what you have beyond your bank balance.",
+        "km": "ការសើច និងការគាំទ្ររួមគ្នា អាចបន្ធូរការព្រួយបារម្ភ តាមវិធីដែលប្រាក់មិនអាចធ្វើបាន។ មិត្តភក្តិអាចរំលឹកអ្នកពីអ្វីដែលអ្នកមាន លើសពីសមតុល្យគណនីធនាគាររបស់អ្នក។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Notice whether worry has made you withdraw or stop caring about things you used to enjoy. Gently re-engage with small pleasures.",
+        "km": "សូមកត់សម្គាល់ថាតើការព្រួយបារម្ភបានធ្វើឱ្យអ្នកដកខ្លួន ឬឈប់យកចិត្តទុកដាក់ចំពោះអ្វីដែលអ្នកធ្លាប់រីករាយឬទេ។ សូមចូលរួមឡើងវិញដោយទន់ភ្លន់ជាមួយសេចក្តីរីករាយតូចៗ។"
+      },
+      "challenge": {
+        "en": "Turning down offers of help because you feel numb could keep you stuck. Let someone in.",
+        "km": "ការបដិសេធការផ្តល់ជំនួយ ព្រោះអ្នកមានអារម្មណ៍ស្ពឹក អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមឱ្យនរណាម្នាក់ចូលមក។"
+      },
+      "outcome": {
+        "en": "Re-engaging with life could bring back energy and perspective. Money worry may loosen its grip once other things matter again.",
+        "km": "ការចូលរួមឡើងវិញជាមួយជីវិត អាចនាំថាមពល និងទស្សនៈមកវិញ។ ការព្រួយបារម្ភអំពីប្រាក់ អាចបន្ធូរការក្តាប់របស់វា នៅពេលរឿងផ្សេងទៀតសំខាន់ម្តងទៀត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Acknowledge any money loss or disappointment that still hurts, and let yourself grieve it. Then look at what you still have.",
+        "km": "សូមទទួលស្គាល់ការបាត់បង់ ឬការខកចិត្តផ្នែកប្រាក់ ដែលនៅតែឈឺចាប់ ហើយអនុញ្ញាតឱ្យខ្លួនឯងកាន់ទុក្ខ។ បន្ទាប់មក សូមមើលអ្វីដែលអ្នកនៅមាន។"
+      },
+      "challenge": {
+        "en": "Dwelling on what was lost could keep worry fresh. Turn your attention to what remains and what can be rebuilt.",
+        "km": "ការគិតច្រើនពីអ្វីដែលបាត់បង់ អាចរក្សាការព្រួយបារម្ភឱ្យស្រស់។ សូមបង្វែរការយកចិត្តទុកដាក់របស់អ្នកទៅរកអ្វីដែលនៅសល់ និងអ្វីដែលអាចកសាងឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Healing from a loss could bring calmer feelings about money. What remains may begin to feel like enough.",
+        "km": "ការជាសះស្បើយពីការបាត់បង់ អាចនាំមកនូវអារម្មណ៍ស្ងប់ស្ងាត់ជាងមុនអំពីប្រាក់។ អ្វីដែលនៅសល់ អាចចាប់ផ្តើមមានអារម្មណ៍គ្រប់គ្រាន់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Remember times when you felt safe and content with little, and draw comfort from them. Simple memories can soothe current worry.",
+        "km": "សូមចងចាំពេលវេលាដែលអ្នកមានអារម្មណ៍សុវត្ថិភាព និងពេញចិត្តជាមួយរបស់តិចតួច ហើយទាញការលួងលោមពីវា។ ការចងចាំសាមញ្ញ អាចលួងលោមការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Longing for easier times could make the present feel worse. Bring old comforts into your life where you can.",
+        "km": "ការនឹករលឹកពីគ្រាងាយស្រួលជាង អាចធ្វើឱ្យស្ថានភាពមានអារម្មណ៍អាក្រក់ជាងមុន។ សូមនាំការលួងលោមចាស់ៗចូលក្នុងជីវិតរបស់អ្នក នៅកន្លែងដែលអ្នកអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Simple, low-cost comforts could bring calm without adding to bills. Kindness from familiar people may help as much as money.",
+        "km": "ការលួងលោមសាមញ្ញ និងចំណាយទាប អាចនាំមកនូវភាពស្ងប់ស្ងាត់ ដោយមិនបន្ថែមវិក្កយបត្រ។ សេចក្តីសប្បុរសពីមនុស្សដែលធ្លាប់ស្គាល់ អាចជួយបានដូចប្រាក់ដែរ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Separate realistic worries from imagined ones, and focus only on what is actually in front of you. Clarity calms.",
+        "km": "សូមញែកការព្រួយបារម្ភប្រាកដនិយម ចេញពីការព្រួយបារម្ភដែលស្រមៃ ហើយផ្តោតតែលើអ្វីដែលពិតជានៅចំពោះមុខអ្នក។ ភាពច្បាស់លាស់ ធ្វើឱ្យស្ងប់។"
+      },
+      "challenge": {
+        "en": "Imagining many possible money disasters could make worry far bigger than reality. Return to the actual figures.",
+        "km": "ការស្រមៃពីគ្រោះមហន្តរាយប្រាក់ជាច្រើនដែលអាចកើតឡើង អាចធ្វើឱ្យការព្រួយបារម្ភធំជាងការពិតឆ្ងាយ។ សូមត្រឡប់ទៅរកតួលេខពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Focusing on what is real could bring noticeable relief. Fewer imagined fears may mean a calmer mind.",
+        "km": "ការផ្តោតលើអ្វីដែលពិត អាចនាំមកនូវការធូរស្រាលគួរឱ្យកត់សម្គាល់។ ការភ័យខ្លាចដែលស្រមៃតិចជាងមុន អាចមានន័យថាចិត្តស្ងប់ស្ងាត់ជាងមុន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Consider walking away from situations or habits that keep feeding money anxiety. Some distance can bring peace.",
+        "km": "សូមពិចារណាដើរចេញពីស្ថានភាព ឬទម្លាប់ ដែលបន្តចិញ្ចឹមការថប់បារម្ភអំពីប្រាក់។ គម្លាតខ្លះ អាចនាំមកនូវសន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Staying with an arrangement that keeps costing you peace, such as a loan or a deal, could keep anxiety alive. Ask whether it can be changed.",
+        "km": "ការនៅជាមួយការរៀបចំ ដែលបន្តធ្វើឱ្យអ្នកបាត់បង់សន្តិភាព ដូចជាប្រាក់កម្ចី ឬកិច្ចព្រមព្រៀង អាចរក្សាការថប់បារម្ភឱ្យនៅរស់។ សូមសួរថាតើវាអាចផ្លាស់ប្តូរបានឬទេ។"
+      },
+      "outcome": {
+        "en": "Leaving behind a source of stress could bring real relief. Calmer ground may lie that way.",
+        "km": "ការទុកប្រភពភាពតានតឹងនៅពីក្រោយ អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។ ដីស្ងប់ស្ងាត់ជាងមុន អាចស្ថិតនៅផ្លូវនោះ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Practise gratitude for what you have, even in hard times. Noticing enough can quiet fears of not enough.",
+        "km": "សូមហាត់ការដឹងគុណចំពោះអ្វីដែលអ្នកមាន សូម្បីតែក្នុងគ្រាលំបាក។ ការកត់សម្គាល់ភាពគ្រប់គ្រាន់ អាចធ្វើឱ្យការភ័យខ្លាចពីការមិនគ្រប់គ្រាន់ស្ងប់។"
+      },
+      "challenge": {
+        "en": "Chasing more as the answer to worry could keep you anxious. Contentment may help more than extra money.",
+        "km": "ការដេញតាមបន្ថែម ជាចម្លើយចំពោះការព្រួយបារម្ភ អាចធ្វើឱ្យអ្នកថប់បារម្ភ។ ការពេញចិត្ត អាចជួយបានច្រើនជាងប្រាក់បន្ថែម។"
+      },
+      "outcome": {
+        "en": "Gratitude could bring a deep sense of peace about money. A feeling of enough may settle in.",
+        "km": "ការដឹងគុណ អាចនាំមកនូវអារម្មណ៍ស្ងប់ចិត្តជ្រាលជ្រៅអំពីប្រាក់។ អារម្មណ៍នៃការគ្រប់គ្រាន់ អាចចូលមកស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Lean on family and loved ones for emotional support, and face money matters together. Shared warmth can ease worry.",
+        "km": "សូមពឹងផ្អែកលើគ្រួសារ និងមនុស្សជាទីស្រឡាញ់ សម្រាប់ការគាំទ្រផ្លូវអារម្មណ៍ ហើយប្រឈមមុខនឹងរឿងប្រាក់ជាមួយគ្នា។ ភាពកក់ក្តៅរួមគ្នា អាចបន្ធូរការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Hiding money worries from family to protect them could leave you carrying it all alone. Letting them share it may help everyone.",
+        "km": "ការលាក់ការព្រួយបារម្ភអំពីប្រាក់ពីគ្រួសារ ដើម្បីការពារពួកគេ អាចធ្វើឱ្យអ្នកលីវាទាំងអស់ម្នាក់ឯង។ ការឱ្យពួកគេចែករំលែកវា អាចជួយមនុស្សគ្រប់គ្នា។"
+      },
+      "outcome": {
+        "en": "Family support could bring calm and a sense of security beyond money. You may feel held.",
+        "km": "ការគាំទ្រពីគ្រួសារ អាចនាំមកនូវភាពស្ងប់ស្ងាត់ និងអារម្មណ៍សុវត្ថិភាពលើសពីប្រាក់។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានគេទ្រទ្រង់។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Try a gentle, creative way to ease stress, such as drawing, music or writing about your feelings. Play can calm worry.",
+        "km": "សូមសាកល្បងវិធីទន់ភ្លន់ និងច្នៃប្រឌិត ដើម្បីបន្ធូរភាពតានតឹង ដូចជាការគូរ តន្ត្រី ឬការសរសេរអំពីអារម្មណ៍របស់អ្នក។ ការលេង អាចធ្វើឱ្យការព្រួយបារម្ភស្ងប់។"
+      },
+      "challenge": {
+        "en": "Taking every comment about money personally could make small remarks sting. Most people are thinking about their own worries.",
+        "km": "ការយកគ្រប់មតិអំពីប្រាក់មកគិតជារឿងផ្ទាល់ខ្លួន អាចធ្វើឱ្យពាក្យតូចៗឈឺចាប់។ មនុស្សភាគច្រើនកំពុងគិតអំពីការព្រួយបារម្ភរបស់ពួកគេផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Putting money feelings into words, music or pictures could lighten them. A creative release may cost nothing and help a lot.",
+        "km": "ការដាក់អារម្មណ៍អំពីប្រាក់ទៅក្នុងពាក្យ តន្ត្រី ឬរូបភាព អាចធ្វើឱ្យវាស្រាល។ ការបញ្ចេញដោយច្នៃប្រឌិត អាចមិនចំណាយអ្វី ហើយជួយបានច្រើន។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Follow what your heart tells you about what really matters, beyond money. Values can steady you when worry rises.",
+        "km": "សូមដើរតាមអ្វីដែលបេះដូងរបស់អ្នកប្រាប់ អំពីអ្វីដែលពិតជាសំខាន់ លើសពីប្រាក់។ គុណតម្លៃ អាចធ្វើឱ្យអ្នកនឹងនរ នៅពេលការព្រួយបារម្ភកើនឡើង។"
+      },
+      "challenge": {
+        "en": "Daydreaming about a sudden windfall could leave real worries unaddressed. Take one practical step in the meantime.",
+        "km": "ការស្រមៃពីប្រាក់ដែលទទួលបានភ្លាមៗ អាចទុកការព្រួយបារម្ភពិតឱ្យនៅមិនបានដោះស្រាយ។ សូមបោះជំហានជាក់ស្តែងមួយ ក្នុងពេលរង់ចាំ។"
+      },
+      "outcome": {
+        "en": "Living by your values could bring peace that money alone cannot. Your heart may guide you well.",
+        "km": "ការរស់នៅតាមគុណតម្លៃរបស់អ្នក អាចនាំមកនូវសន្តិភាព ដែលប្រាក់តែម្យ៉ាងមិនអាចធ្វើបាន។ បេះដូងរបស់អ្នក អាចណែនាំអ្នកបានល្អ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Treat yourself with compassion when money is tight, as you would a worried friend. Kindness to yourself eases anxiety.",
+        "km": "សូមប្រព្រឹត្តចំពោះខ្លួនឯងដោយសេចក្តីមេត្តា នៅពេលប្រាក់តឹង ដូចអ្នកនឹងធ្វើចំពោះមិត្តភក្តិដែលព្រួយបារម្ភ។ សេចក្តីសប្បុរសចំពោះខ្លួនឯង បន្ធូរការថប់បារម្ភ។"
+      },
+      "challenge": {
+        "en": "Worrying on behalf of everyone you love could double your own stress about money. You can care without carrying their bills.",
+        "km": "ការព្រួយបារម្ភជំនួសមនុស្សគ្រប់គ្នាដែលអ្នកស្រឡាញ់ អាចធ្វើឱ្យភាពតានតឹងអំពីប្រាក់របស់អ្នកកើនទ្វេដង។ អ្នកអាចយកចិត្តទុកដាក់ ដោយមិនលីវិក្កយបត្ររបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Being gentle with yourself about money could make tough choices easier. Calm may grow where blame used to be.",
+        "km": "ការទន់ភ្លន់ជាមួយខ្លួនឯងអំពីប្រាក់ អាចធ្វើឱ្យជម្រើសលំបាកងាយស្រួលជាងមុន។ ភាពស្ងប់ស្ងាត់ អាចកើនឡើងនៅកន្លែងដែលការបន្ទោសធ្លាប់នៅ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Keep your head when money worries flare, and wait until you feel calmer before acting. A level mind sees the numbers more clearly.",
+        "km": "សូមរក្សាចិត្តរបស់អ្នក នៅពេលការព្រួយបារម្ភអំពីប្រាក់ឆេះឡើង ហើយរង់ចាំរហូតដល់អ្នកមានអារម្មណ៍ស្ងប់ស្ងាត់ជាងមុន មុនពេលធ្វើសកម្មភាព។ ចិត្តស្មើ មើលឃើញតួលេខកាន់តែច្បាស់។"
+      },
+      "challenge": {
+        "en": "Hiding worry behind a calm front could build hidden stress. Find someone safe to talk to.",
+        "km": "ការលាក់ការព្រួយបារម្ភនៅពីក្រោយមុខស្ងប់ស្ងាត់ អាចបង្កើតភាពតានតឹងលាក់កំបាំង។ សូមរកនរណាម្នាក់ដែលមានសុវត្ថិភាពដើម្បីនិយាយ។"
+      },
+      "outcome": {
+        "en": "Emotional steadiness could help you handle money calmly and fairly. Others may come to rely on your level head.",
+        "km": "ភាពនឹងនរផ្លូវអារម្មណ៍ អាចជួយអ្នកដោះស្រាយប្រាក់ដោយស្ងប់ស្ងាត់ និងយុត្តិធម៌។ អ្នកដទៃអាចចាប់ផ្តើមពឹងផ្អែកលើចិត្តស្មើរបស់អ្នក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Write down the exact figures behind your worry, such as what you owe and what comes in. Clear numbers are often less frightening than vague dread.",
+        "km": "សូមសរសេរតួលេខពិតប្រាកដនៅពីក្រោយការព្រួយបារម្ភរបស់អ្នក ដូចជាអ្វីដែលអ្នកជំពាក់ និងអ្វីដែលចូលមក។ តួលេខច្បាស់លាស់ ជារឿយៗមិនសូវគួរឱ្យខ្លាចជាងការភ័យខ្លាចមិនច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "A hard money truth could feel painful to face at first. Looking at it directly usually hurts less than imagining it.",
+        "km": "ការពិតដ៏លំបាកអំពីប្រាក់ អាចមានអារម្មណ៍ឈឺចាប់ក្នុងការប្រឈមមុខដំបូង។ ការមើលវាដោយផ្ទាល់ ជាធម្មតាឈឺចាប់តិចជាងការស្រមៃវា។"
+      },
+      "outcome": {
+        "en": "Seeing the truth clearly could cut through anxiety and point to a plan. Relief may follow honest clarity.",
+        "km": "ការមើលឃើញការពិតយ៉ាងច្បាស់ អាចកាត់ផ្តាច់ការថប់បារម្ភ ហើយចង្អុលទៅរកផែនការ។ ការធូរស្រាលអាចកើតឡើង បន្ទាប់ពីភាពច្បាស់លាស់ដោយស្មោះត្រង់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "If a money decision has been hanging over you, gather the facts and make it. An unmade choice can worry you more than a hard one.",
+        "km": "ប្រសិនបើការសម្រេចចិត្តប្រាក់មួយ បានព្យួរលើអ្នក សូមប្រមូលការពិត ហើយធ្វើវា។ ជម្រើសដែលមិនទាន់បានធ្វើ អាចធ្វើឱ្យអ្នកព្រួយបារម្ភច្រើនជាងជម្រើសលំបាក។"
+      },
+      "challenge": {
+        "en": "Looking away from a money problem to keep the peace could let it grow. Face it gently, one piece at a time.",
+        "km": "ការងាកមុខចេញពីបញ្ហាប្រាក់ ដើម្បីរក្សាសន្តិភាព អាចធ្វើឱ្យវាកើនឡើង។ សូមប្រឈមមុខនឹងវាដោយទន់ភ្លន់ ម្តងមួយផ្នែក។"
+      },
+      "outcome": {
+        "en": "Making a decision could release tension you have held for a while. Calm may return once the choice is made.",
+        "km": "ការធ្វើការសម្រេចចិត្ត អាចបញ្ចេញភាពតានតឹងដែលអ្នកបានកាន់មួយរយៈ។ ភាពស្ងប់ស្ងាត់អាចត្រឡប់មកវិញ នៅពេលជម្រើសត្រូវបានធ្វើ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Acknowledge if a money setback, such as a loss or a debt, has genuinely hurt. Naming that pain is the start of easing it.",
+        "km": "សូមទទួលស្គាល់ ប្រសិនបើការបរាជ័យផ្នែកប្រាក់ ដូចជាការបាត់បង់ ឬបំណុល ពិតជាបានធ្វើឱ្យឈឺចាប់។ ការដាក់ឈ្មោះការឈឺចាប់នោះ គឺជាការចាប់ផ្តើមនៃការបន្ធូរវា។"
+      },
+      "challenge": {
+        "en": "Replaying a painful money memory could keep worry raw. Let it be part of your story, not all of it.",
+        "km": "ការរំលឹកការចងចាំឈឺចាប់អំពីប្រាក់ម្តងហើយម្តងទៀត អាចរក្សាការព្រួយបារម្ភឱ្យស្រស់។ សូមឱ្យវាជាផ្នែកមួយនៃរឿងរ៉ាវរបស់អ្នក មិនមែនទាំងអស់ទេ។"
+      },
+      "outcome": {
+        "en": "Healing from a hurt could bring calmer feelings about money. The sting may fade with time and care.",
+        "km": "ការជាសះស្បើយពីការឈឺចាប់ អាចនាំមកនូវអារម្មណ៍ស្ងប់ស្ងាត់ជាងមុនអំពីប្រាក់។ ការឈឺចាប់ អាចរសាត់បាត់ជាមួយពេលវេលា និងការថែទាំ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Give your mind a real rest from money worries, perhaps by setting a time to think about them and then stopping. Rest restores perspective.",
+        "km": "សូមផ្តល់ការសម្រាកពិតប្រាកដដល់ចិត្តរបស់អ្នក ពីការព្រួយបារម្ភអំពីប្រាក់ ប្រហែលជាដោយកំណត់ពេលដើម្បីគិតអំពីវា ហើយបន្ទាប់មកឈប់។ ការសម្រាក ស្តារទស្សនៈ។"
+      },
+      "challenge": {
+        "en": "Worrying constantly without a break could exhaust you and cloud judgement. Rest before deciding anything big.",
+        "km": "ការព្រួយបារម្ភជានិច្ច ដោយគ្មានការសម្រាក អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងធ្វើឱ្យការវិនិច្ឆ័យស្រអាប់។ សូមសម្រាក មុនពេលសម្រេចចិត្តអ្វីធំ។"
+      },
+      "outcome": {
+        "en": "A rested mind could see money matters more clearly and calmly. Solutions may appear after a pause.",
+        "km": "ចិត្តដែលបានសម្រាក អាចមើលឃើញរឿងប្រាក់កាន់តែច្បាស់ និងស្ងប់ស្ងាត់។ ដំណោះស្រាយ អាចលេចឡើងបន្ទាប់ពីការផ្អាក។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Step back from money arguments that leave you tense and drained. Choosing peace can be a form of self-care.",
+        "km": "សូមដកខ្លួនចេញពីការឈ្លោះប្រកែកអំពីប្រាក់ ដែលធ្វើឱ្យអ្នកតានតឹង និងអស់កម្លាំង។ ការជ្រើសរើសសន្តិភាព អាចជាទម្រង់នៃការមើលថែខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Winning a money dispute at any cost could leave you more anxious than before. Weigh what the fight is really worth.",
+        "km": "ការឈ្នះជម្លោះប្រាក់ ដោយចំណាយអ្វីក៏ដោយ អាចធ្វើឱ្យអ្នកថប់បារម្ភជាងមុន។ សូមថ្លឹងថ្លែងថាការប្រយុទ្ធនោះពិតជាមានតម្លៃប៉ុន្មាន។"
+      },
+      "outcome": {
+        "en": "Letting go of a draining conflict could bring real peace of mind. Calm may matter more than being right.",
+        "km": "ការលែងជម្លោះដែលបូមកម្លាំង អាចនាំមកនូវសន្តិភាពផ្លូវចិត្តពិតប្រាកដ។ ភាពស្ងប់ស្ងាត់ អាចសំខាន់ជាងការត្រូវ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Move gradually toward calmer financial ground, one small change at a time. Steady progress reduces fear.",
+        "km": "សូមផ្លាស់ទីបន្តិចម្តងៗ ឆ្ពោះទៅរកដីហិរញ្ញវត្ថុស្ងប់ស្ងាត់ជាងមុន ម្តងមួយការផ្លាស់ប្តូរតូច។ ការរីកចម្រើននឹងនរ កាត់បន្ថយការភ័យខ្លាច។"
+      },
+      "challenge": {
+        "en": "Carrying old fears into a better situation could keep you worried for no reason. Notice when things have improved.",
+        "km": "ការយកការភ័យខ្លាចចាស់ចូលទៅក្នុងស្ថានភាពល្អជាងមុន អាចធ្វើឱ្យអ្នកព្រួយបារម្ភដោយគ្មានហេតុផល។ សូមកត់សម្គាល់នៅពេលអ្វីៗបានប្រសើរឡើង។"
+      },
+      "outcome": {
+        "en": "A gentle transition could bring calmer waters for your finances. Worry may ease as conditions improve.",
+        "km": "ការផ្លាស់ប្តូរទន់ភ្លន់ អាចនាំមកនូវទឹកស្ងប់ស្ងាត់ជាងមុនសម្រាប់ហិរញ្ញវត្ថុរបស់អ្នក។ ការព្រួយបារម្ភអាចធូរស្រាល ខណៈលក្ខខណ្ឌប្រសើរឡើង។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Think strategically about one smart change that would ease the most pressure. A clever move can reduce worry more than effort alone.",
+        "km": "សូមគិតជាយុទ្ធសាស្ត្រ អំពីការផ្លាស់ប្តូរឆ្លាតវៃមួយ ដែលនឹងបន្ធូរសម្ពាធបានច្រើនបំផុត។ ចលនាឆ្លាតវៃ អាចកាត់បន្ថយការព្រួយបារម្ភបានច្រើនជាងការខិតខំតែម្យ៉ាង។"
+      },
+      "challenge": {
+        "en": "Hiding money problems from yourself or others could keep you anxious. Honest acknowledgement usually brings relief.",
+        "km": "ការលាក់បញ្ហាប្រាក់ពីខ្លួនឯង ឬអ្នកដទៃ អាចធ្វើឱ្យអ្នកថប់បារម្ភ។ ការទទួលស្គាល់ដោយស្មោះត្រង់ ជាធម្មតានាំមកនូវការធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "A well-chosen change could lift a surprising amount of pressure. Smart thinking may bring calm more quickly than effort alone.",
+        "km": "ការផ្លាស់ប្តូរដែលបានជ្រើសរើសល្អ អាចលើកសម្ពាធបានច្រើនគួរឱ្យភ្ញាក់ផ្អើល។ ការគិតឆ្លាតវៃ អាចនាំមកនូវភាពស្ងប់ស្ងាត់លឿនជាងការខិតខំតែម្យ៉ាង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "If you feel trapped by money worries, look for one small option within your control. Even a tiny step can loosen the trap.",
+        "km": "ប្រសិនបើអ្នកមានអារម្មណ៍ជាប់អន្ទាក់ដោយការព្រួយបារម្ភអំពីប្រាក់ សូមរកជម្រើសតូចមួយ ដែលស្ថិតក្នុងការគ្រប់គ្រងរបស់អ្នក។ សូម្បីតែជំហានតូចបំផុត ក៏អាចបន្ធូរអន្ទាក់ដែរ។"
+      },
+      "challenge": {
+        "en": "Thinking you must solve every money problem alone could deepen anxiety. If debts feel unmanageable, a qualified adviser or support service can help.",
+        "km": "ការគិតថាអ្នកត្រូវតែដោះស្រាយរាល់បញ្ហាប្រាក់ម្នាក់ឯង អាចធ្វើឱ្យការថប់បារម្ភកាន់តែជ្រៅ។ ប្រសិនបើបំណុលហាក់ដូចជាមិនអាចគ្រប់គ្រងបាន ទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ឬសេវាគាំទ្រ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Finding one option could open others and ease the sense of being cornered. The trap may turn out to have a door.",
+        "km": "ការរកឃើញជម្រើសមួយ អាចបើកជម្រើសផ្សេងទៀត ហើយបន្ធូរអារម្មណ៍ថាត្រូវបានបង្ខំ។ អន្ទាក់ អាចប្រែជាមានទ្វារ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "If money worries keep you awake, write them down before resting and set them aside until you can act. Paper can hold what your mind does not need to.",
+        "km": "ប្រសិនបើការព្រួយបារម្ភអំពីប្រាក់ធ្វើឱ្យអ្នកដេកមិនលក់ សូមសរសេរវាចុះ មុនពេលសម្រាក ហើយដាក់វាមួយឡែក រហូតដល់អ្នកអាចធ្វើសកម្មភាព។ ក្រដាស អាចកាន់អ្វីដែលចិត្តរបស់អ្នកមិនចាំបាច់កាន់។"
+      },
+      "challenge": {
+        "en": "Lying awake running numbers could wear you down more than the debt itself. If money anxiety affects your sleep or health, please talk to a counsellor or doctor.",
+        "km": "ការដេកមិនលក់ ហើយគិតតួលេខ អាចធ្វើឱ្យអ្នកអស់កម្លាំងច្រើនជាងបំណុលខ្លួនឯង។ ប្រសិនបើការថប់បារម្ភអំពីប្រាក់ប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក សូមនិយាយជាមួយអ្នកប្រឹក្សា ឬគ្រូពេទ្យ។"
+      },
+      "outcome": {
+        "en": "Getting support could bring relief from fears that felt overwhelming. Things may look calmer once shared.",
+        "km": "ការទទួលបានការគាំទ្រ អាចនាំមកនូវការធូរស្រាលពីការភ័យខ្លាចដែលមានអារម្មណ៍លើសកម្លាំង។ អ្វីៗអាចមើលទៅស្ងប់ស្ងាត់ជាងមុន នៅពេលត្រូវបានចែករំលែក។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "If money troubles have reached a low point, accept it as a place to rebuild from rather than proof of failure. Reaching out is a strength.",
+        "km": "ប្រសិនបើបញ្ហាប្រាក់បានធ្លាក់ដល់ចំណុចទាប សូមទទួលយកវាជាកន្លែងដើម្បីកសាងឡើងវិញ ជាជាងភស្តុតាងនៃការបរាជ័យ។ ការស្វែងរកជំនួយ គឺជាកម្លាំង។"
+      },
+      "challenge": {
+        "en": "Facing a serious money crisis alone could make it feel hopeless. A qualified adviser, counsellor or support service can help you take the first steps.",
+        "km": "ការប្រឈមមុខនឹងវិបត្តិប្រាក់ធ្ងន់ធ្ងរម្នាក់ឯង អាចធ្វើឱ្យវាមានអារម្មណ៍គ្មានសង្ឃឹម។ ទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ អ្នកប្រឹក្សា ឬសេវាគាំទ្រ អាចជួយអ្នកបោះជំហានដំបូង។"
+      },
+      "outcome": {
+        "en": "With help, things could begin to steady after the hardest point. Worry may slowly give way to a workable plan.",
+        "km": "ដោយមានជំនួយ អ្វីៗអាចចាប់ផ្តើមនឹងនរ បន្ទាប់ពីចំណុចលំបាកបំផុត។ ការព្រួយបារម្ភ អាចផ្តល់ផ្លូវដល់ផែនការដែលអាចអនុវត្តបានបន្តិចម្តងៗ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Learn calmly about your situation, asking questions until you understand it. Knowledge replaces fear with facts.",
+        "km": "សូមរៀនដោយស្ងប់ស្ងាត់អំពីស្ថានភាពរបស់អ្នក ដោយសួរសំណួររហូតដល់អ្នកយល់វា។ ចំណេះដឹង ជំនួសការភ័យខ្លាចដោយការពិត។"
+      },
+      "challenge": {
+        "en": "Rumours or alarming stories about money could fuel worry without helping. Check what is actually true for you.",
+        "km": "ពាក្យចចាមអារ៉ាម ឬរឿងរ៉ាវគួរឱ្យភ័យខ្លាចអំពីប្រាក់ អាចបង្កើនការព្រួយបារម្ភ ដោយមិនជួយ។ សូមពិនិត្យថាអ្វីដែលពិតប្រាកដសម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Understanding your situation could ease fear and guide practical action. Good information may bring a steadier calm.",
+        "km": "ការយល់ពីស្ថានភាពរបស់អ្នក អាចបន្ធូរការភ័យខ្លាច ហើយណែនាំសកម្មភាពជាក់ស្តែង។ ព័ត៌មានល្អ អាចនាំមកនូវភាពស្ងប់ស្ងាត់នឹងនរជាងមុន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Tackle the money issue that worries you most directly, instead of letting it hang over you. Action can bring quick relief.",
+        "km": "សូមដោះស្រាយបញ្ហាប្រាក់ដែលធ្វើឱ្យអ្នកព្រួយបារម្ភបំផុតដោយផ្ទាល់ ជំនួសឱ្យការទុកវាព្យួរលើអ្នក។ សកម្មភាព អាចនាំមកនូវការធូរស្រាលរហ័ស។"
+      },
+      "challenge": {
+        "en": "Rushing into money decisions to escape worry could make things worse. Act firmly, but read before you sign.",
+        "km": "ការប្រញាប់ចូលការសម្រេចចិត្តប្រាក់ ដើម្បីគេចពីការព្រួយបារម្ភ អាចធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់។ សូមធ្វើសកម្មភាពដោយរឹងមាំ តែអានមុនពេលចុះហត្ថលេខា។"
+      },
+      "outcome": {
+        "en": "Facing the biggest worry head-on could lift a weight quickly. Calm may follow once you have taken that step.",
+        "km": "ការប្រឈមមុខនឹងការព្រួយបារម្ភធំបំផុតដោយផ្ទាល់ អាចលើកទម្ងន់យ៉ាងរហ័ស។ ភាពស្ងប់ស្ងាត់ អាចកើតឡើង នៅពេលអ្នកបានបោះជំហាននោះ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Set clear boundaries around money, such as limits on lending or spending, to protect your peace. Clarity reduces worry.",
+        "km": "សូមកំណត់ព្រំដែនច្បាស់លាស់ជុំវិញប្រាក់ ដូចជាដែនកំណត់លើការឱ្យខ្ចី ឬការចំណាយ ដើម្បីការពារសន្តិភាពរបស់អ្នក។ ភាពច្បាស់លាស់ កាត់បន្ថយការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Being harsh with yourself about money could add stress rather than solve anything. Be firm with the budget and gentle with yourself.",
+        "km": "ការតឹងរ៉ឹងចំពោះខ្លួនឯងអំពីប្រាក់ អាចបន្ថែមភាពតានតឹង ជាជាងដោះស្រាយអ្វីមួយ។ សូមរឹងមាំជាមួយថវិកា និងទន់ភ្លន់ជាមួយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Clear limits on lending and spending could bring a steady calm. Knowing where the lines are may ease anxiety about every request.",
+        "km": "ដែនកំណត់ច្បាស់លាស់លើការឱ្យខ្ចី និងការចំណាយ អាចនាំមកនូវភាពស្ងប់ស្ងាត់នឹងនរ។ ការដឹងថាបន្ទាត់នៅឯណា អាចបន្ធូរការថប់បារម្ភអំពីរាល់សំណើ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Approach money worries logically, listing problems and possible solutions. A rational plan can calm emotional fear.",
+        "km": "សូមចូលទៅរកការព្រួយបារម្ភអំពីប្រាក់ដោយតក្កវិជ្ជា ដោយរាយបញ្ជីបញ្ហា និងដំណោះស្រាយដែលអាចធ្វើបាន។ ផែនការសមហេតុផល អាចធ្វើឱ្យការភ័យខ្លាចផ្លូវអារម្មណ៍ស្ងប់។"
+      },
+      "challenge": {
+        "en": "Relying only on logic could ignore the feelings behind money worry. Make room for both the numbers and how they feel.",
+        "km": "ការពឹងផ្អែកតែលើតក្កវិជ្ជា អាចមិនខ្វល់ពីអារម្មណ៍នៅពីក្រោយការព្រួយបារម្ភអំពីប្រាក់។ សូមទុកកន្លែងសម្រាប់ទាំងតួលេខ និងរបៀបដែលវាមានអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "A clear plan could bring a sense of control and calm. Sound judgement may ease worry.",
+        "km": "ផែនការច្បាស់លាស់ អាចនាំមកនូវអារម្មណ៍នៃការគ្រប់គ្រង និងភាពស្ងប់ស្ងាត់។ ការវិនិច្ឆ័យត្រឹមត្រូវ អាចបន្ធូរការព្រួយបារម្ភ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Take one small, practical step to improve your money situation, such as opening a savings pot or paying a bill. Concrete action eases worry.",
+        "km": "សូមបោះជំហានតូច និងជាក់ស្តែងមួយ ដើម្បីកែលម្អស្ថានភាពប្រាក់របស់អ្នក ដូចជាការបើកកន្លែងសន្សំ ឬការបង់វិក្កយបត្រ។ សកម្មភាពជាក់ស្តែង បន្ធូរការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Feeling that small money steps are pointless could keep you stuck in worry. Each one chips away at the problem.",
+        "km": "អារម្មណ៍ថាជំហានប្រាក់តូចៗគ្មានន័យ អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងការព្រួយបារម្ភ។ ជំហាននីមួយៗ កាត់បន្ថយបញ្ហាបន្តិចម្តងៗ។"
+      },
+      "outcome": {
+        "en": "A small practical start could bring real relief and a sense of control. Solid ground may follow.",
+        "km": "ការចាប់ផ្តើមជាក់ស្តែងតូចមួយ អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ និងអារម្មណ៍នៃការគ្រប់គ្រង។ ដីរឹងមាំ អាចកើតឡើងបន្ទាប់។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Accept that juggling money is normal, and keep a flexible plan that adapts as things change. Flexibility reduces stress.",
+        "km": "សូមទទួលយកថាការដោះស្រាយប្រាក់គឺជារឿងធម្មតា ហើយរក្សាផែនការបត់បែន ដែលសម្របខ្លួនខណៈអ្វីៗផ្លាស់ប្តូរ។ ភាពបត់បែន កាត់បន្ថយភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Trying to keep every payment perfect could make worry worse. Good enough, and on time, is often enough.",
+        "km": "ការព្យាយាមរក្សារាល់ការទូទាត់ឱ្យល្អឥតខ្ចោះ អាចធ្វើឱ្យការព្រួយបារម្ភកាន់តែអាក្រក់។ ល្អគ្រប់គ្រាន់ និងទាន់ពេល ជារឿយៗគឺគ្រប់គ្រាន់ហើយ។"
+      },
+      "outcome": {
+        "en": "A flexible approach could bring calm even when money is tight. You may handle changes more easily.",
+        "km": "វិធីសាស្ត្របត់បែន អាចនាំមកនូវភាពស្ងប់ស្ងាត់ សូម្បីតែពេលប្រាក់តឹង។ អ្នកអាចដោះស្រាយការផ្លាស់ប្តូរបានងាយស្រួលជាងមុន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Work with others on money matters, such as a partner, family or adviser, sharing the load. Teamwork can ease worry.",
+        "km": "សូមធ្វើការជាមួយអ្នកដទៃលើរឿងប្រាក់ ដូចជាដៃគូ គ្រួសារ ឬទីប្រឹក្សា ដោយចែករំលែកបន្ទុក។ ការងារជាក្រុម អាចបន្ធូរការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Trying to sort out every money problem alone could make worry heavier. Practical help from others may lighten it a lot.",
+        "km": "ការព្យាយាមដោះស្រាយរាល់បញ្ហាប្រាក់ម្នាក់ឯង អាចធ្វើឱ្យការព្រួយបារម្ភធ្ងន់ជាងមុន។ ជំនួយជាក់ស្តែងពីអ្នកដទៃ អាចធ្វើឱ្យវាស្រាលច្រើន។"
+      },
+      "outcome": {
+        "en": "Sharing the effort could bring relief and better solutions. Someone else may see an answer you could not.",
+        "km": "ការចែករំលែកការខិតខំ អាចនាំមកនូវការធូរស្រាល និងដំណោះស្រាយល្អជាងមុន។ នរណាម្នាក់ផ្សេង អាចមើលឃើញចម្លើយដែលអ្នកមិនអាចមើលឃើញ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Build a small safety cushion, however modest, to ease fear of the unexpected. Knowing you have something set aside calms worry.",
+        "km": "សូមកសាងទុនសុវត្ថិភាពតូចមួយ ទោះតិចតួចយ៉ាងណាក៏ដោយ ដើម្បីបន្ធូរការភ័យខ្លាចចំពោះអ្វីដែលមិនបានរំពឹងទុក។ ការដឹងថាអ្នកមានអ្វីមួយទុក ធ្វើឱ្យការព្រួយបារម្ភស្ងប់។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly out of fear could make you anxious even when you are secure. Trust your preparations.",
+        "km": "ការកាន់ក្តាប់តឹងពេក ដោយសារការភ័យខ្លាច អាចធ្វើឱ្យអ្នកថប់បារម្ភ សូម្បីតែពេលអ្នកមានសុវត្ថិភាព។ សូមទុកចិត្តលើការត្រៀមខ្លួនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A cushion, however small, could bring real peace of mind. Knowing it is there may quiet many what-ifs.",
+        "km": "ទុនបម្រុង ទោះតូចយ៉ាងណាក៏ដោយ អាចនាំមកនូវសន្តិភាពផ្លូវចិត្តពិតប្រាកដ។ ការដឹងថាវានៅទីនោះ អាចធ្វើឱ្យសំណួរ \"បើ\" ជាច្រើនស្ងប់។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "If money is very tight, focus on essentials and seek support that may be available. You do not have to face hardship alone.",
+        "km": "ប្រសិនបើប្រាក់តឹងខ្លាំង សូមផ្តោតលើអ្វីដែលចាំបាច់ ហើយស្វែងរកការគាំទ្រដែលអាចមាន។ អ្នកមិនចាំបាច់ប្រឈមមុខនឹងការលំបាកម្នាក់ឯងទេ។"
+      },
+      "challenge": {
+        "en": "Shame about being short of money could stop you asking for help. If even basics are hard to cover, a support service or someone you trust may help first.",
+        "km": "ការខ្មាសអៀនអំពីការខ្វះប្រាក់ អាចរារាំងអ្នកពីការសុំជំនួយ។ ប្រសិនបើសូម្បីតែមូលដ្ឋានក៏ពិបាកបង់ សេវាគាំទ្រ ឬនរណាម្នាក់ដែលអ្នកទុកចិត្ត អាចជួយជាមុន។"
+      },
+      "outcome": {
+        "en": "Support could ease both hardship and worry. With help, the basics may feel secure again and the fear may soften.",
+        "km": "ការគាំទ្រ អាចបន្ធូរទាំងការលំបាក និងការព្រួយបារម្ភ។ ដោយមានជំនួយ មូលដ្ឋានអាចមានអារម្មណ៍សុវត្ថិភាពម្តងទៀត ហើយការភ័យខ្លាចអាចទន់ភ្លន់។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Accept money help when it is genuinely offered, and give where you can. Fair give and take spreads the worry around.",
+        "km": "សូមទទួលយកជំនួយប្រាក់ នៅពេលវាត្រូវបានផ្តល់ជូនពិតប្រាកដ ហើយផ្តល់នៅកន្លែងដែលអ្នកអាចធ្វើបាន។ ការផ្តល់ និងទទួលដោយយុត្តិធម៌ ចែកចាយការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Feeling obliged to lend or give beyond your means could add to worry. Give within limits you can sleep with.",
+        "km": "អារម្មណ៍ថាមានកាតព្វកិច្ចឱ្យខ្ចី ឬផ្តល់លើសលទ្ធភាព អាចបន្ថែមការព្រួយបារម្ភ។ សូមផ្តល់ក្នុងដែនកំណត់ដែលអ្នកអាចស្ងប់ចិត្តជាមួយ។"
+      },
+      "outcome": {
+        "en": "Mutual support could bring calm and connection. Help may come from others when you need it most.",
+        "km": "ការគាំទ្រគ្នាទៅវិញទៅមក អាចនាំមកនូវភាពស្ងប់ស្ងាត់ និងការភ្ជាប់ទំនាក់ទំនង។ ជំនួយអាចមកពីអ្នកដទៃ នៅពេលអ្នកត្រូវការបំផុត។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Be patient with your progress, trusting that steady effort adds up even when results are slow. Patience eases impatience-driven worry.",
+        "km": "សូមអត់ធ្មត់ជាមួយការរីកចម្រើនរបស់អ្នក ដោយទុកចិត្តថាការខិតខំជាប់លាប់បូកបញ្ចូលគ្នា សូម្បីតែពេលលទ្ធផលយឺត។ ការអត់ធ្មត់ បន្ធូរការព្រួយបារម្ភដែលបង្កដោយការមិនអត់ធ្មត់។"
+      },
+      "challenge": {
+        "en": "Checking your balance constantly for change could keep worry alive. Set a regular time to look and let it rest between.",
+        "km": "ការពិនិត្យសមតុល្យរបស់អ្នកជានិច្ច ដើម្បីរកការផ្លាស់ប្តូរ អាចរក្សាការព្រួយបារម្ភឱ្យនៅរស់។ សូមកំណត់ពេលទៀងទាត់ដើម្បីមើល ហើយឱ្យវាសម្រាកនៅចន្លោះ។"
+      },
+      "outcome": {
+        "en": "Patient effort could bring steady improvement and calm. As results build, many worries may quietly fall away.",
+        "km": "ការខិតខំដោយអត់ធ្មត់ អាចនាំមកនូវការកែលម្អនឹងនរ និងភាពស្ងប់ស្ងាត់។ ខណៈលទ្ធផលកសាងឡើង ការព្រួយបារម្ភជាច្រើន អាចធ្លាក់ចេញដោយស្ងាត់ៗ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Focus on steady, careful work with money, such as regular reviews, rather than worrying in bursts. Routine can calm.",
+        "km": "សូមផ្តោតលើការងារនឹងនរ និងប្រុងប្រយ័ត្នជាមួយប្រាក់ ដូចជាការពិនិត្យជាប្រចាំ ជាជាងការព្រួយបារម្ភម្តងម្កាល។ ទម្លាប់ អាចធ្វើឱ្យស្ងប់។"
+      },
+      "challenge": {
+        "en": "Perfectionism about money could keep you anxious about small slips. Do your best and let minor mistakes go.",
+        "km": "ភាពល្អឥតខ្ចោះនិយមអំពីប្រាក់ អាចធ្វើឱ្យអ្នកថប់បារម្ភអំពីកំហុសតូចៗ។ សូមធ្វើឱ្យអស់ពីសមត្ថភាព ហើយលែងកំហុសតូចតាច។"
+      },
+      "outcome": {
+        "en": "A steady routine could bring a sense of competence and calm. Feeling capable with money may replace much of the worry.",
+        "km": "ទម្លាប់នឹងនរ អាចនាំមកនូវអារម្មណ៍នៃសមត្ថភាព និងភាពស្ងប់ស្ងាត់។ អារម្មណ៍ថាមានសមត្ថភាពជាមួយប្រាក់ អាចជំនួសការព្រួយបារម្ភជាច្រើន។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Appreciate the independence and comforts you have built, however modest. Noticing how secure you already are can ease fear.",
+        "km": "សូមកោតសរសើរឯករាជ្យភាព និងភាពសុខស្រួលដែលអ្នកបានកសាង ទោះតិចតួចយ៉ាងណាក៏ដោយ។ ការកត់សម្គាល់ថាអ្នកមានសុវត្ថិភាពរួចហើយប៉ុណ្ណា អាចបន្ធូរការភ័យខ្លាច។"
+      },
+      "challenge": {
+        "en": "Worrying even when things are fine could rob you of enjoying what you have. Notice when you are safe.",
+        "km": "ការព្រួយបារម្ភ សូម្បីតែពេលអ្វីៗល្អ អាចប្លន់អ្នកពីការរីករាយនឹងអ្វីដែលអ្នកមាន។ សូមកត់សម្គាល់នៅពេលអ្នកមានសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Recognising your security could bring lasting calm. You may enjoy what you have more fully, without the shadow of worry.",
+        "km": "ការទទួលស្គាល់សុវត្ថិភាពរបស់អ្នក អាចនាំមកនូវភាពស្ងប់ស្ងាត់ស្ថិតស្ថេរ។ អ្នកអាចរីករាយនឹងអ្វីដែលអ្នកមានពេញលេញជាងមុន ដោយគ្មានស្រមោលនៃការព្រួយបារម្ភ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Make a simple long-term plan with your family so the future feels less uncertain. Knowing there is a plan can ease worry about what lies far off.",
+        "km": "សូមធ្វើផែនការរយៈពេលវែងសាមញ្ញជាមួយគ្រួសាររបស់អ្នក ដើម្បីឱ្យអនាគតមានអារម្មណ៍មិនសូវមិនប្រាកដ។ ការដឹងថាមានផែនការ អាចបន្ធូរការព្រួយបារម្ភអំពីអ្វីដែលនៅឆ្ងាយ។"
+      },
+      "challenge": {
+        "en": "Feeling responsible for everyone's future could weigh heavily. Share the planning with family so it is not yours alone.",
+        "km": "អារម្មណ៍ថាទទួលខុសត្រូវចំពោះអនាគតរបស់មនុស្សគ្រប់គ្នា អាចធ្ងន់ខ្លាំង។ សូមចែករំលែកការធ្វើផែនការជាមួយគ្រួសារ ដើម្បីកុំឱ្យវាជារបស់អ្នកតែម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "Long-term planning could bring peace of mind for the whole family. Security may grow as the plan is followed together.",
+        "km": "ការធ្វើផែនការរយៈពេលវែង អាចនាំមកនូវសន្តិភាពផ្លូវចិត្តសម្រាប់គ្រួសារទាំងមូល។ សុវត្ថិភាព អាចកើនឡើង ខណៈផែនការត្រូវបានអនុវត្តជាមួយគ្នា។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learn about money step by step, as a beginner would, without judging yourself. Understanding grows confidence.",
+        "km": "សូមរៀនអំពីប្រាក់ម្តងមួយជំហាន ដូចអ្នកចាប់ផ្តើមម្នាក់ ដោយមិនវិនិច្ឆ័យខ្លួនឯង។ ការយល់ដឹង បង្កើនទំនុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Feeling you should already know everything about money could make you anxious. Everyone learns, and asking is allowed.",
+        "km": "អារម្មណ៍ថាអ្នកគួរតែដឹងអ្វីៗទាំងអស់អំពីប្រាក់រួចហើយ អាចធ្វើឱ្យអ្នកថប់បារម្ភ។ មនុស្សគ្រប់គ្នារៀន ហើយការសួរត្រូវបានអនុញ្ញាត។"
+      },
+      "outcome": {
+        "en": "Growing knowledge could replace worry with confidence. Each small lesson may make the next money task feel easier.",
+        "km": "ចំណេះដឹងដែលកំពុងរីកចម្រើន អាចជំនួសការព្រួយបារម្ភដោយទំនុកចិត្ត។ មេរៀនតូចៗនីមួយៗ អាចធ្វើឱ្យកិច្ចការប្រាក់បន្ទាប់មានអារម្មណ៍ងាយស្រួលជាង។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Build steady, reliable money habits that run without much thought. Routine can be a powerful antidote to worry.",
+        "km": "សូមកសាងទម្លាប់ប្រាក់នឹងនរ និងគួរឱ្យទុកចិត្ត ដែលដំណើរការដោយមិនចាំបាច់គិតច្រើន។ ទម្លាប់ អាចជាថ្នាំបន្សាបដ៏មានឥទ្ធិពលចំពោះការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Being overly cautious could keep you anxious even when things are steady. Trust the routines you have built.",
+        "km": "ការប្រុងប្រយ័ត្នហួសហេតុ អាចធ្វើឱ្យអ្នកថប់បារម្ភ សូម្បីតែពេលអ្វីៗនឹងនរ។ សូមទុកចិត្តលើទម្លាប់ដែលអ្នកបានកសាង។"
+      },
+      "outcome": {
+        "en": "Reliable habits could bring lasting calm. When the bills are handled routinely, there may be less to worry about.",
+        "km": "ទម្លាប់គួរឱ្យទុកចិត្ត អាចនាំមកនូវភាពស្ងប់ស្ងាត់ស្ថិតស្ថេរ។ នៅពេលវិក្កយបត្រត្រូវបានដោះស្រាយជាទម្លាប់ អាចមានរឿងតិចជាងមុនដែលត្រូវព្រួយបារម្ភ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Take care of practical comforts at home that cost little, creating a sense of security. A cared-for home can calm worry.",
+        "km": "សូមមើលថែភាពសុខស្រួលជាក់ស្តែងនៅផ្ទះ ដែលចំណាយតិច ដោយបង្កើតអារម្មណ៍សុវត្ថិភាព។ ផ្ទះដែលត្រូវបានថែទាំ អាចធ្វើឱ្យការព្រួយបារម្ភស្ងប់។"
+      },
+      "challenge": {
+        "en": "Trying to soothe your own worry by making everyone else comfortable could quietly drain your budget. Small comforts can be low-cost.",
+        "km": "ការព្យាយាមលួងលោមការព្រួយបារម្ភរបស់អ្នក ដោយធ្វើឱ្យអ្នកដទៃទាំងអស់សុខស្រួល អាចបូមថវិការបស់អ្នកដោយស្ងាត់ៗ។ ការលួងលោមតូចៗ អាចចំណាយទាប។"
+      },
+      "outcome": {
+        "en": "Practical care could bring comfort and calm without strain. Home may feel more secure, even on a tight budget.",
+        "km": "ការយកចិត្តទុកដាក់ជាក់ស្តែង អាចនាំមកនូវភាពសុខស្រួល និងភាពស្ងប់ស្ងាត់ ដោយគ្មានភាពតានតឹង។ ផ្ទះអាចមានអារម្មណ៍សុវត្ថិភាពជាងមុន សូម្បីតែជាមួយថវិកាតឹង។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Draw on your experience and resources to create a calm, secure financial base. You have more stability than worry suggests.",
+        "km": "សូមទាញយកបទពិសោធន៍ និងធនធានរបស់អ្នក ដើម្បីបង្កើតមូលដ្ឋានហិរញ្ញវត្ថុស្ងប់ស្ងាត់ និងមានសុវត្ថិភាព។ អ្នកមានស្ថិរភាពច្រើនជាងអ្វីដែលការព្រួយបារម្ភបង្ហាញ។"
+      },
+      "challenge": {
+        "en": "Worrying about losing what you have could stop you from enjoying it. Balance caution with appreciation.",
+        "km": "ការព្រួយបារម្ភអំពីការបាត់បង់អ្វីដែលអ្នកមាន អាចរារាំងអ្នកពីការរីករាយនឹងវា។ សូមធ្វើឱ្យមានតុល្យភាពរវាងការប្រុងប្រយ័ត្ន និងការកោតសរសើរ។"
+      },
+      "outcome": {
+        "en": "Recognising the security you have built could bring deep peace of mind. Your resources may support you better than worry suggests.",
+        "km": "ការទទួលស្គាល់សុវត្ថិភាពដែលអ្នកបានកសាង អាចនាំមកនូវសន្តិភាពផ្លូវចិត្តយ៉ាងជ្រាលជ្រៅ។ ធនធានរបស់អ្នក អាចគាំទ្រអ្នកបានល្អជាងអ្វីដែលការព្រួយបារម្ភបង្ហាញ។"
+      }
+    }
+  }
+}
