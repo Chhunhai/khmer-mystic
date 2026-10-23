@@ -6,8 +6,9 @@
 | --- | --- | --- |
 | `src/content/readings/LF-01.json` | What does my current path look like? | 78 cards × 3 positions, English and Khmer |
 | `src/content/readings/LF-02.json` | What should I focus on right now? | 78 cards × 3 positions, English and Khmer |
+| `src/content/readings/LF-03.json` | What challenges might I face soon? | 78 cards × 3 positions, English and Khmer |
 
-- Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 468 bilingual interpretations across 2 of 100 questions.
+- Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
 - Editorial status: draft. English editorial review and native Khmer review remain pending; automated checks do not certify translation quality.
 - Enabled in the current app for preview. The other 98 questions still use the existing generic meanings and templates.
@@ -34,7 +35,9 @@ All user-facing reading prose belongs in JSON. `src/engine/reading.ts` only sele
 5. Review complete readings as well as individual entries. Include difficult cards, mixed moods, all time frames and both languages; check how the summary and connecting templates fit the new text.
 6. Record editorial/translation review status and update `docs/PROGRESS.md` with the same commit.
 
-Next batch: LF-03, “What challenges might I face soon?” Editorial and native Khmer review remain pending for both completed batches. Full coverage of all 100 questions would contain 23,400 bilingual entries. Reassess installed content size and loading performance as the library grows.
+LF-03 is an obstacle question: its Present text describes what you are carrying into this period, its Challenge text names the specific difficulty to watch for (each starts with “Watch for…” or a similar plain warning, because the template already says “The main challenge … is {card}”), and its Outcome text describes where facing it can lead. Drafted on 2026-10-23. The obstacle short answer now quotes the first sentence of the Challenge text, which also improves the 13 other obstacle questions that use generic meanings.
+
+Next batch: LF-04, “What opportunities are coming my way?” Editorial and native Khmer review remain pending for all three completed batches. Full coverage of all 100 questions would contain 23,400 bilingual entries. Reassess installed content size and loading performance as the library grows.
 
 ## Zodiac guidance
 

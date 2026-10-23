@@ -1,0 +1,1097 @@
+{
+  "questionId": "LF-03",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You are standing near a new beginning, eager to move. That openness is a gift, though it may mean some details have not been checked yet.",
+        "km": "អ្នកកំពុងឈរជិតការចាប់ផ្តើមថ្មី ហើយចង់បោះជំហាន។ ភាពបើកចិត្តនេះជាអំណោយ ប៉ុន្តែអាចមានព័ត៌មានលម្អិតខ្លះដែលមិនទាន់បានពិនិត្យ។"
+      },
+      "challenge": {
+        "en": "Watch for leaping before you look. Excitement could carry you past a warning sign, so pause long enough to check the ground.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការលោតទៅមុខមុនពេលមើល។ ភាពរំភើបអាចនាំអ្នករំលងសញ្ញាព្រមាន ដូច្នេះសូមឈប់បន្តិច ដើម្បីពិនិត្យស្ថានភាពជុំវិញ។"
+      },
+      "outcome": {
+        "en": "Meeting this with both courage and care could turn a risky start into a real adventure. Experience gained here may become a strength later.",
+        "km": "ការប្រឈមនឹងវាដោយទាំងភាពក្លាហាន និងការប្រុងប្រយ័ត្ន អាចប្រែការចាប់ផ្តើមដែលមានហានិភ័យ ទៅជាដំណើរផ្សងព្រេងពិតប្រាកដ។ បទពិសោធន៍ពីទីនេះអាចក្លាយជាកម្លាំងនៅពេលក្រោយ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You already have more skill and resources than you may credit yourself with. How you direct them will shape what you face next.",
+        "km": "អ្នកមានជំនាញ និងធនធានច្រើនជាងអ្វីដែលអ្នកគិត។ របៀបដែលអ្នកប្រើប្រាស់វា នឹងកំណត់អ្វីដែលអ្នកត្រូវប្រឈមបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Watch for scattering your energy across too many aims. Without one clear goal, real ability could produce little that lasts.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបែងចែកថាមពលទៅគោលដៅច្រើនពេក។ បើគ្មានគោលដៅច្បាស់មួយ សមត្ថភាពពិតអាចបង្កើតបានតិចតួចដែលស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "Choosing one aim and committing to it could turn your talents into visible results. Focus may prove more powerful than effort spread thin.",
+        "km": "ការជ្រើសគោលដៅមួយ ហើយប្តេជ្ញាធ្វើវា អាចប្រែទេពកោសល្យរបស់អ្នកទៅជាលទ្ធផលដែលមើលឃើញ។ ការផ្តោតអារម្មណ៍អាចមានកម្លាំងជាងការខិតខំដែលបែកខ្ញែក។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Not everything about your situation is visible yet. Your intuition may already be sensing something your mind has not put into words.",
+        "km": "មិនមែនអ្វីៗទាំងអស់ក្នុងស្ថានភាពរបស់អ្នកអាចមើលឃើញនៅឡើយទេ។ វិចារណញាណរបស់អ្នកប្រហែលជាកំពុងដឹងអ្វីមួយ ដែលគំនិតមិនទាន់រៀបរាប់ជាពាក្យបាន។"
+      },
+      "challenge": {
+        "en": "Watch for deciding before the full picture appears. Acting on partial information could lead you somewhere you would not choose.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសម្រេចចិត្តមុនពេលរូបភាពពេញលេញលេចឡើង។ ការធ្វើសកម្មភាពដោយព័ត៌មានមិនគ្រប់ អាចនាំអ្នកទៅកន្លែងដែលអ្នកមិនចង់ជ្រើស។"
+      },
+      "outcome": {
+        "en": "Waiting quietly and listening inward could let the truth reveal itself. A clearer answer may guide you better than a hurried one.",
+        "km": "ការរង់ចាំដោយស្ងប់ និងស្តាប់សំឡេងខាងក្នុង អាចឱ្យការពិតបង្ហាញខ្លួនឯង។ ចម្លើយដែលច្បាស់ជាង អាចណែនាំអ្នកបានល្អជាងចម្លើយប្រញាប់ប្រញាល់។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "You are in a nurturing, growing season, and many people or plans may be leaning on your care. That generosity is also where strain can build.",
+        "km": "អ្នកកំពុងស្ថិតក្នុងរដូវនៃការថែទាំ និងការរីកចម្រើន ហើយមនុស្ស ឬគម្រោងជាច្រើនអាចពឹងលើការយកចិត្តទុកដាក់របស់អ្នក។ ភាពសប្បុរសនេះក៏ជាកន្លែងដែលភាពតានតឹងអាចកើតឡើងដែរ។"
+      },
+      "challenge": {
+        "en": "Watch for giving so much that little is left for you. Caring for everyone else first could slowly wear down your own strength.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្តល់ច្រើនពេក រហូតនៅសល់តិចតួចសម្រាប់ខ្លួនឯង។ ការថែទាំអ្នកដទៃមុនជានិច្ច អាចធ្វើឱ្យកម្លាំងរបស់អ្នកថយចុះបន្តិចម្តងៗ។"
+      },
+      "outcome": {
+        "en": "Including yourself in the care you give could keep this season fruitful. What you nurture may grow further when you are nourished too.",
+        "km": "ការរាប់បញ្ចូលខ្លួនឯងក្នុងការថែទាំដែលអ្នកផ្តល់ អាចរក្សារដូវនេះឱ្យមានផលល្អ។ អ្វីដែលអ្នកថែរក្សាអាចរីកចម្រើនបន្ថែម នៅពេលអ្នកក៏ត្រូវបានចិញ្ចឹមបីបាច់ដែរ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Your situation calls for structure and steady leadership. You may be the one others look to when things need to be organised.",
+        "km": "ស្ថានភាពរបស់អ្នកត្រូវការរចនាសម្ព័ន្ធ និងការដឹកនាំដ៏នឹងនរ។ អ្នកប្រហែលជាមនុស្សដែលអ្នកដទៃងាកមករក នៅពេលអ្វីៗត្រូវការរៀបចំ។"
+      },
+      "challenge": {
+        "en": "Watch for holding control too tightly. Firm rules without flexibility could create resistance from the people around you.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការកាន់កាប់ការគ្រប់គ្រងតឹងពេក។ ច្បាប់តឹងរ៉ឹងដែលគ្មានភាពបត់បែន អាចបង្កការប្រឆាំងពីមនុស្សនៅជុំវិញអ្នក។"
+      },
+      "outcome": {
+        "en": "Leading with fairness rather than force could build a foundation people trust. Stability may come from structure that leaves room to breathe.",
+        "km": "ការដឹកនាំដោយយុត្តិធម៌ ជាជាងកម្លាំង អាចកសាងគ្រឹះដែលមនុស្សទុកចិត្ត។ ស្ថិរភាពអាចកើតចេញពីរចនាសម្ព័ន្ធដែលទុកកន្លែងឱ្យដកដង្ហើម។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Tradition, advice from elders or familiar ways are shaping your choices. They offer guidance, though not every rule may fit your life now.",
+        "km": "ប្រពៃណី ដំបូន្មានពីចាស់ទុំ ឬរបៀបធ្លាប់ស្គាល់ កំពុងកំណត់ជម្រើសរបស់អ្នក។ ពួកវាផ្តល់ការណែនាំ ប៉ុន្តែមិនមែនគ្រប់ច្បាប់ទាំងអស់សមនឹងជីវិតរបស់អ្នកនាពេលនេះទេ។"
+      },
+      "challenge": {
+        "en": "Watch for following expectations without asking whether they still serve you. Doing what is expected could quietly pull you off your own path.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើតាមការរំពឹងទុក ដោយមិនសួរថាវានៅតែមានប្រយោជន៍សម្រាប់អ្នកឬអត់។ ការធ្វើតាមអ្វីដែលគេរំពឹង អាចទាញអ្នកចេញពីផ្លូវផ្ទាល់ខ្លួនដោយស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Keeping the wisdom that still fits, and gently setting aside what does not, could give you both belonging and freedom.",
+        "km": "ការរក្សាប្រាជ្ញាដែលនៅតែសម ហើយទុកចោលដោយទន់ភ្លន់នូវអ្វីដែលមិនសម អាចផ្តល់ឱ្យអ្នកទាំងភាពជាផ្នែកមួយនៃសហគមន៍ និងសេរីភាព។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "An important relationship or a choice of values sits at the centre of your situation. What you decide here may affect more than one part of your life.",
+        "km": "ទំនាក់ទំនងសំខាន់ ឬជម្រើសនៃតម្លៃមួយ ស្ថិតនៅចំកណ្តាលស្ថានភាពរបស់អ្នក។ អ្វីដែលអ្នកសម្រេចនៅទីនេះ អាចប៉ះពាល់ច្រើនជាងផ្នែកមួយនៃជីវិតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "A choice may come between what feels right and what seems easier. Mixed feelings could make you hesitate or try to please everyone.",
+        "km": "ជម្រើសមួយអាចកើតឡើង រវាងអ្វីដែលមានអារម្មណ៍ត្រឹមត្រូវ និងអ្វីដែលហាក់ងាយស្រួលជាង។ អារម្មណ៍ចម្រុះអាចធ្វើឱ្យអ្នកស្ទាក់ស្ទើរ ឬព្យាយាមផ្គាប់ចិត្តគ្រប់គ្នា។"
+      },
+      "outcome": {
+        "en": "Choosing honestly, in line with your values, could bring deeper harmony. A sincere decision may strengthen the bonds that matter most.",
+        "km": "ការជ្រើសរើសដោយស្មោះត្រង់ ស្របតាមតម្លៃរបស់អ្នក អាចនាំមកនូវភាពសុខដុមកាន់តែជ្រាលជ្រៅ។ ការសម្រេចចិត្តដោយស្មោះ អាចពង្រឹងចំណងដែលសំខាន់បំផុត។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You are pushing forward with determination. Your momentum is real, though different parts of you may not all be pulling the same way.",
+        "km": "អ្នកកំពុងរុញទៅមុខដោយការប្តេជ្ញាចិត្ត។ សន្ទុះរបស់អ្នកពិតប្រាកដ ប៉ុន្តែផ្នែកផ្សេងៗក្នុងខ្លួនអ្នកប្រហែលមិនទាញទៅទិសតែមួយទេ។"
+      },
+      "challenge": {
+        "en": "Watch for competing pulls: wanting two things that lead in different directions. Without uniting them, progress could stall.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទាញផ្ទុយគ្នា៖ ចង់បានរឿងពីរដែលនាំទៅទិសផ្សេងគ្នា។ បើមិនបង្រួបបង្រួមពួកវាទេ ការរីកចម្រើនអាចជាប់គាំង។"
+      },
+      "outcome": {
+        "en": "Bringing your goals and actions into one direction could carry you through. Focused effort may lead to a success you clearly earned.",
+        "km": "ការនាំគោលដៅ និងសកម្មភាពរបស់អ្នកមកទិសតែមួយ អាចនាំអ្នកឆ្លងកាត់បាន។ ការខិតខំដែលផ្តោតអារម្មណ៍ អាចនាំទៅរកភាពជោគជ័យដែលអ្នកសមនឹងទទួល។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Quiet courage and patience are among your strongest qualities right now. You may be handling more pressure than others realise.",
+        "km": "ភាពក្លាហានស្ងៀមស្ងាត់ និងការអត់ធ្មត់ ជាគុណសម្បត្តិខ្លាំងបំផុតរបស់អ្នកនាពេលនេះ។ អ្នកប្រហែលជាកំពុងទ្រាំទ្រសម្ពាធច្រើនជាងអ្វីដែលអ្នកដទៃដឹង។"
+      },
+      "challenge": {
+        "en": "Watch for frustration that tempts you to force an outcome. Pushing hard could make the situation more resistant, not less.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធុញថប់ដែលទាក់ទាញអ្នកឱ្យបង្ខំលទ្ធផល។ ការរុញខ្លាំងអាចធ្វើឱ្យស្ថានភាពកាន់តែតប់ប្រល់ មិនមែនស្រាលជាងមុនទេ។"
+      },
+      "outcome": {
+        "en": "Gentle persistence could overcome what once seemed too hard. Calm confidence may prove stronger than force.",
+        "km": "ការតស៊ូដោយទន់ភ្លន់ អាចយកឈ្នះអ្វីដែលធ្លាប់ហាក់ពិបាកពេក។ ទំនុកចិត្តដ៏ស្ងប់ អាចបង្ហាញថាខ្លាំងជាងកម្លាំង។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You may be in a reflective, inward phase, needing space to think. That quiet can bring wisdom, though it can also separate you from support.",
+        "km": "អ្នកប្រហែលជាកំពុងស្ថិតក្នុងដំណាក់កាលពិចារណាខាងក្នុង ហើយត្រូវការលំហសម្រាប់គិត។ ភាពស្ងប់នោះអាចនាំមកនូវប្រាជ្ញា ប៉ុន្តែក៏អាចបំបែកអ្នកពីការគាំទ្រដែរ។"
+      },
+      "challenge": {
+        "en": "Watch for withdrawing so far that you carry everything alone. Isolation could make problems feel larger than they are.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដកខ្លួនឆ្ងាយពេក រហូតអ្នកលីសែងអ្វីៗទាំងអស់តែម្នាក់ឯង។ ភាពឯកោអាចធ្វើឱ្យបញ្ហាហាក់ធំជាងការពិត។"
+      },
+      "outcome": {
+        "en": "Balancing time alone with honest sharing could reveal the right path forward. Your inner wisdom may shine brightest when you let others see it.",
+        "km": "ការរក្សាតុល្យភាពរវាងពេលនៅម្នាក់ឯង និងការចែករំលែកដោយស្មោះ អាចបង្ហាញផ្លូវត្រឹមត្រូវទៅមុខ។ ប្រាជ្ញាខាងក្នុងរបស់អ្នកអាចភ្លឺបំផុត នៅពេលអ្នកឱ្យអ្នកដទៃមើលឃើញវា។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Circumstances around you are shifting, some in ways you did not plan. A turning point may be closer than it looks.",
+        "km": "កាលៈទេសៈជុំវិញអ្នកកំពុងផ្លាស់ប្តូរ ខ្លះតាមរបៀបដែលអ្នកមិនបានគ្រោងទុក។ ចំណុចបត់មួយអាចនៅជិតជាងអ្វីដែលមើលឃើញ។"
+      },
+      "challenge": {
+        "en": "Watch for a change you cannot control. Resisting it could cost more energy than learning to move with it.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្លាស់ប្តូរដែលអ្នកមិនអាចគ្រប់គ្រងបាន។ ការប្រឆាំងនឹងវា អាចចំណាយថាមពលច្រើនជាងការរៀនបត់បែនជាមួយវា។"
+      },
+      "outcome": {
+        "en": "Adapting with an open mind could turn an unexpected shift into a new opportunity. A fresh cycle may bring luck you would not have found otherwise.",
+        "km": "ការបត់បែនដោយចិត្តបើកចំហ អាចប្រែការផ្លាស់ប្តូរដែលមិននឹកស្មាន ទៅជាឱកាសថ្មី។ វដ្តថ្មីអាចនាំមកនូវសំណាងដែលអ្នកមិនអាចរកឃើញតាមរបៀបផ្សេង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Fairness and honest dealing matter a great deal in your situation. You may be weighing what is right, for yourself and for others.",
+        "km": "ភាពយុត្តិធម៌ និងការប្រព្រឹត្តដោយស្មោះត្រង់ មានសារៈសំខាន់ខ្លាំងក្នុងស្ថានភាពរបស់អ្នក។ អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងអ្វីដែលត្រឹមត្រូវ សម្រាប់ខ្លួនឯង និងអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Watch for one-sided thinking or an unfair arrangement. Seeing only your own side, or only theirs, could tip things out of balance.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការគិតតែម្ខាង ឬការរៀបចំដែលមិនយុត្តិធម៌។ ការមើលឃើញតែខាងខ្លួនឯង ឬតែខាងគេ អាចធ្វើឱ្យអ្វីៗបាត់តុល្យភាព។"
+      },
+      "outcome": {
+        "en": "Weighing every side honestly could lead to a fair and deserved result. Acting with integrity may protect you long after the decision is made.",
+        "km": "ការថ្លឹងថ្លែងគ្រប់ផ្នែកដោយស្មោះត្រង់ អាចនាំទៅរកលទ្ធផលយុត្តិធម៌ និងសមរម្យ។ ការប្រព្រឹត្តដោយសុចរិត អាចការពារអ្នកយូរបន្ទាប់ពីការសម្រេចចិត្ត។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Something in your life feels paused or on hold. The delay is frustrating, yet it may be giving you a view you could not see while rushing.",
+        "km": "អ្វីមួយក្នុងជីវិតរបស់អ្នកមានអារម្មណ៍ថាផ្អាក ឬរង់ចាំ។ ការពន្យារពេលនេះគួរឱ្យធុញ ប៉ុន្តែវាប្រហែលជាកំពុងផ្តល់ទស្សនៈដែលអ្នកមិនអាចមើលឃើញពេលប្រញាប់។"
+      },
+      "challenge": {
+        "en": "Watch for struggling against a delay you cannot hurry. Fighting the pause could tire you more than the waiting itself.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការតស៊ូប្រឆាំងនឹងការពន្យារដែលអ្នកមិនអាចពន្លឿនបាន។ ការប្រយុទ្ធនឹងការផ្អាក អាចធ្វើឱ្យអ្នកហត់ជាងការរង់ចាំខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Accepting the pause and looking at things differently could reveal a better way through. A new perspective may matter more than speed.",
+        "km": "ការទទួលយកការផ្អាក ហើយមើលអ្វីៗតាមរបៀបផ្សេង អាចបង្ហាញផ្លូវល្អជាងដើម្បីឆ្លងកាត់។ ទស្សនៈថ្មីអាចសំខាន់ជាងល្បឿន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "A chapter of your life may be drawing to a close. Endings like this often bring uncertainty, even when they make room for something new.",
+        "km": "ដំណាក់កាលមួយនៃជីវិតរបស់អ្នក ប្រហែលជាកំពុងឈានដល់ទីបញ្ចប់។ ការបញ្ចប់បែបនេះ ច្រើនតែនាំមកនូវភាពមិនច្បាស់លាស់ ទោះបីជាវាទុកកន្លែងសម្រាប់អ្វីថ្មីក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Watch for holding on to something that has already ended. Clinging to an old role or plan could block the change you need.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការតោងជាប់នឹងអ្វីដែលបានបញ្ចប់ហើយ។ ការតោងជាប់នឹងតួនាទី ឬគម្រោងចាស់ អាចរារាំងការផ្លាស់ប្តូរដែលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Releasing what is finished, gently and in your own time, could clear space for renewal. Real change may begin with what you let go.",
+        "km": "ការលែងអ្វីដែលបានបញ្ចប់ ដោយទន់ភ្លន់ និងតាមពេលវេលារបស់អ្នក អាចបើកលំហសម្រាប់ការចាប់ផ្តើមថ្មី។ ការផ្លាស់ប្តូរពិតអាចចាប់ផ្តើមពីអ្វីដែលអ្នកព្រមលែង។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You are finding a steadier balance, mixing different parts of life with patience. This calm is valuable, and worth protecting.",
+        "km": "អ្នកកំពុងរកឃើញតុល្យភាពនឹងនរជាងមុន ដោយផ្សំផ្នែកផ្សេងៗនៃជីវិតដោយការអត់ធ្មត់។ ភាពស្ងប់នេះមានតម្លៃ ហើយគួរការពារ។"
+      },
+      "challenge": {
+        "en": "Watch for haste or going to extremes. Rushing, or swinging from one side to the other, could undo the balance you have built.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រញាប់ ឬការធ្វើហួសហេតុ។ ការប្រញាប់ ឬការប្តូរពីម្ខាងទៅម្ខាង អាចបំផ្លាញតុល្យភាពដែលអ្នកបានកសាង។"
+      },
+      "outcome": {
+        "en": "Keeping to a moderate, steady pace could bring lasting improvement. Patience here may give results that hold.",
+        "km": "ការរក្សាល្បឿនកណ្តាល និងនឹងនរ អាចនាំមកនូវការកែលម្អដ៏យូរអង្វែង។ ការអត់ធ្មត់នៅទីនេះ អាចផ្តល់លទ្ធផលដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "A habit, fear or attachment may be holding you more tightly than you realise. It can feel normal simply because it has been there a long time.",
+        "km": "ទម្លាប់ ការភ័យខ្លាច ឬការជាប់ចិត្តមួយ អាចកំពុងចាប់អ្នកតឹងជាងអ្វីដែលអ្នកដឹង។ វាអាចមានអារម្មណ៍ធម្មតា ដោយសារតែវានៅជាមួយអ្នកយូរមកហើយ។"
+      },
+      "challenge": {
+        "en": "Watch for a pattern that keeps you stuck, such as a craving, a dependence or a fear of change. The hold may be looser than it feels.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះលំនាំដែលធ្វើឱ្យអ្នកជាប់គាំង ដូចជាការលោភលន់ ការពឹងផ្អែក ឬការខ្លាចការផ្លាស់ប្តូរ។ ការចាប់នោះអាចរលុងជាងអ្វីដែលអ្នកមានអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "Naming what limits you and taking one step away from it could bring new freedom. Support from others may make that step easier.",
+        "km": "ការដាក់ឈ្មោះអ្វីដែលកំណត់អ្នក ហើយបោះជំហានមួយឆ្ងាយពីវា អាចនាំមកនូវសេរីភាពថ្មី។ ការគាំទ្រពីអ្នកដទៃ អាចធ្វើឱ្យជំហាននោះងាយស្រួលជាងមុន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Plans or certainties may be shaking, sometimes without warning. It can feel unsettling, even when it exposes something that was already unstable.",
+        "km": "គម្រោង ឬភាពប្រាកដប្រជា អាចកំពុងរង្គោះរង្គើ ពេលខ្លះដោយគ្មានការព្រមាន។ វាអាចធ្វើឱ្យមិនស្រួលចិត្ត ទោះបីជាវាបង្ហាញអ្វីដែលមិនស្ថិតស្ថេរពីមុនមកក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Watch for a sudden change that breaks an old structure. Trying to hold up what is already falling could make the fall harder.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្លាស់ប្តូរភ្លាមៗដែលបំបាក់រចនាសម្ព័ន្ធចាស់។ ការព្យាយាមទប់អ្វីដែលកំពុងដួលរលំ អាចធ្វើឱ្យការដួលកាន់តែធ្ងន់។"
+      },
+      "outcome": {
+        "en": "Letting weak foundations go could give you the chance to rebuild more strongly. What remains after the shake-up may be what truly holds.",
+        "km": "ការលែងគ្រឹះដែលខ្សោយ អាចផ្តល់ឱកាសឱ្យអ្នកកសាងឡើងវិញឱ្យរឹងមាំជាងមុន។ អ្វីដែលនៅសល់ក្រោយការរង្គោះរង្គើ អាចជាអ្វីដែលពិតជាស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope is returning after a harder time, and you may be healing. Your faith in what is possible is growing again.",
+        "km": "ក្តីសង្ឃឹមកំពុងត្រឡប់មកវិញ ក្រោយពេលដ៏លំបាក ហើយអ្នកប្រហែលជាកំពុងជាសះស្បើយ។ ជំនឿរបស់អ្នកលើអ្វីដែលអាចទៅរួច កំពុងកើនឡើងម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Watch for doubt creeping back in. A setback could tempt you to stop trusting the direction that has been helping you heal.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសង្ស័យដែលលូកលាន់ត្រឡប់មកវិញ។ ការថយក្រោយមួយ អាចទាក់ទាញអ្នកឱ្យឈប់ទុកចិត្តលើទិសដៅដែលបានជួយអ្នកឱ្យជាសះស្បើយ។"
+      },
+      "outcome": {
+        "en": "Holding on to hope through small doubts could bring renewal and inspiration. A calmer, brighter period may follow.",
+        "km": "ការរក្សាក្តីសង្ឃឹម ឆ្លងកាត់ការសង្ស័យតូចៗ អាចនាំមកនូវការកកើតថ្មី និងការបំផុសគំនិត។ ពេលវេលាដែលស្ងប់ និងភ្លឺស្វាងជាង អាចមកដល់បន្ទាប់។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Things may feel unclear, and feelings are running deep. Some fears could be shaping how you see what is happening.",
+        "km": "អ្វីៗអាចមានអារម្មណ៍មិនច្បាស់លាស់ ហើយអារម្មណ៍កំពុងជ្រៅ។ ការភ័យខ្លាចខ្លះ អាចកំពុងកំណត់របៀបដែលអ្នកមើលឃើញអ្វីដែលកំពុងកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Watch for confusion or a misunderstanding. Worry could fill in the gaps with the worst possibility, so check the facts before reacting.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការភាន់ច្រឡំ ឬការយល់ខុស។ ការព្រួយបារម្ភអាចបំពេញចន្លោះដោយលទ្ធភាពអាក្រក់បំផុត ដូច្នេះសូមពិនិត្យការពិតមុននឹងប្រតិកម្ម។"
+      },
+      "outcome": {
+        "en": "Moving carefully and trusting what you can verify could help the fog lift. The truth may turn out gentler than your fears suggested.",
+        "km": "ការធ្វើសកម្មភាពដោយប្រុងប្រយ័ត្ន និងទុកចិត្តលើអ្វីដែលអ្នកអាចផ្ទៀងផ្ទាត់ អាចជួយឱ្យអ័ព្ទរសាយ។ ការពិតអាចទន់ភ្លន់ជាងអ្វីដែលការភ័យខ្លាចរបស់អ្នកបានបង្ហាញ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "You are in a positive, confident period, and things may be going well. That brightness is real, and also a time to stay attentive.",
+        "km": "អ្នកកំពុងស្ថិតក្នុងពេលវេលាវិជ្ជមាន និងមានទំនុកចិត្ត ហើយអ្វីៗប្រហែលជាដំណើរការល្អ។ ពន្លឺនោះពិតប្រាកដ ហើយក៏ជាពេលដែលត្រូវប្រុងប្រយ័ត្នដែរ។"
+      },
+      "challenge": {
+        "en": "Watch for overconfidence. When things go well, it is easy to overlook a small detail that later matters.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការជឿជាក់លើខ្លួនឯងហួសហេតុ។ នៅពេលអ្វីៗដំណើរការល្អ វាងាយនឹងមើលរំលងព័ត៌មានលម្អិតតូចមួយ ដែលក្រោយមកមានសារៈសំខាន់។"
+      },
+      "outcome": {
+        "en": "Staying humble and attentive in good times could keep your success growing. Warm recognition may follow care as much as confidence.",
+        "km": "ការរក្សាភាពរាបទាប និងការយកចិត្តទុកដាក់ក្នុងពេលល្អ អាចរក្សាភាពជោគជ័យរបស់អ្នកឱ្យរីកចម្រើន។ ការទទួលស្គាល់ដ៏កក់ក្តៅ អាចកើតចេញពីការយកចិត្តទុកដាក់ ដូចគ្នានឹងទំនុកចិត្តដែរ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You may be looking back over your path and feeling called to change. An honest review is already under way inside you.",
+        "km": "អ្នកប្រហែលជាកំពុងក្រឡេកមើលផ្លូវរបស់អ្នកឡើងវិញ ហើយមានអារម្មណ៍ថាត្រូវផ្លាស់ប្តូរ។ ការពិនិត្យដោយស្មោះត្រង់ កំពុងកើតឡើងក្នុងខ្លួនអ្នករួចហើយ។"
+      },
+      "challenge": {
+        "en": "Watch for harsh self-judgement. Dwelling on past mistakes could stop you from answering the call to begin again.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិច្ឆ័យខ្លួនឯងយ៉ាងតឹងរ៉ឹង។ ការគិតច្រើនពីកំហុសពីមុន អាចរារាំងអ្នកពីការឆ្លើយតបនឹងការហៅឱ្យចាប់ផ្តើមឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Learning from the past without punishing yourself could bring a clear decision. A renewed sense of purpose may follow.",
+        "km": "ការរៀនពីអតីតកាល ដោយមិនដាក់ទោសខ្លួនឯង អាចនាំមកនូវការសម្រេចចិត្តច្បាស់លាស់។ អារម្មណ៍នៃគោលបំណងថ្មី អាចកើតឡើងបន្ទាប់។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Something important is close to completion, and you can see how far you have come. Only the final steps may remain.",
+        "km": "អ្វីមួយសំខាន់ជិតបញ្ចប់ ហើយអ្នកអាចមើលឃើញថាអ្នកបានមកឆ្ងាយប៉ុណ្ណា។ ប្រហែលជានៅសល់តែជំហានចុងក្រោយប៉ុណ្ណោះ។"
+      },
+      "challenge": {
+        "en": "Watch for loose ends that delay closure. Leaving the last details unfinished could keep the next chapter from starting.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះរឿងតូចៗដែលមិនទាន់ចប់ ហើយពន្យារការបញ្ចប់។ ការទុកព័ត៌មានលម្អិតចុងក្រោយមិនបញ្ចប់ អាចរារាំងដំណាក់កាលបន្ទាប់មិនឱ្យចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Completing what remains could bring a real sense of fulfilment. Finishing well may open the door to a new journey.",
+        "km": "ការបញ្ចប់អ្វីដែលនៅសល់ អាចនាំមកនូវអារម្មណ៍នៃការបំពេញបានពិតប្រាកដ។ ការបញ្ចប់បានល្អ អាចបើកទ្វារទៅកាន់ដំណើរថ្មី។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A new idea or burst of energy is with you. It is exciting, though it has not yet been shaped into a plan.",
+        "km": "គំនិតថ្មី ឬថាមពលដ៏ខ្លាំងមួយកំពុងនៅជាមួយអ្នក។ វាគួរឱ្យរំភើប ប៉ុន្តែមិនទាន់បានក្លាយជាគម្រោងនៅឡើយទេ។"
+      },
+      "challenge": {
+        "en": "Watch for enthusiasm fading before anything is built. Without a first practical step, a good spark could quietly go out.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះភាពរំភើបដែលរសាត់បាត់ មុនពេលអ្វីមួយត្រូវបានកសាង។ បើគ្មានជំហានជាក់ស្តែងដំបូង ផ្កាភ្លើងល្អមួយអាចរលត់ដោយស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Giving your idea one concrete step could help it take off. A bold beginning may grow into something real.",
+        "km": "ការផ្តល់ជំហានជាក់ស្តែងមួយដល់គំនិតរបស់អ្នក អាចជួយឱ្យវាចាប់ផ្តើមហោះហើរ។ ការចាប់ផ្តើមដ៏ក្លាហាន អាចរីកធំទៅជាអ្វីមួយពិតប្រាកដ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You are looking ahead and weighing different plans. You can see possibilities, but have not yet committed to one.",
+        "km": "អ្នកកំពុងមើលទៅមុខ និងថ្លឹងថ្លែងគម្រោងផ្សេងៗ។ អ្នកអាចមើលឃើញលទ្ធភាព ប៉ុន្តែមិនទាន់បានប្តេជ្ញាលើមួយណានៅឡើយ។"
+      },
+      "challenge": {
+        "en": "Watch for staying in the planning stage too long. Comparing options endlessly could let a good moment pass.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការនៅក្នុងដំណាក់កាលគ្រោងយូរពេក។ ការប្រៀបធៀបជម្រើសមិនចេះចប់ អាចធ្វើឱ្យពេលវេលាល្អកន្លងផុតទៅ។"
+      },
+      "outcome": {
+        "en": "Choosing a direction and starting could open wider horizons. A clear plan acted upon may take you further than many plans kept in mind.",
+        "km": "ការជ្រើសទិសដៅ ហើយចាប់ផ្តើម អាចបើកជើងមេឃកាន់តែទូលាយ។ គម្រោងច្បាស់មួយដែលត្រូវបានអនុវត្ត អាចនាំអ្នកទៅឆ្ងាយជាងគម្រោងជាច្រើនដែលទុកតែក្នុងគំនិត។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Your efforts are starting to reach further. Some results may be on their way, though not all of them are visible yet.",
+        "km": "ការខិតខំរបស់អ្នកកំពុងចាប់ផ្តើមឈានទៅឆ្ងាយជាងមុន។ លទ្ធផលខ្លះអាចកំពុងមកដល់ ប៉ុន្តែមិនមែនទាំងអស់អាចមើលឃើញនៅឡើយទេ។"
+      },
+      "challenge": {
+        "en": "Watch for impatience while you wait for results. Giving up on a plan too early could mean missing what is already coming.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការអត់ធ្មត់មិនបាន ខណៈរង់ចាំលទ្ធផល។ ការបោះបង់គម្រោងលឿនពេក អាចធ្វើឱ្យអ្នកខកខានអ្វីដែលកំពុងមកដល់រួចហើយ។"
+      },
+      "outcome": {
+        "en": "Keeping watch for openings could bring opportunities from further than you expected. Patience may let your efforts reach their full range.",
+        "km": "ការតាមដានឱកាសដែលបើកចំហ អាចនាំមកនូវឱកាសពីកន្លែងឆ្ងាយជាងអ្វីដែលអ្នករំពឹង។ ការអត់ធ្មត់ អាចឱ្យការខិតខំរបស់អ្នកឈានដល់កម្រិតពេញលេញ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "There is something stable and worth celebrating in your life right now. A happy foundation is already in place.",
+        "km": "មានអ្វីមួយស្ថិតស្ថេរ និងគួរអបអរក្នុងជីវិតរបស់អ្នក។ គ្រឹះដ៏រីករាយមួយមានរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Watch for rushing past good moments without noticing them. Being busy could make you forget to enjoy what you have built.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រញាប់រំលងពេលវេលាល្អ ដោយមិនកត់សម្គាល់វា។ ភាពមមាញឹកអាចធ្វើឱ្យអ្នកភ្លេចរីករាយនឹងអ្វីដែលអ្នកបានកសាង។"
+      },
+      "outcome": {
+        "en": "Pausing to appreciate what is good could strengthen your sense of security. Shared celebrations may become part of a lasting foundation.",
+        "km": "ការឈប់បន្តិច ដើម្បីដឹងគុណចំពោះអ្វីដែលល្អ អាចពង្រឹងអារម្មណ៍សុវត្ថិភាពរបស់អ្នក។ ការអបអរជាមួយគ្នា អាចក្លាយជាផ្នែកមួយនៃគ្រឹះដ៏យូរអង្វែង។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Different opinions or competing demands are around you. Some friction is likely while people pull in different directions.",
+        "km": "មតិខុសៗគ្នា ឬការទាមទារដែលប្រជែងគ្នា កំពុងនៅជុំវិញអ្នក។ ការប៉ះទង្គិចខ្លះទំនងជាកើតឡើង ខណៈមនុស្សទាញទៅទិសផ្សេងៗគ្នា។"
+      },
+      "challenge": {
+        "en": "Watch for small conflicts that drain your energy. Arguing every point could use up strength you need for what matters most.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះជម្លោះតូចៗដែលបង្ហូរថាមពលរបស់អ្នក។ ការប្រកែកគ្រប់ចំណុច អាចប្រើអស់កម្លាំងដែលអ្នកត្រូវការសម្រាប់អ្វីដែលសំខាន់បំផុត។"
+      },
+      "outcome": {
+        "en": "Listening first and choosing which points to raise could turn friction into agreement. Healthy competition may even sharpen your skills.",
+        "km": "ការស្តាប់ជាមុន និងជ្រើសចំណុចណាដែលត្រូវលើកឡើង អាចប្រែការប៉ះទង្គិចទៅជាការឯកភាព។ ការប្រកួតប្រជែងដ៏ល្អ ថែមទាំងអាចធ្វើឱ្យជំនាញរបស់អ្នកកាន់តែមុត។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Your efforts are being noticed, and you may be receiving praise or recognition. Others are watching how you carry it.",
+        "km": "ការខិតខំរបស់អ្នកកំពុងត្រូវបានកត់សម្គាល់ ហើយអ្នកប្រហែលជាកំពុងទទួលការសរសើរ ឬការទទួលស្គាល់។ អ្នកដទៃកំពុងមើលពីរបៀបដែលអ្នកទទួលវា។"
+      },
+      "challenge": {
+        "en": "Watch for pride creating distance from people who helped you. Taking all the credit could quietly weaken your support.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះមោទនភាពដែលបង្កើតគម្លាតពីមនុស្សដែលបានជួយអ្នក។ ការយកកិត្តិយសទាំងអស់សម្រាប់ខ្លួនឯង អាចធ្វើឱ្យការគាំទ្ររបស់អ្នកចុះខ្សោយដោយស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Sharing credit generously could keep your success growing. Recognition may last longer when others feel part of it.",
+        "km": "ការចែករំលែកកិត្តិយសដោយចិត្តទូលាយ អាចរក្សាភាពជោគជ័យរបស់អ្នកឱ្យបន្តរីកចម្រើន។ ការទទួលស្គាល់អាចស្ថិតនៅយូរជាង នៅពេលអ្នកដទៃមានអារម្មណ៍ថាជាផ្នែកមួយរបស់វា។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You are holding your position under some pressure. You may feel you have to defend what you have worked for.",
+        "km": "អ្នកកំពុងរក្សាជំហររបស់អ្នក ក្រោមសម្ពាធខ្លះ។ អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវការពារអ្វីដែលអ្នកបានខិតខំធ្វើ។"
+      },
+      "challenge": {
+        "en": "Watch for feeling outnumbered or worn down. Fighting on every front could exhaust you before the issue that really counts.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះអារម្មណ៍ថាមានគ្នាតិចជាង ឬអស់កម្លាំង។ ការប្រយុទ្ធគ្រប់ទិស អាចធ្វើឱ្យអ្នកអស់កម្លាំង មុនពេលដល់បញ្ហាដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "Standing firm on what matters, and letting smaller battles go, could help you keep what you value. Persistence may outlast the pressure.",
+        "km": "ការឈរយ៉ាងរឹងមាំលើអ្វីដែលសំខាន់ ហើយលែងការប្រយុទ្ធតូចៗ អាចជួយអ្នករក្សាអ្វីដែលអ្នកឱ្យតម្លៃ។ ការតស៊ូអាចស្ថិតនៅយូរជាងសម្ពាធ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things are moving quickly, and news or progress may arrive fast. There is momentum, and little time to stop and think.",
+        "km": "អ្វីៗកំពុងផ្លាស់ទីយ៉ាងលឿន ហើយដំណឹង ឬការរីកចម្រើនអាចមកដល់រហ័ស។ មានសន្ទុះ ហើយមានពេលតិចតួចសម្រាប់ឈប់គិត។"
+      },
+      "challenge": {
+        "en": "Watch for mistakes made in a rush. Replying or deciding too fast could create problems that slow you down later.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះកំហុសដែលកើតឡើងដោយសារការប្រញាប់។ ការឆ្លើយតប ឬការសម្រេចចិត្តលឿនពេក អាចបង្កបញ្ហាដែលធ្វើឱ្យអ្នកយឺតនៅពេលក្រោយ។"
+      },
+      "outcome": {
+        "en": "Keeping pace while checking the details could help things come together quickly. Speed with care may bring the progress you want.",
+        "km": "ការរក្សាល្បឿន ខណៈពិនិត្យព័ត៌មានលម្អិត អាចជួយឱ្យអ្វីៗរួមគ្នាបានលឿន។ ល្បឿនដែលមានការប្រុងប្រយ័ត្ន អាចនាំមកនូវការរីកចម្រើនដែលអ្នកចង់បាន។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may be tired from a long effort, yet you are still standing. You have more resilience than you might feel today.",
+        "km": "អ្នកប្រហែលជាហត់នឿយពីការខិតខំដ៏យូរ ប៉ុន្តែអ្នកនៅតែឈរ។ អ្នកមានភាពធន់ច្រើនជាងអ្វីដែលអ្នកមានអារម្មណ៍នៅថ្ងៃនេះ។"
+      },
+      "challenge": {
+        "en": "Watch for fatigue and old disappointments making you guarded. Expecting another setback could make you hold back just before the end.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះភាពនឿយហត់ និងការខកចិត្តចាស់ៗ ដែលធ្វើឱ្យអ្នកប្រុងប្រយ័ត្នពេក។ ការរំពឹងថានឹងមានការថយក្រោយម្តងទៀត អាចធ្វើឱ្យអ្នកស្ទាក់ស្ទើរ មុនពេលដល់ទីបញ្ចប់បន្តិច។"
+      },
+      "outcome": {
+        "en": "One last steady push, with rest where you can, could carry you through. You may be closer to the finish than you think.",
+        "km": "ការរុញចុងក្រោយដ៏នឹងនរមួយ ជាមួយការសម្រាកនៅពេលអាចធ្វើបាន អាចនាំអ្នកឆ្លងកាត់។ អ្នកប្រហែលជានៅជិតទីបញ្ចប់ជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You are carrying a heavy load of duties and expectations. Much of it may feel like yours alone to manage.",
+        "km": "អ្នកកំពុងលីសែងភារកិច្ច និងការរំពឹងទុកដ៏ធ្ងន់។ ភាគច្រើននៃវាអាចមានអារម្មណ៍ថាជារបស់អ្នកតែម្នាក់ឯងដែលត្រូវគ្រប់គ្រង។"
+      },
+      "challenge": {
+        "en": "Watch for taking on more than one person can carry. Saying yes to everything could leave you drained and less effective.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទទួលយកច្រើនជាងអ្វីដែលមនុស្សម្នាក់អាចលីបាន។ ការយល់ព្រមលើគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងមានប្រសិទ្ធភាពតិចជាងមុន។"
+      },
+      "outcome": {
+        "en": "Setting some tasks down or sharing them could bring real relief. A lighter load may give you better focus on what matters most.",
+        "km": "ការដាក់កិច្ចការខ្លះចុះ ឬចែករំលែកវា អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។ បន្ទុកដែលស្រាលជាង អាចផ្តល់ការផ្តោតអារម្មណ៍ល្អជាងលើអ្វីដែលសំខាន់បំផុត។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "A curious, adventurous mood is guiding you towards something new. You are eager to explore and try things out.",
+        "km": "អារម្មណ៍ចង់ដឹង និងចង់ផ្សងព្រេង កំពុងណែនាំអ្នកឆ្ពោះទៅរកអ្វីថ្មី។ អ្នកចង់ស្វែងយល់ និងសាកល្បងអ្វីៗ។"
+      },
+      "challenge": {
+        "en": "Watch for starting many things and finishing few. Moving on before an idea is complete could leave you with little to show.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចាប់ផ្តើមរឿងច្រើន ប៉ុន្តែបញ្ចប់បានតិច។ ការប្តូរទៅរឿងថ្មីមុនពេលគំនិតមួយបញ្ចប់ អាចធ្វើឱ្យអ្នកមានលទ្ធផលតិចតួចសម្រាប់បង្ហាញ។"
+      },
+      "outcome": {
+        "en": "Following one idea all the way through could lead to exciting discoveries. Curiosity may pay off most when it is given time.",
+        "km": "ការធ្វើតាមគំនិតមួយរហូតដល់ចប់ អាចនាំទៅរកការរកឃើញដ៏គួរឱ្យរំភើប។ ការចង់ដឹងអាចផ្តល់ផលល្អបំផុត នៅពេលវាត្រូវបានផ្តល់ពេលវេលា។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You are full of drive and ready to act boldly. Your energy can move things that have been stuck.",
+        "km": "អ្នកពោរពេញដោយកម្លាំងចិត្ត ហើយត្រៀមធ្វើសកម្មភាពដោយក្លាហាន។ ថាមពលរបស់អ្នកអាចរុញអ្វីៗដែលជាប់គាំងឱ្យដើរ។"
+      },
+      "challenge": {
+        "en": "Watch for impatience that leads to careless moves. Charging ahead without aiming could create problems you then have to repair.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការអត់ធ្មត់មិនបាន ដែលនាំទៅរកសកម្មភាពធ្វេសប្រហែស។ ការវាយលុកទៅមុខដោយគ្មានគោលដៅ អាចបង្កបញ្ហាដែលអ្នកត្រូវជួសជុលនៅពេលក្រោយ។"
+      },
+      "outcome": {
+        "en": "Taking a moment to aim before acting could turn your courage into exciting change. Bold action with direction may move you forward quickly.",
+        "km": "ការចំណាយពេលបន្តិចដើម្បីកំណត់គោលដៅមុនធ្វើសកម្មភាព អាចប្រែភាពក្លាហានរបស់អ្នកទៅជាការផ្លាស់ប្តូរដ៏គួរឱ្យរំភើប។ សកម្មភាពក្លាហានដែលមានទិសដៅ អាចរុញអ្នកទៅមុខបានលឿន។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You are confident and warm, and others are drawn to your energy. Many people may rely on you to keep things moving.",
+        "km": "អ្នកមានទំនុកចិត្ត និងកក់ក្តៅ ហើយអ្នកដទៃត្រូវបានទាក់ទាញដោយថាមពលរបស់អ្នក។ មនុស្សជាច្រើនអាចពឹងលើអ្នក ដើម្បីរក្សាអ្វីៗឱ្យដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Watch for trying to do everything yourself. Carrying every task could exhaust the very energy that makes you shine.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការព្យាយាមធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯង។ ការលីសែងគ្រប់កិច្ចការ អាចធ្វើឱ្យអស់ថាមពលដែលធ្វើឱ្យអ្នកភ្លឺ។"
+      },
+      "outcome": {
+        "en": "Letting others help could keep your confidence strong. Shared effort may bring more support and success than doing it alone.",
+        "km": "ការអនុញ្ញាតឱ្យអ្នកដទៃជួយ អាចរក្សាទំនុកចិត្តរបស់អ្នកឱ្យរឹងមាំ។ ការខិតខំរួមគ្នា អាចនាំមកនូវការគាំទ្រ និងភាពជោគជ័យច្រើនជាងការធ្វើតែម្នាក់ឯង។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You are in a position to lead with vision and courage. Others may be looking to you for direction.",
+        "km": "អ្នកស្ថិតក្នុងជំហរដែលអាចដឹកនាំដោយចក្ខុវិស័យ និងភាពក្លាហាន។ អ្នកដទៃប្រហែលជាកំពុងរំពឹងទិសដៅពីអ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for expecting too much from the people around you. Pushing others to your pace could create friction instead of progress.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការរំពឹងច្រើនពេកពីមនុស្សនៅជុំវិញអ្នក។ ការជំរុញអ្នកដទៃឱ្យដើរតាមល្បឿនរបស់អ្នក អាចបង្កការប៉ះទង្គិចជំនួសឱ្យការរីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "Inspiring rather than commanding could turn your goals into reality. People may give their best when they share your vision.",
+        "km": "ការបំផុសគំនិត ជាជាងការបញ្ជា អាចប្រែគោលដៅរបស់អ្នកទៅជាការពិត។ មនុស្សអាចផ្តល់ការខិតខំល្អបំផុត នៅពេលពួកគេចែករំលែកចក្ខុវិស័យរបស់អ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your heart is opening to new feelings or a new connection. You may feel both hopeful and a little exposed.",
+        "km": "បេះដូងរបស់អ្នកកំពុងបើកទទួលអារម្មណ៍ថ្មី ឬទំនាក់ទំនងថ្មី។ អ្នកប្រហែលជាមានអារម្មណ៍ទាំងសង្ឃឹម និងងាយរងរបួសបន្តិច។"
+      },
+      "challenge": {
+        "en": "Watch for fear of being hurt again. Protecting yourself too carefully could make it hard to receive what is being offered.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការខ្លាចឈឺចាប់ម្តងទៀត។ ការការពារខ្លួនប្រុងប្រយ័ត្នពេក អាចធ្វើឱ្យពិបាកទទួលនូវអ្វីដែលកំពុងត្រូវបានផ្តល់ឱ្យ។"
+      },
+      "outcome": {
+        "en": "Allowing yourself to receive could bring kindness and emotional renewal. A little openness may lead to something warm.",
+        "km": "ការអនុញ្ញាតឱ្យខ្លួនឯងទទួល អាចនាំមកនូវសេចក្តីសប្បុរស និងការកកើតថ្មីនៃអារម្មណ៍។ ការបើកចិត្តបន្តិច អាចនាំទៅរកអ្វីមួយដ៏កក់ក្តៅ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A close bond or partnership is important to you right now. How you and the other person meet each other matters.",
+        "km": "ចំណង ឬភាពជាដៃគូជិតស្និទ្ធមួយ មានសារៈសំខាន់សម្រាប់អ្នកនាពេលនេះ។ របៀបដែលអ្នក និងម្នាក់ទៀតឆ្លើយតបគ្នា គឺសំខាន់។"
+      },
+      "challenge": {
+        "en": "Watch for an imbalance in giving and receiving. If one side carries more, quiet resentment could start to grow.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះភាពមិនស្មើគ្នាក្នុងការផ្តល់ និងការទទួល។ ប្រសិនបើម្ខាងលីសែងច្រើនជាង ការអាក់អន់ចិត្តស្ងាត់ៗអាចចាប់ផ្តើមកើនឡើង។"
+      },
+      "outcome": {
+        "en": "Talking openly about what each of you needs could keep the bond two-way. A fair partnership may grow stronger and more supportive.",
+        "km": "ការនិយាយដោយបើកចំហពីអ្វីដែលម្នាក់ៗត្រូវការ អាចរក្សាចំណងឱ្យទៅមកស្មើគ្នា។ ភាពជាដៃគូដ៏យុត្តិធម៌ អាចរីកចម្រើន និងគាំទ្រគ្នាកាន់តែខ្លាំង។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friends, gatherings and shared joy are a big part of your life now. Good company is lifting your spirits.",
+        "km": "មិត្តភក្តិ ការជួបជុំ និងសេចក្តីរីករាយរួមគ្នា ជាផ្នែកធំមួយនៃជីវិតរបស់អ្នកនាពេលនេះ។ មិត្តល្អកំពុងលើកទឹកចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for letting social life crowd out your own goals. Saying yes to every invitation could leave little time for what you need to do.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការឱ្យជីវិតសង្គមគ្របដណ្តប់លើគោលដៅផ្ទាល់ខ្លួន។ ការយល់ព្រមរាល់ការអញ្ជើញ អាចទុកពេលតិចតួចសម្រាប់អ្វីដែលអ្នកត្រូវធ្វើ។"
+      },
+      "outcome": {
+        "en": "Keeping a healthy balance between friends and your own plans could let you enjoy both. Good company may support your goals rather than compete with them.",
+        "km": "ការរក្សាតុល្យភាពល្អរវាងមិត្តភក្តិ និងគម្រោងផ្ទាល់ខ្លួន អាចឱ្យអ្នករីករាយនឹងទាំងពីរ។ មិត្តល្អអាចគាំទ្រគោលដៅរបស់អ្នក ជាជាងប្រជែងជាមួយវា។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel flat or unsatisfied with what is in front of you. Something feels missing, even if it is hard to name.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ធុញទ្រាន់ ឬមិនពេញចិត្តនឹងអ្វីដែលនៅចំពោះមុខ។ មានអ្វីមួយហាក់ខ្វះខាត ទោះបីពិបាកដាក់ឈ្មោះក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Watch for looking inward for so long that you miss a good offer. Disappointment could make a real chance look unimportant.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការគិតតែខាងក្នុងយូរពេក រហូតខកខានការផ្តល់ជូនល្អមួយ។ ការខកចិត្តអាចធ្វើឱ្យឱកាសពិតមួយហាក់មិនសំខាន់។"
+      },
+      "outcome": {
+        "en": "Looking up and staying open could reveal an opportunity that renews your interest. Something worthwhile may already be within reach.",
+        "km": "ការងើបមុខមើល និងរក្សាចិត្តបើកចំហ អាចបង្ហាញឱកាសដែលធ្វើឱ្យអ្នកចាប់អារម្មណ៍ឡើងវិញ។ អ្វីមួយដែលមានតម្លៃ ប្រហែលជានៅក្បែរដៃរួចហើយ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Your attention may be on something that did not work out. Loss or regret is still close to the surface.",
+        "km": "ការយកចិត្តទុកដាក់របស់អ្នក ប្រហែលជានៅលើអ្វីមួយដែលមិនបានសម្រេច។ ការបាត់បង់ ឬការសោកស្តាយ នៅតែជិតផ្ទៃខាងលើ។"
+      },
+      "challenge": {
+        "en": "Watch for dwelling on what was lost. Grief that has no room to move could hide what is still good and still yours.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការគិតច្រើនពីអ្វីដែលបានបាត់បង់។ ទុក្ខព្រួយដែលគ្មានកន្លែងបញ្ចេញ អាចបិទបាំងអ្វីដែលនៅតែល្អ និងនៅតែជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Honouring the loss, then turning towards what remains, could bring comfort. Acceptance may help you move on at your own pace.",
+        "km": "ការគោរពការបាត់បង់ រួចងាកទៅរកអ្វីដែលនៅសល់ អាចនាំមកនូវការលួងលោម។ ការទទួលយក អាចជួយអ្នកឱ្យបន្តទៅមុខតាមល្បឿនរបស់អ្នក។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Memories, old friends or the comfort of the past are on your mind. Familiar people may be part of your life again.",
+        "km": "អនុស្សាវរីយ៍ មិត្តចាស់ ឬភាពកក់ក្តៅនៃអតីតកាល កំពុងនៅក្នុងគំនិតរបស់អ្នក។ មនុស្សធ្លាប់ស្គាល់ អាចក្លាយជាផ្នែកមួយនៃជីវិតរបស់អ្នកម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Watch for wishing things were as they used to be. Living in the past could keep you from growing into the present.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រាថ្នាឱ្យអ្វីៗដូចពីមុន។ ការរស់នៅក្នុងអតីតកាល អាចរារាំងអ្នកពីការរីកចម្រើនក្នុងបច្ចុប្បន្ន។"
+      },
+      "outcome": {
+        "en": "Carrying the past's lessons forward, rather than its longing, could bring comfort and growth. Kindness from familiar people may support you.",
+        "km": "ការយកមេរៀនពីអតីតកាលទៅមុខ ជាជាងការនឹករលឹក អាចនាំមកនូវការលួងលោម និងការរីកចម្រើន។ សេចក្តីសប្បុរសពីមនុស្សធ្លាប់ស្គាល់ អាចគាំទ្រអ្នក។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Many possibilities and dreams are in front of you. Some are real, while others may be more hope than plan.",
+        "km": "លទ្ធភាព និងក្តីស្រមៃជាច្រើន កំពុងនៅចំពោះមុខអ្នក។ ខ្លះជាការពិត ខណៈខ្លះទៀតប្រហែលជាក្តីសង្ឃឹមច្រើនជាងគម្រោង។"
+      },
+      "challenge": {
+        "en": "Watch for wishful thinking clouding your judgement. Too many choices could make it hard to tell what is truly possible.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការគិតតាមក្តីប្រាថ្នា ដែលធ្វើឱ្យការវិនិច្ឆ័យរបស់អ្នកមិនច្បាស់។ ជម្រើសច្រើនពេក អាចធ្វើឱ្យពិបាកដឹងថាអ្វីពិតជាអាចទៅរួច។"
+      },
+      "outcome": {
+        "en": "Checking what is real and choosing one realistic option could bring clarity. Focus may turn a dream into a step you can take.",
+        "km": "ការពិនិត្យអ្វីដែលពិត ហើយជ្រើសជម្រើសជាក់ស្តែងមួយ អាចនាំមកនូវភាពច្បាស់លាស់។ ការផ្តោតអារម្មណ៍ អាចប្រែក្តីស្រមៃទៅជាជំហានដែលអ្នកអាចបោះបាន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Part of you may be ready to leave something behind. What once satisfied you may no longer feel like enough.",
+        "km": "ផ្នែកមួយនៃខ្លួនអ្នក ប្រហែលជាត្រៀមទុកអ្វីមួយចោលនៅខាងក្រោយ។ អ្វីដែលធ្លាប់ធ្វើឱ្យអ្នកពេញចិត្ត ប្រហែលលែងមានអារម្មណ៍ថាគ្រប់គ្រាន់ទៀតហើយ។"
+      },
+      "challenge": {
+        "en": "Walking away may be harder than you expect. Doubt and attachment could keep you in a situation you have already outgrown.",
+        "km": "ការដើរចេញអាចពិបាកជាងអ្វីដែលអ្នករំពឹង។ ការសង្ស័យ និងការជាប់ចិត្ត អាចរក្សាអ្នកក្នុងស្ថានភាពដែលអ្នកបានរីកចម្រើនហួសរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Trusting that you are seeking something better could lead to a more meaningful path. Leaving with care may open what you have been looking for.",
+        "km": "ការទុកចិត្តថាអ្នកកំពុងស្វែងរកអ្វីដែលល្អជាង អាចនាំទៅរកផ្លូវដែលមានអត្ថន័យជាង។ ការចាកចេញដោយយកចិត្តទុកដាក់ អាចបើកនូវអ្វីដែលអ្នកកំពុងស្វែងរក។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You may feel content, or close to a wish coming true. Life feels generous in some important way.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ពេញចិត្ត ឬជិតសម្រេចក្តីប្រាថ្នាមួយ។ ជីវិតហាក់ផ្តល់ច្រើនតាមរបៀបសំខាន់មួយ។"
+      },
+      "challenge": {
+        "en": "Watch for comfort turning into complacency. Assuming good things will simply continue could lead you to stop caring for them.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះភាពសុខស្រួលដែលប្រែទៅជាការធ្វេសប្រហែស។ ការសន្មតថាអ្វីល្អៗនឹងបន្តដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកឈប់ថែរក្សាវា។"
+      },
+      "outcome": {
+        "en": "Staying grateful and humble could help a heartfelt wish come true. Appreciation may keep good things growing.",
+        "km": "ការរក្សាការដឹងគុណ និងភាពរាបទាប អាចជួយឱ្យក្តីប្រាថ្នាពីបេះដូងក្លាយជាការពិត។ ការដឹងគុណអាចរក្សាអ្វីល្អៗឱ្យបន្តរីកចម្រើន។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Love and harmony with the people close to you are strong. Home and family may be a real source of happiness.",
+        "km": "សេចក្តីស្រឡាញ់ និងភាពសុខដុមជាមួយមនុស្សជិតស្និទ្ធ កំពុងរឹងមាំ។ ផ្ទះ និងគ្រួសារ អាចជាប្រភពនៃសុភមង្គលពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Watch for expecting everything to stay perfect. Pressure for an ideal family or life could create tension where there is already much good.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការរំពឹងឱ្យអ្វីៗល្អឥតខ្ចោះជានិច្ច។ សម្ពាធឱ្យមានគ្រួសារ ឬជីវិតដ៏ល្អឥតខ្ចោះ អាចបង្កភាពតានតឹង នៅកន្លែងដែលមានរឿងល្អច្រើនរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Enjoying what is already good, imperfections included, could bring lasting peace at home. Happiness may grow when it does not have to be flawless.",
+        "km": "ការរីករាយនឹងអ្វីដែលល្អរួចហើយ រួមទាំងភាពមិនល្អឥតខ្ចោះ អាចនាំមកនូវសន្តិភាពយូរអង្វែងនៅក្នុងផ្ទះ។ សុភមង្គលអាចរីកចម្រើន នៅពេលវាមិនចាំបាច់ល្អឥតខ្ចោះ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A gentle feeling, creative idea or kind message may be reaching you. You are sensitive to small signs right now.",
+        "km": "អារម្មណ៍ទន់ភ្លន់ គំនិតច្នៃប្រឌិត ឬសារដ៏សប្បុរសមួយ អាចកំពុងមកដល់អ្នក។ អ្នកកំពុងងាយយល់ពីសញ្ញាតូចៗនាពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Watch for taking small things too personally. Being very sensitive could make a passing comment feel like a deep wound.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការយករឿងតូចៗមកគិតជារឿងផ្ទាល់ខ្លួនពេក។ ភាពងាយរងអារម្មណ៍ខ្លាំង អាចធ្វើឱ្យពាក្យនិយាយឆ្លងកាត់មួយ មានអារម្មណ៍ដូចជារបួសជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Trusting your feelings without being ruled by them could open you to a pleasant surprise. A kind message may be closer than you think.",
+        "km": "ការទុកចិត្តលើអារម្មណ៍របស់អ្នក ដោយមិនឱ្យវាគ្រប់គ្រងអ្នក អាចបើកឱ្យអ្នកទទួលការភ្ញាក់ផ្អើលដ៏រីករាយ។ សារដ៏សប្បុរសមួយ អាចនៅជិតជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "You are following your heart towards something beautiful. Romance, art or an ideal may be drawing you forward.",
+        "km": "អ្នកកំពុងធ្វើតាមបេះដូងរបស់អ្នក ឆ្ពោះទៅរកអ្វីមួយដ៏ស្រស់ស្អាត។ មនោសញ្ចេតនា សិល្បៈ ឬឧត្តមគតិមួយ អាចកំពុងទាញអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Watch for idealism hiding practical problems. Following a beautiful picture could mean overlooking what it really requires.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះឧត្តមគតិដែលបិទបាំងបញ្ហាជាក់ស្តែង។ ការធ្វើតាមរូបភាពដ៏ស្រស់ស្អាត អាចមានន័យថាមើលរំលងអ្វីដែលវាពិតជាទាមទារ។"
+      },
+      "outcome": {
+        "en": "Keeping one foot on the ground while following your heart could lead to a sincere offer or invitation. Practical care may protect what you love.",
+        "km": "ការរក្សាជើងម្ខាងនៅលើដី ខណៈធ្វើតាមបេះដូង អាចនាំទៅរកការផ្តល់ជូន ឬការអញ្ជើញដោយស្មោះ។ ការយកចិត្តទុកដាក់ជាក់ស្តែង អាចការពារអ្វីដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your compassion and intuition are strong, and others may turn to you for comfort. You feel what people around you are going through.",
+        "km": "សេចក្តីអាណិតអាសូរ និងវិចារណញាណរបស់អ្នកខ្លាំង ហើយអ្នកដទៃប្រហែលជាងាកមករកអ្នកដើម្បីការលួងលោម។ អ្នកមានអារម្មណ៍ពីអ្វីដែលមនុស្សជុំវិញអ្នកកំពុងជួប។"
+      },
+      "challenge": {
+        "en": "Watch for absorbing other people's feelings until they weigh on you. Caring deeply without limits could drain your own energy.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការស្រូបយកអារម្មណ៍របស់អ្នកដទៃ រហូតវាធ្ងន់លើអ្នក។ ការយកចិត្តទុកដាក់ជ្រៅ ដោយគ្មានដែនកំណត់ អាចបង្ហូរថាមពលផ្ទាល់ខ្លួនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Protecting your own energy while you care for others could help everyone heal. Emotional wisdom may be strongest when you look after yourself too.",
+        "km": "ការការពារថាមពលផ្ទាល់ខ្លួន ខណៈអ្នកថែទាំអ្នកដទៃ អាចជួយឱ្យគ្រប់គ្នាជាសះស្បើយ។ ប្រាជ្ញាផ្នែកអារម្មណ៍ អាចខ្លាំងបំផុត នៅពេលអ្នកក៏ថែរក្សាខ្លួនឯងដែរ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You are handling feelings with calm and maturity. Others may see you as steady when emotions run high.",
+        "km": "អ្នកកំពុងគ្រប់គ្រងអារម្មណ៍ដោយភាពស្ងប់ និងភាពចាស់ទុំ។ អ្នកដទៃប្រហែលជាមើលឃើញអ្នកជាមនុស្សនឹងនរ នៅពេលអារម្មណ៍ឡើងខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Watch for keeping your own feelings so contained that others cannot reach you. Staying calm on the outside could create distance.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការលាក់អារម្មណ៍ផ្ទាល់ខ្លួនជ្រៅពេក រហូតអ្នកដទៃមិនអាចចូលដល់អ្នក។ ការរក្សាភាពស្ងប់នៅខាងក្រៅ អាចបង្កើតគម្លាត។"
+      },
+      "outcome": {
+        "en": "Sharing honestly while staying calm could bring peace and respect. People may feel closer when they see the person behind the composure.",
+        "km": "ការចែករំលែកដោយស្មោះ ខណៈរក្សាភាពស្ងប់ អាចនាំមកនូវសន្តិភាព និងការគោរព។ មនុស្សអាចមានអារម្មណ៍ជិតស្និទ្ធជាង នៅពេលពួកគេមើលឃើញមនុស្សពិតនៅពីក្រោយភាពស្ងប់ស្ងាត់នោះ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A clear idea or an important truth is cutting through confusion. You may be seeing something plainly for the first time.",
+        "km": "គំនិតច្បាស់លាស់ ឬការពិតសំខាន់មួយ កំពុងកាត់ផ្តាច់ការភាន់ច្រឡំ។ អ្នកប្រហែលជាកំពុងមើលឃើញអ្វីមួយយ៉ាងច្បាស់ជាលើកដំបូង។"
+      },
+      "challenge": {
+        "en": "Watch how you share that truth. Words that are accurate but sharp could hurt someone and close a conversation.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះរបៀបដែលអ្នកចែករំលែកការពិតនោះ។ ពាក្យដែលត្រឹមត្រូវ ប៉ុន្តែមុតស្រួច អាចធ្វើឱ្យនរណាម្នាក់ឈឺចាប់ ហើយបិទការសន្ទនា។"
+      },
+      "outcome": {
+        "en": "Speaking clearly and with care could lead to a real breakthrough. Understanding may grow when truth is offered kindly.",
+        "km": "ការនិយាយយ៉ាងច្បាស់ និងដោយយកចិត្តទុកដាក់ អាចនាំទៅរកការរកឃើញថ្មីពិតប្រាកដ។ ការយល់ដឹងអាចកើនឡើង នៅពេលការពិតត្រូវបានផ្តល់ដោយសេចក្តីសប្បុរស។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be caught between two options, unsure which way to go. Holding still can feel safer than choosing.",
+        "km": "អ្នកប្រហែលជាជាប់នៅចន្លោះជម្រើសពីរ ដោយមិនប្រាកដថាត្រូវទៅផ្លូវណា។ ការនៅស្ងៀមអាចមានអារម្មណ៍ថាមានសុវត្ថិភាពជាងការជ្រើសរើស។"
+      },
+      "challenge": {
+        "en": "Watch for avoiding a decision that needs to be made. Waiting without gathering facts could keep you stuck in the same place.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការជៀសវាងការសម្រេចចិត្តដែលត្រូវធ្វើ។ ការរង់ចាំដោយមិនប្រមូលការពិត អាចធ្វើឱ្យអ្នកជាប់គាំងនៅកន្លែងដដែល។"
+      },
+      "outcome": {
+        "en": "Gathering the facts and making a balanced choice could end the stalemate. Even an imperfect decision may free you to move again.",
+        "km": "ការប្រមូលការពិត និងធ្វើជម្រើសដោយមានតុល្យភាព អាចបញ្ចប់ការជាប់គាំង។ សូម្បីតែការសម្រេចចិត្តដែលមិនល្អឥតខ្ចោះ ក៏អាចដោះលែងអ្នកឱ្យដើរទៅមុខម្តងទៀតដែរ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Something may have caused sadness or disappointment. The hurt is real, even if you are trying to carry on as usual.",
+        "km": "អ្វីមួយប្រហែលជាបានបង្កភាពសោកសៅ ឬការខកចិត្ត។ ការឈឺចាប់នោះពិតប្រាកដ ទោះបីជាអ្នកកំពុងព្យាយាមបន្តដូចធម្មតាក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Watch for keeping the pain inside. Hiding how you feel could make the weight heavier and harder to set down.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកការឈឺចាប់នៅខាងក្នុង។ ការលាក់អារម្មណ៍របស់អ្នក អាចធ្វើឱ្យបន្ទុកធ្ងន់ជាងមុន និងពិបាកដាក់ចុះ។"
+      },
+      "outcome": {
+        "en": "Allowing yourself to feel, and sharing it with someone you trust, could begin your healing. Release may come after the hurt is acknowledged.",
+        "km": "ការអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ ហើយចែករំលែកវាជាមួយអ្នកដែលអ្នកទុកចិត្ត អាចចាប់ផ្តើមការជាសះស្បើយរបស់អ្នក។ ការធូរស្រាលអាចកើតឡើង បន្ទាប់ពីការឈឺចាប់ត្រូវបានទទួលស្គាល់។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may be in need of rest and quiet to recover your strength. Your mind and body could be asking for a pause.",
+        "km": "អ្នកប្រហែលជាត្រូវការការសម្រាក និងភាពស្ងប់ស្ងាត់ ដើម្បីទទួលបានកម្លាំងឡើងវិញ។ ចិត្ត និងរាងកាយរបស់អ្នក អាចកំពុងស្នើសុំការផ្អាក។"
+      },
+      "challenge": {
+        "en": "Watch for pushing on without rest. Ignoring tiredness could lead to burnout just when you need a clear head.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបន្តរុញទៅមុខដោយគ្មានការសម្រាក។ ការមិនអើពើនឹងភាពនឿយហត់ អាចនាំទៅរកការអស់កម្លាំង នៅពេលដែលអ្នកត្រូវការគំនិតច្បាស់។"
+      },
+      "outcome": {
+        "en": "Taking a real pause could restore your energy and clear your mind. Rest may help you meet what comes with more strength.",
+        "km": "ការផ្អាកពិតប្រាកដ អាចស្តារថាមពលរបស់អ្នក និងធ្វើឱ្យគំនិតច្បាស់។ ការសម្រាកអាចជួយអ្នកប្រឈមនឹងអ្វីដែលមកដល់ ដោយមានកម្លាំងច្រើនជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "A disagreement or tense situation may be around you. Someone could feel they won, while someone else feels hurt.",
+        "km": "ការខ្វែងគំនិត ឬស្ថានភាពតានតឹងមួយ អាចកំពុងនៅជុំវិញអ្នក។ នរណាម្នាក់អាចមានអារម្មណ៍ថាឈ្នះ ខណៈម្នាក់ទៀតមានអារម្មណ៍ឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "Watch for wanting to win an argument at any cost. Being right could end up costing a relationship you care about.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចង់ឈ្នះការប្រកែកដោយមិនគិតពីតម្លៃ។ ការត្រូវ អាចបញ្ចប់ដោយបាត់បង់ទំនាក់ទំនងដែលអ្នកស្រឡាញ់។"
+      },
+      "outcome": {
+        "en": "Choosing peace over pride could bring real relief. Letting a fight go may protect what matters more than the point itself.",
+        "km": "ការជ្រើសរើសសន្តិភាពជាងមោទនភាព អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។ ការលែងការប្រយុទ្ធមួយ អាចការពារអ្វីដែលសំខាន់ជាងចំណុចនោះខ្លួនឯង។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You may be moving away from a hard time towards calmer days. The transition is under way, even if it feels slow.",
+        "km": "អ្នកប្រហែលជាកំពុងចាកចេញពីពេលវេលាលំបាក ឆ្ពោះទៅរកថ្ងៃដែលស្ងប់ជាង។ ការផ្លាស់ប្តូរកំពុងដំណើរការ ទោះបីជាវាហាក់យឺតក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Leaving what is familiar may bring some sadness. Looking back too often could make the journey harder than it needs to be.",
+        "km": "ការចាកចេញពីអ្វីដែលធ្លាប់ស្គាល់ អាចនាំមកនូវភាពសោកសៅខ្លះ។ ការក្រឡេកមើលក្រោយញឹកញាប់ពេក អាចធ្វើឱ្យដំណើរពិបាកជាងអ្វីដែលចាំបាច់។"
+      },
+      "outcome": {
+        "en": "Trusting the journey while honouring what you leave could bring more peaceful days. Calmer waters may be closer than they seem.",
+        "km": "ការទុកចិត្តលើដំណើរ ខណៈគោរពអ្វីដែលអ្នកចាកចេញ អាចនាំមកនូវថ្ងៃដែលមានសន្តិភាពជាង។ ទឹកដែលស្ងប់ជាង អាចនៅជិតជាងអ្វីដែលមើលឃើញ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Careful planning and strategy matter in your situation. You may be working out how to handle something tricky.",
+        "km": "ការរៀបចំផែនការ និងយុទ្ធសាស្ត្រដោយប្រុងប្រយ័ត្ន មានសារៈសំខាន់ក្នុងស្ថានភាពរបស់អ្នក។ អ្នកប្រហែលជាកំពុងគិតរកវិធីដោះស្រាយរឿងពិបាកមួយ។"
+      },
+      "challenge": {
+        "en": "Watch for the temptation of a shortcut or a hidden agenda, yours or someone else's. What is kept quiet could later cause trouble.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការល្បួងនៃផ្លូវកាត់ ឬគោលបំណងលាក់កំបាំង ទាំងរបស់អ្នក ឬរបស់អ្នកដទៃ។ អ្វីដែលត្រូវបានលាក់ទុក អាចបង្កបញ្ហានៅពេលក្រោយ។"
+      },
+      "outcome": {
+        "en": "Planning cleverly while acting honestly could get you through. An open approach may protect you better than a secret one.",
+        "km": "ការរៀបចំផែនការដោយឆ្លាតវៃ ខណៈធ្វើសកម្មភាពដោយស្មោះត្រង់ អាចនាំអ្នកឆ្លងកាត់បាន។ វិធីដែលបើកចំហ អាចការពារអ្នកបានល្អជាងវិធីសម្ងាត់។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel restricted, as if your options are closing in. Some limits are real, but others may be fears you have not tested.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានរឹតត្បិត ហាក់ដូចជាជម្រើសរបស់អ្នកកំពុងរួមតូច។ ដែនកំណត់ខ្លះពិតប្រាកដ ប៉ុន្តែខ្លះទៀតប្រហែលជាការភ័យខ្លាចដែលអ្នកមិនទាន់បានសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Watch for believing there is no way out. Seeing only the limits could stop you from noticing the small step that is possible.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការជឿថាគ្មានផ្លូវចេញ។ ការមើលឃើញតែដែនកំណត់ អាចរារាំងអ្នកពីការកត់សម្គាល់ជំហានតូចមួយដែលអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Taking one small step could show you that you are freer than you thought. Asking for help may open a door you had not seen.",
+        "km": "ការបោះជំហានតូចមួយ អាចបង្ហាញអ្នកថាអ្នកមានសេរីភាពច្រើនជាងអ្វីដែលអ្នកគិត។ ការសុំជំនួយ អាចបើកទ្វារដែលអ្នកមិនធ្លាប់ឃើញ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worries may be weighing heavily on your mind, especially in quiet hours. Your thoughts could be running ahead to the worst case.",
+        "km": "ការព្រួយបារម្ភអាចកំពុងធ្ងន់លើចិត្តរបស់អ្នក ជាពិសេសនៅពេលស្ងាត់។ គំនិតរបស់អ្នកអាចកំពុងរត់ទៅមុខ ទៅរកករណីអាក្រក់បំផុត។"
+      },
+      "challenge": {
+        "en": "Watch for anxiety that grows when you face it alone. Fears can feel larger at night than they are in daylight.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការថប់បារម្ភ ដែលកើនឡើងនៅពេលអ្នកប្រឈមវាតែម្នាក់ឯង។ ការភ័យខ្លាចអាចមានអារម្មណ៍ធំនៅពេលយប់ ជាងនៅពេលថ្ងៃ។"
+      },
+      "outcome": {
+        "en": "Talking to someone you trust could ease your worries and help you see more clearly. If worry stays heavy, support from a professional may help too.",
+        "km": "ការនិយាយជាមួយអ្នកដែលអ្នកទុកចិត្ត អាចបន្ធូរការព្រួយបារម្ភរបស់អ្នក និងជួយឱ្យអ្នកមើលឃើញកាន់តែច្បាស់។ ប្រសិនបើការព្រួយបារម្ភនៅតែធ្ងន់ ការគាំទ្រពីអ្នកជំនាញក៏អាចជួយបានដែរ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A difficult situation may have reached its end. It can feel like the lowest point, though endings also mark where recovery begins.",
+        "km": "ស្ថានភាពលំបាកមួយ ប្រហែលជាបានឈានដល់ទីបញ្ចប់។ វាអាចមានអារម្មណ៍ដូចជាចំណុចទាបបំផុត ប៉ុន្តែការបញ្ចប់ក៏ជាសញ្ញាដែលការស្តារឡើងវិញចាប់ផ្តើមដែរ។"
+      },
+      "challenge": {
+        "en": "Watch for reliving the hurt again and again. Dwelling on what went wrong could delay the recovery that is now possible.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការរំលឹកការឈឺចាប់ម្តងហើយម្តងទៀត។ ការគិតច្រើនពីអ្វីដែលខុស អាចពន្យារការស្តារឡើងវិញដែលឥឡូវអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Accepting that this chapter is over could let a new start begin. The hardest part may already be behind you.",
+        "km": "ការទទួលយកថាដំណាក់កាលនេះបានបញ្ចប់ អាចឱ្យការចាប់ផ្តើមថ្មីកើតឡើង។ ផ្នែកដែលពិបាកបំផុត ប្រហែលជាបានកន្លងផុតទៅហើយ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Your mind is alert and curious, picking up information quickly. You may be noticing things others miss.",
+        "km": "គំនិតរបស់អ្នកភ្ញាក់រលឹក និងចង់ដឹង ដោយទទួលព័ត៌មានបានលឿន។ អ្នកប្រហែលជាកំពុងកត់សម្គាល់អ្វីដែលអ្នកដទៃមើលរំលង។"
+      },
+      "challenge": {
+        "en": "Watch for gossip or hasty words. Repeating something before checking it could cause trouble you did not intend.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការនិយាយដើមគេ ឬពាក្យប្រញាប់ប្រញាល់។ ការនិយាយតាមអ្វីមួយមុនពេលពិនិត្យ អាចបង្កបញ្ហាដែលអ្នកមិនបានចង់។"
+      },
+      "outcome": {
+        "en": "Thinking before you speak, and checking what you hear, could turn curiosity into real learning. New ideas may open fresh doors.",
+        "km": "ការគិតមុននិយាយ និងពិនិត្យអ្វីដែលអ្នកឮ អាចប្រែការចង់ដឹងទៅជាការរៀនសូត្រពិតប្រាកដ។ គំនិតថ្មីអាចបើកទ្វារថ្មី។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You are moving ahead with strong opinions and plenty of drive. Your determination can get things moving quickly.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅមុខ ដោយមានមតិមុតមាំ និងកម្លាំងចិត្តច្រើន។ ការប្តេជ្ញាចិត្តរបស់អ្នក អាចធ្វើឱ្យអ្វីៗដំណើរការបានលឿន។"
+      },
+      "challenge": {
+        "en": "Watch for speed that runs over other people's views. Rushing to act could leave someone feeling unheard.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះល្បឿនដែលរំលងទស្សនៈរបស់អ្នកដទៃ។ ការប្រញាប់ធ្វើសកម្មភាព អាចធ្វើឱ្យនរណាម្នាក់មានអារម្មណ៍ថាមិនត្រូវបានស្តាប់។"
+      },
+      "outcome": {
+        "en": "Slowing down enough to listen could make your direct action more effective. Decisive steps may bring quick results when others are on board.",
+        "km": "ការបន្ថយល្បឿនល្មមដើម្បីស្តាប់ អាចធ្វើឱ្យសកម្មភាពផ្ទាល់របស់អ្នកមានប្រសិទ្ធភាពជាង។ ជំហានម៉ឺងម៉ាត់ អាចនាំមកនូវលទ្ធផលលឿន នៅពេលអ្នកដទៃយល់ស្រប។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear judgement and honesty are guiding you. You may be seeing a situation without illusions.",
+        "km": "ការវិនិច្ឆ័យច្បាស់លាស់ និងភាពស្មោះត្រង់ កំពុងណែនាំអ្នក។ អ្នកប្រហែលជាកំពុងមើលឃើញស្ថានភាពមួយ ដោយគ្មានការបំភាន់។"
+      },
+      "challenge": {
+        "en": "Watch for coming across as cold or harsh. Truth without warmth could push away people who would otherwise support you.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការហាក់ដូចជាត្រជាក់ ឬតឹងរ៉ឹង។ ការពិតដែលគ្មានភាពកក់ក្តៅ អាចរុញច្រានមនុស្សដែលអាចគាំទ្រអ្នក។"
+      },
+      "outcome": {
+        "en": "Balancing honesty with kindness could earn you deep respect. Wise decisions may land better when they are offered gently.",
+        "km": "ការរក្សាតុល្យភាពរវាងភាពស្មោះត្រង់ និងសេចក្តីសប្បុរស អាចធ្វើឱ្យអ្នកទទួលបានការគោរពយ៉ាងជ្រាលជ្រៅ។ ការសម្រេចចិត្តដ៏ឈ្លាសវៃ អាចត្រូវបានទទួលយកល្អជាង នៅពេលវាត្រូវបានផ្តល់ដោយទន់ភ្លន់។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "You are thinking with logic and fairness, weighing things carefully. People may trust your judgement.",
+        "km": "អ្នកកំពុងគិតដោយតក្កវិជ្ជា និងយុត្តិធម៌ ដោយថ្លឹងថ្លែងអ្វីៗយ៉ាងប្រុងប្រយ័ត្ន។ មនុស្សប្រហែលជាទុកចិត្តលើការវិនិច្ឆ័យរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for leaving feelings out of a decision. A choice that is logical but cold could hurt the people it affects.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកអារម្មណ៍ចោលពីការសម្រេចចិត្ត។ ជម្រើសដែលសមហេតុផល ប៉ុន្តែត្រជាក់ អាចធ្វើឱ្យមនុស្សដែលរងផលប៉ះពាល់ឈឺចាប់។"
+      },
+      "outcome": {
+        "en": "Considering the human side alongside the facts could lead to the right result. Fair judgement may be strongest when it includes compassion.",
+        "km": "ការពិចារណាផ្នែកមនុស្សធម៌ រួមជាមួយការពិត អាចនាំទៅរកលទ្ធផលត្រឹមត្រូវ។ ការវិនិច្ឆ័យដោយយុត្តិធម៌ អាចខ្លាំងបំផុត នៅពេលវារួមបញ្ចូលសេចក្តីអាណិតអាសូរ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical new opportunity may be in front of you, such as work, study or a way to build security. It is real, but still at the very beginning.",
+        "km": "ឱកាសថ្មីជាក់ស្តែងមួយ អាចកំពុងនៅចំពោះមុខអ្នក ដូចជាការងារ ការសិក្សា ឬមធ្យោបាយកសាងសុវត្ថិភាព។ វាពិតប្រាកដ ប៉ុន្តែនៅដំណាក់កាលដំបូងបំផុត។"
+      },
+      "challenge": {
+        "en": "Watch for hesitating until the chance slips away. Waiting for perfect certainty could cost you a good start.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការស្ទាក់ស្ទើររហូតដល់ឱកាសរអិលបាត់។ ការរង់ចាំភាពប្រាកដប្រជាឥតខ្ចោះ អាចធ្វើឱ្យអ្នកបាត់ការចាប់ផ្តើមល្អ។"
+      },
+      "outcome": {
+        "en": "Taking the first practical step could turn this opening into something solid. A modest start may grow into lasting security.",
+        "km": "ការបោះជំហានជាក់ស្តែងដំបូង អាចប្រែឱកាសនេះទៅជាអ្វីដែលរឹងមាំ។ ការចាប់ផ្តើមបន្តិចបន្តួច អាចរីកធំទៅជាសុវត្ថិភាពយូរអង្វែង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You are juggling several responsibilities at once. So far you may be keeping everything moving, though it takes constant attention.",
+        "km": "អ្នកកំពុងបំពេញការទទួលខុសត្រូវច្រើនក្នុងពេលតែមួយ។ រហូតមកដល់ពេលនេះ អ្នកប្រហែលជាកំពុងរក្សាអ្វីៗឱ្យដំណើរការ ប៉ុន្តែវាត្រូវការការយកចិត្តទុកដាក់ជានិច្ច។"
+      },
+      "challenge": {
+        "en": "Watch for spreading yourself too thin. With too many things in the air, an important one could be dropped.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបែងចែកខ្លួនឯងទៅច្រើនពេក។ ពេលមានរឿងច្រើនពេកដែលត្រូវថែរក្សា រឿងសំខាន់មួយអាចត្រូវធ្លាក់ចោល។"
+      },
+      "outcome": {
+        "en": "Deciding what comes first could help you keep a flexible balance. Clear priorities may keep everything moving more smoothly.",
+        "km": "ការសម្រេចថាអ្វីត្រូវមកមុន អាចជួយអ្នករក្សាតុល្យភាពដែលអាចបត់បែនបាន។ អាទិភាពច្បាស់លាស់ អាចរក្សាអ្វីៗឱ្យដំណើរការរលូនជាងមុន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Your skills are valued, and you may be working closely with others. Shared effort is an important part of your situation.",
+        "km": "ជំនាញរបស់អ្នកត្រូវបានឱ្យតម្លៃ ហើយអ្នកប្រហែលជាកំពុងធ្វើការយ៉ាងជិតស្និទ្ធជាមួយអ្នកដទៃ។ ការខិតខំរួមគ្នា ជាផ្នែកសំខាន់មួយនៃស្ថានភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for poor communication within a group. If plans are not shared clearly, good work could be slowed or duplicated.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រាស្រ័យទាក់ទងមិនល្អក្នុងក្រុម។ ប្រសិនបើគម្រោងមិនត្រូវបានចែករំលែកឱ្យច្បាស់ ការងារល្អអាចយឺត ឬត្រួតគ្នា។"
+      },
+      "outcome": {
+        "en": "Sharing plans openly could help everyone work well together. Good teamwork may produce results none of you could reach alone.",
+        "km": "ការចែករំលែកគម្រោងដោយបើកចំហ អាចជួយឱ្យគ្រប់គ្នាធ្វើការជាមួយគ្នាបានល្អ។ ការងារជាក្រុមដ៏ល្អ អាចបង្កើតលទ្ធផលដែលគ្មាននរណាម្នាក់អាចសម្រេចបានតែម្នាក់ឯង។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be focused on protecting what you have, such as money, time or security. Caution feels safest right now.",
+        "km": "អ្នកប្រហែលជាកំពុងផ្តោតលើការការពារអ្វីដែលអ្នកមាន ដូចជាលុយកាក់ ពេលវេលា ឬសុវត្ថិភាព។ ការប្រុងប្រយ័ត្នមានអារម្មណ៍ថាមានសុវត្ថិភាពបំផុតនាពេលនេះ។"
+      },
+      "challenge": {
+        "en": "Watch for holding on so tightly that nothing new can grow. Fear of loss could close the door on a good opportunity.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការកាន់ជាប់ខ្លាំងពេក រហូតគ្មានអ្វីថ្មីអាចរីកចម្រើន។ ការខ្លាចបាត់បង់ អាចបិទទ្វារលើឱកាសល្អមួយ។"
+      },
+      "outcome": {
+        "en": "Staying careful while remaining open could bring both stability and growth. Wise saving may give you peace of mind without holding you back.",
+        "km": "ការរក្សាការប្រុងប្រយ័ត្ន ខណៈនៅតែបើកចិត្ត អាចនាំមកនូវទាំងស្ថិរភាព និងការរីកចម្រើន។ ការសន្សំដោយឈ្លាសវៃ អាចផ្តល់សេចក្តីសុខចិត្ត ដោយមិនរារាំងអ្នក។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "You may be going through a tight or difficult time, perhaps with money, health or support. It can feel lonely, even when help is nearby.",
+        "km": "អ្នកប្រហែលជាកំពុងឆ្លងកាត់ពេលវេលាតឹងតែង ឬលំបាក ប្រហែលជាទាក់ទងនឹងលុយកាក់ សុខភាព ឬការគាំទ្រ។ វាអាចមានអារម្មណ៍ឯកោ ទោះបីជាជំនួយនៅក្បែរក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Watch for pride or shame that stops you asking for help. Struggling alone could make a hard time last longer.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះមោទនភាព ឬភាពខ្មាសអៀន ដែលរារាំងអ្នកពីការសុំជំនួយ។ ការតស៊ូតែម្នាក់ឯង អាចធ្វើឱ្យពេលវេលាលំបាកស្ថិតនៅយូរជាងមុន។"
+      },
+      "outcome": {
+        "en": "Reaching out to people or services that can help could ease the strain. Support may be closer than you think, and the hard time can pass.",
+        "km": "ការទាក់ទងទៅមនុស្ស ឬសេវាកម្មដែលអាចជួយបាន អាចបន្ធូរភាពតានតឹង។ ការគាំទ្រអាចនៅជិតជាងអ្វីដែលអ្នកគិត ហើយពេលវេលាលំបាកអាចកន្លងផុតទៅ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Giving and receiving are part of your situation now. You may be helping someone, or being helped yourself.",
+        "km": "ការផ្តល់ និងការទទួល ជាផ្នែកមួយនៃស្ថានភាពរបស់អ្នកនាពេលនេះ។ អ្នកប្រហែលជាកំពុងជួយនរណាម្នាក់ ឬកំពុងត្រូវបានជួយ។"
+      },
+      "challenge": {
+        "en": "Watch for an uneven exchange that creates dependence or obligation. Help with unspoken strings could strain the relationship.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្លាស់ប្តូរមិនស្មើគ្នា ដែលបង្កើតការពឹងផ្អែក ឬកាតព្វកិច្ច។ ជំនួយដែលមានលក្ខខណ្ឌមិនបាននិយាយ អាចធ្វើឱ្យទំនាក់ទំនងតានតឹង។"
+      },
+      "outcome": {
+        "en": "Keeping exchanges fair and clear could let generosity flow both ways. Kindness given freely may return to you in good ways.",
+        "km": "ការរក្សាការផ្លាស់ប្តូរឱ្យយុត្តិធម៌ និងច្បាស់លាស់ អាចឱ្យសេចក្តីសប្បុរសហូរទៅមកទាំងសងខាង។ សេចក្តីសប្បុរសដែលផ្តល់ដោយស្ម័គ្រចិត្ត អាចត្រឡប់មករកអ្នកវិញតាមរបៀបល្អ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You have worked hard and may be waiting to see results. Progress is happening, though more slowly than you hoped.",
+        "km": "អ្នកបានខិតខំយ៉ាងខ្លាំង ហើយប្រហែលជាកំពុងរង់ចាំមើលលទ្ធផល។ ការរីកចម្រើនកំពុងកើតឡើង ប៉ុន្តែយឺតជាងអ្វីដែលអ្នកសង្ឃឹម។"
+      },
+      "challenge": {
+        "en": "Watch for impatience that tempts you to quit too early. Judging your effort only by fast results could make you abandon something that is working.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការអត់ធ្មត់មិនបាន ដែលទាក់ទាញអ្នកឱ្យបោះបង់លឿនពេក។ ការវាយតម្លៃការខិតខំតែតាមលទ្ធផលលឿន អាចធ្វើឱ្យអ្នកបោះបង់អ្វីដែលកំពុងដំណើរការ។"
+      },
+      "outcome": {
+        "en": "Reviewing, adjusting and continuing could bring a rewarding harvest. Patient effort may pay off more than starting over.",
+        "km": "ការពិនិត្យឡើងវិញ ការកែសម្រួល និងការបន្ត អាចនាំមកនូវផលដ៏មានតម្លៃ។ ការខិតខំដោយអត់ធ្មត់ អាចផ្តល់ផលច្រើនជាងការចាប់ផ្តើមឡើងវិញ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "You are putting in steady, careful work and building real skill. Each repetition is adding to your ability.",
+        "km": "អ្នកកំពុងធ្វើការដោយនឹងនរ និងប្រុងប្រយ័ត្ន ហើយកសាងជំនាញពិតប្រាកដ។ ការធ្វើម្តងហើយម្តងទៀត កំពុងបន្ថែមសមត្ថភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for boredom with routine work. Losing sight of why you started could make you cut corners or lose motivation.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធុញទ្រាន់នឹងការងារប្រចាំថ្ងៃ។ ការភ្លេចមូលហេតុដែលអ្នកចាប់ផ្តើម អាចធ្វើឱ្យអ្នកធ្វើការមិនហ្មត់ចត់ ឬបាត់កម្លាំងចិត្ត។"
+      },
+      "outcome": {
+        "en": "Remembering your purpose could keep your dedication strong. Steady practice may lead to real mastery and reward.",
+        "km": "ការចងចាំគោលបំណងរបស់អ្នក អាចរក្សាការលះបង់របស់អ្នកឱ្យរឹងមាំ។ ការអនុវត្តដោយនឹងនរ អាចនាំទៅរកជំនាញពិតប្រាកដ និងរង្វាន់។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You may be enjoying the results of your own effort, with a sense of independence. You have built something worth being proud of.",
+        "km": "អ្នកប្រហែលជាកំពុងរីករាយនឹងលទ្ធផលនៃការខិតខំផ្ទាល់ខ្លួន ជាមួយនឹងអារម្មណ៍នៃឯករាជ្យ។ អ្នកបានកសាងអ្វីមួយដែលគួរឱ្យមានមោទនភាព។"
+      },
+      "challenge": {
+        "en": "Watch for doing everything alone. Self-reliance that never lets anyone in could start to feel lonely.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើអ្វីៗទាំងអស់តែម្នាក់ឯង។ ការពឹងលើខ្លួនឯង ដោយមិនដែលអនុញ្ញាតឱ្យនរណាម្នាក់ចូលមក អាចចាប់ផ្តើមមានអារម្មណ៍ឯកោ។"
+      },
+      "outcome": {
+        "en": "Sharing your success with others could make it richer. Comfort and independence may feel fuller when they include connection.",
+        "km": "ការចែករំលែកភាពជោគជ័យជាមួយអ្នកដទៃ អាចធ្វើឱ្យវាកាន់តែមានតម្លៃ។ ភាពសុខស្រួល និងឯករាជ្យ អាចមានអារម្មណ៍ពេញលេញជាង នៅពេលវារួមបញ្ចូលទំនាក់ទំនង។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Long-term security and family ties are strong in your life. You may be thinking about what lasts beyond the present moment.",
+        "km": "សុវត្ថិភាពរយៈពេលវែង និងចំណងគ្រួសារ កំពុងរឹងមាំក្នុងជីវិតរបស់អ្នក។ អ្នកប្រហែលជាកំពុងគិតពីអ្វីដែលស្ថិតស្ថេរហួសពីពេលបច្ចុប្បន្ន។"
+      },
+      "challenge": {
+        "en": "Watch for family or traditional expectations that limit your own choices. Pleasing others could mean setting aside what you need.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការរំពឹងទុកពីគ្រួសារ ឬប្រពៃណី ដែលកំណត់ជម្រើសផ្ទាល់ខ្លួនរបស់អ្នក។ ការផ្គាប់ចិត្តអ្នកដទៃ អាចមានន័យថាទុកចោលអ្វីដែលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Respecting family while finding your own way could build stability that serves everyone. Lasting security may include room for who you are.",
+        "km": "ការគោរពគ្រួសារ ខណៈរកផ្លូវផ្ទាល់ខ្លួន អាចកសាងស្ថិរភាពដែលបម្រើគ្រប់គ្នា។ សុវត្ថិភាពយូរអង្វែង អាចរួមបញ្ចូលកន្លែងសម្រាប់អ្នកពិតប្រាកដ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You are eager to learn or start something practical. A new skill or project may be catching your interest.",
+        "km": "អ្នកចង់រៀន ឬចាប់ផ្តើមអ្វីមួយជាក់ស្តែង។ ជំនាញ ឬគម្រោងថ្មីមួយ អាចកំពុងទាក់ទាញចំណាប់អារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for keeping your plans as dreams. Without a simple routine, good intentions could stay unfinished.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកគម្រោងរបស់អ្នកត្រឹមតែជាក្តីស្រមៃ។ បើគ្មានទម្លាប់សាមញ្ញមួយ ចេតនាល្អអាចនៅតែមិនបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "Making a simple plan and practising regularly could open new opportunities. Small, steady study may lead somewhere real.",
+        "km": "ការធ្វើគម្រោងសាមញ្ញមួយ និងអនុវត្តជាប្រចាំ អាចបើកឱកាសថ្មី។ ការសិក្សាតិចៗ និងទៀងទាត់ អាចនាំទៅរកកន្លែងពិតប្រាកដ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Slow, steady effort is moving you forward. You may be someone others can rely on to keep things on track.",
+        "km": "ការខិតខំយឺតៗ និងនឹងនរ កំពុងរុញអ្នកទៅមុខ។ អ្នកប្រហែលជាមនុស្សដែលអ្នកដទៃអាចពឹងពាក់បាន ដើម្បីរក្សាអ្វីៗឱ្យដើរត្រូវផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Watch for routine turning into a rut. Doing things the same way out of habit could keep you stuck when change is needed.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះទម្លាប់ដែលប្រែទៅជាការជាប់គាំង។ ការធ្វើអ្វីៗតាមរបៀបដដែលដោយទម្លាប់ អាចធ្វើឱ្យអ្នកជាប់គាំង នៅពេលការផ្លាស់ប្តូរត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Allowing small changes within your steady routine could bring dependable progress. Reliability with a little flexibility may serve you best.",
+        "km": "ការអនុញ្ញាតឱ្យមានការផ្លាស់ប្តូរតូចៗក្នុងទម្លាប់ដ៏នឹងនររបស់អ្នក អាចនាំមកនូវការរីកចម្រើនដែលអាចពឹងពាក់បាន។ ភាពអាចទុកចិត្តបាន ជាមួយភាពបត់បែនបន្តិច អាចបម្រើអ្នកបានល្អបំផុត។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You are caring for others while keeping daily life grounded. Many people may depend on your practical warmth.",
+        "km": "អ្នកកំពុងថែទាំអ្នកដទៃ ខណៈរក្សាជីវិតប្រចាំថ្ងៃឱ្យនឹងនរ។ មនុស្សជាច្រើនអាចពឹងលើភាពកក់ក្តៅជាក់ស្តែងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for caring for everyone except yourself. Running a household or team on empty could leave you tired and resentful.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការថែទាំគ្រប់គ្នា លើកលែងតែខ្លួនឯង។ ការគ្រប់គ្រងគ្រួសារ ឬក្រុម ខណៈខ្លួនអស់កម្លាំង អាចធ្វើឱ្យអ្នកនឿយហត់ និងអាក់អន់ចិត្ត។"
+      },
+      "outcome": {
+        "en": "Looking after yourself as well as others could help a comfortable, well-supported life grow around you. Care given wisely may last longer.",
+        "km": "ការថែរក្សាខ្លួនឯង ក៏ដូចជាអ្នកដទៃ អាចជួយឱ្យជីវិតដ៏សុខស្រួល និងមានការគាំទ្រល្អ រីកចម្រើននៅជុំវិញអ្នក។ ការថែទាំដែលផ្តល់ដោយឈ្លាសវៃ អាចស្ថិតនៅយូរជាង។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You are in a strong, steady position, with resources and experience behind you. Others may see you as successful.",
+        "km": "អ្នកស្ថិតក្នុងជំហររឹងមាំ និងនឹងនរ ដោយមានធនធាន និងបទពិសោធន៍នៅពីក្រោយ។ អ្នកដទៃប្រហែលជាមើលឃើញអ្នកជាមនុស្សជោគជ័យ។"
+      },
+      "challenge": {
+        "en": "Watch for measuring life only by material success. Focusing on what you own could leave other needs, such as rest or closeness, unmet.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវាស់វែងជីវិតតែតាមភាពជោគជ័យផ្នែកសម្ភារៈ។ ការផ្តោតលើអ្វីដែលអ្នកមាន អាចធ្វើឱ្យតម្រូវការផ្សេងទៀត ដូចជាការសម្រាក ឬភាពជិតស្និទ្ធ មិនត្រូវបានបំពេញ។"
+      },
+      "outcome": {
+        "en": "Remembering what truly matters could make your success feel complete. Lasting stability may include the people and peace you value.",
+        "km": "ការចងចាំអ្វីដែលពិតជាសំខាន់ អាចធ្វើឱ្យភាពជោគជ័យរបស់អ្នកមានអារម្មណ៍ពេញលេញ។ ស្ថិរភាពយូរអង្វែង អាចរួមបញ្ចូលមនុស្ស និងសន្តិភាពដែលអ្នកឱ្យតម្លៃ។"
+      }
+    }
+  }
+}

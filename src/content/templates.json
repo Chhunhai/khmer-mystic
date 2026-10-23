@@ -234,8 +234,8 @@
   },
   "answers": {
     "obstacle": {
-      "en": "The challenge to watch most is {card2}.",
-      "km": "បញ្ហាប្រឈមដែលត្រូវប្រុងប្រយ័ត្នបំផុតគឺ {card2}។"
+      "en": "In short, the biggest challenge comes from {card2}: {challenge}",
+      "km": "និយាយឱ្យខ្លី បញ្ហាប្រឈមធំបំផុត មកពី {card2}៖ {challenge}"
     },
     "how": {
       "en": "The cards’ advice: build on {card1}, work through {card2}, and let {card3} show you what is possible.",
