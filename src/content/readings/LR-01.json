@@ -1,0 +1,1097 @@
+{
+  "questionId": "LR-01",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Love feels light, open and full of possibility. You may be ready for something new, or ready to see a familiar bond with fresh eyes.",
+        "km": "ស្នេហាហាក់ដូចជាស្រាល បើកចំហ និងពោរពេញដោយលទ្ធភាព។ អ្នកប្រហែលជាត្រៀមខ្លួនសម្រាប់អ្វីថ្មី ឬត្រៀមមើលចំណងដែលធ្លាប់ស្គាល់ដោយភ្នែកថ្មី។"
+      },
+      "challenge": {
+        "en": "Rushing into romance without getting to know someone could lead to disappointment. Enjoy the excitement, but let trust build at its own pace.",
+        "km": "ការប្រញាប់ចូលក្នុងស្នេហា ដោយមិនទាន់ស្គាល់គ្នាឱ្យបានច្បាស់ អាចនាំទៅរកការខកចិត្ត។ សូមរីករាយនឹងភាពរំភើប ប៉ុន្តែឱ្យការទុកចិត្តកើនឡើងតាមល្បឿនរបស់វា។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a playful new beginning. Being open-hearted, but not careless, could lead you to a connection that feels fresh and free.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការចាប់ផ្តើមថ្មីដ៏រីករាយ។ ការបើកចិត្ត ប៉ុន្តែមិនធ្វេសប្រហែស អាចនាំអ្នកទៅរកទំនាក់ទំនងដែលស្រស់ថ្លា និងមានសេរីភាព។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "There is a confident, magnetic energy in matters of the heart. You have what it takes to attract or rekindle love when you act with intention.",
+        "km": "មានថាមពលដ៏មានទំនុកចិត្ត និងទាក់ទាញ ក្នុងរឿងនៃចិត្ត។ អ្នកមានអ្វីដែលត្រូវការ ដើម្បីទាក់ទាញ ឬដុតក្តីស្រឡាញ់ឡើងវិញ នៅពេលអ្នកធ្វើសកម្មភាពដោយចេតនាច្បាស់។"
+      },
+      "challenge": {
+        "en": "Playing games or saying what someone wants to hear could undermine real connection. Let your words match your true intentions.",
+        "km": "ការលេងល្បិច ឬការនិយាយតែអ្វីដែលគេចង់ឮ អាចធ្វើឱ្យទំនាក់ទំនងពិតចុះខ្សោយ។ សូមឱ្យពាក្យសម្តីរបស់អ្នកស្របនឹងចេតនាពិតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a time when your efforts can make something real happen. A clear move made with sincerity could spark a meaningful connection.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកពេលដែលការខិតខំរបស់អ្នក អាចធ្វើឱ្យអ្វីមួយពិតប្រាកដកើតឡើង។ ជំហានច្បាស់លាស់ដែលធ្វើដោយស្មោះ អាចបង្កើតទំនាក់ទំនងដ៏មានអត្ថន័យ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Love has a quiet, mysterious feel, with more happening beneath the surface than is spoken. Your intuition about someone may be strong.",
+        "km": "ស្នេហាមានអារម្មណ៍ស្ងប់ស្ងាត់ និងអាថ៌កំបាំង ដោយមានអ្វីៗកើតឡើងនៅពីក្រោមច្រើនជាងអ្វីដែលបាននិយាយ។ វិចារណញាណរបស់អ្នកអំពីនរណាម្នាក់ អាចខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Unspoken feelings could create confusion on both sides. Guessing what someone feels may lead you to the wrong conclusion.",
+        "km": "អារម្មណ៍ដែលមិនបាននិយាយចេញ អាចបង្កការភាន់ច្រឡំទាំងសងខាង។ ការទាយថានរណាម្នាក់មានអារម្មណ៍យ៉ាងណា អាចនាំអ្នកទៅរកការសន្និដ្ឋានខុស។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a gentle revelation, as quiet feelings find their voice. What was sensed in silence could become something you both openly share.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការបង្ហាញដ៏ទន់ភ្លន់ ខណៈអារម្មណ៍ស្ងាត់ៗរកឃើញសំឡេងរបស់វា។ អ្វីដែលបានដឹងក្នុងភាពស្ងៀមស្ងាត់ អាចក្លាយជាអ្វីដែលអ្នកទាំងពីរចែករំលែកដោយបើកចំហ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Love feels warm, nurturing and generous. You may be giving or receiving a lot of care, and affection comes naturally.",
+        "km": "ស្នេហាហាក់ដូចជាកក់ក្តៅ ថែរក្សា និងសប្បុរស។ អ្នកប្រហែលជាកំពុងផ្តល់ ឬទទួលការថែទាំច្រើន ហើយក្តីស្រឡាញ់កើតឡើងដោយធម្មជាតិ។"
+      },
+      "challenge": {
+        "en": "Mothering a partner or giving far more than you get back could leave you drained. Love grows best when care flows both ways.",
+        "km": "ការមើលថែដៃគូដូចម្តាយ ឬការផ្តល់ច្រើនជាងអ្វីដែលអ្នកទទួលវិញ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ ស្នេហារីកចម្រើនល្អបំផុត នៅពេលការថែទាំហូរទៅមកទាំងសងខាង។"
+      },
+      "outcome": {
+        "en": "Love is moving toward deeper comfort and abundance. A relationship could blossom, or a new one could feel like coming home.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពកក់ក្តៅ និងភាពបរិបូរណ៍កាន់តែជ្រាលជ្រៅ។ ទំនាក់ទំនងមួយអាចរីកស្គុះស្គាយ ឬទំនាក់ទំនងថ្មីមួយអាចដូចជាការត្រឡប់មកផ្ទះវិញ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Love has a steady, serious tone, with commitment and structure on your mind. You may want something dependable rather than dramatic.",
+        "km": "ស្នេហាមានសម្លេងនឹងនរ និងម៉ឺងម៉ាត់ ដោយការប្តេជ្ញា និងរបៀបរៀបរយ កំពុងនៅក្នុងគំនិតរបស់អ្នក។ អ្នកប្រហែលជាចង់បានអ្វីដែលអាចពឹងបាន ជាជាងអ្វីដែលរំជើបរំជួល។"
+      },
+      "challenge": {
+        "en": "Trying to control a partner or the pace of a relationship could create distance. Security grows from trust, not rules alone.",
+        "km": "ការព្យាយាមគ្រប់គ្រងដៃគូ ឬល្បឿននៃទំនាក់ទំនង អាចបង្កើតគម្លាត។ សុវត្ថិភាពកើតចេញពីការទុកចិត្ត មិនមែនពីច្បាប់តែប៉ុណ្ណោះទេ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward stability and a clearer commitment. A relationship built on shared plans could become a safe, solid base.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកស្ថិរភាព និងការប្តេជ្ញាដែលច្បាស់លាស់ជាងមុន។ ទំនាក់ទំនងដែលកសាងលើផែនការរួមគ្នា អាចក្លាយជាមូលដ្ឋានដ៏មានសុវត្ថិភាព និងរឹងមាំ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Love is shaped by tradition, family expectations or shared values. You may be thinking about what a proper commitment looks like.",
+        "km": "ស្នេហាត្រូវបានកំណត់ដោយប្រពៃណី ការរំពឹងរបស់គ្រួសារ ឬគុណតម្លៃរួមគ្នា។ អ្នកប្រហែលជាកំពុងគិតពីអ្វីដែលការប្តេជ្ញាត្រឹមត្រូវមើលទៅដូច។"
+      },
+      "challenge": {
+        "en": "Following what others expect of your love life could leave your own heart unheard. Make sure the relationship fits who you are.",
+        "km": "ការធ្វើតាមអ្វីដែលអ្នកដទៃរំពឹងចំពោះជីវិតស្នេហារបស់អ្នក អាចធ្វើឱ្យចិត្តរបស់អ្នកមិនត្រូវបានស្តាប់។ សូមប្រាកដថាទំនាក់ទំនងនោះសមនឹងខ្លួនអ្នក។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a committed bond with shared values at its core. A relationship blessed by family or community could take shape.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកចំណងដែលមានការប្តេជ្ញា ដោយមានគុណតម្លៃរួមគ្នាជាស្នូល។ ទំនាក់ទំនងដែលទទួលបានការយល់ព្រមពីគ្រួសារ ឬសហគមន៍ អាចមានរូបរាង។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Love is strong and meaningful, with a deep pull toward one person or a heartfelt choice. Attraction and values are both in play.",
+        "km": "ស្នេហារឹងមាំ និងមានអត្ថន័យ ដោយមានកម្លាំងទាញយ៉ាងជ្រៅទៅរកមនុស្សម្នាក់ ឬជម្រើសពីចិត្ត។ ការទាក់ទាញ និងគុណតម្លៃ កំពុងដើរតួទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Being torn between two people or two paths could cause hurt on all sides. Honesty with yourself may be the first step.",
+        "km": "ការរារែករវាងមនុស្សពីរនាក់ ឬផ្លូវពីរ អាចបង្កការឈឺចាប់គ្រប់ភាគី។ ភាពស្មោះត្រង់ជាមួយខ្លួនឯង អាចជាជំហានដំបូង។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a true partnership where hearts and values align. A sincere choice could bring deep harmony.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពជាដៃគូពិតប្រាកដ ដែលចិត្ត និងគុណតម្លៃស្របគ្នា។ ជម្រើសដោយស្មោះ អាចនាំមកនូវភាពសុខដុមយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Love has momentum, and you know what you want. You may be actively pursuing a relationship or pushing one forward.",
+        "km": "ស្នេហាមានសន្ទុះ ហើយអ្នកដឹងថាអ្នកចង់បានអ្វី។ អ្នកប្រហែលជាកំពុងដេញតាមទំនាក់ទំនងមួយយ៉ាងសកម្ម ឬកំពុងរុញទំនាក់ទំនងមួយទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Pushing a relationship faster than the other person is ready could create resistance. Steer with care, not force.",
+        "km": "ការរុញទំនាក់ទំនងឱ្យលឿនជាងអ្វីដែលម្នាក់ទៀតត្រៀមខ្លួន អាចបង្កការប្រឆាំង។ សូមដឹកនាំដោយការយកចិត្តទុកដាក់ មិនមែនដោយការបង្ខំ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward progress you have worked for. A relationship could reach a new stage, or your search could bring a real result.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការរីកចម្រើនដែលអ្នកបានខិតខំ។ ទំនាក់ទំនងមួយអាចឈានដល់ដំណាក់កាលថ្មី ឬការស្វែងរករបស់អ្នក អាចនាំមកនូវលទ្ធផលពិតប្រាកដ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Love calls for patience and gentle strength. You may be handling a sensitive situation with more calm than you feel inside.",
+        "km": "ស្នេហាទាមទារការអត់ធ្មត់ និងកម្លាំងដ៏ទន់ភ្លន់។ អ្នកប្រហែលជាកំពុងដោះស្រាយស្ថានភាពដ៏រសើបមួយ ដោយភាពស្ងប់ច្រើនជាងអ្វីដែលអ្នកមានអារម្មណ៍ខាងក្នុង។"
+      },
+      "challenge": {
+        "en": "Jealousy, frustration or hurt pride could flare up if left unspoken. Soft words may do more than strong ones.",
+        "km": "ការប្រច័ណ្ឌ ការមួម៉ៅ ឬមោទនភាពដែលរងរបួស អាចផ្ទុះឡើង ប្រសិនបើមិនបាននិយាយចេញ។ ពាក្យសម្តីទន់ភ្លន់ អាចធ្វើបានច្រើនជាងពាក្យសម្តីខ្លាំងៗ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a stronger, calmer bond built on patience. Kindness under pressure could deepen trust.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកចំណងដែលរឹងមាំ និងស្ងប់ជាងមុន ដែលកសាងលើការអត់ធ្មត់។ ក្តីមេត្តាក្រោមសម្ពាធ អាចធ្វើឱ្យការទុកចិត្តកាន់តែជ្រាលជ្រៅ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Love feels quiet and inward, as if you are taking time to understand your own heart. You may be single by choice or stepping back to reflect.",
+        "km": "ស្នេហាហាក់ដូចជាស្ងប់ស្ងាត់ និងបែរចូលខាងក្នុង ហាក់ដូចជាអ្នកកំពុងចំណាយពេលស្វែងយល់ពីចិត្តរបស់ខ្លួន។ អ្នកប្រហែលជានៅលីវដោយជម្រើស ឬកំពុងដកថយដើម្បីពិចារណា។"
+      },
+      "challenge": {
+        "en": "Withdrawing too far could make you hard to reach, even for someone who cares. Solitude is healthy until it becomes a wall.",
+        "km": "ការដកខ្លួនឆ្ងាយពេក អាចធ្វើឱ្យគេពិបាកចូលដល់អ្នក សូម្បីតែនរណាម្នាក់ដែលយកចិត្តទុកដាក់។ ភាពឯកាមានប្រយោជន៍ រហូតដល់វាក្លាយជាជញ្ជាំង។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a deeper understanding of what you truly need. Self-knowledge could lead you to a more fitting relationship.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការយល់ដឹងកាន់តែជ្រាលជ្រៅអំពីអ្វីដែលអ្នកត្រូវការពិតប្រាកដ។ ការស្គាល់ខ្លួនឯង អាចនាំអ្នកទៅរកទំនាក់ទំនងដែលសមនឹងអ្នកជាងនេះ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Love is in motion, with changes and surprises in the air. A chance meeting or turn of events could shift things.",
+        "km": "ស្នេហាកំពុងមានចលនា ដោយមានការផ្លាស់ប្តូរ និងការភ្ញាក់ផ្អើលនៅគ្រប់ទីកន្លែង។ ការជួបគ្នាដោយចៃដន្យ ឬការប្រែប្រួលនៃព្រឹត្តិការណ៍ អាចផ្លាស់ប្តូរអ្វីៗ។"
+      },
+      "challenge": {
+        "en": "Waiting for fate to deliver love could leave you passive. Meet chance halfway.",
+        "km": "ការរង់ចាំឱ្យវាសនានាំស្នេហាមកឱ្យ អាចធ្វើឱ្យអ្នកអសកម្ម។ សូមជួបឱកាសពាក់កណ្តាលផ្លូវ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a lucky turn or a new cycle. Being open to the unexpected could bring a welcome change of heart.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការប្រែប្រួលដ៏សំណាង ឬវដ្តថ្មីមួយ។ ការបើកចិត្តចំពោះអ្វីដែលមិននឹកស្មានដល់ អាចនាំមកនូវការផ្លាស់ប្តូរចិត្តដែលគួរស្វាគមន៍។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Love is about balance, honesty and fairness. You may be weighing what each person gives and receives.",
+        "km": "ស្នេហាគឺនិយាយអំពីតុល្យភាព ភាពស្មោះត្រង់ និងភាពយុត្តិធម៌។ អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងថាម្នាក់ៗផ្តល់ និងទទួលអ្វីខ្លះ។"
+      },
+      "challenge": {
+        "en": "Keeping score or holding grudges could make love feel like a court case. Fairness needs forgiveness too.",
+        "km": "ការរាប់ពិន្ទុ ឬការចងគំនុំ អាចធ្វើឱ្យស្នេហាហាក់ដូចជាសំណុំរឿងក្តី។ ភាពយុត្តិធម៌ ក៏ត្រូវការការអភ័យទោសដែរ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a fairer, more honest balance. Clear agreements could make a relationship feel safe and equal.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកតុល្យភាពដែលយុត្តិធម៌ និងស្មោះត្រង់ជាងមុន។ កិច្ចព្រមព្រៀងច្បាស់លាស់ អាចធ្វើឱ្យទំនាក់ទំនងមួយមានសុវត្ថិភាព និងស្មើភាព។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Love feels suspended, as if waiting for something to change. You may be unsure where a relationship stands.",
+        "km": "ស្នេហាហាក់ដូចជាផ្អាក ហាក់ដូចជាកំពុងរង់ចាំអ្វីមួយផ្លាស់ប្តូរ។ អ្នកប្រហែលជាមិនប្រាកដថាទំនាក់ទំនងមួយស្ថិតនៅត្រង់ណា។"
+      },
+      "challenge": {
+        "en": "Sacrificing too much while waiting for someone could leave you stuck. Ask whether the wait is truly worth it.",
+        "km": "ការលះបង់ច្រើនពេក ខណៈរង់ចាំនរណាម្នាក់ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមសួរខ្លួនឯងថាការរង់ចាំនោះពិតជាសមនឹងតម្លៃឬទេ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a new perspective that could unlock a stalled situation. Seeing things differently may show you what to do.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកទស្សនៈថ្មី ដែលអាចដោះសោស្ថានភាពដែលជាប់គាំង។ ការមើលអ្វីៗខុសពីមុន អាចបង្ហាញអ្នកពីអ្វីដែលត្រូវធ្វើ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Love is going through a deep change, with something ending or transforming. An old pattern in how you love may be closing.",
+        "km": "ស្នេហាកំពុងឆ្លងកាត់ការផ្លាស់ប្តូរយ៉ាងជ្រៅ ដោយអ្វីមួយកំពុងបញ្ចប់ ឬប្រែប្រួល។ លំនាំចាស់ក្នុងរបៀបដែលអ្នកស្រឡាញ់ ប្រហែលជាកំពុងបិទ។"
+      },
+      "challenge": {
+        "en": "Holding on to a relationship that has run its course could block new love. Some endings make room for something better.",
+        "km": "ការតោងជាប់នឹងទំនាក់ទំនងដែលបានដល់ទីបញ្ចប់ អាចរារាំងស្នេហាថ្មី។ ការបញ្ចប់ខ្លះ បើកកន្លែងសម្រាប់អ្វីដែលល្អជាង។"
+      },
+      "outcome": {
+        "en": "Love is moving toward renewal after a necessary ending or transformation. A relationship could be reborn, or a new one could begin.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការកើតឡើងវិញ បន្ទាប់ពីការបញ្ចប់ ឬការប្រែប្រួលដែលចាំបាច់។ ទំនាក់ទំនងមួយអាចកើតឡើងវិញ ឬទំនាក់ទំនងថ្មីមួយអាចចាប់ផ្តើម។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Love feels calm and healing, with a gentle rhythm developing. Patience and compromise are helping things blend.",
+        "km": "ស្នេហាហាក់ដូចជាស្ងប់ និងព្យាបាលចិត្ត ដោយមានចង្វាក់ដ៏ទន់ភ្លន់កំពុងកើតឡើង។ ការអត់ធ្មត់ និងការសម្របសម្រួល កំពុងជួយឱ្យអ្វីៗចុះសម្រុងគ្នា។"
+      },
+      "challenge": {
+        "en": "Rushing intimacy or swinging between hot and cold could upset a good balance. Steady warmth works better.",
+        "km": "ការប្រញាប់ភាពស្និទ្ធស្នាល ឬការប្រែប្រួលពីក្តៅទៅត្រជាក់ អាចរំខានតុល្យភាពដ៏ល្អ។ ភាពកក់ក្តៅដ៏នឹងនរ មានប្រសិទ្ធភាពជាង។"
+      },
+      "outcome": {
+        "en": "Love is moving toward harmony and a healthy, balanced partnership. Small daily kindnesses could build something lasting.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពសុខដុម និងភាពជាដៃគូដែលល្អ និងមានតុល្យភាព។ ក្តីមេត្តាតូចៗប្រចាំថ្ងៃ អាចកសាងអ្វីមួយដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Love has an intense, possibly unhealthy pull. Strong attraction, jealousy or dependence may be clouding judgement.",
+        "km": "ស្នេហាមានកម្លាំងទាញដ៏ខ្លាំង ដែលអាចមិនល្អ។ ការទាក់ទាញខ្លាំង ការប្រច័ណ្ឌ ឬការពឹងផ្អែក អាចកំពុងធ្វើឱ្យការវិនិច្ឆ័យមិនច្បាស់។"
+      },
+      "challenge": {
+        "en": "Staying in a controlling or harmful relationship could cost you your freedom and wellbeing. If you feel unsafe, reach out to someone you trust or a support service.",
+        "km": "ការនៅក្នុងទំនាក់ទំនងដែលគ្រប់គ្រង ឬធ្វើឱ្យខូចខាត អាចធ្វើឱ្យអ្នកបាត់បង់សេរីភាព និងសុខុមាលភាព។ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព សូមទាក់ទងនរណាម្នាក់ដែលអ្នកទុកចិត្ត ឬសេវាកម្មគាំទ្រ។"
+      },
+      "outcome": {
+        "en": "Love could move toward freedom once an unhealthy pattern is faced. Choosing respect over obsession may open the door to healthier love.",
+        "km": "ស្នេហាអាចឆ្ពោះទៅរកសេរីភាព នៅពេលលំនាំដែលមិនល្អត្រូវបានប្រឈមមុខ។ ការជ្រើសរើសការគោរព ជាជាងការងប់ងល់ អាចបើកទ្វារទៅរកស្នេហាដែលល្អជាងមុន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Love is shaken, perhaps by a surprise, a revelation or a sudden change. Something you counted on may be unsettled.",
+        "km": "ស្នេហាកំពុងរង្គោះរង្គើ ប្រហែលជាដោយសារការភ្ញាក់ផ្អើល ការបង្ហាញការពិត ឬការផ្លាស់ប្តូរភ្លាមៗ។ អ្វីមួយដែលអ្នកធ្លាប់ពឹងផ្អែក អាចកំពុងមិននឹងនរ។"
+      },
+      "challenge": {
+        "en": "Trying to hold together what is clearly breaking could deepen the hurt. Sometimes truth has to come out before healing.",
+        "km": "ការព្យាយាមទប់អ្វីដែលច្បាស់ជាកំពុងបាក់បែក អាចធ្វើឱ្យការឈឺចាប់កាន់តែជ្រៅ។ ពេលខ្លះ ការពិតត្រូវតែលេចចេញ មុនការជាសះស្បើយ។"
+      },
+      "outcome": {
+        "en": "Love is moving through upheaval toward something more honest. What survives could be stronger, and what falls away may free you.",
+        "km": "ស្នេហាកំពុងឆ្លងកាត់ការរង្គោះរង្គើ ឆ្ពោះទៅរកអ្វីដែលស្មោះត្រង់ជាងមុន។ អ្វីដែលនៅរស់ អាចរឹងមាំជាងមុន ហើយអ្វីដែលធ្លាក់ចេញ អាចរំដោះអ្នក។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Love feels hopeful and healing, like light after a hard time. Your heart is opening again.",
+        "km": "ស្នេហាហាក់ដូចជាពោរពេញដោយក្តីសង្ឃឹម និងការព្យាបាល ដូចជាពន្លឺក្រោយពេលវេលាលំបាក។ ចិត្តរបស់អ្នកកំពុងបើកម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Fear of being hurt again could make you doubt something genuinely good. Trust may need time to rebuild.",
+        "km": "ការខ្លាចឈឺចាប់ម្តងទៀត អាចធ្វើឱ្យអ្នកសង្ស័យអ្វីមួយដែលល្អពិតប្រាកដ។ ការទុកចិត្ត ប្រហែលជាត្រូវការពេលដើម្បីកសាងឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward renewal and quiet joy. A gentle, sincere connection could restore your faith in love.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការកើតឡើងវិញ និងសេចក្តីរីករាយដ៏ស្ងប់ស្ងាត់។ ទំនាក់ទំនងដ៏ទន់ភ្លន់ និងស្មោះ អាចស្តារជំនឿរបស់អ្នកលើស្នេហាឡើងវិញ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Love feels uncertain and emotional, with mixed signals and hidden feelings. Your heart and your doubts may be telling different stories.",
+        "km": "ស្នេហាហាក់ដូចជាមិនប្រាកដប្រជា និងពោរពេញដោយអារម្មណ៍ ជាមួយសញ្ញាចម្រុះ និងអារម្មណ៍លាក់កំបាំង។ បេះដូង និងការសង្ស័យរបស់អ្នក ប្រហែលជាកំពុងប្រាប់រឿងខុសៗគ្នា។"
+      },
+      "challenge": {
+        "en": "Suspicion, fantasy or fear could distort how you see a partner or potential partner. Ask gently instead of filling the gaps with worry.",
+        "km": "ការសង្ស័យ ការស្រមៃ ឬការភ័យខ្លាច អាចបង្ខូចរបៀបដែលអ្នកមើលដៃគូ ឬដៃគូដែលអាចកើតមាន។ សូមសួរដោយទន់ភ្លន់ ជំនួសឱ្យការបំពេញចន្លោះដោយការព្រួយបារម្ភ។"
+      },
+      "outcome": {
+        "en": "Love is moving slowly toward clarity as the truth comes out. Honest conversation could clear the fog.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពច្បាស់លាស់បន្តិចម្តងៗ ខណៈការពិតលេចចេញមក។ ការសន្ទនាដោយស្មោះត្រង់ អាចកម្ចាត់អ័ព្ទ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Love is bright, warm and joyful. Affection flows easily, and you may feel truly seen.",
+        "km": "ស្នេហាភ្លឺស្វាង កក់ក្តៅ និងរីករាយ។ ក្តីស្រឡាញ់ហូរយ៉ាងងាយ ហើយអ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានគេមើលឃើញពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Taking happiness for granted could let small problems slip by unnoticed. Keep tending the relationship even when it feels easy.",
+        "km": "ការចាត់ទុកសុភមង្គលថាជារឿងធម្មតា អាចធ្វើឱ្យបញ្ហាតូចៗរំលងដោយមិនបានកត់សម្គាល់។ សូមបន្តថែរក្សាទំនាក់ទំនង ទោះបីវាហាក់ដូចជាងាយស្រួលក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward happiness, openness and celebration. A relationship could flourish, or a joyful new connection could appear.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកសុភមង្គល ការបើកចំហ និងការអបអរ។ ទំនាក់ទំនងមួយអាចរីកចម្រើន ឬទំនាក់ទំនងថ្មីដ៏រីករាយមួយអាចលេចឡើង។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Love is at a point of honest review, where past choices and lessons are surfacing. Something may be calling for a second chance or a fresh start.",
+        "km": "ស្នេហាកំពុងស្ថិតនៅចំណុចនៃការពិនិត្យដោយស្មោះត្រង់ ដែលជម្រើស និងមេរៀនពីមុនកំពុងលេចឡើង។ អ្វីមួយប្រហែលជាកំពុងហៅរកឱកាសទីពីរ ឬការចាប់ផ្តើមថ្មី។"
+      },
+      "challenge": {
+        "en": "Judging yourself or a partner harshly for the past could block forgiveness. Learn from it without punishing.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯង ឬដៃគូយ៉ាងតឹងរ៉ឹងចំពោះអតីតកាល អាចរារាំងការអភ័យទោស។ សូមរៀនពីវា ដោយមិនដាក់ទោស។"
+      },
+      "outcome": {
+        "en": "Love is moving toward renewal through forgiveness and clear decisions. A relationship could get a true second chance.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការកើតឡើងវិញ តាមរយៈការអភ័យទោស និងការសម្រេចចិត្តច្បាស់លាស់។ ទំនាក់ទំនងមួយ អាចទទួលបានឱកាសទីពីរពិតប្រាកដ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Love feels complete and fulfilling, as if a cycle is coming together. You may feel at peace with where you are.",
+        "km": "ស្នេហាហាក់ដូចជាពេញលេញ និងគួរឱ្យពេញចិត្ត ហាក់ដូចជាវដ្តមួយកំពុងរួមគ្នា។ អ្នកប្រហែលជាមានអារម្មណ៍ស្ងប់ចិត្តជាមួយកន្លែងដែលអ្នកនៅ។"
+      },
+      "challenge": {
+        "en": "Avoiding the final step, such as a commitment or a closure, could leave things unfinished. Complete what needs completing.",
+        "km": "ការគេចពីជំហានចុងក្រោយ ដូចជាការប្តេជ្ញា ឬការបិទបញ្ចប់ អាចទុកអ្វីៗឱ្យមិនទាន់ចប់។ សូមបញ្ចប់អ្វីដែលត្រូវបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "Love is moving toward fulfilment and a new chapter together, or a satisfying close. A milestone could be within reach.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការសម្រេចបាន និងជំពូកថ្មីជាមួយគ្នា ឬការបិទបញ្ចប់ដ៏គួរឱ្យពេញចិត្ត។ ព្រឹត្តិការណ៍សំខាន់មួយ អាចនៅក្បែរដៃ។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Love has a spark of fresh attraction and excitement. New chemistry may be stirring.",
+        "km": "ស្នេហាមានផ្កាភ្លើងនៃការទាក់ទាញ និងភាពរំភើបថ្មី។ គីមីសាស្ត្រថ្មីប្រហែលជាកំពុងរំជួល។"
+      },
+      "challenge": {
+        "en": "Mistaking a passing spark for lasting love could lead to disappointment. Let the flame show whether it can last.",
+        "km": "ការច្រឡំផ្កាភ្លើងបណ្តោះអាសន្នថាជាស្នេហាយូរអង្វែង អាចនាំទៅរកការខកចិត្ត។ សូមឱ្យអណ្តាតភ្លើងបង្ហាញថាវាអាចស្ថិតស្ថេរឬទេ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a passionate new beginning. Acting on attraction with honesty could light something real.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការចាប់ផ្តើមថ្មីដ៏ពោរពេញដោយចំណង់។ ការធ្វើតាមការទាក់ទាញដោយស្មោះត្រង់ អាចបំភ្លឺអ្វីមួយពិតប្រាកដ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Love is at a planning stage, with questions about where to go next. You may be weighing staying put against something new.",
+        "km": "ស្នេហាកំពុងស្ថិតនៅដំណាក់កាលរៀបផែនការ ដោយមានសំណួរអំពីទិសដែលត្រូវទៅបន្ទាប់។ អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងរវាងការនៅដដែល និងអ្វីថ្មី។"
+      },
+      "challenge": {
+        "en": "Overthinking the future of a relationship could stop you from enjoying it. Plans matter, but so does the present moment.",
+        "km": "ការគិតច្រើនពេកអំពីអនាគតនៃទំនាក់ទំនង អាចរារាំងអ្នកពីការរីករាយនឹងវា។ ផែនការមានសារៈសំខាន់ ប៉ុន្តែពេលវេលាបច្ចុប្បន្នក៏សំខាន់ដែរ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward wider horizons, perhaps a shared plan or a long-distance connection. A bold choice could expand your world.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកជើងមេឃកាន់តែទូលាយ ប្រហែលជាផែនការរួមគ្នា ឬទំនាក់ទំនងពីចម្ងាយ។ ជម្រើសដ៏ក្លាហាន អាចពង្រីកពិភពរបស់អ្នក។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Love is reaching outward, with feelings or hopes looking to the future. Something you started may be growing.",
+        "km": "ស្នេហាកំពុងលាតសន្ធឹងទៅខាងក្រៅ ដោយអារម្មណ៍ ឬក្តីសង្ឃឹមសម្លឹងទៅអនាគត។ អ្វីមួយដែលអ្នកបានចាប់ផ្តើម ប្រហែលជាកំពុងរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Waiting for someone to make the next move could leave things in limbo. Reach out if you are hoping for more.",
+        "km": "ការរង់ចាំឱ្យនរណាម្នាក់បោះជំហានបន្ទាប់ អាចទុកអ្វីៗឱ្យនៅដដែល។ សូមទាក់ទងទៅ ប្រសិនបើអ្នកសង្ឃឹមចង់បានច្រើនជាងនេះ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward growth and new possibilities, perhaps through travel or someone from afar. Patience could let a bond expand.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការរីកចម្រើន និងលទ្ធភាពថ្មីៗ ប្រហែលជាតាមរយៈការធ្វើដំណើរ ឬនរណាម្នាក់មកពីឆ្ងាយ។ ការអត់ធ្មត់ អាចឱ្យចំណងមួយរីកធំ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Love feels happy and settled, with reasons to celebrate. Home and togetherness are strong themes.",
+        "km": "ស្នេហាហាក់ដូចជារីករាយ និងស្ងប់សុខ ជាមួយហេតុផលដើម្បីអបអរ។ ផ្ទះ និងការនៅជាមួយគ្នា គឺជាប្រធានបទដ៏សំខាន់។"
+      },
+      "challenge": {
+        "en": "Settling into routine could make you forget to celebrate each other. Mark the good moments.",
+        "km": "ការស្ងប់ទៅក្នុងទម្លាប់ អាចធ្វើឱ្យអ្នកភ្លេចអបអរគ្នាទៅវិញទៅមក។ សូមកត់សម្គាល់ពេលវេលាល្អៗ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a joyful milestone, such as moving in together, an engagement or a shared celebration. Togetherness could deepen.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកព្រឹត្តិការណ៍សំខាន់ដ៏រីករាយ ដូចជាការរស់នៅជាមួយគ្នា ការភ្ជាប់ពាក្យ ឬការអបអររួមគ្នា។ ការនៅជាមួយគ្នា អាចកាន់តែជ្រាលជ្រៅ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Love has some friction, with disagreements or competing wants. There may also be rivals or mixed signals.",
+        "km": "ស្នេហាមានការប៉ះទង្គិចខ្លះ ជាមួយការខ្វែងគំនិត ឬបំណងដែលប្រជែងគ្នា។ ប្រហែលជាមានគូប្រជែង ឬសញ្ញាចម្រុះផងដែរ។"
+      },
+      "challenge": {
+        "en": "Small arguments could grow into a pattern if they are never resolved. Fight fair, and choose what is worth fighting about.",
+        "km": "ការប្រកែកតូចៗ អាចក្លាយជាលំនាំ ប្រសិនបើមិនដែលត្រូវបានដោះស្រាយ។ សូមប្រកែកដោយយុត្តិធម៌ ហើយជ្រើសរើសអ្វីដែលសមនឹងប្រកែក។"
+      },
+      "outcome": {
+        "en": "Love could move toward clearer understanding once friction is talked through. Healthy disagreement may even bring you closer.",
+        "km": "ស្នេហាអាចឆ្ពោះទៅរកការយល់ដឹងកាន់តែច្បាស់ នៅពេលការប៉ះទង្គិចត្រូវបានពិភាក្សា។ ការខ្វែងគំនិតដ៏ល្អ ថែមទាំងអាចធ្វើឱ្យអ្នកកាន់តែស្និទ្ធស្នាល។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Love has a confident, proud glow, as if things are going your way. You may feel admired or chosen.",
+        "km": "ស្នេហាមានរស្មីនៃទំនុកចិត្ត និងមោទនភាព ហាក់ដូចជាអ្វីៗកំពុងដើរតាមចិត្តអ្នក។ អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានគេកោតសរសើរ ឬជ្រើសរើស។"
+      },
+      "challenge": {
+        "en": "Needing constant reassurance or admiration could put strain on a relationship. Love is not a prize to be won.",
+        "km": "ការត្រូវការការធានា ឬការកោតសរសើរជានិច្ច អាចបង្កភាពតានតឹងលើទំនាក់ទំនង។ ស្នេហាមិនមែនជារង្វាន់ដែលត្រូវឈ្នះទេ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward success and public happiness, perhaps a relationship becoming official. Pride in each other could grow.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពជោគជ័យ និងសុភមង្គលដែលគេមើលឃើញ ប្រហែលជាទំនាក់ទំនងមួយក្លាយជាផ្លូវការ។ មោទនភាពចំពោះគ្នាទៅវិញទៅមក អាចកើនឡើង។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Love requires you to stand up for what you want. You may be protecting a relationship or your own boundaries.",
+        "km": "ស្នេហាតម្រូវឱ្យអ្នកក្រោកឈរសម្រាប់អ្វីដែលអ្នកចង់បាន។ អ្នកប្រហែលជាកំពុងការពារទំនាក់ទំនងមួយ ឬដែនកំណត់របស់ខ្លួន។"
+      },
+      "challenge": {
+        "en": "Always being on the defensive could make your partner feel like an opponent. Lower your guard where it is safe to do so.",
+        "km": "ការការពារខ្លួនជានិច្ច អាចធ្វើឱ្យដៃគូរបស់អ្នកមានអារម្មណ៍ដូចជាគូប្រកួត។ សូមបន្ថយការការពារខ្លួន នៅកន្លែងដែលមានសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a stronger position where your needs are respected. Standing firm with kindness could earn lasting respect.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកជំហរដែលរឹងមាំជាងមុន ដែលតម្រូវការរបស់អ្នកត្រូវបានគោរព។ ការឈររឹងមាំដោយក្តីមេត្តា អាចទទួលបានការគោរពយូរអង្វែង។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Love is moving fast, with messages, flirting or quick developments. Things may be heating up.",
+        "km": "ស្នេហាកំពុងដើរលឿន ជាមួយសារ ការចែចង់ ឬការវិវឌ្ឍរហ័ស។ អ្វីៗប្រហែលជាកំពុងក្តៅឡើង។"
+      },
+      "challenge": {
+        "en": "Moving too fast could skip the getting-to-know-you stage that builds trust. Enjoy the speed, but stay grounded.",
+        "km": "ការដើរលឿនពេក អាចរំលងដំណាក់កាលស្គាល់គ្នា ដែលកសាងការទុកចិត្ត។ សូមរីករាយនឹងល្បឿន ប៉ុន្តែរក្សាជើងឱ្យនៅលើដី។"
+      },
+      "outcome": {
+        "en": "Love is moving quickly toward exciting news or a swift connection. Things could come together faster than expected.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកដំណឹងដ៏គួរឱ្យរំភើប ឬការភ្ជាប់ទំនាក់ទំនងយ៉ាងរហ័ស។ អ្វីៗអាចរួមគ្នាលឿនជាងការរំពឹងទុក។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Love feels tiring, as if you have been through a lot. You may be guarded after past hurts.",
+        "km": "ស្នេហាហាក់ដូចជានឿយហត់ ហាក់ដូចជាអ្នកបានឆ្លងកាត់រឿងជាច្រើន។ អ្នកប្រហែលជាប្រុងប្រយ័ត្នខ្លាំង បន្ទាប់ពីរបួសចិត្តពីមុន។"
+      },
+      "challenge": {
+        "en": "Keeping your walls up too long could stop good love from reaching you. Not everyone will hurt you the same way.",
+        "km": "ការរក្សាជញ្ជាំងរបស់អ្នកឱ្យខ្ពស់យូរពេក អាចរារាំងស្នេហាល្អមិនឱ្យមកដល់អ្នក។ មិនមែនគ្រប់គ្នានឹងធ្វើឱ្យអ្នកឈឺចាប់តាមរបៀបដូចគ្នានោះទេ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward rest and recovery after a long struggle. Trust could slowly return when you feel safe.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការសម្រាក និងការស្តារឡើងវិញ បន្ទាប់ពីការតស៊ូដ៏យូរ។ ការទុកចិត្តអាចត្រឡប់មកវិញបន្តិចម្តងៗ នៅពេលអ្នកមានអារម្មណ៍សុវត្ថិភាព។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Love feels heavy, with too much responsibility on your shoulders. You may be carrying more than your share.",
+        "km": "ស្នេហាហាក់ដូចជាធ្ងន់ ដោយមានការទទួលខុសត្រូវច្រើនពេកលើស្មារបស់អ្នក។ អ្នកប្រហែលជាកំពុងលីសែងច្រើនជាងចំណែករបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Doing all the emotional work alone could wear you down. A relationship should be shared effort.",
+        "km": "ការធ្វើការងារផ្នែកអារម្មណ៍ទាំងអស់តែម្នាក់ឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ ទំនាក់ទំនងគួរតែជាការខិតខំរួមគ្នា។"
+      },
+      "outcome": {
+        "en": "Love could move toward relief once responsibilities are shared more fairly. A lighter heart may make room for joy again.",
+        "km": "ស្នេហាអាចឆ្ពោះទៅរកការធូរស្រាល នៅពេលការទទួលខុសត្រូវត្រូវបានចែករំលែកដោយយុត្តិធម៌ជាងមុន។ ចិត្តដែលស្រាលជាងមុន អាចទុកកន្លែងឱ្យសេចក្តីរីករាយត្រឡប់មកវិញ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Love has a playful, curious energy, with flirting or new interest in the air. You may feel young at heart.",
+        "km": "ស្នេហាមានថាមពលនៃការលេងសើច និងចង់ដឹង ជាមួយការចែចង់ ឬចំណាប់អារម្មណ៍ថ្មីនៅគ្រប់ទីកន្លែង។ អ្នកប្រហែលជាមានអារម្មណ៍ក្មេងក្នុងចិត្ត។"
+      },
+      "challenge": {
+        "en": "Treating love only as a game could keep things shallow. Curiosity is fun, but depth takes commitment.",
+        "km": "ការចាត់ទុកស្នេហាគ្រាន់តែជាល្បែង អាចធ្វើឱ្យអ្វីៗរាក់។ ចិត្តចង់ដឹងគឺសប្បាយ ប៉ុន្តែភាពជ្រាលជ្រៅត្រូវការការប្តេជ្ញា។"
+      },
+      "outcome": {
+        "en": "Love is moving toward exciting news or a fun new connection. Staying curious and open could lead to something sweet.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកដំណឹងដ៏គួរឱ្យរំភើប ឬទំនាក់ទំនងថ្មីដ៏សប្បាយ។ ការរក្សាចិត្តចង់ដឹង និងបើកចំហ អាចនាំទៅរកអ្វីមួយដ៏ផ្អែមល្ហែម។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Love has passion and urgency, with strong attraction and a desire to act. Things may be moving boldly.",
+        "km": "ស្នេហាមានចំណង់ និងភាពបន្ទាន់ ជាមួយការទាក់ទាញខ្លាំង និងបំណងចង់ធ្វើសកម្មភាព។ អ្វីៗប្រហែលជាកំពុងដើរយ៉ាងក្លាហាន។"
+      },
+      "challenge": {
+        "en": "Impulsive romance could burn bright and fade fast. Make sure there is more than chemistry.",
+        "km": "ស្នេហាតាមចិត្តភ្លាមៗ អាចឆេះភ្លឺ ហើយរលត់លឿន។ សូមប្រាកដថាមានអ្វីច្រើនជាងគីមីសាស្ត្រ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward adventure and bold romantic gestures. A passionate connection could sweep you forward.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកដំណើរផ្សងព្រេង និងកាយវិការស្នេហាដ៏ក្លាហាន។ ទំនាក់ទំនងដ៏ពោរពេញដោយចំណង់ អាចនាំអ្នកទៅមុខ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Love feels warm, confident and attractive. You are drawing attention simply by being yourself.",
+        "km": "ស្នេហាហាក់ដូចជាកក់ក្តៅ មានទំនុកចិត្ត និងទាក់ទាញ។ អ្នកកំពុងទាក់ទាញការចាប់អារម្មណ៍ គ្រាន់តែដោយការធ្វើជាខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Giving all your warmth away could leave little for yourself. A confident heart still needs care.",
+        "km": "ការផ្តល់ភាពកក់ក្តៅទាំងអស់ឱ្យអ្នកដទៃ អាចទុកតិចតួចសម្រាប់ខ្លួនឯង។ ចិត្តដែលមានទំនុកចិត្ត នៅតែត្រូវការការថែទាំ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a joyful, self-assured connection. Your warmth and confidence could attract the right person or deepen a bond.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកទំនាក់ទំនងដ៏រីករាយ និងមានទំនុកចិត្ត។ ភាពកក់ក្តៅ និងទំនុកចិត្តរបស់អ្នក អាចទាក់ទាញមនុស្សត្រឹមត្រូវ ឬធ្វើឱ្យចំណងកាន់តែជ្រាលជ្រៅ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Love is shaped by vision and leadership. You may know exactly what you want in a partner and life together.",
+        "km": "ស្នេហាត្រូវបានកំណត់ដោយចក្ខុវិស័យ និងភាពជាអ្នកដឹកនាំ។ អ្នកប្រហែលជាដឹងច្បាស់ថាអ្នកចង់បានអ្វីក្នុងដៃគូ និងជីវិតរួមគ្នា។"
+      },
+      "challenge": {
+        "en": "Expecting a partner to fit your plan exactly could cause friction. Leave room for their dreams too.",
+        "km": "ការរំពឹងឱ្យដៃគូសមនឹងផែនការរបស់អ្នកទាំងស្រុង អាចបង្កការប៉ះទង្គិច។ សូមទុកកន្លែងសម្រាប់ក្តីស្រមៃរបស់ពួកគេផងដែរ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a strong partnership built on shared goals. Together you could create something you are both proud of.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពជាដៃគូដ៏រឹងមាំ ដែលកសាងលើគោលដៅរួមគ្នា។ ជាមួយគ្នា អ្នកអាចបង្កើតអ្វីមួយដែលអ្នកទាំងពីរមានមោទនភាព។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Love is overflowing with new feeling, tenderness and possibility. Your heart is wide open.",
+        "km": "ស្នេហាកំពុងហូរហៀរដោយអារម្មណ៍ថ្មី ភាពទន់ភ្លន់ និងលទ្ធភាព។ ចិត្តរបស់អ្នកកំពុងបើកចំហយ៉ាងទូលាយ។"
+      },
+      "challenge": {
+        "en": "Holding back your feelings out of fear could keep a beautiful beginning from growing. Let yourself feel it.",
+        "km": "ការទប់អារម្មណ៍របស់អ្នកដោយសារការភ័យខ្លាច អាចរារាំងការចាប់ផ្តើមដ៏ស្រស់ស្អាតមិនឱ្យរីកចម្រើន។ សូមអនុញ្ញាតឱ្យខ្លួនមានអារម្មណ៍វា។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a heartfelt new beginning. New romance, or renewed tenderness in a relationship, could fill your heart.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការចាប់ផ្តើមថ្មីដែលចេញពីចិត្ត។ ស្នេហាថ្មី ឬភាពទន់ភ្លន់ដែលកើតឡើងវិញក្នុងទំនាក់ទំនង អាចបំពេញចិត្តរបស់អ្នក។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Love is mutual and close, with a strong bond between two people. Attraction and understanding meet.",
+        "km": "ស្នេហាគឺទៅវិញទៅមក និងស្និទ្ធស្នាល ជាមួយចំណងដ៏រឹងមាំរវាងមនុស្សពីរនាក់។ ការទាក់ទាញ និងការយល់ចិត្តជួបគ្នា។"
+      },
+      "challenge": {
+        "en": "Small imbalances left unspoken could chip away at closeness. Keep talking about what each of you needs.",
+        "km": "ភាពមិនស្មើគ្នាតូចៗដែលមិនបាននិយាយ អាចធ្វើឱ្យភាពស្និទ្ធស្នាលរលួយបន្តិចម្តងៗ។ សូមបន្តនិយាយអំពីអ្វីដែលម្នាក់ៗត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a deeper partnership or a meaningful new union. Mutual respect could make it last.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពជាដៃគូកាន់តែជ្រាលជ្រៅ ឬការរួមរស់ថ្មីដ៏មានអត្ថន័យ។ ការគោរពគ្នាទៅវិញទៅមក អាចធ្វើឱ្យវាស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Love feels social and fun, with friends, gatherings and celebration around you. Romance may grow from friendship.",
+        "km": "ស្នេហាហាក់ដូចជាសង្គម និងសប្បាយ ជាមួយមិត្តភក្តិ ការជួបជុំ និងការអបអរនៅជុំវិញអ្នក។ ស្នេហាអាចរីកចេញពីមិត្តភាព។"
+      },
+      "challenge": {
+        "en": "Too many people involved in your love life could cause confusion or gossip. Keep some things private.",
+        "km": "មនុស្សច្រើនពេកពាក់ព័ន្ធក្នុងជីវិតស្នេហារបស់អ្នក អាចបង្កការភាន់ច្រឡំ ឬការនិយាយដើម។ សូមរក្សារឿងខ្លះជាឯកជន។"
+      },
+      "outcome": {
+        "en": "Love is moving toward joyful celebration and supportive friendships. A happy gathering could bring someone special into view.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការអបអរដ៏រីករាយ និងមិត្តភាពដែលគាំទ្រ។ ការជួបជុំដ៏រីករាយមួយ អាចនាំនរណាម្នាក់ពិសេសឱ្យលេចមក។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Love feels flat or unexciting, as if something is missing. You may be uninterested in what is on offer.",
+        "km": "ស្នេហាហាក់ដូចជាគ្មានរសជាតិ ឬមិនគួរឱ្យរំភើប ហាក់ដូចជាមានអ្វីមួយខ្វះខាត។ អ្នកប្រហែលជាមិនសូវចាប់អារម្មណ៍នឹងអ្វីដែលគេផ្តល់ឱ្យ។"
+      },
+      "challenge": {
+        "en": "Dismissing someone too quickly could mean missing a good match. Look again before you say no.",
+        "km": "ការច្រានចោលនរណាម្នាក់លឿនពេក អាចមានន័យថាខកខានគូដ៏សមរម្យមួយ។ សូមមើលម្តងទៀត មុននឹងបដិសេធ។"
+      },
+      "outcome": {
+        "en": "Love could warm up again once you stop measuring it against what is missing. A kindness you once overlooked may start to matter.",
+        "km": "ស្នេហាអាចកក់ក្តៅឡើងវិញ នៅពេលអ្នកឈប់វាស់វាជាមួយអ្វីដែលខ្វះខាត។ ចិត្តល្អមួយដែលអ្នកធ្លាប់មើលរំលង អាចចាប់ផ្តើមមានន័យ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Love feels sad or disappointing, perhaps after a loss or breakup. Regret may be close to the surface.",
+        "km": "ស្នេហាហាក់ដូចជាសោកសៅ ឬគួរឱ្យខកចិត្ត ប្រហែលជាបន្ទាប់ពីការបាត់បង់ ឬការបែកគ្នា។ ការសោកស្តាយ ប្រហែលជានៅតែដក់ក្នុងចិត្ត។"
+      },
+      "challenge": {
+        "en": "Dwelling on what went wrong could stop you from seeing who is still there for you. Not all love is lost.",
+        "km": "ការគិតច្រើនពីអ្វីដែលខុស អាចរារាំងអ្នកពីការមើលឃើញអ្នកដែលនៅតែនៅជាមួយអ្នក។ មិនមែនស្នេហាទាំងអស់បានបាត់បង់នោះទេ។"
+      },
+      "outcome": {
+        "en": "Love is moving slowly toward healing and acceptance. Turning toward what remains could open your heart again.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការជាសះស្បើយ និងការទទួលយកបន្តិចម្តងៗ។ ការងាកទៅរកអ្វីដែលនៅសល់ អាចបើកចិត្តរបស់អ្នកម្តងទៀត។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Love feels nostalgic and tender, with old memories or a past love on your mind. Familiar comfort is appealing.",
+        "km": "ស្នេហាហាក់ដូចជានឹករលឹក និងទន់ភ្លន់ ដោយមានអនុស្សាវរីយ៍ចាស់ ឬស្នេហាពីមុននៅក្នុងគំនិតរបស់អ្នក។ ភាពកក់ក្តៅដែលធ្លាប់ស្គាល់គឺទាក់ទាញ។"
+      },
+      "challenge": {
+        "en": "Idealising a past love could make it hard to see a present one clearly. The past may look sweeter than it was.",
+        "km": "ការមើលស្នេហាពីមុនថាល្អឥតខ្ចោះ អាចធ្វើឱ្យពិបាកមើលឃើញស្នេហាបច្ចុប្បន្នឱ្យបានច្បាស់។ អតីតកាលអាចមើលទៅផ្អែមជាងការពិត។"
+      },
+      "outcome": {
+        "en": "Love is moving toward gentle comfort, perhaps a reunion or a sweet, innocent connection. Kindness could be the foundation.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពកក់ក្តៅដ៏ទន់ភ្លន់ ប្រហែលជាការជួបគ្នាឡើងវិញ ឬទំនាក់ទំនងដ៏ផ្អែមល្ហែម និងបរិសុទ្ធ។ ក្តីមេត្តាអាចជាមូលដ្ឋាន។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Love feels dreamy and uncertain, with many possibilities or fantasies. You may be drawn to several hopes at once.",
+        "km": "ស្នេហាហាក់ដូចជាស្រមៃ និងមិនប្រាកដប្រជា ជាមួយលទ្ធភាព ឬការស្រមៃជាច្រើន។ អ្នកប្រហែលជាត្រូវបានទាក់ទាញដោយក្តីសង្ឃឹមច្រើនក្នុងពេលតែមួយ។"
+      },
+      "challenge": {
+        "en": "Falling for an image rather than a real person could lead to disappointment. Get to know who someone truly is.",
+        "km": "ការលង់ស្នេហានឹងរូបភាព ជាជាងមនុស្សពិត អាចនាំទៅរកការខកចិត្ត។ សូមស្វែងយល់ថានរណាម្នាក់ពិតជាមនុស្សបែបណា។"
+      },
+      "outcome": {
+        "en": "Love is moving toward clarity once you choose based on reality. A grounded choice could turn a dream into a real relationship.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពច្បាស់លាស់ នៅពេលអ្នកជ្រើសរើសដោយផ្អែកលើការពិត។ ជម្រើសដែលមានមូលដ្ឋាន អាចប្រែក្តីស្រមៃឱ្យទៅជាទំនាក់ទំនងពិតប្រាកដ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Love feels unfulfilling, and part of you may want to walk away. Something deeper is calling you.",
+        "km": "ស្នេហាហាក់ដូចជាមិនបំពេញចិត្ត ហើយផ្នែកមួយនៃខ្លួនអ្នកប្រហែលជាចង់ដើរចេញ។ អ្វីមួយដែលជ្រៅជាងនេះ កំពុងហៅអ្នក។"
+      },
+      "challenge": {
+        "en": "Staying in something empty out of fear could cost you a more meaningful love. Be honest about what you need.",
+        "km": "ការនៅក្នុងអ្វីដែលទទេ ដោយសារការភ័យខ្លាច អាចធ្វើឱ្យអ្នកបាត់ស្នេហាដែលមានអត្ថន័យជាងនេះ។ សូមស្មោះត្រង់អំពីអ្វីដែលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward deeper connection, even if an old attachment has to be released first. The bond you truly long for could take shape.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកទំនាក់ទំនងដ៏ជ្រៅជាងមុន ទោះបីត្រូវដោះលែងការជាប់ចិត្តចាស់ជាមុនសិនក៏ដោយ។ ចំណងដែលអ្នកពិតជាប្រាថ្នា អាចចាប់ផ្តើមមានរូបរាង។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Love feels satisfying and content, as if a wish is coming true. You may feel lucky in love.",
+        "km": "ស្នេហាហាក់ដូចជាគួរឱ្យពេញចិត្ត ហាក់ដូចជាក្តីប្រាថ្នាមួយកំពុងក្លាយជាការពិត។ អ្នកប្រហែលជាមានអារម្មណ៍ថាមានសំណាងក្នុងស្នេហា។"
+      },
+      "challenge": {
+        "en": "Complacency could let a good relationship drift without either of you noticing. Keep showing appreciation in small, sincere ways.",
+        "km": "ការធ្វេសប្រហែស អាចធ្វើឱ្យទំនាក់ទំនងល្អរសាត់ចេញ ដោយគ្មាននរណាម្នាក់កត់សម្គាល់។ សូមបន្តបង្ហាញការដឹងគុណ តាមរបៀបតូចៗ និងស្មោះស។"
+      },
+      "outcome": {
+        "en": "Love is moving toward fulfilment and a wish granted. Happiness in love could feel well deserved.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការសម្រេចបាន និងក្តីប្រាថ្នាដែលបានសម្រេច។ សុភមង្គលក្នុងស្នេហា អាចហាក់ដូចជាសមនឹងទទួល។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Love feels harmonious and family-centred, with a sense of lasting happiness. Belonging is strong.",
+        "km": "ស្នេហាហាក់ដូចជាសុខដុម និងផ្តោតលើគ្រួសារ ជាមួយអារម្មណ៍នៃសុភមង្គលយូរអង្វែង។ អារម្មណ៍នៃការមានកន្លែងរបស់ខ្លួនមានកម្លាំងខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Expecting a fairy-tale relationship could put pressure on real love. Embrace the imperfect parts.",
+        "km": "ការរំពឹងទំនាក់ទំនងដូចរឿងនិទាន អាចដាក់សម្ពាធលើស្នេហាពិត។ សូមទទួលយកផ្នែកដែលមិនល្អឥតខ្ចោះ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward lasting harmony, home and family. A loving future could be taking shape.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពសុខដុមយូរអង្វែង ផ្ទះ និងគ្រួសារ។ អនាគតដ៏ពោរពេញដោយក្តីស្រឡាញ់ អាចកំពុងមានរូបរាង។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Love has a sweet, gentle quality, with shy feelings or a tender message. Something new may be budding.",
+        "km": "ស្នេហាមានលក្ខណៈផ្អែមល្ហែម និងទន់ភ្លន់ ជាមួយអារម្មណ៍អៀនខ្មាស ឬសារដ៏ទន់ភ្លន់មួយ។ អ្វីមួយថ្មីប្រហែលជាកំពុងពន្លក។"
+      },
+      "challenge": {
+        "en": "Being too sensitive to small signals could create misunderstandings. Ask rather than assume.",
+        "km": "ការរសើបពេកចំពោះសញ្ញាតូចៗ អាចបង្កការយល់ច្រឡំ។ សូមសួរ ជាជាងសន្មត។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a sweet surprise or a heartfelt message. A gentle beginning could grow into something lovely.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការភ្ញាក់ផ្អើលដ៏ផ្អែមល្ហែម ឬសារដែលចេញពីចិត្ត។ ការចាប់ផ្តើមដ៏ទន់ភ្លន់ អាចរីកធំទៅជាអ្វីមួយដ៏គួរឱ្យស្រឡាញ់។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Love is romantic and idealistic, with someone sweeping you off your feet or you pursuing a dream. Feelings are leading.",
+        "km": "ស្នេហាមានមនោសញ្ចេតនា និងឧត្តមគតិ ដោយមាននរណាម្នាក់ធ្វើឱ្យអ្នកលង់ ឬអ្នកកំពុងដេញតាមក្តីស្រមៃ។ អារម្មណ៍កំពុងដឹកនាំ។"
+      },
+      "challenge": {
+        "en": "Romantic promises without follow-through could leave you disappointed. Watch actions as well as words.",
+        "km": "ការសន្យាបែបមនោសញ្ចេតនា ដែលគ្មានការអនុវត្ត អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមមើលសកម្មភាព ក៏ដូចជាពាក្យសម្តី។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a romantic proposal, invitation or heartfelt gesture. Sincerity could make it meaningful.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកសំណើស្នេហា ការអញ្ជើញ ឬកាយវិការដែលចេញពីចិត្ត។ ភាពស្មោះ អាចធ្វើឱ្យវាមានអត្ថន័យ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Love is deep, caring and intuitive. You may sense a partner's feelings without words.",
+        "km": "ស្នេហាជ្រាលជ្រៅ យកចិត្តទុកដាក់ និងពោរពេញដោយវិចារណញាណ។ អ្នកប្រហែលជាដឹងពីអារម្មណ៍របស់ដៃគូ ដោយមិនចាំបាច់និយាយ។"
+      },
+      "challenge": {
+        "en": "Absorbing a partner's moods could leave you emotionally drained. Care for your own heart too.",
+        "km": "ការស្រូបយកអារម្មណ៍របស់ដៃគូ អាចធ្វើឱ្យអ្នកអស់កម្លាំងផ្នែកអារម្មណ៍។ សូមថែរក្សាចិត្តរបស់អ្នកផ្ទាល់ផងដែរ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward emotional closeness and deep understanding. Compassion could heal and strengthen your bond.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពស្និទ្ធស្នាលផ្នែកអារម្មណ៍ និងការយល់ដឹងយ៉ាងជ្រាលជ្រៅ។ ក្តីអាណិតអាសូរ អាចព្យាបាល និងពង្រឹងចំណងរបស់អ្នក។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Love is steady and mature, with calm handling of strong feelings. You may be a stable presence for someone.",
+        "km": "ស្នេហានឹងនរ និងចាស់ទុំ ជាមួយការគ្រប់គ្រងអារម្មណ៍ខ្លាំងៗដោយស្ងប់ស្ងាត់។ អ្នកប្រហែលជាវត្តមានដ៏នឹងនរសម្រាប់នរណាម្នាក់។"
+      },
+      "challenge": {
+        "en": "Hiding your own feelings to keep the peace could create distance. Let your partner see your heart.",
+        "km": "ការលាក់អារម្មណ៍របស់អ្នក ដើម្បីរក្សាសន្តិភាព អាចបង្កើតគម្លាត។ សូមឱ្យដៃគូរបស់អ្នកឃើញចិត្តរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a wise, balanced partnership. Emotional maturity on both sides could build lasting trust.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពជាដៃគូដែលមានប្រាជ្ញា និងតុល្យភាព។ ភាពចាស់ទុំផ្នែកអារម្មណ៍ពីភាគីទាំងពីរ អាចកសាងការទុកចិត្តយូរអង្វែង។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Love calls for honesty and clear communication. A truth may be coming out, or you may be seeing someone clearly at last.",
+        "km": "ស្នេហាទាមទារភាពស្មោះត្រង់ និងការប្រាស្រ័យទាក់ទងច្បាស់លាស់។ ការពិតមួយប្រហែលជាកំពុងលេចចេញ ឬអ្នកប្រហែលជាកំពុងមើលឃើញនរណាម្នាក់យ៉ាងច្បាស់ជាទីបំផុត។"
+      },
+      "challenge": {
+        "en": "Cutting words in a moment of anger could leave scars. Speak your truth with care.",
+        "km": "ពាក្យសម្តីមុតស្រួចក្នុងពេលខឹង អាចទុកស្នាមរបួស។ សូមនិយាយការពិតរបស់អ្នកដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Love is moving toward clarity and an honest new start. A frank conversation could clear the air.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពច្បាស់លាស់ និងការចាប់ផ្តើមថ្មីដោយស្មោះត្រង់។ ការសន្ទនាដោយត្រង់ៗ អាចធ្វើឱ្យបរិយាកាសស្រឡះ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Love feels stuck between two options or two people. You may be avoiding a decision about your heart.",
+        "km": "ស្នេហាហាក់ដូចជាជាប់រវាងជម្រើសពីរ ឬមនុស្សពីរនាក់។ អ្នកប្រហែលជាកំពុងគេចពីការសម្រេចចិត្តអំពីចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Avoiding a hard conversation could keep everyone in limbo. Facing the choice may be kinder in the end.",
+        "km": "ការគេចពីការសន្ទនាដ៏ពិបាក អាចធ្វើឱ្យគ្រប់គ្នានៅមិនច្បាស់លាស់។ ការប្រឈមមុខនឹងជម្រើស អាចជាក្តីមេត្តាជាងនៅទីបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a decision that could bring relief. Choosing honestly may free your heart.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការសម្រេចចិត្តដែលអាចនាំមកនូវការធូរស្រាល។ ការជ្រើសរើសដោយស្មោះត្រង់ អាចរំដោះចិត្តរបស់អ្នក។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Love feels painful, perhaps after heartbreak, betrayal or a hard truth. Your heart may be hurting.",
+        "km": "ស្នេហាហាក់ដូចជាឈឺចាប់ ប្រហែលជាបន្ទាប់ពីការបាក់បែកចិត្ត ការក្បត់ ឬការពិតដ៏ពិបាក។ ចិត្តរបស់អ្នក ប្រហែលជាកំពុងឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "Hiding heartache could make it last longer. Let yourself grieve and talk about it.",
+        "km": "ការលាក់ការឈឺចាប់ក្នុងចិត្ត អាចធ្វើឱ្យវាស្ថិតនៅយូរជាងមុន។ សូមអនុញ្ញាតឱ្យខ្លួនសោកសៅ និងនិយាយអំពីវា។"
+      },
+      "outcome": {
+        "en": "Love is moving through sorrow toward healing. Facing the hurt honestly could open the way to healthier love.",
+        "km": "ស្នេហាកំពុងឆ្លងកាត់ទុក្ខសោក ឆ្ពោះទៅរកការជាសះស្បើយ។ ការប្រឈមនឹងការឈឺចាប់ដោយស្មោះត្រង់ អាចបើកផ្លូវទៅរកស្នេហាដែលល្អជាងមុន។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Love is in a resting phase, with time needed to recover or reflect. You may be taking a break from dating or conflict.",
+        "km": "ស្នេហាកំពុងស្ថិតក្នុងដំណាក់កាលសម្រាក ដោយត្រូវការពេលដើម្បីស្តារ ឬពិចារណា។ អ្នកប្រហែលជាកំពុងផ្អាកពីការណាត់ជួប ឬពីជម្លោះ។"
+      },
+      "challenge": {
+        "en": "Rushing back into love before you have healed could repeat old patterns. Rest is part of readiness.",
+        "km": "ការប្រញាប់ត្រឡប់ទៅរកស្នេហា មុនពេលអ្នកជាសះស្បើយ អាចធ្វើឱ្យលំនាំចាស់កើតឡើងម្តងទៀត។ ការសម្រាកគឺជាផ្នែកមួយនៃការត្រៀមខ្លួន។"
+      },
+      "outcome": {
+        "en": "Love is moving toward renewal after a quiet pause. Returning rested could help you love more wisely.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការកើតឡើងវិញ បន្ទាប់ពីការផ្អាកដ៏ស្ងប់ស្ងាត់។ ការត្រឡប់មកវិញដោយបានសម្រាក អាចជួយអ្នកស្រឡាញ់ដោយប្រាជ្ញាជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Love feels tense, with arguments or hurt pride. Someone may be trying to win rather than understand.",
+        "km": "ស្នេហាហាក់ដូចជាតានតឹង ជាមួយការប្រកែក ឬមោទនភាពដែលរងរបួស។ នរណាម្នាក់ប្រហែលជាកំពុងព្យាយាមឈ្នះ ជាជាងយល់ចិត្ត។"
+      },
+      "challenge": {
+        "en": "Needing to be right in every argument could damage the bond. Ask whether winning is worth the cost.",
+        "km": "ការត្រូវការឱ្យខ្លួនត្រូវក្នុងគ្រប់ការប្រកែក អាចធ្វើឱ្យខូចចំណង។ សូមសួរខ្លួនឯងថាការឈ្នះសមនឹងតម្លៃឬទេ។"
+      },
+      "outcome": {
+        "en": "Love could move toward peace once pride is set aside. Walking away from a needless fight may protect the relationship.",
+        "km": "ស្នេហាអាចឆ្ពោះទៅរកសន្តិភាព នៅពេលមោទនភាពត្រូវបានទុកមួយឡែក។ ការដើរចេញពីការប្រយុទ្ធដែលមិនចាំបាច់ អាចការពារទំនាក់ទំនង។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Love is moving away from a hard time toward calmer waters. You may be leaving something painful behind.",
+        "km": "ស្នេហាកំពុងចាកចេញពីពេលវេលាលំបាក ឆ្ពោះទៅរកភាពស្ងប់ស្ងាត់។ អ្នកប្រហែលជាកំពុងទុកអ្វីមួយដ៏ឈឺចាប់នៅពីក្រោយ។"
+      },
+      "challenge": {
+        "en": "Looking back at an old relationship could slow your healing. Keep moving toward what feels peaceful.",
+        "km": "ការក្រឡេកមើលទំនាក់ទំនងចាស់ អាចធ្វើឱ្យការជាសះស្បើយរបស់អ្នកយឺត។ សូមបន្តដើរទៅរកអ្វីដែលនាំមកនូវសន្តិភាព។"
+      },
+      "outcome": {
+        "en": "Love is moving toward calmer, gentler days. A peaceful new chapter could unfold.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកថ្ងៃដែលស្ងប់ និងទន់ភ្លន់ជាងមុន។ ជំពូកថ្មីដ៏មានសន្តិភាពមួយ អាចលាតត្រដាង។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Love has a secretive or cautious feel, where not everything is being said. Someone may be holding back.",
+        "km": "ស្នេហាមានអារម្មណ៍នៃការលាក់កំបាំង ឬការប្រុងប្រយ័ត្ន ដែលមិនមែនអ្វីៗទាំងអស់ត្រូវបាននិយាយ។ នរណាម្នាក់ប្រហែលជាកំពុងទប់ខ្លួន។"
+      },
+      "challenge": {
+        "en": "Dishonesty or hidden agendas could erode trust. Choose openness, even when it is uncomfortable.",
+        "km": "ភាពមិនស្មោះត្រង់ ឬគោលបំណងលាក់កំបាំង អាចធ្វើឱ្យការទុកចិត្តរលួយ។ សូមជ្រើសរើសការបើកចំហ ទោះបីវាមិនស្រួលក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward truth coming out. Honesty could protect your heart better than secrecy.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការពិតដែលលេចចេញមក។ ភាពស្មោះត្រង់ អាចការពារចិត្តរបស់អ្នកបានល្អជាងការលាក់កំបាំង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Love feels restricted, as if you are trapped by fear or circumstance. You may believe you have no options.",
+        "km": "ស្នេហាហាក់ដូចជាត្រូវបានរឹតត្បិត ហាក់ដូចជាអ្នកជាប់អន្ទាក់ដោយការភ័យខ្លាច ឬកាលៈទេសៈ។ អ្នកប្រហែលជាជឿថាអ្នកគ្មានជម្រើស។"
+      },
+      "challenge": {
+        "en": "Believing you cannot leave or speak up could keep you stuck. If a relationship feels unsafe, reach out for support.",
+        "km": "ការជឿថាអ្នកមិនអាចចាកចេញ ឬនិយាយចេញ អាចធ្វើឱ្យអ្នកជាប់គាំង។ ប្រសិនបើទំនាក់ទំនងមួយហាក់ដូចជាមិនមានសុវត្ថិភាព សូមស្វែងរកការគាំទ្រ។"
+      },
+      "outcome": {
+        "en": "Love could move toward freedom once you see the options you have. One small step could change everything.",
+        "km": "ស្នេហាអាចឆ្ពោះទៅរកសេរីភាព នៅពេលអ្នកឃើញជម្រើសដែលអ្នកមាន។ ជំហានតូចមួយ អាចផ្លាស់ប្តូរអ្វីៗទាំងអស់។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Love is weighed down by worry, insecurity or sleepless thoughts. Fear may be louder than the facts.",
+        "km": "ស្នេហាត្រូវបានសង្កត់ដោយការព្រួយបារម្ភ អសន្តិសុខ ឬគំនិតដែលធ្វើឱ្យដេកមិនលក់។ ការភ័យខ្លាច អាចកំពុងខ្លាំងជាងការពិត។"
+      },
+      "challenge": {
+        "en": "Anxiety could make you imagine problems that are not there. Talk your fears through with someone you trust.",
+        "km": "ការថប់បារម្ភ អាចធ្វើឱ្យអ្នកស្រមៃពីបញ្ហាដែលមិនមាន។ សូមនិយាយពីការភ័យខ្លាចរបស់អ្នកជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Love could move toward reassurance once fears are spoken. Honest talk may ease your mind.",
+        "km": "ស្នេហាអាចឆ្ពោះទៅរកការធានាអះអាង នៅពេលការភ័យខ្លាចត្រូវបាននិយាយចេញ។ ការនិយាយដោយស្មោះត្រង់ អាចបន្ធូរចិត្តរបស់អ្នក។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Love feels like it has hit bottom, perhaps after a painful ending. Something has clearly run its course.",
+        "km": "ស្នេហាហាក់ដូចជាបានធ្លាក់ដល់បាត ប្រហែលជាបន្ទាប់ពីការបញ្ចប់ដ៏ឈឺចាប់។ អ្វីមួយច្បាស់ជាបានដល់ទីបញ្ចប់របស់វា។"
+      },
+      "challenge": {
+        "en": "Reliving a painful breakup could keep the wound open. Let the ending be final.",
+        "km": "ការរំលឹកការបែកគ្នាដ៏ឈឺចាប់ម្តងហើយម្តងទៀត អាចធ្វើឱ្យរបួសនៅតែបើក។ សូមឱ្យការបញ្ចប់នោះជាការបញ្ចប់ពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward recovery and a fresh start after a hard ending. The worst could already be over.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការស្តារឡើងវិញ និងការចាប់ផ្តើមថ្មី បន្ទាប់ពីការបញ្ចប់ដ៏លំបាក។ អ្វីដែលអាក្រក់បំផុត អាចកន្លងផុតទៅហើយ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Love is full of questions and curiosity, with messages or news flying around. You may be trying to figure someone out.",
+        "km": "ស្នេហាពោរពេញដោយសំណួរ និងចិត្តចង់ដឹង ជាមួយសារ ឬដំណឹងហោះហើរ។ អ្នកប្រហែលជាកំពុងព្យាយាមស្វែងយល់ពីនរណាម្នាក់។"
+      },
+      "challenge": {
+        "en": "Gossip or reading too much into messages could cause trouble. Ask directly instead.",
+        "km": "ការនិយាយដើម ឬការបកស្រាយសារហួសហេតុ អាចបង្កបញ្ហា។ សូមសួរដោយផ្ទាល់ជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward clearer communication and new understanding. A revealing conversation could change things.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការប្រាស្រ័យទាក់ទងកាន់តែច្បាស់ និងការយល់ដឹងថ្មី។ ការសន្ទនាដែលបង្ហាញការពិត អាចផ្លាស់ប្តូរអ្វីៗ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Love is fast and forceful, with strong opinions or a sudden pursuit. Someone may be coming on strong.",
+        "km": "ស្នេហាលឿន និងខ្លាំងក្លា ជាមួយមតិខ្លាំងៗ ឬការដេញតាមភ្លាមៗ។ នរណាម្នាក់ប្រហែលជាកំពុងបង្ហាញចំណាប់អារម្មណ៍យ៉ាងខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Sharp words spoken in the heat of passion could wound someone you care about. Let your partner finish before you answer.",
+        "km": "ពាក្យមុតស្រួចដែលនិយាយចេញក្នុងពេលកំពុងក្តៅចិត្ត អាចធ្វើឱ្យឈឺចិត្តមនុស្សដែលអ្នកស្រឡាញ់។ សូមឱ្យដៃគូនិយាយចប់ មុននឹងអ្នកឆ្លើយ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward quick decisions and rapid change. Acting decisively but kindly could bring clarity.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការសម្រេចចិត្តរហ័ស និងការផ្លាស់ប្តូរលឿន។ ការធ្វើសកម្មភាពដោយម៉ឺងម៉ាត់ ប៉ុន្តែដោយក្តីមេត្តា អាចនាំមកនូវភាពច្បាស់លាស់។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Love calls for honesty and clear boundaries. You may be seeing a relationship without illusions.",
+        "km": "ស្នេហាទាមទារភាពស្មោះត្រង់ និងដែនកំណត់ច្បាស់លាស់។ អ្នកប្រហែលជាកំពុងមើលទំនាក់ទំនងមួយដោយគ្មានការបំភាន់។"
+      },
+      "challenge": {
+        "en": "Guarding your heart too closely could keep love at arm's length. Let warmth in alongside wisdom.",
+        "km": "ការការពារចិត្តរបស់អ្នកតឹងពេក អាចរក្សាស្នេហាឱ្យនៅឆ្ងាយ។ សូមអនុញ្ញាតឱ្យភាពកក់ក្តៅចូលមក ជាមួយប្រាជ្ញា។"
+      },
+      "outcome": {
+        "en": "Love is moving toward independence and clear-eyed choices. Honest boundaries could attract respectful love.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកឯករាជ្យភាព និងជម្រើសដែលមើលឃើញច្បាស់។ ដែនកំណត់ដ៏ស្មោះត្រង់ អាចទាក់ទាញស្នេហាដែលគោរពគ្នា។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Love is approached with logic and fairness. You may be thinking carefully about a relationship's future.",
+        "km": "ស្នេហាត្រូវបានចូលទៅជិតដោយហេតុផល និងភាពយុត្តិធម៌។ អ្នកប្រហែលជាកំពុងគិតយ៉ាងប្រុងប្រយ័ត្នអំពីអនាគតនៃទំនាក់ទំនងមួយ។"
+      },
+      "challenge": {
+        "en": "Thinking only with your head could leave your heart out. Love needs feeling as well as reason.",
+        "km": "ការគិតតែដោយខួរក្បាល អាចទុកចិត្តរបស់អ្នកចោល។ ស្នេហាត្រូវការអារម្មណ៍ ក៏ដូចជាហេតុផល។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a clear, mature decision. Fairness on both sides could build a stable bond.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការសម្រេចចិត្តដែលច្បាស់លាស់ និងចាស់ទុំ។ ភាពយុត្តិធម៌ពីភាគីទាំងពីរ អាចកសាងចំណងដ៏មានស្ថិរភាព។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Love has a grounded, promising start, with something real and steady beginning. Practical care matters.",
+        "km": "ស្នេហាមានការចាប់ផ្តើមដ៏នឹងនរ និងមានសក្តានុពល ដោយអ្វីមួយពិតប្រាកដ និងនឹងនរកំពុងចាប់ផ្តើម។ ការថែទាំជាក់ស្តែងមានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Waiting for fireworks could make you overlook a steady, reliable person. Quiet love can be lasting love.",
+        "km": "ការរង់ចាំកាំជ្រួច អាចធ្វើឱ្យអ្នកមើលរំលងមនុស្សដែលនឹងនរ និងគួរឱ្យទុកចិត្ត។ ស្នេហាដ៏ស្ងប់ស្ងាត់ អាចជាស្នេហាដែលស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a secure, lasting beginning. A slow-growing relationship could become a solid foundation.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការចាប់ផ្តើមដែលមានសុវត្ថិភាព និងស្ថិតស្ថេរ។ ទំនាក់ទំនងដែលរីកចម្រើនយឺតៗ អាចក្លាយជាមូលដ្ឋានដ៏រឹងមាំ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Love is a balancing act, juggling a relationship with work, family and other demands. Time together may be hard to find.",
+        "km": "ស្នេហាគឺជាការរក្សាតុល្យភាព ដោយចាត់ចែងទំនាក់ទំនងជាមួយការងារ គ្រួសារ និងការទាមទារផ្សេងៗ។ ពេលវេលានៅជាមួយគ្នា អាចពិបាករក។"
+      },
+      "challenge": {
+        "en": "Letting a busy life push love aside could leave it neglected. Make time for each other on purpose.",
+        "km": "ការឱ្យជីវិតមមាញឹករុញស្នេហាទៅម្ខាង អាចធ្វើឱ្យវាត្រូវបានគេបំភ្លេច។ សូមទុកពេលសម្រាប់គ្នាទៅវិញទៅមកដោយចេតនា។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a better balance, where togetherness fits into daily life. Flexibility could keep things steady.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកតុល្យភាពដែលល្អជាងមុន ដែលការនៅជាមួយគ្នាចុះសម្រុងនឹងជីវិតប្រចាំថ្ងៃ។ ភាពបត់បែន អាចរក្សាអ្វីៗឱ្យនឹងនរ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Love is a team effort, with two people building something together. Working side by side strengthens the bond.",
+        "km": "ស្នេហាគឺជាការខិតខំជាក្រុម ដែលមនុស្សពីរនាក់កំពុងកសាងអ្វីមួយជាមួយគ្នា។ ការធ្វើការក្បែរគ្នា ពង្រឹងចំណង។"
+      },
+      "challenge": {
+        "en": "Not listening to each other's ideas could cause friction. A relationship works best when both voices count.",
+        "km": "ការមិនស្តាប់គំនិតរបស់គ្នាទៅវិញទៅមក អាចបង្កការប៉ះទង្គិច។ ទំនាក់ទំនងដំណើរការល្អបំផុត នៅពេលសំឡេងទាំងពីរមានតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a strong partnership built through shared effort. Building a life together could feel rewarding.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពជាដៃគូដ៏រឹងមាំ ដែលកសាងតាមរយៈការខិតខំរួមគ្នា។ ការកសាងជីវិតជាមួយគ្នា អាចផ្តល់ការពេញចិត្ត។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Love feels cautious and protective, with a strong need for security. You may be guarding your heart.",
+        "km": "ស្នេហាហាក់ដូចជាប្រុងប្រយ័ត្ន និងការពារខ្លួន ជាមួយតម្រូវការសុវត្ថិភាពខ្លាំង។ អ្នកប្រហែលជាកំពុងការពារចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Possessiveness or holding back affection could stifle love. Security grows when you loosen your grip.",
+        "km": "ការចង់កាន់កាប់ ឬការទប់ក្តីស្រឡាញ់ អាចធ្វើឱ្យស្នេហាថប់ដង្ហើម។ សុវត្ថិភាពកើនឡើង នៅពេលអ្នកបន្ធូរការកាន់ក្តាប់។"
+      },
+      "outcome": {
+        "en": "Love could move toward steady security once trust replaces fear. Openness may make the bond stronger.",
+        "km": "ស្នេហាអាចឆ្ពោះទៅរកសុវត្ថិភាពដ៏នឹងនរ នៅពេលការទុកចិត្តជំនួសការភ័យខ្លាច។ ការបើកចំហ អាចធ្វើឱ្យចំណងកាន់តែរឹងមាំ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Love feels lonely or strained, perhaps by hardship or feeling left out. You may feel unsupported.",
+        "km": "ស្នេហាហាក់ដូចជាឯកោ ឬតានតឹង ប្រហែលជាដោយសារការលំបាក ឬអារម្មណ៍ថាត្រូវបានគេទុកចោល។ អ្នកប្រហែលជាមានអារម្មណ៍ថាគ្មានការគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Feeling unworthy of love could stop you from accepting it. Reach out instead of shutting people out.",
+        "km": "អារម្មណ៍ថាមិនសមនឹងទទួលក្តីស្រឡាញ់ អាចរារាំងអ្នកពីការទទួលយកវា។ សូមទាក់ទងទៅមនុស្ស ជាជាងបិទទ្វារលើពួកគេ។"
+      },
+      "outcome": {
+        "en": "Love could move toward warmth and support once you let someone in. Help and care may be closer than you think.",
+        "km": "ស្នេហាអាចឆ្ពោះទៅរកភាពកក់ក្តៅ និងការគាំទ្រ នៅពេលអ្នកអនុញ្ញាតឱ្យនរណាម្នាក់ចូលមក។ ជំនួយ និងការយកចិត្តទុកដាក់ អាចនៅជិតជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Love involves giving and receiving, with generosity flowing between people. Balance in the relationship is important.",
+        "km": "ស្នេហាពាក់ព័ន្ធនឹងការផ្តល់ និងការទទួល ដោយសេចក្តីសប្បុរសហូររវាងមនុស្ស។ តុល្យភាពក្នុងទំនាក់ទំនងមានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "One person always giving and the other always taking could breed resentment. Keep the exchange fair.",
+        "km": "មនុស្សម្នាក់តែងតែផ្តល់ ហើយម្នាក់ទៀតតែងតែយក អាចបង្កើតការអាក់អន់ចិត្ត។ សូមរក្សាការផ្តល់និងទទួលឱ្យយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a fair, generous partnership. Kindness offered freely could come back to you.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពជាដៃគូដ៏យុត្តិធម៌ និងសប្បុរស។ ក្តីមេត្តាដែលផ្តល់ដោយស្ម័គ្រចិត្ត អាចត្រឡប់មករកអ្នកវិញ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Love is growing slowly, and you may be waiting to see where it goes. Patience is being tested.",
+        "km": "ស្នេហាកំពុងរីកចម្រើនយឺតៗ ហើយអ្នកប្រហែលជាកំពុងរង់ចាំមើលថាវានឹងទៅណា។ ការអត់ធ្មត់កំពុងត្រូវបានសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Giving up on a relationship before it has had a fair chance could cut short something that needed time. Assess honestly before deciding.",
+        "km": "ការបោះបង់ទំនាក់ទំនង មុនពេលវាមានឱកាសគ្រប់គ្រាន់ អាចបញ្ចប់អ្វីមួយដែលត្រូវការពេលវេលា។ សូមវាយតម្លៃដោយស្មោះត្រង់ មុននឹងសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a rewarding harvest after patient effort. A relationship nurtured over time could bear fruit.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការប្រមូលផលដ៏គួរឱ្យពេញចិត្ត បន្ទាប់ពីការខិតខំដោយអត់ធ្មត់។ ទំនាក់ទំនងដែលត្រូវបានថែរក្សាតាមពេលវេលា អាចផ្តល់ផល។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Love is something you are working at, with steady effort and attention. You may be learning how to be a better partner.",
+        "km": "ស្នេហាគឺជាអ្វីមួយដែលអ្នកកំពុងខិតខំ ដោយការខិតខំ និងការយកចិត្តទុកដាក់ជាប់លាប់។ អ្នកប្រហែលជាកំពុងរៀនធ្វើជាដៃគូដ៏ល្អជាងមុន។"
+      },
+      "challenge": {
+        "en": "Treating love as a chore could drain the joy from it. Keep the effort warm, not mechanical.",
+        "km": "ការចាត់ទុកស្នេហាជាកិច្ចការ អាចបង្ហូរសេចក្តីរីករាយចេញពីវា។ សូមរក្សាការខិតខំឱ្យកក់ក្តៅ មិនមែនដូចម៉ាស៊ីនទេ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a relationship strengthened by care and commitment. Small daily efforts could build lasting closeness.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកទំនាក់ទំនងដែលត្រូវបានពង្រឹងដោយការថែទាំ និងការប្តេជ្ញា។ ការខិតខំតូចៗប្រចាំថ្ងៃ អាចកសាងភាពស្និទ្ធស្នាលយូរអង្វែង។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Love feels independent and self-assured. You may be content on your own or secure within a relationship.",
+        "km": "ស្នេហាហាក់ដូចជាឯករាជ្យ និងមានទំនុកចិត្តលើខ្លួនឯង។ អ្នកប្រហែលជាពេញចិត្តនៅម្នាក់ឯង ឬមានសុវត្ថិភាពក្នុងទំនាក់ទំនងមួយ។"
+      },
+      "challenge": {
+        "en": "Being too self-sufficient could make it hard for someone to get close. Leave room to share your life.",
+        "km": "ការពឹងខ្លួនឯងខ្លាំងពេក អាចធ្វើឱ្យនរណាម្នាក់ពិបាកចូលមកជិត។ សូមទុកកន្លែងដើម្បីចែករំលែកជីវិតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a relationship that respects your independence. Sharing your good life with someone could enrich it.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកទំនាក់ទំនងដែលគោរពឯករាជ្យភាពរបស់អ្នក។ ការចែករំលែកជីវិតដ៏ល្អរបស់អ្នកជាមួយនរណាម្នាក់ អាចធ្វើឱ្យវាកាន់តែសម្បូរបែប។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Love is tied to family, tradition and long-term plans. You may be thinking about a future together.",
+        "km": "ស្នេហាភ្ជាប់ទៅនឹងគ្រួសារ ប្រពៃណី និងផែនការរយៈពេលវែង។ អ្នកប្រហែលជាកំពុងគិតអំពីអនាគតរួមគ្នា។"
+      },
+      "challenge": {
+        "en": "Family pressure could weigh on a relationship. Make sure your choices come from your own heart.",
+        "km": "សម្ពាធពីគ្រួសារ អាចធ្ងន់លើទំនាក់ទំនងមួយ។ សូមប្រាកដថាជម្រើសរបស់អ្នកមកពីចិត្តរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Love is moving toward lasting commitment and a shared family future. Stability and belonging could grow together.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការប្តេជ្ញាយូរអង្វែង និងអនាគតគ្រួសាររួមគ្នា។ ស្ថិរភាព និងអារម្មណ៍នៃការមានកន្លែងរបស់ខ្លួន អាចរីកចម្រើនជាមួយគ្នា។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Love is at an early, learning stage, with curiosity about someone or about yourself. Interest is real but still new.",
+        "km": "ស្នេហាកំពុងស្ថិតនៅដំណាក់កាលដំបូង និងរៀនសូត្រ ជាមួយចិត្តចង់ដឹងអំពីនរណាម្នាក់ ឬអំពីខ្លួនឯង។ ចំណាប់អារម្មណ៍ពិតប្រាកដ ប៉ុន្តែនៅថ្មី។"
+      },
+      "challenge": {
+        "en": "Waiting too long to show interest could let a chance pass. A small, sincere gesture could help.",
+        "km": "ការរង់ចាំយូរពេកដើម្បីបង្ហាញចំណាប់អារម្មណ៍ អាចធ្វើឱ្យឱកាសកន្លងផុត។ កាយវិការតូចមួយដោយស្មោះ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a steady, promising beginning. Getting to know someone slowly could build something real.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការចាប់ផ្តើមដ៏នឹងនរ និងមានសក្តានុពល។ ការស្វែងយល់ពីនរណាម្នាក់បន្តិចម្តងៗ អាចកសាងអ្វីមួយពិតប្រាកដ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Love is slow and steady, built on reliability rather than drama. You may value loyalty above excitement.",
+        "km": "ស្នេហាយឺត និងនឹងនរ ដែលកសាងលើភាពគួរឱ្យទុកចិត្ត ជាជាងភាពរំជើបរំជួល។ អ្នកប្រហែលជាឱ្យតម្លៃភាពស្មោះស្ម័គ្រ លើសពីភាពរំភើប។"
+      },
+      "challenge": {
+        "en": "Letting routine replace romance could make a dependable love feel dull. Add small surprises to the steady rhythm you share.",
+        "km": "ការឱ្យទម្លាប់ជំនួសមនោសញ្ចេតនា អាចធ្វើឱ្យស្នេហាដែលអាចពឹងបាន ហាក់ដូចជាគ្មានរសជាតិ។ សូមបន្ថែមការភ្ញាក់ផ្អើលតូចៗ ទៅក្នុងចង្វាក់នឹងនរដែលអ្នកចែករំលែកជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "Love is moving toward dependable, lasting commitment. Steady devotion could build a bond you can rely on.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកការប្តេជ្ញាដែលអាចពឹងបាន និងស្ថិតស្ថេរ។ ការលះបង់ដ៏នឹងនរ អាចកសាងចំណងដែលអ្នកអាចពឹងផ្អែកបាន។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Love feels nurturing and homely, with practical care shown through everyday acts. Comfort is a love language here.",
+        "km": "ស្នេហាហាក់ដូចជាការថែរក្សា និងកក់ក្តៅដូចនៅផ្ទះ ជាមួយការយកចិត្តទុកដាក់ជាក់ស្តែងតាមរយៈទង្វើប្រចាំថ្ងៃ។ ភាពសុខស្រួល គឺជាភាសានៃក្តីស្រឡាញ់។"
+      },
+      "challenge": {
+        "en": "Caring for a partner while neglecting yourself could leave you depleted. Love includes self-care.",
+        "km": "ការថែរក្សាដៃគូ ខណៈភ្លេចខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ ស្នេហារួមបញ្ចូលការថែរក្សាខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a warm, secure home life. Everyday care could make a relationship deeply nourishing.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកជីវិតក្នុងផ្ទះដ៏កក់ក្តៅ និងមានសុវត្ថិភាព។ ការថែទាំប្រចាំថ្ងៃ អាចធ្វើឱ្យទំនាក់ទំនងមួយផ្តល់ការចិញ្ចឹមចិត្តយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Love is stable and mature, with security and generosity. You may be a provider or protector in a relationship.",
+        "km": "ស្នេហាមានស្ថិរភាព និងចាស់ទុំ ជាមួយសុវត្ថិភាព និងសេចក្តីសប្បុរស។ អ្នកប្រហែលជាអ្នកផ្គត់ផ្គង់ ឬអ្នកការពារក្នុងទំនាក់ទំនងមួយ។"
+      },
+      "challenge": {
+        "en": "Showing love only through money or gifts could leave emotional needs unmet. Time and attention matter too.",
+        "km": "ការបង្ហាញក្តីស្រឡាញ់តែតាមរយៈលុយកាក់ ឬអំណោយ អាចធ្វើឱ្យតម្រូវការផ្នែកអារម្មណ៍មិនត្រូវបានបំពេញ។ ពេលវេលា និងការយកចិត្តទុកដាក់ក៏សំខាន់ដែរ។"
+      },
+      "outcome": {
+        "en": "Love is moving toward a secure, lasting partnership with shared prosperity. A dependable bond could bring deep contentment.",
+        "km": "ស្នេហាកំពុងឆ្ពោះទៅរកភាពជាដៃគូដែលមានសុវត្ថិភាព និងស្ថិតស្ថេរ ជាមួយភាពរុងរឿងរួមគ្នា។ ចំណងដែលអាចពឹងបាន អាចនាំមកនូវភាពពេញចិត្តយ៉ាងជ្រាលជ្រៅ។"
+      }
+    }
+  }
+}
