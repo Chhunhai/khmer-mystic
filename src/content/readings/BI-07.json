@@ -1,0 +1,1097 @@
+{
+  "questionId": "BI-07",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "An exciting investment idea may have caught your eye, perhaps a new venture or something few others have tried. The thrill of the unknown is part of the appeal.",
+        "km": "គំនិតវិនិយោគគួរឱ្យរំភើបមួយ ប្រហែលជាបានទាក់ទាញភ្នែករបស់អ្នក ប្រហែលជាគម្រោងថ្មី ឬអ្វីមួយដែលមនុស្សតិចតួចបានសាកល្បង។ ភាពរំភើបនៃអ្វីដែលមិនស្គាល់ គឺជាផ្នែកមួយនៃការទាក់ទាញ។"
+      },
+      "challenge": {
+        "en": "Beware of putting in money you cannot afford to lose on something untested. Decide your limit before the excitement decides it for you.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដាក់ប្រាក់ដែលអ្នកមិនអាចមានលទ្ធភាពបាត់បង់ ទៅលើអ្វីមួយដែលមិនទាន់សាកល្បង។ សូមសម្រេចដែនកំណត់របស់អ្នក មុនពេលភាពរំភើបសម្រេចជំនួសអ្នក។"
+      },
+      "outcome": {
+        "en": "Setting a firm limit could let you explore bold ideas without risking your foundations. Curiosity kept within bounds may still lead somewhere rewarding.",
+        "km": "ការកំណត់ដែនកំណត់រឹងមាំ អាចឱ្យអ្នកស្វែងរកគំនិតក្លាហាន ដោយមិនប្រថុយគ្រឹះរបស់អ្នក។ ការចង់ដឹងដែលរក្សាក្នុងព្រំដែន អាចនៅតែនាំទៅកន្លែងដែលគួរឱ្យពេញចិត្ត។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may have the knowledge, contacts or skills to judge this investment well. Your own expertise could be an advantage.",
+        "km": "អ្នកប្រហែលជាមានចំណេះដឹង ទំនាក់ទំនង ឬជំនាញ ដើម្បីវិនិច្ឆ័យការវិនិយោគនេះបានល្អ។ ជំនាញផ្ទាល់ខ្លួនរបស់អ្នក អាចជាគុណសម្បត្តិមួយ។"
+      },
+      "challenge": {
+        "en": "Watch for overconfidence in your own judgement outside the field you know. Expertise in one area does not transfer automatically to another.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះទំនុកចិត្តហួសហេតុលើការវិនិច្ឆ័យផ្ទាល់ខ្លួនរបស់អ្នក នៅក្រៅវិស័យដែលអ្នកស្គាល់។ ជំនាញក្នុងវិស័យមួយ មិនផ្ទេរដោយស្វ័យប្រវត្តិទៅវិស័យមួយទៀតទេ។"
+      },
+      "outcome": {
+        "en": "Investing where your skills give you real insight could improve your odds. Knowledge applied carefully may become a quiet edge.",
+        "km": "ការវិនិយោគនៅកន្លែងដែលជំនាញរបស់អ្នកផ្តល់ការយល់ដឹងពិតប្រាកដ អាចធ្វើឱ្យឱកាសរបស់អ្នកប្រសើរឡើង។ ចំណេះដឹងដែលអនុវត្តដោយប្រុងប្រយ័ត្ន អាចក្លាយជាគុណសម្បត្តិស្ងាត់ៗ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Important facts about the investment may still be hidden, and your instincts may sense more than the sales pitch says. Not everything is on the table.",
+        "km": "ការពិតសំខាន់ៗអំពីការវិនិយោគ ប្រហែលជានៅតែលាក់កំបាំង ហើយសភាវគតិរបស់អ្នក ប្រហែលជាដឹងច្រើនជាងអ្វីដែលការបង្ហាញលក់និយាយ។ មិនមែនអ្វីៗទាំងអស់នៅលើតុនោះទេ។"
+      },
+      "challenge": {
+        "en": "Think twice before committing while key questions remain unanswered, such as who controls the money or how you could get it back. Silence on those points is a warning.",
+        "km": "សូមគិតពីរដង មុនពេលប្តេជ្ញាចិត្ត ខណៈសំណួរសំខាន់ៗនៅតែមិនទាន់ឆ្លើយ ដូចជាអ្នកណាគ្រប់គ្រងប្រាក់ ឬរបៀបដែលអ្នកអាចយកវាមកវិញ។ ភាពស្ងៀមស្ងាត់លើចំណុចទាំងនោះ គឺជាការព្រមាន។"
+      },
+      "outcome": {
+        "en": "Getting clear answers in writing could reveal whether the opportunity is sound. Trusting a well-founded doubt may protect your savings.",
+        "km": "ការទទួលបានចម្លើយច្បាស់លាស់ជាលាយលក្ខណ៍អក្សរ អាចបង្ហាញថាតើឱកាសនេះល្អឬអត់។ ការទុកចិត្តលើការសង្ស័យដែលមានមូលដ្ឋាន អាចការពារប្រាក់សន្សំរបស់អ្នក។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "The investment may promise growth, abundance or a fruitful return. It may look like a garden ready to bloom.",
+        "km": "ការវិនិយោគ ប្រហែលជាសន្យាការរីកចម្រើន ភាពបរិបូរណ៍ ឬផលត្រឡប់ដែលមានផល។ វាអាចមើលទៅដូចជាសួនច្បារដែលត្រៀមរីក។"
+      },
+      "challenge": {
+        "en": "Be careful of being drawn in by how good the growth looks without checking what it costs to tend. Ongoing costs can eat into returns.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការត្រូវបានទាញចូល ដោយរបៀបដែលការរីកចម្រើនមើលទៅល្អ ដោយមិនពិនិត្យថាវាចំណាយប៉ុន្មានដើម្បីថែរក្សា។ ថ្លៃដើមបន្តបន្ទាប់ អាចស៊ីចូលទៅក្នុងផលត្រឡប់។"
+      },
+      "outcome": {
+        "en": "Counting the full cost of care could show whether the harvest is worth the effort. A realistic view may still reveal a fruitful choice.",
+        "km": "ការរាប់ថ្លៃដើមពេញលេញនៃការថែរក្សា អាចបង្ហាញថាតើការប្រមូលផលសមនឹងការខិតខំឬអត់។ ទស្សនៈប្រាកដនិយម អាចនៅតែបង្ហាញជម្រើសដែលមានផល។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "The investment may come with structure, such as contracts, payment plans and formal terms. Order and rules shape the deal.",
+        "km": "ការវិនិយោគ ប្រហែលជាភ្ជាប់មកជាមួយរចនាសម្ព័ន្ធ ដូចជាកិច្ចសន្យា ផែនការទូទាត់ និងលក្ខខណ្ឌផ្លូវការ។ សណ្តាប់ធ្នាប់ និងច្បាប់ រៀបចំកិច្ចព្រមព្រៀង។"
+      },
+      "challenge": {
+        "en": "Look closely at lock-in terms, exit penalties and who holds control. Rigid terms could trap your money when you need it.",
+        "km": "សូមមើលយ៉ាងជិតស្និទ្ធលើលក្ខខណ្ឌចាក់សោ ការពិន័យលើការចាកចេញ និងអ្នកដែលកាន់ការគ្រប់គ្រង។ លក្ខខណ្ឌតឹងរ៉ឹង អាចធ្វើឱ្យប្រាក់របស់អ្នកជាប់អន្ទាក់ នៅពេលអ្នកត្រូវការវា។"
+      },
+      "outcome": {
+        "en": "Understanding the structure fully could let you invest with confidence and control. Clear terms may protect you if plans change.",
+        "km": "ការយល់ពីរចនាសម្ព័ន្ធទាំងស្រុង អាចឱ្យអ្នកវិនិយោគដោយទំនុកចិត្ត និងការគ្រប់គ្រង។ លក្ខខណ្ឌច្បាស់លាស់ អាចការពារអ្នក ប្រសិនបើផែនការផ្លាស់ប្តូរ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "The investment may follow a traditional, well-known path, perhaps recommended by family, a mentor or an institution. Convention may feel safe.",
+        "km": "ការវិនិយោគ ប្រហែលជាធ្វើតាមផ្លូវប្រពៃណី និងល្បីល្បាញ ប្រហែលជាត្រូវបានណែនាំដោយគ្រួសារ អ្នកណែនាំ ឬស្ថាប័នមួយ។ ទំនៀមទម្លាប់ ប្រហែលជាមានអារម្មណ៍សុវត្ថិភាព។"
+      },
+      "challenge": {
+        "en": "Watch for following advice simply because it is familiar, without checking it suits your situation. A qualified, independent adviser can help you weigh it.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើតាមដំបូន្មាន គ្រាន់តែដោយសារវាធ្លាប់ស្គាល់ ដោយមិនពិនិត្យថាវាសមនឹងស្ថានភាពរបស់អ្នក។ ទីប្រឹក្សាឯករាជ្យដែលមានលក្ខណៈសម្បត្តិ អាចជួយអ្នកថ្លឹងថ្លែងវា។"
+      },
+      "outcome": {
+        "en": "Testing traditional advice against your own needs could lead to a sound, well-fitted choice. Good guidance may give you peace of mind.",
+        "km": "ការសាកល្បងដំបូន្មានប្រពៃណី ធៀបនឹងតម្រូវការផ្ទាល់ខ្លួនរបស់អ្នក អាចនាំទៅរកជម្រើសល្អ និងសមល្អ។ ការណែនាំល្អ អាចផ្តល់ភាពស្ងប់ចិត្តដល់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "The investment may involve a partner or someone close, with shared money and shared hopes at stake. A choice of values may be involved.",
+        "km": "ការវិនិយោគ ប្រហែលជាពាក់ព័ន្ធនឹងដៃគូ ឬនរណាម្នាក់ជិតស្និទ្ធ ដោយមានប្រាក់រួម និងក្តីសង្ឃឹមរួមក្នុងហានិភ័យ។ ជម្រើសនៃគុណតម្លៃ ប្រហែលជាពាក់ព័ន្ធ។"
+      },
+      "challenge": {
+        "en": "Be wary of investing with or for someone close without agreeing what happens if it fails. Love and money mix best with clear terms.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិយោគជាមួយ ឬសម្រាប់នរណាម្នាក់ជិតស្និទ្ធ ដោយមិនព្រមព្រៀងថាអ្វីកើតឡើង ប្រសិនបើវាបរាជ័យ។ សេចក្តីស្រឡាញ់ និងប្រាក់ លាយបញ្ចូលគ្នាបានល្អបំផុត ជាមួយលក្ខខណ្ឌច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Agreeing openly on risks and roles could protect both the investment and the relationship. A shared decision may feel stronger either way.",
+        "km": "ការព្រមព្រៀងដោយបើកចំហលើហានិភ័យ និងតួនាទី អាចការពារទាំងការវិនិយោគ និងទំនាក់ទំនង។ ការសម្រេចចិត្តរួមគ្នា អាចមានអារម្មណ៍រឹងមាំជាងមុន មិនថាផ្លូវណាមួយ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You may feel driven to invest, determined to make your money work and move forward. Momentum is pulling you toward a decision.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ត្រូវបានជំរុញឱ្យវិនិយោគ ដោយប្តេជ្ញាធ្វើឱ្យប្រាក់របស់អ្នកធ្វើការ ហើយផ្លាស់ទីទៅមុខ។ សន្ទុះ កំពុងទាញអ្នកឆ្ពោះទៅរកការសម្រេចចិត្ត។"
+      },
+      "challenge": {
+        "en": "Take care that the urge to act does not skip comparing alternatives. Speed rarely improves an investment decision.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យការជំរុញឱ្យធ្វើសកម្មភាព រំលងការប្រៀបធៀបជម្រើសផ្សេងៗ។ ល្បឿន កម្រធ្វើឱ្យការសម្រេចចិត្តវិនិយោគប្រសើរឡើងណាស់។"
+      },
+      "outcome": {
+        "en": "Channelling drive into careful comparison could lead to the best available choice. Determined, informed action may carry you toward your goal.",
+        "km": "ការបង្វែរកម្លាំងជំរុញទៅក្នុងការប្រៀបធៀបដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកជម្រើសល្អបំផុតដែលមាន។ សកម្មភាពប្តេជ្ញាចិត្ត និងមានព័ត៌មាន អាចនាំអ្នកឆ្ពោះទៅរកគោលដៅរបស់អ្នក។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "You may be approaching the investment with patience and steady nerves, not easily swayed by hype. Calm strength is guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងចូលទៅរកការវិនិយោគ ដោយការអត់ធ្មត់ និងសរសៃប្រសាទនឹងនរ មិនងាយរង្គើដោយការបំផ្លើស។ កម្លាំងស្ងប់ស្ងាត់ កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Guard against being worn down by pressure from a persistent seller or friend. A gentle but firm no is a perfectly good answer.",
+        "km": "សូមការពារខ្លួនពីការត្រូវបានធ្វើឱ្យអស់កម្លាំងដោយសម្ពាធពីអ្នកលក់ ឬមិត្តភក្តិដែលតស៊ូ។ ការបដិសេធទន់ភ្លន់ ប៉ុន្តែរឹងមាំ គឺជាចម្លើយល្អឥតខ្ចោះ។"
+      },
+      "outcome": {
+        "en": "Holding your calm could let you invest only when the terms truly suit you. Quiet resolve may protect you from costly persuasion.",
+        "km": "ការរក្សាភាពស្ងប់ស្ងាត់របស់អ្នក អាចឱ្យអ្នកវិនិយោគតែនៅពេលលក្ខខណ្ឌពិតជាសមនឹងអ្នក។ ការតាំងចិត្តស្ងប់ស្ងាត់ អាចការពារអ្នកពីការបញ្ចុះបញ្ចូលថ្លៃៗ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You may be reflecting deeply on what you want your money to do, beyond simply making more. Purpose may be shaping the choice.",
+        "km": "អ្នកប្រហែលជាកំពុងឆ្លុះបញ្ចាំងយ៉ាងជ្រៅអំពីអ្វីដែលអ្នកចង់ឱ្យប្រាក់របស់អ្នកធ្វើ លើសពីការរកបានច្រើនជាងមុន។ គោលបំណង ប្រហែលជាកំពុងរៀបចំជម្រើស។"
+      },
+      "challenge": {
+        "en": "Consider whether the investment truly fits your goals or simply looks attractive. Money tied to the wrong purpose can feel empty even if it grows.",
+        "km": "សូមពិចារណាថាតើការវិនិយោគពិតជាសមនឹងគោលដៅរបស់អ្នក ឬគ្រាន់តែមើលទៅទាក់ទាញ។ ប្រាក់ដែលភ្ជាប់ទៅនឹងគោលបំណងខុស អាចមានអារម្មណ៍ទទេ សូម្បីតែវារីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "Matching the investment to a clear purpose could make the decision feel right whatever happens. Inner clarity may guide wiser choices.",
+        "km": "ការផ្គូផ្គងការវិនិយោគទៅនឹងគោលបំណងច្បាស់លាស់ អាចធ្វើឱ្យការសម្រេចចិត្តមានអារម្មណ៍ត្រឹមត្រូវ មិនថាអ្វីកើតឡើង។ ភាពច្បាស់លាស់ខាងក្នុង អាចណែនាំជម្រើសដ៏ឆ្លាតវៃជាងមុន។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Market conditions may be shifting, making some investments look suddenly attractive. A lucky break may seem to be on offer.",
+        "km": "លក្ខខណ្ឌទីផ្សារ ប្រហែលជាកំពុងផ្លាស់ប្តូរ ដោយធ្វើឱ្យការវិនិយោគខ្លះមើលទៅទាក់ទាញភ្លាមៗ។ ឱកាសសំណាង ប្រហែលជាហាក់ដូចជាត្រូវបានផ្តល់ជូន។"
+      },
+      "challenge": {
+        "en": "Beware of assuming a rising trend will keep rising. Markets turn, and no one can reliably predict the turn.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសន្មតថានិន្នាការដែលកំពុងកើនឡើង នឹងបន្តកើនឡើង។ ទីផ្សារបង្វិល ហើយគ្មាននរណាម្នាក់អាចទស្សន៍ទាយការបង្វិលបានដោយភាពជឿជាក់។"
+      },
+      "outcome": {
+        "en": "Preparing for both ups and downs could keep you steady whatever the wheel does. Spreading risk may protect what you build.",
+        "km": "ការត្រៀមខ្លួនសម្រាប់ទាំងការឡើង និងការចុះ អាចរក្សាអ្នកឱ្យនឹងនរ មិនថាកង់ធ្វើអ្វី។ ការចែកហានិភ័យ អាចការពារអ្វីដែលអ្នកកសាង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Fairness and accountability may be central, such as clear terms, honest disclosure and legal protection for investors. Whether you are treated fairly is the real question.",
+        "km": "យុត្តិធម៌ និងគណនេយ្យភាព ប្រហែលជាចំណុចកណ្តាល ដូចជាលក្ខខណ្ឌច្បាស់លាស់ ការបង្ហាញដោយស្មោះត្រង់ និងការការពារផ្លូវច្បាប់សម្រាប់វិនិយោគិន។ ថាតើអ្នកត្រូវបានប្រព្រឹត្តដោយយុត្តិធម៌ឬអត់ គឺជាសំណួរពិត។"
+      },
+      "challenge": {
+        "en": "Check that the investment is properly registered and regulated, and that you understand your rights. Unregulated schemes leave you little protection.",
+        "km": "សូមពិនិត្យថាការវិនិយោគត្រូវបានចុះបញ្ជី និងគ្រប់គ្រងត្រឹមត្រូវ ហើយថាអ្នកយល់ពីសិទ្ធិរបស់អ្នក។ គម្រោងដែលមិនត្រូវបានគ្រប់គ្រង ទុកការការពារតិចតួចសម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Investing only where your rights are clear could give real peace of mind. Fair, transparent terms may protect you if things go wrong.",
+        "km": "ការវិនិយោគតែនៅកន្លែងដែលសិទ្ធិរបស់អ្នកច្បាស់លាស់ អាចផ្តល់ភាពស្ងប់ចិត្តពិតប្រាកដ។ លក្ខខណ្ឌយុត្តិធម៌ និងតម្លាភាព អាចការពារអ្នក ប្រសិនបើអ្វីៗខុស។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "You may be holding back, unsure whether to commit and seeing things from a new angle. A pause can be wise.",
+        "km": "អ្នកប្រហែលជាកំពុងទប់ខ្លួន មិនប្រាកដថាត្រូវប្តេជ្ញាចិត្តឬអត់ ហើយមើលឃើញអ្វីៗពីមុំថ្មី។ ការផ្អាក អាចជាការឆ្លាតវៃ។"
+      },
+      "challenge": {
+        "en": "Be careful of investments that tie up your money with no easy way out. Ask how you could get it out if you needed it.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិយោគដែលចងប្រាក់របស់អ្នក ដោយគ្មានផ្លូវចេញងាយស្រួល។ សូមសួរពីរបៀបដែលអ្នកអាចដកវាចេញ ប្រសិនបើអ្នកត្រូវការវា។"
+      },
+      "outcome": {
+        "en": "Knowing your exit before you enter could make waiting feel safe rather than stuck. A new perspective may reveal a better option.",
+        "km": "ការដឹងពីផ្លូវចេញរបស់អ្នក មុនពេលអ្នកចូល អាចធ្វើឱ្យការរង់ចាំមានអារម្មណ៍សុវត្ថិភាព ជាជាងជាប់គាំង។ ទស្សនៈថ្មី អាចបង្ហាញជម្រើសល្អជាងមុន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "The investment may come as one chapter ends, such as selling a business, receiving a payout or leaving a job. A transition is under way.",
+        "km": "ការវិនិយោគ ប្រហែលជាកើតឡើងនៅពេលជំពូកមួយបញ្ចប់ ដូចជាការលក់អាជីវកម្ម ការទទួលការទូទាត់ ឬការចាកចេញពីការងារ។ ការផ្លាស់ប្តូរមួយ កំពុងដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Think twice before investing a lump sum while still adjusting to a big change. Emotional transitions can cloud money decisions.",
+        "km": "សូមគិតពីរដង មុនពេលវិនិយោគប្រាក់ដុំមួយ ខណៈនៅតែកំពុងសម្របខ្លួនទៅនឹងការផ្លាស់ប្តូរធំ។ ការផ្លាស់ប្តូរផ្លូវចិត្ត អាចធ្វើឱ្យការសម្រេចចិត្តប្រាក់ស្រអាប់។"
+      },
+      "outcome": {
+        "en": "Letting the dust settle before investing could lead to clearer, calmer choices. A new chapter may begin on solid ground.",
+        "km": "ការទុកឱ្យអ្វីៗស្ងប់ មុនពេលវិនិយោគ អាចនាំទៅរកជម្រើសច្បាស់ និងស្ងប់ស្ងាត់ជាងមុន។ ជំពូកថ្មី អាចចាប់ផ្តើមលើដីរឹងមាំ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You may be weighing a balanced approach, mixing safer and riskier choices. Moderation may be guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងវិធីសាស្ត្រមានតុល្យភាព ដោយលាយបញ្ចូលជម្រើសមានសុវត្ថិភាពជាង និងប្រថុយប្រថានជាង។ ភាពល្មម ប្រហែលជាកំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Be wary of putting everything into one investment, however good it looks. A single bet leaves no cushion if it fails.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដាក់អ្វីៗទាំងអស់ទៅក្នុងការវិនិយោគតែមួយ ទោះបីវាមើលទៅល្អយ៉ាងណាក៏ដោយ។ ការភ្នាល់តែមួយ មិនទុកប្រាក់បម្រុង ប្រសិនបើវាបរាជ័យ។"
+      },
+      "outcome": {
+        "en": "Spreading money across several choices could protect you from any single loss. Balance may let your money grow more steadily.",
+        "km": "ការចែកប្រាក់ទៅលើជម្រើសជាច្រើន អាចការពារអ្នកពីការខាតបង់តែមួយណាមួយ។ តុល្យភាព អាចឱ្យប្រាក់របស់អ្នករីកចម្រើនដោយនឹងនរជាងមុន។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "The investment may come with strong pull, such as promises of big returns, pressure from others or a fear of missing out. Temptation is in play.",
+        "km": "ការវិនិយោគ ប្រហែលជាភ្ជាប់មកជាមួយការទាញខ្លាំង ដូចជាការសន្យាផលត្រឡប់ធំ សម្ពាធពីអ្នកដទៃ ឬការភ័យខ្លាចខកខាន។ ការល្បួង កំពុងដើរតួ។"
+      },
+      "challenge": {
+        "en": "Watch for borrowing to invest, or schemes that pay you for recruiting others. Either can bind you to losses you cannot escape.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការខ្ចីប្រាក់ដើម្បីវិនិយោគ ឬគម្រោងដែលបង់ប្រាក់អ្នក សម្រាប់ការជ្រើសរើសអ្នកដទៃ។ ទាំងពីរអាចចងអ្នកទៅនឹងការខាតបង់ដែលអ្នកមិនអាចគេចចេញបាន។"
+      },
+      "outcome": {
+        "en": "Seeing temptation clearly could free you to say no to bad offers. Investing only spare money may keep you in control.",
+        "km": "ការមើលឃើញការល្បួងយ៉ាងច្បាស់ អាចដោះលែងអ្នកឱ្យបដិសេធការផ្តល់ជូនមិនល្អ។ ការវិនិយោគតែប្រាក់ទំនេរ អាចរក្សាអ្នកឱ្យនៅក្នុងការគ្រប់គ្រង។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A sudden change, such as a market drop or unexpected news, may be shaking confidence in investments. Stability may feel uncertain.",
+        "km": "ការផ្លាស់ប្តូរភ្លាមៗ ដូចជាការធ្លាក់ចុះទីផ្សារ ឬដំណឹងមិននឹកស្មានដល់ ប្រហែលជាកំពុងរង្គោះរង្គើទំនុកចិត្តលើការវិនិយោគ។ ស្ថិរភាព ប្រហែលជាមានអារម្មណ៍មិនប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Look out for panic selling or panic buying after a shock. Decisions made in turmoil are often regretted.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការលក់ដោយភ័យស្លន់ស្លោ ឬការទិញដោយភ័យស្លន់ស្លោ បន្ទាប់ពីការភ្ញាក់ផ្អើល។ ការសម្រេចចិត្តដែលធ្វើឡើងក្នុងភាពវឹកវរ ជារឿយៗត្រូវបានសោកស្តាយ។"
+      },
+      "outcome": {
+        "en": "Waiting for calm before acting could protect you from costly reactions. A shake-up may reveal which investments are truly solid.",
+        "km": "ការរង់ចាំភាពស្ងប់ស្ងាត់ មុនពេលធ្វើសកម្មភាព អាចការពារអ្នកពីប្រតិកម្មថ្លៃៗ។ ការរង្គោះរង្គើ អាចបង្ហាញថាការវិនិយោគណាពិតជារឹងមាំ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope may be pulling you toward an investment that promises a brighter future, perhaps after a hard stretch. The story behind it may feel inspiring.",
+        "km": "ក្តីសង្ឃឹម ប្រហែលជាកំពុងទាញអ្នកឆ្ពោះទៅរកការវិនិយោគដែលសន្យាអនាគតភ្លឺស្វាង ប្រហែលជាបន្ទាប់ពីដំណាក់កាលលំបាក។ រឿងនៅពីក្រោយវា ប្រហែលជាមានអារម្មណ៍បំផុសគំនិត។"
+      },
+      "challenge": {
+        "en": "Be careful of letting hope replace research. A good story is not the same as a good investment.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកឱ្យក្តីសង្ឃឹមជំនួសការស្រាវជ្រាវ។ រឿងល្អ មិនដូចគ្នានឹងការវិនិយោគល្អទេ។"
+      },
+      "outcome": {
+        "en": "Hope grounded in facts could lead to an investment you feel good about. A careful choice may support your future.",
+        "km": "ក្តីសង្ឃឹមដែលផ្អែកលើការពិត អាចនាំទៅរកការវិនិយោគដែលអ្នកមានអារម្មណ៍ល្អ។ ជម្រើសប្រុងប្រយ័ត្ន អាចគាំទ្រអនាគតរបស់អ្នក។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Much about the investment may be unclear, with vague information, rumours or complex terms. How the money actually makes money may not be obvious.",
+        "km": "អ្វីៗជាច្រើនអំពីការវិនិយោគ ប្រហែលជាមិនច្បាស់ ដោយព័ត៌មានស្រពិចស្រពិល ពាក្យចចាមអារ៉ាម ឬលក្ខខណ្ឌស្មុគស្មាញ។ របៀបដែលប្រាក់ពិតជារកប្រាក់ ប្រហែលជាមិនច្បាស់។"
+      },
+      "challenge": {
+        "en": "Steer clear of putting money into anything you cannot explain in simple words to a friend. Complexity is a favourite hiding place for risk.",
+        "km": "សូមនៅឆ្ងាយពីការដាក់ប្រាក់ទៅក្នុងអ្វីដែលអ្នកមិនអាចពន្យល់ជាពាក្យសាមញ្ញដល់មិត្តម្នាក់។ ភាពស្មុគស្មាញ គឺជាកន្លែងលាក់ខ្លួនដែលហានិភ័យចូលចិត្ត។"
+      },
+      "outcome": {
+        "en": "Insisting on clarity could protect you from hidden dangers. Understanding what you invest in may bring real confidence.",
+        "km": "ការទទូចលើភាពច្បាស់លាស់ អាចការពារអ្នកពីគ្រោះថ្នាក់លាក់កំបាំង។ ការយល់ពីអ្វីដែលអ្នកវិនិយោគ អាចនាំមកនូវទំនុកចិត្តពិតប្រាកដ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Things may be going well, with money available and confidence high. Success may make investing feel easy.",
+        "km": "អ្វីៗប្រហែលជាកំពុងដំណើរការល្អ ដោយមានប្រាក់ និងទំនុកចិត្តខ្ពស់។ ភាពជោគជ័យ អាចធ្វើឱ្យការវិនិយោគមានអារម្មណ៍ងាយស្រួល។"
+      },
+      "challenge": {
+        "en": "Watch for overconfidence after a run of good results. Past success does not guarantee the next investment will work.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះទំនុកចិត្តហួសហេតុ បន្ទាប់ពីលទ្ធផលល្អជាបន្តបន្ទាប់។ ភាពជោគជ័យកន្លងមក មិនធានាថាការវិនិយោគបន្ទាប់នឹងដំណើរការទេ។"
+      },
+      "outcome": {
+        "en": "Investing with the same care you would in harder conditions could keep good fortune working for you. Success may grow steadily.",
+        "km": "ការវិនិយោគ ជាមួយការប្រុងប្រយ័ត្នដូចដែលអ្នកនឹងធ្វើក្នុងលក្ខខណ្ឌលំបាក អាចរក្សាសំណាងល្អឱ្យធ្វើការសម្រាប់អ្នក។ ភាពជោគជ័យ អាចរីកចម្រើនដោយនឹងនរ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You may be reviewing past investments and what they taught you. Lessons may be shaping this decision.",
+        "km": "អ្នកប្រហែលជាកំពុងពិនិត្យការវិនិយោគកន្លងមក និងអ្វីដែលវាបានបង្រៀនអ្នក។ មេរៀន ប្រហែលជាកំពុងរៀបចំការសម្រេចចិត្តនេះ។"
+      },
+      "challenge": {
+        "en": "Be wary of repeating a past mistake, such as chasing a loss or trusting the wrong adviser. Old patterns can return.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើកំហុសកន្លងមកម្តងទៀត ដូចជាការដេញតាមការខាតបង់ ឬការទុកចិត្តទីប្រឹក្សាខុស។ លំនាំចាស់ អាចត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "Applying hard-won lessons could lead to a wiser investment. Honest review may protect you from repeating errors.",
+        "km": "ការអនុវត្តមេរៀនដែលទទួលបានដោយលំបាក អាចនាំទៅរកការវិនិយោគដ៏ឆ្លាតវៃជាងមុន។ ការពិនិត្យដោយស្មោះត្រង់ អាចការពារអ្នកពីការធ្វើកំហុសម្តងទៀត។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You may have reached a milestone, such as a savings goal met or a debt cleared, that makes investing possible. A cycle may be complete.",
+        "km": "អ្នកប្រហែលជាបានឈានដល់សមិទ្ធផលមួយ ដូចជាគោលដៅសន្សំត្រូវបានសម្រេច ឬបំណុលត្រូវបានសងអស់ ដែលធ្វើឱ្យការវិនិយោគអាចទៅរួច។ វដ្តមួយ ប្រហែលជាបានបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Take care not to invest your entire safety net in excitement over reaching the goal. Keep a cushion before investing the rest.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំវិនិយោគសំណាញ់សុវត្ថិភាពទាំងមូលរបស់អ្នក ដោយភាពរំភើបលើការឈានដល់គោលដៅ។ សូមរក្សាប្រាក់បម្រុង មុនពេលវិនិយោគអ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Investing from a secure base could let a new chapter of growth begin. Completion may open the next door.",
+        "km": "ការវិនិយោគពីមូលដ្ឋានមានសុវត្ថិភាព អាចឱ្យជំពូកថ្មីនៃការរីកចម្រើនចាប់ផ្តើម។ ការបញ្ចប់ អាចបើកទ្វារបន្ទាប់។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A spark of opportunity may be calling for your money, such as a new venture, product or start-up. Fresh energy surrounds the idea.",
+        "km": "ផ្កាភ្លើងនៃឱកាស ប្រហែលជាកំពុងហៅប្រាក់របស់អ្នក ដូចជាគម្រោងថ្មី ផលិតផល ឬអាជីវកម្មចាប់ផ្តើម។ ថាមពលថ្មីព័ទ្ធជុំវិញគំនិតនេះ។"
+      },
+      "challenge": {
+        "en": "Be wary of backing a brand-new idea with no track record using money you need. Unproven ventures fail more often than they succeed.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការគាំទ្រគំនិតថ្មីស្រឡាងដែលគ្មានប្រវត្តិ ដោយប្រើប្រាក់ដែលអ្នកត្រូវការ។ គម្រោងដែលមិនទាន់បញ្ជាក់ បរាជ័យញឹកញាប់ជាងជោគជ័យ។"
+      },
+      "outcome": {
+        "en": "Putting in only what you can spare could let you share in the excitement without endangering your security. A small stake may still grow.",
+        "km": "ការដាក់តែអ្វីដែលអ្នកអាចទុកបាន អាចឱ្យអ្នកចែករំលែកភាពរំភើប ដោយមិនធ្វើឱ្យសុវត្ថិភាពរបស់អ្នកស្ថិតក្នុងគ្រោះថ្នាក់។ ចំណែកតូចមួយ អាចនៅតែរីកចម្រើន។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You may be planning where to put your money, mapping options and weighing future growth. Several routes for your savings may be on the table.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀបចំផែនការថាត្រូវដាក់ប្រាក់របស់អ្នកនៅឯណា ដោយគូសផែនទីជម្រើស និងថ្លឹងថ្លែងការរីកចម្រើននាពេលខាងមុខ។ ផ្លូវជាច្រើនសម្រាប់ប្រាក់សន្សំរបស់អ្នក ប្រហែលជានៅលើតុ។"
+      },
+      "challenge": {
+        "en": "Check that your plan accounts for fees, taxes and the chance of losing money, not just the hoped-for return. Best-case plans mislead.",
+        "km": "សូមពិនិត្យថាផែនការរបស់អ្នក គិតគូរពីថ្លៃសេវា ពន្ធ និងឱកាសនៃការបាត់បង់ប្រាក់ មិនមែនត្រឹមតែផលត្រឡប់ដែលសង្ឃឹមនោះទេ។ ផែនការករណីល្អបំផុត បំភាន់។"
+      },
+      "outcome": {
+        "en": "A plan that counts every cost and risk could let you invest with clear eyes. Wider horizons may open on solid ground.",
+        "km": "ផែនការដែលរាប់ថ្លៃដើម និងហានិភ័យនីមួយៗ អាចឱ្យអ្នកវិនិយោគដោយភ្នែកច្បាស់។ ជើងមេឃទូលាយជាងមុន អាចបើកលើដីរឹងមាំ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "An investment may seem to promise expansion, such as new markets or a growing business to buy into. Prospects look wide.",
+        "km": "ការវិនិយោគ ប្រហែលជាហាក់ដូចជាសន្យាការពង្រីក ដូចជាទីផ្សារថ្មី ឬអាជីវកម្មដែលកំពុងរីកចម្រើនដើម្បីទិញចូល។ ទស្សនវិស័យមើលទៅទូលាយ។"
+      },
+      "challenge": {
+        "en": "Look out for projections that assume growth will continue smoothly. Ask what happens if it stalls.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការព្យាករណ៍ដែលសន្មតថាការរីកចម្រើននឹងបន្តដោយរលូន។ សូមសួរថាអ្វីកើតឡើង ប្រសិនបើវាជាប់គាំង។"
+      },
+      "outcome": {
+        "en": "Testing growth claims against slower scenarios could reveal the real value. Measured optimism may lead to a sound stake.",
+        "km": "ការសាកល្បងការអះអាងអំពីការរីកចម្រើន ធៀបនឹងសេណារីយ៉ូយឺតជាង អាចបង្ហាញតម្លៃពិត។ សុទិដ្ឋិនិយមដែលមានកម្រិត អាចនាំទៅរកចំណែកដ៏ល្អ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "The investment may be tied to a happy milestone, such as buying premises, opening a shop or marking a success. Good feeling may be colouring the numbers.",
+        "km": "ការវិនិយោគ ប្រហែលជាជាប់ទាក់ទងនឹងសមិទ្ធផលដ៏រីករាយ ដូចជាការទិញទីតាំង ការបើកហាង ឬការសម្គាល់ភាពជោគជ័យ។ អារម្មណ៍ល្អ ប្រហែលជាកំពុងជះពណ៌លើតួលេខ។"
+      },
+      "challenge": {
+        "en": "Take care that celebration does not lead you to overspend or skip checks. Big purchases deserve sober review.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យការអបអរ នាំអ្នកឱ្យចំណាយហួសហេតុ ឬរំលងការពិនិត្យ។ ការទិញធំៗ សមនឹងទទួលការពិនិត្យដោយស្ងប់ស្ងាត់។"
+      },
+      "outcome": {
+        "en": "Investing in a milestone with careful checks could bring lasting security and joy. A sound foundation may support future celebrations.",
+        "km": "ការវិនិយោគលើសមិទ្ធផល ជាមួយការពិនិត្យដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវសុវត្ថិភាព និងសេចក្តីរីករាយយូរអង្វែង។ គ្រឹះល្អ អាចគាំទ្រការអបអរនាពេលខាងមុខ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "There may be competition for an investment, with others bidding or pressure to act before someone else does. Fear of losing out may be loud.",
+        "km": "ប្រហែលជាមានការប្រកួតប្រជែងសម្រាប់ការវិនិយោគ ដោយអ្នកដទៃដេញថ្លៃ ឬសម្ពាធឱ្យធ្វើសកម្មភាព មុនពេលនរណាម្នាក់ផ្សេងធ្វើ។ ការភ័យខ្លាចខកខាន ប្រហែលជាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Beware of bidding up a price just to beat others. Winning an auction can mean overpaying.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដេញថ្លៃឡើង គ្រាន់តែដើម្បីយកឈ្នះអ្នកដទៃ។ ការឈ្នះការដេញថ្លៃ អាចមានន័យថាការបង់ច្រើនហួស។"
+      },
+      "outcome": {
+        "en": "Setting your maximum before bidding could keep you from overpaying in a contest. Walking away may be the real win.",
+        "km": "ការកំណត់អតិបរមារបស់អ្នក មុនពេលដេញថ្លៃ អាចការពារអ្នកពីការបង់ច្រើនហួសក្នុងការប្រកួតប្រជែង។ ការដើរចេញ អាចជាជ័យជម្នះពិតប្រាកដ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "An investment may come with prestige, such as backing a well-known name or joining a successful group. Recognition is part of the appeal.",
+        "km": "ការវិនិយោគ ប្រហែលជាភ្ជាប់មកជាមួយកិត្យានុភាព ដូចជាការគាំទ្រឈ្មោះល្បី ឬការចូលរួមក្រុមជោគជ័យ។ ការទទួលស្គាល់ គឺជាផ្នែកមួយនៃការទាក់ទាញ។"
+      },
+      "challenge": {
+        "en": "Watch for investing to impress others or to feel part of an exclusive circle. Status is not the same as returns.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិយោគ ដើម្បីធ្វើឱ្យអ្នកដទៃចាប់អារម្មណ៍ ឬដើម្បីមានអារម្មណ៍ជាផ្នែកមួយនៃរង្វង់ពិសេស។ ឋានៈ មិនដូចគ្នានឹងផលត្រឡប់ទេ។"
+      },
+      "outcome": {
+        "en": "Judging the investment on its merits rather than its image could lead to a better choice. Quiet success may outlast showy wins.",
+        "km": "ការវិនិច្ឆ័យការវិនិយោគ តាមគុណសម្បត្តិរបស់វា ជាជាងរូបភាពរបស់វា អាចនាំទៅរកជម្រើសល្អជាងមុន។ ភាពជោគជ័យស្ងាត់ៗ អាចស្ថិតស្ថេរជាងជ័យជម្នះដែលបង្ហាញ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may be resisting pressure to invest, or to change a plan you are happy with. Saying no to persuasive people may be wearing you down.",
+        "km": "អ្នកប្រហែលជាកំពុងទប់ទល់នឹងសម្ពាធឱ្យវិនិយោគ ឬផ្លាស់ប្តូរផែនការដែលអ្នកពេញចិត្ត។ ការបដិសេធមនុស្សដែលបញ្ចុះបញ្ចូលបានល្អ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកអស់កម្លាំង។"
+      },
+      "challenge": {
+        "en": "Be careful of giving in to persistent sales pressure or family expectations. It is your money and your choice.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចុះចាញ់សម្ពាធលក់ដែលតស៊ូ ឬការរំពឹងទុករបស់គ្រួសារ។ វាជាប្រាក់របស់អ្នក និងជម្រើសរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Holding your ground until you are ready could keep your money safe from pushy offers. A steady no may protect more than any clever yes.",
+        "km": "ការកាន់ជំហររបស់អ្នក រហូតដល់អ្នកត្រៀមរួចរាល់ អាចរក្សាប្រាក់របស់អ្នកឱ្យមានសុវត្ថិភាពពីការផ្តល់ជូនដែលបង្ខិតបង្ខំ។ ការបដិសេធដោយនឹងនរ អាចការពារបានច្រើនជាងការយល់ព្រមដ៏ឆ្លាតណាមួយ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things may be moving fast, with an offer that seems to demand an instant answer. Urgency is being pressed on you.",
+        "km": "អ្វីៗប្រហែលជាកំពុងផ្លាស់ទីយ៉ាងលឿន ជាមួយការផ្តល់ជូនដែលហាក់ដូចជាត្រូវការចម្លើយភ្លាមៗ។ ភាពបន្ទាន់ កំពុងត្រូវបានសង្កត់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "Treat any pressure to invest on the spot as a warning sign. Genuine opportunities can survive a pause to check.",
+        "km": "សូមចាត់ទុកសម្ពាធណាមួយឱ្យវិនិយោគភ្លាមៗ ជាសញ្ញាព្រមាន។ ឱកាសពិតប្រាកដ អាចរង់ចាំការផ្អាកដើម្បីពិនិត្យ។"
+      },
+      "outcome": {
+        "en": "Slowing the pace to verify could protect you from scams and rushed mistakes. An honest offer may still be standing once your checks are done.",
+        "km": "ការបន្ថយល្បឿនដើម្បីផ្ទៀងផ្ទាត់ អាចការពារអ្នកពីការបោកប្រាស់ និងកំហុសប្រញាប់ប្រញាល់។ ការផ្តល់ជូនស្មោះត្រង់ អាចនៅតែឈរ នៅពេលការពិនិត្យរបស់អ្នកត្រូវបានធ្វើរួច។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may have been through investment losses before and feel guarded, wary of trusting again. Experience has made you cautious.",
+        "km": "អ្នកប្រហែលជាបានឆ្លងកាត់ការខាតបង់ការវិនិយោគពីមុន ហើយមានអារម្មណ៍ការពារខ្លួន ប្រុងប្រយ័ត្នក្នុងការទុកចិត្តម្តងទៀត។ បទពិសោធន៍ បានធ្វើឱ្យអ្នកប្រុងប្រយ័ត្ន។"
+      },
+      "challenge": {
+        "en": "Look out for being so wary that you miss sound opportunities, or so tired that you drop your guard. Balance caution with clarity.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រុងប្រយ័ត្នខ្លាំងពេក រហូតអ្នកខកខានឱកាសល្អ ឬអស់កម្លាំងពេក រហូតអ្នកបន្ថយការប្រុងប្រយ័ត្ន។ សូមធ្វើឱ្យការប្រុងប្រយ័ត្នមានតុល្យភាពជាមួយភាពច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Using past lessons wisely could help you invest more safely and sleep better. Hard-won caution may steer you toward sounder choices.",
+        "km": "ការប្រើមេរៀនកន្លងមកដោយឆ្លាតវៃ អាចជួយអ្នកវិនិយោគដោយសុវត្ថិភាពជាងមុន និងដេកលក់ស្រួលជាងមុន។ ការប្រុងប្រយ័ត្នដែលទទួលបានដោយលំបាក អាចដឹកនាំអ្នកទៅរកជម្រើសល្អជាងមុន។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may already be carrying many financial commitments, and an investment could add to the load. Loans, bills and dependants may leave little spare.",
+        "km": "អ្នកប្រហែលជាកំពុងលីកាតព្វកិច្ចហិរញ្ញវត្ថុជាច្រើនរួចហើយ ហើយការវិនិយោគអាចបន្ថែមលើបន្ទុក។ ប្រាក់កម្ចី វិក្កយបត្រ និងអ្នកដែលពឹងផ្អែក អាចទុកប្រាក់ទំនេរតិចតួច។"
+      },
+      "challenge": {
+        "en": "Be wary of investing while carrying high-interest debt. Paying debt down may be a safer first step.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិយោគ ខណៈលីបំណុលការប្រាក់ខ្ពស់។ ការសងបំណុលចុះ អាចជាជំហានដំបូងដែលមានសុវត្ថិភាពជាង។"
+      },
+      "outcome": {
+        "en": "Clearing high-cost debts before investing could make any future returns truly yours. A lighter load may leave more to put to work.",
+        "km": "ការសងបំណុលថ្លៃៗ មុនពេលវិនិយោគ អាចធ្វើឱ្យផលត្រឡប់នាពេលខាងមុខពិតជារបស់អ្នក។ បន្ទុកស្រាលជាងមុន អាចទុកប្រាក់កាន់តែច្រើនដើម្បីដាក់ឱ្យធ្វើការ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You may be new to investing, curious and eager to learn how it works. Questions may still outnumber answers.",
+        "km": "អ្នកប្រហែលជាថ្មីចំពោះការវិនិយោគ ដោយចង់ដឹង និងចង់រៀនពីរបៀបដែលវាដំណើរការ។ សំណួរ ប្រហែលជាច្រើនជាងចម្លើយ។"
+      },
+      "challenge": {
+        "en": "Watch for tips from social media or friends that promise easy gains. Learn the basics from trusted sources first.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះគន្លឹះពីបណ្តាញសង្គម ឬមិត្តភក្តិ ដែលសន្យាផលចំណេញងាយស្រួល។ សូមរៀនមូលដ្ឋានគ្រឹះពីប្រភពដែលគួរឱ្យទុកចិត្តជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Learning before investing could build confidence and protect your money. Small, informed steps may lead somewhere good.",
+        "km": "ការរៀន មុនពេលវិនិយោគ អាចកសាងទំនុកចិត្ត និងការពារប្រាក់របស់អ្នក។ ជំហានតូចៗដែលមានព័ត៌មាន អាចនាំទៅកន្លែងល្អ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You may feel eager to jump into an investment, bold and impatient for results. Waiting may feel like missing out.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ចង់លោតចូលទៅក្នុងការវិនិយោគ ដោយក្លាហាន និងមិនអាចរង់ចាំលទ្ធផល។ ការរង់ចាំ ប្រហែលជាមានអារម្មណ៍ដូចជាការខកខាន។"
+      },
+      "challenge": {
+        "en": "Beware of moving large sums on impulse, before you have checked what could go wrong. Impatience is one of the costliest habits in investing.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្លាស់ទីប្រាក់ច្រើនដោយមិនបានគិត មុនពេលអ្នកបានពិនិត្យថាអ្វីអាចខុស។ ភាពមិនអត់ធ្មត់ គឺជាទម្លាប់ថ្លៃបំផុតមួយក្នុងការវិនិយោគ។"
+      },
+      "outcome": {
+        "en": "Channelling boldness into a careful plan could bring real progress without needless loss. Energy paired with patience may go far.",
+        "km": "ការបង្វែរភាពក្លាហាន ទៅក្នុងផែនការប្រុងប្រយ័ត្ន អាចនាំមកនូវការរីកចម្រើនពិតប្រាកដ ដោយគ្មានការខាតបង់មិនចាំបាច់។ ថាមពលដែលផ្គូផ្គងជាមួយការអត់ធ្មត់ អាចទៅបានឆ្ងាយ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You may feel confident and capable about investing, warm and willing to back others' ideas. Friends may already be asking you to put money in.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មានទំនុកចិត្ត និងសមត្ថភាពអំពីការវិនិយោគ ដោយកក់ក្តៅ និងសុខចិត្តគាំទ្រគំនិតរបស់អ្នកដទៃ។ មិត្តភក្តិ ប្រហែលជាកំពុងសុំឱ្យអ្នកដាក់ប្រាក់រួចហើយ។"
+      },
+      "challenge": {
+        "en": "Take care with investing in friends' or family's ventures out of loyalty alone. Treat it as an investment, with terms and checks.",
+        "km": "សូមប្រុងប្រយ័ត្នជាមួយការវិនិយោគលើគម្រោងរបស់មិត្តភក្តិ ឬគ្រួសារ ដោយសារភាពស្មោះត្រង់តែម្យ៉ាង។ សូមចាត់ទុកវាជាការវិនិយោគ ជាមួយលក្ខខណ្ឌ និងការពិនិត្យ។"
+      },
+      "outcome": {
+        "en": "Supporting others with clear terms could protect both money and relationships. Generosity with boundaries may serve you well.",
+        "km": "ការគាំទ្រអ្នកដទៃ ជាមួយលក្ខខណ្ឌច្បាស់លាស់ អាចការពារទាំងប្រាក់ និងទំនាក់ទំនង។ ចិត្តសប្បុរសជាមួយព្រំដែន អាចបម្រើអ្នកបានល្អ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You may have a bold vision for your money, ready to take charge of your financial future. Big goals may be shaping the choice.",
+        "km": "អ្នកប្រហែលជាមានចក្ខុវិស័យក្លាហានសម្រាប់ប្រាក់របស់អ្នក ដោយត្រៀមខ្លួនទទួលបន្ទុកអនាគតហិរញ្ញវត្ថុរបស់អ្នក។ គោលដៅធំៗ ប្រហែលជាកំពុងរៀបចំជម្រើស។"
+      },
+      "challenge": {
+        "en": "Guard against making big commitments based on vision alone. Even an ambitious plan needs careful numbers and a fallback.",
+        "km": "សូមការពារខ្លួនពីការធ្វើការប្តេជ្ញាធំៗ ដោយផ្អែកលើចក្ខុវិស័យតែម្យ៉ាង។ សូម្បីតែផែនការដ៏មានមហិច្ឆតា ក៏ត្រូវការតួលេខប្រុងប្រយ័ត្ន និងផែនការបម្រុង។"
+      },
+      "outcome": {
+        "en": "Combining vision with discipline could build lasting wealth over a careful path. Bold goals may become real when the details are respected.",
+        "km": "ការរួមបញ្ចូលចក្ខុវិស័យជាមួយវិន័យ អាចកសាងទ្រព្យសម្បត្តិយូរអង្វែង តាមផ្លូវប្រុងប្រយ័ត្ន។ គោលដៅក្លាហាន អាចក្លាយជាការពិត នៅពេលព័ត៌មានលម្អិតត្រូវបានគោរព។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your heart may be drawn to an investment that means something to you, such as a cause, a friend's dream or a passion project. Feeling is leading.",
+        "km": "បេះដូងរបស់អ្នក ប្រហែលជាត្រូវបានទាញទៅរកការវិនិយោគដែលមានអត្ថន័យសម្រាប់អ្នក ដូចជាបុព្វហេតុ ក្តីសុបិនរបស់មិត្ត ឬគម្រោងចំណង់ចំណូលចិត្ត។ អារម្មណ៍កំពុងដឹកនាំ។"
+      },
+      "challenge": {
+        "en": "Be wary of investing with your heart while ignoring the numbers. Decide what you can afford to give, separate from what you hope to gain.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិយោគដោយបេះដូង ខណៈមិនអើពើនឹងតួលេខ។ សូមសម្រេចថាអ្នកអាចមានលទ្ធភាពផ្តល់ប៉ុន្មាន ដាច់ដោយឡែកពីអ្វីដែលអ្នកសង្ឃឹមទទួលបាន។"
+      },
+      "outcome": {
+        "en": "Supporting what you love within clear limits could bring joy without regret. A heartfelt stake may feel worthwhile whatever the return.",
+        "km": "ការគាំទ្រអ្វីដែលអ្នកស្រឡាញ់ ក្នុងដែនកំណត់ច្បាស់លាស់ អាចនាំមកនូវសេចក្តីរីករាយ ដោយគ្មានការសោកស្តាយ។ ចំណែកពីបេះដូង អាចមានអារម្មណ៍សមនឹងតម្លៃ មិនថាផលត្រឡប់យ៉ាងណា។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "The investment may be shared with a partner or close friend, two people pooling money and trust. Your relationship may be invested as much as your money.",
+        "km": "ការវិនិយោគ ប្រហែលជាត្រូវបានចែករំលែកជាមួយដៃគូ ឬមិត្តជិតស្និទ្ធ មនុស្សពីរនាក់ប្រមូលប្រាក់ និងការទុកចិត្ត។ ទំនាក់ទំនងរបស់អ្នក ប្រហែលជាត្រូវបានវិនិយោគដូចប្រាក់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for pooling money without agreeing who owns what and how you would split it if you parted. Put it in writing.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រមូលប្រាក់ ដោយមិនព្រមព្រៀងថាអ្នកណាជាម្ចាស់អ្វី និងរបៀបដែលអ្នកនឹងបែងចែកវា ប្រសិនបើអ្នកបែកគ្នា។ សូមសរសេរវាជាលាយលក្ខណ៍អក្សរ។"
+      },
+      "outcome": {
+        "en": "A shared investment with clear terms could strengthen both your finances and your bond. Mutual trust may grow alongside the money.",
+        "km": "ការវិនិយោគរួមគ្នា ជាមួយលក្ខខណ្ឌច្បាស់លាស់ អាចពង្រឹងទាំងហិរញ្ញវត្ថុ និងចំណងរបស់អ្នក។ ការទុកចិត្តគ្នាទៅវិញទៅមក អាចរីកចម្រើនស្របជាមួយប្រាក់។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A group of friends or community members may be investing together, such as a savings circle or shared venture. Togetherness is part of it.",
+        "km": "ក្រុមមិត្តភក្តិ ឬសមាជិកសហគមន៍ ប្រហែលជាកំពុងវិនិយោគជាមួយគ្នា ដូចជាក្រុមសន្សំប្រាក់ ឬគម្រោងរួមគ្នា។ ភាពរួមគ្នា គឺជាផ្នែកមួយរបស់វា។"
+      },
+      "challenge": {
+        "en": "Look out for group schemes with no clear records or no one accountable for the money. Trust between friends still needs rules.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះគម្រោងក្រុម ដែលគ្មានកំណត់ត្រាច្បាស់លាស់ ឬគ្មាននរណាម្នាក់ទទួលខុសត្រូវចំពោះប្រាក់។ ការទុកចិត្តរវាងមិត្តភក្តិ នៅតែត្រូវការច្បាប់។"
+      },
+      "outcome": {
+        "en": "A well-organised group investment could bring both returns and stronger community ties. Shared success may feel especially sweet.",
+        "km": "ការវិនិយោគជាក្រុមដែលរៀបចំបានល្អ អាចនាំមកនូវទាំងផលត្រឡប់ និងចំណងសហគមន៍រឹងមាំជាងមុន។ ភាពជោគជ័យរួមគ្នា អាចមានអារម្មណ៍ផ្អែមល្ហែមជាពិសេស។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel unmoved by the investment options on offer, as if none quite fit your goals. The usual suggestions may leave you cold.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មិនរំភើបដោយជម្រើសវិនិយោគដែលមាន ដូចជាគ្មានមួយណាសមនឹងគោលដៅរបស់អ្នកទាំងស្រុង។ ការណែនាំធម្មតា ប្រហែលជាធ្វើឱ្យអ្នកព្រងើយ។"
+      },
+      "challenge": {
+        "en": "Be careful of investing out of boredom or a feeling that you should be doing something. Idle money is not always a problem.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិយោគ ដោយសារភាពធុញទ្រាន់ ឬអារម្មណ៍ថាអ្នកគួរតែធ្វើអ្វីមួយ។ ប្រាក់ទំនេរ មិនតែងតែជាបញ្ហានោះទេ។"
+      },
+      "outcome": {
+        "en": "Waiting for an option that truly suits you could lead to a better choice. Patience may reveal an opportunity worth taking.",
+        "km": "ការរង់ចាំជម្រើសដែលពិតជាសមនឹងអ្នក អាចនាំទៅរកជម្រើសល្អជាងមុន។ ការអត់ធ្មត់ អាចបង្ហាញឱកាសដែលសមនឹងការទទួលយក។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "You may be carrying the sting of a past investment loss, with regret still fresh. Disappointment may be colouring your view.",
+        "km": "អ្នកប្រហែលជាកំពុងលីការឈឺចាប់នៃការខាតបង់ការវិនិយោគកន្លងមក ដោយការសោកស្តាយនៅតែថ្មីៗ។ ការខកចិត្ត ប្រហែលជាកំពុងជះពណ៌លើទស្សនៈរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Be careful of trying to win back an old loss with a bigger, riskier investment. The urge to break even has emptied many savings.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការព្យាយាមរកការខាតបង់ចាស់មកវិញ ជាមួយការវិនិយោគធំជាង និងប្រថុយប្រថានជាង។ ការជំរុញឱ្យរួចខ្លួន បានធ្វើឱ្យប្រាក់សន្សំជាច្រើនទទេ។"
+      },
+      "outcome": {
+        "en": "Writing off the old loss and starting fresh with small, careful steps could protect what remains. The lesson may be worth more than the money.",
+        "km": "ការលុបចោលការខាតបង់ចាស់ ហើយចាប់ផ្តើមថ្មីជាមួយជំហានតូចៗ និងប្រុងប្រយ័ត្ន អាចការពារអ្វីដែលនៅសល់។ មេរៀន អាចមានតម្លៃជាងប្រាក់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "The investment may be connected to the past, such as family land, an old business or something passed down. Sentiment may be strong.",
+        "km": "ការវិនិយោគ ប្រហែលជាភ្ជាប់ទៅនឹងអតីតកាល ដូចជាដីគ្រួសារ អាជីវកម្មចាស់ ឬអ្វីមួយដែលបន្តពីដូនតា។ អារម្មណ៍ ប្រហែលជាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Be wary of paying too much or holding on too long because of sentimental value. Separate the memory from the money.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបង់ច្រើនពេក ឬការកាន់ខ្ជាប់ដោយសារតម្លៃខាងអារម្មណ៍។ សូមបំបែកអនុស្សាវរីយ៍ពីប្រាក់។"
+      },
+      "outcome": {
+        "en": "Honouring the past while judging the numbers fairly could lead to a balanced choice. Heritage may still be part of a sound plan.",
+        "km": "ការគោរពអតីតកាល ខណៈវិនិច្ឆ័យតួលេខដោយយុត្តិធម៌ អាចនាំទៅរកជម្រើសមានតុល្យភាព។ មរតក អាចនៅតែជាផ្នែកមួយនៃផែនការល្អ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Glossy investment offers may be competing for your attention, each promising a different dream. Separating real prospects from fantasy may be hard.",
+        "km": "ការផ្តល់ជូនវិនិយោគភ្លឺរលោង ប្រហែលជាកំពុងប្រកួតប្រជែងដើម្បីការយកចិត្តទុកដាក់របស់អ្នក ដែលនីមួយៗសន្យាក្តីសុបិនខុសៗគ្នា។ ការបែងចែកទស្សនវិស័យពិតពីការស្រមើស្រមៃ ប្រហែលជាពិបាក។"
+      },
+      "challenge": {
+        "en": "Beware of offers promising guaranteed or unusually high returns. Promises like that are a classic sign of a scam.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្តល់ជូនដែលសន្យាផលត្រឡប់ដែលធានា ឬខ្ពស់ខុសធម្មតា។ ការសន្យាបែបនោះ គឺជាសញ្ញាបុរាណនៃការបោកប្រាស់។"
+      },
+      "outcome": {
+        "en": "Checking each offer with an official regulator could clear away the illusions. What survives the checks may be worth a closer look.",
+        "km": "ការពិនិត្យការផ្តល់ជូននីមួយៗ ជាមួយនិយតករផ្លូវការ អាចបំបាត់ការបំភាន់។ អ្វីដែលឆ្លងផុតការពិនិត្យ អាចសមនឹងការមើលឱ្យជិត។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be considering pulling out of an investment that no longer feels right, or turning away from one on offer. Something deeper may be calling.",
+        "km": "អ្នកប្រហែលជាកំពុងពិចារណាដកចេញពីការវិនិយោគដែលលែងមានអារម្មណ៍ត្រឹមត្រូវ ឬបដិសេធការវិនិយោគដែលកំពុងផ្តល់ជូន។ អ្វីមួយដែលជ្រៅជាងនេះ ប្រហែលជាកំពុងហៅ។"
+      },
+      "challenge": {
+        "en": "Check exit fees and terms before walking away, so leaving does not cost more than staying. Know the price of your exit.",
+        "km": "សូមពិនិត្យថ្លៃសេវា និងលក្ខខណ្ឌចាកចេញ មុនពេលដើរចេញ ដើម្បីកុំឱ្យការចាកចេញចំណាយច្រើនជាងការនៅ។ សូមដឹងពីតម្លៃនៃការចាកចេញរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Leaving wisely could free your money for something that suits you better. Walking away may be the right move.",
+        "km": "ការចាកចេញដោយឆ្លាតវៃ អាចដោះលែងប្រាក់របស់អ្នកសម្រាប់អ្វីមួយដែលសមនឹងអ្នកប្រសើរជាង។ ការដើរចេញ អាចជាការផ្លាស់ទីត្រឹមត្រូវ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You may be in a comfortable position, with some money to spare and a wish to make it grow. Investing may feel like the natural next step.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងទីតាំងស្រួល ដោយមានប្រាក់ទំនេរខ្លះ និងបំណងចង់ឱ្យវារីកចម្រើន។ ការវិនិយោគ ប្រហែលជាមានអារម្មណ៍ដូចជាជំហានបន្ទាប់ធម្មជាតិ។"
+      },
+      "challenge": {
+        "en": "Take care not to let comfort make you careless with checks and paperwork. Spare money can still be lost to a poor choice.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យភាពស្រួល ធ្វើឱ្យអ្នកធ្វេសប្រហែសជាមួយការពិនិត្យ និងឯកសារ។ ប្រាក់ទំនេរ នៅតែអាចបាត់បង់ដោយសារជម្រើសខ្សោយ។"
+      },
+      "outcome": {
+        "en": "Investing spare money with care could add steadily to your comfort and independence. A well-chosen stake may fulfil a cherished wish.",
+        "km": "ការវិនិយោគប្រាក់ទំនេរដោយប្រុងប្រយ័ត្ន អាចបន្ថែមដោយនឹងនរលើភាពស្រួល និងឯករាជ្យភាពរបស់អ្នក។ ចំណែកដែលជ្រើសរើសបានល្អ អាចបំពេញបំណងប្រាថ្នាដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "The investment may be about family security, such as a home, education or the future of loved ones. Shared wellbeing is at stake.",
+        "km": "ការវិនិយោគ ប្រហែលជាអំពីសុវត្ថិភាពគ្រួសារ ដូចជាផ្ទះ ការអប់រំ ឬអនាគតរបស់មនុស្សជាទីស្រឡាញ់។ សុខុមាលភាពរួម ស្ថិតក្នុងហានិភ័យ។"
+      },
+      "challenge": {
+        "en": "Be wary of deciding alone on something that affects the whole family. Talk openly and agree together.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសម្រេចចិត្តតែម្នាក់ឯង លើអ្វីមួយដែលប៉ះពាល់ដល់គ្រួសារទាំងមូល។ សូមនិយាយដោយបើកចំហ ហើយព្រមព្រៀងជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "A family decision made together could build lasting security and keep everyone on side. Shared goals may make the investment feel right to all.",
+        "km": "ការសម្រេចចិត្តគ្រួសារដែលធ្វើឡើងជាមួយគ្នា អាចកសាងសុវត្ថិភាពយូរអង្វែង ហើយរក្សាអ្នករាល់គ្នាឱ្យនៅខាងគ្នា។ គោលដៅរួមគ្នា អាចធ្វើឱ្យការវិនិយោគមានអារម្មណ៍ត្រឹមត្រូវសម្រាប់អ្នករាល់គ្នា។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A tip or message about an investment may have reached you, perhaps from a friend or online contact. It may have stirred real curiosity.",
+        "km": "គន្លឹះ ឬសារអំពីការវិនិយោគ ប្រហែលជាបានមកដល់អ្នក ប្រហែលជាពីមិត្ត ឬទំនាក់ទំនងតាមអនឡាញ។ វាប្រហែលជាបានរំញោចការចង់ដឹងពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Look out for unsolicited messages, online contacts or friendly strangers urging you to invest. Verify everything independently.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះសារដែលមិនបានស្នើសុំ ទំនាក់ទំនងតាមអនឡាញ ឬមនុស្សចម្លែកដែលរួសរាយ ជំរុញអ្នកឱ្យវិនិយោគ។ សូមផ្ទៀងផ្ទាត់អ្វីៗទាំងអស់ដោយឯករាជ្យ។"
+      },
+      "outcome": {
+        "en": "Checking every tip against independent sources could protect you from fraud. A genuine opportunity may still be standing after the checks.",
+        "km": "ការពិនិត្យគន្លឹះនីមួយៗ ធៀបនឹងប្រភពឯករាជ្យ អាចការពារអ្នកពីការក្លែងបន្លំ។ ឱកាសពិតប្រាកដ អាចនៅតែឈរ បន្ទាប់ពីការពិនិត្យ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "A charming person may be offering an investment that sounds like a dream come true. It may be hard to think clearly in their company.",
+        "km": "មនុស្សដែលគួរឱ្យចាប់ចិត្តម្នាក់ ប្រហែលជាកំពុងផ្តល់ការវិនិយោគដែលស្តាប់ទៅដូចជាក្តីសុបិនក្លាយជាការពិត។ វាអាចពិបាកគិតឱ្យច្បាស់ នៅពេលនៅជាមួយពួកគេ។"
+      },
+      "challenge": {
+        "en": "Beware of smooth talkers who rush you or avoid hard questions. Charm is a common tool of fraud.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះអ្នកនិយាយផ្អែមល្ហែម ដែលជំរុញអ្នក ឬជៀសវាងសំណួរលំបាក។ ភាពគួរឱ្យចាប់ចិត្ត គឺជាឧបករណ៍ទូទៅនៃការក្លែងបន្លំ។"
+      },
+      "outcome": {
+        "en": "Asking tough questions and checking credentials could reveal whether the offer is real. A legitimate seller may welcome the scrutiny.",
+        "km": "ការសួរសំណួរលំបាក និងការពិនិត្យលិខិតបញ្ជាក់ អាចបង្ហាញថាតើការផ្តល់ជូនពិតប្រាកដឬអត់។ អ្នកលក់ស្របច្បាប់ អាចស្វាគមន៍ការពិនិត្យ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "You may want to invest in ways that help others, such as a community project or a loved one's needs. Compassion is guiding you.",
+        "km": "អ្នកប្រហែលជាចង់វិនិយោគតាមរបៀបដែលជួយអ្នកដទៃ ដូចជាគម្រោងសហគមន៍ ឬតម្រូវការរបស់មនុស្សជាទីស្រឡាញ់។ សេចក្តីមេត្តា កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Take care not to invest more than you can spare out of kindness or guilt. Helping others works best when your own footing is safe.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំវិនិយោគលើសពីអ្វីដែលអ្នកអាចទុកបាន ដោយសារចិត្តល្អ ឬអារម្មណ៍មានកំហុស។ ការជួយអ្នកដទៃ ដំណើរការល្អបំផុត នៅពេលជំហរផ្ទាល់ខ្លួនរបស់អ្នកមានសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Giving within your limits could do real good without putting your own future at risk. Money spent with care may help more people.",
+        "km": "ការផ្តល់ក្នុងដែនកំណត់របស់អ្នក អាចធ្វើអំពើល្អពិតប្រាកដ ដោយមិនធ្វើឱ្យអនាគតផ្ទាល់ខ្លួនរបស់អ្នកស្ថិតក្នុងហានិភ័យ។ ប្រាក់ដែលចំណាយដោយប្រុងប្រយ័ត្ន អាចជួយមនុស្សកាន់តែច្រើន។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You may be approaching the investment calmly, balancing feeling with good sense. Neither fear nor greed seems to be in charge.",
+        "km": "អ្នកប្រហែលជាកំពុងចូលទៅរកការវិនិយោគដោយស្ងប់ស្ងាត់ ដោយធ្វើឱ្យអារម្មណ៍ និងសុភវិនិច្ឆ័យមានតុល្យភាព។ ទាំងការភ័យខ្លាច និងលោភលន់ ហាក់ដូចជាមិនកំពុងគ្រប់គ្រង។"
+      },
+      "challenge": {
+        "en": "Be careful of hiding doubts behind a calm face to seem confident. Voice every concern and wait for clear answers.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការលាក់ការសង្ស័យ នៅពីក្រោយមុខស្ងប់ស្ងាត់ ដើម្បីហាក់ដូចជាមានទំនុកចិត្ត។ សូមនិយាយការព្រួយបារម្ភនីមួយៗ ហើយរង់ចាំចម្លើយច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "A calm, balanced decision could lead to an investment you can live with in good markets and bad. Even temper may be your best protection.",
+        "km": "ការសម្រេចចិត្តស្ងប់ស្ងាត់ និងមានតុល្យភាព អាចនាំទៅរកការវិនិយោគដែលអ្នកអាចរស់នៅជាមួយ ទាំងក្នុងទីផ្សារល្អ និងអាក្រក់។ ចិត្តនឹងនរ អាចជាការការពារល្អបំផុតរបស់អ្នក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "You may be seeing an investment for what it really is, past the brochure to the fees, risks and track record. The plain numbers are coming into view.",
+        "km": "អ្នកប្រហែលជាកំពុងមើលឃើញការវិនិយោគតាមអ្វីដែលវាពិតជាជា ហួសពីខិត្តប័ណ្ណ ទៅរកថ្លៃសេវា ហានិភ័យ និងប្រវត្តិ។ តួលេខសាមញ្ញ កំពុងលេចចេញមក។"
+      },
+      "challenge": {
+        "en": "Be wary of skipping the small print because the headline return looks good. Fees and conditions decide what you actually keep.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការរំលងអក្សរតូចៗ ដោយសារផលត្រឡប់ចំណងជើងមើលទៅល្អ។ ថ្លៃសេវា និងលក្ខខណ្ឌ សម្រេចថាអ្នកពិតជារក្សាបានប៉ុន្មាន។"
+      },
+      "outcome": {
+        "en": "Judging on the real figures could lead to a choice you will not second-guess. A clear-eyed decision may keep more of your money working for you.",
+        "km": "ការវិនិច្ឆ័យលើតួលេខពិត អាចនាំទៅរកជម្រើសដែលអ្នកនឹងមិនសង្ស័យឡើងវិញ។ ការសម្រេចចិត្តដោយភ្នែកច្បាស់ អាចរក្សាប្រាក់របស់អ្នកកាន់តែច្រើនឱ្យធ្វើការសម្រាប់អ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be weighing two investments, or whether to invest at all, without reaching a decision. The scales may feel evenly balanced.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងការវិនិយោគពីរ ឬថាតើត្រូវវិនិយោគទាល់តែសោះ ដោយមិនឈានដល់ការសម្រេចចិត្ត។ ជញ្ជីង ប្រហែលជាមានអារម្មណ៍មានតុល្យភាពស្មើគ្នា។"
+      },
+      "challenge": {
+        "en": "Watch for letting fear of choosing wrong keep your money idle where it loses value. Standing still has its own costs.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកឱ្យការភ័យខ្លាចជ្រើសរើសខុស រក្សាប្រាក់របស់អ្នកឱ្យនៅទំនេរ នៅកន្លែងដែលវាបាត់បង់តម្លៃ។ ការឈរស្ងៀម មានថ្លៃដើមរបស់វាផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Setting a few clear criteria could break the deadlock and point to a sensible choice. Even a modest, well-reasoned step may beat standing still.",
+        "km": "ការកំណត់លក្ខណៈវិនិច្ឆ័យច្បាស់លាស់ពីរបី អាចបំបែកភាពជាប់គាំង ហើយចង្អុលទៅរកជម្រើសសមហេតុផល។ សូម្បីតែជំហានតូច និងមានហេតុផលល្អ អាចប្រសើរជាងការឈរស្ងៀម។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "A painful financial memory, such as money lost to a bad deal or a broken promise, may be shaping how you see investing. The wound may not have healed.",
+        "km": "អនុស្សាវរីយ៍ហិរញ្ញវត្ថុដ៏ឈឺចាប់ ដូចជាប្រាក់ដែលបាត់បង់ដោយសារកិច្ចព្រមព្រៀងមិនល្អ ឬការសន្យាដែលខូច ប្រហែលជាកំពុងរៀបចំរបៀបដែលអ្នកមើលការវិនិយោគ។ របួស ប្រហែលជាមិនទាន់ជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Be careful of investing to make up for a past loss or to prove a point. Hurt makes poor financial judgement.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិយោគ ដើម្បីទូទាត់ការខាតបង់កន្លងមក ឬដើម្បីបញ្ជាក់ចំណុចមួយ។ ការឈឺចាប់ បង្កើតការវិនិច្ឆ័យហិរញ្ញវត្ថុខ្សោយ។"
+      },
+      "outcome": {
+        "en": "Letting the old hurt settle could free you to judge new opportunities fairly. Healing may restore confidence on firmer ground.",
+        "km": "ការទុកឱ្យការឈឺចាប់ចាស់ស្ងប់ចុះ អាចដោះលែងអ្នកឱ្យវិនិច្ឆ័យឱកាសថ្មីដោយយុត្តិធម៌។ ការព្យាបាល អាចស្តារទំនុកចិត្តឡើងវិញលើដីរឹងមាំជាងមុន។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may need rest and quiet before committing money anywhere. A pause could sharpen your judgement.",
+        "km": "អ្នកប្រហែលជាត្រូវការការសម្រាក និងភាពស្ងប់ស្ងាត់ មុនពេលប្តេជ្ញាប្រាក់នៅកន្លែងណាមួយ។ ការផ្អាក អាចធ្វើឱ្យការវិនិច្ឆ័យរបស់អ្នកកាន់តែមុតស្រួច។"
+      },
+      "challenge": {
+        "en": "Think twice before signing anything while stressed, tired or distracted. Good investments do not usually vanish if you take a breath.",
+        "km": "សូមគិតពីរដង មុនពេលចុះហត្ថលេខាលើអ្វីមួយ ខណៈតានតឹង អស់កម្លាំង ឬរំខាន។ ការវិនិយោគល្អ ជាធម្មតាមិនបាត់ទៅទេ ប្រសិនបើអ្នកដកដង្ហើម។"
+      },
+      "outcome": {
+        "en": "Returning to the decision rested could show which option truly fits. Calm reflection may prevent an expensive mistake.",
+        "km": "ការត្រឡប់មកការសម្រេចចិត្តវិញ ដោយបានសម្រាក អាចបង្ហាញថាជម្រើសណាពិតជាសម។ ការឆ្លុះបញ្ចាំងស្ងប់ស្ងាត់ អាចការពារកំហុសថ្លៃ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Advice about the investment may be pulling in different directions, from a partner, family or a salesperson. Not every voice may have your interests at heart.",
+        "km": "ដំបូន្មានអំពីការវិនិយោគ ប្រហែលជាកំពុងទាញក្នុងទិសដៅខុសៗគ្នា ពីដៃគូ គ្រួសារ ឬអ្នកលក់។ មិនមែនសំឡេងទាំងអស់ សុទ្ធតែគិតពីផលប្រយោជន៍របស់អ្នកនោះទេ។"
+      },
+      "challenge": {
+        "en": "Watch for advisers or sellers who earn more if you choose their product. Ask how they are paid before you trust their advice.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះទីប្រឹក្សា ឬអ្នកលក់ ដែលរកបានច្រើនជាង ប្រសិនបើអ្នកជ្រើសរើសផលិតផលរបស់ពួកគេ។ សូមសួរពីរបៀបដែលពួកគេទទួលប្រាក់ មុនពេលអ្នកទុកចិត្តដំបូន្មានរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Knowing whose interests are at play could lead you to fair, independent advice. A decision free of hidden agendas may serve you best.",
+        "km": "ការដឹងថាផលប្រយោជន៍របស់អ្នកណាកំពុងដើរតួ អាចនាំអ្នកទៅរកដំបូន្មានយុត្តិធម៌ និងឯករាជ្យ។ ការសម្រេចចិត្តដែលគ្មានបំណងលាក់កំបាំង អាចបម្រើអ្នកល្អបំផុត។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You may be moving money from one place to another, perhaps out of something that no longer feels safe. A transition is under way.",
+        "km": "អ្នកប្រហែលជាកំពុងផ្លាស់ទីប្រាក់ពីកន្លែងមួយទៅកន្លែងមួយទៀត ប្រហែលជាចេញពីអ្វីមួយដែលលែងមានអារម្មណ៍សុវត្ថិភាព។ ការផ្លាស់ប្តូរមួយ កំពុងដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Check the costs of moving, such as exit fees, taxes or lost interest, before you switch. Some moves cost more than they save.",
+        "km": "សូមពិនិត្យថ្លៃដើមនៃការផ្លាស់ទី ដូចជាថ្លៃសេវាចាកចេញ ពន្ធ ឬការប្រាក់ដែលបាត់បង់ មុនពេលអ្នកប្តូរ។ ការផ្លាស់ទីខ្លះ ចំណាយច្រើនជាងអ្វីដែលវាសន្សំ។"
+      },
+      "outcome": {
+        "en": "A well-planned move could carry your money to calmer, safer ground. The crossing may be worth it once costs are counted.",
+        "km": "ការផ្លាស់ទីដែលបានរៀបចំផែនការល្អ អាចនាំប្រាក់របស់អ្នកទៅកាន់ដីស្ងប់ស្ងាត់ និងមានសុវត្ថិភាពជាងមុន។ ការឆ្លងកាត់ អាចសមនឹងតម្លៃ នៅពេលថ្លៃដើមត្រូវបានរាប់។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Something about the investment may not be honest, such as hidden fees, a fake company or a seller with something to hide. Your suspicion may be right.",
+        "km": "អ្វីមួយអំពីការវិនិយោគ ប្រហែលជាមិនស្មោះត្រង់ ដូចជាថ្លៃសេវាលាក់កំបាំង ក្រុមហ៊ុនក្លែងក្លាយ ឬអ្នកលក់ដែលមានអ្វីមួយត្រូវលាក់។ ការសង្ស័យរបស់អ្នក ប្រហែលជាត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Be wary of anyone asking for payment to a personal account, in cryptocurrency, or through unusual channels. Verify the firm with official registers.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះនរណាម្នាក់ដែលសុំការទូទាត់ទៅគណនីផ្ទាល់ខ្លួន ជារូបិយប័ណ្ណគ្រីបតូ ឬតាមរយៈបណ្តាញមិនធម្មតា។ សូមផ្ទៀងផ្ទាត់ក្រុមហ៊ុនជាមួយបញ្ជីផ្លូវការ។"
+      },
+      "outcome": {
+        "en": "Verifying before paying could keep your money out of a scammer's hands. Caution may be the best return you get.",
+        "km": "ការផ្ទៀងផ្ទាត់ មុនពេលបង់ប្រាក់ អាចរក្សាប្រាក់របស់អ្នកឱ្យនៅក្រៅដៃអ្នកបោកប្រាស់។ ការប្រុងប្រយ័ត្ន អាចជាផលត្រឡប់ល្អបំផុតដែលអ្នកទទួលបាន។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel trapped by an investment you cannot easily leave, or pressured into one you do not want. Options may seem few.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់ដោយការវិនិយោគដែលអ្នកមិនអាចចាកចេញបានងាយស្រួល ឬត្រូវបានសង្កត់ឱ្យចូលការវិនិយោគដែលអ្នកមិនចង់បាន។ ជម្រើស ប្រហែលជាហាក់ដូចជាតិច។"
+      },
+      "challenge": {
+        "en": "Look out for accepting bad terms simply because you feel stuck. An independent adviser may show you ways out you had not seen.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទទួលយកលក្ខខណ្ឌមិនល្អ គ្រាន់តែដោយសារអ្នកមានអារម្មណ៍ជាប់គាំង។ ទីប្រឹក្សាឯករាជ្យ អាចបង្ហាញអ្នកពីផ្លូវចេញដែលអ្នកមិនបានមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Seeking outside help could reveal options that loosen the trap. Freedom may begin with one well-informed step.",
+        "km": "ការស្វែងរកជំនួយពីខាងក្រៅ អាចបង្ហាញជម្រើសដែលបន្ធូរអន្ទាក់។ សេរីភាព អាចចាប់ផ្តើមពីជំហានមួយដែលមានព័ត៌មានគ្រប់គ្រាន់។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about losing money may be keeping you awake, with every option looking risky. Anxiety may feel larger than the real danger.",
+        "km": "ការព្រួយបារម្ភអំពីការបាត់បង់ប្រាក់ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកដេកមិនលក់ ដោយជម្រើសនីមួយៗមើលទៅប្រថុយប្រថាន។ ការថប់បារម្ភ ប្រហែលជាមានអារម្មណ៍ធំជាងគ្រោះថ្នាក់ពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Be careful of making investment choices while gripped by fear. If money worries are affecting your sleep or health, talk to someone you trust.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើជម្រើសវិនិយោគ ខណៈត្រូវបានការភ័យខ្លាចក្តាប់។ ប្រសិនបើការព្រួយបារម្ភអំពីប្រាក់កំពុងប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក សូមនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Writing down what you could actually lose could shrink fear to its real size. A calmer mind may choose a level of risk you can live with.",
+        "km": "ការសរសេរអ្វីដែលអ្នកអាចបាត់បង់ពិតប្រាកដ អាចបង្រួមការភ័យខ្លាចឱ្យនៅទំហំពិតរបស់វា។ ចិត្តស្ងប់ជាងមុន អាចជ្រើសរើសកម្រិតហានិភ័យដែលអ្នកអាចរស់នៅជាមួយបាន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Finances may be at a low point, perhaps after a major loss, making any investment feel risky. Rebuilding may matter more than growing.",
+        "km": "ហិរញ្ញវត្ថុ ប្រហែលជាស្ថិតនៅចំណុចទាប ប្រហែលជាបន្ទាប់ពីការខាតបង់ធំ ដែលធ្វើឱ្យការវិនិយោគណាមួយមានអារម្មណ៍ប្រថុយប្រថាន។ ការកសាងឡើងវិញ ប្រហែលជាសំខាន់ជាងការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Beware of high-risk bets made in desperation to recover. If you feel at risk, contact a debt adviser or support service before investing anything.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការភ្នាល់ហានិភ័យខ្ពស់ ដែលធ្វើឡើងដោយអស់សង្ឃឹម ដើម្បីស្តារឡើងវិញ។ ប្រសិនបើអ្នកមានអារម្មណ៍ស្ថិតក្នុងហានិភ័យ សូមទាក់ទងទីប្រឹក្សាបំណុល ឬសេវាគាំទ្រ មុនពេលវិនិយោគអ្វីសោះ។"
+      },
+      "outcome": {
+        "en": "Stabilising first could make future investing safer and calmer. Recovery may begin with simple, steady steps.",
+        "km": "ការធ្វើឱ្យមានស្ថិរភាពជាមុន អាចធ្វើឱ្យការវិនិយោគនាពេលខាងមុខមានសុវត្ថិភាព និងស្ងប់ស្ងាត់ជាងមុន។ ការស្តារឡើងវិញ អាចចាប់ផ្តើមពីជំហានសាមញ្ញ និងនឹងនរ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You may be researching investments closely, asking sharp questions and checking claims. Healthy curiosity is guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងស្រាវជ្រាវការវិនិយោគយ៉ាងជិតស្និទ្ធ ដោយសួរសំណួរមុតស្រួច និងពិនិត្យការអះអាង។ ការចង់ដឹងដែលមានសុខភាពល្អ កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Be wary of relying on online forums, influencers or a single source. Cross-check with official and independent information.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការពឹងលើវេទិកាអនឡាញ អ្នកមានឥទ្ធិពល ឬប្រភពតែមួយ។ សូមពិនិត្យឆ្លងជាមួយព័ត៌មានផ្លូវការ និងឯករាជ្យ។"
+      },
+      "outcome": {
+        "en": "Careful, varied research could lead to a well-informed choice. Your vigilance may protect you from hype.",
+        "km": "ការស្រាវជ្រាវដោយប្រុងប្រយ័ត្ន និងចម្រុះ អាចនាំទៅរកជម្រើសដែលមានព័ត៌មានគ្រប់គ្រាន់។ ការប្រុងប្រយ័ត្នរបស់អ្នក អាចការពារអ្នកពីការបំផ្លើស។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You may feel urged to act fast, convinced an opportunity will vanish if you wait. Urgency may be pushing you.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ត្រូវបានជំរុញឱ្យធ្វើសកម្មភាពយ៉ាងលឿន ដោយជឿជាក់ថាឱកាសនឹងបាត់ ប្រសិនបើអ្នករង់ចាំ។ ភាពបន្ទាន់ ប្រហែលជាកំពុងរុញអ្នក។"
+      },
+      "challenge": {
+        "en": "Treat any claim that you must invest before a deadline with suspicion. Real opportunities allow room to check.",
+        "km": "សូមចាត់ទុកការអះអាងណាមួយថាអ្នកត្រូវវិនិយោគមុនកាលកំណត់ ដោយការសង្ស័យ។ ឱកាសពិតប្រាកដ ផ្តល់កន្លែងដើម្បីពិនិត្យ។"
+      },
+      "outcome": {
+        "en": "Stopping to verify could turn pressure into a sound, well-checked decision. If the offer is real, it may still be there.",
+        "km": "ការចំណាយពេលផ្ទៀងផ្ទាត់ អាចបង្វែរសម្ពាធទៅជាការសម្រេចចិត្តល្អ និងបានពិនិត្យល្អ។ ប្រសិនបើការផ្តល់ជូនពិតប្រាកដ វាអាចនៅតែមាន។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You may be judging the investment with a cool, experienced eye, unmoved by excitement or flattery. Clear thinking is guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងវិនិច្ឆ័យការវិនិយោគដោយភ្នែកត្រជាក់ និងមានបទពិសោធន៍ ដោយមិនរង្គើដោយភាពរំភើប ឬការលើកសរសើរ។ ការគិតច្បាស់លាស់ កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Watch for being so sceptical that you dismiss sound advice or every opportunity. Caution still needs to lead to a choice.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសង្ស័យខ្លាំងពេក រហូតអ្នកច្រានចោលដំបូន្មានល្អ ឬឱកាសនីមួយៗ។ ការប្រុងប្រយ័ត្ន នៅតែត្រូវនាំទៅរកជម្រើសមួយ។"
+      },
+      "outcome": {
+        "en": "Healthy scepticism that still allows a yes could lead to an investment worth making. Your cool eye may protect and grow your savings.",
+        "km": "ការសង្ស័យដែលមានសុខភាពល្អ ដែលនៅតែអនុញ្ញាតឱ្យយល់ព្រម អាចនាំទៅរកការវិនិយោគដែលសមនឹងការធ្វើ។ ភ្នែកត្រជាក់របស់អ្នក អាចការពារ និងរីកចម្រើនប្រាក់សន្សំរបស់អ្នក។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "The investment may come with contracts, prospectuses or regulated advice that need careful reading. A cool, legal-minded head may serve you well.",
+        "km": "ការវិនិយោគ ប្រហែលជាភ្ជាប់មកជាមួយកិច្ចសន្យា ឯកសារណែនាំ ឬដំបូន្មានដែលត្រូវបានគ្រប់គ្រង ដែលត្រូវការការអានដោយប្រុងប្រយ័ត្ន។ ក្បាលត្រជាក់ និងគិតបែបច្បាប់ អាចបម្រើអ្នកបានល្អ។"
+      },
+      "challenge": {
+        "en": "Be careful of signing contracts you have not fully understood or that a qualified professional has not reviewed. For legal or tax questions, get proper advice.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចុះហត្ថលេខាលើកិច្ចសន្យាដែលអ្នកមិនទាន់យល់ទាំងស្រុង ឬដែលអ្នកជំនាញដែលមានលក្ខណៈសម្បត្តិមិនទាន់បានពិនិត្យ។ សម្រាប់សំណួរច្បាប់ ឬពន្ធ សូមទទួលដំបូន្មានត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "Understanding every term before signing could keep you on safe legal and financial ground. Sound advice may protect your investment.",
+        "km": "ការយល់ពីលក្ខខណ្ឌនីមួយៗ មុនពេលចុះហត្ថលេខា អាចរក្សាអ្នកឱ្យនៅលើដីច្បាប់ និងហិរញ្ញវត្ថុដែលមានសុវត្ថិភាព។ ដំបូន្មានល្អ អាចការពារការវិនិយោគរបស់អ្នក។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A tangible opportunity may be on the table, such as property, equipment or a stake in a business. Something solid is on offer.",
+        "km": "ឱកាសដែលអាចប៉ះពាល់បាន ប្រហែលជាស្ថិតនៅលើតុ ដូចជាអចលនទ្រព្យ ឧបករណ៍ ឬភាគហ៊ុនក្នុងអាជីវកម្ម។ អ្វីមួយរឹងមាំ ត្រូវបានផ្តល់ជូន។"
+      },
+      "challenge": {
+        "en": "Check the real value of what you are buying, not just the price being asked. An independent valuation can protect you.",
+        "km": "សូមពិនិត្យតម្លៃពិតនៃអ្វីដែលអ្នកកំពុងទិញ មិនមែនត្រឹមតែតម្លៃដែលត្រូវបានស្នើសុំនោះទេ។ ការវាយតម្លៃឯករាជ្យ អាចការពារអ្នក។"
+      },
+      "outcome": {
+        "en": "Paying a fair price for something real could plant the seed of lasting wealth. A modest, solid stake may grow steadily.",
+        "km": "ការបង់តម្លៃយុត្តិធម៌ សម្រាប់អ្វីមួយពិតប្រាកដ អាចដាំគ្រាប់ពូជនៃទ្រព្យសម្បត្តិយូរអង្វែង។ ចំណែកតូច និងរឹងមាំ អាចរីកចម្រើន។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be balancing investing against other needs, such as running costs, family bills or emergencies. Flexibility matters.",
+        "km": "អ្នកប្រហែលជាកំពុងធ្វើឱ្យការវិនិយោគមានតុល្យភាព ធៀបនឹងតម្រូវការផ្សេងទៀត ដូចជាថ្លៃដំណើរការ វិក្កយបត្រគ្រួសារ ឬករណីបន្ទាន់។ ភាពបត់បែន មានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Watch for locking away money you might need for regular costs or emergencies. Keep a reserve you can reach easily.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចាក់សោប្រាក់ដែលអ្នកប្រហែលជាត្រូវការសម្រាប់ថ្លៃដើមទៀងទាត់ ឬករណីបន្ទាន់។ សូមរក្សាទុនបម្រុងដែលអ្នកអាចឈានដល់បានងាយស្រួល។"
+      },
+      "outcome": {
+        "en": "Investing only what is truly spare could keep your finances flexible and secure. Balance may let you handle surprises.",
+        "km": "ការវិនិយោគតែអ្វីដែលពិតជាទំនេរ អាចរក្សាហិរញ្ញវត្ថុរបស់អ្នកឱ្យបត់បែន និងមានសុវត្ថិភាព។ តុល្យភាព អាចឱ្យអ្នកដោះស្រាយការភ្ញាក់ផ្អើល។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "The investment may depend on other people, such as managers, builders or co-investors who will run it. Their skill may matter more than yours.",
+        "km": "ការវិនិយោគ ប្រហែលជាអាស្រ័យលើមនុស្សផ្សេងទៀត ដូចជាអ្នកគ្រប់គ្រង អ្នកសាងសង់ ឬសហវិនិយោគិន ដែលនឹងដំណើរការវា។ ជំនាញរបស់ពួកគេ ប្រហែលជាសំខាន់ជាងជំនាញរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Be wary of trusting others with your money without checking their skills and record. Ask for references and proof of past work.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកចិត្តអ្នកដទៃជាមួយប្រាក់របស់អ្នក ដោយមិនពិនិត្យជំនាញ និងប្រវត្តិរបស់ពួកគេ។ សូមសុំឯកសារយោង និងភស្តុតាងនៃការងារកន្លងមក។"
+      },
+      "outcome": {
+        "en": "Working with skilled, trusted people could turn an investment into lasting value. Good collaboration may protect your money.",
+        "km": "ការធ្វើការជាមួយមនុស្សដែលមានជំនាញ និងគួរឱ្យទុកចិត្ត អាចបង្វែរការវិនិយោគទៅជាតម្លៃយូរអង្វែង។ កិច្ចសហការល្អ អាចការពារប្រាក់របស់អ្នក។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be cautious with money, holding on tightly and wary of risk. Security is a priority.",
+        "km": "អ្នកប្រហែលជាប្រុងប្រយ័ត្នជាមួយប្រាក់ ដោយកាន់យ៉ាងតឹង ហើយប្រុងប្រយ័ត្នចំពោះហានិភ័យ។ សុវត្ថិភាព គឺជាអាទិភាព។"
+      },
+      "challenge": {
+        "en": "Take care that fear of loss does not leave all your money idle while prices rise. Some careful investing may protect value.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យការភ័យខ្លាចការបាត់បង់ ទុកប្រាក់ទាំងអស់របស់អ្នកឱ្យនៅទំនេរ ខណៈតម្លៃកើនឡើង។ ការវិនិយោគដោយប្រុងប្រយ័ត្នខ្លះ អាចការពារតម្លៃ។"
+      },
+      "outcome": {
+        "en": "A balance of safety and modest growth could protect your money from both loss and erosion. Careful steps may build confidence.",
+        "km": "តុល្យភាពនៃសុវត្ថិភាព និងការរីកចម្រើនតិចតួច អាចការពារប្រាក់របស់អ្នកពីទាំងការបាត់បង់ និងការចុះតម្លៃ។ ជំហានប្រុងប្រយ័ត្ន អាចកសាងទំនុកចិត្ត។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Money may be tight, and investing may feel out of reach or risky. Hardship may be shaping the picture.",
+        "km": "ប្រាក់ប្រហែលជាតឹងតែង ហើយការវិនិយោគ ប្រហែលជាមានអារម្មណ៍ហួសពីដៃ ឬប្រថុយប្រថាន។ ការលំបាក ប្រហែលជាកំពុងរៀបចំរូបភាព។"
+      },
+      "challenge": {
+        "en": "Beware of schemes that target people in hardship with promises of quick money. If you are struggling, seek free advice first.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះគម្រោងដែលតម្រង់ទៅលើមនុស្សក្នុងការលំបាក ជាមួយការសន្យាប្រាក់រហ័ស។ ប្រសិនបើអ្នកកំពុងតស៊ូ សូមស្វែងរកដំបូន្មានឥតគិតថ្លៃជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Building a small safety net before investing could protect you from deeper trouble. Stability may come first, with growth to follow.",
+        "km": "ការកសាងសំណាញ់សុវត្ថិភាពតូចមួយ មុនពេលវិនិយោគ អាចការពារអ្នកពីបញ្ហាជ្រៅជាងនេះ។ ស្ថិរភាព អាចមកមុន ដោយការរីកចម្រើនតាមក្រោយ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "The investment may involve lending to or borrowing from others, or sharing money in a give-and-take arrangement. Generosity is in play.",
+        "km": "ការវិនិយោគ ប្រហែលជាពាក់ព័ន្ធនឹងការឱ្យខ្ចី ឬការខ្ចីពីអ្នកដទៃ ឬការចែករំលែកប្រាក់ក្នុងការរៀបចំផ្តល់ និងទទួល។ ចិត្តសប្បុរស កំពុងដើរតួ។"
+      },
+      "challenge": {
+        "en": "Watch for lending money you cannot afford to lose, even to someone you trust. Agree terms in writing before money changes hands.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការឱ្យខ្ចីប្រាក់ដែលអ្នកមិនអាចមានលទ្ធភាពបាត់បង់ សូម្បីតែដល់នរណាម្នាក់ដែលអ្នកទុកចិត្ត។ សូមព្រមព្រៀងលក្ខខណ្ឌជាលាយលក្ខណ៍អក្សរ មុនពេលប្រាក់ផ្លាស់ប្តូរដៃ។"
+      },
+      "outcome": {
+        "en": "Fair, clear arrangements could protect both money and relationships. Balanced giving may be repaid in kind.",
+        "km": "ការរៀបចំយុត្តិធម៌ និងច្បាស់លាស់ អាចការពារទាំងប្រាក់ និងទំនាក់ទំនង។ ការផ្តល់ដោយតុល្យភាព អាចត្រូវបានតបស្នងវិញក្នុងទម្រង់ដូចគ្នា។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may be weighing whether an investment's slow growth is worth sticking with. Returns may be arriving more slowly than hoped.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងថាតើការរីកចម្រើនយឺតរបស់ការវិនិយោគ សមនឹងការកាន់ខ្ជាប់ឬអត់។ ផលត្រឡប់ ប្រហែលជាកំពុងមកដល់យឺតជាងការសង្ឃឹម។"
+      },
+      "challenge": {
+        "en": "Be wary of expecting quick returns from something designed to grow slowly. Mismatched expectations lead to rash decisions.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការរំពឹងផលត្រឡប់រហ័ស ពីអ្វីមួយដែលត្រូវបានរចនាឡើងដើម្បីរីកចម្រើនយឺតៗ។ ការរំពឹងទុកមិនស៊ីគ្នា នាំទៅរកការសម្រេចចិត្តដោយមិនបានគិត។"
+      },
+      "outcome": {
+        "en": "Matching investments to your patience could bring a rewarding harvest. Steady growth may outpace hurried gains.",
+        "km": "ការផ្គូផ្គងការវិនិយោគទៅនឹងការអត់ធ្មត់របស់អ្នក អាចនាំមកនូវផលដំណាំដែលគួរឱ្យពេញចិត្ត។ ការរីកចម្រើនដោយនឹងនរ អាចលឿនជាងផលចំណេញប្រញាប់ប្រញាល់។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "You may be studying investments carefully, learning the details and building skill. Reading the reports may be teaching you a lot.",
+        "km": "អ្នកប្រហែលជាកំពុងសិក្សាការវិនិយោគដោយប្រុងប្រយ័ត្ន ដោយរៀនព័ត៌មានលម្អិត និងកសាងជំនាញ។ ការអានរបាយការណ៍ ប្រហែលជាកំពុងបង្រៀនអ្នកច្រើន។"
+      },
+      "challenge": {
+        "en": "Take care not to get lost in research while missing the bigger picture. Know your goal before diving into details.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំវង្វេងក្នុងការស្រាវជ្រាវ ខណៈខកខានរូបភាពធំ។ សូមដឹងពីគោលដៅរបស់អ្នក មុនពេលចូលទៅក្នុងព័ត៌មានលម្អិត។"
+      },
+      "outcome": {
+        "en": "Careful study could build the knowledge to invest wisely. Diligence may pay off in sound choices.",
+        "km": "ការសិក្សាដោយប្រុងប្រយ័ត្ន អាចកសាងចំណេះដឹងដើម្បីវិនិយោគដោយឆ្លាតវៃ។ ការឧស្សាហ៍ព្យាយាម អាចទទួលបានផលក្នុងជម្រើសល្អ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Spare savings may give you room to invest without touching what you need to live on. Choosing from strength widens your options.",
+        "km": "ប្រាក់សន្សំទំនេរ ប្រហែលជាផ្តល់កន្លែងឱ្យអ្នកវិនិយោគ ដោយមិនប៉ះពាល់អ្វីដែលអ្នកត្រូវការសម្រាប់រស់នៅ។ ការជ្រើសរើសពីភាពខ្លាំង ពង្រីកជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Be careful of risking the independence you have built on a single bold bet. Protect your core before reaching further.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រថុយឯករាជ្យភាពដែលអ្នកបានកសាង លើការភ្នាល់ដ៏ក្លាហានតែមួយ។ សូមការពារស្នូលរបស់អ្នក មុនពេលឈានទៅឆ្ងាយជាងនេះ។"
+      },
+      "outcome": {
+        "en": "Investing from strength with care could add to your independence. Comfort may grow into lasting security.",
+        "km": "ការវិនិយោគពីភាពខ្លាំងដោយប្រុងប្រយ័ត្ន អាចបន្ថែមលើឯករាជ្យភាពរបស់អ្នក។ ភាពស្រួល អាចរីកចម្រើនទៅជាសុវត្ថិភាពយូរអង្វែង។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "The investment may be about lasting family wealth, such as property, inheritance or a legacy. Generations may be affected.",
+        "km": "ការវិនិយោគ ប្រហែលជាអំពីទ្រព្យសម្បត្តិគ្រួសារដែលស្ថិតស្ថេរ ដូចជាអចលនទ្រព្យ មរតក ឬកេរដំណែល។ ជំនាន់ជាច្រើន អាចត្រូវបានប៉ះពាល់។"
+      },
+      "challenge": {
+        "en": "Watch for family investments without clear ownership or written agreements. For inheritance or property, seek qualified legal advice.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិយោគគ្រួសារ ដោយគ្មានកម្មសិទ្ធិច្បាស់លាស់ ឬកិច្ចព្រមព្រៀងជាលាយលក្ខណ៍អក្សរ។ សម្រាប់មរតក ឬអចលនទ្រព្យ សូមស្វែងរកដំបូន្មានផ្លូវច្បាប់ពីអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Clear, well-planned arrangements could build wealth that serves the whole family. The legacy may pass on without quarrels.",
+        "km": "ការរៀបចំច្បាស់លាស់ និងរៀបចំផែនការល្អ អាចកសាងទ្រព្យសម្បត្តិដែលបម្រើគ្រួសារទាំងមូល។ កេរដំណែល អាចបន្តដោយគ្មានជម្លោះ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You may be a first-time investor, curious about how money can grow and keen to avoid mistakes. A careful apprenticeship may be beginning.",
+        "km": "អ្នកប្រហែលជាវិនិយោគិនលើកដំបូង ដោយចង់ដឹងពីរបៀបដែលប្រាក់អាចរីកចម្រើន ហើយចង់ជៀសវាងកំហុស។ ការហាត់រៀនដោយប្រុងប្រយ័ត្ន ប្រហែលជាកំពុងចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Be wary of paid courses, apps or groups that promise to make beginners rich. Real investing knowledge is widely available for free.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះវគ្គសិក្សា កម្មវិធី ឬក្រុមដែលត្រូវបង់ប្រាក់ ដែលសន្យាធ្វើឱ្យអ្នកចាប់ផ្តើមដំបូងមានទ្រព្យសម្បត្តិ។ ចំណេះដឹងវិនិយោគពិតប្រាកដ មានទូលំទូលាយដោយឥតគិតថ្លៃ។"
+      },
+      "outcome": {
+        "en": "Learning with small, safe steps could build lasting skill and confidence. A careful beginner may become a wise investor.",
+        "km": "ការរៀនជាមួយជំហានតូចៗ និងមានសុវត្ថិភាព អាចកសាងជំនាញ និងទំនុកចិត្តយូរអង្វែង។ អ្នកចាប់ផ្តើមដំបូងដែលប្រុងប្រយ័ត្ន អាចក្លាយជាវិនិយោគិនឆ្លាតវៃ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "You may be building a portfolio slowly and methodically, adding a little at a time. Small, regular steps suit your nature.",
+        "km": "អ្នកប្រហែលជាកំពុងកសាងផលប័ត្រយឺតៗ និងមានរបៀបរៀបរយ ដោយបន្ថែមបន្តិចម្តងៗ។ ជំហានតូចៗ និងទៀងទាត់ សមនឹងធម្មជាតិរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Take care that caution does not mean never reviewing old investments that have stopped performing. Check them regularly.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យការប្រុងប្រយ័ត្ន មានន័យថាមិនដែលពិនិត្យការវិនិយោគចាស់ៗដែលបានឈប់ដំណើរការ។ សូមពិនិត្យវាជាទៀងទាត់។"
+      },
+      "outcome": {
+        "en": "Steady, methodical investing could build wealth that holds firm through ups and downs. Regular small steps may add up to a lot.",
+        "km": "ការវិនិយោគដោយនឹងនរ និងមានរបៀបរៀបរយ អាចកសាងទ្រព្យសម្បត្តិដែលឈររឹងមាំ ឆ្លងកាត់ការឡើងចុះ។ ជំហានតូចៗទៀងទាត់ អាចបូកបញ្ចូលគ្នាច្រើន។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Providing for your household may be the reason to invest, with practical, caring aims at heart. Your family's future may be on your mind.",
+        "km": "ការផ្គត់ផ្គង់គ្រួសាររបស់អ្នក ប្រហែលជាហេតុផលដើម្បីវិនិយោគ ដោយមានគោលបំណងជាក់ស្តែង និងយកចិត្តទុកដាក់នៅក្នុងចិត្ត។ អនាគតរបស់គ្រួសារអ្នក ប្រហែលជាស្ថិតក្នុងគំនិតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Be careful of putting household money into anything risky without a safety net. Keep a reserve the family can rely on.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដាក់ប្រាក់គ្រួសារទៅក្នុងអ្វីដែលប្រថុយប្រថាន ដោយគ្មានសំណាញ់សុវត្ថិភាព។ សូមរក្សាទុនបម្រុងដែលគ្រួសារអាចពឹងផ្អែកបាន។"
+      },
+      "outcome": {
+        "en": "Practical, careful investing could build comfort and security for the whole household. Steady care may pay off.",
+        "km": "ការវិនិយោគជាក់ស្តែង និងប្រុងប្រយ័ត្ន អាចកសាងភាពស្រួល និងសុវត្ថិភាពសម្រាប់គ្រួសារទាំងមូល។ ការយកចិត្តទុកដាក់ដោយនឹងនរ អាចទទួលបានផល។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You may be in a strong financial position, with experience and resources to invest. People may come to you for money or advice.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងទីតាំងហិរញ្ញវត្ថុរឹងមាំ ដោយមានបទពិសោធន៍ និងធនធានដើម្បីវិនិយោគ។ មនុស្ស ប្រហែលជាមករកអ្នកសម្រាប់ប្រាក់ ឬដំបូន្មាន។"
+      },
+      "challenge": {
+        "en": "Watch for overconfidence, such as guaranteeing others' loans or taking large risks because you can. Wealth needs care too.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះទំនុកចិត្តហួសហេតុ ដូចជាការធានាប្រាក់កម្ចីរបស់អ្នកដទៃ ឬការប្រថុយធំៗ ដោយសារអ្នកអាចធ្វើបាន។ ទ្រព្យសម្បត្តិ ក៏ត្រូវការការថែរក្សាដែរ។"
+      },
+      "outcome": {
+        "en": "Prudent stewardship could keep your wealth strong and growing for those who depend on it. Experience may steer your money wisely.",
+        "km": "ការគ្រប់គ្រងដោយប្រុងប្រយ័ត្ន អាចរក្សាទ្រព្យសម្បត្តិរបស់អ្នកឱ្យរឹងមាំ និងរីកចម្រើន សម្រាប់អ្នកដែលពឹងផ្អែកលើវា។ បទពិសោធន៍ អាចដឹកនាំប្រាក់របស់អ្នកដោយឆ្លាតវៃ។"
+      }
+    }
+  }
+}
