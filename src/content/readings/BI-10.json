@@ -1,0 +1,1097 @@
+{
+  "questionId": "BI-10",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "The business may be at the edge of a new direction, with its path not yet fixed. Openness to change could shape where it goes from here.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតនៅមាត់ទិសដៅថ្មីមួយ ដោយផ្លូវរបស់វាមិនទាន់កំណត់ច្បាស់។ ការបើកចិត្តទទួលការផ្លាស់ប្តូរ អាចកំណត់ថាវានឹងទៅណាពីទីនេះ។"
+      },
+      "challenge": {
+        "en": "Drifting without a plan could let chance decide the course of the business. Set a few clear goals so new ventures have a direction to serve.",
+        "km": "ការរសាត់ដោយគ្មានផែនការ អាចបណ្តោយឱ្យឱកាសសម្រេចផ្លូវរបស់អាជីវកម្ម។ សូមកំណត់គោលដៅច្បាស់លាស់ពីរបី ដើម្បីឱ្យគម្រោងថ្មីមានទិសដៅដើម្បីបម្រើ។"
+      },
+      "outcome": {
+        "en": "A fresh start or bold change of course could lead the business somewhere unexpected and promising. Trying something untested may open a path you had not imagined.",
+        "km": "ការចាប់ផ្តើមថ្មី ឬការផ្លាស់ប្តូរទិសដៅដ៏ក្លាហាន អាចនាំអាជីវកម្មទៅកន្លែងដែលមិនបានរំពឹង និងមានសក្តានុពល។ ការសាកល្បងអ្វីដែលមិនធ្លាប់សាក អាចបើកផ្លូវដែលអ្នកមិនធ្លាប់ស្រមៃ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may already hold the skills and tools needed to shape where the business goes. How you put those resources to work could decide the path ahead.",
+        "km": "អ្នកប្រហែលជាមានជំនាញ និងឧបករណ៍រួចហើយ ដែលត្រូវការដើម្បីកំណត់ថាអាជីវកម្មទៅណា។ របៀបដែលអ្នកដាក់ធនធានទាំងនោះឱ្យធ្វើការ អាចសម្រេចផ្លូវខាងមុខ។"
+      },
+      "challenge": {
+        "en": "Leaving talents and resources unused could keep the business from moving forward. Put your strongest skills to work on the goals that matter most.",
+        "km": "ការទុកទេពកោសល្យ និងធនធានចោលដោយមិនប្រើ អាចរារាំងអាជីវកម្មពីការទៅមុខ។ សូមដាក់ជំនាញខ្លាំងបំផុតរបស់អ្នកឱ្យធ្វើការលើគោលដៅដែលសំខាន់បំផុត។"
+      },
+      "outcome": {
+        "en": "Skilful, focused action could steer the business toward real growth. Turning ideas into results may become one of its strongest habits.",
+        "km": "សកម្មភាពប៉ិនប្រសប់ និងផ្តោត អាចដឹកនាំអាជីវកម្មឆ្ពោះទៅរកកំណើនពិតប្រាកដ។ ការប្តូរគំនិតទៅជាលទ្ធផល អាចក្លាយជាទម្លាប់រឹងមាំបំផុតមួយរបស់វា។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "The direction of the business may not be fully visible yet, with important factors still hidden. Quiet observation could reveal which way it is really moving.",
+        "km": "ទិសដៅរបស់អាជីវកម្ម ប្រហែលជាមិនទាន់មើលឃើញពេញលេញ ដោយកត្តាសំខាន់ៗនៅលាក់កំបាំង។ ការសង្កេតស្ងាត់ៗ អាចបង្ហាញថាវាពិតជាកំពុងផ្លាស់ទីទៅទិសណា។"
+      },
+      "challenge": {
+        "en": "Ignoring faint warning signs in sales or customer feedback could let problems grow unseen. Pay attention to small shifts in demand before they become obvious.",
+        "km": "ការមិនអើពើនឹងសញ្ញាព្រមានតូចៗក្នុងការលក់ ឬមតិអតិថិជន អាចបណ្តោយឱ្យបញ្ហារីកធំដោយមិនមើលឃើញ។ សូមយកចិត្តទុកដាក់លើការប្រែប្រួលតូចៗក្នុងតម្រូវការ មុនពេលវាក្លាយជាច្បាស់។"
+      },
+      "outcome": {
+        "en": "Trusting your instincts while gathering information could guide the business in a wise direction. Insights others miss may become a quiet advantage.",
+        "km": "ការទុកចិត្តលើសភាវគតិរបស់អ្នក ខណៈប្រមូលព័ត៌មាន អាចដឹកនាំអាជីវកម្មទៅទិសដៅដ៏ឆ្លាតវៃ។ ការយល់ដឹងដែលអ្នកដទៃមើលរំលង អាចក្លាយជាគុណសម្បត្តិស្ងាត់ៗ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Natural growth may be under way, with customers and sales gradually increasing. Nurturing what is working could keep that upward path going.",
+        "km": "កំណើនធម្មជាតិប្រហែលជាកំពុងដំណើរការ ដោយអតិថិជន និងការលក់កើនឡើងបន្តិចម្តងៗ។ ការថែរក្សាអ្វីដែលដំណើរការ អាចរក្សាផ្លូវឡើងនោះឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Growing without care for quality could weaken what made customers come in the first place. Keep standards for products and service high as the business expands.",
+        "km": "ការរីកចម្រើនដោយមិនយកចិត្តទុកដាក់លើគុណភាព អាចធ្វើឱ្យចុះខ្សោយនូវអ្វីដែលធ្វើឱ្យអតិថិជនមកដំបូង។ សូមរក្សាស្តង់ដារផលិតផល និងសេវាកម្មឱ្យខ្ពស់ ខណៈអាជីវកម្មពង្រីក។"
+      },
+      "outcome": {
+        "en": "Steady, abundant growth could carry the business toward a richer, more established position. Loyal customers who recommend it to others may help it flourish further.",
+        "km": "កំណើនទៀងទាត់ និងបរិបូរណ៍ អាចនាំអាជីវកម្មឆ្ពោះទៅរកជំហរមានបរិបូរណ៍ និងរឹងមាំជាងមុន។ អតិថិជនស្មោះត្រង់ដែលណែនាំវាដល់អ្នកដទៃ អាចជួយវាឱ្យរីកចម្រើនបន្ថែមទៀត។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Clear systems, roles and routines may be settling into place. That structure could be giving the business a firm, steady direction.",
+        "km": "ប្រព័ន្ធ តួនាទី និងទម្លាប់ច្បាស់លាស់ ប្រហែលជាកំពុងចូលរបៀប។ រចនាសម្ព័ន្ធនោះ អាចកំពុងផ្តល់ឱ្យអាជីវកម្មនូវទិសដៅរឹងមាំ និងនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Too much rigidity could make the business slow to respond when the market shifts. Keep structure firm but leave room to adapt.",
+        "km": "ភាពតឹងរ៉ឹងច្រើនពេក អាចធ្វើឱ្យអាជីវកម្មយឺតក្នុងការឆ្លើយតប នៅពេលទីផ្សារប្រែប្រួល។ សូមរក្សារចនាសម្ព័ន្ធឱ្យរឹងមាំ ប៉ុន្តែទុកកន្លែងសម្រាប់ការសម្របខ្លួន។"
+      },
+      "outcome": {
+        "en": "Strong organisation could lead the business toward a secure, respected position. Clear leadership may give staff and customers confidence in where it is going.",
+        "km": "ការរៀបចំរឹងមាំ អាចនាំអាជីវកម្មឆ្ពោះទៅរកជំហរមានសុវត្ថិភាព និងគួរឱ្យគោរព។ ការដឹកនាំច្បាស់លាស់ អាចផ្តល់ឱ្យបុគ្គលិក និងអតិថិជននូវទំនុកចិត្តលើកន្លែងដែលវាកំពុងទៅ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "The business may be following a traditional, proven path in its industry. Established methods and loyal suppliers could be keeping its course steady.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងដើរតាមផ្លូវប្រពៃណីដែលបានបញ្ជាក់រួចក្នុងវិស័យរបស់វា។ វិធីសាស្ត្រដែលមានស្រាប់ និងអ្នកផ្គត់ផ្គង់ស្មោះត្រង់ អាចកំពុងរក្សាផ្លូវរបស់វាឱ្យនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Sticking too closely to how things have always been done could leave the business behind its competitors. Be willing to update methods that no longer serve.",
+        "km": "ការប្រកាន់ខ្ជាប់យ៉ាងជិតស្និទ្ធពេកនឹងរបៀបដែលធ្លាប់ធ្វើ អាចធ្វើឱ្យអាជីវកម្មធ្លាក់នៅក្រោយដៃគូប្រកួតប្រជែង។ សូមមានឆន្ទៈកែលម្អវិធីសាស្ត្រដែលលែងបម្រើ។"
+      },
+      "outcome": {
+        "en": "Building on trusted foundations could lead the business toward a respected place in its community or industry. A name for reliability may draw steady, repeat customers.",
+        "km": "ការកសាងលើមូលដ្ឋានដែលគួរឱ្យទុកចិត្ត អាចនាំអាជីវកម្មឆ្ពោះទៅរកកន្លែងគួរឱ្យគោរពក្នុងសហគមន៍ ឬវិស័យរបស់វា។ កេរ្តិ៍ឈ្មោះនៃភាពអាចទុកចិត្តបាន អាចទាក់ទាញអតិថិជនដែលត្រឡប់មកវិញជាប្រចាំ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "You may be standing at a crossroads, facing a choice that will shape where the business goes. A partnership or key relationship could play a big part in it.",
+        "km": "អ្នកប្រហែលជាកំពុងឈរនៅផ្លូវបំបែក ដោយប្រឈមនឹងជម្រើសដែលនឹងកំណត់ថាអាជីវកម្មទៅណា។ ភាពជាដៃគូ ឬទំនាក់ទំនងសំខាន់មួយ អាចដើរតួនាទីធំក្នុងនោះ។"
+      },
+      "challenge": {
+        "en": "Making a major decision that goes against your values could lead the business somewhere you do not want to be. Choose the path that feels right as well as profitable.",
+        "km": "ការធ្វើការសម្រេចចិត្តធំដែលផ្ទុយនឹងគុណតម្លៃរបស់អ្នក អាចនាំអាជីវកម្មទៅកន្លែងដែលអ្នកមិនចង់ទៅ។ សូមជ្រើសរើសផ្លូវដែលមានអារម្មណ៍ត្រឹមត្រូវ ក៏ដូចជាមានប្រាក់ចំណេញដែរ។"
+      },
+      "outcome": {
+        "en": "A well-chosen partnership or decision could set the business on a rewarding path. Alignment between values and action may bring lasting success.",
+        "km": "ភាពជាដៃគូ ឬការសម្រេចចិត្តដែលជ្រើសរើសបានល្អ អាចដាក់អាជីវកម្មលើផ្លូវដែលផ្តល់ផលល្អ។ ការស៊ីគ្នារវាងគុណតម្លៃ និងសកម្មភាព អាចនាំមកនូវភាពជោគជ័យស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "The business may be moving forward with drive and determination toward a clear goal. Firm leadership could be keeping that momentum on track.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងទៅមុខដោយការតាំងចិត្ត និងការប្តេជ្ញាឆ្ពោះទៅរកគោលដៅច្បាស់លាស់។ ការដឹកនាំរឹងមាំ អាចកំពុងរក្សាសន្ទុះនោះឱ្យនៅលើផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Pushing in too many directions at once could scatter the business's energy. Keep staff and spending focused on the one destination that matters most.",
+        "km": "ការជំរុញក្នុងទិសដៅច្រើនពេកក្នុងពេលតែមួយ អាចធ្វើឱ្យថាមពលរបស់អាជីវកម្មខ្ចាត់ខ្ចាយ។ សូមរក្សាបុគ្គលិក និងការចំណាយឱ្យផ្តោតលើគោលដៅតែមួយដែលសំខាន់បំផុត។"
+      },
+      "outcome": {
+        "en": "Focused determination could carry the business to an important achievement. Steering firmly may bring a breakthrough worth the effort.",
+        "km": "ការតាំងចិត្តដែលផ្តោត អាចនាំអាជីវកម្មទៅរកសមិទ្ធផលសំខាន់មួយ។ ការដឹកនាំយ៉ាងម៉ឺងម៉ាត់ អាចនាំមកនូវការទម្លុះដែលសមនឹងការខិតខំ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience and inner strength may be holding things steady through pressure. That quiet resilience could be what keeps the business heading forward.",
+        "km": "ការអត់ធ្មត់ និងកម្លាំងខាងក្នុង ប្រហែលជាកំពុងរក្សាអ្វីៗឱ្យនឹងនរឆ្លងកាត់សម្ពាធ។ ភាពធន់ស្ងប់ស្ងាត់នោះ អាចជាអ្វីដែលរក្សាអាជីវកម្មឱ្យឆ្ពោះទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Losing patience with slow progress could lead to rash decisions about prices, staff or spending. Trust steady effort and handle setbacks calmly.",
+        "km": "ការបាត់បង់ការអត់ធ្មត់ចំពោះវឌ្ឍនភាពយឺត អាចនាំឱ្យមានការសម្រេចចិត្តប្រញាប់ប្រញាល់អំពីតម្លៃ បុគ្គលិក ឬការចំណាយ។ សូមទុកចិត្តលើការខិតខំទៀងទាត់ ហើយដោះស្រាយឧបសគ្គដោយស្ងប់ស្ងាត់។"
+      },
+      "outcome": {
+        "en": "Quiet strength could carry the business through challenges toward a stronger position. Steady courage may earn the trust of customers and staff.",
+        "km": "កម្លាំងស្ងប់ស្ងាត់ អាចនាំអាជីវកម្មឆ្លងកាត់បញ្ហាប្រឈម ឆ្ពោះទៅរកជំហររឹងមាំជាង។ ភាពក្លាហាននឹងនរ អាចទទួលបានការទុកចិត្តពីអតិថិជន និងបុគ្គលិក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "The business may be in a reflective phase, with you reconsidering its purpose and direction. Careful thought could clarify where it should go.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតក្នុងដំណាក់កាលពិចារណា ដោយអ្នកកំពុងពិចារណាឡើងវិញពីគោលបំណង និងទិសដៅរបស់វា។ ការគិតដោយប្រុងប្រយ័ត្ន អាចបញ្ជាក់ថាវាគួរទៅណា។"
+      },
+      "challenge": {
+        "en": "Withdrawing too far from customers and the market could leave the business out of touch with demand. Keep talking to buyers while you rethink the plan.",
+        "km": "ការដកខ្លួនឆ្ងាយពេកពីអតិថិជន និងទីផ្សារ អាចធ្វើឱ្យអាជីវកម្មដាច់ពីតម្រូវការ។ សូមបន្តនិយាយជាមួយអ្នកទិញ ខណៈអ្នកគិតឡើងវិញពីផែនការ។"
+      },
+      "outcome": {
+        "en": "Thoughtful decisions could guide the business toward a more meaningful, focused direction. Wisdom gained from reflection may steer it well.",
+        "km": "ការសម្រេចចិត្តដោយការគិតគូរ អាចដឹកនាំអាជីវកម្មឆ្ពោះទៅរកទិសដៅដែលមានអត្ថន័យ និងផ្តោតជាងមុន។ ប្រាជ្ញាដែលទទួលបានពីការពិចារណា អាចដឹកនាំវាបានល្អ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "A wheel of change may be turning, with fortunes rising or shifting around you. How you adapt to the turn could shape the stretch of road ahead.",
+        "km": "កង់នៃការផ្លាស់ប្តូរ ប្រហែលជាកំពុងវិល ដោយសំណាងកំពុងកើនឡើង ឬប្រែប្រួលជុំវិញអ្នក។ របៀបដែលអ្នកសម្របខ្លួនទៅនឹងការប្រែប្រួល អាចកំណត់ផ្លូវខាងមុខ។"
+      },
+      "challenge": {
+        "en": "Assuming good conditions will last could leave the business unprepared for a downturn. Build reserves and flexibility while things are going well.",
+        "km": "ការសន្មតថាលក្ខខណ្ឌល្អនឹងស្ថិតស្ថេរ អាចធ្វើឱ្យអាជីវកម្មមិនត្រៀមខ្លួនសម្រាប់ការធ្លាក់ចុះ។ សូមកសាងទុនបម្រុង និងភាពបត់បែន ខណៈអ្វីៗកំពុងដំណើរការល្អ។"
+      },
+      "outcome": {
+        "en": "A favourable turn in the market could lift the business to a new level. Riding the change wisely may bring growth you did not expect.",
+        "km": "ការប្រែប្រួលល្អក្នុងទីផ្សារ អាចលើកអាជីវកម្មឡើងទៅកម្រិតថ្មី។ ការជិះលើការផ្លាស់ប្តូរដោយឆ្លាតវៃ អាចនាំមកនូវកំណើនដែលអ្នកមិនបានរំពឹង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "The business may be reaching a point where past decisions are showing their results. Fair, honest dealings could be keeping it on solid ground.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងឈានដល់ចំណុចមួយ ដែលការសម្រេចចិត្តកន្លងមកកំពុងបង្ហាញលទ្ធផល។ ការធ្វើជំនួញដោយយុត្តិធម៌ និងស្មោះត្រង់ អាចកំពុងរក្សាវាឱ្យនៅលើដីរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Cutting corners on contracts, taxes or obligations could catch up with the business. Seek professional advice to keep everything in order.",
+        "km": "ការធ្វើការងាររំលងលើកិច្ចសន្យា ពន្ធ ឬកាតព្វកិច្ច អាចនាំបញ្ហាមករកអាជីវកម្ម។ សូមស្វែងរកដំបូន្មានពីអ្នកជំនាញ ដើម្បីរក្សាអ្វីៗឱ្យមានសណ្តាប់ធ្នាប់។"
+      },
+      "outcome": {
+        "en": "Honest, balanced decisions could lead the business toward a fair and stable position. Integrity may earn lasting respect from customers and partners.",
+        "km": "ការសម្រេចចិត្តដោយស្មោះត្រង់ និងមានតុល្យភាព អាចនាំអាជីវកម្មឆ្ពោះទៅរកជំហរយុត្តិធម៌ និងមានស្ថិរភាព។ សុចរិតភាព អាចទទួលបានការគោរពស្ថិតស្ថេរពីអតិថិជន និងដៃគូ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Growth may have slowed or plans may be on hold, leaving things in a pause. That stillness could be a chance to rethink direction.",
+        "km": "កំណើនប្រហែលជាយឺត ឬផែនការប្រហែលជាត្រូវបានផ្អាក ដោយទុកអ្វីៗក្នុងការផ្អាក។ ភាពស្ងប់នោះ អាចជាឱកាសដើម្បីគិតឡើងវិញពីទិសដៅ។"
+      },
+      "challenge": {
+        "en": "Staying stuck out of fear of the wrong move could keep the business from progressing. Accept that some uncertainty is part of moving forward.",
+        "km": "ការនៅជាប់គាំង ដោយសារការភ័យខ្លាចធ្វើចលនាខុស អាចរារាំងអាជីវកម្មពីការរីកចម្រើន។ សូមទទួលយកថាភាពមិនច្បាស់លាស់ខ្លះ ជាផ្នែកមួយនៃការទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A shift in perspective could set the business on a new and better course. Seeing your products or customers differently may unlock possibilities you had dismissed.",
+        "km": "ការផ្លាស់ប្តូរទស្សនៈ អាចដាក់អាជីវកម្មលើផ្លូវថ្មី និងល្អជាងមុន។ ការមើលផលិតផល ឬអតិថិជនរបស់អ្នកខុសពីមុន អាចដោះសោលទ្ធភាពដែលអ្នកធ្លាប់បដិសេធ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "The business may be going through a significant transformation, with one phase ending. The shape it takes from here could look quite different.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងឆ្លងកាត់ការផ្លាស់ប្តូរដ៏សំខាន់ ដោយដំណាក់កាលមួយកំពុងបញ្ចប់។ រូបរាងដែលវាយកពីទីនេះ អាចមើលទៅខុសគ្នាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Resisting a necessary change could keep the business tied to what no longer works. Let go of outdated products or methods that customers have moved away from.",
+        "km": "ការប្រឆាំងនឹងការផ្លាស់ប្តូរដែលចាំបាច់ អាចចងអាជីវកម្មជាប់នឹងអ្វីដែលលែងដំណើរការ។ សូមបោះបង់ផលិតផល ឬវិធីសាស្ត្រហួសសម័យ ដែលអតិថិជនបានងាកចេញ។"
+      },
+      "outcome": {
+        "en": "Embracing transformation could lead the business into a renewed, healthier form. An ending may make room for a stronger chapter.",
+        "km": "ការទទួលយកការផ្លាស់ប្តូរទាំងស្រុង អាចនាំអាជីវកម្មចូលទៅក្នុងទម្រង់ថ្មី និងមានសុខភាពល្អជាងមុន។ ទីបញ្ចប់មួយ អាចបើកកន្លែងសម្រាប់ជំពូកដែលរឹងមាំជាង។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "A healthy balance between growth and stability may be forming. Moderation could be guiding the business in a sustainable direction.",
+        "km": "តុល្យភាពល្អរវាងកំណើន និងស្ថិរភាព ប្រហែលជាកំពុងកើតឡើង។ ភាពសមរម្យ អាចកំពុងដឹកនាំអាជីវកម្មក្នុងទិសដៅប្រកបដោយនិរន្តរភាព។"
+      },
+      "challenge": {
+        "en": "Lurching between rapid expansion and sharp cuts could leave the business without a steady course. Aim for measured progress that your cash and staff can sustain.",
+        "km": "ការប្តូរទៅមករវាងការពង្រីករហ័ស និងការកាត់បន្ថយខ្លាំង អាចធ្វើឱ្យអាជីវកម្មគ្មានផ្លូវនឹងនរ។ សូមផ្តោតលើវឌ្ឍនភាពមានកម្រិត ដែលសាច់ប្រាក់ និងបុគ្គលិករបស់អ្នកអាចទ្រទ្រង់បាន។"
+      },
+      "outcome": {
+        "en": "Patient, balanced management could lead the business toward lasting health and harmony. Steady progress may serve it better than sudden leaps.",
+        "km": "ការគ្រប់គ្រងដោយអត់ធ្មត់ និងមានតុល្យភាព អាចនាំអាជីវកម្មឆ្ពោះទៅរកសុខភាព និងភាពសុខដុមស្ថិតស្ថេរ។ វឌ្ឍនភាពទៀងទាត់ អាចបម្រើវាបានល្អជាងការលោតភ្លាមៗ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "The business may be tied to an arrangement, debt or habit that limits its freedom. Recognising that hold could be the first step to changing direction.",
+        "km": "អាជីវកម្មប្រហែលជាជាប់ចំណងនឹងការរៀបចំ បំណុល ឬទម្លាប់ដែលកំណត់សេរីភាពរបស់វា។ ការទទួលស្គាល់ការជាប់ចំណងនោះ អាចជាជំហានដំបូងឆ្ពោះទៅរកការផ្លាស់ប្តូរទិសដៅ។"
+      },
+      "challenge": {
+        "en": "Chasing quick profit at the cost of integrity could lead the business somewhere unhealthy. Seek advice if debts or contracts feel like a trap.",
+        "km": "ការដេញតាមប្រាក់ចំណេញងាយៗ ដោយចំណាយសុចរិតភាព អាចនាំអាជីវកម្មទៅកន្លែងដែលមិនល្អ។ សូមស្វែងរកដំបូន្មាន ប្រសិនបើបំណុល ឬកិច្ចសន្យាហាក់ដូចជាអន្ទាក់។"
+      },
+      "outcome": {
+        "en": "Breaking free of a limiting arrangement could open a healthier path for the business. Regaining control over your own decisions may restore your enthusiasm for it.",
+        "km": "ការរំដោះខ្លួនពីការរៀបចំដែលកំណត់ អាចបើកផ្លូវដែលមានសុខភាពល្អជាងសម្រាប់អាជីវកម្ម។ ការទទួលបានការគ្រប់គ្រងលើការសម្រេចចិត្តរបស់អ្នកវិញ អាចស្តារភាពរំភើបរបស់អ្នកចំពោះវាឡើងវិញ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Sudden disruption, such as a lost customer or market shock, may be shaking things up. That upheaval could force a change of direction.",
+        "km": "ការរំខានភ្លាមៗ ដូចជាការបាត់បង់អតិថិជន ឬការភ្ញាក់ផ្អើលក្នុងទីផ្សារ ប្រហែលជាកំពុងធ្វើឱ្យអ្វីៗរង្គោះរង្គើ។ ភាពចលាចលនោះ អាចបង្ខំឱ្យមានការផ្លាស់ប្តូរទិសដៅ។"
+      },
+      "challenge": {
+        "en": "Ignoring cracks in the foundations could lead to a bigger collapse. Address weak points honestly before they give way.",
+        "km": "ការមិនអើពើនឹងស្នាមប្រេះក្នុងមូលដ្ឋាន អាចនាំឱ្យមានការដួលរលំធំជាង។ សូមដោះស្រាយចំណុចខ្សោយដោយស្មោះត្រង់ មុនពេលវាបាក់។"
+      },
+      "outcome": {
+        "en": "Rebuilding after disruption could lead the business to a stronger, more honest foundation. What falls may make way for something better.",
+        "km": "ការកសាងឡើងវិញបន្ទាប់ពីការរំខាន អាចនាំអាជីវកម្មទៅរកមូលដ្ឋានដែលរឹងមាំ និងស្មោះត្រង់ជាងមុន។ អ្វីដែលដួល អាចបើកផ្លូវសម្រាប់អ្វីដែលល្អជាង។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "The business may be recovering from a difficult period, with hope returning. Renewed optimism among you and your staff could be guiding its direction.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងងើបឡើងវិញពីដំណាក់កាលលំបាក ដោយក្តីសង្ឃឹមកំពុងត្រឡប់មកវិញ។ សុទិដ្ឋិនិយមថ្មីក្នុងចំណោមអ្នក និងបុគ្គលិករបស់អ្នក អាចកំពុងដឹកនាំទិសដៅរបស់វា។"
+      },
+      "challenge": {
+        "en": "Relying on hope without practical plans could leave recovery incomplete. Back optimism with clear steps and realistic targets.",
+        "km": "ការពឹងលើក្តីសង្ឃឹម ដោយគ្មានផែនការជាក់ស្តែង អាចធ្វើឱ្យការងើបឡើងវិញមិនពេញលេញ។ សូមគាំទ្រសុទិដ្ឋិនិយមដោយជំហានច្បាស់លាស់ និងគោលដៅជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "A hopeful, purpose-driven direction could lead the business toward renewal and growth. Inspiration may attract customers who share its vision.",
+        "km": "ទិសដៅដែលមានក្តីសង្ឃឹម និងជំរុញដោយគោលបំណង អាចនាំអាជីវកម្មឆ្ពោះទៅរកការកែថ្មី និងកំណើន។ ការបំផុសគំនិត អាចទាក់ទាញអតិថិជនដែលចែករំលែកចក្ខុវិស័យរបស់វា។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "The direction of the business may feel uncertain, with mixed signals and unclear information. Clarifying the facts could help you see the path.",
+        "km": "ទិសដៅរបស់អាជីវកម្ម ប្រហែលជាមានអារម្មណ៍មិនច្បាស់លាស់ ដោយមានសញ្ញាចម្រុះ និងព័ត៌មានមិនច្បាស់។ ការបញ្ជាក់ការពិត អាចជួយអ្នកឱ្យមើលឃើញផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Making major decisions based on fear or rumour could lead the business astray. Verify market information and seek advice from someone you trust.",
+        "km": "ការធ្វើការសម្រេចចិត្តធំៗដោយផ្អែកលើការភ័យខ្លាច ឬពាក្យចចាមអារ៉ាម អាចនាំអាជីវកម្មឱ្យវង្វេង។ សូមផ្ទៀងផ្ទាត់ព័ត៌មានទីផ្សារ ហើយស្វែងរកដំបូន្មានពីនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Working through confusion carefully could bring the business to clearer ground. Patience with uncertainty may reveal the right direction.",
+        "km": "ការឆ្លងកាត់ភាពច្របូកច្របល់ដោយប្រុងប្រយ័ត្ន អាចនាំអាជីវកម្មទៅរកដីច្បាស់លាស់ជាង។ ការអត់ធ្មត់ចំពោះភាពមិនច្បាស់លាស់ អាចបង្ហាញទិសដៅត្រឹមត្រូវ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "A bright, successful phase may be under way, with good results and positive energy. That success could be carrying the business forward with real confidence.",
+        "km": "ដំណាក់កាលភ្លឺស្វាង និងជោគជ័យ ប្រហែលជាកំពុងដំណើរការ ដោយមានលទ្ធផលល្អ និងថាមពលវិជ្ជមាន។ ភាពជោគជ័យនោះ អាចកំពុងនាំអាជីវកម្មទៅមុខដោយទំនុកចិត្តពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Overconfidence during a winning streak could lead to careless decisions. Keep checking the numbers even when results look bright.",
+        "km": "ទំនុកចិត្តហួសហេតុ ខណៈទទួលបានជោគជ័យជាបន្តបន្ទាប់ អាចនាំឱ្យមានការសម្រេចចិត្តធ្វេសប្រហែស។ សូមបន្តពិនិត្យតួលេខ ទោះបីជាលទ្ធផលមើលទៅភ្លឺស្វាងក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Continued success could lead the business toward growth, recognition and satisfaction. Shared achievement may bring joy to everyone involved.",
+        "km": "ភាពជោគជ័យជាបន្តបន្ទាប់ អាចនាំអាជីវកម្មឆ្ពោះទៅរកកំណើន ការទទួលស្គាល់ និងការពេញចិត្ត។ សមិទ្ធផលរួមគ្នា អាចនាំមកនូវសេចក្តីរីករាយដល់អ្នកពាក់ព័ន្ធទាំងអស់។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "The business may be at a point of reckoning, reviewing its past to decide its direction. An honest look at what worked could set a new course.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតនៅចំណុចនៃការវាយតម្លៃ ដោយពិនិត្យអតីតកាលរបស់វា ដើម្បីសម្រេចទិសដៅ។ ការមើលដោយស្មោះត្រង់លើអ្វីដែលដំណើរការ អាចកំណត់ផ្លូវថ្មី។"
+      },
+      "challenge": {
+        "en": "Repeating past mistakes could keep the business from moving forward. Learn from what went wrong and act on it.",
+        "km": "ការធ្វើកំហុសកន្លងមកម្តងទៀត អាចរារាំងអាជីវកម្មពីការទៅមុខ។ សូមរៀនពីអ្វីដែលខុស ហើយធ្វើសកម្មភាពតាមនោះ។"
+      },
+      "outcome": {
+        "en": "A thoughtful renewal could lead the business to a fresh, more purposeful phase. Lessons learned may guide it toward wiser choices.",
+        "km": "ការកែថ្មីដោយការគិតគូរ អាចនាំអាជីវកម្មទៅរកដំណាក់កាលថ្មី និងមានគោលបំណងជាងមុន។ មេរៀនដែលបានរៀន អាចណែនាំវាឆ្ពោះទៅរកជម្រើសដែលឆ្លាតវៃជាង។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "A milestone may be within reach, completing a whole phase of growth. That achievement could open the door to a wider world.",
+        "km": "ព្រឹត្តិការណ៍សំខាន់មួយ ប្រហែលជាស្ថិតនៅក្នុងដៃ ដោយបញ្ចប់ដំណាក់កាលកំណើនទាំងមូល។ សមិទ្ធផលនោះ អាចបើកទ្វារទៅកាន់ពិភពធំជាង។"
+      },
+      "challenge": {
+        "en": "Standing still after a success could let momentum fade. Use the achievement as a base for the next stage.",
+        "km": "ការនៅស្ងៀមបន្ទាប់ពីភាពជោគជ័យ អាចធ្វើឱ្យសន្ទុះរសាត់បាត់។ សូមប្រើសមិទ្ធផលនោះជាមូលដ្ឋានសម្រាប់ដំណាក់កាលបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Completing a major goal could bring the business to a fulfilling, well-rounded position. New markets or horizons may open from here.",
+        "km": "ការបញ្ចប់គោលដៅធំមួយ អាចនាំអាជីវកម្មទៅរកជំហរដែលពេញលេញ និងពេញចិត្ត។ ទីផ្សារ ឬជើងមេឃថ្មី អាចបើកពីទីនេះ។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A new idea or venture may be giving the business fresh energy and a clear point to aim for. That spark could tilt its direction toward an exciting new area.",
+        "km": "គំនិត ឬគម្រោងថ្មីមួយ ប្រហែលជាកំពុងផ្តល់ឱ្យអាជីវកម្មនូវថាមពលថ្មី និងចំណុចច្បាស់លាស់ដើម្បីតម្រង់ទៅ។ ការបំផុសគំនិតនោះ អាចបង្វែរទិសដៅរបស់វាទៅរកវិស័យថ្មីគួរឱ្យរំភើប។"
+      },
+      "challenge": {
+        "en": "Starting new projects before finishing existing ones could leave the business going in circles. Follow through on the one idea with the clearest demand behind it.",
+        "km": "ការចាប់ផ្តើមគម្រោងថ្មី មុនពេលបញ្ចប់គម្រោងដែលមានស្រាប់ អាចធ្វើឱ្យអាជីវកម្មវិលវល់។ សូមអនុវត្តឱ្យចប់នូវគំនិតមួយ ដែលមានតម្រូវការច្បាស់បំផុតនៅពីក្រោយ។"
+      },
+      "outcome": {
+        "en": "A promising new venture could take the business in a lively, growing direction. Fresh products or services may draw customers who have not noticed you before.",
+        "km": "គម្រោងថ្មីដែលមានសក្តានុពល អាចនាំអាជីវកម្មក្នុងទិសដៅរស់រវើក និងរីកចម្រើន។ ផលិតផល ឬសេវាកម្មថ្មី អាចទាក់ទាញអតិថិជនដែលមិនធ្លាប់កត់សម្គាល់អ្នក។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Plans for expansion may be taking shape, with a choice between staying local or reaching further. The route you map out could set the business's course.",
+        "km": "ផែនការពង្រីកប្រហែលជាកំពុងចាប់ផ្តើមមានរូបរាង ដោយមានជម្រើសរវាងការនៅក្នុងតំបន់ ឬការឈោងទៅឆ្ងាយជាង។ ផ្លូវដែលអ្នកគូស អាចកំណត់ទិសដៅរបស់អាជីវកម្ម។"
+      },
+      "challenge": {
+        "en": "Planning without acting could leave the business standing still while competitors move. Turn your strategy into a first concrete step, such as testing a new area.",
+        "km": "ការរៀបចំផែនការដោយមិនធ្វើសកម្មភាព អាចធ្វើឱ្យអាជីវកម្មនៅស្ងៀម ខណៈដៃគូប្រកួតប្រជែងផ្លាស់ទី។ សូមប្តូរយុទ្ធសាស្ត្ររបស់អ្នក ទៅជាជំហានជាក់ស្តែងដំបូង ដូចជាការសាកល្បងតំបន់ថ្មី។"
+      },
+      "outcome": {
+        "en": "A clear plan to expand could lead the business into wider markets. Bold but well-prepared moves may establish it in places it has never reached.",
+        "km": "ផែនការច្បាស់លាស់ដើម្បីពង្រីក អាចនាំអាជីវកម្មចូលទៅក្នុងទីផ្សារធំជាង។ ចលនាក្លាហាន ប៉ុន្តែត្រៀមរៀបចំបានល្អ អាចបង្កើតវានៅកន្លែងដែលវាមិនធ្លាប់ទៅដល់។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Efforts to grow may already be bearing fruit, with signs of expansion on the horizon. Enquiries from new places could show where the business is heading.",
+        "km": "ការខិតខំដើម្បីរីកចម្រើន ប្រហែលជាកំពុងផ្តល់ផលរួចហើយ ដោយមានសញ្ញានៃការពង្រីកនៅលើជើងមេឃ។ សំណួរពីកន្លែងថ្មីៗ អាចបង្ហាញថាអាជីវកម្មកំពុងឆ្ពោះទៅណា។"
+      },
+      "challenge": {
+        "en": "Expanding faster than your systems can handle could create strain and costly mistakes. Make sure stock, staff and delivery can support the growth you are seeking.",
+        "km": "ការពង្រីកលឿនជាងប្រព័ន្ធរបស់អ្នកអាចទ្រាំបាន អាចបង្កសម្ពាធ និងកំហុសដែលខាតបង់។ សូមប្រាកដថាស្តុក បុគ្គលិក និងការដឹកជញ្ជូន អាចគាំទ្រកំណើនដែលអ្នកកំពុងស្វែងរក។"
+      },
+      "outcome": {
+        "en": "Growth beyond your current reach could bring the business new customers and markets. Careful preparation may let it expand without losing what makes it good.",
+        "km": "កំណើនហួសពីវិសាលភាពបច្ចុប្បន្នរបស់អ្នក អាចនាំមកអាជីវកម្មនូវអតិថិជន និងទីផ្សារថ្មី។ ការត្រៀមរៀបចំដោយប្រុងប្រយ័ត្ន អាចឱ្យវាពង្រីកដោយមិនបាត់បង់អ្វីដែលធ្វើឱ្យវាល្អ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A stable, happy stretch may be giving the business a solid foundation to build from. A milestone or celebration could mark how far it has come.",
+        "km": "ដំណាក់កាលមានស្ថិរភាព និងរីករាយ ប្រហែលជាកំពុងផ្តល់ឱ្យអាជីវកម្មនូវមូលដ្ឋានរឹងមាំដើម្បីកសាងបន្ត។ ព្រឹត្តិការណ៍សំខាន់ ឬការអបអរ អាចសម្គាល់ថាវាបានមកដល់ឆ្ងាយប៉ុណ្ណា។"
+      },
+      "challenge": {
+        "en": "Settling into comfort could make the business slow to notice what customers will want next. Keep asking regulars what would make them buy more.",
+        "km": "ការចូលរបៀបក្នុងភាពស្រួល អាចធ្វើឱ្យអាជីវកម្មយឺតក្នុងការកត់សម្គាល់អ្វីដែលអតិថិជននឹងចង់បានបន្ទាប់។ សូមបន្តសួរអតិថិជនទៀងទាត់ថាអ្វីនឹងធ្វើឱ្យពួកគេទិញបន្ថែម។"
+      },
+      "outcome": {
+        "en": "A secure, well-loved business could become a fixture in its community. Marking progress with staff and customers may deepen the loyalty that carries it forward.",
+        "km": "អាជីវកម្មដែលមានសុវត្ថិភាព និងគេស្រលាញ់ អាចក្លាយជាផ្នែកមួយដ៏ស្ថិតស្ថេរនៃសហគមន៍របស់វា។ ការអបអរវឌ្ឍនភាពជាមួយបុគ្គលិក និងអតិថិជន អាចពង្រឹងភាពស្មោះត្រង់ដែលនាំវាទៅមុខ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Strong competition may be shaping the direction of the business, pushing it to work harder for each sale. That pressure could sharpen its edge.",
+        "km": "ការប្រកួតប្រជែងខ្លាំង ប្រហែលជាកំពុងកំណត់ទិសដៅរបស់អាជីវកម្ម ដោយជំរុញវាឱ្យខិតខំខ្លាំងជាងមុនសម្រាប់ការលក់នីមួយៗ។ សម្ពាធនោះ អាចធ្វើឱ្យគុណសម្បត្តិរបស់វាមុតស្រួច។"
+      },
+      "challenge": {
+        "en": "Getting drawn into price wars with rivals could drain margins and energy. Focus on what makes your offer different rather than matching every discount.",
+        "km": "ការត្រូវបានទាញចូលក្នុងសង្គ្រាមតម្លៃជាមួយគូប្រជែង អាចធ្វើឱ្យខាតប្រាក់ចំណេញ និងថាមពល។ សូមផ្តោតលើអ្វីដែលធ្វើឱ្យការផ្តល់ជូនរបស់អ្នកខុសប្លែក ជាជាងតាមរាល់ការបញ្ចុះតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Rising above competition through quality or service could lead the business to a stronger position. A clear identity may make it the obvious choice for certain customers.",
+        "km": "ការលើសពីការប្រកួតប្រជែងតាមរយៈគុណភាព ឬសេវាកម្ម អាចនាំអាជីវកម្មទៅរកជំហររឹងមាំជាង។ អត្តសញ្ញាណច្បាស់លាស់ អាចធ្វើឱ្យវាក្លាយជាជម្រើសច្បាស់លាស់សម្រាប់អតិថិជនមួយចំនួន។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Recognition may be lifting the business, through good reviews, referrals or a growing name. That rising reputation could be setting its direction.",
+        "km": "ការទទួលស្គាល់ ប្រហែលជាកំពុងលើកស្ទួយអាជីវកម្ម តាមរយៈការវាយតម្លៃល្អ ការណែនាំ ឬឈ្មោះដែលកំពុងល្បី។ កេរ្តិ៍ឈ្មោះដែលកំពុងកើនឡើងនោះ អាចកំពុងកំណត់ទិសដៅរបស់វា។"
+      },
+      "challenge": {
+        "en": "Resting on past praise could let the business fall behind competitors who keep improving. Use customer feedback to keep refining what you offer.",
+        "km": "ការពឹងលើការសរសើរកន្លងមក អាចធ្វើឱ្យអាជីវកម្មធ្លាក់នៅពីក្រោយដៃគូប្រកួតប្រជែងដែលបន្តកែលម្អ។ សូមប្រើមតិត្រឡប់របស់អតិថិជន ដើម្បីបន្តកែលម្អអ្វីដែលអ្នកផ្តល់ជូន។"
+      },
+      "outcome": {
+        "en": "Growing recognition could lead the business toward a leading place in its field. A strong reputation may bring larger customers and partners to your door.",
+        "km": "ការទទួលស្គាល់ដែលកំពុងកើនឡើង អាចនាំអាជីវកម្មឆ្ពោះទៅរកកន្លែងឈានមុខក្នុងវិស័យរបស់វា។ កេរ្តិ៍ឈ្មោះរឹងមាំ អាចនាំអតិថិជន និងដៃគូធំៗមកដល់ទ្វាររបស់អ្នក។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may be defending your place against newcomers or tougher conditions. Standing firm on what the business does best could keep its course steady.",
+        "km": "អ្នកប្រហែលជាកំពុងការពារកន្លែងរបស់អ្នកពីអ្នកចូលថ្មី ឬលក្ខខណ្ឌលំបាកជាងមុន។ ការឈររឹងមាំលើអ្វីដែលអាជីវកម្មធ្វើបានល្អបំផុត អាចរក្សាផ្លូវរបស់វាឱ្យនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Spending all your energy on defence could leave none for moving forward. Protect your core customers, but keep some effort for new growth.",
+        "km": "ការចំណាយថាមពលទាំងអស់លើការការពារ អាចទុកថាមពលគ្មានសម្រាប់ការទៅមុខ។ សូមការពារអតិថិជនស្នូលរបស់អ្នក ប៉ុន្តែទុកការខិតខំខ្លះសម្រាប់កំណើនថ្មី។"
+      },
+      "outcome": {
+        "en": "Holding your ground with confidence could secure the business a lasting place in the market. Customers may value a company that stands by its standards under pressure.",
+        "km": "ការរក្សាជំហររបស់អ្នកដោយទំនុកចិត្ត អាចធានាដល់អាជីវកម្មនូវកន្លែងស្ថិតស្ថេរក្នុងទីផ្សារ។ អតិថិជនអាចឱ្យតម្លៃលើក្រុមហ៊ុនដែលប្រកាន់ខ្ជាប់ស្តង់ដាររបស់ខ្លួនក្រោមសម្ពាធ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Orders, messages and changes may be arriving thick and fast, carrying the business along with them. Keeping pace could decide where it ends up.",
+        "km": "ការបញ្ជាទិញ សារ និងការផ្លាស់ប្តូរ ប្រហែលជាកំពុងមកដល់យ៉ាងច្រើន និងលឿន ដោយនាំអាជីវកម្មទៅជាមួយ។ ការរក្សាល្បឿន អាចសម្រេចថាវានឹងទៅដល់ណា។"
+      },
+      "challenge": {
+        "en": "Rushing to answer everything at once could lead to mistakes and exhausted staff. Sort requests by importance and let less urgent ones wait.",
+        "km": "ការប្រញាប់ឆ្លើយតបនឹងអ្វីៗទាំងអស់ក្នុងពេលតែមួយ អាចនាំឱ្យមានកំហុស និងបុគ្គលិកអស់កម្លាំង។ សូមតម្រៀបសំណើតាមសារៈសំខាន់ ហើយទុកឱ្យសំណើដែលមិនសូវបន្ទាន់រង់ចាំ។"
+      },
+      "outcome": {
+        "en": "Rapid, well-directed progress could carry the business toward its goals at a lively pace. Swift replies to customers may win orders that slower rivals miss.",
+        "km": "វឌ្ឍនភាពរហ័ស និងមានទិសដៅល្អ អាចនាំអាជីវកម្មឆ្ពោះទៅរកគោលដៅរបស់វាក្នុងល្បឿនរស់រវើក។ ការឆ្លើយតបរហ័សចំពោះអតិថិជន អាចទទួលបានការបញ្ជាទិញដែលគូប្រជែងយឺតៗខកខាន។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "The business may be tired but still standing after a demanding stretch, guarding what it has built. That stubborn resilience could carry it through the final push.",
+        "km": "អាជីវកម្មប្រហែលជាហត់នឿយ ប៉ុន្តែនៅតែឈរ បន្ទាប់ពីដំណាក់កាលដ៏ទាមទារ ដោយការពារអ្វីដែលវាបានកសាង។ ភាពធន់រឹងរូសនោះ អាចនាំវាឆ្លងកាត់ការខិតខំចុងក្រោយ។"
+      },
+      "challenge": {
+        "en": "Weariness could make you suspicious of every change, even helpful ones. Rest and regroup with your team before choosing the next direction.",
+        "km": "ភាពនឿយហត់ អាចធ្វើឱ្យអ្នកសង្ស័យលើរាល់ការផ្លាស់ប្តូរ សូម្បីតែការផ្លាស់ប្តូរដែលមានប្រយោជន៍។ សូមសម្រាក និងប្រមូលកម្លាំងឡើងវិញជាមួយក្រុមរបស់អ្នក មុនពេលជ្រើសរើសទិសដៅបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Perseverance through difficulty could lead the business to a more secure footing. The effort you have poured in may start to show in steadier sales.",
+        "km": "ការតស៊ូឆ្លងកាត់ការលំបាក អាចនាំអាជីវកម្មទៅរកមូលដ្ឋានមានសុវត្ថិភាពជាង។ ការខិតខំដែលអ្នកបានចាក់បញ្ចូល អាចចាប់ផ្តើមបង្ហាញក្នុងការលក់ដែលនឹងនរជាងមុន។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Too many duties may be resting on too few people, and that weight could be steering the business more than any plan. Lightening it might change its course.",
+        "km": "កាតព្វកិច្ចច្រើនពេក ប្រហែលជាកំពុងសង្កត់លើមនុស្សតិចពេក ហើយទម្ងន់នោះអាចកំពុងដឹកនាំអាជីវកម្មច្រើនជាងផែនការណាមួយ។ ការបន្ធូរវា អាចផ្លាស់ប្តូរផ្លូវរបស់វា។"
+      },
+      "challenge": {
+        "en": "Adding new commitments without letting any go could push you toward burnout. Hand over, simplify or stop the tasks that bring the least return.",
+        "km": "ការបន្ថែមការប្តេជ្ញាចិត្តថ្មី ដោយមិនបោះបង់អ្វីសោះ អាចរុញអ្នកឆ្ពោះទៅរកការអស់កម្លាំង។ សូមប្រគល់ សម្រួល ឬបញ្ឈប់កិច្ចការដែលផ្តល់ផលតិចបំផុត។"
+      },
+      "outcome": {
+        "en": "Sharing the load could free the business to move in a healthier direction. With responsibilities spread fairly, growth may become something you can sustain.",
+        "km": "ការចែករំលែកបន្ទុក អាចដោះលែងអាជីវកម្មឱ្យផ្លាស់ទីក្នុងទិសដៅដែលមានសុខភាពល្អជាង។ នៅពេលការទទួលខុសត្រូវត្រូវបានបែងចែកដោយយុត្តិធម៌ កំណើនអាចក្លាយជាអ្វីដែលអ្នកអាចទ្រទ្រង់បាន។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity and fresh ideas may be nudging the business toward new products, platforms or customers. That spirit of exploration could set its course.",
+        "km": "ការចង់ដឹង និងគំនិតថ្មីៗ ប្រហែលជាកំពុងរុញអាជីវកម្មឆ្ពោះទៅរកផលិតផល វេទិកា ឬអតិថិជនថ្មី។ ស្មារតីនៃការរុករកនោះ អាចកំណត់ផ្លូវរបស់វា។"
+      },
+      "challenge": {
+        "en": "Chasing every new trend could leave the business without a clear identity. Test fresh ideas on a small scale and keep only those that suit your customers.",
+        "km": "ការដេញតាមរាល់និន្នាការថ្មី អាចធ្វើឱ្យអាជីវកម្មគ្មានអត្តសញ្ញាណច្បាស់លាស់។ សូមសាកល្បងគំនិតថ្មីៗក្នុងកម្រិតតូច ហើយរក្សាទុកតែគំនិតដែលសមនឹងអតិថិជនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Willingness to learn and experiment could lead the business into promising new areas. A playful approach to ideas may keep its offer fresh and relevant.",
+        "km": "ឆន្ទៈរៀន និងសាកល្បង អាចនាំអាជីវកម្មចូលទៅក្នុងវិស័យថ្មីដែលមានសក្តានុពល។ វិធីសាស្ត្ររីករាយចំពោះគំនិត អាចរក្សាការផ្តល់ជូនរបស់វាឱ្យស្រស់ថ្មី និងពាក់ព័ន្ធ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold energy may be driving the business forward, with eagerness to grow and take chances. That drive could carry it into unfamiliar territory.",
+        "km": "ថាមពលក្លាហាន ប្រហែលជាកំពុងជំរុញអាជីវកម្មទៅមុខ ដោយមានការចង់រីកចម្រើន និងប្រថុយ។ ការតាំងចិត្តនោះ អាចនាំវាចូលទៅក្នុងទឹកដីដែលមិនស៊ាំ។"
+      },
+      "challenge": {
+        "en": "Acting on impulse could lead the business into ventures it is not ready to support. Check cash, stock and staffing before charging ahead.",
+        "km": "ការធ្វើសកម្មភាពតាមចិត្តភ្លាមៗ អាចនាំអាជីវកម្មចូលក្នុងគម្រោងដែលវាមិនទាន់ត្រៀមខ្លួនគាំទ្រ។ សូមពិនិត្យសាច់ប្រាក់ ស្តុក និងបុគ្គលិក មុនពេលប្រញាប់ទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Energetic, well-aimed action could take the business into an exciting phase of expansion. Courage may open doors that excessive caution would leave shut.",
+        "km": "សកម្មភាពស្វាហាប់ និងតម្រង់គោលដៅល្អ អាចនាំអាជីវកម្មចូលទៅក្នុងដំណាក់កាលពង្រីកដ៏គួរឱ្យរំភើប។ ភាពក្លាហាន អាចបើកទ្វារដែលការប្រុងប្រយ័ត្នហួសហេតុនឹងទុកឱ្យបិទ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your confidence and warmth may be at the heart of where the business is going. Customers and staff could be following the energy you bring.",
+        "km": "ទំនុកចិត្ត និងភាពកក់ក្តៅរបស់អ្នក ប្រហែលជាស្ថិតនៅចំកណ្តាលនៃកន្លែងដែលអាជីវកម្មកំពុងទៅ។ អតិថិជន និងបុគ្គលិក អាចកំពុងដើរតាមថាមពលដែលអ្នកនាំមក។"
+      },
+      "challenge": {
+        "en": "Carrying too much personally could leave the business unable to move without you. Train others who can share the work and the vision.",
+        "km": "ការទទួលបន្ទុកច្រើនពេកដោយផ្ទាល់ខ្លួន អាចធ្វើឱ្យអាជីវកម្មមិនអាចផ្លាស់ទីបានដោយគ្មានអ្នក។ សូមបណ្តុះបណ្តាលអ្នកដទៃ ដែលអាចចែករំលែកការងារ និងចក្ខុវិស័យ។"
+      },
+      "outcome": {
+        "en": "Confident, warm leadership could guide the business toward a vibrant, well-loved presence. Your personality may become a lasting part of its appeal to customers.",
+        "km": "ការដឹកនាំដោយទំនុកចិត្ត និងកក់ក្តៅ អាចដឹកនាំអាជីវកម្មឆ្ពោះទៅរកវត្តមានរស់រវើក និងជាទីស្រលាញ់។ បុគ្គលិកលក្ខណៈរបស់អ្នក អាចក្លាយជាផ្នែកស្ថិតស្ថេរនៃភាពទាក់ទាញរបស់វាចំពោះអតិថិជន។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "An ambitious picture of what the business could become may be pulling it forward. The goals you set as its leader could decide its broad direction.",
+        "km": "រូបភាពមានមហិច្ឆតាអំពីអ្វីដែលអាជីវកម្មអាចក្លាយជា ប្រហែលជាកំពុងទាញវាទៅមុខ។ គោលដៅដែលអ្នកកំណត់ក្នុងនាមជាអ្នកដឹកនាំ អាចសម្រេចទិសដៅធំរបស់វា។"
+      },
+      "challenge": {
+        "en": "A vision kept in your own head could leave staff unsure where the business is going. Explain your goals clearly and show each person their part in them.",
+        "km": "ចក្ខុវិស័យដែលរក្សាទុកតែក្នុងក្បាលរបស់អ្នក អាចធ្វើឱ្យបុគ្គលិកមិនប្រាកដថាអាជីវកម្មកំពុងទៅណា។ សូមពន្យល់គោលដៅរបស់អ្នកឱ្យច្បាស់ ហើយបង្ហាញម្នាក់ៗពីតួនាទីរបស់ពួកគេក្នុងនោះ។"
+      },
+      "outcome": {
+        "en": "Visionary leadership could take the business to a prominent position in its field. Competitors may end up following the path it opens.",
+        "km": "ការដឹកនាំប្រកបដោយចក្ខុវិស័យ អាចនាំអាជីវកម្មទៅរកជំហរលេចធ្លោក្នុងវិស័យរបស់វា។ ដៃគូប្រកួតប្រជែងអាចដើរតាមផ្លូវដែលវាបើក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "A warmer bond with customers, perhaps through a heartfelt product or service, may be setting a fresh course. Goodwill could be gathering around the business.",
+        "km": "ចំណងកក់ក្តៅជាងមុនជាមួយអតិថិជន ប្រហែលជាតាមរយៈផលិតផល ឬសេវាកម្មដែលចេញពីចិត្ត កំពុងកំណត់ផ្លូវថ្មី។ ឆន្ទៈល្អអាចកំពុងប្រមូលផ្តុំជុំវិញអាជីវកម្ម។"
+      },
+      "challenge": {
+        "en": "Ignoring how customers feel about their experience could let goodwill quietly drain away. Read reviews and complaints with an open heart, and respond to them.",
+        "km": "ការមិនអើពើនឹងអារម្មណ៍របស់អតិថិជនចំពោះបទពិសោធន៍របស់ពួកគេ អាចធ្វើឱ្យឆន្ទៈល្អហូរចេញដោយស្ងៀមស្ងាត់។ សូមអានការវាយតម្លៃ និងពាក្យបណ្តឹងដោយចិត្តបើកចំហ ហើយឆ្លើយតបនឹងវា។"
+      },
+      "outcome": {
+        "en": "A caring, customer-first approach could lead the business toward warm, lasting relationships. Loyal buyers may become the steady current that carries it forward.",
+        "km": "វិធីសាស្ត្រយកចិត្តទុកដាក់ និងដាក់អតិថិជនជាមុន អាចនាំអាជីវកម្មឆ្ពោះទៅរកទំនាក់ទំនងកក់ក្តៅ និងស្ថិតស្ថេរ។ អ្នកទិញស្មោះត្រង់ អាចក្លាយជាចរន្តទៀងទាត់ដែលនាំវាទៅមុខ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A promising alliance with a supplier, distributor or fellow business may be shaping where yours goes. How well you trust each other could steer its direction.",
+        "km": "សម្ព័ន្ធភាពដែលមានសក្តានុពលជាមួយអ្នកផ្គត់ផ្គង់ អ្នកចែកចាយ ឬអាជីវកម្មផ្សេងទៀត ប្រហែលជាកំពុងកំណត់កន្លែងដែលអាជីវកម្មរបស់អ្នកទៅ។ កម្រិតដែលអ្នកទុកចិត្តគ្នា អាចដឹកនាំទិសដៅរបស់វា។"
+      },
+      "challenge": {
+        "en": "An unbalanced arrangement could pull the business in a direction that suits only the other side. Make sure shared deals are fair and written down.",
+        "km": "ការរៀបចំដែលគ្មានតុល្យភាព អាចទាញអាជីវកម្មទៅក្នុងទិសដៅដែលសមតែភាគីម្ខាងទៀត។ សូមប្រាកដថាកិច្ចព្រមព្រៀងរួម យុត្តិធម៌ និងត្រូវបានសរសេរជាលាយលក្ខណ៍អក្សរ។"
+      },
+      "outcome": {
+        "en": "A well-matched alliance could carry the business toward shared growth. Pooling customers or resources with the right partner may open doors neither could open alone.",
+        "km": "សម្ព័ន្ធភាពដែលត្រូវគ្នាល្អ អាចនាំអាជីវកម្មឆ្ពោះទៅរកកំណើនរួមគ្នា។ ការរួមបញ្ចូលអតិថិជន ឬធនធានជាមួយដៃគូត្រឹមត្រូវ អាចបើកទ្វារដែលគ្មានភាគីណាអាចបើកតែម្នាក់ឯង។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Community ties and a friendly reputation may be carrying the business, with good relationships all round. Local support could be lifting its direction.",
+        "km": "ចំណងសហគមន៍ និងកេរ្តិ៍ឈ្មោះរួសរាយ ប្រហែលជាកំពុងនាំអាជីវកម្ម ជាមួយទំនាក់ទំនងល្អគ្រប់ទិសទី។ ការគាំទ្រក្នុងតំបន់ អាចកំពុងលើកស្ទួយទិសដៅរបស់វា។"
+      },
+      "challenge": {
+        "en": "Too much socialising and too many favours could distract from the work that keeps the business running. Enjoy the goodwill while keeping a firm eye on sales and costs.",
+        "km": "ការរាប់អានសង្គម និងការអនុគ្រោះច្រើនពេក អាចបង្វែរការយកចិត្តទុកដាក់ពីការងារដែលរក្សាអាជីវកម្មឱ្យដំណើរការ។ សូមរីករាយនឹងឆន្ទៈល្អ ខណៈតាមដានការលក់ និងថ្លៃដើមឱ្យបានម៉ឺងម៉ាត់។"
+      },
+      "outcome": {
+        "en": "Strong community ties could lead the business toward a joyful, well-supported place. Word of mouth from happy customers may become its best advertising.",
+        "km": "ចំណងសហគមន៍រឹងមាំ អាចនាំអាជីវកម្មឆ្ពោះទៅរកកន្លែងរីករាយ និងទទួលបានការគាំទ្រល្អ។ ការនិយាយតៗគ្នាពីអតិថិជនដែលពេញចិត្ត អាចក្លាយជាការផ្សាយពាណិជ្ជកម្មល្អបំផុតរបស់វា។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "The business may feel stuck in a flat stretch, with little enthusiasm for the road ahead. A fresh look could reveal possibilities you have been passing over.",
+        "km": "អាជីវកម្មប្រហែលជាមានអារម្មណ៍ជាប់គាំងក្នុងដំណាក់កាលស្ងាត់ស្ងៀម ដោយមានភាពរំភើបតិចតួចចំពោះផ្លូវខាងមុខ។ ការមើលថ្មីមួយ អាចបង្ហាញលទ្ធភាពដែលអ្នកបានរំលង។"
+      },
+      "challenge": {
+        "en": "Boredom with the business could let good offers and ideas slip by unnoticed. Reconnect with what first excited you about serving these customers.",
+        "km": "ការធុញទ្រាន់នឹងអាជីវកម្ម អាចបណ្តោយឱ្យការផ្តល់ជូន និងគំនិតល្អៗរអិលរំលងដោយមិនកត់សម្គាល់។ សូមភ្ជាប់ទំនាក់ទំនងឡើងវិញជាមួយអ្វីដែលធ្លាប់ធ្វើឱ្យអ្នករំភើបអំពីការបម្រើអតិថិជនទាំងនេះ។"
+      },
+      "outcome": {
+        "en": "Renewed interest could lift the business out of a slow patch and onto a livelier path. An offer you once ignored may turn out to point the right way.",
+        "km": "ចំណាប់អារម្មណ៍ថ្មី អាចលើកអាជីវកម្មចេញពីដំណាក់កាលយឺតយ៉ាវ ទៅលើផ្លូវរស់រវើកជាង។ ការផ្តល់ជូនដែលអ្នកធ្លាប់មិនអើពើ អាចបង្ហាញថាចង្អុលទិសត្រឹមត្រូវ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "A loss or disappointment may still be weighing on you as you look ahead. Customers, skills and goodwill that remain could still form a solid base.",
+        "km": "ការបាត់បង់ ឬការខកចិត្តមួយ ប្រហែលជានៅតែសង្កត់លើអ្នក ខណៈអ្នកមើលទៅមុខ។ អតិថិជន ជំនាញ និងឆន្ទៈល្អដែលនៅសល់ អាចនៅតែបង្កើតមូលដ្ឋានរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Dwelling on what was lost could keep the business looking backward instead of ahead. Count what is still working and build the next plan from there.",
+        "km": "ការគិតច្រើនពីអ្វីដែលបាត់បង់ អាចធ្វើឱ្យអាជីវកម្មមើលទៅក្រោយ ជាជាងទៅមុខ។ សូមរាប់អ្វីដែលនៅតែដំណើរការ ហើយកសាងផែនការបន្ទាប់ពីទីនោះ។"
+      },
+      "outcome": {
+        "en": "Learning from a setback could guide the business toward a wiser, more resilient path. The parts that survived may prove stronger than they seem.",
+        "km": "ការរៀនពីឧបសគ្គ អាចណែនាំអាជីវកម្មឆ្ពោះទៅរកផ្លូវដែលឆ្លាតវៃ និងធន់ជាងមុន។ ផ្នែកដែលនៅរស់រានមានជីវិត អាចបង្ហាញថារឹងមាំជាងអ្វីដែលវាមើលទៅ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "The business may be drawing on its roots, its longest customers or a traditional product. Familiar strengths could be quietly guiding its direction.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងទាញយកពីឫសគល់ អតិថិជនដែលនៅជាមួយយូរបំផុត ឬផលិតផលប្រពៃណីរបស់វា។ ចំណុចខ្លាំងដែលស៊ាំ អាចកំពុងដឹកនាំទិសដៅរបស់វាដោយស្ងៀមស្ងាត់។"
+      },
+      "challenge": {
+        "en": "Longing for how things used to be could keep the business from adapting to what customers want. Honour tradition while updating how you sell and serve.",
+        "km": "ការនឹករលឹកពីរបៀបដែលធ្លាប់មាន អាចរារាំងអាជីវកម្មពីការសម្របខ្លួនទៅនឹងអ្វីដែលអតិថិជនចង់បាន។ សូមគោរពប្រពៃណី ខណៈកែលម្អរបៀបដែលអ្នកលក់ និងបម្រើ។"
+      },
+      "outcome": {
+        "en": "Building on heritage and goodwill could lead the business toward a warm, trusted name. Customers who feel at home may keep coming back and bring others.",
+        "km": "ការកសាងលើបេតិកភណ្ឌ និងឆន្ទៈល្អ អាចនាំអាជីវកម្មឆ្ពោះទៅរកឈ្មោះកក់ក្តៅ និងគួរឱ្យទុកចិត្ត។ អតិថិជនដែលមានអារម្មណ៍ដូចនៅផ្ទះ អាចបន្តត្រឡប់មកវិញ ហើយនាំអ្នកដទៃមកផង។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Many possible directions may be on the table, some realistic and some only wishful. Sorting fact from fantasy could clarify which road is real.",
+        "km": "ទិសដៅជាច្រើនដែលអាចកើតមាន ប្រហែលជាស្ថិតនៅលើតុ ខ្លះជាក់ស្តែង និងខ្លះគ្រាន់តែជាការស្រមៃ។ ការបែងចែកការពិតពីការស្រមៃ អាចបញ្ជាក់ថាផ្លូវណាដែលពិត។"
+      },
+      "challenge": {
+        "en": "Being dazzled by too many options could leave the business drifting between them. Choose using evidence on demand and cost, not just appeal.",
+        "km": "ការភ្លឹកភ្លាំងដោយជម្រើសច្រើនពេក អាចធ្វើឱ្យអាជីវកម្មរសាត់នៅចន្លោះពួកវា។ សូមជ្រើសរើសដោយប្រើភស្តុតាងអំពីតម្រូវការ និងថ្លៃដើម មិនមែនតែភាពទាក់ទាញទេ។"
+      },
+      "outcome": {
+        "en": "Committing to one realistic path could bring focus and real progress. Clear priorities may turn scattered possibilities into measurable results.",
+        "km": "ការប្តេជ្ញាលើផ្លូវជាក់ស្តែងមួយ អាចនាំមកនូវការផ្តោត និងវឌ្ឍនភាពពិតប្រាកដ។ អាទិភាពច្បាស់លាស់ អាចប្តូរលទ្ធភាពខ្ចាត់ខ្ចាយទៅជាលទ្ធផលដែលអាចវាស់វែងបាន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "The business may be turning away from something that no longer fulfils it, such as an old product line or market. A search for deeper purpose could be shaping its path.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងងាកចេញពីអ្វីដែលលែងបំពេញវា ដូចជាផ្នែកផលិតផល ឬទីផ្សារចាស់។ ការស្វែងរកគោលបំណងជ្រៅជាង អាចកំពុងកំណត់ផ្លូវរបស់វា។"
+      },
+      "challenge": {
+        "en": "Abandoning a steady source of income before its replacement is ready could create hardship. Plan the change so the old can support the new.",
+        "km": "ការបោះបង់ប្រភពចំណូលទៀងទាត់ មុនពេលប្រភពជំនួសត្រៀមរួចរាល់ អាចបង្កការលំបាក។ សូមរៀបចំផែនការផ្លាស់ប្តូរ ដើម្បីឱ្យផ្នែកចាស់អាចគាំទ្រផ្នែកថ្មី។"
+      },
+      "outcome": {
+        "en": "Walking away from what no longer serves could lead the business toward more meaningful work. A clearer purpose may renew both your energy and your customers' interest.",
+        "km": "ការចាកចេញពីអ្វីដែលលែងបម្រើ អាចនាំអាជីវកម្មឆ្ពោះទៅរកការងារដែលមានអត្ថន័យជាង។ គោលបំណងច្បាស់ជាងមុន អាចធ្វើឱ្យទាំងថាមពលរបស់អ្នក និងចំណាប់អារម្មណ៍អតិថិជនរស់ឡើងវិញ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Many of the hopes you had for the business may already be coming true. That contentment could be a sign its direction suits you.",
+        "km": "ក្តីសង្ឃឹមជាច្រើនដែលអ្នកមានចំពោះអាជីវកម្ម ប្រហែលជាកំពុងក្លាយជាការពិតរួចហើយ។ ការពេញចិត្តនោះ អាចជាសញ្ញាថាទិសដៅរបស់វាសមនឹងអ្នក។"
+      },
+      "challenge": {
+        "en": "Satisfaction could slide into complacency if nobody sets a new target. Keep choosing goals that stretch the business without straining it.",
+        "km": "ការពេញចិត្តអាចរអិលទៅជាការស្កប់ស្កល់ ប្រសិនបើគ្មាននរណាកំណត់គោលដៅថ្មី។ សូមបន្តជ្រើសរើសគោលដៅដែលពង្រីកអាជីវកម្ម ដោយមិនធ្វើឱ្យវាតានតឹង។"
+      },
+      "outcome": {
+        "en": "Continued care could bring the business to a place where your main wishes for it come true. Comfort and success may sit together rather than compete.",
+        "km": "ការយកចិត្តទុកដាក់ជាបន្តបន្ទាប់ អាចនាំអាជីវកម្មទៅរកកន្លែងដែលបំណងចម្បងរបស់អ្នកចំពោះវាក្លាយជាការពិត។ ភាពស្រួល និងភាពជោគជ័យ អាចនៅជាមួយគ្នា ជាជាងប្រកួតប្រជែងគ្នា។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "The business may be thriving as a source of harmony and support for family or community. That sense of shared purpose could be guiding where it goes.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងរីកចម្រើនជាប្រភពនៃភាពសុខដុម និងការគាំទ្រសម្រាប់គ្រួសារ ឬសហគមន៍។ អារម្មណ៍នៃគោលបំណងរួមនោះ អាចកំពុងណែនាំកន្លែងដែលវាទៅ។"
+      },
+      "challenge": {
+        "en": "Putting harmony above hard business decisions could hold the business back. Address problems openly, even with relatives or friends who work with you.",
+        "km": "ការដាក់ភាពសុខដុមលើសការសម្រេចចិត្តអាជីវកម្មដ៏លំបាក អាចរារាំងអាជីវកម្ម។ សូមដោះស្រាយបញ្ហាដោយចំហ សូម្បីតែជាមួយសាច់ញាតិ ឬមិត្តភក្តិដែលធ្វើការជាមួយអ្នក។"
+      },
+      "outcome": {
+        "en": "A business built on shared values could become a lasting source of pride and security. It may come to support a wide circle of relatives, staff and neighbours.",
+        "km": "អាជីវកម្មដែលកសាងលើគុណតម្លៃរួម អាចក្លាយជាប្រភពមោទនភាព និងសុវត្ថិភាពស្ថិតស្ថេរ។ វាអាចគាំទ្ររង្វង់សាច់ញាតិ បុគ្គលិក និងអ្នកជិតខាងយ៉ាងទូលំទូលាយ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Creative ideas or unexpected messages may be hinting at a new direction for the business. Staying open to these small signals could show where it wants to go.",
+        "km": "គំនិតច្នៃប្រឌិត ឬសារដែលមិនបានរំពឹង ប្រហែលជាកំពុងបង្ហាញពីទិសដៅថ្មីសម្រាប់អាជីវកម្ម។ ការបើកចិត្តចំពោះសញ្ញាតូចៗទាំងនេះ អាចបង្ហាញថាវាចង់ទៅណា។"
+      },
+      "challenge": {
+        "en": "Brushing off a creative suggestion from a customer or staff member could cost the business a fresh idea. Give imaginative proposals a fair hearing.",
+        "km": "ការមិនអើពើនឹងសំណើច្នៃប្រឌិតពីអតិថិជន ឬបុគ្គលិក អាចធ្វើឱ្យអាជីវកម្មបាត់បង់គំនិតថ្មី។ សូមស្តាប់សំណើប្រកបដោយការស្រមៃដោយយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "Creativity could lead the business toward a distinctive, appealing identity. A fresh design, story or product may attract customers who want something different.",
+        "km": "ការច្នៃប្រឌិត អាចនាំអាជីវកម្មឆ្ពោះទៅរកអត្តសញ្ញាណខុសប្លែក និងទាក់ទាញ។ ការរចនា រឿងរ៉ាវ ឬផលិតផលថ្មី អាចទាក់ទាញអតិថិជនដែលចង់បានអ្វីដែលខុសប្លែក។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "An appealing offer or idealistic plan may be drawing the business in a new direction. Following your heart could be shaping where it heads.",
+        "km": "ការផ្តល់ជូនដែលទាក់ទាញ ឬផែនការឧត្តមគតិ ប្រហែលជាកំពុងទាញអាជីវកម្មទៅក្នុងទិសដៅថ្មី។ ការធ្វើតាមចិត្តរបស់អ្នក អាចកំពុងកំណត់កន្លែងដែលវាឆ្ពោះទៅ។"
+      },
+      "challenge": {
+        "en": "Being swept along by a charming proposal could lead to promises the business cannot keep. Test every ideal against costs, capacity and real demand.",
+        "km": "ការត្រូវបានទាញទៅតាមសំណើដ៏ទាក់ទាញ អាចនាំឱ្យមានការសន្យាដែលអាជីវកម្មមិនអាចរក្សាបាន។ សូមសាកល្បងឧត្តមគតិនីមួយៗជាមួយថ្លៃដើម សមត្ថភាព និងតម្រូវការពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Pursuing a meaningful vision with practical backing could lead the business somewhere fulfilling. Customers may be drawn to a company that clearly stands for something.",
+        "km": "ការដេញតាមចក្ខុវិស័យដែលមានអត្ថន័យ ជាមួយការគាំទ្រជាក់ស្តែង អាចនាំអាជីវកម្មទៅកន្លែងដែលពេញចិត្ត។ អតិថិជនអាចត្រូវបានទាក់ទាញដោយក្រុមហ៊ុនដែលតំណាងឱ្យអ្វីមួយយ៉ាងច្បាស់។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Intuition and care for people may be guiding the business's direction. Your feel for what customers need could be acting as its compass.",
+        "km": "វិចារណញាណ និងការយកចិត្តទុកដាក់ចំពោះមនុស្ស ប្រហែលជាកំពុងដឹកនាំទិសដៅរបស់អាជីវកម្ម។ អារម្មណ៍របស់អ្នកអំពីអ្វីដែលអតិថិជនត្រូវការ អាចកំពុងដើរតួជាត្រីវិស័យរបស់វា។"
+      },
+      "challenge": {
+        "en": "Trying to meet everyone's needs could leave you drained and the business without focus. Decide which customers you serve best and set limits on the rest.",
+        "km": "ការព្យាយាមបំពេញតម្រូវការរបស់អ្នករាល់គ្នា អាចធ្វើឱ្យអ្នកអស់កម្លាំង ហើយអាជីវកម្មគ្មានការផ្តោត។ សូមសម្រេចថាអតិថិជនណាដែលអ្នកបម្រើបានល្អបំផុត ហើយកំណត់ដែនកំណត់លើអ្នកផ្សេងទៀត។"
+      },
+      "outcome": {
+        "en": "Caring, intuitive leadership could lead the business toward deep customer loyalty. Understanding people well may become the strength competitors find hardest to copy.",
+        "km": "ការដឹកនាំដោយយកចិត្តទុកដាក់ និងវិចារណញាណ អាចនាំអាជីវកម្មឆ្ពោះទៅរកភាពស្មោះត្រង់យ៉ាងជ្រៅរបស់អតិថិជន។ ការយល់ដឹងពីមនុស្សបានល្អ អាចក្លាយជាចំណុចខ្លាំងដែលដៃគូប្រកួតប្រជែងពិបាកចម្លងបំផុត។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm, balanced leadership may be keeping the business on an even course through ups and downs. Your steady temperament could be guiding it well.",
+        "km": "ការដឹកនាំស្ងប់ស្ងាត់ និងមានតុល្យភាព ប្រហែលជាកំពុងរក្សាអាជីវកម្មឱ្យនៅលើផ្លូវស្មើ ឆ្លងកាត់ការឡើងចុះ។ និស្ស័យនឹងនររបស់អ្នក អាចកំពុងដឹកនាំវាបានល្អ។"
+      },
+      "challenge": {
+        "en": "Keeping concerns to yourself to avoid upsetting anyone could let problems grow. Raise difficult issues with partners and staff calmly but directly.",
+        "km": "ការរក្សាកង្វល់ទុកតែម្នាក់ឯង ដើម្បីជៀសវាងធ្វើឱ្យនរណាម្នាក់ខកចិត្ត អាចបណ្តោយឱ្យបញ្ហារីកធំ។ សូមលើកបញ្ហាលំបាកជាមួយដៃគូ និងបុគ្គលិក ដោយស្ងប់ស្ងាត់ ប៉ុន្តែដោយផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Steady, compassionate leadership could guide the business toward stability and respect. A balanced approach may help it weather difficult markets without losing its way.",
+        "km": "ការដឹកនាំនឹងនរ និងមេត្តា អាចដឹកនាំអាជីវកម្មឆ្ពោះទៅរកស្ថិរភាព និងការគោរព។ វិធីសាស្ត្រមានតុល្យភាព អាចជួយវាឱ្យទប់ទល់នឹងទីផ្សារលំបាក ដោយមិនវង្វេងផ្លូវ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A moment of clarity may be showing exactly where the business stands and which way it should go. Honest figures on sales and costs could sharpen that direction.",
+        "km": "ពេលនៃភាពច្បាស់លាស់មួយ ប្រហែលជាកំពុងបង្ហាញយ៉ាងច្បាស់ថាអាជីវកម្មស្ថិតនៅត្រង់ណា និងគួរទៅទិសណា។ តួលេខស្មោះត្រង់អំពីការលក់ និងថ្លៃដើម អាចធ្វើឱ្យទិសដៅនោះច្បាស់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Avoiding hard truths about what is not working could steer the business wrong. Face the figures honestly, even when they disappoint.",
+        "km": "ការជៀសវាងការពិតដ៏លំបាកអំពីអ្វីដែលមិនដំណើរការ អាចដឹកនាំអាជីវកម្មខុសផ្លូវ។ សូមប្រឈមមុខនឹងតួលេខដោយស្មោះត្រង់ ទោះបីជាវាធ្វើឱ្យខកចិត្តក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A clear, decisive strategy could cut a sharper path for the business. Knowing exactly what it offers and to whom may help customers choose it.",
+        "km": "យុទ្ធសាស្ត្រច្បាស់លាស់ និងម៉ឺងម៉ាត់ អាចកាត់ផ្លូវកាន់តែច្បាស់សម្រាប់អាជីវកម្ម។ ការដឹងយ៉ាងច្បាស់ថាវាផ្តល់អ្វី និងផ្តល់ដល់អ្នកណា អាចជួយអតិថិជនឱ្យជ្រើសរើសវា។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "The business may be at a standstill, caught between two directions with no clear choice made. Putting off the decision could be what keeps it in place.",
+        "km": "អាជីវកម្មប្រហែលជានៅជាប់គាំង ដោយជាប់នៅចន្លោះទិសដៅពីរ ដោយមិនទាន់មានជម្រើសច្បាស់លាស់។ ការពន្យារការសម្រេចចិត្ត អាចជាអ្វីដែលរក្សាវាឱ្យនៅនឹងកន្លែង។"
+      },
+      "challenge": {
+        "en": "Postponing a key decision about products, staff or location could let the business drift. Gather the facts you need, then choose a direction and commit to it.",
+        "km": "ការពន្យារការសម្រេចចិត្តសំខាន់អំពីផលិតផល បុគ្គលិក ឬទីតាំង អាចធ្វើឱ្យអាជីវកម្មរសាត់។ សូមប្រមូលការពិតដែលអ្នកត្រូវការ បន្ទាប់មកជ្រើសរើសទិសដៅ ហើយប្តេជ្ញាលើវា។"
+      },
+      "outcome": {
+        "en": "Making a clear choice could break the deadlock and set the business moving again. Staff and partners may welcome the relief of knowing which way you are going.",
+        "km": "ការធ្វើជម្រើសច្បាស់លាស់ អាចបំបែកភាពជាប់គាំង ហើយធ្វើឱ្យអាជីវកម្មចាប់ផ្តើមផ្លាស់ទីម្តងទៀត។ បុគ្គលិក និងដៃគូ អាចស្វាគមន៍ការធូរស្បើយនៃការដឹងថាអ្នកកំពុងទៅទិសណា។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "A painful setback, such as a lost contract or broken partnership, may be colouring the business's direction. The hurt could still be shaping your choices.",
+        "km": "ឧបសគ្គដ៏ឈឺចាប់មួយ ដូចជាការបាត់បង់កិច្ចសន្យា ឬភាពជាដៃគូដែលបែកបាក់ ប្រហែលជាកំពុងប៉ះពាល់ដល់ទិសដៅរបស់អាជីវកម្ម។ ការឈឺចាប់នោះ អាចនៅតែកំណត់ជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting disappointment dictate decisions could steer the business away from good opportunities. Acknowledge the hurt, then decide with a clear head.",
+        "km": "ការបណ្តោយឱ្យការខកចិត្តបញ្ជាការសម្រេចចិត្ត អាចដឹកនាំអាជីវកម្មចេញឆ្ងាយពីឱកាសល្អ។ សូមទទួលស្គាល់ការឈឺចាប់ បន្ទាប់មកសម្រេចចិត្តដោយក្បាលច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Working through a painful loss could lead the business toward a wiser, more resilient form. What the setback taught you may guide better choices about partners.",
+        "km": "ការឆ្លងកាត់ការបាត់បង់ដ៏ឈឺចាប់ អាចនាំអាជីវកម្មឆ្ពោះទៅរកទម្រង់ដែលឆ្លាតវៃ និងធន់ជាងមុន។ អ្វីដែលឧបសគ្គបានបង្រៀនអ្នក អាចណែនាំជម្រើសល្អជាងអំពីដៃគូ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Activity may have slowed into a quiet stretch, leaving room for rest or review. That pause could be preparing the business for the road ahead.",
+        "km": "សកម្មភាពប្រហែលជាបានយឺតចូលក្នុងដំណាក់កាលស្ងាត់ ដោយទុកកន្លែងសម្រាប់ការសម្រាក ឬការពិនិត្យឡើងវិញ។ ការផ្អាកនោះ អាចកំពុងរៀបចំអាជីវកម្មសម្រាប់ផ្លូវខាងមុខ។"
+      },
+      "challenge": {
+        "en": "Pushing on without rest could lead to burnout for you and your staff. Allow a pause to recover and rethink the plan before the next big push.",
+        "km": "ការជំរុញទៅមុខដោយគ្មានការសម្រាក អាចនាំឱ្យអ្នក និងបុគ្គលិកអស់កម្លាំង។ សូមអនុញ្ញាតឱ្យមានការផ្អាក ដើម្បីស្តារកម្លាំង និងគិតឡើងវិញពីផែនការ មុនការខិតខំធំបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A well-used pause could let the business return with clearer purpose and renewed energy. Stepping back from daily pressure may reveal a stronger course.",
+        "km": "ការផ្អាកដែលប្រើបានល្អ អាចឱ្យអាជីវកម្មត្រឡប់មកវិញជាមួយគោលបំណងច្បាស់ជាង និងថាមពលថ្មី។ ការដកខ្លួនចេញពីសម្ពាធប្រចាំថ្ងៃ អាចបង្ហាញផ្លូវរឹងមាំជាង។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Conflict, whether with competitors, partners or staff, may be influencing the business's direction. Some battles could be costing more than they are worth.",
+        "km": "ជម្លោះ ទោះជាមួយដៃគូប្រកួតប្រជែង ដៃគូ ឬបុគ្គលិក ប្រហែលជាកំពុងមានឥទ្ធិពលលើទិសដៅរបស់អាជីវកម្ម។ ការប្រយុទ្ធខ្លះ អាចកំពុងខាតច្រើនជាងតម្លៃរបស់វា។"
+      },
+      "challenge": {
+        "en": "Winning disputes at the cost of relationships could leave the business isolated. Decide which fights truly affect its future and let the rest go.",
+        "km": "ការឈ្នះជម្លោះ ដោយចំណាយទំនាក់ទំនង អាចធ្វើឱ្យអាជីវកម្មនៅឯកោ។ សូមសម្រេចថាការប្រយុទ្ធណាដែលពិតជាប៉ះពាល់ដល់ទិសដៅរបស់វា ហើយបណ្តោយអ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Letting go of unproductive conflict could free the business to move forward. Good terms with partners and suppliers may prove more valuable than any victory.",
+        "km": "ការបោះបង់ជម្លោះដែលគ្មានផល អាចដោះលែងអាជីវកម្មឱ្យទៅមុខ។ ទំនាក់ទំនងល្អជាមួយដៃគូ និងអ្នកផ្គត់ផ្គង់ អាចបង្ហាញថាមានតម្លៃជាងជ័យជម្នះណាមួយ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "The business may be moving through a transition toward calmer waters, leaving a rough patch behind. That change of scene could be shaping its direction.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងឆ្លងកាត់ការផ្លាស់ប្តូរ ឆ្ពោះទៅរកទឹកស្ងប់ជាងមុន ដោយទុកដំណាក់កាលលំបាកនៅពីក្រោយ។ ការផ្លាស់ប្តូរបរិយាកាសនោះ អាចកំពុងកំណត់ទិសដៅរបស់វា។"
+      },
+      "challenge": {
+        "en": "Bringing old problems along into a new phase could slow the progress you are hoping for. Settle unpaid bills and open disputes before moving on.",
+        "km": "ការនាំបញ្ហាចាស់ៗចូលទៅក្នុងដំណាក់កាលថ្មី អាចធ្វើឱ្យវឌ្ឍនភាពដែលអ្នកសង្ឃឹមយឺត។ សូមដោះស្រាយវិក្កយបត្រដែលមិនទាន់បង់ និងជម្លោះដែលនៅបើក មុនពេលបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A steady transition could carry the business to a more stable place. Smoother trading conditions may follow the effort of moving on.",
+        "km": "ការផ្លាស់ប្តូរនឹងនរ អាចនាំអាជីវកម្មទៅរកកន្លែងមានស្ថិរភាពជាង។ លក្ខខណ្ឌពាណិជ្ជកម្មរលូនជាងមុន អាចកើតឡើងតាមក្រោយការខិតខំបន្តទៅមុខ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Strategy and careful positioning may be steering the business, with some plans kept close. Not everyone around it may be playing fully in the open.",
+        "km": "យុទ្ធសាស្ត្រ និងការដាក់ទីតាំងដោយប្រុងប្រយ័ត្ន ប្រហែលជាកំពុងដឹកនាំអាជីវកម្ម ដោយផែនការខ្លះត្រូវបានរក្សាជាសម្ងាត់។ មិនមែនអ្នករាល់គ្នាជុំវិញវា សុទ្ធតែលេងដោយបើកចំហពេញលេញនោះទេ។"
+      },
+      "challenge": {
+        "en": "Dishonesty from partners, staff or suppliers could quietly undermine the business's direction. Check agreements, stock and accounts, and keep records clear.",
+        "km": "ភាពមិនស្មោះត្រង់ពីដៃគូ បុគ្គលិក ឬអ្នកផ្គត់ផ្គង់ អាចបំផ្លាញទិសដៅរបស់អាជីវកម្មដោយស្ងៀមស្ងាត់។ សូមពិនិត្យកិច្ចព្រមព្រៀង ស្តុក និងគណនី ហើយរក្សាកំណត់ត្រាឱ្យច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Clever, honest strategy could position the business ahead of competitors. Clear records and open dealings may protect it from hidden risks along the way.",
+        "km": "យុទ្ធសាស្ត្រឆ្លាតវៃ និងស្មោះត្រង់ អាចដាក់អាជីវកម្មនៅខាងមុខដៃគូប្រកួតប្រជែង។ កំណត់ត្រាច្បាស់លាស់ និងការធ្វើជំនួញដោយចំហ អាចការពារវាពីហានិភ័យលាក់កំបាំងតាមផ្លូវ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Money, regulations or circumstances may be hemming you in. Those limits could be shaping the business's direction more than you would like.",
+        "km": "ប្រាក់ បទប្បញ្ញត្តិ ឬកាលៈទេសៈ ប្រហែលជាកំពុងហ៊ុំព័ទ្ធអ្នក។ ដែនកំណត់ទាំងនោះ អាចកំពុងកំណត់ទិសដៅរបស់អាជីវកម្មច្រើនជាងអ្វីដែលអ្នកចង់បាន។"
+      },
+      "challenge": {
+        "en": "Feeling cornered could stop you from noticing routes that are still open. Ask an accountant or business adviser about ways around the constraints.",
+        "km": "អារម្មណ៍ថាត្រូវបានជាប់ជ្រុង អាចរារាំងអ្នកពីការកត់សម្គាល់ផ្លូវដែលនៅតែបើកចំហ។ សូមសួរគណនេយ្យករ ឬទីប្រឹក្សាអាជីវកម្ម អំពីវិធីគេចពីដែនកំណត់។"
+      },
+      "outcome": {
+        "en": "Finding a way through restrictions could free the business to grow again. Small, practical changes in how it operates may open new room to move.",
+        "km": "ការស្វែងរកផ្លូវឆ្លងកាត់ការរឹតត្បិត អាចដោះលែងអាជីវកម្មឱ្យរីកចម្រើនម្តងទៀត។ ការផ្លាស់ប្តូរតូចៗ និងជាក់ស្តែងក្នុងរបៀបប្រតិបត្តិការ អាចបើកលំហថ្មីដើម្បីផ្លាស់ទី។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about the business may be weighing on you, colouring how you see its direction. Some fears could be larger than the facts support.",
+        "km": "ការព្រួយបារម្ភអំពីអាជីវកម្ម ប្រហែលជាកំពុងសង្កត់លើអ្នក ដោយធ្វើឱ្យប៉ះពាល់ដល់របៀបដែលអ្នកមើលទិសដៅរបស់វា។ ការភ័យខ្លាចខ្លះ អាចធំជាងអ្វីដែលការពិតគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Anxiety could push you into decisions made in panic. Talk things through with an adviser, and seek support if stress becomes overwhelming.",
+        "km": "ការថប់បារម្ភ អាចរុញអ្នកឱ្យធ្វើការសម្រេចចិត្តដោយភិតភ័យ។ សូមពិភាក្សាជាមួយទីប្រឹក្សា ហើយស្វែងរកការគាំទ្រ ប្រសិនបើភាពតានតឹងហួសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Checking worries against the real numbers could ease pressure and clear the way forward. A calmer view may reveal a direction that fear was hiding.",
+        "km": "ការផ្ទៀងផ្ទាត់ការព្រួយបារម្ភជាមួយតួលេខពិតប្រាកដ អាចបន្ធូរសម្ពាធ និងបើកផ្លូវទៅមុខ។ ទស្សនៈស្ងប់ជាងមុន អាចបង្ហាញទិសដៅដែលការភ័យខ្លាចបានលាក់ទុក។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A painful ending may have hit the business, such as a failed venture or major loss. It could feel like the lowest point on the road.",
+        "km": "ទីបញ្ចប់ដ៏ឈឺចាប់មួយ ប្រហែលជាបានវាយប្រហារអាជីវកម្ម ដូចជាគម្រោងដែលបរាជ័យ ឬការបាត់បង់ធំ។ វាអាចមានអារម្មណ៍ដូចជាចំណុចទាបបំផុតនៅលើផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Holding on to what has clearly ended could deepen the damage. Accept the loss, take advice where needed, and plan a fresh start.",
+        "km": "ការប្រកាន់ខ្ជាប់អ្វីដែលបានបញ្ចប់យ៉ាងច្បាស់ អាចធ្វើឱ្យការខូចខាតកាន់តែជ្រៅ។ សូមទទួលយកការបាត់បង់ ស្វែងរកដំបូន្មានពេលចាំបាច់ ហើយរៀបចំផែនការចាប់ផ្តើមថ្មី។"
+      },
+      "outcome": {
+        "en": "Reaching the bottom could clear the way to rebuild the business on a sounder footing. From here, the road may begin to climb.",
+        "km": "ការធ្លាក់ដល់បាត អាចបើកផ្លូវដើម្បីកសាងអាជីវកម្មឡើងវិញលើមូលដ្ឋានរឹងមាំជាង។ ពីទីនេះ ផ្លូវអាចចាប់ផ្តើមឡើងលើ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Alert eyes on the market may be helping the business spot changes in demand or competition. Watching closely could be guiding its direction.",
+        "km": "ការតាមដានទីផ្សារដោយប្រុងប្រយ័ត្ន ប្រហែលជាកំពុងជួយអាជីវកម្មឱ្យរកឃើញការផ្លាស់ប្តូរក្នុងតម្រូវការ ឬការប្រកួតប្រជែង។ ការតាមដានយ៉ាងជិតស្និទ្ធ អាចកំពុងណែនាំទិសដៅរបស់វា។"
+      },
+      "challenge": {
+        "en": "Changing plans every time you hear market gossip could leave staff confused about the goal. Check where information comes from before changing course.",
+        "km": "ការផ្លាស់ប្តូរផែនការរាល់ពេលដែលអ្នកឮការនិយាយដើមអំពីទីផ្សារ អាចធ្វើឱ្យបុគ្គលិកច្របូកច្របល់អំពីគោលដៅ។ សូមពិនិត្យថាព័ត៌មានមកពីណា មុនពេលផ្លាស់ប្តូរផ្លូវ។"
+      },
+      "outcome": {
+        "en": "Sharp observation could help the business stay ahead of change. Noticing shifts in customer habits first may lead to well-judged adjustments.",
+        "km": "ការសង្កេតមុតស្រួច អាចជួយអាជីវកម្មឱ្យនៅខាងមុខការផ្លាស់ប្តូរ។ ការកត់សម្គាល់ការប្រែប្រួលទម្លាប់អតិថិជនមុនគេ អាចនាំទៅរកការកែសម្រួលដែលវិនិច្ឆ័យបានល្អ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "The business may be charging forward with ambition and speed. That momentum could carry it far if it is pointed in the right direction.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងប្រញាប់ទៅមុខដោយមហិច្ឆតា និងល្បឿន។ សន្ទុះនោះ អាចនាំវាទៅឆ្ងាយ ប្រសិនបើវាត្រូវបានតម្រង់ទៅទិសត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Racing ahead without hearing objections from staff or advisers could cause costly mistakes. Ease off long enough to weigh their warnings.",
+        "km": "ការប្រណាំងទៅមុខ ដោយមិនស្តាប់ការជំទាស់ពីបុគ្គលិក ឬទីប្រឹក្សា អាចបង្កកំហុសដែលខាតបង់។ សូមបន្ថយល្បឿនឱ្យគ្រប់គ្រាន់ ដើម្បីថ្លឹងថ្លែងការព្រមានរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Fast, focused action could drive the business toward its goals. Ambition backed by a sound plan may bring strong results.",
+        "km": "សកម្មភាពរហ័ស និងផ្តោត អាចជំរុញអាជីវកម្មឆ្ពោះទៅរកគោលដៅរបស់វា។ មហិច្ឆតាដែលគាំទ្រដោយផែនការល្អ អាចនាំមកនូវលទ្ធផលរឹងមាំ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear, independent judgement may be steering the business. An honest view of its strengths and weak spots could be keeping its direction realistic.",
+        "km": "ការវិនិច្ឆ័យច្បាស់លាស់ និងឯករាជ្យ ប្រហែលជាកំពុងដឹកនាំអាជីវកម្ម។ ទស្សនៈស្មោះត្រង់លើចំណុចខ្លាំង និងចំណុចខ្សោយរបស់វា អាចកំពុងរក្សាទិសដៅរបស់វាឱ្យជាក់ស្តែង។"
+      },
+      "challenge": {
+        "en": "Harsh criticism could discourage the staff and partners the business depends on. Pair honest feedback with recognition of what is going well.",
+        "km": "ការរិះគន់ធ្ងន់ធ្ងរ អាចធ្វើឱ្យបុគ្គលិក និងដៃគូដែលអាជីវកម្មពឹងផ្អែកបាក់ទឹកចិត្ត។ សូមភ្ជាប់មតិត្រឡប់ស្មោះត្រង់ ជាមួយការទទួលស្គាល់អ្វីដែលកំពុងដំណើរការល្អ។"
+      },
+      "outcome": {
+        "en": "Clear-eyed decisions could guide the business toward a realistic, sustainable direction. A reputation for straight dealing may earn respect from customers and suppliers.",
+        "km": "ការសម្រេចចិត្តដែលមើលឃើញច្បាស់ អាចដឹកនាំអាជីវកម្មឆ្ពោះទៅរកទិសដៅជាក់ស្តែង និងប្រកបដោយនិរន្តរភាព។ កេរ្តិ៍ឈ្មោះនៃការធ្វើជំនួញត្រង់ អាចទទួលបានការគោរពពីអតិថិជន និងអ្នកផ្គត់ផ្គង់។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Logic, strategy and firm leadership may be setting the business's direction. Well-reasoned decisions could be keeping it on a steady course.",
+        "km": "តក្កវិជ្ជា យុទ្ធសាស្ត្រ និងការដឹកនាំរឹងមាំ ប្រហែលជាកំពុងកំណត់ទិសដៅរបស់អាជីវកម្ម។ ការសម្រេចចិត្តដែលមានហេតុផលល្អ អាចកំពុងរក្សាវាឱ្យនៅលើផ្លូវនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Ruling by logic alone could make the business feel cold to staff and customers. Explain your reasoning and listen to how decisions affect people.",
+        "km": "ការគ្រប់គ្រងដោយតក្កវិជ្ជាតែម្យ៉ាង អាចធ្វើឱ្យអាជីវកម្មមានអារម្មណ៍ត្រជាក់ចំពោះបុគ្គលិក និងអតិថិជន។ សូមពន្យល់ហេតុផលរបស់អ្នក ហើយស្តាប់ពីរបៀបដែលការសម្រេចចិត្តប៉ះពាល់ដល់មនុស្ស។"
+      },
+      "outcome": {
+        "en": "Sound, principled leadership could guide the business toward a strong, respected position. Clear rules applied fairly may give everyone confidence in where it is going.",
+        "km": "ការដឹកនាំប្រកបដោយគោលការណ៍ និងរឹងមាំ អាចដឹកនាំអាជីវកម្មឆ្ពោះទៅរកជំហររឹងមាំ និងគួរឱ្យគោរព។ ច្បាប់ច្បាស់លាស់ដែលអនុវត្តដោយយុត្តិធម៌ អាចផ្តល់ឱ្យអ្នករាល់គ្នានូវទំនុកចិត្តលើកន្លែងដែលវាកំពុងទៅ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A solid new source of income, such as a reliable client or product, may be putting the business on firmer ground. Practical growth could be taking root.",
+        "km": "ប្រភពចំណូលថ្មីដ៏រឹងមាំមួយ ដូចជាអតិថិជន ឬផលិតផលដែលអាចទុកចិត្តបាន ប្រហែលជាកំពុងដាក់អាជីវកម្មលើដីរឹងមាំជាងមុន។ កំណើនជាក់ស្តែង អាចកំពុងចាក់ឫស។"
+      },
+      "challenge": {
+        "en": "Overlooking a modest but dependable opening could mean missing the seed of steady growth. Give small, practical opportunities the attention they need to take hold.",
+        "km": "ការមើលរំលងឱកាសតូច ប៉ុន្តែអាចទុកចិត្តបាន អាចមានន័យថាខកខានគ្រាប់ពូជនៃកំណើនទៀងទាត់។ សូមផ្តល់ការយកចិត្តទុកដាក់ដល់ឱកាសតូចៗ និងជាក់ស្តែង ដែលវាត្រូវការដើម្បីចាក់ឫស។"
+      },
+      "outcome": {
+        "en": "A well-tended new venture could grow into a dependable pillar of the business. Careful effort put in may come back as a reliable return.",
+        "km": "គម្រោងថ្មីដែលថែរក្សាបានល្អ អាចរីកចម្រើនទៅជាសសរស្តម្ភដែលអាចទុកចិត្តបាននៃអាជីវកម្ម។ ការខិតខំដោយប្រុងប្រយ័ត្នដែលបានដាក់ចូល អាចត្រឡប់មកវិញជាផលត្រឡប់ដែលអាចទុកចិត្តបាន។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be juggling cash flow, orders and commitments, staying afloat through flexibility. Balancing those demands could be setting the business's direction.",
+        "km": "អ្នកប្រហែលជាកំពុងចាត់ចែងលំហូរសាច់ប្រាក់ ការបញ្ជាទិញ និងការប្តេជ្ញាចិត្ត ដោយនៅតែអណ្តែតតាមរយៈភាពបត់បែន។ ការថ្លឹងថ្លែងតម្រូវការទាំងនោះ អាចកំពុងកំណត់ទិសដៅរបស់អាជីវកម្ម។"
+      },
+      "challenge": {
+        "en": "Spreading cash across too many commitments could leave the business stretched and unstable. Simplify where you can and watch money coming in and going out closely.",
+        "km": "ការបែងចែកសាច់ប្រាក់លើការប្តេជ្ញាចិត្តច្រើនពេក អាចធ្វើឱ្យអាជីវកម្មតឹងតែង និងគ្មានស្ថិរភាព។ សូមសម្រួលកន្លែងដែលអ្នកអាចធ្វើបាន ហើយតាមដានប្រាក់ចូល និងប្រាក់ចេញឱ្យជិតស្និទ្ធ។"
+      },
+      "outcome": {
+        "en": "Skilful balancing could carry the business through busy, changing conditions to steadier ground. The ability to adjust may become one of its lasting strengths.",
+        "km": "ការថ្លឹងថ្លែងដោយប៉ិនប្រសប់ អាចនាំអាជីវកម្មឆ្លងកាត់លក្ខខណ្ឌមមាញឹក និងប្រែប្រួល ទៅរកដីនឹងនរជាង។ សមត្ថភាពកែសម្រួល អាចក្លាយជាចំណុចខ្លាំងស្ថិតស្ថេរមួយរបស់វា។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Skilled teamwork and good craftsmanship may be building the business steadily. Working alongside specialists or trusted suppliers could be shaping its direction.",
+        "km": "ការងារជាក្រុមប្រកបដោយជំនាញ និងសិប្បកម្មល្អ ប្រហែលជាកំពុងកសាងអាជីវកម្មយ៉ាងទៀងទាត់។ ការធ្វើការជាមួយអ្នកឯកទេស ឬអ្នកផ្គត់ផ្គង់ដែលទុកចិត្ត អាចកំពុងកំណត់ទិសដៅរបស់វា។"
+      },
+      "challenge": {
+        "en": "Poor coordination between staff or suppliers could undermine the quality customers expect. Agree clearly on who does each job and to what standard.",
+        "km": "ការសម្របសម្រួលខ្សោយរវាងបុគ្គលិក ឬអ្នកផ្គត់ផ្គង់ អាចបំផ្លាញគុណភាពដែលអតិថិជនរំពឹង។ សូមព្រមព្រៀងគ្នាឱ្យច្បាស់ថាអ្នកណាធ្វើការងារនីមួយៗ និងតាមស្តង់ដារណា។"
+      },
+      "outcome": {
+        "en": "Quality work done with the right people could lead the business to a respected reputation. Skill and cooperation may bring growth that customers can see and trust.",
+        "km": "ការងារមានគុណភាពដែលធ្វើជាមួយមនុស្សត្រឹមត្រូវ អាចនាំអាជីវកម្មទៅរកកេរ្តិ៍ឈ្មោះគួរឱ្យគោរព។ ជំនាញ និងកិច្ចសហការ អាចនាំមកនូវកំណើនដែលអតិថិជនអាចមើលឃើញ និងទុកចិត្ត។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "The business may be focused on holding on to what it has, guarding cash and resources. Security could be the main force steering it.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងផ្តោតលើការរក្សាអ្វីដែលវាមាន ដោយការពារសាច់ប្រាក់ និងធនធាន។ សុវត្ថិភាព អាចជាកម្លាំងចម្បងដែលដឹកនាំវា។"
+      },
+      "challenge": {
+        "en": "Holding too tightly to cash could stop the business investing in what it needs to grow. Weigh the comfort of savings against the cost of standing still.",
+        "km": "ការកាន់សាច់ប្រាក់តឹងពេក អាចរារាំងអាជីវកម្មពីការវិនិយោគលើអ្វីដែលវាត្រូវការដើម្បីរីកចម្រើន។ សូមថ្លឹងថ្លែងភាពស្រួលនៃការសន្សំ ជាមួយការខាតបង់នៃការនៅស្ងៀម។"
+      },
+      "outcome": {
+        "en": "Careful stewardship could lead the business toward financial stability. A secure base may allow confident, measured steps forward.",
+        "km": "ការថែរក្សាដោយប្រុងប្រយ័ត្ន អាចនាំអាជីវកម្មឆ្ពោះទៅរកស្ថិរភាពហិរញ្ញវត្ថុ។ មូលដ្ឋានមានសុវត្ថិភាព អាចអនុញ្ញាតឱ្យមានជំហានទៅមុខប្រកបដោយទំនុកចិត្ត និងមានកម្រិត។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Money may be tight and support hard to find, leaving the business in a lean stretch. That hardship could be narrowing your choices of direction.",
+        "km": "ប្រាក់ប្រហែលជាតឹងតែង និងការគាំទ្រពិបាករក ដោយទុកអាជីវកម្មក្នុងដំណាក់កាលខ្វះខាត។ ការលំបាកនោះ អាចកំពុងបង្រួមជម្រើសទិសដៅរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Struggling alone could make things harder than they need to be. Seek help from a business adviser, support programme or your wider network.",
+        "km": "ការតស៊ូតែម្នាក់ឯង អាចធ្វើឱ្យអ្វីៗពិបាកជាងអ្វីដែលចាំបាច់។ សូមស្វែងរកជំនួយពីទីប្រឹក្សាអាជីវកម្ម កម្មវិធីគាំទ្រ ឬបណ្តាញទូលំទូលាយរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Reaching out for support could help the business through a difficult phase toward recovery. Practical help from others may make the climb back easier.",
+        "km": "ការឈោងទៅរកការគាំទ្រ អាចជួយអាជីវកម្មឆ្លងកាត់ដំណាក់កាលលំបាក ឆ្ពោះទៅរកការងើបឡើងវិញ។ ជំនួយជាក់ស្តែងពីអ្នកដទៃ អាចធ្វើឱ្យការឡើងវិញងាយស្រួលជាងមុន។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Fair exchange may be shaping the business, with support, credit or help flowing in or out. The balance of giving and receiving could be guiding it.",
+        "km": "ការផ្លាស់ប្តូរដោយយុត្តិធម៌ ប្រហែលជាកំពុងកំណត់អាជីវកម្ម ដោយការគាំទ្រ ឥណទាន ឬជំនួយហូរចូល ឬហូរចេញ។ តុល្យភាពនៃការផ្តល់ និងការទទួល អាចកំពុងណែនាំវា។"
+      },
+      "challenge": {
+        "en": "Lopsided deals or favours could leave the business dependent on others or resented by them. Keep terms with customers and suppliers fair and transparent.",
+        "km": "កិច្ចព្រមព្រៀង ឬការអនុគ្រោះមិនស្មើគ្នា អាចធ្វើឱ្យអាជីវកម្មពឹងផ្អែកលើអ្នកដទៃ ឬត្រូវបានពួកគេអាក់អន់ចិត្ត។ សូមរក្សាលក្ខខណ្ឌជាមួយអតិថិជន និងអ្នកផ្គត់ផ្គង់ឱ្យយុត្តិធម៌ និងមានតម្លាភាព។"
+      },
+      "outcome": {
+        "en": "Fair dealing and generosity could lead the business toward goodwill and steady support. Sharing success with staff and community may return to it many times over.",
+        "km": "ការធ្វើជំនួញដោយយុត្តិធម៌ និងភាពសប្បុរស អាចនាំអាជីវកម្មឆ្ពោះទៅរកឆន្ទៈល្អ និងការគាំទ្រទៀងទាត់។ ការចែករំលែកភាពជោគជ័យជាមួយបុគ្គលិក និងសហគមន៍ អាចត្រឡប់មកវាវិញច្រើនដង។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "The business may be in a phase of waiting and assessing, with efforts not yet fully paying off. Patience could be part of the road it is on.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតក្នុងដំណាក់កាលរង់ចាំ និងវាយតម្លៃ ដោយការខិតខំមិនទាន់ផ្តល់ផលពេញលេញ។ ការអត់ធ្មត់ អាចជាផ្នែកមួយនៃផ្លូវដែលវាកំពុងដើរ។"
+      },
+      "challenge": {
+        "en": "Giving up before investments mature could waste the effort already made. Review progress honestly and decide calmly whether to continue.",
+        "km": "ការបោះបង់មុនពេលការវិនិយោគផ្តល់ផល អាចខ្ជះខ្ជាយការខិតខំដែលបានធ្វើរួចហើយ។ សូមពិនិត្យវឌ្ឍនភាពដោយស្មោះត្រង់ ហើយសម្រេចចិត្តដោយស្ងប់ស្ងាត់ថាត្រូវបន្តឬអត់។"
+      },
+      "outcome": {
+        "en": "Patient work could lead the business toward a rewarding harvest. Steady effort in the background may start to show in results customers notice.",
+        "km": "ការងារដោយអត់ធ្មត់ អាចនាំអាជីវកម្មឆ្ពោះទៅរកការប្រមូលផលដែលផ្តល់រង្វាន់។ ការខិតខំទៀងទាត់នៅពីក្រោយឆាក អាចចាប់ផ្តើមបង្ហាញក្នុងលទ្ធផលដែលអតិថិជនកត់សម្គាល់។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Hard work and skill-building may be absorbing your effort, improving products or processes. That dedication could be setting the business's course.",
+        "km": "ការខិតខំធ្វើការ និងការកសាងជំនាញ ប្រហែលជាកំពុងស្រូបយកការខិតខំរបស់អ្នក ដោយកែលម្អផលិតផល ឬដំណើរការ។ ការលះបង់នោះ អាចកំពុងកំណត់ផ្លូវរបស់អាជីវកម្ម។"
+      },
+      "challenge": {
+        "en": "Getting lost in details could make you miss bigger shifts in the market. Step back from the workbench sometimes to see where the business as a whole is going.",
+        "km": "ការវង្វេងក្នុងព័ត៌មានលម្អិត អាចធ្វើឱ្យអ្នកខកខានការផ្លាស់ប្តូរធំៗក្នុងទីផ្សារ។ សូមដកខ្លួនចេញពីតុការងារម្តងម្កាល ដើម្បីមើលថាអាជីវកម្មទាំងមូលកំពុងទៅណា។"
+      },
+      "outcome": {
+        "en": "Dedication to quality could lead the business toward mastery and a strong reputation. Skill may become the thing customers know it for.",
+        "km": "ការលះបង់ចំពោះគុណភាព អាចនាំអាជីវកម្មឆ្ពោះទៅរកភាពស្ទាត់ជំនាញ និងកេរ្តិ៍ឈ្មោះរឹងមាំ។ ជំនាញ អាចក្លាយជាអ្វីដែលអតិថិជនស្គាល់វា។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "The business may be self-sufficient and comfortable, enjoying the results of earlier work. Independence could be giving you room to choose its direction freely.",
+        "km": "អាជីវកម្មប្រហែលជាពឹងលើខ្លួនឯងបាន និងស្រួល ដោយរីករាយនឹងលទ្ធផលនៃការងារមុនៗ។ ឯករាជ្យភាព អាចកំពុងផ្តល់កន្លែងឱ្យអ្នកជ្រើសរើសទិសដៅរបស់វាដោយសេរី។"
+      },
+      "challenge": {
+        "en": "Comfort could make the business resist change it actually needs. Keep refining what you offer so it does not drift out of step with customers.",
+        "km": "ភាពស្រួល អាចធ្វើឱ្យអាជីវកម្មប្រឆាំងនឹងការផ្លាស់ប្តូរដែលវាត្រូវការពិតប្រាកដ។ សូមបន្តកែលម្អអ្វីដែលអ្នកផ្តល់ជូន ដើម្បីកុំឱ្យវារសាត់ចេញពីជំហានរបស់អតិថិជន។"
+      },
+      "outcome": {
+        "en": "Continued care could lead the business toward a refined, prosperous position. Its independence may let you choose the path that suits you best.",
+        "km": "ការយកចិត្តទុកដាក់ជាបន្តបន្ទាប់ អាចនាំអាជីវកម្មឆ្ពោះទៅរកជំហរល្អិតល្អន់ និងរុងរឿង។ ឯករាជ្យភាពរបស់វា អាចឱ្យអ្នកជ្រើសរើសផ្លូវដែលសមនឹងអ្នកបំផុត។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "The business may be well established, with a lasting foundation and perhaps a legacy to hand on. Stability could be the main thread of its direction.",
+        "km": "អាជីវកម្មប្រហែលជាត្រូវបានបង្កើតឡើងយ៉ាងរឹងមាំ ជាមួយមូលដ្ឋានស្ថិតស្ថេរ និងប្រហែលជាកេរដំណែលដើម្បីប្រគល់បន្ត។ ស្ថិរភាព អាចជាខ្សែស្រឡាយចម្បងនៃទិសដៅរបស់វា។"
+      },
+      "challenge": {
+        "en": "Taking stability for granted could leave the business unprepared when circumstances change. Think about who will carry it on and what it will need.",
+        "km": "ការចាត់ទុកស្ថិរភាពជារឿងធម្មតា អាចធ្វើឱ្យអាជីវកម្មមិនត្រៀមខ្លួន នៅពេលកាលៈទេសៈផ្លាស់ប្តូរ។ សូមគិតអំពីអ្នកណាដែលនឹងបន្តវា និងអ្វីដែលវានឹងត្រូវការ។"
+      },
+      "outcome": {
+        "en": "A strong foundation could carry the business toward lasting prosperity for many people. Building something to pass on may become part of its purpose.",
+        "km": "មូលដ្ឋានរឹងមាំ អាចនាំអាជីវកម្មឆ្ពោះទៅរកភាពរុងរឿងស្ថិតស្ថេរសម្រាប់មនុស្សជាច្រើន។ ការកសាងអ្វីមួយដើម្បីប្រគល់បន្ត អាចក្លាយជាផ្នែកមួយនៃគោលបំណងរបស់វា។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You may be learning and laying groundwork, perhaps testing a new skill, product or market. Study and preparation could be shaping the business's direction.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀន និងដាក់មូលដ្ឋាន ប្រហែលជាកំពុងសាកល្បងជំនាញ ផលិតផល ឬទីផ្សារថ្មី។ ការសិក្សា និងការត្រៀមរៀបចំ អាចកំពុងកំណត់ទិសដៅរបស់អាជីវកម្ម។"
+      },
+      "challenge": {
+        "en": "Studying and planning without acting could leave good ideas sitting on the shelf. Turn what you learn into a small, practical trial.",
+        "km": "ការសិក្សា និងការរៀបចំផែនការដោយមិនធ្វើសកម្មភាព អាចទុកគំនិតល្អៗនៅលើធ្នើ។ សូមប្តូរអ្វីដែលអ្នករៀន ទៅជាការសាកល្បងតូច និងជាក់ស្តែងមួយ។"
+      },
+      "outcome": {
+        "en": "Careful preparation could lead the business toward solid, well-founded growth. A modest, well-planned start may grow into something substantial.",
+        "km": "ការត្រៀមរៀបចំដោយប្រុងប្រយ័ត្ន អាចនាំអាជីវកម្មឆ្ពោះទៅរកកំណើនរឹងមាំ និងមានមូលដ្ឋានល្អ។ ការចាប់ផ្តើមតូច និងរៀបចំផែនការបានល្អ អាចរីកចម្រើនទៅជាអ្វីដែលធំដុំ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Steady, methodical work may be moving the business forward one careful step after another. Reliability could be what sets its course.",
+        "km": "ការងារទៀងទាត់ និងជាប្រព័ន្ធ ប្រហែលជាកំពុងនាំអាជីវកម្មទៅមុខមួយជំហានប្រុងប្រយ័ត្នបន្ទាប់ពីមួយជំហាន។ ភាពអាចទុកចិត្តបាន អាចជាអ្វីដែលកំណត់ផ្លូវរបស់វា។"
+      },
+      "challenge": {
+        "en": "Too much caution could make the business slow to act on good openings. Keep your steady routine, but review it so chances are not missed.",
+        "km": "ការប្រុងប្រយ័ត្នច្រើនពេក អាចធ្វើឱ្យអាជីវកម្មយឺតក្នុងការធ្វើសកម្មភាពលើឱកាសល្អ។ សូមរក្សាទម្លាប់ទៀងទាត់របស់អ្នក ប៉ុន្តែពិនិត្យវាឡើងវិញ ដើម្បីកុំឱ្យខកខានឱកាស។"
+      },
+      "outcome": {
+        "en": "Consistent effort could lead the business toward dependable, lasting results. Slow, sure progress may prove the safest route to where you want it.",
+        "km": "ការខិតខំស៊ីសង្វាក់ អាចនាំអាជីវកម្មឆ្ពោះទៅរកលទ្ធផលដែលអាចទុកចិត្តបាន និងស្ថិតស្ថេរ។ វឌ្ឍនភាពយឺត ប៉ុន្តែប្រាកដ អាចបង្ហាញថាជាផ្លូវមានសុវត្ថិភាពបំផុតទៅកាន់កន្លែងដែលអ្នកចង់បាន។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Practical care for people and resources may be guiding the business. Sensible, nurturing management could be steering it well.",
+        "km": "ការយកចិត្តទុកដាក់ជាក់ស្តែងចំពោះមនុស្ស និងធនធាន ប្រហែលជាកំពុងដឹកនាំអាជីវកម្ម។ ការគ្រប់គ្រងសមហេតុផល និងថែទាំ អាចកំពុងដឹកនាំវាបានល្អ។"
+      },
+      "challenge": {
+        "en": "Looking after everything yourself could leave you exhausted. Share responsibilities so the business does not depend on you alone.",
+        "km": "ការមើលថែអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមចែករំលែកការទទួលខុសត្រូវ ដើម្បីកុំឱ្យអាជីវកម្មពឹងផ្អែកតែលើអ្នកម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "Nurturing, practical leadership could lead the business toward comfort and steady prosperity. Care for staff and customers may become what it is known for.",
+        "km": "ការដឹកនាំប្រកបដោយការថែរក្សា និងជាក់ស្តែង អាចនាំអាជីវកម្មឆ្ពោះទៅរកភាពស្រួល និងភាពរុងរឿងទៀងទាត់។ ការយកចិត្តទុកដាក់ចំពោះបុគ្គលិក និងអតិថិជន អាចក្លាយជាអ្វីដែលវាត្រូវបានគេស្គាល់។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "The business may be in a strong, prosperous position under steady leadership. Security and success could be defining the path it is on.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតក្នុងជំហររឹងមាំ និងរុងរឿង ក្រោមការដឹកនាំនឹងនរ។ សុវត្ថិភាព និងភាពជោគជ័យ អាចកំពុងកំណត់ផ្លូវដែលវាកំពុងដើរ។"
+      },
+      "challenge": {
+        "en": "Focusing only on profit could narrow the business's vision. Keep the people it serves and the purpose behind it in view.",
+        "km": "ការផ្តោតតែលើប្រាក់ចំណេញ អាចធ្វើឱ្យចក្ខុវិស័យរបស់អាជីវកម្មតូចចង្អៀត។ សូមរក្សាមនុស្សដែលវាបម្រើ និងគោលបំណងនៅពីក្រោយវាឱ្យនៅក្នុងការមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Wise, generous leadership could carry the business toward lasting wealth and respect. Its stability may benefit staff, families and suppliers who rely on it.",
+        "km": "ការដឹកនាំដោយប្រាជ្ញា និងចិត្តទូលាយ អាចនាំអាជីវកម្មឆ្ពោះទៅរកទ្រព្យសម្បត្តិ និងការគោរពស្ថិតស្ថេរ។ ស្ថិរភាពរបស់វា អាចផ្តល់ផលប្រយោជន៍ដល់បុគ្គលិក គ្រួសារ និងអ្នកផ្គត់ផ្គង់ដែលពឹងផ្អែកលើវា។"
+      }
+    }
+  }
+}
