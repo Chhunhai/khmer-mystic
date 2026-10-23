@@ -1,12 +1,12 @@
 // Screen 5: the deck is shuffled, three cards are dealt down into Present / Challenge / Outcome,
 // then each is turned over. "Shuffle again" gathers the three back, reshuffles and deals anew.
 import { useEffect, useRef, useState } from 'react';
-import { Animated, Easing, Platform, StyleSheet, View } from 'react-native';
+import { Animated, Easing, Platform, StyleSheet, View, useWindowDimensions } from 'react-native';
 import Svg, { Circle } from 'react-native-svg';
 import { Redirect, router } from 'expo-router';
 import { content } from '../content/index.ts';
 import { drawCards } from '../engine/reading.ts';
-import { useFlow, useUi, type Flipped } from '../state/flow.tsx';
+import { stepLabel, useFlow, useUi, type Flipped } from '../state/flow.tsx';
 import { CardBack, FlipCard, useReducedMotion } from '../ui/cards.tsx';
 import { useCardViewer } from '../ui/cardViewer.tsx';
 import { AppText, GhostButton, Hint, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
@@ -93,11 +93,15 @@ export default function DrawScreen() {
 
   // Layout: deck on top, the three slots below it.
   const gap = wide ? 24 : 8;
-  const maxCard = wide ? 190 : 106;
+  // Desktop: size the cards so the deck and the dealt row fit above the docked Back/Continue bar
+  // (about 440 px of the window goes to the site header, stepper, title and bar).
+  const { height: windowH } = useWindowDimensions();
+  const deckScale = wide ? 0.42 : 0.8;
+  const fitH = (windowH - 440 - 58) / (1 + deckScale);
+  const maxCard = wide ? Math.max(100, Math.min(190, (fitH * 7) / 12)) : 106;
   const column = rowWidth > 0 ? (rowWidth - gap * 2) / 3 : maxCard;
   const cardW = Math.min(maxCard, column);
   const cardH = (cardW * 12) / 7;
-  const deckScale = wide ? 0.55 : 0.8;
   const deckW = cardW * deckScale;
   const deckH = cardH * deckScale;
   const slotsTop = deckH + 24;
@@ -231,12 +235,22 @@ export default function DrawScreen() {
           })}
         </View>
       </View>
+      {/* Says why "See my reading" is still off, and how many cards are left. */}
+      {phase === 'ready' && !allOpen && (
+        <AppText size={14} style={styles.left}>
+          {(() => {
+            const left = state.flipped.filter(f => !f).length;
+            return left === 1 ? ui.turnOne : stepLabel(ui.turnMore, left, state.lang);
+          })()}
+        </AppText>
+      )}
       {viewer.modal}
     </Screen>
   );
 }
 
 const styles = StyleSheet.create({
+  left: { color: colors.muted, textAlign: 'center', marginTop: 4 },
   top: { gap: 6 },
   stage: { marginTop: 24, alignItems: 'center' },
   rings: { position: 'absolute' },

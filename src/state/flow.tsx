@@ -110,7 +110,10 @@ export function useReading() {
 
   const reading = buildReading({ lang, zodiacId, questionId, timeFrame, cardIds }, content);
   const part = (key: PartKey) => reading.parts.find(p => p.key === key)?.text ?? '';
-  return { lang, reading, part, question: question[lang], animal: zodiac.name[lang], time: time.label[lang] };
+  // "Now" for the present time frame: "Present" is also the first card's position, so it would read twice.
+  const [timeName, span] = time.label[lang];
+  const when = time.id === 'present' ? span : `${timeName} · ${span}`;
+  return { lang, reading, part, question: question[lang], animal: zodiac.name[lang], time: time.label[lang], when };
 }
 
 /** True once a reading has been started (a birth year chosen). */

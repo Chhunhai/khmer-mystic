@@ -22,28 +22,33 @@ export function moodScore(cards: Card[]): number {
   return cards.reduce((sum, c) => sum + tagScore[c.tag], 0);
 }
 
-function toneKey(cards: Card[]): Tag | 'mixed' {
+/**
+ * One mood for the whole reading. The summary's tone and the yes/no and timing leans all come
+ * from it, so they can never contradict each other.
+ */
+function mood(cards: Card[]): Tag {
   const score = moodScore(cards);
-  if (score >= 2) return 'bright';
-  if (score <= -2) return 'testing';
-  if (cards.filter(c => c.tag === 'steady').length >= 2) return 'steady';
-  return 'mixed';
+  return score >= 1 ? 'bright' : score <= -1 ? 'testing' : 'steady';
+}
+
+/** How the Outcome card compares with the Present card. */
+function arcKey(cards: Card[]): 'better' | 'worse' | 'carry' | 'persist' | 'same' {
+  const d = tagScore[cards[2].tag] - tagScore[cards[0].tag];
+  if (d > 0) return 'better';
+  if (d < 0) return 'worse';
+  return cards[0].tag === 'bright' ? 'carry' : cards[0].tag === 'testing' ? 'persist' : 'same';
 }
 
 /** The direct answer for this kind of question, if it has one. */
-function answerKey(kind: QuestionKind, cards: Card[]): AnswerKey | null {
-  const score = moodScore(cards);
+function answerKey(kind: QuestionKind, cards: Card[]): AnswerKey {
+  const m = mood(cards);
   switch (kind) {
-    case 'obstacle':
-      return 'obstacle';
-    case 'how':
-      return 'how';
     case 'yesno':
-      return score >= 1 ? 'yes' : score <= -1 ? 'notyet' : 'depends';
+      return m === 'bright' ? 'yes' : m === 'testing' ? 'notyet' : 'depends';
     case 'when':
-      return score >= 1 ? 'soon' : score <= -1 ? 'later' : 'ready';
+      return m === 'bright' ? 'soon' : m === 'testing' ? 'later' : 'ready';
     default:
-      return null;
+      return kind;
   }
 }
 
@@ -84,23 +89,30 @@ export function buildReading(input: ReadingInput, content: Content): Reading {
   };
 
   // Theme: 2+ Major cards wins, then any suit drawn 2+ times, otherwise mixed.
-  let themeKey: keyof typeof T.theme.en = 'MIX';
+  type ThemeKey = keyof typeof T.theme.en;
+  let themeKey: ThemeKey | null = null;
   if (cards.filter(c => c.arcana === 'major').length >= 2) themeKey = 'MAJ';
   else {
     const count: Record<string, number> = {};
     for (const c of cards) if (c.suit) count[c.suit] = (count[c.suit] ?? 0) + 1;
-    for (const s of Object.keys(count)) if (count[s] >= 2) themeKey = s as typeof themeKey;
+    for (const s of Object.keys(count)) if (count[s] >= 2) themeKey = s as ThemeKey;
   }
 
   const answer = answerKey(kind, cards);
   const parts: Reading['parts'] = [{ key: 'opening', text: fill(pick(T.parts.opening, 0), v) }];
-  if (answer) parts.push({ key: 'answer', text: fill(T.answers[answer][lang], v) });
+  parts.push({ key: 'answer', text: fill(T.answers[answer][lang], v) });
   parts.push(
     { key: 'strength', text: fill(pick(T.parts.strength, 1), v) },
     { key: 'present', text: fill(pick(part('present'), 2), v) },
     { key: 'challenge', text: fill(pick(part('challenge'), 3), v) },
     { key: 'outcome', text: fill(part('outcome')[lang][0], v) },
-    { key: 'theme', text: fill(T.theme[lang][themeKey], v) + ' ' + T.tone[toneKey(cards)][lang] },
+    {
+      key: 'theme',
+      // A shared suit or 2+ Major cards (if any), then the path from Present to Outcome, then the mood.
+      text: [themeKey && T.theme[lang][themeKey], fill(T.arc[arcKey(cards)][lang], v), T.tone[mood(cards)][lang]]
+        .filter(Boolean)
+        .join(' '),
+    },
     { key: 'advice', text: fill(pick(part('advice'), 4), v) },
     { key: 'closing', text: topic.closing[lang] },
     { key: 'disclaimer', text: T.disclaimer[lang] },

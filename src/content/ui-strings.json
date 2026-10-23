@@ -84,7 +84,9 @@
     "confirmNewYes": "Start new",
     "cancel": "Cancel",
     "privacyLink": "Privacy",
-    "termsLink": "Terms of use"
+    "termsLink": "Terms of use",
+    "turnMore": "Turn over {n} more cards to see your reading",
+    "turnOne": "Turn over 1 more card to see your reading"
   },
   "km": {
     "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
@@ -171,6 +173,8 @@
     "confirmNewYes": "ចាប់ផ្តើមថ្មី",
     "cancel": "បោះបង់",
     "privacyLink": "ឯកជនភាព",
-    "termsLink": "លក្ខខណ្ឌប្រើប្រាស់"
+    "termsLink": "លក្ខខណ្ឌប្រើប្រាស់",
+    "turnMore": "សូមបើកសន្លឹកបៀ {n} សន្លឹកទៀត ដើម្បីមើលលទ្ធផល",
+    "turnOne": "សូមបើកសន្លឹកបៀ ១ សន្លឹកទៀត ដើម្បីមើលលទ្ធផល"
   }
 }

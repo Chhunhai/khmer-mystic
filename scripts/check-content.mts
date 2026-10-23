@@ -25,7 +25,7 @@ assert.ok(km.parts.every(p => !/[A-Za-z]{3,}/.test(p.text)), 'Khmer reading has 
 assert.equal(new Set(drawCards(content.cards)).size, 3, 'three different cards');
 
 // Every question has a kind, and every question, time frame and language builds a complete reading.
-const kinds = ['open', 'obstacle', 'how', 'yesno', 'when'];
+const kinds = ['state', 'heading', 'lesson', 'who', 'whatif', 'obstacle', 'how', 'yesno', 'when'];
 const draws = [['MAJ-19', 'MAJ-16', 'MAJ-17'], ['CUP-03', 'SWO-10', 'PEN-06'], ['SWO-03', 'SWO-09', 'MAJ-15']];
 for (const t of content.topics)
   for (const q of t.questions) {
@@ -36,7 +36,11 @@ for (const t of content.topics)
           const r = buildReading({ lang, zodiacId: 'TIG', questionId: q.id, timeFrame: tf.id, cardIds }, content);
           for (const p of r.parts) assert.ok(p.text && !/[{}]|undefined/.test(p.text), `${q.id} ${tf.id} ${lang} ${p.key}: ${p.text}`);
           if (lang === 'km') assert.ok(r.parts.every(p => !/[A-Za-z]{3,}/.test(p.text)), `${q.id} Khmer has English words`);
-          assert.equal(r.parts.some(p => p.key === 'answer'), q.kind !== 'open', `${q.id} answer line`);
+          assert.ok(r.parts.some(p => p.key === 'answer'), `${q.id} answer line`);
+          const all = r.parts.map(p => p.text).join(' ');
+          // The lean and the summary's mood always agree.
+          if (lang === 'en' && /towards yes|sooner rather/.test(all)) assert.ok(all.includes('outlook is bright'), `${q.id} yes lean with a non-bright mood`);
+          if (lang === 'en' && /not yet|waiting and preparing/.test(all)) assert.ok(all.includes('asks for care'), `${q.id} not-yet lean with a non-testing mood`);
         }
   }
 

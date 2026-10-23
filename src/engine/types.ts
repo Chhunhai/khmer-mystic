@@ -3,7 +3,7 @@ export type Text = Record<Lang, string>;
 export type TimeFrameId = 'present' | 'near' | 'mid' | 'long';
 export type Tag = 'bright' | 'steady' | 'testing';
 /** What a question asks for, which shapes how the reading answers it. */
-export type QuestionKind = 'open' | 'obstacle' | 'how' | 'yesno' | 'when';
+export type QuestionKind = 'state' | 'heading' | 'lesson' | 'who' | 'whatif' | 'obstacle' | 'how' | 'yesno' | 'when';
 export type SuitId = 'WAN' | 'CUP' | 'SWO' | 'PEN';
 
 export interface Card {
@@ -40,7 +40,7 @@ export interface Topic {
 
 type Variants = Record<Lang, string[]>;
 type CardPart = 'present' | 'challenge' | 'outcome' | 'advice';
-export type AnswerKey = 'obstacle' | 'how' | 'yes' | 'notyet' | 'depends' | 'soon' | 'later' | 'ready';
+export type AnswerKey = Exclude<QuestionKind, 'yesno' | 'when'> | 'yes' | 'notyet' | 'depends' | 'soon' | 'later' | 'ready';
 
 export interface Templates {
   /** `phrase` fits "…about your love life {time}"; `outlook` fits "…where this is heading {outlook}". */
@@ -57,8 +57,10 @@ export interface Templates {
   kinds: Record<QuestionKind, Partial<Record<CardPart, Variants>>>;
   /** The short direct answer that leads the overall message. */
   answers: Record<AnswerKey, Text>;
-  theme: Record<Lang, Record<'MAJ' | SuitId | 'MIX', string>>;
-  tone: Record<Tag | 'mixed', Text>;
+  /** From the Present card to the Outcome card. */
+  arc: Record<'better' | 'worse' | 'carry' | 'persist' | 'same', Text>;
+  theme: Record<Lang, Record<'MAJ' | SuitId, string>>;
+  tone: Record<Tag, Text>;
   disclaimer: Text;
 }
 

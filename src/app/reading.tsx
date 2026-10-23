@@ -33,7 +33,7 @@ export default function ReadingScreen() {
         <View style={styles.wideHead}>
           <Title>{ui.rTitle}</Title>
           <AppText style={styles.sub}>
-            “{r.question}” · {r.animal} · {r.time.join(' · ')}
+            “{r.question}” · {r.animal} · {r.when}
           </AppText>
         </View>
         <View style={styles.wideRow}>
@@ -88,7 +88,7 @@ export default function ReadingScreen() {
       <View style={styles.top}>
         <Title>{ui.rTitle}</Title>
         <AppText size={14} style={styles.sub}>
-          “{r.question}” · {r.time[0]}
+          “{r.question}” · {r.when}
         </AppText>
       </View>
       <View style={styles.cards}>
@@ -148,7 +148,7 @@ const styles = StyleSheet.create({
   cardRow: { flexDirection: 'row', justifyContent: 'center', gap: 12 },
   figure: { flexGrow: 1, flexBasis: 0, flexShrink: 1, maxWidth: 150, alignItems: 'center', gap: 10 },
   bigCard: { width: '100%', aspectRatio: 7 / 12, borderRadius: 10, boxShadow: '0 0 22px rgba(232,201,136,0.25)' },
-  wideButtons: { flexDirection: 'row', flexWrap: 'wrap', gap: 12 },
-  grow: { flexGrow: 1, flexBasis: 200 },
+  wideButtons: { gap: 10 },
+  grow: { alignSelf: 'stretch' },
   article: { flexGrow: 2, flexShrink: 1, flexBasis: 360, minWidth: 0, gap: 22 },
 });

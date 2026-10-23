@@ -108,30 +108,30 @@
     },
     "present": {
       "en": [
-        "{card1} shows where you stand: {present}",
-        "In the Present position, {card1} says: {present}"
+        "For {focus}, {card1} shows where you stand: {present}",
+        "In the Present position for {focus}, {card1} says: {present}"
       ],
       "km": [
-        "{card1} បង្ហាញពីស្ថានភាពបច្ចុប្បន្នរបស់អ្នក៖ {present}",
-        "នៅទីតាំងបច្ចុប្បន្ន {card1} ប្រាប់ថា៖ {present}"
+        "សម្រាប់{focus} {card1} បង្ហាញពីស្ថានភាពបច្ចុប្បន្នរបស់អ្នក៖ {present}",
+        "នៅទីតាំងបច្ចុប្បន្នសម្រាប់{focus} {card1} ប្រាប់ថា៖ {present}"
       ]
     },
     "challenge": {
       "en": [
-        "{card2} names your challenge: {challenge}",
-        "The challenge comes from {card2}: {challenge}"
+        "For {focus}, {card2} names your challenge: {challenge}",
+        "The challenge for {focus} comes from {card2}: {challenge}"
       ],
       "km": [
-        "{card2} បង្ហាញពីបញ្ហាប្រឈមរបស់អ្នក៖ {challenge}",
-        "បញ្ហាប្រឈមមកពី {card2}៖ {challenge}"
+        "សម្រាប់{focus} {card2} បង្ហាញពីបញ្ហាប្រឈមរបស់អ្នក៖ {challenge}",
+        "បញ្ហាប្រឈមសម្រាប់{focus} មកពី {card2}៖ {challenge}"
       ]
     },
     "outcome": {
       "en": [
-        "{card3} shows where this is heading {outlook}: {outcome}"
+        "{card3} shows where things are heading for {focus} {outlook}: {outcome}"
       ],
       "km": [
-        "{card3} បង្ហាញពីទិសដៅដែលអ្វីៗកំពុងឆ្ពោះទៅ {outlook}៖ {outcome}"
+        "{card3} បង្ហាញពីទិសដៅដែលអ្វីៗកំពុងឆ្ពោះទៅសម្រាប់{focus} {outlook}៖ {outcome}"
       ]
     },
     "advice": {
@@ -146,7 +146,6 @@
     }
   },
   "kinds": {
-    "open": {},
     "obstacle": {
       "present": {
         "en": [
@@ -158,10 +157,10 @@
       },
       "challenge": {
         "en": [
-          "The main challenge the cards point to is {card2}: {challenge}"
+          "The main challenge for {focus} is {card2}: {challenge}"
         ],
         "km": [
-          "បញ្ហាប្រឈមចម្បងដែលសន្លឹកបៀបង្ហាញគឺ {card2}៖ {challenge}"
+          "បញ្ហាប្រឈមចម្បងសម្រាប់{focus} គឺ {card2}៖ {challenge}"
         ]
       },
       "outcome": {
@@ -226,7 +225,12 @@
           "{card3} បង្ហាញពីលទ្ធផលដែលទំនងនឹងកើតឡើង {outlook}៖ {outcome}"
         ]
       }
-    }
+    },
+    "state": {},
+    "heading": {},
+    "lesson": {},
+    "who": {},
+    "whatif": {}
   },
   "answers": {
     "obstacle": {
@@ -260,6 +264,48 @@
     "ready": {
       "en": "The cards favour acting when you feel ready, one step at a time.",
       "km": "សន្លឹកបៀគាំទ្រឱ្យធ្វើសកម្មភាពនៅពេលអ្នកមានអារម្មណ៍ថាត្រៀមខ្លួនរួច ម្តងមួយជំហាន។"
+    },
+    "state": {
+      "en": "In short, {card1} sums up where you are now: {present}",
+      "km": "និយាយឱ្យខ្លី {card1} សង្ខេបពីស្ថានភាពរបស់អ្នកនៅពេលនេះ៖ {present}"
+    },
+    "heading": {
+      "en": "In short, {card3} shows what lies ahead {outlook}: {outcome}",
+      "km": "និយាយឱ្យខ្លី {card3} បង្ហាញពីអ្វីដែលនៅខាងមុខ {outlook}៖ {outcome}"
+    },
+    "lesson": {
+      "en": "The lesson the cards point to comes from {card2}: {challenge}",
+      "km": "មេរៀនដែលសន្លឹកបៀបង្ហាញ មកពី {card2}៖ {challenge}"
+    },
+    "who": {
+      "en": "Look to the people who bring the qualities of {card1}: {present}",
+      "km": "សូមមើលទៅមនុស្សដែលមានគុណសម្បត្តិនៃ {card1}៖ {present}"
+    },
+    "whatif": {
+      "en": "If you go this way, {card3} shows the likely result {outlook}: {outcome}",
+      "km": "ប្រសិនបើអ្នកដើរតាមផ្លូវនេះ {card3} បង្ហាញពីលទ្ធផលដែលទំនងកើតឡើង {outlook}៖ {outcome}"
+    }
+  },
+  "arc": {
+    "better": {
+      "en": "From {card1} now to {card3} ahead, things are moving in a better direction.",
+      "km": "ពី {card1} នៅពេលនេះ ទៅ {card3} នៅខាងមុខ អ្វីៗកំពុងឆ្ពោះទៅរកទិសដៅដែលល្អជាងមុន។"
+    },
+    "worse": {
+      "en": "From {card1} now to {card3} ahead, what is good now will need care to keep.",
+      "km": "ពី {card1} នៅពេលនេះ ទៅ {card3} នៅខាងមុខ អ្វីដែលល្អនៅពេលនេះ នឹងត្រូវការការថែរក្សា ដើម្បីរក្សាវាទុក។"
+    },
+    "same": {
+      "en": "From {card1} now to {card3} ahead, the path stays much as it is: small, steady steps count most.",
+      "km": "ពី {card1} នៅពេលនេះ ទៅ {card3} នៅខាងមុខ ផ្លូវនៅតែដដែល៖ ជំហានតូចៗ និងទៀងទាត់ មានសារៈសំខាន់បំផុត។"
+    },
+    "carry": {
+      "en": "From {card1} now to {card3} ahead, the good energy carries through: keep building on it.",
+      "km": "ពី {card1} នៅពេលនេះ ទៅ {card3} នៅខាងមុខ ថាមពលល្អនៅតែបន្ត៖ សូមបន្តកសាងលើវា។"
+    },
+    "persist": {
+      "en": "From {card1} now to {card3} ahead, the difficulty runs through this period, so patience and care matter most.",
+      "km": "ពី {card1} នៅពេលនេះ ទៅ {card3} នៅខាងមុខ ការលំបាកនៅតែបន្តក្នុងរយៈពេលនេះ ដូច្នេះការអត់ធ្មត់ និងការប្រុងប្រយ័ត្ន មានសារៈសំខាន់បំផុត។"
     }
   },
   "theme": {
@@ -268,16 +314,14 @@
       "WAN": "Your cards lean toward Wands: energy, ambition and action are the heart of this reading.",
       "CUP": "Your cards lean toward Cups: feelings and relationships are the heart of this reading.",
       "SWO": "Your cards lean toward Swords: thoughts, choices and clear communication are the heart of this reading.",
-      "PEN": "Your cards lean toward Pentacles: practical matters like work, money and daily life are the heart of this reading.",
-      "MIX": "Your cards come from different suits, so several forces are shaping {focus} at once: balance them rather than chasing just one."
+      "PEN": "Your cards lean toward Pentacles: practical matters like work, money and daily life are the heart of this reading."
     },
     "km": {
       "MAJ": "មានសន្លឹកធំពីរ ឬច្រើនជាងនេះ ដូច្នេះនេះជារយៈពេលសំខាន់ ដែលមានមេរៀនមានតម្លៃយូរអង្វែង។",
       "WAN": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាដំបង៖ ថាមពល មហិច្ឆតា និងសកម្មភាព ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
       "CUP": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាផ្តិល៖ អារម្មណ៍ និងទំនាក់ទំនង ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
       "SWO": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាដាវ៖ គំនិត ជម្រើស និងការប្រាស្រ័យទាក់ទងច្បាស់លាស់ ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
-      "PEN": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាកាក់៖ រឿងជាក់ស្តែងដូចជា ការងារ លុយកាក់ និងជីវិតប្រចាំថ្ងៃ ជាស្នូលនៃការទស្សន៍ទាយនេះ។",
-      "MIX": "សន្លឹកបៀរបស់អ្នកមកពីប្រភេទផ្សេងៗគ្នា ដូច្នេះមានកម្លាំងជាច្រើនកំពុងកំណត់{focus}ក្នុងពេលតែមួយ៖ សូមរក្សាតុល្យភាពរវាងពួកវា ជាជាងដេញតាមតែមួយ។"
+      "PEN": "សន្លឹកបៀរបស់អ្នកភាគច្រើនជាកាក់៖ រឿងជាក់ស្តែងដូចជា ការងារ លុយកាក់ និងជីវិតប្រចាំថ្ងៃ ជាស្នូលនៃការទស្សន៍ទាយនេះ។"
     }
   },
   "tone": {
@@ -292,10 +336,6 @@
     "testing": {
       "en": "The path asks for care, but every difficulty here carries a lesson that makes you stronger.",
       "km": "ផ្លូវនេះទាមទារការប្រុងប្រយ័ត្ន ប៉ុន្តែរាល់ការលំបាកនៅទីនេះ មានមេរៀនដែលធ្វើឱ្យអ្នករឹងមាំជាងមុន។"
-    },
-    "mixed": {
-      "en": "The signs are mixed: some things are moving your way, while others need patience.",
-      "km": "សញ្ញាមានលាយឡំគ្នា៖ រឿងខ្លះកំពុងដើរតាមផ្លូវរបស់អ្នក ខណៈរឿងខ្លះទៀតត្រូវការការអត់ធ្មត់។"
     }
   },
   "disclaimer": {

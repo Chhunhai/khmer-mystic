@@ -16,7 +16,7 @@
     "questions": [
       {
         "id": "LF-01",
-        "kind": "open",
+        "kind": "state",
         "en": "What does my current path look like?",
         "km": "តើផ្លូវជីវិតរបស់ខ្ញុំបច្ចុប្បន្នមានសភាពយ៉ាងដូចម្តេច?"
       },
@@ -34,7 +34,7 @@
       },
       {
         "id": "LF-04",
-        "kind": "open",
+        "kind": "heading",
         "en": "What opportunities are coming my way?",
         "km": "តើមានឱកាសអ្វីខ្លះកំពុងមករកខ្ញុំ?"
       },
@@ -46,7 +46,7 @@
       },
       {
         "id": "LF-06",
-        "kind": "open",
+        "kind": "heading",
         "en": "What is the likely outcome of my current situation?",
         "km": "តើស្ថានភាពបច្ចុប្បន្នរបស់ខ្ញុំទំនងជានឹងមានលទ្ធផលយ៉ាងណា?"
       },
@@ -58,7 +58,7 @@
       },
       {
         "id": "LF-08",
-        "kind": "open",
+        "kind": "state",
         "en": "What energy surrounds me now?",
         "km": "តើថាមពលអ្វីកំពុងនៅជុំវិញខ្ញុំឥឡូវនេះ?"
       },
@@ -70,7 +70,7 @@
       },
       {
         "id": "LF-10",
-        "kind": "open",
+        "kind": "heading",
         "en": "Where is my life heading?",
         "km": "តើជីវិតរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -93,7 +93,7 @@
     "questions": [
       {
         "id": "LR-01",
-        "kind": "open",
+        "kind": "state",
         "en": "What is the current energy of my love life?",
         "km": "តើជីវិតស្នេហារបស់ខ្ញុំបច្ចុប្បន្នមានសភាពយ៉ាងដូចម្តេច?"
       },
@@ -123,7 +123,7 @@
       },
       {
         "id": "LR-06",
-        "kind": "open",
+        "kind": "lesson",
         "en": "What lesson is this relationship teaching me?",
         "km": "តើទំនាក់ទំនងនេះកំពុងបង្រៀនមេរៀនអ្វីដល់ខ្ញុំ?"
       },
@@ -147,7 +147,7 @@
       },
       {
         "id": "LR-10",
-        "kind": "open",
+        "kind": "heading",
         "en": "Where is my love life heading?",
         "km": "តើជីវិតស្នេហារបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -170,7 +170,7 @@
     "questions": [
       {
         "id": "CW-01",
-        "kind": "open",
+        "kind": "state",
         "en": "What does my career path look like now?",
         "km": "តើអាជីពរបស់ខ្ញុំបច្ចុប្បន្នមានសភាពយ៉ាងណា?"
       },
@@ -206,7 +206,7 @@
       },
       {
         "id": "CW-07",
-        "kind": "open",
+        "kind": "heading",
         "en": "What can I expect from an upcoming interview or promotion?",
         "km": "តើខ្ញុំអាចរំពឹងអ្វីពីការសម្ភាសន៍ ឬការដំឡើងតំណែងខាងមុខ?"
       },
@@ -224,7 +224,7 @@
       },
       {
         "id": "CW-10",
-        "kind": "open",
+        "kind": "heading",
         "en": "Where is my career heading?",
         "km": "តើអាជីពរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -247,7 +247,7 @@
     "questions": [
       {
         "id": "MF-01",
-        "kind": "open",
+        "kind": "state",
         "en": "What is my current financial situation like?",
         "km": "តើស្ថានភាពហិរញ្ញវត្ថុរបស់ខ្ញុំបច្ចុប្បន្នយ៉ាងដូចម្តេច?"
       },
@@ -271,7 +271,7 @@
       },
       {
         "id": "MF-05",
-        "kind": "open",
+        "kind": "heading",
         "en": "What new sources of income might open up?",
         "km": "តើប្រភពចំណូលថ្មីអ្វីខ្លះអាចនឹងបើកឡើង?"
       },
@@ -301,7 +301,7 @@
       },
       {
         "id": "MF-10",
-        "kind": "open",
+        "kind": "heading",
         "en": "Where are my finances heading?",
         "km": "តើហិរញ្ញវត្ថុរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -324,7 +324,7 @@
     "questions": [
       {
         "id": "BI-01",
-        "kind": "open",
+        "kind": "state",
         "en": "What is the current state of my business?",
         "km": "តើអាជីវកម្មរបស់ខ្ញុំបច្ចុប្បន្នមានស្ថានភាពយ៉ាងណា?"
       },
@@ -378,7 +378,7 @@
       },
       {
         "id": "BI-10",
-        "kind": "open",
+        "kind": "heading",
         "en": "Where is my business heading?",
         "km": "តើអាជីវកម្មរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -401,7 +401,7 @@
     "questions": [
       {
         "id": "FF-01",
-        "kind": "open",
+        "kind": "state",
         "en": "What is the atmosphere in my family right now?",
         "km": "តើបរិយាកាសក្នុងគ្រួសាររបស់ខ្ញុំឥឡូវនេះយ៉ាងដូចម្តេច?"
       },
@@ -425,7 +425,7 @@
       },
       {
         "id": "FF-05",
-        "kind": "open",
+        "kind": "lesson",
         "en": "What does this friendship mean for me?",
         "km": "តើមិត្តភាពនេះមានន័យយ៉ាងណាចំពោះខ្ញុំ?"
       },
@@ -443,7 +443,7 @@
       },
       {
         "id": "FF-08",
-        "kind": "open",
+        "kind": "who",
         "en": "Who can I rely on right now?",
         "km": "តើខ្ញុំអាចពឹងពាក់លើនរណាបាននៅពេលនេះ?"
       },
@@ -455,7 +455,7 @@
       },
       {
         "id": "FF-10",
-        "kind": "open",
+        "kind": "heading",
         "en": "Where are my family relationships heading?",
         "km": "តើទំនាក់ទំនងក្នុងគ្រួសាររបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -478,7 +478,7 @@
     "questions": [
       {
         "id": "WB-01",
-        "kind": "open",
+        "kind": "state",
         "en": "What does my inner balance look like now?",
         "km": "តើតុល្យភាពក្នុងចិត្តរបស់ខ្ញុំឥឡូវនេះយ៉ាងដូចម្តេច?"
       },
@@ -526,13 +526,13 @@
       },
       {
         "id": "WB-09",
-        "kind": "open",
+        "kind": "state",
         "en": "What brings me joy right now?",
         "km": "តើអ្វីនាំមកនូវសេចក្តីរីករាយដល់ខ្ញុំនៅពេលនេះ?"
       },
       {
         "id": "WB-10",
-        "kind": "open",
+        "kind": "heading",
         "en": "Where is my inner journey heading?",
         "km": "តើដំណើរក្នុងចិត្តរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -555,7 +555,7 @@
     "questions": [
       {
         "id": "EG-01",
-        "kind": "open",
+        "kind": "state",
         "en": "What does my learning path look like now?",
         "km": "តើផ្លូវនៃការសិក្សារបស់ខ្ញុំឥឡូវនេះយ៉ាងដូចម្តេច?"
       },
@@ -567,7 +567,7 @@
       },
       {
         "id": "EG-03",
-        "kind": "open",
+        "kind": "heading",
         "en": "What can I expect from an upcoming exam?",
         "km": "តើខ្ញុំអាចរំពឹងអ្វីពីការប្រឡងខាងមុខ?"
       },
@@ -609,7 +609,7 @@
       },
       {
         "id": "EG-10",
-        "kind": "open",
+        "kind": "heading",
         "en": "Where is my personal growth heading?",
         "km": "តើការរីកចម្រើនផ្ទាល់ខ្លួនរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -632,7 +632,7 @@
     "questions": [
       {
         "id": "LO-01",
-        "kind": "open",
+        "kind": "state",
         "en": "What luck surrounds me now?",
         "km": "តើសំណាងអ្វីកំពុងនៅជុំវិញខ្ញុំឥឡូវនេះ?"
       },
@@ -662,7 +662,7 @@
       },
       {
         "id": "LO-06",
-        "kind": "open",
+        "kind": "who",
         "en": "Who might bring good opportunities into my life?",
         "km": "តើនរណាអាចនាំឱកាសល្អមកក្នុងជីវិតខ្ញុំ?"
       },
@@ -674,7 +674,7 @@
       },
       {
         "id": "LO-08",
-        "kind": "open",
+        "kind": "heading",
         "en": "What hidden opportunity is near me?",
         "km": "តើមានឱកាសលាក់កំបាំងអ្វីនៅជិតខ្ញុំ?"
       },
@@ -686,7 +686,7 @@
       },
       {
         "id": "LO-10",
-        "kind": "open",
+        "kind": "heading",
         "en": "Where is my luck heading?",
         "km": "តើសំណាងរបស់ខ្ញុំកំពុងឆ្ពោះទៅទិសណា?"
       }
@@ -709,7 +709,7 @@
     "questions": [
       {
         "id": "CD-01",
-        "kind": "open",
+        "kind": "lesson",
         "en": "What do I need to know about this decision?",
         "km": "តើខ្ញុំត្រូវដឹងអ្វីខ្លះអំពីការសម្រេចចិត្តនេះ?"
       },
@@ -721,13 +721,13 @@
       },
       {
         "id": "CD-03",
-        "kind": "open",
+        "kind": "whatif",
         "en": "What happens if I move forward?",
         "km": "តើនឹងមានអ្វីកើតឡើងប្រសិនបើខ្ញុំបន្តទៅមុខ?"
       },
       {
         "id": "CD-04",
-        "kind": "open",
+        "kind": "whatif",
         "en": "What happens if I wait?",
         "km": "តើនឹងមានអ្វីកើតឡើងប្រសិនបើខ្ញុំរង់ចាំ?"
       },
@@ -739,7 +739,7 @@
       },
       {
         "id": "CD-06",
-        "kind": "open",
+        "kind": "state",
         "en": "What does my heart really want?",
         "km": "តើចិត្តរបស់ខ្ញុំពិតជាចង់បានអ្វី?"
       },
@@ -757,7 +757,7 @@
       },
       {
         "id": "CD-09",
-        "kind": "open",
+        "kind": "heading",
         "en": "How will this choice affect my future?",
         "km": "តើជម្រើសនេះនឹងប៉ះពាល់ដល់អនាគតរបស់ខ្ញុំយ៉ាងដូចម្តេច?"
       },

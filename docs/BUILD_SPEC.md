@@ -33,11 +33,11 @@ Everything needed to build the Khmer Mystic app: all content in English and Khme
 
 ## Reading engine rules
 
-- `buildReading()` takes the language, zodiac id, question id, time frame and three card ids, and returns the reading as ordered parts: opening, answer (all but open questions), strength, present, challenge, outcome, theme, advice, closing, disclaimer.
+- `buildReading()` takes the language, zodiac id, question id, time frame and three card ids, and returns the reading as ordered parts: opening, answer, strength, present, challenge, outcome, theme, advice, closing, disclaimer.
 - Same inputs always give the same text. A seed (FNV-1a of the ids) picks variant A or B for each part.
-- Each question has a `kind` in topics.json: `open`, `obstacle`, `how`, `yesno` or `when`. `templates.kinds` gives the present / challenge / outcome / advice wording per kind (falling back to `parts`), and `templates.answers` the short direct answer that leads the overall message.
-- Mood of the draw: bright = +1, steady = 0, testing = −1, summed over all three cards. Yes/no leans yes (≥ 1), not yet (≤ −1) or depends (0); "when" leans soon / later / when ready the same way.
-- Theme: 2+ Major cards → Major theme; otherwise a suit appearing 2+ times; otherwise mixed. Tone: bright (mood ≥ 2), testing (≤ −2), steady (2+ steady cards), otherwise mixed.
+- Each question has a `kind` in topics.json: `state`, `heading`, `lesson`, `who`, `whatif`, `obstacle`, `how`, `yesno` or `when`. `templates.kinds` gives the present / challenge / outcome / advice wording per kind (falling back to `parts`), and `templates.answers` the short direct answer that leads the overall message.
+- Mood of the draw: bright = +1, steady = 0, testing = −1, summed over all three cards; ≥ 1 bright, ≤ −1 testing, 0 steady. The summary's tone and the yes/no (yes / not yet / depends) and "when" (soon / later / when ready) leans all use this one mood, so they always agree.
+- Summary (theme part): the Major or shared-suit sentence if 2+ Major cards or a repeated suit, then the arc from the Present to the Outcome card (`templates.arc`: better, worse, carry, persist, same), then the tone.
 - Time frames have a `phrase` ("right now") for the opening and an `outlook` ("from here") for the outcome line.
 - One language per reading. Never mix English and Khmer.
 - The disclaimer is always last and always visible. On the Wellbeing topic (`WB`), never collapse it.
