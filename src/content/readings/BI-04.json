@@ -1,0 +1,1097 @@
+{
+  "questionId": "BI-04",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "The business may be stepping into unfamiliar ground, such as a new market or untested product, with more enthusiasm than safeguards. Exposure is part of the adventure.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងបោះជំហានចូលទៅក្នុងទឹកដីមិនធ្លាប់ស្គាល់ ដូចជាទីផ្សារថ្មី ឬផលិតផលដែលមិនទាន់សាកល្បង ដោយមានភាពរំភើបច្រើនជាងការការពារ។ ការប្រឈមនឹងហានិភ័យ គឺជាផ្នែកមួយនៃការផ្សងព្រេង។"
+      },
+      "challenge": {
+        "en": "Watch for leaping into new territory with no insurance, contract or fallback plan. A single surprise could undo a promising start.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការលោតចូលទៅក្នុងទឹកដីថ្មី ដោយគ្មានការធានារ៉ាប់រង កិច្ចសន្យា ឬផែនការបម្រុង។ ការភ្ញាក់ផ្អើលតែមួយ អាចលុបបំបាត់ការចាប់ផ្តើមដែលមានសង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Exploring with a few safeguards in place could let you enjoy the upside of new ground. Calculated daring may open markets others fear.",
+        "km": "ការស្វែងរក ជាមួយការការពារពីរបីនៅនឹងកន្លែង អាចឱ្យអ្នករីករាយនឹងផលល្អនៃទឹកដីថ្មី។ ភាពក្លាហានដែលបានគណនា អាចបើកទីផ្សារដែលអ្នកដទៃខ្លាច។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "The business may depend heavily on your own skill and energy, with much of its know-how living in your head. You may be its main engine.",
+        "km": "អាជីវកម្មប្រហែលជាពឹងផ្អែកខ្លាំងលើជំនាញ និងថាមពលផ្ទាល់ខ្លួនរបស់អ្នក ដោយចំណេះដឹងភាគច្រើនរបស់វារស់នៅក្នុងក្បាលរបស់អ្នក។ អ្នកប្រហែលជាម៉ាស៊ីនចម្បងរបស់វា។"
+      },
+      "challenge": {
+        "en": "Be wary of being the only person who knows how things work. If you were ill or away, the business could stall.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការក្លាយជាមនុស្សតែម្នាក់គត់ដែលដឹងពីរបៀបដែលអ្វីៗដំណើរការ។ ប្រសិនបើអ្នកឈឺ ឬអវត្តមាន អាជីវកម្មអាចជាប់គាំង។"
+      },
+      "outcome": {
+        "en": "Writing down processes and training others could make the business resilient beyond you. Your skill may multiply through the people you teach.",
+        "km": "ការសរសេរដំណើរការ និងការបណ្តុះបណ្តាលអ្នកដទៃ អាចធ្វើឱ្យអាជីវកម្មធន់ លើសពីអ្នក។ ជំនាញរបស់អ្នក អាចកើនឡើងច្រើនដង តាមរយៈមនុស្សដែលអ្នកបង្រៀន។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Some risks may be hidden from view, such as problems customers do not mention or trends you have not noticed. Not everything is on the surface.",
+        "km": "ហានិភ័យខ្លះ ប្រហែលជាត្រូវបានលាក់ពីការមើលឃើញ ដូចជាបញ្ហាដែលអតិថិជនមិននិយាយ ឬនិន្នាការដែលអ្នកមិនទាន់កត់សម្គាល់។ មិនមែនអ្វីៗទាំងអស់នៅលើផ្ទៃនោះទេ។"
+      },
+      "challenge": {
+        "en": "Look out for quiet warning signs, such as fewer repeat orders or customers going silent. They often appear before a problem becomes visible.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះសញ្ញាព្រមានស្ងាត់ៗ ដូចជាការបញ្ជាទិញម្តងទៀតតិចជាងមុន ឬអតិថិជនស្ងាត់។ វាជារឿយៗលេចឡើង មុនពេលបញ្ហាក្លាយជាអាចមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Paying attention to subtle signals could let you act before small issues grow. Intuition backed by data may become an early-warning system.",
+        "km": "ការយកចិត្តទុកដាក់ចំពោះសញ្ញាតូចៗ អាចឱ្យអ្នកធ្វើសកម្មភាព មុនពេលបញ្ហាតូចៗរីកធំ។ វិចារណញាណដែលគាំទ្រដោយទិន្នន័យ អាចក្លាយជាប្រព័ន្ធព្រមានជាមុន។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "The business may be growing well, with demand and sales rising. Success itself can create new pressures.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងរីកចម្រើនបានល្អ ដោយតម្រូវការ និងការលក់កើនឡើង។ ភាពជោគជ័យខ្លួនឯង អាចបង្កើតសម្ពាធថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Guard against growing faster than your cash, staff or suppliers can handle. Overtrading has sunk many profitable businesses.",
+        "km": "សូមការពារខ្លួនពីការរីកចម្រើនលឿនជាងសាច់ប្រាក់ បុគ្គលិក ឬអ្នកផ្គត់ផ្គង់របស់អ្នកអាចដោះស្រាយបាន។ ការធ្វើពាណិជ្ជកម្មហួសកម្លាំង បានធ្វើឱ្យអាជីវកម្មមានប្រាក់ចំណេញជាច្រើនលិច។"
+      },
+      "outcome": {
+        "en": "Growing at a pace your resources can match could turn demand into lasting abundance. Careful expansion may keep the harvest coming.",
+        "km": "ការរីកចម្រើនក្នុងល្បឿនដែលធនធានរបស់អ្នកអាចផ្គូផ្គងបាន អាចបង្វែរតម្រូវការទៅជាភាពបរិបូរណ៍យូរអង្វែង។ ការពង្រីកដោយប្រុងប្រយ័ត្ន អាចរក្សាការប្រមូលផលឱ្យបន្តមក។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Rules, systems and controls may be shaping how the business runs, giving it order and predictability. Structure is your shield.",
+        "km": "ច្បាប់ ប្រព័ន្ធ និងការត្រួតពិនិត្យ ប្រហែលជាកំពុងរៀបចំរបៀបដែលអាជីវកម្មដំណើរការ ដោយផ្តល់សណ្តាប់ធ្នាប់ និងការព្យាករណ៍បានដល់វា។ រចនាសម្ព័ន្ធ គឺជារបាំងការពាររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Be careful of controls so rigid that staff work around them, or so loose that mistakes slip through. Both can create risk.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការត្រួតពិនិត្យដែលតឹងរ៉ឹងពេក រហូតបុគ្គលិកធ្វើការជុំវិញវា ឬធូររលុងពេក រហូតកំហុសរអិលឆ្លងកាត់។ ទាំងពីរអាចបង្កើតហានិភ័យ។"
+      },
+      "outcome": {
+        "en": "Sensible, well-kept controls could catch errors and fraud before they cost you. Good order may let the business weather shocks.",
+        "km": "ការត្រួតពិនិត្យដ៏សមហេតុផល និងរក្សាបានល្អ អាចចាប់កំហុស និងការក្លែងបន្លំ មុនពេលវាធ្វើឱ្យអ្នកខាតបង់។ សណ្តាប់ធ្នាប់ល្អ អាចឱ្យអាជីវកម្មឆ្លងកាត់ការភ្ញាក់ផ្អើល។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "The business may operate within an industry with established norms, regulations or professional bodies. Compliance is part of the landscape.",
+        "km": "អាជីវកម្មប្រហែលជាប្រតិបត្តិការក្នុងឧស្សាហកម្មដែលមានបទដ្ឋាន បទប្បញ្ញត្តិ ឬស្ថាប័នវិជ្ជាជីវៈដែលបានបង្កើតឡើង។ ការអនុលោម គឺជាផ្នែកមួយនៃទិដ្ឋភាព។"
+      },
+      "challenge": {
+        "en": "Watch for falling behind on licences, permits, tax filings or safety rules. Missing one could bring fines or closure.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្លាក់ពីក្រោយលើអាជ្ញាប័ណ្ណ លិខិតអនុញ្ញាត ការដាក់ពន្ធ ឬច្បាប់សុវត្ថិភាព។ ការខកខានមួយ អាចនាំមកនូវការផាកពិន័យ ឬការបិទ។"
+      },
+      "outcome": {
+        "en": "Staying on top of compliance, with qualified advice where needed, could protect the business from avoidable trouble. A clean record may build trust.",
+        "km": "ការនៅលើកំពូលនៃការអនុលោម ជាមួយដំបូន្មានពីអ្នកជំនាញនៅកន្លែងចាំបាច់ អាចការពារអាជីវកម្មពីបញ្ហាដែលអាចជៀសវាងបាន។ កំណត់ត្រាស្អាត អាចកសាងការទុកចិត្ត។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "A key partnership may be central to the business, such as a co-owner, main supplier or major client. Much may rest on that relationship.",
+        "km": "ភាពជាដៃគូសំខាន់មួយ ប្រហែលជាចំណុចកណ្តាលនៃអាជីវកម្ម ដូចជាសហម្ចាស់ អ្នកផ្គត់ផ្គង់ចម្បង ឬអតិថិជនធំ។ អ្វីៗជាច្រើន ប្រហែលជាពឹងលើទំនាក់ទំនងនោះ។"
+      },
+      "challenge": {
+        "en": "Beware of relying on one partner, supplier or client for most of your income. If they leave, the business could be badly shaken.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការពឹងលើដៃគូ អ្នកផ្គត់ផ្គង់ ឬអតិថិជនតែម្នាក់ សម្រាប់ចំណូលភាគច្រើនរបស់អ្នក។ ប្រសិនបើពួកគេចាកចេញ អាជីវកម្មអាចត្រូវរង្គោះរង្គើយ៉ាងខ្លាំង។"
+      },
+      "outcome": {
+        "en": "Spreading key relationships across several partners could make the business far harder to topple. Strong but varied ties may give lasting security.",
+        "km": "ការចែកទំនាក់ទំនងសំខាន់ៗ ទៅលើដៃគូជាច្រើន អាចធ្វើឱ្យអាជីវកម្មពិបាកផ្តួលរំលំជាងមុនច្រើន។ ចំណងរឹងមាំ ប៉ុន្តែចម្រុះ អាចផ្តល់សុវត្ថិភាពយូរអង្វែង។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "The business may be pushing hard toward a target, with drive and momentum carrying it forward. Speed is part of the story.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងរុញខ្លាំងឆ្ពោះទៅរកគោលដៅ ដោយកម្លាំងជំរុញ និងសន្ទុះនាំវាទៅមុខ។ ល្បឿន គឺជាផ្នែកមួយនៃរឿង។"
+      },
+      "challenge": {
+        "en": "Take care that the push for results does not override safety checks, quality or staff wellbeing. Cutting corners under pressure is a common trap.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យការជំរុញរកលទ្ធផល លើសពីការពិនិត្យសុវត្ថិភាព គុណភាព ឬសុខុមាលភាពបុគ្គលិក។ ការកាត់ជ្រុងក្រោមសម្ពាធ គឺជាអន្ទាក់ទូទៅ។"
+      },
+      "outcome": {
+        "en": "Driving forward with checks in place could reach the goal without collateral damage. Controlled momentum may prove unstoppable.",
+        "km": "ការរុញទៅមុខ ជាមួយការពិនិត្យនៅនឹងកន្លែង អាចឈានដល់គោលដៅ ដោយគ្មានការខូចខាតបន្ទាប់បន្សំ។ សន្ទុះដែលត្រូវបានគ្រប់គ្រង អាចបង្ហាញថាមិនអាចបញ្ឈប់បាន។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience and quiet strength may be helping the business absorb pressure without cracking. Calm handling is an asset.",
+        "km": "ការអត់ធ្មត់ និងកម្លាំងស្ងប់ស្ងាត់ ប្រហែលជាកំពុងជួយអាជីវកម្មស្រូបយកសម្ពាធ ដោយមិនប្រេះស្រាំ។ ការដោះស្រាយដោយស្ងប់ស្ងាត់ គឺជាទ្រព្យសម្បត្តិ។"
+      },
+      "challenge": {
+        "en": "Be careful with angry customers, complaints or disputes handled in the heat of the moment. A harsh reply could become a public problem.",
+        "km": "សូមប្រុងប្រយ័ត្នជាមួយអតិថិជនខឹង ការត្អូញត្អែរ ឬជម្លោះ ដែលត្រូវបានដោះស្រាយក្នុងពេលកំហឹង។ ការឆ្លើយតបយ៉ាងឃោរឃៅ អាចក្លាយជាបញ្ហាសាធារណៈ។"
+      },
+      "outcome": {
+        "en": "Handling conflict calmly could protect your reputation and keep customers loyal. Gentle firmness may turn complaints into trust.",
+        "km": "ការដោះស្រាយជម្លោះដោយស្ងប់ស្ងាត់ អាចការពារកេរ្តិ៍ឈ្មោះរបស់អ្នក ហើយរក្សាអតិថិជនឱ្យស្មោះត្រង់។ ភាពរឹងមាំទន់ភ្លន់ អាចបង្វែរការត្អូញត្អែរទៅជាការទុកចិត្ត។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You may be stepping back to think about the business's direction, with fewer eyes on the fine details. Reflection has value.",
+        "km": "អ្នកប្រហែលជាកំពុងដកថយដើម្បីគិតអំពីទិសដៅរបស់អាជីវកម្ម ដោយមានភ្នែកតិចជាងមុនលើព័ត៌មានលម្អិតតូចៗ។ ការឆ្លុះបញ្ចាំង មានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Look out for problems that grow while no one is watching, such as unpaid invoices or slipping standards. Keep someone on the details.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះបញ្ហាដែលរីកធំ ខណៈគ្មាននរណាម្នាក់កំពុងមើល ដូចជាវិក្កយបត្រមិនទាន់បង់ ឬស្តង់ដាររអិលចុះ។ សូមរក្សានរណាម្នាក់ឱ្យនៅលើព័ត៌មានលម្អិត។"
+      },
+      "outcome": {
+        "en": "Reflecting while keeping basic oversight could produce wiser strategy without new risks. A clear view may reveal what to protect.",
+        "km": "ការឆ្លុះបញ្ចាំង ខណៈរក្សាការត្រួតពិនិត្យមូលដ្ឋាន អាចបង្កើតយុទ្ធសាស្ត្រដ៏ឆ្លាតវៃជាងមុន ដោយគ្មានហានិភ័យថ្មី។ ទស្សនៈច្បាស់លាស់ អាចបង្ហាញពីអ្វីដែលត្រូវការពារ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Market conditions may be shifting, with demand, prices or competition changing around you. The wheel is turning.",
+        "km": "លក្ខខណ្ឌទីផ្សារ ប្រហែលជាកំពុងផ្លាស់ប្តូរ ដោយតម្រូវការ តម្លៃ ឬការប្រកួតប្រជែងកំពុងផ្លាស់ប្តូរនៅជុំវិញអ្នក។ កង់កំពុងវិល។"
+      },
+      "challenge": {
+        "en": "Guard against assuming good conditions will last. A downturn, price rise or new rival could catch an unprepared business off guard.",
+        "km": "សូមការពារខ្លួនពីការសន្មតថាលក្ខខណ្ឌល្អនឹងស្ថិតស្ថេរ។ ការធ្លាក់ចុះ ការឡើងថ្លៃ ឬគូប្រជែងថ្មី អាចចាប់អាជីវកម្មដែលមិនបានត្រៀមខ្លួន ដោយមិនដឹងខ្លួន។"
+      },
+      "outcome": {
+        "en": "Building a cash cushion and flexible plans could let the business ride out shifts. Preparedness may turn change into opportunity.",
+        "km": "ការកសាងប្រាក់បម្រុង និងផែនការបត់បែន អាចឱ្យអាជីវកម្មឆ្លងកាត់ការផ្លាស់ប្តូរ។ ការត្រៀមខ្លួន អាចបង្វែរការផ្លាស់ប្តូរទៅជាឱកាស។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Fairness, contracts and accountability may be in focus, with agreements and obligations shaping the business. Balance matters.",
+        "km": "យុត្តិធម៌ កិច្ចសន្យា និងគណនេយ្យភាព ប្រហែលជាស្ថិតក្នុងការផ្តោត ដោយកិច្ចព្រមព្រៀង និងកាតព្វកិច្ច កំពុងរៀបចំអាជីវកម្ម។ តុល្យភាព មានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Be wary of vague contracts, verbal promises or unpaid tax, any of which could turn into a legal dispute. Get agreements in writing and seek qualified advice.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះកិច្ចសន្យាស្រពិចស្រពិល ការសន្យាដោយមាត់ ឬពន្ធដែលមិនទាន់បង់ ដែលណាមួយអាចប្រែក្លាយទៅជាជម្លោះផ្លូវច្បាប់។ សូមធ្វើកិច្ចព្រមព្រៀងជាលាយលក្ខណ៍អក្សរ ហើយស្វែងរកដំបូន្មានពីអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Clear, fair agreements could protect the business from costly disputes and penalties. A reputation for straight dealing may become its own shield.",
+        "km": "កិច្ចព្រមព្រៀងច្បាស់លាស់ និងយុត្តិធម៌ អាចការពារអាជីវកម្មពីជម្លោះ និងការពិន័យថ្លៃៗ។ កេរ្តិ៍ឈ្មោះសម្រាប់ការដោះស្រាយដោយត្រង់ អាចក្លាយជារបាំងរបស់វាផ្ទាល់។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "The business may be in a holding pattern, with a decision, project or payment stuck in limbo. Waiting is part of the picture.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងស្ថិតក្នុងលំនាំរង់ចាំ ដោយការសម្រេចចិត្ត គម្រោង ឬការទូទាត់ ជាប់គាំងក្នុងភាពមិនច្បាស់លាស់។ ការរង់ចាំ គឺជាផ្នែកមួយនៃរូបភាព។"
+      },
+      "challenge": {
+        "en": "Watch for cash running low while you wait on a big payment or approval. Plan as if the delay could stretch further.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះសាច់ប្រាក់ដែលកំពុងអស់ ខណៈអ្នករង់ចាំការទូទាត់ធំ ឬការអនុម័ត។ សូមរៀបចំផែនការ ដូចជាការពន្យារអាចលាតសន្ធឹងបន្ថែម។"
+      },
+      "outcome": {
+        "en": "Planning for delays could keep the business steady through uncertain waits. A fresh view may reveal other options.",
+        "km": "ការរៀបចំផែនការសម្រាប់ការពន្យារ អាចរក្សាអាជីវកម្មឱ្យនឹងនរ ឆ្លងកាត់ការរង់ចាំមិនប្រាកដប្រជា។ ទស្សនៈថ្មី អាចបង្ហាញជម្រើសផ្សេងទៀត។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Something in the business may be coming to an end, such as a contract, a product or a long-standing arrangement. Endings bring exposure.",
+        "km": "អ្វីមួយនៅក្នុងអាជីវកម្ម ប្រហែលជាកំពុងបញ្ចប់ ដូចជាកិច្ចសន្យា ផលិតផល ឬការរៀបចំដែលមានយូរមកហើយ។ ការបញ្ចប់ នាំមកនូវការប្រឈម។"
+      },
+      "challenge": {
+        "en": "Watch for a key contract or income source ending without a replacement lined up. A gap in revenue can be hard to bridge.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះកិច្ចសន្យា ឬប្រភពចំណូលសំខាន់មួយដែលបញ្ចប់ ដោយគ្មានការជំនួសដែលបានរៀបចំ។ ចន្លោះនៅក្នុងចំណូល អាចពិបាកបិទ។"
+      },
+      "outcome": {
+        "en": "Planning for endings before they arrive could turn them into a smooth transition. Change handled well may make room for better work.",
+        "km": "ការរៀបចំផែនការសម្រាប់ការបញ្ចប់ មុនពេលវាមកដល់ អាចបង្វែរវាទៅជាការផ្លាស់ប្តូររលូន។ ការផ្លាស់ប្តូរដែលដោះស្រាយបានល្អ អាចបង្កើតកន្លែងសម្រាប់ការងារល្អជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "The business may be balancing many demands, such as growth and caution, cost and quality. Moderation is keeping it steady.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងធ្វើឱ្យតម្រូវការជាច្រើនមានតុល្យភាព ដូចជាការរីកចម្រើន និងការប្រុងប្រយ័ត្ន ថ្លៃដើម និងគុណភាព។ ភាពល្មម កំពុងរក្សាវាឱ្យនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Be careful of lurching between extremes, such as overspending then slashing costs. Sudden swings can unsettle staff and customers alike.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្លាស់រវាងភាពជ្រុល ដូចជាការចំណាយហួសហេតុ ហើយបន្ទាប់មកកាត់ថ្លៃដើមយ៉ាងខ្លាំង។ ការយោលភ្លាមៗ អាចរំខានទាំងបុគ្គលិក និងអតិថិជន។"
+      },
+      "outcome": {
+        "en": "Steady, balanced management could carry the business through rough patches without drama. Moderation may prove a quiet strength.",
+        "km": "ការគ្រប់គ្រងនឹងនរ និងមានតុល្យភាព អាចនាំអាជីវកម្មឆ្លងកាត់ដំណាក់កាលលំបាក ដោយគ្មានរឿងរ៉ាវ។ ភាពល្មម អាចបង្ហាញថាជាកម្លាំងស្ងាត់ៗ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "The business may be tied to something hard to escape, such as heavy debt, a long lease or a demanding investor. Pressure may be building.",
+        "km": "អាជីវកម្មប្រហែលជាជាប់ចំណងនឹងអ្វីមួយដែលពិបាកគេចចេញ ដូចជាបំណុលធ្ងន់ កិច្ចសន្យាជួលវែង ឬវិនិយោគិនដែលទាមទារខ្លាំង។ សម្ពាធ ប្រហែលជាកំពុងកើនឡើង។"
+      },
+      "challenge": {
+        "en": "Beware of taking on more debt to cover existing debt, or signing terms that hand away control. Seek advice from an accountant or debt specialist.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទទួលយកបំណុលបន្ថែម ដើម្បីគ្របដណ្តប់បំណុលដែលមានស្រាប់ ឬការចុះហត្ថលេខាលើលក្ខខណ្ឌដែលប្រគល់ការគ្រប់គ្រងចេញ។ សូមស្វែងរកដំបូន្មានពីគណនេយ្យករ ឬអ្នកឯកទេសបំណុល។"
+      },
+      "outcome": {
+        "en": "Facing the obligation head-on could open ways to loosen it, such as refinancing or renegotiating. Freedom may return step by step.",
+        "km": "ការប្រឈមមុខនឹងកាតព្វកិច្ចដោយផ្ទាល់ អាចបើកវិធីដើម្បីបន្ធូរវា ដូចជាការផ្តល់ហិរញ្ញប្បទានឡើងវិញ ឬការចរចាឡើងវិញ។ សេរីភាព អាចត្រឡប់មកវិញមួយជំហានម្តងៗ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A sudden shock may be shaking the business, such as a lost client, a supply failure or an unexpected cost. Stability is being tested.",
+        "km": "ការភ្ញាក់ផ្អើលភ្លាមៗ ប្រហែលជាកំពុងរង្គោះរង្គើអាជីវកម្ម ដូចជាការបាត់បង់អតិថិជន ការបរាជ័យនៃការផ្គត់ផ្គង់ ឬការចំណាយមិននឹកស្មានដល់។ ស្ថិរភាព កំពុងត្រូវបានសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Watch for having no plan for disruption, such as no backup supplier, no cash reserve or no insurance. Shocks hit hardest where there is no cushion.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការគ្មានផែនការសម្រាប់ការរំខាន ដូចជាគ្មានអ្នកផ្គត់ផ្គង់បម្រុង គ្មានទុនបម្រុងសាច់ប្រាក់ ឬគ្មានការធានារ៉ាប់រង។ ការភ្ញាក់ផ្អើល វាយប្រហារខ្លាំងបំផុត នៅកន្លែងដែលគ្មានប្រាក់បម្រុង។"
+      },
+      "outcome": {
+        "en": "Building backups after a shock could leave the business far better protected. A hard lesson may become a lasting safeguard.",
+        "km": "ការកសាងការបម្រុង បន្ទាប់ពីការភ្ញាក់ផ្អើល អាចធ្វើឱ្យអាជីវកម្មត្រូវបានការពារបានល្អជាងមុនច្រើន។ មេរៀនលំបាក អាចក្លាយជាការការពារយូរអង្វែង។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "The business may be recovering from difficulty, with hope and confidence slowly returning. Optimism is in the air.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងស្តារពីការលំបាក ដោយក្តីសង្ឃឹម និងទំនុកចិត្តកំពុងត្រឡប់មកវិញបន្តិចម្តងៗ។ សុទិដ្ឋិនិយម កំពុងកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Take care not to let renewed optimism lead to the same risks that caused the trouble. A recovering business is especially prone to repeating old mistakes.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យសុទិដ្ឋិនិយមថ្មី នាំទៅរកហានិភ័យដដែលដែលបង្កបញ្ហា។ អាជីវកម្មដែលកំពុងស្តារឡើងវិញ ងាយនឹងធ្វើកំហុសចាស់ម្តងទៀតជាពិសេស។"
+      },
+      "outcome": {
+        "en": "Recovering with lessons applied could build a stronger, more resilient business. Hope grounded in caution may last.",
+        "km": "ការស្តារឡើងវិញ ជាមួយមេរៀនដែលបានអនុវត្ត អាចកសាងអាជីវកម្មរឹងមាំ និងធន់ជាងមុន។ ក្តីសង្ឃឹមដែលផ្អែកលើការប្រុងប្រយ័ត្ន អាចស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "The business may face uncertainty, with unclear information, rumours or hidden problems clouding decisions. Fog may surround key choices.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងប្រឈមនឹងភាពមិនប្រាកដប្រជា ដោយព័ត៌មានមិនច្បាស់ ពាក្យចចាមអារ៉ាម ឬបញ្ហាលាក់កំបាំង ធ្វើឱ្យការសម្រេចចិត្តស្រអាប់។ អ័ព្ទ ប្រហែលជាព័ទ្ធជុំវិញជម្រើសសំខាន់ៗ។"
+      },
+      "challenge": {
+        "en": "Be wary of acting on rumours or partial information, especially about partners or competitors. Verify before you respond.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើសកម្មភាពតាមពាក្យចចាមអារ៉ាម ឬព័ត៌មានមិនពេញលេញ ជាពិសេសអំពីដៃគូ ឬគូប្រជែង។ សូមផ្ទៀងផ្ទាត់ មុនពេលអ្នកឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "Seeking clear facts could cut through confusion and reveal the real risks. Patience in the fog may prevent costly errors.",
+        "km": "ការស្វែងរកការពិតច្បាស់លាស់ អាចកាត់ផ្តាច់ភាពច្របូកច្របល់ ហើយបង្ហាញហានិភ័យពិតប្រាកដ។ ការអត់ធ្មត់ក្នុងអ័ព្ទ អាចការពារកំហុសថ្លៃៗ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "The business may be thriving, with good results and strong visibility. Success brings its own blind spots.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងរីកចម្រើន ដោយលទ្ធផលល្អ និងភាពលេចធ្លោខ្លាំង។ ភាពជោគជ័យ នាំមកនូវចំណុចងងឹតរបស់វាផ្ទាល់។"
+      },
+      "challenge": {
+        "en": "Guard against overconfidence that skips the checks, such as reviewing costs, contracts or cash flow. Success can hide problems well.",
+        "km": "សូមការពារខ្លួនពីទំនុកចិត្តហួសហេតុ ដែលរំលងការពិនិត្យ ដូចជាការពិនិត្យថ្លៃដើម កិច្ចសន្យា ឬលំហូរសាច់ប្រាក់។ ភាពជោគជ័យ អាចលាក់បញ្ហាបានល្អ។"
+      },
+      "outcome": {
+        "en": "Staying alert while enjoying success could keep the business bright and steady. Vigilance may protect what you built.",
+        "km": "ការនៅតែប្រុងប្រយ័ត្ន ខណៈរីករាយនឹងភាពជោគជ័យ អាចរក្សាអាជីវកម្មឱ្យភ្លឺស្វាង និងនឹងនរ។ ការប្រុងប្រយ័ត្ន អាចការពារអ្វីដែលអ្នកបានកសាង។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "The business may be facing a reckoning, where past decisions come up for review. Lessons are surfacing.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងប្រឈមនឹងការវាយតម្លៃ ដែលការសម្រេចចិត្តកន្លងមកត្រូវបានយកមកពិនិត្យ។ មេរៀនកំពុងលេចឡើង។"
+      },
+      "challenge": {
+        "en": "Look out for repeating a past mistake simply because it was never properly examined. Unlearned lessons tend to return.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើកំហុសកន្លងមកម្តងទៀត គ្រាន់តែដោយសារវាមិនដែលត្រូវបានពិនិត្យត្រឹមត្រូវ។ មេរៀនដែលមិនបានរៀន មាននិន្នាការត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "Learning honestly from the past could set the business on a safer path. A wake-up call may lead to lasting improvement.",
+        "km": "ការរៀនដោយស្មោះត្រង់ពីអតីតកាល អាចដាក់អាជីវកម្មលើផ្លូវមានសុវត្ថិភាពជាងមុន។ ការដាស់តឿនមួយ អាចនាំទៅរកការកែលម្អយូរអង្វែង។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "The business may be completing a stage, such as a project, contract or growth phase. One chapter is closing.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងបញ្ចប់ដំណាក់កាលមួយ ដូចជាគម្រោង កិច្ចសន្យា ឬដំណាក់កាលរីកចម្រើន។ ជំពូកមួយកំពុងបិទ។"
+      },
+      "challenge": {
+        "en": "Be careful of loose ends, such as unpaid invoices, warranties or unsigned handovers, when a phase wraps up. Close everything properly.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះកិច្ចការដែលនៅសល់ ដូចជាវិក្កយបត្រមិនទាន់បង់ ការធានា ឬការប្រគល់ដែលមិនទាន់ចុះហត្ថលេខា នៅពេលដំណាក់កាលមួយបញ្ចប់។ សូមបិទអ្វីៗទាំងអស់ឱ្យត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "Closing the chapter cleanly could leave the business secure and ready for what comes next. A tidy finish may protect your gains.",
+        "km": "ការបិទជំពូកឱ្យស្អាត អាចធ្វើឱ្យអាជីវកម្មមានសុវត្ថិភាព និងត្រៀមខ្លួនសម្រាប់អ្វីដែលមកបន្ទាប់។ ការបញ្ចប់ដ៏ស្អាតស្អំ អាចការពារផលចំណេញរបស់អ្នក។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A new initiative may be igniting inside the business, such as a product launch or new service. Fresh ventures carry fresh exposure.",
+        "km": "គំនិតផ្តួចផ្តើមថ្មីមួយ ប្រហែលជាកំពុងឆេះឡើងនៅក្នុងអាជីវកម្ម ដូចជាការដាក់ចេញផលិតផល ឬសេវាកម្មថ្មី។ គម្រោងថ្មីៗ នាំមកនូវការប្រឈមថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Watch for launching without testing demand or checking that it fits your capacity. An untested idea can drain cash fast.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដាក់ចេញ ដោយមិនសាកល្បងតម្រូវការ ឬពិនិត្យថាវាសមនឹងសមត្ថភាពរបស់អ្នក។ គំនិតដែលមិនទាន់សាកល្បង អាចបង្ហូរសាច់ប្រាក់យ៉ាងលឿន។"
+      },
+      "outcome": {
+        "en": "Piloting the idea on a small scale could limit the downside while proving the upside. A careful launch may grow into a strong line.",
+        "km": "ការសាកល្បងគំនិតក្នុងកម្រិតតូច អាចកំណត់ផលអាក្រក់ ខណៈបញ្ជាក់ផលល្អ។ ការដាក់ចេញដោយប្រុងប្រយ័ត្ន អាចរីកចម្រើនទៅជាខ្សែរឹងមាំ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "The business may be weighing expansion, such as a new location, market or partnership. Plans are on the table.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងថ្លឹងថ្លែងការពង្រីក ដូចជាទីតាំង ទីផ្សារ ឬភាពជាដៃគូថ្មី។ ផែនការស្ថិតនៅលើតុ។"
+      },
+      "challenge": {
+        "en": "Be wary of plans built on best-case numbers alone. Test them against a slower, costlier scenario before committing.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះផែនការដែលកសាងលើតួលេខករណីល្អបំផុតតែម្យ៉ាង។ សូមសាកល្បងវាធៀបនឹងសេណារីយ៉ូដែលយឺត និងថ្លៃជាងមុន មុនពេលប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "Planning for both good and bad outcomes could make expansion much safer. A well-tested plan may open wider horizons.",
+        "km": "ការរៀបចំផែនការសម្រាប់ទាំងលទ្ធផលល្អ និងអាក្រក់ អាចធ្វើឱ្យការពង្រីកមានសុវត្ថិភាពជាងមុនច្រើន។ ផែនការដែលបានសាកល្បងល្អ អាចបើកជើងមេឃទូលាយជាងមុន។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Early growth may be showing promise, with new customers, regions or partners coming into view. Prospects are opening.",
+        "km": "ការរីកចម្រើនដំបូង ប្រហែលជាកំពុងបង្ហាញសញ្ញាល្អ ដោយអតិថិជន តំបន់ ឬដៃគូថ្មីៗកំពុងលេចចេញ។ ទស្សនវិស័យកំពុងបើក។"
+      },
+      "challenge": {
+        "en": "Look out for overextending into distant markets before the home base is secure. Thin supply lines can snap.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការពង្រីកហួសហេតុចូលទៅក្នុងទីផ្សារឆ្ងាយ មុនពេលមូលដ្ឋានផ្ទះមានសុវត្ថិភាព។ ខ្សែផ្គត់ផ្គង់ស្តើង អាចដាច់។"
+      },
+      "outcome": {
+        "en": "Expanding step by step from a strong core could turn early promise into steady returns. A secure base may support wider reach.",
+        "km": "ការពង្រីកមួយជំហានម្តងៗ ពីស្នូលរឹងមាំ អាចបង្វែរសញ្ញាល្អដំបូងទៅជាផលចំណេញនឹងនរ។ មូលដ្ឋានមានសុវត្ថិភាព អាចគាំទ្រការឈានដល់ទូលាយជាងមុន។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "The business may be in a stable, celebratory phase, with a milestone reached or a new space opened. Things feel settled.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតក្នុងដំណាក់កាលមានស្ថិរភាព និងអបអរ ដោយសមិទ្ធផលមួយត្រូវបានសម្រេច ឬកន្លែងថ្មីត្រូវបានបើក។ អ្វីៗមានអារម្មណ៍តាំងលំនៅ។"
+      },
+      "challenge": {
+        "en": "Take care not to let celebration spending or relaxed attention open gaps in security or cash. Comfort can lower your guard.",
+        "km": "សូមប្រុងប្រយ័ត្នកុំឱ្យការចំណាយលើការអបអរ ឬការយកចិត្តទុកដាក់ធូររលុង បើកចន្លោះក្នុងសុវត្ថិភាព ឬសាច់ប្រាក់។ ភាពស្រួល អាចបន្ថយការប្រុងប្រយ័ត្នរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Enjoying the milestone while keeping controls in place could protect the stability you earned. A secure foundation may stay that way.",
+        "km": "ការរីករាយនឹងសមិទ្ធផល ខណៈរក្សាការត្រួតពិនិត្យនៅនឹងកន្លែង អាចការពារស្ថិរភាពដែលអ្នកទទួលបាន។ គ្រឹះមានសុវត្ថិភាព អាចនៅតែបែបនោះ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Competition may be heating up, with rivals, price pressure or internal disagreements stirring friction. The market may feel crowded.",
+        "km": "ការប្រកួតប្រជែង ប្រហែលជាកំពុងក្តៅឡើង ដោយគូប្រជែង សម្ពាធតម្លៃ ឬការមិនចុះសម្រុងផ្ទៃក្នុង កំពុងរំញោចការកកិត។ ទីផ្សារ ប្រហែលជាមានអារម្មណ៍មានមនុស្សច្រើន។"
+      },
+      "challenge": {
+        "en": "Beware of slashing prices to beat rivals until margins disappear. A price war can wound everyone involved.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការកាត់តម្លៃដើម្បីយកឈ្នះគូប្រជែង រហូតដល់ប្រាក់ចំណេញរឹមបាត់។ សង្គ្រាមតម្លៃ អាចធ្វើឱ្យអ្នកពាក់ព័ន្ធទាំងអស់រងរបួស។"
+      },
+      "outcome": {
+        "en": "Competing on value rather than price could protect profits and reputation. Standing apart may keep the business strong.",
+        "km": "ការប្រកួតប្រជែងលើតម្លៃពិត ជាជាងតម្លៃលក់ អាចការពារប្រាក់ចំណេញ និងកេរ្តិ៍ឈ្មោះ។ ការលេចធ្លោខុសប្លែក អាចរក្សាអាជីវកម្មឱ្យរឹងមាំ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "The business may be enjoying a win, such as strong sales, praise or a public success. Spirits are lifted, and guards may drop.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងរីករាយនឹងជ័យជម្នះ ដូចជាការលក់រឹងមាំ ការសរសើរ ឬភាពជោគជ័យជាសាធារណៈ។ ស្មារតីត្រូវបានលើក ហើយការប្រុងប្រយ័ត្នអាចធ្លាក់ចុះ។"
+      },
+      "challenge": {
+        "en": "Watch for assuming one win means lasting success, and spending as if it will repeat. Results can fall as sharply as they rose.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសន្មតថាជ័យជម្នះមួយ មានន័យថាភាពជោគជ័យយូរអង្វែង ហើយចំណាយដូចជាវានឹងកើតឡើងម្តងទៀត។ លទ្ធផល អាចធ្លាក់ចុះខ្លាំងដូចដែលវាបានឡើង។"
+      },
+      "outcome": {
+        "en": "Saving part of every win could turn a strong patch into lasting security. Recognition may be built on steadily.",
+        "km": "ការសន្សំផ្នែកមួយនៃជ័យជម្នះនីមួយៗ អាចបង្វែរដំណាក់កាលរឹងមាំទៅជាសុវត្ថិភាពយូរអង្វែង។ ការទទួលស្គាល់ អាចត្រូវបានកសាងបន្តដោយនឹងនរ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Rivals, complaints or tough negotiations may be pressing on the business from several sides. Holding ground is taking effort.",
+        "km": "គូប្រជែង ការត្អូញត្អែរ ឬការចរចាលំបាក ប្រហែលជាកំពុងសង្កត់លើអាជីវកម្មពីភាគីជាច្រើន។ ការកាន់ជំហរ កំពុងត្រូវការការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Be careful of fighting every battle, which can exhaust people and money. Choose which ground is truly worth defending.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រយុទ្ធគ្រប់សមរភូមិ ដែលអាចធ្វើឱ្យមនុស្ស និងប្រាក់អស់កម្លាំង។ សូមជ្រើសរើសថាដីណាពិតជាសមនឹងការការពារ។"
+      },
+      "outcome": {
+        "en": "Defending what matters most could secure the business without draining it. Focused resilience may earn respect.",
+        "km": "ការការពារអ្វីដែលសំខាន់បំផុត អាចធានាអាជីវកម្ម ដោយមិនបង្ហូរវា។ ភាពធន់ដែលផ្តោត អាចទទួលបានការគោរព។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Events may be moving fast, with orders, offers or problems arriving all at once. Speed can stretch attention.",
+        "km": "ព្រឹត្តិការណ៍ ប្រហែលជាកំពុងផ្លាស់ទីយ៉ាងលឿន ដោយការបញ្ជាទិញ ការផ្តល់ជូន ឬបញ្ហា មកដល់ក្នុងពេលតែមួយ។ ល្បឿន អាចលាតសន្ធឹងការយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Look out for errors that slip through when things move fast, such as wrong invoices or skipped checks. Haste can be expensive.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះកំហុសដែលរអិលឆ្លងកាត់ នៅពេលអ្វីៗផ្លាស់ទីលឿន ដូចជាវិក្កយបត្រខុស ឬការពិនិត្យដែលរំលង។ ភាពប្រញាប់ អាចមានតម្លៃថ្លៃ។"
+      },
+      "outcome": {
+        "en": "Keeping simple checks in place during busy stretches could prevent costly slips. Speed with care may serve you well.",
+        "km": "ការរក្សាការពិនិត្យសាមញ្ញនៅនឹងកន្លែង ក្នុងដំណាក់កាលមមាញឹក អាចការពារការរអិលថ្លៃៗ។ ល្បឿនជាមួយការប្រុងប្រយ័ត្ន អាចបម្រើអ្នកបានល្អ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Several setbacks may have left the business standing but bruised, with everyone tired and wary. Reserves of energy may be low.",
+        "km": "ការថយក្រោយជាច្រើន ប្រហែលជាបានទុកអាជីវកម្មឱ្យឈរ ប៉ុន្តែមានស្នាមជាំ ដោយអ្នករាល់គ្នាអស់កម្លាំង និងប្រុងប្រយ័ត្ន។ ទុនបម្រុងថាមពល ប្រហែលជាទាប។"
+      },
+      "challenge": {
+        "en": "Beware of fatigue leading to a careless decision just when the business is nearly through. Tired leaders take bigger risks.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះភាពអស់កម្លាំង ដែលនាំទៅរកការសម្រេចចិត្តធ្វេសប្រហែស នៅពេលអាជីវកម្មជិតឆ្លងផុត។ អ្នកដឹកនាំដែលអស់កម្លាំង ប្រថុយច្រើនជាង។"
+      },
+      "outcome": {
+        "en": "Resting and staying alert could carry the business through its final stretch of difficulty. Endurance may be rewarded.",
+        "km": "ការសម្រាក និងការនៅតែប្រុងប្រយ័ត្ន អាចនាំអាជីវកម្មឆ្លងកាត់ដំណាក់កាលចុងក្រោយនៃការលំបាក។ ការស៊ូទ្រាំ អាចទទួលបានរង្វាន់។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "The business may be overloaded, with too many projects, clients or tasks resting on too few people. The weight is real.",
+        "km": "អាជីវកម្មប្រហែលជាផ្ទុកលើសចំណុះ ដោយគម្រោង អតិថិជន ឬកិច្ចការច្រើនពេក ពឹងលើមនុស្សតិចពេក។ ទម្ងន់គឺពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Watch for burnout in yourself or key staff, which can lead to mistakes, illness or resignations. Overload is a business risk.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការអស់កម្លាំងក្នុងខ្លួនអ្នក ឬបុគ្គលិកសំខាន់ៗ ដែលអាចនាំទៅរកកំហុស ជំងឺ ឬការលាលែង។ ការផ្ទុកលើស គឺជាហានិភ័យអាជីវកម្ម។"
+      },
+      "outcome": {
+        "en": "Lightening the load could protect your people and the quality of your work. A sustainable pace may keep the business healthy.",
+        "km": "ការធ្វើឱ្យបន្ទុកស្រាល អាចការពារមនុស្សរបស់អ្នក និងគុណភាពនៃការងាររបស់អ្នក។ ល្បឿនប្រកបដោយនិរន្តរភាព អាចរក្សាអាជីវកម្មឱ្យមានសុខភាពល្អ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "The business may be experimenting with new ideas, tools or markets, full of curiosity. Learning carries some risk.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងពិសោធគំនិត ឧបករណ៍ ឬទីផ្សារថ្មីៗ ពោរពេញដោយការចង់ដឹង។ ការរៀនសូត្រ នាំមកនូវហានិភ័យខ្លះ។"
+      },
+      "challenge": {
+        "en": "Be wary of adopting new tools or schemes without understanding the risks, such as data security or hidden fees. Learn before you commit.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទទួលយកឧបករណ៍ ឬគម្រោងថ្មីៗ ដោយមិនយល់ពីហានិភ័យ ដូចជាសុវត្ថិភាពទិន្នន័យ ឬថ្លៃសេវាលាក់កំបាំង។ សូមរៀន មុនពេលអ្នកប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "Experimenting carefully could bring new strengths without exposing the business. Small, informed trials may pay off.",
+        "km": "ការពិសោធដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវចំណុចខ្លាំងថ្មីៗ ដោយមិនធ្វើឱ្យអាជីវកម្មប្រឈម។ ការសាកល្បងតូចៗដែលមានព័ត៌មាន អាចទទួលបានផល។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold moves may be under way, with energy and ambition pushing the business forward. Action is fast.",
+        "km": "ការផ្លាស់ទីដ៏ក្លាហាន ប្រហែលជាកំពុងដំណើរការ ដោយថាមពល និងមហិច្ឆតារុញអាជីវកម្មទៅមុខ។ សកម្មភាពគឺលឿន។"
+      },
+      "challenge": {
+        "en": "Guard against impulsive commitments, such as signing deals or buying stock in a rush. Speed without checks invites loss.",
+        "km": "សូមការពារខ្លួនពីការប្តេជ្ញាចិត្តដោយមិនបានគិត ដូចជាការចុះហត្ថលេខាលើកិច្ចព្រមព្រៀង ឬការទិញស្តុកដោយប្រញាប់ប្រញាល់។ ល្បឿនដោយគ្មានការពិនិត្យ ទាក់ទាញការខាតបង់។"
+      },
+      "outcome": {
+        "en": "Bold energy tempered by checks could drive growth safely. Ambition with a plan may go far.",
+        "km": "ថាមពលក្លាហាន ដែលបន្ថយដោយការពិនិត្យ អាចជំរុញការរីកចម្រើនដោយសុវត្ថិភាព។ មហិច្ឆតាជាមួយផែនការ អាចទៅបានឆ្ងាយ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Warm, confident leadership may be holding the business together, with you at its centre. People rely on you.",
+        "km": "ភាពជាអ្នកដឹកនាំដែលកក់ក្តៅ និងមានទំនុកចិត្ត ប្រហែលជាកំពុងរក្សាអាជីវកម្មឱ្យនៅជាមួយគ្នា ដោយអ្នកនៅចំកណ្តាល។ មនុស្សពឹងផ្អែកលើអ្នក។"
+      },
+      "challenge": {
+        "en": "Look out for taking on so much for others that you overcommit the business. Saying yes to everything spreads resources thin.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទទួលយកច្រើនពេកសម្រាប់អ្នកដទៃ រហូតអ្នកប្តេជ្ញាអាជីវកម្មហួសហេតុ។ ការយល់ព្រមលើអ្វីៗទាំងអស់ ធ្វើឱ្យធនធានស្តើង។"
+      },
+      "outcome": {
+        "en": "Confident leadership with clear limits could keep the business strong and trusted. Your warmth may stay an asset.",
+        "km": "ភាពជាអ្នកដឹកនាំដែលមានទំនុកចិត្ត ជាមួយដែនកំណត់ច្បាស់លាស់ អាចរក្សាអាជីវកម្មឱ្យរឹងមាំ និងត្រូវបានទុកចិត្ត។ ភាពកក់ក្តៅរបស់អ្នក អាចនៅតែជាទ្រព្យសម្បត្តិ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "A strong vision may be guiding the business, with you steering toward ambitious goals. Leadership is setting the course.",
+        "km": "ចក្ខុវិស័យរឹងមាំ ប្រហែលជាកំពុងណែនាំអាជីវកម្ម ដោយអ្នកដឹកនាំឆ្ពោះទៅរកគោលដៅដ៏មានមហិច្ឆតា។ ភាពជាអ្នកដឹកនាំ កំពុងកំណត់ទិសដៅ។"
+      },
+      "challenge": {
+        "en": "Beware of big promises to staff, investors or customers that the business cannot yet deliver. Overpromising damages trust.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសន្យាធំៗចំពោះបុគ្គលិក វិនិយោគិន ឬអតិថិជន ដែលអាជីវកម្មមិនទាន់អាចផ្តល់បាន។ ការសន្យាហួសហេតុ បំផ្លាញការទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Leading with vision and honest promises could build a business people believe in. Credibility may become your strongest asset.",
+        "km": "ការដឹកនាំដោយចក្ខុវិស័យ និងការសន្យាស្មោះត្រង់ អាចកសាងអាជីវកម្មដែលមនុស្សជឿជាក់។ ភាពគួរឱ្យជឿជាក់ អាចក្លាយជាទ្រព្យសម្បត្តិរឹងមាំបំផុតរបស់អ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "The business may be driven by passion and goodwill, with heart behind many decisions. Feelings run deep here.",
+        "km": "អាជីវកម្មប្រហែលជាត្រូវបានជំរុញដោយចំណង់ចំណូលចិត្ត និងឆន្ទៈល្អ ដោយមានបេះដូងនៅពីក្រោយការសម្រេចចិត្តជាច្រើន។ អារម្មណ៍មានជម្រៅនៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Watch for decisions made from the heart that ignore the numbers, such as keeping a loss-making product out of love. Passion needs a budget.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសម្រេចចិត្តពីបេះដូង ដែលមិនអើពើនឹងតួលេខ ដូចជាការរក្សាផលិតផលខាតបង់ ដោយសារស្រឡាញ់វា។ ចំណង់ចំណូលចិត្ត ត្រូវការថវិកា។"
+      },
+      "outcome": {
+        "en": "Balancing heart with hard figures could keep the business both meaningful and solvent. Passion managed well may last.",
+        "km": "ការធ្វើឱ្យបេះដូងមានតុល្យភាព ជាមួយតួលេខពិតប្រាកដ អាចរក្សាអាជីវកម្មឱ្យមានទាំងអត្ថន័យ និងសមត្ថភាពសង។ ចំណង់ចំណូលចិត្តដែលគ្រប់គ្រងបានល្អ អាចស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A close partnership may be at the heart of the business, built on trust and goodwill. Much rests on that bond.",
+        "km": "ភាពជាដៃគូជិតស្និទ្ធ ប្រហែលជានៅចំកណ្តាលអាជីវកម្ម ដែលកសាងលើការទុកចិត្ត និងឆន្ទៈល្អ។ អ្វីៗជាច្រើនពឹងលើចំណងនោះ។"
+      },
+      "challenge": {
+        "en": "Be wary of running a partnership on trust alone with nothing in writing. If the relationship changes, the business could suffer.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដំណើរការភាពជាដៃគូ ដោយផ្អែកលើការទុកចិត្តតែម្យ៉ាង ដោយគ្មានអ្វីជាលាយលក្ខណ៍អក្សរ។ ប្រសិនបើទំនាក់ទំនងផ្លាស់ប្តូរ អាជីវកម្មអាចរងទុក្ខ។"
+      },
+      "outcome": {
+        "en": "A written agreement that protects both sides could keep the partnership strong through any change. Clarity may preserve the friendship.",
+        "km": "កិច្ចព្រមព្រៀងជាលាយលក្ខណ៍អក្សរ ដែលការពារភាគីទាំងពីរ អាចរក្សាភាពជាដៃគូឱ្យរឹងមាំ ឆ្លងកាត់ការផ្លាស់ប្តូរណាមួយ។ ភាពច្បាស់លាស់ អាចរក្សាមិត្តភាព។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A friendly, social atmosphere may surround the business, with good relations among staff and customers. Community is strong.",
+        "km": "បរិយាកាសរួសរាយ និងសង្គម ប្រហែលជាព័ទ្ធជុំវិញអាជីវកម្ម ដោយមានទំនាក់ទំនងល្អក្នុងចំណោមបុគ្គលិក និងអតិថិជន។ សហគមន៍រឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Look out for blurred lines between friendship and business, such as discounts for friends or hiring without proper checks. Goodwill can be exploited.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះព្រំដែនស្រពិចស្រពិល រវាងមិត្តភាព និងអាជីវកម្ម ដូចជាការបញ្ចុះតម្លៃសម្រាប់មិត្តភក្តិ ឬការជួលបុគ្គលិកដោយគ្មានការពិនិត្យត្រឹមត្រូវ។ ឆន្ទៈល្អ អាចត្រូវបានកេងប្រវ័ញ្ច។"
+      },
+      "outcome": {
+        "en": "Keeping warmth while setting clear business rules could protect both relationships and profits. Community may stay a strength.",
+        "km": "ការរក្សាភាពកក់ក្តៅ ខណៈកំណត់ច្បាប់អាជីវកម្មច្បាស់លាស់ អាចការពារទាំងទំនាក់ទំនង និងប្រាក់ចំណេញ។ សហគមន៍ អាចនៅតែជាចំណុចខ្លាំង។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "The business may feel stuck or flat, with low energy and little interest in new possibilities. Complacency may be setting in.",
+        "km": "អាជីវកម្មប្រហែលជាមានអារម្មណ៍ជាប់គាំង ឬរាបស្មើ ដោយថាមពលទាប និងចំណាប់អារម្មណ៍តិចតួចចំពោះលទ្ធភាពថ្មីៗ។ ការធ្វេសប្រហែស ប្រហែលជាកំពុងចូលមក។"
+      },
+      "challenge": {
+        "en": "Be careful of ignoring market changes or customer complaints out of fatigue. Missed signals can become real threats.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការមិនអើពើនឹងការផ្លាស់ប្តូរទីផ្សារ ឬការត្អូញត្អែររបស់អតិថិជន ដោយសារភាពអស់កម្លាំង។ សញ្ញាដែលខកខាន អាចក្លាយជាការគំរាមកំហែងពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Re-engaging with customers and the market could catch problems while they are small. Renewed attention may reveal hidden opportunities.",
+        "km": "ការចូលរួមឡើងវិញជាមួយអតិថិជន និងទីផ្សារ អាចចាប់បញ្ហា ខណៈវានៅតូច។ ការយកចិត្តទុកដាក់ឡើងវិញ អាចបង្ហាញឱកាសលាក់កំបាំង។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "A loss, such as a failed venture or lost contract, may have left the business more cautious and a little shaken. Regret lingers.",
+        "km": "ការបាត់បង់មួយ ដូចជាគម្រោងបរាជ័យ ឬកិច្ចសន្យាដែលបាត់បង់ ប្រហែលជាបានធ្វើឱ្យអាជីវកម្មប្រុងប្រយ័ត្នជាងមុន និងរង្គោះរង្គើបន្តិច។ ការសោកស្តាយនៅតែមាន។"
+      },
+      "challenge": {
+        "en": "Watch for chasing losses with bigger, riskier bets to win back what was lost. Doubling down often deepens the damage.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដេញតាមការខាតបង់ ជាមួយការភ្នាល់ធំជាង និងប្រថុយប្រថានជាង ដើម្បីរកអ្វីដែលបាត់បង់មកវិញ។ ការភ្នាល់ទ្វេដង ជារឿយៗធ្វើឱ្យការខូចខាតកាន់តែជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Accepting the loss and rebuilding steadily could protect what remains. Lessons learned may prevent the next setback.",
+        "km": "ការទទួលយកការខាតបង់ ហើយកសាងឡើងវិញដោយនឹងនរ អាចការពារអ្វីដែលនៅសល់។ មេរៀនដែលបានរៀន អាចការពារការថយក្រោយបន្ទាប់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "The business may lean on familiar ways, long-time customers or family support. Comfort comes from what is known.",
+        "km": "អាជីវកម្មប្រហែលជាពឹងលើវិធីដែលធ្លាប់ស្គាល់ អតិថិជនយូរមកហើយ ឬការគាំទ្រពីគ្រួសារ។ ភាពស្រួល មកពីអ្វីដែលស្គាល់។"
+      },
+      "challenge": {
+        "en": "Be wary of depending on a few loyal customers or old methods while the market moves on. Nostalgia can leave a business behind.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការពឹងផ្អែកលើអតិថិជនស្មោះត្រង់ពីរបីនាក់ ឬវិធីសាស្ត្រចាស់ៗ ខណៈទីផ្សារបន្តទៅមុខ។ ការនឹករលឹក អាចទុកអាជីវកម្មឱ្យនៅពីក្រោយ។"
+      },
+      "outcome": {
+        "en": "Honouring old ties while reaching new customers could reduce dependence and risk. Familiar strengths may blend with new ones.",
+        "km": "ការគោរពចំណងចាស់ ខណៈឈានទៅរកអតិថិជនថ្មី អាចកាត់បន្ថយការពឹងផ្អែក និងហានិភ័យ។ ចំណុចខ្លាំងដែលធ្លាប់ស្គាល់ អាចលាយបញ្ចូលជាមួយចំណុចខ្លាំងថ្មី។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Many options or offers may be swirling around the business, some solid and some wishful. Clarity may be hard to find.",
+        "km": "ជម្រើស ឬការផ្តល់ជូនជាច្រើន ប្រហែលជាកំពុងវិលជុំវិញអាជីវកម្ម ខ្លះរឹងមាំ ហើយខ្លះគ្រាន់តែជាការប្រាថ្នា។ ភាពច្បាស់លាស់ ប្រហែលជាពិបាករក។"
+      },
+      "challenge": {
+        "en": "Look out for schemes promising easy profit, such as guaranteed returns or too-good deals from unknown partners. Ask for proof before you pay.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះគម្រោងដែលសន្យាប្រាក់ចំណេញងាយស្រួល ដូចជាផលចំណេញដែលធានា ឬកិច្ចព្រមព្រៀងល្អពេកពីដៃគូដែលមិនស្គាល់។ សូមសុំភស្តុតាង មុនពេលអ្នកបង់ប្រាក់។"
+      },
+      "outcome": {
+        "en": "Testing each option against the facts could steer the business clear of illusions. Clear sight may protect your resources.",
+        "km": "ការសាកល្បងជម្រើសនីមួយៗ ធៀបនឹងការពិត អាចដឹកនាំអាជីវកម្មឱ្យជៀសផុតពីការបំភាន់។ ការមើលឃើញច្បាស់ អាចការពារធនធានរបស់អ្នក។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "The business may be walking away from a market, product or partner it has outgrown. Leaving brings exposure as well as relief.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងដើរចេញពីទីផ្សារ ផលិតផល ឬដៃគូដែលវាបានធំហួស។ ការចាកចេញ នាំមកនូវការប្រឈម ក៏ដូចជាការធូរស្រាល។"
+      },
+      "challenge": {
+        "en": "Beware of walking away from steady income before the new direction is proven. Transitions without a bridge can be costly.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការដើរចេញពីចំណូលនឹងនរ មុនពេលទិសដៅថ្មីត្រូវបានបញ្ជាក់។ ការផ្លាស់ប្តូរដោយគ្មានស្ពាន អាចមានតម្លៃថ្លៃ។"
+      },
+      "outcome": {
+        "en": "A well-bridged transition could carry the business safely to its new direction. Prepared change may feel freeing.",
+        "km": "ការផ្លាស់ប្តូរដែលមានស្ពានល្អ អាចនាំអាជីវកម្មដោយសុវត្ថិភាព ទៅកាន់ទិសដៅថ្មីរបស់វា។ ការផ្លាស់ប្តូរដែលបានត្រៀម អាចមានអារម្មណ៍រំដោះ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "The business may be comfortable and content, with goals met and customers happy. Satisfaction is high.",
+        "km": "អាជីវកម្មប្រហែលជាស្រួល និងពេញចិត្ត ដោយគោលដៅត្រូវបានសម្រេច ហើយអតិថិជនរីករាយ។ ការពេញចិត្តខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Watch for complacency, such as skipping reviews or letting standards slip. Contentment can hide slow decline.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វេសប្រហែស ដូចជាការរំលងការពិនិត្យ ឬការឱ្យស្តង់ដាររអិលចុះ។ ការពេញចិត្ត អាចលាក់ការធ្លាក់ចុះយឺតៗ។"
+      },
+      "outcome": {
+        "en": "Enjoying success while keeping regular reviews in place could keep the business thriving. Contentment backed by care may last.",
+        "km": "ការរីករាយនឹងភាពជោគជ័យ ខណៈរក្សាការពិនិត្យជាទៀងទាត់នៅនឹងកន្លែង អាចរក្សាអាជីវកម្មឱ្យរីកចម្រើន។ ការពេញចិត្តដែលគាំទ្រដោយការថែរក្សា អាចស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "The business may feel like a family, with strong loyalty and shared values. Harmony is a real asset.",
+        "km": "អាជីវកម្មប្រហែលជាមានអារម្មណ៍ដូចជាគ្រួសារ ដោយមានភាពស្មោះត្រង់រឹងមាំ និងគុណតម្លៃរួម។ ភាពសុខដុម គឺជាទ្រព្យសម្បត្តិពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Be careful of avoiding hard conversations, such as about poor performance or money, to keep the peace. Unspoken problems grow.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការជៀសវាងការសន្ទនាលំបាក ដូចជាអំពីការអនុវត្តការងារខ្សោយ ឬប្រាក់ ដើម្បីរក្សាសន្តិភាព។ បញ្ហាដែលមិនបាននិយាយ រីកធំ។"
+      },
+      "outcome": {
+        "en": "Honest, caring conversations could keep the business harmonious and healthy as it faces hard choices. Shared values may hold it steady.",
+        "km": "ការសន្ទនាដោយស្មោះត្រង់ និងយកចិត្តទុកដាក់ អាចរក្សាអាជីវកម្មឱ្យសុខដុម និងមានសុខភាពល្អ នៅពេលវាប្រឈមនឹងជម្រើសលំបាក។ គុណតម្លៃរួម អាចរក្សាវាឱ្យនឹងនរ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A hopeful message, idea or offer may be arriving, stirring excitement about new possibilities. Inspiration is in the air.",
+        "km": "សារ គំនិត ឬការផ្តល់ជូនប្រកបដោយក្តីសង្ឃឹម ប្រហែលជាកំពុងមកដល់ ដោយរំញោចភាពរំភើបអំពីលទ្ធភាពថ្មីៗ។ ការបំផុសគំនិត កំពុងកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Look out for messages or requests that seem friendly but ask for payment, passwords or account details. Scams often feel personal.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះសារ ឬសំណើដែលហាក់ដូចជារួសរាយ ប៉ុន្តែសុំការទូទាត់ ពាក្យសម្ងាត់ ឬព័ត៌មានគណនី។ ការបោកប្រាស់ ជារឿយៗមានអារម្មណ៍ផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Verifying senders and requests before acting could keep the business safe from fraud. Genuine opportunities may still be welcomed with care.",
+        "km": "ការផ្ទៀងផ្ទាត់អ្នកផ្ញើ និងសំណើ មុនពេលធ្វើសកម្មភាព អាចរក្សាអាជីវកម្មឱ្យមានសុវត្ថិភាពពីការក្លែងបន្លំ។ ឱកាសពិតប្រាកដ អាចនៅតែត្រូវបានស្វាគមន៍ដោយប្រុងប្រយ័ត្ន។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "A charming proposal may be on the table, from a partner, investor or salesperson promising a lot. It may look almost too good.",
+        "km": "សំណើគួរឱ្យចាប់ចិត្តមួយ ប្រហែលជាស្ថិតនៅលើតុ ពីដៃគូ វិនិយោគិន ឬអ្នកលក់ដែលសន្យាច្រើន។ វាអាចមើលទៅស្ទើរតែល្អពេក។"
+      },
+      "challenge": {
+        "en": "Beware of smooth-talking partners or salespeople whose terms hide costs or obligations. Read every clause before agreeing.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះដៃគូ ឬអ្នកលក់ដែលនិយាយផ្អែមល្ហែម ដែលលក្ខខណ្ឌរបស់ពួកគេលាក់ថ្លៃដើម ឬកាតព្វកិច្ច។ សូមអានឃ្លានីមួយៗ មុនពេលយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "Checking the details could reveal whether the offer is truly good. A sound deal may hold up under scrutiny.",
+        "km": "ការពិនិត្យព័ត៌មានលម្អិត អាចបង្ហាញថាតើការផ្តល់ជូនពិតជាល្អឬអត់។ កិច្ចព្រមព្រៀងល្អ អាចឈរជើងបានក្រោមការពិនិត្យ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "The business may be run with deep care for customers and staff, often bending rules to help people. Compassion shapes many decisions.",
+        "km": "អាជីវកម្មប្រហែលជាត្រូវបានដំណើរការដោយការយកចិត្តទុកដាក់យ៉ាងជ្រៅចំពោះអតិថិជន និងបុគ្គលិក ជារឿយៗបត់បែនច្បាប់ដើម្បីជួយមនុស្ស។ សេចក្តីមេត្តា រៀបចំការសម្រេចចិត្តជាច្រើន។"
+      },
+      "challenge": {
+        "en": "Watch for giving credit or extensions to customers who may not pay. Kindness can leave the business short of cash.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្តល់ឥណទាន ឬការពន្យារដល់អតិថិជនដែលប្រហែលជាមិនបង់ប្រាក់។ ចិត្តល្អ អាចធ្វើឱ្យអាជីវកម្មខ្វះសាច់ប្រាក់។"
+      },
+      "outcome": {
+        "en": "Caring with clear credit rules could protect cash flow and relationships. Kindness with limits may last.",
+        "km": "ការយកចិត្តទុកដាក់ ជាមួយច្បាប់ឥណទានច្បាស់លាស់ អាចការពារលំហូរសាច់ប្រាក់ និងទំនាក់ទំនង។ ចិត្តល្អជាមួយដែនកំណត់ អាចស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm, balanced leadership may be steering the business through pressure without panic. Emotions are under steady control.",
+        "km": "ភាពជាអ្នកដឹកនាំដែលស្ងប់ស្ងាត់ និងមានតុល្យភាព ប្រហែលជាកំពុងដឹកនាំអាជីវកម្មឆ្លងកាត់សម្ពាធ ដោយគ្មានការភ័យស្លន់ស្លោ។ អារម្មណ៍ស្ថិតក្រោមការគ្រប់គ្រងនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Be careful of hiding real concerns behind a calm front, leaving risks unspoken. Calm should not mean silent.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការលាក់ការព្រួយបារម្ភពិតប្រាកដ នៅពីក្រោយមុខស្ងប់ស្ងាត់ ដោយទុកហានិភ័យឱ្យមិនត្រូវបាននិយាយ។ ភាពស្ងប់ស្ងាត់ មិនគួរមានន័យថាស្ងៀមស្ងាត់ទេ។"
+      },
+      "outcome": {
+        "en": "Calm leadership that also names risks openly could manage them before they grow. Steadiness and honesty together may build deep trust.",
+        "km": "ភាពជាអ្នកដឹកនាំដែលស្ងប់ស្ងាត់ ដែលក៏ដាក់ឈ្មោះហានិភ័យដោយបើកចំហ អាចគ្រប់គ្រងវា មុនពេលវារីកធំ។ ភាពនឹងនរ និងភាពស្មោះត្រង់ជាមួយគ្នា អាចកសាងការទុកចិត្តយ៉ាងជ្រៅ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A hard truth about the business may be coming into view, such as a cost problem, weak product or flawed plan. Clarity can sting.",
+        "km": "ការពិតដ៏លំបាកមួយអំពីអាជីវកម្ម ប្រហែលជាកំពុងលេចចេញមក ដូចជាបញ្ហាថ្លៃដើម ផលិតផលខ្សោយ ឬផែនការដែលមានកំហុស។ ភាពច្បាស់លាស់ អាចឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "Watch for ignoring the figures or feedback because they are uncomfortable to read. Problems left unexamined tend to grow quietly.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការមិនអើពើនឹងតួលេខ ឬមតិកែលម្អ ដោយសារវាមិនស្រួលអាន។ បញ្ហាដែលមិនត្រូវបានពិនិត្យ មាននិន្នាការរីកធំដោយស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Facing the truth early could let you fix problems while they are still manageable. Honest analysis may become your best defence.",
+        "km": "ការប្រឈមមុខនឹងការពិតឱ្យទាន់ អាចឱ្យអ្នកជួសជុលបញ្ហា ខណៈវានៅតែអាចគ្រប់គ្រងបាន។ ការវិភាគដោយស្មោះត្រង់ អាចក្លាយជាការការពារល្អបំផុតរបស់អ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "A difficult decision may be sitting unresolved, such as cutting a product, letting someone go or changing direction. Stalemate costs too.",
+        "km": "ការសម្រេចចិត្តលំបាកមួយ ប្រហែលជាកំពុងនៅមិនទាន់ដោះស្រាយ ដូចជាការកាត់ផលិតផល ការបញ្ឈប់នរណាម្នាក់ ឬការផ្លាស់ប្តូរទិសដៅ។ ភាពជាប់គាំង ក៏មានតម្លៃដែរ។"
+      },
+      "challenge": {
+        "en": "Be wary of letting indecision run on while losses or tensions build. Avoiding a choice is itself a choice.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកឱ្យភាពមិនអាចសម្រេចចិត្តបន្ត ខណៈការខាតបង់ ឬភាពតានតឹងកើនឡើង។ ការជៀសវាងជម្រើស គឺជាជម្រើសមួយដោយខ្លួនវាផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Making the hard call could stop the bleeding and restore momentum. A clear decision may bring relief.",
+        "km": "ការធ្វើការសម្រេចចិត្តលំបាក អាចបញ្ឈប់ការហូរឈាម ហើយស្តារសន្ទុះឡើងវិញ។ ការសម្រេចចិត្តច្បាស់លាស់ អាចនាំមកនូវការធូរស្រាល។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "The business may be dealing with hurt, such as a betrayal, a broken deal or a painful dispute. Damaged trust can create fresh risks.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងដោះស្រាយការឈឺចាប់ ដូចជាការក្បត់ កិច្ចព្រមព្រៀងដែលខូច ឬជម្លោះដ៏ឈឺចាប់។ ការទុកចិត្តដែលខូចខាត អាចបង្កើតហានិភ័យថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Look out for reacting in anger, such as public complaints or rash legal action. Emotional moves can make things worse.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការប្រតិកម្មដោយកំហឹង ដូចជាការត្អូញត្អែរជាសាធារណៈ ឬការចាត់វិធានការផ្លូវច្បាប់ដោយមិនបានគិត។ ការផ្លាស់ទីដោយអារម្មណ៍ អាចធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់។"
+      },
+      "outcome": {
+        "en": "Letting emotions settle before acting could protect your reputation and options. Healing may lead to better safeguards.",
+        "km": "ការទុកឱ្យអារម្មណ៍ស្ងប់ មុនពេលធ្វើសកម្មភាព អាចការពារកេរ្តិ៍ឈ្មោះ និងជម្រើសរបស់អ្នក។ ការព្យាបាល អាចនាំទៅរកការការពារល្អជាងមុន។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "The business may be in a slow or quiet phase, a lull after intense activity. Rest is part of the picture.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតក្នុងដំណាក់កាលយឺត ឬស្ងប់ស្ងាត់ ជាភាពស្ងប់បន្ទាប់ពីសកម្មភាពខ្លាំង។ ការសម្រាក គឺជាផ្នែកមួយនៃរូបភាព។"
+      },
+      "challenge": {
+        "en": "Beware of letting a quiet patch become neglect, such as unchecked accounts or expired insurance. Lulls hide slow leaks.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការទុកឱ្យដំណាក់កាលស្ងប់ស្ងាត់ក្លាយជាការធ្វេសប្រហែស ដូចជាគណនីដែលមិនបានពិនិត្យ ឬការធានារ៉ាប់រងដែលផុតកំណត់។ ភាពស្ងប់ លាក់ការលេចធ្លាយយឺតៗ។"
+      },
+      "outcome": {
+        "en": "Using the lull to review and tidy up could leave the business stronger. Rest may restore clarity.",
+        "km": "ការប្រើភាពស្ងប់ ដើម្បីពិនិត្យ និងរៀបចំឡើងវិញ អាចធ្វើឱ្យអាជីវកម្មរឹងមាំជាងមុន។ ការសម្រាក អាចស្តារភាពច្បាស់លាស់ឡើងវិញ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Conflict may be brewing, such as a dispute with a supplier, partner or employee. A quarrel could escalate if left alone.",
+        "km": "ជម្លោះ ប្រហែលជាកំពុងកើតឡើង ដូចជាការឈ្លោះប្រកែកជាមួយអ្នកផ្គត់ផ្គង់ ដៃគូ ឬបុគ្គលិក។ ការឈ្លោះ អាចកើនឡើង ប្រសិនបើទុកចោល។"
+      },
+      "challenge": {
+        "en": "Watch for winning a dispute in ways that damage your reputation or relationships. Some victories cost more than they gain.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការឈ្នះជម្លោះ តាមរបៀបដែលបំផ្លាញកេរ្តិ៍ឈ្មោះ ឬទំនាក់ទំនងរបស់អ្នក។ ជ័យជម្នះខ្លះ ចំណាយច្រើនជាងអ្វីដែលវាទទួលបាន។"
+      },
+      "outcome": {
+        "en": "Settling disputes fairly could protect the business's name and future deals. Peace may be worth more than winning.",
+        "km": "ការដោះស្រាយជម្លោះដោយយុត្តិធម៌ អាចការពារឈ្មោះ និងកិច្ចព្រមព្រៀងនាពេលខាងមុខរបស់អាជីវកម្ម។ សន្តិភាព អាចមានតម្លៃជាងការឈ្នះ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "The business may be in transition, moving from a rough patch toward calmer conditions. Moves like this can expose loose ends.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតក្នុងការផ្លាស់ប្តូរ ដោយផ្លាស់ទីពីដំណាក់កាលលំបាក ទៅរកលក្ខខណ្ឌស្ងប់ស្ងាត់ជាងមុន។ ការផ្លាស់ទីបែបនេះ អាចបង្ហាញកិច្ចការដែលនៅសល់។"
+      },
+      "challenge": {
+        "en": "Be careful of carrying unresolved debts, disputes or weak processes into the new phase. Old risks can follow you across.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការយកបំណុល ជម្លោះ ឬដំណើរការខ្សោយដែលមិនទាន់ដោះស្រាយ ចូលទៅក្នុងដំណាក់កាលថ្មី។ ហានិភ័យចាស់ អាចតាមអ្នកឆ្លងកាត់។"
+      },
+      "outcome": {
+        "en": "Resolving old issues during the transition could give the business a clean start. Calmer waters may be ahead.",
+        "km": "ការដោះស្រាយបញ្ហាចាស់ៗ ក្នុងអំឡុងពេលផ្លាស់ប្តូរ អាចផ្តល់ការចាប់ផ្តើមស្អាតដល់អាជីវកម្ម។ ទឹកស្ងប់ស្ងាត់ជាងមុន អាចស្ថិតនៅខាងមុខ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Something may not be what it seems, such as an employee, partner or supplier acting in their own interest. Trust may be misplaced.",
+        "km": "អ្វីមួយ ប្រហែលជាមិនដូចអ្វីដែលវាមើលទៅ ដូចជាបុគ្គលិក ដៃគូ ឬអ្នកផ្គត់ផ្គង់ ដែលធ្វើសកម្មភាពដើម្បីផលប្រយោជន៍ផ្ទាល់ខ្លួន។ ការទុកចិត្ត ប្រហែលជាត្រូវបានដាក់ខុសកន្លែង។"
+      },
+      "challenge": {
+        "en": "Guard against theft, fraud and data leaks by separating duties, checking records and limiting access. Trust, but verify.",
+        "km": "សូមការពារខ្លួនពីការលួច ការក្លែងបន្លំ និងការលេចធ្លាយទិន្នន័យ ដោយការបែងចែកភារកិច្ច ការពិនិត្យកំណត់ត្រា និងការកំណត់ការចូលប្រើ។ ទុកចិត្ត ប៉ុន្តែផ្ទៀងផ្ទាត់។"
+      },
+      "outcome": {
+        "en": "Good controls could catch dishonesty before it does serious harm. Vigilance may protect both money and reputation.",
+        "km": "ការត្រួតពិនិត្យល្អ អាចចាប់ភាពមិនស្មោះត្រង់ មុនពេលវាបង្កគ្រោះថ្នាក់ធ្ងន់ធ្ងរ។ ការប្រុងប្រយ័ត្ន អាចការពារទាំងប្រាក់ និងកេរ្តិ៍ឈ្មោះ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "The business may feel boxed in by debt, regulation or dependence on one client. Room to move may feel limited.",
+        "km": "អាជីវកម្មប្រហែលជាមានអារម្មណ៍ជាប់ក្នុងប្រអប់ ដោយបំណុល បទប្បញ្ញត្តិ ឬការពឹងផ្អែកលើអតិថិជនតែម្នាក់។ កន្លែងដើម្បីផ្លាស់ទី ប្រហែលជាមានអារម្មណ៍មានកំណត់។"
+      },
+      "challenge": {
+        "en": "Look out for assuming you have no options and accepting bad terms out of fear. An adviser may see a way out.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសន្មតថាអ្នកគ្មានជម្រើស ហើយទទួលយកលក្ខខណ្ឌមិនល្អ ដោយសារការភ័យខ្លាច។ ទីប្រឹក្សាម្នាក់ អាចមើលឃើញផ្លូវចេញ។"
+      },
+      "outcome": {
+        "en": "Seeking outside advice could reveal options you had not seen from inside. The constraints may loosen with one well-chosen step.",
+        "km": "ការស្វែងរកដំបូន្មានពីខាងក្រៅ អាចបង្ហាញជម្រើសដែលអ្នកមិនបានមើលឃើញពីខាងក្នុង។ ការរឹតត្បិត អាចធូរស្រាល ជាមួយជំហានដែលជ្រើសរើសបានល្អមួយ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about the business may be keeping you up, with fears about money, staff or the future. Stress may be high.",
+        "km": "ការព្រួយបារម្ភអំពីអាជីវកម្ម ប្រហែលជាកំពុងធ្វើឱ្យអ្នកដេកមិនលក់ ដោយការភ័យខ្លាចអំពីប្រាក់ បុគ្គលិក ឬអនាគត។ ភាពតានតឹង ប្រហែលជាខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Beware of fear-driven decisions, such as panic cuts or desperate deals. If stress affects your health, talk to a professional.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការសម្រេចចិត្តដែលជំរុញដោយការភ័យខ្លាច ដូចជាការកាត់បន្ថយដោយភ័យស្លន់ស្លោ ឬកិច្ចព្រមព្រៀងដោយអស់សង្ឃឹម។ ប្រសិនបើភាពតានតឹងប៉ះពាល់ដល់សុខភាពរបស់អ្នក សូមនិយាយជាមួយអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Listing each fear next to what you can do about it could shrink worry to a workable size. A calmer mind may protect the business better.",
+        "km": "ការរាយការភ័យខ្លាចនីមួយៗ នៅក្បែរអ្វីដែលអ្នកអាចធ្វើអំពីវា អាចបង្រួមការព្រួយបារម្ភឱ្យមានទំហំដែលអាចធ្វើការបាន។ ចិត្តស្ងប់ជាងមុន អាចការពារអាជីវកម្មបានល្អជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "The business may be at a low point, with a crisis or major loss hitting hard. Things may feel at their worst.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតនៅចំណុចទាប ដោយវិបត្តិ ឬការបាត់បង់ធំ វាយប្រហារយ៉ាងខ្លាំង។ អ្វីៗប្រហែលជាមានអារម្មណ៍អាក្រក់បំផុត។"
+      },
+      "challenge": {
+        "en": "Watch for desperate measures, such as risky loans or ignoring legal duties, to survive. Seek professional advice before acting.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះវិធានការដោយអស់សង្ឃឹម ដូចជាប្រាក់កម្ចីប្រថុយប្រថាន ឬការមិនអើពើនឹងកាតព្វកិច្ចផ្លូវច្បាប់ ដើម្បីរស់រាន។ សូមស្វែងរកដំបូន្មានវិជ្ជាជីវៈ មុនពេលធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "Facing the crisis with good advice could mark the start of a real recovery. The core that survives may prove the strongest part.",
+        "km": "ការប្រឈមមុខនឹងវិបត្តិ ជាមួយដំបូន្មានល្អ អាចជាការចាប់ផ្តើមនៃការស្តារឡើងវិញពិតប្រាកដ។ ស្នូលដែលរស់រាន អាចបង្ហាញថាជាផ្នែករឹងមាំបំផុត។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "The business may be alert and watchful, scanning the market for threats and asking sharp questions. Vigilance is a real strength.",
+        "km": "អាជីវកម្មប្រហែលជាភ្ញាក់រលឹក និងប្រុងប្រយ័ត្ន ដោយស្កេនទីផ្សាររកការគំរាមកំហែង និងសួរសំណួរមុតស្រួច។ ការប្រុងប្រយ័ត្ន គឺជាចំណុចខ្លាំងពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Be wary of acting on gossip or unverified reports about competitors or partners. Rumours can mislead.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើសកម្មភាពតាមការនិយាយដើម ឬរបាយការណ៍ដែលមិនបានផ្ទៀងផ្ទាត់ អំពីគូប្រជែង ឬដៃគូ។ ពាក្យចចាមអារ៉ាម អាចនាំឱ្យយល់ខុស។"
+      },
+      "outcome": {
+        "en": "Checking facts carefully could keep the business a step ahead of real threats. Reliable information may become your early warning.",
+        "km": "ការពិនិត្យការពិតដោយប្រុងប្រយ័ត្ន អាចរក្សាអាជីវកម្មឱ្យនៅមុខការគំរាមកំហែងពិតប្រាកដមួយជំហាន។ ព័ត៌មានដែលអាចទុកចិត្តបាន អាចក្លាយជាការព្រមានជាមុនរបស់អ្នក។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Decisions may be flying fast, with pressure to act before every fact is in. Speed itself may be the danger.",
+        "km": "ការសម្រេចចិត្ត ប្រហែលជាកំពុងហោះហើរយ៉ាងលឿន ដោយមានសម្ពាធឱ្យធ្វើសកម្មភាព មុនពេលការពិតនីមួយៗមកដល់។ ល្បឿនខ្លួនឯង ប្រហែលជាគ្រោះថ្នាក់។"
+      },
+      "challenge": {
+        "en": "Look out for signing, hiring or spending in a rush without checking. Urgency is a common trigger for costly mistakes.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចុះហត្ថលេខា ការជួលបុគ្គលិក ឬការចំណាយដោយប្រញាប់ប្រញាល់ ដោយមិនពិនិត្យ។ ភាពបន្ទាន់ គឺជាគន្លឹះទូទៅសម្រាប់កំហុសថ្លៃៗ។"
+      },
+      "outcome": {
+        "en": "Pausing to verify could turn urgency into wise, well-aimed action. Decisive moves backed by facts may succeed where rushed ones fail.",
+        "km": "ការផ្អាកដើម្បីផ្ទៀងផ្ទាត់ អាចបង្វែរភាពបន្ទាន់ទៅជាសកម្មភាពដ៏ឆ្លាតវៃ និងតម្រង់បានល្អ។ ការផ្លាស់ទីម៉ឺងម៉ាត់ ដែលគាំទ្រដោយការពិត អាចជោគជ័យ នៅកន្លែងដែលការផ្លាស់ទីប្រញាប់ប្រញាល់បរាជ័យ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear, unsentimental judgement may be guiding the business, shaped by hard experience. You may see its risks more plainly than others.",
+        "km": "ការវិនិច្ឆ័យច្បាស់លាស់ និងមិនជាប់អារម្មណ៍ ប្រហែលជាកំពុងណែនាំអាជីវកម្ម ដែលរៀបចំឡើងដោយបទពិសោធន៍លំបាក។ អ្នកប្រហែលជាមើលឃើញហានិភ័យរបស់វាច្បាស់ជាងអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Beware of becoming so guarded that you push away good partners or ideas. Caution can become isolation.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការក្លាយជាការពារខ្លួនខ្លាំងពេក រហូតអ្នករុញច្រានដៃគូ ឬគំនិតល្អៗចេញ។ ការប្រុងប្រយ័ត្ន អាចក្លាយជាភាពឯកោ។"
+      },
+      "outcome": {
+        "en": "Clear judgement with an open door could manage risk without missing opportunity. Balanced caution may protect the business well.",
+        "km": "ការវិនិច្ឆ័យច្បាស់លាស់ ជាមួយទ្វារបើកចំហ អាចគ្រប់គ្រងហានិភ័យ ដោយមិនខកខានឱកាស។ ការប្រុងប្រយ័ត្នមានតុល្យភាព អាចការពារអាជីវកម្មបានល្អ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Formal matters, such as contracts, regulations or legal obligations, may be shaping the business. Authority is needed.",
+        "km": "រឿងផ្លូវការ ដូចជាកិច្ចសន្យា បទប្បញ្ញត្តិ ឬកាតព្វកិច្ចផ្លូវច្បាប់ ប្រហែលជាកំពុងរៀបចំអាជីវកម្ម។ សិទ្ធិអំណាចត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Watch for signing or committing to anything you do not fully understand. A qualified lawyer or accountant can spot traps you might miss.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការចុះហត្ថលេខា ឬការប្តេជ្ញាលើអ្វីដែលអ្នកមិនយល់ទាំងស្រុង។ មេធាវី ឬគណនេយ្យករដែលមានលក្ខណៈសម្បត្តិ អាចមើលឃើញអន្ទាក់ដែលអ្នកអាចរំលង។"
+      },
+      "outcome": {
+        "en": "Sound, well-advised decisions could keep the business on safe legal ground. Good governance may build trust.",
+        "km": "ការសម្រេចចិត្តល្អ និងបានទទួលដំបូន្មានល្អ អាចរក្សាអាជីវកម្មឱ្យនៅលើដីច្បាប់ដែលមានសុវត្ថិភាព។ អភិបាលកិច្ចល្អ អាចកសាងការទុកចិត្ត។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A new opportunity may be on the table, such as a contract, investment or source of income. Fresh resources bring fresh responsibilities.",
+        "km": "ឱកាសថ្មីមួយ ប្រហែលជាស្ថិតនៅលើតុ ដូចជាកិច្ចសន្យា ការវិនិយោគ ឬប្រភពចំណូល។ ធនធានថ្មី នាំមកនូវការទទួលខុសត្រូវថ្មី។"
+      },
+      "challenge": {
+        "en": "Watch for counting income before it arrives, such as spending on a contract not yet signed. Promises are not cash.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការរាប់ចំណូល មុនពេលវាមកដល់ ដូចជាការចំណាយលើកិច្ចសន្យាដែលមិនទាន់ចុះហត្ថលេខា។ ការសន្យា មិនមែនជាសាច់ប្រាក់ទេ។"
+      },
+      "outcome": {
+        "en": "Securing new income before committing it could build a solid financial base. A well-handled opportunity may grow steadily.",
+        "km": "ការធានាចំណូលថ្មី មុនពេលប្តេជ្ញាវា អាចកសាងមូលដ្ឋានហិរញ្ញវត្ថុរឹងមាំ។ ឱកាសដែលដោះស្រាយបានល្អ អាចរីកចម្រើនដោយនឹងនរ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "The business may be juggling cash flow, with payments in and out needing constant balancing. Timing of money matters.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងចាប់ផ្តួលលំហូរសាច់ប្រាក់ ដោយការទូទាត់ចូល និងចេញ ត្រូវការការធ្វើឱ្យមានតុល្យភាពជានិច្ច។ ការកំណត់ពេលនៃប្រាក់ មានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Be wary of customers paying late while your own bills fall due. A cash gap can sink a profitable business.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះអតិថិជនបង់ប្រាក់យឺត ខណៈវិក្កយបត្រផ្ទាល់ខ្លួនរបស់អ្នកដល់កំណត់។ ចន្លោះសាច់ប្រាក់ អាចធ្វើឱ្យអាជីវកម្មមានប្រាក់ចំណេញលិច។"
+      },
+      "outcome": {
+        "en": "Tracking cash flow closely and chasing payments could keep the business steady. Good balance may prevent crises.",
+        "km": "ការតាមដានលំហូរសាច់ប្រាក់យ៉ាងជិតស្និទ្ធ និងការដេញតាមការទូទាត់ អាចរក្សាអាជីវកម្មឱ្យនឹងនរ។ តុល្យភាពល្អ អាចការពារវិបត្តិ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Teamwork and skilled people may be central to how the business delivers. Collaboration is a strength.",
+        "km": "ការងារជាក្រុម និងមនុស្សដែលមានជំនាញ ប្រហែលជាចំណុចកណ្តាលនៃរបៀបដែលអាជីវកម្មផ្តល់សេវា។ កិច្ចសហការ គឺជាចំណុចខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Look out for key knowledge sitting with one person, or roles so unclear that tasks fall through the gaps. Both are hidden risks.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះចំណេះដឹងសំខាន់ៗដែលនៅជាមួយមនុស្សតែម្នាក់ ឬតួនាទីមិនច្បាស់លាស់ រហូតកិច្ចការធ្លាក់តាមចន្លោះ។ ទាំងពីរគឺជាហានិភ័យលាក់កំបាំង។"
+      },
+      "outcome": {
+        "en": "Clear roles and shared knowledge could make the team resilient to change. Good collaboration may keep quality high.",
+        "km": "តួនាទីច្បាស់លាស់ និងចំណេះដឹងរួមគ្នា អាចធ្វើឱ្យក្រុមការងារធន់នឹងការផ្លាស់ប្តូរ។ កិច្ចសហការល្អ អាចរក្សាគុណភាពឱ្យខ្ពស់។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Reserves may be guarded closely, with spending held back wherever possible. Tight purse strings can hide their own risks.",
+        "km": "ទុនបម្រុង ប្រហែលជាត្រូវបានការពារយ៉ាងជិតស្និទ្ធ ដោយការចំណាយត្រូវបានទប់នៅគ្រប់កន្លែងដែលអាចធ្វើបាន។ ការរឹតបន្តឹងកាបូប អាចលាក់ហានិភ័យរបស់វាផ្ទាល់។"
+      },
+      "challenge": {
+        "en": "Beware of underinvesting in maintenance, safety or skills to save money. Neglect can cost more than it saves.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការវិនិយោគតិចពេកលើការថែទាំ សុវត្ថិភាព ឬជំនាញ ដើម្បីសន្សំប្រាក់។ ការធ្វេសប្រហែស អាចចំណាយច្រើនជាងអ្វីដែលវាសន្សំ។"
+      },
+      "outcome": {
+        "en": "Spending wisely on what protects the business could keep it secure. Balanced caution may serve you well.",
+        "km": "ការចំណាយដោយឆ្លាតវៃលើអ្វីដែលការពារអាជីវកម្ម អាចរក្សាវាឱ្យមានសុវត្ថិភាព។ ការប្រុងប្រយ័ត្នមានតុល្យភាព អាចបម្រើអ្នកបានល្អ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "The business may be under financial strain, with tight cash, falling sales or rising costs. Hardship is real.",
+        "km": "អាជីវកម្មប្រហែលជាស្ថិតក្រោមសម្ពាធហិរញ្ញវត្ថុ ដោយសាច់ប្រាក់តឹងតែង ការលក់ធ្លាក់ចុះ ឬថ្លៃដើមកើនឡើង។ ការលំបាកគឺពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Watch for hiding problems from lenders, suppliers or staff until the damage is done. Honest talks while there is still room often bring more support.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការលាក់បញ្ហាពីអ្នកឱ្យខ្ចី អ្នកផ្គត់ផ្គង់ ឬបុគ្គលិក រហូតដល់ការខូចខាតកើតឡើង។ ការនិយាយដោយស្មោះត្រង់ ខណៈនៅមានកន្លែង ជារឿយៗនាំមកនូវការគាំទ្រច្រើនជាងមុន។"
+      },
+      "outcome": {
+        "en": "Asking for support and protecting your best customers could carry the business through the strain. Stability may return in stages.",
+        "km": "ការសុំការគាំទ្រ និងការការពារអតិថិជនល្អបំផុតរបស់អ្នក អាចនាំអាជីវកម្មឆ្លងកាត់សម្ពាធ។ ស្ថិរភាព អាចត្រឡប់មកវិញជាដំណាក់កាល។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Loans, customer credit or outside investment may be moving money in and out of the business. What is owed both ways needs watching.",
+        "km": "ប្រាក់កម្ចី ឥណទានអតិថិជន ឬការវិនិយោគពីខាងក្រៅ ប្រហែលជាកំពុងផ្លាស់ទីប្រាក់ចូល និងចេញពីអាជីវកម្ម។ អ្វីដែលជំពាក់ទាំងសងខាង ត្រូវការការតាមដាន។"
+      },
+      "challenge": {
+        "en": "Be careful of extending credit to customers who may not repay, or borrowing on terms you cannot meet. Bad debt is a quiet risk.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្តល់ឥណទានដល់អតិថិជនដែលប្រហែលជាមិនសង ឬការខ្ចីប្រាក់លើលក្ខខណ្ឌដែលអ្នកមិនអាចបំពេញ។ បំណុលអាក្រក់ គឺជាហានិភ័យស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Clear credit rules and fair terms could protect cash flow and relationships. Balanced exchange may build trust.",
+        "km": "ច្បាប់ឥណទានច្បាស់លាស់ និងលក្ខខណ្ឌយុត្តិធម៌ អាចការពារលំហូរសាច់ប្រាក់ និងទំនាក់ទំនង។ ការផ្លាស់ប្តូរមានតុល្យភាព អាចកសាងការទុកចិត្ត។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "The business may be waiting for investments of time or money to pay off, with returns still uncertain. Cash is tied up in the wait.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងរង់ចាំការវិនិយោគពេលវេលា ឬប្រាក់ ឱ្យទទួលបានផល ដោយផលត្រឡប់នៅតែមិនប្រាកដ។ ប្រាក់ត្រូវបានជាប់ចំណង។"
+      },
+      "challenge": {
+        "en": "Look out for continuing to fund something that is not working because so much has already been spent. Sunk costs can trap you.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការបន្តផ្តល់មូលនិធិដល់អ្វីមួយដែលមិនដំណើរការ ដោយសារបានចំណាយច្រើនរួចហើយ។ ថ្លៃដើមដែលបានលិច អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់។"
+      },
+      "outcome": {
+        "en": "Reviewing investments honestly could show which to keep and which to stop. Clear judgement may protect resources.",
+        "km": "ការពិនិត្យការវិនិយោគដោយស្មោះត្រង់ អាចបង្ហាញថាមួយណាត្រូវរក្សា ហើយមួយណាត្រូវបញ្ឈប់។ ការវិនិច្ឆ័យច្បាស់លាស់ អាចការពារធនធាន។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "The business may be built on careful, skilled work and attention to detail. Quality is a strength.",
+        "km": "អាជីវកម្មប្រហែលជាត្រូវបានកសាងលើការងារប្រុងប្រយ័ត្ន និងមានជំនាញ និងការយកចិត្តទុកដាក់លើព័ត៌មានលម្អិត។ គុណភាព គឺជាចំណុចខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Beware of overwork and fatigue causing mistakes, injuries or burnout on the shop floor. Quality depends on rested, safe people.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វើការហួសកម្លាំង និងភាពអស់កម្លាំង ដែលបង្កកំហុស របួស ឬការអស់កម្លាំងនៅកន្លែងការងារ។ គុណភាព អាស្រ័យលើមនុស្សដែលបានសម្រាក និងមានសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Protecting the people who do the work could keep quality and safety high. Care may sustain excellence.",
+        "km": "ការការពារមនុស្សដែលធ្វើការងារ អាចរក្សាគុណភាព និងសុវត្ថិភាពឱ្យខ្ពស់។ ការយកចិត្តទុកដាក់ អាចរក្សាភាពល្អឥតខ្ចោះ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "The business may be comfortable and self-sufficient, with reserves and steady income. Independence is a strength.",
+        "km": "អាជីវកម្មប្រហែលជាស្រួល និងពឹងលើខ្លួនឯងបាន ដោយមានទុនបម្រុង និងចំណូលនឹងនរ។ ឯករាជ្យភាព គឺជាចំណុចខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Watch for complacency, such as letting insurance lapse or costs creep up unnoticed. Comfort can dull vigilance.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធ្វេសប្រហែស ដូចជាការឱ្យការធានារ៉ាប់រងផុតកំណត់ ឬថ្លៃដើមកើនឡើងបន្តិចម្តងៗដោយមិនកត់សម្គាល់។ ភាពស្រួល អាចធ្វើឱ្យការប្រុងប្រយ័ត្នរិល។"
+      },
+      "outcome": {
+        "en": "Staying alert while comfortable could keep the business secure and independent. Regular reviews may protect what you built.",
+        "km": "ការនៅតែប្រុងប្រយ័ត្ន ខណៈស្រួល អាចរក្សាអាជីវកម្មឱ្យមានសុវត្ថិភាព និងឯករាជ្យ។ ការពិនិត្យជាទៀងទាត់ អាចការពារអ្វីដែលអ្នកបានកសាង។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "The business may involve family ownership, property or assets built up over generations. Legacy and inheritance matter here.",
+        "km": "អាជីវកម្មប្រហែលជាពាក់ព័ន្ធនឹងកម្មសិទ្ធិគ្រួសារ អចលនទ្រព្យ ឬទ្រព្យសម្បត្តិដែលកសាងឡើងឆ្លងកាត់ជំនាន់។ កេរដំណែល និងមរតក មានសារៈសំខាន់នៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Be wary of unclear ownership, missing wills or succession plans, which can lead to family disputes. Seek qualified legal advice.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះកម្មសិទ្ធិមិនច្បាស់លាស់ ការខ្វះបណ្តាំ ឬផែនការស្នងតំណែង ដែលអាចនាំទៅរកជម្លោះគ្រួសារ។ សូមស្វែងរកដំបូន្មានផ្លូវច្បាប់ពីអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Clear, documented arrangements could protect both the business and family relationships. Planning may preserve what generations built.",
+        "km": "ការរៀបចំច្បាស់លាស់ និងមានឯកសារ អាចការពារទាំងអាជីវកម្ម និងទំនាក់ទំនងគ្រួសារ។ ការរៀបចំផែនការ អាចរក្សាអ្វីដែលជំនាន់ជាច្រើនបានកសាង។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "The business may be learning new skills or methods, with a careful, studious approach. Growth through learning is under way.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងរៀនជំនាញ ឬវិធីសាស្ត្រថ្មី ដោយវិធីសាស្ត្រប្រុងប្រយ័ត្ន និងឧស្សាហ៍សិក្សា។ ការរីកចម្រើនតាមរយៈការរៀន កំពុងដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Look out for inexperience in areas like tax, contracts or data protection, where mistakes are costly. Get expert help where you lack knowledge.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការខ្វះបទពិសោធន៍ក្នុងវិស័យដូចជាពន្ធ កិច្ចសន្យា ឬការការពារទិន្នន័យ ដែលកំហុសមានតម្លៃថ្លៃ។ សូមទទួលជំនួយពីអ្នកជំនាញ នៅកន្លែងដែលអ្នកខ្វះចំណេះដឹង។"
+      },
+      "outcome": {
+        "en": "Learning while getting expert support could protect the business from beginner's mistakes. Knowledge may become a shield.",
+        "km": "ការរៀន ខណៈទទួលបានការគាំទ្រពីអ្នកជំនាញ អាចការពារអាជីវកម្មពីកំហុសរបស់អ្នកចាប់ផ្តើមដំបូង។ ចំណេះដឹង អាចក្លាយជារបាំង។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "The business may run on steady routines and careful, reliable processes that rarely change. Habits may be doing a lot of the work.",
+        "km": "អាជីវកម្មប្រហែលជាដំណើរការលើទម្លាប់នឹងនរ និងដំណើរការប្រុងប្រយ័ត្ន និងអាចទុកចិត្តបាន ដែលកម្រផ្លាស់ប្តូរ។ ទម្លាប់ ប្រហែលជាកំពុងធ្វើការងារច្រើន។"
+      },
+      "challenge": {
+        "en": "Beware of routines that no one questions, which can hide outdated risks such as old software or expired contracts. Review regularly.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះទម្លាប់ដែលគ្មាននរណាម្នាក់សួរដេញដោល ដែលអាចលាក់ហានិភ័យហួសសម័យ ដូចជាកម្មវិធីចាស់ ឬកិច្ចសន្យាផុតកំណត់។ សូមពិនិត្យជាទៀងទាត់។"
+      },
+      "outcome": {
+        "en": "Checking routines against current risks could keep the business safe and current. Reliable systems may keep earning trust.",
+        "km": "ការពិនិត្យទម្លាប់ ធៀបនឹងហានិភ័យបច្ចុប្បន្ន អាចរក្សាអាជីវកម្មឱ្យមានសុវត្ថិភាព និងទាន់សម័យ។ ប្រព័ន្ធដែលអាចទុកចិត្តបាន អាចបន្តទទួលបានការទុកចិត្ត។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "The business may be run with practical care, looking after people and resources well. Good sense guides it.",
+        "km": "អាជីវកម្មប្រហែលជាត្រូវបានដំណើរការដោយការយកចិត្តទុកដាក់ជាក់ស្តែង ដោយថែរក្សាមនុស្ស និងធនធានបានល្អ។ សុភវិនិច្ឆ័យ ណែនាំវា។"
+      },
+      "challenge": {
+        "en": "Watch for the owner carrying too much, which can create a single point of failure. Build backup for yourself.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះម្ចាស់ដែលលីច្រើនពេក ដែលអាចបង្កើតចំណុចបរាជ័យតែមួយ។ សូមកសាងការបម្រុងសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Sharing the load and training a deputy could make the business more resilient. Practical care may keep it steady through surprises.",
+        "km": "ការចែករំលែកបន្ទុក និងការបណ្តុះបណ្តាលអនុប្រធាន អាចធ្វើឱ្យអាជីវកម្មធន់ជាងមុន។ ការយកចិត្តទុកដាក់ជាក់ស្តែង អាចរក្សាវាឱ្យនឹងនរ ឆ្លងកាត់ការភ្ញាក់ផ្អើល។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "The business may be large and established, with real assets and a respected name. Size brings its own exposures.",
+        "km": "អាជីវកម្មប្រហែលជាធំ និងបានបង្កើតឡើង ដោយមានទ្រព្យសម្បត្តិពិតប្រាកដ និងឈ្មោះដែលត្រូវបានគោរព។ ទំហំ នាំមកនូវការប្រឈមរបស់វាផ្ទាល់។"
+      },
+      "challenge": {
+        "en": "Be careful of personal guarantees, risky investments or assuming size makes you safe. Large businesses can fall too.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការធានាផ្ទាល់ខ្លួន ការវិនិយោគប្រថុយប្រថាន ឬការសន្មតថាទំហំធ្វើឱ្យអ្នកមានសុវត្ថិភាព។ អាជីវកម្មធំៗ ក៏អាចដួលដែរ។"
+      },
+      "outcome": {
+        "en": "Prudent stewardship could keep the business strong, secure and respected. Experience may guard against the complacency success can breed.",
+        "km": "ការគ្រប់គ្រងដោយប្រុងប្រយ័ត្ន អាចរក្សាអាជីវកម្មឱ្យរឹងមាំ មានសុវត្ថិភាព និងត្រូវបានគោរព។ បទពិសោធន៍ អាចការពារពីការធ្វេសប្រហែសដែលភាពជោគជ័យអាចបង្កើត។"
+      }
+    }
+  }
+}
