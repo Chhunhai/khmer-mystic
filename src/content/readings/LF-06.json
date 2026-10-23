@@ -1,0 +1,1097 @@
+{
+  "questionId": "LF-06",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Your situation is at an early, open stage, and much is still undecided. You are free to shape it, which is both exciting and uncertain.",
+        "km": "ស្ថានភាពរបស់អ្នកស្ថិតនៅដំណាក់កាលដំបូង និងបើកចំហ ហើយអ្វីៗជាច្រើននៅមិនទាន់សម្រេច។ អ្នកមានសេរីភាពក្នុងការរៀបចំវា ដែលទាំងគួរឱ្យរំភើប និងមិនប្រាកដប្រជា។"
+      },
+      "challenge": {
+        "en": "A careless leap could turn a promising start into a stumble. Look at the risks before you commit fully.",
+        "km": "ការលោតដោយមិនប្រុងប្រយ័ត្ន អាចប្រែការចាប់ផ្តើមដ៏មានសក្តានុពល ឱ្យទៅជាការជំពប់ដួល។ សូមមើលហានិភ័យ មុននឹងប្តេជ្ញាទាំងស្រុង។"
+      },
+      "outcome": {
+        "en": "This situation is likely to lead to a fresh start rather than a final ending. Approached with courage and some care, it could become a rewarding adventure.",
+        "km": "ស្ថានភាពនេះទំនងជានាំទៅរកការចាប់ផ្តើមថ្មី ជាជាងការបញ្ចប់ចុងក្រោយ។ ប្រសិនបើប្រឈមដោយភាពក្លាហាន និងការប្រុងប្រយ័ត្នខ្លះ វាអាចក្លាយជាដំណើរផ្សងព្រេងដ៏មានតម្លៃ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You have more control over this situation than you may think. Your skills and resources are already in place.",
+        "km": "អ្នកមានសមត្ថភាពគ្រប់គ្រងស្ថានភាពនេះច្រើនជាងអ្វីដែលអ្នកគិត។ ជំនាញ និងធនធានរបស់អ្នក មានរួចជាស្រេចហើយ។"
+      },
+      "challenge": {
+        "en": "Spreading your effort too widely could weaken the result. Focus your energy on what will make the biggest difference.",
+        "km": "ការបែងចែកការខិតខំទូលាយពេក អាចធ្វើឱ្យលទ្ធផលចុះខ្សោយ។ សូមផ្តោតថាមពលរបស់អ្នកលើអ្វីដែលអាចធ្វើឱ្យមានភាពខុសគ្នាធំបំផុត។"
+      },
+      "outcome": {
+        "en": "The likely outcome depends on action, and focused effort could bring a clear success. What you do with your skills may decide how well things turn out.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង អាស្រ័យលើសកម្មភាព ហើយការខិតខំដោយផ្តោតអារម្មណ៍ អាចនាំមកនូវជោគជ័យច្បាស់លាស់។ អ្វីដែលអ្នកធ្វើជាមួយជំនាញរបស់អ្នក អាចសម្រេចថាអ្វីៗនឹងល្អប៉ុណ្ណា។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Not everything about this situation is visible yet. Something important may still be hidden or unspoken.",
+        "km": "មិនមែនអ្វីៗទាំងអស់អំពីស្ថានភាពនេះ អាចមើលឃើញនៅឡើយទេ។ អ្វីមួយសំខាន់ ប្រហែលជានៅលាក់កំបាំង ឬមិនទាន់បាននិយាយ។"
+      },
+      "challenge": {
+        "en": "Deciding before the full picture appears could lead you astray. Watch, listen and trust your quiet instincts.",
+        "km": "ការសម្រេចចិត្តមុនពេលឃើញរូបភាពទាំងមូល អាចនាំអ្នកវង្វេង។ សូមសង្កេត ស្តាប់ និងទុកចិត្តលើវិចារណញាណដ៏ស្ងប់ស្ងាត់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "This situation is likely to become clearer slowly, as hidden facts come to light. Patience could lead you to a wiser result than a rushed one.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងច្បាស់ឡើងបន្តិចម្តងៗ នៅពេលការពិតដែលលាក់កំបាំងលេចចេញមក។ ការអត់ធ្មត់ អាចនាំអ្នកទៅរកលទ្ធផលដែលឈ្លាសវៃជាងការប្រញាប់ប្រញាល់។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Your situation is growing, and the care you have put in is starting to show. Things are fertile and full of potential.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងរីកចម្រើន ហើយការយកចិត្តទុកដាក់ដែលអ្នកបានផ្តល់ កំពុងចាប់ផ្តើមបង្ហាញផល។ អ្វីៗពោរពេញដោយជីជាតិ និងសក្តានុពល។"
+      },
+      "challenge": {
+        "en": "Neglecting your own needs while tending everything else could slow growth. Keep some care for yourself.",
+        "km": "ការភ្លេចតម្រូវការផ្ទាល់ខ្លួន ខណៈថែរក្សាអ្វីៗផ្សេងទៀត អាចធ្វើឱ្យការរីកចម្រើនយឺត។ សូមរក្សាការថែទាំខ្លះសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "The likely outcome is growth and abundance, if you keep nurturing what you have started. Results may come naturally, like a harvest after steady care.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការរីកចម្រើន និងភាពបរិបូរណ៍ ប្រសិនបើអ្នកបន្តថែរក្សាអ្វីដែលអ្នកបានចាប់ផ្តើម។ លទ្ធផលអាចមកដល់ដោយធម្មជាតិ ដូចការប្រមូលផលក្រោយការថែទាំជាប់លាប់។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Your situation needs structure and a steady hand. Clear rules and responsibility are what hold it together.",
+        "km": "ស្ថានភាពរបស់អ្នកត្រូវការរបៀបរៀបរយ និងដៃដ៏នឹងនរ។ ច្បាប់ច្បាស់លាស់ និងការទទួលខុសត្រូវ គឺជាអ្វីដែលធ្វើឱ្យវារឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Trying to control every detail could make others resist. Lead firmly but leave room for cooperation.",
+        "km": "ការព្យាយាមគ្រប់គ្រងគ្រប់ចំណុចលម្អិត អាចធ្វើឱ្យអ្នកដទៃប្រឆាំង។ សូមដឹកនាំដោយរឹងមាំ ប៉ុន្តែទុកកន្លែងសម្រាប់កិច្ចសហការ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to settle into something stable and well organised. A firm plan could give you lasting security and authority.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងស្ងប់ទៅជាអ្វីមួយដែលមានស្ថិរភាព និងរៀបចំបានល្អ។ ផែនការដ៏រឹងមាំ អាចផ្តល់ឱ្យអ្នកនូវសុវត្ថិភាព និងអំណាចយូរអង្វែង។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Your situation is shaped by tradition, rules or the advice of others. Established ways are playing a strong role.",
+        "km": "ស្ថានភាពរបស់អ្នក ត្រូវបានកំណត់ដោយប្រពៃណី ច្បាប់ ឬដំបូន្មានរបស់អ្នកដទៃ។ របៀបដែលធ្លាប់មាន កំពុងដើរតួនាទីយ៉ាងសំខាន់។"
+      },
+      "challenge": {
+        "en": "Following the expected path without question could lead to a result that does not suit you. Check that the rules fit your life.",
+        "km": "ការដើរតាមផ្លូវដែលគេរំពឹងដោយមិនសួរ អាចនាំទៅរកលទ្ធផលដែលមិនសមនឹងអ្នក។ សូមពិនិត្យថាច្បាប់ទាំងនោះសមនឹងជីវិតរបស់អ្នកឬទេ។"
+      },
+      "outcome": {
+        "en": "The likely outcome follows a familiar, accepted path, perhaps with guidance from someone experienced. It could bring stability and approval, if it also fits your values.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង ដើរតាមផ្លូវដែលធ្លាប់ស្គាល់ និងទទួលយក ប្រហែលជាមានការណែនាំពីអ្នកមានបទពិសោធន៍។ វាអាចនាំមកនូវស្ថិរភាព និងការយល់ព្រម ប្រសិនបើវាក៏ស្របនឹងគុណតម្លៃរបស់អ្នកដែរ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Your situation centres on a choice or a relationship that matters deeply. Your values are being tested.",
+        "km": "ស្ថានភាពរបស់អ្នក ផ្តោតលើជម្រើស ឬទំនាក់ទំនងមួយដែលសំខាន់យ៉ាងជ្រៅ។ គុណតម្លៃរបស់អ្នកកំពុងត្រូវបានសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Avoiding the choice or trying to please everyone could leave things unresolved. Decide with your heart and your values.",
+        "km": "ការគេចពីជម្រើស ឬព្យាយាមផ្គាប់ចិត្តគ្រប់គ្នា អាចធ្វើឱ្យអ្វីៗនៅតែមិនទាន់ដោះស្រាយ។ សូមសម្រេចចិត្តតាមបេះដូង និងគុណតម្លៃរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "This situation is likely to resolve through a heartfelt choice that brings harmony. Choosing honestly could strengthen an important bond.",
+        "km": "ស្ថានភាពនេះទំនងជាត្រូវបានដោះស្រាយ តាមរយៈជម្រើសដែលចេញពីចិត្ត និងនាំមកនូវភាពសុខដុម។ ការជ្រើសរើសដោយស្មោះត្រង់ អាចពង្រឹងចំណងដ៏សំខាន់មួយ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Your situation is moving, and your determination is driving it. You are in a position to steer it.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងដំណើរការ ហើយការតាំងចិត្តរបស់អ្នក កំពុងជំរុញវា។ អ្នកស្ថិតក្នុងជំហរដែលអាចដឹកនាំវាបាន។"
+      },
+      "challenge": {
+        "en": "Competing goals could pull the situation in two directions. Bring your aims together before pushing harder.",
+        "km": "គោលដៅដែលប្រជែងគ្នា អាចទាញស្ថានភាពទៅពីរទិស។ សូមបង្រួបបង្រួមគោលដៅរបស់អ្នក មុននឹងរុញខ្លាំងជាងនេះ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a win you earn through focus and willpower. Steering steadily could carry you past the obstacles in your way.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺជ័យជម្នះដែលអ្នកទទួលបានតាមរយៈការផ្តោតអារម្មណ៍ និងឆន្ទៈ។ ការដឹកនាំដោយនឹងនរ អាចនាំអ្នកឆ្លងកាត់ឧបសគ្គនៅលើផ្លូវ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Your situation calls for patience and quiet courage. You are handling more than others may realise.",
+        "km": "ស្ថានភាពរបស់អ្នក ទាមទារការអត់ធ្មត់ និងភាពក្លាហានដ៏ស្ងប់ស្ងាត់។ អ្នកកំពុងទ្រាំទ្រច្រើនជាងអ្វីដែលអ្នកដទៃប្រហែលជាដឹង។"
+      },
+      "challenge": {
+        "en": "Losing your temper or forcing things could make the situation worse. Gentle persistence works better here.",
+        "km": "ការខឹងសម្បារ ឬការបង្ខំអ្វីៗ អាចធ្វើឱ្យស្ថានភាពកាន់តែអាក្រក់។ ការតស៊ូដោយទន់ភ្លន់ មានប្រសិទ្ធភាពជាងនៅទីនេះ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to turn out well through calm strength rather than force. Your patience could win respect and a lasting solution.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងចេញមកល្អ តាមរយៈកម្លាំងដ៏ស្ងប់ស្ងាត់ ជាជាងការបង្ខំ។ ការអត់ធ្មត់របស់អ្នក អាចទទួលបានការគោរព និងដំណោះស្រាយយូរអង្វែង។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Your situation calls for reflection and some distance. You may be stepping back to understand it better.",
+        "km": "ស្ថានភាពរបស់អ្នក ទាមទារការពិចារណា និងការដកខ្លួនបន្តិច។ អ្នកប្រហែលជាកំពុងដកថយ ដើម្បីយល់វាឱ្យបានច្បាស់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Isolating yourself could mean missing help that would change the result. Share your thoughts with someone wise.",
+        "km": "ការនៅដាច់ដោយឡែក អាចធ្វើឱ្យអ្នករំលងជំនួយដែលអាចផ្លាស់ប្តូរលទ្ធផល។ សូមចែករំលែកគំនិតរបស់អ្នកជាមួយនរណាម្នាក់ដែលមានប្រាជ្ញា។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a deeper understanding that guides your next move. The answer may come from within rather than from outside.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការយល់ដឹងកាន់តែស៊ីជម្រៅ ដែលណែនាំជំហានបន្ទាប់របស់អ្នក។ ចម្លើយអាចមកពីខាងក្នុង ជាជាងពីខាងក្រៅ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Your situation is in motion, with circumstances shifting around you. Some of what happens is beyond your control.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងប្រែប្រួល ដោយកាលៈទេសៈកំពុងផ្លាស់ប្តូរនៅជុំវិញអ្នក។ អ្វីខ្លះដែលកើតឡើង គឺហួសពីការគ្រប់គ្រងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Resisting change could leave you unprepared when things turn. Stay flexible and ready to respond.",
+        "km": "ការប្រឆាំងនឹងការផ្លាស់ប្តូរ អាចធ្វើឱ្យអ្នកមិនបានត្រៀមខ្លួន នៅពេលអ្វីៗប្រែប្រួល។ សូមរក្សាភាពបត់បែន និងត្រៀមឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "This situation is likely to take a turn, quite possibly in your favour. Being ready to adapt could help you make the most of good timing.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងប្រែប្រួល ហើយអាចប្រែមកខាងអ្នក។ ការត្រៀមខ្លួនសម្របខ្លួន អាចជួយអ្នកប្រើប្រាស់ពេលវេលាល្អឱ្យបានច្រើនបំផុត។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Your situation turns on fairness, facts and consequences. What has been done before is shaping what happens next.",
+        "km": "ស្ថានភាពរបស់អ្នក អាស្រ័យលើភាពយុត្តិធម៌ ការពិត និងផលវិបាក។ អ្វីដែលបានធ្វើពីមុន កំពុងកំណត់អ្វីដែលកើតឡើងបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Bias or missing facts could lead to an unfair result. Look at every side honestly.",
+        "km": "ការលម្អៀង ឬការខ្វះការពិត អាចនាំទៅរកលទ្ធផលដែលមិនយុត្តិធម៌។ សូមមើលគ្រប់ជ្រុងដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "The likely outcome is fair and balanced, reflecting the choices that led to it. Honesty could bring a result you can accept with a clear conscience.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺយុត្តិធម៌ និងមានតុល្យភាព ដោយឆ្លុះបញ្ចាំងពីជម្រើសដែលនាំទៅរកវា។ ភាពស្មោះត្រង់ អាចនាំមកនូវលទ្ធផលដែលអ្នកអាចទទួលយកដោយចិត្តស្អាត។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Your situation feels stuck or on hold. The pause is frustrating but may hold a lesson.",
+        "km": "ស្ថានភាពរបស់អ្នក ហាក់ដូចជាជាប់គាំង ឬកំពុងផ្អាក។ ការផ្អាកនេះធ្វើឱ្យអន្ទះអន្ទែង ប៉ុន្តែអាចមានមេរៀនមួយ។"
+      },
+      "challenge": {
+        "en": "Pushing harder in the same direction could keep things frozen. Try seeing the situation from a new angle.",
+        "km": "ការរុញខ្លាំងជាងមុនក្នុងទិសដដែល អាចធ្វើឱ្យអ្វីៗនៅតែកក។ សូមសាកមើលស្ថានភាពពីមុំថ្មី។"
+      },
+      "outcome": {
+        "en": "This situation is likely to move more slowly than you want, but a new perspective could unlock it. Letting go of one expectation may change everything.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងដើរយឺតជាងអ្វីដែលអ្នកចង់បាន ប៉ុន្តែទស្សនៈថ្មីមួយ អាចដោះសោវាបាន។ ការលែងប្រកាន់ការរំពឹងមួយ អាចផ្លាស់ប្តូរអ្វីៗទាំងអស់។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Your situation is at a point of transformation. Something is ending, even if it is not yet obvious.",
+        "km": "ស្ថានភាពរបស់អ្នក ស្ថិតនៅចំណុចនៃការប្រែប្រួលយ៉ាងជ្រៅ។ អ្វីមួយកំពុងបញ្ចប់ ទោះបីវាមិនទាន់ច្បាស់ក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Holding on to how things were could make the change harder. Allow what is finished to close.",
+        "km": "ការតោងជាប់នឹងរបៀបដែលអ្វីៗធ្លាប់មាន អាចធ្វើឱ្យការផ្លាស់ប្តូរកាន់តែពិបាក។ សូមអនុញ្ញាតឱ្យអ្វីដែលបានបញ្ចប់ បិទទៅ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a clear ending followed by a new beginning. What closes could make room for something better suited to you.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការបញ្ចប់ច្បាស់លាស់ ហើយបន្តដោយការចាប់ផ្តើមថ្មី។ អ្វីដែលបិទ អាចបើកកន្លែងសម្រាប់អ្វីដែលសមនឹងអ្នកជាងនេះ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Your situation is finding balance, though it needs patience. Different parts are slowly coming together.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងរកឃើញតុល្យភាព ទោះបីវាត្រូវការការអត់ធ្មត់ក៏ដោយ។ ផ្នែកផ្សេងៗកំពុងរួមគ្នាបន្តិចម្តងៗ។"
+      },
+      "challenge": {
+        "en": "Rushing or swinging to extremes could upset a fragile balance. Keep a moderate, steady pace.",
+        "km": "ការប្រញាប់ ឬការធ្វើហួសហេតុ អាចរំខានតុល្យភាពដែលនៅផុយស្រួយ។ សូមរក្សាល្បឿនមធ្យម និងនឹងនរ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to settle into a calm and healthy middle ground. Patience could bring a result that lasts.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងស្ងប់ទៅជាចំណុចកណ្តាលដ៏ស្ងប់ស្ងាត់ និងល្អ។ ការអត់ធ្មត់ អាចនាំមកនូវលទ្ធផលដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Your situation may be held in place by a habit, fear or dependency. You may feel less free than you would like.",
+        "km": "ស្ថានភាពរបស់អ្នក អាចត្រូវបានទប់ជាប់ដោយទម្លាប់ ការភ័យខ្លាច ឬការពឹងផ្អែក។ អ្នកប្រហែលជាមានសេរីភាពតិចជាងអ្វីដែលអ្នកចង់បាន។"
+      },
+      "challenge": {
+        "en": "Staying in a pattern that hurts you could keep the outcome unchanged. Name it and seek support to break it.",
+        "km": "ការនៅក្នុងលំនាំដែលធ្វើឱ្យអ្នកឈឺចាប់ អាចធ្វើឱ្យលទ្ធផលនៅដដែល។ សូមដាក់ឈ្មោះវា ហើយស្វែងរកការគាំទ្រដើម្បីបំបែកវា។"
+      },
+      "outcome": {
+        "en": "The likely outcome depends on whether you break free of what binds you. Taking even one step away from it could change the result for the better.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង អាស្រ័យលើថាតើអ្នករំដោះខ្លួនពីអ្វីដែលចងអ្នកបានឬអត់។ ការដើរចេញឆ្ងាយពីវាសូម្បីតែមួយជំហាន អាចផ្លាស់ប្តូរលទ្ធផលឱ្យប្រសើរឡើង។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Your situation is unsettled, and something that seemed solid may be shaking. Change may be arriving whether you want it or not.",
+        "km": "ស្ថានភាពរបស់អ្នកមិននឹងនរ ហើយអ្វីមួយដែលហាក់ដូចជារឹងមាំ អាចកំពុងរង្គោះរង្គើ។ ការផ្លាស់ប្តូរអាចកំពុងមកដល់ ទោះបីអ្នកចង់ ឬមិនចង់ក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Clinging to what is already breaking could make the fall harder. Protect what is essential and let the rest go.",
+        "km": "ការតោងជាប់នឹងអ្វីដែលកំពុងបាក់បែក អាចធ្វើឱ្យការដួលកាន់តែធ្ងន់។ សូមការពារអ្វីដែលចាំបាច់ ហើយដោះលែងអ្វីផ្សេងទៀត។"
+      },
+      "outcome": {
+        "en": "This situation is likely to go through a sudden shake-up before it settles. What falls away could make room to rebuild on firmer ground.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងឆ្លងកាត់ការរង្គោះរង្គើភ្លាមៗ មុននឹងស្ងប់ទៅវិញ។ អ្វីដែលធ្លាក់ចេញ អាចបើកកន្លែងដើម្បីកសាងឡើងវិញលើមូលដ្ឋានរឹងមាំជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Your situation is recovering, and hope is returning. Things may be gentler than they were.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងងើបឡើងវិញ ហើយក្តីសង្ឃឹមកំពុងត្រឡប់មកវិញ។ អ្វីៗអាចស្រាលជាងពីមុន។"
+      },
+      "challenge": {
+        "en": "Doubt could make you lose faith just as things improve. Trust the small signs of healing.",
+        "km": "ការសង្ស័យ អាចធ្វើឱ្យអ្នកបាត់ជំនឿ នៅពេលដែលអ្វីៗកំពុងប្រសើរឡើង។ សូមទុកចិត្តលើសញ្ញាតូចៗនៃការជាសះស្បើយ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is hopeful, with healing and renewed peace. Things could turn out better than you feared.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺពោរពេញដោយក្តីសង្ឃឹម ជាមួយការជាសះស្បើយ និងសន្តិភាពដែលកើតឡើងវិញ។ អ្វីៗអាចចេញមកល្អជាងអ្វីដែលអ្នកខ្លាច។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Your situation is unclear, and feelings may be clouding the facts. Not everything is as it appears.",
+        "km": "ស្ថានភាពរបស់អ្នកមិនច្បាស់លាស់ ហើយអារម្មណ៍អាចកំពុងបិទបាំងការពិត។ មិនមែនអ្វីៗទាំងអស់ដូចដែលវាមើលទៅនោះទេ។"
+      },
+      "challenge": {
+        "en": "Acting on fear or rumours could lead to a poor result. Check the facts before you react.",
+        "km": "ការធ្វើសកម្មភាពតាមការភ័យខ្លាច ឬពាក្យចចាមអារ៉ាម អាចនាំទៅរកលទ្ធផលមិនល្អ។ សូមពិនិត្យការពិត មុននឹងប្រតិកម្ម។"
+      },
+      "outcome": {
+        "en": "This situation is likely to stay uncertain for a while before the truth comes out. Moving carefully could help you avoid a mistake made in confusion.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនៅតែមិនច្បាស់មួយរយៈ មុនពេលការពិតលេចចេញមក។ ការដើរដោយប្រុងប្រយ័ត្ន អាចជួយអ្នកជៀសវាងកំហុសដែលធ្វើក្នុងពេលច្របូកច្របល់។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Your situation is bright, and things are going well. You have good energy and support behind you.",
+        "km": "ស្ថានភាពរបស់អ្នកភ្លឺស្វាង ហើយអ្វីៗកំពុងដំណើរការល្អ។ អ្នកមានថាមពលល្អ និងការគាំទ្រនៅពីក្រោយ។"
+      },
+      "challenge": {
+        "en": "Overconfidence could make you miss a small but important detail. Stay attentive even as things go well.",
+        "km": "ការជឿជាក់លើខ្លួនឯងហួសហេតុ អាចធ្វើឱ្យអ្នករំលងព័ត៌មានលម្អិតតូច ប៉ុន្តែសំខាន់។ សូមប្រុងប្រយ័ត្ន ទោះបីអ្វីៗកំពុងដំណើរការល្អក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is very positive, bringing success, joy and recognition. Things could turn out even better than you hoped.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺវិជ្ជមានខ្លាំង ដោយនាំមកនូវភាពជោគជ័យ សេចក្តីរីករាយ និងការទទួលស្គាល់។ អ្វីៗអាចចេញមកល្អជាងអ្វីដែលអ្នកសង្ឃឹមទៅទៀត។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Your situation has reached a point of reckoning. Past choices are coming back for review.",
+        "km": "ស្ថានភាពរបស់អ្នក បានឈានដល់ចំណុចនៃការវាយតម្លៃ។ ជម្រើសពីមុនកំពុងត្រឡប់មកវិញ ដើម្បីត្រូវបានពិនិត្យ។"
+      },
+      "challenge": {
+        "en": "Fear of judgement or harsh self-blame could keep you from moving on. Learn the lesson and accept a fresh start.",
+        "km": "ការខ្លាចការវិនិច្ឆ័យ ឬការបន្ទោសខ្លួនឯងយ៉ាងខ្លាំង អាចរារាំងអ្នកពីការបន្តទៅមុខ។ សូមរៀនមេរៀន ហើយទទួលយកការចាប់ផ្តើមថ្មី។"
+      },
+      "outcome": {
+        "en": "This situation is likely to end in a clear decision and a second chance. Answering honestly could bring renewal and a sense of release.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងបញ្ចប់ដោយការសម្រេចចិត្តច្បាស់លាស់ និងឱកាសទីពីរ។ ការឆ្លើយតបដោយស្មោះត្រង់ អាចនាំមកនូវការកើតឡើងវិញ និងអារម្មណ៍រួចផុត។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Your situation is nearly complete, with only final steps left. You can see how far things have come.",
+        "km": "ស្ថានភាពរបស់អ្នកជិតបញ្ចប់ហើយ ដោយនៅសល់តែជំហានចុងក្រោយ។ អ្នកអាចមើលឃើញថាអ្វីៗបានមកដល់ឆ្ងាយប៉ុណ្ណា។"
+      },
+      "challenge": {
+        "en": "Leaving loose ends could delay the finish. Give the last details the attention they need.",
+        "km": "ការទុករឿងតូចៗមិនទាន់ចប់ អាចពន្យារការបញ្ចប់។ សូមផ្តល់ការយកចិត្តទុកដាក់ដល់ព័ត៌មានលម្អិតចុងក្រោយ តាមដែលវាត្រូវការ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a successful completion and a real sense of fulfilment. This chapter could close well and open the way to the next.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការបញ្ចប់ដោយជោគជ័យ និងអារម្មណ៍នៃការសម្រេចបានពិតប្រាកដ។ ជំពូកនេះអាចបិទបានល្អ ហើយបើកផ្លូវទៅកាន់ជំពូកបន្ទាប់។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Your situation has fresh energy and a spark of something new. It is still at the starting point.",
+        "km": "ស្ថានភាពរបស់អ្នក មានថាមពលថ្មី និងផ្កាភ្លើងនៃអ្វីមួយថ្មី។ វានៅតែស្ថិតនៅចំណុចចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Losing momentum after the first burst could stall things. Turn enthusiasm into one concrete step.",
+        "km": "ការបាត់បង់សន្ទុះ បន្ទាប់ពីការផ្ទុះដំបូង អាចធ្វើឱ្យអ្វីៗជាប់គាំង។ សូមប្រែភាពរំភើបឱ្យទៅជាជំហានជាក់ស្តែងមួយ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to grow into something new and exciting if you act on it. A bold start could set things moving well.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងរីកធំទៅជាអ្វីមួយថ្មី និងគួរឱ្យរំភើប ប្រសិនបើអ្នកធ្វើសកម្មភាព។ ការចាប់ផ្តើមដ៏ក្លាហាន អាចធ្វើឱ្យអ្វីៗដំណើរការបានល្អ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Your situation is at a planning stage, with options in front of you. You are weighing where to go next.",
+        "km": "ស្ថានភាពរបស់អ្នក ស្ថិតនៅដំណាក់កាលរៀបផែនការ ដោយមានជម្រើសនៅចំពោះមុខ។ អ្នកកំពុងថ្លឹងថ្លែងថាគួរទៅទិសណាបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Planning without acting could keep the situation where it is. Choose a direction and take a first step.",
+        "km": "ការរៀបផែនការដោយមិនធ្វើសកម្មភាព អាចធ្វើឱ្យស្ថានភាពនៅដដែល។ សូមជ្រើសទិសដៅមួយ ហើយបោះជំហានដំបូង។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a wider set of possibilities once you commit to a plan. A well-chosen direction could take you further than expected.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺលទ្ធភាពកាន់តែទូលំទូលាយ នៅពេលអ្នកប្តេជ្ញាលើផែនការមួយ។ ទិសដៅដែលជ្រើសរើសបានល្អ អាចនាំអ្នកទៅឆ្ងាយជាងការរំពឹងទុក។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Your situation is expanding, and earlier efforts are starting to reach further. Results are on their way.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងពង្រីក ហើយការខិតខំពីមុន កំពុងចាប់ផ្តើមឈានទៅឆ្ងាយជាងមុន។ លទ្ធផលកំពុងធ្វើដំណើរមក។"
+      },
+      "challenge": {
+        "en": "Impatience could make you give up before results arrive. Keep watching and following up.",
+        "km": "ការមិនអត់ធ្មត់ អាចធ្វើឱ្យអ្នកបោះបង់ មុនពេលលទ្ធផលមកដល់។ សូមបន្តតាមដាន និងធ្វើការតាមដានបន្ត។"
+      },
+      "outcome": {
+        "en": "This situation is likely to grow beyond its current limits, bringing new chances. Patience could let your efforts reach their full potential.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងរីកធំហួសពីដែនកំណត់បច្ចុប្បន្ន ដោយនាំមកនូវឱកាសថ្មី។ ការអត់ធ្មត់ អាចឱ្យការខិតខំរបស់អ្នកឈានដល់សក្តានុពលពេញលេញ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Your situation has a stable, happy foundation. There is something here worth celebrating.",
+        "km": "ស្ថានភាពរបស់អ្នក មានមូលដ្ឋានដ៏រឹងមាំ និងរីករាយ។ មានអ្វីមួយនៅទីនេះដែលគួរអបអរ។"
+      },
+      "challenge": {
+        "en": "Taking a good situation for granted could weaken it. Keep appreciating and tending what works.",
+        "km": "ការចាត់ទុកស្ថានភាពល្អថាជារឿងធម្មតា អាចធ្វើឱ្យវាចុះខ្សោយ។ សូមបន្តដឹងគុណ និងថែរក្សាអ្វីដែលដំណើរការល្អ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a happy milestone, perhaps a celebration or a settled home. Things could come together in a way that feels secure.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺព្រឹត្តិការណ៍សំខាន់ដ៏រីករាយ ប្រហែលជាការអបអរ ឬផ្ទះដែលស្ងប់សុខ។ អ្វីៗអាចរួមគ្នាតាមរបៀបដែលនាំមកនូវសុវត្ថិភាព។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Your situation involves friction, competition or clashing opinions. Many voices are pulling different ways.",
+        "km": "ស្ថានភាពរបស់អ្នក ពាក់ព័ន្ធនឹងការប៉ះទង្គិច ការប្រកួតប្រជែង ឬមតិផ្ទុយគ្នា។ សំឡេងជាច្រើនកំពុងទាញទៅទិសផ្សេងៗ។"
+      },
+      "challenge": {
+        "en": "Getting caught in every argument could drain your energy. Focus on the shared goal behind the noise.",
+        "km": "ការជាប់ក្នុងគ្រប់ការប្រកែក អាចបង្ហូរថាមពលរបស់អ្នក។ សូមផ្តោតលើគោលដៅរួម នៅពីក្រោយភាពអ៊ូអរ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to stay competitive for a while, but it could sharpen you. Working through the friction may lead to a better solution.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនៅតែមានការប្រកួតប្រជែងមួយរយៈ ប៉ុន្តែវាអាចធ្វើឱ្យអ្នកមុតស្រួចជាងមុន។ ការដោះស្រាយការប៉ះទង្គិច អាចនាំទៅរកដំណោះស្រាយដែលល្អជាង។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Your situation is going well, and your efforts are being noticed. You have momentum and support.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងដំណើរការល្អ ហើយការខិតខំរបស់អ្នក កំពុងត្រូវបានគេកត់សម្គាល់។ អ្នកមានសន្ទុះ និងការគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Pride could create distance from people who helped you. Share credit as you move forward.",
+        "km": "មោទនភាព អាចបង្កើតគម្លាតពីមនុស្សដែលបានជួយអ្នក។ សូមចែករំលែកកិត្តិយស ខណៈពេលអ្នកបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is success and recognition for your efforts. A victory could boost your confidence and reputation.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺភាពជោគជ័យ និងការទទួលស្គាល់ចំពោះការខិតខំរបស់អ្នក។ ជ័យជម្នះមួយ អាចលើកកម្ពស់ទំនុកចិត្ត និងកេរ្តិ៍ឈ្មោះរបស់អ្នក។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Your situation requires you to defend your position. You may feel challenged from several sides.",
+        "km": "ស្ថានភាពរបស់អ្នក តម្រូវឱ្យអ្នកការពារជំហររបស់ខ្លួន។ អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានប្រជែងពីច្រើនទិស។"
+      },
+      "challenge": {
+        "en": "Fighting every challenge could exhaust you. Defend what truly matters and let small battles pass.",
+        "km": "ការប្រយុទ្ធគ្រប់ការប្រជែង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមការពារអ្វីដែលពិតជាសំខាន់ ហើយឱ្យការប្រយុទ្ធតូចៗកន្លងផុតទៅ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to test your resolve, but standing firm could keep what you value. Steady persistence may wear the opposition down.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងសាកល្បងការតាំងចិត្តរបស់អ្នក ប៉ុន្តែការឈររឹងមាំ អាចរក្សាអ្វីដែលអ្នកឱ្យតម្លៃ។ ការតស៊ូជាប់លាប់ អាចធ្វើឱ្យការប្រឆាំងថយកម្លាំង។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Your situation is moving fast, with news and changes coming quickly. There is little time to pause.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងដើរលឿន ដោយដំណឹង និងការផ្លាស់ប្តូរមកដល់យ៉ាងរហ័ស។ មានពេលតិចតួចសម្រាប់ផ្អាក។"
+      },
+      "challenge": {
+        "en": "Reacting too quickly could lead to avoidable mistakes. Keep up, but check before you commit.",
+        "km": "ការប្រតិកម្មលឿនពេក អាចនាំទៅរកកំហុសដែលអាចជៀសវាងបាន។ សូមរក្សាល្បឿន ប៉ុន្តែពិនិត្យមុននឹងប្តេជ្ញា។"
+      },
+      "outcome": {
+        "en": "The likely outcome could arrive faster than you expect, with things falling into place quickly. Clear communication may keep it on track.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង អាចមកដល់លឿនជាងអ្វីដែលអ្នករំពឹង ដោយអ្វីៗចូលរូបរាងយ៉ាងរហ័ស។ ការប្រាស្រ័យទាក់ទងច្បាស់លាស់ អាចរក្សាវាឱ្យនៅលើផ្លូវត្រូវ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Your situation has been long and tiring, but you are still standing. You are close to the end of a hard stretch.",
+        "km": "ស្ថានភាពរបស់អ្នក មានរយៈពេលយូរ និងនឿយហត់ ប៉ុន្តែអ្នកនៅតែឈរ។ អ្នកជិតដល់ចុងបញ្ចប់នៃដំណាក់កាលលំបាកមួយ។"
+      },
+      "challenge": {
+        "en": "Fatigue and old setbacks could make you give up just before the end. Rest where you can, then keep going.",
+        "km": "ភាពនឿយហត់ និងការថយក្រោយចាស់ៗ អាចធ្វើឱ្យអ្នកបោះបង់ មុនពេលដល់ទីបញ្ចប់បន្តិច។ សូមសម្រាកពេលអាចធ្វើបាន រួចបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to reach its end if you persist a little longer. Your resilience could carry you across the finish line.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងដល់ទីបញ្ចប់ ប្រសិនបើអ្នកតស៊ូបន្តិចទៀត។ ភាពធន់របស់អ្នក អាចនាំអ្នកឆ្លងផុតខ្សែបញ្ចប់។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Your situation feels heavy, and you are carrying a lot. Responsibilities may be piling up.",
+        "km": "ស្ថានភាពរបស់អ្នកហាក់ដូចជាធ្ងន់ ហើយអ្នកកំពុងលីសែងច្រើន។ ភារកិច្ចប្រហែលជាកំពុងគរកាន់តែច្រើន។"
+      },
+      "challenge": {
+        "en": "Refusing help could push you toward burnout. Hand over what others can carry.",
+        "km": "ការបដិសេធជំនួយ អាចរុញអ្នកទៅរកការអស់កម្លាំង។ សូមប្រគល់អ្វីដែលអ្នកដទៃអាចលីសែងបាន។"
+      },
+      "outcome": {
+        "en": "The likely outcome is relief once you lighten your load. If nothing changes, the strain could grow, so share the weight.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការធូរស្រាល នៅពេលអ្នកកាត់បន្ថយបន្ទុក។ ប្រសិនបើគ្មានអ្វីផ្លាស់ប្តូរ ភាពតានតឹងអាចកើនឡើង ដូច្នេះសូមចែករំលែកបន្ទុក។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Your situation has a curious, exploring quality. Something new is catching your interest.",
+        "km": "ស្ថានភាពរបស់អ្នក មានលក្ខណៈចង់ដឹង និងស្វែងយល់។ អ្វីមួយថ្មីកំពុងទាក់ទាញចំណាប់អារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Losing interest before finishing could leave things half done. Follow one idea through.",
+        "km": "ការបាត់ចំណាប់អារម្មណ៍មុនពេលបញ្ចប់ អាចធ្វើឱ្យអ្វីៗនៅពាក់កណ្តាល។ សូមដើរតាមគំនិតមួយរហូតដល់ចប់។"
+      },
+      "outcome": {
+        "en": "This situation is likely to bring good news or an exciting new step. Staying curious could lead somewhere you enjoy.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនាំមកនូវដំណឹងល្អ ឬជំហានថ្មីដ៏គួរឱ្យរំភើប។ ការរក្សាចិត្តចង់ដឹង អាចនាំទៅរកអ្វីដែលអ្នករីករាយ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Your situation is full of energy and movement. You may feel ready to act boldly.",
+        "km": "ស្ថានភាពរបស់អ្នក ពោរពេញដោយថាមពល និងចលនា។ អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រៀមធ្វើសកម្មភាពដោយក្លាហាន។"
+      },
+      "challenge": {
+        "en": "Rushing ahead without a plan could cause problems you then have to fix. Aim before you charge.",
+        "km": "ការប្រញាប់ទៅមុខដោយគ្មានផែនការ អាចបង្កបញ្ហាដែលអ្នកត្រូវជួសជុលនៅពេលក្រោយ។ សូមកំណត់គោលដៅ មុននឹងប្រញាប់។"
+      },
+      "outcome": {
+        "en": "The likely outcome is quick change, possibly a move or a fresh venture. Bold action with some planning could carry you forward fast.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការផ្លាស់ប្តូររហ័ស ប្រហែលជាការផ្លាស់ទីលំនៅ ឬមុខរបរថ្មី។ សកម្មភាពដ៏ក្លាហានដែលមានផែនការខ្លះ អាចនាំអ្នកទៅមុខបានលឿន។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your situation is supported by your confidence and warmth. People respond well to you.",
+        "km": "ស្ថានភាពរបស់អ្នក ត្រូវបានគាំទ្រដោយទំនុកចិត្ត និងភាពកក់ក្តៅរបស់អ្នក។ មនុស្សឆ្លើយតបល្អចំពោះអ្នក។"
+      },
+      "challenge": {
+        "en": "Taking on too much yourself could wear you out. Let others share the work.",
+        "km": "ការទទួលធ្វើច្រើនពេកដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកនឿយហត់។ សូមឱ្យអ្នកដទៃចែករំលែកការងារ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to turn out well, with you at the centre of it. Your confidence could draw support and bring success.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងចេញមកល្អ ដោយមានអ្នកនៅចំកណ្តាល។ ទំនុកចិត្តរបស់អ្នក អាចទាក់ទាញការគាំទ្រ និងនាំមកនូវភាពជោគជ័យ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Your situation calls for leadership and vision. People may be waiting for you to set the course.",
+        "km": "ស្ថានភាពរបស់អ្នក ទាមទារភាពជាអ្នកដឹកនាំ និងចក្ខុវិស័យ។ មនុស្សប្រហែលជាកំពុងរង់ចាំឱ្យអ្នកកំណត់ទិសដៅ។"
+      },
+      "challenge": {
+        "en": "Expecting too much of others could create tension and slow things down. Share the vision and give people room to contribute.",
+        "km": "ការរំពឹងច្រើនពេកពីអ្នកដទៃ អាចបង្កភាពតានតឹង និងធ្វើឱ្យអ្វីៗយឺត។ សូមចែករំលែកចក្ខុវិស័យ ហើយទុកកន្លែងឱ្យមនុស្សចូលរួម។"
+      },
+      "outcome": {
+        "en": "The likely outcome is strong progress under your direction. A clear vision could turn this situation into a real achievement.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការរីកចម្រើនដ៏រឹងមាំក្រោមការដឹកនាំរបស់អ្នក។ ចក្ខុវិស័យច្បាស់លាស់ អាចប្រែស្ថានភាពនេះឱ្យទៅជាសមិទ្ធផលពិតប្រាកដ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your situation has a new emotional beginning, full of warmth or promise. Your heart is open.",
+        "km": "ស្ថានភាពរបស់អ្នក មានការចាប់ផ្តើមថ្មីផ្នែកអារម្មណ៍ ដែលពោរពេញដោយភាពកក់ក្តៅ ឬការសន្យា។ ចិត្តរបស់អ្នកកំពុងបើកចំហ។"
+      },
+      "challenge": {
+        "en": "Fear of being hurt could hold you back from something good. Let yourself receive.",
+        "km": "ការខ្លាចឈឺចាប់ អាចរារាំងអ្នកពីអ្វីមួយដែលល្អ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងទទួល។"
+      },
+      "outcome": {
+        "en": "This situation is likely to bring emotional fulfilment, such as new love, friendship or joy. Openness could let it overflow.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនាំមកនូវការពេញចិត្តផ្នែកអារម្មណ៍ ដូចជាស្នេហាថ្មី មិត្តភាព ឬសេចក្តីរីករាយ។ ភាពបើកចំហ អាចធ្វើឱ្យវាហូរហៀរ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Your situation centres on a close connection or partnership. Mutual feelings are at its heart.",
+        "km": "ស្ថានភាពរបស់អ្នក ផ្តោតលើទំនាក់ទំនងជិតស្និទ្ធ ឬភាពជាដៃគូមួយ។ អារម្មណ៍ទៅវិញទៅមក គឺជាស្នូលរបស់វា។"
+      },
+      "challenge": {
+        "en": "An imbalance between you and another could create quiet resentment. Talk openly about what each of you needs.",
+        "km": "ភាពមិនស្មើគ្នារវាងអ្នក និងម្នាក់ទៀត អាចបង្កើតការអាក់អន់ចិត្តដោយស្ងាត់ៗ។ សូមនិយាយដោយបើកចំហពីអ្វីដែលម្នាក់ៗត្រូវការ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a deeper bond or a fair agreement between two people. Mutual respect could make it lasting.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺចំណងកាន់តែជ្រាលជ្រៅ ឬកិច្ចព្រមព្រៀងដ៏យុត្តិធម៌រវាងមនុស្សពីរនាក់។ ការគោរពគ្នាទៅវិញទៅមក អាចធ្វើឱ្យវាស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Your situation is supported by friends and shared good times. People around you are on your side.",
+        "km": "ស្ថានភាពរបស់អ្នក ត្រូវបានគាំទ្រដោយមិត្តភក្តិ និងពេលវេលាល្អដែលចែករំលែកគ្នា។ មនុស្សនៅជុំវិញអ្នក នៅខាងអ្នក។"
+      },
+      "challenge": {
+        "en": "Too much distraction could pull attention from what needs doing. Enjoy company but stay on task.",
+        "km": "ការរំខានច្រើនពេក អាចទាញការយកចិត្តទុកដាក់ចេញពីអ្វីដែលត្រូវធ្វើ។ សូមរីករាយជាមួយមិត្តភក្តិ ប៉ុន្តែកុំភ្លេចកិច្ចការ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to end in celebration and shared happiness. Friends could play a big part in the good result.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងបញ្ចប់ដោយការអបអរ និងសុភមង្គលរួមគ្នា។ មិត្តភក្តិអាចដើរតួនាទីធំក្នុងលទ្ធផលល្អនោះ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Your situation may feel flat, and you may be uninterested in what is offered. Something feels missing.",
+        "km": "ស្ថានភាពរបស់អ្នកអាចហាក់ដូចជាគ្មានជីវិត ហើយអ្នកប្រហែលជាមិនសូវចាប់អារម្មណ៍នឹងអ្វីដែលគេផ្តល់ឱ្យ។ អ្វីមួយហាក់ដូចជាខ្វះខាត។"
+      },
+      "challenge": {
+        "en": "Ignoring what is in front of you could mean missing a real chance. Look again before saying no.",
+        "km": "ការមិនខ្វល់ពីអ្វីដែលនៅចំពោះមុខ អាចមានន័យថាខកខានឱកាសពិតប្រាកដ។ សូមមើលម្តងទៀត មុននឹងបដិសេធ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to stay unchanged unless you take a fresh look. An offer you overlooked could turn out to be the answer.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនៅដដែល លុះត្រាតែអ្នកមើលវាឡើងវិញ។ ការផ្តល់ជូនដែលអ្នកមើលរំលង អាចក្លាយជាចម្លើយ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Your situation is coloured by disappointment or loss. It is hard to see what remains.",
+        "km": "ស្ថានភាពរបស់អ្នក ពោរពេញដោយការខកចិត្ត ឬការបាត់បង់។ វាពិបាកមើលឃើញអ្វីដែលនៅសល់។"
+      },
+      "challenge": {
+        "en": "Dwelling on what went wrong could hide what can still be saved. Turn toward what remains.",
+        "km": "ការគិតច្រើនពីអ្វីដែលខុស អាចបិទបាំងអ្វីដែលនៅតែអាចសង្គ្រោះបាន។ សូមងាកទៅរកអ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "The likely outcome includes some loss, but not everything is gone. Accepting what happened could let you rebuild with what is left.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង រួមមានការបាត់បង់ខ្លះ ប៉ុន្តែមិនមែនអ្វីៗទាំងអស់បាត់ទៅទេ។ ការទទួលយកអ្វីដែលបានកើតឡើង អាចឱ្យអ្នកកសាងឡើងវិញជាមួយអ្វីដែលនៅសល់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Your situation is linked to the past, through memories, old friends or familiar places. Something old is returning.",
+        "km": "ស្ថានភាពរបស់អ្នក ពាក់ព័ន្ធនឹងអតីតកាល តាមរយៈអនុស្សាវរីយ៍ មិត្តចាស់ ឬកន្លែងដែលធ្លាប់ស្គាល់។ អ្វីមួយចាស់កំពុងត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Wishing things were as they used to be could block a good new outcome. Keep the lesson, not the longing.",
+        "km": "ការប្រាថ្នាឱ្យអ្វីៗដូចពីមុន អាចរារាំងលទ្ធផលថ្មីដ៏ល្អ។ សូមរក្សាមេរៀន មិនមែនការនឹករលឹកទេ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to bring comfort, perhaps through a reunion or something familiar. Kindness from the past could ease the way.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនាំមកនូវការលួងលោម ប្រហែលជាតាមរយៈការជួបជុំគ្នាឡើងវិញ ឬអ្វីដែលធ្លាប់ស្គាល់។ ក្តីមេត្តាពីអតីតកាល អាចធ្វើឱ្យផ្លូវកាន់តែងាយស្រួល។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Your situation has many possibilities, and it is hard to tell which are real. Wishful thinking may be mixed in.",
+        "km": "ស្ថានភាពរបស់អ្នក មានលទ្ធភាពជាច្រើន ហើយវាពិបាកដឹងថាមួយណាជាការពិត។ ការគិតតាមក្តីប្រាថ្នាអាចលាយឡំចូល។"
+      },
+      "challenge": {
+        "en": "Chasing an attractive illusion could lead the situation toward disappointment. Test each option against what is real and practical.",
+        "km": "ការដេញតាមការបំភាន់ដ៏ទាក់ទាញ អាចនាំស្ថានភាពទៅរកការខកចិត្ត។ សូមសាកល្បងជម្រើសនីមួយៗជាមួយអ្វីដែលពិត និងជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "The likely outcome depends on which option you choose, and not all are what they seem. Picking the realistic one could turn a dream into something real.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង អាស្រ័យលើជម្រើសដែលអ្នកជ្រើស ហើយមិនមែនទាំងអស់ដូចដែលវាមើលទៅនោះទេ។ ការជ្រើសជម្រើសជាក់ស្តែង អាចប្រែក្តីស្រមៃឱ្យទៅជាការពិត។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Your situation no longer satisfies you, and part of you wants to move on. Something deeper is calling.",
+        "km": "ស្ថានភាពរបស់អ្នក លែងធ្វើឱ្យអ្នកពេញចិត្ត ហើយផ្នែកមួយនៃខ្លួនអ្នកចង់បន្តទៅមុខ។ អ្វីមួយដែលជ្រៅជាងនេះកំពុងហៅ។"
+      },
+      "challenge": {
+        "en": "Fear of leaving could keep you somewhere you have outgrown. Be clear about what you seek.",
+        "km": "ការខ្លាចចាកចេញ អាចធ្វើឱ្យអ្នកនៅកន្លែងដែលអ្នកបានធំហួសរួចហើយ។ សូមច្បាស់លាស់ពីអ្វីដែលអ្នកស្វែងរក។"
+      },
+      "outcome": {
+        "en": "This situation is likely to end with you walking away toward something more meaningful. Leaving with care could bring you closer to what you need.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងបញ្ចប់ដោយអ្នកដើរចេញ ឆ្ពោះទៅរកអ្វីដែលមានអត្ថន័យជាងនេះ។ ការចាកចេញដោយប្រុងប្រយ័ត្ន អាចនាំអ្នកឱ្យកាន់តែជិតអ្វីដែលអ្នកត្រូវការ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Your situation is close to what you wished for. There is much to feel content about.",
+        "km": "ស្ថានភាពរបស់អ្នក ជិតដល់អ្វីដែលអ្នកប្រាថ្នា។ មានរឿងជាច្រើនដែលគួរពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "Complacency could let a good situation slip. Keep caring for what brings you happiness.",
+        "km": "ភាពធ្វេសប្រហែស អាចធ្វើឱ្យស្ថានភាពល្អរអិលបាត់។ សូមបន្តថែរក្សាអ្វីដែលនាំមកនូវសុភមង្គលដល់អ្នក។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a wish fulfilled and real satisfaction. Gratitude could make the good feeling last.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺក្តីប្រាថ្នាបានសម្រេច និងការពេញចិត្តពិតប្រាកដ។ ការដឹងគុណ អាចធ្វើឱ្យអារម្មណ៍ល្អនោះស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Your situation is supported by love and harmony with people close to you. Home feels like a safe place.",
+        "km": "ស្ថានភាពរបស់អ្នក ត្រូវបានគាំទ្រដោយក្តីស្រឡាញ់ និងភាពសុខដុមជាមួយមនុស្សជិតស្និទ្ធ។ ផ្ទះគឺជាកន្លែងដែលមានសុវត្ថិភាព។"
+      },
+      "challenge": {
+        "en": "Expecting perfection could create pressure on the people you love. Value what is good as it is.",
+        "km": "ការរំពឹងភាពល្អឥតខ្ចោះ អាចបង្កសម្ពាធលើមនុស្សដែលអ្នកស្រឡាញ់។ សូមឱ្យតម្លៃអ្វីដែលល្អ ដូចដែលវាមាន។"
+      },
+      "outcome": {
+        "en": "This situation is likely to end happily, with lasting harmony at home. Family or close friends could share in the good outcome.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងបញ្ចប់ដោយក្តីរីករាយ ជាមួយភាពសុខដុមយូរអង្វែងក្នុងផ្ទះ។ គ្រួសារ ឬមិត្តជិតស្និទ្ធ អាចចែករំលែកលទ្ធផលល្អនោះ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Your situation has a gentle, hopeful feeling, with small signs of something good. A message or idea may be on its way.",
+        "km": "ស្ថានភាពរបស់អ្នក មានអារម្មណ៍ទន់ភ្លន់ និងពោរពេញដោយក្តីសង្ឃឹម ជាមួយសញ្ញាតូចៗនៃអ្វីមួយល្អ។ សារ ឬគំនិតមួយ ប្រហែលជាកំពុងធ្វើដំណើរមក។"
+      },
+      "challenge": {
+        "en": "Being too sensitive could make you misread small signals. Check what was really meant.",
+        "km": "ការរសើបពេក អាចធ្វើឱ្យអ្នកយល់ខុសសញ្ញាតូចៗ។ សូមពិនិត្យថាគេពិតជាចង់មានន័យអ្វី។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a pleasant surprise, such as good news or a kind gesture. Staying open could let it grow into something more.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការភ្ញាក់ផ្អើលដ៏រីករាយ ដូចជាដំណឹងល្អ ឬកាយវិការដ៏សប្បុរស។ ការបើកចិត្ត អាចឱ្យវារីកធំទៅជាអ្វីមួយច្រើនជាងនេះ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Your situation is guided by feelings and ideals. Something attractive is drawing you forward.",
+        "km": "ស្ថានភាពរបស់អ្នក ត្រូវបានណែនាំដោយអារម្មណ៍ និងឧត្តមគតិ។ អ្វីមួយដ៏ទាក់ទាញកំពុងទាញអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Idealising the situation could blind you to practical problems. Keep your heart open and your eyes clear.",
+        "km": "ការមើលស្ថានភាពថាល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកមិនឃើញបញ្ហាជាក់ស្តែង។ សូមបើកចិត្ត ប៉ុន្តែមើលឱ្យច្បាស់។"
+      },
+      "outcome": {
+        "en": "This situation is likely to bring an offer or invitation that appeals to your heart. Following it with good sense could lead somewhere beautiful.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនាំមកនូវការផ្តល់ជូន ឬការអញ្ជើញ ដែលទាក់ទាញចិត្តរបស់អ្នក។ ការដើរតាមវាដោយការគិតពិចារណាល្អ អាចនាំទៅរកអ្វីមួយដ៏ស្រស់ស្អាត។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your situation calls for compassion and emotional wisdom. You understand more than you say.",
+        "km": "ស្ថានភាពរបស់អ្នក ទាមទារក្តីមេត្តា និងប្រាជ្ញាផ្នែកអារម្មណ៍។ អ្នកយល់ច្រើនជាងអ្វីដែលអ្នកនិយាយ។"
+      },
+      "challenge": {
+        "en": "Absorbing everyone's feelings could cloud your judgement about what is best. Keep a little emotional distance so you can see clearly.",
+        "km": "ការស្រូបយកអារម្មណ៍របស់គ្រប់គ្នា អាចធ្វើឱ្យការវិនិច្ឆ័យរបស់អ្នកអំពីអ្វីដែលល្អបំផុត មិនច្បាស់។ សូមរក្សាគម្លាតផ្នែកអារម្មណ៍បន្តិច ដើម្បីអាចមើលឃើញច្បាស់។"
+      },
+      "outcome": {
+        "en": "The likely outcome is gentle and healing, guided by understanding. Trusting your intuition could lead to the right resolution.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺទន់ភ្លន់ និងព្យាបាលចិត្ត ដោយមានការយល់ដឹងជាអ្នកណែនាំ។ ការទុកចិត្តលើវិចារណញាណរបស់អ្នក អាចនាំទៅរកដំណោះស្រាយត្រឹមត្រូវ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Your situation needs calm emotional control. You may be the steady one others rely on.",
+        "km": "ស្ថានភាពរបស់អ្នក ត្រូវការការគ្រប់គ្រងអារម្មណ៍ដោយស្ងប់ស្ងាត់។ អ្នកប្រហែលជាមនុស្សនឹងនរដែលអ្នកដទៃពឹងផ្អែក។"
+      },
+      "challenge": {
+        "en": "Hiding your true feelings could create distance just when trust is needed. Share honestly while staying calm.",
+        "km": "ការលាក់អារម្មណ៍ពិតរបស់អ្នក អាចបង្កើតគម្លាត នៅពេលដែលត្រូវការការទុកចិត្ត។ សូមចែករំលែកដោយស្មោះត្រង់ ខណៈរក្សាភាពស្ងប់ស្ងាត់។"
+      },
+      "outcome": {
+        "en": "This situation is likely to settle calmly, with mature handling bringing a good result. Your balance could earn deep respect.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងស្ងប់ទៅវិញ ដោយការដោះស្រាយដ៏ចាស់ទុំនាំមកនូវលទ្ធផលល្អ។ តុល្យភាពរបស់អ្នក អាចទទួលបានការគោរពយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Your situation is becoming clearer, and the truth is coming into focus. A decision may be close.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងច្បាស់ឡើង ហើយការពិតកំពុងលេចចេញមក។ ការសម្រេចចិត្តមួយ ប្រហែលជានៅជិតហើយ។"
+      },
+      "challenge": {
+        "en": "Harsh or hasty words could damage a result that is otherwise good. Speak clearly, but choose your words with kindness.",
+        "km": "ពាក្យសម្តីគ្រោតគ្រាត ឬប្រញាប់ប្រញាល់ អាចធ្វើឱ្យខូចលទ្ធផលដែលល្អ។ សូមនិយាយឱ្យច្បាស់ ប៉ុន្តែជ្រើសពាក្យដោយក្តីមេត្តា។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a breakthrough that cuts through confusion. A clear decision could set things on a better course.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការរកឃើញថ្មីដ៏សំខាន់ ដែលកាត់ផ្តាច់ភាពច្របូកច្របល់។ ការសម្រេចចិត្តច្បាស់លាស់ អាចដាក់អ្វីៗលើផ្លូវដែលល្អជាង។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Your situation is in a stalemate, with a decision being avoided. Holding still feels safer than choosing.",
+        "km": "ស្ថានភាពរបស់អ្នក ស្ថិតក្នុងភាពជាប់គាំង ដោយការសម្រេចចិត្តមួយកំពុងត្រូវបានគេចវេស។ ការនៅស្ងៀមហាក់ដូចជាមានសុវត្ថិភាពជាងការជ្រើសរើស។"
+      },
+      "challenge": {
+        "en": "Avoiding the choice could let the situation decide for you. Gather facts and choose.",
+        "km": "ការគេចពីជម្រើស អាចឱ្យស្ថានភាពសម្រេចជំនួសអ្នក។ សូមប្រមូលការពិត ហើយជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "This situation is likely to stay stuck until a choice is made. Once you decide, things could move again quite quickly.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនៅជាប់គាំង រហូតដល់ជម្រើសមួយត្រូវបានធ្វើ។ នៅពេលអ្នកសម្រេចចិត្ត អ្វីៗអាចដើរម្តងទៀតយ៉ាងរហ័ស។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Your situation involves hurt or heartbreak. The pain is real and needs acknowledging.",
+        "km": "ស្ថានភាពរបស់អ្នក ពាក់ព័ន្ធនឹងការឈឺចាប់ ឬការបាក់បែកចិត្ត។ ការឈឺចាប់នោះពិតប្រាកដ ហើយត្រូវការការទទួលស្គាល់។"
+      },
+      "challenge": {
+        "en": "Hiding or denying the pain could make healing slower. Let yourself feel and seek comfort.",
+        "km": "ការលាក់ ឬការបដិសេធការឈឺចាប់ អាចធ្វើឱ្យការជាសះស្បើយយឺត។ សូមអនុញ្ញាតឱ្យខ្លួនមានអារម្មណ៍ ហើយស្វែងរកការលួងលោម។"
+      },
+      "outcome": {
+        "en": "The likely outcome includes some sadness, but facing it could lead to healing. Painful truths may clear the way for something healthier.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង រួមមានភាពសោកសៅខ្លះ ប៉ុន្តែការប្រឈមនឹងវា អាចនាំទៅរកការជាសះស្បើយ។ ការពិតដ៏ឈឺចាប់ អាចបើកផ្លូវសម្រាប់អ្វីដែលល្អជាង។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Your situation calls for rest and a pause. Stepping back may help more than pushing.",
+        "km": "ស្ថានភាពរបស់អ្នក ទាមទារការសម្រាក និងការផ្អាក។ ការដកថយ អាចជួយបានច្រើនជាងការរុញ។"
+      },
+      "challenge": {
+        "en": "Pushing on while exhausted could lead to poor decisions. Recover before you act.",
+        "km": "ការបន្តរុញទៅមុខពេលអស់កម្លាំង អាចនាំទៅរកការសម្រេចចិត្តមិនល្អ។ សូមស្តារកម្លាំង មុននឹងធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "This situation is likely to improve after a period of rest and reflection. Coming back refreshed could help you handle it better.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងប្រសើរឡើង បន្ទាប់ពីរយៈពេលនៃការសម្រាក និងការពិចារណា។ ការត្រឡប់មកវិញដោយស្រស់ស្រាយ អាចជួយអ្នកដោះស្រាយវាបានល្អជាង។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Your situation involves conflict, and someone may feel they have lost. Tension is in the air.",
+        "km": "ស្ថានភាពរបស់អ្នក ពាក់ព័ន្ធនឹងជម្លោះ ហើយនរណាម្នាក់ប្រហែលជាមានអារម្មណ៍ថាខ្លួនចាញ់។ ភាពតានតឹងកំពុងគ្របដណ្តប់។"
+      },
+      "challenge": {
+        "en": "Winning at any cost could leave you with an empty victory. Consider what you might lose.",
+        "km": "ការឈ្នះដោយមិនគិតពីតម្លៃ អាចធ្វើឱ្យអ្នកមានត្រឹមជ័យជម្នះទទេ។ សូមពិចារណាពីអ្វីដែលអ្នកអាចបាត់បង់។"
+      },
+      "outcome": {
+        "en": "The likely outcome may feel like a hollow win unless you choose peace over pride. Walking away from the fight could protect what matters more.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង អាចជាជ័យជម្នះទទេ លុះត្រាតែអ្នកជ្រើសរើសសន្តិភាពជាជាងមោទនភាព។ ការដើរចេញពីការប្រយុទ្ធ អាចការពារអ្វីដែលសំខាន់ជាងនេះ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Your situation is in transition, moving from difficulty toward calm. Progress may feel slow but is real.",
+        "km": "ស្ថានភាពរបស់អ្នក ស្ថិតក្នុងការផ្លាស់ប្តូរ ពីការលំបាកឆ្ពោះទៅរកភាពស្ងប់ស្ងាត់។ ការរីកចម្រើនអាចហាក់ដូចជាយឺត ប៉ុន្តែវាពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Looking back too often could slow the move toward calmer ground. Keep your eyes on why you set out.",
+        "km": "ការក្រឡេកមើលក្រោយញឹកញាប់ពេក អាចធ្វើឱ្យការដើរទៅរកភាពស្ងប់ស្ងាត់យឺត។ សូមចងចាំហេតុផលដែលអ្នកបានចេញដំណើរ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to lead to calmer, easier times. A gradual change could bring the peace you need.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនាំទៅរកពេលវេលាដែលស្ងប់ និងងាយស្រួលជាងមុន។ ការផ្លាស់ប្តូរបន្តិចម្តងៗ អាចនាំមកនូវសន្តិភាពដែលអ្នកត្រូវការ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Your situation involves strategy and possibly hidden motives. Not everything is being said openly.",
+        "km": "ស្ថានភាពរបស់អ្នក ពាក់ព័ន្ធនឹងយុទ្ធសាស្ត្រ ហើយប្រហែលជាមានគោលបំណងលាក់កំបាំង។ មិនមែនអ្វីៗទាំងអស់ត្រូវបានគេនិយាយដោយបើកចំហនោះទេ។"
+      },
+      "challenge": {
+        "en": "Shortcuts or secrets could backfire. Choose honest methods even when they take longer.",
+        "km": "ផ្លូវកាត់ ឬការលាក់រឿង អាចត្រឡប់មកប៉ះពាល់វិញ។ សូមជ្រើសវិធីដែលស្មោះត្រង់ ទោះបីវាត្រូវការពេលយូរជាងក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "The likely outcome depends on honesty, and something hidden could come to light. Careful, honest planning could protect you from loss.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង អាស្រ័យលើភាពស្មោះត្រង់ ហើយអ្វីមួយដែលលាក់កំបាំងអាចលេចចេញមក។ ការរៀបផែនការដោយប្រុងប្រយ័ត្ន និងស្មោះត្រង់ អាចការពារអ្នកពីការខាតបង់។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Your situation feels restrictive, and you may feel trapped. Some limits may be in your mind more than in reality.",
+        "km": "ស្ថានភាពរបស់អ្នក ហាក់ដូចជារឹតត្បិត ហើយអ្នកប្រហែលជាមានអារម្មណ៍ថាជាប់អន្ទាក់។ ដែនកំណត់ខ្លះ ប្រហែលជានៅក្នុងគំនិតច្រើនជាងក្នុងការពិត។"
+      },
+      "challenge": {
+        "en": "Believing there is no way out could keep you stuck. Question your assumptions and ask for help.",
+        "km": "ការជឿថាគ្មានផ្លូវចេញ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមសួរពីការសន្មតរបស់អ្នក ហើយសុំជំនួយ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to ease once you take one small step out of it. You may be freer than you think.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងធូរស្រាល នៅពេលអ្នកបោះជំហានតូចមួយចេញពីវា។ អ្នកប្រហែលជាមានសេរីភាពច្រើនជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Your situation is weighed down by worry and anxious thoughts. Fear may be making it look worse.",
+        "km": "ស្ថានភាពរបស់អ្នក ត្រូវបានសង្កត់ដោយការព្រួយបារម្ភ និងគំនិតថប់បារម្ភ។ ការភ័យខ្លាចអាចកំពុងធ្វើឱ្យវាមើលទៅអាក្រក់ជាងការពិត។"
+      },
+      "challenge": {
+        "en": "Letting anxiety run unchecked could affect your sleep and choices. Talk it through, and seek professional support if it feels heavy.",
+        "km": "ការឱ្យការថប់បារម្ភដើរដោយគ្មានការទប់ អាចប៉ះពាល់ដល់ដំណេក និងជម្រើសរបស់អ្នក។ សូមនិយាយពីវា ហើយស្វែងរកការគាំទ្រពីអ្នកជំនាញ ប្រសិនបើវាធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "The likely outcome is probably less bad than you fear. Once worries are shared, the situation could look much more manageable.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង ប្រហែលជាមិនអាក្រក់ដូចអ្វីដែលអ្នកខ្លាចទេ។ នៅពេលកង្វល់ត្រូវបានចែករំលែក ស្ថានភាពអាចមើលទៅងាយគ្រប់គ្រងជាងមុនច្រើន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Your situation may have hit a low point, and something has painfully ended. It feels like the worst is here.",
+        "km": "ស្ថានភាពរបស់អ្នក ប្រហែលជាបានធ្លាក់ដល់ចំណុចទាបបំផុត ហើយអ្វីមួយបានបញ្ចប់យ៉ាងឈឺចាប់។ វាហាក់ដូចជាពេលដ៏អាក្រក់បំផុតបានមកដល់។"
+      },
+      "challenge": {
+        "en": "Reliving the pain could delay your recovery. Accept the ending and turn toward healing.",
+        "km": "ការរំលឹកការឈឺចាប់ម្តងហើយម្តងទៀត អាចពន្យារការជាសះស្បើយរបស់អ្នក។ សូមទទួលយកការបញ្ចប់ ហើយងាកទៅរកការព្យាបាលចិត្ត។"
+      },
+      "outcome": {
+        "en": "The likely outcome is an ending, but also the start of recovery. The hardest part could already be behind you.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការបញ្ចប់ ប៉ុន្តែក៏ជាការចាប់ផ្តើមនៃការជាសះស្បើយផងដែរ។ ផ្នែកដែលពិបាកបំផុត អាចកន្លងផុតទៅហើយ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Your situation is full of questions, news and information. You are watching and learning.",
+        "km": "ស្ថានភាពរបស់អ្នក ពោរពេញដោយសំណួរ ដំណឹង និងព័ត៌មាន។ អ្នកកំពុងសង្កេត និងរៀនសូត្រ។"
+      },
+      "challenge": {
+        "en": "Acting on gossip or half-truths could steer the situation the wrong way. Check your sources before you respond.",
+        "km": "ការធ្វើសកម្មភាពតាមការនិយាយដើមគេ ឬការពិតពាក់កណ្តាល អាចនាំស្ថានភាពទៅខុសទិស។ សូមពិនិត្យប្រភពរបស់អ្នក មុននឹងឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "This situation is likely to become clearer as new information arrives. Careful questions could lead you to the truth.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងច្បាស់ឡើង នៅពេលព័ត៌មានថ្មីមកដល់។ សំណួរដែលប្រុងប្រយ័ត្ន អាចនាំអ្នកទៅរកការពិត។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Your situation is moving fast, driven by strong opinions or urgency. Things are being pushed forward.",
+        "km": "ស្ថានភាពរបស់អ្នកកំពុងដើរលឿន ដោយត្រូវបានជំរុញដោយមតិខ្លាំងៗ ឬភាពបន្ទាន់។ អ្វីៗកំពុងត្រូវបានរុញទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Charging ahead without listening could cause conflict. Slow down enough to hear others.",
+        "km": "ការប្រញាប់ទៅមុខដោយមិនស្តាប់ អាចបង្កជម្លោះ។ សូមបន្ថយល្បឿនល្មមដើម្បីស្តាប់អ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a fast resolution, possibly a sudden decision. Acting decisively but fairly could bring a good result.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺដំណោះស្រាយរហ័ស ប្រហែលជាការសម្រេចចិត្តភ្លាមៗ។ ការធ្វើសកម្មភាពដោយម៉ឺងម៉ាត់ ប៉ុន្តែយុត្តិធម៌ អាចនាំមកនូវលទ្ធផលល្អ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Your situation calls for clear thinking and honest boundaries. You are seeing things without illusion.",
+        "km": "ស្ថានភាពរបស់អ្នក ទាមទារការគិតច្បាស់លាស់ និងដែនកំណត់ដ៏ស្មោះត្រង់។ អ្នកកំពុងមើលឃើញអ្វីៗដោយគ្មានការបំភាន់។"
+      },
+      "challenge": {
+        "en": "Being too cold or distant could push away the support you need. Let some warmth show alongside your honesty.",
+        "km": "ភាពត្រជាក់ ឬឆ្ងាយពេក អាចរុញការគាំទ្រដែលអ្នកត្រូវការចេញ។ សូមបង្ហាញភាពកក់ក្តៅខ្លះ ជាមួយភាពស្មោះត្រង់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "This situation is likely to resolve through a clear, independent decision. Honest judgement could earn you respect.",
+        "km": "ស្ថានភាពនេះទំនងជាត្រូវបានដោះស្រាយ តាមរយៈការសម្រេចចិត្តច្បាស់លាស់ និងឯករាជ្យ។ ការវិនិច្ឆ័យដោយស្មោះត្រង់ អាចធ្វើឱ្យអ្នកទទួលបានការគោរព។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Your situation calls for logic, fairness and a cool head. Decisions need to be based on facts.",
+        "km": "ស្ថានភាពរបស់អ្នក ទាមទារហេតុផល ភាពយុត្តិធម៌ និងគំនិតត្រជាក់។ ការសម្រេចចិត្តត្រូវផ្អែកលើការពិត។"
+      },
+      "challenge": {
+        "en": "Ignoring the human side could make a logical choice feel cold. Consider how others are affected.",
+        "km": "ការមិនខ្វល់ពីផ្នែកមនុស្ស អាចធ្វើឱ្យជម្រើសដែលមានហេតុផល ហាក់ដូចជាត្រជាក់។ សូមពិចារណាថាអ្នកដទៃត្រូវបានប៉ះពាល់យ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "The likely outcome is a fair, well-reasoned decision. Clear thinking could lead to a result that holds up.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការសម្រេចចិត្តដ៏យុត្តិធម៌ និងមានហេតុផលល្អ។ ការគិតច្បាស់លាស់ អាចនាំទៅរកលទ្ធផលដែលរឹងមាំ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Your situation has a practical new beginning, small but solid. There is real potential here.",
+        "km": "ស្ថានភាពរបស់អ្នក មានការចាប់ផ្តើមថ្មីជាក់ស្តែង តូច ប៉ុន្តែរឹងមាំ។ មានសក្តានុពលពិតប្រាកដនៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Waiting too long could let a good start slip away. Take the first practical step.",
+        "km": "ការរង់ចាំយូរពេក អាចធ្វើឱ្យការចាប់ផ្តើមល្អរអិលបាត់។ សូមបោះជំហានជាក់ស្តែងដំបូង។"
+      },
+      "outcome": {
+        "en": "This situation is likely to grow into something solid and rewarding. A practical start could lead to lasting security.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងរីកធំទៅជាអ្វីមួយដែលរឹងមាំ និងផ្តល់ផល។ ការចាប់ផ្តើមជាក់ស្តែង អាចនាំទៅរកសុវត្ថិភាពយូរអង្វែង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Your situation is a balancing act with several demands at once. You are keeping things moving.",
+        "km": "ស្ថានភាពរបស់អ្នក គឺជាការរក្សាតុល្យភាពជាមួយការទាមទារជាច្រើនក្នុងពេលតែមួយ។ អ្នកកំពុងរក្សាអ្វីៗឱ្យដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Taking on too much could cause something important to drop. Set clear priorities.",
+        "km": "ការទទួលបន្ទុកច្រើនពេក អាចធ្វើឱ្យអ្វីមួយសំខាន់ធ្លាក់។ សូមកំណត់អាទិភាពឱ្យច្បាស់។"
+      },
+      "outcome": {
+        "en": "The likely outcome is manageable if you stay flexible and organised. Things could keep balancing out with steady attention.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង អាចគ្រប់គ្រងបាន ប្រសិនបើអ្នករក្សាភាពបត់បែន និងរៀបចំបានល្អ។ អ្វីៗអាចបន្តមានតុល្យភាព ជាមួយការយកចិត្តទុកដាក់ជាប់លាប់។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Your situation involves teamwork and skilled effort. Others are working alongside you, and each role matters.",
+        "km": "ស្ថានភាពរបស់អ្នក ពាក់ព័ន្ធនឹងការងារជាក្រុម និងការខិតខំប្រកបដោយជំនាញ។ អ្នកដទៃកំពុងធ្វើការជាមួយអ្នក ហើយតួនាទីនីមួយៗសំខាន់។"
+      },
+      "challenge": {
+        "en": "Poor communication could slow good work or cause mistakes. Make sure everyone knows their role.",
+        "km": "ការប្រាស្រ័យទាក់ទងមិនល្អ អាចធ្វើឱ្យការងារល្អយឺត ឬបង្កកំហុស។ សូមប្រាកដថាគ្រប់គ្នាដឹងពីតួនាទីរបស់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "This situation is likely to produce a good result through cooperation. Your skills could be recognised by others.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងផ្តល់លទ្ធផលល្អ តាមរយៈកិច្ចសហការ។ ជំនាញរបស់អ្នកអាចត្រូវបានអ្នកដទៃទទួលស្គាល់។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Your situation is focused on security and holding on to what you have. Caution is strong.",
+        "km": "ស្ថានភាពរបស់អ្នក ផ្តោតលើសុវត្ថិភាព និងការរក្សាអ្វីដែលអ្នកមាន។ ការប្រុងប្រយ័ត្នមានកម្លាំងខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly could stop things from growing. Loosen your grip a little.",
+        "km": "ការកាន់ក្តាប់តឹងពេក អាចរារាំងអ្វីៗមិនឱ្យរីកចម្រើន។ សូមបន្ធូរការកាន់ក្តាប់បន្តិច។"
+      },
+      "outcome": {
+        "en": "The likely outcome is stability, though it may feel limited if you hold on too tightly. A little openness could let things grow.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺស្ថិរភាព ទោះបីវាអាចមានកម្រិត ប្រសិនបើអ្នកកាន់ក្តាប់តឹងពេក។ ការបើកចិត្តបន្តិច អាចឱ្យអ្វីៗរីកចម្រើន។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Your situation may involve hardship, loss or feeling left out. Resources may be tight.",
+        "km": "ស្ថានភាពរបស់អ្នក អាចពាក់ព័ន្ធនឹងការលំបាក ការបាត់បង់ ឬអារម្មណ៍ថាត្រូវបានគេទុកចោល។ ធនធានប្រហែលជាតឹងតែង។"
+      },
+      "challenge": {
+        "en": "Pride or shame could stop you from getting help. Reach out to people or services that can support you.",
+        "km": "មោទនភាព ឬការខ្មាសអៀន អាចរារាំងអ្នកពីការទទួលបានជំនួយ។ សូមទាក់ទងមនុស្ស ឬសេវាកម្មដែលអាចគាំទ្រអ្នក។"
+      },
+      "outcome": {
+        "en": "This situation is likely to stay hard for a while unless you accept support. With help, the difficult time could pass.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងនៅតែលំបាកមួយរយៈ លុះត្រាតែអ្នកទទួលយកការគាំទ្រ។ ជាមួយជំនួយ ពេលវេលាលំបាកអាចកន្លងផុតទៅ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Your situation involves giving and receiving help. Generosity is part of the picture.",
+        "km": "ស្ថានភាពរបស់អ្នក ពាក់ព័ន្ធនឹងការផ្តល់ និងការទទួលជំនួយ។ សេចក្តីសប្បុរស គឺជាផ្នែកមួយនៃរូបភាពនេះ។"
+      },
+      "challenge": {
+        "en": "An uneven exchange could create obligation or resentment. Keep things fair on both sides.",
+        "km": "ការផ្តល់និងទទួលដែលមិនស្មើគ្នា អាចបង្កើតកាតព្វកិច្ច ឬការអាក់អន់ចិត្ត។ សូមរក្សាអ្វីៗឱ្យយុត្តិធម៌សម្រាប់ភាគីទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "The likely outcome is fair and supportive, with help flowing where it is needed. Kindness could come back to you.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺយុត្តិធម៌ និងគាំទ្រគ្នា ដោយជំនួយហូរទៅកន្លែងដែលត្រូវការ។ ក្តីសប្បុរសអាចត្រឡប់មករកអ្នកវិញ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Your situation shows steady effort, with results still growing. You are waiting to see the harvest.",
+        "km": "ស្ថានភាពរបស់អ្នក បង្ហាញពីការខិតខំជាប់លាប់ ដោយលទ្ធផលនៅតែកំពុងលូតលាស់។ អ្នកកំពុងរង់ចាំមើលការប្រមូលផល។"
+      },
+      "challenge": {
+        "en": "Impatience could make you quit before the payoff. Review and adjust rather than abandon.",
+        "km": "ការមិនអត់ធ្មត់ អាចធ្វើឱ្យអ្នកឈប់ មុនពេលទទួលបានផល។ សូមពិនិត្យ និងកែសម្រួល ជាជាងបោះបង់។"
+      },
+      "outcome": {
+        "en": "This situation is likely to reward your patience with a worthwhile harvest. Results may take time but could be lasting.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងផ្តល់រង្វាន់ដល់ការអត់ធ្មត់របស់អ្នក ដោយការប្រមូលផលដ៏មានតម្លៃ។ លទ្ធផលអាចត្រូវការពេល ប៉ុន្តែអាចស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Your situation calls for careful, steady work. You are building skill through practice.",
+        "km": "ស្ថានភាពរបស់អ្នក ទាមទារការងារដោយប្រុងប្រយ័ត្ន និងនឹងនរ។ អ្នកកំពុងកសាងជំនាញតាមរយៈការហាត់ហ្វឹក។"
+      },
+      "challenge": {
+        "en": "Losing patience with routine work could lead to careless mistakes. Remember your purpose.",
+        "km": "ការបាត់ការអត់ធ្មត់ជាមួយការងារប្រចាំថ្ងៃ អាចនាំទៅរកកំហុសដោយការធ្វេសប្រហែស។ សូមចងចាំគោលបំណងរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "The likely outcome is good work and growing mastery. Dedication could earn you a reliable reputation.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការងារល្អ និងភាពស្ទាត់ជំនាញដែលកំពុងកើនឡើង។ ការលះបង់ អាចធ្វើឱ្យអ្នកទទួលបានកេរ្តិ៍ឈ្មោះគួរឱ្យទុកចិត្ត។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Your situation is comfortable, built on your own effort. You have independence and stability.",
+        "km": "ស្ថានភាពរបស់អ្នក មានភាពសុខស្រួល ដែលកសាងឡើងដោយការខិតខំរបស់អ្នកផ្ទាល់។ អ្នកមានឯករាជ្យភាព និងស្ថិរភាព។"
+      },
+      "challenge": {
+        "en": "Keeping everyone at a distance could make success lonely. Share what you have.",
+        "km": "ការរក្សាគម្លាតពីគ្រប់គ្នា អាចធ្វើឱ្យភាពជោគជ័យក្លាយជាឯកោ។ សូមចែករំលែកអ្វីដែលអ្នកមាន។"
+      },
+      "outcome": {
+        "en": "This situation is likely to end in comfort and well-earned reward. You could enjoy the freedom you have built.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងបញ្ចប់ដោយភាពសុខស្រួល និងរង្វាន់ដែលអ្នកសមនឹងទទួល។ អ្នកអាចរីករាយនឹងសេរីភាពដែលអ្នកបានកសាង។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Your situation is tied to family, long-term plans or lasting security. Strong roots support you.",
+        "km": "ស្ថានភាពរបស់អ្នក ភ្ជាប់ទៅនឹងគ្រួសារ ផែនការរយៈពេលវែង ឬសុវត្ថិភាពយូរអង្វែង។ ឫសគល់ដ៏រឹងមាំ កំពុងគាំទ្រអ្នក។"
+      },
+      "challenge": {
+        "en": "Family pressure could push the situation in a direction that does not suit you. Balance duty with your own needs.",
+        "km": "សម្ពាធពីគ្រួសារ អាចរុញស្ថានភាពទៅក្នុងទិសដែលមិនសមនឹងអ្នក។ សូមរក្សាតុល្យភាពរវាងកាតព្វកិច្ច និងតម្រូវការផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "The likely outcome is lasting stability that benefits you and those close to you. Long-term thinking could pay off.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺស្ថិរភាពយូរអង្វែង ដែលផ្តល់ប្រយោជន៍ដល់អ្នក និងមនុស្សជិតស្និទ្ធ។ ការគិតរយៈពេលវែង អាចផ្តល់ផល។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Your situation is at a learning stage, with something practical to study or try. You are eager to begin.",
+        "km": "ស្ថានភាពរបស់អ្នក ស្ថិតនៅដំណាក់កាលរៀនសូត្រ ដោយមានអ្វីមួយជាក់ស្តែងសម្រាប់សិក្សា ឬសាកល្បង។ អ្នកចង់ចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Dreaming without doing could keep things where they are. Start with a small, regular effort.",
+        "km": "ការស្រមៃដោយមិនធ្វើ អាចធ្វើឱ្យអ្វីៗនៅកន្លែងដដែល។ សូមចាប់ផ្តើមដោយការខិតខំតូចៗ និងទៀងទាត់។"
+      },
+      "outcome": {
+        "en": "This situation is likely to grow through learning into a useful skill or plan. Good news about study or work could arrive.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងរីកចម្រើនតាមរយៈការរៀនសូត្រ ទៅជាជំនាញ ឬផែនការមានប្រយោជន៍។ ដំណឹងល្អអំពីការសិក្សា ឬការងារ អាចមកដល់។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Your situation is moving slowly but steadily in the right direction. Reliability is your greatest asset here.",
+        "km": "ស្ថានភាពរបស់អ្នក កំពុងដើរយឺតៗ ប៉ុន្តែនឹងនរ ក្នុងទិសដៅត្រឹមត្រូវ។ ភាពគួរឱ្យទុកចិត្ត គឺជាទ្រព្យសម្បត្តិដ៏ធំបំផុតរបស់អ្នកនៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Sticking too rigidly to routine could keep the situation stuck. Allow small changes where they are needed.",
+        "km": "ការប្រកាន់ទម្លាប់តឹងរ៉ឹងពេក អាចធ្វើឱ្យស្ថានភាពជាប់គាំង។ សូមអនុញ្ញាតឱ្យមានការផ្លាស់ប្តូរតូចៗ នៅកន្លែងដែលចាំបាច់។"
+      },
+      "outcome": {
+        "en": "The likely outcome is slow but dependable progress. Patience and hard work could bring a solid result.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺការរីកចម្រើនយឺត ប៉ុន្តែអាចពឹងបាន។ ការអត់ធ្មត់ និងការខិតខំ អាចនាំមកនូវលទ្ធផលរឹងមាំ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Your situation is grounded and well cared for. You are looking after people and practical needs.",
+        "km": "ស្ថានភាពរបស់អ្នក មានភាពនឹងនរ និងត្រូវបានថែរក្សាបានល្អ។ អ្នកកំពុងមើលថែមនុស្ស និងតម្រូវការជាក់ស្តែង។"
+      },
+      "challenge": {
+        "en": "Giving all your care to others could leave you tired. Look after yourself too.",
+        "km": "ការផ្តល់ការថែទាំទាំងអស់ដល់អ្នកដទៃ អាចធ្វើឱ្យអ្នកនឿយហត់។ សូមថែរក្សាខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "This situation is likely to settle into comfort and security. Practical care could create a warm, abundant result.",
+        "km": "ស្ថានភាពនេះទំនងជានឹងស្ងប់ទៅជាភាពសុខស្រួល និងសុវត្ថិភាព។ ការថែទាំជាក់ស្តែង អាចបង្កើតលទ្ធផលដ៏កក់ក្តៅ និងបរិបូរណ៍។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Your situation is strong and stable, backed by experience and resources. You are in control.",
+        "km": "ស្ថានភាពរបស់អ្នក រឹងមាំ និងមានស្ថិរភាព ដោយមានបទពិសោធន៍ និងធនធានគាំទ្រ។ អ្នកកំពុងគ្រប់គ្រងបាន។"
+      },
+      "challenge": {
+        "en": "Focusing only on material success could leave other needs unmet. Remember what truly matters.",
+        "km": "ការផ្តោតតែលើភាពជោគជ័យផ្នែកសម្ភារៈ អាចធ្វើឱ្យតម្រូវការផ្សេងទៀតមិនត្រូវបានបំពេញ។ សូមចងចាំអ្វីដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "The likely outcome is lasting success and security. Wise management could keep that stability steady well into the future.",
+        "km": "លទ្ធផលដែលទំនងកើតឡើង គឺភាពជោគជ័យ និងសុវត្ថិភាពយូរអង្វែង។ ការគ្រប់គ្រងដោយឈ្លាសវៃ អាចរក្សាស្ថិរភាពនោះឱ្យនឹងនររហូតដល់អនាគតឆ្ងាយ។"
+      }
+    }
+  }
+}
