@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 52 of 100 questions (12,168 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 53 of 100 questions (12,402 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-23: Drafted FF-03 (“How can I resolve a family disagreement?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/FF-03.json. FF-03 family-disagreement readings AI-drafted; English and native Khmer review pending. Saved coverage 53/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted FF-02 (“How can I bring more harmony at home?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/FF-02.json. FF-02 harmony-at-home readings AI-drafted; English and native Khmer review pending. Saved coverage 52/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted FF-01 (“What is the atmosphere in my family right now?”, state): 78 cards × 3 positions in English and Khmer, src/content/readings/FF-01.json. FF-01 family-atmosphere readings AI-drafted; English and native Khmer review pending. Saved coverage 51/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted BI-10 (“Where is my business heading?”, heading): 78 cards × 3 positions in English and Khmer, src/content/readings/BI-10.json. BI-10 business-direction readings AI-drafted; English and native Khmer review pending. Saved coverage 50/100 questions; checks, typecheck and lint pass
