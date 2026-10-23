@@ -1,0 +1,1097 @@
+{
+  "questionId": "CW-03",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Volunteer for something new at work, even if you are not sure you can do it yet. Stepping into the unfamiliar is how skills grow.",
+        "km": "សូមស្ម័គ្រចិត្តធ្វើអ្វីថ្មីនៅកន្លែងធ្វើការ ទោះបីអ្នកមិនប្រាកដថាអ្នកអាចធ្វើវាបានក៏ដោយ។ ការឈានចូលក្នុងអ្វីដែលមិនធ្លាប់ស្គាល់ គឺជារបៀបដែលជំនាញរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Taking on new things without telling your manager could look careless. Show enthusiasm, but keep people informed.",
+        "km": "ការទទួលរឿងថ្មីៗ ដោយមិនប្រាប់អ្នកគ្រប់គ្រង អាចមើលទៅដូចជាធ្វេសប្រហែស។ សូមបង្ហាញភាពរីករាយ ប៉ុន្តែរក្សាឱ្យមនុស្សដឹងព័ត៌មាន។"
+      },
+      "outcome": {
+        "en": "You could discover strengths you did not know you had. A role that once felt routine may start to feel like an adventure.",
+        "km": "អ្នកអាចរកឃើញចំណុចខ្លាំងដែលអ្នកមិនដឹងថាអ្នកមាន។ តួនាទីដែលធ្លាប់មានអារម្មណ៍ដូចជាទម្លាប់ អាចចាប់ផ្តើមមានអារម្មណ៍ដូចជាការផ្សងព្រេង។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Use the skills you already have more visibly, offering solutions instead of waiting to be asked. Showing what you can do invites bigger tasks.",
+        "km": "សូមប្រើជំនាញដែលអ្នកមានរួចហើយ ឱ្យគេឃើញកាន់តែច្រើន ដោយផ្តល់ដំណោះស្រាយ ជំនួសឱ្យការរង់ចាំឱ្យគេសួរ។ ការបង្ហាញពីអ្វីដែលអ្នកអាចធ្វើ អញ្ជើញកិច្ចការធំៗ។"
+      },
+      "challenge": {
+        "en": "Trying to impress by juggling too many projects could lower the quality of your work. Master a few things well.",
+        "km": "ការព្យាយាមធ្វើឱ្យគេចាប់អារម្មណ៍ ដោយរៀបចំគម្រោងច្រើនពេក អាចធ្វើឱ្យគុណភាពការងាររបស់អ្នកធ្លាក់ចុះ។ សូមធ្វើរឿងមួយចំនួនឱ្យបានល្អ។"
+      },
+      "outcome": {
+        "en": "You could become known as the person who makes things happen. Visible results may lead to new responsibilities.",
+        "km": "អ្នកអាចត្រូវបានគេស្គាល់ថាជាមនុស្សដែលធ្វើឱ្យអ្វីៗកើតឡើង។ លទ្ធផលដែលមើលឃើញ អាចនាំទៅរកការទទួលខុសត្រូវថ្មីៗ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Pay close attention to how decisions are really made where you work. Quiet observation can show you where you could add value.",
+        "km": "សូមយកចិត្តទុកដាក់យ៉ាងជិតដិត ពីរបៀបដែលការសម្រេចចិត្តពិតជាត្រូវបានធ្វើនៅកន្លែងដែលអ្នកធ្វើការ។ ការសង្កេតដោយស្ងាត់ៗ អាចបង្ហាញអ្នកពីកន្លែងដែលអ្នកអាចបន្ថែមតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Keeping your ideas to yourself could mean someone else gets the credit. Share your insights at the right moment.",
+        "km": "ការរក្សាគំនិតរបស់អ្នកសម្រាប់ខ្លួនឯង អាចមានន័យថានរណាម្នាក់ផ្សេងទទួលបានកិត្តិយស។ សូមចែករំលែកការយល់ដឹងរបស់អ្នក នៅគ្រាដែលត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "You could earn a reputation for good judgement and insight. People may start to seek your opinion.",
+        "km": "អ្នកអាចទទួលបានកេរ្តិ៍ឈ្មោះសម្រាប់ការវិនិច្ឆ័យល្អ និងការយល់ដឹង។ មនុស្សអាចចាប់ផ្តើមស្វែងរកមតិរបស់អ្នក។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Nurture the projects and people around you, helping colleagues develop. Growth often comes from helping others grow.",
+        "km": "សូមថែរក្សាគម្រោង និងមនុស្សនៅជុំវិញអ្នក ដោយជួយសហការីឱ្យអភិវឌ្ឍ។ ការរីកចម្រើនតែងមកពីការជួយអ្នកដទៃឱ្យរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Focusing only on supporting others could leave your own development behind. Make sure you are growing too.",
+        "km": "ការផ្តោតតែលើការគាំទ្រអ្នកដទៃ អាចទុកការអភិវឌ្ឍរបស់អ្នកនៅពីក្រោយ។ សូមប្រាកដថាអ្នកក៏កំពុងរីកចម្រើនដែរ។"
+      },
+      "outcome": {
+        "en": "You could flourish as a mentor or creative force in your team. Your nurturing may be recognised and rewarded.",
+        "km": "អ្នកអាចរីកចម្រើនជាអ្នកណែនាំ ឬកម្លាំងច្នៃប្រឌិតក្នុងក្រុមរបស់អ្នក។ ការថែរក្សារបស់អ្នក អាចត្រូវបានទទួលស្គាល់ និងផ្តល់រង្វាន់។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Take ownership of a process or area and bring order to it. Showing you can manage things responsibly builds trust.",
+        "km": "សូមទទួលកាន់កាប់ដំណើរការ ឬផ្នែកមួយ ហើយនាំសណ្តាប់ធ្នាប់ទៅវា។ ការបង្ហាញថាអ្នកអាចគ្រប់គ្រងអ្វីៗដោយទទួលខុសត្រូវ កសាងការទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Becoming rigid about rules could make you seem inflexible to colleagues. Lead with structure, but stay open.",
+        "km": "ការតឹងរ៉ឹងអំពីច្បាប់ អាចធ្វើឱ្យអ្នកហាក់ដូចជាមិនបត់បែនចំពោះសហការី។ សូមដឹកនាំដោយរចនាសម្ព័ន្ធ ប៉ុន្តែនៅតែបើកចិត្ត។"
+      },
+      "outcome": {
+        "en": "You could step into a position of greater responsibility and authority. Reliable leadership may lead to promotion.",
+        "km": "អ្នកអាចឈានចូលក្នុងតួនាទីដែលមានការទទួលខុសត្រូវ និងសិទ្ធិអំណាចកាន់តែច្រើន។ ភាពជាអ្នកដឹកនាំដែលគួរឱ្យទុកចិត្ត អាចនាំទៅរកការដំឡើងតំណែង។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Find a mentor or take a formal course that builds your expertise. Learning from experienced people can speed your growth.",
+        "km": "សូមស្វែងរកអ្នកណែនាំ ឬចូលរៀនវគ្គផ្លូវការ ដែលកសាងជំនាញរបស់អ្នក។ ការរៀនពីមនុស្សដែលមានបទពិសោធន៍ អាចបង្កើនល្បឿនការរីកចម្រើនរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Following procedures without understanding why could keep you from improving them. Ask questions and learn the reasons.",
+        "km": "ការធ្វើតាមនីតិវិធី ដោយមិនយល់ពីមូលហេតុ អាចរារាំងអ្នកពីការកែលម្អវា។ សូមសួរសំណួរ និងរៀនពីហេតុផល។"
+      },
+      "outcome": {
+        "en": "You could gain respected knowledge or a qualification that opens doors. Recognised expertise may lift your standing.",
+        "km": "អ្នកអាចទទួលបានចំណេះដឹងដែលត្រូវបានគោរព ឬលក្ខណៈសម្បត្តិដែលបើកទ្វារ។ ជំនាញដែលត្រូវបានទទួលស្គាល់ អាចលើកកម្ពស់ឋានៈរបស់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Choose a direction within your job that fits your values, and commit to it. Clear choices help others see where you are heading.",
+        "km": "សូមជ្រើសរើសទិសដៅមួយក្នុងការងាររបស់អ្នក ដែលសមនឹងគុណតម្លៃរបស់អ្នក ហើយប្តេជ្ញាចិត្តចំពោះវា។ ជម្រើសច្បាស់លាស់ ជួយឱ្យអ្នកដទៃឃើញថាអ្នកកំពុងឆ្ពោះទៅណា។"
+      },
+      "challenge": {
+        "en": "Trying to please everyone could leave you without a clear focus. Decide what matters most to you.",
+        "km": "ការព្យាយាមផ្គាប់ចិត្តគ្រប់គ្នា អាចធ្វើឱ្យអ្នកគ្មានការផ្តោតច្បាស់លាស់។ សូមសម្រេចថាអ្វីសំខាន់បំផុតសម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "You could grow into a role that reflects your values and strengths. Strong working partnerships may support you.",
+        "km": "អ្នកអាចរីកចម្រើនទៅក្នុងតួនាទីដែលឆ្លុះបញ្ចាំងពីគុណតម្លៃ និងចំណុចខ្លាំងរបស់អ្នក។ ភាពជាដៃគូការងារដ៏រឹងមាំ អាចគាំទ្រអ្នក។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Set a clear goal for your growth, such as a skill, a target or a role, and pursue it with focus. Determination opens doors.",
+        "km": "សូមកំណត់គោលដៅច្បាស់លាស់សម្រាប់ការរីកចម្រើនរបស់អ្នក ដូចជាជំនាញ គោលដៅ ឬតួនាទី ហើយដេញតាមវាដោយការផ្តោត។ ការប្តេជ្ញាចិត្តបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Pushing ahead without bringing your team along could create quiet resistance. Win people's support as you advance.",
+        "km": "ការជំរុញទៅមុខ ដោយមិននាំក្រុមទៅជាមួយ អាចបង្កើតការប្រឆាំងស្ងាត់ៗ។ សូមទទួលបានការគាំទ្រពីមនុស្ស ខណៈអ្នកឈានទៅមុខ។"
+      },
+      "outcome": {
+        "en": "You could reach a clear milestone through steady drive. Progress may feel like a well-earned victory.",
+        "km": "អ្នកអាចឈានដល់ព្រឹត្តិការណ៍សំខាន់ច្បាស់លាស់មួយ តាមរយៈកម្លាំងជំរុញជាប្រចាំ។ ការរីកចម្រើនអាចមានអារម្មណ៍ដូចជាជ័យជម្នះដែលសក្តិសម។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Handle difficult people or tasks with patience and calm confidence. Grace under pressure is noticed and valued.",
+        "km": "សូមដោះស្រាយមនុស្ស ឬកិច្ចការលំបាក ដោយការអត់ធ្មត់ និងទំនុកចិត្តដ៏ស្ងប់។ ភាពថ្លៃថ្នូរក្រោមសម្ពាធ ត្រូវបានកត់សម្គាល់ និងឱ្យតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Doubting your own abilities could stop you from accepting tasks that would stretch you. You may be readier than you feel.",
+        "km": "ការសង្ស័យលើសមត្ថភាពខ្លួនឯង អាចរារាំងអ្នកពីការទទួលកិច្ចការដែលនឹងពង្រីកសមត្ថភាពរបស់អ្នក។ អ្នកប្រហែលជាត្រៀមខ្លួនជាងអ្វីដែលអ្នកមានអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "You could earn respect as someone steady and resilient. Quiet strength may lead to greater trust and responsibility.",
+        "km": "អ្នកអាចទទួលបានការគោរព ជាមនុស្សដែលនឹងនរ និងធន់។ កម្លាំងស្ងាត់ៗ អាចនាំទៅរកការទុកចិត្ត និងការទទួលខុសត្រូវកាន់តែច្រើន។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Take time to reflect on what you want from your career and what skills would get you there. Self-knowledge guides real growth.",
+        "km": "សូមចំណាយពេលពិចារណាលើអ្វីដែលអ្នកចង់បានពីអាជីព និងជំនាញអ្វីដែលនឹងនាំអ្នកទៅដល់ទីនោះ។ ការស្គាល់ខ្លួនឯងដឹកនាំការរីកចម្រើនពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Working in isolation could mean you miss chances to learn from others. Balance independent work with connection.",
+        "km": "ការធ្វើការដាច់ដោយឡែក អាចមានន័យថាអ្នកខកខានឱកាសរៀនពីអ្នកដទៃ។ សូមរក្សាតុល្យភាពការងារឯករាជ្យ ជាមួយការភ្ជាប់ទំនាក់ទំនង។"
+      },
+      "outcome": {
+        "en": "You could develop deep expertise and become a trusted specialist. Wisdom gained may guide others too.",
+        "km": "អ្នកអាចអភិវឌ្ឍជំនាញជ្រាលជ្រៅ ហើយក្លាយជាអ្នកជំនាញដែលគួរឱ្យទុកចិត្ត។ ប្រាជ្ញាដែលទទួលបាន អាចដឹកនាំអ្នកដទៃផងដែរ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Stay alert to changes in your workplace and be ready to step into new opportunities. Adaptability helps you grow.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះការផ្លាស់ប្តូរនៅកន្លែងធ្វើការ ហើយត្រៀមខ្លួនឈានចូលក្នុងឱកាសថ្មីៗ។ ភាពបត់បែនជួយអ្នកឱ្យរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Resisting change in your organisation could leave you behind. Learn to ride the shifts rather than fight them.",
+        "km": "ការប្រឆាំងនឹងការផ្លាស់ប្តូរក្នុងស្ថាប័នរបស់អ្នក អាចទុកអ្នកនៅពីក្រោយ។ សូមរៀនជិះលើការផ្លាស់ប្តូរ ជាជាងប្រយុទ្ធនឹងវា។"
+      },
+      "outcome": {
+        "en": "You could find yourself in the right place when a new opportunity arises. A lucky shift may move you forward.",
+        "km": "អ្នកអាចឃើញខ្លួនឯងនៅកន្លែងត្រឹមត្រូវ នៅពេលឱកាសថ្មីកើតឡើង។ ការផ្លាស់ប្តូរដ៏មានសំណាង អាចនាំអ្នកទៅមុខ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Do your work honestly and fairly, and take responsibility for your results. Integrity builds a reputation that lasts.",
+        "km": "សូមធ្វើការងាររបស់អ្នកដោយស្មោះត្រង់ និងយុត្តិធម៌ ហើយទទួលខុសត្រូវចំពោះលទ្ធផលរបស់អ្នក។ សុចរិតភាពកសាងកេរ្តិ៍ឈ្មោះដែលស្ថិតស្ថេរ។"
+      },
+      "challenge": {
+        "en": "Avoiding feedback or blaming others for mistakes could stall your progress. Own your part and learn from it.",
+        "km": "ការជៀសវាងមតិ ឬការបន្ទោសអ្នកដទៃចំពោះកំហុស អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកជាប់គាំង។ សូមទទួលស្គាល់ផ្នែករបស់អ្នក ហើយរៀនពីវា។"
+      },
+      "outcome": {
+        "en": "You could be recognised as someone fair and trustworthy. Honest, careful work may lead to just rewards.",
+        "km": "អ្នកអាចត្រូវបានទទួលស្គាល់ថាជាមនុស្សយុត្តិធម៌ និងគួរឱ្យទុកចិត្ត។ ការងារស្មោះត្រង់ និងប្រុងប្រយ័ត្ន អាចនាំទៅរករង្វាន់ដ៏យុត្តិធម៌។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Look at your role from a different angle, perhaps by asking colleagues how they see your work. A new view can reveal room to grow.",
+        "km": "សូមមើលតួនាទីរបស់អ្នកពីមុំផ្សេង ប្រហែលជាដោយសួរសហការីថាពួកគេមើលការងាររបស់អ្នកយ៉ាងណា។ ទស្សនៈថ្មីអាចបង្ហាញចន្លោះសម្រាប់រីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Waiting for someone else to offer you growth could keep you stuck. Take the initiative yourself.",
+        "km": "ការរង់ចាំឱ្យនរណាម្នាក់ផ្សេងផ្តល់ការរីកចម្រើនដល់អ្នក អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមផ្តួចផ្តើមដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "You could break through a plateau by changing how you approach your work. Fresh perspective may unlock progress.",
+        "km": "អ្នកអាចឆ្លងផុតភាពជាប់គាំង ដោយផ្លាស់ប្តូររបៀបដែលអ្នកចូលទៅរកការងារ។ ទស្សនៈថ្មីអាចដោះសោការរីកចម្រើន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Let go of old habits or tasks that no longer serve your growth. Clearing space makes room for new skills.",
+        "km": "សូមលះបង់ទម្លាប់ ឬកិច្ចការចាស់ៗ ដែលលែងបម្រើការរីកចម្រើនរបស់អ្នក។ ការជម្រះចន្លោះ បង្កើតកន្លែងសម្រាប់ជំនាញថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Clinging to the way you have always done things could hold you back. Be willing to change your approach.",
+        "km": "ការកាន់ជាប់នឹងរបៀបដែលអ្នកតែងធ្វើ អាចទប់អ្នក។ សូមសុខចិត្តផ្លាស់ប្តូរវិធីរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You could transform your role into something that fits your growth. Letting go may open a new chapter at work.",
+        "km": "អ្នកអាចផ្លាស់ប្តូរតួនាទីរបស់អ្នកទៅជាអ្វីដែលសមនឹងការរីកចម្រើនរបស់អ្នក។ ការលះបង់អាចបើកជំពូកថ្មីនៅកន្លែងធ្វើការ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Balance your workload and blend different skills in steady, patient ways. Consistent effort builds lasting growth.",
+        "km": "សូមរក្សាតុល្យភាពបន្ទុកការងាររបស់អ្នក ហើយលាយបញ្ចូលជំនាញផ្សេងៗតាមរបៀបនឹងនរ និងអត់ធ្មត់។ ការខិតខំជាប្រចាំកសាងការរីកចម្រើនយូរអង្វែង។"
+      },
+      "challenge": {
+        "en": "Rushing to advance could lead to careless mistakes or burnout. Grow at a pace you can keep up over the long run.",
+        "km": "ការប្រញាប់ឈានទៅមុខ អាចនាំទៅរកកំហុសដោយធ្វេសប្រហែស ឬការអស់កម្លាំង។ សូមរីកចម្រើនតាមល្បឿនដែលអ្នកអាចរក្សាបានយូរ។"
+      },
+      "outcome": {
+        "en": "You could grow steadily into a well-rounded professional. Patience may bring balanced progress that lasts.",
+        "km": "អ្នកអាចរីកចម្រើនជាលំដាប់ ទៅជាអ្នកជំនាញដែលមានជំនាញគ្រប់ជ្រុងជ្រោយ។ ការអត់ធ្មត់អាចនាំមកនូវការរីកចម្រើនដែលមានតុល្យភាព និងស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Notice what habits or fears are holding you back at work, such as fear of failure or overwork. Naming them helps you move past them.",
+        "km": "សូមកត់សម្គាល់ទម្លាប់ ឬការភ័យខ្លាចអ្វីដែលកំពុងទប់អ្នកនៅកន្លែងធ្វើការ ដូចជាការភ័យខ្លាចការបរាជ័យ ឬការធ្វើការហួសកម្លាំង។ ការដាក់ឈ្មោះវាជួយអ្នកឆ្លងផុតវា។"
+      },
+      "challenge": {
+        "en": "Staying in your comfort zone out of fear could limit your growth. Challenge yourself a little at a time.",
+        "km": "ការនៅក្នុងតំបន់សុខស្រួលដោយសារការភ័យខ្លាច អាចដាក់កម្រិតលើការរីកចម្រើនរបស់អ្នក។ សូមប្រជែងខ្លួនឯងបន្តិចម្តងៗ។"
+      },
+      "outcome": {
+        "en": "You could break free from limiting patterns and grow in confidence. Freedom from old habits may open new paths.",
+        "km": "អ្នកអាចរួចផុតពីលំនាំដែលដាក់កម្រិត ហើយរីកចម្រើនក្នុងទំនុកចិត្ត។ សេរីភាពពីទម្លាប់ចាស់ អាចបើកផ្លូវថ្មីៗ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Use any upheaval at work as a chance to show adaptability and leadership. Change can reveal hidden strengths.",
+        "km": "សូមប្រើភាពវឹកវរណាមួយនៅកន្លែងធ្វើការ ជាឱកាសបង្ហាញភាពបត់បែន និងភាពជាអ្នកដឹកនាំ។ ការផ្លាស់ប្តូរអាចបង្ហាញចំណុចខ្លាំងដែលលាក់កំបាំង។"
+      },
+      "challenge": {
+        "en": "Panicking during sudden changes could damage your reputation. Stay calm and focus on what you can control.",
+        "km": "ការភ័យស្លន់ស្លោក្នុងអំឡុងការផ្លាស់ប្តូរភ្លាមៗ អាចធ្វើឱ្យខូចកេរ្តិ៍ឈ្មោះរបស់អ្នក។ សូមនៅស្ងប់ ហើយផ្តោតលើអ្វីដែលអ្នកអាចគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "You could emerge from change stronger and more valued. Rebuilding may give you a bigger role.",
+        "km": "អ្នកអាចលេចចេញពីការផ្លាស់ប្តូរ ដោយរឹងមាំ និងត្រូវបានឱ្យតម្លៃជាងមុន។ ការកសាងឡើងវិញ អាចផ្តល់តួនាទីធំជាងមុនដល់អ្នក។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Set inspiring goals for your growth and remind yourself why your work matters. Hope can fuel steady effort.",
+        "km": "សូមកំណត់គោលដៅដែលបំផុសគំនិតសម្រាប់ការរីកចម្រើនរបស់អ្នក ហើយរំលឹកខ្លួនឯងថាហេតុអ្វីបានជាការងាររបស់អ្នកសំខាន់។ ក្តីសង្ឃឹមអាចជាឥន្ធនៈសម្រាប់ការខិតខំជាប្រចាំ។"
+      },
+      "challenge": {
+        "en": "Dreaming about advancement without a plan could leave you disappointed. Break big hopes into practical steps.",
+        "km": "ការស្រមៃអំពីការឡើងតំណែង ដោយគ្មានផែនការ អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមបំបែកក្តីសង្ឃឹមធំៗ ទៅជាជំហានជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "You could feel renewed motivation and a sense of purpose at work. Your hopes may begin to take shape.",
+        "km": "អ្នកអាចមានអារម្មណ៍កម្លាំងចិត្តថ្មី និងអារម្មណ៍នៃគោលបំណងនៅកន្លែងធ្វើការ។ ក្តីសង្ឃឹមរបស់អ្នក អាចចាប់ផ្តើមមានរូបរាង។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Ask for clear feedback when things feel uncertain or confusing. Understanding expectations is the first step to meeting them.",
+        "km": "សូមស្នើសុំមតិច្បាស់លាស់ នៅពេលអ្វីៗហាក់ដូចជាមិនប្រាកដ ឬច្របូកច្របល់។ ការយល់ពីការរំពឹងទុក គឺជាជំហានដំបូងក្នុងការបំពេញវា។"
+      },
+      "challenge": {
+        "en": "Guessing what your manager wants could lead you in the wrong direction. Check before you act.",
+        "km": "ការទាយពីអ្វីដែលអ្នកគ្រប់គ្រងចង់បាន អាចនាំអ្នកទៅទិសខុស។ សូមផ្ទៀងផ្ទាត់ មុននឹងអ្នកធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "You could gain clarity about where you stand and what to work on. Clear direction may speed your growth.",
+        "km": "អ្នកអាចទទួលបានភាពច្បាស់លាស់ អំពីកន្លែងដែលអ្នកនៅ និងអ្វីដែលត្រូវធ្វើការលើ។ ទិសដៅច្បាស់លាស់ អាចបង្កើនល្បឿនការរីកចម្រើនរបស់អ្នក។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Bring energy and positivity to your work, and let your enthusiasm show in meetings and projects. Confidence tends to attract opportunity.",
+        "km": "សូមនាំថាមពល និងភាពវិជ្ជមានមកកាន់ការងាររបស់អ្នក ហើយឱ្យភាពរីករាយរបស់អ្នកបង្ហាញក្នុងកិច្ចប្រជុំ និងគម្រោង។ ទំនុកចិត្តច្រើនតែទាក់ទាញឱកាស។"
+      },
+      "challenge": {
+        "en": "Assuming success will keep coming without effort could lead to complacency. Keep sharpening your skills while things go well.",
+        "km": "ការសន្មតថាជោគជ័យនឹងបន្តមកដល់ ដោយគ្មានការខិតខំ អាចនាំទៅរកការធ្វេសប្រហែស។ សូមបន្តធ្វើឱ្យជំនាញរបស់អ្នកមុតស្រួច ខណៈអ្វីៗដំណើរការល្អ។"
+      },
+      "outcome": {
+        "en": "You could shine at work and gain wide recognition. Success may feel natural, warm and well earned.",
+        "km": "អ្នកអាចភ្លឺចែងចាំងនៅកន្លែងធ្វើការ ហើយទទួលបានការទទួលស្គាល់ទូលំទូលាយ។ ជោគជ័យអាចមានអារម្មណ៍ធម្មជាតិ កក់ក្តៅ និងសក្តិសម។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Reflect on your past performance honestly and decide how you want to grow. A fresh commitment can renew your career.",
+        "km": "សូមពិចារណាលើការអនុវត្តការងារកន្លងមកដោយស្មោះត្រង់ ហើយសម្រេចថាអ្នកចង់រីកចម្រើនយ៉ាងណា។ ការប្តេជ្ញាចិត្តថ្មីអាចធ្វើឱ្យអាជីពរបស់អ្នកកើតជាថ្មី។"
+      },
+      "challenge": {
+        "en": "Being too hard on yourself for past mistakes could block progress. Take what the mistake taught you and keep going.",
+        "km": "ការធ្វើបាបខ្លួនឯងខ្លាំងពេកចំពោះកំហុសកន្លងមក អាចរារាំងការរីកចម្រើន។ សូមយកអ្វីដែលកំហុសនោះបានបង្រៀនអ្នក ហើយបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "You could feel a renewed sense of purpose in your work. A new chapter of growth may begin.",
+        "km": "អ្នកអាចមានអារម្មណ៍ឡើងវិញនូវគោលបំណងក្នុងការងារ។ ជំពូកថ្មីនៃការរីកចម្រើនអាចចាប់ផ្តើម។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Complete what you have started and celebrate your achievements before taking on the next challenge. Finishing well builds your reputation.",
+        "km": "សូមបញ្ចប់អ្វីដែលអ្នកបានចាប់ផ្តើម ហើយអបអរសមិទ្ធផលរបស់អ្នក មុននឹងទទួលបញ្ហាប្រឈមបន្ទាប់។ ការបញ្ចប់បានល្អកសាងកេរ្តិ៍ឈ្មោះរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Coasting on a finished achievement could stall your growth. Celebrate it, then choose the next challenge to work toward.",
+        "km": "ការសម្រាកលើសមិទ្ធផលដែលបានបញ្ចប់ អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកជាប់គាំង។ សូមអបអរវា រួចជ្រើសរើសបញ្ហាប្រឈមបន្ទាប់ដើម្បីធ្វើការឆ្ពោះទៅ។"
+      },
+      "outcome": {
+        "en": "You could reach a rewarding milestone that opens a new level. Completion may bring wider opportunities.",
+        "km": "អ្នកអាចឈានដល់ព្រឹត្តិការណ៍សំខាន់ដែលគួរឱ្យពេញចិត្ត ដែលបើកកម្រិតថ្មី។ ការបញ្ចប់អាចនាំមកនូវឱកាសទូលាយជាងមុន។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Pitch a fresh idea or propose a small project you would love to lead. Initiative is one of the fastest ways to grow.",
+        "km": "សូមបង្ហាញគំនិតថ្មី ឬស្នើគម្រោងតូចមួយដែលអ្នកចង់ដឹកនាំ។ ការផ្តួចផ្តើម គឺជាវិធីមួយដ៏លឿនបំផុតដើម្បីរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Losing interest after the exciting start could leave projects unfinished and your reputation dented. Carry your ideas through to results.",
+        "km": "ការបាត់ចំណាប់អារម្មណ៍ បន្ទាប់ពីការចាប់ផ្តើមដ៏គួរឱ្យរំភើប អាចទុកគម្រោងឱ្យមិនទាន់ចប់ និងធ្វើឱ្យកេរ្តិ៍ឈ្មោះរបស់អ្នករងផលប៉ះពាល់។ សូមធ្វើតាមគំនិតរបស់អ្នករហូតដល់មានលទ្ធផល។"
+      },
+      "outcome": {
+        "en": "Your initiative could spark a project that gets you noticed. A small idea may grow into a real opportunity.",
+        "km": "ការផ្តួចផ្តើមរបស់អ្នក អាចបង្កើតគម្រោងដែលធ្វើឱ្យអ្នកត្រូវបានកត់សម្គាល់។ គំនិតតូចមួយ អាចរីកចម្រើនទៅជាឱកាសពិតប្រាកដ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Map out where you want to be in your organisation and the steps to get there. A clear plan makes growth more likely.",
+        "km": "សូមគូសផែនទីពីកន្លែងដែលអ្នកចង់ទៅដល់ក្នុងស្ថាប័នរបស់អ្នក និងជំហានដើម្បីទៅដល់ទីនោះ។ ផែនការច្បាស់លាស់ធ្វើឱ្យការរីកចម្រើនកាន់តែអាចកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Keeping your ambitions to yourself could mean no one knows to support them. Share your goals with your manager.",
+        "km": "ការរក្សាមហិច្ឆតារបស់អ្នកសម្រាប់ខ្លួនឯង អាចមានន័យថាគ្មាននរណាដឹងដើម្បីគាំទ្រវា។ សូមចែករំលែកគោលដៅរបស់អ្នកជាមួយអ្នកគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "You could see a clear path forward and begin to follow it. Planning may turn ambition into steady progress.",
+        "km": "អ្នកអាចមើលឃើញផ្លូវទៅមុខច្បាស់លាស់ ហើយចាប់ផ្តើមដើរតាមវា។ ការរៀបចំផែនការ អាចប្រែមហិច្ឆតាទៅជាការរីកចម្រើនជាប្រចាំ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Look beyond your immediate tasks to how your work affects the wider organisation. Thinking bigger can reveal growth opportunities.",
+        "km": "សូមមើលហួសពីកិច្ចការភ្លាមៗរបស់អ្នក ទៅរករបៀបដែលការងាររបស់អ្នកប៉ះពាល់ស្ថាប័នទាំងមូល។ ការគិតធំជាងនេះ អាចបង្ហាញឱកាសរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Waiting for your efforts to be noticed without telling anyone could slow your progress. Make your contributions known.",
+        "km": "ការរង់ចាំឱ្យការខិតខំរបស់អ្នកត្រូវបានកត់សម្គាល់ ដោយមិនប្រាប់នរណា អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកយឺត។ សូមធ្វើឱ្យការរួមចំណែករបស់អ្នកត្រូវបានគេដឹង។"
+      },
+      "outcome": {
+        "en": "You could expand your influence beyond your immediate role. Wider vision may lead to wider opportunities.",
+        "km": "អ្នកអាចពង្រីកឥទ្ធិពលរបស់អ្នក ហួសពីតួនាទីភ្លាមៗ។ ចក្ខុវិស័យទូលាយជាងមុន អាចនាំទៅរកឱកាសទូលាយជាងមុន។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Build on the stable foundation you have and celebrate the progress already made. Recognising success can motivate further growth.",
+        "km": "សូមកសាងលើគ្រឹះដែលមានស្ថិរភាពដែលអ្នកមាន ហើយអបអរការរីកចម្រើនដែលបានធ្វើរួចហើយ។ ការទទួលស្គាល់ជោគជ័យ អាចជំរុញការរីកចម្រើនបន្ថែម។"
+      },
+      "challenge": {
+        "en": "Getting too comfortable could make you stop stretching yourself. Keep looking for the next challenge, even a modest one.",
+        "km": "ការសុខស្រួលពេក អាចធ្វើឱ្យអ្នកឈប់ពង្រីកខ្លួនឯង។ សូមបន្តស្វែងរកបញ្ហាប្រឈមបន្ទាប់ ទោះបីសាមញ្ញក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "You could reach a milestone worth celebrating. Stability may give you a strong base for further growth.",
+        "km": "អ្នកអាចឈានដល់ព្រឹត្តិការណ៍សំខាន់ដែលសមនឹងអបអរ។ ស្ថិរភាពអាចផ្តល់គ្រឹះរឹងមាំដល់អ្នក សម្រាប់ការរីកចម្រើនបន្ថែម។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Use healthy competition to sharpen your skills, and contribute your ideas in team discussions. Engaging in debate can help you grow.",
+        "km": "សូមប្រើការប្រកួតប្រជែងដែលមានសុខភាពល្អ ដើម្បីធ្វើឱ្យជំនាញរបស់អ្នកមុតស្រួច ហើយរួមចំណែកគំនិតរបស់អ្នកក្នុងការពិភាក្សាជាក្រុម។ ការចូលរួមក្នុងការជជែក អាចជួយអ្នកឱ្យរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Getting drawn into office rivalries could waste energy and damage relationships. Focus on doing excellent work.",
+        "km": "ការត្រូវបានទាញចូលក្នុងការប្រជែងក្នុងការិយាល័យ អាចខ្ជះខ្ជាយថាមពល និងបំផ្លាញទំនាក់ទំនង។ សូមផ្តោតលើការធ្វើការងារដ៏ល្អឥតខ្ចោះ។"
+      },
+      "outcome": {
+        "en": "You could learn to thrive in a competitive environment. Healthy challenge may bring out your best.",
+        "km": "អ្នកអាចរៀនរីកចម្រើនក្នុងបរិយាកាសដែលមានការប្រកួតប្រជែង។ បញ្ហាប្រឈមដែលមានសុខភាពល្អ អាចបញ្ចេញអ្វីល្អបំផុតរបស់អ្នក។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Let your achievements be seen, and ask for recognition when you have earned it. Visibility helps you grow.",
+        "km": "សូមឱ្យសមិទ្ធផលរបស់អ្នកត្រូវបានមើលឃើញ ហើយស្នើសុំការទទួលស្គាល់ នៅពេលអ្នកសក្តិសម។ ការមើលឃើញជួយអ្នកឱ្យរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Seeking praise more than progress could make you seem self-focused. Let solid results do most of the talking.",
+        "km": "ការស្វែងរកការសរសើរ ច្រើនជាងការរីកចម្រើន អាចធ្វើឱ្យអ្នកហាក់ដូចជាផ្តោតលើខ្លួនឯង។ សូមឱ្យលទ្ធផលរឹងមាំនិយាយភាគច្រើនជំនួសអ្នក។"
+      },
+      "outcome": {
+        "en": "You could gain recognition and a stronger reputation. Your success may open the door to promotion.",
+        "km": "អ្នកអាចទទួលបានការទទួលស្គាល់ និងកេរ្តិ៍ឈ្មោះរឹងមាំជាងមុន។ ជោគជ័យរបស់អ្នក អាចបើកទ្វារទៅរកការដំឡើងតំណែង។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Stand up for your ideas with confidence, even when others push back. Holding your ground can earn respect.",
+        "km": "សូមក្រោកឈរការពារគំនិតរបស់អ្នកដោយទំនុកចិត្ត ទោះបីអ្នកដទៃប្រឆាំងក៏ដោយ។ ការឈរមាំអាចទទួលបានការគោរព។"
+      },
+      "challenge": {
+        "en": "Defending every single point could make you seem difficult to work with. Choose which battles really matter.",
+        "km": "ការការពាររាល់ចំណុចនីមួយៗ អាចធ្វើឱ្យអ្នកហាក់ដូចជាពិបាកធ្វើការជាមួយ។ សូមជ្រើសរើសថាការប្រយុទ្ធណាដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "You could earn a reputation for conviction and courage. Standing firm may lead to greater influence.",
+        "km": "អ្នកអាចទទួលបានកេរ្តិ៍ឈ្មោះសម្រាប់ការជឿជាក់ និងភាពក្លាហាន។ ការឈរមាំអាចនាំទៅរកឥទ្ធិពលកាន់តែច្រើន។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Respond quickly to opportunities and keep up with the pace of change. Agility can help you stand out.",
+        "km": "សូមឆ្លើយតបយ៉ាងរហ័សចំពោះឱកាស ហើយតាមឱ្យទាន់ល្បឿននៃការផ្លាស់ប្តូរ។ ភាពរហ័សរហួនអាចជួយអ្នកឱ្យលេចធ្លោ។"
+      },
+      "challenge": {
+        "en": "Rushing could lead to errors that undermine the trust you are building. Move fast, but double-check before you deliver.",
+        "km": "ការប្រញាប់ អាចនាំទៅរកកំហុស ដែលធ្វើឱ្យការទុកចិត្តដែលអ្នកកំពុងកសាងចុះខ្សោយ។ សូមផ្លាស់ទីលឿន ប៉ុន្តែពិនិត្យម្តងទៀត មុននឹងប្រគល់។"
+      },
+      "outcome": {
+        "en": "You could seize opportunities quickly and advance faster than expected. Momentum may carry you into new responsibilities.",
+        "km": "អ្នកអាចចាប់យកឱកាសយ៉ាងរហ័ស ហើយឈានទៅមុខលឿនជាងអ្វីដែលរំពឹង។ សន្ទុះអាចនាំអ្នកចូលទៅក្នុងការទទួលខុសត្រូវថ្មីៗ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Keep going through difficult stretches, drawing on the resilience you have built. Persistence is a growth skill.",
+        "km": "សូមបន្តឆ្លងកាត់គ្រាលំបាក ដោយទាញយកភាពធន់ដែលអ្នកបានកសាង។ ការតស៊ូ គឺជាជំនាញរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Grinding on without breaks could wear down the very resilience that got you here. Guard your energy so you can keep growing.",
+        "km": "ការបន្តធ្វើការដោយគ្មានការសម្រាក អាចធ្វើឱ្យភាពធន់ដែលនាំអ្នកមកដល់ទីនេះចុះខ្សោយ។ សូមការពារថាមពលរបស់អ្នក ដើម្បីឱ្យអ្នកអាចបន្តរីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "You could come through challenges stronger and more capable. Your resilience may be rewarded with trust.",
+        "km": "អ្នកអាចឆ្លងកាត់បញ្ហាប្រឈម ដោយរឹងមាំ និងមានសមត្ថភាពជាងមុន។ ភាពធន់របស់អ្នក អាចទទួលបានរង្វាន់ជាការទុកចិត្ត។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Delegate or let go of tasks that do not help you grow. Freeing up energy can let you focus on development.",
+        "km": "សូមប្រគល់ភារកិច្ច ឬលះបង់កិច្ចការដែលមិនជួយអ្នកឱ្យរីកចម្រើន។ ការរំដោះថាមពល អាចឱ្យអ្នកផ្តោតលើការអភិវឌ្ឍ។"
+      },
+      "challenge": {
+        "en": "Taking on too much to prove yourself could lead to exhaustion. Quality matters more than quantity.",
+        "km": "ការទទួលច្រើនពេក ដើម្បីបញ្ជាក់ខ្លួនឯង អាចនាំទៅរកការអស់កម្លាំង។ គុណភាពសំខាន់ជាងបរិមាណ។"
+      },
+      "outcome": {
+        "en": "You could feel lighter and more focused on growth. Shedding extra load may help you advance.",
+        "km": "អ្នកអាចមានអារម្មណ៍ស្រាល និងផ្តោតលើការរីកចម្រើនកាន់តែច្រើន។ ការដកបន្ទុកបន្ថែមចេញ អាចជួយអ្នកឈានទៅមុខ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Be curious and ask to learn new skills or shadow colleagues in different roles. Enthusiasm for learning is noticed.",
+        "km": "សូមចង់ដឹងចង់ឃើញ ហើយស្នើសុំរៀនជំនាញថ្មី ឬតាមដានសហការីក្នុងតួនាទីផ្សេងៗ។ ភាពរីករាយក្នុងការរៀន ត្រូវបានកត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Jumping between interests without finishing could look unfocused to others. Follow through on one learning goal.",
+        "km": "ការលោតពីចំណាប់អារម្មណ៍មួយទៅមួយទៀត ដោយមិនបញ្ចប់ អាចមើលទៅដូចជាមិនផ្តោតចំពោះអ្នកដទៃ។ សូមធ្វើតាមគោលដៅរៀនមួយរហូតដល់ចប់។"
+      },
+      "outcome": {
+        "en": "You could open new doors through curiosity and learning. A fresh skill may lead to a new role.",
+        "km": "អ្នកអាចបើកទ្វារថ្មីៗ តាមរយៈការចង់ដឹងចង់ឃើញ និងការរៀន។ ជំនាញថ្មីមួយ អាចនាំទៅរកតួនាទីថ្មី។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Take bold action on a project or idea you believe in. Energy and courage can accelerate your growth.",
+        "km": "សូមធ្វើសកម្មភាពក្លាហានលើគម្រោង ឬគំនិតដែលអ្នកជឿជាក់។ ថាមពល និងភាពក្លាហាន អាចបង្កើនល្បឿនការរីកចម្រើនរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Acting on impulse could create problems that slow you down later. Channel your energy through a simple plan.",
+        "km": "ការធ្វើសកម្មភាពដោយភ្លាមៗ អាចបង្កើតបញ្ហាដែលធ្វើឱ្យអ្នកយឺតនៅពេលក្រោយ។ សូមបង្វែរថាមពលរបស់អ្នក តាមរយៈផែនការសាមញ្ញមួយ។"
+      },
+      "outcome": {
+        "en": "You could make rapid progress through bold initiative. Your energy may inspire others to follow your lead.",
+        "km": "អ្នកអាចធ្វើការរីកចម្រើនរហ័ស តាមរយៈការផ្តួចផ្តើមដ៏ក្លាហាន។ ថាមពលរបស់អ្នក អាចបំផុសគំនិតអ្នកដទៃឱ្យធ្វើតាមការដឹកនាំរបស់អ្នក។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Show confidence and warmth in your work, and take on visible leadership roles. Presence can open doors.",
+        "km": "សូមបង្ហាញទំនុកចិត្ត និងភាពកក់ក្តៅក្នុងការងាររបស់អ្នក ហើយទទួលតួនាទីដឹកនាំដែលមើលឃើញ។ វត្តមានអាចបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Saying yes to every visible role could dilute your impact. Pick the ones that use what you do best.",
+        "km": "ការយល់ព្រមចំពោះរាល់តួនាទីដែលមើលឃើញ អាចធ្វើឱ្យឥទ្ធិពលរបស់អ្នករលាយ។ សូមជ្រើសរើសតួនាទីដែលប្រើអ្វីដែលអ្នកធ្វើបានល្អបំផុត។"
+      },
+      "outcome": {
+        "en": "You could become a recognised leader in your team. Confidence may lead to growth and influence.",
+        "km": "អ្នកអាចក្លាយជាអ្នកដឹកនាំដែលត្រូវបានទទួលស្គាល់ក្នុងក្រុមរបស់អ្នក។ ទំនុកចិត្តអាចនាំទៅរកការរីកចម្រើន និងឥទ្ធិពល។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Share your vision for how things could improve and offer to lead the change. Leadership is a path to growth.",
+        "km": "សូមចែករំលែកចក្ខុវិស័យរបស់អ្នកអំពីរបៀបដែលអ្វីៗអាចកែលម្អ ហើយស្នើដឹកនាំការផ្លាស់ប្តូរ។ ភាពជាអ្នកដឹកនាំ គឺជាផ្លូវទៅរកការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Trying to control every detail could alienate colleagues. Lead by inspiring people rather than dictating to them.",
+        "km": "ការព្យាយាមគ្រប់គ្រងរាល់ព័ត៌មានលម្អិត អាចធ្វើឱ្យសហការីឃ្លាតឆ្ងាយ។ សូមដឹកនាំដោយការបំផុសគំនិតមនុស្ស ជាជាងបញ្ជាពួកគេ។"
+      },
+      "outcome": {
+        "en": "You could step into a leadership role that suits your vision. Your ideas may shape the direction of your team.",
+        "km": "អ្នកអាចឈានចូលក្នុងតួនាទីដឹកនាំ ដែលសមនឹងចក្ខុវិស័យរបស់អ្នក។ គំនិតរបស់អ្នក អាចកំណត់ទិសដៅនៃក្រុមរបស់អ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Bring more of your heart into your work by focusing on the parts you genuinely care about. Passion can be the engine of growth.",
+        "km": "សូមនាំបេះដូងរបស់អ្នកចូលក្នុងការងារកាន់តែច្រើន ដោយផ្តោតលើផ្នែកដែលអ្នកពិតជាយកចិត្តទុកដាក់។ ចំណង់ចំណូលចិត្តអាចជាម៉ាស៊ីននៃការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Ignoring how your work makes you feel could leave you drifting without motivation. Notice which tasks give you energy and which drain it.",
+        "km": "ការមិនខ្វល់ពីអារម្មណ៍ដែលការងារបង្កើតឱ្យអ្នក អាចធ្វើឱ្យអ្នករសាត់ដោយគ្មានកម្លាំងចិត្ត។ សូមកត់សម្គាល់ថាកិច្ចការណាផ្តល់ថាមពល និងកិច្ចការណាបង្ហូរវា។"
+      },
+      "outcome": {
+        "en": "Work could start to feel more meaningful and emotionally rewarding. A new project you care about may open a fresh path.",
+        "km": "ការងារអាចចាប់ផ្តើមមានអារម្មណ៍មានអត្ថន័យ និងគួរឱ្យពេញចិត្តផ្នែកអារម្មណ៍ជាងមុន។ គម្រោងថ្មីដែលអ្នកយកចិត្តទុកដាក់ អាចបើកផ្លូវថ្មីមួយ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Build a strong working relationship with a colleague or mentor you respect. Good partnerships can help you both grow faster.",
+        "km": "សូមកសាងទំនាក់ទំនងការងារដ៏រឹងមាំ ជាមួយសហការី ឬអ្នកណែនាំដែលអ្នកគោរព។ ភាពជាដៃគូល្អ អាចជួយអ្នកទាំងពីររីកចម្រើនលឿនជាងមុន។"
+      },
+      "challenge": {
+        "en": "Depending on one ally for every opportunity could limit you if they move on. Build relationships across the whole team.",
+        "km": "ការពឹងលើសម្ព័ន្ធមិត្តតែម្នាក់សម្រាប់រាល់ឱកាស អាចដាក់កម្រិតអ្នក ប្រសិនបើគេផ្លាស់ទៅកន្លែងផ្សេង។ សូមកសាងទំនាក់ទំនងទូទាំងក្រុមទាំងមូល។"
+      },
+      "outcome": {
+        "en": "A valuable partnership at work could open doors for you both. Mutual support may lead to shared success and growth.",
+        "km": "ភាពជាដៃគូដ៏មានតម្លៃនៅកន្លែងធ្វើការ អាចបើកទ្វារសម្រាប់អ្នកទាំងពីរ។ ការគាំទ្រគ្នាទៅវិញទៅមក អាចនាំទៅរកជោគជ័យ និងការរីកចម្រើនរួម។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Invest in team relationships, joining in shared projects and celebrating others' successes. A supportive network helps everyone grow.",
+        "km": "សូមវិនិយោគលើទំនាក់ទំនងក្រុម ដោយចូលរួមក្នុងគម្រោងរួម និងអបអរជោគជ័យរបស់អ្នកដទៃ។ បណ្តាញដែលគាំទ្រ ជួយគ្រប់គ្នាឱ្យរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Letting socialising crowd out real work could undermine your credibility. Keep a healthy balance between connection and focus.",
+        "km": "ការឱ្យការសេពគប់រុញច្រានការងារពិតប្រាកដ អាចធ្វើឱ្យភាពគួរឱ្យជឿរបស់អ្នកចុះខ្សោយ។ សូមរក្សាតុល្យភាពល្អរវាងទំនាក់ទំនង និងការផ្តោតអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "You could grow alongside a team that lifts each other up. Shared wins may make your progress feel more joyful.",
+        "km": "អ្នកអាចរីកចម្រើនរួមជាមួយក្រុមដែលលើកទឹកចិត្តគ្នាទៅវិញទៅមក។ ជ័យជម្នះរួមអាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកមានអារម្មណ៍រីករាយជាងមុន។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Look again at the opportunities in your current role that you may have dismissed. Hidden chances for growth may already be in front of you.",
+        "km": "សូមមើលម្តងទៀតពីឱកាសក្នុងតួនាទីបច្ចុប្បន្ន ដែលអ្នកប្រហែលជាបានច្រានចោល។ ឱកាសលាក់កំបាំងសម្រាប់រីកចម្រើន ប្រហែលជានៅចំពោះមុខអ្នករួចហើយ។"
+      },
+      "challenge": {
+        "en": "Boredom or disinterest could make you turn down offers that would help you grow. Say yes to at least one new thing.",
+        "km": "ភាពធុញទ្រាន់ ឬការមិនចាប់អារម្មណ៍ អាចធ្វើឱ្យអ្នកបដិសេធការផ្តល់ជូនដែលនឹងជួយអ្នករីកចម្រើន។ សូមយល់ព្រមចំពោះរឿងថ្មីយ៉ាងហោចណាស់មួយ។"
+      },
+      "outcome": {
+        "en": "You could rediscover motivation by seeing your role with fresh eyes. An overlooked task may turn out to be a stepping stone.",
+        "km": "អ្នកអាចរកឃើញកម្លាំងចិត្តឡើងវិញ ដោយមើលតួនាទីរបស់អ្នកដោយភ្នែកថ្មី។ កិច្ចការដែលធ្លាប់មើលរំលង អាចប្រែជាថ្មជំហានមួយ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Reflect on a past setback at work and what it taught you. Turning disappointment into learning is a powerful way to grow.",
+        "km": "សូមពិចារណាលើការថយក្រោយកន្លងមកនៅកន្លែងធ្វើការ និងអ្វីដែលវាបានបង្រៀនអ្នក។ ការប្រែការខកចិត្តទៅជាការរៀន គឺជាវិធីដ៏មានឥទ្ធិពលដើម្បីរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Dwelling on a missed promotion or failed project could keep you from trying again. Learn the lesson, then look forward.",
+        "km": "ការគិតតែពីការខកខានដំឡើងតំណែង ឬគម្រោងដែលបរាជ័យ អាចរារាំងអ្នកពីការព្យាយាមម្តងទៀត។ សូមរៀនមេរៀន រួចមើលទៅមុខ។"
+      },
+      "outcome": {
+        "en": "You could bounce back from setbacks with new skills and resilience. What once felt like loss may become a lesson that serves you.",
+        "km": "អ្នកអាចងើបឡើងវិញពីការថយក្រោយ ជាមួយជំនាញថ្មី និងភាពធន់។ អ្វីដែលធ្លាប់មានអារម្មណ៍ដូចជាការបាត់បង់ អាចក្លាយជាមេរៀនដែលបម្រើអ្នក។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Draw on skills or interests from your past that could add value to your current job. Old strengths can open new doors.",
+        "km": "សូមទាញយកជំនាញ ឬចំណាប់អារម្មណ៍ពីអតីតកាល ដែលអាចបន្ថែមតម្លៃដល់ការងារបច្ចុប្បន្ន។ ចំណុចខ្លាំងចាស់ៗ អាចបើកទ្វារថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Missing the way the job used to be could make it hard to adapt. Carry the best of the old ways into how you work.",
+        "km": "ការនឹករលឹករបៀបដែលការងារធ្លាប់មាន អាចធ្វើឱ្យពិបាកសម្របខ្លួន។ សូមនាំអ្វីដែលល្អបំផុតពីរបៀបចាស់ ចូលក្នុងរបៀបដែលអ្នកធ្វើការ។"
+      },
+      "outcome": {
+        "en": "You could find that past experience makes you more valuable than you realised. A familiar skill may lead to a new responsibility.",
+        "km": "អ្នកអាចឃើញថា បទពិសោធន៍កន្លងមកធ្វើឱ្យអ្នកមានតម្លៃជាងអ្វីដែលអ្នកដឹង។ ជំនាញដែលធ្លាប់ស្គាល់ អាចនាំទៅរកការទទួលខុសត្រូវថ្មី។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Choose one or two realistic growth goals from all the possibilities you can see. Focus turns options into progress.",
+        "km": "សូមជ្រើសរើសគោលដៅរីកចម្រើនជាក់ស្តែងមួយ ឬពីរ ពីលទ្ធភាពទាំងអស់ដែលអ្នកអាចមើលឃើញ។ ការផ្តោតប្រែជម្រើសទៅជាការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Daydreaming about many different career paths could leave you stuck where you are. Pick one and take a first concrete step.",
+        "km": "ការស្រមៃអំពីផ្លូវអាជីពផ្សេងៗជាច្រើន អាចធ្វើឱ្យអ្នកជាប់គាំងនៅកន្លែងដដែល។ សូមជ្រើសរើសមួយ ហើយដើរជំហានជាក់ស្តែងដំបូង។"
+      },
+      "outcome": {
+        "en": "You could gain clarity about which direction suits you best. Focusing on one realistic goal may bring real growth.",
+        "km": "អ្នកអាចទទួលបានភាពច្បាស់លាស់ អំពីទិសដៅណាដែលសមនឹងអ្នកបំផុត។ ការផ្តោតលើគោលដៅជាក់ស្តែងមួយ អាចនាំមកនូវការរីកចម្រើនពិតប្រាកដ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Think honestly about what is missing from your work and seek ways to add more meaning. Growth can come from looking deeper.",
+        "km": "សូមគិតដោយស្មោះត្រង់អំពីអ្វីដែលខ្វះខាតពីការងាររបស់អ្នក ហើយស្វែងរកវិធីបន្ថែមអត្ថន័យ។ ការរីកចម្រើនអាចមកពីការមើលឱ្យជ្រៅជាងនេះ។"
+      },
+      "challenge": {
+        "en": "Mentally checking out of your job could stall any progress. If something is missing, name it and look for ways to change it.",
+        "km": "ការដកខ្លួនចេញពីការងារផ្នែកផ្លូវចិត្ត អាចធ្វើឱ្យការរីកចម្រើនណាមួយជាប់គាំង។ ប្រសិនបើអ្វីមួយខ្វះខាត សូមដាក់ឈ្មោះវា ហើយរកវិធីផ្លាស់ប្តូរវា។"
+      },
+      "outcome": {
+        "en": "You could move toward work that feels more fulfilling, within or beyond your current role. A deeper sense of purpose may guide you.",
+        "km": "អ្នកអាចឆ្ពោះទៅរកការងារដែលមានអារម្មណ៍គួរឱ្យពេញចិត្តជាងមុន ទាំងក្នុង ឬហួសពីតួនាទីបច្ចុប្បន្ន។ អារម្មណ៍នៃគោលបំណងដ៏ជ្រាលជ្រៅជាងមុន អាចដឹកនាំអ្នក។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Take pride in what you have achieved and ask what would make your work even more satisfying. Contentment can be a springboard.",
+        "km": "សូមមានមោទនភាពចំពោះអ្វីដែលអ្នកបានសម្រេច ហើយសួរថាអ្វីនឹងធ្វើឱ្យការងាររបស់អ្នកកាន់តែគួរឱ្យពេញចិត្ត។ ការពេញចិត្តអាចជាក្តារលោត។"
+      },
+      "challenge": {
+        "en": "Settling into comfort could make you stop growing altogether. Keep a goal on the horizon, even a small one.",
+        "km": "ការតាំងលំនៅក្នុងភាពសុខស្រួល អាចធ្វើឱ្យអ្នកឈប់រីកចម្រើនទាំងស្រុង។ សូមរក្សាគោលដៅមួយនៅលើជើងមេឃ ទោះបីតូចក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "You could reach a level of satisfaction that feels well deserved. A wish for your career may come true through steady effort.",
+        "km": "អ្នកអាចឈានដល់កម្រិតនៃការពេញចិត្ត ដែលមានអារម្មណ៍ថាសក្តិសម។ បំណងប្រាថ្នាសម្រាប់អាជីពរបស់អ្នក អាចក្លាយជាការពិតតាមរយៈការខិតខំជាប្រចាំ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Look for ways to grow that also support your wellbeing and life outside work. Lasting growth fits the whole of your life.",
+        "km": "សូមស្វែងរកវិធីរីកចម្រើន ដែលក៏គាំទ្រសុខុមាលភាព និងជីវិតក្រៅការងាររបស់អ្នក។ ការរីកចម្រើនយូរអង្វែង សមនឹងជីវិតទាំងមូលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Chasing advancement at the cost of family or health could leave you unhappy. Balance ambition with what matters most.",
+        "km": "ការដេញតាមការឡើងតំណែង ដោយលះបង់គ្រួសារ ឬសុខភាព អាចធ្វើឱ្យអ្នកមិនសប្បាយចិត្ត។ សូមរក្សាតុល្យភាពមហិច្ឆតា ជាមួយអ្វីដែលសំខាន់បំផុត។"
+      },
+      "outcome": {
+        "en": "You could find growth that brings harmony between work and home. A fulfilling career may support a happy life.",
+        "km": "អ្នកអាចរកឃើញការរីកចម្រើន ដែលនាំមកនូវភាពសុខដុមរវាងការងារ និងផ្ទះ។ អាជីពដែលគួរឱ្យពេញចិត្ត អាចគាំទ្រជីវិតដ៏រីករាយ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Explore the creative or intuitive side of your role, perhaps by suggesting a new approach. Fresh ideas can help you stand out.",
+        "km": "សូមស្វែងយល់ផ្នែកច្នៃប្រឌិត ឬវិចារណញាណនៃតួនាទីរបស់អ្នក ប្រហែលជាដោយស្នើវិធីថ្មីមួយ។ គំនិតថ្មីៗអាចជួយអ្នកឱ្យលេចធ្លោ។"
+      },
+      "challenge": {
+        "en": "Taking feedback too personally could make you hesitate to share ideas. Treat criticism as guidance, not rejection.",
+        "km": "ការយកមតិមកដាក់ក្នុងចិត្តពេក អាចធ្វើឱ្យអ្នកស្ទាក់ស្ទើរក្នុងការចែករំលែកគំនិត។ សូមចាត់ទុកការរិះគន់ជាការណែនាំ មិនមែនជាការបដិសេធទេ។"
+      },
+      "outcome": {
+        "en": "You could grow through creative contributions that get noticed. A gentle new idea may lead to bigger opportunities.",
+        "km": "អ្នកអាចរីកចម្រើនតាមរយៈការរួមចំណែកច្នៃប្រឌិតដែលត្រូវបានកត់សម្គាល់។ គំនិតថ្មីដ៏ទន់ភ្លន់ អាចនាំទៅរកឱកាសធំៗ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Follow the parts of your work that inspire you, and offer to take on projects you feel passionate about. Enthusiasm fuels growth.",
+        "km": "សូមធ្វើតាមផ្នែកនៃការងារដែលបំផុសគំនិតអ្នក ហើយស្នើទទួលគម្រោងដែលអ្នកមានចំណង់ចំណូលចិត្ត។ ភាពរីករាយជាឥន្ធនៈនៃការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Promising more than you can deliver out of enthusiasm could backfire. Match your offers to your real capacity.",
+        "km": "ការសន្យាច្រើនជាងអ្វីដែលអ្នកអាចធ្វើបាន ដោយសារភាពរីករាយ អាចមានផលវិបាក។ សូមផ្គូផ្គងការផ្តល់ជូនរបស់អ្នក ទៅនឹងសមត្ថភាពពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "You could grow into work that matches your passion. An inspiring project may lead to a new role.",
+        "km": "អ្នកអាចរីកចម្រើនទៅក្នុងការងារដែលសមនឹងចំណង់ចំណូលចិត្តរបស់អ្នក។ គម្រោងដែលបំផុសគំនិត អាចនាំទៅរកតួនាទីថ្មី។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Use your empathy and emotional intelligence to support colleagues and clients. These skills are increasingly valued.",
+        "km": "សូមប្រើការយល់ចិត្ត និងភាពវៃឆ្លាតផ្នែកអារម្មណ៍របស់អ្នក ដើម្បីគាំទ្រសហការី និងអតិថិជន។ ជំនាញទាំងនេះត្រូវបានឱ្យតម្លៃកាន់តែខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Absorbing everyone's stress could leave you drained and unable to grow. Set limits on how much you take on emotionally.",
+        "km": "ការស្រូបយកភាពតានតឹងរបស់គ្រប់គ្នា អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងមិនអាចរីកចម្រើន។ សូមកំណត់ដែនកំណត់លើបរិមាណដែលអ្នកទទួលផ្នែកអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "You could become known for your emotional wisdom and care. People skills may lead to a leadership or support role.",
+        "km": "អ្នកអាចត្រូវបានគេស្គាល់សម្រាប់ប្រាជ្ញាផ្នែកអារម្មណ៍ និងការយកចិត្តទុកដាក់របស់អ្នក។ ជំនាញទំនាក់ទំនងមនុស្ស អាចនាំទៅរកតួនាទីដឹកនាំ ឬគាំទ្រ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Stay calm and balanced under pressure, offering steady guidance to others. Emotional maturity is a leadership skill.",
+        "km": "សូមនៅស្ងប់ និងមានតុល្យភាពក្រោមសម្ពាធ ដោយផ្តល់ការណែនាំដ៏នឹងនរដល់អ្នកដទៃ។ ភាពចាស់ទុំផ្នែកអារម្មណ៍ គឺជាជំនាញដឹកនាំ។"
+      },
+      "challenge": {
+        "en": "Keeping your own ambitions too quiet could leave them unnoticed. Let people know what you want to achieve.",
+        "km": "ការរក្សាមហិច្ឆតាខ្លួនឯងស្ងាត់ពេក អាចធ្វើឱ្យវាមិនត្រូវបានកត់សម្គាល់។ សូមប្រាប់មនុស្សពីអ្វីដែលអ្នកចង់សម្រេច។"
+      },
+      "outcome": {
+        "en": "You could grow into a respected, steady leader. Calm wisdom may earn you greater responsibility over time.",
+        "km": "អ្នកអាចរីកចម្រើនទៅជាអ្នកដឹកនាំដ៏នឹងនរ និងត្រូវបានគោរព។ ប្រាជ្ញាដ៏ស្ងប់ អាចធ្វើឱ្យអ្នកទទួលបានការទទួលខុសត្រូវកាន់តែច្រើនជាលំដាប់។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Get clear about the one skill or result that would make the biggest difference in your role. Sharp focus can cut a fast path to growth.",
+        "km": "សូមច្បាស់លាស់អំពីជំនាញ ឬលទ្ធផលមួយ ដែលនឹងធ្វើឱ្យមានភាពខុសគ្នាធំបំផុតក្នុងតួនាទីរបស់អ្នក។ ការផ្តោតមុតស្រួច អាចកាត់ផ្លូវលឿនទៅរកការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Sharing your ideas too bluntly could put colleagues on the defensive. Present your insights with tact so they are heard.",
+        "km": "ការចែករំលែកគំនិតរបស់អ្នកត្រង់ពេក អាចធ្វើឱ្យសហការីការពារខ្លួន។ សូមបង្ហាញការយល់ដឹងរបស់អ្នកដោយប៉ិនប្រសប់ ដើម្បីឱ្យវាត្រូវបានស្តាប់។"
+      },
+      "outcome": {
+        "en": "A clear breakthrough could set your growth in motion. A sharp idea may earn you a new level of trust.",
+        "km": "ការយល់ដឹងថ្មីដ៏ច្បាស់លាស់ អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកចាប់ផ្តើមដំណើរការ។ គំនិតមុតស្រួចមួយ អាចធ្វើឱ្យអ្នកទទួលបានកម្រិតថ្មីនៃការទុកចិត្ត។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Make the decision you have been avoiding about your role, such as taking on a new task or saying no to an old one. Clarity frees up energy.",
+        "km": "សូមធ្វើការសម្រេចចិត្តដែលអ្នកបានជៀសវាងអំពីតួនាទីរបស់អ្នក ដូចជាការទទួលកិច្ចការថ្មី ឬការបដិសេធកិច្ចការចាស់។ ភាពច្បាស់លាស់រំដោះថាមពល។"
+      },
+      "challenge": {
+        "en": "Sitting on the fence about your direction could leave you stuck. Gather what you need to know, then choose.",
+        "km": "ការអង្គុយលើរបងអំពីទិសដៅរបស់អ្នក អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមប្រមូលអ្វីដែលអ្នកត្រូវដឹង រួចជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "A clear decision could open the way to growth that has been blocked. Choosing may bring relief and momentum.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់ អាចបើកផ្លូវទៅរកការរីកចម្រើនដែលត្រូវបានរារាំង។ ការជ្រើសរើសអាចនាំមកនូវការធូរស្រាល និងសន្ទុះ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Learn from a painful experience at work, such as criticism or a failed project, instead of hiding from it. Growth often begins with honest reflection.",
+        "km": "សូមរៀនពីបទពិសោធន៍ដ៏ឈឺចាប់នៅកន្លែងធ្វើការ ដូចជាការរិះគន់ ឬគម្រោងដែលបរាជ័យ ជំនួសឱ្យការលាក់ខ្លួនពីវា។ ការរីកចម្រើនតែងចាប់ផ្តើមពីការពិចារណាដោយស្មោះត្រង់។"
+      },
+      "challenge": {
+        "en": "Taking criticism as a personal attack could stop you from improving. Look for the useful part in hard feedback.",
+        "km": "ការចាត់ទុកការរិះគន់ជាការវាយប្រហារផ្ទាល់ខ្លួន អាចរារាំងអ្នកពីការកែលម្អ។ សូមស្វែងរកផ្នែកដែលមានប្រយោជន៍ក្នុងមតិដ៏ពិបាក។"
+      },
+      "outcome": {
+        "en": "You could grow stronger and wiser after a difficult lesson. Healing from a setback may make you more resilient.",
+        "km": "អ្នកអាចរីកចម្រើនរឹងមាំ និងឈ្លាសវៃជាងមុន បន្ទាប់ពីមេរៀនដ៏លំបាក។ ការជាសះស្បើយពីការថយក្រោយ អាចធ្វើឱ្យអ្នកធន់ជាងមុន។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Take a short break or recharge before pushing for the next step. Rest can help you think clearly about growth.",
+        "km": "សូមឈប់សម្រាកខ្លី ឬបញ្ចូលថាមពល មុននឹងជំរុញជំហានបន្ទាប់។ ការសម្រាកអាចជួយអ្នកគិតឱ្យច្បាស់អំពីការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Running yourself down to prove your commitment could backfire. Recovery is part of a sustainable career.",
+        "km": "ការធ្វើឱ្យខ្លួនឯងអស់កម្លាំង ដើម្បីបញ្ជាក់ការប្តេជ្ញាចិត្តរបស់អ្នក អាចមានផលវិបាក។ ការស្តារកម្លាំងគឺជាផ្នែកមួយនៃអាជីពដែលអាចរក្សាបាន។"
+      },
+      "outcome": {
+        "en": "You could return to work refreshed and ready to grow. A pause may help you see the next step clearly.",
+        "km": "អ្នកអាចត្រឡប់មកធ្វើការវិញ ដោយស្រស់ថ្លា និងត្រៀមខ្លួនរីកចម្រើន។ ការផ្អាកអាចជួយអ្នកឱ្យមើលឃើញជំហានបន្ទាប់យ៉ាងច្បាស់។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Choose cooperation over competition where you can, and focus on shared goals. Being a team player can open doors.",
+        "km": "សូមជ្រើសរើសកិច្ចសហការ ជាជាងការប្រកួតប្រជែង នៅកន្លែងដែលអ្នកអាច ហើយផ្តោតលើគោលដៅរួម។ ការជាអ្នកលេងជាក្រុម អាចបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Trying to win every argument at work could damage your relationships and reputation. Let some battles go.",
+        "km": "ការព្យាយាមឈ្នះរាល់ការឈ្លោះនៅកន្លែងធ្វើការ អាចបំផ្លាញទំនាក់ទំនង និងកេរ្តិ៍ឈ្មោះរបស់អ្នក។ សូមទុកការប្រយុទ្ធខ្លះឱ្យកន្លងផុតទៅ។"
+      },
+      "outcome": {
+        "en": "You could move past conflict and build better working relationships. Choosing peace may help your career grow.",
+        "km": "អ្នកអាចឆ្លងផុតជម្លោះ ហើយកសាងទំនាក់ទំនងការងារល្អជាងមុន។ ការជ្រើសរើសសន្តិភាព អាចជួយអាជីពរបស់អ្នកឱ្យរីកចម្រើន។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Move away from a stuck situation at work toward a more productive one, such as a different team or project. Change can help you grow.",
+        "km": "សូមផ្លាស់ចេញពីស្ថានភាពជាប់គាំងនៅកន្លែងធ្វើការ ទៅរកស្ថានភាពដែលមានផលិតភាពជាងមុន ដូចជាក្រុម ឬគម្រោងផ្សេង។ ការផ្លាស់ប្តូរអាចជួយអ្នកឱ្យរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Carrying old frustrations into a new role could hold you back. Arrive with a fresh attitude.",
+        "km": "ការនាំការខកចិត្តចាស់ចូលក្នុងតួនាទីថ្មី អាចទប់អ្នក។ សូមមកដល់ជាមួយអាកប្បកិរិយាថ្មី។"
+      },
+      "outcome": {
+        "en": "You could find calmer, more productive ground at work. A transition may give you room to grow.",
+        "km": "អ្នកអាចរកឃើញដីដែលស្ងប់ និងមានផលិតភាពជាងមុននៅកន្លែងធ្វើការ។ ការផ្លាស់ប្តូរអាចផ្តល់ចន្លោះឱ្យអ្នករីកចម្រើន។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Work with integrity and stay out of office politics where you can. Protecting your reputation is part of growing.",
+        "km": "សូមធ្វើការដោយសុចរិតភាព ហើយនៅឆ្ងាយពីនយោបាយការិយាល័យ នៅកន្លែងដែលអ្នកអាច។ ការការពារកេរ្តិ៍ឈ្មោះរបស់អ្នក គឺជាផ្នែកមួយនៃការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Taking shortcuts or bending rules to get ahead could backfire. Stay honest, even if progress is slower.",
+        "km": "ការដើរផ្លូវកាត់ ឬបត់បែនច្បាប់ដើម្បីឈានទៅមុខ អាចមានផលវិបាក។ សូមនៅតែស្មោះត្រង់ ទោះបីការរីកចម្រើនយឺតជាងក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "You could earn trust through honesty while others struggle. Integrity may become your strongest professional asset.",
+        "km": "អ្នកអាចទទួលបានការទុកចិត្តតាមរយៈភាពស្មោះត្រង់ ខណៈអ្នកដទៃកំពុងតស៊ូ។ សុចរិតភាពអាចក្លាយជាទ្រព្យសម្បត្តិវិជ្ជាជីវៈដ៏រឹងមាំបំផុតរបស់អ្នក។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Identify the beliefs that limit your growth at work, such as \"I am not ready\" or \"they will never promote me\". Challenge them.",
+        "km": "សូមកំណត់ជំនឿដែលដាក់កម្រិតលើការរីកចម្រើនរបស់អ្នកនៅកន្លែងធ្វើការ ដូចជា «ខ្ញុំមិនទាន់ត្រៀមខ្លួន» ឬ «គេនឹងមិនដែលដំឡើងតំណែងខ្ញុំ»។ សូមចោទសួរវា។"
+      },
+      "challenge": {
+        "en": "Feeling trapped could make you stop trying. Look for one small step that proves you have more options.",
+        "km": "អារម្មណ៍ជាប់អន្ទាក់ អាចធ្វើឱ្យអ្នកឈប់ព្យាយាម។ សូមស្វែងរកជំហានតូចមួយ ដែលបញ្ជាក់ថាអ្នកមានជម្រើសច្រើនជាងនេះ។"
+      },
+      "outcome": {
+        "en": "You could break free from self-imposed limits and grow in confidence. Options you had ruled out may reappear.",
+        "km": "អ្នកអាចរួចផុតពីដែនកំណត់ដែលអ្នកដាក់លើខ្លួនឯង ហើយរីកចម្រើនក្នុងទំនុកចិត្ត។ ជម្រើសដែលអ្នកធ្លាប់ច្រានចោល អាចលេចឡើងវិញ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Talk about work worries with someone you trust instead of carrying them alone. Easing anxiety frees energy for growth.",
+        "km": "សូមនិយាយអំពីការព្រួយបារម្ភការងារ ជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ជំនួសឱ្យការទទួលវាតែម្នាក់ឯង។ ការបន្ធូរការថប់បារម្ភ រំដោះថាមពលសម្រាប់ការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Letting fear of failure stop you from trying new things could hold you back. Take small risks.",
+        "km": "ការឱ្យការភ័យខ្លាចការបរាជ័យ រារាំងអ្នកពីការសាកល្បងរឿងថ្មីៗ អាចទប់អ្នក។ សូមប្រថុយតិចៗ។"
+      },
+      "outcome": {
+        "en": "You could feel calmer and more able to take on challenges. Support may help you grow.",
+        "km": "អ្នកអាចមានអារម្មណ៍ស្ងប់ជាងមុន និងអាចទទួលបញ្ហាប្រឈមបានកាន់តែច្រើន។ ការគាំទ្រអាចជួយអ្នកឱ្យរីកចម្រើន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Accept that a painful phase at work is over and start rebuilding from here. Every low point can be a launch pad.",
+        "km": "សូមទទួលយកថា ដំណាក់កាលដ៏ឈឺចាប់នៅកន្លែងធ្វើការបានចប់ហើយ ហើយចាប់ផ្តើមកសាងឡើងវិញចាប់ពីទីនេះ។ ចំណុចទាបនីមួយៗ អាចជាកន្លែងបាញ់បង្ហោះ។"
+      },
+      "challenge": {
+        "en": "Believing a setback has ruined your career could stop you from trying again. Recovery is possible.",
+        "km": "ការជឿថាការថយក្រោយបានបំផ្លាញអាជីពរបស់អ្នក អាចរារាំងអ្នកពីការព្យាយាមម្តងទៀត។ ការជាសះស្បើយគឺអាចទៅរួច។"
+      },
+      "outcome": {
+        "en": "You could rise from a low point with new determination. A fresh start may lead to real growth.",
+        "km": "អ្នកអាចក្រោកឡើងពីចំណុចទាប ជាមួយការប្តេជ្ញាចិត្តថ្មី។ ការចាប់ផ្តើមថ្មីអាចនាំទៅរកការរីកចម្រើនពិតប្រាកដ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Ask questions, research and keep learning about your field. Curiosity is a powerful tool for growth.",
+        "km": "សូមសួរសំណួរ ស្រាវជ្រាវ និងបន្តរៀនអំពីវិស័យរបស់អ្នក។ ការចង់ដឹងចង់ឃើញ គឺជាឧបករណ៍ដ៏មានឥទ្ធិពលសម្រាប់ការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Speaking before thinking, or passing on gossip, could damage the trust you need. Be careful with your words.",
+        "km": "ការនិយាយមុនពេលគិត ឬការបញ្ជូនពាក្យដើមគេ អាចបំផ្លាញការទុកចិត្តដែលអ្នកត្រូវការ។ សូមប្រុងប្រយ័ត្នជាមួយពាក្យសម្តីរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You could grow through new knowledge and sharper skills. Curiosity may open doors to new kinds of work.",
+        "km": "អ្នកអាចរីកចម្រើនតាមរយៈចំណេះដឹងថ្មី និងជំនាញមុតស្រួចជាងមុន។ ការចង់ដឹងចង់ឃើញ អាចបើកទ្វារទៅរកការងារប្រភេទថ្មីៗ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Take decisive action on opportunities as they arise, rather than waiting to be asked. Speed and confidence can help you advance.",
+        "km": "សូមធ្វើសកម្មភាពម៉ឺងម៉ាត់លើឱកាស នៅពេលវាកើតឡើង ជាជាងរង់ចាំឱ្យគេសួរ។ ល្បឿន និងទំនុកចិត្ត អាចជួយអ្នកឈានទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Charging ahead without consulting others could create friction that slows you later. Bring people with you.",
+        "km": "ការប្រញាប់ទៅមុខ ដោយមិនពិគ្រោះជាមួយអ្នកដទៃ អាចបង្កើតការកកិត ដែលធ្វើឱ្យអ្នកយឺតនៅពេលក្រោយ។ សូមនាំមនុស្សទៅជាមួយ។"
+      },
+      "outcome": {
+        "en": "You could make quick progress by acting with confidence. Decisiveness may be noticed by the people who promote.",
+        "km": "អ្នកអាចធ្វើការរីកចម្រើនរហ័ស ដោយធ្វើសកម្មភាពដោយទំនុកចិត្ត។ ភាពម៉ឺងម៉ាត់អាចត្រូវបានកត់សម្គាល់ដោយមនុស្សដែលដំឡើងតំណែង។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Bring clear thinking and honest judgement to your work. Objectivity can make you a valued adviser.",
+        "km": "សូមនាំការគិតច្បាស់លាស់ និងការវិនិច្ឆ័យដោយស្មោះត្រង់ មកកាន់ការងាររបស់អ្នក។ ភាពអព្យាក្រឹតអាចធ្វើឱ្យអ្នកជាទីប្រឹក្សាដែលមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Being overly critical could make colleagues avoid asking for your input. Balance honesty with kindness.",
+        "km": "ការរិះគន់ហួសហេតុ អាចធ្វើឱ្យសហការីជៀសវាងការសុំមតិរបស់អ្នក។ សូមរក្សាតុល្យភាពភាពស្មោះត្រង់ជាមួយក្តីសប្បុរស។"
+      },
+      "outcome": {
+        "en": "You could become a trusted source of clear advice. Your judgement may lead to greater responsibility.",
+        "km": "អ្នកអាចក្លាយជាប្រភពដែលគួរឱ្យទុកចិត្តនៃដំបូន្មានច្បាស់លាស់។ ការវិនិច្ឆ័យរបស់អ្នក អាចនាំទៅរកការទទួលខុសត្រូវកាន់តែច្រើន។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Show sound judgement and fairness in decisions, and take on responsibility for outcomes. Leadership grows from trust.",
+        "km": "សូមបង្ហាញការវិនិច្ឆ័យល្អ និងភាពយុត្តិធម៌ក្នុងការសម្រេចចិត្ត ហើយទទួលខុសត្រូវចំពោះលទ្ធផល។ ភាពជាអ្នកដឹកនាំរីកចម្រើនពីការទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Deciding only by the numbers could miss how your choices land with people. Weigh morale alongside the facts.",
+        "km": "ការសម្រេចចិត្តតែដោយលេខ អាចខកខានពីរបៀបដែលជម្រើសរបស់អ្នកប៉ះពាល់មនុស្ស។ សូមថ្លឹងថ្លែងស្មារតីក្រុម រួមជាមួយការពិត។"
+      },
+      "outcome": {
+        "en": "You could step into a position of greater authority. Fair, well-reasoned leadership may build lasting respect.",
+        "km": "អ្នកអាចឈានចូលក្នុងតំណែងដែលមានសិទ្ធិអំណាចកាន់តែច្រើន។ ភាពជាអ្នកដឹកនាំដោយយុត្តិធម៌ និងមានហេតុផលល្អ អាចកសាងការគោរពយូរអង្វែង។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Start a practical step toward growth, such as enrolling in a course or asking for a stretch assignment. Small, concrete beginnings add up.",
+        "km": "សូមចាប់ផ្តើមជំហានជាក់ស្តែងមួយឆ្ពោះទៅរកការរីកចម្រើន ដូចជាការចុះឈ្មោះចូលរៀនវគ្គ ឬការស្នើសុំភារកិច្ចដែលពង្រីកសមត្ថភាព។ ការចាប់ផ្តើមតូចៗ និងជាក់ស្តែង បូកបញ្ចូលគ្នាបានច្រើន។"
+      },
+      "challenge": {
+        "en": "Turning down a modest opportunity because it seems too small could cost you. Every solid start has potential.",
+        "km": "ការបដិសេធឱកាសសាមញ្ញមួយ ដោយសារវាហាក់ដូចជាតូចពេក អាចធ្វើឱ្យអ្នកខាត។ ការចាប់ផ្តើមរឹងមាំនីមួយៗ មានសក្តានុពល។"
+      },
+      "outcome": {
+        "en": "A practical opportunity could grow into real advancement over time. Your first step may lead to tangible rewards.",
+        "km": "ឱកាសជាក់ស្តែងមួយ អាចរីកចម្រើនទៅជាការឈានទៅមុខពិតប្រាកដ។ ជំហានដំបូងរបស់អ្នក អាចនាំទៅរករង្វាន់ជាក់ស្តែង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Learn to juggle priorities more effectively, perhaps with better planning or tools. Managing your workload well frees room for growth.",
+        "km": "សូមរៀនរៀបចំអាទិភាពឱ្យមានប្រសិទ្ធភាពជាងមុន ប្រហែលជាដោយការរៀបចំផែនការ ឬឧបករណ៍ល្អជាងមុន។ ការគ្រប់គ្រងបន្ទុកការងារបានល្អ រំដោះចន្លោះសម្រាប់ការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Trying to keep every ball in the air could leave you exhausted and stuck. Drop or delegate what matters least.",
+        "km": "ការព្យាយាមរក្សាគ្រប់បាល់ឱ្យនៅលើអាកាស អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងជាប់គាំង។ សូមទម្លាក់ ឬប្រគល់អ្វីដែលមិនសូវសំខាន់។"
+      },
+      "outcome": {
+        "en": "You could find a rhythm that lets you grow without burning out. Flexibility may become one of your strengths.",
+        "km": "អ្នកអាចរកឃើញចង្វាក់ ដែលអនុញ្ញាតឱ្យអ្នករីកចម្រើន ដោយមិនអស់កម្លាំង។ ភាពបត់បែនអាចក្លាយជាចំណុចខ្លាំងមួយរបស់អ្នក។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Collaborate on a shared project and let your craftsmanship show. Quality work done with others builds your reputation.",
+        "km": "សូមសហការលើគម្រោងរួមមួយ ហើយឱ្យជំនាញរបស់អ្នកបង្ហាញចេញ។ ការងារមានគុណភាពដែលធ្វើជាមួយអ្នកដទៃ កសាងកេរ្តិ៍ឈ្មោះរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Not speaking up about your part in a team success could leave you overlooked. Make sure your contributions are known.",
+        "km": "ការមិននិយាយពីផ្នែករបស់អ្នក ក្នុងជោគជ័យរបស់ក្រុម អាចធ្វើឱ្យអ្នកត្រូវបានមើលរំលង។ សូមប្រាកដថាការរួមចំណែករបស់អ្នកត្រូវបានគេដឹង។"
+      },
+      "outcome": {
+        "en": "You could gain recognition for skilled teamwork. Your expertise may lead to bigger projects and roles.",
+        "km": "អ្នកអាចទទួលបានការទទួលស្គាល់សម្រាប់ការងារជាក្រុមប្រកបដោយជំនាញ។ ជំនាញរបស់អ្នក អាចនាំទៅរកគម្រោង និងតួនាទីធំៗ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Build a secure base by mastering your current responsibilities before reaching for more. Stability can support growth.",
+        "km": "សូមកសាងគ្រឹះដែលមានសុវត្ថិភាព ដោយធ្វើឱ្យស្ទាត់ការទទួលខុសត្រូវបច្ចុប្បន្ន មុននឹងឈោងទៅរកបន្ថែម។ ស្ថិរភាពអាចគាំទ្រការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly to your current role out of fear could stop you from growing. Be willing to stretch a little.",
+        "km": "ការកាន់ជាប់តឹងពេកនឹងតួនាទីបច្ចុប្បន្ន ដោយសារការភ័យខ្លាច អាចរារាំងអ្នកពីការរីកចម្រើន។ សូមសុខចិត្តពង្រីកខ្លួនបន្តិច។"
+      },
+      "outcome": {
+        "en": "You could grow from a secure position into greater responsibility. Careful steps may protect what you have built.",
+        "km": "អ្នកអាចរីកចម្រើនពីតំណែងដែលមានសុវត្ថិភាព ទៅរកការទទួលខុសត្រូវកាន់តែច្រើន។ ជំហានដោយប្រុងប្រយ័ត្ន អាចការពារអ្វីដែលអ្នកបានកសាង។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Ask for support or resources when work feels hard, rather than struggling alone. Getting help is a growth skill too.",
+        "km": "សូមស្នើសុំការគាំទ្រ ឬធនធាន នៅពេលការងារមានអារម្មណ៍ពិបាក ជាជាងតស៊ូតែម្នាក់ឯង។ ការទទួលជំនួយក៏ជាជំនាញរីកចម្រើនដែរ។"
+      },
+      "challenge": {
+        "en": "Feeling overlooked could make you withdraw instead of asking for what you need. Speak up about your situation.",
+        "km": "អារម្មណ៍ថាត្រូវបានមើលរំលង អាចធ្វើឱ្យអ្នកដកខ្លួន ជំនួសឱ្យការស្នើសុំអ្វីដែលអ្នកត្រូវការ។ សូមនិយាយចេញពីស្ថានភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You could come through a difficult stretch with new support and skills. Asking for help may open unexpected doors.",
+        "km": "អ្នកអាចឆ្លងកាត់គ្រាលំបាក ជាមួយការគាំទ្រ និងជំនាញថ្មី។ ការស្នើសុំជំនួយ អាចបើកទ្វារដែលមិនបានរំពឹងទុក។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Share your knowledge generously and accept mentoring from people further along. Giving and receiving help speeds growth.",
+        "km": "សូមចែករំលែកចំណេះដឹងរបស់អ្នកដោយសប្បុរស ហើយទទួលយកការណែនាំពីមនុស្សដែលមានបទពិសោធន៍ច្រើនជាង។ ការផ្តល់ និងទទួលជំនួយ បង្កើនល្បឿនការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Giving your time and effort without fair recognition could breed resentment. Make sure your value is noticed.",
+        "km": "ការផ្តល់ពេលវេលា និងការខិតខំ ដោយគ្មានការទទួលស្គាល់ដោយយុត្តិធម៌ អាចបង្កើតការអាក់អន់ចិត្ត។ សូមប្រាកដថាតម្លៃរបស់អ្នកត្រូវបានកត់សម្គាល់។"
+      },
+      "outcome": {
+        "en": "You could benefit from a fair, supportive working relationship. Generosity may come back to you as opportunity.",
+        "km": "អ្នកអាចទទួលផលពីទំនាក់ទំនងការងារដែលយុត្តិធម៌ និងគាំទ្រ។ ចិត្តសប្បុរសអាចត្រឡប់មករកអ្នកវិញជាឱកាស។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Review your progress honestly and decide where to invest your effort next. Patient, steady work builds lasting growth.",
+        "km": "សូមពិនិត្យការរីកចម្រើនរបស់អ្នកដោយស្មោះត្រង់ ហើយសម្រេចថាត្រូវវិនិយោគការខិតខំនៅកន្លែងណាបន្ទាប់។ ការងារដោយអត់ធ្មត់ និងជាប្រចាំ កសាងការរីកចម្រើនយូរអង្វែង។"
+      },
+      "challenge": {
+        "en": "Expecting quick promotion could lead to frustration. Real growth often takes steady effort before it shows.",
+        "km": "ការរំពឹងការដំឡើងតំណែងរហ័ស អាចនាំទៅរកការធុញថប់។ ការរីកចម្រើនពិតប្រាកដ តែងត្រូវការការខិតខំជាប្រចាំ មុនពេលវាបង្ហាញ។"
+      },
+      "outcome": {
+        "en": "You could see the rewards of patient effort begin to show. Long-term investment in your skills may pay off.",
+        "km": "អ្នកអាចឃើញរង្វាន់នៃការខិតខំដោយអត់ធ្មត់ ចាប់ផ្តើមបង្ហាញ។ ការវិនិយោគរយៈពេលវែងលើជំនាញរបស់អ្នក អាចទទួលបានផល។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Focus on mastering your craft through practice and attention to detail. Skill built carefully becomes your greatest asset.",
+        "km": "សូមផ្តោតលើការធ្វើឱ្យស្ទាត់ជំនាញរបស់អ្នក តាមរយៈការអនុវត្ត និងការយកចិត្តទុកដាក់លើព័ត៌មានលម្អិត។ ជំនាញដែលបានកសាងដោយប្រុងប្រយ័ត្ន ក្លាយជាទ្រព្យសម្បត្តិដ៏ធំបំផុតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Focusing so closely on details that you miss the bigger picture could limit your growth. Step back sometimes.",
+        "km": "ការផ្តោតយ៉ាងជិតលើព័ត៌មានលម្អិត រហូតខកខានរូបភាពធំ អាចដាក់កម្រិតលើការរីកចម្រើនរបស់អ្នក។ សូមដកខ្លួនមើលម្តងម្កាល។"
+      },
+      "outcome": {
+        "en": "You could become recognised as an expert in your area. Dedication may lead to greater responsibility.",
+        "km": "អ្នកអាចត្រូវបានទទួលស្គាល់ជាអ្នកជំនាញក្នុងផ្នែករបស់អ្នក។ ការលះបង់អាចនាំទៅរកការទទួលខុសត្រូវកាន់តែច្រើន។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Take ownership of your development, working independently on skills that build your value. Self-reliance can speed growth.",
+        "km": "សូមទទួលកាន់កាប់ការអភិវឌ្ឍរបស់អ្នក ដោយធ្វើការដោយឯករាជ្យលើជំនាញដែលកសាងតម្លៃរបស់អ្នក។ ការពឹងខ្លួនឯងអាចបង្កើនល្បឿនការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Working too much alone could limit the support and visibility you need. Stay connected to your team.",
+        "km": "ការធ្វើការតែម្នាក់ឯងច្រើនពេក អាចដាក់កម្រិតលើការគាំទ្រ និងការមើលឃើញដែលអ្នកត្រូវការ។ សូមរក្សាទំនាក់ទំនងជាមួយក្រុមរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You could enjoy the rewards of independent effort and growing expertise. Self-sufficiency may lead to freedom.",
+        "km": "អ្នកអាចរីករាយនឹងរង្វាន់នៃការខិតខំឯករាជ្យ និងជំនាញដែលកំពុងរីកចម្រើន។ ការពឹងខ្លួនឯងអាចនាំទៅរកសេរីភាព។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Think long term about where your organisation is going and how you can grow with it. Building for the future creates security.",
+        "km": "សូមគិតរយៈពេលវែងអំពីកន្លែងដែលស្ថាប័នរបស់អ្នកកំពុងទៅ និងរបៀបដែលអ្នកអាចរីកចម្រើនជាមួយវា។ ការកសាងសម្រាប់អនាគត បង្កើតសុវត្ថិភាព។"
+      },
+      "challenge": {
+        "en": "Settling too comfortably into security could make you stop growing. Keep looking for ways to develop.",
+        "km": "ការតាំងលំនៅយ៉ាងសុខស្រួលពេកក្នុងសុវត្ថិភាព អាចធ្វើឱ្យអ្នកឈប់រីកចម្រើន។ សូមបន្តស្វែងរកវិធីអភិវឌ្ឍ។"
+      },
+      "outcome": {
+        "en": "You could build a lasting, secure career within your organisation. Long-term growth may bring stability and status.",
+        "km": "អ្នកអាចកសាងអាជីពដ៏យូរអង្វែង និងមានសុវត្ថិភាព ក្នុងស្ថាប័នរបស់អ្នក។ ការរីកចម្រើនរយៈពេលវែង អាចនាំមកនូវស្ថិរភាព និងឋានៈ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Be a willing learner, taking on new tasks with curiosity and care. A humble, practical approach can open doors.",
+        "km": "សូមធ្វើជាអ្នករៀនដោយសុខចិត្ត ដោយទទួលកិច្ចការថ្មីៗដោយការចង់ដឹងចង់ឃើញ និងការយកចិត្តទុកដាក់។ វិធីបន្ទាបខ្លួន និងជាក់ស្តែង អាចបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Holding back from unfamiliar tasks until you feel fully ready could slow your growth. Learn by doing, a little at a time.",
+        "km": "ការទប់ខ្លួនពីកិច្ចការដែលមិនធ្លាប់ស្គាល់ រហូតដល់អ្នកមានអារម្មណ៍ត្រៀមខ្លួនពេញលេញ អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកយឺត។ សូមរៀនតាមរយៈការធ្វើ បន្តិចម្តងៗ។"
+      },
+      "outcome": {
+        "en": "You could build valuable skills step by step. Steady learning may lead to new opportunities you can grasp.",
+        "km": "អ្នកអាចកសាងជំនាញដ៏មានតម្លៃ មួយជំហានម្តងៗ។ ការរៀនជាប្រចាំ អាចនាំទៅរកឱកាសថ្មីៗដែលអ្នកអាចចាប់យកបាន។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Show up reliably and do consistent, high-quality work. Dependability is one of the surest paths to growth.",
+        "km": "សូមបង្ហាញខ្លួនដោយគួរឱ្យទុកចិត្ត ហើយធ្វើការងារជាប់លាប់ និងមានគុណភាពខ្ពស់។ ភាពអាចពឹងបាន គឺជាផ្លូវមួយដ៏ប្រាកដបំផុតទៅរកការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Doing things the same way every time could hide better methods from you. Try one new approach and compare.",
+        "km": "ការធ្វើអ្វីៗតាមរបៀបដដែលរាល់ពេល អាចលាក់វិធីល្អជាងនេះពីអ្នក។ សូមសាកល្បងវិធីថ្មីមួយ ហើយប្រៀបធៀប។"
+      },
+      "outcome": {
+        "en": "You could earn trust and advancement through steady reliability. Patience may bring well-earned recognition.",
+        "km": "អ្នកអាចទទួលបានការទុកចិត្ត និងការឈានទៅមុខ តាមរយៈភាពគួរឱ្យទុកចិត្តជាប្រចាំ។ ការអត់ធ្មត់អាចនាំមកនូវការទទួលស្គាល់ដែលសក្តិសម។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Create a supportive, well-organised environment that helps you and others work well. Practical care can lead to growth.",
+        "km": "សូមបង្កើតបរិយាកាសដែលគាំទ្រ និងរៀបចំបានល្អ ដែលជួយអ្នក និងអ្នកដទៃធ្វើការបានល្អ។ ការថែទាំជាក់ស្តែងអាចនាំទៅរកការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Being everyone's helper could quietly push your own goals to the bottom of the list. Block out time for your own development.",
+        "km": "ការធ្វើជាអ្នកជួយរបស់គ្រប់គ្នា អាចរុញគោលដៅរបស់អ្នកទៅខាងក្រោមបញ្ជីដោយស្ងាត់ៗ។ សូមកំណត់ពេលសម្រាប់ការអភិវឌ្ឍរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You could grow into a valued, steady presence in your workplace. Practical care may be recognised.",
+        "km": "អ្នកអាចរីកចម្រើនទៅជាវត្តមានដែលមានតម្លៃ និងនឹងនរ នៅកន្លែងធ្វើការ។ ការថែទាំជាក់ស្តែង អាចត្រូវបានទទួលស្គាល់។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Take on responsibility for results and resources, showing that you can manage success well. Leadership grows from proven reliability.",
+        "km": "សូមទទួលខុសត្រូវចំពោះលទ្ធផល និងធនធាន ដោយបង្ហាញថាអ្នកអាចគ្រប់គ្រងជោគជ័យបានល្អ។ ភាពជាអ្នកដឹកនាំរីកចម្រើនពីភាពគួរឱ្យទុកចិត្តដែលបានបញ្ជាក់។"
+      },
+      "challenge": {
+        "en": "Focusing only on status or pay could make you overlook meaningful growth. Value skills and relationships too.",
+        "km": "ការផ្តោតតែលើឋានៈ ឬប្រាក់ឈ្នួល អាចធ្វើឱ្យអ្នកមើលរំលងការរីកចម្រើនដែលមានអត្ថន័យ។ សូមឱ្យតម្លៃជំនាញ និងទំនាក់ទំនងផងដែរ។"
+      },
+      "outcome": {
+        "en": "You could step into a senior, well-rewarded position. Wise leadership may bring success that lasts.",
+        "km": "អ្នកអាចឈានចូលក្នុងតំណែងជាន់ខ្ពស់ ដែលទទួលបានរង្វាន់ល្អ។ ភាពជាអ្នកដឹកនាំដ៏ឈ្លាសវៃ អាចនាំមកនូវជោគជ័យដែលស្ថិតស្ថេរ។"
+      }
+    }
+  }
+}
