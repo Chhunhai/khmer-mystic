@@ -1,0 +1,1097 @@
+{
+  "questionId": "CW-08",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Approach your work with fresh curiosity, as if seeing it for the first time. Asking why each task exists can uncover purpose you had stopped noticing.",
+        "km": "សូមចូលទៅរកការងាររបស់អ្នក ដោយការចង់ដឹងចង់ឃើញថ្មី ដូចជាមើលឃើញវាជាលើកដំបូង។ ការសួរថាហេតុអ្វីកិច្ចការនីមួយៗមាន អាចបង្ហាញពីគោលបំណងដែលអ្នកបានឈប់កត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Chasing excitement from one new role to the next could leave meaning always just out of reach. Purpose often grows where you stay a while.",
+        "km": "ការដេញតាមភាពរំភើបពីតួនាទីថ្មីមួយទៅមួយទៀត អាចធ្វើឱ្យអត្ថន័យនៅហួសពីដៃជានិច្ច។ គោលបំណង ជារឿយៗរីកចម្រើននៅកន្លែងដែលអ្នកស្នាក់នៅមួយរយៈ។"
+      },
+      "outcome": {
+        "en": "A willingness to explore could lead you to work that feels truly alive. Purpose may appear where you least expect it.",
+        "km": "ឆន្ទៈក្នុងការស្វែងរក អាចនាំអ្នកទៅរកការងារដែលមានអារម្មណ៍រស់រវើកពិតប្រាកដ។ គោលបំណង អាចលេចឡើងនៅកន្លែងដែលអ្នករំពឹងតិចបំផុត។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Notice the difference your skills actually make to real people and outcomes. Seeing your own impact clearly is one of the surest sources of meaning.",
+        "km": "សូមកត់សម្គាល់ភាពខុសគ្នាដែលជំនាញរបស់អ្នកពិតជាធ្វើឱ្យកើតមាន ចំពោះមនុស្ស និងលទ្ធផលពិតប្រាកដ។ ការមើលឃើញឥទ្ធិពលរបស់ខ្លួនឯងយ៉ាងច្បាស់ គឺជាប្រភពនៃអត្ថន័យដ៏ប្រាកដបំផុតមួយ។"
+      },
+      "challenge": {
+        "en": "Using your talents only to get through the to-do list could leave you feeling like a machine. Look for one task where you can apply yourself fully.",
+        "km": "ការប្រើទេពកោសល្យរបស់អ្នក តែដើម្បីបញ្ចប់បញ្ជីកិច្ចការ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ដូចជាម៉ាស៊ីន។ សូមរកកិច្ចការមួយ ដែលអ្នកអាចបញ្ចេញសមត្ថភាពពេញលេញ។"
+      },
+      "outcome": {
+        "en": "Putting your abilities to purposeful use could make work feel deeply satisfying. You may discover how much you can shape.",
+        "km": "ការដាក់សមត្ថភាពរបស់អ្នកឱ្យប្រើប្រាស់ដោយមានគោលបំណង អាចធ្វើឱ្យការងារមានអារម្មណ៍ពេញចិត្តយ៉ាងជ្រាលជ្រៅ។ អ្នកអាចរកឃើញថាអ្នកអាចរៀបចំបានច្រើនប៉ុណ្ណា។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Listen to the quiet inner sense of what feels right in your work and what does not. Your intuition may already know where meaning lies.",
+        "km": "សូមស្តាប់អារម្មណ៍ស្ងាត់ៗខាងក្នុង អំពីអ្វីដែលមានអារម្មណ៍ត្រឹមត្រូវក្នុងការងាររបស់អ្នក និងអ្វីដែលមិនត្រឹមត្រូវ។ វិចារណញាណរបស់អ្នក ប្រហែលជាដឹងរួចហើយថាអត្ថន័យស្ថិតនៅទីណា។"
+      },
+      "challenge": {
+        "en": "Ignoring a nagging feeling that something is missing could let dissatisfaction quietly grow. Give that feeling some honest attention.",
+        "km": "ការមិនខ្វល់ពីអារម្មណ៍រំខានថាមានអ្វីមួយខ្វះខាត អាចធ្វើឱ្យការមិនពេញចិត្តរីកធំដោយស្ងាត់ៗ។ សូមផ្តល់ការយកចិត្តទុកដាក់ដោយស្មោះត្រង់ដល់អារម្មណ៍នោះ។"
+      },
+      "outcome": {
+        "en": "A deeper understanding of what matters to you could guide your next choices. Hidden purpose may come to the surface.",
+        "km": "ការយល់ដឹងជ្រៅជាងមុនពីអ្វីដែលសំខាន់សម្រាប់អ្នក អាចណែនាំជម្រើសបន្ទាប់របស់អ្នក។ គោលបំណងលាក់កំបាំង អាចលេចឡើងលើផ្ទៃ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Look for ways to create, nurture or improve something in your work, however small. Bringing something new into being can feel deeply rewarding.",
+        "km": "សូមរកវិធីបង្កើត ថែទាំ ឬកែលម្អអ្វីមួយក្នុងការងាររបស់អ្នក ទោះតូចយ៉ាងណាក៏ដោយ។ ការនាំអ្វីថ្មីមកកាន់ពិភពលោក អាចមានអារម្មណ៍ពេញចិត្តយ៉ាងជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Giving all your care to others' projects while neglecting your own ideas could leave you empty. Make room to grow something of your own.",
+        "km": "ការផ្តល់ការយកចិត្តទុកដាក់ទាំងអស់ដល់គម្រោងរបស់អ្នកដទៃ ខណៈដែលធ្វេសប្រហែសគំនិតរបស់ខ្លួនឯង អាចធ្វើឱ្យអ្នកទទេ។ សូមទុកកន្លែងដើម្បីដាំដុះអ្វីមួយជារបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Work could become a place where your creativity flourishes and bears fruit. Seeing something grow may give real meaning.",
+        "km": "ការងារអាចក្លាយជាកន្លែងដែលភាពច្នៃប្រឌិតរបស់អ្នករីកលូតលាស់ ហើយផ្តល់ផ្លែផ្កា។ ការមើលឃើញអ្វីមួយរីកចម្រើន អាចផ្តល់អត្ថន័យពិតប្រាកដ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Find meaning in building solid systems and structures that others depend on. Creating order where there was chaos is a real contribution.",
+        "km": "សូមរកអត្ថន័យក្នុងការកសាងប្រព័ន្ធ និងរចនាសម្ព័ន្ធរឹងមាំ ដែលអ្នកដទៃពឹងផ្អែក។ ការបង្កើតរបៀបរៀបរយ នៅកន្លែងដែលធ្លាប់ច្របូកច្របល់ គឺជាការរួមចំណែកពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Following rules so strictly that you lose sight of why they exist could drain meaning from your work. Remember the purpose behind the process.",
+        "km": "ការអនុវត្តច្បាប់យ៉ាងតឹងរ៉ឹង រហូតបាត់បង់ការមើលឃើញពីមូលហេតុដែលវាមាន អាចបូមយកអត្ថន័យចេញពីការងាររបស់អ្នក។ សូមចងចាំគោលបំណងនៅពីក្រោយដំណើរការ។"
+      },
+      "outcome": {
+        "en": "A sense of having built something lasting could bring quiet pride. Responsibility may feel meaningful rather than heavy.",
+        "km": "អារម្មណ៍ថាបានកសាងអ្វីមួយដែលស្ថិតស្ថេរ អាចនាំមកនូវមោទនភាពស្ងប់ស្ងាត់។ ការទទួលខុសត្រូវ អាចមានអារម្មណ៍មានអត្ថន័យ ជាជាងធ្ងន់។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Connect with the deeper values and traditions of your profession. Learning from those who find meaning in the same work can show you the way.",
+        "km": "សូមភ្ជាប់ទំនាក់ទំនងជាមួយគុណតម្លៃ និងប្រពៃណីជ្រៅជាងនៃវិជ្ជាជីវៈរបស់អ្នក។ ការរៀនពីអ្នកដែលរកឃើញអត្ថន័យក្នុងការងារដូចគ្នា អាចបង្ហាញផ្លូវដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Doing what is expected without asking whether it matters to you could make work feel hollow. Find your own reasons for what you do.",
+        "km": "ការធ្វើអ្វីដែលគេរំពឹង ដោយមិនសួរថាតើវាសំខាន់សម្រាប់អ្នកឬទេ អាចធ្វើឱ្យការងារមានអារម្មណ៍ទទេ។ សូមរកហេតុផលផ្ទាល់ខ្លួនសម្រាប់អ្វីដែលអ្នកធ្វើ។"
+      },
+      "outcome": {
+        "en": "A mentor or a shared tradition could help you see your work as part of something larger. Belonging may bring purpose.",
+        "km": "អ្នកណែនាំ ឬប្រពៃណីរួម អាចជួយអ្នកមើលឃើញការងាររបស់អ្នកជាផ្នែកមួយនៃអ្វីដែលធំជាង។ ការជាផ្នែកមួយ អាចនាំមកនូវគោលបំណង។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Choose work, or parts of your work, that line up with what you truly value. Alignment between beliefs and action is where meaning grows.",
+        "km": "សូមជ្រើសរើសការងារ ឬផ្នែកនៃការងាររបស់អ្នក ដែលស្របនឹងអ្វីដែលអ្នកពិតជាឱ្យតម្លៃ។ ការស្របគ្នារវាងជំនឿ និងសកម្មភាព គឺជាកន្លែងដែលអត្ថន័យរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Staying in a role that conflicts with your values could slowly wear away your sense of purpose. Notice where the gap lies.",
+        "km": "ការនៅក្នុងតួនាទីដែលប៉ះទង្គិចនឹងគុណតម្លៃរបស់អ្នក អាចធ្វើឱ្យអារម្មណ៍នៃគោលបំណងរបស់អ្នករលួយបន្តិចម្តងៗ។ សូមកត់សម្គាល់កន្លែងដែលគម្លាតនោះស្ថិតនៅ។"
+      },
+      "outcome": {
+        "en": "Work that matches your values could feel like a true commitment rather than a job. Meaning may come from that harmony.",
+        "km": "ការងារដែលស្របនឹងគុណតម្លៃរបស់អ្នក អាចមានអារម្មណ៍ដូចជាការប្តេជ្ញាចិត្តពិតប្រាកដ ជាជាងគ្រាន់តែការងារ។ អត្ថន័យអាចមកពីភាពសុខដុមនោះ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Set yourself a goal at work that genuinely excites you, beyond what is required. Striving toward something you chose can give the whole job direction.",
+        "km": "សូមកំណត់គោលដៅមួយនៅកន្លែងធ្វើការ ដែលពិតជាធ្វើឱ្យអ្នករំភើប លើសពីអ្វីដែលគេតម្រូវ។ ការខិតខំឆ្ពោះទៅរកអ្វីដែលអ្នកបានជ្រើសរើស អាចផ្តល់ទិសដៅដល់ការងារទាំងមូល។"
+      },
+      "challenge": {
+        "en": "Driving hard toward targets set by others could leave you successful but unfulfilled. Make sure some goals are yours.",
+        "km": "ការជំរុញខ្លាំងឆ្ពោះទៅរកគោលដៅដែលអ្នកដទៃកំណត់ អាចធ្វើឱ្យអ្នកជោគជ័យ តែមិនពេញចិត្ត។ សូមប្រាកដថាគោលដៅខ្លះ ជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Pursuing a goal you care about could bring a strong sense of achievement. Determination may turn into purpose.",
+        "km": "ការដេញតាមគោលដៅដែលអ្នកយកចិត្តទុកដាក់ អាចនាំមកនូវអារម្មណ៍ខ្លាំងនៃសមិទ្ធផល។ ការប្តេជ្ញាចិត្ត អាចប្រែក្លាយទៅជាគោលបំណង។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Find meaning in the quiet courage it takes to keep going and to treat people kindly under pressure. Strength of character matters at work.",
+        "km": "សូមរកអត្ថន័យក្នុងភាពក្លាហានស្ងាត់ៗ ដែលត្រូវការដើម្បីបន្តទៅមុខ និងប្រព្រឹត្តចំពោះមនុស្សដោយសប្បុរសក្រោមសម្ពាធ។ កម្លាំងនៃចរិតលក្ខណៈ សំខាន់នៅកន្លែងធ្វើការ។"
+      },
+      "challenge": {
+        "en": "Pushing through frustration without pausing to ask why could harden you. Gentle reflection keeps your work humane.",
+        "km": "ការបន្តឆ្លងកាត់ការខកចិត្ត ដោយមិនផ្អាកដើម្បីសួរថាហេតុអ្វី អាចធ្វើឱ្យអ្នករឹងរូស។ ការឆ្លុះបញ្ចាំងដោយទន់ភ្លន់ រក្សាការងាររបស់អ្នកឱ្យមានមនុស្សធម៌។"
+      },
+      "outcome": {
+        "en": "Your patience and kindness could become a source of pride and meaning. Others may draw strength from you.",
+        "km": "ការអត់ធ្មត់ និងសេចក្តីសប្បុរសរបស់អ្នក អាចក្លាយជាប្រភពនៃមោទនភាព និងអត្ថន័យ។ អ្នកដទៃអាចទាញកម្លាំងពីអ្នក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Step back and reflect on what you want your working life to stand for. Quiet time alone with that question can be very revealing.",
+        "km": "សូមដកខ្លួនបន្តិច ហើយឆ្លុះបញ្ចាំងពីអ្វីដែលអ្នកចង់ឱ្យជីវិតការងាររបស់អ្នកតំណាងឱ្យ។ ពេលវេលាស្ងាត់ម្នាក់ឯងជាមួយសំណួរនោះ អាចបង្ហាញច្រើន។"
+      },
+      "challenge": {
+        "en": "Thinking endlessly about purpose without trying anything could keep meaning theoretical. Test your ideas through small actions.",
+        "km": "ការគិតគ្មានទីបញ្ចប់អំពីគោលបំណង ដោយមិនសាកល្បងអ្វីសោះ អាចធ្វើឱ្យអត្ថន័យនៅតែជាទ្រឹស្តី។ សូមសាកល្បងគំនិតរបស់អ្នក តាមរយៈសកម្មភាពតូចៗ។"
+      },
+      "outcome": {
+        "en": "Inner clarity about what matters could light your way forward. You may find a calling that feels truly yours.",
+        "km": "ភាពច្បាស់លាស់ខាងក្នុង អំពីអ្វីដែលសំខាន់ អាចបំភ្លឺផ្លូវទៅមុខរបស់អ្នក។ អ្នកអាចរកឃើញការត្រាស់ហៅដែលមានអារម្មណ៍ថាជារបស់អ្នកពិតប្រាកដ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Look at the bigger cycle your work is part of and how it connects to other people's lives. Seeing the wider picture can restore meaning.",
+        "km": "សូមមើលវដ្តធំជាងដែលការងាររបស់អ្នកជាផ្នែកមួយ និងរបៀបដែលវាភ្ជាប់ទៅនឹងជីវិតរបស់អ្នកដទៃ។ ការមើលឃើញរូបភាពទូលាយជាងមុន អាចស្តារអត្ថន័យឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Feeling that work is just something that happens to you could leave you passive. Look for the parts you can steer.",
+        "km": "អារម្មណ៍ថាការងារគ្រាន់តែជាអ្វីដែលកើតឡើងចំពោះអ្នក អាចធ្វើឱ្យអ្នកអសកម្ម។ សូមរកផ្នែកដែលអ្នកអាចដឹកនាំបាន។"
+      },
+      "outcome": {
+        "en": "A turn of events could bring work that feels more aligned with who you are. Change may bring renewed purpose.",
+        "km": "ព្រឹត្តិការណ៍ដែលប្រែប្រួល អាចនាំមកនូវការងារដែលមានអារម្មណ៍ស្របនឹងមនុស្សដែលអ្នកជាជាងមុន។ ការផ្លាស់ប្តូរ អាចនាំមកនូវគោលបំណងថ្មី។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Find meaning in doing the right thing and acting with integrity, even in small decisions. Fairness gives work a moral foundation.",
+        "km": "សូមរកអត្ថន័យក្នុងការធ្វើអ្វីដែលត្រឹមត្រូវ និងប្រព្រឹត្តដោយសុចរិតភាព សូម្បីតែក្នុងការសម្រេចចិត្តតូចៗ។ ភាពយុត្តិធម៌ ផ្តល់មូលដ្ឋានសីលធម៌ដល់ការងារ។"
+      },
+      "challenge": {
+        "en": "Working somewhere that feels unfair could make it hard to care. Ask whether you can change that or need to move on.",
+        "km": "ការធ្វើការនៅកន្លែងដែលមានអារម្មណ៍មិនយុត្តិធម៌ អាចធ្វើឱ្យពិបាកយកចិត្តទុកដាក់។ សូមសួរថាតើអ្នកអាចផ្លាស់ប្តូររឿងនោះ ឬត្រូវបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Acting with integrity could give your work a clear sense of rightness. Others may respect what you stand for.",
+        "km": "ការប្រព្រឹត្តដោយសុចរិតភាព អាចផ្តល់ឱ្យការងាររបស់អ្នកនូវអារម្មណ៍ច្បាស់លាស់នៃភាពត្រឹមត្រូវ។ អ្នកដទៃអាចគោរពអ្វីដែលអ្នកតស៊ូដើម្បី។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Try seeing your work from a completely different angle, perhaps through the eyes of the people it serves. A new view can reveal hidden value.",
+        "km": "សូមសាកល្បងមើលការងាររបស់អ្នកពីមុំខុសគ្នាទាំងស្រុង ប្រហែលជាតាមរយៈភ្នែករបស់មនុស្សដែលវាបម្រើ។ ទស្សនៈថ្មីអាចបង្ហាញពីតម្លៃលាក់កំបាំង។"
+      },
+      "challenge": {
+        "en": "Feeling stuck in a role could make you think nothing can change. A pause can be a chance to rethink what you want.",
+        "km": "អារម្មណ៍ជាប់គាំងក្នុងតួនាទីមួយ អាចធ្វើឱ្យអ្នកគិតថាគ្មានអ្វីអាចផ្លាស់ប្តូរបាន។ ការផ្អាកមួយ អាចជាឱកាសដើម្បីគិតឡើងវិញពីអ្វីដែលអ្នកចង់បាន។"
+      },
+      "outcome": {
+        "en": "A shift in perspective could transform how you feel about the same work. Meaning may appear where you saw none.",
+        "km": "ការផ្លាស់ប្តូរទស្សនៈ អាចផ្លាស់ប្តូររបៀបដែលអ្នកមានអារម្មណ៍ចំពោះការងារដដែល។ អត្ថន័យអាចលេចឡើង នៅកន្លែងដែលអ្នកមិនបានឃើញអ្វីសោះ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Let go of parts of your work that no longer mean anything to you, where you can. Endings make room for more purposeful tasks.",
+        "km": "សូមលែងផ្នែកនៃការងាររបស់អ្នក ដែលលែងមានអត្ថន័យសម្រាប់អ្នក នៅកន្លែងដែលអ្នកអាចធ្វើបាន។ ការបញ្ចប់ បើកកន្លែងសម្រាប់កិច្ចការដែលមានគោលបំណងជាងមុន។"
+      },
+      "challenge": {
+        "en": "Clinging to a role out of habit when it has lost its meaning could keep you stuck. Some chapters need to close.",
+        "km": "ការប្រកាន់ខ្ជាប់តួនាទីមួយដោយសារទម្លាប់ នៅពេលវាបាត់បង់អត្ថន័យ អាចធ្វើឱ្យអ្នកជាប់គាំង។ ជំពូកខ្លះត្រូវតែបិទ។"
+      },
+      "outcome": {
+        "en": "A meaningful transformation in your working life could follow. Something more purposeful may grow from what ends.",
+        "km": "ការផ្លាស់ប្តូរដ៏មានអត្ថន័យក្នុងជីវិតការងាររបស់អ្នក អាចកើតឡើងបន្ទាប់។ អ្វីដែលមានគោលបំណងជាងមុន អាចដុះចេញពីអ្វីដែលបញ្ចប់។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Blend what you are good at with what you care about, even in small ways. Meaning often grows where skill and values meet.",
+        "km": "សូមលាយបញ្ចូលអ្វីដែលអ្នកពូកែ ជាមួយអ្វីដែលអ្នកយកចិត្តទុកដាក់ សូម្បីតែតាមវិធីតូចៗ។ អត្ថន័យ ជារឿយៗរីកចម្រើននៅកន្លែងដែលជំនាញ និងគុណតម្លៃជួបគ្នា។"
+      },
+      "challenge": {
+        "en": "Swinging between overwork and burnout could leave no space to feel purpose. A steadier pace lets meaning settle.",
+        "km": "ការយោលរវាងការធ្វើការហួសកម្លាំង និងការអស់កម្លាំង អាចមិនទុកកន្លែងដើម្បីមានអារម្មណ៍នៃគោលបំណង។ ចង្វាក់នឹងនរជាងមុន អនុញ្ញាតឱ្យអត្ថន័យចូលជ្រៅ។"
+      },
+      "outcome": {
+        "en": "A balanced blend of skill and purpose could make work feel whole. Harmony may bring deep satisfaction.",
+        "km": "ការលាយបញ្ចូលគ្នាដោយតុល្យភាពរវាងជំនាញ និងគោលបំណង អាចធ្វើឱ្យការងារមានអារម្មណ៍ពេញលេញ។ ភាពសុខដុម អាចនាំមកនូវការពេញចិត្តយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Notice whether money, status or fear is the main thing keeping you in your role. Recognising that pull is the first step to choosing more freely.",
+        "km": "សូមកត់សម្គាល់ថាតើប្រាក់ ឋានៈ ឬការភ័យខ្លាច គឺជាអ្វីសំខាន់ដែលរក្សាអ្នកនៅក្នុងតួនាទីរបស់អ្នក។ ការទទួលស្គាល់ការទាញនោះ គឺជាជំហានដំបូងដើម្បីជ្រើសរើសដោយសេរីជាងមុន។"
+      },
+      "challenge": {
+        "en": "Feeling trapped by financial pressure could make meaning seem like a luxury. Look for small ways to bring purpose in anyway.",
+        "km": "អារម្មណ៍ជាប់អន្ទាក់ដោយសម្ពាធហិរញ្ញវត្ថុ អាចធ្វើឱ្យអត្ថន័យហាក់ដូចជាភាពប្រណីត។ សូមរកវិធីតូចៗដើម្បីនាំគោលបំណងចូលមក ទោះយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Loosening the grip of external pressures could free you to find real purpose. You may choose differently.",
+        "km": "ការបន្ធូរការក្តាប់នៃសម្ពាធខាងក្រៅ អាចដោះលែងអ្នកឱ្យរកគោលបំណងពិតប្រាកដ។ អ្នកអាចជ្រើសរើសខុសពីមុន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "If something has shaken your sense of purpose at work, use it as a chance to rebuild on firmer ground. Upheaval can clarify what matters.",
+        "km": "ប្រសិនបើមានអ្វីមួយបានរង្គោះរង្គើអារម្មណ៍នៃគោលបំណងរបស់អ្នកនៅកន្លែងធ្វើការ សូមប្រើវាជាឱកាសដើម្បីកសាងឡើងវិញលើមូលដ្ឋានរឹងមាំជាងមុន។ ភាពចលាចល អាចបំភ្លឺពីអ្វីដែលសំខាន់។"
+      },
+      "challenge": {
+        "en": "A sudden disillusionment could tempt you to give up on meaning altogether. Let the shock settle before deciding anything.",
+        "km": "ការបាត់បង់ជំនឿភ្លាមៗ អាចល្បួងអ្នកឱ្យបោះបង់អត្ថន័យទាំងស្រុង។ សូមឱ្យការភ្ញាក់ផ្អើលស្ងប់ មុននឹងសម្រេចចិត្តអ្វីមួយ។"
+      },
+      "outcome": {
+        "en": "A breakthrough could reveal what truly matters to you in work. Old illusions may give way to real purpose.",
+        "km": "ការទម្លាយមួយ អាចបង្ហាញពីអ្វីដែលពិតជាសំខាន់សម្រាប់អ្នកក្នុងការងារ។ ការស្រមើស្រមៃចាស់ៗ អាចផ្តល់ផ្លូវដល់គោលបំណងពិតប្រាកដ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Reconnect with the hopes that first drew you to this kind of work. Remembering why you started can rekindle a sense of purpose.",
+        "km": "សូមភ្ជាប់ទំនាក់ទំនងឡើងវិញជាមួយក្តីសង្ឃឹមដែលបានទាក់ទាញអ្នកមកកាន់ការងារប្រភេទនេះដំបូង។ ការចងចាំថាហេតុអ្វីអ្នកចាប់ផ្តើម អាចដុតបញ្ឆេះអារម្មណ៍នៃគោលបំណងឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Cynicism about your workplace could block any chance of feeling inspired. Look for one thing worth believing in.",
+        "km": "ភាពមិនទុកចិត្តលើកន្លែងធ្វើការរបស់អ្នក អាចរារាំងឱកាសណាមួយដើម្បីមានអារម្មណ៍បំផុសគំនិត។ សូមរកអ្វីមួយដែលសមនឹងជឿលើ។"
+      },
+      "outcome": {
+        "en": "Renewed hope could make your work feel meaningful again. Inspiration may flow back in and carry you through the harder tasks.",
+        "km": "ក្តីសង្ឃឹមថ្មី អាចធ្វើឱ្យការងាររបស់អ្នកមានអារម្មណ៍មានអត្ថន័យម្តងទៀត។ ការបំផុសគំនិតអាចហូរចូលមកវិញ ហើយនាំអ្នកឆ្លងកាត់កិច្ចការដែលពិបាកជាង។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Pay attention to what your dreams and daydreams about work are telling you. They may point toward a deeper longing.",
+        "km": "សូមយកចិត្តទុកដាក់ចំពោះអ្វីដែលសុបិន និងការស្រមើស្រមៃរបស់អ្នកអំពីការងារ កំពុងប្រាប់អ្នក។ ពួកវាអាចចង្អុលទៅរកបំណងប្រាថ្នាជ្រៅជាង។"
+      },
+      "challenge": {
+        "en": "Confusion about what you really want could keep you drifting. Write down what moves you and what drains you.",
+        "km": "ការច្របូកច្របល់អំពីអ្វីដែលអ្នកពិតជាចង់បាន អាចធ្វើឱ្យអ្នករសាត់អណ្តែត។ សូមសរសេរអ្វីដែលធ្វើឱ្យអ្នករំភើប និងអ្វីដែលបូមកម្លាំងអ្នក។"
+      },
+      "outcome": {
+        "en": "Clarity about your deeper longing could gradually emerge from the fog. A truer path may come into view step by step.",
+        "km": "ភាពច្បាស់លាស់អំពីបំណងប្រាថ្នាជ្រៅជាងរបស់អ្នក អាចលេចចេញបន្តិចម្តងៗពីអ័ព្ទ។ ផ្លូវពិតជាងមុន អាចលេចចូលក្នុងទិដ្ឋភាពម្តងមួយជំហាន។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Notice the moments at work when you feel most alive and joyful. Doing more of those things is a simple path to meaning.",
+        "km": "សូមកត់សម្គាល់ពេលវេលានៅកន្លែងធ្វើការ ដែលអ្នកមានអារម្មណ៍រស់រវើក និងរីករាយបំផុត។ ការធ្វើរឿងទាំងនោះឱ្យច្រើនជាងមុន គឺជាផ្លូវសាមញ្ញឆ្ពោះទៅរកអត្ថន័យ។"
+      },
+      "challenge": {
+        "en": "Measuring meaning only by success or praise could leave you empty when they fade. Find joy in the work itself.",
+        "km": "ការវាស់វែងអត្ថន័យតែតាមភាពជោគជ័យ ឬការសរសើរ អាចធ្វើឱ្យអ្នកទទេ នៅពេលវារសាត់បាត់។ សូមរកសេចក្តីរីករាយក្នុងការងារខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Work could become a genuine source of joy and vitality. You may feel proud of what you do.",
+        "km": "ការងារអាចក្លាយជាប្រភពពិតប្រាកដនៃសេចក្តីរីករាយ និងភាពរស់រវើក។ អ្នកអាចមានមោទនភាពចំពោះអ្វីដែលអ្នកធ្វើ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Take an honest look at the working life you have had and what it has meant to you. Listening for a sense of calling can point you forward.",
+        "km": "សូមមើលដោយស្មោះត្រង់ទៅលើជីវិតការងារដែលអ្នកបានឆ្លងកាត់ និងអ្វីដែលវាមានន័យសម្រាប់អ្នក។ ការស្តាប់អារម្មណ៍នៃការត្រាស់ហៅ អាចចង្អុលអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Judging past choices harshly could make it hard to see the value they had. Every step taught you something.",
+        "km": "ការវិនិច្ឆ័យជម្រើសកន្លងមកយ៉ាងតឹងរ៉ឹង អាចធ្វើឱ្យពិបាកមើលឃើញតម្លៃដែលវាមាន។ ជំហាននីមួយៗបានបង្រៀនអ្នកអ្វីមួយ។"
+      },
+      "outcome": {
+        "en": "A clear sense of calling could guide your next move. Purpose may feel like an answer to a question you have long carried.",
+        "km": "អារម្មណ៍ច្បាស់លាស់នៃការត្រាស់ហៅ អាចណែនាំចលនាបន្ទាប់របស់អ្នក។ គោលបំណងអាចមានអារម្មណ៍ដូចជាចម្លើយចំពោះសំណួរដែលអ្នកបានកាន់ជាយូរមកហើយ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "See how the different parts of your work fit together into a whole. Recognising the full contribution you make can bring a sense of completeness.",
+        "km": "សូមមើលពីរបៀបដែលផ្នែកផ្សេងៗនៃការងាររបស់អ្នក សមគ្នាទៅជាទាំងមូល។ ការទទួលស្គាល់ការរួមចំណែកពេញលេញដែលអ្នកធ្វើ អាចនាំមកនូវអារម្មណ៍ពេញលេញ។"
+      },
+      "challenge": {
+        "en": "Always looking for meaning in the next goal could stop you from appreciating what you have achieved. Pause and take stock.",
+        "km": "ការស្វែងរកអត្ថន័យជានិច្ចក្នុងគោលដៅបន្ទាប់ អាចរារាំងអ្នកពីការកោតសរសើរអ្វីដែលអ្នកបានសម្រេច។ សូមផ្អាក ហើយពិនិត្យមើល។"
+      },
+      "outcome": {
+        "en": "A deep sense of fulfilment and purpose could come together. Your work may feel whole and worthwhile.",
+        "km": "អារម្មណ៍ជ្រាលជ្រៅនៃការពេញចិត្ត និងគោលបំណង អាចប្រមូលផ្តុំគ្នា។ ការងាររបស់អ្នក អាចមានអារម្មណ៍ពេញលេញ និងមានតម្លៃ។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Follow the spark of a project or idea that genuinely lights you up. Even one task you care about can change how the whole job feels.",
+        "km": "សូមដើរតាមផ្កាភ្លើងនៃគម្រោង ឬគំនិតដែលពិតជាធ្វើឱ្យអ្នករំភើប។ សូម្បីតែកិច្ចការមួយដែលអ្នកយកចិត្តទុកដាក់ ក៏អាចផ្លាស់ប្តូររបៀបដែលការងារទាំងមូលមានអារម្មណ៍ដែរ។"
+      },
+      "challenge": {
+        "en": "Waiting for meaning to arrive on its own could leave you waiting a long while. Purpose usually grows from something you start.",
+        "km": "ការរង់ចាំឱ្យអត្ថន័យមកដល់ដោយខ្លួនឯង អាចធ្វើឱ្យអ្នករង់ចាំយូរ។ គោលបំណង ជាធម្មតារីកចម្រើនពីអ្វីមួយដែលអ្នកចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "A new passion project could breathe life back into your work. Enthusiasm may grow into lasting purpose.",
+        "km": "គម្រោងចំណង់ចំណូលចិត្តថ្មី អាចផ្លុំជីវិតត្រឡប់ចូលក្នុងការងាររបស់អ្នកវិញ។ ភាពរីករាយ អាចរីកធំទៅជាគោលបំណងស្ថិតស្ថេរ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Think about the bigger direction you want your working life to take and what you want to contribute. A clear vision can make tasks feel worthwhile.",
+        "km": "សូមគិតអំពីទិសដៅធំជាងដែលអ្នកចង់ឱ្យជីវិតការងាររបស់អ្នកដើរ និងអ្វីដែលអ្នកចង់រួមចំណែក។ ចក្ខុវិស័យច្បាស់លាស់ អាចធ្វើឱ្យកិច្ចការមានអារម្មណ៍សមនឹងការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Dreaming about meaningful work somewhere else could stop you from finding it where you are. Look closer before looking further.",
+        "km": "ការសុបិនពីការងារដែលមានអត្ថន័យនៅកន្លែងផ្សេង អាចរារាំងអ្នកពីការរកវានៅកន្លែងដែលអ្នកនៅ។ សូមមើលឱ្យជិតជាងមុន មុននឹងមើលទៅឆ្ងាយ។"
+      },
+      "outcome": {
+        "en": "A clear sense of direction could make your work feel part of a larger plan. New horizons may open.",
+        "km": "អារម្មណ៍ច្បាស់លាស់នៃទិសដៅ អាចធ្វើឱ្យការងាររបស់អ្នកមានអារម្មណ៍ជាផ្នែកមួយនៃផែនការធំជាង។ ជើងមេឃថ្មី អាចបើកឡើង។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Consider how your work reaches beyond your immediate team, perhaps to customers or communities far away. Seeing that reach can make work feel bigger.",
+        "km": "សូមពិចារណាពីរបៀបដែលការងាររបស់អ្នក ទៅដល់ហួសពីក្រុមភ្លាមៗរបស់អ្នក ប្រហែលជាដល់អតិថិជន ឬសហគមន៍នៅឆ្ងាយ។ ការមើលឃើញវិសាលភាពនោះ អាចធ្វើឱ្យការងារមានអារម្មណ៍ធំជាង។"
+      },
+      "challenge": {
+        "en": "Expecting meaning to show up only in big results could make ordinary efforts feel pointless. Small contributions add up.",
+        "km": "ការរំពឹងថាអត្ថន័យនឹងលេចឡើងតែក្នុងលទ្ធផលធំៗ អាចធ្វើឱ្យការខិតខំធម្មតាហាក់ដូចជាគ្មានន័យ។ ការរួមចំណែកតូចៗ បូកបញ្ចូលគ្នា។"
+      },
+      "outcome": {
+        "en": "Your work could reach further and touch more lives than you realise. A wider purpose may come into focus.",
+        "km": "ការងាររបស់អ្នក អាចទៅដល់ឆ្ងាយ និងប៉ះពាល់ជីវិតច្រើនជាងអ្វីដែលអ្នកដឹង។ គោលបំណងទូលាយជាងមុន អាចកាន់តែច្បាស់។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Celebrate the milestones and good moments in your work, alone or with others. Marking progress helps you feel that what you do matters.",
+        "km": "សូមអបអរព្រឹត្តិការណ៍សំខាន់ និងពេលវេលាល្អៗក្នុងការងាររបស់អ្នក ម្នាក់ឯង ឬជាមួយអ្នកដទៃ។ ការកត់សម្គាល់ការរីកចម្រើន ជួយឱ្យអ្នកមានអារម្មណ៍ថាអ្វីដែលអ្នកធ្វើគឺសំខាន់។"
+      },
+      "challenge": {
+        "en": "Rushing from one task to the next without ever pausing could make achievements blur together. Stop and notice what you have built.",
+        "km": "ការប្រញាប់ពីកិច្ចការមួយទៅកិច្ចការមួយទៀត ដោយមិនដែលផ្អាក អាចធ្វើឱ្យសមិទ្ធផលព្រិលចូលគ្នា។ សូមឈប់ ហើយកត់សម្គាល់អ្វីដែលអ្នកបានកសាង។"
+      },
+      "outcome": {
+        "en": "A sense of belonging and shared achievement could make work feel worthwhile. Happy moments may grow more frequent.",
+        "km": "អារម្មណ៍នៃការជាផ្នែកមួយ និងសមិទ្ធផលរួម អាចធ្វើឱ្យការងារមានអារម្មណ៍មានតម្លៃ។ ពេលវេលារីករាយ អាចកើតឡើងញឹកញាប់ជាងមុន។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Find meaning in the healthy challenge of working through problems with others. Differences of opinion can lead to better, more meaningful results.",
+        "km": "សូមរកអត្ថន័យក្នុងការប្រឈមដ៏ល្អ នៃការដោះស្រាយបញ្ហាជាមួយអ្នកដទៃ។ ភាពខុសគ្នានៃមតិ អាចនាំទៅរកលទ្ធផលល្អជាង និងមានអត្ថន័យជាង។"
+      },
+      "challenge": {
+        "en": "Constant workplace conflict could drain the meaning out of even work you love. Look for ways to lower the noise.",
+        "km": "ជម្លោះជាប្រចាំនៅកន្លែងធ្វើការ អាចបូមយកអត្ថន័យចេញ សូម្បីតែពីការងារដែលអ្នកស្រឡាញ់។ សូមរកវិធីបន្ថយសំឡេងរំខាន។"
+      },
+      "outcome": {
+        "en": "Working through challenges together could create a shared sense of purpose. Struggle may turn into meaning.",
+        "km": "ការដោះស្រាយការប្រឈមជាមួយគ្នា អាចបង្កើតអារម្មណ៍រួមនៃគោលបំណង។ ការតស៊ូ អាចប្រែក្លាយទៅជាអត្ថន័យ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Let yourself feel proud of your achievements and the recognition they bring. Knowing your work is valued can deepen its meaning.",
+        "km": "សូមអនុញ្ញាតឱ្យខ្លួនឯងមានមោទនភាពចំពោះសមិទ្ធផលរបស់អ្នក និងការទទួលស្គាល់ដែលវានាំមក។ ការដឹងថាការងាររបស់អ្នកត្រូវបានគេឱ្យតម្លៃ អាចធ្វើឱ្យអត្ថន័យរបស់វាកាន់តែជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Depending on praise to feel your work matters could leave you empty when it stops. Value your work on your own terms too.",
+        "km": "ការពឹងផ្អែកលើការសរសើរ ដើម្បីមានអារម្មណ៍ថាការងាររបស់អ្នកសំខាន់ អាចធ្វើឱ្យអ្នកទទេនៅពេលវាឈប់។ សូមឱ្យតម្លៃការងាររបស់អ្នកតាមលក្ខខណ្ឌរបស់អ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Recognition could confirm that your work makes a real difference. Pride in what you do may grow.",
+        "km": "ការទទួលស្គាល់ អាចបញ្ជាក់ថាការងាររបស់អ្នកធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដ។ មោទនភាពចំពោះអ្វីដែលអ្នកធ្វើ អាចកើនឡើង។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Stand up for the work and causes you believe in, even when it takes effort. Defending what matters can give your role real purpose.",
+        "km": "សូមឈរការពារការងារ និងបុព្វហេតុដែលអ្នកជឿជាក់ ទោះបីវាត្រូវការការខិតខំក៏ដោយ។ ការការពារអ្វីដែលសំខាន់ អាចផ្តល់គោលបំណងពិតប្រាកដដល់តួនាទីរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Fighting every battle could exhaust you before you reach what matters. Save your energy for causes that truly count.",
+        "km": "ការប្រយុទ្ធគ្រប់សមរភូមិ អាចធ្វើឱ្យអ្នកអស់កម្លាំង មុនពេលអ្នកឈានដល់អ្វីដែលសំខាន់។ សូមសន្សំថាមពលរបស់អ្នក សម្រាប់បុព្វហេតុដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "Standing firm for your values could give your work a strong sense of purpose. What you protect may matter deeply.",
+        "km": "ការឈរមាំសម្រាប់គុណតម្លៃរបស់អ្នក អាចផ្តល់ឱ្យការងាររបស់អ្នកនូវអារម្មណ៍ខ្លាំងនៃគោលបំណង។ អ្វីដែលអ្នកការពារ អាចមានសារៈសំខាន់យ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Notice when you are in the flow, absorbed and moving quickly through work you enjoy. Arranging more of that can bring energy and meaning.",
+        "km": "សូមកត់សម្គាល់ពេលដែលអ្នកស្ថិតក្នុងលំហូរ ជ្រួតជ្រាប និងធ្វើការងារដែលអ្នករីករាយយ៉ាងរហ័ស។ ការរៀបចំឱ្យមានបែបនោះច្រើនជាងមុន អាចនាំមកនូវថាមពល និងអត្ថន័យ។"
+      },
+      "challenge": {
+        "en": "Rushing through everything could leave no space to feel what your work means. Slow down enough to notice.",
+        "km": "ការប្រញាប់ឆ្លងកាត់អ្វីៗទាំងអស់ អាចមិនទុកកន្លែងដើម្បីមានអារម្មណ៍ពីអ្វីដែលការងាររបស់អ្នកមានន័យ។ សូមបន្ថយល្បឿនគ្រប់គ្រាន់ដើម្បីកត់សម្គាល់។"
+      },
+      "outcome": {
+        "en": "Things could come together quickly in a way that feels purposeful. Momentum may bring new meaning.",
+        "km": "អ្វីៗអាចមកជួបគ្នាយ៉ាងរហ័ស តាមរបៀបដែលមានអារម្មណ៍មានគោលបំណង។ សន្ទុះអាចនាំមកនូវអត្ថន័យថ្មី។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Recognise the resilience you have shown in staying with difficult work. Meaning can come from endurance and from not giving up.",
+        "km": "សូមទទួលស្គាល់ភាពធន់ដែលអ្នកបានបង្ហាញ ក្នុងការនៅជាមួយការងារលំបាក។ អត្ថន័យអាចមកពីការស៊ូទ្រាំ និងពីការមិនបោះបង់។"
+      },
+      "challenge": {
+        "en": "Weariness could make you stop believing your work matters at all. Rest and recovery may restore that belief.",
+        "km": "ភាពនឿយហត់ អាចធ្វើឱ្យអ្នកឈប់ជឿថាការងាររបស់អ្នកសំខាន់ទាល់តែសោះ។ ការសម្រាក និងការស្តារកម្លាំង អាចស្តារជំនឿនោះឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Your persistence could lead to a sense of purpose earned through effort. What you held on to may prove worthwhile.",
+        "km": "ការតស៊ូរបស់អ្នក អាចនាំទៅរកអារម្មណ៍នៃគោលបំណង ដែលទទួលបានតាមរយៈការខិតខំ។ អ្វីដែលអ្នកបានកាន់ខ្ជាប់ អាចបង្ហាញថាមានតម្លៃ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Look at which of your many duties feel meaningful and which are simply heavy. Shedding some of the load can make room for purpose.",
+        "km": "សូមមើលថាភារកិច្ចណាមួយក្នុងចំណោមភារកិច្ចជាច្រើនរបស់អ្នក មានអារម្មណ៍មានអត្ថន័យ និងមួយណាគ្រាន់តែធ្ងន់។ ការដាក់បន្ទុកខ្លះចុះ អាចបើកកន្លែងសម្រាប់គោលបំណង។"
+      },
+      "challenge": {
+        "en": "Carrying too much could bury any sense of meaning under exhaustion. Ask what you can put down or share.",
+        "km": "ការលីច្រើនពេក អាចកប់អារម្មណ៍នៃអត្ថន័យណាមួយ នៅក្រោមការអស់កម្លាំង។ សូមសួរថាតើអ្នកអាចដាក់ចុះ ឬចែករំលែកអ្វីបាន។"
+      },
+      "outcome": {
+        "en": "Lightening your load could let meaning breathe again. Fewer tasks, chosen with more purpose, may feel far better.",
+        "km": "ការបន្ធូរបន្ទុករបស់អ្នក អាចធ្វើឱ្យអត្ថន័យដកដង្ហើមម្តងទៀត។ កិច្ចការតិចជាងមុន ដែលបានជ្រើសរើសដោយមានគោលបំណងជាងមុន អាចមានអារម្មណ៍ល្អជាងឆ្ងាយ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Explore a new area of your work with the curiosity of a beginner. Discovering something fresh can rekindle your interest.",
+        "km": "សូមស្វែងរកផ្នែកថ្មីនៃការងាររបស់អ្នក ដោយការចង់ដឹងចង់ឃើញរបស់អ្នកចាប់ផ្តើម។ ការរកឃើញអ្វីថ្មី អាចដុតបញ្ឆេះចំណាប់អារម្មណ៍របស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Dismissing small new interests as unimportant could cause you to miss a meaningful direction. Follow your curiosity a little way.",
+        "km": "ការមិនខ្វល់ពីចំណាប់អារម្មណ៍ថ្មីតូចៗ ថាមិនសំខាន់ អាចធ្វើឱ្យអ្នកខកខានទិសដៅដែលមានអត្ថន័យ។ សូមដើរតាមការចង់ដឹងចង់ឃើញរបស់អ្នកបន្តិច។"
+      },
+      "outcome": {
+        "en": "A new interest could grow into a source of real meaning. A fresh direction may open up.",
+        "km": "ចំណាប់អារម្មណ៍ថ្មី អាចរីកធំទៅជាប្រភពនៃអត្ថន័យពិតប្រាកដ។ ទិសដៅថ្មី អាចបើកឡើង។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Take bold action toward work that excites you, whether that means volunteering for a project or proposing a change. Energy follows purpose.",
+        "km": "សូមចាត់វិធានការក្លាហាន ឆ្ពោះទៅរកការងារដែលធ្វើឱ្យអ្នករំភើប ទោះជាការស្ម័គ្រចិត្តសម្រាប់គម្រោងមួយ ឬការស្នើការផ្លាស់ប្តូរ។ ថាមពលដើរតាមគោលបំណង។"
+      },
+      "challenge": {
+        "en": "Jumping impulsively from one passion to another could leave nothing finished or fulfilling. Give one direction a fair try.",
+        "km": "ការលោតដោយគ្មានការគិតពីចំណង់ចំណូលចិត្តមួយទៅមួយទៀត អាចមិនបន្សល់អ្វីដែលបានបញ្ចប់ ឬពេញចិត្ត។ សូមផ្តល់ការសាកល្បងដ៏យុត្តិធម៌ដល់ទិសដៅមួយ។"
+      },
+      "outcome": {
+        "en": "Bold steps could lead you to work that feels exciting and alive. Adventure may bring purpose.",
+        "km": "ជំហានក្លាហាន អាចនាំអ្នកទៅរកការងារដែលមានអារម្មណ៍គួរឱ្យរំភើប និងរស់រវើក។ ការផ្សងព្រេង អាចនាំមកនូវគោលបំណង។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Bring your warmth and confidence to inspire others at work. Lifting those around you can be a deep source of meaning.",
+        "km": "សូមនាំភាពកក់ក្តៅ និងទំនុកចិត្តរបស់អ្នក ដើម្បីបំផុសគំនិតអ្នកដទៃនៅកន្លែងធ្វើការ។ ការលើកស្ទួយអ្នកនៅជុំវិញអ្នក អាចជាប្រភពជ្រាលជ្រៅនៃអត្ថន័យ។"
+      },
+      "challenge": {
+        "en": "Giving so much energy to others that you have none left for yourself could drain your sense of purpose. Keep some fire for your own goals.",
+        "km": "ការផ្តល់ថាមពលច្រើនពេកដល់អ្នកដទៃ រហូតមិននៅសល់សម្រាប់ខ្លួនឯង អាចបូមអារម្មណ៍នៃគោលបំណងរបស់អ្នក។ សូមរក្សាភ្លើងខ្លះសម្រាប់គោលដៅរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Inspiring others could become one of the most meaningful parts of your work. Your warmth may make a real difference.",
+        "km": "ការបំផុសគំនិតអ្នកដទៃ អាចក្លាយជាផ្នែកមួយដែលមានអត្ថន័យបំផុតនៃការងាររបស់អ្នក។ ភាពកក់ក្តៅរបស់អ្នក អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Think about the legacy you want to build through your work. Leading toward a vision you believe in can give everything purpose.",
+        "km": "សូមគិតអំពីកេរដំណែលដែលអ្នកចង់កសាងតាមរយៈការងាររបស់អ្នក។ ការដឹកនាំឆ្ពោះទៅរកចក្ខុវិស័យដែលអ្នកជឿជាក់ អាចផ្តល់គោលបំណងដល់អ្វីៗទាំងអស់។"
+      },
+      "challenge": {
+        "en": "Focusing only on status and authority could leave the bigger purpose behind. Remember why you wanted to lead.",
+        "km": "ការផ្តោតតែលើឋានៈ និងអំណាច អាចទុកគោលបំណងធំជាងនៅពីក្រោយ។ សូមចងចាំថាហេតុអ្វីអ្នកចង់ដឹកនាំ។"
+      },
+      "outcome": {
+        "en": "Leading with vision could give your work lasting meaning. What you build may outlast you and keep helping others.",
+        "km": "ការដឹកនាំដោយចក្ខុវិស័យ អាចផ្តល់ឱ្យការងាររបស់អ្នកនូវអត្ថន័យស្ថិតស្ថេរ។ អ្វីដែលអ្នកកសាង អាចស្ថិតស្ថេរលើសពីអ្នក ហើយបន្តជួយអ្នកដទៃ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Let yourself care about the people your work serves, and notice the feelings it stirs in you. Emotional connection is often where meaning begins.",
+        "km": "សូមអនុញ្ញាតឱ្យខ្លួនឯងយកចិត្តទុកដាក់ចំពោះមនុស្សដែលការងាររបស់អ្នកបម្រើ ហើយកត់សម្គាល់អារម្មណ៍ដែលវាធ្វើឱ្យកើតឡើងក្នុងខ្លួនអ្នក។ ការភ្ជាប់ទំនាក់ទំនងផ្លូវអារម្មណ៍ ជារឿយៗជាកន្លែងដែលអត្ថន័យចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Treating work as purely practical, with feelings left at the door, could leave it hollow. Allow some heart into what you do.",
+        "km": "ការចាត់ទុកការងារជារឿងជាក់ស្តែងសុទ្ធសាធ ដោយទុកអារម្មណ៍នៅមាត់ទ្វារ អាចធ្វើឱ្យវាទទេ។ សូមអនុញ្ញាតឱ្យបេះដូងខ្លះចូលក្នុងអ្វីដែលអ្នកធ្វើ។"
+      },
+      "outcome": {
+        "en": "A fresh emotional connection to your work could make it feel worthwhile again. Your heart may find a home in it.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងផ្លូវអារម្មណ៍ថ្មីជាមួយការងាររបស់អ្នក អាចធ្វើឱ្យវាមានអារម្មណ៍មានតម្លៃម្តងទៀត។ បេះដូងរបស់អ្នក អាចរកឃើញផ្ទះនៅក្នុងវា។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Build a meaningful working relationship with someone whose values you share. Purpose often grows through partnership.",
+        "km": "សូមកសាងទំនាក់ទំនងការងារដ៏មានអត្ថន័យ ជាមួយនរណាម្នាក់ដែលអ្នកមានគុណតម្លៃដូចគ្នា។ គោលបំណង ជារឿយៗរីកចម្រើនតាមរយៈភាពជាដៃគូ។"
+      },
+      "challenge": {
+        "en": "Working in isolation could make it harder to feel your work matters. Seek out a colleague who shares your sense of purpose.",
+        "km": "ការធ្វើការដាច់ដោយឡែក អាចធ្វើឱ្យពិបាកមានអារម្មណ៍ថាការងាររបស់អ្នកសំខាន់។ សូមស្វែងរកសហការីម្នាក់ ដែលមានអារម្មណ៍នៃគោលបំណងដូចអ្នក។"
+      },
+      "outcome": {
+        "en": "A meaningful partnership could make your work feel richer. Shared purpose may sustain you both through difficult stretches.",
+        "km": "ភាពជាដៃគូដ៏មានអត្ថន័យ អាចធ្វើឱ្យការងាររបស់អ្នកមានអារម្មណ៍សម្បូរបែបជាងមុន។ គោលបំណងរួម អាចទ្រទ្រង់អ្នកទាំងពីរឆ្លងកាត់ដំណាក់កាលលំបាក។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Find meaning in community, in the friendships and shared moments that make a workplace human. Belonging can matter as much as the tasks.",
+        "km": "សូមរកអត្ថន័យក្នុងសហគមន៍ ក្នុងមិត្តភាព និងពេលវេលារួមគ្នា ដែលធ្វើឱ្យកន្លែងធ្វើការមានលក្ខណៈមនុស្ស។ ការជាផ្នែកមួយ អាចសំខាន់ដូចកិច្ចការដែរ។"
+      },
+      "challenge": {
+        "en": "Keeping to yourself could make work feel lonely and empty. Join in, even in small ways.",
+        "km": "ការនៅតែម្នាក់ឯង អាចធ្វើឱ្យការងារមានអារម្មណ៍ឯកោ និងទទេ។ សូមចូលរួម សូម្បីតែតាមវិធីតូចៗ។"
+      },
+      "outcome": {
+        "en": "Friendship and shared celebration could make work feel more meaningful. You may feel part of something good.",
+        "km": "មិត្តភាព និងការអបអររួមគ្នា អាចធ្វើឱ្យការងារមានអារម្មណ៍មានអត្ថន័យជាងមុន។ អ្នកអាចមានអារម្មណ៍ថាជាផ្នែកមួយនៃអ្វីដែលល្អ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Notice if you have become numb or bored at work, and ask what you are no longer seeing. A missed opportunity for meaning may be right in front of you.",
+        "km": "សូមកត់សម្គាល់ ប្រសិនបើអ្នកបានក្លាយជាស្ពឹក ឬធុញទ្រាន់នៅកន្លែងធ្វើការ ហើយសួរថាតើអ្នកលែងមើលឃើញអ្វី។ ឱកាសដែលខកខានសម្រាប់អត្ថន័យ អាចនៅចំពោះមុខអ្នក។"
+      },
+      "challenge": {
+        "en": "Apathy could make every offer of something new seem pointless. Try saying yes to one small invitation.",
+        "km": "ការព្រងើយកន្តើយ អាចធ្វើឱ្យរាល់ការផ្តល់ជូនអ្វីថ្មី ហាក់ដូចជាគ្មានន័យ។ សូមសាកល្បងយល់ព្រមចំពោះការអញ្ជើញតូចមួយ។"
+      },
+      "outcome": {
+        "en": "Fresh attention could reveal meaning in your work that you had stopped noticing. Interest may return once you look again.",
+        "km": "ការយកចិត្តទុកដាក់ថ្មី អាចបង្ហាញពីអត្ថន័យក្នុងការងាររបស់អ្នក ដែលអ្នកបានឈប់កត់សម្គាល់។ ចំណាប់អារម្មណ៍អាចត្រឡប់មកវិញ នៅពេលអ្នកមើលម្តងទៀត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Acknowledge any disappointment you feel about how your work has turned out. Grieving what did not happen can open space for new purpose.",
+        "km": "សូមទទួលស្គាល់ការខកចិត្តណាមួយ ដែលអ្នកមានអំពីរបៀបដែលការងាររបស់អ្នកបានប្រែក្លាយ។ ការកាន់ទុក្ខចំពោះអ្វីដែលមិនបានកើតឡើង អាចបើកកន្លែងសម្រាប់គោលបំណងថ្មី។"
+      },
+      "challenge": {
+        "en": "Replaying every way your work has let you down could blind you to what still has value in it. Look for what is worth keeping.",
+        "km": "ការរំលឹកគ្រប់វិធីដែលការងាររបស់អ្នកធ្វើឱ្យអ្នកខកចិត្ត អាចធ្វើឱ្យអ្នកមើលមិនឃើញអ្វីដែលនៅតែមានតម្លៃក្នុងវា។ សូមរកអ្វីដែលគួររក្សាទុក។"
+      },
+      "outcome": {
+        "en": "What remains could become the foundation of renewed meaning. Hope may return once loss is accepted.",
+        "km": "អ្វីដែលនៅសល់ អាចក្លាយជាមូលដ្ឋាននៃអត្ថន័យថ្មី។ ក្តីសង្ឃឹមអាចត្រឡប់មកវិញ នៅពេលការបាត់បង់ត្រូវបានទទួលយក។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Remember what you loved about work when you were younger or first starting out. Reconnecting with that early joy can guide you.",
+        "km": "សូមចងចាំអ្វីដែលអ្នកស្រឡាញ់អំពីការងារ កាលអ្នកនៅក្មេង ឬទើបចាប់ផ្តើម។ ការភ្ជាប់ទំនាក់ទំនងឡើងវិញជាមួយសេចក្តីរីករាយដំបូងនោះ អាចណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Longing for how things used to be could stop you from finding meaning in the role you have. Bring the old joy into the work in front of you.",
+        "km": "ការនឹករលឹកពីរបៀបដែលអ្វីៗធ្លាប់មាន អាចរារាំងអ្នកពីការរកអត្ថន័យក្នុងតួនាទីដែលអ្នកមាន។ សូមនាំសេចក្តីរីករាយចាស់ចូលទៅក្នុងការងារនៅចំពោះមុខអ្នក។"
+      },
+      "outcome": {
+        "en": "Simple kindness and familiar pleasures could restore a sense of meaning. Joy may return from an old source.",
+        "km": "សេចក្តីសប្បុរសសាមញ្ញ និងសេចក្តីរីករាយដែលធ្លាប់ស្គាល់ អាចស្តារអារម្មណ៍នៃអត្ថន័យឡើងវិញ។ សេចក្តីរីករាយអាចត្រឡប់មកពីប្រភពចាស់។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may have many ideas about what meaningful work could look like. Choose one that feels realistic and explore it a little further.",
+        "km": "អ្នកប្រហែលជាមានគំនិតជាច្រើនអំពីរបៀបដែលការងារមានអត្ថន័យអាចមើលទៅ។ សូមជ្រើសរើសមួយដែលមានអារម្មណ៍ប្រាកដនិយម ហើយស្វែងរកវាបន្ថែមបន្តិច។"
+      },
+      "challenge": {
+        "en": "Chasing an idealised dream job could leave you unsatisfied with everything real. Look for meaning in what is actually available.",
+        "km": "ការដេញតាមការងារក្នុងសុបិនដ៏ល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកមិនពេញចិត្តនឹងអ្វីៗដែលពិតប្រាកដ។ សូមរកអត្ថន័យក្នុងអ្វីដែលពិតជាមាន។"
+      },
+      "outcome": {
+        "en": "A clearer choice could turn vague longing into real purpose. One option may stand out once you test it in practice.",
+        "km": "ជម្រើសច្បាស់លាស់ជាងមុន អាចប្រែបំណងប្រាថ្នាមិនច្បាស់ ទៅជាគោលបំណងពិតប្រាកដ។ ជម្រើសមួយ អាចលេចធ្លោ នៅពេលអ្នកសាកល្បងវាជាក់ស្តែង។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Consider whether it is time to walk away from work that no longer feeds you. Seeking deeper meaning sometimes means leaving.",
+        "km": "សូមពិចារណាថាតើវាដល់ពេលដែលត្រូវដើរចេញពីការងារដែលលែងផ្តល់អាហារដល់ចិត្តអ្នកឬនៅ។ ការស្វែងរកអត្ថន័យជ្រៅជាង ពេលខ្លះមានន័យថាការចាកចេញ។"
+      },
+      "challenge": {
+        "en": "Staying only because leaving feels hard could keep you feeling empty. Admit to yourself what your heart is asking for.",
+        "km": "ការនៅតែដោយសារការចាកចេញមានអារម្មណ៍ពិបាក អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ទទេ។ សូមទទួលស្គាល់ចំពោះខ្លួនឯងពីអ្វីដែលបេះដូងរបស់អ្នកកំពុងស្នើសុំ។"
+      },
+      "outcome": {
+        "en": "Following a deeper calling could lead to more fulfilling work. Leaving behind the familiar may feel freeing.",
+        "km": "ការដើរតាមការត្រាស់ហៅជ្រៅជាង អាចនាំទៅរកការងារដែលពេញចិត្តជាងមុន។ ការទុកអ្វីដែលធ្លាប់ស្គាល់នៅពីក្រោយ អាចមានអារម្មណ៍សេរី។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Appreciate what already brings you satisfaction in your work. Contentment noticed and named can deepen into lasting meaning.",
+        "km": "សូមកោតសរសើរអ្វីដែលនាំមកនូវការពេញចិត្តក្នុងការងាររបស់អ្នករួចហើយ។ ការពេញចិត្តដែលបានកត់សម្គាល់ និងដាក់ឈ្មោះ អាចជ្រៅទៅជាអត្ថន័យស្ថិតស្ថេរ។"
+      },
+      "challenge": {
+        "en": "Being comfortable could make you stop asking whether your work truly fulfils you. Check in with yourself from time to time.",
+        "km": "ការសុខស្រួល អាចធ្វើឱ្យអ្នកឈប់សួរថាតើការងាររបស់អ្នកពិតជាធ្វើឱ្យអ្នកពេញចិត្តឬទេ។ សូមពិនិត្យខ្លួនឯងជាញឹកញាប់។"
+      },
+      "outcome": {
+        "en": "A deep sense of satisfaction could settle into your work. A wish for meaningful work may be fulfilled.",
+        "km": "អារម្មណ៍ជ្រាលជ្រៅនៃការពេញចិត្ត អាចចូលមកក្នុងការងាររបស់អ្នក។ បំណងប្រាថ្នាសម្រាប់ការងារដែលមានអត្ថន័យ អាចត្រូវបានបំពេញ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Think about how your work supports the people you love and the life you want. Meaning can come from what your work makes possible.",
+        "km": "សូមគិតអំពីរបៀបដែលការងាររបស់អ្នក គាំទ្រមនុស្សដែលអ្នកស្រឡាញ់ និងជីវិតដែលអ្នកចង់បាន។ អត្ថន័យអាចមកពីអ្វីដែលការងាររបស់អ្នកធ្វើឱ្យអាចទៅរួច។"
+      },
+      "challenge": {
+        "en": "Sacrificing family time for work could leave both feeling empty. Balance helps both sides mean more.",
+        "km": "ការលះបង់ពេលវេលាគ្រួសារសម្រាប់ការងារ អាចធ្វើឱ្យទាំងពីរមានអារម្មណ៍ទទេ។ តុល្យភាពជួយឱ្យភាគីទាំងពីរមានន័យកាន់តែច្រើន។"
+      },
+      "outcome": {
+        "en": "Work and home could come into harmony, each giving meaning to the other. Lasting fulfilment may grow.",
+        "km": "ការងារ និងផ្ទះ អាចមកសុខដុមគ្នា ដោយម្ខាងៗផ្តល់អត្ថន័យដល់ម្ខាងទៀត។ ការពេញចិត្តស្ថិតស្ថេរ អាចរីកចម្រើន។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Let your creative or intuitive side into your work in small, playful ways. Fresh ideas and a gentle approach can bring unexpected meaning.",
+        "km": "សូមអនុញ្ញាតឱ្យផ្នែកច្នៃប្រឌិត ឬវិចារណញាណរបស់អ្នក ចូលក្នុងការងារតាមវិធីតូចៗ និងលេងសើច។ គំនិតថ្មី និងវិធីសាស្ត្រទន់ភ្លន់ អាចនាំមកនូវអត្ថន័យដែលមិនបានរំពឹងទុក។"
+      },
+      "challenge": {
+        "en": "Dismissing your sensitive side as unprofessional could cut you off from what moves you. Your feelings are information.",
+        "km": "ការមិនខ្វល់ពីផ្នែករសើបរបស់អ្នក ថាមិនមែនជាវិជ្ជាជីវៈ អាចកាត់អ្នកចេញពីអ្វីដែលធ្វើឱ្យអ្នករំភើបចិត្ត។ អារម្មណ៍របស់អ្នក គឺជាព័ត៌មាន។"
+      },
+      "outcome": {
+        "en": "A small creative idea could open a new and meaningful direction. Gentle inspiration may surprise you.",
+        "km": "គំនិតច្នៃប្រឌិតតូចមួយ អាចបើកទិសដៅថ្មី និងមានអត្ថន័យ។ ការបំផុសគំនិតទន់ភ្លន់ អាចធ្វើឱ្យអ្នកភ្ញាក់ផ្អើល។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Follow your heart toward work that expresses your ideals. Offering something you believe in can make the effort feel worthwhile.",
+        "km": "សូមដើរតាមបេះដូងរបស់អ្នក ឆ្ពោះទៅរកការងារដែលបង្ហាញពីឧត្តមគតិរបស់អ្នក។ ការផ្តល់អ្វីមួយដែលអ្នកជឿជាក់ អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍សមនឹងការចំណាយ។"
+      },
+      "challenge": {
+        "en": "Romantic ideas about the perfect calling could make you restless and never satisfied. Look for meaning in real work too.",
+        "km": "គំនិតស្រមើស្រមៃអំពីការត្រាស់ហៅដ៏ល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកមិនស្ងប់ ហើយមិនដែលពេញចិត្ត។ សូមរកអត្ថន័យក្នុងការងារពិតប្រាកដផងដែរ។"
+      },
+      "outcome": {
+        "en": "An offer or opportunity could arrive that speaks to your ideals. Following your heart may lead somewhere good.",
+        "km": "ការផ្តល់ជូន ឬឱកាសដែលស្របនឹងឧត្តមគតិរបស់អ្នក អាចមកដល់។ ការដើរតាមបេះដូងរបស់អ្នក អាចនាំទៅកន្លែងល្អ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Find meaning in caring for others through your work, whether colleagues, customers or the wider community. Compassion gives work depth.",
+        "km": "សូមរកអត្ថន័យក្នុងការយកចិត្តទុកដាក់អ្នកដទៃ តាមរយៈការងាររបស់អ្នក មិនថាសហការី អតិថិជន ឬសហគមន៍ទូលាយ។ សេចក្តីមេត្តាករុណា ផ្តល់ជម្រៅដល់ការងារ។"
+      },
+      "challenge": {
+        "en": "Absorbing everyone's needs could leave nothing for your own sense of purpose. Care for yourself as well.",
+        "km": "ការស្រូបយកតម្រូវការរបស់មនុស្សគ្រប់គ្នា អាចមិនទុកអ្វីសម្រាប់អារម្មណ៍នៃគោលបំណងរបស់អ្នកផ្ទាល់។ សូមមើលថែខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "Your compassion could become the heart of meaningful work. Others may feel deeply helped by you.",
+        "km": "សេចក្តីមេត្តាករុណារបស់អ្នក អាចក្លាយជាបេះដូងនៃការងារដែលមានអត្ថន័យ។ អ្នកដទៃអាចមានអារម្មណ៍ថាត្រូវបានអ្នកជួយយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Find meaning in steady, wise leadership and in being someone others can rely on emotionally. Calm guidance is a real gift.",
+        "km": "សូមរកអត្ថន័យក្នុងការដឹកនាំដោយនឹងនរ និងប្រាជ្ញា ហើយក្នុងការធ្វើជាមនុស្សដែលអ្នកដទៃអាចពឹងផ្អែកផ្លូវអារម្មណ៍។ ការណែនាំដោយស្ងប់ស្ងាត់ គឺជាអំណោយពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Keeping your own feelings about work hidden could leave you quietly unfulfilled. Let someone know what matters to you.",
+        "km": "ការលាក់អារម្មណ៍ផ្ទាល់ខ្លួនអំពីការងារ អាចធ្វើឱ្យអ្នកមិនពេញចិត្តដោយស្ងាត់ៗ។ សូមប្រាប់នរណាម្នាក់ពីអ្វីដែលសំខាន់សម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Wise, compassionate leadership could become your most meaningful contribution. Others may grow under your guidance.",
+        "km": "ការដឹកនាំប្រកបដោយប្រាជ្ញា និងមេត្តាករុណា អាចក្លាយជាការរួមចំណែកដែលមានអត្ថន័យបំផុតរបស់អ្នក។ អ្នកដទៃអាចរីកចម្រើនក្រោមការណែនាំរបស់អ្នក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Get clear about what meaningful work actually means to you, in plain words. Naming it precisely makes it much easier to find.",
+        "km": "សូមធ្វើឱ្យច្បាស់ថា ការងារដែលមានអត្ថន័យ ពិតជាមានន័យយ៉ាងណាសម្រាប់អ្នក ជាពាក្យសាមញ្ញ។ ការដាក់ឈ្មោះវាឱ្យច្បាស់លាស់ ធ្វើឱ្យងាយស្រួលរកវាជាងមុនច្រើន។"
+      },
+      "challenge": {
+        "en": "Overanalysing your purpose could leave you stuck in thought. Meaning is often found by doing, not only by thinking.",
+        "km": "ការវិភាគគោលបំណងរបស់អ្នកច្រើនពេក អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងការគិត។ អត្ថន័យ ជារឿយៗត្រូវបានរកឃើញដោយការធ្វើ មិនមែនត្រឹមតែការគិតទេ។"
+      },
+      "outcome": {
+        "en": "A moment of clarity could show you exactly what gives your work meaning. Truth may cut through confusion.",
+        "km": "ពេលវេលានៃភាពច្បាស់លាស់មួយ អាចបង្ហាញអ្នកយ៉ាងច្បាស់ពីអ្វីដែលផ្តល់អត្ថន័យដល់ការងាររបស់អ្នក។ ការពិតអាចកាត់ផ្តាច់ការច្របូកច្របល់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be torn between work that pays well and work that feels meaningful. Weighing both honestly is the first step to a choice.",
+        "km": "អ្នកប្រហែលជាស្ទាក់ស្ទើររវាងការងារដែលផ្តល់ប្រាក់ល្អ និងការងារដែលមានអត្ថន័យ។ ការថ្លឹងថ្លែងទាំងពីរដោយស្មោះត្រង់ គឺជាជំហានដំបូងទៅរកជម្រើស។"
+      },
+      "challenge": {
+        "en": "Avoiding the question of what you really want could keep you stuck in a role that feels empty. Face the choice.",
+        "km": "ការជៀសវាងសំណួរថាតើអ្នកពិតជាចង់បានអ្វី អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងតួនាទីដែលមានអារម្មណ៍ទទេ។ សូមប្រឈមមុខនឹងជម្រើសនោះ។"
+      },
+      "outcome": {
+        "en": "Making a clear choice could bring peace and a renewed sense of purpose. Balance may be found.",
+        "km": "ការធ្វើជម្រើសច្បាស់លាស់ អាចនាំមកនូវសន្តិភាព និងអារម្មណ៍ថ្មីនៃគោលបំណង។ តុល្យភាពអាចត្រូវបានរកឃើញ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Acknowledge if your work has hurt or disappointed you in ways that drained its meaning. Naming that pain can begin to heal it.",
+        "km": "សូមទទួលស្គាល់ ប្រសិនបើការងាររបស់អ្នកបានធ្វើឱ្យអ្នកឈឺចាប់ ឬខកចិត្ត តាមវិធីដែលបូមយកអត្ថន័យរបស់វា។ ការដាក់ឈ្មោះការឈឺចាប់នោះ អាចចាប់ផ្តើមព្យាបាលវា។"
+      },
+      "challenge": {
+        "en": "A painful experience at work could leave you cynical about finding meaning anywhere. One bad chapter does not define all work.",
+        "km": "បទពិសោធន៍ឈឺចាប់នៅកន្លែងធ្វើការ អាចធ្វើឱ្យអ្នកមិនជឿលើការរកអត្ថន័យនៅកន្លែងណាមួយ។ ជំពូកអាក្រក់មួយ មិនកំណត់ការងារទាំងអស់ទេ។"
+      },
+      "outcome": {
+        "en": "Healing from disappointment could open you to meaning again. Hard lessons may become a kind of wisdom you can use.",
+        "km": "ការជាសះស្បើយពីការខកចិត្ត អាចបើកចិត្តអ្នកចំពោះអត្ថន័យម្តងទៀត។ មេរៀនលំបាក អាចក្លាយជាប្រាជ្ញាប្រភេទមួយដែលអ្នកអាចប្រើ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest and step back from the busyness to reflect on what matters. Quiet time away from work can reveal what you want from it.",
+        "km": "សូមសម្រាក ហើយដកខ្លួនចេញពីភាពមមាញឹក ដើម្បីឆ្លុះបញ្ចាំងពីអ្វីដែលសំខាន់។ ពេលវេលាស្ងប់ស្ងាត់ឆ្ងាយពីការងារ អាចបង្ហាញពីអ្វីដែលអ្នកចង់បានពីវា។"
+      },
+      "challenge": {
+        "en": "Exhaustion could make it impossible to feel any meaning at all. Recovery may need to come first.",
+        "km": "ការអស់កម្លាំង អាចធ្វើឱ្យមិនអាចមានអារម្មណ៍នៃអត្ថន័យណាមួយទាល់តែសោះ។ ការស្តារកម្លាំងប្រហែលជាត្រូវមកមុន។"
+      },
+      "outcome": {
+        "en": "A period of rest could restore your sense of purpose. You may return with fresh eyes.",
+        "km": "ដំណាក់កាលនៃការសម្រាក អាចស្តារអារម្មណ៍នៃគោលបំណងរបស់អ្នកឡើងវិញ។ អ្នកអាចត្រឡប់មកវិញ ដោយភ្នែកថ្មី។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Ask whether competition and winning are giving you meaning or taking it away. Sometimes stepping out of a contest brings peace.",
+        "km": "សូមសួរថាតើការប្រកួតប្រជែង និងការឈ្នះ កំពុងផ្តល់អត្ថន័យដល់អ្នក ឬយកវាចេញ។ ពេលខ្លះ ការដើរចេញពីការប្រកួតនាំមកនូវសន្តិភាព។"
+      },
+      "challenge": {
+        "en": "A workplace driven by politics could leave little room for meaning. Protect your values even when others do not.",
+        "km": "កន្លែងធ្វើការដែលដំណើរការដោយនយោបាយ អាចទុកកន្លែងតិចតួចសម្រាប់អត្ថន័យ។ សូមការពារគុណតម្លៃរបស់អ្នក សូម្បីតែពេលអ្នកដទៃមិនធ្វើក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Letting go of hollow victories could free you for more meaningful work. Peace may matter more than winning.",
+        "km": "ការបោះបង់ជ័យជម្នះទទេ អាចដោះលែងអ្នកសម្រាប់ការងារដែលមានអត្ថន័យជាងមុន។ សន្តិភាពអាចសំខាន់ជាងការឈ្នះ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Consider whether a move toward calmer, more purposeful work is what you need. A gradual transition can bring you somewhere better.",
+        "km": "សូមពិចារណាថាតើការផ្លាស់ទៅរកការងារស្ងប់ស្ងាត់ និងមានគោលបំណងជាងមុន គឺជាអ្វីដែលអ្នកត្រូវការឬទេ។ ការផ្លាស់ប្តូរបន្តិចម្តងៗ អាចនាំអ្នកទៅកន្លែងល្អជាង។"
+      },
+      "challenge": {
+        "en": "Carrying old frustrations into new work could make it feel empty too. Leave the old weight behind.",
+        "km": "ការយកការខកចិត្តចាស់ៗចូលទៅក្នុងការងារថ្មី អាចធ្វើឱ្យវាមានអារម្មណ៍ទទេដែរ។ សូមទុកទម្ងន់ចាស់នៅពីក្រោយ។"
+      },
+      "outcome": {
+        "en": "A gentle move toward more meaningful work could bring relief. Calmer waters may lie that way.",
+        "km": "ការផ្លាស់ប្តូរដោយទន់ភ្លន់ ឆ្ពោះទៅរកការងារដែលមានអត្ថន័យជាងមុន អាចនាំមកនូវការធូរស្រាល។ ទឹកស្ងប់ស្ងាត់ជាងមុន អាចស្ថិតនៅផ្លូវនោះ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Be honest with yourself about whether you are working for your own reasons or someone else's. Self-honesty is where meaning begins.",
+        "km": "សូមស្មោះត្រង់ជាមួយខ្លួនឯង ថាតើអ្នកកំពុងធ្វើការដោយហេតុផលរបស់អ្នកផ្ទាល់ ឬរបស់នរណាម្នាក់ផ្សេងទៀត។ ភាពស្មោះត្រង់ចំពោះខ្លួនឯង គឺជាកន្លែងដែលអត្ថន័យចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Cutting corners or compromising your ethics could quietly destroy your sense of purpose. Stay true to what you believe.",
+        "km": "ការដើរផ្លូវកាត់ ឬការសម្របសម្រួលក្រមសីលធម៌របស់អ្នក អាចបំផ្លាញអារម្មណ៍នៃគោលបំណងរបស់អ្នកដោយស្ងាត់ៗ។ សូមស្មោះត្រង់នឹងអ្វីដែលអ្នកជឿ។"
+      },
+      "outcome": {
+        "en": "Clever, honest choices could lead you to work that feels right. Integrity may bring a meaning that cannot be bought.",
+        "km": "ជម្រើសឆ្លាតវៃ និងស្មោះត្រង់ អាចនាំអ្នកទៅរកការងារដែលមានអារម្មណ៍ត្រឹមត្រូវ។ សុចរិតភាព អាចនាំមកនូវអត្ថន័យដែលមិនអាចទិញបាន។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel trapped in work that lacks meaning, but there are more options than it seems. Small changes within your role can help.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់ក្នុងការងារដែលខ្វះអត្ថន័យ តែមានជម្រើសច្រើនជាងអ្វីដែលហាក់ដូចជា។ ការផ្លាស់ប្តូរតូចៗក្នុងតួនាទីរបស់អ្នក អាចជួយបាន។"
+      },
+      "challenge": {
+        "en": "Believing you have no choice could keep you in place. Question the assumptions that hold you there.",
+        "km": "ការជឿថាអ្នកគ្មានជម្រើស អាចរក្សាអ្នកនៅនឹងកន្លែង។ សូមចោទសួរការសន្មតដែលរក្សាអ្នកនៅទីនោះ។"
+      },
+      "outcome": {
+        "en": "Seeing your options clearly could free you to seek meaning. A new path may open where you thought there was none.",
+        "km": "ការមើលឃើញជម្រើសរបស់អ្នកយ៉ាងច្បាស់ អាចដោះលែងអ្នកឱ្យស្វែងរកអត្ថន័យ។ ផ្លូវថ្មីអាចបើកឡើង នៅកន្លែងដែលអ្នកគិតថាគ្មាន។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Notice if worry about work is crowding out any sense of purpose. Easing anxiety can make room for meaning to return.",
+        "km": "សូមកត់សម្គាល់ ប្រសិនបើការព្រួយបារម្ភអំពីការងារ កំពុងរុញច្រានអារម្មណ៍នៃគោលបំណងចេញ។ ការបន្ធូរការថប់បារម្ភ អាចបើកកន្លែងឱ្យអត្ថន័យត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Anxiety about whether your work matters could keep you up and unsettled. If it becomes overwhelming, talk to someone you trust or a counsellor.",
+        "km": "ការថប់បារម្ភថាតើការងាររបស់អ្នកសំខាន់ឬទេ អាចធ្វើឱ្យអ្នកដេកមិនលក់ និងមិនស្ងប់។ ប្រសិនបើវាហួសកម្លាំង សូមនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ឬអ្នកប្រឹក្សា។"
+      },
+      "outcome": {
+        "en": "Looking at your worries in daylight could show that your work matters more than you feared. A sense of relief may follow.",
+        "km": "ការមើលការព្រួយបារម្ភរបស់អ្នកក្នុងពន្លឺច្បាស់ អាចបង្ហាញថាការងាររបស់អ្នកសំខាន់ជាងអ្វីដែលអ្នកខ្លាច។ អារម្មណ៍ធូរស្រាលអាចកើតឡើងបន្ទាប់។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "If your work feels completely empty, accept that this chapter may be ending. Reaching rock bottom can be the start of finding something real.",
+        "km": "ប្រសិនបើការងាររបស់អ្នក មានអារម្មណ៍ទទេទាំងស្រុង សូមទទួលយកថាជំពូកនេះប្រហែលជាកំពុងបញ្ចប់។ ការធ្លាក់ដល់បាត អាចជាការចាប់ផ្តើមនៃការរកអ្វីដែលពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Holding on to a role that has worn you out could keep you in pain. Letting go may be the healthiest choice.",
+        "km": "ការប្រកាន់ខ្ជាប់តួនាទីដែលបានធ្វើឱ្យអ្នកអស់កម្លាំង អាចធ្វើឱ្យអ្នកនៅតែឈឺចាប់។ ការបោះបង់ អាចជាជម្រើសដែលមានសុខភាពល្អបំផុត។"
+      },
+      "outcome": {
+        "en": "An ending could clear the way for much more meaningful work. Renewal may grow from what is left behind.",
+        "km": "ការបញ្ចប់មួយ អាចបើកផ្លូវសម្រាប់ការងារដែលមានអត្ថន័យជាងមុនច្រើន។ ការកើតឡើងវិញ អាចដុះចេញពីអ្វីដែលត្រូវបានទុកនៅពីក្រោយ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Research and explore what meaningful work looks like for others in your field. Asking questions can uncover paths you had not considered.",
+        "km": "សូមស្រាវជ្រាវ និងស្វែងរកថាការងារដែលមានអត្ថន័យ មើលទៅយ៉ាងណាសម្រាប់អ្នកដទៃក្នុងវិស័យរបស់អ្នក។ ការសួរសំណួរ អាចបង្ហាញពីផ្លូវដែលអ្នកមិនបានពិចារណា។"
+      },
+      "challenge": {
+        "en": "Getting caught up in workplace gossip could distract you from what matters. Focus on your own purpose.",
+        "km": "ការជាប់ក្នុងពាក្យចចាមអារ៉ាមនៅកន្លែងធ្វើការ អាចបង្វែរអ្នកពីអ្វីដែលសំខាន់។ សូមផ្តោតលើគោលបំណងរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "New information could point you toward more meaningful work. Curiosity and a few good questions may pay off.",
+        "km": "ព័ត៌មានថ្មី អាចចង្អុលអ្នកទៅរកការងារដែលមានអត្ថន័យជាងមុន។ ការចង់ដឹងចង់ឃើញ និងសំណួរល្អៗមួយចំនួន អាចទទួលបានផល។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Act decisively on what you have learned about what matters to you. Moving with purpose can bring meaning quickly.",
+        "km": "សូមចាត់វិធានការដោយម៉ឺងម៉ាត់ លើអ្វីដែលអ្នកបានរៀនអំពីអ្វីដែលសំខាន់សម្រាប់អ្នក។ ការផ្លាស់ទីដោយគោលបំណង អាចនាំមកនូវអត្ថន័យយ៉ាងរហ័ស។"
+      },
+      "challenge": {
+        "en": "Rushing into a dramatic change without a plan could leave you worse off. Think it through before you leap.",
+        "km": "ការប្រញាប់ចូលទៅក្នុងការផ្លាស់ប្តូរដ៏ធំ ដោយគ្មានផែនការ អាចធ្វើឱ្យអ្នកកាន់តែអាក្រក់។ សូមគិតឱ្យល្អ មុននឹងលោត។"
+      },
+      "outcome": {
+        "en": "Decisive action could bring you closer to meaningful work. Things may move quickly once you commit.",
+        "km": "សកម្មភាពម៉ឺងម៉ាត់ អាចនាំអ្នកឱ្យកាន់តែជិតការងារដែលមានអត្ថន័យ។ អ្វីៗអាចផ្លាស់ទីយ៉ាងរហ័ស នៅពេលអ្នកប្តេជ្ញាចិត្ត។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Set clear boundaries so that work does not crowd out what gives your life meaning. Honest limits protect your purpose.",
+        "km": "សូមកំណត់ព្រំដែនច្បាស់លាស់ ដើម្បីកុំឱ្យការងាររុញច្រានអ្វីដែលផ្តល់អត្ថន័យដល់ជីវិតរបស់អ្នកចេញ។ ដែនកំណត់ស្មោះត្រង់ ការពារគោលបំណងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Being too critical of your work could stop you from seeing its value. Give yourself fair credit.",
+        "km": "ការរិះគន់ការងាររបស់អ្នកខ្លាំងពេក អាចរារាំងអ្នកពីការមើលឃើញតម្លៃរបស់វា។ សូមផ្តល់កិត្តិយសដោយយុត្តិធម៌ដល់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Clear thinking and honest boundaries could help you build meaningful work. Your purpose may become sharper and easier to protect.",
+        "km": "ការគិតច្បាស់លាស់ និងព្រំដែនស្មោះត្រង់ អាចជួយអ្នកកសាងការងារដែលមានអត្ថន័យ។ គោលបំណងរបស់អ្នក អាចកាន់តែមុតស្រួច និងងាយស្រួលការពារ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Use your expertise and judgement in service of something you believe in. Knowledge put to good use can feel deeply meaningful.",
+        "km": "សូមប្រើជំនាញ និងការវិនិច្ឆ័យរបស់អ្នក ដើម្បីបម្រើអ្វីមួយដែលអ្នកជឿជាក់។ ចំណេះដឹងដែលបានប្រើប្រាស់ល្អ អាចមានអារម្មណ៍មានអត្ថន័យយ៉ាងជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Approaching meaning only through logic could miss what your heart is telling you. Let feeling inform the decision too.",
+        "km": "ការចូលទៅរកអត្ថន័យតែតាមរយៈតក្កវិជ្ជា អាចខកខានអ្វីដែលបេះដូងរបស់អ្នកកំពុងប្រាប់។ សូមឱ្យអារម្មណ៍ចូលរួមក្នុងការសម្រេចចិត្តផងដែរ។"
+      },
+      "outcome": {
+        "en": "Your expertise could become a force for real good. Meaning may come from using what you know wisely.",
+        "km": "ជំនាញរបស់អ្នក អាចក្លាយជាកម្លាំងសម្រាប់ផលល្អពិតប្រាកដ។ អត្ថន័យអាចមកពីការប្រើអ្វីដែលអ្នកដឹងដោយប្រាជ្ញា។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Look for meaning in the practical, tangible results of your work, such as something built, fixed or delivered. Concrete outcomes can feel deeply satisfying.",
+        "km": "សូមរកអត្ថន័យក្នុងលទ្ធផលជាក់ស្តែង និងអាចប៉ះពាល់បាននៃការងាររបស់អ្នក ដូចជាអ្វីមួយដែលបានកសាង ជួសជុល ឬប្រគល់។ លទ្ធផលជាក់ស្តែង អាចមានអារម្មណ៍ពេញចិត្តយ៉ាងជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Seeing work only as a way to earn money could make it feel empty. Look for the value it creates beyond your pay.",
+        "km": "ការមើលឃើញការងារតែជាមធ្យោបាយរកប្រាក់ អាចធ្វើឱ្យវាមានអារម្មណ៍ទទេ។ សូមរកតម្លៃដែលវាបង្កើតលើសពីប្រាក់បៀវត្សរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A practical new opportunity could combine security with real purpose. Something solid and meaningful may take root.",
+        "km": "ឱកាសជាក់ស្តែងថ្មី អាចរួមបញ្ចូលសន្តិសុខជាមួយគោលបំណងពិតប្រាកដ។ អ្វីដែលរឹងមាំ និងមានអត្ថន័យ អាចចាក់ឫស។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Balance the work you have to do with the work you love, even in small amounts. Finding room for both can keep meaning alive.",
+        "km": "សូមធ្វើឱ្យមានតុល្យភាពរវាងការងារដែលអ្នកត្រូវធ្វើ និងការងារដែលអ្នកស្រឡាញ់ សូម្បីតែក្នុងបរិមាណតិចតួច។ ការរកកន្លែងសម្រាប់ទាំងពីរ អាចរក្សាអត្ថន័យឱ្យនៅរស់។"
+      },
+      "challenge": {
+        "en": "Juggling too many demands could leave no space for what matters to you. Protect a little time for meaningful tasks.",
+        "km": "ការដោះស្រាយតម្រូវការច្រើនពេក អាចមិនទុកកន្លែងសម្រាប់អ្វីដែលសំខាន់សម្រាប់អ្នក។ សូមការពារពេលវេលាបន្តិចសម្រាប់កិច្ចការដែលមានអត្ថន័យ។"
+      },
+      "outcome": {
+        "en": "A healthier balance could let you enjoy both security and purpose. Flexibility may help meaning grow.",
+        "km": "តុល្យភាពដែលមានសុខភាពល្អជាងមុន អាចឱ្យអ្នករីករាយទាំងសន្តិសុខ និងគោលបំណង។ ភាពបត់បែន អាចជួយឱ្យអត្ថន័យរីកចម្រើន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Find meaning in contributing your skills to a shared project and seeing it come together. Being part of a team effort can feel worthwhile.",
+        "km": "សូមរកអត្ថន័យក្នុងការរួមចំណែកជំនាញរបស់អ្នក ចំពោះគម្រោងរួម ហើយមើលឃើញវាប្រមូលផ្តុំគ្នា។ ការជាផ្នែកមួយនៃការខិតខំរបស់ក្រុម អាចមានអារម្មណ៍មានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Feeling your contribution goes unnoticed could drain your sense of purpose. Ask for feedback on the difference you make.",
+        "km": "អារម្មណ៍ថាការរួមចំណែករបស់អ្នក មិនត្រូវបានគេកត់សម្គាល់ អាចបូមអារម្មណ៍នៃគោលបំណងរបស់អ្នក។ សូមស្នើសុំមតិត្រឡប់អំពីភាពខុសគ្នាដែលអ្នកធ្វើ។"
+      },
+      "outcome": {
+        "en": "Good teamwork could give your work a satisfying sense of shared achievement. Your part may be valued.",
+        "km": "ការងារជាក្រុមល្អ អាចផ្តល់ឱ្យការងាររបស់អ្នកនូវអារម្មណ៍ពេញចិត្តនៃសមិទ្ធផលរួម។ ចំណែករបស់អ្នក អាចត្រូវបានគេឱ្យតម្លៃ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Ask whether holding tightly to security is keeping you from more meaningful work. Some stability is wise, but not at any cost.",
+        "km": "សូមសួរថាតើការកាន់ក្តាប់សន្តិសុខយ៉ាងតឹង កំពុងរារាំងអ្នកពីការងារដែលមានអត្ថន័យជាងមុនឬទេ។ ស្ថិរភាពខ្លះគឺឆ្លាតវៃ តែមិនមែនដោយការចំណាយអ្វីក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Fear of losing what you have could stop you from exploring what you really want. Take one small risk.",
+        "km": "ការភ័យខ្លាចបាត់បង់អ្វីដែលអ្នកមាន អាចរារាំងអ្នកពីការស្វែងរកអ្វីដែលអ្នកពិតជាចង់បាន។ សូមប្រថុយតូចមួយ។"
+      },
+      "outcome": {
+        "en": "Loosening your grip could make room for more meaningful work. Security and purpose may turn out to sit well together.",
+        "km": "ការបន្ធូរការក្តាប់របស់អ្នក អាចបើកកន្លែងសម្រាប់ការងារដែលមានអត្ថន័យជាងមុន។ សន្តិសុខ និងគោលបំណង អាចប្រែជាសមគ្នាល្អ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Even in hard times, look for small ways your work helps someone. Meaning can be found in quiet acts of service.",
+        "km": "សូម្បីតែក្នុងគ្រាលំបាក សូមរកវិធីតូចៗដែលការងាររបស់អ្នកជួយនរណាម្នាក់។ អត្ថន័យអាចត្រូវបានរកឃើញក្នុងអំពើបម្រើស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Feeling shut out or undervalued could make work feel pointless. Seek out people and places that welcome what you offer.",
+        "km": "អារម្មណ៍ថាត្រូវបានគេបិទទ្វារ ឬមិនឱ្យតម្លៃ អាចធ្វើឱ្យការងារមានអារម្មណ៍គ្មានន័យ។ សូមស្វែងរកមនុស្ស និងកន្លែងដែលស្វាគមន៍អ្វីដែលអ្នកផ្តល់ជូន។"
+      },
+      "outcome": {
+        "en": "Support could appear that helps you find meaning through a difficult stretch. A warmer place may welcome you.",
+        "km": "ការគាំទ្រអាចលេចឡើង ដែលជួយអ្នករកអត្ថន័យឆ្លងកាត់ដំណាក់កាលលំបាក។ កន្លែងកក់ក្តៅជាងមុន អាចស្វាគមន៍អ្នក។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Find meaning in giving: share your knowledge, mentor someone or support a good cause through your work. Generosity enriches purpose.",
+        "km": "សូមរកអត្ថន័យក្នុងការផ្តល់៖ ចែករំលែកចំណេះដឹងរបស់អ្នក ណែនាំនរណាម្នាក់ ឬគាំទ្របុព្វហេតុល្អតាមរយៈការងាររបស់អ្នក។ ចិត្តទូលាយ ធ្វើឱ្យគោលបំណងកាន់តែសម្បូរ។"
+      },
+      "challenge": {
+        "en": "Giving without ever receiving support could leave you drained and resentful. Let others help and encourage you too.",
+        "km": "ការផ្តល់ ដោយមិនដែលទទួលការគាំទ្រ អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងអន់ចិត្ត។ សូមឱ្យអ្នកដទៃជួយ និងលើកទឹកចិត្តអ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Generosity in your work could bring deep and lasting meaning. What you give may come back to you.",
+        "km": "ចិត្តទូលាយក្នុងការងាររបស់អ្នក អាចនាំមកនូវអត្ថន័យជ្រាលជ្រៅ និងស្ថិតស្ថេរ។ អ្វីដែលអ្នកផ្តល់ អាចត្រឡប់មករកអ្នកវិញ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Look at the long-term growth your work is producing, even if results are slow to show. Patient effort often holds the deepest meaning.",
+        "km": "សូមមើលការរីកចម្រើនរយៈពេលវែង ដែលការងាររបស់អ្នកកំពុងបង្កើត ទោះបីលទ្ធផលយឺតក្នុងការលេចឡើងក៏ដោយ។ ការខិតខំដោយអត់ធ្មត់ ជារឿយៗមានអត្ថន័យជ្រៅបំផុត។"
+      },
+      "challenge": {
+        "en": "Impatience for visible results could make your efforts feel wasted. Trust that what you plant will grow.",
+        "km": "ការមិនអត់ធ្មត់ចំពោះលទ្ធផលដែលមើលឃើញ អាចធ្វើឱ្យការខិតខំរបស់អ្នកមានអារម្មណ៍ខ្ជះខ្ជាយ។ សូមទុកចិត្តថាអ្វីដែលអ្នកដាំនឹងដុះ។"
+      },
+      "outcome": {
+        "en": "Steady, patient work could produce something you are proud of. Meaning may ripen slowly, like fruit on a well-tended tree.",
+        "km": "ការងារជាប់លាប់ និងអត់ធ្មត់ អាចបង្កើតអ្វីមួយដែលអ្នកមានមោទនភាព។ អត្ថន័យអាចទុំបន្តិចម្តងៗ ដូចផ្លែឈើលើដើមដែលបានថែទាំល្អ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Take pride in mastering your craft and doing your work with care. Skill developed with love can be a deep source of meaning.",
+        "km": "សូមមានមោទនភាពក្នុងការស្ទាត់ជំនាញវិជ្ជាជីវៈរបស់អ្នក និងធ្វើការងាររបស់អ្នកដោយយកចិត្តទុកដាក់។ ជំនាញដែលអភិវឌ្ឍដោយក្តីស្រឡាញ់ អាចជាប្រភពជ្រាលជ្រៅនៃអត្ថន័យ។"
+      },
+      "challenge": {
+        "en": "Repetition without growth could make your work feel mechanical. Look for small ways to keep improving your craft.",
+        "km": "ការធ្វើដដែលៗដោយគ្មានការរីកចម្រើន អាចធ្វើឱ្យការងាររបស់អ្នកមានអារម្មណ៍ដូចម៉ាស៊ីន។ សូមរកវិធីតូចៗដើម្បីបន្តកែលម្អសិប្បកម្មរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Mastery could bring a quiet, lasting sense of purpose. Your craft may become a source of pride.",
+        "km": "ការស្ទាត់ជំនាញ អាចនាំមកនូវអារម្មណ៍ស្ងប់ស្ងាត់ និងស្ថិតស្ថេរនៃគោលបំណង។ សិប្បកម្មរបស់អ្នក អាចក្លាយជាប្រភពនៃមោទនភាព។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Find meaning in the independence and self-respect your work gives you. Supporting yourself well is a real achievement.",
+        "km": "សូមរកអត្ថន័យក្នុងឯករាជ្យភាព និងការគោរពខ្លួនឯង ដែលការងាររបស់អ្នកផ្តល់ឱ្យ។ ការទ្រទ្រង់ខ្លួនឯងបានល្អ គឺជាសមិទ្ធផលពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Enjoying comfort could make you forget to ask whether work still fulfils you. Check that it does.",
+        "km": "ការរីករាយនឹងភាពសុខស្រួល អាចធ្វើឱ្យអ្នកភ្លេចសួរថាតើការងារនៅតែធ្វើឱ្យអ្នកពេញចិត្តឬទេ។ សូមពិនិត្យថាវានៅតែធ្វើ។"
+      },
+      "outcome": {
+        "en": "Independence and comfort could combine with a real sense of purpose. You may feel at ease in your work.",
+        "km": "ឯករាជ្យភាព និងភាពសុខស្រួល អាចរួមបញ្ចូលជាមួយអារម្មណ៍ពិតប្រាកដនៃគោលបំណង។ អ្នកអាចមានអារម្មណ៍សុខស្រួលក្នុងការងាររបស់អ្នក។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Think about the legacy your work leaves for your family and community. Building something that lasts can give work deep meaning.",
+        "km": "សូមគិតអំពីកេរដំណែលដែលការងាររបស់អ្នក បន្សល់ទុកសម្រាប់គ្រួសារ និងសហគមន៍របស់អ្នក។ ការកសាងអ្វីមួយដែលស្ថិតស្ថេរ អាចផ្តល់អត្ថន័យជ្រៅដល់ការងារ។"
+      },
+      "challenge": {
+        "en": "Working only to meet others' expectations could leave you unfulfilled. Make sure the legacy reflects your own values.",
+        "km": "ការធ្វើការតែដើម្បីបំពេញការរំពឹងទុករបស់អ្នកដទៃ អាចធ្វើឱ្យអ្នកមិនពេញចិត្ត។ សូមប្រាកដថាកេរដំណែលនោះ ឆ្លុះបញ្ចាំងពីគុណតម្លៃរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Work that benefits your family and community could feel deeply worthwhile. What you build may last.",
+        "km": "ការងារដែលផ្តល់ប្រយោជន៍ដល់គ្រួសារ និងសហគមន៍របស់អ្នក អាចមានអារម្មណ៍មានតម្លៃយ៉ាងជ្រាលជ្រៅ។ អ្វីដែលអ្នកកសាង អាចស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Approach your work as a student, eager to learn and grow. The process of learning can itself be a source of meaning.",
+        "km": "សូមចូលទៅរកការងាររបស់អ្នកដូចជាសិស្ស ដែលចង់រៀន និងរីកចម្រើន។ ដំណើរការនៃការរៀន អាចជាប្រភពនៃអត្ថន័យដោយខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Feeling that your work is too basic to matter could undervalue what you do. Every role contributes something.",
+        "km": "អារម្មណ៍ថាការងាររបស់អ្នក មានលក្ខណៈមូលដ្ឋានពេក មិនសំខាន់ អាចបន្ទាបតម្លៃអ្វីដែលអ្នកធ្វើ។ តួនាទីនីមួយៗ រួមចំណែកអ្វីមួយ។"
+      },
+      "outcome": {
+        "en": "Learning and growing could bring a fresh sense of purpose. A small beginning may lead to meaningful work.",
+        "km": "ការរៀន និងការរីកចម្រើន អាចនាំមកនូវអារម្មណ៍ថ្មីនៃគោលបំណង។ ការចាប់ផ្តើមតូចមួយ អាចនាំទៅរកការងារដែលមានអត្ថន័យ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Find meaning in being reliable and doing your work well, steadily and honestly. Dependability is a quiet but real contribution.",
+        "km": "សូមរកអត្ថន័យក្នុងការធ្វើជាមនុស្សគួរឱ្យទុកចិត្ត និងធ្វើការងាររបស់អ្នកបានល្អ ជាប់លាប់ និងស្មោះត្រង់។ ភាពអាចពឹងផ្អែកបាន គឺជាការរួមចំណែកស្ងប់ស្ងាត់ តែពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Routine could slowly dull your sense of purpose. Try varying how you approach familiar tasks to keep them fresh.",
+        "km": "ទម្លាប់ អាចធ្វើឱ្យអារម្មណ៍នៃគោលបំណងរបស់អ្នកស្រអាប់បន្តិចម្តងៗ។ សូមសាកល្បងប្តូររបៀបដែលអ្នកចូលទៅរកកិច្ចការដែលធ្លាប់ស្គាល់ ដើម្បីរក្សាវាឱ្យស្រស់។"
+      },
+      "outcome": {
+        "en": "Steady, honest work could give you a deep and lasting sense of worth. Reliability may bring its own reward.",
+        "km": "ការងារជាប់លាប់ និងស្មោះត្រង់ អាចផ្តល់ឱ្យអ្នកនូវអារម្មណ៍ជ្រាលជ្រៅ និងស្ថិតស្ថេរនៃតម្លៃ។ ភាពគួរឱ្យទុកចិត្ត អាចនាំមកនូវរង្វាន់របស់វាផ្ទាល់។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Find meaning in caring for people and creating a comfortable, well-run environment. Practical care is a real and valuable gift.",
+        "km": "សូមរកអត្ថន័យក្នុងការមើលថែមនុស្ស និងការបង្កើតបរិយាកាសសុខស្រួល និងដំណើរការបានល្អ។ ការយកចិត្តទុកដាក់ជាក់ស្តែង គឺជាអំណោយពិតប្រាកដ និងមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Looking after everyone else could leave you without time for what you find meaningful. Make some space for yourself.",
+        "km": "ការមើលថែអ្នកដទៃទាំងអស់ អាចធ្វើឱ្យអ្នកគ្មានពេលសម្រាប់អ្វីដែលអ្នកយល់ថាមានអត្ថន័យ។ សូមរៀបចំកន្លែងខ្លះសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Your caring nature could make your work feel truly worthwhile. Others may flourish because of you.",
+        "km": "ធម្មជាតិយកចិត្តទុកដាក់របស់អ្នក អាចធ្វើឱ្យការងាររបស់អ្នកមានអារម្មណ៍មានតម្លៃពិតប្រាកដ។ អ្នកដទៃអាចរីកចម្រើន ដោយសារអ្នក។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Use your experience and resources to support others and build something worthwhile. Generous leadership can bring deep meaning.",
+        "km": "សូមប្រើបទពិសោធន៍ និងធនធានរបស់អ្នក ដើម្បីគាំទ្រអ្នកដទៃ និងកសាងអ្វីមួយដែលមានតម្លៃ។ ការដឹកនាំដោយចិត្តទូលាយ អាចនាំមកនូវអត្ថន័យជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Measuring meaning only by wealth or status could leave you empty despite success. Look at what your work gives others.",
+        "km": "ការវាស់វែងអត្ថន័យតែតាមទ្រព្យសម្បត្តិ ឬឋានៈ អាចធ្វើឱ្យអ្នកទទេ ទោះបីជោគជ័យក៏ដោយ។ សូមមើលពីអ្វីដែលការងាររបស់អ្នកផ្តល់ដល់អ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Success used well could bring lasting meaning and respect. What you build may support many people beyond yourself.",
+        "km": "ភាពជោគជ័យដែលបានប្រើប្រាស់ល្អ អាចនាំមកនូវអត្ថន័យ និងការគោរពស្ថិតស្ថេរ។ អ្វីដែលអ្នកកសាង អាចគាំទ្រមនុស្សជាច្រើនលើសពីខ្លួនអ្នក។"
+      }
+    }
+  }
+}
