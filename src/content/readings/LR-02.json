@@ -1,0 +1,1097 @@
+{
+  "questionId": "LR-02",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Approach your partner with fresh curiosity, as if meeting them for the first time. Ask about something you have never thought to ask.",
+        "km": "សូមចូលទៅជិតដៃគូរបស់អ្នក ដោយការចង់ដឹងចង់ឃើញថ្មីស្រឡាង ដូចជាទើបជួបគ្នាលើកដំបូង។ សូមសួរអំពីអ្វីមួយដែលអ្នកមិនដែលគិតចង់សួរ។"
+      },
+      "challenge": {
+        "en": "Assuming you already know everything about your partner could close off new discoveries. Leave room for them to surprise you.",
+        "km": "ការសន្មតថាអ្នកដឹងគ្រប់យ៉ាងអំពីដៃគូរួចហើយ អាចបិទផ្លូវនៃការរកឃើញថ្មីៗ។ សូមទុកចន្លោះឱ្យគេធ្វើឱ្យអ្នកភ្ញាក់ផ្អើល។"
+      },
+      "outcome": {
+        "en": "Your connection could feel lighter and more playful as you learn new things about each other. Openness may bring back a sense of adventure.",
+        "km": "ទំនាក់ទំនងរបស់អ្នកអាចស្រាល និងសប្បាយជាងមុន ខណៈអ្នករៀនដឹងរឿងថ្មីៗអំពីគ្នាទៅវិញទៅមក។ ការបើកចិត្តអាចនាំមកវិញនូវអារម្មណ៍នៃការផ្សងព្រេង។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Use your words with care and say clearly what you notice and what you want to understand. Your partner may open up when your questions are direct and kind.",
+        "km": "សូមប្រើពាក្យសម្តីដោយប្រុងប្រយ័ត្ន ហើយនិយាយឱ្យច្បាស់ពីអ្វីដែលអ្នកកត់សម្គាល់ និងអ្វីដែលអ្នកចង់យល់។ ដៃគូរបស់អ្នកអាចបើកចិត្ត នៅពេលសំណួររបស់អ្នកត្រង់ និងសុភាព។"
+      },
+      "challenge": {
+        "en": "Steering conversations toward the answer you want could hide what your partner really thinks. Listen without trying to manage the outcome.",
+        "km": "ការដឹកនាំការសន្ទនាទៅរកចម្លើយដែលអ្នកចង់បាន អាចលាក់អ្វីដែលដៃគូពិតជាគិត។ សូមស្តាប់ដោយមិនព្យាយាមគ្រប់គ្រងលទ្ធផល។"
+      },
+      "outcome": {
+        "en": "You could find that small, skilful efforts reveal a great deal about your partner. Understanding may grow from simple, honest exchanges.",
+        "km": "អ្នកអាចឃើញថាការខិតខំតូចៗ ប្រកបដោយជំនាញ បង្ហាញច្រើនអំពីដៃគូរបស់អ្នក។ ការយល់ចិត្តអាចកើនឡើងពីការប្តូរពាក្យសាមញ្ញ និងស្មោះត្រង់។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Pay attention to what your partner does not say, such as their silences, moods and small gestures. Your intuition can pick up what words miss.",
+        "km": "សូមយកចិត្តទុកដាក់ចំពោះអ្វីដែលដៃគូមិននិយាយ ដូចជាភាពស្ងៀមស្ងាត់ អារម្មណ៍ និងកាយវិការតូចៗ។ វិចារណញាណរបស់អ្នកអាចចាប់បានអ្វីដែលពាក្យសម្តីរំលង។"
+      },
+      "challenge": {
+        "en": "Reading too much into silence could lead you to imagine feelings that are not there. Check your hunches gently with your partner.",
+        "km": "ការបកស្រាយភាពស្ងៀមស្ងាត់ហួសហេតុ អាចធ្វើឱ្យអ្នកស្រមៃពីអារម្មណ៍ដែលមិនមាន។ សូមផ្ទៀងផ្ទាត់ការសង្ស័យរបស់អ្នកជាមួយដៃគូដោយទន់ភ្លន់។"
+      },
+      "outcome": {
+        "en": "You could develop a quiet, deep understanding where much is felt without being said. Your partner may feel truly seen by you.",
+        "km": "អ្នកអាចបង្កើតការយល់ចិត្តដ៏ស្ងប់ និងជ្រាលជ្រៅ ដែលអ្វីៗជាច្រើនត្រូវបានយល់ដោយមិនចាំបាច់និយាយ។ ដៃគូរបស់អ្នកអាចមានអារម្មណ៍ថាអ្នកពិតជាមើលឃើញគេ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Create a warm, relaxed setting where your partner feels safe to share. Comfort and care can make honest talk easier.",
+        "km": "សូមបង្កើតបរិយាកាសកក់ក្តៅ និងធូរស្រាល ដែលដៃគូមានអារម្មណ៍សុវត្ថិភាពក្នុងការចែករំលែក។ ភាពសុខស្រួល និងការយកចិត្តទុកដាក់ អាចធ្វើឱ្យការនិយាយដោយស្មោះកាន់តែងាយស្រួល។"
+      },
+      "challenge": {
+        "en": "Caring for your partner in the way you would like to be cared for could miss what they actually need. Ask how they feel most loved.",
+        "km": "ការថែរក្សាដៃគូតាមរបៀបដែលអ្នកចង់ឱ្យគេថែរក្សាខ្លួន អាចខកខានអ្វីដែលគេពិតជាត្រូវការ។ សូមសួរគេថា តើគេមានអារម្មណ៍ថាត្រូវបានស្រឡាញ់បំផុតដោយរបៀបណា។"
+      },
+      "outcome": {
+        "en": "Your bond could become more nurturing and secure, with each of you feeling cared for. Understanding may grow naturally in that warmth.",
+        "km": "ចំណងរបស់អ្នកអាចកាន់តែថ្នាក់ថ្នម និងមានសុវត្ថិភាព ដោយម្នាក់ៗមានអារម្មណ៍ថាត្រូវបានយកចិត្តទុកដាក់។ ការយល់ចិត្តអាចរីកដុះដាលដោយធម្មជាតិ ក្នុងភាពកក់ក្តៅនោះ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Give your partner a steady, reliable presence so they know where they stand with you. Clear and consistent behaviour can make it easier for them to open up.",
+        "km": "សូមផ្តល់វត្តមានដ៏នឹងនរ និងគួរឱ្យទុកចិត្តដល់ដៃគូ ដើម្បីឱ្យគេដឹងថាខ្លួននៅត្រង់ណាជាមួយអ្នក។ អាកប្បកិរិយាច្បាស់លាស់ និងស្ថិរភាព អាចធ្វើឱ្យគេងាយបើកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Trying to control how your partner thinks or acts could push them to hide their real self. Respect their way of doing things.",
+        "km": "ការព្យាយាមគ្រប់គ្រងរបៀបដែលដៃគូគិត ឬធ្វើ អាចជំរុញឱ្យគេលាក់ខ្លួនពិត។ សូមគោរពរបៀបធ្វើការរបស់គេ។"
+      },
+      "outcome": {
+        "en": "You could build a secure partnership with clear trust on both sides. Knowing you can rely on each other may deepen your understanding.",
+        "km": "អ្នកអាចកសាងភាពជាដៃគូដែលមានសុវត្ថិភាព ជាមួយការទុកចិត្តច្បាស់លាស់ទាំងសងខាង។ ការដឹងថាអាចពឹងផ្អែកលើគ្នាបាន អាចពង្រឹងការយល់ចិត្តរបស់អ្នក។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Learn about the values, family ways and beliefs that shaped your partner. Their background can explain much about how they love.",
+        "km": "សូមស្វែងយល់អំពីគុណតម្លៃ ទម្លាប់គ្រួសារ និងជំនឿដែលបានបង្កើតដៃគូរបស់អ្នក។ ប្រវត្តិរបស់គេអាចពន្យល់ច្រើនអំពីរបៀបដែលគេស្រឡាញ់។"
+      },
+      "challenge": {
+        "en": "Expecting your partner to follow the rules you grew up with could cause quiet friction. Talk about which customs matter to each of you.",
+        "km": "ការរំពឹងឱ្យដៃគូធ្វើតាមច្បាប់ដែលអ្នកធំធាត់មកជាមួយ អាចបង្កការកកិតស្ងាត់ៗ។ សូមនិយាយគ្នាអំពីទំនៀមទម្លាប់ណាដែលសំខាន់សម្រាប់ម្នាក់ៗ។"
+      },
+      "outcome": {
+        "en": "You could find shared values that give your relationship firm common ground. Respect for each other's roots may bring you closer.",
+        "km": "អ្នកអាចរកឃើញគុណតម្លៃរួម ដែលផ្តល់មូលដ្ឋានរឹងមាំដល់ទំនាក់ទំនងរបស់អ្នក។ ការគោរពឫសគល់របស់គ្នាទៅវិញទៅមក អាចនាំអ្នកឱ្យកាន់តែជិតស្និទ្ធ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Talk openly about what each of you values most and where those values meet. Understanding often starts with honest choices made together.",
+        "km": "សូមនិយាយដោយបើកចំហអំពីអ្វីដែលម្នាក់ៗឱ្យតម្លៃបំផុត និងកន្លែងដែលគុណតម្លៃទាំងនោះជួបគ្នា។ ការយល់ចិត្តតែងចាប់ផ្តើមពីជម្រើសស្មោះត្រង់ដែលធ្វើរួមគ្នា។"
+      },
+      "challenge": {
+        "en": "Holding back what you truly feel could keep your partner guessing about you as well. Understanding has to flow both ways.",
+        "km": "ការលាក់អ្វីដែលអ្នកពិតជាមានអារម្មណ៍ អាចធ្វើឱ្យដៃគូត្រូវទាយអំពីអ្នកដែរ។ ការយល់ចិត្តត្រូវតែហូរទាំងសងខាង។"
+      },
+      "outcome": {
+        "en": "You could reach a deep sense of being on the same side. A relationship built on shared choices may feel truly mutual.",
+        "km": "អ្នកអាចឈានដល់អារម្មណ៍ជ្រាលជ្រៅថា អ្នកទាំងពីរនៅខាងតែមួយ។ ទំនាក់ទំនងដែលកសាងលើជម្រើសរួម អាចមានអារម្មណ៍ថាជាការចែករំលែកពិតប្រាកដ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Focus your energy on one clear goal, such as having one honest talk about something that matters. Determination can carry you through awkward moments.",
+        "km": "សូមផ្តោតកម្លាំងលើគោលដៅច្បាស់មួយ ដូចជាការសន្ទនាដោយស្មោះមួយលើកអំពីរឿងសំខាន់។ ការប្តេជ្ញាចិត្តអាចជួយអ្នកឆ្លងកាត់គ្រាដែលមិនស្រួល។"
+      },
+      "challenge": {
+        "en": "Pushing to win every disagreement could stop you from hearing your partner's side. Aim to understand, not to be right.",
+        "km": "ការជំរុញឱ្យឈ្នះគ្រប់ការខ្វែងគំនិត អាចរារាំងអ្នកពីការស្តាប់ទស្សនៈរបស់ដៃគូ។ សូមមានគោលបំណងយល់ មិនមែនដើម្បីត្រូវនោះទេ។"
+      },
+      "outcome": {
+        "en": "You could move forward together with a shared sense of direction. Working as a team may show you strengths in your partner you had missed.",
+        "km": "អ្នកអាចឆ្ពោះទៅមុខជាមួយគ្នា ដោយមានទិសដៅរួម។ ការធ្វើការជាក្រុមអាចបង្ហាញអ្នកពីចំណុចខ្លាំងរបស់ដៃគូដែលអ្នកធ្លាប់មើលរំលង។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Meet your partner's difficult moods with patience and gentle strength. Calm, kind steadiness can help them feel safe enough to explain.",
+        "km": "សូមទទួលអារម្មណ៍ពិបាករបស់ដៃគូដោយការអត់ធ្មត់ និងកម្លាំងទន់ភ្លន់។ ភាពនឹងនរ ស្ងប់ និងសប្បុរស អាចជួយឱ្យគេមានអារម្មណ៍សុវត្ថិភាពល្មមនឹងពន្យល់។"
+      },
+      "challenge": {
+        "en": "Swallowing your own feelings to keep the peace could build quiet resentment. Be gentle with your partner, but honest about yourself.",
+        "km": "ការទប់អារម្មណ៍ខ្លួនឯងដើម្បីរក្សាសន្តិភាព អាចបង្កើតការអាក់អន់ចិត្តស្ងាត់ៗ។ សូមទន់ភ្លន់ជាមួយដៃគូ ប៉ុន្តែស្មោះត្រង់អំពីខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Your relationship could grow stronger through compassion shown in hard moments. Your partner may trust you with more of their inner world.",
+        "km": "ទំនាក់ទំនងរបស់អ្នកអាចរឹងមាំជាងមុន តាមរយៈក្តីមេត្តាដែលបង្ហាញក្នុងគ្រាលំបាក។ ដៃគូរបស់អ្នកអាចទុកចិត្តអ្នក ឱ្យដឹងពីពិភពខាងក្នុងរបស់គេកាន់តែច្រើន។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Take some quiet time to reflect on what you have seen and heard from your partner. Understanding them may begin with understanding your own reactions.",
+        "km": "សូមចំណាយពេលស្ងប់ស្ងាត់ខ្លះ ដើម្បីពិចារណាលើអ្វីដែលអ្នកបានឃើញ និងបានឮពីដៃគូ។ ការយល់ពីគេ អាចចាប់ផ្តើមពីការយល់ពីប្រតិកម្មរបស់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Pulling away to think things over alone could leave your partner feeling shut out. Let them know you need space and that you will return.",
+        "km": "ការដកខ្លួនទៅគិតតែម្នាក់ឯង អាចធ្វើឱ្យដៃគូមានអារម្មណ៍ថាត្រូវបានបិទទ្វារ។ សូមប្រាប់គេថាអ្នកត្រូវការចន្លោះ ហើយអ្នកនឹងត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "You could gain wise, patient insight into what drives your partner. Respect for each other's need for space may bring you closer.",
+        "km": "អ្នកអាចទទួលបានការយល់ដឹងដ៏ឈ្លាសវៃ និងអត់ធ្មត់ អំពីអ្វីដែលជំរុញដៃគូរបស់អ្នក។ ការគោរពតម្រូវការចន្លោះរបស់គ្នា អាចនាំអ្នកឱ្យកាន់តែជិតស្និទ្ធ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Notice how your partner changes with circumstances, in good times and hard ones. Seeing their ups and downs can show you who they really are.",
+        "km": "សូមកត់សម្គាល់ពីរបៀបដែលដៃគូផ្លាស់ប្តូរតាមកាលៈទេសៈ ទាំងគ្រាល្អ និងគ្រាលំបាក។ ការឃើញការឡើងចុះរបស់គេ អាចបង្ហាញអ្នកថាគេពិតជាមនុស្សបែបណា។"
+      },
+      "challenge": {
+        "en": "Judging your partner by one bad moment could give you the wrong picture. Look at the whole cycle before drawing conclusions.",
+        "km": "ការវិនិច្ឆ័យដៃគូដោយផ្អែកលើគ្រាអាក្រក់តែមួយ អាចផ្តល់រូបភាពខុសដល់អ្នក។ សូមមើលវដ្តទាំងមូល មុននឹងសន្និដ្ឋាន។"
+      },
+      "outcome": {
+        "en": "You could reach a turning point where things between you make more sense. A lucky shift may bring you onto the same page.",
+        "km": "អ្នកអាចឈានដល់ចំណុចបត់មួយ ដែលរឿងរវាងអ្នកទាំងពីរកាន់តែមានន័យ។ ការផ្លាស់ប្តូរដ៏មានសំណាងមួយ អាចនាំអ្នកទាំងពីរឱ្យយល់ស្របគ្នា។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Listen to both sides fairly, including the parts of your partner's story that make you uncomfortable. Fairness can help them trust you with the truth.",
+        "km": "សូមស្តាប់ទាំងសងខាងដោយយុត្តិធម៌ រួមទាំងផ្នែកនៃរឿងរបស់ដៃគូដែលធ្វើឱ្យអ្នកមិនស្រួល។ ភាពយុត្តិធម៌អាចជួយឱ្យគេទុកចិត្តប្រាប់អ្នកពីការពិត។"
+      },
+      "challenge": {
+        "en": "Keeping score of who gave more could turn understanding into a contest. Look for balance rather than a verdict.",
+        "km": "ការរាប់ថានរណាផ្តល់ច្រើនជាង អាចប្រែការយល់ចិត្តឱ្យទៅជាការប្រកួត។ សូមស្វែងរកតុល្យភាព ជាជាងការកាត់សេចក្តី។"
+      },
+      "outcome": {
+        "en": "You could reach a fair, honest balance where both voices are heard. Mutual respect may become the base of your understanding.",
+        "km": "អ្នកអាចឈានដល់តុល្យភាពដ៏យុត្តិធម៌ និងស្មោះត្រង់ ដែលសំឡេងទាំងពីរត្រូវបានស្តាប់។ ការគោរពគ្នាទៅវិញទៅមក អាចក្លាយជាមូលដ្ឋាននៃការយល់ចិត្តរបស់អ្នក។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Try to see the situation from where your partner stands, even if it feels unfamiliar. A shift in your own view can reveal a lot.",
+        "km": "សូមព្យាយាមមើលស្ថានការណ៍ពីទីតាំងរបស់ដៃគូ ទោះបីវាហាក់ដូចជាមិនធ្លាប់ស្គាល់ក៏ដោយ។ ការផ្លាស់ប្តូរទស្សនៈរបស់អ្នកផ្ទាល់ អាចបង្ហាញច្រើន។"
+      },
+      "challenge": {
+        "en": "Waiting for your partner to change first could leave you both stuck in the same place. You may need to let go of being right.",
+        "km": "ការរង់ចាំឱ្យដៃគូផ្លាស់ប្តូរមុន អាចធ្វើឱ្យអ្នកទាំងពីរជាប់គាំងនៅកន្លែងដដែល។ អ្នកប្រហែលជាត្រូវលះបង់ការចង់ធ្វើជាអ្នកត្រូវ។"
+      },
+      "outcome": {
+        "en": "You could see your partner in a completely new light. Letting go of old assumptions may open a kinder kind of understanding.",
+        "km": "អ្នកអាចមើលឃើញដៃគូក្នុងពន្លឺថ្មីទាំងស្រុង។ ការលះបង់ការសន្មតចាស់ៗ អាចបើកផ្លូវទៅរកការយល់ចិត្តដែលសប្បុរសជាងមុន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Let go of the old picture you hold of your partner and meet who they are becoming. People change, and understanding has to change with them.",
+        "km": "សូមលះបង់រូបភាពចាស់ដែលអ្នកមានអំពីដៃគូ ហើយទទួលស្គាល់មនុស្សដែលគេកំពុងក្លាយជា។ មនុស្សតែងផ្លាស់ប្តូរ ហើយការយល់ចិត្តក៏ត្រូវផ្លាស់ប្តូរតាមដែរ។"
+      },
+      "challenge": {
+        "en": "Clinging to how things used to be between you could block a deeper connection. Accept that some patterns have run their course.",
+        "km": "ការជាប់ជំពាក់នឹងរបៀបដែលអ្វីៗធ្លាប់មានរវាងអ្នកទាំងពីរ អាចរារាំងទំនាក់ទំនងដ៏ជ្រាលជ្រៅជាងនេះ។ សូមទទួលយកថាលំនាំខ្លះបានដល់ទីបញ្ចប់ហើយ។"
+      },
+      "outcome": {
+        "en": "Your relationship could renew itself on a more honest footing. Something stale may end so that a truer understanding can begin.",
+        "km": "ទំនាក់ទំនងរបស់អ្នកអាចកើតជាថ្មី លើមូលដ្ឋានដែលស្មោះត្រង់ជាងមុន។ អ្វីមួយដែលចាស់គំរិល អាចបញ្ចប់ ដើម្បីឱ្យការយល់ចិត្តដ៏ពិតប្រាកដជាងនេះអាចចាប់ផ្តើម។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Find the middle ground between what you need and what your partner needs. Patient give and take can show you how they think.",
+        "km": "សូមរកចំណុចកណ្តាលរវាងអ្វីដែលអ្នកត្រូវការ និងអ្វីដែលដៃគូត្រូវការ។ ការផ្តល់ និងទទួលដោយអត់ធ្មត់ អាចបង្ហាញអ្នកពីរបៀបដែលគេគិត។"
+      },
+      "challenge": {
+        "en": "Reacting at full strength in a tense moment could undo hard-won trust. Cool down before you respond.",
+        "km": "ការប្រតិកម្មយ៉ាងខ្លាំងក្នុងគ្រាតានតឹង អាចបំផ្លាញការទុកចិត្តដែលបានមកដោយលំបាក។ សូមរំងាប់ចិត្តសិន មុននឹងឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "You could find a calm, balanced rhythm that suits you both. Harmony may come from blending your differences rather than erasing them.",
+        "km": "អ្នកអាចរកឃើញចង្វាក់ដ៏ស្ងប់ និងមានតុល្យភាព ដែលសមនឹងអ្នកទាំងពីរ។ ភាពសុខដុមអាចកើតចេញពីការលាយបញ្ចូលភាពខុសគ្នា ជាជាងការលុបវាចោល។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Look honestly at the habits or fears that keep you both stuck in the same arguments. Naming the pattern can help you see your partner more clearly.",
+        "km": "សូមមើលដោយស្មោះត្រង់ពីទម្លាប់ ឬការភ័យខ្លាច ដែលធ្វើឱ្យអ្នកទាំងពីរជាប់ក្នុងការឈ្លោះដដែលៗ។ ការដាក់ឈ្មោះលំនាំនោះ អាចជួយឱ្យអ្នកមើលឃើញដៃគូកាន់តែច្បាស់។"
+      },
+      "challenge": {
+        "en": "Jealousy or a need to possess could make you misread your partner's every move. Trust may need to come before understanding.",
+        "km": "ការច្រណែន ឬចិត្តចង់កាន់កាប់ អាចធ្វើឱ្យអ្នកយល់ខុសរាល់ចលនារបស់ដៃគូ។ ការទុកចិត្តប្រហែលជាត្រូវមកមុនការយល់ចិត្ត។"
+      },
+      "outcome": {
+        "en": "You could break free of an old pattern that kept you apart. Seeing it clearly may allow a more honest closeness.",
+        "km": "អ្នកអាចរួចផុតពីលំនាំចាស់ ដែលធ្លាប់ធ្វើឱ្យអ្នកទាំងពីរឃ្លាតឆ្ងាយ។ ការមើលវាឱ្យច្បាស់ អាចអនុញ្ញាតឱ្យមានភាពស្និទ្ធស្នាលដ៏ស្មោះត្រង់ជាងមុន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Be ready to hear something that shakes what you thought you knew about your partner. A hard truth can be the start of real understanding.",
+        "km": "សូមត្រៀមខ្លួនស្តាប់អ្វីមួយដែលរង្គោះរង្គើអ្វីដែលអ្នកគិតថាដឹងអំពីដៃគូ។ ការពិតដ៏លំបាកអាចជាការចាប់ផ្តើមនៃការយល់ចិត្តពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Reacting in shock to a sudden revelation could make your partner regret being honest. Take a breath before you respond.",
+        "km": "ការប្រតិកម្មដោយភ្ញាក់ផ្អើលចំពោះការបង្ហាញភ្លាមៗ អាចធ្វើឱ្យដៃគូស្តាយក្រោយដែលបាននិយាយការពិត។ សូមដកដង្ហើមសិន មុននឹងឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "Old illusions between you could fall away, leaving a clearer picture. What you build after that may rest on firmer ground.",
+        "km": "ការស្រមើស្រមៃចាស់ៗរវាងអ្នកទាំងពីរ អាចរលំចេញ ទុកឱ្យនៅសល់រូបភាពច្បាស់ជាងមុន។ អ្វីដែលអ្នកកសាងបន្ទាប់ពីនោះ អាចឈរលើមូលដ្ឋានរឹងមាំជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Ask your partner about their hopes and dreams, and listen with real interest. What someone hopes for says a lot about who they are.",
+        "km": "សូមសួរដៃគូអំពីក្តីសង្ឃឹម និងក្តីស្រមៃរបស់គេ ហើយស្តាប់ដោយចំណាប់អារម្មណ៍ពិតប្រាកដ។ អ្វីដែលមនុស្សម្នាក់សង្ឃឹម និយាយបានច្រើនអំពីខ្លួនគេ។"
+      },
+      "challenge": {
+        "en": "Seeing only an ideal version of your partner could hide their real needs. Love the person, not just the hope.",
+        "km": "ការមើលឃើញតែកំណែដ៏ល្អឥតខ្ចោះនៃដៃគូ អាចលាក់តម្រូវការពិតរបស់គេ។ សូមស្រឡាញ់មនុស្ស មិនមែនត្រឹមតែក្តីសង្ឃឹមនោះទេ។"
+      },
+      "outcome": {
+        "en": "You could find renewed hope and gentle healing in your connection. Encouraging each other's dreams may draw you closer.",
+        "km": "អ្នកអាចរកឃើញក្តីសង្ឃឹមថ្មី និងការព្យាបាលដ៏ទន់ភ្លន់ក្នុងទំនាក់ទំនងរបស់អ្នក។ ការលើកទឹកចិត្តក្តីស្រមៃរបស់គ្នា អាចនាំអ្នកឱ្យកាន់តែជិតស្និទ្ធ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Gently ask about anything that feels unclear instead of guessing. Your partner may be carrying worries they have not found words for.",
+        "km": "សូមសួរដោយទន់ភ្លន់អំពីអ្វីដែលហាក់ដូចជាមិនច្បាស់ ជំនួសឱ្យការទាយ។ ដៃគូរបស់អ្នកប្រហែលជាកំពុងផ្ទុកការព្រួយបារម្ភ ដែលគេរកពាក្យនិយាយមិនទាន់ឃើញ។"
+      },
+      "challenge": {
+        "en": "Fear and imagination could fill the gaps with stories that are not true. Separate what you know from what you suspect.",
+        "km": "ការភ័យខ្លាច និងការស្រមើស្រមៃ អាចបំពេញចន្លោះដោយរឿងដែលមិនពិត។ សូមបែងចែកអ្វីដែលអ្នកដឹង ពីអ្វីដែលអ្នកសង្ស័យ។"
+      },
+      "outcome": {
+        "en": "Confusion between you could slowly give way to clearer understanding. Patience and honest questions may bring hidden feelings to light.",
+        "km": "ភាពច្របូកច្របល់រវាងអ្នកទាំងពីរ អាចបន្ធូរបន្តិចម្តងៗ ទៅជាការយល់ដឹងដែលច្បាស់ជាងមុន។ ការអត់ធ្មត់ និងសំណួរស្មោះត្រង់ អាចនាំអារម្មណ៍ដែលលាក់កំបាំងឱ្យលេចចេញ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Share warmth and laughter with your partner, and let them see you at ease. Joy makes people open up more readily than pressure does.",
+        "km": "សូមចែករំលែកភាពកក់ក្តៅ និងសំណើចជាមួយដៃគូ ហើយឱ្យគេឃើញអ្នកក្នុងភាពធូរស្រាល។ សេចក្តីរីករាយធ្វើឱ្យមនុស្សបើកចិត្តបានងាយជាងការដាក់សម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Insisting everything is fine could hide a real issue your partner wants to raise. Make room for serious talk too.",
+        "km": "ការទទូចថាអ្វីៗល្អទាំងអស់ អាចលាក់បញ្ហាពិតដែលដៃគូចង់លើកឡើង។ សូមទុកចន្លោះសម្រាប់ការនិយាយធ្ងន់ធ្ងរផងដែរ។"
+      },
+      "outcome": {
+        "en": "You could enjoy a bright, open understanding with little left hidden. Being yourselves together may feel easy and joyful.",
+        "km": "អ្នកអាចរីករាយនឹងការយល់ចិត្តដ៏ភ្លឺស្វាង និងបើកចំហ ដែលស្ទើរតែគ្មានអ្វីលាក់កំបាំង។ ការធ្វើជាខ្លួនឯងនៅជាមួយគ្នា អាចមានអារម្មណ៍ងាយស្រួល និងរីករាយ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Look back honestly at past misunderstandings and what each of you learned from them. Reflection can give you a fresh start with your partner.",
+        "km": "សូមមើលទៅក្រោយដោយស្មោះត្រង់ ចំពោះការយល់ច្រឡំកន្លងមក និងអ្វីដែលម្នាក់ៗបានរៀន។ ការពិចារណាអាចផ្តល់ការចាប់ផ្តើមថ្មីជាមួយដៃគូរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding old mistakes against your partner could stop you from seeing how they have grown. Allow them a second look.",
+        "km": "ការយកកំហុសចាស់មកប្រកាន់ដៃគូ អាចរារាំងអ្នកពីការឃើញថាគេបានរីកចម្រើនយ៉ាងណា។ សូមផ្តល់ឱកាសមើលគេម្តងទៀត។"
+      },
+      "outcome": {
+        "en": "You could reach a moment of clarity that renews your bond. Forgiveness on both sides may lead to a deeper understanding.",
+        "km": "អ្នកអាចឈានដល់គ្រាដែលច្បាស់លាស់ ដែលធ្វើឱ្យចំណងរបស់អ្នកកើតជាថ្មី។ ការអភ័យទោសទាំងសងខាង អាចនាំទៅរកការយល់ចិត្តដ៏ជ្រាលជ្រៅជាងមុន។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "See your partner as a whole person, with a life, history and goals beyond your relationship. Appreciating their full world can deepen your bond.",
+        "km": "សូមមើលដៃគូជាមនុស្សពេញលេញម្នាក់ ដែលមានជីវិត ប្រវត្តិ និងគោលដៅលើសពីទំនាក់ទំនងរបស់អ្នក។ ការកោតសរសើរពិភពទាំងមូលរបស់គេ អាចពង្រឹងចំណងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Thinking you have figured your partner out could make you stop listening. Understanding is never fully finished.",
+        "km": "ការគិតថាអ្នកយល់ពីដៃគូអស់ហើយ អាចធ្វើឱ្យអ្នកឈប់ស្តាប់។ ការយល់ចិត្តមិនដែលចប់សព្វគ្រប់ទាំងស្រុងនោះទេ។"
+      },
+      "outcome": {
+        "en": "You could feel a complete, settled sense of knowing and being known. Your relationship may reach a rewarding new stage.",
+        "km": "អ្នកអាចមានអារម្មណ៍ពេញលេញ និងស្ងប់ថា អ្នកស្គាល់គេ ហើយគេស្គាល់អ្នក។ ទំនាក់ទំនងរបស់អ្នកអាចឈានដល់ដំណាក់កាលថ្មីដែលគួរឱ្យពេញចិត្ត។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Start a new shared activity that lets you see your partner's passions up close. Enthusiasm reveals what lights someone up.",
+        "km": "សូមចាប់ផ្តើមសកម្មភាពរួមថ្មីមួយ ដែលអនុញ្ញាតឱ្យអ្នកឃើញចំណង់ចំណូលចិត្តរបស់ដៃគូពីជិត។ ភាពរំភើបបង្ហាញពីអ្វីដែលធ្វើឱ្យមនុស្សម្នាក់ភ្លឺស្វាង។"
+      },
+      "challenge": {
+        "en": "Losing interest once the first spark fades could leave much about your partner undiscovered. Keep your curiosity alive.",
+        "km": "ការបាត់ចំណាប់អារម្មណ៍ នៅពេលផ្កាភ្លើងដំបូងរលត់ អាចទុកឱ្យរឿងជាច្រើនអំពីដៃគូមិនទាន់បានរកឃើញ។ សូមរក្សាការចង់ដឹងចង់ឃើញរបស់អ្នកឱ្យនៅរស់។"
+      },
+      "outcome": {
+        "en": "You could feel a new spark of excitement between you. Discovering your partner's passions may bring fresh energy to the relationship.",
+        "km": "អ្នកអាចមានអារម្មណ៍ផ្កាភ្លើងថ្មីនៃភាពរំភើបរវាងអ្នកទាំងពីរ។ ការរកឃើញចំណង់ចំណូលចិត្តរបស់ដៃគូ អាចនាំថាមពលថ្មីមកក្នុងទំនាក់ទំនង។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Talk with your partner about the future you each imagine and compare your plans. Seeing their vision can explain many of their choices.",
+        "km": "សូមនិយាយជាមួយដៃគូអំពីអនាគតដែលម្នាក់ៗស្រមៃ ហើយប្រៀបធៀបផែនការរបស់អ្នក។ ការឃើញចក្ខុវិស័យរបស់គេ អាចពន្យល់ពីជម្រើសជាច្រើនរបស់គេ។"
+      },
+      "challenge": {
+        "en": "Making plans for the two of you without asking could leave your partner feeling unheard. Plan together, not for them.",
+        "km": "ការធ្វើផែនការសម្រាប់អ្នកទាំងពីរ ដោយមិនសួរ អាចធ្វើឱ្យដៃគូមានអារម្មណ៍ថាមិនត្រូវបានស្តាប់។ សូមធ្វើផែនការជាមួយគ្នា មិនមែនជំនួសគេទេ។"
+      },
+      "outcome": {
+        "en": "You could find a shared direction that makes sense to you both. Understanding each other's goals may make big decisions easier.",
+        "km": "អ្នកអាចរកឃើញទិសដៅរួម ដែលសមហេតុផលសម្រាប់អ្នកទាំងពីរ។ ការយល់ពីគោលដៅរបស់គ្នា អាចធ្វើឱ្យការសម្រេចចិត្តធំៗកាន់តែងាយស្រួល។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Show interest in where your partner wants to go in life and how you can support them. Backing their goals can reveal what matters most to them.",
+        "km": "សូមបង្ហាញចំណាប់អារម្មណ៍ចំពោះកន្លែងដែលដៃគូចង់ទៅក្នុងជីវិត និងរបៀបដែលអ្នកអាចគាំទ្រគេ។ ការគាំទ្រគោលដៅរបស់គេ អាចបង្ហាញពីអ្វីដែលសំខាន់បំផុតសម្រាប់គេ។"
+      },
+      "challenge": {
+        "en": "Expecting your partner to share every one of your plans could create distance. Allow them their own horizons.",
+        "km": "ការរំពឹងឱ្យដៃគូចែករំលែកគ្រប់ផែនការរបស់អ្នក អាចបង្កើតគម្លាត។ សូមអនុញ្ញាតឱ្យគេមានជើងមេឃផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "You could grow together while each pursuing your own path. Supporting each other's progress may deepen trust and respect.",
+        "km": "អ្នកអាចរីកចម្រើនជាមួយគ្នា ខណៈម្នាក់ៗដើរតាមផ្លូវរបស់ខ្លួន។ ការគាំទ្រការរីកចម្រើនរបស់គ្នា អាចពង្រឹងការទុកចិត្ត និងការគោរព។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Spend relaxed, happy moments together at home or with people you both love. Ease and celebration help partners show their true selves.",
+        "km": "សូមចំណាយពេលដ៏ធូរស្រាល និងរីករាយជាមួយគ្នានៅផ្ទះ ឬជាមួយមនុស្សដែលអ្នកទាំងពីរស្រឡាញ់។ ភាពងាយស្រួល និងការអបអរ ជួយឱ្យដៃគូបង្ហាញខ្លួនពិតរបស់គេ។"
+      },
+      "challenge": {
+        "en": "Avoiding hard topics to keep the mood pleasant could leave real questions unanswered. Enjoy the calm, then talk honestly.",
+        "km": "ការជៀសវាងប្រធានបទពិបាក ដើម្បីរក្សាបរិយាកាសរីករាយ អាចទុកសំណួរពិតឱ្យនៅតែគ្មានចម្លើយ។ សូមរីករាយនឹងភាពស្ងប់ រួចនិយាយគ្នាដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "You could feel a stable, joyful closeness that feels like home. Understanding may settle into a comfortable, shared rhythm.",
+        "km": "អ្នកអាចមានភាពស្និទ្ធស្នាលដ៏មានស្ថិរភាព និងរីករាយ ដែលមានអារម្មណ៍ដូចនៅផ្ទះ។ ការយល់ចិត្តអាចតាំងលំនៅក្នុងចង្វាក់រួមដ៏សុខស្រួល។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Treat disagreements as a chance to learn how your partner thinks, not as battles to win. Each argument can show you something about their needs.",
+        "km": "សូមចាត់ទុកការខ្វែងគំនិតជាឱកាសដើម្បីរៀនពីរបៀបដែលដៃគូគិត មិនមែនជាសមរភូមិដែលត្រូវឈ្នះទេ។ ការឈ្លោះនីមួយៗ អាចបង្ហាញអ្នកពីអ្វីមួយអំពីតម្រូវការរបស់គេ។"
+      },
+      "challenge": {
+        "en": "Small quarrels piling up could drown out what either of you really means. Settle one issue before starting another.",
+        "km": "ការឈ្លោះតូចៗដែលគរលើគ្នា អាចលុបអ្វីដែលម្នាក់ៗពិតជាចង់និយាយ។ សូមដោះស្រាយបញ្ហាមួយឱ្យចប់ មុននឹងចាប់ផ្តើមមួយទៀត។"
+      },
+      "outcome": {
+        "en": "You could learn to disagree without losing respect for each other. Healthy debate may sharpen how well you know each other.",
+        "km": "អ្នកអាចរៀនខ្វែងគំនិតគ្នា ដោយមិនបាត់បង់ការគោរពគ្នា។ ការជជែកដែលមានសុខភាពល្អ អាចធ្វើឱ្យអ្នកស្គាល់គ្នាកាន់តែច្បាស់។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Notice and praise what your partner does well, out loud. Feeling appreciated can make them more willing to share their worries.",
+        "km": "សូមកត់សម្គាល់ និងសរសើរអ្វីដែលដៃគូធ្វើបានល្អ ដោយនិយាយចេញមក។ អារម្មណ៍ថាត្រូវបានកោតសរសើរ អាចធ្វើឱ្យគេកាន់តែចង់ចែករំលែកការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Needing to look like the stronger or wiser one could stop you from hearing your partner as an equal. Share the credit.",
+        "km": "តម្រូវការចង់មើលទៅខ្លាំងជាង ឬឆ្លាតជាង អាចរារាំងអ្នកពីការស្តាប់ដៃគូជាមនុស្សស្មើគ្នា។ សូមចែករំលែកកិត្តិយស។"
+      },
+      "outcome": {
+        "en": "You could both feel recognised and valued in the relationship. Mutual appreciation may make honest sharing feel natural.",
+        "km": "អ្នកទាំងពីរអាចមានអារម្មណ៍ថាត្រូវបានទទួលស្គាល់ និងឱ្យតម្លៃក្នុងទំនាក់ទំនង។ ការកោតសរសើរគ្នាទៅវិញទៅមក អាចធ្វើឱ្យការចែករំលែកដោយស្មោះកាន់តែធម្មជាតិ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Stand by your own feelings while staying open to your partner's view. Holding your ground calmly can make real dialogue possible.",
+        "km": "សូមឈរលើអារម្មណ៍ខ្លួនឯង ខណៈនៅតែបើកចិត្តចំពោះទស្សនៈរបស់ដៃគូ។ ការឈរមាំដោយស្ងប់ អាចធ្វើឱ្យការសន្ទនាពិតប្រាកដអាចកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Defending yourself against every comment could make your partner stop speaking up. Not every question is an attack.",
+        "km": "ការការពារខ្លួនពីរាល់មតិ អាចធ្វើឱ្យដៃគូឈប់និយាយចេញ។ មិនមែនគ្រប់សំណួរសុទ្ធតែជាការវាយប្រហារនោះទេ។"
+      },
+      "outcome": {
+        "en": "You could find a respectful balance where both of you feel heard. Standing firm with kindness may earn your partner's trust.",
+        "km": "អ្នកអាចរកឃើញតុល្យភាពប្រកបដោយការគោរព ដែលអ្នកទាំងពីរមានអារម្មណ៍ថាត្រូវបានស្តាប់។ ការឈរមាំដោយសប្បុរស អាចទទួលបានការទុកចិត្តពីដៃគូ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Reply promptly and openly when your partner reaches out to you. Quick, warm responses keep understanding flowing between you.",
+        "km": "សូមឆ្លើយតបភ្លាមៗ និងដោយបើកចំហ នៅពេលដៃគូទាក់ទងមកអ្នក។ ការឆ្លើយតបរហ័ស និងកក់ក្តៅ ធ្វើឱ្យការយល់ចិត្តហូរមិនដាច់រវាងអ្នកទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Rushing through conversations could leave important feelings unspoken. Slow down when something matters.",
+        "km": "ការប្រញាប់ប្រញាល់ក្នុងការសន្ទនា អាចទុកអារម្មណ៍សំខាន់ៗឱ្យនៅតែមិនបាននិយាយ។ សូមបន្ថយល្បឿន នៅពេលមានរឿងសំខាន់។"
+      },
+      "outcome": {
+        "en": "Understanding could arrive quickly once the lines between you are open. Messages and moods may make more sense than before.",
+        "km": "ការយល់ចិត្តអាចមកដល់យ៉ាងរហ័ស នៅពេលផ្លូវទំនាក់ទំនងរវាងអ្នកទាំងពីរបើកចំហ។ សារ និងអារម្មណ៍អាចមានន័យច្បាស់ជាងមុន។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Acknowledge how tired or guarded your partner may be after past hurts. Patience with their defences can slowly earn their trust.",
+        "km": "សូមទទួលស្គាល់ថាដៃគូប្រហែលជាហត់នឿយ ឬប្រុងប្រយ័ត្នខ្លួន បន្ទាប់ពីការឈឺចាប់កន្លងមក។ ការអត់ធ្មត់ចំពោះការការពារខ្លួនរបស់គេ អាចទទួលបានការទុកចិត្តពីគេបន្តិចម្តងៗ។"
+      },
+      "challenge": {
+        "en": "Your own guard from old wounds could make you suspect your partner unfairly. Notice when the past is speaking instead of the present.",
+        "km": "ការការពារខ្លួនរបស់អ្នក ដែលកើតពីរបួសចាស់ អាចធ្វើឱ្យអ្នកសង្ស័យដៃគូដោយអយុត្តិធម៌។ សូមកត់សម្គាល់នៅពេលដែលអតីតកាលកំពុងនិយាយជំនួសស្ថានភាពជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "Trust could be rebuilt step by step as both of you lower your defences. Resilience may turn into deeper understanding.",
+        "km": "ការទុកចិត្តអាចត្រូវបានកសាងឡើងវិញមួយជំហានម្តងៗ ខណៈអ្នកទាំងពីរបន្ធូរការការពារខ្លួន។ ភាពធន់អាចប្រែក្លាយជាការយល់ចិត្តដ៏ជ្រាលជ្រៅជាងមុន។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Ask your partner what weighs on them and whether you can share some of the load. Stress often explains moods that seem unfair.",
+        "km": "សូមសួរដៃគូថាតើអ្វីកំពុងធ្ងន់លើគេ ហើយថាតើអ្នកអាចជួយចែករំលែកបន្ទុកខ្លះបានឬទេ។ ភាពតានតឹងតែងពន្យល់ពីអារម្មណ៍ដែលហាក់ដូចជាមិនយុត្តិធម៌។"
+      },
+      "challenge": {
+        "en": "Carrying too much on your own could leave no energy for listening to your partner. Lighten your load so you can be present.",
+        "km": "ការទទួលបន្ទុកច្រើនពេកតែម្នាក់ឯង អាចធ្វើឱ្យអ្នកគ្មានកម្លាំងសម្រាប់ស្តាប់ដៃគូ។ សូមបន្ធូរបន្ទុករបស់អ្នក ដើម្បីឱ្យអ្នកអាចនៅជាមួយគេពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "You could feel relief as burdens are shared more evenly between you. Understanding may grow when neither of you carries it all alone.",
+        "km": "អ្នកអាចមានអារម្មណ៍ធូរស្រាល ខណៈបន្ទុកត្រូវបានចែករំលែកស្មើៗគ្នារវាងអ្នកទាំងពីរ។ ការយល់ចិត្តអាចកើនឡើង នៅពេលគ្មាននរណាម្នាក់ទទួលវាទាំងអស់តែម្នាក់ឯង។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Be playful and curious, asking your partner about things that excite them. Light questions can open doors that serious ones cannot.",
+        "km": "សូមលេងសើច និងចង់ដឹងចង់ឃើញ ដោយសួរដៃគូអំពីរឿងដែលធ្វើឱ្យគេរំភើប។ សំណួរស្រាលៗអាចបើកទ្វារដែលសំណួរធ្ងន់ៗមិនអាចបើក។"
+      },
+      "challenge": {
+        "en": "Bringing up big topics on impulse could catch your partner off guard. Choose a calm moment for serious questions.",
+        "km": "ការលើកប្រធានបទធំៗភ្លាមៗ ដោយមិនបានគិតទុកមុន អាចធ្វើឱ្យដៃគូមិនបានត្រៀមខ្លួន។ សូមជ្រើសគ្រាស្ងប់ស្ងាត់សម្រាប់សំណួរធ្ងន់ធ្ងរ។"
+      },
+      "outcome": {
+        "en": "You could discover exciting new sides of your partner. A sense of fun may make learning about each other a pleasure.",
+        "km": "អ្នកអាចរកឃើញផ្នែកថ្មីៗដ៏គួរឱ្យរំភើបរបស់ដៃគូ។ អារម្មណ៍សប្បាយ អាចធ្វើឱ្យការរៀនស្គាល់គ្នាក្លាយជាសេចក្តីរីករាយ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bring energy and warmth to how you engage with your partner's interests. Joining them in what they love can say more than words.",
+        "km": "សូមនាំថាមពល និងភាពកក់ក្តៅ ទៅក្នុងរបៀបដែលអ្នកចូលរួមនឹងចំណាប់អារម្មណ៍របស់ដៃគូ។ ការចូលរួមជាមួយគេក្នុងអ្វីដែលគេស្រឡាញ់ អាចនិយាយបានច្រើនជាងពាក្យសម្តី។"
+      },
+      "challenge": {
+        "en": "Impatience for quick answers could make your partner feel rushed or pressured. Let understanding unfold at its own pace.",
+        "km": "ការមិនអត់ធ្មត់ចង់បានចម្លើយរហ័ស អាចធ្វើឱ្យដៃគូមានអារម្មណ៍ថាត្រូវបានប្រញាប់ ឬដាក់សម្ពាធ។ សូមឱ្យការយល់ចិត្តលាតត្រដាងតាមល្បឿនរបស់វា។"
+      },
+      "outcome": {
+        "en": "Your relationship could feel lively and adventurous again. Shared passions may give you plenty to talk about and enjoy.",
+        "km": "ទំនាក់ទំនងរបស់អ្នកអាចមានភាពរស់រវើក និងផ្សងព្រេងឡើងវិញ។ ចំណង់ចំណូលចិត្តរួម អាចផ្តល់ឱ្យអ្នកនូវរឿងជាច្រើនសម្រាប់និយាយ និងរីករាយ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Show your partner warm confidence and an open heart, and invite them to do the same. Your openness can set the tone for theirs.",
+        "km": "សូមបង្ហាញដៃគូនូវទំនុកចិត្តដ៏កក់ក្តៅ និងចិត្តបើកចំហ ហើយអញ្ជើញគេឱ្យធ្វើដូចគ្នា។ ការបើកចិត្តរបស់អ្នក អាចកំណត់បរិយាកាសសម្រាប់ការបើកចិត្តរបស់គេ។"
+      },
+      "challenge": {
+        "en": "Taking up all the space in the relationship could leave your partner in your shadow. Make room for them to shine.",
+        "km": "ការកាន់កាប់ចន្លោះទាំងអស់ក្នុងទំនាក់ទំនង អាចទុកដៃគូឱ្យនៅក្រោមស្រមោលរបស់អ្នក។ សូមទុកចន្លោះឱ្យគេបានភ្លឺ។"
+      },
+      "outcome": {
+        "en": "You could enjoy a confident, warm partnership where both of you feel free to be yourselves. Honesty may come easily.",
+        "km": "អ្នកអាចរីករាយនឹងភាពជាដៃគូដ៏កក់ក្តៅ និងមានទំនុកចិត្ត ដែលអ្នកទាំងពីរមានសេរីភាពធ្វើជាខ្លួនឯង។ ភាពស្មោះត្រង់អាចមកដោយងាយស្រួល។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Lead by example and share your own feelings openly first. Your courage can encourage your partner to open up too.",
+        "km": "សូមធ្វើជាគំរូ ដោយចែករំលែកអារម្មណ៍ខ្លួនឯងដោយបើកចំហមុនគេ។ ភាពក្លាហានរបស់អ្នក អាចលើកទឹកចិត្តឱ្យដៃគូបើកចិត្តដែរ។"
+      },
+      "challenge": {
+        "en": "Deciding what is best for both of you could leave your partner feeling overruled. Ask before you lead.",
+        "km": "ការសម្រេចថាអ្វីល្អបំផុតសម្រាប់អ្នកទាំងពីរ អាចធ្វើឱ្យដៃគូមានអារម្មណ៍ថាត្រូវបានគេបដិសេធ។ សូមសួរ មុននឹងដឹកនាំ។"
+      },
+      "outcome": {
+        "en": "You could build a strong partnership guided by shared vision and respect. Your partner may feel inspired rather than directed.",
+        "km": "អ្នកអាចកសាងភាពជាដៃគូដ៏រឹងមាំ ដែលដឹកនាំដោយចក្ខុវិស័យរួម និងការគោរព។ ដៃគូរបស់អ្នកអាចមានអារម្មណ៍ថាត្រូវបានបំផុសគំនិត ជាជាងត្រូវបានបញ្ជា។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Open your heart and tell your partner how you truly feel about them. Emotional honesty invites the same in return.",
+        "km": "សូមបើកចិត្ត ហើយប្រាប់ដៃគូពីអារម្មណ៍ពិតរបស់អ្នកចំពោះគេ។ ភាពស្មោះត្រង់ផ្នែកអារម្មណ៍ អញ្ជើញឱ្យមានការឆ្លើយតបដូចគ្នា។"
+      },
+      "challenge": {
+        "en": "Fear of being too vulnerable could keep your feelings locked away. Share a little more than feels comfortable.",
+        "km": "ការភ័យខ្លាចភាពងាយរងរបួសពេក អាចធ្វើឱ្យអារម្មណ៍របស់អ្នកនៅតែជាប់សោ។ សូមចែករំលែកបន្តិចច្រើនជាងអ្វីដែលអ្នកមានអារម្មណ៍ស្រួល។"
+      },
+      "outcome": {
+        "en": "A fresh wave of tenderness could flow between you. Feeling emotionally close may make understanding effortless.",
+        "km": "រលកថ្មីនៃភាពទន់ភ្លន់ អាចហូររវាងអ្នកទាំងពីរ។ ការមានអារម្មណ៍ជិតស្និទ្ធ អាចធ្វើឱ្យការយល់ចិត្តកើតឡើងដោយមិនពិបាក។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Meet your partner as an equal and give them your full attention. Truly listening is the simplest way to understand someone.",
+        "km": "សូមជួបដៃគូជាមនុស្សស្មើគ្នា ហើយផ្តល់ការយកចិត្តទុកដាក់ពេញលេញដល់គេ។ ការស្តាប់ពិតប្រាកដ គឺជាវិធីសាមញ្ញបំផុតដើម្បីយល់ពីនរណាម្នាក់។"
+      },
+      "challenge": {
+        "en": "Expecting your partner to feel exactly as you do could hide your real differences. Respect what is different between you.",
+        "km": "ការរំពឹងឱ្យដៃគូមានអារម្មណ៍ដូចអ្នកទាំងស្រុង អាចលាក់ភាពខុសគ្នាពិតរបស់អ្នក។ សូមគោរពអ្វីដែលខុសគ្នារវាងអ្នកទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "You could share a balanced, mutual understanding built on respect. Your connection may feel like a true partnership.",
+        "km": "អ្នកអាចចែករំលែកការយល់ចិត្តដ៏មានតុល្យភាព និងទៅវិញទៅមក ដែលកសាងលើការគោរព។ ទំនាក់ទំនងរបស់អ្នក អាចមានអារម្មណ៍ដូចជាភាពជាដៃគូពិតប្រាកដ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Spend time with your partner among friends and see how they relate to others. People often show different sides of themselves in a group.",
+        "km": "សូមចំណាយពេលជាមួយដៃគូក្នុងចំណោមមិត្តភក្តិ ហើយមើលពីរបៀបដែលគេទាក់ទងជាមួយអ្នកដទៃ។ មនុស្សតែងបង្ហាញផ្នែកផ្សេងៗរបស់ខ្លួនក្នុងក្រុម។"
+      },
+      "challenge": {
+        "en": "Letting friends' opinions shape how you see your partner could cloud your own judgement. Form your own view.",
+        "km": "ការឱ្យមតិមិត្តភក្តិកំណត់របៀបដែលអ្នកមើលដៃគូ អាចធ្វើឱ្យការវិនិច្ឆ័យរបស់អ្នកស្រអាប់។ សូមបង្កើតទស្សនៈផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "You could enjoy a closer bond strengthened by shared joy and friendship. Celebrating together may reveal how much you have in common.",
+        "km": "អ្នកអាចរីករាយនឹងចំណងជិតស្និទ្ធជាងមុន ដែលពង្រឹងដោយសេចក្តីរីករាយ និងមិត្តភាពរួម។ ការអបអរជាមួយគ្នា អាចបង្ហាញថាអ្នកមានអ្វីៗដូចគ្នាច្រើនប៉ុណ្ណា។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Notice the small ways your partner reaches out that you may have been missing. Their care might be speaking in a language you overlook.",
+        "km": "សូមកត់សម្គាល់វិធីតូចៗដែលដៃគូព្យាយាមទាក់ទងអ្នក ដែលអ្នកប្រហែលជាបានខកខាន។ ការយកចិត្តទុកដាក់របស់គេ អាចកំពុងនិយាយជាភាសាដែលអ្នកមើលរំលង។"
+      },
+      "challenge": {
+        "en": "Withdrawing into boredom or disappointment could make you stop paying attention to your partner. Look again with fresh eyes.",
+        "km": "ការដកខ្លួនទៅក្នុងភាពធុញទ្រាន់ ឬការខកចិត្ត អាចធ្វើឱ្យអ្នកឈប់យកចិត្តទុកដាក់ចំពោះដៃគូ។ សូមមើលម្តងទៀតដោយភ្នែកថ្មី។"
+      },
+      "outcome": {
+        "en": "You could rediscover qualities in your partner you had stopped noticing. Renewed attention may bring renewed warmth.",
+        "km": "អ្នកអាចរកឃើញឡើងវិញនូវគុណសម្បត្តិរបស់ដៃគូ ដែលអ្នកធ្លាប់ឈប់កត់សម្គាល់។ ការយកចិត្តទុកដាក់ឡើងវិញ អាចនាំមកវិញនូវភាពកក់ក្តៅ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Acknowledge past hurts between you openly, without blame. Naming a loss together can help you understand each other's pain.",
+        "km": "សូមទទួលស្គាល់ការឈឺចាប់កន្លងមករវាងអ្នកទាំងពីរដោយបើកចំហ ដោយមិនស្តីបន្ទោស។ ការនិយាយពីការបាត់បង់ជាមួយគ្នា អាចជួយអ្នកឱ្យយល់ពីការឈឺចាប់របស់គ្នា។"
+      },
+      "challenge": {
+        "en": "Dwelling on what went wrong could keep you from seeing what still works. Notice what remains good between you.",
+        "km": "ការគិតតែពីអ្វីដែលខុស អាចរារាំងអ្នកពីការឃើញអ្វីដែលនៅតែដំណើរការល្អ។ សូមកត់សម្គាល់អ្វីដែលនៅតែល្អរវាងអ្នកទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "You could move past an old disappointment with greater compassion for each other. Shared sorrow may become shared strength.",
+        "km": "អ្នកអាចឆ្លងផុតការខកចិត្តចាស់ ជាមួយក្តីមេត្តាកាន់តែច្រើនចំពោះគ្នា។ ទុក្ខរួមអាចក្លាយជាកម្លាំងរួម។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Ask your partner about their childhood and the memories that shaped them. Gentle questions about the past can explain much of their present.",
+        "km": "សូមសួរដៃគូអំពីកុមារភាព និងអនុស្សាវរីយ៍ដែលបានបង្កើតគេ។ សំណួរទន់ភ្លន់អំពីអតីតកាល អាចពន្យល់បានច្រើនអំពីស្ថានភាពរបស់គេ។"
+      },
+      "challenge": {
+        "en": "Comparing your partner to how they used to be could ignore who they are becoming. Love the person in front of you.",
+        "km": "ការប្រៀបធៀបដៃគូជាមួយរបៀបដែលគេធ្លាប់ជា អាចមិនខ្វល់ពីមនុស្សដែលគេកំពុងក្លាយជា។ សូមស្រឡាញ់មនុស្សដែលនៅចំពោះមុខអ្នក។"
+      },
+      "outcome": {
+        "en": "You could share a sweet, tender closeness built on memories and trust. Kindness and nostalgia may draw you nearer.",
+        "km": "អ្នកអាចចែករំលែកភាពស្និទ្ធស្នាលដ៏ផ្អែមល្ហែម និងទន់ភ្លន់ ដែលកសាងលើអនុស្សាវរីយ៍ និងការទុកចិត្ត។ ក្តីសប្បុរស និងការនឹករលឹក អាចនាំអ្នកឱ្យកាន់តែជិតគ្នា។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Separate the person your partner really is from the one you imagine or hope for. Clear observation can reveal more than daydreams.",
+        "km": "សូមបែងចែកមនុស្សដែលដៃគូពិតជាជា ពីមនុស្សដែលអ្នកស្រមៃ ឬសង្ឃឹម។ ការសង្កេតច្បាស់លាស់ អាចបង្ហាញបានច្រើនជាងការស្រមើស្រមៃ។"
+      },
+      "challenge": {
+        "en": "Projecting your own wishes onto your partner could leave you disappointed in them. Ask, rather than assume, what they want.",
+        "km": "ការដាក់បំណងប្រាថ្នាខ្លួនឯងលើដៃគូ អាចធ្វើឱ្យអ្នកខកចិត្តនឹងគេ។ សូមសួរ ជាជាងសន្មត ពីអ្វីដែលគេចង់បាន។"
+      },
+      "outcome": {
+        "en": "You could see your partner more clearly once illusions fade. Real understanding may prove more satisfying than any fantasy.",
+        "km": "អ្នកអាចមើលឃើញដៃគូកាន់តែច្បាស់ នៅពេលការស្រមើស្រមៃរសាត់បាត់។ ការយល់ចិត្តពិតប្រាកដ អាចបង្ហាញថាគួរឱ្យពេញចិត្តជាងការស្រមៃណាមួយ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Ask yourself honestly whether you are trying to understand your partner or trying to change them. Knowing your own intention can clear the way.",
+        "km": "សូមសួរខ្លួនឯងដោយស្មោះត្រង់ថា តើអ្នកកំពុងព្យាយាមយល់ពីដៃគូ ឬកំពុងព្យាយាមផ្លាស់ប្តូរគេ។ ការដឹងពីចេតនាខ្លួនឯង អាចបើកផ្លូវឱ្យច្បាស់។"
+      },
+      "challenge": {
+        "en": "Emotionally checking out could make understanding impossible from either side. Stay present, even when it feels hard.",
+        "km": "ការដកខ្លួនផ្នែកអារម្មណ៍ អាចធ្វើឱ្យការយល់ចិត្តមិនអាចកើតឡើងពីខាងណាមួយ។ សូមនៅជាមួយគេ ទោះបីវាហាក់ដូចជាពិបាកក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "You could find a deeper, more meaningful level of connection, even if old habits must be left behind. What you both truly need may become clear.",
+        "km": "អ្នកអាចរកឃើញកម្រិតនៃទំនាក់ទំនងដ៏ជ្រាលជ្រៅ និងមានអត្ថន័យជាងមុន ទោះបីត្រូវទុកទម្លាប់ចាស់ៗនៅពីក្រោយក៏ដោយ។ អ្វីដែលអ្នកទាំងពីរពិតជាត្រូវការ អាចកាន់តែច្បាស់។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Ask your partner what would make them truly happy, and listen closely to the answer. Knowing their wishes is a gift to you both.",
+        "km": "សូមសួរដៃគូថា អ្វីនឹងធ្វើឱ្យគេសប្បាយចិត្តពិតប្រាកដ ហើយស្តាប់ចម្លើយឱ្យបានយកចិត្តទុកដាក់។ ការដឹងពីបំណងប្រាថ្នារបស់គេ គឺជាអំណោយសម្រាប់អ្នកទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Being content with the surface could keep deeper feelings unexplored. Ask about what lies underneath.",
+        "km": "ការពេញចិត្តត្រឹមតែផ្ទៃខាងលើ អាចទុកឱ្យអារម្មណ៍ជ្រាលជ្រៅមិនត្រូវបានស្វែងយល់។ សូមសួរអំពីអ្វីដែលនៅខាងក្រោម។"
+      },
+      "outcome": {
+        "en": "You could enjoy a satisfying sense of being in tune with each other. Meeting each other's wishes may bring real contentment.",
+        "km": "អ្នកអាចរីករាយនឹងអារម្មណ៍ពេញចិត្តថា អ្នកទាំងពីរចុះសម្រុងគ្នា។ ការបំពេញបំណងប្រាថ្នារបស់គ្នា អាចនាំមកនូវការពេញចិត្តពិតប្រាកដ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Talk about the kind of home and family life each of you hopes to share. Shared dreams of belonging can reveal deep values.",
+        "km": "សូមនិយាយអំពីប្រភេទផ្ទះ និងជីវិតគ្រួសារដែលម្នាក់ៗសង្ឃឹមចង់ចែករំលែក។ ក្តីស្រមៃរួមនៃការជាផ្នែកមួយ អាចបង្ហាញពីគុណតម្លៃដ៏ជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Picturing a perfect happy ending could make ordinary differences feel like failures. Real harmony includes disagreement.",
+        "km": "ការស្រមៃពីទីបញ្ចប់ដ៏រីករាយឥតខ្ចោះ អាចធ្វើឱ្យភាពខុសគ្នាធម្មតា ហាក់ដូចជាការបរាជ័យ។ ភាពសុខដុមពិតប្រាកដ រួមមានការខ្វែងគំនិតផងដែរ។"
+      },
+      "outcome": {
+        "en": "You could build a warm, lasting sense of emotional security together. Feeling at home with each other may deepen understanding.",
+        "km": "អ្នកអាចកសាងអារម្មណ៍សុវត្ថិភាពផ្លូវចិត្តដ៏កក់ក្តៅ និងយូរអង្វែងជាមួយគ្នា។ ការមានអារម្មណ៍ដូចនៅផ្ទះជាមួយគ្នា អាចពង្រឹងការយល់ចិត្ត។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Express your feelings in gentle, creative ways, such as a note or a small gesture. Tender messages can open your partner's heart.",
+        "km": "សូមបង្ហាញអារម្មណ៍របស់អ្នកតាមរបៀបទន់ភ្លន់ និងច្នៃប្រឌិត ដូចជាកំណត់ត្រាតូចមួយ ឬកាយវិការតូចមួយ។ សារទន់ភ្លន់អាចបើកបេះដូងរបស់ដៃគូ។"
+      },
+      "challenge": {
+        "en": "Being overly sensitive to small comments could make your partner afraid to speak freely. Assume good intentions first.",
+        "km": "ការរសើបពេកចំពោះមតិតូចៗ អាចធ្វើឱ្យដៃគូខ្លាចនិយាយដោយសេរី។ សូមសន្មតថាគេមានចេតនាល្អជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "You could enjoy a sweet new openness with your partner. Small emotional surprises may bring you closer.",
+        "km": "អ្នកអាចរីករាយនឹងការបើកចិត្តថ្មីដ៏ផ្អែមល្ហែមជាមួយដៃគូ។ ការភ្ញាក់ផ្អើលតូចៗផ្នែកអារម្មណ៍ អាចនាំអ្នកឱ្យកាន់តែជិតស្និទ្ធ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Approach your partner with romance and sincere feeling, showing that you care to know them. Heartfelt gestures can invite heartfelt answers.",
+        "km": "សូមចូលទៅជិតដៃគូដោយមនោសញ្ចេតនា និងអារម្មណ៍ស្មោះស បង្ហាញថាអ្នកយកចិត្តទុកដាក់ចង់ស្គាល់គេ។ កាយវិការចេញពីចិត្ត អាចអញ្ជើញចម្លើយចេញពីចិត្ត។"
+      },
+      "challenge": {
+        "en": "Getting carried away by moods could make you misjudge what your partner means. Ask before you react.",
+        "km": "ការត្រូវបានអារម្មណ៍នាំទៅ អាចធ្វើឱ្យអ្នកវិនិច្ឆ័យខុសពីអ្វីដែលដៃគូចង់មានន័យ។ សូមសួរ មុននឹងប្រតិកម្ម។"
+      },
+      "outcome": {
+        "en": "You could feel a renewed sense of romance and emotional understanding. Following your heart with care may bring you closer.",
+        "km": "អ្នកអាចមានអារម្មណ៍មនោសញ្ចេតនា និងការយល់ចិត្តឡើងវិញ។ ការធ្វើតាមចិត្តដោយប្រុងប្រយ័ត្ន អាចនាំអ្នកឱ្យកាន់តែជិតគ្នា។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Listen with empathy and let your partner feel their emotions without fixing them. Being heard can matter more than being helped.",
+        "km": "សូមស្តាប់ដោយការយល់ចិត្ត ហើយឱ្យដៃគូមានអារម្មណ៍របស់គេ ដោយមិនព្យាយាមជួសជុល។ ការត្រូវបានស្តាប់ អាចសំខាន់ជាងការត្រូវបានជួយ។"
+      },
+      "challenge": {
+        "en": "Absorbing your partner's moods as your own could leave you drained and confused. Stay caring but keep your own centre.",
+        "km": "ការស្រូបយកអារម្មណ៍ដៃគូធ្វើជារបស់ខ្លួន អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងច្របូកច្របល់។ សូមនៅតែយកចិត្តទុកដាក់ ប៉ុន្តែរក្សាចំណុចកណ្តាលរបស់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "You could reach a gentle, intuitive understanding of each other's hearts. Emotional safety may grow between you.",
+        "km": "អ្នកអាចឈានដល់ការយល់ដឹងដ៏ទន់ភ្លន់ និងវិចារណញាណ អំពីចិត្តរបស់គ្នា។ សុវត្ថិភាពផ្លូវចិត្តអាចកើនឡើងរវាងអ្នកទាំងពីរ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Stay calm and steady when emotions run high between you. Your balanced response can help your partner say what they really mean.",
+        "km": "សូមរក្សាភាពស្ងប់ និងនឹងនរ នៅពេលអារម្មណ៍ឡើងខ្ពស់រវាងអ្នកទាំងពីរ។ ការឆ្លើយតបដ៏មានតុល្យភាពរបស់អ្នក អាចជួយឱ្យដៃគូនិយាយពីអ្វីដែលគេពិតជាចង់មានន័យ។"
+      },
+      "challenge": {
+        "en": "Keeping your own feelings too controlled could make you seem distant. Let your partner see what moves you.",
+        "km": "ការគ្រប់គ្រងអារម្មណ៍ខ្លួនឯងតឹងពេក អាចធ្វើឱ្យអ្នកហាក់ដូចជាឆ្ងាយ។ សូមឱ្យដៃគូឃើញពីអ្វីដែលប៉ះពាល់ចិត្តអ្នក។"
+      },
+      "outcome": {
+        "en": "You could build a mature, steady emotional bond. Wise kindness on both sides may make understanding easier.",
+        "km": "អ្នកអាចកសាងចំណងផ្លូវចិត្តដ៏ចាស់ទុំ និងនឹងនរ។ ក្តីសប្បុរសប្រកបដោយប្រាជ្ញាទាំងសងខាង អាចធ្វើឱ្យការយល់ចិត្តកាន់តែងាយស្រួល។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Ask one clear, honest question about something you have been unsure of. Clarity can cut through a lot of guessing.",
+        "km": "សូមសួរសំណួរច្បាស់ និងស្មោះត្រង់មួយ អំពីអ្វីមួយដែលអ្នកមិនច្បាស់។ ភាពច្បាស់លាស់ អាចកាត់បន្ថយការទាយជាច្រើន។"
+      },
+      "challenge": {
+        "en": "Speaking the truth too bluntly could make your partner defensive. Be clear, but choose your words with care.",
+        "km": "ការនិយាយការពិតត្រង់ពេក អាចធ្វើឱ្យដៃគូការពារខ្លួន។ សូមនិយាយឱ្យច្បាស់ ប៉ុន្តែជ្រើសពាក្យដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "You could reach a breakthrough in understanding, with an honest talk clearing the air. Things that confused you may suddenly make sense.",
+        "km": "អ្នកអាចសម្រេចបានការយល់ដឹងថ្មី ដោយការសន្ទនាដ៏ស្មោះត្រង់មួយ ជម្រះបរិយាកាសឱ្យស្រឡះ។ រឿងដែលធ្លាប់ធ្វើឱ្យអ្នកច្របូកច្របល់ អាចមានន័យភ្លាមៗ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Admit to yourself where you have been avoiding a difficult conversation with your partner. Facing it gently can end the stalemate.",
+        "km": "សូមទទួលស្គាល់ជាមួយខ្លួនឯងថា អ្នកបានជៀសវាងការសន្ទនាពិបាកជាមួយដៃគូនៅត្រង់ណា។ ការប្រឈមមុខវាដោយទន់ភ្លន់ អាចបញ្ចប់ភាពជាប់គាំង។"
+      },
+      "challenge": {
+        "en": "Refusing to see an uncomfortable truth could keep you both stuck. Take the blindfold off and look.",
+        "km": "ការបដិសេធមិនមើលការពិតដែលមិនស្រួល អាចធ្វើឱ្យអ្នកទាំងពីរជាប់គាំង។ សូមដោះក្រណាត់បិទភ្នែកចេញ ហើយមើល។"
+      },
+      "outcome": {
+        "en": "You could break a long silence and reach a clearer understanding. A decision made together may ease the tension.",
+        "km": "អ្នកអាចបំបែកភាពស្ងៀមស្ងាត់ដ៏យូរ ហើយឈានដល់ការយល់ដឹងច្បាស់ជាងមុន។ ការសម្រេចចិត្តដែលធ្វើជាមួយគ្នា អាចបន្ធូរភាពតានតឹង។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Allow your partner to share what has hurt them, even if it is painful to hear. Understanding often begins with acknowledging pain.",
+        "km": "សូមអនុញ្ញាតឱ្យដៃគូចែករំលែកពីអ្វីដែលធ្វើឱ្យគេឈឺចាប់ ទោះបីវាឈឺចាប់ក្នុងការស្តាប់ក៏ដោយ។ ការយល់ចិត្តតែងចាប់ផ្តើមពីការទទួលស្គាល់ការឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "Hurtful words said in anger could wound deeper than you intend. Pause before saying something you cannot take back.",
+        "km": "ពាក្យឈឺចាប់ដែលនិយាយក្នុងពេលខឹង អាចធ្វើឱ្យរបួសជ្រៅជាងអ្វីដែលអ្នកចង់។ សូមផ្អាកសិន មុននឹងនិយាយអ្វីដែលអ្នកមិនអាចដកវិញបាន។"
+      },
+      "outcome": {
+        "en": "You could move through a painful truth toward deeper honesty between you. Healing may come once the hurt is fully heard.",
+        "km": "អ្នកអាចឆ្លងកាត់ការពិតដ៏ឈឺចាប់ ឆ្ពោះទៅរកភាពស្មោះត្រង់ដ៏ជ្រាលជ្រៅជាងមុនរវាងអ្នកទាំងពីរ។ ការព្យាបាលអាចមកដល់ នៅពេលការឈឺចាប់ត្រូវបានស្តាប់ពេញលេញ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Give each other some calm space before trying to talk through something difficult. Rest can make understanding easier.",
+        "km": "សូមផ្តល់ចន្លោះស្ងប់ស្ងាត់ខ្លះដល់គ្នា មុននឹងព្យាយាមនិយាយពីរឿងពិបាក។ ការសម្រាក អាចធ្វើឱ្យការយល់ចិត្តកាន់តែងាយស្រួល។"
+      },
+      "challenge": {
+        "en": "Mistaking your partner's need for rest as rejection could cause hurt feelings. Ask what the quiet means.",
+        "km": "ការយល់ច្រឡំតម្រូវការសម្រាករបស់ដៃគូថាជាការបដិសេធ អាចធ្វើឱ្យឈឺចិត្ត។ សូមសួរថាភាពស្ងៀមស្ងាត់នោះមានន័យដូចម្តេច។"
+      },
+      "outcome": {
+        "en": "You could return to each other refreshed and more able to listen. Calm may bring clarity that arguments could not.",
+        "km": "អ្នកអាចត្រឡប់មករកគ្នាវិញ ដោយស្រស់ថ្លា និងអាចស្តាប់បានកាន់តែល្អ។ ភាពស្ងប់អាចនាំមកនូវភាពច្បាស់លាស់ ដែលការឈ្លោះមិនអាចនាំមក។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Ask yourself whether winning an argument matters more than understanding your partner. Letting go of a point can open a door.",
+        "km": "សូមសួរខ្លួនឯងថា តើការឈ្នះការឈ្លោះសំខាន់ជាងការយល់ពីដៃគូឬ។ ការលះបង់ចំណុចមួយ អាចបើកទ្វារមួយ។"
+      },
+      "challenge": {
+        "en": "Using sharp words to prove a point could damage trust between you. A hollow victory can cost much more than it gains.",
+        "km": "ការប្រើពាក្យមុតស្រួចដើម្បីបញ្ជាក់ចំណុចមួយ អាចបំផ្លាញការទុកចិត្តរវាងអ្នកទាំងពីរ។ ជ័យជម្នះទទេ អាចខាតច្រើនជាងអ្វីដែលបានមក។"
+      },
+      "outcome": {
+        "en": "You could move past a power struggle toward real listening. Choosing peace over pride may repair understanding.",
+        "km": "អ្នកអាចឆ្លងផុតការប្រជែងអំណាច ឆ្ពោះទៅរកការស្តាប់ពិតប្រាកដ។ ការជ្រើសរើសសន្តិភាព ជាជាងមោទនភាព អាចជួសជុលការយល់ចិត្ត។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Move away from old arguments and talk about where you want to go together. A calmer setting can help you hear each other better.",
+        "km": "សូមចាកចេញពីការឈ្លោះចាស់ៗ ហើយនិយាយអំពីកន្លែងដែលអ្នកចង់ទៅជាមួយគ្នា។ បរិយាកាសស្ងប់ជាងមុន អាចជួយឱ្យអ្នកស្តាប់គ្នាបានល្អជាងមុន។"
+      },
+      "challenge": {
+        "en": "Bringing old grievances into new conversations could keep you stuck in the past. Leave behind what has been resolved.",
+        "km": "ការនាំការតូចចិត្តចាស់ៗចូលក្នុងការសន្ទនាថ្មី អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងអតីតកាល។ សូមទុកនៅពីក្រោយនូវអ្វីដែលបានដោះស្រាយរួច។"
+      },
+      "outcome": {
+        "en": "You could reach calmer waters in your relationship. Moving on from old conflicts may make understanding easier.",
+        "km": "អ្នកអាចឈានដល់ទឹកស្ងប់ជាងមុនក្នុងទំនាក់ទំនងរបស់អ្នក។ ការបន្តទៅមុខពីជម្លោះចាស់ៗ អាចធ្វើឱ្យការយល់ចិត្តកាន់តែងាយស្រួល។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Be honest about anything you have been keeping from your partner. Openness on your side can encourage openness on theirs.",
+        "km": "សូមស្មោះត្រង់អំពីអ្វីដែលអ្នកបានលាក់ពីដៃគូ។ ការបើកចំហពីខាងអ្នក អាចលើកទឹកចិត្តឱ្យមានការបើកចំហពីខាងគេ។"
+      },
+      "challenge": {
+        "en": "Hidden agendas or half-truths could make real understanding impossible. Say what you mean plainly.",
+        "km": "គម្រោងលាក់កំបាំង ឬការពិតពាក់កណ្តាល អាចធ្វើឱ្យការយល់ចិត្តពិតប្រាកដមិនអាចកើតឡើង។ សូមនិយាយពីអ្វីដែលអ្នកចង់មានន័យឱ្យបានត្រង់។"
+      },
+      "outcome": {
+        "en": "You could rebuild trust by being transparent with each other. Honesty may bring a closeness that secrets cannot.",
+        "km": "អ្នកអាចកសាងការទុកចិត្តឡើងវិញ ដោយការបើកចំហជាមួយគ្នា។ ភាពស្មោះត្រង់អាចនាំមកនូវភាពជិតស្និទ្ធ ដែលអាថ៌កំបាំងមិនអាចផ្តល់បាន។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Notice the assumptions that may be limiting how you see your partner. Questioning them can free you both.",
+        "km": "សូមកត់សម្គាល់ការសន្មតដែលអាចកំពុងកំណត់របៀបដែលអ្នកមើលដៃគូ។ ការចោទសួរពួកវា អាចដោះលែងអ្នកទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Feeling trapped in a pattern could make you believe nothing can change between you. Small steps can loosen the knots.",
+        "km": "អារម្មណ៍ជាប់អន្ទាក់ក្នុងលំនាំមួយ អាចធ្វើឱ្យអ្នកជឿថាគ្មានអ្វីអាចផ្លាស់ប្តូររវាងអ្នកទាំងពីរ។ ជំហានតូចៗអាចបន្ធូរចំណង។"
+      },
+      "outcome": {
+        "en": "You could find a way out of a stuck dynamic. Seeing your partner without old limits may bring a fresh understanding.",
+        "km": "អ្នកអាចរកឃើញផ្លូវចេញពីចលនាដែលជាប់គាំង។ ការមើលដៃគូដោយគ្មានដែនកំណត់ចាស់ៗ អាចនាំមកនូវការយល់ចិត្តថ្មី។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Share your worries about the relationship calmly, instead of carrying them alone. Saying them aloud can make them smaller.",
+        "km": "សូមចែករំលែកការព្រួយបារម្ភអំពីទំនាក់ទំនងដោយស្ងប់ស្ងាត់ ជំនួសឱ្យការទទួលវាតែម្នាក់ឯង។ ការនិយាយវាចេញមក អាចធ្វើឱ្យវាតូចជាងមុន។"
+      },
+      "challenge": {
+        "en": "Anxious thoughts could convince you your partner feels something they do not. Ask before you assume the worst.",
+        "km": "គំនិតព្រួយបារម្ភ អាចបញ្ចុះបញ្ចូលអ្នកថា ដៃគូមានអារម្មណ៍អ្វីមួយដែលគេមិនមាន។ សូមសួរ មុននឹងសន្មតពីអ្វីដែលអាក្រក់បំផុត។"
+      },
+      "outcome": {
+        "en": "You could find relief as fears are spoken and found to be smaller than they seemed. Reassurance may grow between you.",
+        "km": "អ្នកអាចមានអារម្មណ៍ធូរស្រាល ខណៈការភ័យខ្លាចត្រូវបាននិយាយចេញ ហើយឃើញថាតូចជាងអ្វីដែលវាហាក់ដូចជា។ ការធានាចិត្តអាចកើនឡើងរវាងអ្នកទាំងពីរ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Accept that a painful phase or old pattern between you may be over. Facing that honestly can clear space for something new.",
+        "km": "សូមទទួលយកថា ដំណាក់កាលដ៏ឈឺចាប់ ឬលំនាំចាស់រវាងអ្នកទាំងពីរ ប្រហែលជាបានបញ្ចប់ហើយ។ ការប្រឈមមុខនឹងវាដោយស្មោះត្រង់ អាចជម្រះចន្លោះសម្រាប់អ្វីថ្មី។"
+      },
+      "challenge": {
+        "en": "Reliving the worst moments of your relationship could keep you from seeing your partner fairly. Let the past rest.",
+        "km": "ការរំលឹកគ្រាអាក្រក់បំផុតនៃទំនាក់ទំនងឡើងវិញ អាចរារាំងអ្នកពីការមើលដៃគូដោយយុត្តិធម៌។ សូមទុកអតីតកាលឱ្យសម្រាក។"
+      },
+      "outcome": {
+        "en": "You could reach the end of a painful cycle and begin to understand each other anew. Recovery may bring fresh perspective.",
+        "km": "អ្នកអាចឈានដល់ទីបញ្ចប់នៃវដ្តដ៏ឈឺចាប់ ហើយចាប់ផ្តើមយល់ពីគ្នាជាថ្មី។ ការជាសះស្បើយ អាចនាំមកនូវទស្សនៈថ្មី។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Be curious and ask thoughtful questions about how your partner sees things. Interest in their ideas can make them feel valued.",
+        "km": "សូមចង់ដឹងចង់ឃើញ ហើយសួរសំណួរដែលបានគិតពិចារណា អំពីរបៀបដែលដៃគូមើលឃើញរឿងរ៉ាវ។ ចំណាប់អារម្មណ៍លើគំនិតរបស់គេ អាចធ្វើឱ្យគេមានអារម្មណ៍ថាត្រូវបានឱ្យតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Questioning your partner too sharply could feel like an interrogation. Ask with warmth, not suspicion.",
+        "km": "ការសួរដៃគូយ៉ាងមុតស្រួចពេក អាចមានអារម្មណ៍ដូចជាការសួរចម្លើយ។ សូមសួរដោយភាពកក់ក្តៅ មិនមែនដោយការសង្ស័យទេ។"
+      },
+      "outcome": {
+        "en": "You could learn new things about how your partner thinks. Honest curiosity may lead to lively, open conversations.",
+        "km": "អ្នកអាចរៀនដឹងរឿងថ្មីៗ អំពីរបៀបដែលដៃគូគិត។ ការចង់ដឹងចង់ឃើញដោយស្មោះ អាចនាំទៅរកការសន្ទនាដ៏រស់រវើក និងបើកចំហ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Raise the topic you have been avoiding and speak your mind with honesty. Directness can show your partner you want to understand.",
+        "km": "សូមលើកប្រធានបទដែលអ្នកបានជៀសវាង ហើយនិយាយពីគំនិតរបស់អ្នកដោយស្មោះត្រង់។ ភាពត្រង់ៗ អាចបង្ហាញដៃគូថាអ្នកចង់យល់។"
+      },
+      "challenge": {
+        "en": "Rushing to conclusions could leave your partner no room to explain themselves. Let them finish before you decide what they mean.",
+        "km": "ការប្រញាប់សន្និដ្ឋាន អាចមិនទុកចន្លោះឱ្យដៃគូពន្យល់ខ្លួនឯង។ សូមឱ្យគេនិយាយចប់ មុននឹងអ្នកសម្រេចថាគេចង់មានន័យអ្វី។"
+      },
+      "outcome": {
+        "en": "You could clear up a misunderstanding quickly through honest talk. Bold but kind conversation may bring you closer.",
+        "km": "អ្នកអាចជម្រះការយល់ច្រឡំបានយ៉ាងរហ័ស តាមរយៈការនិយាយដោយស្មោះត្រង់។ ការសន្ទនាដ៏ក្លាហាន ប៉ុន្តែសប្បុរស អាចនាំអ្នកឱ្យកាន់តែជិតគ្នា។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Listen with a clear head and ask honest questions without judgement. Fair, thoughtful listening can help your partner trust you.",
+        "km": "សូមស្តាប់ដោយគំនិតច្បាស់លាស់ ហើយសួរសំណួរស្មោះត្រង់ ដោយមិនវិនិច្ឆ័យ។ ការស្តាប់ដោយយុត្តិធម៌ និងគិតពិចារណា អាចជួយឱ្យដៃគូទុកចិត្តអ្នក។"
+      },
+      "challenge": {
+        "en": "Staying too detached could make your partner feel analysed rather than understood. Let some warmth show.",
+        "km": "ការនៅឆ្ងាយពេក អាចធ្វើឱ្យដៃគូមានអារម្មណ៍ថាត្រូវបានវិភាគ ជាជាងត្រូវបានយល់។ សូមឱ្យភាពកក់ក្តៅខ្លះបង្ហាញចេញ។"
+      },
+      "outcome": {
+        "en": "You could reach a clear, honest understanding based on truth and respect. Your partner may value your fair perspective.",
+        "km": "អ្នកអាចឈានដល់ការយល់ដឹងច្បាស់លាស់ និងស្មោះត្រង់ ដែលផ្អែកលើការពិត និងការគោរព។ ដៃគូរបស់អ្នកអាចឱ្យតម្លៃលើទស្សនៈយុត្តិធម៌របស់អ្នក។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Think things through calmly and speak with clarity about what you both need. Reasoned, respectful talk can bring real insight.",
+        "km": "សូមគិតពិចារណាដោយស្ងប់ ហើយនិយាយឱ្យច្បាស់អំពីអ្វីដែលអ្នកទាំងពីរត្រូវការ។ ការនិយាយប្រកបដោយហេតុផល និងការគោរព អាចនាំមកនូវការយល់ដឹងពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Relying only on logic could miss what your partner feels. Leave room for emotions that do not fit neatly.",
+        "km": "ការពឹងតែលើតក្កវិជ្ជា អាចខកខានអ្វីដែលដៃគូមានអារម្មណ៍។ សូមទុកចន្លោះសម្រាប់អារម្មណ៍ ដែលមិនសមល្អទៅតាមហេតុផល។"
+      },
+      "outcome": {
+        "en": "You could build a relationship grounded in clear communication and fairness. Understanding may come from honest, thoughtful dialogue.",
+        "km": "អ្នកអាចកសាងទំនាក់ទំនងដែលផ្អែកលើការប្រាស្រ័យទាក់ទងច្បាស់លាស់ និងយុត្តិធម៌។ ការយល់ចិត្តអាចមកពីការសន្ទនាដ៏ស្មោះត្រង់ និងគិតពិចារណា។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Show care through practical acts, such as helping with a task or planning something they enjoy. Actions can speak to your partner when words fall short.",
+        "km": "សូមបង្ហាញការយកចិត្តទុកដាក់តាមរយៈសកម្មភាពជាក់ស្តែង ដូចជាការជួយការងារមួយ ឬរៀបចំអ្វីដែលគេចូលចិត្ត។ សកម្មភាពអាចនិយាយទៅកាន់ដៃគូ នៅពេលពាក្យសម្តីមិនគ្រប់គ្រាន់។"
+      },
+      "challenge": {
+        "en": "Overlooking simple, practical needs could leave your partner feeling unsupported. Notice what would make their life easier.",
+        "km": "ការមើលរំលងតម្រូវការសាមញ្ញ និងជាក់ស្តែង អាចធ្វើឱ្យដៃគូមានអារម្មណ៍ថាមិនត្រូវបានគាំទ្រ។ សូមកត់សម្គាល់ពីអ្វីដែលនឹងធ្វើឱ្យជីវិតរបស់គេងាយស្រួលជាងមុន។"
+      },
+      "outcome": {
+        "en": "You could plant the seed of a more grounded, trusting bond. Practical care may grow into lasting understanding.",
+        "km": "អ្នកអាចដាំគ្រាប់ពូជនៃចំណងដែលមានមូលដ្ឋាន និងទុកចិត្តគ្នាជាងមុន។ ការយកចិត្តទុកដាក់ជាក់ស្តែង អាចរីកដុះដាលទៅជាការយល់ចិត្តយូរអង្វែង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Notice how your partner juggles their responsibilities and where they might need support. Understanding their pressures can explain their moods.",
+        "km": "សូមកត់សម្គាល់ពីរបៀបដែលដៃគូរៀបចំការទទួលខុសត្រូវជាច្រើន និងកន្លែងដែលគេអាចត្រូវការការគាំទ្រ។ ការយល់ពីសម្ពាធរបស់គេ អាចពន្យល់ពីអារម្មណ៍របស់គេ។"
+      },
+      "challenge": {
+        "en": "Being too busy to really listen could leave your partner feeling like an afterthought. Make room for each other.",
+        "km": "ការរវល់ពេកមិនអាចស្តាប់ពិតប្រាកដ អាចធ្វើឱ្យដៃគូមានអារម្មណ៍ថាជារឿងបន្ទាប់បន្សំ។ សូមទុកចន្លោះសម្រាប់គ្នា។"
+      },
+      "outcome": {
+        "en": "You could find a better balance that leaves room for real connection. Flexible support may make life easier for both of you.",
+        "km": "អ្នកអាចរកឃើញតុល្យភាពប្រសើរជាងមុន ដែលទុកចន្លោះសម្រាប់ទំនាក់ទំនងពិតប្រាកដ។ ការគាំទ្របត់បែន អាចធ្វើឱ្យជីវិតងាយស្រួលសម្រាប់អ្នកទាំងពីរ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Work on something together, like a home project or shared plan, and see how your partner approaches it. Teamwork reveals how someone thinks.",
+        "km": "សូមធ្វើអ្វីមួយជាមួយគ្នា ដូចជាគម្រោងផ្ទះ ឬផែនការរួម ហើយមើលពីរបៀបដែលដៃគូដោះស្រាយវា។ ការងារជាក្រុមបង្ហាញពីរបៀបដែលមនុស្សម្នាក់គិត។"
+      },
+      "challenge": {
+        "en": "Insisting on your way of doing things could stop your partner from contributing. Value their methods as well.",
+        "km": "ការទទូចលើរបៀបធ្វើរបស់អ្នក អាចរារាំងដៃគូពីការចូលរួមចំណែក។ សូមឱ្យតម្លៃលើវិធីសាស្ត្ររបស់គេផងដែរ។"
+      },
+      "outcome": {
+        "en": "You could build something solid together and appreciate each other's strengths. Cooperation may deepen respect.",
+        "km": "អ្នកអាចកសាងអ្វីមួយដ៏រឹងមាំជាមួយគ្នា ហើយកោតសរសើរចំណុចខ្លាំងរបស់គ្នា។ កិច្ចសហការ អាចពង្រឹងការគោរព។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Notice where you may be holding back your feelings or time from your partner. Giving a little more can open a lot.",
+        "km": "សូមកត់សម្គាល់កន្លែងដែលអ្នកប្រហែលជាកំពុងទប់អារម្មណ៍ ឬពេលវេលាពីដៃគូ។ ការផ្តល់បន្តិចបន្ថែម អាចបើកបានច្រើន។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly, whether to control or to security, could make your partner feel stifled. Loosen your grip.",
+        "km": "ការកាន់តឹងពេក ទោះបីជាដើម្បីគ្រប់គ្រង ឬដើម្បីសុវត្ថិភាព អាចធ្វើឱ្យដៃគូមានអារម្មណ៍ថប់ដង្ហើម។ សូមបន្ធូរការក្តាប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You could feel more secure once you trust your partner with more of yourself. Openness may bring a richer kind of stability.",
+        "km": "អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពជាងមុន នៅពេលអ្នកទុកចិត្តដៃគូ ឱ្យដឹងពីខ្លួនអ្នកកាន់តែច្រើន។ ការបើកចិត្ត អាចនាំមកនូវស្ថិរភាពដ៏សម្បូរបែបជាងមុន។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Reach out to your partner when either of you feels left out or struggling. Facing hard moments together can show who they really are.",
+        "km": "សូមទាក់ទងដៃគូ នៅពេលម្នាក់ណាមួយមានអារម្មណ៍ថាត្រូវបានទុកចោល ឬកំពុងតស៊ូ។ ការប្រឈមមុខគ្រាលំបាកជាមួយគ្នា អាចបង្ហាញថាគេពិតជាមនុស្សបែបណា។"
+      },
+      "challenge": {
+        "en": "Feeling neglected could make you overlook the support your partner is offering. Look for the help that is already there.",
+        "km": "អារម្មណ៍ថាត្រូវបានគេបំភ្លេច អាចធ្វើឱ្យអ្នកមើលរំលងការគាំទ្រដែលដៃគូកំពុងផ្តល់។ សូមស្វែងរកជំនួយដែលមានរួចហើយ។"
+      },
+      "outcome": {
+        "en": "You could come through a hard stretch closer than before. Supporting each other in difficulty may build deep trust.",
+        "km": "អ្នកអាចឆ្លងកាត់គ្រាលំបាកមួយ ដោយកាន់តែជិតស្និទ្ធជាងមុន។ ការគាំទ្រគ្នាក្នុងការលំបាក អាចកសាងការទុកចិត្តដ៏ជ្រាលជ្រៅ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Give and receive kindness in balance, noticing how your partner likes to show care. Generosity can teach you about each other.",
+        "km": "សូមផ្តល់ និងទទួលក្តីសប្បុរសដោយតុល្យភាព ដោយកត់សម្គាល់ពីរបៀបដែលដៃគូចូលចិត្តបង្ហាញការយកចិត្តទុកដាក់។ ចិត្តសប្បុរសអាចបង្រៀនអ្នកអំពីគ្នាទៅវិញទៅមក។"
+      },
+      "challenge": {
+        "en": "Giving in order to be owed could make kindness feel like a debt. Give freely or not at all.",
+        "km": "ការផ្តល់ដើម្បីឱ្យគេជំពាក់ អាចធ្វើឱ្យក្តីសប្បុរសហាក់ដូចជាបំណុល។ សូមផ្តល់ដោយសេរី ឬកុំផ្តល់តែម្តង។"
+      },
+      "outcome": {
+        "en": "You could enjoy a generous, balanced exchange of care. Feeling equally supported may bring you closer.",
+        "km": "អ្នកអាចរីករាយនឹងការផ្លាស់ប្តូរការយកចិត្តទុកដាក់ដ៏សប្បុរស និងមានតុល្យភាព។ អារម្មណ៍ថាត្រូវបានគាំទ្រស្មើៗគ្នា អាចនាំអ្នកឱ្យកាន់តែជិតគ្នា។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Take stock of how your understanding of your partner has grown, and where it still needs patience. Steady attention can pay off.",
+        "km": "សូមពិនិត្យមើលថា ការយល់ពីដៃគូរបស់អ្នកបានរីកចម្រើនយ៉ាងណា និងកន្លែងណាដែលនៅត្រូវការការអត់ធ្មត់។ ការយកចិត្តទុកដាក់ជាប្រចាំ អាចទទួលបានផល។"
+      },
+      "challenge": {
+        "en": "Expecting your partner to change or open up all at once could lead to frustration. Understanding grows gradually.",
+        "km": "ការរំពឹងឱ្យដៃគូផ្លាស់ប្តូរ ឬបើកចិត្តភ្លាមៗទាំងអស់ អាចនាំទៅរកការធុញថប់។ ការយល់ចិត្តរីកចម្រើនបន្តិចម្តងៗ។"
+      },
+      "outcome": {
+        "en": "You could see the rewards of patient effort in a deeper, steadier bond. Trust built over time may bear fruit.",
+        "km": "អ្នកអាចឃើញផលនៃការខិតខំដោយអត់ធ្មត់ ក្នុងចំណងដ៏ជ្រាលជ្រៅ និងនឹងនរជាងមុន។ ការទុកចិត្តដែលបានកសាងតាមពេលវេលា អាចផ្តល់ផល។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Put real effort into learning what matters to your partner, as you would with any skill. Small, careful attention adds up.",
+        "km": "សូមខិតខំពិតប្រាកដក្នុងការរៀនពីអ្វីដែលសំខាន់សម្រាប់ដៃគូ ដូចដែលអ្នកធ្វើជាមួយជំនាញណាមួយ។ ការយកចិត្តទុកដាក់តូចៗ និងប្រុងប្រយ័ត្ន បូកបញ្ចូលគ្នាបានច្រើន។"
+      },
+      "challenge": {
+        "en": "Treating the relationship like a task to complete could make it feel mechanical. Keep the heart in the effort.",
+        "km": "ការចាត់ទុកទំនាក់ទំនងដូចជាកិច្ចការដែលត្រូវបំពេញ អាចធ្វើឱ្យវាមានអារម្មណ៍ដូចម៉ាស៊ីន។ សូមរក្សាចិត្តនៅក្នុងការខិតខំ។"
+      },
+      "outcome": {
+        "en": "You could become skilled at reading and supporting your partner. Steady practice may make understanding feel natural.",
+        "km": "អ្នកអាចក្លាយជាអ្នកជំនាញក្នុងការយល់ និងគាំទ្រដៃគូ។ ការអនុវត្តជាប្រចាំ អាចធ្វើឱ្យការយល់ចិត្តមានអារម្មណ៍ធម្មជាតិ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Feel secure in yourself so you can listen without needing reassurance. Your own stability can make your partner feel safe to share.",
+        "km": "សូមមានអារម្មណ៍សុវត្ថិភាពក្នុងខ្លួនឯង ដើម្បីឱ្យអ្នកអាចស្តាប់ដោយមិនត្រូវការការធានាចិត្ត។ ស្ថិរភាពរបស់អ្នកផ្ទាល់ អាចធ្វើឱ្យដៃគូមានអារម្មណ៍សុវត្ថិភាពក្នុងការចែករំលែក។"
+      },
+      "challenge": {
+        "en": "Valuing your independence too much could keep your partner at arm's length. Let them into your world.",
+        "km": "ការឱ្យតម្លៃឯករាជ្យភាពរបស់អ្នកច្រើនពេក អាចរក្សាដៃគូឱ្យនៅឆ្ងាយ។ សូមអនុញ្ញាតឱ្យគេចូលក្នុងពិភពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You could enjoy a relationship where both of you feel secure and self-assured. Confidence may make honest sharing easier.",
+        "km": "អ្នកអាចរីករាយនឹងទំនាក់ទំនង ដែលអ្នកទាំងពីរមានអារម្មណ៍សុវត្ថិភាព និងជឿជាក់លើខ្លួនឯង។ ទំនុកចិត្តអាចធ្វើឱ្យការចែករំលែកដោយស្មោះកាន់តែងាយស្រួល។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Learn about your partner's family and the traditions that matter to them. Their roots can tell you a great deal.",
+        "km": "សូមស្វែងយល់អំពីគ្រួសាររបស់ដៃគូ និងប្រពៃណីដែលសំខាន់សម្រាប់គេ។ ឫសគល់របស់គេ អាចប្រាប់អ្នកបានច្រើន។"
+      },
+      "challenge": {
+        "en": "Family expectations on either side could put pressure on your relationship. Talk about what you both want, apart from others.",
+        "km": "ការរំពឹងទុករបស់គ្រួសារពីខាងណាមួយ អាចដាក់សម្ពាធលើទំនាក់ទំនងរបស់អ្នក។ សូមនិយាយអំពីអ្វីដែលអ្នកទាំងពីរចង់បាន ដាច់ដោយឡែកពីអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "You could build a lasting, secure bond with deep roots. Understanding each other's families may strengthen your shared life.",
+        "km": "អ្នកអាចកសាងចំណងដ៏យូរអង្វែង និងមានសុវត្ថិភាព ដែលមានឫសគល់ជ្រៅ។ ការយល់ពីគ្រួសាររបស់គ្នា អាចពង្រឹងជីវិតរួមរបស់អ្នក។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Be a willing learner, asking your partner to teach you about what they care about. Humble interest can make them feel valued.",
+        "km": "សូមធ្វើជាអ្នករៀនដោយសុខចិត្ត ដោយសុំឱ្យដៃគូបង្រៀនអ្នកអំពីអ្វីដែលគេយកចិត្តទុកដាក់។ ចំណាប់អារម្មណ៍ដោយបន្ទាបខ្លួន អាចធ្វើឱ្យគេមានអារម្មណ៍ថាត្រូវបានឱ្យតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Being too cautious to ask questions could leave you guessing. Small, honest questions are a good start.",
+        "km": "ការប្រុងប្រយ័ត្នពេកមិនហ៊ានសួរ អាចធ្វើឱ្យអ្នកនៅតែទាយ។ សំណួរតូចៗ និងស្មោះត្រង់ គឺជាការចាប់ផ្តើមល្អ។"
+      },
+      "outcome": {
+        "en": "You could grow steadily in understanding through patient learning. A curious, humble attitude may bring rewarding closeness.",
+        "km": "អ្នកអាចរីកចម្រើនជាលំដាប់ក្នុងការយល់ចិត្ត តាមរយៈការរៀនដោយអត់ធ្មត់។ អាកប្បកិរិយាចង់ដឹងចង់ឃើញ និងបន្ទាបខ្លួន អាចនាំមកនូវភាពជិតស្និទ្ធដ៏គួរឱ្យពេញចិត្ត។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Show up reliably and keep your promises, however small. Consistency can help your partner trust you with their thoughts.",
+        "km": "សូមបង្ហាញខ្លួនជាប្រចាំ ហើយរក្សាការសន្យារបស់អ្នក ទោះបីតូចប៉ុណ្ណាក៏ដោយ។ ភាពស្ថិតស្ថេរអាចជួយឱ្យដៃគូទុកចិត្តប្រាប់អ្នកពីគំនិតរបស់គេ។"
+      },
+      "challenge": {
+        "en": "Being steady but too predictable could make you miss your partner's changing needs. Check in, not just show up.",
+        "km": "ការនឹងនរ ប៉ុន្តែអាចទាយទុកមុនពេក អាចធ្វើឱ្យអ្នកខកខានតម្រូវការដែលកំពុងផ្លាស់ប្តូររបស់ដៃគូ។ សូមសាកសួរ មិនមែនត្រឹមតែបង្ហាញខ្លួនទេ។"
+      },
+      "outcome": {
+        "en": "You could build a dependable trust that makes deep talks feel safe. Patience and reliability may lead to lasting understanding.",
+        "km": "អ្នកអាចកសាងការទុកចិត្តដ៏អាចពឹងបាន ដែលធ្វើឱ្យការនិយាយជ្រាលជ្រៅមានអារម្មណ៍សុវត្ថិភាព។ ការអត់ធ្មត់ និងភាពគួរឱ្យទុកចិត្ត អាចនាំទៅរកការយល់ចិត្តយូរអង្វែង។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Offer warm, practical care that makes your partner feel looked after. A nurturing presence can help them relax and open up.",
+        "km": "សូមផ្តល់ការថែទាំដ៏កក់ក្តៅ និងជាក់ស្តែង ដែលធ្វើឱ្យដៃគូមានអារម្មណ៍ថាត្រូវបានមើលថែ។ វត្តមានដ៏ថ្នាក់ថ្នម អាចជួយឱ្យគេធូរស្រាល និងបើកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Caring for every need could turn into managing your partner's life. Let them look after themselves too.",
+        "km": "ការថែរក្សារាល់តម្រូវការ អាចប្រែក្លាយជាការគ្រប់គ្រងជីវិតរបស់ដៃគូ។ សូមឱ្យគេមើលថែខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "You could enjoy a comfortable, secure closeness rooted in mutual care. Feeling looked after may help you both share more.",
+        "km": "អ្នកអាចរីករាយនឹងភាពជិតស្និទ្ធដ៏សុខស្រួល និងមានសុវត្ថិភាព ដែលចាក់ឫសក្នុងការថែទាំគ្នាទៅវិញទៅមក។ អារម្មណ៍ថាត្រូវបានមើលថែ អាចជួយអ្នកទាំងពីរឱ្យចែករំលែកកាន់តែច្រើន។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Be a steady, generous partner who provides a sense of security. A grounded presence can make understanding easier.",
+        "km": "សូមធ្វើជាដៃគូនឹងនរ និងសប្បុរស ដែលផ្តល់អារម្មណ៍សុវត្ថិភាព។ វត្តមានដែលមានមូលដ្ឋានរឹងមាំ អាចធ្វើឱ្យការយល់ចិត្តកាន់តែងាយស្រួល។"
+      },
+      "challenge": {
+        "en": "Showing love only through providing could leave emotional needs unmet. Share your feelings as well as your support.",
+        "km": "ការបង្ហាញក្តីស្រឡាញ់តែតាមរយៈការផ្គត់ផ្គង់ អាចទុកតម្រូវការផ្លូវចិត្តឱ្យនៅតែមិនបានបំពេញ។ សូមចែករំលែកអារម្មណ៍ ក៏ដូចជាការគាំទ្ររបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You could create a stable, abundant partnership built on trust. Feeling secure together may let deeper understanding grow.",
+        "km": "អ្នកអាចបង្កើតភាពជាដៃគូដ៏មានស្ថិរភាព និងសម្បូរបែប ដែលកសាងលើការទុកចិត្ត។ អារម្មណ៍សុវត្ថិភាពជាមួយគ្នា អាចឱ្យការយល់ចិត្តដ៏ជ្រាលជ្រៅរីកដុះដាល។"
+      }
+    }
+  }
+}

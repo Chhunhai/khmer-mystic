@@ -15,6 +15,7 @@
 | `src/content/readings/LF-09.json` | What should I avoid? | 78 cards × 3 positions, English and Khmer (obstacle) |
 | `src/content/readings/LF-10.json` | Where is my life heading? | 78 cards × 3 positions, English and Khmer (heading) |
 | `src/content/readings/LR-01.json` | What is the current energy of my love life? | 78 cards × 3 positions, English and Khmer (state) |
+| `src/content/readings/LR-02.json` | How can I understand my partner better? | 78 cards × 3 positions, English and Khmer (how) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
