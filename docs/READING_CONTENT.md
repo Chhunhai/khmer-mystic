@@ -28,6 +28,7 @@
 | `src/content/readings/CW-02.json` | Is this a good time to look for a new job? | 78 cards × 3 positions, English and Khmer (yesno) |
 | `src/content/readings/CW-03.json` | How can I grow in my current job? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/CW-04.json` | What is holding back my career? | 78 cards × 3 positions, English and Khmer (obstacle) |
+| `src/content/readings/CW-05.json` | How can I improve relations with my colleagues? | 78 cards × 3 positions, English and Khmer (how) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.

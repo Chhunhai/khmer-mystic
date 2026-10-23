@@ -1,0 +1,1097 @@
+{
+  "questionId": "CW-05",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Approach colleagues with a fresh, open attitude, as if you were new to the team. Curiosity about people can reset tired relationships.",
+        "km": "សូមចូលទៅរកសហការី ដោយអាកប្បកិរិយាថ្មី និងបើកចំហ ដូចជាអ្នកទើបចូលក្រុមថ្មី។ ការចង់ដឹងចង់ឃើញអំពីមនុស្ស អាចកំណត់ទំនាក់ទំនងដែលហត់នឿយឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Saying whatever comes to mind without considering how it lands could cause friction. Lightness works best with a little care.",
+        "km": "ការនិយាយអ្វីដែលចូលក្នុងគំនិត ដោយមិនគិតពីរបៀបដែលវាប៉ះពាល់ អាចបង្កការកកិត។ ភាពស្រាលស្រទន់ដំណើរការល្អបំផុត ជាមួយការប្រុងប្រយ័ត្នបន្តិច។"
+      },
+      "outcome": {
+        "en": "Working relationships could feel lighter and more spontaneous. A friendlier, more relaxed team spirit may develop.",
+        "km": "ទំនាក់ទំនងការងារ អាចមានអារម្មណ៍ស្រាល និងឯកឯងជាងមុន។ ស្មារតីក្រុមដែលរួសរាយ និងធូរស្រាលជាងមុន អាចរីកចម្រើន។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Offer your skills to help a colleague solve a problem they are stuck on. Practical help is one of the quickest ways to build goodwill.",
+        "km": "សូមផ្តល់ជំនាញរបស់អ្នក ដើម្បីជួយសហការីដោះស្រាយបញ្ហាដែលគេកំពុងជាប់គាំង។ ជំនួយជាក់ស្តែង គឺជាវិធីមួយដ៏លឿនបំផុតដើម្បីកសាងឆន្ទៈល្អ។"
+      },
+      "challenge": {
+        "en": "Showing off or steering every conversation toward your ideas could make people wary. Use your talents to lift others too.",
+        "km": "ការអួតខ្លួន ឬការដឹកនាំរាល់ការសន្ទនាទៅរកគំនិតរបស់អ្នក អាចធ្វើឱ្យមនុស្សប្រុងប្រយ័ត្ន។ សូមប្រើទេពកោសល្យរបស់អ្នក ដើម្បីលើកអ្នកដទៃផងដែរ។"
+      },
+      "outcome": {
+        "en": "You could become known as someone who makes things easier for others. Respect and cooperation may grow from that.",
+        "km": "អ្នកអាចត្រូវបានគេស្គាល់ថាជាមនុស្សដែលធ្វើឱ្យអ្វីៗកាន់តែងាយស្រួលសម្រាប់អ្នកដទៃ។ ការគោរព និងកិច្ចសហការ អាចរីកចម្រើនពីចំណុចនោះ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Notice the unspoken dynamics in your team, such as who feels left out and who carries tension. Quiet awareness can guide kinder actions.",
+        "km": "សូមកត់សម្គាល់ចលនាដែលមិនបាននិយាយក្នុងក្រុមរបស់អ្នក ដូចជាអ្នកណាមានអារម្មណ៍ត្រូវបានទុកចោល និងអ្នកណាផ្ទុកភាពតានតឹង។ ការដឹងខ្លួនស្ងាត់ៗ អាចដឹកនាំសកម្មភាពដែលសប្បុរសជាងមុន។"
+      },
+      "challenge": {
+        "en": "Keeping too much to yourself could make colleagues see you as distant or hard to read. Let people know a little more about you.",
+        "km": "ការរក្សាអ្វីៗច្រើនពេកសម្រាប់ខ្លួនឯង អាចធ្វើឱ្យសហការីមើលឃើញអ្នកថាឆ្ងាយ ឬពិបាកយល់។ សូមឱ្យមនុស្សដឹងអំពីអ្នកបន្ថែមបន្តិច។"
+      },
+      "outcome": {
+        "en": "A quieter, deeper trust could form with the people you work with. Colleagues may come to value your insight and discretion.",
+        "km": "ការទុកចិត្តដ៏ស្ងាត់ និងជ្រាលជ្រៅជាងមុន អាចកើតឡើងជាមួយមនុស្សដែលអ្នកធ្វើការជាមួយ។ សហការីអាចឱ្យតម្លៃលើការយល់ដឹង និងការរក្សាការសម្ងាត់របស់អ្នក។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Show warmth through small kindnesses, such as remembering birthdays or bringing something to share. Care builds a friendlier workplace.",
+        "km": "សូមបង្ហាញភាពកក់ក្តៅតាមរយៈក្តីសប្បុរសតូចៗ ដូចជាការចងចាំថ្ងៃកំណើត ឬការនាំអ្វីមួយមកចែករំលែក។ ការយកចិត្តទុកដាក់កសាងកន្លែងធ្វើការដែលរួសរាយជាងមុន។"
+      },
+      "challenge": {
+        "en": "Taking on everyone's problems as your own could leave you drained and resentful. Care without becoming the team's caretaker.",
+        "km": "ការទទួលបញ្ហារបស់គ្រប់គ្នាដូចជារបស់ខ្លួន អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងអាក់អន់ចិត្ត។ សូមយកចិត្តទុកដាក់ ដោយមិនក្លាយជាអ្នកមើលថែក្រុមទាំងមូល។"
+      },
+      "outcome": {
+        "en": "Your team could become a warmer, more supportive place to work. Kindness may be returned in kind.",
+        "km": "ក្រុមរបស់អ្នក អាចក្លាយជាកន្លែងធ្វើការដែលកក់ក្តៅ និងគាំទ្រជាងមុន។ ក្តីសប្បុរសអាចត្រូវបានតបស្នងវិញ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Be consistent and reliable in how you treat colleagues, keeping your word on deadlines and promises. Dependability earns trust.",
+        "km": "សូមជាប់លាប់ និងគួរឱ្យទុកចិត្ត ក្នុងរបៀបដែលអ្នកប្រព្រឹត្តចំពោះសហការី ដោយរក្សាពាក្យសន្យាលើពេលកំណត់ និងការសន្យា។ ភាពអាចពឹងបានទទួលបានការទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Acting like the boss when you are not could create resentment. Lead by example rather than by instruction.",
+        "km": "ការធ្វើដូចជាចៅហ្វាយ នៅពេលអ្នកមិនមែន អាចបង្កើតការអាក់អន់ចិត្ត។ សូមដឹកនាំដោយការធ្វើជាគំរូ ជាជាងដោយការណែនាំ។"
+      },
+      "outcome": {
+        "en": "Colleagues could come to see you as steady and trustworthy. Clear, fair dealings may build lasting respect.",
+        "km": "សហការីអាចមកមើលឃើញអ្នកថានឹងនរ និងគួរឱ្យទុកចិត្ត។ ការប្រព្រឹត្តច្បាស់លាស់ និងយុត្តិធម៌ អាចកសាងការគោរពយូរអង្វែង។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Respect the shared customs and unwritten rules of your workplace. Understanding how things are done can help you fit in.",
+        "km": "សូមគោរពទំនៀមទម្លាប់រួម និងច្បាប់ដែលមិនបានសរសេរនៃកន្លែងធ្វើការរបស់អ្នក។ ការយល់ពីរបៀបដែលអ្វីៗត្រូវបានធ្វើ អាចជួយអ្នកឱ្យចូលគ្នាបាន។"
+      },
+      "challenge": {
+        "en": "Insisting on doing things your way, against team norms, could isolate you. Learn the culture before you try to change it.",
+        "km": "ការទទូចធ្វើអ្វីៗតាមរបៀបរបស់អ្នក ប្រឆាំងនឹងបទដ្ឋានក្រុម អាចធ្វើឱ្យអ្នកឯកោ។ សូមរៀនវប្បធម៌ មុននឹងអ្នកព្យាយាមផ្លាស់ប្តូរវា។"
+      },
+      "outcome": {
+        "en": "You could feel more at home in your team as you understand its ways. Shared values may bring you closer.",
+        "km": "អ្នកអាចមានអារម្មណ៍ដូចនៅផ្ទះក្នុងក្រុមរបស់អ្នកកាន់តែច្រើន ខណៈអ្នកយល់ពីរបៀបរបស់វា។ គុណតម្លៃរួមអាចនាំអ្នកឱ្យកាន់តែជិត។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Choose to build genuine alliances with colleagues whose values you share. Real connection makes teamwork easier.",
+        "km": "សូមជ្រើសរើសកសាងសម្ព័ន្ធភាពពិតប្រាកដ ជាមួយសហការីដែលអ្នកចែករំលែកគុណតម្លៃ។ ទំនាក់ទំនងពិតប្រាកដធ្វើឱ្យការងារជាក្រុមកាន់តែងាយស្រួល។"
+      },
+      "challenge": {
+        "en": "Taking sides in office conflicts could damage relationships with others. Stay true to your values without joining factions.",
+        "km": "ការកាន់ជើងក្នុងជម្លោះការិយាល័យ អាចបំផ្លាញទំនាក់ទំនងជាមួយអ្នកដទៃ។ សូមនៅស្មោះត្រង់នឹងគុណតម្លៃរបស់អ្នក ដោយមិនចូលរួមបក្សពួក។"
+      },
+      "outcome": {
+        "en": "Strong partnerships built on shared values could form at work. You may find colleagues you can truly rely on when things get difficult.",
+        "km": "ភាពជាដៃគូដ៏រឹងមាំ ដែលកសាងលើគុណតម្លៃរួម អាចកើតឡើងនៅកន្លែងធ្វើការ។ អ្នកអាចរកឃើញសហការីដែលអ្នកពិតជាអាចពឹងផ្អែកបាន នៅពេលអ្វីៗកាន់តែលំបាក។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Rally colleagues around a shared goal and help the team pull in the same direction. Common purpose builds bonds.",
+        "km": "សូមប្រមូលសហការីជុំវិញគោលដៅរួមមួយ ហើយជួយក្រុមឱ្យទាញទៅទិសដៅតែមួយ។ គោលបំណងរួមកសាងចំណង។"
+      },
+      "challenge": {
+        "en": "Driving your own agenda too hard could leave colleagues feeling run over. Make room for their input.",
+        "km": "ការជំរុញរបៀបវារៈរបស់អ្នកខ្លាំងពេក អាចធ្វើឱ្យសហការីមានអារម្មណ៍ថាត្រូវបានជាន់។ សូមទុកចន្លោះសម្រាប់មតិរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "A united, motivated team could form around a goal you helped set. Shared success may strengthen your working relationships in lasting ways.",
+        "km": "ក្រុមដែលរួបរួម និងមានការលើកទឹកចិត្ត អាចកើតឡើងជុំវិញគោលដៅដែលអ្នកបានជួយកំណត់។ ភាពជោគជ័យរួម អាចពង្រឹងទំនាក់ទំនងការងាររបស់អ្នក តាមវិធីដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Respond to difficult colleagues with patience and calm rather than reacting. Steady kindness can soften even tough relationships.",
+        "km": "សូមឆ្លើយតបនឹងសហការីដែលពិបាក ដោយការអត់ធ្មត់ និងភាពស្ងប់ ជាជាងការប្រតិកម្ម។ ក្តីសប្បុរសជាប្រចាំ អាចបន្ធូរសូម្បីតែទំនាក់ទំនងដ៏តឹងតែង។"
+      },
+      "challenge": {
+        "en": "Letting irritation build until it bursts out could damage trust. Address small issues calmly before they grow.",
+        "km": "ការឱ្យការរំខានកើនឡើងរហូតដល់វាផ្ទុះ អាចបំផ្លាញការទុកចិត្ត។ សូមដោះស្រាយបញ្ហាតូចៗដោយស្ងប់ មុនពេលវាធំឡើង។"
+      },
+      "outcome": {
+        "en": "Tense relationships could ease thanks to your gentle strength. Colleagues who once tested you may come to trust and respect your calm.",
+        "km": "ទំនាក់ទំនងតានតឹង អាចធូរស្រាល ដោយសារកម្លាំងទន់ភ្លន់របស់អ្នក។ សហការីដែលធ្លាប់សាកល្បងអ្នក អាចចាប់ផ្តើមទុកចិត្ត និងគោរពភាពស្ងប់ស្ងាត់របស់អ្នក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Take time to reflect on your part in any workplace tensions. Understanding yourself can help you relate better to others.",
+        "km": "សូមចំណាយពេលពិចារណាលើផ្នែករបស់អ្នក ក្នុងភាពតានតឹងនៅកន្លែងធ្វើការ។ ការយល់ពីខ្លួនឯង អាចជួយអ្នកឱ្យទាក់ទងជាមួយអ្នកដទៃបានល្អជាងមុន។"
+      },
+      "challenge": {
+        "en": "Withdrawing from the team could make colleagues think you do not care. Join in, even briefly, to stay connected.",
+        "km": "ការដកខ្លួនចេញពីក្រុម អាចធ្វើឱ្យសហការីគិតថាអ្នកមិនខ្វល់។ សូមចូលរួម ទោះបីខ្លីក៏ដោយ ដើម្បីរក្សាទំនាក់ទំនង។"
+      },
+      "outcome": {
+        "en": "You could bring wiser, more thoughtful energy to your working relationships. Colleagues may value your perspective.",
+        "km": "អ្នកអាចនាំថាមពលដែលឈ្លាសវៃ និងគិតពិចារណាជាងមុន មកកាន់ទំនាក់ទំនងការងារ។ សហការីអាចឱ្យតម្លៃលើទស្សនៈរបស់អ្នក។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Accept that team dynamics change and adapt to new people and roles. Flexibility helps relationships survive change.",
+        "km": "សូមទទួលយកថាចលនាក្រុមផ្លាស់ប្តូរ ហើយសម្របខ្លួនទៅនឹងមនុស្ស និងតួនាទីថ្មី។ ភាពបត់បែនជួយឱ្យទំនាក់ទំនងរស់រានពីការផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Holding on to how the team used to be could make you resist newcomers. Welcome change rather than fighting it.",
+        "km": "ការកាន់ជាប់នឹងរបៀបដែលក្រុមធ្លាប់មាន អាចធ្វើឱ្យអ្នកប្រឆាំងនឹងអ្នកមកថ្មី។ សូមស្វាគមន៍ការផ្លាស់ប្តូរ ជាជាងប្រយុទ្ធនឹងវា។"
+      },
+      "outcome": {
+        "en": "A positive shift could bring new energy to your team. Relationships may improve as circumstances change.",
+        "km": "ការផ្លាស់ប្តូរវិជ្ជមាន អាចនាំថាមពលថ្មីមកកាន់ក្រុមរបស់អ្នក។ ទំនាក់ទំនងអាចប្រសើរឡើង ខណៈកាលៈទេសៈផ្លាស់ប្តូរ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Treat everyone fairly and give credit where it is due. A reputation for fairness builds trust across the team.",
+        "km": "សូមប្រព្រឹត្តចំពោះគ្រប់គ្នាដោយយុត្តិធម៌ ហើយផ្តល់កិត្តិយសនៅកន្លែងដែលសមគួរ។ កេរ្តិ៍ឈ្មោះសម្រាប់ភាពយុត្តិធម៌ កសាងការទុកចិត្តទូទាំងក្រុម។"
+      },
+      "challenge": {
+        "en": "Judging a colleague by one mistake or one bad meeting could feel unfair to them. Weigh the whole picture before deciding what someone is like.",
+        "km": "ការវិនិច្ឆ័យសហការីតាមកំហុសតែមួយ ឬការប្រជុំអាក្រក់តែមួយ អាចមិនយុត្តិធម៌ចំពោះពួកគេ។ សូមថ្លឹងថ្លែងរូបភាពទាំងមូល មុននឹងសម្រេចថាមនុស្សម្នាក់ជាមនុស្សបែបណា។"
+      },
+      "outcome": {
+        "en": "Trust and mutual respect could grow across your team as people see you act fairly. Even-handed treatment may be returned to you.",
+        "km": "ការទុកចិត្ត និងការគោរពគ្នាទៅវិញទៅមក អាចរីកចម្រើនពេញក្រុមរបស់អ្នក នៅពេលមនុស្សឃើញអ្នកប្រព្រឹត្តដោយយុត្តិធម៌។ ការប្រព្រឹត្តដោយមិនលម្អៀង អាចត្រូវបានតបស្នងមកអ្នកវិញ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Try to see a difficult colleague's situation from their point of view. A change in perspective can soften conflict.",
+        "km": "សូមព្យាយាមមើលស្ថានភាពរបស់សហការីដែលពិបាក ពីទស្សនៈរបស់គេ។ ការផ្លាស់ប្តូរទស្សនៈ អាចបន្ធូរជម្លោះ។"
+      },
+      "challenge": {
+        "en": "Waiting for others to make the first move to repair a relationship could keep things stuck. Take the first step yourself.",
+        "km": "ការរង់ចាំឱ្យអ្នកដទៃធ្វើជំហានដំបូងដើម្បីជួសជុលទំនាក់ទំនង អាចធ្វើឱ្យអ្វីៗជាប់គាំង។ សូមដើរជំហានដំបូងដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "A stuck relationship could shift once you look at it from a different angle. Understanding may slowly replace frustration on both sides.",
+        "km": "ទំនាក់ទំនងដែលជាប់គាំង អាចផ្លាស់ប្តូរ នៅពេលអ្នកមើលវាពីមុំផ្សេង។ ការយល់ដឹងអាចជំនួសការខកចិត្តបន្តិចម្តងៗ ពីភាគីទាំងពីរ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Let go of an old grudge or a pattern of conflict with a colleague. Ending a feud can free you both.",
+        "km": "សូមលះបង់ការចងគំនុំចាស់ ឬលំនាំជម្លោះជាមួយសហការីម្នាក់។ ការបញ្ចប់ការប្រកែកអាចដោះលែងអ្នកទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Clinging to the way things used to be with a colleague could keep the relationship frozen. Some patterns need to end before something better can begin.",
+        "km": "ការប្រកាន់ខ្ជាប់នូវរបៀបដែលអ្វីៗធ្លាប់មានជាមួយសហការី អាចធ្វើឱ្យទំនាក់ទំនងកកជាប់។ លំនាំខ្លះត្រូវតែបញ្ចប់ មុនពេលអ្វីដែលល្អជាងអាចចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "A difficult working relationship could transform into something better. An ending may make room for a fresh start.",
+        "km": "ទំនាក់ទំនងការងារដ៏លំបាក អាចផ្លាស់ប្តូរទៅជាអ្វីដែលល្អជាងមុន។ ការបញ្ចប់អាចបើកចន្លោះសម្រាប់ការចាប់ផ្តើមថ្មី។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Act as a calm bridge between different personalities on your team. Patient diplomacy can bring people together.",
+        "km": "សូមធ្វើជាស្ពានដ៏ស្ងប់ រវាងបុគ្គលិកលក្ខណៈផ្សេងៗក្នុងក្រុមរបស់អ្នក។ ការទូតដោយអត់ធ្មត់ អាចនាំមនុស្សមកជួបគ្នា។"
+      },
+      "challenge": {
+        "en": "Reacting strongly in tense moments could turn a small disagreement into a lasting conflict. Take a breath and let the heat settle before responding.",
+        "km": "ការប្រតិកម្មខ្លាំងក្នុងពេលតានតឹង អាចប្រែការខ្វែងគំនិតតូចមួយ ទៅជាជម្លោះដែលអូសបន្លាយ។ សូមដកដង្ហើម ហើយឱ្យកំហឹងស្ងប់ មុននឹងឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "Your team could find a calmer, more balanced rhythm with your help. Harmony may grow as different personalities learn to work together.",
+        "km": "ក្រុមរបស់អ្នក អាចរកឃើញចង្វាក់ស្ងប់ស្ងាត់ និងមានតុល្យភាពជាងមុន ដោយមានជំនួយពីអ្នក។ ភាពសុខដុមអាចរីកចម្រើន នៅពេលបុគ្គលិកលក្ខណៈខុសៗគ្នារៀនធ្វើការជាមួយគ្នា។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Notice any unhealthy patterns in your workplace relationships, such as gossip, rivalry or dependence. Naming them helps you step out.",
+        "km": "សូមកត់សម្គាល់លំនាំមិនល្អណាមួយ ក្នុងទំនាក់ទំនងការងារ ដូចជាការនិយាយដើមគេ ការប្រជែង ឬការពឹងផ្អែក។ ការដាក់ឈ្មោះវាជួយអ្នកដើរចេញ។"
+      },
+      "challenge": {
+        "en": "Getting caught in office gossip or cliques could damage your reputation. Step back from toxic dynamics.",
+        "km": "ការជាប់ក្នុងការនិយាយដើមគេនៅការិយាល័យ ឬក្រុមតូចៗ អាចបំផ្លាញកេរ្តិ៍ឈ្មោះរបស់អ្នក។ សូមដកខ្លួនចេញពីចលនាពុល។"
+      },
+      "outcome": {
+        "en": "You could break free from unhealthy patterns and build cleaner relationships. Trust may grow once gossip stops.",
+        "km": "អ្នកអាចរួចផុតពីលំនាំមិនល្អ ហើយកសាងទំនាក់ទំនងដែលស្អាតជាងមុន។ ការទុកចិត្តអាចកើនឡើង នៅពេលការនិយាយដើមគេឈប់។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Address a hidden tension openly before it explodes. Clearing the air can reset a damaged relationship.",
+        "km": "សូមដោះស្រាយភាពតានតឹងលាក់កំបាំងដោយបើកចំហ មុនពេលវាផ្ទុះ។ ការជម្រះបរិយាកាស អាចកំណត់ទំនាក់ទំនងដែលខូចឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Avoiding a necessary conversation could let resentment build until something breaks in a painful way. Speak up while the problem is still small.",
+        "km": "ការជៀសវាងការសន្ទនាដែលចាំបាច់ អាចឱ្យការអន់ចិត្តកើនឡើង រហូតដល់អ្វីមួយបែកបាក់យ៉ាងឈឺចាប់។ សូមនិយាយឡើង ខណៈដែលបញ្ហានៅតូច។"
+      },
+      "outcome": {
+        "en": "After an honest clash, working relationships could rest on firmer ground. The truth, once spoken, may rebuild trust on both sides.",
+        "km": "ក្រោយការប៉ះទង្គិចដោយស្មោះត្រង់ ទំនាក់ទំនងការងារអាចឈរលើមូលដ្ឋានរឹងមាំជាងមុន។ ការពិតដែលបាននិយាយចេញ អាចកសាងការទុកចិត្តឡើងវិញពីភាគីទាំងពីរ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Encourage colleagues and share hope when a project gets difficult. Your quiet optimism can lift the whole team's spirits.",
+        "km": "សូមលើកទឹកចិត្តសហការី ហើយចែករំលែកក្តីសង្ឃឹម នៅពេលគម្រោងមួយកាន់តែលំបាក។ សុទិដ្ឋិនិយមដោយស្ងាត់ៗរបស់អ្នក អាចលើកស្ទួយស្មារតីក្រុមទាំងមូល។"
+      },
+      "challenge": {
+        "en": "Expecting colleagues to live up to an ideal could lead to constant disappointment. Accept people as they are, flaws and all.",
+        "km": "ការរំពឹងថាសហការីនឹងរស់នៅតាមឧត្តមគតិ អាចនាំឱ្យខកចិត្តជានិច្ច។ សូមទទួលយកមនុស្សដូចដែលពួកគេជា រួមទាំងចំណុចខ្វះខាតផង។"
+      },
+      "outcome": {
+        "en": "A more hopeful, supportive atmosphere could grow in your team. Encouragement may start to flow in every direction, including back to you.",
+        "km": "បរិយាកាសដែលមានក្តីសង្ឃឹម និងគាំទ្រគ្នាជាងមុន អាចរីកចម្រើនក្នុងក្រុមរបស់អ្នក។ ការលើកទឹកចិត្តអាចចាប់ផ្តើមហូរគ្រប់ទិសទី រួមទាំងត្រឡប់មករកអ្នកវិញ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Clarify misunderstandings directly rather than letting assumptions grow. Asking can clear up a lot of confusion.",
+        "km": "សូមបញ្ជាក់ការយល់ច្រឡំដោយផ្ទាល់ ជាជាងទុកឱ្យការសន្មតកើនឡើង។ ការសួរអាចជម្រះភាពច្របូកច្របល់ជាច្រើន។"
+      },
+      "challenge": {
+        "en": "Reading hidden meanings into emails or comments could create conflict that is not there. Check before reacting.",
+        "km": "ការបកស្រាយអត្ថន័យលាក់កំបាំងក្នុងអ៊ីមែល ឬមតិ អាចបង្កើតជម្លោះដែលមិនមាន។ សូមផ្ទៀងផ្ទាត់មុននឹងប្រតិកម្ម។"
+      },
+      "outcome": {
+        "en": "Misunderstandings could clear as you start communicating openly. Trust may gradually replace suspicion between you and your colleagues.",
+        "km": "ការយល់ច្រឡំអាចបាត់ទៅ នៅពេលអ្នកចាប់ផ្តើមទំនាក់ទំនងដោយបើកចំហ។ ការទុកចិត្តអាចជំនួសការសង្ស័យបន្តិចម្តងៗ រវាងអ្នក និងសហការីរបស់អ្នក។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Bring warmth, humour and a positive attitude to your interactions with colleagues. A cheerful presence can brighten the whole workplace.",
+        "km": "សូមនាំភាពកក់ក្តៅ អារម្មណ៍កំប្លែង និងអាកប្បកិរិយាវិជ្ជមាន មកកាន់ការប្រាស្រ័យទាក់ទងជាមួយសហការី។ វត្តមានរីករាយ អាចបំភ្លឺកន្លែងធ្វើការទាំងមូល។"
+      },
+      "challenge": {
+        "en": "Taking too much of the spotlight could leave others feeling overshadowed. Share the attention and let colleagues enjoy their own moments of success.",
+        "km": "ការយកការចាប់អារម្មណ៍ច្រើនពេក អាចធ្វើឱ្យអ្នកដទៃមានអារម្មណ៍ថាត្រូវបានគ្របដណ្តប់។ សូមចែករំលែកការចាប់អារម្មណ៍ ហើយឱ្យសហការីរីករាយនឹងភាពជោគជ័យរបស់ពួកគេផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Your team could become a brighter, happier place to work. Good relationships with colleagues may start to feel easy and natural.",
+        "km": "ក្រុមរបស់អ្នក អាចក្លាយជាកន្លែងធ្វើការដែលភ្លឺស្វាង និងរីករាយជាងមុន។ ទំនាក់ទំនងល្អជាមួយសហការី អាចចាប់ផ្តើមមានអារម្មណ៍ងាយស្រួល និងធម្មជាតិ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Offer a fresh start to a colleague you have had difficulties with. Forgiveness can renew working relationships.",
+        "km": "សូមផ្តល់ការចាប់ផ្តើមថ្មីដល់សហការីដែលអ្នកធ្លាប់មានការលំបាកជាមួយ។ ការអភ័យទោសអាចធ្វើឱ្យទំនាក់ទំនងការងារកើតជាថ្មី។"
+      },
+      "challenge": {
+        "en": "Using a colleague's old mistake as ammunition in every new disagreement could keep you both stuck. Judge each situation on its own merits.",
+        "km": "ការប្រើកំហុសចាស់របស់សហការី ជាគ្រាប់រំសេវក្នុងរាល់ការខ្វែងគំនិតថ្មី អាចធ្វើឱ្យអ្នកទាំងពីរជាប់គាំង។ សូមវិនិច្ឆ័យស្ថានភាពនីមួយៗតាមលក្ខណៈរបស់វាផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Looking honestly at your own part could lead to a healthier relationship with a colleague. Old tensions may fade once both of you feel heard.",
+        "km": "ការមើលដោយស្មោះត្រង់ទៅលើចំណែករបស់អ្នកផ្ទាល់ អាចនាំទៅរកទំនាក់ទំនងដែលមានសុខភាពល្អជាងមុនជាមួយសហការី។ ភាពតានតឹងចាស់ៗអាចរសាត់បាត់ នៅពេលអ្នកទាំងពីរមានអារម្មណ៍ថាត្រូវបានគេស្តាប់។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Recognise what the team has achieved together and mark shared milestones. Appreciation for everyone's part strengthens working bonds.",
+        "km": "សូមទទួលស្គាល់អ្វីដែលក្រុមបានសម្រេចជាមួយគ្នា ហើយកត់សម្គាល់សមិទ្ធផលរួម។ ការកោតសរសើរចំណែករបស់មនុស្សគ្រប់គ្នា ពង្រឹងចំណងការងារ។"
+      },
+      "challenge": {
+        "en": "Assuming relationships are fine without checking could let small issues grow. Keep investing in your team.",
+        "km": "ការសន្មតថាទំនាក់ទំនងល្អ ដោយមិនពិនិត្យ អាចឱ្យបញ្ហាតូចៗកើនឡើង។ សូមបន្តវិនិយោគលើក្រុមរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A strong, complete sense of teamwork could develop around you. Shared achievements may bring you and your colleagues closer than before.",
+        "km": "អារម្មណ៍រឹងមាំ និងពេញលេញនៃការងារជាក្រុម អាចរីកចម្រើននៅជុំវិញអ្នក។ សមិទ្ធផលរួម អាចនាំអ្នក និងសហការីរបស់អ្នកឱ្យកាន់តែជិតស្និទ្ធជាងមុន។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Bring a spark of friendly energy to the team. Suggesting a small shared project or a fresh way of working together could get people talking.",
+        "km": "សូមនាំថាមពលរួសរាយរាក់ទាក់មកកាន់ក្រុម។ ការស្នើគម្រោងរួមតូចមួយ ឬវិធីថ្មីក្នុងការធ្វើការជាមួយគ្នា អាចធ្វើឱ្យមនុស្សចាប់ផ្តើមនិយាយគ្នា។"
+      },
+      "challenge": {
+        "en": "Starting friendly gestures with energy and then letting them drop could leave colleagues unsure of you. Small, steady efforts count more than one big burst.",
+        "km": "ការចាប់ផ្តើមអំពើរួសរាយដោយថាមពល ហើយបន្ទាប់មកបោះបង់ចោល អាចធ្វើឱ្យសហការីមិនប្រាកដអំពីអ្នក។ ការខិតខំតូចៗ និងទៀងទាត់ មានតម្លៃជាងការផ្ទុះឡើងធំតែម្តង។"
+      },
+      "outcome": {
+        "en": "A simple shared idea could bring the team together in a new way. Fresh energy between you and your colleagues may keep growing.",
+        "km": "គំនិតរួមដ៏សាមញ្ញមួយ អាចនាំក្រុមមកជួបគ្នាតាមវិធីថ្មី។ ថាមពលថ្មីរវាងអ្នក និងសហការីរបស់អ្នក អាចបន្តរីកចម្រើន។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Think about which working relationships matter most for what you want to achieve. Then decide where your effort will make the biggest difference.",
+        "km": "សូមគិតអំពីទំនាក់ទំនងការងារណាដែលសំខាន់បំផុតសម្រាប់អ្វីដែលអ្នកចង់សម្រេច។ បន្ទាប់មក សូមសម្រេចថាកម្លាំងរបស់អ្នកនឹងធ្វើឱ្យមានភាពខុសគ្នាធំបំផុតនៅទីណា។"
+      },
+      "challenge": {
+        "en": "Planning how to approach a difficult colleague without ever actually doing it could keep the distance in place. At some point, take the first step.",
+        "km": "ការគ្រោងពីរបៀបចូលទៅរកសហការីដែលពិបាក ដោយមិនដែលធ្វើវាពិតប្រាកដ អាចរក្សាគម្លាតនៅដដែល។ នៅពេលណាមួយ សូមបោះជំហានដំបូង។"
+      },
+      "outcome": {
+        "en": "A clearer picture of who you work best with could help you build wider and stronger connections. Your network may stretch further than expected.",
+        "km": "ការយល់ច្បាស់ជាងមុនថាអ្នកធ្វើការល្អបំផុតជាមួយនរណា អាចជួយអ្នកកសាងទំនាក់ទំនងទូលាយ និងរឹងមាំជាងមុន។ បណ្តាញរបស់អ្នក អាចលាតសន្ធឹងឆ្ងាយជាងការរំពឹង។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Reach beyond your own desk or department and get to know people whose work connects with yours. Wider ties make the work itself run more smoothly.",
+        "km": "សូមលាតដៃហួសពីតុ ឬផ្នែករបស់អ្នក ហើយស្គាល់មនុស្សដែលការងាររបស់ពួកគេភ្ជាប់នឹងការងាររបស់អ្នក។ ចំណងទូលាយ ធ្វើឱ្យការងារខ្លួនឯងដំណើរការកាន់តែរលូន។"
+      },
+      "challenge": {
+        "en": "Expecting others to always come to you could leave connections thin. Relationships at work usually need someone to make the first move.",
+        "km": "ការរំពឹងថាអ្នកដទៃតែងតែមករកអ្នក អាចធ្វើឱ្យទំនាក់ទំនងស្តើង។ ទំនាក់ទំនងនៅកន្លែងធ្វើការ ជាធម្មតាត្រូវការនរណាម្នាក់ធ្វើចលនាមុន។"
+      },
+      "outcome": {
+        "en": "Connections across teams could open doors you did not know were there. Colleagues further away may become valuable allies.",
+        "km": "ទំនាក់ទំនងឆ្លងក្រុម អាចបើកទ្វារដែលអ្នកមិនដឹងថាមាន។ សហការីដែលនៅឆ្ងាយជាង អាចក្លាយជាសម្ព័ន្ធមិត្តដ៏មានតម្លៃ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Look for a reason to celebrate together, such as a finished project or a colleague's good news. Shared joy builds a warm team spirit.",
+        "km": "សូមរកហេតុផលដើម្បីអបអរជាមួយគ្នា ដូចជាគម្រោងដែលបានបញ្ចប់ ឬដំណឹងល្អរបស់សហការី។ សេចក្តីរីករាយរួម កសាងស្មារតីក្រុមដ៏កក់ក្តៅ។"
+      },
+      "challenge": {
+        "en": "Being too busy to join team moments could make you seem distant even when you mean well. Showing up matters more than you might think.",
+        "km": "ការមមាញឹកពេកមិនអាចចូលរួមពេលវេលាជាមួយក្រុម អាចធ្វើឱ្យអ្នកហាក់ដូចជានៅឆ្ងាយ ទោះបីអ្នកមានចេតនាល្អក៏ដោយ។ ការបង្ហាញខ្លួនសំខាន់ជាងអ្វីដែលអ្នកគិត។"
+      },
+      "outcome": {
+        "en": "The team could settle into a happy, stable rhythm where people enjoy working together. A sense of belonging may grow for you too.",
+        "km": "ក្រុមអាចចូលទៅក្នុងចង្វាក់រីករាយ និងមានស្ថិរភាព ដែលមនុស្សរីករាយធ្វើការជាមួយគ្នា។ អារម្មណ៍នៃការជាផ្នែកមួយ អាចរីកចម្រើនសម្រាប់អ្នកផងដែរ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Notice where friendly competition has turned into friction between you and others. Look for ways to turn that rivalry back into teamwork.",
+        "km": "សូមកត់សម្គាល់កន្លែងដែលការប្រកួតប្រជែងរួសរាយ បានប្រែក្លាយជាការកកិតរវាងអ្នក និងអ្នកដទៃ។ សូមរកវិធីប្រែការប្រជែងនោះឱ្យត្រឡប់ទៅជាការងារជាក្រុមវិញ។"
+      },
+      "challenge": {
+        "en": "Arguing over small points to prove you are right could wear down goodwill on all sides. Listen fully before you reply.",
+        "km": "ការឈ្លោះប្រកែកលើចំណុចតូចៗ ដើម្បីបង្ហាញថាអ្នកត្រូវ អាចបំផ្លាញសុច្ឆន្ទៈពីគ្រប់ភាគី។ សូមស្តាប់ឱ្យចប់ មុននឹងឆ្លើយ។"
+      },
+      "outcome": {
+        "en": "Open debate could become a strength rather than a source of tension. Different views may sharpen the team's ideas and bring you closer.",
+        "km": "ការជជែកដេញដោលដោយបើកចំហ អាចក្លាយជាកម្លាំង ជាជាងប្រភពនៃភាពតានតឹង។ ទស្សនៈខុសៗគ្នា អាចធ្វើឱ្យគំនិតរបស់ក្រុមកាន់តែមុត ហើយនាំអ្នកឱ្យកាន់តែជិតគ្នា។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Give credit generously and say out loud when a colleague has done good work. Public recognition costs nothing and earns lasting loyalty.",
+        "km": "សូមផ្តល់កិត្តិយសដោយចិត្តទូលាយ ហើយនិយាយឱ្យឮនៅពេលសហការីបានធ្វើការងារល្អ។ ការទទួលស្គាល់ជាសាធារណៈ មិនចំណាយអ្វីទេ តែទទួលបានភក្តីភាពយូរអង្វែង។"
+      },
+      "challenge": {
+        "en": "Taking the credit for shared work, even by accident, could quietly turn colleagues against you. Name everyone who helped.",
+        "km": "ការយកកិត្តិយសសម្រាប់ការងាររួម ទោះដោយអចេតនាក៏ដោយ អាចធ្វើឱ្យសហការីប្រឆាំងនឹងអ្នកដោយស្ងាត់ៗ។ សូមដាក់ឈ្មោះអ្នកដែលបានជួយទាំងអស់។"
+      },
+      "outcome": {
+        "en": "You could become a respected figure people are glad to work beside. Your success may feel shared rather than resented.",
+        "km": "អ្នកអាចក្លាយជាមនុស្សដែលគេគោរព ហើយរីករាយធ្វើការក្បែរ។ ភាពជោគជ័យរបស់អ្នក អាចត្រូវបានគេមើលឃើញថាជារបស់រួម ជាជាងជាហេតុនៃការច្រណែន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Stand up calmly for your ideas and your fair share of the work. Stay respectful of those who disagree, and they are more likely to respect you back.",
+        "km": "សូមឈរការពារគំនិត និងចំណែកការងារដ៏យុត្តិធម៌របស់អ្នកដោយស្ងប់ស្ងាត់។ សូមនៅតែគោរពអ្នកដែលមិនយល់ស្រប នោះពួកគេទំនងជានឹងគោរពអ្នកវិញ។"
+      },
+      "challenge": {
+        "en": "Treating every disagreement as an attack could leave you feeling alone against the team. Choose which points are truly worth defending.",
+        "km": "ការចាត់ទុករាល់ការខ្វែងគំនិតថាជាការវាយប្រហារ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាម្នាក់ឯងទល់នឹងក្រុម។ សូមជ្រើសរើសចំណុចណាដែលពិតជាសមនឹងការពារ។"
+      },
+      "outcome": {
+        "en": "Holding firm with respect could earn you a reputation for integrity. Colleagues may come to trust where you stand.",
+        "km": "ការឈរមាំដោយការគោរព អាចនាំឱ្យអ្នកមានកេរ្តិ៍ឈ្មោះថាជាមនុស្សទៀងត្រង់។ សហការីអាចចាប់ផ្តើមទុកចិត្តលើជំហររបស់អ្នក។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Reply promptly to messages and keep colleagues updated as work moves along. Quick, clear communication builds trust in a busy team.",
+        "km": "សូមឆ្លើយសារឱ្យរហ័ស ហើយជូនដំណឹងដល់សហការីជាប្រចាំ ខណៈការងារកំពុងដំណើរការ។ ការទំនាក់ទំនងរហ័ស និងច្បាស់លាស់ កសាងការទុកចិត្តក្នុងក្រុមដែលមមាញឹក។"
+      },
+      "challenge": {
+        "en": "Firing off hasty emails or comments could cause misunderstandings that take time to repair. Read your words once more before sending.",
+        "km": "ការផ្ញើអ៊ីមែល ឬមតិយោបល់ដោយប្រញាប់ អាចបង្កការយល់ច្រឡំដែលត្រូវការពេលជួសជុល។ សូមអានពាក្យរបស់អ្នកម្តងទៀត មុននឹងផ្ញើ។"
+      },
+      "outcome": {
+        "en": "Smooth communication could help the team work in step and settle problems fast. Relations may improve quicker than you expect.",
+        "km": "ការទំនាក់ទំនងរលូន អាចជួយក្រុមឱ្យធ្វើការស្របគ្នា ហើយដោះស្រាយបញ្ហាបានលឿន។ ទំនាក់ទំនងអាចប្រសើរឡើងលឿនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may be guarded after past friction at work, which is understandable. Keep protecting yourself, but leave room for colleagues who have earned trust.",
+        "km": "អ្នកប្រហែលជាប្រុងប្រយ័ត្ន ក្រោយការកកិតនៅកន្លែងធ្វើការកន្លងមក ដែលជារឿងដែលយល់បាន។ សូមបន្តការពារខ្លួន តែទុកកន្លែងសម្រាប់សហការីដែលសមនឹងទទួលការទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Expecting the worst from everyone because of one bad experience could keep good colleagues at arm's length. Not everyone is the person who hurt you.",
+        "km": "ការរំពឹងរឿងអាក្រក់បំផុតពីមនុស្សគ្រប់គ្នា ដោយសារបទពិសោធន៍អាក្រក់តែមួយ អាចរុញសហការីល្អៗឱ្យនៅឆ្ងាយ។ មិនមែនគ្រប់គ្នាជាមនុស្សដែលធ្លាប់ធ្វើឱ្យអ្នកឈឺចាប់នោះទេ។"
+      },
+      "outcome": {
+        "en": "Your resilience could see you through a tense stretch and earn quiet respect. Trust may be rebuilt step by step.",
+        "km": "ភាពធន់របស់អ្នក អាចជួយអ្នកឆ្លងកាត់ដំណាក់កាលតានតឹង ហើយទទួលបានការគោរពដោយស្ងាត់ៗ។ ការទុកចិត្តអាចត្រូវបានកសាងឡើងវិញម្តងមួយជំហាន។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Ask for help or share the load if you are carrying too much. Letting colleagues in can strengthen relationships as well as lighten your work.",
+        "km": "សូមសុំជំនួយ ឬចែករំលែកបន្ទុក ប្រសិនបើអ្នកកំពុងលីច្រើនពេក។ ការអនុញ្ញាតឱ្យសហការីចូលរួម អាចពង្រឹងទំនាក់ទំនង ព្រមទាំងបន្ធូរការងាររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Taking on everything yourself could leave you tired and short-tempered with the people around you. Overload often shows up as irritation.",
+        "km": "ការទទួលយកអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង ហើយឆាប់ខឹងជាមួយមនុស្សនៅជុំវិញ។ ការលើសបន្ទុក ជារឿយៗលេចចេញជាការរំខានចិត្ត។"
+      },
+      "outcome": {
+        "en": "Sharing the burden could bring relief and a stronger sense of teamwork. People may appreciate being trusted with more.",
+        "km": "ការចែករំលែកបន្ទុក អាចនាំមកនូវការធូរស្រាល និងអារម្មណ៍រឹងមាំនៃការងារជាក្រុម។ មនុស្សអាចកោតសរសើរការដែលត្រូវបានទុកចិត្តឱ្យទទួលខុសត្រូវច្រើនជាងមុន។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Show genuine curiosity about what your colleagues are working on and what excites them. Enthusiasm for other people's ideas is quickly returned.",
+        "km": "សូមបង្ហាញការចង់ដឹងពិតប្រាកដ អំពីអ្វីដែលសហការីរបស់អ្នកកំពុងធ្វើ និងអ្វីដែលធ្វើឱ្យពួកគេរំភើប។ ភាពរីករាយចំពោះគំនិតរបស់អ្នកដទៃ ជារឿយៗត្រូវបានតបស្នងវិញយ៉ាងរហ័ស។"
+      },
+      "challenge": {
+        "en": "Promising to help and then forgetting could make colleagues stop counting on you. Only offer what you can follow through on.",
+        "km": "ការសន្យាថានឹងជួយ ហើយបន្ទាប់មកភ្លេច អាចធ្វើឱ្យសហការីឈប់ពឹងផ្អែកលើអ្នក។ សូមផ្តល់តែអ្វីដែលអ្នកអាចធ្វើតាមរហូតដល់ចប់។"
+      },
+      "outcome": {
+        "en": "A friendly exchange of ideas could spark new connections at work. Someone you barely know may become a good ally.",
+        "km": "ការផ្លាស់ប្តូរគំនិតដោយរួសរាយ អាចបង្កើតទំនាក់ទំនងថ្មីៗនៅកន្លែងធ្វើការ។ នរណាម្នាក់ដែលអ្នកស្គាល់តិចតួច អាចក្លាយជាសម្ព័ន្ធមិត្តល្អ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Take the lead in breaking the ice, whether that means starting a conversation or offering to help on a busy task. Boldness can open doors.",
+        "km": "សូមនាំមុខក្នុងការបំបាត់ភាពស្ងៀមស្ងាត់ ទោះជាការចាប់ផ្តើមការសន្ទនា ឬការស្នើជួយកិច្ចការដែលមមាញឹក។ ភាពក្លាហានអាចបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Charging ahead with your own plan without checking with others could leave colleagues feeling run over. Bring people along with you.",
+        "km": "ការប្រញាប់ទៅមុខតាមផែនការផ្ទាល់ខ្លួន ដោយមិនពិគ្រោះជាមួយអ្នកដទៃ អាចធ្វើឱ្យសហការីមានអារម្មណ៍ថាត្រូវបានគេជាន់ឈ្លី។ សូមនាំមនុស្សទៅជាមួយអ្នក។"
+      },
+      "outcome": {
+        "en": "Your energy could get things moving and draw others into working with you. Momentum may turn into real team spirit.",
+        "km": "ថាមពលរបស់អ្នក អាចធ្វើឱ្យអ្វីៗចាប់ផ្តើមដំណើរការ ហើយទាក់ទាញអ្នកដទៃឱ្យមកធ្វើការជាមួយអ្នក។ សន្ទុះអាចប្រែក្លាយជាស្មារតីក្រុមពិតប្រាកដ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Lead with confidence and warmth, making colleagues feel welcome when they come to you. A generous, sunny presence draws people in.",
+        "km": "សូមដឹកនាំដោយទំនុកចិត្ត និងភាពកក់ក្តៅ ធ្វើឱ្យសហការីមានអារម្មណ៍ស្វាគមន៍ នៅពេលពួកគេមករកអ្នក។ វត្តមានចិត្តទូលាយ និងភ្លឺស្វាង ទាក់ទាញមនុស្ស។"
+      },
+      "challenge": {
+        "en": "Confidence that tips into impatience with slower colleagues could make them feel judged. Encourage rather than outshine.",
+        "km": "ទំនុកចិត្តដែលប្រែទៅជាការមិនអត់ធ្មត់ជាមួយសហការីដែលយឺតជាង អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាត្រូវបានវិនិច្ឆ័យ។ សូមលើកទឹកចិត្ត ជាជាងបិទបាំងពន្លឺពួកគេ។"
+      },
+      "outcome": {
+        "en": "You could become someone colleagues turn to for encouragement and good cheer. Your warmth may set the tone for the team.",
+        "km": "អ្នកអាចក្លាយជាមនុស្សដែលសហការីងាកមករកដើម្បីទទួលការលើកទឹកចិត្ត និងភាពរីករាយ។ ភាពកក់ក្តៅរបស់អ្នក អាចកំណត់ចង្វាក់សម្រាប់ក្រុម។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Offer a clear vision of what the team can achieve together, and invite others to shape it with you. Shared goals unite people.",
+        "km": "សូមផ្តល់ចក្ខុវិស័យច្បាស់លាស់អំពីអ្វីដែលក្រុមអាចសម្រេចបានជាមួយគ្នា ហើយអញ្ជើញអ្នកដទៃឱ្យរួមគ្នាកសាងវាជាមួយអ្នក។ គោលដៅរួមបង្រួបបង្រួមមនុស្ស។"
+      },
+      "challenge": {
+        "en": "Giving orders without explaining why could leave colleagues following you without trusting you. Lead by example, not only by instruction.",
+        "km": "ការបញ្ជាដោយមិនពន្យល់ពីមូលហេតុ អាចធ្វើឱ្យសហការីដើរតាមអ្នក ដោយមិនទុកចិត្តអ្នក។ សូមដឹកនាំដោយគំរូ មិនមែនត្រឹមតែការណែនាំទេ។"
+      },
+      "outcome": {
+        "en": "You could become a natural rallying point for the team. People may follow your lead because they believe in it.",
+        "km": "អ្នកអាចក្លាយជាចំណុចប្រមូលផ្តុំធម្មជាតិសម្រាប់ក្រុម។ មនុស្សអាចដើរតាមការដឹកនាំរបស់អ្នក ព្រោះពួកគេជឿលើវា។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Approach your colleagues with an open heart and real kindness, especially someone who seems to be struggling. A caring gesture can begin a new bond.",
+        "km": "សូមចូលទៅរកសហការីរបស់អ្នក ដោយចិត្តបើកចំហ និងសេចក្តីសប្បុរសពិតប្រាកដ ជាពិសេសនរណាម្នាក់ដែលហាក់ដូចជាកំពុងជួបការលំបាក។ អំពើយកចិត្តទុកដាក់មួយ អាចចាប់ផ្តើមចំណងថ្មី។"
+      },
+      "challenge": {
+        "en": "Hiding your feelings completely at work could make you seem cold even when you care. Letting a little warmth show helps people connect.",
+        "km": "ការលាក់អារម្មណ៍ទាំងស្រុងនៅកន្លែងធ្វើការ អាចធ្វើឱ្យអ្នកហាក់ដូចជាត្រជាក់ ទោះបីអ្នកយកចិត្តទុកដាក់ក៏ដោយ។ ការបង្ហាញភាពកក់ក្តៅបន្តិច ជួយឱ្យមនុស្សភ្ជាប់ទំនាក់ទំនង។"
+      },
+      "outcome": {
+        "en": "A fresh, sincere friendship could grow out of an ordinary working relationship. The atmosphere around you may become gentler.",
+        "km": "មិត្តភាពថ្មី និងស្មោះត្រង់ អាចដុះចេញពីទំនាក់ទំនងការងារធម្មតា។ បរិយាកាសនៅជុំវិញអ្នក អាចកាន់តែទន់ភ្លន់។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Focus on one colleague at a time and build mutual respect through honest, two-way conversations. Good partnerships at work start between two people.",
+        "km": "សូមផ្តោតលើសហការីម្នាក់ម្តងៗ ហើយកសាងការគោរពគ្នាទៅវិញទៅមក តាមរយៈការសន្ទនាដោយស្មោះត្រង់ពីរផ្លូវ។ ភាពជាដៃគូល្អនៅកន្លែងធ្វើការ ចាប់ផ្តើមរវាងមនុស្សពីរនាក់។"
+      },
+      "challenge": {
+        "en": "Giving far more than you get back, or the other way round, could slowly sour a working relationship. Aim for give and take on both sides.",
+        "km": "ការផ្តល់ឱ្យច្រើនជាងអ្វីដែលអ្នកទទួលវិញ ឬផ្ទុយមកវិញ អាចធ្វើឱ្យទំនាក់ទំនងការងារជូរចត់បន្តិចម្តងៗ។ សូមប្រាថ្នាឱ្យមានការផ្តល់ និងទទួលពីភាគីទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "A strong working partnership based on trust could form. You may find a colleague who truly has your back.",
+        "km": "ភាពជាដៃគូការងារដ៏រឹងមាំ ដែលផ្អែកលើការទុកចិត្ត អាចកើតឡើង។ អ្នកអាចរកឃើញសហការីម្នាក់ ដែលពិតជាគាំទ្រអ្នក។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Join in when colleagues gather, and invite others to share a meal or a laugh together. Friendship outside tasks makes teamwork easier.",
+        "km": "សូមចូលរួមនៅពេលសហការីជួបជុំគ្នា ហើយអញ្ជើញអ្នកដទៃឱ្យញ៉ាំអាហារ ឬសើចសប្បាយជាមួយគ្នា។ មិត្តភាពក្រៅកិច្ចការ ធ្វើឱ្យការងារជាក្រុមកាន់តែងាយស្រួល។"
+      },
+      "challenge": {
+        "en": "Getting drawn into a small group that leaves others out could create cliques and resentment. Keep your circle open to everyone.",
+        "km": "ការត្រូវបានទាញចូលក្រុមតូចមួយ ដែលទុកអ្នកដទៃនៅខាងក្រៅ អាចបង្កើតបក្សពួក និងការអន់ចិត្ត។ សូមរក្សារង្វង់របស់អ្នកឱ្យបើកចំហសម្រាប់មនុស្សគ្រប់គ្នា។"
+      },
+      "outcome": {
+        "en": "Colleagues could become real friends who make work something to look forward to. Shared good times may strengthen the whole team.",
+        "km": "សហការីអាចក្លាយជាមិត្តពិតប្រាកដ ដែលធ្វើឱ្យការងារក្លាយជារឿងដែលគួររង់ចាំ។ ពេលវេលាល្អៗរួមគ្នា អាចពង្រឹងក្រុមទាំងមូល។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Notice whether you have pulled back from colleagues out of tiredness or boredom. Accepting a simple invitation could reconnect you more than you expect.",
+        "km": "សូមកត់សម្គាល់ថាតើអ្នកបានដកខ្លួនចេញពីសហការី ដោយសារការនឿយហត់ ឬការធុញទ្រាន់ឬទេ។ ការទទួលយកការអញ្ជើញសាមញ្ញមួយ អាចភ្ជាប់អ្នកឡើងវិញច្រើនជាងការរំពឹង។"
+      },
+      "challenge": {
+        "en": "Turning down every friendly offer could make colleagues stop asking. Indifference is easily mistaken for dislike.",
+        "km": "ការបដិសេធរាល់ការអញ្ជើញដោយរួសរាយ អាចធ្វើឱ្យសហការីឈប់សួរ។ ការព្រងើយកន្តើយ ងាយត្រូវបានគេយល់ច្រឡំថាជាការមិនចូលចិត្ត។"
+      },
+      "outcome": {
+        "en": "Saying yes to a small gesture could renew your interest in the people around you. A friendship you had overlooked may be waiting.",
+        "km": "ការយល់ព្រមចំពោះអំពើតូចមួយ អាចធ្វើឱ្យអ្នកចាប់អារម្មណ៍ឡើងវិញចំពោះមនុស្សនៅជុំវិញ។ មិត្តភាពដែលអ្នកបានមើលរំលង អាចកំពុងរង់ចាំ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Acknowledge any disappointment you feel about a colleague or a team change, then look at the relationships that are still good. Not everything was lost.",
+        "km": "សូមទទួលស្គាល់ការខកចិត្តណាមួយ ដែលអ្នកមានចំពោះសហការី ឬការផ្លាស់ប្តូរក្នុងក្រុម បន្ទាប់មកសូមមើលទំនាក់ទំនងដែលនៅតែល្អ។ មិនមែនអ្វីៗទាំងអស់បានបាត់បង់នោះទេ។"
+      },
+      "challenge": {
+        "en": "Dwelling on a falling-out or a colleague who left could keep you from investing in the people still here. Grieve it, then turn around.",
+        "km": "ការគិតច្រើនពីការបែកបាក់ ឬសហការីដែលបានចាកចេញ អាចរារាំងអ្នកពីការវិនិយោគលើមនុស្សដែលនៅទីនេះ។ សូមកាន់ទុក្ខ បន្ទាប់មកងាកមកវិញ។"
+      },
+      "outcome": {
+        "en": "Letting go of an old disappointment could free you to build new connections. Remaining relationships may grow stronger.",
+        "km": "ការបោះបង់ការខកចិត្តចាស់ អាចធ្វើឱ្យអ្នកមានសេរីភាពកសាងទំនាក់ទំនងថ្មីៗ។ ទំនាក់ទំនងដែលនៅសល់ អាចកាន់តែរឹងមាំ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Reconnect with colleagues you used to get along with, or recall what made the team close before. Familiar kindness can rekindle goodwill.",
+        "km": "សូមភ្ជាប់ទំនាក់ទំនងឡើងវិញជាមួយសហការីដែលអ្នកធ្លាប់ចុះសម្រុងជាមួយ ឬរំលឹកពីអ្វីដែលធ្លាប់ធ្វើឱ្យក្រុមស្និទ្ធស្នាល។ សេចក្តីសប្បុរសដែលធ្លាប់ស្គាល់ អាចដុតបញ្ឆេះសុច្ឆន្ទៈឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Comparing your team unfavourably with how things used to be could make colleagues feel unappreciated. Value the people you work with as they are.",
+        "km": "ការប្រៀបធៀបក្រុមរបស់អ្នក ជាមួយរបៀបដែលអ្វីៗធ្លាប់មាន ដោយការមើលងាយ អាចធ្វើឱ្យសហការីមានអារម្មណ៍ថាមិនត្រូវបានគេកោតសរសើរ។ សូមឱ្យតម្លៃមនុស្សដែលអ្នកធ្វើការជាមួយ ដូចដែលពួកគេជា។"
+      },
+      "outcome": {
+        "en": "Simple acts of kindness could bring back a sense of warmth and trust. An old working friendship may be renewed.",
+        "km": "អំពើសប្បុរសសាមញ្ញៗ អាចនាំមកវិញនូវអារម្មណ៍កក់ក្តៅ និងការទុកចិត្ត។ មិត្តភាពការងារចាស់មួយ អាចត្រូវបានកសាងឡើងវិញ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Look at your colleagues as they really are rather than as you imagine them to be. Seeing people clearly is the first step to getting along.",
+        "km": "សូមមើលសហការីរបស់អ្នក តាមរបៀបដែលពួកគេពិតជាមាន ជាជាងតាមរបៀបដែលអ្នកស្រមៃ។ ការមើលឃើញមនុស្សយ៉ាងច្បាស់ គឺជាជំហានដំបូងដើម្បីចុះសម្រុងគ្នា។"
+      },
+      "challenge": {
+        "en": "Rumours and assumptions about what others think of you could distort every interaction. Find out what is true before you react to it.",
+        "km": "ពាក្យចចាមអារ៉ាម និងការសន្មតអំពីអ្វីដែលអ្នកដទៃគិតពីអ្នក អាចបង្ខូចរាល់ការប្រាស្រ័យទាក់ទង។ សូមស្វែងរកការពិត មុននឹងប្រតិកម្មចំពោះវា។"
+      },
+      "outcome": {
+        "en": "Clearing up a misunderstanding could show you who your real allies are. Relationships may rest on firmer ground.",
+        "km": "ការបំភ្លឺការយល់ច្រឡំ អាចបង្ហាញអ្នកថានរណាជាសម្ព័ន្ធមិត្តពិតរបស់អ្នក។ ទំនាក់ទំនងអាចឈរលើមូលដ្ឋានរឹងមាំជាងមុន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Step back from a working relationship that keeps draining you, and put your energy where it is returned. Some distance can be healthy.",
+        "km": "សូមដកខ្លួនបន្តិចចេញពីទំនាក់ទំនងការងារ ដែលបន្តធ្វើឱ្យអ្នកអស់កម្លាំង ហើយដាក់ថាមពលរបស់អ្នកទៅកន្លែងដែលវាត្រូវបានតបស្នង។ គម្លាតខ្លះ អាចជារឿងល្អ។"
+      },
+      "challenge": {
+        "en": "Walking away from every difficult colleague could leave you isolated. Some relationships are worth one more honest try.",
+        "km": "ការដើរចេញពីសហការីដែលពិបាកគ្រប់រូប អាចធ្វើឱ្យអ្នកនៅឯកោ។ ទំនាក់ទំនងខ្លះ សមនឹងការព្យាយាមដោយស្មោះត្រង់ម្តងទៀត។"
+      },
+      "outcome": {
+        "en": "Choosing where to invest yourself could lead to more fulfilling connections. Letting go of one tie may make room for better ones.",
+        "km": "ការជ្រើសរើសកន្លែងដែលត្រូវវិនិយោគខ្លួនឯង អាចនាំទៅរកទំនាក់ទំនងដែលពេញចិត្តជាងមុន។ ការលែងចំណងមួយ អាចបើកកន្លែងសម្រាប់ចំណងល្អជាង។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Appreciate the good relationships you already have at work, and let colleagues know you value them. Contentment is contagious.",
+        "km": "សូមកោតសរសើរទំនាក់ទំនងល្អដែលអ្នកមានរួចហើយនៅកន្លែងធ្វើការ ហើយប្រាប់សហការីថាអ្នកឱ្យតម្លៃពួកគេ។ ការពេញចិត្តឆ្លងពីមនុស្សម្នាក់ទៅម្នាក់។"
+      },
+      "challenge": {
+        "en": "Being so satisfied with your own position that you stop noticing others could make you seem smug. Keep paying attention to how colleagues are doing.",
+        "km": "ការពេញចិត្តនឹងជំហររបស់ខ្លួនឯងខ្លាំងពេក រហូតដល់ឈប់កត់សម្គាល់អ្នកដទៃ អាចធ្វើឱ្យអ្នកហាក់ដូចជាអួតខ្លួន។ សូមបន្តយកចិត្តទុកដាក់ពីស្ថានភាពរបស់សហការី។"
+      },
+      "outcome": {
+        "en": "Working relationships could feel satisfying and easy. You may find real pleasure in the people around you.",
+        "km": "ទំនាក់ទំនងការងារ អាចមានអារម្មណ៍ពេញចិត្ត និងងាយស្រួល។ អ្នកអាចរកឃើញសេចក្តីរីករាយពិតប្រាកដ ក្នុងចំណោមមនុស្សនៅជុំវិញអ្នក។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Help build a team where people feel they belong, by including everyone and caring about their wellbeing. Harmony grows from many small acts.",
+        "km": "សូមជួយកសាងក្រុមមួយ ដែលមនុស្សមានអារម្មណ៍ថាជាផ្នែកមួយ ដោយរាប់បញ្ចូលគ្រប់គ្នា និងយកចិត្តទុកដាក់ពីសុខុមាលភាពរបស់ពួកគេ។ ភាពសុខដុមរីកចម្រើនពីអំពើតូចៗជាច្រើន។"
+      },
+      "challenge": {
+        "en": "Avoiding every tension to keep the peace could let real problems stay hidden. True harmony includes honest conversations.",
+        "km": "ការជៀសវាងរាល់ភាពតានតឹង ដើម្បីរក្សាសន្តិភាព អាចធ្វើឱ្យបញ្ហាពិតប្រាកដនៅតែលាក់កំបាំង។ ភាពសុខដុមពិត រួមបញ្ចូលការសន្ទនាដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "The team could start to feel almost like a second family. A deep sense of belonging may grow for everyone.",
+        "km": "ក្រុមអាចចាប់ផ្តើមមានអារម្មណ៍ស្ទើរតែដូចគ្រួសារទីពីរ។ អារម្មណ៍ជ្រាលជ្រៅនៃការជាផ្នែកមួយ អាចរីកចម្រើនសម្រាប់មនុស្សគ្រប់គ្នា។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Express appreciation in small, thoughtful ways, such as a kind note or a word of thanks. Gentle gestures can soften even reserved colleagues.",
+        "km": "សូមបង្ហាញការកោតសរសើរតាមវិធីតូចៗ និងគិតគូរ ដូចជាកំណត់ត្រាសប្បុរស ឬពាក្យអរគុណ។ អំពើទន់ភ្លន់ អាចធ្វើឱ្យសូម្បីតែសហការីដែលស្ងៀមស្ងាត់ក៏ទន់ចិត្តដែរ។"
+      },
+      "challenge": {
+        "en": "Taking passing comments too personally could leave you hurt over things that were never meant unkindly. A quick friendly question can clear it up.",
+        "km": "ការយកមតិយោបល់ដែលនិយាយឆ្លងកាត់ មកគិតជារឿងផ្ទាល់ខ្លួនពេក អាចធ្វើឱ្យអ្នកឈឺចាប់ពីរឿងដែលមិនដែលមានចេតនាអាក្រក់។ សំណួររួសរាយខ្លីមួយ អាចបំភ្លឺរឿងនោះបាន។"
+      },
+      "outcome": {
+        "en": "A gentle gesture could open a surprisingly warm connection. Colleagues may begin to show you their softer side.",
+        "km": "អំពើទន់ភ្លន់មួយ អាចបើកទំនាក់ទំនងកក់ក្តៅគួរឱ្យភ្ញាក់ផ្អើល។ សហការីអាចចាប់ផ្តើមបង្ហាញផ្នែកទន់ភ្លន់របស់ពួកគេដល់អ្នក។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Offer encouragement and support to a colleague who needs it, following your heart about what would help. Sincere care is rarely forgotten.",
+        "km": "សូមផ្តល់ការលើកទឹកចិត្ត និងការគាំទ្រដល់សហការីដែលត្រូវការ ដោយធ្វើតាមបេះដូងរបស់អ្នកពីអ្វីដែលអាចជួយបាន។ ការយកចិត្តទុកដាក់ដោយស្មោះ កម្រត្រូវបានគេភ្លេចណាស់។"
+      },
+      "challenge": {
+        "en": "Letting moods decide how you treat people could make you hard to read. Aim to be kind in a steady, reliable way.",
+        "km": "ការឱ្យអារម្មណ៍សម្រេចពីរបៀបដែលអ្នកប្រព្រឹត្តចំពោះមនុស្ស អាចធ្វើឱ្យគេពិបាកយល់ពីអ្នក។ សូមប្រាថ្នាធ្វើជាមនុស្សសប្បុរស ដោយទៀងទាត់ និងគួរឱ្យទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Your kindness could be warmly returned and lift the mood around you. You may become known as someone with a good heart.",
+        "km": "សេចក្តីសប្បុរសរបស់អ្នក អាចត្រូវបានតបស្នងវិញយ៉ាងកក់ក្តៅ ហើយលើកស្ទួយអារម្មណ៍នៅជុំវិញអ្នក។ អ្នកអាចត្រូវបានគេស្គាល់ថាជាមនុស្សមានចិត្តល្អ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Listen with real empathy when colleagues share their worries, and notice how others are feeling. Being understood is something people remember.",
+        "km": "សូមស្តាប់ដោយការយល់ចិត្តពិតប្រាកដ នៅពេលសហការីចែករំលែកកង្វល់របស់ពួកគេ ហើយកត់សម្គាល់ពីអារម្មណ៍របស់អ្នកដទៃ។ ការត្រូវបានគេយល់ គឺជារឿងដែលមនុស្សចងចាំ។"
+      },
+      "challenge": {
+        "en": "Absorbing everyone's problems could leave you emotionally worn out. Care for others without carrying all their burdens.",
+        "km": "ការស្រូបយកបញ្ហារបស់មនុស្សគ្រប់គ្នា អាចធ្វើឱ្យអ្នកអស់កម្លាំងផ្លូវចិត្ត។ សូមយកចិត្តទុកដាក់អ្នកដទៃ ដោយមិនលីបន្ទុកទាំងអស់របស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "You could become a trusted, calming presence on the team. People may feel safe being honest with you.",
+        "km": "អ្នកអាចក្លាយជាវត្តមានដែលគេទុកចិត្ត និងធ្វើឱ្យស្ងប់ចិត្តក្នុងក្រុម។ មនុស្សអាចមានអារម្មណ៍សុវត្ថិភាព ក្នុងការនិយាយដោយស្មោះត្រង់ជាមួយអ្នក។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Stay calm and fair when emotions run high, and help colleagues talk things through. Steady kindness can settle tense situations.",
+        "km": "សូមរក្សាភាពស្ងប់ស្ងាត់ និងយុត្តិធម៌ នៅពេលអារម្មណ៍ឡើងខ្ពស់ ហើយជួយសហការីឱ្យនិយាយរឿងរ៉ាវឱ្យច្បាស់។ សេចក្តីសប្បុរសដ៏ខ្ជាប់ខ្ជួន អាចធ្វើឱ្យស្ថានភាពតានតឹងស្ងប់ស្ងាត់។"
+      },
+      "challenge": {
+        "en": "Keeping your own feelings bottled up while managing everyone else's could build quiet resentment. Make space for your needs too.",
+        "km": "ការទប់អារម្មណ៍ខ្លួនឯង ខណៈដែលគ្រប់គ្រងអារម្មណ៍របស់អ្នកដទៃ អាចបង្កើតការអន់ចិត្តដោយស្ងាត់ៗ។ សូមទុកកន្លែងសម្រាប់តម្រូវការរបស់អ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Your balanced approach could earn deep respect from colleagues. You may become the person who keeps the team steady.",
+        "km": "វិធីសាស្ត្រមានតុល្យភាពរបស់អ្នក អាចទទួលបានការគោរពយ៉ាងជ្រាលជ្រៅពីសហការី។ អ្នកអាចក្លាយជាមនុស្សដែលរក្សាក្រុមឱ្យនឹងនរ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Speak clearly and honestly about what is not working between you and a colleague. A calm, direct conversation can clear the air.",
+        "km": "សូមនិយាយឱ្យច្បាស់ និងស្មោះត្រង់ អំពីអ្វីដែលមិនដំណើរការរវាងអ្នក និងសហការី។ ការសន្ទនាដោយស្ងប់ស្ងាត់ និងត្រង់ៗ អាចធ្វើឱ្យបរិយាកាសស្រឡះ។"
+      },
+      "challenge": {
+        "en": "Using sharp words to win a point could leave a colleague wounded and defensive. Aim for truth with tact.",
+        "km": "ការប្រើពាក្យមុតស្រួចដើម្បីឈ្នះចំណុចមួយ អាចធ្វើឱ្យសហការីឈឺចាប់ ហើយការពារខ្លួន។ សូមប្រាថ្នាការពិតដែលមានវិធីនិយាយសមរម្យ។"
+      },
+      "outcome": {
+        "en": "Honest talk could break through a long misunderstanding with a colleague. A clearer, more respectful relationship may follow.",
+        "km": "ការនិយាយដោយស្មោះត្រង់ អាចទម្លុះការយល់ច្រឡំដែលអូសបន្លាយជាមួយសហការី។ ទំនាក់ទំនងច្បាស់លាស់ និងគោរពគ្នាជាងមុន អាចកើតឡើងបន្ទាប់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Notice where you and a colleague have been avoiding a topic, and gently open it up. Staying neutral forever rarely solves anything.",
+        "km": "សូមកត់សម្គាល់កន្លែងដែលអ្នក និងសហការីបានជៀសវាងប្រធានបទមួយ ហើយបើកវាឡើងដោយទន់ភ្លន់។ ការនៅអព្យាក្រឹតជារៀងរហូត កម្រដោះស្រាយអ្វីបាន។"
+      },
+      "challenge": {
+        "en": "Refusing to take a side or share your view could leave colleagues frustrated with you. Silence can look like indifference.",
+        "km": "ការបដិសេធមិនជ្រើសរើសភាគី ឬចែករំលែកទស្សនៈរបស់អ្នក អាចធ្វើឱ្យសហការីខកចិត្តនឹងអ្នក។ ភាពស្ងៀមស្ងាត់ អាចមើលទៅដូចជាការព្រងើយកន្តើយ។"
+      },
+      "outcome": {
+        "en": "Facing a stalemate together could lead to a fair compromise. The tension between you may finally ease.",
+        "km": "ការប្រឈមមុខនឹងភាពជាប់គាំងជាមួយគ្នា អាចនាំទៅរកការសម្របសម្រួលដ៏យុត្តិធម៌។ ភាពតានតឹងរវាងអ្នក អាចធូរស្រាលនៅទីបំផុត។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Acknowledge if a colleague's words or actions have hurt you, rather than pretending they did not. If it keeps happening, consider speaking to a manager or human resources.",
+        "km": "សូមទទួលស្គាល់ ប្រសិនបើពាក្យសម្តី ឬសកម្មភាពរបស់សហការីបានធ្វើឱ្យអ្នកឈឺចាប់ ជាជាងធ្វើពុតថាវាមិនមាន។ ប្រសិនបើវាបន្តកើតឡើង សូមពិចារណានិយាយជាមួយអ្នកគ្រប់គ្រង ឬផ្នែកធនធានមនុស្ស។"
+      },
+      "challenge": {
+        "en": "Holding on to a hurtful remark could colour every interaction with that person. Address it or let it go, but do not let it fester.",
+        "km": "ការចងចាំសម្តីឈឺចាប់មួយ អាចធ្វើឱ្យរាល់ការប្រាស្រ័យទាក់ទងជាមួយមនុស្សនោះមានពណ៌អាក្រក់។ សូមដោះស្រាយវា ឬបោះបង់វា តែកុំឱ្យវាក្លាយជាដំបៅ។"
+      },
+      "outcome": {
+        "en": "Facing the hurt honestly could clear the way for healing at work. A painful episode may become easier to move past.",
+        "km": "ការប្រឈមមុខនឹងការឈឺចាប់ដោយស្មោះត្រង់ អាចបើកផ្លូវសម្រាប់ការព្យាបាលនៅកន្លែងធ្វើការ។ ហេតុការណ៍ឈឺចាប់មួយ អាចកាន់តែងាយស្រួលឆ្លងកាត់។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Give yourself some quiet space before reacting to a tense situation with a colleague. A rested mind handles people better.",
+        "km": "សូមផ្តល់ពេលស្ងប់ស្ងាត់ខ្លះដល់ខ្លួនឯង មុននឹងប្រតិកម្មចំពោះស្ថានភាពតានតឹងជាមួយសហការី។ ចិត្តដែលបានសម្រាក ដោះស្រាយជាមួយមនុស្សបានល្អជាង។"
+      },
+      "challenge": {
+        "en": "Withdrawing for too long could make colleagues think you have given up on them. Rest, then return to the conversation.",
+        "km": "ការដកខ្លួនយូរពេក អាចធ្វើឱ្យសហការីគិតថាអ្នកបានបោះបង់ពួកគេ។ សូមសម្រាក បន្ទាប់មកត្រឡប់មកការសន្ទនាវិញ។"
+      },
+      "outcome": {
+        "en": "A calmer approach could lower the temperature in the team. Pausing before you respond may prevent new conflicts.",
+        "km": "វិធីសាស្ត្រស្ងប់ស្ងាត់ជាងមុន អាចបន្ថយភាពក្តៅគគុកក្នុងក្រុម។ ការផ្អាកមុននឹងឆ្លើយតប អាចការពារជម្លោះថ្មីៗ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Ask yourself whether winning a particular argument is worth the damage to a working relationship. Sometimes stepping back is the stronger move.",
+        "km": "សូមសួរខ្លួនឯងថា តើការឈ្នះការជជែកមួយ សមនឹងការខូចខាតដល់ទំនាក់ទំនងការងារដែរឬទេ។ ពេលខ្លះ ការដកថយគឺជាចលនាដែលខ្លាំងជាង។"
+      },
+      "challenge": {
+        "en": "Scoring points against colleagues could leave you right but alone. A victory that costs trust is rarely worth it.",
+        "km": "ការរកពិន្ទុប្រឆាំងនឹងសហការី អាចធ្វើឱ្យអ្នកត្រូវ តែនៅម្នាក់ឯង។ ជ័យជម្នះដែលចំណាយការទុកចិត្ត កម្រមានតម្លៃណាស់។"
+      },
+      "outcome": {
+        "en": "Letting go of a pointless rivalry could bring peace back to the team. Respect may return once the contest ends.",
+        "km": "ការបោះបង់ការប្រជែងដែលគ្មានន័យ អាចនាំសន្តិភាពមកក្រុមវិញ។ ការគោរពអាចត្រឡប់មកវិញ នៅពេលការប្រកួតបញ្ចប់។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Move on from an old conflict and treat colleagues with a fresh start where you can. Leaving past tensions behind lightens everyone's load.",
+        "km": "សូមបន្តទៅមុខពីជម្លោះចាស់ ហើយប្រព្រឹត្តចំពោះសហការីដោយការចាប់ផ្តើមថ្មី នៅកន្លែងដែលអ្នកអាចធ្វើបាន។ ការទុកភាពតានតឹងចាស់ៗនៅពីក្រោយ បន្ធូរបន្ទុករបស់មនុស្សគ្រប់គ្នា។"
+      },
+      "challenge": {
+        "en": "Carrying old grudges into a new team or project could repeat the same problems. Leave what belongs behind.",
+        "km": "ការយកការចងគំនុំចាស់ៗចូលទៅក្នុងក្រុម ឬគម្រោងថ្មី អាចធ្វើឱ្យបញ្ហាដដែលៗកើតឡើងម្តងទៀត។ សូមទុកអ្វីដែលគួរទុកនៅពីក្រោយ។"
+      },
+      "outcome": {
+        "en": "Calmer working relationships could follow a period of strain. You may find smoother waters with the people around you.",
+        "km": "ទំនាក់ទំនងការងារដែលស្ងប់ស្ងាត់ជាង អាចកើតឡើងបន្ទាប់ពីដំណាក់កាលតានតឹង។ អ្នកអាចរកឃើញទឹករលូនជាងមុន ជាមួយមនុស្សនៅជុំវិញអ្នក។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Be open about your intentions and avoid working around colleagues behind their backs. Transparency is the foundation of trust at work.",
+        "km": "សូមបើកចំហអំពីចេតនារបស់អ្នក ហើយជៀសវាងការធ្វើការគេចពីសហការីនៅពីក្រោយខ្នងពួកគេ។ តម្លាភាព គឺជាគ្រឹះនៃការទុកចិត្តនៅកន្លែងធ្វើការ។"
+      },
+      "challenge": {
+        "en": "Someone taking shortcuts or bending the truth could be quietly undermining the team. Stay alert without becoming suspicious of everyone.",
+        "km": "នរណាម្នាក់ដែលដើរផ្លូវកាត់ ឬបង្វែរការពិត អាចកំពុងបំផ្លាញក្រុមដោយស្ងាត់ៗ។ សូមប្រុងប្រយ័ត្ន ដោយមិនសង្ស័យមនុស្សគ្រប់គ្នា។"
+      },
+      "outcome": {
+        "en": "Being straightforward could set you apart and earn lasting respect. Hidden agendas may come to light and lose their power.",
+        "km": "ភាពត្រង់ៗ អាចធ្វើឱ្យអ្នកលេចធ្លោ ហើយទទួលបានការគោរពយូរអង្វែង។ គម្រោងលាក់កំបាំង អាចលេចចេញមក ហើយបាត់បង់អំណាច។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel stuck in a difficult dynamic with colleagues, but you have more choices than it seems. Look for one small step that changes the pattern.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់គាំងក្នុងស្ថានភាពលំបាកជាមួយសហការី តែអ្នកមានជម្រើសច្រើនជាងអ្វីដែលហាក់ដូចជា។ សូមរកជំហានតូចមួយ ដែលផ្លាស់ប្តូរលំនាំ។"
+      },
+      "challenge": {
+        "en": "Believing nothing can change could stop you from trying anything new. If you feel trapped or mistreated, reach out to someone you trust for support.",
+        "km": "ជំនឿថាគ្មានអ្វីអាចផ្លាស់ប្តូរបាន អាចរារាំងអ្នកពីការសាកល្បងអ្វីថ្មី។ ប្រសិនបើអ្នកមានអារម្មណ៍ជាប់អន្ទាក់ ឬត្រូវបានគេធ្វើបាប សូមទាក់ទងនរណាម្នាក់ដែលអ្នកទុកចិត្ត ដើម្បីទទួលការគាំទ្រ។"
+      },
+      "outcome": {
+        "en": "Seeing your options clearly could free you from a frustrating situation. Relations may loosen once you act.",
+        "km": "ការមើលឃើញជម្រើសរបស់អ្នកយ៉ាងច្បាស់ អាចដោះលែងអ្នកពីស្ថានភាពដែលគួរឱ្យខកចិត្ត។ ទំនាក់ទំនងអាចធូរស្រាល នៅពេលអ្នកចាត់វិធានការ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Notice if worry about what colleagues think is keeping you awake or on edge. Talking it over with someone you trust can ease the weight.",
+        "km": "សូមកត់សម្គាល់ ប្រសិនបើការព្រួយបារម្ភពីអ្វីដែលសហការីគិត កំពុងធ្វើឱ្យអ្នកដេកមិនលក់ ឬតានតឹង។ ការនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត អាចបន្ធូរទម្ងន់។"
+      },
+      "challenge": {
+        "en": "Imagining the worst about every look or comment could make work feel hostile when it is not. If the anxiety grows heavy, consider speaking to a counsellor.",
+        "km": "ការស្រមៃរឿងអាក្រក់បំផុតពីរាល់ការក្រឡេកមើល ឬមតិយោបល់ អាចធ្វើឱ្យការងារហាក់ដូចជាប្រកាន់ ទោះបីវាមិនមែនក៏ដោយ។ ប្រសិនបើការថប់បារម្ភកាន់តែធ្ងន់ សូមពិចារណានិយាយជាមួយអ្នកប្រឹក្សា។"
+      },
+      "outcome": {
+        "en": "Checking your fears against reality could bring real relief. Colleagues may turn out to think better of you than you feared.",
+        "km": "ការពិនិត្យការភ័យខ្លាចរបស់អ្នក ជាមួយការពិត អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។ សហការីអាចគិតល្អពីអ្នក ជាងអ្វីដែលអ្នកខ្លាច។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "If a working relationship has broken down completely, accept that it may not return to how it was. If you are being treated badly, speak to human resources or a trusted adviser.",
+        "km": "ប្រសិនបើទំនាក់ទំនងការងារមួយបានបែកបាក់ទាំងស្រុង សូមទទួលយកថាវាប្រហែលជាមិនត្រឡប់ទៅដូចមុនវិញទេ។ ប្រសិនបើអ្នកកំពុងត្រូវបានគេប្រព្រឹត្តមិនល្អ សូមនិយាយជាមួយផ្នែកធនធានមនុស្ស ឬទីប្រឹក្សាដែលអ្នកទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Replaying a painful conflict over and over could keep the wound open long after the argument ended. Let the hardest part be behind you.",
+        "km": "ការរំលឹកជម្លោះឈឺចាប់ម្តងហើយម្តងទៀត អាចធ្វើឱ្យរបួសនៅតែបើក យូរបន្ទាប់ពីការឈ្លោះបានបញ្ចប់។ សូមឱ្យផ្នែកដែលលំបាកបំផុតនៅពីក្រោយអ្នក។"
+      },
+      "outcome": {
+        "en": "Reaching the end of a bad situation could make way for a fresh start. Things may improve once the lowest point has passed.",
+        "km": "ការឈានដល់ទីបញ្ចប់នៃស្ថានភាពអាក្រក់ អាចបើកផ្លូវសម្រាប់ការចាប់ផ្តើមថ្មី។ អ្វីៗអាចប្រសើរឡើង នៅពេលចំណុចទាបបំផុតបានកន្លងផុត។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Pay attention to the unspoken tensions and team dynamics around you, and ask thoughtful questions. Understanding the undercurrents helps you avoid missteps.",
+        "km": "សូមយកចិត្តទុកដាក់ចំពោះភាពតានតឹងដែលមិនបាននិយាយ និងចលនាក្រុមនៅជុំវិញអ្នក ហើយសួរសំណួរដែលគិតគូរ។ ការយល់ពីចរន្តលាក់កំបាំង ជួយអ្នកជៀសវាងការដើរខុស។"
+      },
+      "challenge": {
+        "en": "Passing on gossip, even harmless-seeming news, could damage trust quickly. Keep confidences and stay out of rumours.",
+        "km": "ការបញ្ជូនពាក្យចចាមអារ៉ាម សូម្បីតែដំណឹងដែលហាក់ដូចជាគ្មានគ្រោះថ្នាក់ អាចបំផ្លាញការទុកចិត្តយ៉ាងរហ័ស។ សូមរក្សាការសម្ងាត់ ហើយនៅឆ្ងាយពីពាក្យចចាមអារ៉ាម។"
+      },
+      "outcome": {
+        "en": "Your careful observation could help you understand colleagues far better. You may become known as someone who can be trusted with sensitive matters.",
+        "km": "ការសង្កេតដោយប្រុងប្រយ័ត្នរបស់អ្នក អាចជួយអ្នកឱ្យយល់ពីសហការីបានល្អជាងមុនឆ្ងាយ។ អ្នកអាចត្រូវបានគេស្គាល់ថាជាមនុស្សដែលអាចទុកចិត្តលើរឿងរសើប។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Raise problems directly and quickly rather than letting them pile up, but think about how your words will land. Speed and kindness can go together.",
+        "km": "សូមលើកបញ្ហាឡើងដោយផ្ទាល់ និងរហ័ស ជាជាងទុកឱ្យវាគរ តែសូមគិតពីរបៀបដែលពាក្យរបស់អ្នកនឹងត្រូវបានទទួល។ ល្បឿន និងសេចក្តីសប្បុរស អាចទៅជាមួយគ្នាបាន។"
+      },
+      "challenge": {
+        "en": "Rushing into a confrontation could turn a small issue into a bigger fight. Cool down before you challenge someone.",
+        "km": "ការប្រញាប់ចូលការប្រឈមមុខដាក់គ្នា អាចប្រែបញ្ហាតូចមួយទៅជាការឈ្លោះធំជាង។ សូមឱ្យចិត្តត្រជាក់ មុននឹងជំទាស់នរណាម្នាក់។"
+      },
+      "outcome": {
+        "en": "Addressing issues head-on could earn you respect for honesty. Problems may get solved before they grow.",
+        "km": "ការដោះស្រាយបញ្ហាដោយផ្ទាល់ អាចនាំឱ្យអ្នកទទួលបានការគោរពចំពោះភាពស្មោះត្រង់។ បញ្ហាអាចត្រូវបានដោះស្រាយ មុនពេលវារីកធំ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Set clear boundaries with colleagues and say plainly what you will and will not accept. Honest limits make relationships healthier.",
+        "km": "សូមកំណត់ព្រំដែនច្បាស់លាស់ជាមួយសហការី ហើយនិយាយឱ្យច្បាស់ពីអ្វីដែលអ្នកនឹងទទួលយក និងមិនទទួលយក។ ដែនកំណត់ស្មោះត្រង់ ធ្វើឱ្យទំនាក់ទំនងកាន់តែមានសុខភាពល្អ។"
+      },
+      "challenge": {
+        "en": "Being too cool or critical could make colleagues reluctant to approach you. Let a little warmth soften your honesty.",
+        "km": "ការត្រជាក់ ឬរិះគន់ខ្លាំងពេក អាចធ្វើឱ្យសហការីស្ទាក់ស្ទើរក្នុងការចូលមករកអ្នក។ សូមឱ្យភាពកក់ក្តៅបន្តិច ធ្វើឱ្យភាពស្មោះត្រង់របស់អ្នកទន់ភ្លន់។"
+      },
+      "outcome": {
+        "en": "Clear expectations could make your working relationships fairer and calmer. People may respect you more for being straightforward.",
+        "km": "ការរំពឹងទុកច្បាស់លាស់ អាចធ្វើឱ្យទំនាក់ទំនងការងាររបស់អ្នក កាន់តែយុត្តិធម៌ និងស្ងប់ស្ងាត់។ មនុស្សអាចគោរពអ្នកកាន់តែច្រើន ដោយសារអ្នកនិយាយត្រង់ៗ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Treat every colleague fairly and make decisions based on facts rather than favourites. A reputation for fairness builds steady trust.",
+        "km": "សូមប្រព្រឹត្តចំពោះសហការីគ្រប់រូបដោយយុត្តិធម៌ ហើយធ្វើការសម្រេចចិត្តផ្អែកលើការពិត ជាជាងការលម្អៀង។ កេរ្តិ៍ឈ្មោះនៃភាពយុត្តិធម៌ កសាងការទុកចិត្តដ៏ខ្ជាប់ខ្ជួន។"
+      },
+      "challenge": {
+        "en": "Relying only on logic could make you seem distant when someone needs understanding. Remember there are feelings behind every problem.",
+        "km": "ការពឹងផ្អែកតែលើតក្កវិជ្ជា អាចធ្វើឱ្យអ្នកហាក់ដូចជានៅឆ្ងាយ នៅពេលនរណាម្នាក់ត្រូវការការយល់ចិត្ត។ សូមចងចាំថា មានអារម្មណ៍នៅពីក្រោយរាល់បញ្ហា។"
+      },
+      "outcome": {
+        "en": "You could become the person colleagues trust to settle disagreements fairly. Your judgement may carry real weight.",
+        "km": "អ្នកអាចក្លាយជាមនុស្សដែលសហការីទុកចិត្ត ឱ្យដោះស្រាយការខ្វែងគំនិតដោយយុត្តិធម៌។ ការវិនិច្ឆ័យរបស់អ្នក អាចមានទម្ងន់ពិតប្រាកដ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Make a small, practical offer of help, like sharing a useful resource or covering a task for a busy colleague. Concrete kindness lays a solid foundation.",
+        "km": "សូមផ្តល់ជំនួយជាក់ស្តែងតូចមួយ ដូចជាការចែករំលែកធនធានមានប្រយោជន៍ ឬជួយធ្វើកិច្ចការជំនួសសហការីដែលមមាញឹក។ សេចក្តីសប្បុរសជាក់ស្តែង ចាក់គ្រឹះដ៏រឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Waiting for the perfect moment to reach out could mean the chance never comes. A modest start is better than none.",
+        "km": "ការរង់ចាំឱកាសល្អឥតខ្ចោះដើម្បីទាក់ទង អាចមានន័យថាឱកាសនោះមិនដែលមកដល់។ ការចាប់ផ្តើមតិចតួច ប្រសើរជាងគ្មានអ្វីសោះ។"
+      },
+      "outcome": {
+        "en": "A simple practical gesture could grow into a reliable working bond. Trust may build on something real and lasting.",
+        "km": "អំពើជាក់ស្តែងសាមញ្ញមួយ អាចរីកធំទៅជាចំណងការងារដែលគួរឱ្យទុកចិត្ត។ ការទុកចិត្តអាចកសាងឡើងលើអ្វីដែលពិតប្រាកដ និងយូរអង្វែង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Balance your own workload with time for colleagues, so neither suffers. Being flexible and adaptable makes you easier to work with.",
+        "km": "សូមធ្វើឱ្យមានតុល្យភាពរវាងបន្ទុកការងាររបស់អ្នក និងពេលវេលាសម្រាប់សហការី ដើម្បីកុំឱ្យខាងណាមួយរងការខូចខាត។ ការបត់បែន និងសម្របខ្លួន ធ្វើឱ្យគេងាយធ្វើការជាមួយអ្នក។"
+      },
+      "challenge": {
+        "en": "Juggling too many demands could make you short with people or forget promises. Say honestly when you cannot take on more.",
+        "km": "ការដោះស្រាយតម្រូវការច្រើនពេកក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នកនិយាយខ្លីៗជាមួយមនុស្ស ឬភ្លេចការសន្យា។ សូមនិយាយដោយស្មោះត្រង់ នៅពេលអ្នកមិនអាចទទួលបន្ថែមទៀតបាន។"
+      },
+      "outcome": {
+        "en": "Finding a good rhythm could let you be helpful without feeling stretched. Colleagues may value how dependable you are.",
+        "km": "ការរកឃើញចង្វាក់ល្អ អាចឱ្យអ្នកជួយបាន ដោយមិនមានអារម្មណ៍ថាតឹងតែង។ សហការីអាចឱ្យតម្លៃលើភាពដែលអ្នកអាចពឹងផ្អែកបាន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Work side by side on a shared task and value what each person brings to it. Collaboration on real work builds respect faster than talk.",
+        "km": "សូមធ្វើការក្បែរគ្នាលើកិច្ចការរួម ហើយឱ្យតម្លៃលើអ្វីដែលមនុស្សម្នាក់ៗនាំមក។ កិច្ចសហការលើការងារពិតប្រាកដ កសាងការគោរពបានលឿនជាងការនិយាយ។"
+      },
+      "challenge": {
+        "en": "Insisting on doing things your way could make others feel their skills do not count. Leave room for different methods.",
+        "km": "ការទទូចឱ្យធ្វើតាមវិធីរបស់អ្នក អាចធ្វើឱ្យអ្នកដទៃមានអារម្មណ៍ថាជំនាញរបស់ពួកគេគ្មានតម្លៃ។ សូមទុកកន្លែងសម្រាប់វិធីសាស្ត្រខុសៗគ្នា។"
+      },
+      "outcome": {
+        "en": "Good teamwork could produce results everyone is proud of. Respect may grow naturally from working well together.",
+        "km": "ការងារជាក្រុមល្អ អាចបង្កើតលទ្ធផលដែលមនុស្សគ្រប់គ្នាមានមោទនភាព។ ការគោរពអាចរីកចម្រើនដោយធម្មជាតិ ពីការធ្វើការជាមួយគ្នាបានល្អ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Share information, tools and knowledge freely rather than guarding them. Openness with what you know makes colleagues trust you.",
+        "km": "សូមចែករំលែកព័ត៌មាន ឧបករណ៍ និងចំណេះដឹងដោយសេរី ជាជាងការរក្សាទុកតែម្នាក់ឯង។ ការបើកចំហជាមួយអ្វីដែលអ្នកដឹង ធ្វើឱ្យសហការីទុកចិត្តអ្នក។"
+      },
+      "challenge": {
+        "en": "Holding tightly to your role or territory could make others see you as a barrier. Protecting your position too hard can cost goodwill.",
+        "km": "ការកាន់ក្តាប់តួនាទី ឬដែនរបស់អ្នកខ្លាំងពេក អាចធ្វើឱ្យអ្នកដទៃមើលឃើញអ្នកជាឧបសគ្គ។ ការការពារជំហររបស់អ្នកខ្លាំងពេក អាចបាត់បង់សុច្ឆន្ទៈ។"
+      },
+      "outcome": {
+        "en": "Loosening your grip could make you a more valued member of the team. Shared knowledge may come back to you in kind.",
+        "km": "ការបន្ធូរការកាន់ក្តាប់ អាចធ្វើឱ្យអ្នកក្លាយជាសមាជិកក្រុមដែលមានតម្លៃជាងមុន។ ចំណេះដឹងដែលបានចែករំលែក អាចត្រឡប់មករកអ្នកវិញក្នុងទម្រង់ស្រដៀងគ្នា។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Notice any colleague who seems left out or struggling, and include them. If you feel excluded yourself, reach out to one friendly person.",
+        "km": "សូមកត់សម្គាល់សហការីណាម្នាក់ ដែលហាក់ដូចជាត្រូវបានទុកចោល ឬកំពុងជួបការលំបាក ហើយរាប់បញ្ចូលពួកគេ។ ប្រសិនបើអ្នកខ្លួនឯងមានអារម្មណ៍ថាត្រូវបានគេមិនរាប់បញ្ចូល សូមទាក់ទងមនុស្សរួសរាយម្នាក់។"
+      },
+      "challenge": {
+        "en": "Feeling like an outsider could make you hold back from the very people who might help. Support is often closer than it seems.",
+        "km": "អារម្មណ៍ថាជាមនុស្សខាងក្រៅ អាចធ្វើឱ្យអ្នកទប់ខ្លួនពីមនុស្សដែលប្រហែលជាអាចជួយ។ ការគាំទ្រ ជារឿយៗនៅជិតជាងអ្វីដែលហាក់ដូចជា។"
+      },
+      "outcome": {
+        "en": "Reaching out in a hard stretch could reveal colleagues ready to support you. Difficulty shared may bring people closer.",
+        "km": "ការលាតដៃទៅរកគេក្នុងដំណាក់កាលលំបាក អាចបង្ហាញសហការីដែលត្រៀមខ្លួនគាំទ្រអ្នក។ ការលំបាកដែលបានចែករំលែក អាចនាំមនុស្សឱ្យកាន់តែជិតគ្នា។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Give your time and help generously, and accept help gracefully when it is offered. Fair give and take keeps relationships balanced.",
+        "km": "សូមផ្តល់ពេលវេលា និងជំនួយរបស់អ្នកដោយចិត្តទូលាយ ហើយទទួលយកជំនួយដោយសុភាព នៅពេលគេផ្តល់ឱ្យ។ ការផ្តល់ និងទទួលដោយយុត្តិធម៌ រក្សាទំនាក់ទំនងឱ្យមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Keeping score of every favour could make relationships feel like transactions. Help because you want to, not to be owed.",
+        "km": "ការរាប់រាល់ការជួយគ្នា អាចធ្វើឱ្យទំនាក់ទំនងមានអារម្មណ៍ដូចជាការដោះដូរ។ សូមជួយព្រោះអ្នកចង់ មិនមែនដើម្បីឱ្យគេជំពាក់។"
+      },
+      "outcome": {
+        "en": "Mutual support could become a natural part of how your team works. Generosity may be returned when you need it most.",
+        "km": "ការគាំទ្រគ្នាទៅវិញទៅមក អាចក្លាយជាផ្នែកធម្មជាតិនៃរបៀបដែលក្រុមរបស់អ្នកធ្វើការ។ ចិត្តទូលាយ អាចត្រូវបានតបស្នងវិញនៅពេលអ្នកត្រូវការបំផុត។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Keep investing patiently in a working relationship that is slow to warm up. Trust often grows quietly, one reliable action after another.",
+        "km": "សូមបន្តវិនិយោគដោយអត់ធ្មត់ លើទំនាក់ទំនងការងារដែលយឺតក្នុងការកក់ក្តៅ។ ការទុកចិត្ត ជារឿយៗរីកចម្រើនដោយស្ងាត់ៗ តាមរយៈសកម្មភាពគួរឱ្យទុកចិត្តម្តងមួយៗ។"
+      },
+      "challenge": {
+        "en": "Expecting colleagues to warm to you straight away could lead to frustration and giving up too early. Good relationships take patience.",
+        "km": "ការរំពឹងថាសហការីនឹងរាក់ទាក់ជាមួយអ្នកភ្លាមៗ អាចនាំឱ្យខកចិត្ត ហើយបោះបង់មុនពេល។ ទំនាក់ទំនងល្អ ត្រូវការការអត់ធ្មត់។"
+      },
+      "outcome": {
+        "en": "Steady effort could pay off in a relationship that lasts. Patience may turn a cool colleague into a firm ally.",
+        "km": "ការខិតខំជាប់លាប់ អាចទទួលបានផលជាទំនាក់ទំនងដែលស្ថិតស្ថេរ។ ការអត់ធ្មត់ អាចប្រែសហការីដែលត្រជាក់ ឱ្យក្លាយជាសម្ព័ន្ធមិត្តដ៏រឹងមាំ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Do your share of the work carefully and well, so colleagues know they can rely on you. Quality and consistency earn quiet respect.",
+        "km": "សូមធ្វើចំណែកការងាររបស់អ្នកដោយយកចិត្តទុកដាក់ និងល្អ ដើម្បីឱ្យសហការីដឹងថាពួកគេអាចពឹងផ្អែកលើអ្នក។ គុណភាព និងភាពជាប់លាប់ ទទួលបានការគោរពដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Burying yourself in your own tasks could leave you cut off from the team. Look up from the work and connect with people.",
+        "km": "ការផ្ចង់អារម្មណ៍តែលើកិច្ចការផ្ទាល់ខ្លួន អាចធ្វើឱ្យអ្នកដាច់ចេញពីក្រុម។ សូមងើបមុខពីការងារ ហើយភ្ជាប់ទំនាក់ទំនងជាមួយមនុស្ស។"
+      },
+      "outcome": {
+        "en": "Your reliability could make you someone everyone wants on their team. Respect for your work may open warmer connections too.",
+        "km": "ភាពគួរឱ្យទុកចិត្តរបស់អ្នក អាចធ្វើឱ្យអ្នកក្លាយជាមនុស្សដែលគ្រប់គ្នាចង់មាននៅក្នុងក្រុម។ ការគោរពចំពោះការងាររបស់អ្នក អាចបើកទំនាក់ទំនងកក់ក្តៅជាងមុនផងដែរ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Bring your confidence and independence to the team without holding yourself apart. Self-assured people who still join in are easy to respect.",
+        "km": "សូមនាំទំនុកចិត្ត និងឯករាជ្យភាពរបស់អ្នក មកកាន់ក្រុម ដោយមិនដាក់ខ្លួនឱ្យនៅដាច់ដោយឡែក។ មនុស្សដែលជឿជាក់លើខ្លួនឯង ហើយនៅតែចូលរួម គឺងាយស្រួលគោរព។"
+      },
+      "challenge": {
+        "en": "Preferring to manage everything alone could make colleagues feel unneeded. Let others contribute even when you could do it yourself.",
+        "km": "ការចូលចិត្តគ្រប់គ្រងអ្វីៗទាំងអស់ម្នាក់ឯង អាចធ្វើឱ្យសហការីមានអារម្មណ៍ថាមិនត្រូវការ។ សូមឱ្យអ្នកដទៃចូលរួម ទោះបីអ្នកអាចធ្វើវាដោយខ្លួនឯងក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Your independence could be balanced by warm ties with those around you. You may enjoy both freedom and belonging.",
+        "km": "ឯករាជ្យភាពរបស់អ្នក អាចមានតុល្យភាពជាមួយចំណងកក់ក្តៅជាមួយអ្នកនៅជុំវិញ។ អ្នកអាចរីករាយទាំងសេរីភាព និងការជាផ្នែកមួយ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Think of your team as a long-term community and help build traditions of support. Lasting relationships make work feel secure.",
+        "km": "សូមគិតពីក្រុមរបស់អ្នកជាសហគមន៍យូរអង្វែង ហើយជួយកសាងទម្លាប់នៃការគាំទ្រគ្នា។ ទំនាក់ទំនងយូរអង្វែង ធ្វើឱ្យការងារមានអារម្មណ៍សុវត្ថិភាព។"
+      },
+      "challenge": {
+        "en": "Sticking to how things have always been done could shut out newer colleagues. Welcome fresh faces into the group.",
+        "km": "ការប្រកាន់ខ្ជាប់នូវរបៀបដែលអ្វីៗតែងតែត្រូវបានធ្វើ អាចបិទទ្វារលើសហការីថ្មីៗ។ សូមស្វាគមន៍មុខថ្មីៗចូលក្រុម។"
+      },
+      "outcome": {
+        "en": "The team could become a stable, supportive community you feel part of. Strong ties may hold steady through change.",
+        "km": "ក្រុមអាចក្លាយជាសហគមន៍មានស្ថិរភាព និងគាំទ្រគ្នា ដែលអ្នកមានអារម្មណ៍ថាជាផ្នែកមួយ។ ចំណងដ៏រឹងមាំ អាចនៅនឹងនរ ទោះមានការផ្លាស់ប្តូរ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Be willing to learn from colleagues, asking questions and showing interest in their expertise. A humble learner is welcomed everywhere.",
+        "km": "សូមមានឆន្ទៈរៀនពីសហការី ដោយសួរសំណួរ និងបង្ហាញការចាប់អារម្មណ៍ចំពោះជំនាញរបស់ពួកគេ។ អ្នករៀនដែលរាបទាប ត្រូវបានស្វាគមន៍គ្រប់ទីកន្លែង។"
+      },
+      "challenge": {
+        "en": "Worrying about looking inexperienced could stop you from asking for the help you need. Questions build connection, not weakness.",
+        "km": "ការព្រួយបារម្ភថានឹងមើលទៅគ្មានបទពិសោធន៍ អាចរារាំងអ្នកពីការសុំជំនួយដែលអ្នកត្រូវការ។ សំណួរកសាងទំនាក់ទំនង មិនមែនភាពទន់ខ្សោយទេ។"
+      },
+      "outcome": {
+        "en": "Learning from others could create a bond of respect in both directions. A colleague may become a valued mentor.",
+        "km": "ការរៀនពីអ្នកដទៃ អាចបង្កើតចំណងនៃការគោរពទាំងសងខាង។ សហការីម្នាក់ អាចក្លាយជាអ្នកណែនាំដ៏មានតម្លៃ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Be steady, punctual and true to your word in everything you do with colleagues. Reliability is one of the surest ways to earn trust.",
+        "km": "សូមនឹងនរ ទៀងពេល និងរក្សាពាក្យសម្តី ក្នុងអ្វីៗទាំងអស់ដែលអ្នកធ្វើជាមួយសហការី។ ភាពគួរឱ្យទុកចិត្ត គឺជាវិធីប្រាកដបំផុតមួយ ដើម្បីទទួលបានការទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Sticking rigidly to routine could make you seem inflexible when colleagues need you to adapt. Bend a little when it helps the team.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់យ៉ាងតឹងរ៉ឹង អាចធ្វើឱ្យអ្នកហាក់ដូចជាមិនបត់បែន នៅពេលសហការីត្រូវការឱ្យអ្នកសម្របខ្លួន។ សូមបត់បែនបន្តិច នៅពេលវាជួយក្រុម។"
+      },
+      "outcome": {
+        "en": "Quiet dependability could build deep, lasting trust. Colleagues may come to see you as the team's anchor.",
+        "km": "ភាពអាចពឹងផ្អែកបានដោយស្ងាត់ៗ អាចកសាងការទុកចិត្តជ្រាលជ្រៅ និងយូរអង្វែង។ សហការីអាចចាប់ផ្តើមមើលឃើញអ្នកជាយុថ្កានៃក្រុម។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Look after the practical comfort of the people around you, from sharing snacks to helping a new colleague settle in. Thoughtful care builds warmth.",
+        "km": "សូមមើលថែភាពសុខស្រួលជាក់ស្តែងរបស់មនុស្សនៅជុំវិញអ្នក ចាប់ពីការចែករំលែកអាហារសម្រន់ រហូតដល់ការជួយសហការីថ្មីឱ្យស៊ាំនឹងកន្លែង។ ការយកចិត្តទុកដាក់ដោយគិតគូរ កសាងភាពកក់ក្តៅ។"
+      },
+      "challenge": {
+        "en": "Looking after everyone else while neglecting your own work could leave you stretched thin. Care for the team without losing yourself.",
+        "km": "ការមើលថែអ្នកដទៃទាំងអស់ ខណៈដែលធ្វេសប្រហែសការងាររបស់ខ្លួនឯង អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមយកចិត្តទុកដាក់ក្រុម ដោយមិនបាត់បង់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Your nurturing nature could make the workplace feel more welcoming for everyone. People may naturally gather around you.",
+        "km": "ធម្មជាតិថែទាំរបស់អ្នក អាចធ្វើឱ្យកន្លែងធ្វើការមានអារម្មណ៍ស្វាគមន៍ជាងមុនសម្រាប់មនុស្សគ្រប់គ្នា។ មនុស្សអាចប្រមូលផ្តុំជុំវិញអ្នកដោយធម្មជាតិ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Use your experience and steady judgement to support colleagues and help the team succeed. Generous, grounded leadership earns loyalty.",
+        "km": "សូមប្រើបទពិសោធន៍ និងការវិនិច្ឆ័យដ៏នឹងនររបស់អ្នក ដើម្បីគាំទ្រសហការី និងជួយក្រុមឱ្យជោគជ័យ។ ការដឹកនាំដោយចិត្តទូលាយ និងជាក់ស្តែង ទទួលបានភក្តីភាព។"
+      },
+      "challenge": {
+        "en": "Measuring colleagues only by results could make them feel valued only for output. Recognise effort and character too.",
+        "km": "ការវាស់វែងសហការីតែតាមលទ្ធផល អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាត្រូវបានឱ្យតម្លៃតែលើផលិតផល។ សូមទទួលស្គាល់ការខិតខំ និងចរិតលក្ខណៈផងដែរ។"
+      },
+      "outcome": {
+        "en": "You could become a solid, respected presence colleagues rely on. Your support may help the whole team thrive.",
+        "km": "អ្នកអាចក្លាយជាវត្តមានដ៏រឹងមាំ និងត្រូវបានគោរព ដែលសហការីពឹងផ្អែក។ ការគាំទ្ររបស់អ្នក អាចជួយក្រុមទាំងមូលឱ្យរីកចម្រើន។"
+      }
+    }
+  }
+}
