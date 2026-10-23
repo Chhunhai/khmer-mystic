@@ -33,6 +33,7 @@
 | `src/content/readings/CW-07.json` | What can I expect from an upcoming interview or promotion? | 78 cards × 3 positions, English and Khmer (heading) |
 | `src/content/readings/CW-08.json` | How can I find more meaning in my work? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/CW-09.json` | How can I handle stress at work? | 78 cards × 3 positions, English and Khmer (how) |
+| `src/content/readings/CW-10.json` | Where is my career heading? | 78 cards × 3 positions, English and Khmer (heading) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
