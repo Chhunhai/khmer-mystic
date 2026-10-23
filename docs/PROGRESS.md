@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 20 of 100 questions (4,680 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 21 of 100 questions (4,914 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-23: Drafted CW-01 (“What does my career path look like now?”, state): 78 cards × 3 positions in English and Khmer, src/content/readings/CW-01.json. present the current state of your work, challenge what is testing you there, outcome where it could lead without repeating the template's 'heading' AI-drafted; English and native Khmer review pending. Saved coverage 21/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted LR-10 (“Where is my love life heading?”, heading): 78 cards × 3 positions in English and Khmer, src/content/readings/LR-10.json. present what is already in motion, challenge what could pull it off course, outcome where romance could head; outcomes avoid repeating the template's 'heading' and 'lies ahead' AI-drafted; English and native Khmer review pending. Saved coverage 20/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted LR-09 (“How can we communicate better?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/LR-09.json. present a concrete talking or listening habit to start with, challenge the habit that derails conversations, outcome what better communication can bring AI-drafted; English and native Khmer review pending. Saved coverage 19/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted LR-08 (“What should I know before making a commitment?”, obstacle): 78 cards × 3 positions in English and Khmer, src/content/readings/LR-08.json. present what you bring to the decision, challenge the thing to settle first as a plain warning, outcome where facing it can lead; a controlling partner points to talking with someone trusted AI-drafted; English and native Khmer review pending. Saved coverage 18/100 questions; checks, typecheck and lint pass
