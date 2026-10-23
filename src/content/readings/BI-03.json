@@ -1,0 +1,1097 @@
+{
+  "questionId": "BI-03",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A willingness to try untested ideas, such as a new channel or an unusual product, could be your growth engine. Beginner's daring is an asset here.",
+        "km": "ឆន្ទៈក្នុងការសាកល្បងគំនិតដែលមិនទាន់បានសាកល្បង ដូចជាបណ្តាញថ្មី ឬផលិតផលមិនធម្មតា អាចជាម៉ាស៊ីននៃការរីកចម្រើនរបស់អ្នក។ ភាពក្លាហានរបស់អ្នកចាប់ផ្តើមដំបូង គឺជាទ្រព្យសម្បត្តិនៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Chasing every shiny idea could scatter your money across experiments that never pay back. Pick one bet, measure it, then decide on the next.",
+        "km": "ការដេញតាមគំនិតភ្លឺថ្លានីមួយៗ អាចធ្វើឱ្យប្រាក់របស់អ្នកបែកខ្ញែកលើការពិសោធ ដែលមិនដែលផ្តល់ផលត្រឡប់។ សូមជ្រើសរើសការភ្នាល់មួយ វាស់វា ហើយសម្រេចចិត្តលើការភ្នាល់បន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Measured risk-taking could open a market nobody else has noticed. One bold experiment may lead to a whole new line of growth.",
+        "km": "ការប្រថុយដោយមានកម្រិត អាចបើកទីផ្សារដែលគ្មាននរណាម្នាក់បានកត់សម្គាល់។ ការពិសោធក្លាហានមួយ អាចនាំទៅរកខ្សែការរីកចម្រើនថ្មីទាំងមូល។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Your know-how and the tools already in the business could be stretched much further than they are. Untapped skill is waiting to be used.",
+        "km": "ចំណេះដឹង និងឧបករណ៍ដែលមានរួចហើយនៅក្នុងអាជីវកម្ម អាចត្រូវបានប្រើប្រាស់ឆ្ងាយជាងបច្ចុប្បន្នច្រើន។ ជំនាញដែលមិនទាន់ប្រើ កំពុងរង់ចាំត្រូវបានប្រើប្រាស់។"
+      },
+      "challenge": {
+        "en": "Doing everything yourself could cap growth at the hours you have. Teach or automate the tasks that do not need you.",
+        "km": "ការធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចកំណត់ការរីកចម្រើនត្រឹមម៉ោងដែលអ្នកមាន។ សូមបង្រៀន ឬធ្វើស្វ័យប្រវត្តិកម្មលើកិច្ចការដែលមិនត្រូវការអ្នក។"
+      },
+      "outcome": {
+        "en": "Turning your skill into repeatable systems could let the business grow without wearing you out. Your talent may reach far more customers.",
+        "km": "ការបង្វែរជំនាញរបស់អ្នកទៅជាប្រព័ន្ធដែលអាចធ្វើម្តងទៀតបាន អាចឱ្យអាជីវកម្មរីកចម្រើន ដោយមិនធ្វើឱ្យអ្នកអស់កម្លាំង។ ទេពកោសល្យរបស់អ្នក អាចឈានដល់អតិថិជនកាន់តែច្រើន។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Insight into what customers really want, beyond what they say, could be your hidden advantage. Quiet observation may reveal untapped demand.",
+        "km": "ការយល់ដឹងពីអ្វីដែលអតិថិជនពិតជាចង់បាន លើសពីអ្វីដែលពួកគេនិយាយ អាចជាអត្ថប្រយោជន៍លាក់កំបាំងរបស់អ្នក។ ការសង្កេតស្ងាត់ៗ អាចបង្ហាញតម្រូវការដែលមិនទាន់បានប្រើ។"
+      },
+      "challenge": {
+        "en": "Growing on guesswork, without asking customers or reading the data, could send effort the wrong way. Listen before you expand.",
+        "km": "ការរីកចម្រើនលើការទាយ ដោយមិនសួរអតិថិជន ឬអានទិន្នន័យ អាចបញ្ជូនការខិតខំទៅផ្លូវខុស។ សូមស្តាប់ មុនពេលអ្នកពង្រីក។"
+      },
+      "outcome": {
+        "en": "Acting on real customer insight could lead to products people seek out. Growth may come from meeting needs others overlook.",
+        "km": "ការធ្វើសកម្មភាពតាមការយល់ដឹងពិតប្រាកដពីអតិថិជន អាចនាំទៅរកផលិតផលដែលមនុស្សស្វែងរក។ ការរីកចម្រើន អាចមកពីការបំពេញតម្រូវការដែលអ្នកដទៃរំលង។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "The business may have fertile ground for growth, such as happy customers, good word of mouth or rising demand. Things are ready to bloom.",
+        "km": "អាជីវកម្មប្រហែលជាមានដីមានជីជាតិសម្រាប់ការរីកចម្រើន ដូចជាអតិថិជនរីករាយ ការផ្សព្វផ្សាយតាមមាត់ល្អ ឬតម្រូវការកើនឡើង។ អ្វីៗត្រៀមខ្លួនរីកស្គុះស្គាយ។"
+      },
+      "challenge": {
+        "en": "Growing faster than you can keep quality up could disappoint the very customers who made you. Nurture service as orders rise.",
+        "km": "ការរីកចម្រើនលឿនជាងអ្វីដែលអ្នកអាចរក្សាគុណភាព អាចធ្វើឱ្យអតិថិជនដែលបានកសាងអ្នកខកចិត្ត។ សូមថែរក្សាសេវាកម្ម នៅពេលការបញ្ជាទិញកើនឡើង។"
+      },
+      "outcome": {
+        "en": "Tending demand with care could turn steady growth into real abundance. Delighted customers may become your best marketing.",
+        "km": "ការថែរក្សាតម្រូវការដោយប្រុងប្រយ័ត្ន អាចបង្វែរការរីកចម្រើនដោយនឹងនរ ទៅជាភាពបរិបូរណ៍ពិតប្រាកដ។ អតិថិជនដែលរីករាយ អាចក្លាយជាទីផ្សារល្អបំផុតរបស់អ្នក។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Solid systems, such as clear records, pricing and roles, may give you a base strong enough to build higher. Order supports expansion.",
+        "km": "ប្រព័ន្ធរឹងមាំ ដូចជាកំណត់ត្រា ការកំណត់តម្លៃ និងតួនាទីច្បាស់លាស់ ប្រហែលជាផ្តល់មូលដ្ឋានរឹងមាំល្មមដើម្បីកសាងឱ្យខ្ពស់ជាងនេះ។ សណ្តាប់ធ្នាប់ គាំទ្រការពង្រីក។"
+      },
+      "challenge": {
+        "en": "Rigid procedures that worked when small could slow you down as you grow. Review rules that no longer fit the size of the business.",
+        "km": "នីតិវិធីតឹងរ៉ឹងដែលដំណើរការនៅពេលតូច អាចធ្វើឱ្យអ្នកយឺត នៅពេលអ្នករីកចម្រើន។ សូមពិនិត្យច្បាប់ដែលលែងសមនឹងទំហំអាជីវកម្ម។"
+      },
+      "outcome": {
+        "en": "Well-built systems could let you add customers, staff or branches without chaos. Structure may turn growth into lasting stability.",
+        "km": "ប្រព័ន្ធដែលកសាងបានល្អ អាចឱ្យអ្នកបន្ថែមអតិថិជន បុគ្គលិក ឬសាខា ដោយគ្មានភាពវឹកវរ។ រចនាសម្ព័ន្ធ អាចបង្វែរការរីកចម្រើនទៅជាស្ថិរភាពយូរអង្វែង។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Learning from proven businesses or a mentor in your field could give you a tested path to grow. Established wisdom is available.",
+        "km": "ការរៀនពីអាជីវកម្មដែលបានបញ្ជាក់ ឬអ្នកណែនាំក្នុងវិស័យរបស់អ្នក អាចផ្តល់ផ្លូវដែលបានសាកល្បងដើម្បីរីកចម្រើន។ ប្រាជ្ញាដែលបានបង្កើតឡើង មានស្រាប់។"
+      },
+      "challenge": {
+        "en": "Copying what others do without adapting it to your customers could make you just another option. Keep what makes you different.",
+        "km": "ការចម្លងអ្វីដែលអ្នកដទៃធ្វើ ដោយមិនកែសម្រួលវាតាមអតិថិជនរបស់អ្នក អាចធ្វើឱ្យអ្នកក្លាយជាជម្រើសមួយផ្សេងទៀតប៉ុណ្ណោះ។ សូមរក្សាអ្វីដែលធ្វើឱ្យអ្នកខុសប្លែក។"
+      },
+      "outcome": {
+        "en": "Combining proven methods with your own strengths could speed up healthy growth. Good guidance may help you avoid common pitfalls.",
+        "km": "ការរួមបញ្ចូលវិធីសាស្ត្រដែលបានបញ្ជាក់ ជាមួយចំណុចខ្លាំងផ្ទាល់ខ្លួនរបស់អ្នក អាចពន្លឿនការរីកចម្រើនប្រកបដោយសុខភាពល្អ។ ការណែនាំល្អ អាចជួយអ្នកជៀសវាងអន្ទាក់ទូទៅ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "A strong partnership, such as with a supplier, a complementary business or a key client, could be your route to growth. Alliances matter here.",
+        "km": "ភាពជាដៃគូរឹងមាំ ដូចជាជាមួយអ្នកផ្គត់ផ្គង់ អាជីវកម្មបំពេញបន្ថែម ឬអតិថិជនសំខាន់ អាចជាផ្លូវរបស់អ្នកទៅកាន់ការរីកចម្រើន។ សម្ព័ន្ធភាព មានសារៈសំខាន់នៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Entering a partnership whose values or goals clash with yours could pull the business off course. Choose allies who want the same things.",
+        "km": "ការចូលរួមភាពជាដៃគូ ដែលគុណតម្លៃ ឬគោលដៅប៉ះទង្គិចជាមួយរបស់អ្នក អាចទាញអាជីវកម្មឱ្យងាកចេញពីផ្លូវ។ សូមជ្រើសរើសសម្ព័ន្ធមិត្តដែលចង់បានអ្វីដូចគ្នា។"
+      },
+      "outcome": {
+        "en": "The right alliance could open markets you could not reach alone. Shared customers may grow both businesses.",
+        "km": "សម្ព័ន្ធភាពត្រឹមត្រូវ អាចបើកទីផ្សារដែលអ្នកមិនអាចឈានដល់តែម្នាក់ឯង។ អតិថិជនរួមគ្នា អាចធ្វើឱ្យអាជីវកម្មទាំងពីររីកចម្រើន។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Determination and a clear target could be the force that drives growth. A focused push may already be under way.",
+        "km": "ការប្តេជ្ញាចិត្ត និងគោលដៅច្បាស់លាស់ អាចជាកម្លាំងដែលជំរុញការរីកចម្រើន។ ការរុញដែលផ្តោត ប្រហែលជាកំពុងដំណើរការរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Pushing for growth at any cost could burn out staff or cut corners on quality. Set a pace the business can hold.",
+        "km": "ការជំរុញការរីកចម្រើនដោយគ្រប់តម្លៃ អាចធ្វើឱ្យបុគ្គលិកអស់កម្លាំង ឬកាត់ជ្រុងលើគុណភាព។ សូមកំណត់ល្បឿនដែលអាជីវកម្មអាចរក្សាបាន។"
+      },
+      "outcome": {
+        "en": "A focused, well-steered drive could take the business to a clear milestone, such as a new market or sales target. Discipline may win the race.",
+        "km": "កម្លាំងជំរុញដែលផ្តោត និងដឹកនាំបានល្អ អាចនាំអាជីវកម្មទៅដល់សមិទ្ធផលច្បាស់លាស់ ដូចជាទីផ្សារថ្មី ឬគោលដៅលក់។ វិន័យ អាចឈ្នះការប្រណាំង។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience and steady nerve may be your quiet strengths, letting you grow without panicking at every dip. Calm resolve can carry a business far.",
+        "km": "ការអត់ធ្មត់ និងសរសៃប្រសាទនឹងនរ ប្រហែលជាចំណុចខ្លាំងស្ងាត់ៗរបស់អ្នក ដែលអនុញ្ញាតឱ្យអ្នករីកចម្រើន ដោយមិនភ័យស្លន់ស្លោរាល់ការធ្លាក់ចុះ។ ការតាំងចិត្តស្ងប់ស្ងាត់ អាចនាំអាជីវកម្មទៅឆ្ងាយ។"
+      },
+      "challenge": {
+        "en": "Forcing customers or staff with pressure rather than persuasion could backfire. Win people over gently and they may stay longer.",
+        "km": "ការបង្ខំអតិថិជន ឬបុគ្គលិកដោយសម្ពាធ ជាជាងការបញ្ចុះបញ្ចូល អាចបែរជាផលអាក្រក់។ សូមឈ្នះចិត្តមនុស្សដោយទន់ភ្លន់ ហើយពួកគេអាចនៅជាមួយយូរជាងមុន។"
+      },
+      "outcome": {
+        "en": "Patient, gentle strength could build loyalty that fuels steady growth. Trust earned slowly may prove hard for rivals to break.",
+        "km": "កម្លាំងទន់ភ្លន់ និងអត់ធ្មត់ អាចកសាងភាពស្មោះត្រង់ ដែលជំរុញការរីកចម្រើនដោយនឹងនរ។ ការទុកចិត្តដែលទទួលបានបន្តិចម្តងៗ អាចបង្ហាញថាពិបាកសម្រាប់គូប្រជែងបំបែក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Stepping back to see the business as a whole could show you where real growth lies. Reflection may reveal what matters most.",
+        "km": "ការដកថយដើម្បីមើលអាជីវកម្មទាំងមូល អាចបង្ហាញអ្នកពីកន្លែងដែលការរីកចម្រើនពិតប្រាកដស្ថិតនៅ។ ការឆ្លុះបញ្ចាំង អាចបង្ហាញពីអ្វីដែលសំខាន់បំផុត។"
+      },
+      "challenge": {
+        "en": "Planning alone without testing ideas on customers could keep growth stuck in theory. Share your thinking and get feedback.",
+        "km": "ការរៀបចំផែនការតែម្នាក់ឯង ដោយមិនសាកល្បងគំនិតលើអតិថិជន អាចរក្សាការរីកចម្រើនឱ្យជាប់នៅក្នុងទ្រឹស្តី។ សូមចែករំលែកការគិតរបស់អ្នក ហើយទទួលមតិកែលម្អ។"
+      },
+      "outcome": {
+        "en": "A clear view of the business's purpose could focus growth where it counts. Wise choices may outweigh rapid expansion.",
+        "km": "ទស្សនៈច្បាស់លាស់អំពីគោលបំណងរបស់អាជីវកម្ម អាចផ្តោតការរីកចម្រើនទៅកន្លែងដែលសំខាន់។ ជម្រើសដ៏ឆ្លាតវៃ អាចមានតម្លៃជាងការពង្រីករហ័ស។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Changing market conditions may be opening a window, such as a new trend, a gap left by a rival or a shift in demand. Fortune may be turning.",
+        "km": "លក្ខខណ្ឌទីផ្សារដែលកំពុងផ្លាស់ប្តូរ ប្រហែលជាកំពុងបើកបង្អួចមួយ ដូចជានិន្នាការថ្មី ចន្លោះដែលគូប្រជែងបន្សល់ទុក ឬការផ្លាស់ប្តូរតម្រូវការ។ សំណាង ប្រហែលជាកំពុងបង្វិល។"
+      },
+      "challenge": {
+        "en": "Betting heavily on one trend could leave you exposed when it fades. Grow in ways that still work if the wind changes.",
+        "km": "ការភ្នាល់ច្រើនលើនិន្នាការតែមួយ អាចធ្វើឱ្យអ្នកងាយរងគ្រោះ នៅពេលវារសាត់បាត់។ សូមរីកចម្រើនតាមរបៀបដែលនៅតែដំណើរការ ប្រសិនបើខ្យល់ផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Catching the shift while keeping your footing could lift the business to a new level. Adaptability may become a lasting edge.",
+        "km": "ការចាប់យកការផ្លាស់ប្តូរ ខណៈរក្សាជំហររបស់អ្នក អាចលើកអាជីវកម្មទៅកម្រិតថ្មី។ ភាពបត់បែន អាចក្លាយជាគុណសម្បត្តិយូរអង្វែង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A reputation for fair, honest dealing could be your strongest asset for growth. Trust brings customers back.",
+        "km": "កេរ្តិ៍ឈ្មោះសម្រាប់ការដោះស្រាយដោយយុត្តិធម៌ និងស្មោះត្រង់ អាចជាទ្រព្យសម្បត្តិរឹងមាំបំផុតរបស់អ្នកសម្រាប់ការរីកចម្រើន។ ការទុកចិត្ត នាំអតិថិជនត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Cutting corners on contracts, tax or quality to grow faster could catch up with you. Keep everything above board.",
+        "km": "ការកាត់ជ្រុងលើកិច្ចសន្យា ពន្ធ ឬគុណភាព ដើម្បីរីកចម្រើនលឿនជាងមុន អាចតាមទាន់អ្នក។ សូមរក្សាអ្វីៗទាំងអស់ឱ្យស្របច្បាប់។"
+      },
+      "outcome": {
+        "en": "Growth built on integrity could attract better customers, partners and staff. A clean record may open doors that shortcuts close.",
+        "km": "ការរីកចម្រើនដែលកសាងលើសុចរិតភាព អាចទាក់ទាញអតិថិជន ដៃគូ និងបុគ្គលិកល្អជាងមុន។ កំណត់ត្រាស្អាត អាចបើកទ្វារដែលផ្លូវកាត់បិទ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "A pause in growth may be giving you a chance to see the business differently. A new angle could reveal untried options.",
+        "km": "ការផ្អាកក្នុងការរីកចម្រើន ប្រហែលជាកំពុងផ្តល់ឱកាសឱ្យអ្នកមើលអាជីវកម្មខុសពីមុន។ មុំថ្មីមួយ អាចបង្ហាញជម្រើសដែលមិនទាន់បានសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Forcing the same tactics harder when they have stopped working could waste money. Try a different approach instead.",
+        "km": "ការបង្ខំយុទ្ធសាស្ត្រដដែលឱ្យខ្លាំងជាងមុន នៅពេលវាឈប់ដំណើរការ អាចខ្ជះខ្ជាយប្រាក់។ សូមសាកល្បងវិធីសាស្ត្រផ្សេងជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "A fresh perspective could unlock growth that pushing alone never would. A small sacrifice, such as dropping a weak product, may free resources.",
+        "km": "ទស្សនៈថ្មីមួយ អាចដោះសោការរីកចម្រើនដែលការរុញតែម្យ៉ាងមិនដែលធ្វើបាន។ ការលះបង់តូចមួយ ដូចជាការបោះបង់ផលិតផលខ្សោយ អាចដោះលែងធនធាន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Ending something that drags the business down could be the first step to growth. Clearing out the old makes room.",
+        "km": "ការបញ្ចប់អ្វីមួយដែលទាញអាជីវកម្មចុះក្រោម អាចជាជំហានដំបូងទៅកាន់ការរីកចម្រើន។ ការសម្អាតរបស់ចាស់ បង្កើតកន្លែង។"
+      },
+      "challenge": {
+        "en": "Holding on to unprofitable products, clients or habits out of loyalty could drain resources. Let go of what no longer earns its place.",
+        "km": "ការកាន់ខ្ជាប់ផលិតផល អតិថិជន ឬទម្លាប់ដែលគ្មានប្រាក់ចំណេញ ដោយសារភាពស្មោះត្រង់ អាចបង្ហូរធនធាន។ សូមបោះបង់អ្វីដែលលែងសមនឹងកន្លែងរបស់វា។"
+      },
+      "outcome": {
+        "en": "Pruning what does not work could let the strongest parts of the business flourish. Transformation may bring a leaner, healthier business.",
+        "km": "ការកាត់ចោលអ្វីដែលមិនដំណើរការ អាចឱ្យផ្នែករឹងមាំបំផុតរបស់អាជីវកម្មរីកស្គុះស្គាយ។ ការផ្លាស់ប្តូរទម្រង់ អាចនាំមកនូវអាជីវកម្មស្រាល និងមានសុខភាពល្អជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "A balanced approach, mixing reinvestment with caution, could be the steady base for growth. Moderation keeps the business healthy.",
+        "km": "វិធីសាស្ត្រមានតុល្យភាព ដែលលាយបញ្ចូលការវិនិយោគឡើងវិញ ជាមួយការប្រុងប្រយ័ត្ន អាចជាមូលដ្ឋាននឹងនរសម្រាប់ការរីកចម្រើន។ ភាពល្មម រក្សាអាជីវកម្មឱ្យមានសុខភាពល្អ។"
+      },
+      "challenge": {
+        "en": "Swinging between overspending on growth and sudden cutbacks could unsettle everyone. Keep a steady, sustainable rhythm.",
+        "km": "ការយោលរវាងការចំណាយហួសហេតុលើការរីកចម្រើន និងការកាត់បន្ថយភ្លាមៗ អាចរំខានអ្នករាល់គ្នា។ សូមរក្សាចង្វាក់នឹងនរ និងនិរន្តរភាព។"
+      },
+      "outcome": {
+        "en": "Steady, balanced reinvestment could build growth that lasts rather than flares and fades. Patience may compound into real scale.",
+        "km": "ការវិនិយោគឡើងវិញដោយនឹងនរ និងមានតុល្យភាព អាចកសាងការរីកចម្រើនដែលស្ថិតស្ថេរ ជាជាងឆេះឡើងហើយរលត់។ ការអត់ធ្មត់ អាចកើនឡើងទៅជាទំហំពិតប្រាកដ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Growth may be held back by something binding, such as debt, a restrictive contract or a habit you cannot shake. Naming it is the first step.",
+        "km": "ការរីកចម្រើន ប្រហែលជាត្រូវបានរារាំងដោយអ្វីមួយដែលចង ដូចជាបំណុល កិច្ចសន្យារឹតត្បិត ឬទម្លាប់ដែលអ្នកមិនអាចបំបាត់។ ការដាក់ឈ្មោះវា គឺជាជំហានដំបូង។"
+      },
+      "challenge": {
+        "en": "Borrowing heavily to fuel growth could tie the business to repayments it cannot sustain. Grow from profit where you can, and seek advice on debt.",
+        "km": "ការខ្ចីប្រាក់ច្រើនដើម្បីជំរុញការរីកចម្រើន អាចចងអាជីវកម្មទៅនឹងការសងប្រាក់ដែលវាមិនអាចរក្សាបាន។ សូមរីកចម្រើនពីប្រាក់ចំណេញនៅកន្លែងដែលអាចធ្វើបាន ហើយស្វែងរកដំបូន្មានអំពីបំណុល។"
+      },
+      "outcome": {
+        "en": "Paying down or renegotiating what binds the business could free cash to reinvest in growth. Each loosened tie may widen your room to expand.",
+        "km": "ការសងបន្ថយ ឬការចរចាឡើងវិញនូវអ្វីដែលចងអាជីវកម្ម អាចដោះលែងសាច់ប្រាក់ដើម្បីវិនិយោគឡើងវិញលើការរីកចម្រើន។ ចំណងនីមួយៗដែលបានបន្ធូរ អាចពង្រីកកន្លែងសម្រាប់អ្នកពង្រីក។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A shake-up, such as a lost client or a sudden market change, may have exposed weaknesses and new possibilities. Old plans may no longer fit.",
+        "km": "ការរង្គោះរង្គើ ដូចជាការបាត់បង់អតិថិជន ឬការផ្លាស់ប្តូរទីផ្សារភ្លាមៗ ប្រហែលជាបានបង្ហាញចំណុចខ្សោយ និងលទ្ធភាពថ្មីៗ។ ផែនការចាស់ ប្រហែលជាលែងសម។"
+      },
+      "challenge": {
+        "en": "Rushing to rebuild exactly as before could miss the lesson the shock was teaching. Rethink the model before you invest again.",
+        "km": "ការប្រញាប់កសាងឡើងវិញដូចមុនទាំងស្រុង អាចខកខានមេរៀនដែលការភ្ញាក់ផ្អើលកំពុងបង្រៀន។ សូមគិតឡើងវិញអំពីគំរូ មុនពេលអ្នកវិនិយោគម្តងទៀត។"
+      },
+      "outcome": {
+        "en": "Rebuilding on firmer ground could leave the business stronger and better placed to grow. Disruption may clear the way for a smarter model.",
+        "km": "ការកសាងឡើងវិញលើដីរឹងមាំជាងមុន អាចធ្វើឱ្យអាជីវកម្មរឹងមាំ និងស្ថិតក្នុងទីតាំងល្អជាងមុនដើម្បីរីកចម្រើន។ ការរំខាន អាចបើកផ្លូវសម្រាប់គំរូឆ្លាតវៃជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Renewed hope and a clear vision could be the spark that drives growth. Optimism may inspire customers and staff.",
+        "km": "ក្តីសង្ឃឹមថ្មី និងចក្ខុវិស័យច្បាស់លាស់ អាចជាផ្កាភ្លើងដែលជំរុញការរីកចម្រើន។ សុទិដ្ឋិនិយម អាចបំផុសគំនិតអតិថិជន និងបុគ្គលិក។"
+      },
+      "challenge": {
+        "en": "A vision without a practical plan could leave growth as a wish. Turn hope into specific, measurable steps.",
+        "km": "ចក្ខុវិស័យដោយគ្មានផែនការជាក់ស្តែង អាចទុកការរីកចម្រើនឱ្យនៅត្រឹមបំណងប្រាថ្នា។ សូមបង្វែរក្តីសង្ឃឹមទៅជាជំហានជាក់លាក់ និងអាចវាស់វែងបាន។"
+      },
+      "outcome": {
+        "en": "A hopeful vision backed by action could attract customers who share your values. Growth may follow a clear sense of purpose.",
+        "km": "ចក្ខុវិស័យប្រកបដោយក្តីសង្ឃឹម ដែលគាំទ្រដោយសកម្មភាព អាចទាក់ទាញអតិថិជនដែលចែករំលែកគុណតម្លៃរបស់អ្នក។ ការរីកចម្រើន អាចកើតឡើងតាមអារម្មណ៍គោលបំណងច្បាស់លាស់។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Uncertainty about the market or your next move may be clouding the path to growth. Hidden factors may be at work.",
+        "km": "ភាពមិនប្រាកដប្រជាអំពីទីផ្សារ ឬការផ្លាស់ទីបន្ទាប់របស់អ្នក ប្រហែលជាកំពុងធ្វើឱ្យផ្លូវទៅកាន់ការរីកចម្រើនស្រអាប់។ កត្តាលាក់កំបាំង ប្រហែលជាកំពុងដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Expanding on hunches or rumours could lead you into a market you misread. Gather facts before committing money.",
+        "km": "ការពង្រីកលើការស្មាន ឬពាក្យចចាមអារ៉ាម អាចនាំអ្នកចូលទៅក្នុងទីផ្សារដែលអ្នកអានខុស។ សូមប្រមូលការពិត មុនពេលប្តេជ្ញាប្រាក់។"
+      },
+      "outcome": {
+        "en": "Clearing the fog with research could reveal a safer route to growth. Understanding the market may restore confidence.",
+        "km": "ការបំបាត់អ័ព្ទដោយការស្រាវជ្រាវ អាចបង្ហាញផ្លូវដែលមានសុវត្ថិភាពជាងមុនទៅកាន់ការរីកចម្រើន។ ការយល់ដឹងពីទីផ្សារ អាចស្តារទំនុកចិត្តឡើងវិញ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Success, visibility and positive energy may be on your side, giving growth a strong tailwind. Customers may be noticing you.",
+        "km": "ភាពជោគជ័យ ភាពលេចធ្លោ និងថាមពលវិជ្ជមាន ប្រហែលជាស្ថិតនៅខាងអ្នក ដោយផ្តល់ខ្យល់ជំរុញខ្លាំងដល់ការរីកចម្រើន។ អតិថិជន ប្រហែលជាកំពុងកត់សម្គាល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Overconfidence could lead to overspending or neglecting the details that brought success. Keep your eye on costs as sales climb.",
+        "km": "ទំនុកចិត្តហួសហេតុ អាចនាំទៅរកការចំណាយហួសហេតុ ឬការធ្វេសប្រហែសព័ត៌មានលម្អិតដែលនាំមកនូវភាពជោគជ័យ។ សូមតាមដានថ្លៃដើម នៅពេលការលក់កើនឡើង។"
+      },
+      "outcome": {
+        "en": "Riding success with good management could bring bright, visible growth. Warm energy may attract new customers and partners.",
+        "km": "ការជិះភាពជោគជ័យ ជាមួយការគ្រប់គ្រងល្អ អាចនាំមកនូវការរីកចម្រើនដ៏ភ្លឺស្វាង និងអាចមើលឃើញ។ ថាមពលកក់ក្តៅ អាចទាក់ទាញអតិថិជន និងដៃគូថ្មីៗ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "An honest review of the business, with lessons from past results, could point the way to growth. A wake-up call may be useful.",
+        "km": "ការពិនិត្យអាជីវកម្មដោយស្មោះត្រង់ ជាមួយមេរៀនពីលទ្ធផលកន្លងមក អាចចង្អុលផ្លូវទៅកាន់ការរីកចម្រើន។ ការដាស់តឿនមួយ អាចមានប្រយោជន៍។"
+      },
+      "challenge": {
+        "en": "Repeating strategies that failed before could waste effort. Learn from the past, then change what needs changing.",
+        "km": "ការធ្វើយុទ្ធសាស្ត្រដែលបរាជ័យពីមុនម្តងទៀត អាចខ្ជះខ្ជាយការខិតខំ។ សូមរៀនពីអតីតកាល ហើយបន្ទាប់មកផ្លាស់ប្តូរអ្វីដែលត្រូវផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Acting on honest lessons could set the business on a renewed growth path. A wiser approach may bring better results.",
+        "km": "ការធ្វើសកម្មភាពតាមមេរៀនស្មោះត្រង់ អាចដាក់អាជីវកម្មលើផ្លូវរីកចម្រើនថ្មី។ វិធីសាស្ត្រដ៏ឆ្លាតវៃជាងមុន អាចនាំមកនូវលទ្ធផលល្អជាងមុន។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Completing a stage, such as a project or a goal, could leave the business ready for its next level of growth. One cycle may be closing well.",
+        "km": "ការបញ្ចប់ដំណាក់កាលមួយ ដូចជាគម្រោង ឬគោលដៅ អាចធ្វើឱ្យអាជីវកម្មត្រៀមខ្លួនសម្រាប់កម្រិតរីកចម្រើនបន្ទាប់។ វដ្តមួយ ប្រហែលជាកំពុងបិទបានល្អ។"
+      },
+      "challenge": {
+        "en": "Racing into the next expansion before the last one is running smoothly could leave cracks. Consolidate, then reach further.",
+        "km": "ការប្រណាំងចូលទៅក្នុងការពង្រីកបន្ទាប់ មុនពេលការពង្រីកចុងក្រោយដំណើរការរលូន អាចបន្សល់ស្នាមប្រេះ។ សូមពង្រឹង ហើយបន្ទាប់មកឈានទៅឆ្ងាយជាងនេះ។"
+      },
+      "outcome": {
+        "en": "Building on a completed milestone could launch a confident new phase of growth. A strong foundation may support the next leap.",
+        "km": "ការកសាងលើសមិទ្ធផលដែលបានបញ្ចប់ អាចដាក់ចេញដំណាក់កាលរីកចម្រើនថ្មីដោយទំនុកចិត្ត។ គ្រឹះរឹងមាំ អាចគាំទ្រការលោតបន្ទាប់។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A fresh product, service or marketing idea may be ready to spark new growth. Creative energy is your starting fuel.",
+        "km": "ផលិតផល សេវាកម្ម ឬគំនិតទីផ្សារថ្មីមួយ ប្រហែលជាត្រៀមខ្លួនបញ្ឆេះការរីកចម្រើនថ្មី។ ថាមពលច្នៃប្រឌិត គឺជាឥន្ធនៈចាប់ផ្តើមរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Launching new ideas without finishing the last ones could leave a trail of half-built projects. See one through before starting another.",
+        "km": "ការដាក់ចេញគំនិតថ្មីៗ ដោយមិនបញ្ចប់គំនិតចុងក្រោយ អាចបន្សល់ដានគម្រោងដែលកសាងបានពាក់កណ្តាល។ សូមធ្វើមួយឱ្យចប់ មុនពេលចាប់ផ្តើមមួយទៀត។"
+      },
+      "outcome": {
+        "en": "A well-tested new offer could open a fresh stream of customers. One good idea, fully launched, may lift the whole business.",
+        "km": "ការផ្តល់ជូនថ្មីដែលបានសាកល្បងល្អ អាចបើកលំហូរអតិថិជនថ្មី។ គំនិតល្អមួយ ដែលបានដាក់ចេញពេញលេញ អាចលើកអាជីវកម្មទាំងមូល។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "A clear view of possible markets or directions could be your planning base for growth. Options are open on the map.",
+        "km": "ទស្សនៈច្បាស់លាស់អំពីទីផ្សារ ឬទិសដៅដែលអាចទៅរួច អាចជាមូលដ្ឋានរៀបចំផែនការរបស់អ្នកសម្រាប់ការរីកចម្រើន។ ជម្រើសបើកចំហនៅលើផែនទី។"
+      },
+      "challenge": {
+        "en": "Studying options endlessly without picking one could leave growth on the drawing board. Commit to one market and learn from it.",
+        "km": "ការសិក្សាជម្រើសគ្មានទីបញ្ចប់ ដោយមិនជ្រើសរើសមួយ អាចទុកការរីកចម្រើននៅលើក្តារគូរ។ សូមប្តេជ្ញាលើទីផ្សារមួយ ហើយរៀនពីវា។"
+      },
+      "outcome": {
+        "en": "Choosing one direction with conviction could carry the business into a wider market. Bold planning may turn into real expansion.",
+        "km": "ការជ្រើសរើសទិសដៅមួយដោយការជឿជាក់ អាចនាំអាជីវកម្មចូលទៅក្នុងទីផ្សារទូលាយជាងមុន។ ការរៀបចំផែនការដ៏ក្លាហាន អាចប្រែក្លាយទៅជាការពង្រីកពិតប្រាកដ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Early wins may already show where to expand, such as a product that sells out or a region asking for more. Momentum is building.",
+        "km": "ជ័យជម្នះដំបូងៗ ប្រហែលជាបានបង្ហាញរួចហើយថាត្រូវពង្រីកនៅកន្លែងណា ដូចជាផលិតផលដែលលក់អស់ ឬតំបន់ដែលសុំបន្ថែម។ សន្ទុះកំពុងកសាង។"
+      },
+      "challenge": {
+        "en": "Expanding into new areas before the core is strong could stretch cash and staff too thin. Grow from your strongest point outward.",
+        "km": "ការពង្រីកចូលទៅក្នុងតំបន់ថ្មី មុនពេលស្នូលរឹងមាំ អាចលាតសន្ធឹងសាច់ប្រាក់ និងបុគ្គលិកស្តើងពេក។ សូមរីកចម្រើនពីចំណុចរឹងមាំបំផុតរបស់អ្នកទៅខាងក្រៅ។"
+      },
+      "outcome": {
+        "en": "Following the demand you already see could lead to broad, healthy expansion. A wider reach may bring rewarding returns.",
+        "km": "ការធ្វើតាមតម្រូវការដែលអ្នកមើលឃើញរួចហើយ អាចនាំទៅរកការពង្រីកទូលំទូលាយ និងមានសុខភាពល្អ។ ការឈានដល់ទូលាយជាងមុន អាចនាំមកនូវផលចំណេញដែលគួរឱ្យពេញចិត្ត។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A stable base and happy team could be the platform for growth. Celebrating milestones may keep morale high.",
+        "km": "មូលដ្ឋានមានស្ថិរភាព និងក្រុមការងាររីករាយ អាចជាវេទិកាសម្រាប់ការរីកចម្រើន។ ការអបអរសមិទ្ធផល អាចរក្សាស្មារតីឱ្យខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Resting on a comfortable base could let growth stall while competitors move ahead. Keep setting the next goal, even when things feel good.",
+        "km": "ការសម្រាកលើមូលដ្ឋានស្រួល អាចឱ្យការរីកចម្រើនជាប់គាំង ខណៈគូប្រជែងរុញទៅមុខ។ សូមបន្តកំណត់គោលដៅបន្ទាប់ សូម្បីតែនៅពេលអ្វីៗមានអារម្មណ៍ល្អ។"
+      },
+      "outcome": {
+        "en": "Growing from a secure, happy base could bring expansion without losing what makes the business good. A strong team may carry it further.",
+        "km": "ការរីកចម្រើនពីមូលដ្ឋានមានសុវត្ថិភាព និងរីករាយ អាចនាំមកនូវការពង្រីក ដោយមិនបាត់បង់អ្វីដែលធ្វើឱ្យអាជីវកម្មល្អ។ ក្រុមការងាររឹងមាំ អាចនាំវាទៅឆ្ងាយជាងមុន។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Competition in your market could sharpen your offer, pushing you to stand out. Rivalry is part of the landscape.",
+        "km": "ការប្រកួតប្រជែងក្នុងទីផ្សាររបស់អ្នក អាចធ្វើឱ្យការផ្តល់ជូនរបស់អ្នកកាន់តែមុតស្រួច ដោយជំរុញអ្នកឱ្យលេចធ្លោ។ ការប្រជែង គឺជាផ្នែកមួយនៃទិដ្ឋភាព។"
+      },
+      "challenge": {
+        "en": "Fighting rivals on price alone could shrink profits for everyone. Compete on quality, service or something unique instead.",
+        "km": "ការប្រយុទ្ធជាមួយគូប្រជែងតែលើតម្លៃ អាចបង្រួមប្រាក់ចំណេញសម្រាប់អ្នករាល់គ្នា។ សូមប្រកួតប្រជែងលើគុណភាព សេវាកម្ម ឬអ្វីមួយដែលពិសេសជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Standing out from the crowd could win customers who value what you offer. Competition may push the business to its best.",
+        "km": "ការលេចធ្លោពីហ្វូងមនុស្ស អាចឈ្នះអតិថិជនដែលឱ្យតម្លៃលើអ្វីដែលអ្នកផ្តល់ជូន។ ការប្រកួតប្រជែង អាចជំរុញអាជីវកម្មឱ្យល្អបំផុត។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Good reviews, awards or public recognition could be the lever for growth. Your reputation may be rising.",
+        "km": "ការវាយតម្លៃល្អ ពានរង្វាន់ ឬការទទួលស្គាល់ជាសាធារណៈ អាចជាដងថ្លឹងសម្រាប់ការរីកចម្រើន។ កេរ្តិ៍ឈ្មោះរបស់អ្នក ប្រហែលជាកំពុងកើនឡើង។"
+      },
+      "challenge": {
+        "en": "Assuming recognition will bring growth on its own could lead to disappointment. Use the attention to make a clear offer.",
+        "km": "ការសន្មតថាការទទួលស្គាល់នឹងនាំមកនូវការរីកចម្រើនដោយខ្លួនឯង អាចនាំទៅរកការខកចិត្ត។ សូមប្រើការយកចិត្តទុកដាក់ ដើម្បីធ្វើការផ្តល់ជូនច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Turning recognition into new customers could fuel visible growth. Public success may open doors to partners and investors.",
+        "km": "ការបង្វែរការទទួលស្គាល់ទៅជាអតិថិជនថ្មី អាចជំរុញការរីកចម្រើនដែលអាចមើលឃើញ។ ភាពជោគជ័យជាសាធារណៈ អាចបើកទ្វារទៅកាន់ដៃគូ និងវិនិយោគិន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "A loyal customer base or strong market position could be the ground you defend and grow from. Resilience is an asset.",
+        "km": "មូលដ្ឋានអតិថិជនស្មោះត្រង់ ឬទីតាំងទីផ្សាររឹងមាំ អាចជាដីដែលអ្នកការពារ និងរីកចម្រើនពី។ ភាពធន់ គឺជាទ្រព្យសម្បត្តិ។"
+      },
+      "challenge": {
+        "en": "Spending all your energy defending against rivals could leave none for growing. Protect the core, then reach outward.",
+        "km": "ការចំណាយថាមពលទាំងអស់ដើម្បីការពារប្រឆាំងនឹងគូប្រជែង អាចមិនទុកអ្វីសម្រាប់ការរីកចម្រើន។ សូមការពារស្នូល ហើយបន្ទាប់មកឈានទៅខាងក្រៅ។"
+      },
+      "outcome": {
+        "en": "Holding firm on your strengths could give you a secure base to expand from. Steady defence may earn lasting respect.",
+        "km": "ការកាន់ជំហររឹងមាំលើចំណុចខ្លាំងរបស់អ្នក អាចផ្តល់មូលដ្ឋានមានសុវត្ថិភាពដើម្បីពង្រីកពី។ ការការពារដោយនឹងនរ អាចទទួលបានការគោរពយូរអង្វែង។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Fast-moving opportunities, such as a rush of orders, online buzz or a sudden opening, could drive growth. The wind may be at your back.",
+        "km": "ឱកាសដែលផ្លាស់ទីលឿន ដូចជាការបញ្ជាទិញច្រើនភ្លាមៗ ការនិយាយគ្នាតាមអនឡាញ ឬការបើកភ្លាមៗ អាចជំរុញការរីកចម្រើន។ ខ្យល់ ប្រហែលជានៅពីក្រោយខ្នងអ្នក។"
+      },
+      "challenge": {
+        "en": "Growing too fast without systems could lead to mistakes and unhappy customers. Build capacity as demand rises.",
+        "km": "ការរីកចម្រើនលឿនពេក ដោយគ្មានប្រព័ន្ធ អាចនាំទៅរកកំហុស និងអតិថិជនមិនពេញចិត្ត។ សូមកសាងសមត្ថភាព នៅពេលតម្រូវការកើនឡើង។"
+      },
+      "outcome": {
+        "en": "Catching the rush with stock, staff and systems ready could turn a burst of interest into lasting growth. Swift, prepared action may outpace rivals.",
+        "km": "ការចាប់យកភាពមមាញឹក ជាមួយស្តុក បុគ្គលិក និងប្រព័ន្ធដែលត្រៀមរួចរាល់ អាចបង្វែរការចាប់អារម្មណ៍មួយភ្លែត ទៅជាការរីកចម្រើនយូរអង្វែង។ សកម្មភាពរហ័ស និងបានត្រៀមខ្លួន អាចលឿនជាងគូប្រជែង។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "The business may have weathered hard patches and still be standing, with resilience as its foundation. Persistence has kept the doors open.",
+        "km": "អាជីវកម្មប្រហែលជាបានឆ្លងកាត់ដំណាក់កាលលំបាក ហើយនៅតែឈរ ដោយភាពធន់ជាគ្រឹះរបស់វា។ ការតស៊ូ បានរក្សាទ្វារឱ្យនៅបើក។"
+      },
+      "challenge": {
+        "en": "Exhaustion could tempt you to give up on growth just before the effort starts paying off. Rest and regroup, but keep the plan alive.",
+        "km": "ភាពអស់កម្លាំង អាចល្បួងអ្នកឱ្យបោះបង់ការរីកចម្រើន មុនពេលការខិតខំចាប់ផ្តើមផ្តល់ផលបន្តិច។ សូមសម្រាក និងរៀបចំឡើងវិញ ប៉ុន្តែរក្សាផែនការឱ្យនៅរស់។"
+      },
+      "outcome": {
+        "en": "Persistence could carry the business past its hardest stretch into steady growth. The grit it has shown may win loyal customers.",
+        "km": "ការតស៊ូ អាចនាំអាជីវកម្មឆ្លងកាត់ដំណាក់កាលលំបាកបំផុត ទៅរកការរីកចម្រើនដោយនឹងនរ។ ភាពអំណត់ដែលវាបានបង្ហាញ អាចឈ្នះអតិថិជនស្មោះត្រង់។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may be carrying too much yourself, and freeing up your own time could be the key to growth. The load is heavy.",
+        "km": "អ្នកប្រហែលជាកំពុងលីច្រើនពេកដោយខ្លួនឯង ហើយការដោះលែងពេលវេលាផ្ទាល់ខ្លួនរបស់អ្នក អាចជាគន្លឹះនៃការរីកចម្រើន។ បន្ទុកធ្ងន់។"
+      },
+      "challenge": {
+        "en": "Holding every task yourself could cap the business at the limits of one person. Delegate, hire or simplify the work that does not need you.",
+        "km": "ការកាន់កិច្ចការនីមួយៗដោយខ្លួនឯង អាចកំណត់អាជីវកម្មត្រឹមដែនកំណត់របស់មនុស្សម្នាក់។ សូមប្រគល់ការងារ ជួលបុគ្គលិក ឬធ្វើឱ្យការងារដែលមិនត្រូវការអ្នកកាន់តែសាមញ្ញ។"
+      },
+      "outcome": {
+        "en": "Sharing the load could free you to focus on growth. A lighter role may let the business expand.",
+        "km": "ការចែករំលែកបន្ទុក អាចដោះលែងអ្នកឱ្យផ្តោតលើការរីកចម្រើន។ តួនាទីស្រាលជាងមុន អាចឱ្យអាជីវកម្មពង្រីក។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity and a willingness to experiment, such as trying social media or new products, could open growth paths. Fresh enthusiasm is an asset.",
+        "km": "ការចង់ដឹង និងឆន្ទៈក្នុងការពិសោធ ដូចជាការសាកល្បងបណ្តាញសង្គម ឬផលិតផលថ្មី អាចបើកផ្លូវរីកចម្រើន។ ភាពរំភើបថ្មី គឺជាទ្រព្យសម្បត្តិ។"
+      },
+      "challenge": {
+        "en": "Trying every new tactic at once could scatter effort. Test one at a time and measure results.",
+        "km": "ការសាកល្បងយុទ្ធសាស្ត្រថ្មីនីមួយៗក្នុងពេលតែមួយ អាចធ្វើឱ្យការខិតខំបែកខ្ញែក។ សូមសាកល្បងម្តងមួយ ហើយវាស់លទ្ធផល។"
+      },
+      "outcome": {
+        "en": "Careful experiments could uncover the growth channels that truly work for you. One successful test may grow into a major line.",
+        "km": "ការពិសោធដោយប្រុងប្រយ័ត្ន អាចរកឃើញបណ្តាញរីកចម្រើនដែលពិតជាដំណើរការសម្រាប់អ្នក។ ការសាកល្បងជោគជ័យមួយ អាចរីកចម្រើនទៅជាខ្សែសំខាន់មួយ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold energy and a hunger for change could be the force behind fast growth. Drive is strong.",
+        "km": "ថាមពលក្លាហាន និងការស្រេកឃ្លានការផ្លាស់ប្តូរ អាចជាកម្លាំងនៅពីក្រោយការរីកចម្រើនរហ័ស។ កម្លាំងជំរុញ គឺខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Rushing into expansion without a plan could lead to costly mistakes. Channel the energy into a clear strategy.",
+        "km": "ការប្រញាប់ចូលទៅក្នុងការពង្រីក ដោយគ្មានផែនការ អាចនាំទៅរកកំហុសថ្លៃៗ។ សូមបង្វែរថាមពលទៅក្នុងយុទ្ធសាស្ត្រច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Ambitious moves with the numbers checked could lift the business to a bigger stage. Boldness may be rewarded when it is backed by preparation.",
+        "km": "ការផ្លាស់ទីដ៏មានមហិច្ឆតា ដែលតួលេខត្រូវបានពិនិត្យ អាចលើកអាជីវកម្មទៅឆាកធំជាងមុន។ ភាពក្លាហាន អាចទទួលបានរង្វាន់ នៅពេលវាត្រូវបានគាំទ្រដោយការត្រៀមខ្លួន។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Warm, confident leadership could be the magnet that draws customers and talent. Your energy is an asset.",
+        "km": "ភាពជាអ្នកដឹកនាំដែលកក់ក្តៅ និងមានទំនុកចិត្ត អាចជាមេដែកដែលទាក់ទាញអតិថិជន និងទេពកោសល្យ។ ថាមពលរបស់អ្នក គឺជាទ្រព្យសម្បត្តិ។"
+      },
+      "challenge": {
+        "en": "Trying to please every customer could spread your energy too thin. Focus on the customers who value you most.",
+        "km": "ការព្យាយាមផ្គាប់ចិត្តអតិថិជនគ្រប់រូប អាចធ្វើឱ្យថាមពលរបស់អ្នកស្តើងពេក។ សូមផ្តោតលើអតិថិជនដែលឱ្យតម្លៃលើអ្នកច្រើនបំផុត។"
+      },
+      "outcome": {
+        "en": "Charismatic, focused leadership could build a loyal following that drives growth. Your warmth may become the brand.",
+        "km": "ភាពជាអ្នកដឹកនាំដែលមានភាពទាក់ទាញ និងផ្តោត អាចកសាងអ្នកគាំទ្រស្មោះត្រង់ដែលជំរុញការរីកចម្រើន។ ភាពកក់ក្តៅរបស់អ្នក អាចក្លាយជាម៉ាកយីហោ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "A bold vision and the will to lead could be the driving force for growth. Ambition sets the direction.",
+        "km": "ចក្ខុវិស័យដ៏ក្លាហាន និងឆន្ទៈក្នុងការដឹកនាំ អាចជាកម្លាំងជំរុញសម្រាប់ការរីកចម្រើន។ មហិច្ឆតា កំណត់ទិសដៅ។"
+      },
+      "challenge": {
+        "en": "Announcing grand plans before the groundwork exists could stretch the business beyond its means. Turn the vision into a step-by-step roadmap.",
+        "km": "ការប្រកាសផែនការធំៗ មុនពេលការងារមូលដ្ឋានមាន អាចលាតសន្ធឹងអាជីវកម្មហួសពីលទ្ធភាពរបស់វា។ សូមបង្វែរចក្ខុវិស័យទៅជាផែនទីបង្ហាញផ្លូវមួយជំហានម្តងៗ។"
+      },
+      "outcome": {
+        "en": "A leader who pairs vision with a roadmap could grow the business into a real force in its market. Others may want to join the journey.",
+        "km": "អ្នកដឹកនាំដែលផ្គូផ្គងចក្ខុវិស័យជាមួយផែនទីបង្ហាញផ្លូវ អាចរីកចម្រើនអាជីវកម្មទៅជាកម្លាំងពិតប្រាកដក្នុងទីផ្សាររបស់ខ្លួន។ អ្នកដទៃ អាចចង់ចូលរួមក្នុងដំណើរ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Genuine care for customers, the kind they can feel, may be the seed of your growth. Warm service could set you apart.",
+        "km": "ការយកចិត្តទុកដាក់ពិតប្រាកដចំពោះអតិថិជន ប្រភេទដែលពួកគេអាចមានអារម្មណ៍ ប្រហែលជាគ្រាប់ពូជនៃការរីកចម្រើនរបស់អ្នក។ សេវាកម្មកក់ក្តៅ អាចធ្វើឱ្យអ្នកខុសប្លែក។"
+      },
+      "challenge": {
+        "en": "Letting warm feelings excuse weak pricing or loose processes could hold growth back. Pair heart with healthy margins.",
+        "km": "ការទុកឱ្យអារម្មណ៍កក់ក្តៅដោះសារការកំណត់តម្លៃខ្សោយ ឬដំណើរការធូររលុង អាចរារាំងការរីកចម្រើន។ សូមផ្គូផ្គងបេះដូង ជាមួយប្រាក់ចំណេញរឹមដែលមានសុខភាពល្អ។"
+      },
+      "outcome": {
+        "en": "Heartfelt service, run on sound numbers, could turn first-time buyers into devoted fans. Loyalty may become your engine.",
+        "km": "សេវាកម្មពីបេះដូង ដែលដំណើរការលើតួលេខល្អ អាចបង្វែរអ្នកទិញលើកដំបូង ទៅជាអ្នកគាំទ្រដ៏ស្មោះស្ម័គ្រ។ ភាពស្មោះត្រង់ អាចក្លាយជាម៉ាស៊ីនរបស់អ្នក។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A close working partnership, built on mutual respect, could be the backbone of expansion. Two strengths can grow further together.",
+        "km": "ភាពជាដៃគូការងារជិតស្និទ្ធ ដែលកសាងលើការគោរពគ្នាទៅវិញទៅមក អាចជាឆ្អឹងខ្នងនៃការពង្រីក។ ចំណុចខ្លាំងពីរ អាចរីកចម្រើនបានឆ្ងាយជាងមុនជាមួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Unequal effort or unclear shares between partners could breed resentment as the business grows. Revisit your agreement as things change.",
+        "km": "ការខិតខំមិនស្មើគ្នា ឬចំណែកមិនច្បាស់លាស់រវាងដៃគូ អាចបង្កើតការអាក់អន់ចិត្ត នៅពេលអាជីវកម្មរីកចម្រើន។ សូមពិនិត្យកិច្ចព្រមព្រៀងរបស់អ្នកឡើងវិញ នៅពេលអ្វីៗផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "A balanced partnership could share the load of growth and double the reach. Trust between you may become a competitive edge.",
+        "km": "ភាពជាដៃគូមានតុល្យភាព អាចចែករំលែកបន្ទុកនៃការរីកចម្រើន ហើយបង្កើនការឈានដល់ទ្វេដង។ ការទុកចិត្តរវាងអ្នក អាចក្លាយជាគុណសម្បត្តិប្រកួតប្រជែង។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A community of happy customers and supporters could be your best growth channel. Word of mouth may already be working for you.",
+        "km": "សហគមន៍អតិថិជនរីករាយ និងអ្នកគាំទ្រ អាចជាបណ្តាញរីកចម្រើនល្អបំផុតរបស់អ្នក។ ការផ្សព្វផ្សាយតាមមាត់ ប្រហែលជាកំពុងធ្វើការសម្រាប់អ្នករួចហើយ។"
+      },
+      "challenge": {
+        "en": "Spending too much on events and freebies without tracking results could drain funds. Celebrate customers in ways that also build sales.",
+        "km": "ការចំណាយច្រើនពេកលើព្រឹត្តិការណ៍ និងរបស់ឥតគិតថ្លៃ ដោយមិនតាមដានលទ្ធផល អាចបង្ហូរមូលនិធិ។ សូមអបអរអតិថិជន តាមរបៀបដែលក៏កសាងការលក់ផងដែរ។"
+      },
+      "outcome": {
+        "en": "Nurturing a loyal community could spread your name further than any advert. Shared enthusiasm may bring steady new customers.",
+        "km": "ការចិញ្ចឹមបីបាច់សហគមន៍ស្មោះត្រង់ អាចផ្សព្វផ្សាយឈ្មោះរបស់អ្នកឆ្ងាយជាងការផ្សាយពាណិជ្ជកម្មណាមួយ។ ភាពរំភើបរួមគ្នា អាចនាំមកនូវអតិថិជនថ្មីដោយនឹងនរ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Growth may have stalled, with the business stuck in routine and new offers going unnoticed. Fresh motivation may be what is missing.",
+        "km": "ការរីកចម្រើន ប្រហែលជាបានជាប់គាំង ដោយអាជីវកម្មជាប់ក្នុងទម្លាប់ ហើយការផ្តល់ជូនថ្មីៗមិនត្រូវបានកត់សម្គាល់។ ការលើកទឹកចិត្តថ្មី ប្រហែលជាអ្វីដែលខ្វះ។"
+      },
+      "challenge": {
+        "en": "Ignoring partnership offers, feedback or new channels out of fatigue could keep the business flat. Look again at what is on the table.",
+        "km": "ការមិនអើពើនឹងការផ្តល់ជូនភាពជាដៃគូ មតិកែលម្អ ឬបណ្តាញថ្មី ដោយសារភាពអស់កម្លាំង អាចរក្សាអាជីវកម្មឱ្យនៅរាបស្មើ។ សូមមើលម្តងទៀតលើអ្វីដែលនៅលើតុ។"
+      },
+      "outcome": {
+        "en": "Re-engaging with customers and ideas could restart growth. An overlooked offer may turn out to be the opening you needed.",
+        "km": "ការចូលរួមឡើងវិញជាមួយអតិថិជន និងគំនិត អាចចាប់ផ្តើមការរីកចម្រើនឡើងវិញ។ ការផ្តល់ជូនដែលត្រូវបានរំលង អាចប្រែក្លាយជាឱកាសដែលអ្នកត្រូវការ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "A setback, such as a failed launch or lost client, may be weighing on plans to grow. Regret could be slowing you down.",
+        "km": "ការថយក្រោយមួយ ដូចជាការដាក់ចេញបរាជ័យ ឬការបាត់បង់អតិថិជន ប្រហែលជាកំពុងសង្កត់លើផែនការរីកចម្រើន។ ការសោកស្តាយ អាចកំពុងធ្វើឱ្យអ្នកយឺត។"
+      },
+      "challenge": {
+        "en": "Dwelling on what failed could hide the products and customers that still work. Build on what remains strong.",
+        "km": "ការគិតច្រើនពេកលើអ្វីដែលបរាជ័យ អាចលាក់ផលិតផល និងអតិថិជនដែលនៅតែដំណើរការ។ សូមកសាងលើអ្វីដែលនៅរឹងមាំ។"
+      },
+      "outcome": {
+        "en": "Learning from the setback could make the next push for growth smarter. What remains may be a solid platform to grow from.",
+        "km": "ការរៀនពីការថយក្រោយ អាចធ្វើឱ្យការរុញបន្ទាប់សម្រាប់ការរីកចម្រើនកាន់តែឆ្លាតវៃ។ អ្វីដែលនៅសល់ អាចជាវេទិការឹងមាំដើម្បីរីកចម្រើនពី។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Long-time customers, local roots or a familiar brand could be the base for growth. Heritage gives you trust.",
+        "km": "អតិថិជនយូរមកហើយ ឫសគល់ក្នុងតំបន់ ឬម៉ាកយីហោដែលធ្លាប់ស្គាល់ អាចជាមូលដ្ឋានសម្រាប់ការរីកចម្រើន។ មរតក ផ្តល់ការទុកចិត្តដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Relying only on old customers could cap growth. Reach new people without losing what made you trusted.",
+        "km": "ការពឹងតែលើអតិថិជនចាស់ អាចកំណត់ការរីកចម្រើន។ សូមឈានទៅរកមនុស្សថ្មី ដោយមិនបាត់បង់អ្វីដែលធ្វើឱ្យអ្នកត្រូវបានទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Honouring your roots while reaching new markets could build a brand with both warmth and reach. Loyalty may grow across generations.",
+        "km": "ការគោរពឫសគល់របស់អ្នក ខណៈឈានទៅរកទីផ្សារថ្មី អាចកសាងម៉ាកយីហោដែលមានទាំងភាពកក់ក្តៅ និងការឈានដល់។ ភាពស្មោះត្រង់ អាចរីកចម្រើនឆ្លងជំនាន់។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Many growth ideas may be competing for attention, from new products to new markets. Choosing well is the challenge.",
+        "km": "គំនិតរីកចម្រើនជាច្រើន ប្រហែលជាកំពុងប្រកួតប្រជែងដើម្បីការយកចិត្តទុកដាក់ ពីផលិតផលថ្មី ដល់ទីផ្សារថ្មី។ ការជ្រើសរើសឱ្យបានល្អ គឺជាបញ្ហាប្រឈម។"
+      },
+      "challenge": {
+        "en": "Spreading money across every tempting idea, or a scheme that promises easy growth, could leave nothing strong. Rank the ideas and fund the best one.",
+        "km": "ការចែកប្រាក់ទៅលើគំនិតទាក់ទាញនីមួយៗ ឬគម្រោងដែលសន្យាការរីកចម្រើនងាយស្រួល អាចមិនទុកអ្វីរឹងមាំ។ សូមតម្រៀបគំនិត ហើយផ្តល់មូលនិធិដល់គំនិតល្អបំផុត។"
+      },
+      "outcome": {
+        "en": "Focusing on one realistic idea could turn many dreams into one solid result. Clarity may show which path to grow along.",
+        "km": "ការផ្តោតលើគំនិតប្រាកដនិយមមួយ អាចបង្វែរក្តីសុបិនជាច្រើន ទៅជាលទ្ធផលរឹងមាំមួយ។ ភាពច្បាស់លាស់ អាចបង្ហាញថាត្រូវរីកចម្រើនតាមផ្លូវណា។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Growth may mean leaving something behind, such as an old market or a product you have outgrown. A deeper direction may be calling.",
+        "km": "ការរីកចម្រើន ប្រហែលជាមានន័យថាការបន្សល់ទុកអ្វីមួយ ដូចជាទីផ្សារចាស់ ឬផលិតផលដែលអ្នកបានធំហួស។ ទិសដៅជ្រៅជាងនេះ ប្រហែលជាកំពុងហៅ។"
+      },
+      "challenge": {
+        "en": "Walking away from steady income before the new direction proves itself could leave a gap. Run old and new side by side until the new one holds.",
+        "km": "ការដើរចេញពីចំណូលនឹងនរ មុនពេលទិសដៅថ្មីបង្ហាញខ្លួនវា អាចបន្សល់ចន្លោះ។ សូមដំណើរការរបស់ចាស់ និងថ្មីទន្ទឹមគ្នា រហូតដល់របស់ថ្មីឈររឹងមាំ។"
+      },
+      "outcome": {
+        "en": "A well-managed shift could lead the business toward more meaningful and profitable work. The new path may suit it better.",
+        "km": "ការផ្លាស់ប្តូរដែលគ្រប់គ្រងបានល្អ អាចនាំអាជីវកម្មឆ្ពោះទៅរកការងារដែលមានអត្ថន័យ និងប្រាក់ចំណេញជាងមុន។ ផ្លូវថ្មី អាចសមនឹងវាប្រសើរជាង។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Satisfied customers and a comfortable position could be the platform to grow from. Contentment is a strong base.",
+        "km": "អតិថិជនពេញចិត្ត និងទីតាំងស្រួល អាចជាវេទិកាដើម្បីរីកចម្រើនពី។ ការពេញចិត្ត គឺជាមូលដ្ឋានរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Comfort could make growth feel unnecessary, letting rivals catch up while you rest. Keep setting fresh goals even when sales feel easy.",
+        "km": "ភាពស្រួល អាចធ្វើឱ្យការរីកចម្រើនមានអារម្មណ៍មិនចាំបាច់ ដោយឱ្យគូប្រជែងតាមទាន់ ខណៈអ្នកសម្រាក។ សូមបន្តកំណត់គោលដៅថ្មីៗ សូម្បីតែនៅពេលការលក់មានអារម្មណ៍ងាយស្រួល។"
+      },
+      "outcome": {
+        "en": "Building on customer satisfaction could bring steady, rewarding growth with little strain. Happy customers may bring their friends and family along.",
+        "km": "ការកសាងលើការពេញចិត្តរបស់អតិថិជន អាចនាំមកនូវការរីកចម្រើនដោយនឹងនរ និងគួរឱ្យពេញចិត្ត ដោយសម្ពាធតិចតួច។ អតិថិជនរីករាយ អាចនាំមិត្តភក្តិ និងគ្រួសាររបស់ពួកគេមកជាមួយ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "A happy team and loyal customers who feel like family could be the heart of growth. Belonging is a real strength.",
+        "km": "ក្រុមការងាររីករាយ និងអតិថិជនស្មោះត្រង់ ដែលមានអារម្មណ៍ដូចគ្រួសារ អាចជាបេះដូងនៃការរីកចម្រើន។ ការជាកម្មសិទ្ធិ គឺជាចំណុចខ្លាំងពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Growing while tiptoeing around tensions could let them swell with the headcount. Raise issues kindly before they spread.",
+        "km": "ការរីកចម្រើន ខណៈដើរខ្សឹបៗជុំវិញភាពតានតឹង អាចឱ្យវាហើមឡើងជាមួយចំនួនបុគ្គលិក។ សូមលើកឡើងបញ្ហាដោយសប្បុរស មុនពេលវារីករាលដាល។"
+      },
+      "outcome": {
+        "en": "Growing while keeping the family spirit could build a business people love to be part of. Harmony may attract talent and customers.",
+        "km": "ការរីកចម្រើន ខណៈរក្សាស្មារតីគ្រួសារ អាចកសាងអាជីវកម្មដែលមនុស្សចូលចិត្តក្លាយជាផ្នែកមួយ។ ភាពសុខដុម អាចទាក់ទាញទេពកោសល្យ និងអតិថិជន។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A creative idea or customer suggestion may be the seed of the next growth step. Inspiration is arriving.",
+        "km": "គំនិតច្នៃប្រឌិត ឬការណែនាំពីអតិថិជន ប្រហែលជាគ្រាប់ពូជនៃជំហានរីកចម្រើនបន្ទាប់។ ការបំផុសគំនិត កំពុងមកដល់។"
+      },
+      "challenge": {
+        "en": "Acting on a lovely idea without checking demand could waste money. Test it with real customers.",
+        "km": "ការធ្វើសកម្មភាពតាមគំនិតដ៏ស្រស់ស្អាត ដោយមិនពិនិត្យតម្រូវការ អាចខ្ជះខ្ជាយប្រាក់។ សូមសាកល្បងវាជាមួយអតិថិជនពិត។"
+      },
+      "outcome": {
+        "en": "A creative idea, tested and refined with customers, could open a new line of growth. A small, hopeful trial may lead somewhere good.",
+        "km": "គំនិតច្នៃប្រឌិតមួយ ដែលបានសាកល្បង និងកែលម្អជាមួយអតិថិជន អាចបើកខ្សែរីកចម្រើនថ្មី។ ការសាកល្បងតូច និងប្រកបដោយក្តីសង្ឃឹម អាចនាំទៅកន្លែងល្អ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "An attractive partnership or deal may be on offer, promising faster growth. It may feel exciting.",
+        "km": "ភាពជាដៃគូ ឬកិច្ចព្រមព្រៀងដ៏ទាក់ទាញមួយ ប្រហែលជាត្រូវបានផ្តល់ជូន ដោយសន្យាការរីកចម្រើនលឿនជាងមុន។ វាអាចមានអារម្មណ៍គួរឱ្យរំភើប។"
+      },
+      "challenge": {
+        "en": "Charming terms could hide costs, exclusivity clauses or obligations that slow you down. Read every detail before agreeing.",
+        "km": "លក្ខខណ្ឌគួរឱ្យចាប់ចិត្ត អាចលាក់ថ្លៃដើម ឃ្លាផ្តាច់មុខ ឬកាតព្វកិច្ចដែលធ្វើឱ្យអ្នកយឺត។ សូមអានព័ត៌មានលម្អិតនីមួយៗ មុនពេលយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "A deal that holds up under careful checking could bring the business real growth. A good partner may welcome your questions rather than dodge them.",
+        "km": "កិច្ចព្រមព្រៀងដែលឈរជើងបាន ក្រោមការពិនិត្យដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវការរីកចម្រើនពិតប្រាកដដល់អាជីវកម្ម។ ដៃគូល្អ អាចស្វាគមន៍សំណួររបស់អ្នក ជាជាងគេចវេះ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Empathy for customers and staff could be a powerful growth strength, setting you apart from colder rivals. People feel cared for here.",
+        "km": "ការយល់ចិត្តចំពោះអតិថិជន និងបុគ្គលិក អាចជាចំណុចខ្លាំងនៃការរីកចម្រើនដ៏មានឥទ្ធិពល ដែលធ្វើឱ្យអ្នកខុសប្លែកពីគូប្រជែងដែលត្រជាក់ជាង។ មនុស្សមានអារម្មណ៍ថាត្រូវបានយកចិត្តទុកដាក់នៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Discounting heavily or doing unpaid extras to win customers could make growth unprofitable. Show care through service, not giveaways.",
+        "km": "ការបញ្ចុះតម្លៃខ្លាំង ឬការធ្វើការបន្ថែមដោយមិនគិតថ្លៃ ដើម្បីឈ្នះអតិថិជន អាចធ្វើឱ្យការរីកចម្រើនគ្មានប្រាក់ចំណេញ។ សូមបង្ហាញការយកចិត្តទុកដាក់តាមរយៈសេវាកម្ម មិនមែនការផ្តល់ឱ្យដោយឥតគិតថ្លៃទេ។"
+      },
+      "outcome": {
+        "en": "Balanced care could build loyalty that keeps customers returning and recommending you. Kindness, priced fairly, may become your edge.",
+        "km": "ការយកចិត្តទុកដាក់ដោយតុល្យភាព អាចកសាងភាពស្មោះត្រង់ ដែលធ្វើឱ្យអតិថិជនត្រឡប់មកវិញ និងណែនាំអ្នក។ ចិត្តសប្បុរស ដែលកំណត់តម្លៃដោយយុត្តិធម៌ អាចក្លាយជាគុណសម្បត្តិរបស់អ្នក។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm, emotionally steady leadership could guide expansion without drama or panic. People may trust a leader who keeps their head.",
+        "km": "ភាពជាអ្នកដឹកនាំដែលស្ងប់ស្ងាត់ និងនឹងនរផ្លូវចិត្ត អាចណែនាំការពង្រីក ដោយគ្មានរឿងរ៉ាវ ឬការភ័យស្លន់ស្លោ។ មនុស្សអាចទុកចិត្តអ្នកដឹកនាំដែលរក្សាក្បាលត្រជាក់។"
+      },
+      "challenge": {
+        "en": "Hiding growing pains behind a calm surface could let small problems become big ones. Raise concerns with the team while they are still easy to fix.",
+        "km": "ការលាក់ការឈឺចាប់នៃការរីកចម្រើន នៅពីក្រោយផ្ទៃស្ងប់ស្ងាត់ អាចឱ្យបញ្ហាតូចៗក្លាយជាបញ្ហាធំ។ សូមលើកឡើងការព្រួយបារម្ភជាមួយក្រុមការងារ ខណៈវានៅងាយស្រួលជួសជុល។"
+      },
+      "outcome": {
+        "en": "Steady, emotionally wise leadership could carry the business through growth without losing its people. Calm may win the trust that keeps it together.",
+        "km": "ភាពជាអ្នកដឹកនាំដែលនឹងនរ និងឆ្លាតវៃផ្លូវចិត្ត អាចនាំអាជីវកម្មឆ្លងកាត់ការរីកចម្រើន ដោយមិនបាត់បង់មនុស្សរបស់វា។ ភាពស្ងប់ស្ងាត់ អាចឈ្នះការទុកចិត្តដែលរក្សាវាឱ្យនៅជាមួយគ្នា។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A sharp, honest look at your numbers, such as which products earn and which drain, could show exactly where to grow. Clarity is your tool.",
+        "km": "ការមើលតួលេខរបស់អ្នកដោយមុតស្រួច និងស្មោះត្រង់ ដូចជាផលិតផលណារកបាន និងផលិតផលណាបង្ហូរ អាចបង្ហាញយ៉ាងច្បាស់ថាត្រូវរីកចម្រើននៅកន្លែងណា។ ភាពច្បាស់លាស់ គឺជាឧបករណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Growing on assumptions instead of data could pour money into the wrong things. Cut what the figures say is not working.",
+        "km": "ការរីកចម្រើនលើការសន្មត ជំនួសឱ្យទិន្នន័យ អាចចាក់ប្រាក់ចូលក្នុងរបស់ខុស។ សូមកាត់អ្វីដែលតួលេខប្រាប់ថាមិនដំណើរការ។"
+      },
+      "outcome": {
+        "en": "Decisions driven by clear data could focus growth where it pays most. A sharper strategy may cut waste and lift profit together.",
+        "km": "ការសម្រេចចិត្តដែលជំរុញដោយទិន្នន័យច្បាស់លាស់ អាចផ្តោតការរីកចម្រើនទៅកន្លែងដែលផ្តល់ផលច្រើនបំផុត។ យុទ្ធសាស្ត្រមុតស្រួចជាងមុន អាចកាត់បន្ថយការខ្ជះខ្ជាយ និងលើកប្រាក់ចំណេញជាមួយគ្នា។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Growth may be waiting on a decision you keep putting off, such as hiring, pricing or which market to enter. The business may be idling at a fork.",
+        "km": "ការរីកចម្រើន ប្រហែលជាកំពុងរង់ចាំការសម្រេចចិត្តដែលអ្នកបន្តពន្យារ ដូចជាការជួលបុគ្គលិក ការកំណត់តម្លៃ ឬទីផ្សារណាដែលត្រូវចូល។ អាជីវកម្មប្រហែលជាកំពុងនៅទំនេរនៅផ្លូវបំបែក។"
+      },
+      "challenge": {
+        "en": "Avoiding the choice could let competitors take the ground while you hesitate. Gather the key facts, then commit to a decision.",
+        "km": "ការជៀសវាងជម្រើស អាចឱ្យគូប្រជែងដណ្តើមទឹកដី ខណៈអ្នកស្ទាក់ស្ទើរ។ សូមប្រមូលការពិតសំខាន់ៗ ហើយបន្ទាប់មកប្តេជ្ញាលើការសម្រេចចិត្តមួយ។"
+      },
+      "outcome": {
+        "en": "Making the call could unlock growth that has been stuck behind indecision. Even an imperfect choice may move the business forward.",
+        "km": "ការសម្រេចចិត្ត អាចដោះសោការរីកចម្រើនដែលបានជាប់គាំងនៅពីក្រោយភាពមិនអាចសម្រេចចិត្ត។ សូម្បីតែជម្រើសមិនល្អឥតខ្ចោះ អាចរុញអាជីវកម្មទៅមុខ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Growth may be held back by hurt, such as a broken partnership, a betrayal by staff or a painful loss. Morale may need healing first.",
+        "km": "ការរីកចម្រើន ប្រហែលជាត្រូវបានរារាំងដោយការឈឺចាប់ ដូចជាភាពជាដៃគូដែលបែកបាក់ ការក្បត់ដោយបុគ្គលិក ឬការបាត់បង់ដ៏ឈឺចាប់។ ស្មារតី ប្រហែលជាត្រូវការការព្យាបាលជាមុន។"
+      },
+      "challenge": {
+        "en": "Pushing for expansion while the team is still hurting could deepen the damage. Address what broke before you build bigger.",
+        "km": "ការជំរុញការពង្រីក ខណៈក្រុមការងារនៅតែឈឺចាប់ អាចធ្វើឱ្យការខូចខាតកាន់តែជ្រៅ។ សូមដោះស្រាយអ្វីដែលបានបែកបាក់ មុនពេលអ្នកកសាងឱ្យធំជាងនេះ។"
+      },
+      "outcome": {
+        "en": "Healing and learning from the hurt could lead to stronger agreements and a more united team. Growth may come more easily on mended ground.",
+        "km": "ការព្យាបាល និងការរៀនពីការឈឺចាប់ អាចនាំទៅរកកិច្ចព្រមព្រៀងរឹងមាំជាងមុន និងក្រុមការងារដែលរួបរួមជាងមុន។ ការរីកចម្រើន អាចមកដល់កាន់តែងាយស្រួល លើដីដែលបានជួសជុល។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "A pause to rest and plan may be what the business needs before its next growth push. Strategy is born in quiet.",
+        "km": "ការផ្អាកដើម្បីសម្រាក និងរៀបចំផែនការ ប្រហែលជាអ្វីដែលអាជីវកម្មត្រូវការ មុនការរុញរីកចម្រើនបន្ទាប់។ យុទ្ធសាស្ត្រកើតឡើងក្នុងភាពស្ងប់ស្ងាត់។"
+      },
+      "challenge": {
+        "en": "Charging into expansion while you and the team are exhausted could lead to mistakes. Recharge before the next push.",
+        "km": "ការរត់ចូលទៅក្នុងការពង្រីក ខណៈអ្នក និងក្រុមការងារអស់កម្លាំង អាចនាំទៅរកកំហុស។ សូមបញ្ចូលថាមពលឡើងវិញ មុនការរុញបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A well-used pause could produce a clearer growth plan and a refreshed team. Rest may make the next stage stronger.",
+        "km": "ការផ្អាកដែលប្រើបានល្អ អាចបង្កើតផែនការរីកចម្រើនច្បាស់ជាងមុន និងក្រុមការងារដែលបានស្រស់ថ្លាឡើងវិញ។ ការសម្រាក អាចធ្វើឱ្យដំណាក់កាលបន្ទាប់រឹងមាំជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Rivals or internal disputes may be competing hard, and winning ground may feel like a fight. Tension surrounds growth.",
+        "km": "គូប្រជែង ឬជម្លោះផ្ទៃក្នុង ប្រហែលជាកំពុងប្រកួតប្រជែងយ៉ាងខ្លាំង ហើយការឈ្នះទឹកដី ប្រហែលជាមានអារម្មណ៍ដូចជាការប្រយុទ្ធ។ ភាពតានតឹង នៅជុំវិញការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Growing through aggressive tactics, such as undercutting or poaching, could damage your reputation. Win customers in ways you would be proud of.",
+        "km": "ការរីកចម្រើនតាមរយៈយុទ្ធសាស្ត្រឈ្លានពាន ដូចជាការកាត់តម្លៃ ឬការទាញយកបុគ្គលិក អាចបំផ្លាញកេរ្តិ៍ឈ្មោះរបស់អ្នក។ សូមឈ្នះអតិថិជន តាមរបៀបដែលអ្នកនឹងមានមោទនភាព។"
+      },
+      "outcome": {
+        "en": "Growing fairly could win respect that outlasts any price war. A clean reputation may attract better partners.",
+        "km": "ការរីកចម្រើនដោយយុត្តិធម៌ អាចឈ្នះការគោរពដែលស្ថិតស្ថេរជាងសង្គ្រាមតម្លៃណាមួយ។ កេរ្តិ៍ឈ្មោះស្អាត អាចទាក់ទាញដៃគូល្អជាងមុន។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "The business may be moving out of a rough patch toward calmer, more stable trading. Transition can be a good base for growth.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងផ្លាស់ចេញពីដំណាក់កាលលំបាក ឆ្ពោះទៅរកការធ្វើពាណិជ្ជកម្មស្ងប់ស្ងាត់ និងមានស្ថិរភាពជាងមុន។ ការផ្លាស់ប្តូរ អាចជាមូលដ្ឋានល្អសម្រាប់ការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Carrying old problems into the new phase could undermine growth. Fix what caused the trouble before expanding.",
+        "km": "ការយកបញ្ហាចាស់ៗចូលទៅក្នុងដំណាក់កាលថ្មី អាចធ្វើឱ្យការរីកចម្រើនចុះខ្សោយ។ សូមជួសជុលអ្វីដែលបង្កបញ្ហា មុនពេលពង្រីក។"
+      },
+      "outcome": {
+        "en": "A smooth transition could carry the business into calmer waters where growth comes more easily. A fresh start may suit it well.",
+        "km": "ការផ្លាស់ប្តូរដោយរលូន អាចនាំអាជីវកម្មចូលទៅក្នុងទឹកស្ងប់ស្ងាត់ជាងមុន ដែលការរីកចម្រើនមកដល់កាន់តែងាយស្រួល។ ការចាប់ផ្តើមថ្មី អាចសមនឹងវាបានល្អ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Something may be quietly leaking value, such as theft, hidden costs or a deal that favours the other side. Growth may need a closer look first.",
+        "km": "អ្វីមួយ ប្រហែលជាកំពុងលេចធ្លាយតម្លៃដោយស្ងាត់ៗ ដូចជាការលួច ថ្លៃដើមលាក់កំបាំង ឬកិច្ចព្រមព្រៀងដែលអនុគ្រោះភាគីម្ខាងទៀត។ ការរីកចម្រើន ប្រហែលជាត្រូវការការមើលឱ្យជិតជាមុន។"
+      },
+      "challenge": {
+        "en": "Expanding without plugging the leaks could grow the losses along with the sales. Audit stock, cash and contracts before investing in growth.",
+        "km": "ការពង្រីក ដោយមិនបិទការលេចធ្លាយ អាចធ្វើឱ្យការខាតបង់កើនឡើងជាមួយការលក់។ សូមធ្វើសវនកម្មស្តុក សាច់ប្រាក់ និងកិច្ចសន្យា មុនពេលវិនិយោគលើការរីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "Closing hidden leaks could free money for growth you did not know you had. A tighter ship may sail further.",
+        "km": "ការបិទការលេចធ្លាយលាក់កំបាំង អាចដោះលែងប្រាក់សម្រាប់ការរីកចម្រើន ដែលអ្នកមិនដឹងថាអ្នកមាន។ នាវាដែលរឹងមាំជាងមុន អាចបើកទៅឆ្ងាយជាងមុន។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Growth may feel blocked by rules, a single big customer, limited cash or a belief that nothing can change. The walls may seem closer than they are.",
+        "km": "ការរីកចម្រើន ប្រហែលជាមានអារម្មណ៍ត្រូវបានរារាំងដោយច្បាប់ អតិថិជនធំតែម្នាក់ សាច់ប្រាក់មានកំណត់ ឬជំនឿថាគ្មានអ្វីអាចផ្លាស់ប្តូរ។ ជញ្ជាំង ប្រហែលជាហាក់ដូចជានៅជិតជាងការពិត។"
+      },
+      "challenge": {
+        "en": "Accepting the limits without questioning them could keep the business small. Ask a mentor or adviser to look for ways through.",
+        "km": "ការទទួលយកដែនកំណត់ ដោយមិនសួរដេញដោលវា អាចរក្សាអាជីវកម្មឱ្យនៅតូច។ សូមសុំអ្នកណែនាំ ឬទីប្រឹក្សាឱ្យស្វែងរកផ្លូវឆ្លងកាត់។"
+      },
+      "outcome": {
+        "en": "Challenging what seems fixed could reveal routes to growth you had ruled out. One new customer or channel may loosen the grip.",
+        "km": "ការសួរដេញដោលអ្វីដែលហាក់ដូចជាថេរ អាចបង្ហាញផ្លូវទៅកាន់ការរីកចម្រើនដែលអ្នកបានបដិសេធ។ អតិថិជន ឬបណ្តាញថ្មីមួយ អាចបន្ធូរការក្តាប់។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about growth, such as fear of failing or of taking on too much, may be keeping you up. Anxiety may be louder than the facts.",
+        "km": "ការព្រួយបារម្ភអំពីការរីកចម្រើន ដូចជាការភ័យខ្លាចបរាជ័យ ឬការទទួលយកច្រើនពេក ប្រហែលជាកំពុងធ្វើឱ្យអ្នកដេកមិនលក់។ ការថប់បារម្ភ ប្រហែលជាខ្លាំងជាងការពិត។"
+      },
+      "challenge": {
+        "en": "Letting fear freeze every growth decision could keep the business stuck. If worry starts to affect your sleep or health, reach out to a professional.",
+        "km": "ការទុកឱ្យការភ័យខ្លាចធ្វើឱ្យការសម្រេចចិត្តរីកចម្រើននីមួយៗកក អាចរក្សាអាជីវកម្មឱ្យជាប់គាំង។ ប្រសិនបើការព្រួយបារម្ភចាប់ផ្តើមប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក សូមទាក់ទងអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Breaking fears down into specific, manageable steps could make growth feel possible again. A calmer mind may choose more wisely.",
+        "km": "ការបំបែកការភ័យខ្លាចទៅជាជំហានជាក់លាក់ និងអាចគ្រប់គ្រងបាន អាចធ្វើឱ្យការរីកចម្រើនមានអារម្មណ៍អាចទៅរួចម្តងទៀត។ ចិត្តស្ងប់ជាងមុន អាចជ្រើសរើសដោយឆ្លាតវៃជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "The business may have hit bottom, with growth feeling far off after a painful collapse. The worst may be behind it.",
+        "km": "អាជីវកម្មប្រហែលជាបានធ្លាក់ដល់បាត ដោយការរីកចម្រើនមានអារម្មណ៍នៅឆ្ងាយ បន្ទាប់ពីការដួលរលំដ៏ឈឺចាប់។ អ្វីដែលអាក្រក់បំផុត ប្រហែលជានៅពីក្រោយវា។"
+      },
+      "challenge": {
+        "en": "Chasing a quick comeback through risky loans or schemes could dig the hole deeper. Talk to an accountant or a small-business support service first.",
+        "km": "ការដេញតាមការត្រឡប់មកវិញរហ័ស តាមរយៈប្រាក់កម្ចី ឬគម្រោងប្រថុយប្រថាន អាចជីករណ្តៅឱ្យកាន់តែជ្រៅ។ សូមនិយាយជាមួយគណនេយ្យករ ឬសេវាគាំទ្រអាជីវកម្មខ្នាតតូចជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Rebuilding carefully from the bottom could create a leaner business with room to grow. What survives may be the strongest part.",
+        "km": "ការកសាងឡើងវិញដោយប្រុងប្រយ័ត្នពីបាត អាចបង្កើតអាជីវកម្មស្រាលជាងមុន ដែលមានកន្លែងសម្រាប់រីកចម្រើន។ អ្វីដែលរស់រាន អាចជាផ្នែករឹងមាំបំផុត។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Watching the market closely, with sharp questions about customers and rivals, could reveal where to grow. Alertness is an asset.",
+        "km": "ការតាមដានទីផ្សារយ៉ាងជិតស្និទ្ធ ជាមួយសំណួរមុតស្រួចអំពីអតិថិជន និងគូប្រជែង អាចបង្ហាញថាត្រូវរីកចម្រើននៅកន្លែងណា។ ការភ្ញាក់រលឹក គឺជាទ្រព្យសម្បត្តិ។"
+      },
+      "challenge": {
+        "en": "Copying whatever competitors announce could make your growth reactive and scattered. Verify what is really happening before you respond.",
+        "km": "ការចម្លងអ្វីក៏ដោយដែលគូប្រជែងប្រកាស អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកជាប្រតិកម្ម និងបែកខ្ញែក។ សូមផ្ទៀងផ្ទាត់អ្វីដែលពិតជាកំពុងកើតឡើង មុនពេលអ្នកឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "Knowing your market better than rivals do could reveal the next place to grow. Good intelligence may turn into a lasting lead.",
+        "km": "ការដឹងពីទីផ្សាររបស់អ្នកល្អជាងគូប្រជែង អាចបង្ហាញកន្លែងបន្ទាប់ដើម្បីរីកចម្រើន។ ព័ត៌មានល្អ អាចប្រែក្លាយទៅជាការនាំមុខយូរអង្វែង។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Fast, decisive action could be what drives growth, with energy to move before others. Urgency is part of the picture.",
+        "km": "សកម្មភាពរហ័ស និងម៉ឺងម៉ាត់ អាចជាអ្វីដែលជំរុញការរីកចម្រើន ជាមួយថាមពលដើម្បីផ្លាស់ទីមុនអ្នកដទៃ។ ភាពបន្ទាន់ គឺជាផ្នែកមួយនៃរូបភាព។"
+      },
+      "challenge": {
+        "en": "Moving so fast that quality slips could cost customers you worked hard to win. Check the details as you speed up.",
+        "km": "ការផ្លាស់ទីលឿនពេក រហូតគុណភាពរអិលចុះ អាចធ្វើឱ្យបាត់បង់អតិថិជនដែលអ្នកបានខិតខំឈ្នះ។ សូមពិនិត្យព័ត៌មានលម្អិត នៅពេលអ្នកបង្កើនល្បឿន។"
+      },
+      "outcome": {
+        "en": "Moving first on a well-checked opening could claim ground before others react. Quick, careful growth may set the pace for your market.",
+        "km": "ការផ្លាស់ទីមុនគេលើឱកាសដែលបានពិនិត្យល្អ អាចដណ្តើមទឹកដី មុនពេលអ្នកដទៃប្រតិកម្ម។ ការរីកចម្រើនរហ័ស និងប្រុងប្រយ័ត្ន អាចកំណត់ល្បឿនសម្រាប់ទីផ្សាររបស់អ្នក។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear, independent judgement, guided by experience, could steer growth wisely. You may see what others miss.",
+        "km": "ការវិនិច្ឆ័យច្បាស់លាស់ និងឯករាជ្យ ដែលណែនាំដោយបទពិសោធន៍ អាចដឹកនាំការរីកចម្រើនដោយឆ្លាតវៃ។ អ្នកប្រហែលជាមើលឃើញអ្វីដែលអ្នកដទៃរំលង។"
+      },
+      "challenge": {
+        "en": "Dismissing other people's ideas could leave blind spots in your growth plan. Sharp judgement still benefits from listening.",
+        "km": "ការច្រានចោលគំនិតរបស់អ្នកដទៃ អាចបន្សល់ចំណុចងងឹតក្នុងផែនការរីកចម្រើនរបស់អ្នក។ ការវិនិច្ឆ័យមុតស្រួច នៅតែទទួលបានអត្ថប្រយោជន៍ពីការស្តាប់។"
+      },
+      "outcome": {
+        "en": "Independent judgement tested against good counsel could steer growth around costly mistakes. Your clear eye may become the business's compass.",
+        "km": "ការវិនិច្ឆ័យឯករាជ្យ ដែលបានសាកល្បងធៀបនឹងដំបូន្មានល្អ អាចដឹកនាំការរីកចម្រើនឱ្យជៀសផុតពីកំហុសថ្លៃៗ។ ភ្នែកច្បាស់លាស់របស់អ្នក អាចក្លាយជាត្រីវិស័យរបស់អាជីវកម្ម។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Sound structures, such as contracts, governance and clear rules, could support growth at a larger scale. Logic and authority help.",
+        "km": "រចនាសម្ព័ន្ធល្អ ដូចជាកិច្ចសន្យា អភិបាលកិច្ច និងច្បាប់ច្បាស់លាស់ អាចគាំទ្រការរីកចម្រើនក្នុងទំហំធំជាងមុន។ តក្កវិជ្ជា និងសិទ្ធិអំណាច ជួយបាន។"
+      },
+      "challenge": {
+        "en": "Growing without the right legal or tax structure could create costly problems. Seek qualified advice as the business expands.",
+        "km": "ការរីកចម្រើន ដោយគ្មានរចនាសម្ព័ន្ធច្បាប់ ឬពន្ធត្រឹមត្រូវ អាចបង្កើតបញ្ហាថ្លៃៗ។ សូមស្វែងរកដំបូន្មានពីអ្នកជំនាញ នៅពេលអាជីវកម្មពង្រីក។"
+      },
+      "outcome": {
+        "en": "Strong, well-advised structures could let the business grow with confidence. Good governance may earn trust from banks and partners.",
+        "km": "រចនាសម្ព័ន្ធរឹងមាំ និងបានទទួលដំបូន្មានល្អ អាចឱ្យអាជីវកម្មរីកចម្រើនដោយទំនុកចិត្ត។ អភិបាលកិច្ចល្អ អាចទទួលបានការទុកចិត្តពីធនាគារ និងដៃគូ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A new source of revenue, such as a contract, product line or steady client, may be ready to plant. Solid opportunity is in reach.",
+        "km": "ប្រភពចំណូលថ្មី ដូចជាកិច្ចសន្យា ខ្សែផលិតផល ឬអតិថិជននឹងនរ ប្រហែលជាត្រៀមខ្លួនដាំ។ ឱកាសរឹងមាំ ស្ថិតនៅក្បែរដៃ។"
+      },
+      "challenge": {
+        "en": "Overlooking a small but reliable opportunity while chasing big ones could miss steady growth. Small accounts can become large.",
+        "km": "ការរំលងឱកាសតូច ប៉ុន្តែអាចទុកចិត្តបាន ខណៈដេញតាមឱកាសធំៗ អាចខកខានការរីកចម្រើនដោយនឹងនរ។ គណនីតូចៗ អាចក្លាយជាធំ។"
+      },
+      "outcome": {
+        "en": "Nurturing a new revenue stream could grow into a lasting pillar of the business. A modest seed may become substantial.",
+        "km": "ការចិញ្ចឹមបីបាច់លំហូរចំណូលថ្មី អាចរីកចម្រើនទៅជាសសរយូរអង្វែងរបស់អាជីវកម្ម។ គ្រាប់ពូជតូចមួយ អាចក្លាយជាធំធេង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Skill at juggling cash flow, orders and staff could be the steady hand growth needs. Flexibility keeps things moving.",
+        "km": "ជំនាញក្នុងការចាប់ផ្តួលលំហូរសាច់ប្រាក់ ការបញ្ជាទិញ និងបុគ្គលិក អាចជាដៃនឹងនរដែលការរីកចម្រើនត្រូវការ។ ភាពបត់បែន រក្សាអ្វីៗឱ្យផ្លាស់ទី។"
+      },
+      "challenge": {
+        "en": "Growing faster than your cash flow can handle could leave bills unpaid even as sales rise. Plan cash before you expand.",
+        "km": "ការរីកចម្រើនលឿនជាងលំហូរសាច់ប្រាក់របស់អ្នកអាចដោះស្រាយបាន អាចទុកវិក្កយបត្រឱ្យមិនទាន់បង់ សូម្បីតែនៅពេលការលក់កើនឡើង។ សូមរៀបចំផែនការសាច់ប្រាក់ មុនពេលអ្នកពង្រីក។"
+      },
+      "outcome": {
+        "en": "Good cash management could let the business grow without running dry. Balance may make expansion sustainable.",
+        "km": "ការគ្រប់គ្រងសាច់ប្រាក់ល្អ អាចឱ្យអាជីវកម្មរីកចម្រើន ដោយមិនអស់សាច់ប្រាក់។ តុល្យភាព អាចធ្វើឱ្យការពង្រីកមាននិរន្តរភាព។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "A skilled, cooperative team that takes pride in its work could be your best asset for growth. Good collaboration already produces quality.",
+        "km": "ក្រុមការងារដែលមានជំនាញ និងសហការ ដែលមានមោទនភាពលើការងាររបស់ខ្លួន អាចជាទ្រព្យសម្បត្តិល្អបំផុតរបស់អ្នកសម្រាប់ការរីកចម្រើន។ កិច្ចសហការល្អ ផលិតគុណភាពរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Adding people without clear roles or training could cause confusion and costly errors. Build the team as carefully as you build the product.",
+        "km": "ការបន្ថែមមនុស្ស ដោយគ្មានតួនាទី ឬការបណ្តុះបណ្តាលច្បាស់លាស់ អាចបង្កភាពច្របូកច្របល់ និងកំហុសថ្លៃៗ។ សូមកសាងក្រុមការងារ ដោយប្រុងប្រយ័ត្នដូចដែលអ្នកកសាងផលិតផល។"
+      },
+      "outcome": {
+        "en": "A well-trained, united team could carry the business to a larger scale without losing quality. Shared skill may become a lasting strength.",
+        "km": "ក្រុមការងារដែលបានបណ្តុះបណ្តាលល្អ និងរួបរួម អាចនាំអាជីវកម្មទៅទំហំធំជាងមុន ដោយមិនបាត់បង់គុណភាព។ ជំនាញរួមគ្នា អាចក្លាយជាចំណុចខ្លាំងយូរអង្វែង។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "A careful, protective approach to money may have built solid reserves and a low-risk base. Security is a strong place to grow from.",
+        "km": "វិធីសាស្ត្រប្រុងប្រយ័ត្ន និងការពារចំពោះប្រាក់ ប្រហែលជាបានកសាងទុនបម្រុងរឹងមាំ និងមូលដ្ឋានហានិភ័យទាប។ សុវត្ថិភាព គឺជាកន្លែងរឹងមាំដើម្បីរីកចម្រើនពី។"
+      },
+      "challenge": {
+        "en": "Holding reserves too tightly could stop the business investing in equipment, people or marketing it needs. Spend where the return is clear.",
+        "km": "ការកាន់ទុនបម្រុងតឹងពេក អាចបញ្ឈប់អាជីវកម្មពីការវិនិយោគលើឧបករណ៍ មនុស្ស ឬទីផ្សារដែលវាត្រូវការ។ សូមចំណាយនៅកន្លែងដែលផលត្រឡប់ច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Investing part of the reserves wisely could fuel growth while keeping a safety net. Measured spending may unlock opportunities caution alone would miss.",
+        "km": "ការវិនិយោគផ្នែកខ្លះនៃទុនបម្រុងដោយឆ្លាតវៃ អាចជំរុញការរីកចម្រើន ខណៈរក្សាសំណាញ់សុវត្ថិភាព។ ការចំណាយដោយមានកម្រិត អាចដោះសោឱកាសដែលការប្រុងប្រយ័ត្នតែម្យ៉ាងនឹងខកខាន។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "The business may be struggling, with tight cash and few spare resources to put toward growth. The cold may be biting.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងតស៊ូ ដោយសាច់ប្រាក់តឹងតែង និងធនធានទំនេរតិចតួច ដើម្បីដាក់ទៅលើការរីកចម្រើន។ ភាពត្រជាក់ ប្រហែលជាកំពុងខាំ។"
+      },
+      "challenge": {
+        "en": "Pride could stop you using support that exists, such as small business programmes, mentors or community networks. Reaching out is a smart business move.",
+        "km": "មោទនភាព អាចបញ្ឈប់អ្នកពីការប្រើការគាំទ្រដែលមាន ដូចជាកម្មវិធីអាជីវកម្មខ្នាតតូច អ្នកណែនាំ ឬបណ្តាញសហគមន៍។ ការស្វែងរកជំនួយ គឺជាការផ្លាស់ទីអាជីវកម្មដ៏ឆ្លាតវៃ។"
+      },
+      "outcome": {
+        "en": "Leaning on support while focusing on your best sellers could steady the business enough to grow again. Recovery may build step by step.",
+        "km": "ការពឹងលើការគាំទ្រ ខណៈផ្តោតលើទំនិញលក់ដាច់បំផុតរបស់អ្នក អាចធ្វើឱ្យអាជីវកម្មនឹងនរល្មមដើម្បីរីកចម្រើនម្តងទៀត។ ការស្តារឡើងវិញ អាចកសាងមួយជំហានម្តងៗ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Outside funding, such as a loan, investor or grant, could give growth a boost. Generous support may be available.",
+        "km": "មូលនិធិពីខាងក្រៅ ដូចជាប្រាក់កម្ចី វិនិយោគិន ឬជំនួយឥតសំណង អាចផ្តល់កម្លាំងជំរុញដល់ការរីកចម្រើន។ ការគាំទ្រដ៏សប្បុរស ប្រហែលជាមាន។"
+      },
+      "challenge": {
+        "en": "Taking money with strings you have not fully read could hand control to others. Read every term of any funding closely.",
+        "km": "ការទទួលយកប្រាក់ ដែលមានចំណងដែលអ្នកមិនទាន់អានទាំងស្រុង អាចប្រគល់ការគ្រប់គ្រងទៅអ្នកដទៃ។ សូមអានលក្ខខណ្ឌនីមួយៗនៃមូលនិធិណាមួយ ដោយយកចិត្តទុកដាក់។"
+      },
+      "outcome": {
+        "en": "Fair, well-understood funding could fuel growth without losing your independence. Giving back to the community may also build goodwill.",
+        "km": "មូលនិធិដែលយុត្តិធម៌ និងយល់បានល្អ អាចជំរុញការរីកចម្រើន ដោយមិនបាត់បង់ឯករាជ្យភាពរបស់អ្នក។ ការផ្តល់ត្រឡប់ទៅសហគមន៍វិញ ក៏អាចកសាងឆន្ទៈល្អផងដែរ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Earlier investment, such as marketing, training or new equipment, may still be ripening. Patience is part of the growth process.",
+        "km": "ការវិនិយោគមុនៗ ដូចជាទីផ្សារ ការបណ្តុះបណ្តាល ឬឧបករណ៍ថ្មី ប្រហែលជានៅតែកំពុងទុំ។ ការអត់ធ្មត់ គឺជាផ្នែកមួយនៃដំណើរការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Abandoning a sound investment because returns feel slow could waste what you have spent. Measure progress before changing course.",
+        "km": "ការបោះបង់ការវិនិយោគល្អ ដោយសារផលត្រឡប់មានអារម្មណ៍យឺត អាចខ្ជះខ្ជាយអ្វីដែលអ្នកបានចំណាយ។ សូមវាស់វែងការរីកចម្រើន មុនពេលផ្លាស់ប្តូរទិសដៅ។"
+      },
+      "outcome": {
+        "en": "Patient investment could bring a rewarding harvest as it matures. Tracking results may show where to invest more.",
+        "km": "ការវិនិយោគដោយអត់ធ្មត់ អាចនាំមកនូវផលដំណាំដែលគួរឱ្យពេញចិត្ត នៅពេលវាទុំ។ ការតាមដានលទ្ធផល អាចបង្ហាញកន្លែងដែលត្រូវវិនិយោគបន្ថែម។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Craft, diligence and steady improvement of your product could be the foundation of growth. Quality earns repeat business.",
+        "km": "សិប្បកម្ម ការឧស្សាហ៍ព្យាយាម និងការកែលម្អផលិតផលរបស់អ្នកដោយនឹងនរ អាចជាគ្រឹះនៃការរីកចម្រើន។ គុណភាព ទទួលបានអាជីវកម្មម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Perfecting the product endlessly could delay getting it to more customers. A product good enough to sell can keep improving as it sells.",
+        "km": "ការធ្វើឱ្យផលិតផលល្អឥតខ្ចោះគ្មានទីបញ្ចប់ អាចពន្យារការនាំវាទៅកាន់អតិថិជនកាន់តែច្រើន។ ផលិតផលដែលល្អគ្រប់គ្រាន់ដើម្បីលក់ អាចបន្តកែលម្អ ខណៈវាលក់។"
+      },
+      "outcome": {
+        "en": "Products that keep getting better could earn referrals that grow the business without heavy advertising. Your craft may become what people ask for by name.",
+        "km": "ផលិតផលដែលបន្តប្រសើរឡើង អាចទទួលបានការណែនាំ ដែលរីកចម្រើនអាជីវកម្ម ដោយគ្មានការផ្សាយពាណិជ្ជកម្មច្រើន។ សិប្បកម្មរបស់អ្នក អាចក្លាយជាអ្វីដែលមនុស្សសួររកតាមឈ្មោះ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "A comfortable, self-sufficient business could be ready to reinvest in its own growth. Independence gives you options.",
+        "km": "អាជីវកម្មដែលស្រួល និងពឹងលើខ្លួនឯងបាន អាចត្រៀមខ្លួនវិនិយោគឡើងវិញលើការរីកចម្រើនផ្ទាល់ខ្លួន។ ឯករាជ្យភាព ផ្តល់ជម្រើសដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Comfort could make growth feel unnecessary, letting the business slowly fall behind. Keep reinvesting even when things are easy.",
+        "km": "ភាពស្រួល អាចធ្វើឱ្យការរីកចម្រើនមានអារម្មណ៍មិនចាំបាច់ ដោយឱ្យអាជីវកម្មធ្លាក់ពីក្រោយបន្តិចម្តងៗ។ សូមបន្តវិនិយោគឡើងវិញ សូម្បីតែនៅពេលអ្វីៗងាយស្រួល។"
+      },
+      "outcome": {
+        "en": "Reinvesting profits from strength could bring steady, independent growth. Self-funded expansion may keep you fully in control.",
+        "km": "ការវិនិយោគប្រាក់ចំណេញឡើងវិញពីភាពខ្លាំង អាចនាំមកនូវការរីកចម្រើនដោយនឹងនរ និងឯករាជ្យ។ ការពង្រីកដែលផ្តល់មូលនិធិដោយខ្លួនឯង អាចរក្សាអ្នកឱ្យនៅក្នុងការគ្រប់គ្រងទាំងស្រុង។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family backing, long-held assets or a trusted name could be the foundation for lasting growth. Legacy gives depth.",
+        "km": "ការគាំទ្រពីគ្រួសារ ទ្រព្យសម្បត្តិដែលមានយូរមកហើយ ឬឈ្មោះដែលគួរឱ្យទុកចិត្ត អាចជាគ្រឹះសម្រាប់ការរីកចម្រើនយូរអង្វែង។ កេរដំណែល ផ្តល់ជម្រៅ។"
+      },
+      "challenge": {
+        "en": "Unclear ownership or succession could cause conflict as the business grows. Settle these questions, with legal advice where needed.",
+        "km": "កម្មសិទ្ធិ ឬការស្នងតំណែងមិនច្បាស់លាស់ អាចបង្កជម្លោះ នៅពេលអាជីវកម្មរីកចម្រើន។ សូមដោះស្រាយសំណួរទាំងនេះ ជាមួយដំបូន្មានផ្លូវច្បាប់នៅកន្លែងចាំបាច់។"
+      },
+      "outcome": {
+        "en": "Clear, careful planning could build a business that grows across generations. Legacy may become a lasting strength.",
+        "km": "ការរៀបចំផែនការច្បាស់លាស់ និងប្រុងប្រយ័ត្ន អាចកសាងអាជីវកម្មដែលរីកចម្រើនឆ្លងជំនាន់។ កេរដំណែល អាចក្លាយជាចំណុចខ្លាំងយូរអង្វែង។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learning new skills, such as online selling or bookkeeping, could open fresh paths to growth. A student's mindset is an asset.",
+        "km": "ការរៀនជំនាញថ្មី ដូចជាការលក់តាមអនឡាញ ឬការកត់ត្រាបញ្ជី អាចបើកផ្លូវថ្មីទៅកាន់ការរីកចម្រើន។ ផ្នត់គំនិតរបស់សិស្ស គឺជាទ្រព្យសម្បត្តិ។"
+      },
+      "challenge": {
+        "en": "Studying without applying could keep growth in theory. Put one new skill into practice and measure the result.",
+        "km": "ការសិក្សាដោយមិនអនុវត្ត អាចរក្សាការរីកចម្រើនឱ្យនៅក្នុងទ្រឹស្តី។ សូមដាក់ជំនាញថ្មីមួយឱ្យអនុវត្ត ហើយវាស់លទ្ធផល។"
+      },
+      "outcome": {
+        "en": "Practical learning could unlock new channels and income. Small, applied skills may compound into real growth.",
+        "km": "ការរៀនជាក់ស្តែង អាចដោះសោបណ្តាញ និងចំណូលថ្មី។ ជំនាញតូចៗដែលបានអនុវត្ត អាចកើនឡើងទៅជាការរីកចម្រើនពិតប្រាកដ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Reliable routines and consistent quality could be the steady engine of growth. Customers trust what they can count on.",
+        "km": "ទម្លាប់ដែលអាចទុកចិត្តបាន និងគុណភាពស្ថិតស្ថេរ អាចជាម៉ាស៊ីននឹងនរនៃការរីកចម្រើន។ អតិថិជនទុកចិត្តអ្វីដែលពួកគេអាចពឹងផ្អែកបាន។"
+      },
+      "challenge": {
+        "en": "Routines that never change could leave the business behind as the market shifts. Review and update how you work.",
+        "km": "ទម្លាប់ដែលមិនដែលផ្លាស់ប្តូរ អាចទុកអាជីវកម្មឱ្យធ្លាក់ពីក្រោយ នៅពេលទីផ្សារផ្លាស់ប្តូរ។ សូមពិនិត្យ និងធ្វើបច្ចុប្បន្នភាពរបៀបដែលអ្នកធ្វើការ។"
+      },
+      "outcome": {
+        "en": "Steady, reliable service could build trust that brings consistent growth. Slow and sure may outpace flashy rivals.",
+        "km": "សេវាកម្មនឹងនរ និងអាចទុកចិត្តបាន អាចកសាងការទុកចិត្តដែលនាំមកនូវការរីកចម្រើនស្ថិតស្ថេរ។ យឺតៗ ប៉ុន្តែប្រាកដ អាចលឿនជាងគូប្រជែងដែលភ្លឺថ្លា។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Practical, caring management that makes resources stretch could be a solid base for growth. Good sense and warmth go together.",
+        "km": "ការគ្រប់គ្រងជាក់ស្តែង និងយកចិត្តទុកដាក់ ដែលធ្វើឱ្យធនធានគ្រប់គ្រាន់ អាចជាមូលដ្ឋានរឹងមាំសម្រាប់ការរីកចម្រើន។ សុភវិនិច្ឆ័យ និងភាពកក់ក្តៅ ដើរជាមួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Looking after everyone except yourself could leave the owner exhausted as the business grows. Pay yourself and rest too.",
+        "km": "ការថែរក្សាអ្នករាល់គ្នា លើកលែងតែខ្លួនឯង អាចធ្វើឱ្យម្ចាស់អស់កម្លាំង នៅពេលអាជីវកម្មរីកចម្រើន។ សូមបើកប្រាក់ឱ្យខ្លួនឯង ហើយសម្រាកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Looking after yourself as well as the business could keep growth sustainable for everyone. A cared-for owner may lead a happier team.",
+        "km": "ការថែរក្សាខ្លួនឯង ក៏ដូចជាអាជីវកម្ម អាចរក្សាការរីកចម្រើនឱ្យមាននិរន្តរភាពសម្រាប់អ្នករាល់គ្នា។ ម្ចាស់ដែលត្រូវបានថែរក្សា អាចដឹកនាំក្រុមការងាររីករាយជាងមុន។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "An established business with strong resources and experience could be ready to scale up. Success is a solid platform.",
+        "km": "អាជីវកម្មដែលបានបង្កើតឡើង ជាមួយធនធាន និងបទពិសោធន៍រឹងមាំ អាចត្រៀមខ្លួនពង្រីកទំហំ។ ភាពជោគជ័យ គឺជាវេទិការឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Expecting an established name to keep growing by itself could let newer rivals overtake you. Keep refreshing products, people and ideas.",
+        "km": "ការរំពឹងថាឈ្មោះដែលបានបង្កើតឡើង នឹងបន្តរីកចម្រើនដោយខ្លួនឯង អាចឱ្យគូប្រជែងថ្មីៗវ៉ាដាច់អ្នក។ សូមបន្តធ្វើឱ្យផលិតផល មនុស្ស និងគំនិតស្រស់ថ្លាឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Scaling up with the same care that built the business could create something larger and lasting. Its growth may lift many people.",
+        "km": "ការពង្រីកទំហំ ជាមួយការយកចិត្តទុកដាក់ដូចគ្នាដែលបានកសាងអាជីវកម្ម អាចបង្កើតអ្វីមួយដែលធំជាង និងស្ថិតស្ថេរ។ ការរីកចម្រើនរបស់វា អាចលើកមនុស្សជាច្រើន។"
+      }
+    }
+  }
+}
