@@ -19,9 +19,9 @@ const slotIndexes = [0, 1, 2] as const;
 type Phase = 'shuffling' | 'dealing' | 'ready';
 
 /** Faint rings behind the dealt cards. */
-function Rings({ top }: { top: number }) {
+function Rings({ top, left }: { top: number; left: number }) {
   return (
-    <Svg width={360} height={360} viewBox="0 0 360 360" style={[styles.rings, { top }]}>
+    <Svg width={360} height={360} viewBox="0 0 360 360" style={[styles.rings, { top, left }]}>
       <Circle cx={180} cy={180} r={170} fill="none" stroke={colors.gold} strokeOpacity={0.18} />
       <Circle
         cx={180} cy={180} r={140}
@@ -91,24 +91,32 @@ export default function DrawScreen() {
   const viewer = useCardViewer();
   const cardRefs = useRef<(View | null)[]>([]);
 
-  // Layout: deck on top, the three slots below it.
-  const gap = wide ? 24 : 8;
-  // Desktop: size the cards so the deck and the dealt row fit above the docked Back/Continue bar
-  // (about 440 px of the window goes to the site header, stepper, title and bar).
+  // Layout. Phone: the deck on top, the three slots below it. Desktop: the deck beside the row, so
+  // neither has to shrink to fit the height above the docked Back/Continue bar (about 440 px of the
+  // window goes to the site header, stepper, title and bar). `rowWidth` is the stage's width.
+  const gap = wide ? 28 : 8;
   const { height: windowH } = useWindowDimensions();
-  const deckScale = wide ? 0.42 : 0.8;
-  const fitH = (windowH - 440 - 58) / (1 + deckScale);
-  const maxCard = wide ? Math.max(100, Math.min(190, (fitH * 7) / 12)) : 106;
-  const column = rowWidth > 0 ? (rowWidth - gap * 2) / 3 : maxCard;
-  const cardW = Math.min(maxCard, column);
+  const deckScale = wide ? 0.9 : 0.8;
+  const fitW = wide ? (rowWidth - gap * 4) / (3 + deckScale) : (rowWidth - gap * 2) / 3;
+  const fitH = wide ? windowH - 440 - 34 : Infinity;
+  const maxCard = wide ? Math.max(100, Math.min(200, (fitH * 7) / 12)) : 106;
+  const cardW = rowWidth > 0 ? Math.min(maxCard, fitW) : maxCard;
   const cardH = (cardW * 12) / 7;
   const deckW = cardW * deckScale;
   const deckH = cardH * deckScale;
-  const slotsTop = deckH + 24;
+  const column = cardW;
+  // Desktop: deck, then the three cards, centred together in the stage.
+  const groupW = wide ? deckW + gap * 2 + cardW * 3 + gap * 2 : cardW * 3 + gap * 2;
+  const groupLeft = Math.max(0, (rowWidth - groupW) / 2);
+  const slotsLeft = wide ? groupLeft + deckW + gap * 2 : groupLeft;
+  const slotsTop = wide ? 0 : deckH + 24;
+  const deckLeft = wide ? groupLeft : (rowWidth - deckW) / 2;
+  const deckTop = wide ? (cardH - deckH) / 2 : 0;
   const stageHeight = slotsTop + cardH + 8 + 26;
+  const slotCentreX = (i: number) => slotsLeft + i * (column + gap) + column / 2;
   // From each slot's card centre back to the deck centre.
-  const fromX = (i: number) => (1 - i) * (column + gap);
-  const fromY = -(slotsTop + cardH / 2 - deckH / 2);
+  const fromX = (i: number) => deckLeft + deckW / 2 - slotCentreX(i);
+  const fromY = deckTop + deckH / 2 - (slotsTop + cardH / 2);
 
   // With Reduce Motion on, every step runs instantly.
   const ms = (duration: number) => (reduced ? 0 : duration);
@@ -180,14 +188,13 @@ export default function DrawScreen() {
         <Title>{ui.dTitle}</Title>
         <Hint>{ui.dHint}</Hint>
       </View>
-      <View style={[styles.stage, { height: stageHeight }]}>
-        <Rings top={slotsTop + cardH / 2 - 180} />
-        <View style={styles.deck}>
+      <View style={[styles.stage, { height: stageHeight }]} onLayout={e => setRowWidth(e.nativeEvent.layout.width)}>
+        <Rings top={slotsTop + cardH / 2 - 180} left={slotCentreX(1) - 180} />
+        <View style={[styles.deck, { left: deckLeft, top: deckTop }]}>
           <Deck width={deckW} height={deckH} shuffle={shuffle} />
         </View>
         <View
-          style={[styles.slots, { top: slotsTop, gap }]}
-          onLayout={e => setRowWidth(e.nativeEvent.layout.width)}
+          style={[styles.slots, { top: slotsTop, left: slotsLeft, width: cardW * 3 + gap * 2, gap }]}
           pointerEvents={phase === 'ready' ? 'auto' : 'none'}
         >
           {slotIndexes.map(i => {
@@ -252,10 +259,10 @@ export default function DrawScreen() {
 const styles = StyleSheet.create({
   left: { color: colors.muted, textAlign: 'center', marginTop: 4 },
   top: { gap: 6 },
-  stage: { marginTop: 24, alignItems: 'center' },
+  stage: { marginTop: 24 },
   rings: { position: 'absolute' },
-  deck: { position: 'absolute', top: 0 },
-  slots: { position: 'absolute', left: 0, right: 0, flexDirection: 'row' },
+  deck: { position: 'absolute' },
+  slots: { position: 'absolute', flexDirection: 'row' },
   slot: { flex: 1, alignItems: 'center', gap: 8 },
   hidden: { opacity: 0 },
   glow: { borderRadius: 8, boxShadow: `0 0 24px ${colors.glow}` },
