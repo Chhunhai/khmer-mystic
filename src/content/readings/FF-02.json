@@ -1,0 +1,1097 @@
+{
+  "questionId": "FF-02",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A willingness to try something different at home may be your best starting point. A fresh family ritual, like a weekly meal or walk, could ease old patterns.",
+        "km": "ឆន្ទៈក្នុងការសាកល្បងអ្វីដែលខុសប្លែកនៅផ្ទះ ប្រហែលជាចំណុចចាប់ផ្តើមល្អបំផុតរបស់អ្នក។ ទម្លាប់គ្រួសារថ្មីមួយ ដូចជាអាហាររួមគ្នា ឬការដើរលេងជាប្រចាំ អាចបន្ធូរគំរូចាស់ៗ។"
+      },
+      "challenge": {
+        "en": "Changing household routines on a whim could unsettle relatives who rely on them. Try new ideas gently and ask how others feel about them.",
+        "km": "ការផ្លាស់ប្តូរទម្លាប់ក្នុងផ្ទះតាមចិត្តភ្លាមៗ អាចធ្វើឱ្យសាច់ញាតិដែលពឹងលើវាមិននឹងនរ។ សូមសាកល្បងគំនិតថ្មីដោយទន់ភ្លន់ ហើយសួរពីអារម្មណ៍របស់អ្នកដទៃចំពោះវា។"
+      },
+      "outcome": {
+        "en": "A light, open-hearted approach could bring more laughter and ease into the home. Relatives may relax when they see you are not keeping score.",
+        "km": "វិធីសាស្ត្រស្រាល និងចិត្តបើកចំហ អាចនាំសំណើច និងភាពស្រួលកាន់តែច្រើនចូលក្នុងផ្ទះ។ សាច់ញាតិអាចបន្ធូរអារម្មណ៍ នៅពេលពួកគេឃើញថាអ្នកមិនរាប់ពិន្ទុ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may already have the skills to make home life run more smoothly, from organising to calming tempers. Using them deliberately could set a better tone.",
+        "km": "អ្នកប្រហែលជាមានជំនាញរួចហើយ ដើម្បីធ្វើឱ្យជីវិតនៅផ្ទះដំណើរការរលូនជាងមុន ចាប់ពីការរៀបចំ រហូតដល់ការបន្ធូរកំហឹង។ ការប្រើវាដោយចេតនា អាចកំណត់បរិយាកាសល្អជាងមុន។"
+      },
+      "challenge": {
+        "en": "Trying to fix everyone's problems yourself could leave others feeling managed. Help family members find their own solutions rather than imposing yours.",
+        "km": "ការព្យាយាមដោះស្រាយបញ្ហារបស់អ្នករាល់គ្នាដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកដទៃមានអារម្មណ៍ថាត្រូវបានគ្រប់គ្រង។ សូមជួយសមាជិកគ្រួសារឱ្យរកដំណោះស្រាយផ្ទាល់ខ្លួន ជាជាងដាក់ដំណោះស្រាយរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Putting your practical skills to work could make the household calmer and more cooperative. A small fix to a daily friction point may ease the whole mood.",
+        "km": "ការដាក់ជំនាញជាក់ស្តែងរបស់អ្នកឱ្យធ្វើការ អាចធ្វើឱ្យគ្រួសារស្ងប់ និងសហការគ្នាជាងមុន។ ការដោះស្រាយតូចមួយលើចំណុចកកិតប្រចាំថ្ងៃ អាចបន្ធូរអារម្មណ៍ទាំងមូល។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Quiet listening may be the gift your household needs most. Noticing what relatives leave unsaid could show you where harmony is missing.",
+        "km": "ការស្តាប់ស្ងាត់ៗ ប្រហែលជាអំណោយដែលគ្រួសាររបស់អ្នកត្រូវការបំផុត។ ការកត់សម្គាល់អ្វីដែលសាច់ញាតិមិនបាននិយាយ អាចបង្ហាញអ្នកពីកន្លែងដែលភាពសុខដុមខ្វះខាត។"
+      },
+      "challenge": {
+        "en": "Keeping your own feelings hidden to avoid conflict could let resentment build. Share what you need calmly instead of hoping others will guess.",
+        "km": "ការលាក់អារម្មណ៍ផ្ទាល់ខ្លួនដើម្បីជៀសវាងជម្លោះ អាចបណ្តោយឱ្យការអាក់អន់ចិត្តកើនឡើង។ សូមចែករំលែកអ្វីដែលអ្នកត្រូវការដោយស្ងប់ស្ងាត់ ជាជាងសង្ឃឹមថាអ្នកដទៃនឹងទាយ។"
+      },
+      "outcome": {
+        "en": "Patient understanding could soften hidden tensions at home. Relatives who feel truly heard may become gentler with one another.",
+        "km": "ការយល់ដឹងដោយអត់ធ្មត់ អាចបន្ទន់ភាពតានតឹងលាក់កំបាំងនៅផ្ទះ។ សាច់ញាតិដែលមានអារម្មណ៍ថាត្រូវបានគេស្តាប់ពិតប្រាកដ អាចកាន់តែទន់ភ្លន់ចំពោះគ្នាទៅវិញទៅមក។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Your warmth and care may already make home feel welcoming. Small comforts, like a shared meal or a tidy, pleasant space, could build on that.",
+        "km": "ភាពកក់ក្តៅ និងការយកចិត្តទុកដាក់របស់អ្នក ប្រហែលជាធ្វើឱ្យផ្ទះមានអារម្មណ៍រាក់ទាក់រួចហើយ។ ភាពស្រួលតូចៗ ដូចជាអាហាររួមគ្នា ឬកន្លែងស្អាត និងរីករាយ អាចកសាងលើនោះ។"
+      },
+      "challenge": {
+        "en": "Looking after everyone else could leave you exhausted and quietly resentful. Ask others to share the cooking, cleaning and caring.",
+        "km": "ការមើលថែអ្នកដទៃទាំងអស់ អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងអាក់អន់ចិត្តស្ងាត់ៗ។ សូមសុំឱ្យអ្នកដទៃចែករំលែកការធ្វើម្ហូប ការសម្អាត និងការមើលថែ។"
+      },
+      "outcome": {
+        "en": "A nurturing home where care flows in all directions could feel deeply harmonious. Shared comfort may help everyone feel they belong.",
+        "km": "ផ្ទះដែលថែទាំ ដែលការយកចិត្តទុកដាក់ហូរគ្រប់ទិសទី អាចមានអារម្មណ៍សុខដុមយ៉ាងជ្រៅ។ ភាពស្រួលរួមគ្នា អាចជួយអ្នករាល់គ្នាឱ្យមានអារម្មណ៍ថាខ្លួនជាផ្នែកមួយ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Clear, fair routines may be a good foundation for a calmer home. Agreeing on who does which chores could remove a common source of friction.",
+        "km": "ទម្លាប់ច្បាស់លាស់ និងយុត្តិធម៌ ប្រហែលជាមូលដ្ឋានល្អសម្រាប់ផ្ទះស្ងប់ជាងមុន។ ការព្រមព្រៀងគ្នាថាអ្នកណាធ្វើកិច្ចការផ្ទះណា អាចដកចេញប្រភពកកិតទូទៅមួយ។"
+      },
+      "challenge": {
+        "en": "Laying down rules without discussion could make relatives resist them. Build house rules together so everyone feels ownership.",
+        "km": "ការដាក់ច្បាប់ដោយគ្មានការពិភាក្សា អាចធ្វើឱ្យសាច់ញាតិប្រឆាំងនឹងវា។ សូមកសាងច្បាប់ផ្ទះជាមួយគ្នា ដើម្បីឱ្យអ្នករាល់គ្នាមានអារម្មណ៍ជាម្ចាស់។"
+      },
+      "outcome": {
+        "en": "Agreed structure could bring order and calm to family life. When everyone knows what to expect, arguments over small things may fade.",
+        "km": "រចនាសម្ព័ន្ធដែលព្រមព្រៀងគ្នា អាចនាំសណ្តាប់ធ្នាប់ និងភាពស្ងប់ដល់ជីវិតគ្រួសារ។ នៅពេលអ្នករាល់គ្នាដឹងថាត្រូវរំពឹងអ្វី ការឈ្លោះប្រកែកលើរឿងតូចតាចអាចរសាត់បាត់។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Shared values and family traditions may be a strong base for harmony. Reviving a custom everyone enjoys could bring people together.",
+        "km": "គុណតម្លៃរួម និងប្រពៃណីគ្រួសារ ប្រហែលជាមូលដ្ឋានរឹងមាំសម្រាប់ភាពសុខដុម។ ការធ្វើឱ្យទំនៀមទម្លាប់ដែលអ្នករាល់គ្នាចូលចិត្តរស់ឡើងវិញ អាចនាំមនុស្សមកជួបជុំគ្នា។"
+      },
+      "challenge": {
+        "en": "Insisting that everyone follow tradition exactly could push younger relatives away. Keep the spirit of customs while allowing them to adapt.",
+        "km": "ការទទូចឱ្យអ្នករាល់គ្នាធ្វើតាមប្រពៃណីយ៉ាងពិតប្រាកដ អាចរុញសាច់ញាតិវ័យក្មេងឱ្យឆ្ងាយ។ សូមរក្សាស្មារតីនៃទំនៀមទម្លាប់ ខណៈអនុញ្ញាតឱ្យវាសម្របខ្លួន។"
+      },
+      "outcome": {
+        "en": "Honouring shared values while respecting differences could create a peaceful home. Traditions that welcome everyone may become a source of joy.",
+        "km": "ការគោរពគុណតម្លៃរួម ខណៈគោរពភាពខុសគ្នា អាចបង្កើតផ្ទះមានសន្តិភាព។ ប្រពៃណីដែលស្វាគមន៍អ្នករាល់គ្នា អាចក្លាយជាប្រភពនៃសេចក្តីរីករាយ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Choosing kindness in your closest relationships may be where harmony begins. A loving word to a partner, parent or sibling could shift the mood.",
+        "km": "ការជ្រើសរើសភាពសប្បុរសក្នុងទំនាក់ទំនងជិតស្និទ្ធបំផុតរបស់អ្នក ប្រហែលជាកន្លែងដែលភាពសុខដុមចាប់ផ្តើម។ ពាក្យសម្តីពោរពេញដោយក្តីស្រលាញ់ទៅកាន់ដៃគូ ឪពុកម្តាយ ឬបងប្អូន អាចផ្លាស់ប្តូរបរិយាកាស។"
+      },
+      "challenge": {
+        "en": "Taking sides in a family dispute could deepen the divide. Try to understand each person's view before offering your own.",
+        "km": "ការកាន់ជើងម្ខាងក្នុងជម្លោះគ្រួសារ អាចធ្វើឱ្យការបែកបាក់កាន់តែជ្រៅ។ សូមព្យាយាមយល់ពីទស្សនៈរបស់ម្នាក់ៗ មុនពេលផ្តល់ទស្សនៈរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Choosing to put love first could heal rifts and bring relatives closer. Mutual respect may become the heart of family life.",
+        "km": "ការជ្រើសរើសដាក់ក្តីស្រលាញ់ជាមុន អាចជួសជុលការបែកបាក់ និងនាំសាច់ញាតិឱ្យខិតជិតគ្នា។ ការគោរពគ្នាទៅវិញទៅមក អាចក្លាយជាបេះដូងនៃជីវិតគ្រួសារ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "A shared goal may help pull the family in the same direction. Rallying everyone around a project, like a trip or a home improvement, could unite you.",
+        "km": "គោលដៅរួមមួយ អាចជួយទាញគ្រួសារក្នុងទិសដៅតែមួយ។ ការប្រមូលអ្នករាល់គ្នាជុំវិញគម្រោងមួយ ដូចជាដំណើរកម្សាន្ត ឬការកែលម្អផ្ទះ អាចរួបរួមអ្នក។"
+      },
+      "challenge": {
+        "en": "Pushing your own plans too hard could leave others feeling steamrolled. Steer with encouragement rather than force.",
+        "km": "ការជំរុញផែនការផ្ទាល់ខ្លួនខ្លាំងពេក អាចធ្វើឱ្យអ្នកដទៃមានអារម្មណ៍ថាត្រូវបានជាន់ឈ្លី។ សូមដឹកនាំដោយការលើកទឹកចិត្ត ជាជាងការបង្ខំ។"
+      },
+      "outcome": {
+        "en": "Working together toward something everyone wants could build real unity. Achieving it as a team may leave the family proud and closer.",
+        "km": "ការធ្វើការជាមួយគ្នាឆ្ពោះទៅរកអ្វីដែលអ្នករាល់គ្នាចង់បាន អាចកសាងការរួបរួមពិតប្រាកដ។ ការសម្រេចវាជាក្រុម អាចធ្វើឱ្យគ្រួសារមានមោទនភាព និងស្និទ្ធស្នាលជាងមុន។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Gentle patience may be your greatest strength in bringing peace home. Staying calm when others are upset could steady the whole household.",
+        "km": "ការអត់ធ្មត់ដោយទន់ភ្លន់ ប្រហែលជាកម្លាំងធំបំផុតរបស់អ្នកក្នុងការនាំសន្តិភាពមកផ្ទះ។ ការនៅស្ងប់នៅពេលអ្នកដទៃខកចិត្ត អាចធ្វើឱ្យគ្រួសារទាំងមូលនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Swallowing frustration until it bursts out could undo the peace you are building. Express irritation calmly, while it is still small.",
+        "km": "ការលេបការខកចិត្តរហូតដល់វាផ្ទុះចេញ អាចបំផ្លាញសន្តិភាពដែលអ្នកកំពុងកសាង។ សូមបញ្ចេញការរំខានដោយស្ងប់ស្ងាត់ ខណៈវានៅតូច។"
+      },
+      "outcome": {
+        "en": "Calm, kind firmness could ease tension and model a better way of handling conflict. Relatives may follow your example.",
+        "km": "ភាពម៉ឺងម៉ាត់ដោយស្ងប់ស្ងាត់ និងសប្បុរស អាចបន្ធូរភាពតានតឹង និងធ្វើជាគំរូនៃរបៀបល្អជាងក្នុងការដោះស្រាយជម្លោះ។ សាច់ញាតិអាចធ្វើតាមគំរូរបស់អ្នក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Stepping back to reflect on what causes tension at home may be a wise start. A little quiet could help you see the patterns clearly.",
+        "km": "ការដកខ្លួនមកវិញដើម្បីពិចារណាពីអ្វីដែលបង្កភាពតានតឹងនៅផ្ទះ ប្រហែលជាការចាប់ផ្តើមដ៏ឆ្លាតវៃ។ ភាពស្ងប់បន្តិច អាចជួយអ្នកឱ្យមើលឃើញគំរូទាំងនោះយ៉ាងច្បាស់។"
+      },
+      "challenge": {
+        "en": "Withdrawing completely could leave relatives feeling shut out. Take the space you need, but let them know you still care.",
+        "km": "ការដកខ្លួនទាំងស្រុង អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ថាត្រូវបានបិទទ្វារ។ សូមយកលំហដែលអ្នកត្រូវការ ប៉ុន្តែប្រាប់ពួកគេថាអ្នកនៅតែយកចិត្តទុកដាក់។"
+      },
+      "outcome": {
+        "en": "Thoughtful insight could help you change what truly matters at home. A wise, well-timed word may do more than many arguments.",
+        "km": "ការយល់ដឹងដោយការគិតគូរ អាចជួយអ្នកផ្លាស់ប្តូរអ្វីដែលពិតជាសំខាន់នៅផ្ទះ។ ពាក្យសម្តីដ៏ឆ្លាតវៃ និងត្រូវពេលមួយ អាចធ្វើបានច្រើនជាងការឈ្លោះប្រកែកជាច្រើន។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Family circumstances may be shifting, and adapting together could be the key to harmony. Accepting change gracefully could set a calmer tone.",
+        "km": "កាលៈទេសៈគ្រួសារប្រហែលជាកំពុងប្រែប្រួល ហើយការសម្របខ្លួនជាមួយគ្នា អាចជាគន្លឹះនៃភាពសុខដុម។ ការទទួលយកការផ្លាស់ប្តូរដោយសុភាព អាចកំណត់បរិយាកាសស្ងប់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Fighting a change the family cannot stop, like a move or a new arrival, could cost more peace than the change itself. Help each other adjust instead.",
+        "km": "ការប្រយុទ្ធប្រឆាំងនឹងការផ្លាស់ប្តូរដែលគ្រួសារមិនអាចបញ្ឈប់ ដូចជាការផ្លាស់ទីលំនៅ ឬសមាជិកថ្មី អាចធ្វើឱ្យបាត់បង់សន្តិភាពច្រើនជាងការផ្លាស់ប្តូរខ្លួនឯង។ សូមជួយគ្នាសម្របខ្លួនជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Facing a turning point as one team could leave the household calmer and more united. Adapting kindly may show relatives that change need not divide you.",
+        "km": "ការប្រឈមមុខនឹងចំណុចបង្វែរជាក្រុមតែមួយ អាចធ្វើឱ្យគ្រួសារស្ងប់ និងរួបរួមជាងមុន។ ការសម្របខ្លួនដោយសប្បុរស អាចបង្ហាញសាច់ញាតិថាការផ្លាស់ប្តូរមិនចាំបាច់បំបែកអ្នកទេ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A sense of fairness may be the foundation harmony needs at home. Looking honestly at how chores, money and attention are shared could reveal imbalances.",
+        "km": "អារម្មណ៍នៃយុត្តិធម៌ ប្រហែលជាមូលដ្ឋានដែលភាពសុខដុមត្រូវការនៅផ្ទះ។ ការមើលដោយស្មោះត្រង់ពីរបៀបដែលកិច្ចការផ្ទះ ប្រាក់ និងការយកចិត្តទុកដាក់ត្រូវបានចែករំលែក អាចបង្ហាញពីភាពមិនស្មើគ្នា។"
+      },
+      "challenge": {
+        "en": "Favouring one relative over another, even without meaning to, could cause quiet resentment. Treat each family member with the same respect.",
+        "km": "ការលម្អៀងទៅរកសាច់ញាតិម្នាក់ជាងម្នាក់ទៀត ទោះបីជាមិនមានចេតនាក៏ដោយ អាចបង្កការអាក់អន់ចិត្តស្ងាត់ៗ។ សូមប្រព្រឹត្តចំពោះសមាជិកគ្រួសារម្នាក់ៗដោយការគោរពដូចគ្នា។"
+      },
+      "outcome": {
+        "en": "Fair, honest treatment could restore balance and trust at home. Everyone feeling respected may reduce friction a great deal.",
+        "km": "ការប្រព្រឹត្តដោយយុត្តិធម៌ និងស្មោះត្រង់ អាចស្តារតុល្យភាព និងការទុកចិត្តនៅផ្ទះ។ ការដែលអ្នករាល់គ្នាមានអារម្មណ៍ថាត្រូវបានគោរព អាចកាត់បន្ថយការកកិតយ៉ាងច្រើន។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Seeing family tensions from another person's point of view may be a helpful start. Letting go of being right could open space for peace.",
+        "km": "ការមើលភាពតានតឹងគ្រួសារពីទស្សនៈរបស់អ្នកដទៃ ប្រហែលជាការចាប់ផ្តើមដែលមានប្រយោជន៍។ ការបោះបង់ការចង់ត្រូវ អាចបើកលំហសម្រាប់សន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Sacrificing your own needs constantly could leave you resentful. Find a balance between giving way and standing up for yourself.",
+        "km": "ការលះបង់តម្រូវការផ្ទាល់ខ្លួនជាប្រចាំ អាចធ្វើឱ្យអ្នកអាក់អន់ចិត្ត។ សូមរកតុល្យភាពរវាងការផ្តល់ផ្លូវ និងការក្រោកឈរការពារខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "A shift in perspective could dissolve a long-standing tension at home. Understanding each other differently may bring unexpected peace.",
+        "km": "ការផ្លាស់ប្តូរទស្សនៈ អាចរំលាយភាពតានតឹងដែលមានយូរមកហើយនៅផ្ទះ។ ការយល់ពីគ្នាខុសពីមុន អាចនាំមកនូវសន្តិភាពដែលមិនបានរំពឹងទុក។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Letting go of an old habit or grudge may be the first step toward harmony. Ending something that no longer helps could make room for peace.",
+        "km": "ការបោះបង់ទម្លាប់ ឬការចងគំនុំចាស់មួយ ប្រហែលជាជំហានដំបូងឆ្ពោះទៅរកភាពសុខដុម។ ការបញ្ចប់អ្វីដែលលែងជួយ អាចបើកកន្លែងសម្រាប់សន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Clinging to how things used to be could block healthier ways of living together. Accept that family roles change.",
+        "km": "ការប្រកាន់ខ្ជាប់របៀបដែលអ្វីៗធ្លាប់មាន អាចរារាំងរបៀបរស់នៅជាមួយគ្នាដែលមានសុខភាពល្អជាង។ សូមទទួលយកថាតួនាទីគ្រួសារផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Embracing change could transform family relationships for the better. A fresh start may bring a calmer, more loving home.",
+        "km": "ការទទួលយកការផ្លាស់ប្តូរ អាចប្រែក្លាយទំនាក់ទំនងគ្រួសារឱ្យល្អជាងមុន។ ការចាប់ផ្តើមថ្មី អាចនាំមកនូវផ្ទះស្ងប់ និងពោរពេញដោយក្តីស្រលាញ់ជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Moderation and patience may be your best tools for a peaceful home. Finding middle ground in disagreements could ease tension.",
+        "km": "ភាពសមរម្យ និងការអត់ធ្មត់ ប្រហែលជាឧបករណ៍ល្អបំផុតរបស់អ្នកសម្រាប់ផ្ទះមានសន្តិភាព។ ការស្វែងរកចំណុចកណ្តាលក្នុងការខ្វែងគំនិត អាចបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Overreacting to small irritations, like noise or mess, could keep home on edge. Pause before responding, and save firm words for what really matters.",
+        "km": "ការប្រតិកម្មហួសហេតុចំពោះការរំខានតូចៗ ដូចជាសំឡេង ឬភាពរញ៉េរញ៉ៃ អាចធ្វើឱ្យផ្ទះតានតឹងជានិច្ច។ សូមផ្អាកមុនពេលឆ្លើយតប ហើយទុកពាក្យម៉ឺងម៉ាត់សម្រាប់អ្វីដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "Steady give and take could bring a lasting balance to life under one roof. Each patient answer instead of a sharp one may make the next disagreement easier.",
+        "km": "ការផ្តល់ និងទទួលទៀងទាត់ អាចនាំតុល្យភាពស្ថិតស្ថេរដល់ជីវិតក្រោមដំបូលតែមួយ។ ចម្លើយអត់ធ្មត់នីមួយៗជំនួសឱ្យចម្លើយមុតស្រួច អាចធ្វើឱ្យការខ្វែងគំនិតបន្ទាប់ងាយស្រួលជាងមុន។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Unhealthy patterns, such as control, guilt or harmful habits, may be disturbing the peace at home. Recognising them could be the first step to change.",
+        "km": "គំរូមិនល្អ ដូចជាការគ្រប់គ្រង កំហុស ឬទម្លាប់ដែលបង្កគ្រោះថ្នាក់ ប្រហែលជាកំពុងរំខានសន្តិភាពនៅផ្ទះ។ ការទទួលស្គាល់ពួកវា អាចជាជំហានដំបូងទៅរកការផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Putting up with hurtful behaviour for the sake of calm could make the harm worse. Anyone who feels in danger at home deserves help from a trusted adult, helpline or support service.",
+        "km": "ការអត់ទ្រាំនឹងអាកប្បកិរិយាដែលធ្វើឱ្យឈឺចាប់ ដើម្បីភាពស្ងប់ អាចធ្វើឱ្យគ្រោះថ្នាក់កាន់តែធ្ងន់។ អ្នកណាដែលមានអារម្មណ៍ថាមានគ្រោះថ្នាក់នៅផ្ទះ សមនឹងទទួលបានជំនួយពីមនុស្សពេញវ័យដែលទុកចិត្ត ខ្សែជំនួយ ឬសេវាគាំទ្រ។"
+      },
+      "outcome": {
+        "en": "Setting healthy boundaries could free the household from patterns that cause harm. Real harmony may grow once everyone feels safe.",
+        "km": "ការកំណត់ព្រំដែនដែលមានសុខភាពល្អ អាចរំដោះគ្រួសារពីគំរូដែលបង្កគ្រោះថ្នាក់។ ភាពសុខដុមពិតប្រាកដ អាចរីកចម្រើន នៅពេលអ្នករាល់គ្នាមានអារម្មណ៍សុវត្ថិភាព។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A recent upheaval at home may have shaken everyone, and calm could be needed most. Steadying yourself first might help others settle.",
+        "km": "ភាពចលាចលថ្មីៗនៅផ្ទះ ប្រហែលជាបានរង្គោះរង្គើអ្នករាល់គ្នា ហើយភាពស្ងប់អាចជាអ្វីដែលត្រូវការបំផុត។ ការធ្វើឱ្យខ្លួនឯងនឹងនរជាមុន អាចជួយអ្នកដទៃឱ្យស្ងប់។"
+      },
+      "challenge": {
+        "en": "Reacting to a crisis with blame could deepen the damage. Focus on support and practical steps, and seek help if anyone is at risk.",
+        "km": "ការឆ្លើយតបនឹងវិបត្តិដោយការបន្ទោស អាចធ្វើឱ្យការខូចខាតកាន់តែជ្រៅ។ សូមផ្តោតលើការគាំទ្រ និងជំហានជាក់ស្តែង ហើយស្វែងរកជំនួយ ប្រសិនបើនរណាម្នាក់ប្រឈមគ្រោះថ្នាក់។"
+      },
+      "outcome": {
+        "en": "Rebuilding after a family crisis could lead to a more honest, peaceful home. Relatives who pull together through upheaval may find a closer bond.",
+        "km": "ការកសាងឡើងវិញបន្ទាប់ពីវិបត្តិគ្រួសារ អាចនាំទៅរកផ្ទះដែលស្មោះត្រង់ និងមានសន្តិភាពជាងមុន។ សាច់ញាតិដែលរួមកម្លាំងគ្នាឆ្លងកាត់ភាពចលាចល អាចរកឃើញចំណងស្និទ្ធស្នាលជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and gentleness may be what the household needs after a hard stretch. Small gestures of encouragement could lift spirits.",
+        "km": "ក្តីសង្ឃឹម និងភាពទន់ភ្លន់ ប្រហែលជាអ្វីដែលគ្រួសារត្រូវការ បន្ទាប់ពីដំណាក់កាលលំបាក។ កាយវិការលើកទឹកចិត្តតូចៗ អាចលើកស្ទួយស្មារតី។"
+      },
+      "challenge": {
+        "en": "Expecting relationships to heal all at once could lead to disappointment. Give relatives patience as trust slowly returns, and celebrate small signs of warmth.",
+        "km": "ការរំពឹងថាទំនាក់ទំនងនឹងជាសះស្បើយក្នុងពេលតែមួយ អាចនាំឱ្យខកចិត្ត។ សូមផ្តល់ការអត់ធ្មត់ដល់សាច់ញាតិ ខណៈការទុកចិត្តត្រឡប់មកវិញបន្តិចម្តងៗ ហើយអបអរសញ្ញាតូចៗនៃភាពកក់ក្តៅ។"
+      },
+      "outcome": {
+        "en": "Renewed hope could bring healing and warmth back into the home. Shared dreams may inspire the family to pull together.",
+        "km": "ក្តីសង្ឃឹមថ្មី អាចនាំការជាសះស្បើយ និងភាពកក់ក្តៅត្រឡប់មកផ្ទះវិញ។ ក្តីស្រមៃរួម អាចបំផុសគំនិតគ្រួសារឱ្យរួមកម្លាំងគ្នា។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Confusion or misunderstandings may be clouding family relationships. Clarifying what people actually mean could be your first step.",
+        "km": "ភាពច្របូកច្របល់ ឬការយល់ច្រឡំ ប្រហែលជាកំពុងធ្វើឱ្យទំនាក់ទំនងគ្រួសារស្រអាប់។ ការបញ្ជាក់ពីអ្វីដែលមនុស្សពិតជាចង់មានន័យ អាចជាជំហានដំបូងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Acting on assumptions or rumours could create conflict that never needed to happen. Ask the person involved directly and gently before reacting.",
+        "km": "ការធ្វើសកម្មភាពតាមការសន្មត ឬពាក្យចចាមអារ៉ាម អាចបង្កជម្លោះដែលមិនចាំបាច់កើតឡើង។ សូមសួរមនុស្សដែលពាក់ព័ន្ធដោយផ្ទាល់ និងទន់ភ្លន់ មុនពេលប្រតិកម្ម។"
+      },
+      "outcome": {
+        "en": "Asking plainly what was meant could replace suspicion with calm. A home where people check before assuming may have far fewer quarrels.",
+        "km": "ការសួរដោយត្រង់ៗថាគេចង់មានន័យអ្វី អាចជំនួសការសង្ស័យដោយភាពស្ងប់។ ផ្ទះដែលមនុស្សពិនិត្យមុនពេលសន្មត អាចមានការឈ្លោះប្រកែកតិចជាងមុនយ៉ាងច្រើន។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Joy and openness may be your best tools for a happier home. Sharing laughter and good news could brighten everyone's mood.",
+        "km": "សេចក្តីរីករាយ និងភាពបើកចំហ ប្រហែលជាឧបករណ៍ល្អបំផុតរបស់អ្នកសម្រាប់ផ្ទះរីករាយជាងមុន។ ការចែករំលែកសំណើច និងដំណឹងល្អ អាចធ្វើឱ្យអារម្មណ៍របស់អ្នករាល់គ្នាភ្លឺស្វាង។"
+      },
+      "challenge": {
+        "en": "Spreading cheer without noticing who is struggling could leave someone feeling more alone. Make sure the quietest person at the table is included too.",
+        "km": "ការចែកចាយភាពរីករាយ ដោយមិនកត់សម្គាល់ថាអ្នកណាកំពុងលំបាក អាចធ្វើឱ្យនរណាម្នាក់មានអារម្មណ៍ឯកោជាងមុន។ សូមប្រាកដថាមនុស្សស្ងាត់បំផុតនៅតុអាហារក៏ត្រូវបានរួមបញ្ចូលដែរ។"
+      },
+      "outcome": {
+        "en": "Warmth and celebration could make home a bright, happy place. Shared meals, games or small parties may give relatives good reasons to gather.",
+        "km": "ភាពកក់ក្តៅ និងការអបអរ អាចធ្វើឱ្យផ្ទះក្លាយជាកន្លែងភ្លឺស្វាង និងរីករាយ។ អាហាររួមគ្នា ល្បែង ឬពិធីជប់លៀងតូចៗ អាចផ្តល់ហេតុផលល្អឱ្យសាច់ញាតិជួបជុំគ្នា។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Reflecting on past family conflicts may help you see what needs healing. A willingness to forgive could be your starting point.",
+        "km": "ការពិចារណាពីជម្លោះគ្រួសារកន្លងមក អាចជួយអ្នកឱ្យមើលឃើញអ្វីដែលត្រូវការការជាសះស្បើយ។ ឆន្ទៈក្នុងការអភ័យទោស អាចជាចំណុចចាប់ផ្តើមរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Repeating old arguments could keep the family stuck. Let go of past grievances where you can.",
+        "km": "ការធ្វើការឈ្លោះប្រកែកចាស់ៗម្តងទៀត អាចធ្វើឱ្យគ្រួសារជាប់គាំង។ សូមបោះបង់ការអាក់អន់ចិត្តកន្លងមក តាមដែលអ្នកអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Forgiveness could bring a fresh start and renewed closeness at home. Putting an old quarrel to rest may let everyone breathe more easily.",
+        "km": "ការអភ័យទោស អាចនាំមកនូវការចាប់ផ្តើមថ្មី និងភាពស្និទ្ធស្នាលថ្មីនៅផ្ទះ។ ការបញ្ចប់ការឈ្លោះប្រកែកចាស់មួយ អាចឱ្យអ្នករាល់គ្នាដកដង្ហើមបានស្រួលជាងមុន។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "A sense of completeness may already be within reach at home. Appreciating what the family has achieved together could be a good start.",
+        "km": "អារម្មណ៍នៃភាពពេញលេញ ប្រហែលជាស្ថិតនៅក្នុងដៃរួចហើយនៅផ្ទះ។ ការកោតសរសើរអ្វីដែលគ្រួសារបានសម្រេចជាមួយគ្នា អាចជាការចាប់ផ្តើមល្អ។"
+      },
+      "challenge": {
+        "en": "Relaxing once things feel settled could let small habits of neglect creep back in. Keep up the gestures that brought the peace in the first place.",
+        "km": "ការបន្ធូរខ្លួននៅពេលអ្វីៗហាក់ដូចជានឹងនរ អាចបណ្តោយឱ្យទម្លាប់មិនយកចិត្តទុកដាក់តូចៗត្រឡប់មកវិញ។ សូមបន្តកាយវិការដែលបាននាំសន្តិភាពមកតាំងពីដំបូង។"
+      },
+      "outcome": {
+        "en": "A sense of wholeness could make home a place of deep belonging. Marking family milestones together may become a habit that keeps the peace.",
+        "km": "អារម្មណ៍នៃភាពពេញលេញ អាចធ្វើឱ្យផ្ទះក្លាយជាកន្លែងនៃការជាផ្នែកមួយយ៉ាងជ្រៅ។ ការអបអរព្រឹត្តិការណ៍សំខាន់ៗរបស់គ្រួសារជាមួយគ្នា អាចក្លាយជាទម្លាប់ដែលរក្សាសន្តិភាព។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A fresh, enthusiastic idea may be the spark your home needs. Suggesting a new shared activity, like cooking together or a family outing, could lift the mood.",
+        "km": "គំនិតថ្មី និងរំភើបមួយ ប្រហែលជាការបំផុសដែលផ្ទះរបស់អ្នកត្រូវការ។ ការស្នើសកម្មភាពរួមថ្មីមួយ ដូចជាការធ្វើម្ហូបជាមួយគ្នា ឬការដើរលេងជាគ្រួសារ អាចលើកស្ទួយអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Starting something new and then dropping it could leave relatives feeling let down. Pick one idea and see it through together.",
+        "km": "ការចាប់ផ្តើមអ្វីថ្មី ហើយបន្ទាប់មកបោះបង់វា អាចធ្វើឱ្យសាច់ញាតិខកចិត្ត។ សូមជ្រើសរើសគំនិតមួយ ហើយអនុវត្តវាឱ្យចប់ជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "A shared new interest could bring energy and closeness back into family life. Having something to look forward to together may ease everyday tension.",
+        "km": "ចំណាប់អារម្មណ៍រួមថ្មីមួយ អាចនាំថាមពល និងភាពស្និទ្ធស្នាលត្រឡប់មកជីវិតគ្រួសារវិញ។ ការមានអ្វីមួយដើម្បីទន្ទឹងរង់ចាំជាមួយគ្នា អាចបន្ធូរភាពតានតឹងប្រចាំថ្ងៃ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Planning together may be a good starting point for a calmer home. Sitting down to talk about what each person wants could reveal common ground.",
+        "km": "ការរៀបចំផែនការជាមួយគ្នា ប្រហែលជាចំណុចចាប់ផ្តើមល្អសម្រាប់ផ្ទះស្ងប់ជាងមុន។ ការអង្គុយនិយាយអំពីអ្វីដែលម្នាក់ៗចង់បាន អាចបង្ហាញចំណុចរួម។"
+      },
+      "challenge": {
+        "en": "Making household decisions alone could leave others feeling unheard. Involve family members in plans that affect them.",
+        "km": "ការធ្វើការសម្រេចចិត្តក្នុងគ្រួសារតែម្នាក់ឯង អាចធ្វើឱ្យអ្នកដទៃមានអារម្មណ៍ថាមិនត្រូវបានគេស្តាប់។ សូមរួមបញ្ចូលសមាជិកគ្រួសារក្នុងផែនការដែលប៉ះពាល់ដល់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "A plan everyone helped shape could bring a shared sense of direction at home. Relatives who feel included may cooperate more willingly.",
+        "km": "ផែនការដែលអ្នករាល់គ្នាបានជួយរៀបចំ អាចនាំមកនូវអារម្មណ៍រួមនៃទិសដៅនៅផ្ទះ។ សាច់ញាតិដែលមានអារម្មណ៍ថាត្រូវបានរួមបញ្ចូល អាចសហការដោយស្ម័គ្រចិត្តជាងមុន។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Looking past small daily frictions to the bigger picture may help. Remembering what the family is building together could restore patience with one another.",
+        "km": "ការមើលហួសពីការកកិតតូចៗប្រចាំថ្ងៃ ទៅរករូបភាពធំ អាចជួយបាន។ ការនឹកឃើញពីអ្វីដែលគ្រួសារកំពុងកសាងជាមួយគ្នា អាចស្តារការអត់ធ្មត់ចំពោះគ្នាទៅវិញទៅមក។"
+      },
+      "challenge": {
+        "en": "Relatives drifting into separate lives could weaken the sense of togetherness. Keep regular contact, even with those who live far away.",
+        "km": "សាច់ញាតិដែលរសាត់ទៅរកជីវិតដាច់ដោយឡែក អាចធ្វើឱ្យអារម្មណ៍នៃការនៅជាមួយគ្នាចុះខ្សោយ។ សូមរក្សាទំនាក់ទំនងទៀងទាត់ សូម្បីតែជាមួយអ្នកដែលរស់នៅឆ្ងាយ។"
+      },
+      "outcome": {
+        "en": "A shared vision for the family could bring people together even across distance. Supporting each other's dreams may deepen harmony.",
+        "km": "ចក្ខុវិស័យរួមសម្រាប់គ្រួសារ អាចនាំមនុស្សមកជួបគ្នា សូម្បីតែឆ្លងចម្ងាយ។ ការគាំទ្រក្តីស្រមៃរបស់គ្នាទៅវិញទៅមក អាចពង្រឹងភាពសុខដុម។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Celebrating together may be one of the easiest ways to bring harmony home. Marking a birthday, festival or small success could draw everyone in.",
+        "km": "ការអបអរជាមួយគ្នា ប្រហែលជាវិធីងាយស្រួលបំផុតមួយក្នុងការនាំភាពសុខដុមមកផ្ទះ។ ការអបអរថ្ងៃកំណើត ពិធីបុណ្យ ឬភាពជោគជ័យតូចមួយ អាចទាក់ទាញអ្នករាល់គ្នាចូលរួម។"
+      },
+      "challenge": {
+        "en": "Stress over hosting or planning gatherings could spoil the mood. Share the preparation so nobody is overwhelmed.",
+        "km": "ភាពតានតឹងលើការទទួលភ្ញៀវ ឬការរៀបចំការជួបជុំ អាចធ្វើឱ្យខូចអារម្មណ៍។ សូមចែករំលែកការរៀបចំ ដើម្បីកុំឱ្យនរណាម្នាក់លើសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Happy gatherings could make home feel stable, warm and welcoming. Shared celebrations may become cherished family traditions.",
+        "km": "ការជួបជុំដ៏រីករាយ អាចធ្វើឱ្យផ្ទះមានអារម្មណ៍នឹងនរ កក់ក្តៅ និងរាក់ទាក់។ ការអបអររួមគ្នា អាចក្លាយជាប្រពៃណីគ្រួសារដ៏មានតម្លៃ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Squabbles and competing opinions may be disturbing the peace at home. Recognising that everyone wants to be heard could be your starting point.",
+        "km": "ការឈ្លោះប្រកែកតូចតាច និងមតិប្រកួតប្រជែងគ្នា ប្រហែលជាកំពុងរំខានសន្តិភាពនៅផ្ទះ។ ការទទួលស្គាល់ថាអ្នករាល់គ្នាចង់ឱ្យគេស្តាប់ អាចជាចំណុចចាប់ផ្តើមរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Joining in every argument could keep the noise going. Step back, lower your voice and invite calmer discussion.",
+        "km": "ការចូលរួមក្នុងរាល់ការឈ្លោះប្រកែក អាចរក្សាភាពអ៊ូអរឱ្យបន្ត។ សូមថយក្រោយ បន្ថយសំឡេង ហើយអញ្ជើញការពិភាក្សាដោយស្ងប់ស្ងាត់។"
+      },
+      "outcome": {
+        "en": "Turning arguments into fair discussions could clear the air at home. Agreeing on how to disagree may bring lasting peace.",
+        "km": "ការប្តូរការឈ្លោះប្រកែកទៅជាការពិភាក្សាដោយយុត្តិធម៌ អាចធ្វើឱ្យបរិយាកាសនៅផ្ទះស្រឡះ។ ការព្រមព្រៀងគ្នាលើរបៀបខ្វែងគំនិត អាចនាំមកនូវសន្តិភាពស្ថិតស្ថេរ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Recognising each other's efforts may be a simple way to bring harmony. Praising a relative's hard work could lift the whole household.",
+        "km": "ការទទួលស្គាល់ការខិតខំរបស់គ្នាទៅវិញទៅមក ប្រហែលជាវិធីសាមញ្ញក្នុងការនាំភាពសុខដុម។ ការសរសើរការខិតខំរបស់សាច់ញាតិម្នាក់ អាចលើកស្ទួយគ្រួសារទាំងមូល។"
+      },
+      "challenge": {
+        "en": "Praising some family members more than others could create rivalry. Notice everyone's contributions, large and small.",
+        "km": "ការសរសើរសមាជិកគ្រួសារខ្លះច្រើនជាងអ្នកផ្សេង អាចបង្កការប្រជែង។ សូមកត់សម្គាល់ការរួមចំណែករបស់អ្នករាល់គ្នា ទាំងធំ និងតូច។"
+      },
+      "outcome": {
+        "en": "A culture of appreciation could make home a more supportive place. People who feel valued may be kinder to each other.",
+        "km": "វប្បធម៌នៃការកោតសរសើរ អាចធ្វើឱ្យផ្ទះក្លាយជាកន្លែងគាំទ្រគ្នាជាងមុន។ មនុស្សដែលមានអារម្មណ៍ថាត្រូវបានគេឱ្យតម្លៃ អាចសប្បុរសចំពោះគ្នាទៅវិញទៅមកជាងមុន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Standing up for what matters to you at home may be necessary, but gently. Calmly holding your ground could earn respect.",
+        "km": "ការក្រោកឈរការពារអ្វីដែលសំខាន់សម្រាប់អ្នកនៅផ្ទះ ប្រហែលជាចាំបាច់ ប៉ុន្តែដោយទន់ភ្លន់។ ការរក្សាជំហររបស់អ្នកដោយស្ងប់ស្ងាត់ អាចទទួលបានការគោរព។"
+      },
+      "challenge": {
+        "en": "Defending yourself in every conversation could make relatives defensive too. Listen first, and pick your stands carefully.",
+        "km": "ការការពារខ្លួនក្នុងរាល់ការសន្ទនា អាចធ្វើឱ្យសាច់ញាតិការពារខ្លួនដែរ។ សូមស្តាប់ជាមុន ហើយជ្រើសរើសជំហររបស់អ្នកដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Firm but kind boundaries could bring respect and peace at home. Relatives may appreciate knowing where you stand.",
+        "km": "ព្រំដែនម៉ឺងម៉ាត់ ប៉ុន្តែសប្បុរស អាចនាំការគោរព និងសន្តិភាពនៅផ្ទះ។ សាច់ញាតិអាចកោតសរសើរការដឹងថាអ្នកឈរនៅត្រង់ណា។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Quick, clear communication may be the key to a smoother home life. Sending a kind message or making a prompt call could ease tension.",
+        "km": "ការទំនាក់ទំនងរហ័ស និងច្បាស់លាស់ ប្រហែលជាគន្លឹះនៃជីវិតនៅផ្ទះរលូនជាងមុន។ ការផ្ញើសារសប្បុរស ឬការហៅទូរស័ព្ទភ្លាមៗ អាចបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Hasty words in a busy moment could cause hurt. Slow down before replying when emotions are high.",
+        "km": "ពាក្យសម្តីប្រញាប់ប្រញាល់ក្នុងពេលមមាញឹក អាចបង្កការឈឺចាប់។ សូមបន្ថយល្បឿនមុនពេលឆ្លើយតប នៅពេលអារម្មណ៍ខ្ពស់។"
+      },
+      "outcome": {
+        "en": "Keeping communication flowing could stop small issues from growing. Regular check-ins may help everyone feel connected.",
+        "km": "ការរក្សាលំហូរទំនាក់ទំនង អាចបញ្ឈប់បញ្ហាតូចៗពីការរីកធំ។ ការសួរសុខទុក្ខជាប្រចាំ អាចជួយអ្នករាល់គ្នាឱ្យមានអារម្មណ៍ភ្ជាប់គ្នា។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "The family may be tired after a hard stretch, and gentleness could matter most. Recognising everyone's weariness could be your starting point.",
+        "km": "គ្រួសារប្រហែលជាហត់នឿយ បន្ទាប់ពីដំណាក់កាលលំបាក ហើយភាពទន់ភ្លន់អាចសំខាន់បំផុត។ ការទទួលស្គាល់ភាពនឿយហត់របស់អ្នករាល់គ្នា អាចជាចំណុចចាប់ផ្តើមរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Exhaustion could make everyone short-tempered over small things. Let people rest and eat before tackling difficult conversations at home.",
+        "km": "ការអស់កម្លាំង អាចធ្វើឱ្យអ្នករាល់គ្នាខឹងងាយលើរឿងតូចតាច។ សូមឱ្យមនុស្សសម្រាក និងញ៉ាំអាហារ មុនពេលដោះស្រាយការសន្ទនាលំបាកនៅផ្ទះ។"
+      },
+      "outcome": {
+        "en": "Supporting each other through fatigue could build deeper trust and calm. Resilience shared may bring the family closer.",
+        "km": "ការគាំទ្រគ្នាទៅវិញទៅមកឆ្លងកាត់ភាពនឿយហត់ អាចកសាងការទុកចិត្ត និងភាពស្ងប់កាន់តែជ្រៅ។ ភាពធន់រួមគ្នា អាចនាំគ្រួសារឱ្យខិតជិតគ្នា។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Too much may be resting on too few shoulders at home. Noticing who carries the heaviest load could be the first step to harmony.",
+        "km": "រឿងច្រើនពេកប្រហែលជាកំពុងសង្កត់លើស្មាតិចពេកនៅផ្ទះ។ ការកត់សម្គាល់ថាអ្នកណាទទួលបន្ទុកធ្ងន់បំផុត អាចជាជំហានដំបូងទៅរកភាពសុខដុម។"
+      },
+      "challenge": {
+        "en": "Carrying everything yourself could lead to burnout and resentment. Ask for help clearly and accept it gracefully.",
+        "km": "ការទទួលបន្ទុកអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចនាំឱ្យអស់កម្លាំង និងអាក់អន់ចិត្ត។ សូមសុំជំនួយឱ្យច្បាស់ ហើយទទួលយកវាដោយសុភាព។"
+      },
+      "outcome": {
+        "en": "Sharing the load fairly could lighten the mood and ease tension at home. Everyone helping may bring a new sense of teamwork.",
+        "km": "ការចែករំលែកបន្ទុកដោយយុត្តិធម៌ អាចធ្វើឱ្យអារម្មណ៍ស្រាល និងបន្ធូរភាពតានតឹងនៅផ្ទះ។ ការដែលអ្នករាល់គ្នាជួយ អាចនាំមកនូវអារម្មណ៍ថ្មីនៃការងារជាក្រុម។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity and playfulness may help bring harmony home. Asking relatives about their interests could open warmer conversations.",
+        "km": "ការចង់ដឹង និងភាពលេងសើច អាចជួយនាំភាពសុខដុមមកផ្ទះ។ ការសួរសាច់ញាតិអំពីចំណាប់អារម្មណ៍របស់ពួកគេ អាចបើកការសន្ទនាកក់ក្តៅជាងមុន។"
+      },
+      "challenge": {
+        "en": "Restless energy could clash with those who want calm. Find activities that suit both lively and quiet family members.",
+        "km": "ថាមពលមិនស្ងប់ អាចប៉ះទង្គិចជាមួយអ្នកដែលចង់បានភាពស្ងប់។ សូមរកសកម្មភាពដែលសមនឹងទាំងសមាជិកគ្រួសារដែលរស់រវើក និងស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Shared fun and learning could make home feel lively and connected. Playing a game or learning a new skill together may ease tension between generations.",
+        "km": "ភាពសប្បាយ និងការរៀនរួមគ្នា អាចធ្វើឱ្យផ្ទះមានអារម្មណ៍រស់រវើក និងភ្ជាប់គ្នា។ ការលេងល្បែង ឬការរៀនជំនាញថ្មីជាមួយគ្នា អាចបន្ធូរភាពតានតឹងរវាងមនុស្សជំនាន់ផ្សេងៗ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold energy may help you tackle a long-standing household problem head on. Taking one clear step, like fixing a shared space or schedule, could break a stalemate.",
+        "km": "ថាមពលក្លាហាន អាចជួយអ្នកដោះស្រាយបញ្ហាគ្រួសារដែលមានយូរមកហើយដោយផ្ទាល់។ ការបោះជំហានច្បាស់លាស់មួយ ដូចជាការរៀបចំកន្លែងរួម ឬកាលវិភាគ អាចបំបែកភាពជាប់គាំង។"
+      },
+      "challenge": {
+        "en": "Rushing in with sudden changes to how the home runs could unsettle relatives. Talk through your plans with them before acting.",
+        "km": "ការប្រញាប់ចូលជាមួយការផ្លាស់ប្តូរភ្លាមៗលើរបៀបដំណើរការផ្ទះ អាចធ្វើឱ្យសាច់ញាតិមិននឹងនរ។ សូមពិភាក្សាផែនការរបស់អ្នកជាមួយពួកគេ មុនពេលធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "Energetic, well-planned action could bring positive change to family life. A shared adventure, even a small one, may create bonds that last.",
+        "km": "សកម្មភាពស្វាហាប់ និងរៀបចំផែនការបានល្អ អាចនាំការផ្លាស់ប្តូរវិជ្ជមានដល់ជីវិតគ្រួសារ។ ការផ្សងព្រេងរួមគ្នា សូម្បីតែតូចមួយ អាចបង្កើតចំណងដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your warmth and confidence may already help keep spirits up at home. Being a cheerful presence could set the tone for others.",
+        "km": "ភាពកក់ក្តៅ និងទំនុកចិត្តរបស់អ្នក ប្រហែលជាជួយរក្សាស្មារតីនៅផ្ទះឱ្យខ្ពស់រួចហើយ។ ការធ្វើជាវត្តមានរីករាយ អាចកំណត់បរិយាកាសសម្រាប់អ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Trying to keep everyone cheerful on your own could wear you down. Let others take turns lifting the mood, and rest when you need to.",
+        "km": "ការព្យាយាមរក្សាអ្នករាល់គ្នាឱ្យរីករាយតែម្នាក់ឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមឱ្យអ្នកដទៃផ្លាស់វេនលើកស្ទួយអារម្មណ៍ ហើយសម្រាកនៅពេលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "A warm, welcoming atmosphere could make home a place everyone loves to return to. Your generous spirit may encourage relatives to be kinder too.",
+        "km": "បរិយាកាសកក់ក្តៅ និងរាក់ទាក់ អាចធ្វើឱ្យផ្ទះក្លាយជាកន្លែងដែលអ្នករាល់គ្នាចូលចិត្តត្រឡប់មកវិញ។ ស្មារតីចិត្តទូលាយរបស់អ្នក អាចលើកទឹកចិត្តសាច់ញាតិឱ្យសប្បុរសជាងមុនផងដែរ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Leading with a clear, positive vision may help unite the family. Sharing what you hope for home life could inspire others.",
+        "km": "ការដឹកនាំដោយចក្ខុវិស័យច្បាស់លាស់ និងវិជ្ជមាន អាចជួយរួបរួមគ្រួសារ។ ការចែករំលែកអ្វីដែលអ្នកសង្ឃឹមសម្រាប់ជីវិតនៅផ្ទះ អាចបំផុសគំនិតអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Imposing your own picture of family life could leave relatives feeling unheard. Ask each person what a peaceful home would look like to them.",
+        "km": "ការដាក់រូបភាពជីវិតគ្រួសាររបស់អ្នកដោយបង្ខំ អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ថាមិនត្រូវបានគេស្តាប់។ សូមសួរម្នាក់ៗថាផ្ទះមានសន្តិភាពនឹងមើលទៅដូចម្តេចសម្រាប់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Inspiring, inclusive leadership could bring the family together around shared goals. A home where everyone helped set the direction may feel more peaceful.",
+        "km": "ការដឹកនាំដែលបំផុសគំនិត និងរួមបញ្ចូល អាចនាំគ្រួសារមកជួបជុំគ្នាជុំវិញគោលដៅរួម។ ផ្ទះដែលអ្នករាល់គ្នាបានជួយកំណត់ទិសដៅ អាចមានអារម្មណ៍សន្តិភាពជាងមុន។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "An open heart may be your best starting point for a more peaceful home. A simple, warm gesture, like a hug or kind note, could soften the atmosphere.",
+        "km": "ចិត្តបើកចំហ ប្រហែលជាចំណុចចាប់ផ្តើមល្អបំផុតរបស់អ្នកសម្រាប់ផ្ទះមានសន្តិភាពជាងមុន។ កាយវិការកក់ក្តៅសាមញ្ញមួយ ដូចជាការឱប ឬកំណត់ចំណាំសប្បុរស អាចបន្ទន់បរិយាកាស។"
+      },
+      "challenge": {
+        "en": "Waiting for others to show affection first could leave everyone holding back. Be the one who offers warmth without keeping score.",
+        "km": "ការរង់ចាំឱ្យអ្នកដទៃបង្ហាញក្តីស្រលាញ់ជាមុន អាចធ្វើឱ្យអ្នករាល់គ្នាទប់ខ្លួន។ សូមធ្វើជាអ្នកផ្តល់ភាពកក់ក្តៅ ដោយមិនរាប់ពិន្ទុ។"
+      },
+      "outcome": {
+        "en": "Freely offered affection could fill the home with gentler feelings. Relatives may begin to return the warmth you show them.",
+        "km": "ក្តីស្រលាញ់ដែលផ្តល់ដោយសេរី អាចបំពេញផ្ទះដោយអារម្មណ៍ទន់ភ្លន់ជាងមុន។ សាច់ញាតិអាចចាប់ផ្តើមតបវិញនូវភាពកក់ក្តៅដែលអ្នកបង្ហាញពួកគេ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Mending one key relationship may do the most for harmony at home. Reaching out to the relative you feel most distant from could be a good start.",
+        "km": "ការជួសជុលទំនាក់ទំនងសំខាន់មួយ អាចធ្វើបានច្រើនបំផុតសម្រាប់ភាពសុខដុមនៅផ្ទះ។ ការឈោងទៅរកសាច់ញាតិដែលអ្នកមានអារម្មណ៍ឆ្ងាយបំផុត អាចជាការចាប់ផ្តើមល្អ។"
+      },
+      "challenge": {
+        "en": "Tension between two people could set the tone for the whole household. Encourage honest, private talks to clear the air between them.",
+        "km": "ភាពតានតឹងរវាងមនុស្សពីរនាក់ អាចកំណត់បរិយាកាសសម្រាប់គ្រួសារទាំងមូល។ សូមលើកទឹកចិត្តការពិភាក្សាស្មោះត្រង់ និងឯកជន ដើម្បីជម្រះបរិយាកាសរវាងពួកគេ។"
+      },
+      "outcome": {
+        "en": "A restored bond could ripple outward, calming the whole family. Mutual respect between two people may set an example for others.",
+        "km": "ចំណងដែលបានស្តារឡើងវិញ អាចរាលដាលទៅខាងក្រៅ ដោយធ្វើឱ្យគ្រួសារទាំងមូលស្ងប់។ ការគោរពគ្នាទៅវិញទៅមករវាងមនុស្សពីរនាក់ អាចជាគំរូសម្រាប់អ្នកដទៃ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Shared fun and friendship may be the quickest route to harmony. Inviting relatives and friends to relax together could ease tension.",
+        "km": "ភាពសប្បាយ និងមិត្តភាពរួមគ្នា ប្រហែលជាផ្លូវរហ័សបំផុតទៅរកភាពសុខដុម។ ការអញ្ជើញសាច់ញាតិ និងមិត្តភក្តិឱ្យសម្រាកលំហែជាមួយគ្នា អាចបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Socialising outside the home could leave those at home feeling neglected. Make time for family as well as friends.",
+        "km": "ការរាប់អានសង្គមនៅខាងក្រៅផ្ទះ អាចធ្វើឱ្យអ្នកនៅផ្ទះមានអារម្មណ៍ថាត្រូវបានគេមិនអើពើ។ សូមរកពេលសម្រាប់គ្រួសារ ក៏ដូចជាមិត្តភក្តិដែរ។"
+      },
+      "outcome": {
+        "en": "Laughter and good company could make home a place people enjoy. Celebrations may remind everyone why they care for each other.",
+        "km": "សំណើច និងមិត្តល្អ អាចធ្វើឱ្យផ្ទះក្លាយជាកន្លែងដែលមនុស្សរីករាយ។ ការអបអរ អាចរំលឹកអ្នករាល់គ្នាពីមូលហេតុដែលពួកគេយកចិត្តទុកដាក់គ្នា។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Someone at home may feel withdrawn or uninterested, and reaching out gently could help. Noticing their mood without judgement could be a start.",
+        "km": "នរណាម្នាក់នៅផ្ទះ ប្រហែលជាមានអារម្មណ៍ដកខ្លួន ឬមិនចាប់អារម្មណ៍ ហើយការឈោងទៅរកដោយទន់ភ្លន់អាចជួយបាន។ ការកត់សម្គាល់អារម្មណ៍របស់ពួកគេដោយមិនវិនិច្ឆ័យ អាចជាការចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Turning down invitations to connect could deepen the distance at home. Say yes to small offers of time together, even when you feel flat.",
+        "km": "ការបដិសេធការអញ្ជើញឱ្យភ្ជាប់ទំនាក់ទំនង អាចធ្វើឱ្យចម្ងាយនៅផ្ទះកាន់តែជ្រៅ។ សូមយល់ព្រមចំពោះការផ្តល់ជូនតូចៗដើម្បីនៅជាមួយគ្នា សូម្បីតែនៅពេលអ្នកមានអារម្មណ៍ស្ងាត់ស្ងៀម។"
+      },
+      "outcome": {
+        "en": "Reconnecting could bring renewed interest and warmth to family life. A simple shared activity may break the spell of apathy.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងឡើងវិញ អាចនាំចំណាប់អារម្មណ៍ និងភាពកក់ក្តៅថ្មីដល់ជីវិតគ្រួសារ។ សកម្មភាពរួមសាមញ្ញមួយ អាចបំបែកអារម្មណ៍ព្រងើយកន្តើយ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Grief or disappointment may be weighing on the household. Acknowledging the sadness openly could be the first step toward healing.",
+        "km": "ការសោកសៅ ឬការខកចិត្ត ប្រហែលជាកំពុងសង្កត់លើគ្រួសារ។ ការទទួលស្គាល់ភាពសោកសៅដោយចំហ អាចជាជំហានដំបូងឆ្ពោះទៅរកការជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Letting grief close everyone off from each other could make home feel colder. Make space to mourn together, and seek a counsellor if the sadness will not lift.",
+        "km": "ការបណ្តោយឱ្យការសោកសៅបិទអ្នករាល់គ្នាពីគ្នាទៅវិញទៅមក អាចធ្វើឱ្យផ្ទះមានអារម្មណ៍ត្រជាក់ជាងមុន។ សូមទុកលំហដើម្បីកាន់ទុក្ខជាមួយគ្នា ហើយស្វែងរកអ្នកប្រឹក្សា ប្រសិនបើភាពសោកសៅមិនធូរស្បើយ។"
+      },
+      "outcome": {
+        "en": "Comforting one another could help the family heal and grow closer. Sharing memories may turn sorrow into connection.",
+        "km": "ការលួងលោមគ្នាទៅវិញទៅមក អាចជួយគ្រួសារឱ្យជាសះស្បើយ និងខិតជិតគ្នា។ ការចែករំលែកអនុស្សាវរីយ៍ អាចប្តូរភាពសោកសៅទៅជាការភ្ជាប់ទំនាក់ទំនង។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Happy memories and simple kindness may be a gentle path to harmony. Recalling good times together could warm the atmosphere.",
+        "km": "អនុស្សាវរីយ៍រីករាយ និងភាពសប្បុរសសាមញ្ញ ប្រហែលជាផ្លូវទន់ភ្លន់ទៅរកភាពសុខដុម។ ការរំលឹកពីគ្រាល្អៗជាមួយគ្នា អាចធ្វើឱ្យបរិយាកាសកក់ក្តៅ។"
+      },
+      "challenge": {
+        "en": "Holding relatives up against how things were in better days could make them feel they never measure up. Enjoy the family you have, as it is.",
+        "km": "ការប្រៀបធៀបសាច់ញាតិជាមួយរបៀបដែលអ្វីៗធ្លាប់មានក្នុងគ្រាល្អៗ អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាមិនដែលគ្រប់គ្រាន់។ សូមរីករាយនឹងគ្រួសារដែលអ្នកមាន តាមអ្វីដែលវាជា។"
+      },
+      "outcome": {
+        "en": "Small acts of kindness could rekindle closeness and goodwill at home. Looking through old photos or retelling family stories may bring comfort and laughter.",
+        "km": "ទង្វើសប្បុរសតូចៗ អាចបញ្ឆេះភាពស្និទ្ធស្នាល និងឆន្ទៈល្អនៅផ្ទះឡើងវិញ។ ការមើលរូបថតចាស់ៗ ឬការនិទានរឿងគ្រួសារឡើងវិញ អាចនាំមកនូវភាពស្រួល និងសំណើច។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Many ideas about how to improve home life may be competing for attention. Choosing one realistic change could be your best starting point.",
+        "km": "គំនិតជាច្រើនអំពីរបៀបកែលម្អជីវិតនៅផ្ទះ ប្រហែលជាកំពុងប្រកួតប្រជែងគ្នាដើម្បីការយកចិត្តទុកដាក់។ ការជ្រើសរើសការផ្លាស់ប្តូរជាក់ស្តែងមួយ អាចជាចំណុចចាប់ផ្តើមល្អបំផុតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Unrealistic expectations of family life could lead to repeated disappointment. Aim for steady progress in how you treat each other, not perfection.",
+        "km": "ការរំពឹងទុកមិនជាក់ស្តែងចំពោះជីវិតគ្រួសារ អាចនាំឱ្យខកចិត្តម្តងហើយម្តងទៀត។ សូមផ្តោតលើវឌ្ឍនភាពទៀងទាត់ក្នុងរបៀបដែលអ្នកប្រព្រឹត្តចំពោះគ្នា មិនមែនភាពល្អឥតខ្ចោះទេ។"
+      },
+      "outcome": {
+        "en": "A clear, achievable goal, like one calm meal a day together, could bring real improvement. Focusing on one change may bring more peace than many promises.",
+        "km": "គោលដៅច្បាស់លាស់ និងអាចសម្រេចបាន ដូចជាអាហារស្ងប់ស្ងាត់ជាមួយគ្នាមួយពេលក្នុងមួយថ្ងៃ អាចនាំការកែលម្អពិតប្រាកដ។ ការផ្តោតលើការផ្លាស់ប្តូរមួយ អាចនាំសន្តិភាពច្រើនជាងការសន្យាជាច្រើន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Letting go of something that no longer works at home may be necessary for harmony. Walking away from an old pattern could bring relief.",
+        "km": "ការបោះបង់អ្វីដែលលែងដំណើរការនៅផ្ទះ ប្រហែលជាចាំបាច់សម្រាប់ភាពសុខដុម។ ការចាកចេញពីគំរូចាស់មួយ អាចនាំមកនូវការធូរស្បើយ។"
+      },
+      "challenge": {
+        "en": "Withdrawing from relatives without explanation could hurt those who care about you. If you need space, say so honestly and kindly.",
+        "km": "ការដកខ្លួនពីសាច់ញាតិដោយគ្មានការពន្យល់ អាចធ្វើឱ្យអ្នកដែលយកចិត្តទុកដាក់អ្នកឈឺចាប់។ ប្រសិនបើអ្នកត្រូវការលំហ សូមនិយាយវាដោយស្មោះត្រង់ និងសប្បុរស។"
+      },
+      "outcome": {
+        "en": "Releasing a habit that keeps causing friction could make space for healthier relationships at home. Relatives may welcome the change more than you expect.",
+        "km": "ការដោះលែងទម្លាប់ដែលបន្តបង្កការកកិត អាចបើកលំហសម្រាប់ទំនាក់ទំនងដែលមានសុខភាពល្អជាងនៅផ្ទះ។ សាច់ញាតិអាចស្វាគមន៍ការផ្លាស់ប្តូរនោះច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Appreciating what is already good at home may be a strong foundation for harmony. Saying thank you for everyday kindnesses could set a calmer tone.",
+        "km": "ការកោតសរសើរអ្វីដែលល្អរួចហើយនៅផ្ទះ ប្រហែលជាមូលដ្ឋានរឹងមាំសម្រាប់ភាពសុខដុម។ ការអរគុណចំពោះភាពសប្បុរសប្រចាំថ្ងៃ អាចកំណត់បរិយាកាសស្ងប់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Feeling comfortable could make it easy to overlook a relative who is unhappy. Keep checking in with each person, not just the household as a whole.",
+        "km": "ការមានអារម្មណ៍ស្រួល អាចធ្វើឱ្យងាយមើលរំលងសាច់ញាតិដែលមិនសប្បាយចិត្ត។ សូមបន្តសួរសុខទុក្ខម្នាក់ៗ មិនមែនតែគ្រួសារទាំងមូលទេ។"
+      },
+      "outcome": {
+        "en": "A habit of noticing what is good could make home feel peaceful and generous. Relatives who feel appreciated may offer the same kindness back.",
+        "km": "ទម្លាប់នៃការកត់សម្គាល់អ្វីដែលល្អ អាចធ្វើឱ្យផ្ទះមានអារម្មណ៍សន្តិភាព និងចិត្តទូលាយ។ សាច់ញាតិដែលមានអារម្មណ៍ថាត្រូវបានកោតសរសើរ អាចតបវិញនូវភាពសប្បុរសដូចគ្នា។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Love and togetherness may already be strong, giving you a solid base for harmony. Protecting family gatherings from outside pressures could keep that peace.",
+        "km": "ក្តីស្រលាញ់ និងការនៅជាមួយគ្នា ប្រហែលជារឹងមាំរួចហើយ ដោយផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានរឹងមាំសម្រាប់ភាពសុខដុម។ ការការពារការជួបជុំគ្រួសារពីសម្ពាធខាងក្រៅ អាចរក្សាសន្តិភាពនោះ។"
+      },
+      "challenge": {
+        "en": "Smoothing over every problem to look like a happy family could leave real hurts untouched. Let relatives raise difficulties without being seen as troublemakers.",
+        "km": "ការលុបលាងរាល់បញ្ហា ដើម្បីមើលទៅដូចជាគ្រួសាររីករាយ អាចទុករបួសពិតប្រាកដមិនបានប៉ះពាល់។ សូមឱ្យសាច់ញាតិលើកការលំបាក ដោយមិនត្រូវបានចាត់ទុកថាជាអ្នកបង្កបញ្ហា។"
+      },
+      "outcome": {
+        "en": "Deep harmony and love could fill family life when everyone feels safe to be themselves. Such shared happiness may become the family's lasting strength.",
+        "km": "ភាពសុខដុម និងក្តីស្រលាញ់យ៉ាងជ្រៅ អាចបំពេញជីវិតគ្រួសារ នៅពេលអ្នករាល់គ្នាមានអារម្មណ៍សុវត្ថិភាពក្នុងការជាខ្លួនឯង។ សុភមង្គលរួមបែបនេះ អាចក្លាយជាកម្លាំងស្ថិតស្ថេររបស់គ្រួសារ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Gentle, creative expression may help bring harmony home. Writing a kind note or sharing a song or drawing could open hearts that words have not reached.",
+        "km": "ការបញ្ចេញដោយទន់ភ្លន់ និងច្នៃប្រឌិត អាចជួយនាំភាពសុខដុមមកផ្ទះ។ ការសរសេរកំណត់ចំណាំសប្បុរស ឬការចែករំលែកបទចម្រៀង ឬគំនូរ អាចបើកចិត្តដែលពាក្យសម្តីមិនទាន់ទៅដល់។"
+      },
+      "challenge": {
+        "en": "Brushing aside a sensitive relative's feelings could make them retreat further. Take small concerns seriously and respond with patience.",
+        "km": "ការមិនអើពើនឹងអារម្មណ៍របស់សាច់ញាតិដែលរសើប អាចធ្វើឱ្យពួកគេដកខ្លួនកាន់តែឆ្ងាយ។ សូមយកកង្វល់តូចៗឱ្យធ្ងន់ធ្ងរ ហើយឆ្លើយតបដោយអត់ធ្មត់។"
+      },
+      "outcome": {
+        "en": "Encouraging gentle expression could make the home more caring and understanding. A family that shares feelings openly may quarrel less and forgive faster.",
+        "km": "ការលើកទឹកចិត្តការបញ្ចេញដោយទន់ភ្លន់ អាចធ្វើឱ្យផ្ទះកាន់តែយកចិត្តទុកដាក់ និងយល់ចិត្ត។ គ្រួសារដែលចែករំលែកអារម្មណ៍ដោយចំហ អាចឈ្លោះគ្នាតិច និងអភ័យទោសលឿនជាង។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "A heartfelt gesture may be the gentle start your home needs. Planning a thoughtful surprise for a relative could soften a strained mood.",
+        "km": "កាយវិការចេញពីចិត្ត ប្រហែលជាការចាប់ផ្តើមទន់ភ្លន់ដែលផ្ទះរបស់អ្នកត្រូវការ។ ការរៀបចំការភ្ញាក់ផ្អើលដោយគិតគូរសម្រាប់សាច់ញាតិម្នាក់ អាចបន្ទន់អារម្មណ៍តានតឹង។"
+      },
+      "challenge": {
+        "en": "Promising big changes in a burst of feeling and then forgetting them could deepen mistrust. Offer only what you can follow through on.",
+        "km": "ការសន្យាការផ្លាស់ប្តូរធំៗក្នុងពេលមានអារម្មណ៍ខ្លាំង ហើយបន្ទាប់មកភ្លេចវា អាចធ្វើឱ្យការមិនទុកចិត្តកាន់តែជ្រៅ។ សូមផ្តល់តែអ្វីដែលអ្នកអាចអនុវត្តតាមបាន។"
+      },
+      "outcome": {
+        "en": "Sincere kindness could bring tenderness back into family relationships. Thoughtful gestures may be remembered long after arguments are forgotten.",
+        "km": "ភាពសប្បុរសដោយស្មោះត្រង់ អាចនាំភាពទន់ភ្លន់ត្រឡប់មកទំនាក់ទំនងគ្រួសារវិញ។ កាយវិការគិតគូរ អាចត្រូវបានចងចាំយូរ បន្ទាប់ពីការឈ្លោះប្រកែកត្រូវបានភ្លេច។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your ability to sense how others feel may be a real gift for harmony at home. Responding to a relative's mood with compassion could ease tension.",
+        "km": "សមត្ថភាពរបស់អ្នកក្នុងការដឹងពីអារម្មណ៍របស់អ្នកដទៃ ប្រហែលជាអំណោយពិតប្រាកដសម្រាប់ភាពសុខដុមនៅផ្ទះ។ ការឆ្លើយតបនឹងអារម្មណ៍របស់សាច់ញាតិដោយមេត្តាករុណា អាចបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Taking on every relative's worries as your own could leave you too tired to help anyone. Listen with care, then let them carry their own part.",
+        "km": "ការទទួលយកកង្វល់របស់សាច់ញាតិគ្រប់គ្នាជារបស់អ្នក អាចធ្វើឱ្យអ្នកហត់នឿយពេកមិនអាចជួយនរណាម្នាក់បាន។ សូមស្តាប់ដោយយកចិត្តទុកដាក់ បន្ទាប់មកឱ្យពួកគេទទួលបន្ទុកផ្នែករបស់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Compassionate listening could make home a safe place for everyone's feelings. Relatives who feel understood may treat each other more kindly.",
+        "km": "ការស្តាប់ដោយមេត្តាករុណា អាចធ្វើឱ្យផ្ទះក្លាយជាកន្លែងមានសុវត្ថិភាពសម្រាប់អារម្មណ៍របស់អ្នករាល់គ្នា។ សាច់ញាតិដែលមានអារម្មណ៍ថាត្រូវបានយល់ អាចប្រព្រឹត្តចំពោះគ្នាដោយសប្បុរសជាងមុន។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "A calm, steady presence may be what the household needs from you. Keeping your composure in heated moments could help others settle.",
+        "km": "វត្តមានស្ងប់ និងនឹងនរ ប្រហែលជាអ្វីដែលគ្រួសារត្រូវការពីអ្នក។ ការរក្សាភាពស្ងប់ស្ងាត់របស់អ្នកក្នុងពេលក្តៅក្រហាយ អាចជួយអ្នកដទៃឱ្យស្ងប់។"
+      },
+      "challenge": {
+        "en": "Holding your own feelings in too tightly could make you seem distant to relatives. Let them see some warmth behind your calm.",
+        "km": "ការទប់អារម្មណ៍ផ្ទាល់ខ្លួនតឹងពេក អាចធ្វើឱ្យអ្នកហាក់ដូចជានៅឆ្ងាយពីសាច់ញាតិ។ សូមឱ្យពួកគេឃើញភាពកក់ក្តៅខ្លះនៅពីក្រោយភាពស្ងប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Balanced, caring leadership could guide the family through disagreements peacefully. Your steadiness may become something relatives rely on.",
+        "km": "ការដឹកនាំដោយតុល្យភាព និងយកចិត្តទុកដាក់ អាចដឹកនាំគ្រួសារឆ្លងកាត់ការខ្វែងគំនិតដោយសន្តិភាព។ ភាពនឹងនររបស់អ្នក អាចក្លាយជាអ្វីដែលសាច់ញាតិពឹងផ្អែក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A clear, honest conversation may be the key to more harmony at home. Naming a problem calmly could cut through tension that has built up.",
+        "km": "ការសន្ទនាច្បាស់លាស់ និងស្មោះត្រង់ ប្រហែលជាគន្លឹះនៃភាពសុខដុមកាន់តែច្រើននៅផ្ទះ។ ការដាក់ឈ្មោះបញ្ហាមួយដោយស្ងប់ស្ងាត់ អាចកាត់តាមភាពតានតឹងដែលបានកកកុញ។"
+      },
+      "challenge": {
+        "en": "Sharp words, even true ones, could wound relatives and shut down discussion. Choose a calm moment and speak with care.",
+        "km": "ពាក្យសម្តីមុតស្រួច សូម្បីតែពាក្យពិត អាចធ្វើឱ្យសាច់ញាតិឈឺចាប់ និងបិទការពិភាក្សា។ សូមជ្រើសរើសពេលស្ងប់ ហើយនិយាយដោយយកចិត្តទុកដាក់។"
+      },
+      "outcome": {
+        "en": "Honest, respectful talk could clear the air and bring lasting calm. Knowing where everyone stands may ease hidden tension.",
+        "km": "ការនិយាយដោយស្មោះត្រង់ និងគោរព អាចជម្រះបរិយាកាស និងនាំមកនូវភាពស្ងប់ស្ថិតស្ថេរ។ ការដឹងថាអ្នករាល់គ្នាឈរនៅត្រង់ណា អាចបន្ធូរភាពតានតឹងលាក់កំបាំង។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "An unresolved disagreement may be sitting quietly beneath the peace at home. Acknowledging it gently could be your first step.",
+        "km": "ការខ្វែងគំនិតដែលមិនទាន់ដោះស្រាយ ប្រហែលជាកំពុងស្ថិតនៅស្ងាត់ៗនៅពីក្រោមសន្តិភាពនៅផ្ទះ។ ការទទួលស្គាល់វាដោយទន់ភ្លន់ អាចជាជំហានដំបូងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Avoiding a difficult choice to keep everyone happy could leave tension simmering. Make a fair decision and explain it kindly.",
+        "km": "ការជៀសវាងជម្រើសលំបាក ដើម្បីរក្សាអ្នករាល់គ្នាឱ្យសប្បាយ អាចទុកភាពតានតឹងឱ្យពុះកញ្ជ្រោល។ សូមធ្វើការសម្រេចចិត្តដោយយុត្តិធម៌ ហើយពន្យល់វាដោយសប្បុរស។"
+      },
+      "outcome": {
+        "en": "Naming a quiet standoff could release pressure that has been building at home. A compromise both sides helped shape may hold far better than silence did.",
+        "km": "ការដាក់ឈ្មោះភាពប្រឆាំងគ្នាស្ងាត់ៗ អាចបញ្ចេញសម្ពាធដែលបានកកកុញនៅផ្ទះ។ ការសម្របសម្រួលដែលភាគីទាំងពីរបានជួយរៀបចំ អាចស្ថិតស្ថេរល្អជាងភាពស្ងៀមស្ងាត់។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Hurt feelings may need tending before harmony can return. Recognising that someone at home is in pain could be the place to begin.",
+        "km": "អារម្មណ៍ឈឺចាប់ ប្រហែលជាត្រូវការការថែរក្សា មុនពេលភាពសុខដុមអាចត្រឡប់មកវិញ។ ការទទួលស្គាល់ថានរណាម្នាក់នៅផ្ទះកំពុងឈឺចាប់ អាចជាកន្លែងចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Ignoring a hurt could let it harden into lasting resentment. Offer a sincere apology where it is due, and consider a counsellor for deep wounds.",
+        "km": "ការមិនអើពើនឹងការឈឺចាប់ អាចបណ្តោយឱ្យវារឹងទៅជាការអាក់អន់ចិត្តជាប់លាប់។ សូមសុំទោសដោយស្មោះ នៅពេលដែលគួរធ្វើ ហើយពិចារណាអ្នកប្រឹក្សាសម្រាប់របួសជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Facing pain together could begin real healing at home. Honest apologies and patience may restore trust.",
+        "km": "ការប្រឈមមុខនឹងការឈឺចាប់ជាមួយគ្នា អាចចាប់ផ្តើមការជាសះស្បើយពិតប្រាកដនៅផ្ទះ។ ការសុំទោសដោយស្មោះត្រង់ និងការអត់ធ្មត់ អាចស្តារការទុកចិត្ត។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest and quiet may be what the household needs before anything else. Giving everyone a calm evening, free of difficult topics, could be a gentle start.",
+        "km": "ការសម្រាក និងភាពស្ងប់ ប្រហែលជាអ្វីដែលគ្រួសារត្រូវការមុនអ្វីទាំងអស់។ ការផ្តល់ឱ្យអ្នករាល់គ្នានូវល្ងាចស្ងប់ស្ងាត់ ដោយគ្មានប្រធានបទលំបាក អាចជាការចាប់ផ្តើមទន់ភ្លន់។"
+      },
+      "challenge": {
+        "en": "Pressing for answers while people are exhausted could spark new arguments. Let tempers cool and pick a rested moment to talk.",
+        "km": "ការជំរុញរកចម្លើយ ខណៈមនុស្សអស់កម្លាំង អាចបង្កការឈ្លោះប្រកែកថ្មី។ សូមឱ្យកំហឹងត្រជាក់ ហើយជ្រើសរើសពេលដែលបានសម្រាកដើម្បីនិយាយ។"
+      },
+      "outcome": {
+        "en": "A restful pause could restore patience and goodwill under your roof. Relatives who feel rested may be far gentler with each other.",
+        "km": "ការផ្អាកដើម្បីសម្រាក អាចស្តារការអត់ធ្មត់ និងឆន្ទៈល្អនៅក្រោមដំបូលរបស់អ្នក។ សាច់ញាតិដែលមានអារម្មណ៍ថាបានសម្រាក អាចទន់ភ្លន់ចំពោះគ្នាច្រើនជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "A recent argument may have left some relatives feeling they lost. Noticing who is still hurting could be your first step toward peace.",
+        "km": "ការឈ្លោះប្រកែកថ្មីៗ ប្រហែលជាបានធ្វើឱ្យសាច់ញាតិខ្លះមានអារម្មណ៍ថាពួកគេចាញ់។ ការកត់សម្គាល់ថាអ្នកណានៅតែឈឺចាប់ អាចជាជំហានដំបូងរបស់អ្នកឆ្ពោះទៅរកសន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Needing to win every disagreement could cost you closeness with people you love. Let some arguments go unanswered.",
+        "km": "ការត្រូវការឈ្នះរាល់ការខ្វែងគំនិត អាចធ្វើឱ្យអ្នកបាត់បង់ភាពស្និទ្ធស្នាលជាមួយមនុស្សដែលអ្នកស្រលាញ់។ សូមទុកឱ្យការឈ្លោះប្រកែកខ្លះដោយមិនឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "Choosing peace over being right could change the way arguments end at home. Saying sorry first, even when unsure, may mend what pride damaged.",
+        "km": "ការជ្រើសរើសសន្តិភាពជាជាងការចង់ត្រូវ អាចផ្លាស់ប្តូររបៀបដែលការឈ្លោះប្រកែកបញ្ចប់នៅផ្ទះ។ ការសុំទោសមុន សូម្បីតែនៅពេលមិនប្រាកដ អាចជួសជុលអ្វីដែលមោទនភាពបានបំផ្លាញ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Moving on from a difficult period may be the step your family needs. Leaving old conflicts behind could make room for calmer days at home.",
+        "km": "ការបន្តទៅមុខពីដំណាក់កាលលំបាក ប្រហែលជាជំហានដែលគ្រួសាររបស់អ្នកត្រូវការ។ ការទុកជម្លោះចាស់ៗនៅពីក្រោយ អាចបើកកន្លែងសម្រាប់ភាពស្ងប់ជាងមុននៅផ្ទះ។"
+      },
+      "challenge": {
+        "en": "Bringing up old grievances in new disagreements could undo progress. Keep discussions focused on the issue at hand.",
+        "km": "ការលើកការអាក់អន់ចិត្តចាស់ៗក្នុងការខ្វែងគំនិតថ្មី អាចបំផ្លាញវឌ្ឍនភាព។ សូមរក្សាការពិភាក្សាឱ្យផ្តោតលើបញ្ហាដែលកំពុងកើតឡើង។"
+      },
+      "outcome": {
+        "en": "Turning the page on a hard chapter together could bring a calmer household. Agreeing not to reopen settled quarrels may give relationships room to mend.",
+        "km": "ការបើកទំព័រថ្មីលើជំពូកលំបាកជាមួយគ្នា អាចនាំមកនូវគ្រួសារស្ងប់ជាងមុន។ ការព្រមព្រៀងគ្នាមិនបើកការឈ្លោះប្រកែកដែលបានដោះស្រាយរួចឡើងវិញ អាចផ្តល់លំហឱ្យទំនាក់ទំនងជាសះស្បើយ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Secrets or half-truths may be quietly undermining trust at home. Encouraging openness, starting with yourself, could be a good beginning.",
+        "km": "អាថ៌កំបាំង ឬការពិតពាក់កណ្តាល ប្រហែលជាកំពុងបំផ្លាញការទុកចិត្តនៅផ្ទះដោយស្ងៀមស្ងាត់។ ការលើកទឹកចិត្តភាពបើកចំហ ដោយចាប់ផ្តើមពីខ្លួនឯង អាចជាការចាប់ផ្តើមល្អ។"
+      },
+      "challenge": {
+        "en": "Working around relatives instead of talking to them could deepen mistrust. Raise concerns directly and kindly.",
+        "km": "ការធ្វើការដោយគេចពីសាច់ញាតិ ជាជាងនិយាយជាមួយពួកគេ អាចធ្វើឱ្យការមិនទុកចិត្តកាន់តែជ្រៅ។ សូមលើកកង្វល់ដោយផ្ទាល់ និងសប្បុរស។"
+      },
+      "outcome": {
+        "en": "Setting an example of openness could slowly make secrets unnecessary at home. Relatives who see honesty treated kindly may start sharing more themselves.",
+        "km": "ការធ្វើជាគំរូនៃភាពបើកចំហ អាចធ្វើឱ្យអាថ៌កំបាំងលែងចាំបាច់នៅផ្ទះបន្តិចម្តងៗ។ សាច់ញាតិដែលឃើញភាពស្មោះត្រង់ត្រូវបានប្រព្រឹត្តដោយសប្បុរស អាចចាប់ផ្តើមចែករំលែកច្រើនជាងមុនដោយខ្លួនឯង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Someone may feel trapped by expectations or circumstances at home. Understanding what is holding them back could open a way to harmony.",
+        "km": "នរណាម្នាក់ប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់ដោយការរំពឹងទុក ឬកាលៈទេសៈនៅផ្ទះ។ ការយល់ពីអ្វីដែលកំពុងរារាំងពួកគេ អាចបើកផ្លូវទៅរកភាពសុខដុម។"
+      },
+      "challenge": {
+        "en": "Accepting that nothing at home can change could keep unhappy patterns in place. Where anyone is being controlled or harmed, outside help from a trusted person or support service matters.",
+        "km": "ការទទួលយកថាគ្មានអ្វីនៅផ្ទះអាចផ្លាស់ប្តូរ អាចរក្សាគំរូមិនសប្បាយឱ្យនៅដដែល។ នៅកន្លែងដែលនរណាម្នាក់កំពុងត្រូវបានគ្រប់គ្រង ឬធ្វើបាប ជំនួយពីខាងក្រៅពីមនុស្សដែលទុកចិត្ត ឬសេវាគាំទ្រ មានសារៈសំខាន់។"
+      },
+      "outcome": {
+        "en": "Finding small freedoms within family life, like time for a hobby or a friend, could ease tension. Support from outside the home may open possibilities nobody saw.",
+        "km": "ការស្វែងរកសេរីភាពតូចៗក្នុងជីវិតគ្រួសារ ដូចជាពេលសម្រាប់ចំណង់ចំណូលចិត្ត ឬមិត្តភក្តិ អាចបន្ធូរភាពតានតឹង។ ការគាំទ្រពីខាងក្រៅផ្ទះ អាចបើកលទ្ធភាពដែលគ្មាននរណាមើលឃើញ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry may be weighing on someone at home, perhaps you. Sharing that concern openly could be the first step toward calm.",
+        "km": "ការព្រួយបារម្ភ ប្រហែលជាកំពុងសង្កត់លើនរណាម្នាក់នៅផ្ទះ ប្រហែលជាអ្នក។ ការចែករំលែកកង្វល់នោះដោយចំហ អាចជាជំហានដំបូងឆ្ពោះទៅរកភាពស្ងប់។"
+      },
+      "challenge": {
+        "en": "Hiding your own anxiety could let it leak out as irritation toward relatives. Name what you are worried about, and see a professional if it becomes too much.",
+        "km": "ការលាក់ការថប់បារម្ភរបស់អ្នក អាចធ្វើឱ្យវាលេចចេញជាការរំខានចំពោះសាច់ញាតិ។ សូមដាក់ឈ្មោះអ្វីដែលអ្នកព្រួយបារម្ភ ហើយជួបអ្នកជំនាញ ប្រសិនបើវាហួសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Facing worries together could bring relief and closeness at home. Honest reassurance and a shared plan may calm the whole household.",
+        "km": "ការប្រឈមមុខនឹងការព្រួយបារម្ភជាមួយគ្នា អាចនាំមកនូវការធូរស្បើយ និងភាពស្និទ្ធស្នាលនៅផ្ទះ។ ការធានាដោយស្មោះត្រង់ និងផែនការរួមមួយ អាចធ្វើឱ្យគ្រួសារទាំងមូលស្ងប់។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "The household may be recovering from a painful ending or crisis. Patience and gentle support could be what is needed most.",
+        "km": "គ្រួសារប្រហែលជាកំពុងងើបឡើងវិញពីទីបញ្ចប់ ឬវិបត្តិដ៏ឈឺចាប់។ ការអត់ធ្មត់ និងការគាំទ្រដោយទន់ភ្លន់ អាចជាអ្វីដែលត្រូវការបំផុត។"
+      },
+      "challenge": {
+        "en": "Dwelling on what went wrong could slow healing at home. Lean on friends, community or a counsellor so no one carries the pain alone.",
+        "km": "ការគិតច្រើនពីអ្វីដែលខុស អាចធ្វើឱ្យការជាសះស្បើយនៅផ្ទះយឺត។ សូមពឹងលើមិត្តភក្តិ សហគមន៍ ឬអ្នកប្រឹក្សា ដើម្បីកុំឱ្យនរណាម្នាក់ទ្រាំការឈឺចាប់តែម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "Reaching the lowest point could mark the start of rebuilding family life. Small, steady acts of care may lead the household back to peace.",
+        "km": "ការធ្លាក់ដល់ចំណុចទាបបំផុត អាចជាសញ្ញានៃការចាប់ផ្តើមកសាងជីវិតគ្រួសារឡើងវិញ។ ទង្វើយកចិត្តទុកដាក់តូចៗ និងទៀងទាត់ អាចនាំគ្រួសារត្រឡប់ទៅរកសន្តិភាពវិញ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Asking curious, open questions may help you understand what is really upsetting people at home. Listening closely could reveal the root of tension.",
+        "km": "ការសួរសំណួរបើកចំហដោយចង់ដឹង អាចជួយអ្នកឱ្យយល់ពីអ្វីដែលពិតជាធ្វើឱ្យមនុស្សនៅផ្ទះខកចិត្ត។ ការស្តាប់យ៉ាងយកចិត្តទុកដាក់ អាចបង្ហាញពីឫសគល់នៃភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Gossip and talking behind each other's backs could quietly poison family trust. Speak directly to the person concerned instead.",
+        "km": "ការនិយាយដើម និងការនិយាយពីក្រោយខ្នងគ្នា អាចបំពុលការទុកចិត្តក្នុងគ្រួសារដោយស្ងៀមស្ងាត់។ សូមនិយាយដោយផ្ទាល់ជាមួយមនុស្សដែលពាក់ព័ន្ធជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Honest questions asked kindly could clear up misunderstandings at home. Relatives may feel respected when you seek their view before judging.",
+        "km": "សំណួរស្មោះត្រង់ដែលសួរដោយសប្បុរស អាចជម្រះការយល់ច្រឡំនៅផ្ទះ។ សាច់ញាតិអាចមានអារម្មណ៍ថាត្រូវបានគោរព នៅពេលអ្នកស្វែងរកទស្សនៈរបស់ពួកគេ មុនពេលវិនិច្ឆ័យ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Taking decisive action on a problem everyone has been avoiding may help. A direct, well-timed conversation could clear a long-standing tension.",
+        "km": "ការធ្វើសកម្មភាពម៉ឺងម៉ាត់លើបញ្ហាដែលអ្នករាល់គ្នាបានជៀសវាង អាចជួយបាន។ ការសន្ទនាផ្ទាល់ និងត្រូវពេលមួយ អាចជម្រះភាពតានតឹងដែលមានយូរមកហើយ។"
+      },
+      "challenge": {
+        "en": "Rushing in with blunt words could hurt relatives and make them defensive. Pause before speaking when you feel heated.",
+        "km": "ការប្រញាប់ចូលជាមួយពាក្យសម្តីត្រង់ៗ អាចធ្វើឱ្យសាច់ញាតិឈឺចាប់ និងការពារខ្លួន។ សូមផ្អាកមុននឹងនិយាយ នៅពេលអ្នកមានអារម្មណ៍ក្តៅក្រហាយ។"
+      },
+      "outcome": {
+        "en": "Prompt, considerate action could resolve an issue before it festers. Directness balanced with kindness may earn relatives' respect.",
+        "km": "សកម្មភាពរហ័ស និងគិតគូរ អាចដោះស្រាយបញ្ហាមួយ មុនពេលវារលួយ។ ភាពត្រង់ដែលថ្លឹងថ្លែងជាមួយភាពសប្បុរស អាចទទួលបានការគោរពពីសាច់ញាតិ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear boundaries and honest feedback may help bring order and calm to home life. Saying plainly what you need could reduce confusion.",
+        "km": "ព្រំដែនច្បាស់លាស់ និងមតិត្រឡប់ស្មោះត្រង់ អាចជួយនាំសណ្តាប់ធ្នាប់ និងភាពស្ងប់ដល់ជីវិតនៅផ្ទះ។ ការនិយាយឱ្យច្បាស់ពីអ្វីដែលអ្នកត្រូវការ អាចកាត់បន្ថយភាពច្របូកច្របល់។"
+      },
+      "challenge": {
+        "en": "Being too critical could make relatives feel judged rather than helped. Pair honest observations with warmth and appreciation.",
+        "km": "ការរិះគន់ខ្លាំងពេក អាចធ្វើឱ្យសាច់ញាតិមានអារម្មណ៍ថាត្រូវបានវិនិច្ឆ័យ ជាជាងត្រូវបានជួយ។ សូមភ្ជាប់ការសង្កេតស្មោះត្រង់ ជាមួយភាពកក់ក្តៅ និងការកោតសរសើរ។"
+      },
+      "outcome": {
+        "en": "Fair, honest boundaries could bring clarity and respect to family relationships. Everyone knowing where they stand may ease friction.",
+        "km": "ព្រំដែនយុត្តិធម៌ និងស្មោះត្រង់ អាចនាំភាពច្បាស់លាស់ និងការគោរពដល់ទំនាក់ទំនងគ្រួសារ។ ការដែលអ្នករាល់គ្នាដឹងពីជំហររបស់ខ្លួន អាចបន្ធូរការកកិត។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Calm, logical thinking may help you see a fair way through family disputes. Weighing each side evenly could set the tone for peace.",
+        "km": "ការគិតស្ងប់ស្ងាត់ និងមានតក្កវិជ្ជា អាចជួយអ្នកឱ្យមើលឃើញផ្លូវយុត្តិធម៌ឆ្លងកាត់ជម្លោះគ្រួសារ។ ការថ្លឹងថ្លែងភាគីនីមួយៗឱ្យស្មើគ្នា អាចកំណត់បរិយាកាសសម្រាប់សន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Relying only on rules and reason could make home feel cold. Explain decisions with warmth and listen to how people feel.",
+        "km": "ការពឹងផ្អែកតែលើច្បាប់ និងហេតុផល អាចធ្វើឱ្យផ្ទះមានអារម្មណ៍ត្រជាក់។ សូមពន្យល់ការសម្រេចចិត្តដោយភាពកក់ក្តៅ ហើយស្តាប់ពីអារម្មណ៍របស់មនុស្ស។"
+      },
+      "outcome": {
+        "en": "Fair, wise guidance could help the family resolve disagreements peacefully. Clear thinking combined with care may bring lasting harmony.",
+        "km": "ការណែនាំដោយយុត្តិធម៌ និងប្រាជ្ញា អាចជួយគ្រួសារដោះស្រាយការខ្វែងគំនិតដោយសន្តិភាព។ ការគិតច្បាស់លាស់ រួមជាមួយការយកចិត្តទុកដាក់ អាចនាំមកនូវភាពសុខដុមស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical improvement to the home itself may be a good place to start. Making a shared space more comfortable or tidy could ease daily friction.",
+        "km": "ការកែលម្អជាក់ស្តែងចំពោះផ្ទះខ្លួនឯង ប្រហែលជាកន្លែងល្អសម្រាប់ចាប់ផ្តើម។ ការធ្វើឱ្យកន្លែងរួមកាន់តែស្រួល ឬស្អាត អាចបន្ធូរការកកិតប្រចាំថ្ងៃ។"
+      },
+      "challenge": {
+        "en": "Focusing only on money or material comfort could overlook emotional needs at home. Make room for time and attention as well as things.",
+        "km": "ការផ្តោតតែលើប្រាក់ ឬភាពស្រួលផ្នែកសម្ភារៈ អាចមើលរំលងតម្រូវការផ្លូវចិត្តនៅផ្ទះ។ សូមទុកកន្លែងសម្រាប់ការនៅជាមួយគ្នា និងការយកចិត្តទុកដាក់ ក៏ដូចជារបស់របរដែរ។"
+      },
+      "outcome": {
+        "en": "A small, practical change could make home feel more welcoming and calm. A comfortable shared space may draw relatives together more often.",
+        "km": "ការផ្លាស់ប្តូរតូច និងជាក់ស្តែងមួយ អាចធ្វើឱ្យផ្ទះមានអារម្មណ៍រាក់ទាក់ និងស្ងប់ជាងមុន។ កន្លែងរួមដែលស្រួល អាចទាក់ទាញសាច់ញាតិមកជួបជុំគ្នាញឹកញាប់ជាងមុន។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Balancing many responsibilities may be part of what strains the peace at home. Sorting out who handles which tasks could ease the juggling act.",
+        "km": "ការថ្លឹងថ្លែងការទទួលខុសត្រូវជាច្រើន ប្រហែលជាផ្នែកមួយនៃអ្វីដែលធ្វើឱ្យសន្តិភាពនៅផ្ទះតានតឹង។ ការរៀបចំថាអ្នកណាទទួលបន្ទុកកិច្ចការណា អាចបន្ធូរការចាត់ចែង។"
+      },
+      "challenge": {
+        "en": "Trying to handle everything alone could leave you stretched and short-tempered. Share tasks and ask for help before you reach your limit.",
+        "km": "ការព្យាយាមដោះស្រាយអ្វីៗទាំងអស់តែម្នាក់ឯង អាចធ្វើឱ្យអ្នកតឹងតែង និងខឹងងាយ។ សូមចែករំលែកកិច្ចការ ហើយសុំជំនួយ មុនពេលអ្នកដល់ដែនកំណត់។"
+      },
+      "outcome": {
+        "en": "A fair, flexible division of chores could bring calm to a busy household. Everyone pitching in may make home feel like a team.",
+        "km": "ការបែងចែកកិច្ចការផ្ទះដោយយុត្តិធម៌ និងបត់បែន អាចនាំភាពស្ងប់ដល់គ្រួសារមមាញឹក។ ការដែលអ្នករាល់គ្នាជួយ អាចធ្វើឱ្យផ្ទះមានអារម្មណ៍ដូចជាក្រុមមួយ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Working together on a practical task may be a natural way to build harmony. Cooking, gardening or repairing something as a family could bring people closer.",
+        "km": "ការធ្វើការជាមួយគ្នាលើកិច្ចការជាក់ស្តែង ប្រហែលជាវិធីធម្មជាតិក្នុងការកសាងភាពសុខដុម។ ការធ្វើម្ហូប ដាំដុះ ឬជួសជុលអ្វីមួយជាគ្រួសារ អាចនាំមនុស្សឱ្យខិតជិតគ្នា។"
+      },
+      "challenge": {
+        "en": "Arguing over how a shared job should be done could spoil the cooperation. Agree on roles before you begin and respect each person's way.",
+        "km": "ការឈ្លោះប្រកែកអំពីរបៀបធ្វើការងាររួម អាចធ្វើឱ្យខូចកិច្ចសហការ។ សូមព្រមព្រៀងគ្នាលើតួនាទី មុនពេលចាប់ផ្តើម ហើយគោរពរបៀបរបស់ម្នាក់ៗ។"
+      },
+      "outcome": {
+        "en": "Building something together could strengthen bonds and shared pride. Each person's contribution, valued openly, may bring the family closer.",
+        "km": "ការកសាងអ្វីមួយជាមួយគ្នា អាចពង្រឹងចំណង និងមោទនភាពរួម។ ការរួមចំណែករបស់ម្នាក់ៗ ដែលត្រូវបានគេឱ្យតម្លៃដោយចំហ អាចនាំគ្រួសារឱ្យខិតជិតគ្នា។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "A tight grip on money, possessions or control may be adding tension at home. Loosening it a little could be your starting point.",
+        "km": "ការក្តាប់តឹងលើប្រាក់ ទ្រព្យសម្បត្តិ ឬការគ្រប់គ្រង ប្រហែលជាកំពុងបន្ថែមភាពតានតឹងនៅផ្ទះ។ ការបន្ធូរវាបន្តិច អាចជាចំណុចចាប់ផ្តើមរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly to how things should be done could stifle others. Allow relatives some say in household decisions.",
+        "km": "ការប្រកាន់ខ្ជាប់តឹងពេកលើរបៀបដែលអ្វីៗគួរធ្វើ អាចរឹតត្បិតអ្នកដទៃ។ សូមអនុញ្ញាតឱ្យសាច់ញាតិមានសិទ្ធិនិយាយខ្លះក្នុងការសម្រេចចិត្តក្នុងគ្រួសារ។"
+      },
+      "outcome": {
+        "en": "Sharing control and resources more freely could bring warmth back into the home. Trust may grow when everyone feels included.",
+        "km": "ការចែករំលែកការគ្រប់គ្រង និងធនធានដោយសេរីជាងមុន អាចនាំភាពកក់ក្តៅត្រឡប់មកផ្ទះវិញ។ ការទុកចិត្តអាចកើនឡើង នៅពេលអ្នករាល់គ្នាមានអារម្មណ៍ថាត្រូវបានរួមបញ្ចូល។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Hardship, such as money worries or illness, may be straining relationships at home. Acknowledging the pressure together could ease blame.",
+        "km": "ការលំបាក ដូចជាការព្រួយបារម្ភអំពីប្រាក់ ឬជំងឺ ប្រហែលជាកំពុងធ្វើឱ្យទំនាក់ទំនងនៅផ្ទះតានតឹង។ ការទទួលស្គាល់សម្ពាធជាមួយគ្នា អាចបន្ធូរការបន្ទោស។"
+      },
+      "challenge": {
+        "en": "Blaming each other for money or health troubles could split the household when it most needs unity. Ask relatives, neighbours or support services for practical help.",
+        "km": "ការបន្ទោសគ្នាអំពីបញ្ហាប្រាក់ ឬសុខភាព អាចបំបែកគ្រួសារ នៅពេលដែលវាត្រូវការការរួបរួមបំផុត។ សូមសុំជំនួយជាក់ស្តែងពីសាច់ញាតិ អ្នកជិតខាង ឬសេវាគាំទ្រ។"
+      },
+      "outcome": {
+        "en": "Facing hard times as a team could bring the family closer than before. Accepting help from others may lighten the load for everyone.",
+        "km": "ការប្រឈមមុខនឹងការលំបាកជាក្រុម អាចនាំគ្រួសារឱ្យខិតជិតគ្នាជាងមុន។ ការទទួលយកជំនួយពីអ្នកដទៃ អាចបន្ធូរបន្ទុកសម្រាប់អ្នករាល់គ្នា។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Generosity and fair sharing may be a strong foundation for a peaceful home. Making sure help flows both ways could ease unspoken tension.",
+        "km": "ភាពសប្បុរស និងការចែករំលែកដោយយុត្តិធម៌ ប្រហែលជាមូលដ្ឋានរឹងមាំសម្រាប់ផ្ទះមានសន្តិភាព។ ការធានាថាជំនួយហូរទាំងសងខាង អាចបន្ធូរភាពតានតឹងដែលមិនបាននិយាយ។"
+      },
+      "challenge": {
+        "en": "Giving with strings attached could create resentment instead of gratitude. Offer help freely, without expecting a return.",
+        "km": "ការផ្តល់ដោយមានលក្ខខណ្ឌ អាចបង្កការអាក់អន់ចិត្ត ជាជាងការដឹងគុណ។ សូមផ្តល់ជំនួយដោយសេរី ដោយមិនរំពឹងការតបស្នង។"
+      },
+      "outcome": {
+        "en": "Fair, generous give and take could build lasting trust at home. Kindness shared freely may come back in many forms.",
+        "km": "ការផ្តល់ និងទទួលដោយយុត្តិធម៌ និងចិត្តទូលាយ អាចកសាងការទុកចិត្តស្ថិតស្ថេរនៅផ្ទះ។ ភាពសប្បុរសដែលចែករំលែកដោយសេរី អាចត្រឡប់មកវិញក្នុងទម្រង់ជាច្រើន។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Harmony may need patient tending, like a garden that grows slowly. Small, consistent efforts could matter more than grand gestures.",
+        "km": "ភាពសុខដុមប្រហែលជាត្រូវការការថែរក្សាដោយអត់ធ្មត់ ដូចជាសួនច្បារដែលដុះយឺតៗ។ ការខិតខំតូចៗ និងស៊ីសង្វាក់ អាចសំខាន់ជាងកាយវិការធំៗ។"
+      },
+      "challenge": {
+        "en": "Expecting quick results could lead to frustration when old habits linger. Keep going even if change feels slow.",
+        "km": "ការរំពឹងលទ្ធផលរហ័ស អាចនាំឱ្យមានការខកចិត្ត នៅពេលទម្លាប់ចាស់ៗនៅតែមាន។ សូមបន្តទៅមុខ ទោះបីជាការផ្លាស់ប្តូរមានអារម្មណ៍យឺតក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Steady care could gradually bring a calmer, happier home. Patience may reward you with relationships that grow stronger.",
+        "km": "ការយកចិត្តទុកដាក់ទៀងទាត់ អាចនាំមកនូវផ្ទះស្ងប់ និងរីករាយជាងមុនបន្តិចម្តងៗ។ ការអត់ធ្មត់ អាចផ្តល់រង្វាន់ដល់អ្នកនូវទំនាក់ទំនងដែលកាន់តែរឹងមាំ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Putting steady effort into the small details of home life may help. Keeping promises, fixing what breaks and showing up reliably could build trust.",
+        "km": "ការដាក់ការខិតខំទៀងទាត់ទៅក្នុងព័ត៌មានលម្អិតតូចៗនៃជីវិតនៅផ្ទះ អាចជួយបាន។ ការរក្សាការសន្យា ការជួសជុលអ្វីដែលខូច និងការមកជួយជានិច្ច អាចកសាងការទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Being absorbed in work or study could leave little energy for family. Protect some unhurried hours together that nothing else is allowed to take.",
+        "km": "ការផ្តោតខ្លាំងលើការងារ ឬការសិក្សា អាចទុកថាមពលតិចតួចសម្រាប់គ្រួសារ។ សូមការពារពេលនៅជាមួយគ្នាដោយមិនប្រញាប់ខ្លះ ដែលគ្មានអ្វីផ្សេងទៀតត្រូវបានអនុញ្ញាតឱ្យដណ្តើមយក។"
+      },
+      "outcome": {
+        "en": "Dedication to family life could build a home where people feel cared for. Reliable effort may earn respect and gratitude from relatives.",
+        "km": "ការលះបង់ចំពោះជីវិតគ្រួសារ អាចកសាងផ្ទះដែលមនុស្សមានអារម្មណ៍ថាត្រូវបានយកចិត្តទុកដាក់។ ការខិតខំដែលអាចទុកចិត្តបាន អាចទទួលបានការគោរព និងការដឹងគុណពីសាច់ញាតិ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Enjoying the comfort you have built may be a good base for harmony. Inviting relatives to share in it could strengthen family ties.",
+        "km": "ការរីករាយនឹងភាពស្រួលដែលអ្នកបានកសាង ប្រហែលជាមូលដ្ឋានល្អសម្រាប់ភាពសុខដុម។ ការអញ្ជើញសាច់ញាតិឱ្យចែករំលែកវា អាចពង្រឹងចំណងគ្រួសារ។"
+      },
+      "challenge": {
+        "en": "Valuing your independence so highly could leave little room for family closeness. Make space for shared moments without giving up your own.",
+        "km": "ការឱ្យតម្លៃខ្ពស់ពេកលើឯករាជ្យភាពរបស់អ្នក អាចទុកកន្លែងតិចតួចសម្រាប់ភាពស្និទ្ធស្នាលក្នុងគ្រួសារ។ សូមទុកលំហសម្រាប់ពេលរួមគ្នា ដោយមិនបោះបង់ពេលផ្ទាល់ខ្លួនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A comfortable, generous home could become a place relatives love to gather. Sharing what you have may bring contentment to everyone.",
+        "km": "ផ្ទះដែលស្រួល និងចិត្តទូលាយ អាចក្លាយជាកន្លែងដែលសាច់ញាតិចូលចិត្តជួបជុំ។ ការចែករំលែកអ្វីដែលអ្នកមាន អាចនាំការពេញចិត្តដល់អ្នករាល់គ្នា។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family traditions and a sense of shared roots may be your strongest base for harmony. Gathering several generations together could renew bonds.",
+        "km": "ប្រពៃណីគ្រួសារ និងអារម្មណ៍នៃឫសគល់រួម ប្រហែលជាមូលដ្ឋានរឹងមាំបំផុតរបស់អ្នកសម្រាប់ភាពសុខដុម។ ការប្រមូលមនុស្សច្រើនជំនាន់មកជួបជុំគ្នា អាចធ្វើឱ្យចំណងរស់ឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Quarrels over property or inheritance could undo a great deal of family goodwill. Talk them through calmly and fairly, with a neutral adviser if needed.",
+        "km": "ការឈ្លោះប្រកែកអំពីទ្រព្យសម្បត្តិ ឬមរតក អាចបំផ្លាញឆន្ទៈល្អរបស់គ្រួសារ។ សូមពិភាក្សាវាដោយស្ងប់ស្ងាត់ និងយុត្តិធម៌ ជាមួយទីប្រឹក្សាអព្យាក្រឹត ប្រសិនបើចាំបាច់។"
+      },
+      "outcome": {
+        "en": "A strong family foundation could bring lasting security and belonging to everyone. Shared traditions may hold the family together through change.",
+        "km": "មូលដ្ឋានគ្រួសាររឹងមាំ អាចនាំសុវត្ថិភាព និងការជាផ្នែកមួយស្ថិតស្ថេរដល់អ្នករាល់គ្នា។ ប្រពៃណីរួមគ្នា អាចចងគ្រួសារឱ្យនៅជាមួយគ្នាឆ្លងកាត់ការផ្លាស់ប្តូរ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learning new ways to communicate or care for each other may help. Reading, a class or advice from someone wise could give you fresh tools.",
+        "km": "ការរៀនវិធីថ្មីក្នុងការទំនាក់ទំនង ឬការមើលថែគ្នាទៅវិញទៅមក អាចជួយបាន។ ការអាន ថ្នាក់រៀន ឬដំបូន្មានពីនរណាម្នាក់ដែលមានប្រាជ្ញា អាចផ្តល់ឱ្យអ្នកនូវឧបករណ៍ថ្មី។"
+      },
+      "challenge": {
+        "en": "Expecting relatives to change without changing yourself could lead nowhere. Start with one small habit of your own.",
+        "km": "ការរំពឹងឱ្យសាច់ញាតិផ្លាស់ប្តូរ ដោយមិនផ្លាស់ប្តូរខ្លួនឯង អាចមិននាំទៅណាទេ។ សូមចាប់ផ្តើមពីទម្លាប់តូចមួយរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Practising new skills patiently could gradually transform family life. Small, steady improvements may grow into real harmony.",
+        "km": "ការអនុវត្តជំនាញថ្មីដោយអត់ធ្មត់ អាចប្រែក្លាយជីវិតគ្រួសារបន្តិចម្តងៗ។ ការកែលម្អតូចៗ និងទៀងទាត់ អាចរីកចម្រើនទៅជាភាពសុខដុមពិតប្រាកដ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Steady, dependable routines may be the quiet backbone of a peaceful home. Being someone relatives can count on could set a calm tone.",
+        "km": "ទម្លាប់ទៀងទាត់ និងអាចទុកចិត្តបាន ប្រហែលជាឆ្អឹងខ្នងស្ងាត់ៗនៃផ្ទះមានសន្តិភាព។ ការធ្វើជាមនុស្សដែលសាច់ញាតិអាចពឹងផ្អែកបាន អាចកំណត់បរិយាកាសស្ងប់។"
+      },
+      "challenge": {
+        "en": "Sticking rigidly to routine could make home feel dull or controlling. Leave room for spontaneity and fun.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់យ៉ាងតឹងរ៉ឹង អាចធ្វើឱ្យផ្ទះមានអារម្មណ៍ធុញទ្រាន់ ឬគ្រប់គ្រងខ្លាំង។ សូមទុកកន្លែងសម្រាប់ភាពភ្លាមៗ និងភាពសប្បាយ។"
+      },
+      "outcome": {
+        "en": "Reliable care and consistency could bring security and calm to family life. Relatives may relax knowing they can depend on each other.",
+        "km": "ការយកចិត្តទុកដាក់ដែលអាចទុកចិត្តបាន និងភាពស៊ីសង្វាក់ អាចនាំសុវត្ថិភាព និងភាពស្ងប់ដល់ជីវិតគ្រួសារ។ សាច់ញាតិអាចបន្ធូរអារម្មណ៍ ដោយដឹងថាពួកគេអាចពឹងផ្អែកលើគ្នា។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Practical, nurturing care may be the heart of harmony in your home. Preparing a meal or making someone comfortable could say more than words.",
+        "km": "ការយកចិត្តទុកដាក់ជាក់ស្តែង និងថែទាំ ប្រហែលជាបេះដូងនៃភាពសុខដុមក្នុងផ្ទះរបស់អ្នក។ ការរៀបចំអាហារ ឬការធ្វើឱ្យនរណាម្នាក់ស្រួល អាចនិយាយបានច្រើនជាងពាក្យសម្តី។"
+      },
+      "challenge": {
+        "en": "Caring for everyone without rest could leave you depleted and resentful. Let others look after you sometimes too.",
+        "km": "ការមើលថែអ្នករាល់គ្នាដោយគ្មានការសម្រាក អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងអាក់អន់ចិត្ត។ សូមឱ្យអ្នកដទៃមើលថែអ្នកម្តងម្កាលផងដែរ។"
+      },
+      "outcome": {
+        "en": "A warm, well-cared-for home could become a place of comfort for the whole family. Shared care may deepen love.",
+        "km": "ផ្ទះកក់ក្តៅ និងត្រូវបានមើលថែល្អ អាចក្លាយជាកន្លែងនៃភាពស្រួលសម្រាប់គ្រួសារទាំងមូល។ ការមើលថែរួមគ្នា អាចពង្រឹងក្តីស្រលាញ់។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Providing stability and security may be your strongest contribution to harmony. A sense of safety at home could ease many tensions.",
+        "km": "ការផ្តល់ស្ថិរភាព និងសុវត្ថិភាព ប្រហែលជាការរួមចំណែកខ្លាំងបំផុតរបស់អ្នកចំពោះភាពសុខដុម។ អារម្មណ៍សុវត្ថិភាពនៅផ្ទះ អាចបន្ធូរភាពតានតឹងជាច្រើន។"
+      },
+      "challenge": {
+        "en": "Showing love mainly by providing could leave relatives unsure how you feel. Spend unhurried moments with them and say what they mean to you.",
+        "km": "ការបង្ហាញក្តីស្រលាញ់ភាគច្រើនតាមរយៈការផ្គត់ផ្គង់ អាចធ្វើឱ្យសាច់ញាតិមិនប្រាកដពីអារម្មណ៍របស់អ្នក។ សូមចំណាយពេលដោយមិនប្រញាប់ជាមួយពួកគេ ហើយប្រាប់ពីអត្ថន័យរបស់ពួកគេចំពោះអ្នក។"
+      },
+      "outcome": {
+        "en": "Steady, generous leadership could bring lasting peace and security to the home. Everyone feeling safe may let harmony flourish.",
+        "km": "ការដឹកនាំទៀងទាត់ និងចិត្តទូលាយ អាចនាំសន្តិភាព និងសុវត្ថិភាពស្ថិតស្ថេរដល់ផ្ទះ។ ការដែលអ្នករាល់គ្នាមានអារម្មណ៍សុវត្ថិភាព អាចឱ្យភាពសុខដុមរីកចម្រើន។"
+      }
+    }
+  }
+}
