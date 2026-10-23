@@ -91,13 +91,14 @@ export default function DrawScreen() {
   const viewer = useCardViewer();
   const cardRefs = useRef<(View | null)[]>([]);
 
-  // Layout. Phone: the deck on top, the three slots below it. Desktop: the deck beside the row, so
-  // neither has to shrink to fit the height above the docked Back/Continue bar (about 440 px of the
-  // window goes to the site header, stepper, title and bar). `rowWidth` is the stage's width.
+  // Layout. Phone: the deck on top, the three slots below it. Desktop: the deck shuffles full size in
+  // the middle slot's place, deals out to the three slots and fades away as the last card leaves, so
+  // the cards fit the height above the docked Back/Continue bar (about 440 px of the window goes to the
+  // site header, stepper, title and bar). `rowWidth` is the stage's width.
   const gap = wide ? 28 : 8;
   const { height: windowH } = useWindowDimensions();
-  const deckScale = wide ? 0.9 : 0.8;
-  const fitW = wide ? (rowWidth - gap * 4) / (3 + deckScale) : (rowWidth - gap * 2) / 3;
+  const deckScale = wide ? 1 : 0.8;
+  const fitW = (rowWidth - gap * 2) / 3;
   const fitH = wide ? windowH - 440 - 34 : Infinity;
   const maxCard = wide ? Math.max(100, Math.min(200, (fitH * 7) / 12)) : 106;
   const cardW = rowWidth > 0 ? Math.min(maxCard, fitW) : maxCard;
@@ -105,13 +106,10 @@ export default function DrawScreen() {
   const deckW = cardW * deckScale;
   const deckH = cardH * deckScale;
   const column = cardW;
-  // Desktop: deck, then the three cards, centred together in the stage.
-  const groupW = wide ? deckW + gap * 2 + cardW * 3 + gap * 2 : cardW * 3 + gap * 2;
-  const groupLeft = Math.max(0, (rowWidth - groupW) / 2);
-  const slotsLeft = wide ? groupLeft + deckW + gap * 2 : groupLeft;
+  const slotsLeft = Math.max(0, (rowWidth - (cardW * 3 + gap * 2)) / 2);
   const slotsTop = wide ? 0 : deckH + 24;
-  const deckLeft = wide ? groupLeft : (rowWidth - deckW) / 2;
-  const deckTop = wide ? (cardH - deckH) / 2 : 0;
+  const deckLeft = (rowWidth - deckW) / 2;
+  const deckTop = 0;
   const stageHeight = slotsTop + cardH + 8 + 26;
   const slotCentreX = (i: number) => slotsLeft + i * (column + gap) + column / 2;
   // From each slot's card centre back to the deck centre.
@@ -190,9 +188,16 @@ export default function DrawScreen() {
       </View>
       <View style={[styles.stage, { height: stageHeight }]} onLayout={e => setRowWidth(e.nativeEvent.layout.width)}>
         <Rings top={slotsTop + cardH / 2 - 180} left={slotCentreX(1) - 180} />
-        <View style={[styles.deck, { left: deckLeft, top: deckTop }]}>
+        {/* On desktop the deck fades as the last card is dealt, and returns when the cards are gathered. */}
+        <Animated.View
+          style={[
+            styles.deck,
+            { left: deckLeft, top: deckTop },
+            wide && { opacity: dealt[2].interpolate({ inputRange: [0, 1], outputRange: [1, 0] }) },
+          ]}
+        >
           <Deck width={deckW} height={deckH} shuffle={shuffle} />
-        </View>
+        </Animated.View>
         <View
           style={[styles.slots, { top: slotsTop, left: slotsLeft, width: cardW * 3 + gap * 2, gap }]}
           pointerEvents={phase === 'ready' ? 'auto' : 'none'}
