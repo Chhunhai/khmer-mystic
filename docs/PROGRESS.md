@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 45 of 100 questions (10,530 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 46 of 100 questions (10,764 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-23: Drafted BI-06 (“How can I attract more customers?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/BI-06.json. attracting customers: reviews, referrals, visibility, offers and service as the concrete lens AI-drafted; English and native Khmer review pending. Saved coverage 46/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted BI-05 (“Is this partnership a good fit for me?”, yesno): 78 cards × 3 positions in English and Khmer, src/content/readings/BI-05.json. business partnership fit; Outcomes conditional, focus on roles, shares, exit terms and due diligence AI-drafted; English and native Khmer review pending. Saved coverage 45/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted BI-04 (“What risks should I watch for?”, obstacle): 78 cards × 3 positions in English and Khmer, src/content/readings/BI-04.json. business risks: concentration, key-person, compliance, cash gaps, fraud; Challenges open with plain warnings AI-drafted; English and native Khmer review pending. Saved coverage 44/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted BI-03 (“How can I grow my business?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/BI-03.json. business growth: Presents name the asset to build on, Challenges the growth blocker AI-drafted; English and native Khmer review pending. Saved coverage 43/100 questions; checks, typecheck and lint pass

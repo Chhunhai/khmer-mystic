@@ -1,0 +1,1097 @@
+{
+  "questionId": "BI-06",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A playful, fresh approach to how you present the business could catch new eyes. Customers are drawn to something that feels new and alive.",
+        "km": "វិធីសាស្ត្រលេងសើច និងថ្មីស្រឡាងក្នុងការបង្ហាញអាជីវកម្មរបស់អ្នក អាចទាក់ទាញភ្នែកថ្មីៗ។ អតិថិជនត្រូវបានទាក់ទាញទៅរកអ្វីមួយដែលមានអារម្មណ៍ថ្មី និងរស់រវើក។"
+      },
+      "challenge": {
+        "en": "Trying every marketing idea at once could confuse people about what you actually sell. Keep one clear message while you experiment.",
+        "km": "ការសាកល្បងគំនិតទីផ្សារនីមួយៗក្នុងពេលតែមួយ អាចធ្វើឱ្យមនុស្សច្របូកច្របល់អំពីអ្វីដែលអ្នកលក់ពិតប្រាកដ។ សូមរក្សាសារច្បាស់លាស់មួយ ខណៈអ្នកពិសោធ។"
+      },
+      "outcome": {
+        "en": "A bold, clear idea could get people talking and walking through the door. Curiosity about something new may turn into first purchases.",
+        "km": "គំនិតក្លាហាន និងច្បាស់លាស់ អាចធ្វើឱ្យមនុស្សនិយាយ និងដើរចូលទ្វារ។ ការចង់ដឹងអំពីអ្វីមួយថ្មី អាចប្រែក្លាយទៅជាការទិញលើកដំបូង។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Your own skill at explaining and showing what you offer could be a strong magnet. You may already have the tools to reach more people.",
+        "km": "ជំនាញផ្ទាល់ខ្លួនរបស់អ្នកក្នុងការពន្យល់ និងបង្ហាញអ្វីដែលអ្នកផ្តល់ជូន អាចជាមេដែករឹងមាំ។ អ្នកប្រហែលជាមានឧបករណ៍ដើម្បីឈានដល់មនុស្សកាន់តែច្រើនរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Telling people what you do in vague terms could leave them unsure why they should choose you. Spell out the benefit in one plain sentence.",
+        "km": "ការប្រាប់មនុស្សពីអ្វីដែលអ្នកធ្វើ ដោយពាក្យស្រពិចស្រពិល អាចធ្វើឱ្យពួកគេមិនប្រាកដថាហេតុអ្វីពួកគេគួរជ្រើសរើសអ្នក។ សូមបញ្ជាក់អត្ថប្រយោជន៍ក្នុងប្រយោគសាមញ្ញមួយ។"
+      },
+      "outcome": {
+        "en": "A clear, confident pitch could turn passers-by into buyers. Demonstrating your skill may win trust faster than any advert.",
+        "km": "ការបង្ហាញច្បាស់លាស់ និងមានទំនុកចិត្ត អាចបង្វែរអ្នកដើរកាត់ទៅជាអ្នកទិញ។ ការបង្ហាញជំនាញរបស់អ្នក អាចឈ្នះការទុកចិត្តលឿនជាងការផ្សាយពាណិជ្ជកម្មណាមួយ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Quietly understanding what your ideal customers want, beyond what they say, could be your hidden advantage. Insight comes from listening.",
+        "km": "ការយល់ដឹងស្ងាត់ៗពីអ្វីដែលអតិថិជនល្អបំផុតរបស់អ្នកចង់បាន លើសពីអ្វីដែលពួកគេនិយាយ អាចជាអត្ថប្រយោជន៍លាក់កំបាំងរបស់អ្នក។ ការយល់ដឹង កើតចេញពីការស្តាប់។"
+      },
+      "challenge": {
+        "en": "Guessing at what customers want, without asking or watching, could aim your marketing at the wrong people. Ask a few buyers why they came.",
+        "km": "ការទាយពីអ្វីដែលអតិថិជនចង់បាន ដោយមិនសួរ ឬសង្កេត អាចតម្រង់ទីផ្សាររបស់អ្នកទៅមនុស្សខុស។ សូមសួរអ្នកទិញពីរបីនាក់ថាហេតុអ្វីពួកគេមក។"
+      },
+      "outcome": {
+        "en": "Speaking to customers' real needs could draw people who feel understood. Customers who feel heard may bring others like them.",
+        "km": "ការនិយាយទៅកាន់តម្រូវការពិតរបស់អតិថិជន អាចទាក់ទាញមនុស្សដែលមានអារម្មណ៍ថាត្រូវបានយល់។ អតិថិជនដែលមានអារម្មណ៍ថាត្រូវបានស្តាប់ អាចនាំអ្នកដទៃដូចពួកគេមក។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "A welcoming, attractive space, whether a shop, stall or online page, could naturally pull people in. Warmth and beauty sell.",
+        "km": "កន្លែងស្វាគមន៍ និងទាក់ទាញ មិនថាហាង តូប ឬទំព័រអនឡាញ អាចទាញមនុស្សចូលដោយធម្មជាតិ។ ភាពកក់ក្តៅ និងភាពស្រស់ស្អាត លក់ដាច់។"
+      },
+      "challenge": {
+        "en": "Spending heavily on looks while neglecting service could disappoint the customers you attract. Make the experience match the display.",
+        "km": "ការចំណាយច្រើនលើរូបរាង ខណៈធ្វេសប្រហែសសេវាកម្ម អាចធ្វើឱ្យអតិថិជនដែលអ្នកទាក់ទាញខកចិត្ត។ សូមធ្វើឱ្យបទពិសោធន៍ស៊ីនឹងការតាំងបង្ហាញ។"
+      },
+      "outcome": {
+        "en": "A space that looks good and feels caring could keep customers coming back with friends. Comfort may become part of your brand.",
+        "km": "កន្លែងដែលមើលទៅល្អ និងមានអារម្មណ៍យកចិត្តទុកដាក់ អាចធ្វើឱ្យអតិថិជនត្រឡប់មកវិញជាមួយមិត្តភក្តិ។ ភាពស្រួល អាចក្លាយជាផ្នែកមួយនៃម៉ាកយីហោរបស់អ្នក។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Reliable basics, such as clear prices, easy ordering and quick replies, could make you easy to choose. Consistency builds confidence.",
+        "km": "មូលដ្ឋានគ្រឹះដែលអាចទុកចិត្តបាន ដូចជាតម្លៃច្បាស់លាស់ ការបញ្ជាទិញងាយស្រួល និងការឆ្លើយតបរហ័ស អាចធ្វើឱ្យអ្នកងាយស្រួលជ្រើសរើស។ ភាពស្ថិតស្ថេរ កសាងទំនុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Rules that feel rigid to customers, such as no exceptions or slow approvals, could push them to rivals. Keep policies firm but friendly.",
+        "km": "ច្បាប់ដែលមានអារម្មណ៍តឹងរ៉ឹងចំពោះអតិថិជន ដូចជាគ្មានករណីលើកលែង ឬការអនុម័តយឺត អាចរុញពួកគេទៅគូប្រជែង។ សូមរក្សាគោលនយោបាយឱ្យរឹងមាំ ប៉ុន្តែរួសរាយ។"
+      },
+      "outcome": {
+        "en": "Being dependable could earn a reputation that brings steady new customers. People may recommend a business they can count on.",
+        "km": "ការអាចពឹងផ្អែកបាន អាចទទួលបានកេរ្តិ៍ឈ្មោះដែលនាំមកនូវអតិថិជនថ្មីដោយនឹងនរ។ មនុស្ស អាចណែនាំអាជីវកម្មដែលពួកគេអាចពឹងផ្អែកបាន។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Proven marketing methods, such as local listings, trade associations or referrals, could be a solid base. Tried paths can still work well.",
+        "km": "វិធីសាស្ត្រទីផ្សារដែលបានបញ្ជាក់ ដូចជាការចុះបញ្ជីក្នុងតំបន់ សមាគមពាណិជ្ជកម្ម ឬការណែនាំ អាចជាមូលដ្ឋានរឹងមាំ។ ផ្លូវដែលបានសាកល្បង នៅតែអាចដំណើរការបានល្អ។"
+      },
+      "challenge": {
+        "en": "Copying competitors' promotions could make you look like everyone else. Use proven channels, but with your own voice.",
+        "km": "ការចម្លងការផ្សព្វផ្សាយរបស់គូប្រជែង អាចធ្វើឱ្យអ្នកមើលទៅដូចអ្នកដទៃទាំងអស់។ សូមប្រើបណ្តាញដែលបានបញ្ជាក់ ប៉ុន្តែជាមួយសំឡេងផ្ទាល់ខ្លួនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Combining trusted channels with your own character could bring a steady flow of customers. A mentor's advice may help you choose where to show up.",
+        "km": "ការរួមបញ្ចូលបណ្តាញដែលគួរឱ្យទុកចិត្ត ជាមួយចរិតផ្ទាល់ខ្លួនរបស់អ្នក អាចនាំមកនូវលំហូរអតិថិជនដោយនឹងនរ។ ដំបូន្មានរបស់អ្នកណែនាំ អាចជួយអ្នកជ្រើសរើសកន្លែងដែលត្រូវបង្ហាញខ្លួន។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Partnering with a complementary business, such as cross-promotions or shared events, could open a new stream of customers. Alliances widen reach.",
+        "km": "ការចូលភាពជាដៃគូជាមួយអាជីវកម្មបំពេញបន្ថែម ដូចជាការផ្សព្វផ្សាយឆ្លងគ្នា ឬព្រឹត្តិការណ៍រួមគ្នា អាចបើកលំហូរអតិថិជនថ្មី។ សម្ព័ន្ធភាព ពង្រីកការឈានដល់។"
+      },
+      "challenge": {
+        "en": "Teaming up with a business whose values clash with yours could confuse or put off your customers. Choose partners your buyers would trust.",
+        "km": "ការរួមក្រុមជាមួយអាជីវកម្មដែលគុណតម្លៃប៉ះទង្គិចជាមួយរបស់អ្នក អាចធ្វើឱ្យអតិថិជនរបស់អ្នកច្របូកច្របល់ ឬបែរចេញ។ សូមជ្រើសរើសដៃគូដែលអ្នកទិញរបស់អ្នកនឹងទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "The right alliance could introduce you to customers who are already a good fit. Shared audiences may grow both businesses.",
+        "km": "សម្ព័ន្ធភាពត្រឹមត្រូវ អាចណែនាំអ្នកទៅកាន់អតិថិជនដែលសមរួចហើយ។ ទស្សនិកជនរួមគ្នា អាចធ្វើឱ្យអាជីវកម្មទាំងពីររីកចម្រើន។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "A focused, determined push, such as a campaign with a clear target, could drive new customers your way. Momentum builds visibility.",
+        "km": "ការរុញដែលផ្តោត និងប្តេជ្ញាចិត្ត ដូចជាយុទ្ធនាការដែលមានគោលដៅច្បាស់លាស់ អាចជំរុញអតិថិជនថ្មីមករកអ្នក។ សន្ទុះ កសាងភាពលេចធ្លោ។"
+      },
+      "challenge": {
+        "en": "Pushing too hard, such as constant messages or pushy selling, could annoy people more than attract them. Steer with respect, not pressure.",
+        "km": "ការរុញខ្លាំងពេក ដូចជាសារជានិច្ច ឬការលក់ដោយបង្ខិតបង្ខំ អាចរំខានមនុស្សច្រើនជាងទាក់ទាញពួកគេ។ សូមដឹកនាំដោយការគោរព មិនមែនសម្ពាធទេ។"
+      },
+      "outcome": {
+        "en": "A well-steered campaign could reach a clear target and a wave of new customers. Focused effort may outshine scattered noise.",
+        "km": "យុទ្ធនាការដែលដឹកនាំបានល្អ អាចឈានដល់គោលដៅច្បាស់លាស់ និងរលកនៃអតិថិជនថ្មី។ ការខិតខំដែលផ្តោត អាចភ្លឺជាងសំឡេងរំខានដែលបែកខ្ញែក។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Gentle persistence and a warm manner with people could be what wins customers over. Patience earns trust.",
+        "km": "ការតស៊ូទន់ភ្លន់ និងរបៀបកក់ក្តៅជាមួយមនុស្ស អាចជាអ្វីដែលឈ្នះចិត្តអតិថិជន។ ការអត់ធ្មត់ ទទួលបានការទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Losing patience with hesitant or difficult customers could cost you their friends too. Handle every enquiry with calm courtesy.",
+        "km": "ការបាត់បង់ការអត់ធ្មត់ជាមួយអតិថិជនដែលស្ទាក់ស្ទើរ ឬពិបាក អាចធ្វើឱ្យអ្នកបាត់បង់មិត្តភក្តិរបស់ពួកគេផងដែរ។ សូមដោះស្រាយការសាកសួរនីមួយៗ ដោយការគួរសមស្ងប់ស្ងាត់។"
+      },
+      "outcome": {
+        "en": "Patient, kind service could turn sceptical visitors into loyal fans. Quiet strength may become what people remember about you.",
+        "km": "សេវាកម្មដោយអត់ធ្មត់ និងចិត្តល្អ អាចបង្វែរអ្នកមកលេងដែលសង្ស័យ ទៅជាអ្នកគាំទ្រស្មោះត្រង់។ កម្លាំងស្ងប់ស្ងាត់ អាចក្លាយជាអ្វីដែលមនុស្សចងចាំអំពីអ្នក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Stepping back to define exactly who your best customers are could sharpen everything you do. Clarity of focus is a strength.",
+        "km": "ការដកថយដើម្បីកំណត់យ៉ាងច្បាស់ថាអតិថិជនល្អបំផុតរបស់អ្នកជានរណា អាចធ្វើឱ្យអ្វីៗដែលអ្នកធ្វើកាន់តែមុតស្រួច។ ភាពច្បាស់លាស់នៃការផ្តោត គឺជាចំណុចខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Trying to appeal to everyone could leave your message too vague to reach anyone. Choose a niche and speak to it.",
+        "km": "ការព្យាយាមទាក់ទាញអ្នករាល់គ្នា អាចទុកសាររបស់អ្នកឱ្យស្រពិចស្រពិលពេក ដើម្បីឈានដល់នរណាម្នាក់។ សូមជ្រើសរើសផ្នែកទីផ្សារជាក់លាក់មួយ ហើយនិយាយទៅកាន់វា។"
+      },
+      "outcome": {
+        "en": "A clear focus on the right customers could make marketing simpler and more effective. The people you serve best may spread the word for you.",
+        "km": "ការផ្តោតច្បាស់លាស់លើអតិថិជនត្រឹមត្រូវ អាចធ្វើឱ្យទីផ្សារកាន់តែសាមញ្ញ និងមានប្រសិទ្ធភាព។ មនុស្សដែលអ្នកបម្រើល្អបំផុត អាចផ្សព្វផ្សាយពាក្យសម្រាប់អ្នក។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Changing trends, such as a new platform or shifting tastes, could be opening doors to new customers. Luck may favour the ready.",
+        "km": "និន្នាការដែលកំពុងផ្លាស់ប្តូរ ដូចជាវេទិកាថ្មី ឬរសជាតិដែលកំពុងផ្លាស់ប្តូរ អាចកំពុងបើកទ្វារទៅកាន់អតិថិជនថ្មី។ សំណាង អាចអនុគ្រោះអ្នកដែលត្រៀមខ្លួន។"
+      },
+      "challenge": {
+        "en": "Relying on one platform or trend could leave you stranded if it changes. Spread your presence across a few channels.",
+        "km": "ការពឹងលើវេទិកា ឬនិន្នាការតែមួយ អាចទុកឱ្យអ្នកជាប់គាំង ប្រសិនបើវាផ្លាស់ប្តូរ។ សូមពង្រីកវត្តមានរបស់អ្នកឆ្លងកាត់បណ្តាញពីរបី។"
+      },
+      "outcome": {
+        "en": "Catching a rising trend while keeping your core customers could bring a surge of new interest. Adapting may keep you visible.",
+        "km": "ការចាប់យកនិន្នាការដែលកំពុងកើនឡើង ខណៈរក្សាអតិថិជនស្នូលរបស់អ្នក អាចនាំមកនូវការកើនឡើងនៃចំណាប់អារម្មណ៍ថ្មី។ ការសម្របខ្លួន អាចរក្សាអ្នកឱ្យអាចមើលឃើញ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Fair prices, honest descriptions and clear terms could be what earns customer trust. Integrity attracts people who come back.",
+        "km": "តម្លៃយុត្តិធម៌ ការពិពណ៌នាស្មោះត្រង់ និងលក្ខខណ្ឌច្បាស់លាស់ អាចជាអ្វីដែលទទួលបានការទុកចិត្តពីអតិថិជន។ សុចរិតភាព ទាក់ទាញមនុស្សដែលត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Overpromising in adverts could bring customers once and lose them at the first disappointment. Promise only what you can deliver.",
+        "km": "ការសន្យាហួសហេតុក្នុងការផ្សាយពាណិជ្ជកម្ម អាចនាំអតិថិជនមកម្តង ហើយបាត់បង់ពួកគេនៅការខកចិត្តលើកដំបូង។ សូមសន្យាតែអ្វីដែលអ្នកអាចផ្តល់បាន។"
+      },
+      "outcome": {
+        "en": "A reputation for honesty could bring customers who stay and recommend you. Fairness may become your best advertisement.",
+        "km": "កេរ្តិ៍ឈ្មោះសម្រាប់ភាពស្មោះត្រង់ អាចនាំមកនូវអតិថិជនដែលស្នាក់នៅ និងណែនាំអ្នក។ យុត្តិធម៌ អាចក្លាយជាការផ្សាយពាណិជ្ជកម្មល្អបំផុតរបស់អ្នក។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "A pause in sales could be a chance to look at your business through a customer's eyes. A fresh angle may reveal what is missing.",
+        "km": "ការផ្អាកក្នុងការលក់ អាចជាឱកាសដើម្បីមើលអាជីវកម្មរបស់អ្នក តាមរយៈភ្នែករបស់អតិថិជន។ មុំថ្មីមួយ អាចបង្ហាញពីអ្វីដែលខ្វះ។"
+      },
+      "challenge": {
+        "en": "Repeating promotions that have stopped working could waste money and patience. Try a different message, channel or offer instead.",
+        "km": "ការធ្វើការផ្សព្វផ្សាយដែលបានឈប់ដំណើរការម្តងទៀត អាចខ្ជះខ្ជាយប្រាក់ និងការអត់ធ្មត់។ សូមសាកល្បងសារ បណ្តាញ ឬការផ្តល់ជូនខុសពីមុនជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Seeing the business as a newcomer would could reveal changes that bring people in. A small sacrifice, such as a free sample, may open doors.",
+        "km": "ការមើលអាជីវកម្ម ដូចអ្នកមកថ្មីនឹងមើល អាចបង្ហាញការផ្លាស់ប្តូរដែលនាំមនុស្សចូលមក។ ការលះបង់តូចមួយ ដូចជាគំរូឥតគិតថ្លៃ អាចបើកទ្វារ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Letting go of an outdated image, product or channel could make room for new customers. Endings can refresh a brand.",
+        "km": "ការបោះបង់រូបភាព ផលិតផល ឬបណ្តាញហួសសម័យ អាចបង្កើតកន្លែងសម្រាប់អតិថិជនថ្មី។ ការបញ្ចប់ អាចធ្វើឱ្យម៉ាកយីហោស្រស់ថ្លាឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Clinging to an old look or offer out of habit could keep new customers away. Let go of what no longer draws people.",
+        "km": "ការកាន់ខ្ជាប់រូបរាង ឬការផ្តល់ជូនចាស់ ដោយសារទម្លាប់ អាចរក្សាអតិថិជនថ្មីឱ្យនៅឆ្ងាយ។ សូមបោះបង់អ្វីដែលលែងទាញមនុស្ស។"
+      },
+      "outcome": {
+        "en": "A refreshed image or offer could attract a whole new audience. Transformation may bring renewed interest.",
+        "km": "រូបភាព ឬការផ្តល់ជូនដែលបានធ្វើឱ្យស្រស់ថ្លាឡើងវិញ អាចទាក់ទាញទស្សនិកជនថ្មីទាំងមូល។ ការផ្លាស់ប្តូរទម្រង់ អាចនាំមកនូវចំណាប់អារម្មណ៍ថ្មី។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "A balanced mix of marketing, such as some online, some word of mouth and some local presence, could be your steady base. Moderation works.",
+        "km": "ការលាយបញ្ចូលទីផ្សារមានតុល្យភាព ដូចជាខ្លះតាមអនឡាញ ខ្លះតាមមាត់ និងខ្លះវត្តមានក្នុងតំបន់ អាចជាមូលដ្ឋាននឹងនររបស់អ្នក។ ភាពល្មម ដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Swinging between heavy spending on ads and doing nothing could confuse customers and waste money. Keep a steady rhythm.",
+        "km": "ការយោលរវាងការចំណាយច្រើនលើការផ្សាយពាណិជ្ជកម្ម និងការមិនធ្វើអ្វីសោះ អាចធ្វើឱ្យអតិថិជនច្របូកច្របល់ និងខ្ជះខ្ជាយប្រាក់។ សូមរក្សាចង្វាក់នឹងនរ។"
+      },
+      "outcome": {
+        "en": "Steady, balanced marketing could bring a reliable flow of new customers. Patience may compound into strong visibility.",
+        "km": "ទីផ្សារនឹងនរ និងមានតុល្យភាព អាចនាំមកនូវលំហូរអតិថិជនថ្មីដែលអាចទុកចិត្តបាន។ ការអត់ធ្មត់ អាចកើនឡើងទៅជាភាពលេចធ្លោរឹងមាំ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Something may be holding customers back, such as a reputation problem, high prices or a habit of buying elsewhere. Finding out what it is could change everything.",
+        "km": "អ្វីមួយ ប្រហែលជាកំពុងទប់អតិថិជន ដូចជាបញ្ហាកេរ្តិ៍ឈ្មោះ តម្លៃខ្ពស់ ឬទម្លាប់ទិញនៅកន្លែងផ្សេង។ ការស្វែងយល់ថាវាជាអ្វី អាចផ្លាស់ប្តូរអ្វីៗទាំងអស់។"
+      },
+      "challenge": {
+        "en": "Using manipulative tactics, such as fake urgency or misleading offers, could backfire on trust. Win customers honestly.",
+        "km": "ការប្រើយុទ្ធសាស្ត្របោកបញ្ឆោត ដូចជាភាពបន្ទាន់ក្លែងក្លាយ ឬការផ្តល់ជូនបំភាន់ អាចបែរជាផលអាក្រក់ចំពោះការទុកចិត្ត។ សូមឈ្នះអតិថិជនដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Breaking the barrier that keeps customers away could open the floodgates. Honest effort may free up real demand.",
+        "km": "ការបំបែករបាំងដែលរក្សាអតិថិជនឱ្យនៅឆ្ងាយ អាចបើកទ្វារទឹក។ ការខិតខំដោយស្មោះត្រង់ អាចដោះលែងតម្រូវការពិតប្រាកដ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A shake-up, such as a bad review or a lost key client, may have forced you to rethink how you attract customers. Old methods may have fallen short.",
+        "km": "ការរង្គោះរង្គើ ដូចជាការវាយតម្លៃអាក្រក់ ឬការបាត់បង់អតិថិជនសំខាន់ ប្រហែលជាបានបង្ខំអ្នកឱ្យគិតឡើងវិញអំពីរបៀបដែលអ្នកទាក់ទាញអតិថិជន។ វិធីសាស្ត្រចាស់ ប្រហែលជាមិនគ្រប់គ្រាន់។"
+      },
+      "challenge": {
+        "en": "Reacting defensively to criticism in public could make things worse. Respond calmly and fix the real issue.",
+        "km": "ការប្រតិកម្មការពារខ្លួនចំពោះការរិះគន់ជាសាធារណៈ អាចធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់។ សូមឆ្លើយតបដោយស្ងប់ស្ងាត់ ហើយជួសជុលបញ្ហាពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Rebuilding with a better offer could win back trust and draw new customers. A hard lesson may lead to a stronger reputation.",
+        "km": "ការកសាងឡើងវិញ ជាមួយការផ្តល់ជូនល្អជាងមុន អាចឈ្នះការទុកចិត្តមកវិញ និងទាក់ទាញអតិថិជនថ្មី។ មេរៀនលំបាក អាចនាំទៅរកកេរ្តិ៍ឈ្មោះរឹងមាំជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "A hopeful, inspiring story behind the business could attract people who share your values. Purpose draws loyalty.",
+        "km": "រឿងប្រកបដោយក្តីសង្ឃឹម និងបំផុសគំនិតនៅពីក្រោយអាជីវកម្ម អាចទាក់ទាញមនុស្សដែលចែករំលែកគុណតម្លៃរបស់អ្នក។ គោលបំណង ទាញភាពស្មោះត្រង់។"
+      },
+      "challenge": {
+        "en": "A beautiful story without a clear offer could leave people inspired but not buying. Pair the message with a simple call to action.",
+        "km": "រឿងដ៏ស្រស់ស្អាត ដោយគ្មានការផ្តល់ជូនច្បាស់លាស់ អាចធ្វើឱ្យមនុស្សមានការបំផុសគំនិត ប៉ុន្តែមិនទិញ។ សូមផ្គូផ្គងសារ ជាមួយការអំពាវនាវសាមញ្ញឱ្យធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "Sharing your purpose clearly could attract customers who become true supporters. Hope may spread through the community.",
+        "km": "ការចែករំលែកគោលបំណងរបស់អ្នកឱ្យច្បាស់ អាចទាក់ទាញអតិថិជនដែលក្លាយជាអ្នកគាំទ្រពិតប្រាកដ។ ក្តីសង្ឃឹម អាចរីករាលដាលតាមសហគមន៍។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Customers may be unclear about what you offer or why it matters, with your message lost in the noise. Visibility may be clouded.",
+        "km": "អតិថិជន ប្រហែលជាមិនច្បាស់អំពីអ្វីដែលអ្នកផ្តល់ជូន ឬហេតុអ្វីវាសំខាន់ ដោយសាររបស់អ្នកបាត់បង់ក្នុងសំឡេងរំខាន។ ភាពលេចធ្លោ ប្រហែលជាស្រអាប់។"
+      },
+      "challenge": {
+        "en": "Confusing messages or mixed branding could leave people unsure. Simplify what you say until it is clear at a glance.",
+        "km": "សារច្របូកច្របល់ ឬម៉ាកយីហោចម្រុះ អាចធ្វើឱ្យមនុស្សមិនប្រាកដ។ សូមធ្វើឱ្យអ្វីដែលអ្នកនិយាយសាមញ្ញ រហូតដល់វាច្បាស់ភ្លាមៗពេលមើល។"
+      },
+      "outcome": {
+        "en": "A clear, simple message could cut through the noise and bring the right customers. Clarity may make you memorable.",
+        "km": "សារច្បាស់លាស់ និងសាមញ្ញ អាចកាត់ផ្តាច់សំឡេងរំខាន ហើយនាំអតិថិជនត្រឹមត្រូវមក។ ភាពច្បាស់លាស់ អាចធ្វើឱ្យអ្នកគួរឱ្យចងចាំ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Visibility and good energy may already be on your side, with people noticing and talking about you. Success attracts more success.",
+        "km": "ភាពលេចធ្លោ និងថាមពលល្អ ប្រហែលជាស្ថិតនៅខាងអ្នករួចហើយ ដោយមនុស្សកំពុងកត់សម្គាល់ និងនិយាយអំពីអ្នក។ ភាពជោគជ័យ ទាក់ទាញភាពជោគជ័យបន្ថែម។"
+      },
+      "challenge": {
+        "en": "Letting service slip as you get busier could disappoint the new customers you attract. Keep quality high as numbers grow.",
+        "km": "ការឱ្យសេវាកម្មរអិលចុះ នៅពេលអ្នកកាន់តែមមាញឹក អាចធ្វើឱ្យអតិថិជនថ្មីដែលអ្នកទាក់ទាញខកចិត្ត។ សូមរក្សាគុណភាពឱ្យខ្ពស់ នៅពេលចំនួនកើនឡើង។"
+      },
+      "outcome": {
+        "en": "Riding the buzz with excellent service could turn attention into a loyal customer base. Bright energy may keep drawing people in.",
+        "km": "ការជិះភាពល្បីល្បាញ ជាមួយសេវាកម្មដ៏ល្អឥតខ្ចោះ អាចបង្វែរការយកចិត្តទុកដាក់ទៅជាមូលដ្ឋានអតិថិជនស្មោះត្រង់។ ថាមពលភ្លឺស្វាង អាចបន្តទាញមនុស្សចូល។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Honest feedback from past customers could show you exactly what to change. Old complaints may hold the key to new sales.",
+        "km": "មតិកែលម្អដោយស្មោះត្រង់ពីអតិថិជនកន្លងមក អាចបង្ហាញអ្នកយ៉ាងច្បាស់ពីអ្វីដែលត្រូវផ្លាស់ប្តូរ។ ការត្អូញត្អែរចាស់ៗ អាចកាន់គន្លឹះនៃការលក់ថ្មី។"
+      },
+      "challenge": {
+        "en": "Ignoring complaints or bad reviews could let the same problem drive people away. Learn from what customers tell you.",
+        "km": "ការមិនអើពើនឹងការត្អូញត្អែរ ឬការវាយតម្លៃអាក្រក់ អាចឱ្យបញ្ហាដដែលបណ្តេញមនុស្សចេញ។ សូមរៀនពីអ្វីដែលអតិថិជនប្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Acting on feedback could turn critics into fans and attract new customers. A renewed approach may earn a second chance.",
+        "km": "ការធ្វើសកម្មភាពតាមមតិកែលម្អ អាចបង្វែរអ្នករិះគន់ទៅជាអ្នកគាំទ្រ ហើយទាក់ទាញអតិថិជនថ្មី។ វិធីសាស្ត្រថ្មី អាចទទួលបានឱកាសទីពីរ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "A milestone reached, such as an anniversary or a completed project, could be a story worth sharing to draw people in. Completion attracts attention.",
+        "km": "សមិទ្ធផលដែលបានសម្រេច ដូចជាខួប ឬគម្រោងដែលបានបញ្ចប់ អាចជារឿងដែលសមនឹងការចែករំលែក ដើម្បីទាញមនុស្សចូល។ ការបញ្ចប់ ទាក់ទាញការយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Celebrating without inviting customers into the moment could miss a chance. Turn milestones into reasons for people to visit.",
+        "km": "ការអបអរ ដោយមិនអញ្ជើញអតិថិជនចូលរួមក្នុងពេលនោះ អាចខកខានឱកាស។ សូមបង្វែរសមិទ្ធផលទៅជាហេតុផលសម្រាប់មនុស្សមកលេង។"
+      },
+      "outcome": {
+        "en": "Sharing a milestone with customers could bring both old and new faces through the door. A new chapter may start with a crowd.",
+        "km": "ការចែករំលែកសមិទ្ធផលជាមួយអតិថិជន អាចនាំទាំងមុខចាស់ និងថ្មីចូលទ្វារ។ ជំពូកថ្មី អាចចាប់ផ្តើមជាមួយហ្វូងមនុស្ស។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A fresh product, offer or launch event could spark new interest in the business. Novelty is a powerful draw.",
+        "km": "ផលិតផល ការផ្តល់ជូន ឬព្រឹត្តិការណ៍ដាក់ចេញថ្មី អាចបញ្ឆេះចំណាប់អារម្មណ៍ថ្មីលើអាជីវកម្ម។ ភាពថ្មីថ្មោង គឺជាការទាក់ទាញដ៏មានឥទ្ធិពល។"
+      },
+      "challenge": {
+        "en": "Launching something new without telling anyone could let the spark fizzle out unseen. Plan how people will hear about it first.",
+        "km": "ការដាក់ចេញអ្វីមួយថ្មី ដោយមិនប្រាប់នរណាម្នាក់ អាចឱ្យផ្កាភ្លើងរលត់ដោយមិនមើលឃើញ។ សូមរៀបចំផែនការពីរបៀបដែលមនុស្សនឹងឮអំពីវាជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "A well-announced new offer could bring a wave of curious first-time buyers. A good first impression may turn them into regulars.",
+        "km": "ការផ្តល់ជូនថ្មីដែលបានប្រកាសល្អ អាចនាំមកនូវរលកនៃអ្នកទិញលើកដំបូងដែលចង់ដឹង។ ចំណាប់អារម្មណ៍ដំបូងល្អ អាចបង្វែរពួកគេទៅជាអតិថិជនទៀងទាត់។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Planning which new markets or groups to reach could open a wider customer base. Several directions may be available.",
+        "km": "ការរៀបចំផែនការថាទីផ្សារ ឬក្រុមថ្មីណាដែលត្រូវឈានដល់ អាចបើកមូលដ្ឋានអតិថិជនទូលាយជាងមុន។ ទិសដៅជាច្រើន ប្រហែលជាមាន។"
+      },
+      "challenge": {
+        "en": "Planning a campaign without ever launching it could leave potential customers unaware of you. Pick one audience and start reaching out.",
+        "km": "ការរៀបចំផែនការយុទ្ធនាការ ដោយមិនដែលដាក់ចេញវា អាចទុកឱ្យអតិថិជនសក្តានុពលមិនដឹងពីអ្នក។ សូមជ្រើសរើសទស្សនិកជនមួយ ហើយចាប់ផ្តើមឈានទៅរក។"
+      },
+      "outcome": {
+        "en": "Reaching a new audience with a clear plan could widen your customer base steadily. Bold steps may open fresh markets.",
+        "km": "ការឈានដល់ទស្សនិកជនថ្មី ជាមួយផែនការច្បាស់លាស់ អាចពង្រីកមូលដ្ឋានអតិថិជនរបស់អ្នកដោយនឹងនរ។ ជំហានក្លាហាន អាចបើកទីផ្សារថ្មី។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Early signs of interest from a new area or group could show where more customers are waiting. Prospects are appearing.",
+        "km": "សញ្ញាដំបូងនៃចំណាប់អារម្មណ៍ពីតំបន់ ឬក្រុមថ្មី អាចបង្ហាញកន្លែងដែលអតិថិជនច្រើនទៀតកំពុងរង់ចាំ។ ទស្សនវិស័យកំពុងលេចឡើង។"
+      },
+      "challenge": {
+        "en": "Ignoring early enquiries from new places could waste a real opening. Follow up on every sign of interest.",
+        "km": "ការមិនអើពើនឹងការសាកសួរដំបូងៗពីកន្លែងថ្មី អាចខ្ជះខ្ជាយឱកាសពិតប្រាកដ។ សូមតាមដានរាល់សញ្ញានៃចំណាប់អារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "Following early interest with care could open a new stream of customers. Your reach may grow step by step.",
+        "km": "ការតាមដានចំណាប់អារម្មណ៍ដំបូងដោយប្រុងប្រយ័ត្ន អាចបើកលំហូរអតិថិជនថ្មី។ ការឈានដល់របស់អ្នក អាចរីកចម្រើនមួយជំហានម្តងៗ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A celebration, opening or community event could be a natural way to bring people in. Festive energy attracts crowds.",
+        "km": "ការអបអរ ការបើក ឬព្រឹត្តិការណ៍សហគមន៍ អាចជាវិធីធម្មជាតិដើម្បីនាំមនុស្សចូល។ ថាមពលពិធីបុណ្យ ទាក់ទាញហ្វូងមនុស្ស។"
+      },
+      "challenge": {
+        "en": "Spending heavily on an event without a way to keep in touch could lose the people who came. Collect contacts so they return.",
+        "km": "ការចំណាយច្រើនលើព្រឹត្តិការណ៍ ដោយគ្មានវិធីរក្សាទំនាក់ទំនង អាចបាត់បង់មនុស្សដែលបានមក។ សូមប្រមូលទំនាក់ទំនង ដើម្បីឱ្យពួកគេត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "A warm, well-run event could turn visitors into loyal customers. Community spirit may become your marketing.",
+        "km": "ព្រឹត្តិការណ៍កក់ក្តៅ និងដំណើរការល្អ អាចបង្វែរអ្នកមកលេងទៅជាអតិថិជនស្មោះត្រង់។ ស្មារតីសហគមន៍ អាចក្លាយជាទីផ្សាររបស់អ្នក។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Competition for customers may be fierce, with rivals fighting for the same attention. Standing out is the challenge.",
+        "km": "ការប្រកួតប្រជែងដើម្បីអតិថិជន ប្រហែលជាខ្លាំងក្លា ដោយគូប្រជែងប្រយុទ្ធដើម្បីការយកចិត្តទុកដាក់ដូចគ្នា។ ការលេចធ្លោ គឺជាបញ្ហាប្រឈម។"
+      },
+      "challenge": {
+        "en": "Competing only on price could attract bargain hunters who leave for the next deal. Compete on value and service instead.",
+        "km": "ការប្រកួតប្រជែងតែលើតម្លៃ អាចទាក់ទាញអ្នករកតម្លៃថោក ដែលចាកចេញទៅរកកិច្ចព្រមព្រៀងបន្ទាប់។ សូមប្រកួតប្រជែងលើតម្លៃពិត និងសេវាកម្មជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Standing out for something rivals cannot copy could win customers who stay. A clear difference may draw the right people.",
+        "km": "ការលេចធ្លោសម្រាប់អ្វីមួយដែលគូប្រជែងមិនអាចចម្លង អាចឈ្នះអតិថិជនដែលស្នាក់នៅ។ ភាពខុសគ្នាច្បាស់លាស់ អាចទាញមនុស្សត្រឹមត្រូវ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Good reviews, testimonials or public praise could be your strongest draw. Strangers often trust what other buyers say more than any advert.",
+        "km": "ការវាយតម្លៃល្អ សក្ខីកម្ម ឬការសរសើរជាសាធារណៈ អាចជាការទាក់ទាញរឹងមាំបំផុតរបស់អ្នក។ មនុស្សចម្លែក ជារឿយៗទុកចិត្តអ្វីដែលអ្នកទិញផ្សេងទៀតនិយាយ ច្រើនជាងការផ្សាយពាណិជ្ជកម្មណាមួយ។"
+      },
+      "challenge": {
+        "en": "Keeping praise to yourself could leave potential customers unaware of your reputation. Ask happy customers to share their experience.",
+        "km": "ការរក្សាការសរសើរសម្រាប់ខ្លួនឯង អាចទុកឱ្យអតិថិជនសក្តានុពលមិនដឹងពីកេរ្តិ៍ឈ្មោះរបស់អ្នក។ សូមសុំអតិថិជនរីករាយឱ្យចែករំលែកបទពិសោធន៍របស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Sharing genuine praise could convince new customers to give you a try. One glowing review may lead to several new buyers.",
+        "km": "ការចែករំលែកការសរសើរពិតប្រាកដ អាចបញ្ចុះបញ្ចូលអតិថិជនថ្មីឱ្យសាកល្បងអ្នក។ ការវាយតម្លៃដ៏ល្អមួយ អាចនាំទៅរកអ្នកទិញថ្មីជាច្រើន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "A loyal core of customers who defend and recommend you could be your base for growth. Their word carries weight with friends.",
+        "km": "ស្នូលអតិថិជនស្មោះត្រង់ ដែលការពារ និងណែនាំអ្នក អាចជាមូលដ្ឋានរបស់អ្នកសម្រាប់ការរីកចម្រើន។ ពាក្យរបស់ពួកគេ មានទម្ងន់ចំពោះមិត្តភក្តិ។"
+      },
+      "challenge": {
+        "en": "Neglecting loyal customers while chasing new ones could weaken your base. Look after those who already back you.",
+        "km": "ការធ្វេសប្រហែសអតិថិជនស្មោះត្រង់ ខណៈដេញតាមអតិថិជនថ្មី អាចធ្វើឱ្យមូលដ្ឋានរបស់អ្នកចុះខ្សោយ។ សូមថែរក្សាអ្នកដែលគាំទ្រអ្នករួចហើយ។"
+      },
+      "outcome": {
+        "en": "Rewarding loyal customers could turn them into ambassadors who bring others. A referral from a regular may be worth more than an advert.",
+        "km": "ការផ្តល់រង្វាន់ដល់អតិថិជនស្មោះត្រង់ អាចបង្វែរពួកគេទៅជាឯកអគ្គរាជទូតដែលនាំអ្នកដទៃមក។ ការណែនាំពីអតិថិជនទៀងទាត់ អាចមានតម្លៃជាងការផ្សាយពាណិជ្ជកម្ម។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Quick replies and prompt delivery could win customers who value speed. Being first to answer an enquiry often wins the sale.",
+        "km": "ការឆ្លើយតបរហ័ស និងការដឹកជញ្ជូនទាន់ពេល អាចឈ្នះអតិថិជនដែលឱ្យតម្លៃលើល្បឿន។ ការក្លាយជាអ្នកដំបូងដែលឆ្លើយការសាកសួរ ជារឿយៗឈ្នះការលក់។"
+      },
+      "challenge": {
+        "en": "Slow replies or missed messages could send interested people to faster rivals. Make it easy to reach you.",
+        "km": "ការឆ្លើយតបយឺត ឬសារដែលខកខាន អាចបញ្ជូនមនុស្សដែលចាប់អារម្មណ៍ទៅគូប្រជែងដែលលឿនជាង។ សូមធ្វើឱ្យងាយស្រួលទាក់ទងអ្នក។"
+      },
+      "outcome": {
+        "en": "Being quick and responsive could turn more enquiries into sales. Speedy service may become what customers tell others about.",
+        "km": "ការរហ័ស និងឆ្លើយតប អាចបង្វែរការសាកសួរកាន់តែច្រើនទៅជាការលក់។ សេវាកម្មរហ័ស អាចក្លាយជាអ្វីដែលអតិថិជនប្រាប់អ្នកដទៃ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Persistence in marketing, even when results are slow, could be what tips people into buying. People often need to see a name several times before they trust it.",
+        "km": "ការតស៊ូក្នុងទីផ្សារ សូម្បីតែនៅពេលលទ្ធផលយឺត អាចជាអ្វីដែលធ្វើឱ្យមនុស្សសម្រេចចិត្តទិញ។ មនុស្សជារឿយៗត្រូវការឃើញឈ្មោះមួយច្រើនដង មុនពេលពួកគេទុកចិត្តវា។"
+      },
+      "challenge": {
+        "en": "Giving up on marketing just before it starts working could waste your effort. Keep going, and measure what each effort brings.",
+        "km": "ការបោះបង់ទីផ្សារ មុនពេលវាចាប់ផ្តើមដំណើរការបន្តិច អាចខ្ជះខ្ជាយការខិតខំរបស់អ្នក។ សូមបន្តទៅមុខ ហើយវាស់វែងអ្វីដែលការខិតខំនីមួយៗនាំមក។"
+      },
+      "outcome": {
+        "en": "Steady, persistent outreach could build familiarity that turns into customers. The name people keep seeing may be the one they choose.",
+        "km": "ការឈានទៅរកដោយនឹងនរ និងតស៊ូ អាចកសាងភាពធ្លាប់ស្គាល់ដែលប្រែក្លាយទៅជាអតិថិជន។ ឈ្មោះដែលមនុស្សបន្តឃើញ អាចជាឈ្មោះដែលពួកគេជ្រើសរើស។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may be doing all the marketing yourself on top of running everything else. Posts, signs and follow-ups may be slipping.",
+        "km": "អ្នកប្រហែលជាកំពុងធ្វើទីផ្សារទាំងអស់ដោយខ្លួនឯង លើការដំណើរការអ្វីៗផ្សេងទៀតទាំងអស់។ ការបង្ហោះ ស្លាកសញ្ញា និងការតាមដាន ប្រហែលជាកំពុងរអិល។"
+      },
+      "challenge": {
+        "en": "Spreading yourself too thin could leave marketing half done. Get help or focus on one channel that works.",
+        "km": "ការចែកខ្លួនឯងស្តើងពេក អាចទុកទីផ្សារឱ្យធ្វើបានពាក់កណ្តាល។ សូមរកជំនួយ ឬផ្តោតលើបណ្តាញមួយដែលដំណើរការ។"
+      },
+      "outcome": {
+        "en": "Sharing or simplifying the marketing load could let you do the essentials well. One channel done properly may outperform five done badly.",
+        "km": "ការចែករំលែក ឬការធ្វើឱ្យបន្ទុកទីផ្សារសាមញ្ញ អាចឱ្យអ្នកធ្វើរឿងចាំបាច់បានល្អ។ បណ្តាញមួយដែលធ្វើបានត្រឹមត្រូវ អាចដំណើរការល្អជាងប្រាំដែលធ្វើបានអាក្រក់។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity about new channels, such as social media, online markets or local groups, could open fresh ways to reach customers. Trying things out may reveal where buyers gather.",
+        "km": "ការចង់ដឹងអំពីបណ្តាញថ្មី ដូចជាបណ្តាញសង្គម ទីផ្សារអនឡាញ ឬក្រុមក្នុងតំបន់ អាចបើកវិធីថ្មីដើម្បីឈានដល់អតិថិជន។ ការសាកល្បង អាចបង្ហាញកន្លែងដែលអ្នកទិញប្រមូលផ្តុំ។"
+      },
+      "challenge": {
+        "en": "Trying too many new channels at once could spread you thin. Test one, learn, then add another.",
+        "km": "ការសាកល្បងបណ្តាញថ្មីច្រើនពេកក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នកតឹងតែង។ សូមសាកល្បងមួយ រៀន ហើយបន្ទាប់មកបន្ថែមមួយទៀត។"
+      },
+      "outcome": {
+        "en": "Careful experiments could reveal the channels where your customers gather. Small tests may lead to big reach.",
+        "km": "ការពិសោធដោយប្រុងប្រយ័ត្ន អាចបង្ហាញបណ្តាញដែលអតិថិជនរបស់អ្នកប្រមូលផ្តុំ។ ការសាកល្បងតូចៗ អាចនាំទៅរកការឈានដល់ធំ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold, energetic promotion could grab attention and bring a rush of new customers. A lively campaign may be ready to go.",
+        "km": "ការផ្សព្វផ្សាយដ៏ក្លាហាន និងសកម្ម អាចចាប់យកការយកចិត្តទុកដាក់ ហើយនាំមកនូវអតិថិជនថ្មីច្រើនភ្លាមៗ។ យុទ្ធនាការរស់រវើកមួយ ប្រហែលជាត្រៀមរួចរាល់។"
+      },
+      "challenge": {
+        "en": "Aggressive tactics without a plan could burn money and goodwill. Aim your energy at the right audience.",
+        "km": "យុទ្ធសាស្ត្រឈ្លានពាន ដោយគ្មានផែនការ អាចដុតប្រាក់ និងឆន្ទៈល្អ។ សូមតម្រង់ថាមពលរបស់អ្នកទៅទស្សនិកជនត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "Bold, well-aimed campaigns could bring an exciting rise in customers. A daring idea with a clear target may be talked about widely.",
+        "km": "យុទ្ធនាការដ៏ក្លាហាន និងតម្រង់បានល្អ អាចនាំមកនូវការកើនឡើងដ៏គួរឱ្យរំភើបនៃអតិថិជន។ គំនិតក្លាហាន ជាមួយគោលដៅច្បាស់លាស់ អាចត្រូវបាននិយាយអំពីយ៉ាងទូលំទូលាយ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your warm, confident personality could be the face that draws people to the business. Customers may come back as much for you as for the product.",
+        "km": "បុគ្គលិកលក្ខណៈកក់ក្តៅ និងមានទំនុកចិត្តរបស់អ្នក អាចជាមុខមាត់ដែលទាញមនុស្សមកអាជីវកម្ម។ អតិថិជន អាចត្រឡប់មកវិញដោយសារអ្នក ដូចដែលដោយសារផលិតផល។"
+      },
+      "challenge": {
+        "en": "Relying only on your personal charm could limit growth when you cannot be everywhere. Build systems that carry your warmth.",
+        "km": "ការពឹងតែលើភាពគួរឱ្យចាប់ចិត្តផ្ទាល់ខ្លួនរបស់អ្នក អាចកំណត់ការរីកចម្រើន នៅពេលអ្នកមិនអាចនៅគ្រប់កន្លែង។ សូមកសាងប្រព័ន្ធដែលនាំភាពកក់ក្តៅរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Putting your personality at the heart of the brand could build a loyal following. People may buy from someone they like.",
+        "km": "ការដាក់បុគ្គលិកលក្ខណៈរបស់អ្នកនៅចំកណ្តាលម៉ាកយីហោ អាចកសាងអ្នកគាំទ្រស្មោះត្រង់។ មនុស្ស អាចទិញពីនរណាម្នាក់ដែលពួកគេចូលចិត្ត។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "A clear, bold vision for the business could attract customers who share it. People like to buy into something bigger than a product.",
+        "km": "ចក្ខុវិស័យច្បាស់លាស់ និងក្លាហានសម្រាប់អាជីវកម្ម អាចទាក់ទាញអតិថិជនដែលចែករំលែកវា។ មនុស្សចូលចិត្តទិញចូលទៅក្នុងអ្វីមួយដែលធំជាងផលិតផល។"
+      },
+      "challenge": {
+        "en": "A grand message without practical follow-through could disappoint the customers it draws. Make sure the experience matches the vision.",
+        "km": "សារដ៏ធំ ដោយគ្មានការតាមដានជាក់ស្តែង អាចធ្វើឱ្យអតិថិជនដែលវាទាញមកខកចិត្ត។ សូមប្រាកដថាបទពិសោធន៍ស៊ីនឹងចក្ខុវិស័យ។"
+      },
+      "outcome": {
+        "en": "A vision customers can see and feel could build a strong, loyal brand. People who believe in it may bring their friends along.",
+        "km": "ចក្ខុវិស័យដែលអតិថិជនអាចមើលឃើញ និងមានអារម្មណ៍ អាចកសាងម៉ាកយីហោរឹងមាំ និងស្មោះត្រង់។ មនុស្សដែលជឿជាក់លើវា អាចនាំមិត្តភក្តិរបស់ពួកគេមកជាមួយ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "A genuine emotional connection with customers, the feeling that you truly care, could be your greatest draw. People remember how a business made them feel.",
+        "km": "ការតភ្ជាប់ផ្លូវចិត្តពិតប្រាកដជាមួយអតិថិជន អារម្មណ៍ថាអ្នកពិតជាយកចិត្តទុកដាក់ អាចជាការទាក់ទាញធំបំផុតរបស់អ្នក។ មនុស្សចងចាំពីរបៀបដែលអាជីវកម្មមួយធ្វើឱ្យពួកគេមានអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Warm feelings that never reach new people could keep the business a well-kept secret. Let your care show in what you post and say.",
+        "km": "អារម្មណ៍កក់ក្តៅដែលមិនដែលឈានដល់មនុស្សថ្មី អាចរក្សាអាជីវកម្មឱ្យនៅជាអាថ៌កំបាំងដែលរក្សាទុកបានល្អ។ សូមឱ្យការយកចិត្តទុកដាក់របស់អ្នកបង្ហាញក្នុងអ្វីដែលអ្នកបង្ហោះ និងនិយាយ។"
+      },
+      "outcome": {
+        "en": "Sharing heartfelt service openly could draw customers looking for a business that cares. Emotional loyalty may outlast any discount.",
+        "km": "ការចែករំលែកសេវាកម្មពីបេះដូងដោយបើកចំហ អាចទាក់ទាញអតិថិជនដែលកំពុងស្វែងរកអាជីវកម្មដែលយកចិត្តទុកដាក់។ ភាពស្មោះត្រង់ផ្លូវចិត្ត អាចស្ថិតស្ថេរជាងការបញ្ចុះតម្លៃណាមួយ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "One-to-one relationships with customers, such as remembering names and preferences, could be what sets you apart. Regulars may feel like guests rather than buyers.",
+        "km": "ទំនាក់ទំនងម្នាក់ទល់ម្នាក់ជាមួយអតិថិជន ដូចជាការចងចាំឈ្មោះ និងចំណូលចិត្ត អាចជាអ្វីដែលធ្វើឱ្យអ្នកខុសប្លែក។ អតិថិជនទៀងទាត់ អាចមានអារម្មណ៍ដូចជាភ្ញៀវ ជាជាងអ្នកទិញ។"
+      },
+      "challenge": {
+        "en": "Treating customers as numbers rather than people could leave them feeling unseen. Make each buyer feel known.",
+        "km": "ការប្រព្រឹត្តចំពោះអតិថិជនដូចជាលេខ ជាជាងមនុស្ស អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាមិនត្រូវបានគេមើលឃើញ។ សូមធ្វើឱ្យអ្នកទិញនីមួយៗមានអារម្មណ៍ថាត្រូវបានគេស្គាល់។"
+      },
+      "outcome": {
+        "en": "Personal, caring relationships could turn customers into friends who recommend you. One good relationship may lead to many.",
+        "km": "ទំនាក់ទំនងផ្ទាល់ខ្លួន និងយកចិត្តទុកដាក់ អាចបង្វែរអតិថិជនទៅជាមិត្តភក្តិដែលណែនាំអ្នក។ ទំនាក់ទំនងល្អមួយ អាចនាំទៅរកទំនាក់ទំនងជាច្រើន។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A community feel, such as customer groups, gatherings or shared events, could naturally attract new people. Members may bring friends who want to belong too.",
+        "km": "អារម្មណ៍សហគមន៍ ដូចជាក្រុមអតិថិជន ការជួបជុំ ឬព្រឹត្តិការណ៍រួមគ្នា អាចទាក់ទាញមនុស្សថ្មីដោយធម្មជាតិ។ សមាជិក អាចនាំមិត្តភក្តិដែលចង់ជាកម្មសិទ្ធិផងដែរ។"
+      },
+      "challenge": {
+        "en": "Building a community without any way to buy could leave fun without sales. Link gatherings to what you offer.",
+        "km": "ការកសាងសហគមន៍ ដោយគ្មានវិធីទិញ អាចទុកភាពសប្បាយដោយគ្មានការលក់។ សូមភ្ជាប់ការជួបជុំទៅនឹងអ្វីដែលអ្នកផ្តល់ជូន។"
+      },
+      "outcome": {
+        "en": "A warm customer community could grow by word of mouth and bring steady sales. People may invite friends to join in.",
+        "km": "សហគមន៍អតិថិជនកក់ក្តៅ អាចរីកចម្រើនតាមការនិយាយតៗគ្នា ហើយនាំមកនូវការលក់នឹងនរ។ មនុស្ស អាចអញ្ជើញមិត្តភក្តិឱ្យចូលរួម។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Your marketing may feel stale, with little energy and offers going unnoticed. Customers may not be seeing anything new.",
+        "km": "ទីផ្សាររបស់អ្នក ប្រហែលជាមានអារម្មណ៍ចាស់ ដោយមានថាមពលតិចតួច ហើយការផ្តល់ជូនមិនត្រូវបានកត់សម្គាល់។ អតិថិជន ប្រហែលជាមិនឃើញអ្វីថ្មី។"
+      },
+      "challenge": {
+        "en": "Ignoring feedback or partnership offers out of boredom could miss easy wins. Look again at what people are asking for.",
+        "km": "ការមិនអើពើនឹងមតិកែលម្អ ឬការផ្តល់ជូនភាពជាដៃគូ ដោយសារភាពធុញទ្រាន់ អាចខកខានជ័យជម្នះងាយស្រួល។ សូមមើលម្តងទៀតលើអ្វីដែលមនុស្សកំពុងសុំ។"
+      },
+      "outcome": {
+        "en": "Fresh interest in what customers want could revive attention and sales. A simple new offer may wake people up.",
+        "km": "ចំណាប់អារម្មណ៍ថ្មីលើអ្វីដែលអតិថិជនចង់បាន អាចធ្វើឱ្យការយកចិត្តទុកដាក់ និងការលក់រស់ឡើងវិញ។ ការផ្តល់ជូនថ្មីសាមញ្ញមួយ អាចដាស់មនុស្ស។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "A past setback, such as lost customers or a failed campaign, may be making you hesitant to try again. Regret may be holding you back.",
+        "km": "ការថយក្រោយកន្លងមក ដូចជាការបាត់បង់អតិថិជន ឬយុទ្ធនាការបរាជ័យ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកស្ទាក់ស្ទើរក្នុងការសាកល្បងម្តងទៀត។ ការសោកស្តាយ ប្រហែលជាកំពុងទប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Dwelling on the customers you lost could blind you to the ones still waiting to be found. Turn toward new possibilities.",
+        "km": "ការគិតច្រើនពេកលើអតិថិជនដែលអ្នកបានបាត់បង់ អាចធ្វើឱ្យអ្នកខ្វាក់ចំពោះអតិថិជនដែលនៅតែរង់ចាំត្រូវបានរកឃើញ។ សូមងាកទៅរកលទ្ធភាពថ្មីៗ។"
+      },
+      "outcome": {
+        "en": "Learning from what went wrong could make the next campaign far more effective. Remaining customers may help you rebuild.",
+        "km": "ការរៀនពីអ្វីដែលខុស អាចធ្វើឱ្យយុទ្ធនាការបន្ទាប់មានប្រសិទ្ធភាពជាងមុនច្រើន។ អតិថិជនដែលនៅសល់ អាចជួយអ្នកកសាងឡើងវិញ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Nostalgia, tradition or a long local history could be a real draw for customers. A name people grew up with can feel like an old friend.",
+        "km": "ការនឹករលឹក ប្រពៃណី ឬប្រវត្តិក្នុងតំបន់យូរលង់ អាចជាការទាក់ទាញពិតប្រាកដសម្រាប់អតិថិជន។ ឈ្មោះដែលមនុស្សធំឡើងជាមួយ អាចមានអារម្មណ៍ដូចជាមិត្តចាស់។"
+      },
+      "challenge": {
+        "en": "Leaning only on old charm could fail to reach younger or newer customers. Tell your story in ways new people can hear.",
+        "km": "ការពឹងតែលើភាពគួរឱ្យស្រលាញ់ចាស់ អាចមិនឈានដល់អតិថិជនវ័យក្មេង ឬថ្មីជាង។ សូមប្រាប់រឿងរបស់អ្នកតាមរបៀបដែលមនុស្សថ្មីអាចឮ។"
+      },
+      "outcome": {
+        "en": "Heritage told in a fresh way could attract both loyal locals and curious newcomers. Your history may become your hook.",
+        "km": "មរតកដែលប្រាប់តាមរបៀបថ្មី អាចទាក់ទាញទាំងអ្នកក្នុងតំបន់ស្មោះត្រង់ និងអ្នកមកថ្មីដែលចង់ដឹង។ ប្រវត្តិរបស់អ្នក អាចក្លាយជាទំពក់របស់អ្នក។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may be weighing many marketing ideas, some realistic and some wishful. Choosing which to pursue may be hard.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងគំនិតទីផ្សារជាច្រើន ខ្លះជាក់ស្តែង ហើយខ្លះគ្រាន់តែជាការប្រាថ្នា។ ការជ្រើសរើសថាត្រូវតាមរកមួយណា ប្រហែលជាពិបាក។"
+      },
+      "challenge": {
+        "en": "Chasing schemes that promise fast followers or instant sales could waste money on hollow results. Test claims before paying.",
+        "km": "ការដេញតាមគម្រោងដែលសន្យាអ្នកតាមដានរហ័ស ឬការលក់ភ្លាមៗ អាចខ្ជះខ្ជាយប្រាក់លើលទ្ធផលទទេ។ សូមសាកល្បងការអះអាង មុនពេលបង់ប្រាក់។"
+      },
+      "outcome": {
+        "en": "Backing the one idea your customers respond to could turn a wish list into real sales. Clarity may show which campaign deserves the budget.",
+        "km": "ការគាំទ្រគំនិតមួយដែលអតិថិជនរបស់អ្នកឆ្លើយតប អាចបង្វែរបញ្ជីបំណងប្រាថ្នាទៅជាការលក់ពិតប្រាកដ។ ភាពច្បាស់លាស់ អាចបង្ហាញថាយុទ្ធនាការណាសមនឹងថវិកា។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be moving away from a market or customer type that no longer fits, toward a more meaningful audience. The people you want to serve may be changing.",
+        "km": "អ្នកប្រហែលជាកំពុងផ្លាស់ចេញពីទីផ្សារ ឬប្រភេទអតិថិជនដែលលែងសម ឆ្ពោះទៅរកទស្សនិកជនដែលមានអត្ថន័យជាងមុន។ មនុស្សដែលអ្នកចង់បម្រើ ប្រហែលជាកំពុងផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Abandoning old customers before new ones arrive could leave a gap in sales. Bridge the transition carefully.",
+        "km": "ការបោះបង់អតិថិជនចាស់ មុនពេលអតិថិជនថ្មីមកដល់ អាចបន្សល់ចន្លោះក្នុងការលក់។ សូមបិទចន្លោះការផ្លាស់ប្តូរដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "A well-managed shift could bring customers who value what you truly offer. The new audience may suit you better.",
+        "km": "ការផ្លាស់ប្តូរដែលគ្រប់គ្រងបានល្អ អាចនាំមកនូវអតិថិជនដែលឱ្យតម្លៃលើអ្វីដែលអ្នកផ្តល់ជូនពិតប្រាកដ។ ទស្សនិកជនថ្មី អាចសមនឹងអ្នកប្រសើរជាង។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Satisfied customers who feel their wishes were met could be your best advertisement. A delighted buyer often tells several friends.",
+        "km": "អតិថិជនពេញចិត្ត ដែលមានអារម្មណ៍ថាបំណងប្រាថ្នារបស់ពួកគេត្រូវបានបំពេញ អាចជាការផ្សាយពាណិជ្ជកម្មល្អបំផុតរបស់អ្នក។ អ្នកទិញដែលរីករាយ ជារឿយៗប្រាប់មិត្តភក្តិជាច្រើន។"
+      },
+      "challenge": {
+        "en": "Assuming happy customers will spread the word on their own could miss chances. Ask them to recommend you.",
+        "km": "ការសន្មតថាអតិថិជនរីករាយនឹងផ្សព្វផ្សាយពាក្យដោយខ្លួនឯង អាចខកខានឱកាស។ សូមសុំពួកគេឱ្យណែនាំអ្នក។"
+      },
+      "outcome": {
+        "en": "Encouraging satisfied customers to share could bring a steady stream of referrals. Happy buyers may attract more of the same.",
+        "km": "ការលើកទឹកចិត្តអតិថិជនពេញចិត្តឱ្យចែករំលែក អាចនាំមកនូវលំហូរការណែនាំដោយនឹងនរ។ អ្នកទិញរីករាយ អាចទាក់ទាញអ្នកដូចគ្នាបន្ថែម។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "A family-friendly, welcoming atmosphere could attract whole households and groups. Parents and grandparents may bring the next generation along.",
+        "km": "បរិយាកាសស្វាគមន៍ និងសមរម្យសម្រាប់គ្រួសារ អាចទាក់ទាញគ្រួសារទាំងមូល និងក្រុម។ ឪពុកម្តាយ និងជីដូនជីតា អាចនាំជំនាន់បន្ទាប់មកជាមួយ។"
+      },
+      "challenge": {
+        "en": "Trying to appeal to everyone could dilute the family feeling that makes you special. Stay true to your welcoming spirit.",
+        "km": "ការព្យាយាមទាក់ទាញអ្នករាល់គ្នា អាចពនរលាយអារម្មណ៍គ្រួសារដែលធ្វើឱ្យអ្នកពិសេស។ សូមនៅស្មោះត្រង់ចំពោះស្មារតីស្វាគមន៍របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A warm, inclusive space could become a favourite for families and friends. Shared good experiences may bring people back.",
+        "km": "កន្លែងកក់ក្តៅ និងរួមបញ្ចូល អាចក្លាយជាកន្លែងសំណព្វសម្រាប់គ្រួសារ និងមិត្តភក្តិ។ បទពិសោធន៍ល្អរួមគ្នា អាចនាំមនុស្សត្រឡប់មកវិញ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A creative idea, such as a fun post, a new product twist or a heartfelt story, could catch people's attention. A spark for your next post may already be forming.",
+        "km": "គំនិតច្នៃប្រឌិត ដូចជាការបង្ហោះសប្បាយ ការបង្វិលផលិតផលថ្មី ឬរឿងពីបេះដូង អាចចាប់យកការយកចិត្តទុកដាក់របស់មនុស្ស។ ផ្កាភ្លើងសម្រាប់ការបង្ហោះបន្ទាប់របស់អ្នក ប្រហែលជាកំពុងបង្កើតឡើងរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Waiting for the perfect idea could mean never sharing anything. Try small creative posts and see what resonates.",
+        "km": "ការរង់ចាំគំនិតល្អឥតខ្ចោះ អាចមានន័យថាមិនដែលចែករំលែកអ្វីសោះ។ សូមសាកល្បងការបង្ហោះច្នៃប្រឌិតតូចៗ ហើយមើលថាអ្វីដែលទាក់ទាញ។"
+      },
+      "outcome": {
+        "en": "A playful, creative touch could make the business memorable and shareable. Small ideas may spread far.",
+        "km": "ការប៉ះលេងសើច និងច្នៃប្រឌិត អាចធ្វើឱ្យអាជីវកម្មគួរឱ្យចងចាំ និងអាចចែករំលែកបាន។ គំនិតតូចៗ អាចរីករាលដាលឆ្ងាយ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "A charming, romantic image for the business could attract people looking for something special. Gift buyers and couples may be a natural audience.",
+        "km": "រូបភាពគួរឱ្យចាប់ចិត្ត និងរ៉ូមែនទិកសម្រាប់អាជីវកម្ម អាចទាក់ទាញមនុស្សដែលកំពុងស្វែងរកអ្វីមួយពិសេស។ អ្នកទិញអំណោយ និងគូស្នេហ៍ អាចជាទស្សនិកជនធម្មជាតិ។"
+      },
+      "challenge": {
+        "en": "Promising a dream experience you cannot deliver could lead to disappointed reviews. Keep the charm honest.",
+        "km": "ការសន្យាបទពិសោធន៍ក្នុងក្តីសុបិន ដែលអ្នកមិនអាចផ្តល់បាន អាចនាំទៅរកការវាយតម្លៃខកចិត្ត។ សូមរក្សាភាពគួរឱ្យចាប់ចិត្តឱ្យស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "An appealing image backed by real quality could win devoted customers. Charm with substance may last.",
+        "km": "រូបភាពទាក់ទាញ ដែលគាំទ្រដោយគុណភាពពិតប្រាកដ អាចឈ្នះអតិថិជនដែលស្មោះស្ម័គ្រ។ ភាពគួរឱ្យចាប់ចិត្តជាមួយខ្លឹមសារ អាចស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Caring, attentive service that makes people feel looked after could be your strongest draw. Customers who feel cared for tend to return.",
+        "km": "សេវាកម្មយកចិត្តទុកដាក់ ដែលធ្វើឱ្យមនុស្សមានអារម្មណ៍ថាត្រូវបានថែរក្សា អាចជាការទាក់ទាញរឹងមាំបំផុតរបស់អ្នក។ អតិថិជនដែលមានអារម្មណ៍ថាត្រូវបានថែរក្សា មាននិន្នាការត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Giving away too much to win customers could make the business unsustainable. Show care without undercharging.",
+        "km": "ការផ្តល់ច្រើនពេក ដើម្បីឈ្នះអតិថិជន អាចធ្វើឱ្យអាជីវកម្មគ្មាននិរន្តរភាព។ សូមបង្ហាញការយកចិត្តទុកដាក់ ដោយមិនគិតថ្លៃទាបពេក។"
+      },
+      "outcome": {
+        "en": "Balanced, caring service could build a loyal following that grows by word of mouth. Kindness may be remembered.",
+        "km": "សេវាកម្មយកចិត្តទុកដាក់មានតុល្យភាព អាចកសាងអ្នកគាំទ្រស្មោះត្រង់ដែលរីកចម្រើនតាមការនិយាយតៗគ្នា។ ចិត្តល្អ អាចត្រូវបានចងចាំ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "A calm, steady presence that customers can rely on could build quiet loyalty. People in a hurry may value a business that never flusters.",
+        "km": "វត្តមានស្ងប់ស្ងាត់ និងនឹងនរ ដែលអតិថិជនអាចពឹងផ្អែកបាន អាចកសាងភាពស្មោះត្រង់ស្ងាត់ៗ។ មនុស្សដែលប្រញាប់ អាចឱ្យតម្លៃលើអាជីវកម្មដែលមិនដែលភ្ញាក់ផ្អើល។"
+      },
+      "challenge": {
+        "en": "Being too reserved could leave people unaware of what makes you special. Let your steady strengths be seen.",
+        "km": "ការរក្សាខ្លួនពេក អាចទុកឱ្យមនុស្សមិនដឹងពីអ្វីដែលធ្វើឱ្យអ្នកពិសេស។ សូមឱ្យចំណុចខ្លាំងនឹងនររបស់អ្នកត្រូវបានគេមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Calm, consistent service could earn a reputation that draws steady customers. Reliability may become your brand.",
+        "km": "សេវាកម្មស្ងប់ស្ងាត់ និងស្ថិតស្ថេរ អាចទទួលបានកេរ្តិ៍ឈ្មោះដែលទាញអតិថិជននឹងនរ។ ភាពអាចទុកចិត្តបាន អាចក្លាយជាម៉ាកយីហោរបស់អ្នក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A sharp, honest look at why customers choose you, or do not, could show exactly what to fix. Clear data is a powerful tool.",
+        "km": "ការមើលដោយមុតស្រួច និងស្មោះត្រង់ថាហេតុអ្វីអតិថិជនជ្រើសរើសអ្នក ឬមិនជ្រើសរើស អាចបង្ហាញយ៉ាងច្បាស់ពីអ្វីដែលត្រូវជួសជុល។ ទិន្នន័យច្បាស់លាស់ គឺជាឧបករណ៍ដ៏មានឥទ្ធិពល។"
+      },
+      "challenge": {
+        "en": "Ignoring uncomfortable feedback about price, quality or service could keep customers away. Face the hard truths in reviews.",
+        "km": "ការមិនអើពើនឹងមតិកែលម្អមិនស្រួលអំពីតម្លៃ គុណភាព ឬសេវាកម្ម អាចរក្សាអតិថិជនឱ្យនៅឆ្ងាយ។ សូមប្រឈមមុខនឹងការពិតលំបាកក្នុងការវាយតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Fixing what the data reveals could remove the barriers that keep people from buying. A sharper offer may draw a wider crowd.",
+        "km": "ការជួសជុលអ្វីដែលទិន្នន័យបង្ហាញ អាចដករបាំងដែលរារាំងមនុស្សពីការទិញ។ ការផ្តល់ជូនមុតស្រួចជាងមុន អាចទាញហ្វូងមនុស្សទូលាយជាងមុន។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be stuck deciding between marketing approaches, such as online versus local or price versus quality. Indecision may be costing visibility.",
+        "km": "អ្នកប្រហែលជាជាប់គាំងក្នុងការសម្រេចចិត្តរវាងវិធីសាស្ត្រទីផ្សារ ដូចជាអនឡាញ ធៀបនឹងក្នុងតំបន់ ឬតម្លៃ ធៀបនឹងគុណភាព។ ភាពមិនអាចសម្រេចចិត្ត ប្រហែលជាកំពុងធ្វើឱ្យបាត់បង់ភាពលេចធ្លោ។"
+      },
+      "challenge": {
+        "en": "Waiting to choose the perfect approach could leave potential customers unaware of you. Pick one and test it.",
+        "km": "ការរង់ចាំជ្រើសរើសវិធីសាស្ត្រល្អឥតខ្ចោះ អាចទុកឱ្យអតិថិជនសក្តានុពលមិនដឹងពីអ្នក។ សូមជ្រើសរើសមួយ ហើយសាកល្បងវា។"
+      },
+      "outcome": {
+        "en": "Committing to one approach could get your name in front of the right people. Real results may show whether to adjust or double down.",
+        "km": "ការប្តេជ្ញាលើវិធីសាស្ត្រមួយ អាចដាក់ឈ្មោះរបស់អ្នកនៅចំពោះមុខមនុស្សត្រឹមត្រូវ។ លទ្ធផលពិតប្រាកដ អាចបង្ហាញថាតើត្រូវកែសម្រួល ឬបង្កើនការខិតខំ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "A painful experience, such as a public complaint or a lost loyal customer, may be shaping how you approach marketing. You may be hesitant to put yourself out there.",
+        "km": "បទពិសោធន៍ឈឺចាប់ ដូចជាការត្អូញត្អែរជាសាធារណៈ ឬការបាត់បង់អតិថិជនស្មោះត្រង់ ប្រហែលជាកំពុងរៀបចំរបៀបដែលអ្នកចូលទៅរកទីផ្សារ។ អ្នកប្រហែលជាស្ទាក់ស្ទើរក្នុងការបង្ហាញខ្លួន។"
+      },
+      "challenge": {
+        "en": "Hiding from customers after a bad experience could shrink your visibility further. Respond with grace and keep showing up.",
+        "km": "ការលាក់ខ្លួនពីអតិថិជន បន្ទាប់ពីបទពិសោធន៍អាក្រក់ អាចបង្រួមភាពលេចធ្លោរបស់អ្នកបន្ថែមទៀត។ សូមឆ្លើយតបដោយសុភាព ហើយបន្តបង្ហាញខ្លួន។"
+      },
+      "outcome": {
+        "en": "Healing and learning from criticism could make your service and message stronger. People may respect a business that recovers well.",
+        "km": "ការព្យាបាល និងការរៀនពីការរិះគន់ អាចធ្វើឱ្យសេវាកម្ម និងសាររបស់អ្នករឹងមាំជាងមុន។ មនុស្ស អាចគោរពអាជីវកម្មដែលស្តារឡើងវិញបានល្អ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "A pause to rethink your marketing could be what you need before the next push. Rest can bring fresh ideas.",
+        "km": "ការផ្អាកដើម្បីគិតឡើងវិញអំពីទីផ្សាររបស់អ្នក អាចជាអ្វីដែលអ្នកត្រូវការ មុនការរុញបន្ទាប់។ ការសម្រាក អាចនាំមកនូវគំនិតថ្មី។"
+      },
+      "challenge": {
+        "en": "Going silent for too long could let customers forget you. Keep a light presence while you plan.",
+        "km": "ការស្ងៀមស្ងាត់យូរពេក អាចធ្វើឱ្យអតិថិជនភ្លេចអ្នក។ សូមរក្សាវត្តមានស្រាលៗ ខណៈអ្នករៀបចំផែនការ។"
+      },
+      "outcome": {
+        "en": "A rested, well-planned return could bring renewed attention and customers. Strategy born in quiet may work well.",
+        "km": "ការត្រឡប់មកវិញដែលបានសម្រាក និងរៀបចំផែនការល្អ អាចនាំមកនូវការយកចិត្តទុកដាក់ និងអតិថិជនថ្មី។ យុទ្ធសាស្ត្រដែលកើតក្នុងភាពស្ងប់ស្ងាត់ អាចដំណើរការបានល្អ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Competitors may be fighting hard for the same customers, with aggressive offers or tactics. The market may feel combative.",
+        "km": "គូប្រជែង ប្រហែលជាកំពុងប្រយុទ្ធខ្លាំងដើម្បីអតិថិជនដូចគ្នា ជាមួយការផ្តល់ជូន ឬយុទ្ធសាស្ត្រឈ្លានពាន។ ទីផ្សារ ប្រហែលជាមានអារម្មណ៍ប្រយុទ្ធ។"
+      },
+      "challenge": {
+        "en": "Badmouthing rivals or copying their tactics could damage your reputation. Win customers on your own merits.",
+        "km": "ការនិយាយអាក្រក់អំពីគូប្រជែង ឬការចម្លងយុទ្ធសាស្ត្ររបស់ពួកគេ អាចបំផ្លាញកេរ្តិ៍ឈ្មោះរបស់អ្នក។ សូមឈ្នះអតិថិជនដោយគុណសម្បត្តិផ្ទាល់ខ្លួនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Staying above the fight could earn respect that draws customers tired of pushy rivals. Dignity may set you apart.",
+        "km": "ការនៅពីលើការប្រយុទ្ធ អាចទទួលបានការគោរពដែលទាញអតិថិជនដែលធុញទ្រាន់នឹងគូប្រជែងដែលបង្ខិតបង្ខំ។ សេចក្តីថ្លៃថ្នូរ អាចធ្វើឱ្យអ្នកខុសប្លែក។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "The business may be moving from a hard patch toward calmer waters, perhaps with a new location or audience. Change could bring new customers.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងផ្លាស់ទីពីដំណាក់កាលលំបាក ទៅរកទឹកស្ងប់ស្ងាត់ជាងមុន ប្រហែលជាជាមួយទីតាំង ឬទស្សនិកជនថ្មី។ ការផ្លាស់ប្តូរ អាចនាំមកនូវអតិថិជនថ្មី។"
+      },
+      "challenge": {
+        "en": "Moving without telling existing customers could lose them along the way. Bring your loyal buyers with you.",
+        "km": "ការផ្លាស់ទី ដោយមិនប្រាប់អតិថិជនដែលមានស្រាប់ អាចបាត់បង់ពួកគេតាមផ្លូវ។ សូមនាំអ្នកទិញស្មោះត្រង់របស់អ្នកមកជាមួយ។"
+      },
+      "outcome": {
+        "en": "A well-announced move could keep old customers and attract new ones. Calmer ground may bring steady growth.",
+        "km": "ការផ្លាស់ទីដែលបានប្រកាសល្អ អាចរក្សាអតិថិជនចាស់ និងទាក់ទាញអតិថិជនថ្មី។ ដីស្ងប់ស្ងាត់ជាងមុន អាចនាំមកនូវការរីកចម្រើនដោយនឹងនរ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Something about your marketing may not be fully honest, or a competitor may be using tricks. Trust is at stake.",
+        "km": "អ្វីមួយអំពីទីផ្សាររបស់អ្នក ប្រហែលជាមិនស្មោះត្រង់ទាំងស្រុង ឬគូប្រជែងម្នាក់ប្រហែលជាកំពុងប្រើល្បិច។ ការទុកចិត្ត ស្ថិតក្នុងហានិភ័យ។"
+      },
+      "challenge": {
+        "en": "Fake reviews, paid followers or misleading claims could destroy trust once discovered. Build your reputation honestly.",
+        "km": "ការវាយតម្លៃក្លែងក្លាយ អ្នកតាមដានដែលបានបង់ប្រាក់ ឬការអះអាងបំភាន់ អាចបំផ្លាញការទុកចិត្ត នៅពេលត្រូវបានរកឃើញ។ សូមកសាងកេរ្តិ៍ឈ្មោះរបស់អ្នកដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Honest marketing could earn customers who trust you for good reasons. Transparency may become a selling point.",
+        "km": "ទីផ្សារដោយស្មោះត្រង់ អាចទទួលបានអតិថិជនដែលទុកចិត្តអ្នកដោយហេតុផលល្អ។ តម្លាភាព អាចក្លាយជាចំណុចលក់។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel stuck, believing you cannot reach more customers because of budget, location or competition. The walls may seem higher than they are.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់គាំង ដោយជឿថាអ្នកមិនអាចឈានដល់អតិថិជនកាន់តែច្រើន ដោយសារថវិកា ទីតាំង ឬការប្រកួតប្រជែង។ ជញ្ជាំង ប្រហែលជាហាក់ដូចជាខ្ពស់ជាងការពិត។"
+      },
+      "challenge": {
+        "en": "Assuming you cannot afford marketing could stop you trying free options, such as referrals or social media. Look for low-cost ways in.",
+        "km": "ការសន្មតថាអ្នកមិនអាចមានលទ្ធភាពធ្វើទីផ្សារ អាចបញ្ឈប់អ្នកពីការសាកល្បងជម្រើសឥតគិតថ្លៃ ដូចជាការណែនាំ ឬបណ្តាញសង្គម។ សូមស្វែងរកវិធីចំណាយទាបដើម្បីចូល។"
+      },
+      "outcome": {
+        "en": "Finding creative, low-cost channels could break through the limits. Customers may find you in unexpected ways.",
+        "km": "ការរកបណ្តាញច្នៃប្រឌិត និងចំណាយទាប អាចបំបែកដែនកំណត់។ អតិថិជន អាចរកឃើញអ្នកតាមវិធីដែលមិននឹកស្មានដល់។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about not having enough customers may be keeping you awake. Gaps in the order book may feel bigger than they are.",
+        "km": "ការព្រួយបារម្ភអំពីការមិនមានអតិថិជនគ្រប់គ្រាន់ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកដេកមិនលក់។ កាលវិភាគទទេ ប្រហែលជាមានអារម្មណ៍ធំជាងការពិត។"
+      },
+      "challenge": {
+        "en": "Panic discounting or desperate promotions could cheapen the brand and attract the wrong buyers. If worry starts to affect your sleep or health, talk to someone you trust.",
+        "km": "ការបញ្ចុះតម្លៃដោយភ័យស្លន់ស្លោ ឬការផ្សព្វផ្សាយដោយអស់សង្ឃឹម អាចធ្វើឱ្យម៉ាកយីហោថោក ហើយទាក់ទាញអ្នកទិញខុស។ ប្រសិនបើការព្រួយបារម្ភចាប់ផ្តើមប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក សូមនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "A calm, steady plan to reach customers could ease the fear one enquiry at a time. Small consistent outreach may fill the gaps.",
+        "km": "ផែនការស្ងប់ស្ងាត់ និងនឹងនរ ដើម្បីឈានដល់អតិថិជន អាចបន្ធូរការភ័យខ្លាច ម្តងមួយការសាកសួរ។ ការឈានទៅរកតូចៗ និងស្ថិតស្ថេរ អាចបំពេញចន្លោះ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Customer numbers may have hit a low point, perhaps after a crisis or bad publicity. The shop or inbox may feel painfully quiet.",
+        "km": "ចំនួនអតិថិជន ប្រហែលជាបានធ្លាក់ដល់ចំណុចទាប ប្រហែលជាបន្ទាប់ពីវិបត្តិ ឬការផ្សព្វផ្សាយអាក្រក់។ ហាង ឬប្រអប់សារ ប្រហែលជាមានអារម្មណ៍ស្ងាត់គួរឱ្យឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "Desperate tactics to win customers back fast could make things worse. Rebuild trust step by step.",
+        "km": "យុទ្ធសាស្ត្រដោយអស់សង្ឃឹម ដើម្បីឈ្នះអតិថិជនមកវិញយ៉ាងលឿន អាចធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់។ សូមកសាងការទុកចិត្តឡើងវិញមួយជំហានម្តងៗ។"
+      },
+      "outcome": {
+        "en": "Honest, patient rebuilding could bring customers back one by one. The low point may mark the turn toward recovery.",
+        "km": "ការកសាងឡើងវិញដោយស្មោះត្រង់ និងអត់ធ្មត់ អាចនាំអតិថិជនត្រឡប់មកវិញម្នាក់ម្តងៗ។ ចំណុចទាប អាចសម្គាល់ការបត់ឆ្ពោះទៅរកការស្តារឡើងវិញ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You may be watching competitors and customers closely, curious about what works. Market research is under way.",
+        "km": "អ្នកប្រហែលជាកំពុងតាមដានគូប្រជែង និងអតិថិជនយ៉ាងជិតស្និទ្ធ ដោយចង់ដឹងពីអ្វីដែលដំណើរការ។ ការស្រាវជ្រាវទីផ្សារ កំពុងដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Copying every tactic you see could leave you without a clear identity. Learn from others, but stay distinct.",
+        "km": "ការចម្លងយុទ្ធសាស្ត្រនីមួយៗដែលអ្នកឃើញ អាចទុកឱ្យអ្នកគ្មានអត្តសញ្ញាណច្បាស់លាស់។ សូមរៀនពីអ្នកដទៃ ប៉ុន្តែនៅតែខុសប្លែក។"
+      },
+      "outcome": {
+        "en": "Sharp observation could reveal gaps in the market you are well placed to fill. Spotting an unmet need may bring a new wave of customers.",
+        "km": "ការសង្កេតមុតស្រួច អាចបង្ហាញចន្លោះក្នុងទីផ្សារ ដែលអ្នកស្ថិតក្នុងទីតាំងល្អដើម្បីបំពេញ។ ការមើលឃើញតម្រូវការដែលមិនទាន់បំពេញ អាចនាំមកនូវរលកអតិថិជនថ្មី។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Fast, decisive marketing moves could grab attention before competitors react. Being first to a trend may count for a lot.",
+        "km": "ការផ្លាស់ទីទីផ្សាររហ័ស និងម៉ឺងម៉ាត់ អាចចាប់យកការយកចិត្តទុកដាក់ មុនពេលគូប្រជែងប្រតិកម្ម។ ការក្លាយជាអ្នកដំបូងចំពោះនិន្នាការមួយ អាចមានតម្លៃច្រើន។"
+      },
+      "challenge": {
+        "en": "Rushing out a campaign with spelling errors, wrong prices or broken links could embarrass the business. Check every detail before you launch.",
+        "km": "ការប្រញាប់ដាក់ចេញយុទ្ធនាការ ដែលមានកំហុសអក្ខរាវិរុទ្ធ តម្លៃខុស ឬតំណខូច អាចធ្វើឱ្យអាជីវកម្មខ្មាសអៀន។ សូមពិនិត្យព័ត៌មានលម្អិតនីមួយៗ មុនពេលអ្នកដាក់ចេញ។"
+      },
+      "outcome": {
+        "en": "Quick, well-checked campaigns could capture customers before rivals wake up. Being first with something good may be remembered.",
+        "km": "យុទ្ធនាការរហ័ស និងបានពិនិត្យល្អ អាចចាប់យកអតិថិជន មុនពេលគូប្រជែងភ្ញាក់។ ការក្លាយជាអ្នកដំបូងជាមួយអ្វីមួយល្អ អាចត្រូវបានចងចាំ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear, honest communication about what you offer could cut through marketing noise. Customers tired of hype may welcome straight talk.",
+        "km": "ការប្រាស្រ័យទាក់ទងច្បាស់លាស់ និងស្មោះត្រង់អំពីអ្វីដែលអ្នកផ្តល់ជូន អាចកាត់ផ្តាច់សំឡេងរំខានទីផ្សារ។ អតិថិជនដែលធុញទ្រាន់នឹងការបំផ្លើស អាចស្វាគមន៍ការនិយាយត្រង់។"
+      },
+      "challenge": {
+        "en": "Being too blunt or cold in your messages could put people off before they try you. Balance honesty with a friendly tone.",
+        "km": "ការនិយាយត្រង់ពេក ឬត្រជាក់ក្នុងសាររបស់អ្នក អាចធ្វើឱ្យមនុស្សបែរចេញ មុនពេលពួកគេសាកល្បងអ្នក។ សូមធ្វើឱ្យភាពស្មោះត្រង់មានតុល្យភាពជាមួយសំនៀងរួសរាយ។"
+      },
+      "outcome": {
+        "en": "Honest, clear messages could attract customers who value directness and dislike sales talk. Plain speaking may become your signature.",
+        "km": "សារស្មោះត្រង់ និងច្បាស់លាស់ អាចទាក់ទាញអតិថិជនដែលឱ្យតម្លៃលើភាពត្រង់ និងមិនចូលចិត្តការនិយាយលក់។ ការនិយាយត្រង់ អាចក្លាយជាសញ្ញាសម្គាល់របស់អ្នក។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Professional presentation, such as clear policies, certifications and expert credentials, could build credibility. Buyers making big decisions look for authority.",
+        "km": "ការបង្ហាញប្រកបដោយវិជ្ជាជីវៈ ដូចជាគោលនយោបាយច្បាស់លាស់ វិញ្ញាបនបត្រ និងលិខិតបញ្ជាក់អ្នកជំនាញ អាចកសាងភាពគួរឱ្យជឿជាក់។ អ្នកទិញដែលធ្វើការសម្រេចចិត្តធំៗ ស្វែងរកសិទ្ធិអំណាច។"
+      },
+      "challenge": {
+        "en": "Making claims you cannot back up, or breaking advertising rules, could bring legal trouble. Check the rules for your industry.",
+        "km": "ការធ្វើការអះអាងដែលអ្នកមិនអាចគាំទ្រ ឬការបំពានច្បាប់ផ្សាយពាណិជ្ជកម្ម អាចនាំមកនូវបញ្ហាផ្លូវច្បាប់។ សូមពិនិត្យច្បាប់សម្រាប់ឧស្សាហកម្មរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Credible, well-documented expertise could win customers who want a trusted professional. Respect earned through proof may bring repeat business and referrals.",
+        "km": "ជំនាញដែលគួរឱ្យជឿជាក់ និងមានឯកសារល្អ អាចឈ្នះអតិថិជនដែលចង់បានអ្នកជំនាញដែលគួរឱ្យទុកចិត្ត។ ការគោរពដែលទទួលបានតាមរយៈភស្តុតាង អាចនាំមកនូវអាជីវកម្មម្តងទៀត និងការណែនាំ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical new offer, such as a starter package, free sample or loyalty scheme, could be the seed that draws customers in. People like something they can hold or try.",
+        "km": "ការផ្តល់ជូនជាក់ស្តែងថ្មី ដូចជាកញ្ចប់ចាប់ផ្តើម គំរូឥតគិតថ្លៃ ឬកម្មវិធីភាពស្មោះត្រង់ អាចជាគ្រាប់ពូជដែលទាញអតិថិជនចូល។ មនុស្សចូលចិត្តអ្វីមួយដែលពួកគេអាចកាន់ ឬសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Giving away freebies without a way to follow up could attract people who never return. Pair every offer with a reason to come back.",
+        "km": "ការផ្តល់របស់ឥតគិតថ្លៃ ដោយគ្មានវិធីតាមដាន អាចទាក់ទាញមនុស្សដែលមិនដែលត្រឡប់មកវិញ។ សូមផ្គូផ្គងការផ្តល់ជូននីមួយៗ ជាមួយហេតុផលដើម្បីត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "A well-designed starter offer could turn first-timers into regulars. A small seed of goodwill may grow a loyal customer base.",
+        "km": "ការផ្តល់ជូនចាប់ផ្តើមដែលរចនាបានល្អ អាចបង្វែរអ្នកមកលើកដំបូងទៅជាអតិថិជនទៀងទាត់។ គ្រាប់ពូជតូចនៃឆន្ទៈល្អ អាចដាំមូលដ្ឋានអតិថិជនស្មោះត្រង់។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Flexible ways to buy, such as different price points, payment options or delivery, could make it easier for more people to choose you. Convenience widens your reach.",
+        "km": "វិធីទិញដែលបត់បែន ដូចជាកម្រិតតម្លៃផ្សេងៗ ជម្រើសទូទាត់ ឬការដឹកជញ្ជូន អាចធ្វើឱ្យមនុស្សកាន់តែច្រើនងាយស្រួលជ្រើសរើសអ្នក។ ភាពងាយស្រួល ពង្រីកការឈានដល់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Offering too many versions and options could confuse customers and tangle your stock. Keep the menu short and clear.",
+        "km": "ការផ្តល់ជូនកំណែ និងជម្រើសច្រើនពេក អាចធ្វើឱ្យអតិថិជនច្របូកច្របល់ ហើយធ្វើឱ្យស្តុករបស់អ្នកច្របូកច្របល់។ សូមរក្សាបញ្ជីជម្រើសឱ្យខ្លី និងច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "A few well-chosen options could widen your appeal without confusion. Making it easy to buy may bring in people who used to walk past.",
+        "km": "ជម្រើសពីរបីដែលជ្រើសរើសបានល្អ អាចពង្រីកការទាក់ទាញរបស់អ្នក ដោយគ្មានភាពច្របូកច្របល់។ ការធ្វើឱ្យងាយស្រួលទិញ អាចនាំមនុស្សដែលធ្លាប់ដើរកាត់ចូលមក។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Skilled teamwork that delivers great quality could be what customers notice and recommend to others. Every satisfied job is a quiet advert.",
+        "km": "ការងារជាក្រុមដែលមានជំនាញ ដែលផ្តល់គុណភាពដ៏ល្អ អាចជាអ្វីដែលអតិថិជនកត់សម្គាល់ និងណែនាំដល់អ្នកដទៃ។ ការងារពេញចិត្តនីមួយៗ គឺជាការផ្សាយពាណិជ្ជកម្មស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Uneven quality between team members could leave some customers delighted and others let down. Train everyone to the same standard.",
+        "km": "គុណភាពមិនស្មើគ្នារវាងសមាជិកក្រុម អាចធ្វើឱ្យអតិថិជនខ្លះរីករាយ ហើយខ្លះទៀតខកចិត្ត។ សូមបណ្តុះបណ្តាលអ្នករាល់គ្នាឱ្យដល់ស្តង់ដារដូចគ្នា។"
+      },
+      "outcome": {
+        "en": "Consistent, high-quality work could build a reputation that brings customers by word of mouth. A team proud of its work may sell it best.",
+        "km": "ការងារស្ថិតស្ថេរ និងគុណភាពខ្ពស់ អាចកសាងកេរ្តិ៍ឈ្មោះដែលនាំអតិថិជនមកតាមការនិយាយតៗគ្នា។ ក្រុមដែលមានមោទនភាពលើការងាររបស់ខ្លួន អាចលក់វាបានល្អបំផុត។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Careful spending on marketing may have kept the business safe but largely unseen. A tight grip on the budget can keep new customers out too.",
+        "km": "ការចំណាយដោយប្រុងប្រយ័ត្នលើទីផ្សារ ប្រហែលជាបានរក្សាអាជីវកម្មឱ្យមានសុវត្ថិភាព ប៉ុន្តែភាគច្រើនមិនត្រូវបានមើលឃើញ។ ការក្តាប់ថវិកាតឹង អាចរារាំងអតិថិជនថ្មីផងដែរ។"
+      },
+      "challenge": {
+        "en": "Refusing to invest anything in being seen could keep new customers from finding you at all. Spend a little where your buyers actually look.",
+        "km": "ការបដិសេធមិនវិនិយោគអ្វីសោះក្នុងការត្រូវបានមើលឃើញ អាចរារាំងអតិថិជនថ្មីពីការរកឃើញអ្នកទាំងស្រុង។ សូមចំណាយបន្តិច នៅកន្លែងដែលអ្នកទិញរបស់អ្នកពិតជាមើល។"
+      },
+      "outcome": {
+        "en": "A modest, well-placed marketing budget could bring a steady return in new customers. Loosening the purse strings a little may pay for itself.",
+        "km": "ថវិកាទីផ្សារតូច និងដាក់បានល្អ អាចនាំមកនូវផលត្រឡប់ដោយនឹងនរជាអតិថិជនថ្មី។ ការបន្ធូរកាបូបបន្តិច អាចទូទាត់សម្រាប់ខ្លួនវាផ្ទាល់។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "The business may be struggling to be seen, with little to spend on marketing and customers walking past. It may feel like standing outside in the cold.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងតស៊ូដើម្បីត្រូវបានមើលឃើញ ដោយមានតិចតួចដើម្បីចំណាយលើទីផ្សារ ហើយអតិថិជនដើរកាត់។ វាអាចមានអារម្មណ៍ដូចជាការឈរនៅខាងក្រៅក្នុងភាពត្រជាក់។"
+      },
+      "challenge": {
+        "en": "Pride could stop you asking for help, such as community promotion or free small-business advice. Local networks often want to help.",
+        "km": "មោទនភាព អាចបញ្ឈប់អ្នកពីការសុំជំនួយ ដូចជាការផ្សព្វផ្សាយពីសហគមន៍ ឬដំបូន្មានអាជីវកម្មខ្នាតតូចឥតគិតថ្លៃ។ បណ្តាញក្នុងតំបន់ ជារឿយៗចង់ជួយ។"
+      },
+      "outcome": {
+        "en": "Free and community-based support could help the business step into the light. A few new faces may become the start of a customer base.",
+        "km": "ការគាំទ្រឥតគិតថ្លៃ និងផ្អែកលើសហគមន៍ អាចជួយអាជីវកម្មបោះជំហានចូលទៅក្នុងពន្លឺ។ មុខថ្មីពីរបី អាចក្លាយជាការចាប់ផ្តើមនៃមូលដ្ឋានអតិថិជន។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Generosity, such as sponsoring a local team or supporting a cause, could build goodwill that draws customers. People like to buy from businesses that give back.",
+        "km": "ចិត្តសប្បុរស ដូចជាការឧបត្ថម្ភក្រុមក្នុងតំបន់ ឬការគាំទ្របុព្វហេតុមួយ អាចកសាងឆន្ទៈល្អដែលទាញអតិថិជន។ មនុស្សចូលចិត្តទិញពីអាជីវកម្មដែលផ្តល់ត្រឡប់វិញ។"
+      },
+      "challenge": {
+        "en": "Giving beyond what the business can afford could strain cash needed elsewhere. Set a giving budget and stick to it.",
+        "km": "ការផ្តល់ហួសពីអ្វីដែលអាជីវកម្មអាចមានលទ្ធភាព អាចធ្វើឱ្យសាច់ប្រាក់ដែលត្រូវការនៅកន្លែងផ្សេងតានតឹង។ សូមកំណត់ថវិកាសម្រាប់ការផ្តល់ ហើយប្រកាន់ខ្ជាប់វា។"
+      },
+      "outcome": {
+        "en": "Balanced community giving could earn a warm reputation and loyal local customers. Goodwill shown openly may return as trade.",
+        "km": "ការផ្តល់ដល់សហគមន៍ដោយតុល្យភាព អាចទទួលបានកេរ្តិ៍ឈ្មោះកក់ក្តៅ និងអតិថិជនក្នុងតំបន់ស្មោះត្រង់។ ឆន្ទៈល្អដែលបង្ហាញដោយបើកចំហ អាចត្រឡប់មកវិញជាពាណិជ្ជកម្ម។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Marketing done earlier, such as posts, flyers or listings, may still be ripening, with results not yet visible. Awareness often grows before sales do.",
+        "km": "ទីផ្សារដែលបានធ្វើមុនៗ ដូចជាការបង្ហោះ ខិត្តប័ណ្ណ ឬការចុះបញ្ជី ប្រហែលជានៅតែកំពុងទុំ ដោយលទ្ធផលមិនទាន់អាចមើលឃើញ។ ការយល់ដឹង ជារឿយៗរីកចម្រើន មុនពេលការលក់។"
+      },
+      "challenge": {
+        "en": "Abandoning marketing because results are slow could waste what you have already put in. Track enquiries before you decide to stop.",
+        "km": "ការបោះបង់ទីផ្សារ ដោយសារលទ្ធផលយឺត អាចខ្ជះខ្ជាយអ្វីដែលអ្នកបានដាក់ចូលរួចហើយ។ សូមតាមដានការសាកសួរ មុនពេលអ្នកសម្រេចចិត្តឈប់។"
+      },
+      "outcome": {
+        "en": "Patient, measured marketing could bring a steady harvest of customers. Seeds planted earlier may sprout into regular sales.",
+        "km": "ទីផ្សារដោយអត់ធ្មត់ និងវាស់វែង អាចនាំមកនូវផលដំណាំអតិថិជនដោយនឹងនរ។ គ្រាប់ពូជដែលបានដាំមុនៗ អាចដុះពន្លកទៅជាការលក់ទៀងទាត់។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Excellent craftsmanship and attention to detail could be what customers talk about. Well-made work tends to sell itself once seen.",
+        "km": "សិប្បកម្មដ៏ល្អឥតខ្ចោះ និងការយកចិត្តទុកដាក់លើព័ត៌មានលម្អិត អាចជាអ្វីដែលអតិថិជននិយាយអំពី។ ការងារដែលធ្វើបានល្អ មាននិន្នាការលក់ដោយខ្លួនឯង នៅពេលត្រូវបានមើលឃើញ។"
+      },
+      "challenge": {
+        "en": "Great work that no one sees could stay a secret. Show your craft through photos, samples or live demonstrations.",
+        "km": "ការងារដ៏ល្អដែលគ្មាននរណាម្នាក់មើលឃើញ អាចនៅជាអាថ៌កំបាំង។ សូមបង្ហាញសិប្បកម្មរបស់អ្នក តាមរយៈរូបថត គំរូ ឬការបង្ហាញផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Showcasing quality could attract customers who value careful work and will pay for it. Your skill may become your strongest marketing.",
+        "km": "ការតាំងបង្ហាញគុណភាព អាចទាក់ទាញអតិថិជនដែលឱ្យតម្លៃលើការងារប្រុងប្រយ័ត្ន ហើយនឹងបង់ប្រាក់សម្រាប់វា។ ជំនាញរបស់អ្នក អាចក្លាយជាទីផ្សាររឹងមាំបំផុតរបស់អ្នក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "A comfortable, well-presented business could appeal to customers who appreciate quality and polish. A refined setting can justify a fair price.",
+        "km": "អាជីវកម្មដែលស្រួល និងបង្ហាញបានល្អ អាចទាក់ទាញអតិថិជនដែលឱ្យតម្លៃលើគុណភាព និងភាពស្អាតស្អំ។ ការរៀបចំដ៏ប្រណិត អាចបង្ហាញភាពសមហេតុផលនៃតម្លៃយុត្តិធម៌។"
+      },
+      "challenge": {
+        "en": "Assuming good presentation alone will bring people in could leave a beautiful space half empty. Let people know you exist.",
+        "km": "ការសន្មតថាការបង្ហាញល្អតែម្យ៉ាងនឹងនាំមនុស្សចូល អាចទុកកន្លែងដ៏ស្រស់ស្អាតឱ្យនៅទទេពាក់កណ្តាល។ សូមឱ្យមនុស្សដឹងថាអ្នកមាន។"
+      },
+      "outcome": {
+        "en": "A polished business, well promoted, could attract customers who stay and spend. Quality presented well may draw quality customers.",
+        "km": "អាជីវកម្មដែលស្អាតស្អំ និងផ្សព្វផ្សាយបានល្អ អាចទាក់ទាញអតិថិជនដែលស្នាក់នៅ និងចំណាយ។ គុណភាពដែលបង្ហាញបានល្អ អាចទាញអតិថិជនដែលមានគុណភាព។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "A long-established name, family heritage or local legacy could be a strong draw for customers. Trust built across generations is hard for newcomers to match.",
+        "km": "ឈ្មោះដែលបានបង្កើតឡើងយូរមកហើយ មរតកគ្រួសារ ឬកេរដំណែលក្នុងតំបន់ អាចជាការទាក់ទាញរឹងមាំសម្រាប់អតិថិជន។ ការទុកចិត្តដែលកសាងឆ្លងជំនាន់ ពិបាកសម្រាប់អ្នកមកថ្មីផ្គូផ្គង។"
+      },
+      "challenge": {
+        "en": "Relying on legacy alone could fail to reach younger buyers who do not know your story. Tell it again in fresh ways.",
+        "km": "ការពឹងលើកេរដំណែលតែម្យ៉ាង អាចមិនឈានដល់អ្នកទិញវ័យក្មេង ដែលមិនស្គាល់រឿងរបស់អ្នក។ សូមប្រាប់វាម្តងទៀតតាមវិធីថ្មី។"
+      },
+      "outcome": {
+        "en": "Heritage presented freshly could attract loyal families and curious newcomers alike. Your legacy may become your strongest selling point.",
+        "km": "មរតកដែលបង្ហាញតាមរបៀបថ្មី អាចទាក់ទាញគ្រួសារស្មោះត្រង់ និងអ្នកមកថ្មីដែលចង់ដឹងដូចគ្នា។ កេរដំណែលរបស់អ្នក អាចក្លាយជាចំណុចលក់រឹងមាំបំផុតរបស់អ្នក។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learning new marketing skills, such as photography, writing or online selling, could open new ways to reach customers. Each skill you add widens your reach.",
+        "km": "ការរៀនជំនាញទីផ្សារថ្មី ដូចជាការថតរូប ការសរសេរ ឬការលក់តាមអនឡាញ អាចបើកវិធីថ្មីដើម្បីឈានដល់អតិថិជន។ ជំនាញនីមួយៗដែលអ្នកបន្ថែម ពង្រីកការឈានដល់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Studying marketing without trying it could keep customers from ever seeing your work. Put one new skill into practice and see what it brings.",
+        "km": "ការសិក្សាទីផ្សារ ដោយមិនសាកល្បងវា អាចរារាំងអតិថិជនពីការឃើញការងាររបស់អ្នក។ សូមដាក់ជំនាញថ្មីមួយឱ្យអនុវត្ត ហើយមើលថាវានាំមកអ្វី។"
+      },
+      "outcome": {
+        "en": "Practising new marketing skills could bring a growing stream of customers. Small, regular efforts may add up to real visibility.",
+        "km": "ការអនុវត្តជំនាញទីផ្សារថ្មី អាចនាំមកនូវលំហូរអតិថិជនដែលកំពុងកើនឡើង។ ការខិតខំតូចៗ និងទៀងទាត់ អាចបូកបញ្ចូលគ្នាទៅជាភាពលេចធ្លោពិតប្រាកដ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Reliable, consistent service could be what keeps customers coming back and recommending you. People return to what they can count on.",
+        "km": "សេវាកម្មដែលអាចទុកចិត្តបាន និងស្ថិតស្ថេរ អាចជាអ្វីដែលធ្វើឱ្យអតិថិជនត្រឡប់មកវិញ និងណែនាំអ្នក។ មនុស្សត្រឡប់ទៅរកអ្វីដែលពួកគេអាចពឹងផ្អែកបាន។"
+      },
+      "challenge": {
+        "en": "An offer that never changes could make the business feel stale to regulars. Add something new regularly to keep interest alive.",
+        "km": "ការផ្តល់ជូនដែលមិនដែលផ្លាស់ប្តូរ អាចធ្វើឱ្យអាជីវកម្មមានអារម្មណ៍ចាស់ចំពោះអតិថិជនទៀងទាត់។ សូមបន្ថែមអ្វីមួយថ្មីជាទៀងទាត់ ដើម្បីរក្សាចំណាប់អារម្មណ៍ឱ្យរស់។"
+      },
+      "outcome": {
+        "en": "Steady service with the occasional fresh touch could keep regulars loyal and attract new ones. Dependability may win where flash fades.",
+        "km": "សេវាកម្មនឹងនរ ជាមួយការប៉ះថ្មីម្តងម្កាល អាចរក្សាអតិថិជនទៀងទាត់ឱ្យស្មោះត្រង់ និងទាក់ទាញអតិថិជនថ្មី។ ភាពអាចពឹងផ្អែកបាន អាចឈ្នះនៅកន្លែងដែលភាពភ្លឺថ្លារសាត់។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Practical, caring service that makes customers feel at home could be a strong draw. A welcoming manner can matter as much as the product.",
+        "km": "សេវាកម្មជាក់ស្តែង និងយកចិត្តទុកដាក់ ដែលធ្វើឱ្យអតិថិជនមានអារម្មណ៍ដូចនៅផ្ទះ អាចជាការទាក់ទាញរឹងមាំ។ របៀបស្វាគមន៍ អាចសំខាន់ដូចផលិតផល។"
+      },
+      "challenge": {
+        "en": "Being so busy looking after customers that you forget to promote could limit growth. Set aside effort for being seen.",
+        "km": "ការមមាញឹកពេកក្នុងការថែរក្សាអតិថិជន រហូតអ្នកភ្លេចផ្សព្វផ្សាយ អាចកំណត់ការរីកចម្រើន។ សូមទុកការខិតខំខ្លះសម្រាប់ការត្រូវបានមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Caring service shared with a wider audience could bring customers who feel welcome from the first visit. Warm word of mouth may spread.",
+        "km": "សេវាកម្មយកចិត្តទុកដាក់ ដែលចែករំលែកជាមួយទស្សនិកជនទូលាយជាងមុន អាចនាំមកនូវអតិថិជនដែលមានអារម្មណ៍ត្រូវបានស្វាគមន៍តាំងពីការមកលើកដំបូង។ ការនិយាយតៗគ្នាដ៏កក់ក្តៅ អាចរីករាលដាល។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "An established, successful business could draw customers who want a trusted, proven name. A strong reputation does much of the selling.",
+        "km": "អាជីវកម្មដែលបានបង្កើតឡើង និងជោគជ័យ អាចទាញអតិថិជនដែលចង់បានឈ្មោះដែលគួរឱ្យទុកចិត្ត និងបានបញ្ជាក់។ កេរ្តិ៍ឈ្មោះរឹងមាំ ធ្វើការលក់ច្រើន។"
+      },
+      "challenge": {
+        "en": "Assuming your name will always attract customers could let younger rivals take your place. Keep reaching out to new buyers.",
+        "km": "ការសន្មតថាឈ្មោះរបស់អ្នកនឹងទាក់ទាញអតិថិជនជានិច្ច អាចឱ្យគូប្រជែងវ័យក្មេងជាងដណ្តើមកន្លែងរបស់អ្នក។ សូមបន្តឈានទៅរកអ្នកទិញថ្មី។"
+      },
+      "outcome": {
+        "en": "A trusted name kept fresh could keep attracting new generations of customers. A proven record may become the foundation for more.",
+        "km": "ឈ្មោះដែលគួរឱ្យទុកចិត្ត ដែលរក្សាឱ្យស្រស់ថ្លា អាចបន្តទាក់ទាញជំនាន់អតិថិជនថ្មី។ ប្រវត្តិដែលបានបញ្ជាក់ អាចក្លាយជាគ្រឹះសម្រាប់ភាពជោគជ័យបន្ថែម។"
+      }
+    }
+  }
+}

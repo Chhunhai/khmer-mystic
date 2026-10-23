@@ -49,6 +49,7 @@
 | `src/content/readings/BI-03.json` | How can I grow my business? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/BI-04.json` | What risks should I watch for? | 78 cards × 3 positions, English and Khmer (obstacle) |
 | `src/content/readings/BI-05.json` | Is this partnership a good fit for me? | 78 cards × 3 positions, English and Khmer (yesno) |
+| `src/content/readings/BI-06.json` | How can I attract more customers? | 78 cards × 3 positions, English and Khmer (how) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
