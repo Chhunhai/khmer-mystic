@@ -93,7 +93,8 @@
     "limitBody": "You can draw {total} readings a day, so each one has time to settle. New readings open at midnight, in {time}.",
     "hoursMinutes": "{h} h {m} min",
     "minutesOnly": "{m} min",
-    "backHome": "Back to home"
+    "backHome": "Back to home",
+    "noneLeft": "No readings left today · new ones in {time}"
   },
   "km": {
     "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
@@ -189,6 +190,7 @@
     "limitBody": "អ្នកអាចដកសន្លឹកបៀបាន {total} ដងក្នុងមួយថ្ងៃ ដើម្បីឱ្យការទស្សន៍ទាយនីមួយៗមានពេលពិចារណា។ ការទស្សន៍ទាយថ្មីនឹងបើកនៅពាក់កណ្តាលអធ្រាត្រ ក្នុងរយៈពេល {time}។",
     "hoursMinutes": "{h} ម៉ោង {m} នាទី",
     "minutesOnly": "{m} នាទី",
-    "backHome": "ត្រឡប់ទៅទំព័រដើម"
+    "backHome": "ត្រឡប់ទៅទំព័រដើម",
+    "noneLeft": "គ្មានការទស្សន៍ទាយនៅសល់សម្រាប់ថ្ងៃនេះទេ · ការទស្សន៍ទាយថ្មីក្នុងរយៈពេល {time}"
   }
 }

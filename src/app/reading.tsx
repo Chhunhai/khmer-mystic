@@ -4,6 +4,8 @@ import { Redirect, router } from 'expo-router';
 import { useReading, useUi } from '../state/flow.tsx';
 import type { PartKey } from '../engine/types.ts';
 import { useCardViewer, ZoomableCard } from '../ui/cardViewer.tsx';
+import { useDailyLimit } from '../state/dailyLimitStore.tsx';
+import { ReadingsLeft } from '../ui/limit.tsx';
 import { Entrance } from '../ui/entrance.tsx';
 import { Icon } from '../ui/icons.tsx';
 import { AppText, GhostButton, Panel, PanelHeading, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
@@ -22,9 +24,10 @@ export default function ReadingScreen() {
   const cardW = Math.min(106, (rowWidth - 16) / 3);
   // Tap a card to see it large, with its line of the reading underneath.
   const viewer = useCardViewer();
+  const daily = useDailyLimit();
   if (!r) return <Redirect href="/" />;
 
-  const again = () => router.dismissTo('/topic');
+  const again = () => (daily.left() === 0 ? router.push('/limit') : router.dismissTo('/topic'));
   const restart = () => router.dismissTo('/');
 
   if (wide) {
@@ -59,6 +62,7 @@ export default function ReadingScreen() {
             <View style={styles.wideButtons}>
               <PrimaryButton label={ui.again} onPress={again} style={styles.grow} />
               <GhostButton label={ui.restart} onPress={restart} style={styles.grow} />
+              <ReadingsLeft />
             </View>
           </View>
           <Entrance delay={120} style={styles.article}>
@@ -79,6 +83,7 @@ export default function ReadingScreen() {
         <>
           <PrimaryButton label={ui.full} onPress={() => router.push('/full')} />
           <GhostButton label={ui.again} onPress={again} />
+          <ReadingsLeft />
           <AppText size={14} style={styles.disclaimer}>
             {r.part('disclaimer')}
           </AppText>

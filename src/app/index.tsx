@@ -9,6 +9,7 @@ import { Divider, Icon, LotusMark, type IconName } from '../ui/icons.tsx';
 import { AppText, GhostButton, PrimaryButton, Screen, useStartNewReading } from '../ui/kit.tsx';
 import { Entrance } from '../ui/entrance.tsx';
 import { LegalLinks } from '../ui/legal.tsx';
+import { ReadingsLeft } from '../ui/limit.tsx';
 import { Medallion } from '../ui/medallion.tsx';
 import { colors, fonts, useWide } from '../ui/theme.ts';
 
@@ -70,6 +71,7 @@ export default function WelcomeScreen() {
                 {where}
               </AppText>
             )}
+            <ReadingsLeft size={14} />
             <AppText size={14} style={styles.muted}>{ui.note}</AppText>
             <View style={styles.features}>
               {ui.features.map((label, i) => {
@@ -111,6 +113,7 @@ export default function WelcomeScreen() {
           ) : (
             <PrimaryButton label={ui.start} onPress={newReading.request} style={styles.full} />
           )}
+          <ReadingsLeft />
           <AppText size={12} style={styles.muted}>
             {ui.note}
           </AppText>

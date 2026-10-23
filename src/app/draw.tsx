@@ -7,11 +7,11 @@ import { Redirect, router } from 'expo-router';
 import { content } from '../content/index.ts';
 import { drawCards } from '../engine/reading.ts';
 import { format, stepLabel, useFlow, useUi, type Flipped } from '../state/flow.tsx';
-import { msUntilReset, readingsPerDay } from '../state/dailyLimit.ts';
+import { readingsPerDay } from '../state/dailyLimit.ts';
 import { useDailyLimit } from '../state/dailyLimitStore.tsx';
 import { CardBack, FlipCard, useReducedMotion } from '../ui/cards.tsx';
 import { useCardViewer } from '../ui/cardViewer.tsx';
-import { LotusMark } from '../ui/icons.tsx';
+import { LimitMessage } from '../ui/limit.tsx';
 import { AppText, GhostButton, Hint, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
 import { colors, useWide } from '../ui/theme.ts';
 
@@ -148,13 +148,6 @@ export default function DrawScreen() {
   // shows the "come back tomorrow" message instead of a deck.
   const daily = useDailyLimit();
   const [limited] = useState(() => ready && !startDealt && daily.left() === 0);
-  // While limited, a clock for the countdown to midnight, ticking each half minute.
-  const [now, setNow] = useState(() => new Date());
-  useEffect(() => {
-    if (!limited) return;
-    const t = setInterval(() => setNow(new Date()), 30000);
-    return () => clearInterval(t);
-  }, [limited]);
 
   // Development builds run effects twice on mount; deal only once.
   const started = useRef(false);
@@ -186,20 +179,13 @@ export default function DrawScreen() {
   };
 
   if (limited) {
-    const mins = Math.ceil(msUntilReset(now) / 60000);
-    const h = Math.floor(mins / 60);
-    const m = mins % 60;
-    const time = h > 0 ? format(ui.hoursMinutes, { h, m }, state.lang) : format(ui.minutesOnly, { m }, state.lang);
     return (
       <Screen width={900} step={4} footer={<PrimaryButton label={ui.backHome} onPress={() => router.dismissTo('/')} />}>
-        <View style={styles.limit}>
-          <LotusMark />
-          <Title>{ui.limitTitle}</Title>
-          <Hint>{format(ui.limitBody, { total: readingsPerDay, time }, state.lang)}</Hint>
-        </View>
+        <LimitMessage />
       </Screen>
     );
   }
+
 
   const cards = state.cardIds?.map(id => content.cards.find(c => c.id === id)!);
   const allOpen = state.flipped.every(Boolean);
@@ -302,7 +288,6 @@ export default function DrawScreen() {
 
 const styles = StyleSheet.create({
   left: { color: colors.muted, textAlign: 'center', marginTop: 4 },
-  limit: { alignItems: 'center', gap: 12, marginTop: 40, maxWidth: 520, alignSelf: 'center' },
   top: { gap: 6 },
   stage: { marginTop: 24 },
   rings: { position: 'absolute' },

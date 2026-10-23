@@ -18,6 +18,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import Svg, { G, Path } from 'react-native-svg';
 import { router, usePathname } from 'expo-router';
 import { hasProgress, resumeRoute, stepLabel, useFlow, useUi } from '../state/flow.tsx';
+import { useDailyLimit } from '../state/dailyLimitStore.tsx';
 import type { Lang } from '../engine/types.ts';
 import { Backdrop } from './backdrop.tsx';
 import { Divider, Icon, LotusMark } from './icons.tsx';
@@ -557,13 +558,15 @@ export function useStartNewReading() {
   const { state, reset } = useFlow();
   const ui = useUi();
   const [asking, setAsking] = useState(false);
+  const daily = useDailyLimit();
   const begin = () => {
     setAsking(false);
     reset();
     startReading(state.noticeSeen);
   };
   return {
-    request: () => (hasProgress(state) ? setAsking(true) : begin()),
+    // With no readings left today, say so first instead of clearing the current reading.
+    request: () => (daily.left() === 0 ? router.push('/limit') : hasProgress(state) ? setAsking(true) : begin()),
     dialog: (
       <ConfirmDialog
         visible={asking}
