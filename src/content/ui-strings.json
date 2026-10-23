@@ -82,7 +82,9 @@
     "confirmNewTitle": "Start a new reading?",
     "confirmNewBody": "Your current reading will be cleared.",
     "confirmNewYes": "Start new",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "privacyLink": "Privacy",
+    "termsLink": "Terms of use"
   },
   "km": {
     "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
@@ -167,6 +169,8 @@
     "confirmNewTitle": "ចាប់ផ្តើមការទស្សន៍ទាយថ្មីមែនទេ?",
     "confirmNewBody": "ការទស្សន៍ទាយបច្ចុប្បន្នរបស់អ្នកនឹងត្រូវលុបចោល។",
     "confirmNewYes": "ចាប់ផ្តើមថ្មី",
-    "cancel": "បោះបង់"
+    "cancel": "បោះបង់",
+    "privacyLink": "ឯកជនភាព",
+    "termsLink": "លក្ខខណ្ឌប្រើប្រាស់"
   }
 }

@@ -50,5 +50,16 @@ const obstacle = buildReading({ lang: 'en', zodiacId: 'TIG', questionId: 'LF-03'
 assert.ok(partText(obstacle, 'answer').includes('Seven of Pentacles'), 'obstacle answer names the challenge card');
 assert.ok(!obstacle.parts.some(p => p.text.includes('heading right now')), 'no "heading right now"');
 
+// Legal text: English and Khmer line up, and only the known placeholders are used.
+const legalText = load('legal');
+for (const doc of ['notice', 'privacy', 'terms'] as const) {
+  const [e, k] = [legalText[doc].en, legalText[doc].km];
+  assert.equal((e.body ?? e.items).length, (k.body ?? k.items).length, `${doc}: English and Khmer have the same number of parts`);
+  for (const text of JSON.stringify([e, k]).match(/\{[a-zA-Z]+\}/g) ?? [])
+    assert.ok(['{company}', '{email}', '{minAge}', '{effective}'].includes(text), `${doc}: unknown placeholder ${text}`);
+}
+const unfilled = Object.entries(legalText.values).filter(([, v]) => String(v).startsWith('['));
+if (unfilled.length) console.log(`Note: legal placeholders still to fill after legal review: ${unfilled.map(([k]) => k).join(', ')}`);
+
 console.log(en.parts.map(p => p.text).join('\n\n'));
 console.log('\nAll content checks passed.');

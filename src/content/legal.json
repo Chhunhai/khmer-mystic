@@ -1,0 +1,153 @@
+{
+  "_note": "From the 'Disclaimer, Privacy and Terms' doc (docs/LINKS.md). Draft: needs legal review before launch. Fill `values` once; {company}, {email}, {minAge} and {effective} in the text are replaced from it. privacy.*.body[1] and [2] were corrected to match the app, which also keeps the reading in progress on the device.",
+  "values": {
+    "company": "[Company name]",
+    "email": "[contact email]",
+    "minAge": "[Minimum age]",
+    "effective": "[Effective date]"
+  },
+  "notice": {
+    "en": {
+      "title": "Welcome to Khmer Mystic",
+      "button": "I understand",
+      "body": [
+        "Khmer Mystic combines Tarot with Khmer zodiac traditions to offer moments of reflection. Readings are for entertainment and personal reflection only. They do not predict the future and are not advice.",
+        "For questions about health, money, legal matters or your safety, please talk to a qualified professional. If you are in crisis, contact local emergency services.",
+        "You must be {minAge} or older to use this app."
+      ]
+    },
+    "km": {
+      "title": "សូមស្វាគមន៍មកកាន់ Khmer Mystic",
+      "button": "ខ្ញុំយល់ហើយ",
+      "body": [
+        "Khmer Mystic រួមបញ្ចូលតារ៉ូជាមួយប្រពៃណីឆ្នាំខ្មែរ ដើម្បីផ្តល់ពេលវេលាសម្រាប់ការពិចារណា។ ការទស្សន៍ទាយនេះសម្រាប់ការកម្សាន្ត និងការពិចារណាផ្ទាល់ខ្លួនប៉ុណ្ណោះ។ វាមិនទាយអនាគត ហើយមិនមែនជាដំបូន្មានទេ។",
+        "សម្រាប់សំណួរទាក់ទងនឹងសុខភាព លុយកាក់ បញ្ហាច្បាប់ ឬសុវត្ថិភាពរបស់អ្នក សូមពិគ្រោះជាមួយអ្នកជំនាញ។ ប្រសិនបើអ្នកកំពុងជួបវិបត្តិ សូមទាក់ទងសេវាសង្គ្រោះបន្ទាន់ក្នុងតំបន់។",
+        "អ្នកត្រូវមានអាយុ {minAge} ឆ្នាំ ឬលើសពីនេះ ដើម្បីប្រើកម្មវិធីនេះ។"
+      ]
+    }
+  },
+  "privacy": {
+    "en": {
+      "title": "Your privacy",
+      "body": [
+        "Khmer Mystic does not ask you to create an account, and it does not collect your name, phone number, location or contacts.",
+        "Your choices (birth year animal, topic, question, time frame) are used only on your device to create your reading. They are not sent to us or to anyone else.",
+        "The app keeps your language choice and your reading in progress on your device, so you can continue where you left off. Starting a new reading clears it, and you can remove everything by clearing the app’s data.",
+        "If we change how the app handles information, we will update this notice and show you the change before it takes effect.",
+        "Questions: {email}"
+      ]
+    },
+    "km": {
+      "title": "ឯកជនភាពរបស់អ្នក",
+      "body": [
+        "Khmer Mystic មិនតម្រូវឱ្យអ្នកបង្កើតគណនីទេ ហើយមិនប្រមូលឈ្មោះ លេខទូរស័ព្ទ ទីតាំង ឬបញ្ជីទំនាក់ទំនងរបស់អ្នកឡើយ។",
+        "ជម្រើសរបស់អ្នក (ឆ្នាំកំណើត ប្រធានបទ សំណួរ និងរយៈពេល) ត្រូវបានប្រើតែនៅលើឧបករណ៍របស់អ្នក ដើម្បីបង្កើតការទស្សន៍ទាយប៉ុណ្ណោះ។ ព័ត៌មានទាំងនេះមិនត្រូវបានផ្ញើមកយើង ឬទៅអ្នកណាផ្សេងទេ។",
+        "កម្មវិធីរក្សាទុកជម្រើសភាសា និងការទស្សន៍ទាយដែលអ្នកកំពុងធ្វើ នៅលើឧបករណ៍របស់អ្នក ដើម្បីឱ្យអ្នកអាចបន្តពីកន្លែងដែលអ្នកបានឈប់។ ការចាប់ផ្តើមការទស្សន៍ទាយថ្មីនឹងលុបវាចោល ហើយអ្នកអាចលុបទាំងអស់បាន ដោយសម្អាតទិន្នន័យកម្មវិធី។",
+        "ប្រសិនបើយើងផ្លាស់ប្តូររបៀបដែលកម្មវិធីគ្រប់គ្រងព័ត៌មាន យើងនឹងធ្វើបច្ចុប្បន្នភាពសេចក្តីជូនដំណឹងនេះ ហើយបង្ហាញការផ្លាស់ប្តូរដល់អ្នក មុនពេលវាចូលជាធរមាន។",
+        "សំណួរ៖ {email}"
+      ]
+    }
+  },
+  "terms": {
+    "en": {
+      "title": "Terms of use",
+      "effective": "Effective: {effective}",
+      "items": [
+        [
+          "About these terms.",
+          "Khmer Mystic is operated by {company}. By using the app, you agree to these terms. If you do not agree, please do not use the app."
+        ],
+        [
+          "Age.",
+          "You must be {minAge} or older to use Khmer Mystic."
+        ],
+        [
+          "Entertainment only.",
+          "Readings are created automatically from fixed text, combining your choices with the cards drawn. They are for entertainment and reflection. They do not predict the future and are not medical, financial, legal, psychological or professional advice. Do not rely on a reading to make important decisions."
+        ],
+        [
+          "Your responsibility.",
+          "You are responsible for the decisions you make. {company} is not responsible for any loss or harm that results from relying on a reading."
+        ],
+        [
+          "Respect for culture.",
+          "Khmer Mystic draws on Khmer art and traditions with respect. The app does not represent any religion, temple or religious authority."
+        ],
+        [
+          "Content ownership.",
+          "The app’s text, card artwork, designs and name belong to {company} or its licensors. You may share screenshots of your own readings for personal, non-commercial use. You may not copy, sell or republish the app’s content in other ways without written permission."
+        ],
+        [
+          "Fair use of the app.",
+          "Do not try to break, copy, reverse-engineer or misuse the app, or use it for anything unlawful."
+        ],
+        [
+          "Availability.",
+          "We may change, pause or stop the app or any feature at any time. The app is provided “as is”, without guarantees that it will always work without errors."
+        ],
+        [
+          "Changes to these terms.",
+          "We may update these terms. If the change is important, we will show it in the app before it takes effect. Continuing to use the app means you accept the updated terms."
+        ],
+        [
+          "Law.",
+          "These terms are governed by the laws of the Kingdom of Cambodia."
+        ],
+        [
+          "Contact.",
+          "{email}"
+        ]
+      ]
+    },
+    "km": {
+      "title": "លក្ខខណ្ឌប្រើប្រាស់",
+      "effective": "ចូលជាធរមាន៖ {effective}",
+      "items": [
+        [
+          "អំពីលក្ខខណ្ឌទាំងនេះ។",
+          "Khmer Mystic ត្រូវបានដំណើរការដោយ {company}។ ដោយការប្រើប្រាស់កម្មវិធីនេះ អ្នកយល់ព្រមតាមលក្ខខណ្ឌទាំងនេះ។ ប្រសិនបើអ្នកមិនយល់ព្រម សូមកុំប្រើកម្មវិធីនេះ។"
+        ],
+        [
+          "អាយុ។",
+          "អ្នកត្រូវមានអាយុ {minAge} ឆ្នាំ ឬលើសពីនេះ ដើម្បីប្រើ Khmer Mystic។"
+        ],
+        [
+          "សម្រាប់ការកម្សាន្តប៉ុណ្ណោះ។",
+          "ការទស្សន៍ទាយត្រូវបានបង្កើតដោយស្វ័យប្រវត្តិពីអត្ថបទដែលបានកំណត់ទុក ដោយផ្សំជម្រើសរបស់អ្នកជាមួយសន្លឹកបៀដែលបានដក។ វាសម្រាប់ការកម្សាន្ត និងការពិចារណាប៉ុណ្ណោះ។ វាមិនទាយអនាគត ហើយមិនមែនជាដំបូន្មានផ្នែកវេជ្ជសាស្ត្រ ហិរញ្ញវត្ថុ ច្បាប់ ចិត្តសាស្ត្រ ឬវិជ្ជាជីវៈណាមួយឡើយ។ សូមកុំពឹងលើការទស្សន៍ទាយ ដើម្បីធ្វើការសម្រេចចិត្តសំខាន់ៗ។"
+        ],
+        [
+          "ការទទួលខុសត្រូវរបស់អ្នក។",
+          "អ្នកទទួលខុសត្រូវចំពោះការសម្រេចចិត្តរបស់អ្នក។ {company} មិនទទួលខុសត្រូវចំពោះការខាតបង់ ឬគ្រោះថ្នាក់ណាមួយ ដែលកើតចេញពីការពឹងលើការទស្សន៍ទាយឡើយ។"
+        ],
+        [
+          "ការគោរពវប្បធម៌។",
+          "Khmer Mystic ទាញយកសិល្បៈ និងប្រពៃណីខ្មែរដោយការគោរព។ កម្មវិធីនេះមិនតំណាងឱ្យសាសនា វត្តអារាម ឬអាជ្ញាធរសាសនាណាមួយឡើយ។"
+        ],
+        [
+          "កម្មសិទ្ធិលើខ្លឹមសារ។",
+          "អត្ថបទ រូបភាពសន្លឹកបៀ ការរចនា និងឈ្មោះរបស់កម្មវិធី ជាកម្មសិទ្ធិរបស់ {company} ឬម្ចាស់អាជ្ញាប័ណ្ណ។ អ្នកអាចចែករំលែករូបថតអេក្រង់នៃការទស្សន៍ទាយផ្ទាល់ខ្លួន សម្រាប់ការប្រើប្រាស់ផ្ទាល់ខ្លួនដែលមិនមែនពាណិជ្ជកម្ម។ អ្នកមិនអាចចម្លង លក់ ឬផ្សព្វផ្សាយខ្លឹមសាររបស់កម្មវិធីតាមរបៀបផ្សេងទៀត ដោយគ្មានការអនុញ្ញាតជាលាយលក្ខណ៍អក្សរឡើយ។"
+        ],
+        [
+          "ការប្រើប្រាស់ត្រឹមត្រូវ។",
+          "សូមកុំព្យាយាមបំផ្លាញ ចម្លង វិភាគបញ្ច្រាស ឬប្រើប្រាស់កម្មវិធីខុសគោលបំណង ឬសម្រាប់អ្វីដែលខុសច្បាប់។"
+        ],
+        [
+          "ភាពអាចប្រើបាន។",
+          "យើងអាចផ្លាស់ប្តូរ ផ្អាក ឬបញ្ឈប់កម្មវិធី ឬមុខងារណាមួយ នៅពេលណាក៏បាន។ កម្មវិធីនេះផ្តល់ជូន «តាមស្ថានភាពជាក់ស្តែង» ដោយគ្មានការធានាថាវានឹងដំណើរការដោយគ្មានកំហុសជានិច្ចឡើយ។"
+        ],
+        [
+          "ការផ្លាស់ប្តូរលក្ខខណ្ឌ។",
+          "យើងអាចធ្វើបច្ចុប្បន្នភាពលក្ខខណ្ឌទាំងនេះ។ ប្រសិនបើការផ្លាស់ប្តូរមានសារៈសំខាន់ យើងនឹងបង្ហាញវានៅក្នុងកម្មវិធី មុនពេលវាចូលជាធរមាន។ ការបន្តប្រើប្រាស់កម្មវិធី មានន័យថាអ្នកទទួលយកលក្ខខណ្ឌដែលបានធ្វើបច្ចុប្បន្នភាព។"
+        ],
+        [
+          "ច្បាប់។",
+          "លក្ខខណ្ឌទាំងនេះស្ថិតក្រោមច្បាប់នៃព្រះរាជាណាចក្រកម្ពុជា។"
+        ],
+        [
+          "ទំនាក់ទំនង។",
+          "{email}"
+        ]
+      ]
+    }
+  }
+}

@@ -18,6 +18,8 @@ export interface FlowState {
   timeFrame: TimeFrameId | null;
   cardIds: CardIds | null;
   flipped: Flipped;
+  /** The first-launch notice has been accepted (kept when a new reading starts). */
+  noticeSeen: boolean;
 }
 
 const initial: FlowState = {
@@ -28,6 +30,7 @@ const initial: FlowState = {
   timeFrame: null,
   cardIds: null,
   flipped: [false, false, false],
+  noticeSeen: false,
 };
 
 interface FlowContext {
@@ -66,7 +69,7 @@ export function FlowProvider({ children }: { children: ReactNode }) {
     }
     return next;
   }), []);
-  const reset = useCallback(() => setState(s => ({ ...initial, lang: s.lang })), []);
+  const reset = useCallback(() => setState(s => ({ ...initial, lang: s.lang, noticeSeen: s.noticeSeen })), []);
   const value = useMemo(() => ({ state, update, reset }), [state, update, reset]);
   if (!ready) return null;
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;

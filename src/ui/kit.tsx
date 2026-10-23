@@ -230,9 +230,10 @@ function goHome() {
   router.dismissTo('/');
 }
 
-function startReading() {
+/** Step 1 of a new reading: the first-launch notice comes first until it has been accepted. */
+function startReading(noticeSeen: boolean) {
   if (router.canDismiss()) router.dismissAll();
-  router.push('/zodiac');
+  router.push(noticeSeen ? '/zodiac' : '/notice');
 }
 
 /** Desktop and tablet header: logo, Home and Tarot Reading links, language. */
@@ -240,7 +241,7 @@ export function SiteHeader({ active }: { active: 'home' | 'reading' }) {
   const ui = useUi();
   const { state } = useFlow();
   // A reading in progress is resumed, never cleared, from the header.
-  const openReading = () => (hasProgress(state) ? router.push(resumeRoute(state, true)) : startReading());
+  const openReading = () => (hasProgress(state) ? router.push(resumeRoute(state, true)) : startReading(state.noticeSeen));
   const links = [
     { key: 'home', label: ui.nav[0], onPress: goHome },
     { key: 'reading', label: ui.nav[1], onPress: openReading },
@@ -559,8 +560,7 @@ export function useStartNewReading() {
   const begin = () => {
     setAsking(false);
     reset();
-    if (router.canDismiss()) router.dismissAll();
-    router.push('/zodiac');
+    startReading(state.noticeSeen);
   };
   return {
     request: () => (hasProgress(state) ? setAsking(true) : begin()),

@@ -25,17 +25,17 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - (nothing)
 
 ### Next
-1. First-launch notice, privacy notice and terms screens (notice goes after the language screen)
-2. "12 Animal Years" and "About" pages: the design's desktop header links to them; left out until the pages exist.
-3. Verify native iOS/Android layouts, text scaling, and local storage in a development build
+1. "12 Animal Years" and "About" pages: the design's desktop header links to them; left out until the pages exist.
+2. Verify native iOS/Android layouts, text scaling, and local storage in a development build
 
 ### Waiting on the team
 - Native Khmer review of all content, including the new answer and per-kind reading templates (templates.json: kinds, answers, outlook, tone.mixed, theme.MIX), and the new interface strings from the screens design (step names, intro, nav, feature labels)
 - Final sign-off on card artwork (all 78 imported; title band shows the reading language only, the template shows English over Khmer)
-- Legal review of disclaimer, privacy and terms
+- Legal review of disclaimer, privacy and terms, then fill src/content/legal.json `values` (company, contact email, minimum age, effective date)
 - Decisions: daily reading lock, reversed cards, monetisation
 
 ## Log
+- 2026-10-23: Added the first-launch notice (/notice, shown once before the first reading; acceptance saved with the session), privacy (/privacy) and terms (/terms) screens, with Privacy · Terms of use links on home and the notice. Text copied from the Disclaimer, Privacy and Terms doc into src/content/legal.json; privacy wording corrected to say the reading in progress is also kept on the device. Placeholders stay until legal review. Checked the notice flow on web; typecheck, checks and lint pass
 - 2026-10-23: More desktop UX polish: stronger darkening behind the home text, a quieter feature row (labels on one line), Khmer year names under the English animal names on the birth-year step, and finished steps in the desktop stepper are clickable to go back. Checked on web at 1470 × 730 and 390 px; typecheck, checks and lint pass. Still to do: a desktop footer with privacy and terms links, which needs those pages first (Next item 1)
 - 2026-10-23: Desktop UX fixes: Back/Continue docked to the bottom of the window (Continue was below the fold on laptops) and tighter birth-year spacing; "Start a new reading" now asks before clearing a reading in progress, and the header's Tarot Reading link resumes instead of wiping it; home shows "Continue your reading" first with where it stands (e.g. Love & Relationships · Step 3 of 5); hover states on buttons, rows, medallions, cards and nav, plus a keyboard focus ring and pointer cursor on web. New UI strings (newReading, confirm dialog) need Khmer review. Checked on web at 1470 × 730; typecheck, checks and lint pass
 - 2026-10-22: Added reusable one-time fade/rise entrances (480ms, staggered) to desktop home and results, with cleanup and Reduce Motion support. Browser verified changing opacity then settling, and no animation under reduced motion. Typecheck, content/persistence checks and lint pass.

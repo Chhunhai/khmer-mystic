@@ -9,7 +9,7 @@ export function restoreFlow(raw: string | null, initial: FlowState, content: Con
   try {
     const saved = JSON.parse(raw);
     if (!saved || typeof saved !== 'object') return initial;
-    const state = { ...initial, lang: saved.lang === 'km' ? 'km' as const : 'en' as const };
+    const state = { ...initial, lang: saved.lang === 'km' ? 'km' as const : 'en' as const, noticeSeen: saved.noticeSeen === true };
     if (!content.zodiac.some(z => z.id === saved.zodiacId)) return state;
     state.zodiacId = saved.zodiacId;
     const topic = content.topics.find(t => t.id === saved.topicId);

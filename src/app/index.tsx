@@ -8,6 +8,7 @@ import { CoverImage, Fade } from '../ui/backdrop.tsx';
 import { Divider, Icon, LotusMark, type IconName } from '../ui/icons.tsx';
 import { AppText, GhostButton, PrimaryButton, Screen, useStartNewReading } from '../ui/kit.tsx';
 import { Entrance } from '../ui/entrance.tsx';
+import { LegalLinks } from '../ui/legal.tsx';
 import { Medallion } from '../ui/medallion.tsx';
 import { colors, fonts, useWide } from '../ui/theme.ts';
 
@@ -86,6 +87,7 @@ export default function WelcomeScreen() {
                 );
               })}
             </View>
+            <LegalLinks />
           </Entrance>
         </View>
         {newReading.dialog}
@@ -112,6 +114,7 @@ export default function WelcomeScreen() {
           <AppText size={12} style={styles.muted}>
             {ui.note}
           </AppText>
+          <LegalLinks />
         </View>
       }
     >
