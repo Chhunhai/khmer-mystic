@@ -1,0 +1,1097 @@
+{
+  "questionId": "LF-04",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You are open to the unexpected, which puts you in a good place to notice new openings. Curiosity is your advantage here.",
+        "km": "អ្នកកំពុងបើកចិត្តទទួលអ្វីដែលមិននឹកស្មានដល់ ដែលធ្វើឱ្យអ្នកងាយមើលឃើញឱកាសថ្មី។ ចិត្តចង់ដឹងចង់ឃើញ គឺជាចំណុចខ្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "An exciting offer could tempt you to say yes before you understand it. Ask a few plain questions before you jump.",
+        "km": "ការផ្តល់ជូនដ៏គួរឱ្យរំភើបមួយ អាចទាក់ទាញឱ្យអ្នកយល់ព្រមមុនពេលយល់ច្បាស់។ សូមសួរសំណួរសាមញ្ញៗខ្លះ មុននឹងសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "A fresh start may open in an area you had not considered, such as a new place, role or interest. Going in with an open mind could make it a real adventure.",
+        "km": "ការចាប់ផ្តើមថ្មីមួយ អាចបើកឡើងក្នុងផ្នែកដែលអ្នកមិនធ្លាប់គិតដល់ ដូចជាកន្លែងថ្មី តួនាទីថ្មី ឬចំណាប់អារម្មណ៍ថ្មី។ ការចូលទៅដោយចិត្តទូលាយ អាចធ្វើឱ្យវាក្លាយជាដំណើរផ្សងព្រេងពិតប្រាកដ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You already have skills and resources that others may need. Opportunities tend to find people who are ready to use what they have.",
+        "km": "អ្នកមានជំនាញ និងធនធានដែលអ្នកដទៃប្រហែលជាត្រូវការរួចហើយ។ ឱកាសច្រើនតែរកឃើញមនុស្សដែលត្រៀមប្រើអ្វីដែលខ្លួនមាន។"
+      },
+      "challenge": {
+        "en": "Chasing every possibility at once could leave none of them properly done. Choose the opening where your skills fit best.",
+        "km": "ការដេញតាមលទ្ធភាពទាំងអស់ក្នុងពេលតែមួយ អាចធ្វើឱ្យគ្មានមួយណាបានសម្រេចល្អ។ សូមជ្រើសឱកាសដែលស័ក្តិសមនឹងជំនាញរបស់អ្នកជាងគេ។"
+      },
+      "outcome": {
+        "en": "A chance to turn an idea into something real may appear, especially one that uses a skill you already have. Acting on it with focus could bring visible results.",
+        "km": "ឱកាសប្រែគំនិតមួយឱ្យទៅជាការពិត អាចលេចឡើង ជាពិសេសឱកាសដែលប្រើជំនាញដែលអ្នកមានស្រាប់។ ការធ្វើវាដោយផ្តោតអារម្មណ៍ អាចនាំមកនូវលទ្ធផលដែលមើលឃើញ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Some opportunities around you are not obvious yet. Your quiet sense of what feels right may notice them before others do.",
+        "km": "ឱកាសខ្លះនៅជុំវិញអ្នក មិនទាន់លេចឱ្យឃើញច្បាស់នៅឡើយទេ។ វិចារណញាណដ៏ស្ងប់ស្ងាត់របស់អ្នក អាចសម្គាល់វាឃើញមុនអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Waiting for complete certainty could mean letting a good opening pass. Trust what you notice, then check it with simple facts.",
+        "km": "ការរង់ចាំភាពប្រាកដប្រជាទាំងស្រុង អាចធ្វើឱ្យឱកាសល្អមួយកន្លងផុតទៅ។ សូមទុកចិត្តលើអ្វីដែលអ្នកសង្កេតឃើញ រួចផ្ទៀងផ្ទាត់វាជាមួយការពិតសាមញ្ញៗ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through something you learn quietly, such as a private conversation or a detail others overlooked. Paying attention could reveal it.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈអ្វីដែលអ្នកដឹងដោយស្ងាត់ៗ ដូចជាការសន្ទនាឯកជន ឬព័ត៌មានលម្អិតដែលអ្នកដទៃមើលរំលង។ ការយកចិត្តទុកដាក់ អាចធ្វើឱ្យអ្នកឃើញវា។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Things you have nurtured are starting to grow. The care you have given people and projects is preparing the ground for new openings.",
+        "km": "អ្វីដែលអ្នកបានថែរក្សា កំពុងចាប់ផ្តើមលូតលាស់។ ការយកចិត្តទុកដាក់ដែលអ្នកផ្តល់ដល់មនុស្ស និងគម្រោង កំពុងរៀបចំដីសម្រាប់ឱកាសថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "You may be so busy caring for others that you overlook offers meant for you. Leave some room to receive.",
+        "km": "អ្នកប្រហែលជារវល់ថែរក្សាអ្នកដទៃខ្លាំងពេក រហូតមើលរំលងឱកាសដែលមកសម្រាប់អ្នក។ សូមទុកកន្លែងខ្លះសម្រាប់ទទួល។"
+      },
+      "outcome": {
+        "en": "An opportunity for growth may come through a creative project, a family matter or something you have patiently tended. It could bear fruit if you keep giving it care.",
+        "km": "ឱកាសរីកចម្រើនមួយ អាចមកតាមរយៈគម្រោងច្នៃប្រឌិត រឿងគ្រួសារ ឬអ្វីដែលអ្នកបានថែទាំដោយអត់ធ្មត់។ វាអាចផ្តល់ផល ប្រសិនបើអ្នកបន្តថែរក្សាវា។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "You are in a steady position to take on more responsibility. Your reliability is something other people notice and trust.",
+        "km": "អ្នកស្ថិតក្នុងជំហរនឹងនរ ដែលអាចទទួលភារកិច្ចបន្ថែមបាន។ ភាពគួរឱ្យទុកចិត្តរបស់អ្នក គឺជាអ្វីដែលអ្នកដទៃកត់សម្គាល់ និងជឿជាក់។"
+      },
+      "challenge": {
+        "en": "Holding too tightly to your usual way of doing things could make you dismiss a new opening. Stay firm but flexible.",
+        "km": "ការប្រកាន់របៀបធ្វើការធម្មតារបស់អ្នកតឹងពេក អាចធ្វើឱ្យអ្នកច្រានចោលឱកាសថ្មីមួយ។ សូមរឹងមាំ ប៉ុន្តែបត់បែន។"
+      },
+      "outcome": {
+        "en": "A chance to lead, organise or build something lasting may come your way. Taking it on with a clear plan could give you more stability and respect.",
+        "km": "ឱកាសដឹកនាំ រៀបចំ ឬកសាងអ្វីមួយដែលស្ថិតស្ថេរ អាចមករកអ្នក។ ការទទួលយកវាជាមួយផែនការច្បាស់លាស់ អាចផ្តល់ឱ្យអ្នកនូវស្ថិរភាព និងការគោរពកាន់តែច្រើន។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "You are well placed to learn from people with experience. A teacher, mentor or community may already be close by.",
+        "km": "អ្នកស្ថិតក្នុងជំហរល្អសម្រាប់រៀនពីអ្នកដែលមានបទពិសោធន៍។ គ្រូ អ្នកណែនាំ ឬសហគមន៍មួយ ប្រហែលជានៅក្បែរអ្នករួចហើយ។"
+      },
+      "challenge": {
+        "en": "Waiting for permission or approval could hold you back from an opening that suits you. Respect advice, but make your own choice.",
+        "km": "ការរង់ចាំការអនុញ្ញាត ឬការយល់ព្រមពីគេ អាចរារាំងអ្នកពីឱកាសដែលសមនឹងអ្នក។ សូមគោរពដំបូន្មាន ប៉ុន្តែធ្វើការសម្រេចចិត្តដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through study, a mentor or an established group. Joining or learning from it could give you guidance and useful connections.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈការសិក្សា អ្នកណែនាំ ឬក្រុមដែលមានមូលដ្ឋានរឹងមាំ។ ការចូលរួម ឬរៀនពីវា អាចផ្តល់ឱ្យអ្នកនូវការណែនាំ និងទំនាក់ទំនងមានប្រយោជន៍។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "You are standing before a meaningful choice, and more than one path may be open. What you truly value can show you which to welcome.",
+        "km": "អ្នកកំពុងឈរនៅមុខជម្រើសដ៏មានន័យមួយ ហើយអាចមានផ្លូវច្រើនជាងមួយបើកចំហ។ អ្វីដែលអ្នកឱ្យតម្លៃពិតប្រាកដ អាចបង្ហាញថាគួរស្វាគមន៍ផ្លូវណា។"
+      },
+      "challenge": {
+        "en": "Trying to keep every option could mean committing to none. An opening may ask you to choose with your heart and your values.",
+        "km": "ការព្យាយាមរក្សាគ្រប់ជម្រើស អាចមានន័យថាមិនបានប្តេជ្ញាលើមួយណាសោះ។ ឱកាសមួយអាចតម្រូវឱ្យអ្នកជ្រើសរើសតាមចិត្ត និងគុណតម្លៃរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "An opportunity may arrive through a partnership or a close connection. Choosing it sincerely could open a path that feels right in your heart.",
+        "km": "ឱកាសមួយអាចមកដល់តាមរយៈភាពជាដៃគូ ឬទំនាក់ទំនងជិតស្និទ្ធ។ ការជ្រើសរើសវាដោយស្មោះ អាចបើកផ្លូវដែលអ្នកយល់ថាត្រឹមត្រូវក្នុងចិត្ត។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You have drive and direction, and that makes you ready to move when an opening appears. Your determination is noticed.",
+        "km": "អ្នកមានកម្លាំងចិត្ត និងទិសដៅ ដែលធ្វើឱ្យអ្នកត្រៀមខ្លួនបោះជំហាន នៅពេលឱកាសលេចឡើង។ ការតាំងចិត្តរបស់អ្នកត្រូវបានគេកត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Pushing forward in too many directions could scatter your effort. Decide which opportunity deserves your energy first.",
+        "km": "ការរុញទៅមុខច្រើនទិសពេក អាចធ្វើឱ្យការខិតខំរបស់អ្នកខ្ចាត់ខ្ចាយ។ សូមសម្រេចថាឱកាសណាសមនឹងទទួលកម្លាំងរបស់អ្នកមុនគេ។"
+      },
+      "outcome": {
+        "en": "An opportunity to move forward may come, such as a trip, a step up or a goal within reach. Steering it with determination could bring a well-earned win.",
+        "km": "ឱកាសបោះជំហានទៅមុខមួយ អាចមកដល់ ដូចជាការធ្វើដំណើរ ការឡើងកម្រិត ឬគោលដៅដែលអាចសម្រេចបាន។ ការដឹកនាំវាដោយការតាំងចិត្ត អាចនាំមកនូវជ័យជម្នះដែលអ្នកសមនឹងទទួល។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Your patience and calm strength put you in a good position. People may trust you with something that needs a steady hand.",
+        "km": "ការអត់ធ្មត់ និងកម្លាំងដ៏ស្ងប់ស្ងាត់របស់អ្នក ធ្វើឱ្យអ្នកស្ថិតក្នុងជំហរល្អ។ មនុស្សអាចទុកចិត្តប្រគល់អ្វីមួយដែលត្រូវការដៃនឹងនរមកអ្នក។"
+      },
+      "challenge": {
+        "en": "Self-doubt could make you think an opening is too big for you. Remember the quiet courage that has carried you before.",
+        "km": "ការសង្ស័យលើខ្លួនឯង អាចធ្វើឱ្យអ្នកគិតថាឱកាសមួយធំពេកសម្រាប់អ្នក។ សូមនឹកឃើញភាពក្លាហានដ៏ស្ងប់ស្ងាត់ ដែលធ្លាប់នាំអ្នកឆ្លងកាត់ពីមុន។"
+      },
+      "outcome": {
+        "en": "An opportunity to prove your inner strength may come, perhaps through a task others find difficult. Meeting it calmly could build confidence and respect.",
+        "km": "ឱកាសបង្ហាញកម្លាំងខាងក្នុងរបស់អ្នក អាចមកដល់ ប្រហែលជាតាមរយៈកិច្ចការដែលអ្នកដទៃយល់ថាពិបាក។ ការប្រឈមនឹងវាដោយស្ងប់ស្ងាត់ អាចកសាងទំនុកចិត្ត និងការគោរព។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You are in a reflective phase, taking time to understand what you really want. That clarity could help you recognise the right opening.",
+        "km": "អ្នកកំពុងស្ថិតក្នុងដំណាក់កាលពិចារណា ដោយចំណាយពេលស្វែងយល់ពីអ្វីដែលខ្លួនចង់បានពិតប្រាកដ។ ភាពច្បាស់លាស់នោះ អាចជួយអ្នកស្គាល់ឱកាសដែលត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Staying too withdrawn could keep opportunities from reaching you. Let a few trusted people know what you are looking for.",
+        "km": "ការនៅដាច់ឆ្ងាយពេក អាចធ្វើឱ្យឱកាសមិនអាចមកដល់អ្នក។ សូមប្រាប់មនុស្សដែលអ្នកទុកចិត្តពីរបីនាក់ ពីអ្វីដែលអ្នកកំពុងស្វែងរក។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through deeper study, wise advice or time spent alone with a question. It could lead you toward work or a path that feels truly yours.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈការសិក្សាស៊ីជម្រៅ ដំបូន្មានដ៏ឈ្លាសវៃ ឬពេលវេលានៅម្នាក់ឯងជាមួយសំណួរមួយ។ វាអាចនាំអ្នកទៅរកការងារ ឬផ្លូវដែលពិតជារបស់អ្នក។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Circumstances around you are turning, and that movement can bring openings. You are in a good place to notice what changes.",
+        "km": "កាលៈទេសៈជុំវិញអ្នកកំពុងវិលប្តូរ ហើយចលនានោះអាចនាំមកនូវឱកាស។ អ្នកស្ថិតក្នុងជំហរល្អ ដើម្បីកត់សម្គាល់អ្វីដែលផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Relying on luck alone could leave you unprepared when a chance arrives. Be ready to act when the timing is right.",
+        "km": "ការពឹងតែលើសំណាង អាចធ្វើឱ្យអ្នកមិនបានត្រៀមខ្លួន នៅពេលឱកាសមកដល់។ សូមត្រៀមខ្លួនធ្វើសកម្មភាព នៅពេលដែលពេលវេលាសមស្រប។"
+      },
+      "outcome": {
+        "en": "A lucky turn may bring an opening you did not plan for. Being flexible and quick to respond could help you make the most of it.",
+        "km": "ការប្រែប្រួលដ៏សំណាងមួយ អាចនាំមកនូវឱកាសដែលអ្នកមិនបានគ្រោងទុក។ ការបត់បែន និងឆ្លើយតបរហ័ស អាចជួយអ្នកប្រើប្រាស់វាឱ្យបានល្អបំផុត។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "You are in a fair and clear-headed position. Honest dealings you have had with others may be building trust that opens doors.",
+        "km": "អ្នកស្ថិតក្នុងជំហរយុត្តិធម៌ និងមានគំនិតច្បាស់លាស់។ ការប្រព្រឹត្តដោយស្មោះត្រង់ជាមួយអ្នកដទៃ អាចកំពុងកសាងការទុកចិត្តដែលបើកទ្វារឱ្យអ្នក។"
+      },
+      "challenge": {
+        "en": "An offer may look good until you read the details. Check the terms carefully and make sure the arrangement is fair to you.",
+        "km": "ការផ្តល់ជូនមួយអាចមើលទៅល្អ រហូតដល់អ្នកអានព័ត៌មានលម្អិត។ សូមពិនិត្យលក្ខខណ្ឌឱ្យបានល្អិតល្អន់ ហើយប្រាកដថាការព្រមព្រៀងនោះយុត្តិធម៌សម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through an agreement, a fair decision or a document. Weighing it carefully could lead to a result you truly deserve.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈកិច្ចព្រមព្រៀង ការសម្រេចចិត្តដោយយុត្តិធម៌ ឬឯកសារមួយ។ ការថ្លឹងថ្លែងវាដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកលទ្ធផលដែលអ្នកសមនឹងទទួល។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Things may feel on hold, and new openings seem slow to appear. This pause can let you see possibilities you missed while rushing.",
+        "km": "អ្វីៗអាចហាក់ដូចជាកំពុងផ្អាក ហើយឱកាសថ្មីហាក់មកដល់យឺត។ ការផ្អាកនេះ អាចឱ្យអ្នកមើលឃើញលទ្ធភាពដែលអ្នកមើលរំលងពេលប្រញាប់។"
+      },
+      "challenge": {
+        "en": "Forcing things to move faster could make you grab the wrong opening. Try looking at your situation from a different angle first.",
+        "km": "ការបង្ខំឱ្យអ្វីៗដើរលឿនជាងមុន អាចធ្វើឱ្យអ្នកចាប់យកឱកាសខុស។ សូមសាកមើលស្ថានភាពរបស់អ្នកពីមុំផ្សេងជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "An opportunity may come from seeing an old situation in a new way. What looked like a delay could turn into a better direction.",
+        "km": "ឱកាសមួយអាចកើតចេញពីការមើលស្ថានភាពចាស់តាមរបៀបថ្មី។ អ្វីដែលមើលទៅដូចជាការពន្យារពេល អាចប្រែក្លាយជាទិសដៅដែលល្អជាង។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "One chapter of your life may be closing. Endings like this often clear the space where new opportunities can arrive.",
+        "km": "ជំពូកមួយនៃជីវិតរបស់អ្នក ប្រហែលជាកំពុងបិទ។ ការបញ្ចប់បែបនេះ ច្រើនតែបើកលំហដែលឱកាសថ្មីអាចចូលមកដល់។"
+      },
+      "challenge": {
+        "en": "Holding on to what has finished could leave no room for what is new. Letting go may be the first step toward the opening.",
+        "km": "ការតោងជាប់នឹងអ្វីដែលបានបញ្ចប់ អាចធ្វើឱ្យគ្មានកន្លែងសម្រាប់អ្វីថ្មី។ ការដោះលែង អាចជាជំហានដំបូងឆ្ពោះទៅរកឱកាសនោះ។"
+      },
+      "outcome": {
+        "en": "An opportunity for a real fresh start may follow an ending. Accepting the change could open a chapter that suits who you are becoming.",
+        "km": "ឱកាសចាប់ផ្តើមថ្មីពិតប្រាកដ អាចមកដល់បន្ទាប់ពីការបញ្ចប់មួយ។ ការទទួលយកការផ្លាស់ប្តូរ អាចបើកជំពូកថ្មីដែលស័ក្តិសមនឹងមនុស្សដែលអ្នកកំពុងក្លាយជា។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You are finding a good balance, and that calm makes it easier to judge new offers. Patience is working in your favour.",
+        "km": "អ្នកកំពុងរកឃើញតុល្យភាពល្អ ហើយភាពស្ងប់នោះ ធ្វើឱ្យងាយស្រួលវាយតម្លៃការផ្តល់ជូនថ្មីៗ។ ការអត់ធ្មត់កំពុងជួយអ្នក។"
+      },
+      "challenge": {
+        "en": "Rushing into an opening could upset the balance you have built. Take it step by step and keep a sensible pace.",
+        "km": "ការប្រញាប់ចូលទៅក្នុងឱកាសមួយ អាចធ្វើឱ្យតុល្យភាពដែលអ្នកបានកសាង ត្រូវរំខាន។ សូមធ្វើវាម្តងមួយជំហាន ហើយរក្សាល្បឿនសមរម្យ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come from bringing two different parts of your life together. Blending them patiently could create something lasting and healthy.",
+        "km": "ឱកាសមួយអាចកើតចេញពីការភ្ជាប់ផ្នែកពីរផ្សេងគ្នានៃជីវិតរបស់អ្នក។ ការផ្សំវាដោយអត់ធ្មត់ អាចបង្កើតអ្វីមួយដែលយូរអង្វែង និងល្អ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "A habit or fear may be keeping you from noticing what is available. Some openings could be hidden behind a pattern you have accepted.",
+        "km": "ទម្លាប់ ឬការភ័យខ្លាចមួយ អាចកំពុងរារាំងអ្នកមិនឱ្យឃើញអ្វីដែលមានស្រាប់។ ឱកាសខ្លះអាចលាក់ខ្លួននៅពីក្រោយលំនាំដែលអ្នកបានទទួលយក។"
+      },
+      "challenge": {
+        "en": "An offer that looks tempting could come with strings attached. Be wary of anything that promises a lot quickly or limits your freedom.",
+        "km": "ការផ្តល់ជូនដែលគួរឱ្យទាក់ទាញមួយ អាចមានលក្ខខណ្ឌលាក់កំបាំង។ សូមប្រុងប្រយ័ត្នចំពោះអ្វីដែលសន្យាច្រើនក្នុងរយៈខ្លី ឬរឹតត្បិតសេរីភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "An opportunity may come from breaking free of something that has limited you. Choosing freedom over comfort could open a door you had stopped seeing.",
+        "km": "ឱកាសមួយអាចកើតចេញពីការរំដោះខ្លួនពីអ្វីដែលធ្លាប់កំណត់អ្នក។ ការជ្រើសរើសសេរីភាពជាជាងភាពស្រួល អាចបើកទ្វារដែលអ្នកឈប់មើលឃើញ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Something you relied on may be shaken, and it can feel unsettling. Yet sudden change can also clear the way for new openings.",
+        "km": "អ្វីមួយដែលអ្នកធ្លាប់ពឹងផ្អែក អាចកំពុងរង្គោះរង្គើ ហើយវាអាចធ្វើឱ្យអ្នកមិនស្រួលចិត្ត។ ប៉ុន្តែការផ្លាស់ប្តូរភ្លាមៗ ក៏អាចបើកផ្លូវសម្រាប់ឱកាសថ្មីដែរ។"
+      },
+      "challenge": {
+        "en": "Clinging to a plan that is already falling apart could make you miss what replaces it. Look at what the change makes possible.",
+        "km": "ការតោងជាប់នឹងផែនការដែលកំពុងដួលរលំ អាចធ្វើឱ្យអ្នកមើលរំលងអ្វីដែលមកជំនួសវា។ សូមមើលពីអ្វីដែលការផ្លាស់ប្តូរនោះធ្វើឱ្យអាចកើតឡើងបាន។"
+      },
+      "outcome": {
+        "en": "An opportunity may arrive disguised as a disruption that breaks an old plan. Rebuilding on firmer ground could leave you better placed than before.",
+        "km": "ឱកាសមួយអាចមកដល់ក្នុងរូបភាពជាការរំខាន ដែលបំបាក់ផែនការចាស់។ ការកសាងឡើងវិញលើមូលដ្ឋានរឹងមាំជាងមុន អាចធ្វើឱ្យអ្នកស្ថិតក្នុងជំហរល្អជាងពីមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope is returning, and you are starting to believe in good things again. That renewed faith makes you more open to new openings.",
+        "km": "ក្តីសង្ឃឹមកំពុងត្រឡប់មកវិញ ហើយអ្នកកំពុងចាប់ផ្តើមជឿលើរឿងល្អៗម្តងទៀត។ ជំនឿដែលកើតឡើងវិញនោះ ធ្វើឱ្យអ្នកបើកចិត្តទទួលឱកាសថ្មីកាន់តែច្រើន។"
+      },
+      "challenge": {
+        "en": "Doubt could make you think good things are not meant for you. Let small signs of progress encourage you to say yes.",
+        "km": "ការសង្ស័យអាចធ្វើឱ្យអ្នកគិតថារឿងល្អៗមិនមែនសម្រាប់អ្នកទេ។ សូមឱ្យសញ្ញាតូចៗនៃការរីកចម្រើន លើកទឹកចិត្តអ្នកឱ្យទទួលយក។"
+      },
+      "outcome": {
+        "en": "An inspiring opportunity may appear, one that renews your hope and sense of purpose. Following it gently could bring healing and new direction.",
+        "km": "ឱកាសដ៏បំផុសគំនិតមួយ អាចលេចឡើង ដែលធ្វើឱ្យក្តីសង្ឃឹម និងគោលបំណងរបស់អ្នករស់ឡើងវិញ។ ការដើរតាមវាដោយទន់ភ្លន់ អាចនាំមកនូវការជាសះស្បើយ និងទិសដៅថ្មី។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Things around you may feel unclear, and it is hard to tell which openings are real. Some offers may not be what they seem.",
+        "km": "អ្វីៗនៅជុំវិញអ្នក អាចហាក់ដូចជាមិនច្បាស់ ហើយពិបាកដឹងថាឱកាសណាជាការពិត។ ការផ្តល់ជូនខ្លះ ប្រហែលជាមិនដូចអ្វីដែលវាមើលទៅនោះទេ។"
+      },
+      "challenge": {
+        "en": "Fear or confusion could make you miss a real opening or trust a false one. Check the facts before you decide either way.",
+        "km": "ការភ័យខ្លាច ឬការភាន់ច្រឡំ អាចធ្វើឱ្យអ្នករំលងឱកាសពិត ឬជឿលើឱកាសក្លែងក្លាយ។ សូមពិនិត្យការពិត មុននឹងសម្រេចចិត្តទៅខាងណាមួយ។"
+      },
+      "outcome": {
+        "en": "An opportunity may take time to show its true shape. Moving carefully and trusting what you can verify could help you find the real one.",
+        "km": "ឱកាសមួយអាចត្រូវការពេលវេលា ដើម្បីបង្ហាញរូបរាងពិតរបស់វា។ ការដើរដោយប្រុងប្រយ័ត្ន និងទុកចិត្តលើអ្វីដែលអ្នកអាចផ្ទៀងផ្ទាត់បាន អាចជួយអ្នករកឃើញឱកាសពិត។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "You are in a bright and confident place, and people are drawn to your energy. Good openings tend to gather around this kind of warmth.",
+        "km": "អ្នកស្ថិតក្នុងភាពភ្លឺស្វាង និងមានទំនុកចិត្ត ហើយមនុស្សត្រូវបានទាក់ទាញដោយថាមពលរបស់អ្នក។ ឱកាសល្អៗ ច្រើនតែប្រមូលផ្តុំនៅជុំវិញភាពកក់ក្តៅបែបនេះ។"
+      },
+      "challenge": {
+        "en": "Feeling that everything is going well could make you skip the details of a new offer. Enjoy the moment, but read carefully.",
+        "km": "អារម្មណ៍ថាអ្វីៗកំពុងដំណើរការល្អ អាចធ្វើឱ្យអ្នករំលងព័ត៌មានលម្អិតនៃការផ្តល់ជូនថ្មី។ សូមរីករាយ ប៉ុន្តែអានឱ្យបានប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "A joyful opportunity may come your way, bringing success, recognition or a happy event. Sharing it openly could make it even brighter.",
+        "km": "ឱកាសដ៏រីករាយមួយ អាចមករកអ្នក ដោយនាំមកនូវភាពជោគជ័យ ការទទួលស្គាល់ ឬព្រឹត្តិការណ៍ដ៏សប្បាយ។ ការចែករំលែកវាដោយបើកចំហ អាចធ្វើឱ្យវាកាន់តែភ្លឺស្វាង។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You may feel called to try again at something that matters to you. An honest look at the past is preparing you for a second chance.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវសាកល្បងម្តងទៀត លើអ្វីមួយដែលសំខាន់សម្រាប់អ្នក។ ការមើលអតីតកាលដោយស្មោះត្រង់ កំពុងរៀបចំអ្នកសម្រាប់ឱកាសទីពីរ។"
+      },
+      "challenge": {
+        "en": "Harsh judgement of past mistakes could make you turn down a second chance. You are allowed to begin again.",
+        "km": "ការវិនិច្ឆ័យកំហុសពីមុនយ៉ាងតឹងរ៉ឹង អាចធ្វើឱ្យអ្នកបដិសេធឱកាសទីពីរ។ អ្នកមានសិទ្ធិចាប់ផ្តើមម្តងទៀត។"
+      },
+      "outcome": {
+        "en": "A second chance or a renewed calling may appear. Answering it with what you have learned could give your life a clearer purpose.",
+        "km": "ឱកាសទីពីរ ឬការហៅដែលកើតឡើងវិញមួយ អាចលេចឡើង។ ការឆ្លើយតបនឹងវាដោយអ្វីដែលអ្នកបានរៀន អាចផ្តល់គោលបំណងច្បាស់ជាងមុនដល់ជីវិតរបស់អ្នក។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You are close to completing an important stage, and that achievement makes you ready for something larger. Your experience is your strength.",
+        "km": "អ្នកជិតបញ្ចប់ដំណាក់កាលសំខាន់មួយ ហើយសមិទ្ធផលនោះ ធ្វើឱ្យអ្នកត្រៀមខ្លួនសម្រាប់អ្វីដែលធំជាងនេះ។ បទពិសោធន៍របស់អ្នក គឺជាកម្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Leaving unfinished tasks behind could hold you back from the next opening. Close what you have started, then move forward.",
+        "km": "ការទុកកិច្ចការមិនទាន់ចប់ចោល អាចរារាំងអ្នកពីឱកាសបន្ទាប់។ សូមបញ្ចប់អ្វីដែលអ្នកបានចាប់ផ្តើម រួចហើយបោះជំហានទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A wider opportunity may open once something important is complete, perhaps travel, a new role or a bigger stage. It could feel like a reward for the road you have walked.",
+        "km": "ឱកាសកាន់តែទូលំទូលាយមួយ អាចបើកឡើងនៅពេលអ្វីមួយសំខាន់បានបញ្ចប់ ប្រហែលជាការធ្វើដំណើរ តួនាទីថ្មី ឬឆាកធំជាងមុន។ វាអាចដូចជារង្វាន់សម្រាប់ផ្លូវដែលអ្នកបានដើរកន្លងមក។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A spark of new energy is with you, and you are eager to start something. That enthusiasm makes you quick to spot fresh openings.",
+        "km": "ផ្កាភ្លើងនៃថាមពលថ្មីកំពុងនៅជាមួយអ្នក ហើយអ្នកចង់ចាប់ផ្តើមអ្វីមួយ។ ភាពរំភើបនោះ ធ្វើឱ្យអ្នករហ័សមើលឃើញឱកាសថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "An exciting idea could fade if you wait for the perfect moment to begin. Take one small practical step while the energy is there.",
+        "km": "គំនិតដ៏គួរឱ្យរំភើបមួយ អាចរសាត់បាត់ ប្រសិនបើអ្នករង់ចាំពេលល្អឥតខ្ចោះដើម្បីចាប់ផ្តើម។ សូមបោះជំហានជាក់ស្តែងតូចមួយ ខណៈថាមពលនៅមាន។"
+      },
+      "outcome": {
+        "en": "An opportunity to start something new may appear, such as a project, venture or creative idea. Acting on it with courage could set something exciting in motion.",
+        "km": "ឱកាសចាប់ផ្តើមអ្វីថ្មីមួយ អាចលេចឡើង ដូចជាគម្រោង មុខរបរ ឬគំនិតច្នៃប្រឌិត។ ការធ្វើតាមវាដោយក្លាហាន អាចចាប់ផ្តើមអ្វីមួយដ៏គួរឱ្យរំភើប។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You are looking ahead and weighing where to go next. Having more than one direction to consider is already a kind of opportunity.",
+        "km": "អ្នកកំពុងសម្លឹងទៅមុខ ហើយថ្លឹងថ្លែងថាគួរទៅទិសណាបន្ទាប់។ ការមានទិសដៅច្រើនជាងមួយសម្រាប់ពិចារណា គឺជាឱកាសមួយបែបរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Planning without ever choosing could let a good opening pass by. Pick a direction to explore, even if the map is incomplete.",
+        "km": "ការរៀបផែនការដោយមិនដែលជ្រើសរើស អាចធ្វើឱ្យឱកាសល្អមួយកន្លងផុតទៅ។ សូមជ្រើសទិសដៅមួយដើម្បីស្វែងយល់ ទោះបីផែនទីមិនទាន់ពេញលេញក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "An opportunity to widen your horizons may appear, perhaps further from home than you expected. A bold but planned step could open a bigger world.",
+        "km": "ឱកាសពង្រីកការមើលឃើញរបស់អ្នក អាចលេចឡើង ប្រហែលជានៅឆ្ងាយពីផ្ទះជាងអ្វីដែលអ្នករំពឹង។ ជំហានដ៏ក្លាហាន ប៉ុន្តែមានផែនការ អាចបើកពិភពកាន់តែធំសម្រាប់អ្នក។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Efforts you made earlier are starting to reach further than before. You are in a good position to see what comes back from them.",
+        "km": "ការខិតខំដែលអ្នកបានធ្វើពីមុន កំពុងចាប់ផ្តើមឈានទៅដល់ឆ្ងាយជាងមុន។ អ្នកស្ថិតក្នុងជំហរល្អ ដើម្បីមើលឃើញអ្វីដែលត្រឡប់មកវិញពីការខិតខំនោះ។"
+      },
+      "challenge": {
+        "en": "Impatience could make you give up just before your efforts pay off. Keep watching for responses and follow up on them.",
+        "km": "ការមិនអត់ធ្មត់ អាចធ្វើឱ្យអ្នកបោះបង់ មុនពេលការខិតខំរបស់អ្នកផ្តល់ផល។ សូមបន្តតាមដានការឆ្លើយតប ហើយធ្វើការតាមដានបន្ត។"
+      },
+      "outcome": {
+        "en": "An opportunity may arrive from further away, through contacts, travel or work you sent out earlier. Following it up could expand what you are building.",
+        "km": "ឱកាសមួយអាចមកដល់ពីទីឆ្ងាយ តាមរយៈអ្នកស្គាល់គ្នា ការធ្វើដំណើរ ឬការងារដែលអ្នកបានបញ្ជូនចេញពីមុន។ ការតាមដានវា អាចពង្រីកអ្វីដែលអ្នកកំពុងកសាង។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "You have a stable base and something worth celebrating. That security gives you a good place from which to welcome new chances.",
+        "km": "អ្នកមានមូលដ្ឋានរឹងមាំ និងអ្វីមួយដែលគួរអបអរ។ សុវត្ថិភាពនោះ ផ្តល់ឱ្យអ្នកនូវកន្លែងល្អ ដើម្បីស្វាគមន៍ឱកាសថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Being too busy could keep you from noticing an invitation. Make time for gatherings where good news is often shared.",
+        "km": "ភាពមមាញឹកពេក អាចធ្វើឱ្យអ្នកមិនបានកត់សម្គាល់ការអញ្ជើញមួយ។ សូមទុកពេលសម្រាប់ការជួបជុំ ដែលដំណឹងល្អច្រើនតែត្រូវបានចែករំលែក។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through a celebration, a homecoming or a community event. It could strengthen your sense of belonging and bring happy news.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈពិធីអបអរ ការត្រឡប់មកផ្ទះវិញ ឬព្រឹត្តិការណ៍សហគមន៍។ វាអាចពង្រឹងអារម្មណ៍ថាអ្នកមានកន្លែងរបស់ខ្លួន និងនាំមកនូវដំណឹងល្អ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "There may be competition or friction around you, with several people wanting the same thing. Standing out may take effort and a clear aim.",
+        "km": "អាចមានការប្រកួតប្រជែង ឬការប៉ះទង្គិចនៅជុំវិញអ្នក ដោយមនុស្សច្រើននាក់ចង់បានរបស់ដូចគ្នា។ ការលេចធ្លោនឹងត្រូវការការខិតខំ និងគោលដៅច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Getting drawn into small arguments could waste energy you need for real opportunities. Pick the contest that is worth your effort.",
+        "km": "ការជាប់ក្នុងការប្រកែកតូចៗ អាចខ្ជះខ្ជាយថាមពលដែលអ្នកត្រូវការសម្រាប់ឱកាសពិត។ សូមជ្រើសការប្រកួតដែលសមនឹងការខិតខំរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through healthy competition, such as a challenge, an application or a contest. Giving it your best could sharpen your skills, whatever the result.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈការប្រកួតប្រជែងដ៏ល្អ ដូចជាការប្រជែង ការដាក់ពាក្យ ឬការប្រឡងប្រណាំង។ ការខិតខំឱ្យអស់ពីសមត្ថភាព អាចធ្វើឱ្យជំនាញរបស់អ្នកកាន់តែមុតស្រួច ទោះលទ្ធផលយ៉ាងណាក៏ដោយ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Your efforts are being noticed, and that visibility attracts new chances. People may be more willing to back you.",
+        "km": "ការខិតខំរបស់អ្នកកំពុងត្រូវបានគេកត់សម្គាល់ ហើយការលេចឱ្យឃើញនោះ ទាក់ទាញឱកាសថ្មីៗ។ មនុស្សអាចមានឆន្ទៈគាំទ្រអ្នកកាន់តែច្រើន។"
+      },
+      "challenge": {
+        "en": "Waiting for praise before acting could slow you down. Let your work speak, and stay humble with those who helped you.",
+        "km": "ការរង់ចាំការសរសើរមុននឹងធ្វើសកម្មភាព អាចធ្វើឱ្យអ្នកយឺត។ សូមឱ្យការងាររបស់អ្នកបង្ហាញខ្លួនវា ហើយរក្សាភាពរាបទាបចំពោះអ្នកដែលបានជួយអ្នក។"
+      },
+      "outcome": {
+        "en": "An opportunity for recognition may come, such as an award, a promotion or public thanks. Accepting it graciously could open even more doors.",
+        "km": "ឱកាសទទួលបានការទទួលស្គាល់ អាចមកដល់ ដូចជារង្វាន់ ការដំឡើងតំណែង ឬការថ្លែងអំណរគុណជាសាធារណៈ។ ការទទួលយកវាដោយសុភាពរាបសា អាចបើកទ្វារកាន់តែច្រើន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You are defending something you have worked for, and that takes energy. Your position is stronger than it may feel.",
+        "km": "អ្នកកំពុងការពារអ្វីមួយដែលអ្នកបានខិតខំធ្វើ ហើយវាត្រូវការថាមពល។ ជំហររបស់អ្នក រឹងមាំជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "Staying on the defensive could make you treat every offer as a threat. Some openings are help, not competition.",
+        "km": "ការនៅតែការពារខ្លួនជានិច្ច អាចធ្វើឱ្យអ្នកចាត់ទុកគ្រប់ការផ្តល់ជូនថាជាការគំរាម។ ឱកាសខ្លះគឺជាជំនួយ មិនមែនការប្រកួតប្រជែងទេ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to stand up for what you believe in. Holding your ground with confidence could earn you a stronger position and respect.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីក្រោកឈរការពារអ្វីដែលអ្នកជឿជាក់។ ការរក្សាជំហរដោយទំនុកចិត្ត អាចផ្តល់ឱ្យអ្នកនូវជំហររឹងមាំជាងមុន និងការគោរព។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things are moving quickly, and news may reach you fast. You are in a lively period where openings can appear without much warning.",
+        "km": "អ្វីៗកំពុងដំណើរការយ៉ាងលឿន ហើយដំណឹងអាចមកដល់អ្នករហ័ស។ អ្នកស្ថិតក្នុងដំណាក់កាលដ៏រស់រវើក ដែលឱកាសអាចលេចឡើងដោយមិនសូវមានការព្រមាន។"
+      },
+      "challenge": {
+        "en": "Answering too fast could mean agreeing to something you have not checked. Keep up the pace, but read each message properly.",
+        "km": "ការឆ្លើយតបលឿនពេក អាចមានន័យថាយល់ព្រមលើអ្វីដែលអ្នកមិនទាន់បានពិនិត្យ។ សូមរក្សាល្បឿន ប៉ុន្តែអានសារនីមួយៗឱ្យបានត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "An opportunity may arrive quickly through a message, a call or a sudden invitation. Responding promptly and clearly could set things moving in your favour.",
+        "km": "ឱកាសមួយអាចមកដល់យ៉ាងរហ័ស តាមរយៈសារ ការហៅទូរស័ព្ទ ឬការអញ្ជើញភ្លាមៗ។ ការឆ្លើយតបទាន់ពេល និងច្បាស់លាស់ អាចធ្វើឱ្យអ្វីៗដំណើរការទៅតាមផលប្រយោជន៍របស់អ្នក។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You have come through a long effort and may feel tired. Your experience and resilience are worth more than you realise.",
+        "km": "អ្នកបានឆ្លងកាត់ការខិតខំដ៏យូរ ហើយប្រហែលជានឿយហត់។ បទពិសោធន៍ និងភាពធន់របស់អ្នក មានតម្លៃជាងអ្វីដែលអ្នកដឹង។"
+      },
+      "challenge": {
+        "en": "Past disappointments could make you suspicious of every new offer. Stay careful, but do not close the door on real help.",
+        "km": "ការខកចិត្តពីមុន អាចធ្វើឱ្យអ្នកសង្ស័យគ្រប់ការផ្តល់ជូនថ្មី។ សូមប្រុងប្រយ័ត្ន ប៉ុន្តែកុំបិទទ្វារលើជំនួយពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to finish what you have fought hard for. One more steady push, with rest where you can, could bring it within reach.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីបញ្ចប់អ្វីដែលអ្នកបានតស៊ូយ៉ាងខ្លាំង។ ការប្រឹងប្រែងមួយលើកទៀតដោយនឹងនរ ព្រមទាំងសម្រាកពេលអាចធ្វើបាន អាចធ្វើឱ្យវានៅក្បែរដៃ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You are carrying a lot, and there may be little space for anything new. Your full hands could make openings hard to grasp.",
+        "km": "អ្នកកំពុងលីសែងបន្ទុកច្រើន ហើយប្រហែលជាមានកន្លែងតិចតួចសម្រាប់អ្វីថ្មី។ ដៃដែលពេញរបស់អ្នក អាចធ្វើឱ្យពិបាកចាប់យកឱកាស។"
+      },
+      "challenge": {
+        "en": "Saying yes to every request could leave no room for the opportunity that matters. Put something down before you pick something up.",
+        "km": "ការយល់ព្រមលើគ្រប់សំណើ អាចធ្វើឱ្យគ្មានកន្លែងសម្រាប់ឱកាសដែលសំខាន់។ សូមដាក់អ្វីមួយចុះ មុននឹងលើកអ្វីមួយថ្មី។"
+      },
+      "outcome": {
+        "en": "An opportunity may come from sharing or handing over part of your load. Lightening it could free you to say yes to something better.",
+        "km": "ឱកាសមួយអាចកើតចេញពីការចែករំលែក ឬប្រគល់បន្ទុកមួយផ្នែកឱ្យអ្នកដទៃ។ ការធ្វើឱ្យវាស្រាល អាចធ្វើឱ្យអ្នកមានសេរីភាពទទួលយកអ្វីមួយដែលល្អជាង។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You feel curious and eager to explore. That beginner's spirit makes you open to openings others might ignore.",
+        "km": "អ្នកមានចិត្តចង់ដឹង និងចង់ស្វែងយល់។ ស្មារតីជាអ្នកចាប់ផ្តើមនោះ ធ្វើឱ្យអ្នកបើកចិត្តទទួលឱកាសដែលអ្នកដទៃប្រហែលជាមិនខ្វល់។"
+      },
+      "challenge": {
+        "en": "Jumping from one idea to the next could stop any of them from growing. Choose one opening and give it a fair try.",
+        "km": "ការលោតពីគំនិតមួយទៅគំនិតមួយទៀត អាចធ្វើឱ្យគ្មានគំនិតណាមួយរីកចម្រើន។ សូមជ្រើសឱកាសមួយ ហើយសាកល្បងវាឱ្យបានសមរម្យ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through exciting news, a trip or a chance to learn something new. Saying yes with curiosity could lead to an adventure.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈដំណឹងដ៏គួរឱ្យរំភើប ការធ្វើដំណើរ ឬឱកាសរៀនអ្វីថ្មី។ ការទទួលយកដោយចិត្តចង់ដឹង អាចនាំទៅរកដំណើរផ្សងព្រេងមួយ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You are full of energy and ready to act. That boldness means you are likely to notice and chase new chances.",
+        "km": "អ្នកពោរពេញដោយថាមពល ហើយត្រៀមខ្លួនធ្វើសកម្មភាព។ ភាពក្លាហាននោះ មានន័យថាអ្នកងាយកត់សម្គាល់ និងដេញតាមឱកាសថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Rushing at an opening without a plan could cause mistakes you then have to fix. Aim first, then move quickly.",
+        "km": "ការប្រញាប់ទៅរកឱកាសដោយគ្មានផែនការ អាចបង្កកំហុសដែលអ្នកត្រូវជួសជុលនៅពេលក្រោយ។ សូមកំណត់គោលដៅជាមុន រួចចាំធ្វើឱ្យលឿន។"
+      },
+      "outcome": {
+        "en": "An opportunity may arrive that calls for quick, bold action, such as a move, a change or a new venture. Going for it with some preparation could move you forward fast.",
+        "km": "ឱកាសមួយអាចមកដល់ ដែលត្រូវការសកម្មភាពរហ័ស និងក្លាហាន ដូចជាការផ្លាស់ទីលំនៅ ការផ្លាស់ប្តូរ ឬមុខរបរថ្មី។ ការចាប់យកវាដោយមានការត្រៀមខ្លួនខ្លះ អាចរុញអ្នកទៅមុខបានលឿន។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your confidence and warmth draw people toward you. Many openings may come simply because others enjoy working with you.",
+        "km": "ទំនុកចិត្ត និងភាពកក់ក្តៅរបស់អ្នក ទាក់ទាញមនុស្សឱ្យមករកអ្នក។ ឱកាសជាច្រើនអាចមកដល់ ដោយសារតែអ្នកដទៃចូលចិត្តធ្វើការជាមួយអ្នក។"
+      },
+      "challenge": {
+        "en": "Taking on everything yourself could leave you too stretched to accept something new. Let others carry part of the work.",
+        "km": "ការទទួលធ្វើគ្រប់យ៉ាងដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកហត់ពេក រហូតមិនអាចទទួលអ្វីថ្មីបាន។ សូមឱ្យអ្នកដទៃជួយលីសែងការងារមួយផ្នែក។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to take the lead in something you care about. Stepping forward with confidence could inspire others to join you.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីដឹកនាំអ្វីមួយដែលអ្នកយកចិត្តទុកដាក់។ ការឈានទៅមុខដោយទំនុកចិត្ត អាចបំផុសអ្នកដទៃឱ្យចូលរួមជាមួយអ្នក។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You have vision and the courage to take charge. People may look to you when a new direction is needed.",
+        "km": "អ្នកមានចក្ខុវិស័យ និងភាពក្លាហានក្នុងការទទួលបន្ទុក។ មនុស្សអាចងាកមករកអ្នក នៅពេលដែលត្រូវការទិសដៅថ្មី។"
+      },
+      "challenge": {
+        "en": "Expecting others to move at your pace could cost you useful allies. Share your vision and give people time to join in.",
+        "km": "ការរំពឹងឱ្យអ្នកដទៃដើរតាមល្បឿនរបស់អ្នក អាចធ្វើឱ្យអ្នកបាត់បង់សម្ព័ន្ធមិត្តដែលមានប្រយោជន៍។ សូមចែករំលែកចក្ខុវិស័យ ហើយផ្តល់ពេលឱ្យមនុស្សចូលរួម។"
+      },
+      "outcome": {
+        "en": "A leadership opportunity may appear, perhaps a project or role where your vision is needed. Taking it on could let you shape something bigger than yourself.",
+        "km": "ឱកាសដឹកនាំមួយ អាចលេចឡើង ប្រហែលជាគម្រោង ឬតួនាទីដែលត្រូវការចក្ខុវិស័យរបស់អ្នក។ ការទទួលយកវា អាចឱ្យអ្នករៀបចំអ្វីមួយដែលធំជាងខ្លួនអ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your heart is opening, and you feel more ready to receive kindness. That openness invites new connections and good feelings.",
+        "km": "ចិត្តរបស់អ្នកកំពុងបើកចំហ ហើយអ្នកកាន់តែត្រៀមខ្លួនទទួលក្តីមេត្តា។ ភាពបើកចំហនោះ អញ្ជើញទំនាក់ទំនងថ្មី និងអារម្មណ៍ល្អៗ។"
+      },
+      "challenge": {
+        "en": "Fear of being hurt could make you turn away something kind. Let a small, gentle offer in before deciding it is too much.",
+        "km": "ការខ្លាចឈឺចាប់ អាចធ្វើឱ្យអ្នកបដិសេធអ្វីមួយដែលល្អ។ សូមទទួលការផ្តល់ជូនតូចមួយដ៏ទន់ភ្លន់ មុននឹងសម្រេចថាវាច្រើនពេក។"
+      },
+      "outcome": {
+        "en": "An opportunity for new love, friendship or creative joy may appear. Welcoming it with an open heart could fill your life with warmth.",
+        "km": "ឱកាសសម្រាប់ស្នេហាថ្មី មិត្តភាពថ្មី ឬសេចក្តីរីករាយក្នុងការច្នៃប្រឌិត អាចលេចឡើង។ ការស្វាគមន៍វាដោយចិត្តទូលាយ អាចធ្វើឱ្យជីវិតរបស់អ្នកពោរពេញដោយភាពកក់ក្តៅ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A close connection is important in your life, and it may hold more possibility than you think. Mutual trust is your strength.",
+        "km": "ទំនាក់ទំនងជិតស្និទ្ធមួយ មានសារៈសំខាន់ក្នុងជីវិតរបស់អ្នក ហើយវាអាចមានលទ្ធភាពច្រើនជាងអ្វីដែលអ្នកគិត។ ការទុកចិត្តគ្នាទៅវិញទៅមក គឺជាកម្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "An uneven arrangement could turn a good partnership sour. Make sure both sides give and gain fairly.",
+        "km": "ការព្រមព្រៀងដែលមិនស្មើគ្នា អាចធ្វើឱ្យភាពជាដៃគូដ៏ល្អ ក្លាយជាអាក្រក់។ សូមប្រាកដថាភាគីទាំងពីរផ្តល់ និងទទួលបានដោយយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through a partnership, whether in love, friendship or work. Building it on respect could bring support and shared happiness.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈភាពជាដៃគូ មិនថាក្នុងស្នេហា មិត្តភាព ឬការងារ។ ការកសាងវាលើការគោរពគ្នា អាចនាំមកនូវការគាំទ្រ និងសុភមង្គលរួមគ្នា។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friends and good company are lifting your spirits. Your social circle may be a quiet source of new openings.",
+        "km": "មិត្តភក្តិ និងការជួបជុំដ៏ល្អ កំពុងលើកទឹកចិត្តរបស់អ្នក។ រង្វង់មិត្តរបស់អ្នក អាចជាប្រភពឱកាសថ្មីដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Spending all your energy on socialising could distract you from an opening that needs focus. Enjoy friends, but keep your aims in view.",
+        "km": "ការចំណាយថាមពលទាំងអស់លើការជួបជុំសង្គម អាចបង្វែរអ្នកពីឱកាសដែលត្រូវការការផ្តោតអារម្មណ៍។ សូមរីករាយជាមួយមិត្តភក្តិ ប៉ុន្តែកុំភ្លេចគោលដៅរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through friends, a celebration or a group you belong to. Saying yes to an invitation could lead to something you would not find alone.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈមិត្តភក្តិ ពិធីអបអរ ឬក្រុមដែលអ្នកជាសមាជិក។ ការទទួលយកការអញ្ជើញមួយ អាចនាំទៅរកអ្វីដែលអ្នកមិនអាចរកឃើញតែម្នាក់ឯង។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel uninterested in what is in front of you. This mood can make real openings look dull.",
+        "km": "អ្នកប្រហែលជាមិនសូវចាប់អារម្មណ៍នឹងអ្វីដែលនៅចំពោះមុខ។ អារម្មណ៍បែបនេះ អាចធ្វើឱ្យឱកាសពិតមើលទៅគួរឱ្យធុញ។"
+      },
+      "challenge": {
+        "en": "Turning down an offer too quickly could mean missing something worthwhile. Look again at what you have been ignoring.",
+        "km": "ការបដិសេធការផ្តល់ជូនលឿនពេក អាចធ្វើឱ្យអ្នកខកខានអ្វីមួយដែលមានតម្លៃ។ សូមមើលម្តងទៀតពីអ្វីដែលអ្នកមិនបានខ្វល់។"
+      },
+      "outcome": {
+        "en": "An opportunity may already be within reach, even if you have not yet noticed it. Looking up and staying open could renew your interest.",
+        "km": "ឱកាសមួយប្រហែលជានៅក្បែរដៃរួចហើយ ទោះបីអ្នកមិនទាន់បានកត់សម្គាល់ក៏ដោយ។ ការងើបមុខមើល និងបើកចិត្ត អាចធ្វើឱ្យអ្នកចាប់អារម្មណ៍ឡើងវិញ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Your attention may be on what you have lost or what did not work out. Some good things are still standing behind you.",
+        "km": "ការយកចិត្តទុកដាក់របស់អ្នក ប្រហែលជាផ្តោតលើអ្វីដែលអ្នកបានបាត់បង់ ឬអ្វីដែលមិនបានសម្រេច។ រឿងល្អខ្លះ នៅតែមាននៅពីក្រោយអ្នក។"
+      },
+      "challenge": {
+        "en": "Dwelling on what went wrong could hide a chance that is still open. Allow the sadness, then turn around and look.",
+        "km": "ការគិតច្រើនពីអ្វីដែលខុស អាចបិទបាំងឱកាសដែលនៅតែបើកចំហ។ សូមអនុញ្ញាតឱ្យខ្លួនសោកសៅ រួចងាកមកមើលវិញ។"
+      },
+      "outcome": {
+        "en": "An opportunity may grow out of a disappointment, once you are ready to look at what remains. It could help you rebuild in a new way.",
+        "km": "ឱកាសមួយអាចកើតចេញពីការខកចិត្ត នៅពេលអ្នកត្រៀមខ្លួនមើលអ្វីដែលនៅសល់។ វាអាចជួយអ្នកកសាងឡើងវិញតាមរបៀបថ្មី។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Memories and familiar people are close to your heart. Someone or something from your past may have more to offer.",
+        "km": "អនុស្សាវរីយ៍ និងមនុស្សដែលធ្លាប់ស្គាល់ នៅជិតចិត្តរបស់អ្នក។ នរណាម្នាក់ ឬអ្វីមួយពីអតីតកាល អាចមានអ្វីផ្តល់ឱ្យអ្នកបន្ថែមទៀត។"
+      },
+      "challenge": {
+        "en": "Comparing every new chance with the past could make it seem less special. Give fresh openings a fair look on their own terms.",
+        "km": "ការប្រៀបធៀបឱកាសថ្មីនីមួយៗជាមួយអតីតកាល អាចធ្វើឱ្យវាហាក់ដូចជាមិនសូវពិសេស។ សូមមើលឱកាសថ្មីដោយយុត្តិធម៌ តាមលក្ខណៈរបស់វាផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through an old friend, a familiar place or a past interest. Reconnecting could bring comfort and a pleasant new beginning.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈមិត្តចាស់ កន្លែងដែលធ្លាប់ស្គាល់ ឬចំណាប់អារម្មណ៍ពីមុន។ ការភ្ជាប់ទំនាក់ទំនងឡើងវិញ អាចនាំមកនូវភាពកក់ក្តៅ និងការចាប់ផ្តើមថ្មីដ៏រីករាយ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Many possibilities are floating around you, and they can be hard to tell apart. Some are real, while others may be daydreams.",
+        "km": "លទ្ធភាពជាច្រើនកំពុងអណ្តែតនៅជុំវិញអ្នក ហើយវាអាចពិបាកបែងចែក។ ខ្លះជាការពិត ខណៈខ្លះទៀតប្រហែលជាសុបិនពេលថ្ងៃ។"
+      },
+      "challenge": {
+        "en": "Choosing the option that looks most attractive could mean ignoring what it really asks of you. Check what each one requires.",
+        "km": "ការជ្រើសជម្រើសដែលមើលទៅទាក់ទាញជាងគេ អាចមានន័យថាមិនខ្វល់ពីអ្វីដែលវាពិតជាទាមទារពីអ្នក។ សូមពិនិត្យថាជម្រើសនីមួយៗតម្រូវឱ្យមានអ្វី។"
+      },
+      "outcome": {
+        "en": "Several opportunities may appear at once, and not all will be what they seem. Choosing the one that is realistic could turn a dream into a step forward.",
+        "km": "ឱកាសច្រើនអាចលេចឡើងក្នុងពេលតែមួយ ហើយមិនមែនទាំងអស់សុទ្ធតែដូចអ្វីដែលវាមើលទៅនោះទេ។ ការជ្រើសឱកាសដែលជាក់ស្តែង អាចប្រែក្តីស្រមៃឱ្យទៅជាជំហានទៅមុខ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Part of you may be ready to move on from something that no longer satisfies you. That readiness is itself a doorway.",
+        "km": "ផ្នែកមួយនៃខ្លួនអ្នក ប្រហែលជាត្រៀមចាកចេញពីអ្វីមួយដែលលែងធ្វើឱ្យអ្នកពេញចិត្ត។ ការត្រៀមខ្លួននោះ គឺជាទ្វារមួយរួចទៅហើយ។"
+      },
+      "challenge": {
+        "en": "Staying where you feel comfortable but unfulfilled could keep a better opening out of reach. Be honest about what you are seeking.",
+        "km": "ការស្នាក់នៅកន្លែងដែលស្រួល ប៉ុន្តែមិនពេញចិត្ត អាចធ្វើឱ្យឱកាសល្អជាងនៅឆ្ងាយពីដៃ។ សូមស្មោះត្រង់ពីអ្វីដែលអ្នកកំពុងស្វែងរក។"
+      },
+      "outcome": {
+        "en": "An opportunity may lie beyond something you are ready to leave. Walking away with care could lead you toward what you have been searching for.",
+        "km": "ឱកាសមួយអាចនៅហួសពីអ្វីដែលអ្នកត្រៀមចាកចេញ។ ការចាកចេញដោយប្រុងប្រយ័ត្ន អាចនាំអ្នកទៅរកអ្វីដែលអ្នកកំពុងស្វែងរក។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You may be close to something you have wished for. Feeling content makes it easier to recognise a genuinely good offer.",
+        "km": "អ្នកប្រហែលជាជិតបានអ្វីមួយដែលអ្នកធ្លាប់ប្រាថ្នា។ ភាពពេញចិត្ត ធ្វើឱ្យងាយស្រួលស្គាល់ការផ្តល់ជូនដែលល្អពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Feeling satisfied could make you overlook an opening that would add to your happiness. Stay grateful, but stay curious too.",
+        "km": "អារម្មណ៍ពេញចិត្ត អាចធ្វើឱ្យអ្នកមើលរំលងឱកាសដែលអាចបន្ថែមសុភមង្គលរបស់អ្នក។ សូមរក្សាការដឹងគុណ ប៉ុន្តែក៏រក្សាចិត្តចង់ដឹងផងដែរ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come that feels like a wish coming true. Receiving it with gratitude could bring lasting satisfaction.",
+        "km": "ឱកាសមួយអាចមកដល់ ដែលហាក់ដូចជាក្តីប្រាថ្នាមួយក្លាយជាការពិត។ ការទទួលយកវាដោយការដឹងគុណ អាចនាំមកនូវការពេញចិត្តយូរអង្វែង។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Love and harmony at home give you a secure base. Your family and close circle may be quietly opening doors for you.",
+        "km": "ស្នេហា និងភាពសុខដុមនៅក្នុងផ្ទះ ផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានដ៏មានសុវត្ថិភាព។ គ្រួសារ និងរង្វង់ជិតស្និទ្ធរបស់អ្នក អាចកំពុងបើកទ្វារឱ្យអ្នកដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Expecting an opportunity to look perfect could make you pass over a good one. Value what brings real happiness, even if it is imperfect.",
+        "km": "ការរំពឹងថាឱកាសត្រូវតែល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នករំលងឱកាសល្អមួយ។ សូមឱ្យតម្លៃអ្វីដែលនាំមកនូវសុភមង្គលពិត ទោះបីវាមិនល្អឥតខ្ចោះក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come that strengthens your home or family life, such as a gathering, a move or shared good news. It could bring lasting happiness to those close to you.",
+        "km": "ឱកាសមួយអាចមកដល់ ដែលពង្រឹងជីវិតក្នុងផ្ទះ ឬគ្រួសាររបស់អ្នក ដូចជាការជួបជុំ ការផ្លាស់ទីលំនៅ ឬដំណឹងល្អរួមគ្នា។ វាអាចនាំមកនូវសុភមង្គលយូរអង្វែងដល់អ្នកជិតស្និទ្ធ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "You are sensitive to small signs and gentle feelings. That openness may help you notice a kind invitation or a creative spark.",
+        "km": "អ្នករសើបចំពោះសញ្ញាតូចៗ និងអារម្មណ៍ទន់ភ្លន់។ ភាពបើកចំហនោះ អាចជួយអ្នកកត់សម្គាល់ការអញ្ជើញដ៏សប្បុរស ឬគំនិតច្នៃប្រឌិតមួយ។"
+      },
+      "challenge": {
+        "en": "Taking a small setback too personally could make you hide from a new chance. Stay curious instead of guarded.",
+        "km": "ការយកការថយក្រោយតូចមួយមកគិតជារឿងផ្ទាល់ខ្លួនពេក អាចធ្វើឱ្យអ្នកគេចពីឱកាសថ្មី។ សូមរក្សាចិត្តចង់ដឹង ជាជាងការការពារខ្លួន។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through a pleasant message, a creative idea or a kind gesture. Responding with an open heart could lead to something sweet.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈសារដ៏រីករាយ គំនិតច្នៃប្រឌិត ឬកាយវិការដ៏សប្បុរស។ ការឆ្លើយតបដោយចិត្តទូលាយ អាចនាំទៅរកអ្វីមួយដ៏ផ្អែមល្ហែម។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "You are following what moves your heart. Your sincerity and imagination may attract offers that match your ideals.",
+        "km": "អ្នកកំពុងដើរតាមអ្វីដែលប៉ះចិត្តរបស់អ្នក។ ភាពស្មោះ និងការស្រមៃរបស់អ្នក អាចទាក់ទាញការផ្តល់ជូនដែលស្របនឹងឧត្តមគតិរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "A romantic picture of an offer could hide the practical work it needs. Admire the dream, but check the details.",
+        "km": "រូបភាពដ៏ស្រស់ស្អាតនៃការផ្តល់ជូនមួយ អាចបិទបាំងការងារជាក់ស្តែងដែលវាត្រូវការ។ សូមកោតសរសើរក្តីស្រមៃ ប៉ុន្តែពិនិត្យព័ត៌មានលម្អិត។"
+      },
+      "outcome": {
+        "en": "An invitation or proposal may arrive, perhaps romantic, creative or heartfelt. Following it with sincerity and good sense could lead somewhere beautiful.",
+        "km": "ការអញ្ជើញ ឬសំណើមួយ អាចមកដល់ ប្រហែលជាទាក់ទងនឹងស្នេហា ការច្នៃប្រឌិត ឬចេញពីចិត្ត។ ការដើរតាមវាដោយភាពស្មោះ និងការគិតពិចារណាល្អ អាចនាំទៅរកអ្វីមួយដ៏ស្រស់ស្អាត។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your kindness and intuition are strong, and people feel safe with you. That trust may lead others to bring you good chances.",
+        "km": "ក្តីមេត្តា និងវិចារណញាណរបស់អ្នកខ្លាំង ហើយមនុស្សមានអារម្មណ៍សុវត្ថិភាពនៅជាមួយអ្នក។ ការទុកចិត្តនោះ អាចធ្វើឱ្យអ្នកដទៃនាំឱកាសល្អៗមករកអ្នក។"
+      },
+      "challenge": {
+        "en": "Giving all your energy to others could leave you too drained to notice openings for yourself. Keep some care for your own needs.",
+        "km": "ការផ្តល់ថាមពលទាំងអស់ឱ្យអ្នកដទៃ អាចធ្វើឱ្យអ្នកអស់កម្លាំងពេក រហូតមិនបានកត់សម្គាល់ឱកាសសម្រាប់ខ្លួនឯង។ សូមរក្សាការថែទាំខ្លះសម្រាប់តម្រូវការរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to use your caring gifts, perhaps in helping, healing or creative work. Trusting your intuition could guide you to the right one.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីប្រើទេពកោសល្យនៃការយកចិត្តទុកដាក់របស់អ្នក ប្រហែលជាក្នុងការជួយ ការព្យាបាលចិត្ត ឬការងារច្នៃប្រឌិត។ ការទុកចិត្តលើវិចារណញាណរបស់អ្នក អាចណែនាំអ្នកទៅរកឱកាសដែលត្រឹមត្រូវ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You handle feelings with calm and maturity. People may come to you for advice, and that respect can open doors.",
+        "km": "អ្នកគ្រប់គ្រងអារម្មណ៍ដោយភាពស្ងប់ និងភាពចាស់ទុំ។ មនុស្សអាចមករកអ្នកដើម្បីសុំដំបូន្មាន ហើយការគោរពនោះ អាចបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Keeping your feelings hidden could make others unsure whether you want an opportunity. Let people know what interests you.",
+        "km": "ការលាក់អារម្មណ៍របស់អ្នក អាចធ្វើឱ្យអ្នកដទៃមិនប្រាកដថាអ្នកចង់បានឱកាសមួយឬអត់។ សូមប្រាប់មនុស្សពីអ្វីដែលអ្នកចាប់អារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to guide or support others with your steady judgement. Accepting it could bring respect and a deep sense of purpose.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីណែនាំ ឬគាំទ្រអ្នកដទៃដោយការវិនិច្ឆ័យដ៏នឹងនររបស់អ្នក។ ការទទួលយកវា អាចនាំមកនូវការគោរព និងអារម្មណ៍នៃគោលបំណងដ៏ជ្រាលជ្រៅ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Your mind is clear, and you can see things as they are. That clarity helps you spot a real opportunity quickly.",
+        "km": "គំនិតរបស់អ្នកច្បាស់លាស់ ហើយអ្នកអាចមើលឃើញអ្វីៗដូចដែលវាពិតជាមាន។ ភាពច្បាស់លាស់នោះ ជួយអ្នកឱ្យមើលឃើញឱកាសពិតបានរហ័ស។"
+      },
+      "challenge": {
+        "en": "Being too blunt could close a door that was opening. Speak your truth, but choose your words with care.",
+        "km": "ការនិយាយត្រង់ពេក អាចបិទទ្វារដែលកំពុងបើក។ សូមនិយាយការពិតរបស់អ្នក ប៉ុន្តែជ្រើសរើសពាក្យដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "A breakthrough idea or a clear decision may open a new direction. Acting on it honestly could cut through what has been holding you back.",
+        "km": "គំនិតថ្មីដ៏ឆ្នើម ឬការសម្រេចចិត្តច្បាស់លាស់មួយ អាចបើកទិសដៅថ្មី។ ការធ្វើតាមវាដោយស្មោះត្រង់ អាចកាត់ផ្តាច់អ្វីដែលធ្លាប់រារាំងអ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be stuck between two options and unsure which to take. Holding still feels safer, but it can also keep openings closed.",
+        "km": "អ្នកប្រហែលជាជាប់នៅចន្លោះជម្រើសពីរ ហើយមិនប្រាកដថាគួរយកមួយណា។ ការនៅស្ងៀមហាក់ដូចជាមានសុវត្ថិភាពជាង ប៉ុន្តែវាក៏អាចធ្វើឱ្យឱកាសនៅតែបិទដែរ។"
+      },
+      "challenge": {
+        "en": "Avoiding a decision could let both opportunities slip away. Gather the facts you need and choose.",
+        "km": "ការគេចពីការសម្រេចចិត្ត អាចធ្វើឱ្យឱកាសទាំងពីររអិលបាត់។ សូមប្រមូលការពិតដែលអ្នកត្រូវការ ហើយជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "An opportunity may open once you make a choice you have been putting off. Deciding, even imperfectly, could free you to move again.",
+        "km": "ឱកាសមួយអាចបើកឡើង នៅពេលអ្នកធ្វើជម្រើសដែលអ្នកធ្លាប់ពន្យារ។ ការសម្រេចចិត្ត ទោះមិនល្អឥតខ្ចោះក៏ដោយ អាចធ្វើឱ្យអ្នកអាចបោះជំហានម្តងទៀត។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "You may be carrying hurt or disappointment, which can make new chances feel far away. Your heart may need care before it looks ahead.",
+        "km": "អ្នកប្រហែលជាកំពុងទ្រាំទ្រការឈឺចាប់ ឬការខកចិត្ត ដែលអាចធ្វើឱ្យឱកាសថ្មីហាក់ដូចជានៅឆ្ងាយ។ ចិត្តរបស់អ្នក ប្រហែលជាត្រូវការការថែទាំ មុននឹងសម្លឹងទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Expecting more pain could make you refuse something good. Let yourself heal, and stay open to gentler days.",
+        "km": "ការរំពឹងថានឹងមានការឈឺចាប់បន្ថែម អាចធ្វើឱ្យអ្នកបដិសេធអ្វីមួយដែលល្អ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងជាសះស្បើយ ហើយបើកចិត្តចំពោះថ្ងៃដែលស្រាលជាង។"
+      },
+      "outcome": {
+        "en": "An opportunity may grow out of a painful truth, giving you a chance to heal and start fresh. Facing the hurt honestly could clear the way.",
+        "km": "ឱកាសមួយអាចកើតចេញពីការពិតដ៏ឈឺចាប់ ដែលផ្តល់ឱកាសឱ្យអ្នកជាសះស្បើយ និងចាប់ផ្តើមថ្មី។ ការប្រឈមនឹងការឈឺចាប់ដោយស្មោះត្រង់ អាចបើកផ្លូវ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may need rest more than new activity. Recovering your strength could put you in a better place to welcome openings.",
+        "km": "អ្នកប្រហែលជាត្រូវការការសម្រាក ច្រើនជាងសកម្មភាពថ្មី។ ការស្តារកម្លាំងឡើងវិញ អាចធ្វើឱ្យអ្នកស្ថិតក្នុងជំហរល្អជាង ដើម្បីស្វាគមន៍ឱកាស។"
+      },
+      "challenge": {
+        "en": "Pushing yourself while exhausted could make you choose poorly. Take a real pause before you commit to anything new.",
+        "km": "ការបង្ខំខ្លួនពេលអស់កម្លាំង អាចធ្វើឱ្យអ្នកជ្រើសរើសមិនល្អ។ សូមសម្រាកឱ្យបានពិតប្រាកដ មុននឹងប្តេជ្ញាលើអ្វីថ្មី។"
+      },
+      "outcome": {
+        "en": "An opportunity may come after a period of rest, when your mind is clear again. Returning refreshed could help you see the right opening.",
+        "km": "ឱកាសមួយអាចមកដល់ បន្ទាប់ពីរយៈពេលនៃការសម្រាក នៅពេលដែលគំនិតរបស់អ្នកច្បាស់ឡើងវិញ។ ការត្រឡប់មកវិញដោយស្រស់ស្រាយ អាចជួយអ្នកមើលឃើញឱកាសដែលត្រឹមត្រូវ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "There may be tension or rivalry around you. Some people may be competing for the same chance.",
+        "km": "អាចមានភាពតានតឹង ឬការប្រជែងគ្នានៅជុំវិញអ្នក។ មនុស្សខ្លះប្រហែលជាកំពុងប្រជែងគ្នាដើម្បីឱកាសតែមួយ។"
+      },
+      "challenge": {
+        "en": "Winning at any cost could damage relationships that bring future chances. Choose fairness over pride.",
+        "km": "ការចង់ឈ្នះដោយមិនគិតពីតម្លៃ អាចធ្វើឱ្យខូចទំនាក់ទំនងដែលនាំមកនូវឱកាសនាពេលអនាគត។ សូមជ្រើសរើសភាពយុត្តិធម៌ ជាជាងមោទនភាព។"
+      },
+      "outcome": {
+        "en": "An opportunity may come from stepping away from a conflict that is draining you. Letting go of the fight could free you for something better.",
+        "km": "ឱកាសមួយអាចកើតចេញពីការដកខ្លួនចេញពីជម្លោះដែលកំពុងធ្វើឱ្យអ្នកអស់កម្លាំង។ ការលែងប្រយុទ្ធ អាចធ្វើឱ្យអ្នកមានសេរីភាពសម្រាប់អ្វីដែលល្អជាង។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You are moving away from a difficult time toward calmer waters. The change itself may lead you to new openings.",
+        "km": "អ្នកកំពុងចាកចេញពីពេលវេលាលំបាក ឆ្ពោះទៅរកភាពស្ងប់ស្ងាត់ជាងមុន។ ការផ្លាស់ប្តូរនេះផ្ទាល់ អាចនាំអ្នកទៅរកឱកាសថ្មី។"
+      },
+      "challenge": {
+        "en": "Looking back too often could slow your journey toward something better. Trust the direction you have chosen.",
+        "km": "ការក្រឡេកមើលក្រោយញឹកញាប់ពេក អាចធ្វើឱ្យដំណើររបស់អ្នកទៅរកអ្វីដែលល្អជាងយឺត។ សូមទុកចិត្តលើទិសដៅដែលអ្នកបានជ្រើស។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through a move, a journey or a calmer setting. Accepting the change could bring peace and a fresh outlook.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈការផ្លាស់ទីលំនៅ ការធ្វើដំណើរ ឬបរិយាកាសដែលស្ងប់ជាង។ ការទទួលយកការផ្លាស់ប្តូរ អាចនាំមកនូវសន្តិភាព និងទស្សនៈថ្មី។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "You may need to be clever and careful about how you move. Not everyone around you may be fully open about their aims.",
+        "km": "អ្នកប្រហែលជាត្រូវឆ្លាតវៃ និងប្រុងប្រយ័ត្នអំពីរបៀបដែលអ្នកធ្វើសកម្មភាព។ មិនមែនគ្រប់គ្នានៅជុំវិញអ្នកសុទ្ធតែបើកចំហពីគោលបំណងរបស់ខ្លួននោះទេ។"
+      },
+      "challenge": {
+        "en": "An offer that seems too easy could hide a catch. Ask what is not being said before you agree.",
+        "km": "ការផ្តល់ជូនដែលហាក់ងាយស្រួលពេក អាចលាក់អន្ទាក់។ សូមសួរពីអ្វីដែលគេមិនបាននិយាយ មុននឹងយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to solve a problem with a clever plan. Keeping your methods honest could let you gain it without regret.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីដោះស្រាយបញ្ហាដោយផែនការដ៏ឆ្លាតវៃ។ ការរក្សាវិធីសាស្ត្ររបស់អ្នកឱ្យស្មោះត្រង់ អាចឱ្យអ្នកទទួលបានវាដោយគ្មានការសោកស្តាយ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel boxed in, as if few options are open to you. Some of those limits may be less solid than they seem.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានបង្ខាំង ហាក់ដូចជាមានជម្រើសតិចតួចសម្រាប់អ្នក។ ដែនកំណត់ខ្លះ ប្រហែលជាមិនរឹងមាំដូចដែលវាមើលទៅនោះទេ។"
+      },
+      "challenge": {
+        "en": "Believing there are no options could stop you from seeing one that is close. Question the limits you have accepted.",
+        "km": "ការជឿថាគ្មានជម្រើស អាចរារាំងអ្នកមិនឱ្យឃើញជម្រើសដែលនៅជិត។ សូមសួរខ្លួនឯងពីដែនកំណត់ដែលអ្នកបានទទួលយក។"
+      },
+      "outcome": {
+        "en": "An opportunity may appear once you take one small step beyond what feels safe. Asking for help could reveal a way out you had not seen.",
+        "km": "ឱកាសមួយអាចលេចឡើង នៅពេលអ្នកបោះជំហានតូចមួយហួសពីអ្វីដែលអ្នកគិតថាមានសុវត្ថិភាព។ ការសុំជំនួយ អាចបង្ហាញផ្លូវចេញដែលអ្នកមិនធ្លាប់ឃើញ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry may be keeping you awake and making the future look dark. Fear can make it hard to see what is actually available.",
+        "km": "ការព្រួយបារម្ភ អាចកំពុងធ្វើឱ្យអ្នកដេកមិនលក់ និងធ្វើឱ្យអនាគតមើលទៅងងឹត។ ការភ័យខ្លាច អាចធ្វើឱ្យពិបាកមើលឃើញអ្វីដែលពិតជាមាន។"
+      },
+      "challenge": {
+        "en": "Anxious thoughts could convince you that every opening will go wrong. Talk your worries through with someone you trust.",
+        "km": "គំនិតថប់បារម្ភ អាចធ្វើឱ្យអ្នកជឿថាគ្រប់ឱកាសនឹងបរាជ័យ។ សូមនិយាយពីកង្វល់របស់អ្នកជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "An opportunity may come once your worries ease and you can see more clearly. If anxiety feels heavy, support from someone trained could help you get there.",
+        "km": "ឱកាសមួយអាចមកដល់ នៅពេលដែលការព្រួយបារម្ភរបស់អ្នកធូរស្រាល ហើយអ្នកអាចមើលឃើញកាន់តែច្បាស់។ ប្រសិនបើការថប់បារម្ភធ្ងន់ពេក ការគាំទ្រពីអ្នកជំនាញអាចជួយអ្នកបាន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A hard chapter may have reached its end, and you may feel worn out. The lowest point is often where things begin to turn.",
+        "km": "ជំពូកដ៏លំបាកមួយ ប្រហែលជាបានដល់ទីបញ្ចប់ ហើយអ្នកប្រហែលជាអស់កម្លាំង។ ចំណុចទាបបំផុត ច្រើនតែជាកន្លែងដែលអ្វីៗចាប់ផ្តើមប្រែប្រួល។"
+      },
+      "challenge": {
+        "en": "Reliving what went wrong could keep you from seeing the new start in front of you. Let the past be finished.",
+        "km": "ការរំលឹកអ្វីដែលខុសម្តងហើយម្តងទៀត អាចរារាំងអ្នកពីការមើលឃើញការចាប់ផ្តើមថ្មីនៅចំពោះមុខ។ សូមឱ្យអតីតកាលបញ្ចប់ទៅ។"
+      },
+      "outcome": {
+        "en": "An opportunity for a real new beginning may follow a hard ending. Accepting that the hardest part is over could let something better take root.",
+        "km": "ឱកាសសម្រាប់ការចាប់ផ្តើមថ្មីពិតប្រាកដ អាចមកដល់បន្ទាប់ពីការបញ្ចប់ដ៏លំបាកមួយ។ ការទទួលយកថាផ្នែកដ៏លំបាកបំផុតបានកន្លងផុត អាចឱ្យអ្វីដែលល្អជាងចាក់ឫស។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Your mind is alert and curious, picking up news quickly. You may hear about openings before others do.",
+        "km": "គំនិតរបស់អ្នកភ្ញាក់រលឹក និងចង់ដឹង ដោយទទួលដំណឹងបានរហ័ស។ អ្នកអាចឮអំពីឱកាសមុនអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Acting on rumours could lead you after a chance that is not real. Check where information comes from before you move.",
+        "km": "ការធ្វើសកម្មភាពតាមពាក្យចចាមអារ៉ាម អាចនាំអ្នកឱ្យដេញតាមឱកាសដែលមិនពិត។ សូមពិនិត្យប្រភពព័ត៌មាន មុននឹងធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through news, study or a question you decide to explore. Following it with careful research could open a fresh path.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈដំណឹង ការសិក្សា ឬសំណួរដែលអ្នកសម្រេចចិត្តស្វែងយល់។ ការដើរតាមវាដោយការស្រាវជ្រាវដោយប្រុងប្រយ័ត្ន អាចបើកផ្លូវថ្មី។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You are driven and quick to act on your ideas. That energy can help you seize an opening before it passes.",
+        "km": "អ្នកមានកម្លាំងចិត្ត និងរហ័សធ្វើតាមគំនិតរបស់អ្នក។ ថាមពលនោះ អាចជួយអ្នកចាប់យកឱកាសមួយ មុនពេលវាកន្លងផុត។"
+      },
+      "challenge": {
+        "en": "Charging ahead without listening could make you miss important details of an offer. Slow down long enough to understand it.",
+        "km": "ការប្រញាប់ទៅមុខដោយមិនស្តាប់ អាចធ្វើឱ្យអ្នករំលងព័ត៌មានលម្អិតសំខាន់ៗនៃការផ្តល់ជូនមួយ។ សូមបន្ថយល្បឿនឱ្យបានល្មមដើម្បីយល់វា។"
+      },
+      "outcome": {
+        "en": "An opportunity may appear that rewards quick, decisive action. Moving fast while staying fair to others could carry you far.",
+        "km": "ឱកាសមួយអាចលេចឡើង ដែលផ្តល់រង្វាន់ដល់សកម្មភាពរហ័ស និងម៉ឺងម៉ាត់។ ការធ្វើយ៉ាងរហ័ស ខណៈរក្សាភាពយុត្តិធម៌ចំពោះអ្នកដទៃ អាចនាំអ្នកទៅបានឆ្ងាយ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You see situations clearly and do not fool yourself easily. That honest judgement helps you tell a good offer from an empty one.",
+        "km": "អ្នកមើលឃើញស្ថានភាពយ៉ាងច្បាស់ ហើយមិនងាយបញ្ឆោតខ្លួនឯង។ ការវិនិច្ឆ័យដោយស្មោះត្រង់នោះ ជួយអ្នកបែងចែកការផ្តល់ជូនល្អ ពីការផ្តល់ជូនដែលគ្មានខ្លឹមសារ។"
+      },
+      "challenge": {
+        "en": "Being too guarded could make people hesitate to bring you good news. Let your warmth show alongside your honesty.",
+        "km": "ការការពារខ្លួនខ្លាំងពេក អាចធ្វើឱ្យមនុស្សស្ទាក់ស្ទើរក្នុងការនាំដំណឹងល្អមកអ្នក។ សូមបង្ហាញភាពកក់ក្តៅរបស់អ្នក ជាមួយនឹងភាពស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to use your clear thinking, perhaps through advice, writing or an independent decision. Acting with honesty could earn deep respect.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីប្រើគំនិតច្បាស់លាស់របស់អ្នក ប្រហែលជាតាមរយៈការផ្តល់ដំបូន្មាន ការសរសេរ ឬការសម្រេចចិត្តដោយឯករាជ្យ។ ការធ្វើសកម្មភាពដោយស្មោះត្រង់ អាចទទួលបានការគោរពយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "You think with logic and fairness, and people trust your judgement. That reputation may bring you serious offers.",
+        "km": "អ្នកគិតដោយតក្កវិជ្ជា និងភាពយុត្តិធម៌ ហើយមនុស្សទុកចិត្តលើការវិនិច្ឆ័យរបស់អ្នក។ កេរ្តិ៍ឈ្មោះនោះ អាចនាំមកនូវការផ្តល់ជូនដ៏សំខាន់ៗ។"
+      },
+      "challenge": {
+        "en": "Judging an opening only on paper could make you overlook the people behind it. Consider how it would affect your life as well.",
+        "km": "ការវាយតម្លៃឱកាសមួយតែលើក្រដាស អាចធ្វើឱ្យអ្នកមើលរំលងមនុស្សដែលនៅពីក្រោយវា។ សូមពិចារណាថាវានឹងប៉ះពាល់ដល់ជីវិតរបស់អ្នកយ៉ាងដូចម្តេចផងដែរ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come that calls for expertise, authority or a key decision. Taking it on with fairness could raise your standing.",
+        "km": "ឱកាសមួយអាចមកដល់ ដែលត្រូវការជំនាញ អំណាច ឬការសម្រេចចិត្តដ៏សំខាន់។ ការទទួលយកវាដោយភាពយុត្តិធម៌ អាចលើកកម្ពស់ជំហររបស់អ្នក។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical opening may already be close to you, small but real. You are in a good place to notice where security could begin.",
+        "km": "ឱកាសជាក់ស្តែងមួយ ប្រហែលជានៅជិតអ្នករួចហើយ តូច ប៉ុន្តែពិតប្រាកដ។ អ្នកស្ថិតក្នុងជំហរល្អ ដើម្បីកត់សម្គាល់កន្លែងដែលសុវត្ថិភាពអាចចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Waiting for a bigger chance could make you ignore a modest one with real promise. Small beginnings can grow.",
+        "km": "ការរង់ចាំឱកាសធំជាងនេះ អាចធ្វើឱ្យអ្នកមិនខ្វល់ពីឱកាសតូចដែលមានសក្តានុពលពិតប្រាកដ។ ការចាប់ផ្តើមតូចៗ អាចរីកធំបាន។"
+      },
+      "outcome": {
+        "en": "A solid opportunity may appear, such as a job offer, a course or a way to earn or build security. Taking the first practical step could plant something lasting.",
+        "km": "ឱកាសដ៏រឹងមាំមួយ អាចលេចឡើង ដូចជាការផ្តល់ការងារ វគ្គសិក្សា ឬមធ្យោបាយរកចំណូល ឬកសាងសុវត្ថិភាព។ ការបោះជំហានជាក់ស្តែងដំបូង អាចដាំអ្វីមួយដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You are juggling several demands and keeping them moving. Your flexibility makes you able to fit something new in if you choose well.",
+        "km": "អ្នកកំពុងបំពេញការទាមទារច្រើនក្នុងពេលតែមួយ ហើយរក្សាវាឱ្យដំណើរការ។ ភាពបត់បែនរបស់អ្នក ធ្វើឱ្យអ្នកអាចបន្ថែមអ្វីថ្មីបាន ប្រសិនបើអ្នកជ្រើសរើសបានល្អ។"
+      },
+      "challenge": {
+        "en": "Adding one more commitment could make everything wobble. Make sure you have room before you take an opening.",
+        "km": "ការបន្ថែមការប្តេជ្ញាមួយទៀត អាចធ្វើឱ្យអ្វីៗទាំងអស់រង្គោះរង្គើ។ សូមប្រាកដថាអ្នកមានកន្លែងទំនេរ មុននឹងទទួលយកឱកាសមួយ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come that asks you to balance two things, such as two roles or income streams. Managing it with good priorities could work in your favour.",
+        "km": "ឱកាសមួយអាចមកដល់ ដែលតម្រូវឱ្យអ្នករក្សាតុល្យភាពរវាងរឿងពីរ ដូចជាតួនាទីពីរ ឬប្រភពចំណូលពីរ។ ការគ្រប់គ្រងវាដោយកំណត់អាទិភាពបានល្អ អាចផ្តល់ផលល្អដល់អ្នក។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Your skills are valued, and working with others suits you. Teamwork may be where your next openings come from.",
+        "km": "ជំនាញរបស់អ្នកត្រូវបានគេឱ្យតម្លៃ ហើយការធ្វើការជាមួយអ្នកដទៃស័ក្តិសមនឹងអ្នក។ ការងារជាក្រុម អាចជាប្រភពនៃឱកាសបន្ទាប់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Doing things alone could mean missing an opening that needs a team. Be willing to share credit and ideas.",
+        "km": "ការធ្វើអ្វីៗតែម្នាក់ឯង អាចធ្វើឱ្យអ្នករំលងឱកាសដែលត្រូវការក្រុម។ សូមមានឆន្ទៈចែករំលែកកិត្តិយស និងគំនិត។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through collaboration, such as a shared project or a chance to show your craft. Working well with others could get your skills recognised.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈកិច្ចសហការ ដូចជាគម្រោងរួម ឬឱកាសបង្ហាញស្នាដៃរបស់អ្នក។ ការធ្វើការបានល្អជាមួយអ្នកដទៃ អាចធ្វើឱ្យជំនាញរបស់អ្នកត្រូវបានទទួលស្គាល់។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be focused on protecting what you have. Caution has kept you safe, but it can also make you hold back from new chances.",
+        "km": "អ្នកប្រហែលជាកំពុងផ្តោតលើការការពារអ្វីដែលអ្នកមាន។ ការប្រុងប្រយ័ត្នបានរក្សាអ្នកឱ្យមានសុវត្ថិភាព ប៉ុន្តែវាក៏អាចធ្វើឱ្យអ្នកស្ទាក់ស្ទើរចំពោះឱកាសថ្មីដែរ។"
+      },
+      "challenge": {
+        "en": "Fear of losing what you have could make you refuse a sound opportunity. Weigh the real risks rather than every possible one.",
+        "km": "ការខ្លាចបាត់បង់អ្វីដែលអ្នកមាន អាចធ្វើឱ្យអ្នកបដិសេធឱកាសដ៏ល្អមួយ។ សូមថ្លឹងថ្លែងហានិភ័យពិត ជាជាងហានិភ័យដែលអាចកើតឡើងទាំងអស់។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to strengthen your security, perhaps by protecting or building on what you already have. Staying careful but open could let it grow.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីពង្រឹងសុវត្ថិភាពរបស់អ្នក ប្រហែលជាដោយការការពារ ឬកសាងបន្ថែមលើអ្វីដែលអ្នកមានស្រាប់។ ការរក្សាការប្រុងប្រយ័ត្ន ប៉ុន្តែបើកចិត្ត អាចឱ្យវារីកចម្រើន។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "You may be going through a tight or lonely time, and openings can seem out of reach. Help may be closer than it looks.",
+        "km": "អ្នកប្រហែលជាកំពុងឆ្លងកាត់ពេលវេលាតឹងតែង ឬឯកោ ហើយឱកាសអាចហាក់ដូចជានៅឆ្ងាយពីដៃ។ ជំនួយអាចនៅជិតជាងអ្វីដែលមើលទៅ។"
+      },
+      "challenge": {
+        "en": "Pride or shame could stop you from accepting the support that would open doors. Asking for help is not a weakness.",
+        "km": "មោទនភាព ឬការខ្មាសអៀន អាចរារាំងអ្នកពីការទទួលយកការគាំទ្រ ដែលអាចបើកទ្វារឱ្យអ្នក។ ការសុំជំនួយមិនមែនជាភាពទន់ខ្សោយទេ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through support from others, a service or a community that helps. Reaching out could open a door and ease a hard time.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈការគាំទ្រពីអ្នកដទៃ សេវាកម្ម ឬសហគមន៍ដែលជួយ។ ការទាក់ទងសុំជំនួយ អាចបើកទ្វារ និងបន្ធូរពេលវេលាលំបាក។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Generosity is flowing around you, in what you give and what you receive. That spirit can attract helpful people and offers.",
+        "km": "សេចក្តីសប្បុរសកំពុងហូរនៅជុំវិញអ្នក ទាំងក្នុងអ្វីដែលអ្នកផ្តល់ និងអ្វីដែលអ្នកទទួល។ ស្មារតីនោះ អាចទាក់ទាញមនុស្ស និងការផ្តល់ជូនដែលមានប្រយោជន៍។"
+      },
+      "challenge": {
+        "en": "Help with hidden conditions could leave you owing more than you expected. Make sure you understand what is being offered.",
+        "km": "ជំនួយដែលមានលក្ខខណ្ឌលាក់កំបាំង អាចធ្វើឱ្យអ្នកជំពាក់គុណច្រើនជាងអ្វីដែលអ្នករំពឹង។ សូមប្រាកដថាអ្នកយល់ពីអ្វីដែលគេកំពុងផ្តល់ឱ្យ។"
+      },
+      "outcome": {
+        "en": "An opportunity may come through someone's generosity, such as a gift, support or a fair offer. Receiving it graciously and sharing in return could keep good things flowing.",
+        "km": "ឱកាសមួយអាចមកតាមរយៈសេចក្តីសប្បុរសរបស់នរណាម្នាក់ ដូចជាអំណោយ ការគាំទ្រ ឬការផ្តល់ជូនដ៏យុត្តិធម៌។ ការទទួលយកវាដោយសុភាព និងចែករំលែកត្រឡប់វិញ អាចធ្វើឱ្យរឿងល្អៗបន្តហូរ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You have put in steady work, and results may be starting to show. You are in a good place to judge which efforts deserve more.",
+        "km": "អ្នកបានខិតខំធ្វើការយ៉ាងនឹងនរ ហើយលទ្ធផលប្រហែលជាកំពុងចាប់ផ្តើមលេចឡើង។ អ្នកស្ថិតក្នុងជំហរល្អ ដើម្បីវាយតម្លៃថាការខិតខំណាសមនឹងទទួលការវិនិយោគបន្ថែម។"
+      },
+      "challenge": {
+        "en": "Impatience could make you abandon something just before it pays off. Check the progress before you switch to a new opening.",
+        "km": "ការមិនអត់ធ្មត់ អាចធ្វើឱ្យអ្នកបោះបង់អ្វីមួយ មុនពេលវាផ្តល់ផល។ សូមពិនិត្យការរីកចម្រើន មុននឹងប្តូរទៅឱកាសថ្មី។"
+      },
+      "outcome": {
+        "en": "An opportunity may grow out of work you have already invested in. Patience and a small adjustment could bring a rewarding harvest.",
+        "km": "ឱកាសមួយអាចកើតចេញពីការងារដែលអ្នកបានវិនិយោគរួចហើយ។ ការអត់ធ្មត់ និងការកែសម្រួលតូចមួយ អាចនាំមកនូវផលដែលគួរឱ្យពេញចិត្ត។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "You are building real skill through steady practice. That growing ability is preparing you for better openings.",
+        "km": "អ្នកកំពុងកសាងជំនាញពិតប្រាកដ តាមរយៈការហាត់ហ្វឹកជាប់លាប់។ សមត្ថភាពដែលកំពុងកើនឡើងនោះ កំពុងរៀបចំអ្នកសម្រាប់ឱកាសល្អៗជាងមុន។"
+      },
+      "challenge": {
+        "en": "Underselling your skills could make you pass over an opening you are ready for. Your practice counts more than you think.",
+        "km": "ការវាយតម្លៃជំនាញរបស់អ្នកទាបពេក អាចធ្វើឱ្យអ្នករំលងឱកាសដែលអ្នកត្រៀមខ្លួនរួចហើយ។ ការហាត់ហ្វឹករបស់អ្នក មានតម្លៃច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to learn a trade, develop a skill or show the quality of your work. Applying yourself steadily could lead to real mastery.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីរៀនមុខរបរ អភិវឌ្ឍជំនាញ ឬបង្ហាញគុណភាពការងាររបស់អ្នក។ ការខិតខំដោយនឹងនរ អាចនាំទៅរកភាពស្ទាត់ជំនាញពិតប្រាកដ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You have built something through your own effort and can enjoy its rewards. Your independence gives you freedom to choose openings wisely.",
+        "km": "អ្នកបានកសាងអ្វីមួយដោយកម្លាំងខ្លួនឯង ហើយអាចរីករាយនឹងផលរបស់វា។ ឯករាជ្យភាពរបស់អ្នក ផ្តល់សេរីភាពឱ្យអ្នកជ្រើសរើសឱកាសដោយឈ្លាសវៃ។"
+      },
+      "challenge": {
+        "en": "Feeling that you can manage alone could make you turn down a good partnership. Let others share in what you have built.",
+        "km": "អារម្មណ៍ថាអ្នកអាចធ្វើបានតែម្នាក់ឯង អាចធ្វើឱ្យអ្នកបដិសេធភាពជាដៃគូដ៏ល្អ។ សូមឱ្យអ្នកដទៃចូលរួមក្នុងអ្វីដែលអ្នកបានកសាង។"
+      },
+      "outcome": {
+        "en": "An opportunity may come that rewards your independence, bringing comfort, ease or a well-earned treat. Enjoying it fully could be part of your success.",
+        "km": "ឱកាសមួយអាចមកដល់ ដែលផ្តល់រង្វាន់ដល់ឯករាជ្យភាពរបស់អ្នក ដោយនាំមកនូវភាពសុខស្រួល ឬរង្វាន់ដែលអ្នកសមនឹងទទួល។ ការរីករាយនឹងវាឱ្យបានពេញលេញ អាចជាផ្នែកមួយនៃភាពជោគជ័យរបស់អ្នក។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "You have strong roots in family, community or long-term plans. Those ties may be a source of openings you do not expect.",
+        "km": "អ្នកមានឫសគល់រឹងមាំក្នុងគ្រួសារ សហគមន៍ ឬផែនការរយៈពេលវែង។ ចំណងទាំងនោះ អាចជាប្រភពនៃឱកាសដែលអ្នកមិនរំពឹងទុក។"
+      },
+      "challenge": {
+        "en": "Feeling bound by family expectations could make you ignore an opening that suits you. Respect your roots and your own wishes.",
+        "km": "អារម្មណ៍ថាជាប់ចំណងដោយការរំពឹងរបស់គ្រួសារ អាចធ្វើឱ្យអ្នកមិនខ្វល់ពីឱកាសដែលសមនឹងអ្នក។ សូមគោរពឫសគល់របស់អ្នក និងបំណងប្រាថ្នាផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "A lasting opportunity may come through family, an inheritance of skills or a long-term plan. Building on it could bring security that lasts.",
+        "km": "ឱកាសដ៏យូរអង្វែងមួយ អាចមកតាមរយៈគ្រួសារ ជំនាញដែលទទួលបន្តពីដូនតា ឬផែនការរយៈពេលវែង។ ការកសាងលើវា អាចនាំមកនូវសុវត្ថិភាពយូរអង្វែង។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You are eager to learn and try something practical. That willingness makes you ready for openings that start small.",
+        "km": "អ្នកមានចិត្តចង់រៀន និងសាកល្បងអ្វីមួយដែលជាក់ស្តែង។ ឆន្ទៈនោះ ធ្វើឱ្យអ្នកត្រៀមខ្លួនសម្រាប់ឱកាសដែលចាប់ផ្តើមពីតូច។"
+      },
+      "challenge": {
+        "en": "Dreaming about a plan without starting could let a learning chance slip by. Begin with one simple, regular step.",
+        "km": "ការស្រមៃពីផែនការដោយមិនចាប់ផ្តើម អាចធ្វើឱ្យឱកាសរៀនសូត្ររអិលបាត់។ សូមចាប់ផ្តើមដោយជំហានសាមញ្ញមួយ ដែលធ្វើជាប្រចាំ។"
+      },
+      "outcome": {
+        "en": "An opportunity to study, train or start a practical project may appear. Taking it seriously could plant the seed of a useful future.",
+        "km": "ឱកាសសិក្សា ហ្វឹកហាត់ ឬចាប់ផ្តើមគម្រោងជាក់ស្តែងមួយ អាចលេចឡើង។ ការយកចិត្តទុកដាក់លើវាឱ្យបានម៉ឺងម៉ាត់ អាចដាំគ្រាប់ពូជនៃអនាគតដ៏មានប្រយោជន៍។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "You are moving forward slowly and steadily. People see you as reliable, which brings openings built on trust.",
+        "km": "អ្នកកំពុងបោះជំហានទៅមុខយឺតៗ ប៉ុន្តែនឹងនរ។ មនុស្សមើលឃើញអ្នកថាជាមនុស្សគួរឱ្យទុកចិត្ត ដែលនាំមកនូវឱកាសផ្អែកលើការទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Sticking too closely to routine could make you dismiss an opening that asks for change. Stay steady, but stay open.",
+        "km": "ការប្រកាន់ទម្លាប់ខ្លាំងពេក អាចធ្វើឱ្យអ្នកច្រានចោលឱកាសដែលទាមទារការផ្លាស់ប្តូរ។ សូមរក្សាភាពនឹងនរ ប៉ុន្តែបើកចិត្ត។"
+      },
+      "outcome": {
+        "en": "An opportunity may come that rewards patience and hard work, such as steady work or a reliable plan. Following through could bring dependable progress.",
+        "km": "ឱកាសមួយអាចមកដល់ ដែលផ្តល់រង្វាន់ដល់ការអត់ធ្មត់ និងការខិតខំ ដូចជាការងារដែលមានស្ថិរភាព ឬផែនការដែលគួរឱ្យទុកចិត្ត។ ការធ្វើវារហូតដល់ចប់ អាចនាំមកនូវការរីកចម្រើនដែលអាចពឹងបាន។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You keep daily life grounded and look after others well. Your practical warmth may lead people to bring you useful offers.",
+        "km": "អ្នករក្សាជីវិតប្រចាំថ្ងៃឱ្យនឹងនរ ហើយថែរក្សាអ្នកដទៃបានល្អ។ ភាពកក់ក្តៅជាក់ស្តែងរបស់អ្នក អាចធ្វើឱ្យមនុស្សនាំការផ្តល់ជូនមានប្រយោជន៍មកអ្នក។"
+      },
+      "challenge": {
+        "en": "Caring for everyone else could leave no time to follow your own opening. Make room for something that is just for you.",
+        "km": "ការថែរក្សាអ្នកដទៃទាំងអស់ អាចធ្វើឱ្យគ្មានពេលដើរតាមឱកាសរបស់ខ្លួនឯង។ សូមទុកកន្លែងសម្រាប់អ្វីមួយដែលជារបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "An opportunity may come that improves your home, comfort or everyday security. Managing it wisely could make life feel more abundant.",
+        "km": "ឱកាសមួយអាចមកដល់ ដែលធ្វើឱ្យផ្ទះ ភាពសុខស្រួល ឬសុវត្ថិភាពប្រចាំថ្ងៃរបស់អ្នក ប្រសើរឡើង។ ការគ្រប់គ្រងវាដោយឈ្លាសវៃ អាចធ្វើឱ្យជីវិតកាន់តែបរិបូរណ៍។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You are in a strong position, with experience and resources behind you. Others may see you as someone worth investing in.",
+        "km": "អ្នកស្ថិតក្នុងជំហររឹងមាំ ដោយមានបទពិសោធន៍ និងធនធាននៅពីក្រោយ។ អ្នកដទៃអាចមើលឃើញអ្នកថាជាមនុស្សដែលគួរវិនិយោគលើ។"
+      },
+      "challenge": {
+        "en": "Measuring every opening only by money or status could make you miss one that brings meaning. Ask what truly matters to you.",
+        "km": "ការវាស់ឱកាសនីមួយៗតែតាមលុយ ឬឋានៈ អាចធ្វើឱ្យអ្នករំលងឱកាសដែលនាំមកនូវអត្ថន័យ។ សូមសួរខ្លួនឯងថាអ្វីដែលពិតជាសំខាន់សម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "An opportunity may come to build lasting success, such as a larger responsibility or a solid investment of your time. Handling it wisely could bring stability for you and those around you.",
+        "km": "ឱកាសមួយអាចមកដល់ ដើម្បីកសាងភាពជោគជ័យយូរអង្វែង ដូចជាភារកិច្ចធំជាងមុន ឬការវិនិយោគពេលវេលាដ៏រឹងមាំ។ ការគ្រប់គ្រងវាដោយឈ្លាសវៃ អាចនាំមកនូវស្ថិរភាពសម្រាប់អ្នក និងអ្នកនៅជុំវិញ។"
+      }
+    }
+  }
+}
