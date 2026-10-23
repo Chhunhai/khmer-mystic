@@ -25,6 +25,7 @@
 | `src/content/readings/LR-09.json` | How can we communicate better? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/LR-10.json` | Where is my love life heading? | 78 cards × 3 positions, English and Khmer (heading) |
 | `src/content/readings/CW-01.json` | What does my career path look like now? | 78 cards × 3 positions, English and Khmer (state) |
+| `src/content/readings/CW-02.json` | Is this a good time to look for a new job? | 78 cards × 3 positions, English and Khmer (yesno) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.

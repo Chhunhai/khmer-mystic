@@ -1,0 +1,1097 @@
+{
+  "questionId": "CW-02",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You feel restless and curious about what else might be out there. Part of you is ready to leap into something unfamiliar.",
+        "km": "អ្នកមានអារម្មណ៍មិនស្ងប់ និងចង់ដឹងចង់ឃើញថាតើមានអ្វីទៀតនៅខាងក្រៅ។ ផ្នែកមួយនៃខ្លួនអ្នក ត្រៀមខ្លួនលោតចូលក្នុងអ្វីដែលមិនធ្លាប់ស្គាល់។"
+      },
+      "challenge": {
+        "en": "Quitting before you have a plan could leave you stranded between jobs. Keep your current income until something solid is in place.",
+        "km": "ការលាឈប់ មុនពេលអ្នកមានផែនការ អាចធ្វើឱ្យអ្នកជាប់គាំងនៅចន្លោះការងារ។ សូមរក្សាប្រាក់ចំណូលបច្ចុប្បន្ន រហូតដល់មានអ្វីរឹងមាំនៅនឹងកន្លែង។"
+      },
+      "outcome": {
+        "en": "An exploratory search could uncover options you would never have considered. Saying yes to an interview or two may show you what fits.",
+        "km": "ការស្វែងរកដោយសាកល្បង អាចរកឃើញជម្រើសដែលអ្នកមិនដែលគិតដល់។ ការយល់ព្រមចូលសម្ភាសន៍មួយ ឬពីរ អាចបង្ហាញអ្នកពីអ្វីដែលសម។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You have the skills and confidence to present yourself well. You may already know what you can offer an employer.",
+        "km": "អ្នកមានជំនាញ និងទំនុកចិត្ត ដើម្បីបង្ហាញខ្លួនបានល្អ។ អ្នកប្រហែលជាដឹងរួចហើយពីអ្វីដែលអ្នកអាចផ្តល់ជូននិយោជក។"
+      },
+      "challenge": {
+        "en": "Overselling yourself in applications could set expectations you cannot meet. Show what you can truly do.",
+        "km": "ការលើកតម្កើងខ្លួនហួសហេតុក្នុងពាក្យសុំការងារ អាចកំណត់ការរំពឹងទុកដែលអ្នកមិនអាចបំពេញ។ សូមបង្ហាញពីអ្វីដែលអ្នកពិតជាអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "A focused, well-prepared search could produce real offers. Putting your strengths forward clearly may make you stand out.",
+        "km": "ការស្វែងរកដែលផ្តោត និងរៀបចំបានល្អ អាចនាំមកនូវការផ្តល់ជូនពិតប្រាកដ។ ការបង្ហាញចំណុចខ្លាំងរបស់អ្នកឱ្យច្បាស់ អាចធ្វើឱ្យអ្នកលេចធ្លោ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "You may sense that change is coming at work, even if nothing has been said. Your instincts may already be nudging you.",
+        "km": "អ្នកប្រហែលជាដឹងថាការផ្លាស់ប្តូរកំពុងមកដល់នៅកន្លែងធ្វើការ ទោះបីគ្មានអ្វីត្រូវបាននិយាយក៏ដោយ។ វិចារណញាណរបស់អ្នក ប្រហែលជាកំពុងរុញអ្នករួចហើយ។"
+      },
+      "challenge": {
+        "en": "Keeping your search entirely secret could mean missing leads from people who would gladly help. Quietly let trusted contacts know you are looking.",
+        "km": "ការរក្សាការស្វែងរករបស់អ្នកជាសម្ងាត់ទាំងស្រុង អាចមានន័យថាខកខានព័ត៌មានពីមនុស្សដែលនឹងជួយដោយរីករាយ។ សូមប្រាប់ទំនាក់ទំនងដែលអ្នកទុកចិត្តដោយស្ងាត់ៗថាអ្នកកំពុងស្វែងរក។"
+      },
+      "outcome": {
+        "en": "A quiet, careful search could lead to an opening that is not widely advertised. Trusting your instincts may point you to the right door.",
+        "km": "ការស្វែងរកដោយស្ងាត់ៗ និងប្រុងប្រយ័ត្ន អាចនាំទៅរកឱកាសដែលមិនត្រូវបានផ្សព្វផ្សាយទូលំទូលាយ។ ការទុកចិត្តលើវិចារណញាណ អាចចង្អុលអ្នកទៅរកទ្វារត្រឹមត្រូវ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "You may be ready to grow in a place that values your care and creativity. Your current role may feel too small.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនរីកចម្រើន នៅកន្លែងដែលឱ្យតម្លៃការយកចិត្តទុកដាក់ និងការច្នៃប្រឌិតរបស់អ្នក។ តួនាទីបច្ចុប្បន្នរបស់អ្នក ប្រហែលជាហាក់ដូចជាតូចពេក។"
+      },
+      "challenge": {
+        "en": "Staying out of loyalty to a team that does not support your growth could hold you back. Your development matters too.",
+        "km": "ការនៅដោយសារភាពស្មោះត្រង់ចំពោះក្រុមដែលមិនគាំទ្រការរីកចម្រើនរបស់អ្នក អាចទប់អ្នក។ ការអភិវឌ្ឍរបស់អ្នកក៏សំខាន់ដែរ។"
+      },
+      "outcome": {
+        "en": "A role where you can flourish could come from a well-timed search. Creative or people-focused work may suit you especially well.",
+        "km": "តួនាទីដែលអ្នកអាចរីកចម្រើន អាចមកពីការស្វែងរកនៅពេលសមរម្យ។ ការងារច្នៃប្រឌិត ឬការងារផ្តោតលើមនុស្ស អាចសមនឹងអ្នកជាពិសេស។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "You value stability and want any move to be well planned. You may be weighing security against opportunity.",
+        "km": "អ្នកឱ្យតម្លៃស្ថិរភាព ហើយចង់ឱ្យការផ្លាស់ប្តូរណាមួយត្រូវបានរៀបចំផែនការល្អ។ អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងសុវត្ថិភាព ទល់នឹងឱកាស។"
+      },
+      "challenge": {
+        "en": "Waiting for perfect certainty before applying anywhere could keep you where you are indefinitely. Some risk is part of any move.",
+        "km": "ការរង់ចាំភាពប្រាកដប្រជាល្អឥតខ្ចោះ មុននឹងដាក់ពាក្យសុំនៅកន្លែងណាមួយ អាចរក្សាអ្នកនៅកន្លែងដដែលដោយគ្មានកំណត់។ ការប្រថុយខ្លះគឺជាផ្នែកមួយនៃការផ្លាស់ប្តូរណាមួយ។"
+      },
+      "outcome": {
+        "en": "A structured, methodical search could lead to a secure new position. Clear criteria may help you choose wisely.",
+        "km": "ការស្វែងរកដែលមានរចនាសម្ព័ន្ធ និងមានវិធីសាស្ត្រ អាចនាំទៅរកតំណែងថ្មីដែលមានសុវត្ថិភាព។ លក្ខណៈវិនិច្ឆ័យច្បាស់លាស់ អាចជួយអ្នកជ្រើសរើសដោយឈ្លាសវៃ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "You may be thinking about following a more traditional or established career path. Advice from mentors may be shaping your view.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតអំពីការដើរតាមផ្លូវអាជីពដែលជាប្រពៃណី ឬបានបង្កើតឡើងរួចហើយ។ ដំបូន្មានពីអ្នកណែនាំ ប្រហែលជាកំពុងកំណត់ទស្សនៈរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Applying only for what others expect of you could lead to the wrong fit. Make sure the role suits your own goals.",
+        "km": "ការដាក់ពាក្យសុំតែការងារដែលអ្នកដទៃរំពឹងពីអ្នក អាចនាំទៅរកការងារដែលមិនសម។ សូមប្រាកដថាតួនាទីនោះសមនឹងគោលដៅរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A search guided by trusted advice could lead to a respected, stable role. Formal channels or recommendations may open doors.",
+        "km": "ការស្វែងរកដែលដឹកនាំដោយដំបូន្មានដែលគួរឱ្យទុកចិត្ត អាចនាំទៅរកតួនាទីដែលត្រូវបានគោរព និងមានស្ថិរភាព។ មធ្យោបាយផ្លូវការ ឬការណែនាំ អាចបើកទ្វារ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "You may be weighing a real choice between staying and leaving. Your values are central to the decision.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងជម្រើសពិតប្រាកដរវាងការនៅ និងការចាកចេញ។ គុណតម្លៃរបស់អ្នក គឺជាចំណុចកណ្តាលនៃការសម្រេចចិត្ត។"
+      },
+      "challenge": {
+        "en": "Choosing a job only for salary could leave you unfulfilled. Weigh the culture and purpose as well as the pay.",
+        "km": "ការជ្រើសរើសការងារតែដោយសារប្រាក់បៀវត្ស អាចធ្វើឱ្យអ្នកមិនពេញចិត្ត។ សូមថ្លឹងថ្លែងវប្បធម៌ និងគោលបំណង ក៏ដូចជាប្រាក់ឈ្នួល។"
+      },
+      "outcome": {
+        "en": "A search centred on your values could lead to work that feels right. The best choice may be the one that matches who you are.",
+        "km": "ការស្វែងរកដែលផ្តោតលើគុណតម្លៃរបស់អ្នក អាចនាំទៅរកការងារដែលមានអារម្មណ៍ត្រឹមត្រូវ។ ជម្រើសល្អបំផុត អាចជាជម្រើសដែលស្របនឹងអ្វីដែលអ្នកជា។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You feel driven to move forward and claim something better. Energy and ambition are behind you.",
+        "km": "អ្នកមានកម្លាំងជំរុញចង់ឆ្ពោះទៅមុខ និងទាមទារអ្វីដែលល្អជាងនេះ។ ថាមពល និងមហិច្ឆតានៅពីក្រោយអ្នក។"
+      },
+      "challenge": {
+        "en": "Applying everywhere at once could scatter your effort. Aim at the roles that truly fit your direction.",
+        "km": "ការដាក់ពាក្យសុំគ្រប់ទីកន្លែងក្នុងពេលតែមួយ អាចធ្វើឱ្យការខិតខំរបស់អ្នកខ្ចាត់ខ្ចាយ។ សូមផ្តោតលើតួនាទីដែលពិតជាសមនឹងទិសដៅរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A determined, targeted search could carry you to a clear win. Your drive may impress the people who interview you.",
+        "km": "ការស្វែងរកដោយការប្តេជ្ញាចិត្ត និងមានគោលដៅ អាចនាំអ្នកទៅរកជ័យជម្នះច្បាស់លាស់។ កម្លាំងជំរុញរបស់អ្នក អាចធ្វើឱ្យអ្នកសម្ភាសន៍ចាប់អារម្មណ៍។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "You have shown patience and strength in your current job. You may feel ready for a role that respects that.",
+        "km": "អ្នកបានបង្ហាញការអត់ធ្មត់ និងកម្លាំងក្នុងការងារបច្ចុប្បន្ន។ អ្នកប្រហែលជាមានអារម្មណ៍ត្រៀមខ្លួនសម្រាប់តួនាទីដែលគោរពចំណុចនោះ។"
+      },
+      "challenge": {
+        "en": "Doubting whether you deserve a better job could stop you from applying. Your experience counts for more than you think.",
+        "km": "ការសង្ស័យថាតើអ្នកសមនឹងទទួលការងារល្អជាងនេះឬទេ អាចរារាំងអ្នកពីការដាក់ពាក្យសុំ។ បទពិសោធន៍របស់អ្នករាប់បានច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "outcome": {
+        "en": "A calm, confident search could lead to a role that values your resilience. Gentle persistence may pay off.",
+        "km": "ការស្វែងរកដោយស្ងប់ និងមានទំនុកចិត្ត អាចនាំទៅរកតួនាទីដែលឱ្យតម្លៃភាពធន់របស់អ្នក។ ការតស៊ូដ៏ទន់ភ្លន់ អាចទទួលបានផល។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You may be reflecting on what kind of work would truly suit you. You want any move to be the right one.",
+        "km": "អ្នកប្រហែលជាកំពុងពិចារណាលើប្រភេទការងារដែលពិតជាសមនឹងអ្នក។ អ្នកចង់ឱ្យការផ្លាស់ប្តូរណាមួយ ជាការផ្លាស់ប្តូរត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Thinking it over endlessly could keep you from ever starting a search. Reflection helps most when it leads to a decision.",
+        "km": "ការគិតពិចារណាគ្មានទីបញ្ចប់ អាចរារាំងអ្នកពីការចាប់ផ្តើមស្វែងរក។ ការពិចារណាជួយបានច្រើនបំផុត នៅពេលវានាំទៅរកការសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "A thoughtful search could lead you to work that fits your deeper purpose. Knowing what you want may make the choice easier.",
+        "km": "ការស្វែងរកដោយគិតពិចារណា អាចនាំអ្នកទៅរកការងារដែលសមនឹងគោលបំណងជ្រាលជ្រៅរបស់អ្នក។ ការដឹងពីអ្វីដែលអ្នកចង់បាន អាចធ្វើឱ្យការជ្រើសរើសកាន់តែងាយស្រួល។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Circumstances around your work may be shifting, opening doors or closing others. Timing may feel important.",
+        "km": "កាលៈទេសៈជុំវិញការងាររបស់អ្នក ប្រហែលជាកំពុងផ្លាស់ប្តូរ ដោយបើកទ្វារខ្លះ ឬបិទទ្វារផ្សេងទៀត។ ពេលវេលាប្រហែលជាហាក់ដូចជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Waiting for the perfect moment could mean missing a good one. Keep your CV ready so you can act when a chance appears.",
+        "km": "ការរង់ចាំគ្រាដ៏ល្អឥតខ្ចោះ អាចមានន័យថាខកខានគ្រាល្អមួយ។ សូមរក្សាប្រវត្តិរូបរបស់អ្នកឱ្យត្រៀមរួចរាល់ ដើម្បីឱ្យអ្នកអាចធ្វើសកម្មភាព នៅពេលឱកាសលេចឡើង។"
+      },
+      "outcome": {
+        "en": "A lucky turn could bring the right opening at the right moment. Being prepared may let you catch it.",
+        "km": "ការបត់ដ៏មានសំណាង អាចនាំមកនូវឱកាសត្រឹមត្រូវ នៅគ្រាត្រឹមត្រូវ។ ការត្រៀមខ្លួនរួចរាល់ អាចឱ្យអ្នកចាប់យកវាបាន។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "You are weighing the move carefully, looking at what is fair and realistic. Contracts and conditions matter to you.",
+        "km": "អ្នកកំពុងថ្លឹងថ្លែងការផ្លាស់ប្តូរដោយប្រុងប្រយ័ត្ន ដោយមើលពីអ្វីដែលយុត្តិធម៌ និងជាក់ស្តែង។ កិច្ចសន្យា និងលក្ខខណ្ឌសំខាន់សម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Accepting an offer without reading the terms carefully could cause problems later. Check the details before you sign.",
+        "km": "ការទទួលយកការផ្តល់ជូន ដោយមិនអានលក្ខខណ្ឌឱ្យបានប្រុងប្រយ័ត្ន អាចបង្កបញ្ហានៅពេលក្រោយ។ សូមពិនិត្យព័ត៌មានលម្អិត មុននឹងអ្នកចុះហត្ថលេខា។"
+      },
+      "outcome": {
+        "en": "An honest, well-judged search could lead to a fair offer. Clear agreements may protect you in a new role.",
+        "km": "ការស្វែងរកដោយស្មោះត្រង់ និងវិនិច្ឆ័យបានល្អ អាចនាំទៅរកការផ្តល់ជូនដ៏យុត្តិធម៌។ កិច្ចព្រមព្រៀងច្បាស់លាស់ អាចការពារអ្នកក្នុងតួនាទីថ្មី។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "You may feel stuck in your job, waiting for something to change. A pause may be showing you what you really want.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់គាំងក្នុងការងាររបស់អ្នក ដោយរង់ចាំអ្វីមួយផ្លាស់ប្តូរ។ ការផ្អាកមួយ ប្រហែលជាកំពុងបង្ហាញអ្នកពីអ្វីដែលអ្នកពិតជាចង់បាន។"
+      },
+      "challenge": {
+        "en": "Hoping your current job will change by itself could keep you waiting. Decide whether to push for change or look elsewhere.",
+        "km": "ការសង្ឃឹមថាការងារបច្ចុប្បន្ននឹងផ្លាស់ប្តូរដោយខ្លួនឯង អាចធ្វើឱ្យអ្នករង់ចាំ។ សូមសម្រេចថាតើត្រូវជំរុញការផ្លាស់ប្តូរ ឬស្វែងរកកន្លែងផ្សេង។"
+      },
+      "outcome": {
+        "en": "A change of approach could reveal which option deserves your energy. A pause in the search may end in a clearer, better-timed move.",
+        "km": "ការផ្លាស់ប្តូរវិធីសាស្ត្រ អាចបង្ហាញថាជម្រើសណាសមនឹងថាមពលរបស់អ្នក។ ការផ្អាកក្នុងការស្វែងរក អាចបញ្ចប់ដោយជំហានដែលច្បាស់ និងទាន់ពេលជាងមុន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "A chapter in your working life may be coming to an end. You can feel that something needs to change.",
+        "km": "ជំពូកមួយក្នុងជីវិតការងាររបស់អ្នក ប្រហែលជាកំពុងខិតជិតបញ្ចប់។ អ្នកអាចមានអារម្មណ៍ថាអ្វីមួយត្រូវការផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Clinging to a role you have outgrown could block your next step. Let go of what no longer fits.",
+        "km": "ការកាន់ជាប់នឹងតួនាទីដែលអ្នកបានធំហួស អាចរារាំងជំហានបន្ទាប់របស់អ្នក។ សូមលះបង់អ្វីដែលលែងសម។"
+      },
+      "outcome": {
+        "en": "A meaningful transition could reshape your career. Leaving the old behind may open the way to something better.",
+        "km": "ការផ្លាស់ប្តូរដែលមានអត្ថន័យ អាចកែទម្រង់អាជីពរបស់អ្នក។ ការទុកអ្វីចាស់នៅពីក្រោយ អាចបើកផ្លូវទៅរកអ្វីដែលល្អជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You may want a calmer, more balanced working life. A steady approach to change feels right.",
+        "km": "អ្នកប្រហែលជាចង់បានជីវិតការងារដែលស្ងប់ និងមានតុល្យភាពជាងមុន។ វិធីនឹងនរចំពោះការផ្លាស់ប្តូរ ហាក់ដូចជាត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Rushing the search could lead you to accept the first offer rather than the right one. Take the time to compare.",
+        "km": "ការប្រញាប់ស្វែងរក អាចនាំអ្នកឱ្យទទួលយកការផ្តល់ជូនដំបូង ជាជាងការផ្តល់ជូនត្រឹមត្រូវ។ សូមចំណាយពេលដើម្បីប្រៀបធៀប។"
+      },
+      "outcome": {
+        "en": "A patient, balanced search could lead to a role with better harmony. Moderation may help you choose well.",
+        "km": "ការស្វែងរកដោយអត់ធ្មត់ និងមានតុល្យភាព អាចនាំទៅរកតួនាទីដែលមានភាពសុខដុមល្អជាងមុន។ ភាពល្មមអាចជួយអ្នកជ្រើសរើសបានល្អ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "You may feel tied to your job by money, fear or habit. Leaving may seem harder than it should be.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់ចំណងនឹងការងាររបស់អ្នក ដោយសារប្រាក់ ការភ័យខ្លាច ឬទម្លាប់។ ការចាកចេញប្រហែលជាហាក់ដូចជាពិបាកជាងអ្វីដែលវាគួរតែ។"
+      },
+      "challenge": {
+        "en": "Staying only because you fear the unknown could keep you in an unhealthy situation. Look honestly at what holds you.",
+        "km": "ការនៅតែដោយសារអ្នកខ្លាចអ្វីដែលមិនស្គាល់ អាចរក្សាអ្នកនៅក្នុងស្ថានភាពមិនល្អ។ សូមមើលដោយស្មោះត្រង់ពីអ្វីដែលចងអ្នក។"
+      },
+      "outcome": {
+        "en": "Breaking a pattern of fear could open new options. A search may show you that you have more choices than you thought.",
+        "km": "ការបំបែកលំនាំនៃការភ័យខ្លាច អាចបើកជម្រើសថ្មីៗ។ ការស្វែងរកអាចបង្ហាញអ្នកថា អ្នកមានជម្រើសច្រើនជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Your job situation may have been shaken by sudden change, such as restructuring or a shock. Stability feels uncertain.",
+        "km": "ស្ថានភាពការងាររបស់អ្នក ប្រហែលជាត្រូវបានរង្គោះរង្គើដោយការផ្លាស់ប្តូរភ្លាមៗ ដូចជាការរៀបចំរចនាសម្ព័ន្ធឡើងវិញ ឬការភ្ញាក់ផ្អើល។ ស្ថិរភាពហាក់ដូចជាមិនប្រាកដប្រជា។"
+      },
+      "challenge": {
+        "en": "Making a panicked move could land you somewhere no better. Take a breath before you jump.",
+        "km": "ការធ្វើជំហានដោយភ័យស្លន់ស្លោ អាចនាំអ្នកទៅកន្លែងដែលមិនល្អជាងមុន។ សូមដកដង្ហើមសិន មុននឹងអ្នកលោត។"
+      },
+      "outcome": {
+        "en": "A sudden change could push you toward something better suited to you. Rebuilding carefully may lead to firmer ground.",
+        "km": "ការផ្លាស់ប្តូរភ្លាមៗ អាចរុញអ្នកទៅរកអ្វីដែលសមនឹងអ្នកជាងមុន។ ការកសាងឡើងវិញដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកដីរឹងមាំជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Fresh hope is making you open to the idea of a new role. You may already picture yourself somewhere better.",
+        "km": "ក្តីសង្ឃឹមថ្មី កំពុងធ្វើឱ្យអ្នកបើកចិត្តចំពោះគំនិតនៃតួនាទីថ្មី។ អ្នកប្រហែលជាកំពុងស្រមៃឃើញខ្លួនឯងនៅកន្លែងដែលល្អជាងនេះរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Waiting for the perfect dream job could make good options look disappointing. Be open to roles that are good enough to grow in.",
+        "km": "ការរង់ចាំការងារក្នុងក្តីស្រមៃដ៏ល្អឥតខ្ចោះ អាចធ្វើឱ្យជម្រើសល្អៗហាក់ដូចជាគួរឱ្យខកចិត្ត។ សូមបើកចិត្តចំពោះតួនាទីដែលល្អគ្រប់គ្រាន់ ដើម្បីរីកចម្រើននៅក្នុងនោះ។"
+      },
+      "outcome": {
+        "en": "A hopeful search could lead to a role that renews your motivation. Optimism may draw good opportunities your way.",
+        "km": "ការស្វែងរកប្រកបដោយក្តីសង្ឃឹម អាចនាំទៅរកតួនាទីដែលធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកកើតជាថ្មី។ សុទិដ្ឋិនិយមអាចទាក់ទាញឱកាសល្អៗមករកអ្នក។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "You may feel unsure about your options, with unclear information about your current role or the job market. Things feel foggy.",
+        "km": "អ្នកប្រហែលជាមិនប្រាកដអំពីជម្រើសរបស់អ្នក ជាមួយព័ត៌មានមិនច្បាស់អំពីតួនាទីបច្ចុប្បន្ន ឬទីផ្សារការងារ។ អ្វីៗហាក់ដូចជាស្រអាប់។"
+      },
+      "challenge": {
+        "en": "Accepting an offer without researching the employer could lead to surprises. Ask questions and check what you hear.",
+        "km": "ការទទួលយកការផ្តល់ជូន ដោយមិនស្រាវជ្រាវនិយោជក អាចនាំទៅរកការភ្ញាក់ផ្អើល។ សូមសួរសំណួរ ហើយផ្ទៀងផ្ទាត់អ្វីដែលអ្នកឮ។"
+      },
+      "outcome": {
+        "en": "Clarity could come as you gather real information. A careful search may reveal which option is genuine.",
+        "km": "ភាពច្បាស់លាស់អាចមកដល់ ខណៈអ្នកប្រមូលព័ត៌មានពិតប្រាកដ។ ការស្វែងរកដោយប្រុងប្រយ័ត្ន អាចបង្ហាញថាជម្រើសណាពិតប្រាកដ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "You feel confident and positive about what you can offer. Your energy and enthusiasm are high.",
+        "km": "អ្នកមានអារម្មណ៍មានទំនុកចិត្ត និងវិជ្ជមានអំពីអ្វីដែលអ្នកអាចផ្តល់ជូន។ ថាមពល និងភាពរីករាយរបស់អ្នកខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Overconfidence could make you skip preparation for interviews. Do your homework even when you feel sure.",
+        "km": "ការមានទំនុកចិត្តហួសហេតុ អាចធ្វើឱ្យអ្នករំលងការរៀបចំសម្រាប់ការសម្ភាសន៍។ សូមធ្វើការរៀបចំ ទោះបីអ្នកមានអារម្មណ៍ប្រាកដក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A positive, well-prepared search could bring success and a role you enjoy. Your enthusiasm may shine through.",
+        "km": "ការស្វែងរកវិជ្ជមាន និងរៀបចំបានល្អ អាចនាំមកនូវជោគជ័យ និងតួនាទីដែលអ្នករីករាយ។ ភាពរីករាយរបស់អ្នក អាចបញ្ចាំងចេញមក។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You may feel called to work that means more to you. A sense of awakening is guiding you.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានហៅទៅរកការងារដែលមានន័យច្រើនសម្រាប់អ្នក។ អារម្មណ៍នៃការភ្ញាក់ដឹងខ្លួន កំពុងដឹកនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Letting an old career mistake make you doubt your chances could stop you from applying. What you learned from it is part of your value.",
+        "km": "ការឱ្យកំហុសអាជីពចាស់ ធ្វើឱ្យអ្នកសង្ស័យឱកាសរបស់អ្នក អាចរារាំងអ្នកពីការដាក់ពាក្យសុំ។ អ្វីដែលអ្នកបានរៀនពីវា គឺជាផ្នែកមួយនៃតម្លៃរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A move toward a more meaningful role could follow your search. Answering that inner call may bring renewal.",
+        "km": "ការផ្លាស់ទៅរកតួនាទីដែលមានអត្ថន័យជាងមុន អាចកើតឡើងតាមការស្វែងរករបស់អ្នក។ ការឆ្លើយតបនឹងការហៅខាងក្នុងនោះ អាចនាំមកនូវការកើតជាថ្មី។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You may have completed a stage in your career and feel ready for the next. A sense of closure is present.",
+        "km": "អ្នកប្រហែលជាបានបញ្ចប់ដំណាក់កាលមួយក្នុងអាជីព ហើយមានអារម្មណ៍ត្រៀមខ្លួនសម្រាប់ដំណាក់កាលបន្ទាប់។ អារម្មណ៍នៃការបិទបញ្ចប់កំពុងមាន។"
+      },
+      "challenge": {
+        "en": "Leaving before finishing what you started could cost you a strong reference. Tie up loose ends well.",
+        "km": "ការចាកចេញ មុនពេលបញ្ចប់អ្វីដែលអ្នកបានចាប់ផ្តើម អាចធ្វើឱ្យអ្នកបាត់បង់ការណែនាំល្អ។ សូមបញ្ចប់ការងារដែលនៅសល់ឱ្យបានល្អ។"
+      },
+      "outcome": {
+        "en": "A new cycle could begin as you take your experience into a fresh role. Completion may open a wider door.",
+        "km": "វដ្តថ្មីអាចចាប់ផ្តើម ខណៈអ្នកនាំបទពិសោធន៍របស់អ្នកចូលក្នុងតួនាទីថ្មី។ ការបញ្ចប់អាចបើកទ្វារដែលទូលាយជាងមុន។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A new idea or ambition is sparking your interest in a different kind of work. You feel a pull to try something fresh.",
+        "km": "គំនិត ឬមហិច្ឆតាថ្មីមួយ កំពុងដុតចំណាប់អារម្មណ៍របស់អ្នកលើការងារប្រភេទផ្សេង។ អ្នកមានអារម្មណ៍ទាញចង់សាកល្បងអ្វីថ្មី។"
+      },
+      "challenge": {
+        "en": "Letting the spark fade without exploring it could leave you wondering what might have been. Look into it before the excitement passes.",
+        "km": "ការទុកឱ្យផ្កាភ្លើងរលត់ ដោយមិនស្វែងយល់វា អាចធ្វើឱ្យអ្នកឆ្ងល់ថាអ្វីអាចកើតឡើង។ សូមស្វែងយល់វា មុនពេលភាពរំភើបកន្លងផុត។"
+      },
+      "outcome": {
+        "en": "Following a fresh ambition could lead to an exciting new role. Acting on your enthusiasm may open the first door.",
+        "km": "ការធ្វើតាមមហិច្ឆតាថ្មី អាចនាំទៅរកតួនាទីថ្មីដ៏គួរឱ្យរំភើប។ ការធ្វើសកម្មភាពតាមភាពរីករាយរបស់អ្នក អាចបើកទ្វារដំបូង។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You are thinking about the bigger picture of your career and where you want to be. Several options may be on the table.",
+        "km": "អ្នកកំពុងគិតអំពីរូបភាពធំនៃអាជីពរបស់អ្នក និងកន្លែងដែលអ្នកចង់ទៅដល់។ ជម្រើសជាច្រើន ប្រហែលជាកំពុងនៅលើតុ។"
+      },
+      "challenge": {
+        "en": "Planning the perfect move without ever applying could keep you in place. Turn one plan into an actual application.",
+        "km": "ការរៀបចំផែនការជំហានល្អឥតខ្ចោះ ដោយមិនដែលដាក់ពាក្យសុំ អាចរក្សាអ្នកនៅកន្លែងដដែល។ សូមប្រែផែនការមួយទៅជាពាក្យសុំពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "A search with a clear long-term goal could widen your horizons. A role elsewhere, even further afield, may suit your plans.",
+        "km": "ការស្វែងរកដែលមានគោលដៅរយៈពេលវែងច្បាស់លាស់ អាចពង្រីកជើងមេឃរបស់អ្នក។ តួនាទីនៅកន្លែងផ្សេង សូម្បីតែនៅឆ្ងាយ អាចសមនឹងផែនការរបស់អ្នក។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "You may feel your efforts deserve a wider stage than your current role allows. You are looking ahead with hope.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថា ការខិតខំរបស់អ្នកសមនឹងឆាកទូលាយជាងអ្វីដែលតួនាទីបច្ចុប្បន្នអនុញ្ញាត។ អ្នកកំពុងមើលទៅមុខដោយក្តីសង្ឃឹម។"
+      },
+      "challenge": {
+        "en": "Waiting for opportunities to come to you could slow things down. Reach out to employers or contacts directly.",
+        "km": "ការរង់ចាំឱ្យឱកាសមករកអ្នក អាចធ្វើឱ្យអ្វីៗយឺត។ សូមទាក់ទងនិយោជក ឬទំនាក់ទំនងដោយផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "An outward-looking search could bring responses from places you had not expected. Growth may come through new markets or locations.",
+        "km": "ការស្វែងរកដែលមើលទៅខាងក្រៅ អាចនាំមកនូវការឆ្លើយតបពីកន្លែងដែលអ្នកមិនបានរំពឹងទុក។ ការរីកចម្រើនអាចមកតាមរយៈទីផ្សារ ឬទីតាំងថ្មីៗ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Your current job may feel stable and pleasant, which makes leaving a harder choice. You value the security you have.",
+        "km": "ការងារបច្ចុប្បន្នរបស់អ្នក ប្រហែលជាមានស្ថិរភាព និងរីករាយ ដែលធ្វើឱ្យការចាកចេញជាជម្រើសពិបាក។ អ្នកឱ្យតម្លៃសុវត្ថិភាពដែលអ្នកមាន។"
+      },
+      "challenge": {
+        "en": "Leaving a good situation without comparing it fairly with the alternative could be a mistake. Weigh what you would gain and lose.",
+        "km": "ការចាកចេញពីស្ថានភាពល្អ ដោយមិនប្រៀបធៀបវាដោយយុត្តិធម៌ជាមួយជម្រើសផ្សេង អាចជាកំហុស។ សូមថ្លឹងថ្លែងពីអ្វីដែលអ្នកនឹងទទួលបាន និងបាត់បង់។"
+      },
+      "outcome": {
+        "en": "A careful search could lead to a role that feels like a step up and a good home. Celebration may follow a well-chosen move.",
+        "km": "ការស្វែងរកដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកតួនាទីដែលមានអារម្មណ៍ដូចជាជំហានឡើងលើ និងកន្លែងល្អ។ ការអបអរអាចកើតឡើងតាមជំហានដែលបានជ្រើសរើសល្អ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Work may feel competitive or tense, with conflict among colleagues. You may want to escape the friction.",
+        "km": "ការងារប្រហែលជាហាក់ដូចជាមានការប្រកួតប្រជែង ឬតានតឹង ជាមួយជម្លោះក្នុងចំណោមសហការី។ អ្នកប្រហែលជាចង់គេចពីការកកិត។"
+      },
+      "challenge": {
+        "en": "Leaving only to escape a conflict could mean taking the same problem with you. Be sure you are moving toward something, not just away.",
+        "km": "ការចាកចេញតែដើម្បីគេចពីជម្លោះ អាចមានន័យថានាំបញ្ហាដដែលទៅជាមួយ។ សូមប្រាកដថាអ្នកកំពុងផ្លាស់ទៅរកអ្វីមួយ មិនមែនត្រឹមតែគេចចេញទេ។"
+      },
+      "outcome": {
+        "en": "A competitive job market could bring out your best if you stand firm. Clear strengths may help you rise above the crowd.",
+        "km": "ទីផ្សារការងារដែលមានការប្រកួតប្រជែង អាចបញ្ចេញអ្វីល្អបំផុតរបស់អ្នក ប្រសិនបើអ្នកឈរមាំ។ ចំណុចខ្លាំងច្បាស់លាស់ អាចជួយអ្នកលេចធ្លោលើហ្វូងមនុស្ស។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "You may have recent achievements that make you an attractive candidate. Confidence and recognition are on your side.",
+        "km": "អ្នកប្រហែលជាមានសមិទ្ធផលថ្មីៗ ដែលធ្វើឱ្យអ្នកជាបេក្ខជនដ៏គួរឱ្យទាក់ទាញ។ ទំនុកចិត្ត និងការទទួលស្គាល់នៅខាងអ្នក។"
+      },
+      "challenge": {
+        "en": "Assuming success will follow automatically could make you underprepare. Back up your record with careful applications.",
+        "km": "ការសន្មតថាជោគជ័យនឹងកើតឡើងដោយស្វ័យប្រវត្តិ អាចធ្វើឱ្យអ្នករៀបចំមិនគ្រប់គ្រាន់។ សូមគាំទ្រកំណត់ត្រារបស់អ្នក ដោយពាក្យសុំដែលរៀបចំដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Your track record could help you win a better position. Recognition you have earned may open doors.",
+        "km": "កំណត់ត្រាការងាររបស់អ្នក អាចជួយអ្នកឈ្នះតំណែងល្អជាងមុន។ ការទទួលស្គាល់ដែលអ្នកបានទទួល អាចបើកទ្វារ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may feel you are constantly defending your position at work. You are tired of having to prove yourself.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថា អ្នកកំពុងការពារតំណែងរបស់អ្នកឥតឈប់ឈរនៅកន្លែងធ្វើការ។ អ្នកធុញទ្រាន់នឹងការត្រូវបង្ហាញខ្លួន។"
+      },
+      "challenge": {
+        "en": "Leaving in frustration without a plan could weaken your position. Hold your ground while you look for something better.",
+        "km": "ការចាកចេញដោយខកចិត្ត ដោយគ្មានផែនការ អាចធ្វើឱ្យតំណែងរបស់អ្នកចុះខ្សោយ។ សូមឈរមាំ ខណៈអ្នកស្វែងរកអ្វីដែលល្អជាងនេះ។"
+      },
+      "outcome": {
+        "en": "Standing firm while searching could lead to a role where you feel respected. Your persistence may pay off.",
+        "km": "ការឈរមាំ ខណៈស្វែងរក អាចនាំទៅរកតួនាទីដែលអ្នកមានអារម្មណ៍ថាត្រូវបានគោរព។ ការតស៊ូរបស់អ្នក អាចទទួលបានផល។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Job leads, replies or offers may be arriving faster than you expected. The search, if you start it, could move quickly.",
+        "km": "ព័ត៌មានការងារ ការឆ្លើយតប ឬការផ្តល់ជូន ប្រហែលជាកំពុងមកដល់លឿនជាងអ្វីដែលអ្នករំពឹង។ ការស្វែងរក ប្រសិនបើអ្នកចាប់ផ្តើមវា អាចផ្លាស់ទីយ៉ាងលឿន។"
+      },
+      "challenge": {
+        "en": "Accepting the first offer in a rush could mean missing a better one. Move fast, but compare before you commit.",
+        "km": "ការទទួលយកការផ្តល់ជូនដំបូងដោយប្រញាប់ អាចមានន័យថាខកខានការផ្តល់ជូនដែលល្អជាងនេះ។ សូមផ្លាស់ទីលឿន ប៉ុន្តែប្រៀបធៀបមុននឹងអ្នកប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "A quick response from employers could set things moving fast. Being ready to act may help you secure a good offer.",
+        "km": "ការឆ្លើយតបរហ័សពីនិយោជក អាចធ្វើឱ្យអ្វីៗរំកិលលឿន។ ការត្រៀមខ្លួនធ្វើសកម្មភាព អាចជួយអ្នកទទួលបានការផ្តល់ជូនល្អ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may feel worn out after a long stretch of challenges at work. You are still going, but tired.",
+        "km": "អ្នកប្រហែលជាអស់កម្លាំង បន្ទាប់ពីបញ្ហាប្រឈមជាច្រើននៅកន្លែងធ្វើការ។ អ្នកនៅតែបន្ត ប៉ុន្តែហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Searching while exhausted could make you settle for the wrong job. Rest enough to choose clearly.",
+        "km": "ការស្វែងរក ខណៈអស់កម្លាំង អាចធ្វើឱ្យអ្នកទទួលយកការងារខុស។ សូមសម្រាកល្មមនឹងជ្រើសរើសឱ្យច្បាស់។"
+      },
+      "outcome": {
+        "en": "A determined but well-paced search could get you through to something better. One last push may be enough.",
+        "km": "ការស្វែងរកដោយការប្តេជ្ញាចិត្ត ប៉ុន្តែមានល្បឿនល្អ អាចនាំអ្នកឆ្លងកាត់ទៅរកអ្វីដែលល្អជាងនេះ។ ការជំរុញចុងក្រោយមួយ អាចគ្រប់គ្រាន់។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may be overloaded with work and responsibilities. Finding the energy to search on top of everything may feel hard.",
+        "km": "អ្នកប្រហែលជាផ្ទុកលើសទម្ងន់ជាមួយការងារ និងការទទួលខុសត្រូវ។ ការរកថាមពលស្វែងរកការងារ បន្ថែមលើអ្វីៗទាំងអស់ អាចហាក់ដូចជាពិបាក។"
+      },
+      "challenge": {
+        "en": "Adding a job search to an overwhelming load could burn you out. Lighten something else first.",
+        "km": "ការបន្ថែមការស្វែងរកការងារ ទៅលើបន្ទុកដែលលើសលុប អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមបន្ធូររឿងផ្សេងជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Clearing some space could make a search possible and productive. A lighter load may let you find the right fit.",
+        "km": "ការជម្រះចន្លោះខ្លះ អាចធ្វើឱ្យការស្វែងរកអាចទៅរួច និងមានផលិតភាព។ បន្ទុកដែលស្រាលជាងមុន អាចឱ្យអ្នករកឃើញអ្វីដែលសម។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You may be curious about a new field or role and eager to learn. Fresh possibilities excite you.",
+        "km": "អ្នកប្រហែលជាចង់ដឹងចង់ឃើញអំពីវិស័យ ឬតួនាទីថ្មី ហើយចង់រៀន។ លទ្ធភាពថ្មីៗធ្វើឱ្យអ្នករំភើប។"
+      },
+      "challenge": {
+        "en": "Jumping into a new field without research could lead to disappointment. Talk to people who already do that work.",
+        "km": "ការលោតចូលក្នុងវិស័យថ្មី ដោយមិនស្រាវជ្រាវ អាចនាំទៅរកការខកចិត្ត។ សូមនិយាយជាមួយមនុស្សដែលកំពុងធ្វើការងារនោះរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Exploring a new direction could lead to an entry-level or learning role. Enthusiasm may help you get started.",
+        "km": "ការស្វែងយល់ទិសដៅថ្មី អាចនាំទៅរកតួនាទីកម្រិតដំបូង ឬតួនាទីរៀនសូត្រ។ ភាពរីករាយអាចជួយអ្នកចាប់ផ្តើម។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You feel bold enough to make a big career move. The thought of a new challenge excites more than it scares you.",
+        "km": "អ្នកមានអារម្មណ៍ក្លាហានល្មមនឹងធ្វើជំហានអាជីពធំមួយ។ គំនិតនៃបញ្ហាប្រឈមថ្មី ធ្វើឱ្យអ្នករំភើបច្រើនជាងភ័យខ្លាច។"
+      },
+      "challenge": {
+        "en": "Quitting on impulse could leave you in a difficult position. Line up your next move before you leave.",
+        "km": "ការលាឈប់ដោយភ្លាមៗ អាចធ្វើឱ្យអ្នកស្ថិតក្នុងស្ថានភាពលំបាក។ សូមរៀបចំជំហានបន្ទាប់ មុននឹងអ្នកចាកចេញ។"
+      },
+      "outcome": {
+        "en": "A bold search could bring exciting change to your career. Courage may help you land something new.",
+        "km": "ការស្វែងរកដ៏ក្លាហាន អាចនាំមកនូវការផ្លាស់ប្តូរដ៏គួរឱ្យរំភើបដល់អាជីពរបស់អ្នក។ ភាពក្លាហានអាចជួយអ្នកទទួលបានអ្វីថ្មី។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You feel confident and capable, with a strong sense of what you bring. Interviewers may sense your energy quickly.",
+        "km": "អ្នកមានអារម្មណ៍មានទំនុកចិត្ត និងមានសមត្ថភាព ជាមួយអារម្មណ៍ខ្លាំងអំពីអ្វីដែលអ្នកនាំមក។ អ្នកសម្ភាសន៍អាចដឹងពីថាមពលរបស់អ្នកយ៉ាងឆាប់រហ័ស។"
+      },
+      "challenge": {
+        "en": "Being too selective could make you pass over good opportunities. Stay open while keeping your standards.",
+        "km": "ការជ្រើសរើសខ្លាំងពេក អាចធ្វើឱ្យអ្នករំលងឱកាសល្អៗ។ សូមនៅតែបើកចិត្ត ខណៈរក្សាស្តង់ដាររបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A confident search could lead to a role that matches your energy. Your presence may make a strong impression.",
+        "km": "ការស្វែងរកដោយទំនុកចិត្ត អាចនាំទៅរកតួនាទីដែលសមនឹងថាមពលរបស់អ្នក។ វត្តមានរបស់អ្នក អាចបង្កើតចំណាប់អារម្មណ៍ខ្លាំង។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You know where you want your career to go and feel ready to lead. Your current role may be too small for your plans.",
+        "km": "អ្នកដឹងថាអ្នកចង់ឱ្យអាជីពរបស់អ្នកទៅណា ហើយមានអារម្មណ៍ត្រៀមខ្លួនដឹកនាំ។ តួនាទីបច្ចុប្បន្នរបស់អ្នក ប្រហែលជាតូចពេកសម្រាប់ផែនការរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Expecting a new employer to give you full control at once could lead to frustration. Earn trust step by step.",
+        "km": "ការរំពឹងឱ្យនិយោជកថ្មីផ្តល់ការគ្រប់គ្រងពេញលេញភ្លាមៗ អាចនាំទៅរកការខកចិត្ត។ សូមទទួលបានការទុកចិត្តមួយជំហានម្តងៗ។"
+      },
+      "outcome": {
+        "en": "A search aimed at leadership roles could bring a step up. Your vision may be exactly what an employer needs.",
+        "km": "ការស្វែងរកដែលផ្តោតលើតួនាទីដឹកនាំ អាចនាំមកនូវជំហានឡើងលើ។ ចក្ខុវិស័យរបស់អ្នក អាចជាអ្វីដែលនិយោជកត្រូវការ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your heart may be telling you that you want work that feels more meaningful. A new emotional pull is guiding you.",
+        "km": "បេះដូងរបស់អ្នក ប្រហែលជាកំពុងប្រាប់អ្នកថា អ្នកចង់បានការងារដែលមានអត្ថន័យជាងនេះ។ កម្លាំងទាញផ្នែកអារម្មណ៍ថ្មីមួយ កំពុងដឹកនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Ignoring how unhappy you feel could make you stay longer than you should. Listen to what your feelings are telling you.",
+        "km": "ការមិនខ្វល់ពីភាពមិនសប្បាយចិត្តរបស់អ្នក អាចធ្វើឱ្យអ្នកនៅយូរជាងអ្វីដែលអ្នកគួរ។ សូមស្តាប់ពីអ្វីដែលអារម្មណ៍របស់អ្នកកំពុងប្រាប់។"
+      },
+      "outcome": {
+        "en": "Following your heart in a search could lead to a role that fulfils you. Work you care about may feel like a fresh beginning.",
+        "km": "ការធ្វើតាមបេះដូងក្នុងការស្វែងរក អាចនាំទៅរកតួនាទីដែលបំពេញចិត្តអ្នក។ ការងារដែលអ្នកយកចិត្តទុកដាក់ អាចមានអារម្មណ៍ដូចជាការចាប់ផ្តើមថ្មី។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A connection with someone in your field may be opening a door. Mutual respect could lead to an opportunity.",
+        "km": "ទំនាក់ទំនងជាមួយនរណាម្នាក់ក្នុងវិស័យរបស់អ្នក ប្រហែលជាកំពុងបើកទ្វារមួយ។ ការគោរពគ្នាទៅវិញទៅមក អាចនាំទៅរកឱកាសមួយ។"
+      },
+      "challenge": {
+        "en": "Relying on a single contact for your next job could leave you with few options. Widen your network.",
+        "km": "ការពឹងលើទំនាក់ទំនងតែមួយសម្រាប់ការងារបន្ទាប់ អាចធ្វើឱ្យអ្នកមានជម្រើសតិច។ សូមពង្រីកបណ្តាញរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A good connection could lead to a role where you are valued. Partnership and goodwill may help you land well.",
+        "km": "ទំនាក់ទំនងល្អមួយ អាចនាំទៅរកតួនាទីដែលអ្នកត្រូវបានឱ្យតម្លៃ។ ភាពជាដៃគូ និងឆន្ទៈល្អ អាចជួយអ្នកឱ្យចុះចតបានល្អ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friends, former colleagues or your wider network may be a source of support and leads. Good relationships are an asset.",
+        "km": "មិត្តភក្តិ អតីតសហការី ឬបណ្តាញទូលាយរបស់អ្នក ប្រហែលជាប្រភពនៃការគាំទ្រ និងព័ត៌មានការងារ។ ទំនាក់ទំនងល្អគឺជាទ្រព្យសម្បត្តិ។"
+      },
+      "challenge": {
+        "en": "Talking about leaving too openly at work could cause problems before you are ready. Share your plans carefully.",
+        "km": "ការនិយាយអំពីការចាកចេញដោយបើកចំហពេកនៅកន្លែងធ្វើការ អាចបង្កបញ្ហា មុនពេលអ្នកត្រៀមខ្លួន។ សូមចែករំលែកផែនការរបស់អ្នកដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Your network could bring a welcome opening, and something to celebrate. Shared good news may come from people you know.",
+        "km": "បណ្តាញរបស់អ្នក អាចនាំមកនូវឱកាសដែលគួរឱ្យស្វាគមន៍ និងអ្វីមួយសម្រាប់អបអរ។ ដំណឹងល្អរួម អាចមកពីមនុស្សដែលអ្នកស្គាល់។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel bored or disengaged at work, but unsure what would excite you instead. Interest is low.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ធុញទ្រាន់ ឬមិនចូលរួមនៅកន្លែងធ្វើការ ប៉ុន្តែមិនប្រាកដថាអ្វីនឹងធ្វើឱ្យអ្នករំភើបជំនួសវិញ។ ចំណាប់អារម្មណ៍ទាប។"
+      },
+      "challenge": {
+        "en": "Dismissing every listing as uninteresting could mean missing one worth a closer look. Read beyond the job title.",
+        "km": "ការច្រានចោលរាល់ការប្រកាសការងារថាមិនគួរឱ្យចាប់អារម្មណ៍ អាចមានន័យថាខកខានមួយដែលសមនឹងមើលឱ្យជិត។ សូមអានហួសពីចំណងជើងការងារ។"
+      },
+      "outcome": {
+        "en": "A search could reawaken your interest once you find a role that truly engages you. An overlooked listing may turn out to be a good fit.",
+        "km": "ការស្វែងរកអាចដាស់ចំណាប់អារម្មណ៍របស់អ្នកឡើងវិញ នៅពេលអ្នករកឃើញតួនាទីដែលពិតជាធ្វើឱ្យអ្នកចូលរួម។ ការប្រកាសការងារដែលធ្លាប់មើលរំលង អាចប្រែជាសមល្អ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "A recent disappointment at work, such as a missed promotion, may be making you think about leaving. Regret may linger.",
+        "km": "ការខកចិត្តថ្មីៗនៅកន្លែងធ្វើការ ដូចជាការខកខានដំឡើងតំណែង ប្រហែលជាកំពុងធ្វើឱ្យអ្នកគិតអំពីការចាកចេញ។ ការសោកស្តាយប្រហែលជានៅសល់។"
+      },
+      "challenge": {
+        "en": "Leaving in the heat of disappointment could lead to a hasty choice. Let the feeling settle before you decide.",
+        "km": "ការចាកចេញក្នុងពេលកំពុងខកចិត្តខ្លាំង អាចនាំទៅរកជម្រើសប្រញាប់ប្រញាល់។ សូមឱ្យអារម្មណ៍ស្ងប់សិន មុននឹងអ្នកសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Moving past a setback could open new opportunities elsewhere. What you lost may point you toward something better.",
+        "km": "ការឆ្លងផុតការថយក្រោយ អាចបើកឱកាសថ្មីៗនៅកន្លែងផ្សេង។ អ្វីដែលអ្នកបាត់បង់ អាចចង្អុលអ្នកទៅរកអ្វីដែលល្អជាងនេះ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "An old employer, a past skill or a familiar contact may be on your mind as you think about moving. The past may hold a useful lead.",
+        "km": "និយោជកចាស់ ជំនាញពីមុន ឬទំនាក់ទំនងដែលធ្លាប់ស្គាល់ ប្រហែលជានៅក្នុងគំនិតរបស់អ្នក ខណៈអ្នកគិតអំពីការផ្លាស់ប្តូរ។ អតីតកាលអាចមានព័ត៌មានដែលមានប្រយោជន៍។"
+      },
+      "challenge": {
+        "en": "Going back to an old job just because it feels safe could limit your growth. Make sure it is still right for you.",
+        "km": "ការត្រឡប់ទៅការងារចាស់ គ្រាន់តែដោយសារវាមានអារម្មណ៍សុវត្ថិភាព អាចដាក់កម្រិតលើការរីកចម្រើនរបស់អ្នក។ សូមប្រាកដថាវានៅតែត្រឹមត្រូវសម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Old contacts or past experience could open a door. A familiar person may help you find your next role.",
+        "km": "ទំនាក់ទំនងចាស់ ឬបទពិសោធន៍កន្លងមក អាចបើកទ្វារមួយ។ មនុស្សដែលធ្លាប់ស្គាល់ អាចជួយអ្នករកតួនាទីបន្ទាប់។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may have many ideas about what you could do next but no clear direction. Options feel overwhelming.",
+        "km": "អ្នកប្រហែលជាមានគំនិតជាច្រើនអំពីអ្វីដែលអ្នកអាចធ្វើបន្ទាប់ ប៉ុន្តែគ្មានទិសដៅច្បាស់លាស់។ ជម្រើសហាក់ដូចជាលើសលុប។"
+      },
+      "challenge": {
+        "en": "Chasing every exciting option at once could leave you with none. Narrow your search to what is realistic.",
+        "km": "ការដេញតាមរាល់ជម្រើសដ៏គួរឱ្យរំភើបក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នកមិនបានណាមួយ។ សូមបង្រួមការស្វែងរករបស់អ្នក ទៅរកអ្វីដែលជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "Focusing on one or two realistic paths could bring clarity and results. A grounded choice may lead to a good role.",
+        "km": "ការផ្តោតលើផ្លូវជាក់ស្តែងមួយ ឬពីរ អាចនាំមកនូវភាពច្បាស់លាស់ និងលទ្ធផល។ ជម្រើសដែលមានមូលដ្ឋាន អាចនាំទៅរកតួនាទីល្អ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Something in you has already started to check out of your current job. You may be quietly preparing to walk on.",
+        "km": "អ្វីមួយក្នុងខ្លួនអ្នក បានចាប់ផ្តើមដកខ្លួនចេញពីការងារបច្ចុប្បន្នរួចហើយ។ អ្នកប្រហែលជាកំពុងរៀបចំដោយស្ងាត់ៗ ដើម្បីដើរបន្ត។"
+      },
+      "challenge": {
+        "en": "Walking away without knowing what you are looking for could lead to the same feeling elsewhere. Name what you need first.",
+        "km": "ការដើរចេញដោយមិនដឹងថាអ្នកកំពុងស្វែងរកអ្វី អាចនាំទៅរកអារម្មណ៍ដដែលនៅកន្លែងផ្សេង។ សូមដាក់ឈ្មោះអ្វីដែលអ្នកត្រូវការជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "A search for deeper meaning could lead you somewhere more fulfilling. Leaving something behind may make room for better work.",
+        "km": "ការស្វែងរកអត្ថន័យជ្រាលជ្រៅជាងមុន អាចនាំអ្នកទៅកន្លែងដែលគួរឱ្យពេញចិត្តជាងនេះ។ ការទុកអ្វីមួយនៅពីក្រោយ អាចបើកចន្លោះសម្រាប់ការងារល្អជាងមុន។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You may be fairly content in your current role, which makes the question harder. Things are going reasonably well.",
+        "km": "អ្នកប្រហែលជាពេញចិត្តគួរសមក្នុងតួនាទីបច្ចុប្បន្ន ដែលធ្វើឱ្យសំណួរនេះកាន់តែពិបាក។ អ្វីៗកំពុងដំណើរការល្អសមរម្យ។"
+      },
+      "challenge": {
+        "en": "Leaving a good situation for an uncertain one could be a gamble. Be clear about what the move would improve.",
+        "km": "ការចាកចេញពីស្ថានភាពល្អ ទៅរកស្ថានភាពមិនប្រាកដប្រជា អាចជាការភ្នាល់។ សូមច្បាស់អំពីអ្វីដែលការផ្លាស់ប្តូរនឹងកែលម្អ។"
+      },
+      "outcome": {
+        "en": "A selective search could lead to a role that fulfils a long-held wish. Satisfaction may come from choosing carefully.",
+        "km": "ការស្វែងរកដោយជ្រើសរើស អាចនាំទៅរកតួនាទីដែលបំពេញបំណងប្រាថ្នាដែលមានយូរមកហើយ។ ការពេញចិត្តអាចមកពីការជ្រើសរើសដោយប្រុងប្រយ័ត្ន។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "You may want work that fits better with family and the rest of your life. Balance and belonging matter to you.",
+        "km": "អ្នកប្រហែលជាចង់បានការងារដែលសមល្អជាងមុនជាមួយគ្រួសារ និងជីវិតផ្សេងទៀតរបស់អ្នក។ តុល្យភាព និងការជាផ្នែកមួយ សំខាន់សម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Expecting a new job to solve every problem could set you up for disappointment. Consider pay, commute, hours and people together.",
+        "km": "ការរំពឹងឱ្យការងារថ្មីដោះស្រាយគ្រប់បញ្ហា អាចនាំអ្នកទៅរកការខកចិត្ត។ សូមពិចារណាប្រាក់ឈ្នួល ការធ្វើដំណើរ ម៉ោងធ្វើការ និងមនុស្សរួមគ្នា។"
+      },
+      "outcome": {
+        "en": "A search with balance in mind could lead to a role that supports your whole life. Happiness at home and work may grow together.",
+        "km": "ការស្វែងរកដោយគិតពីតុល្យភាព អាចនាំទៅរកតួនាទីដែលគាំទ្រជីវិតទាំងមូលរបស់អ្នក។ សុភមង្គលនៅផ្ទះ និងកន្លែងធ្វើការ អាចរីកចម្រើនជាមួយគ្នា។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "You may be curious about creative or people-focused work. A message or idea may spark interest.",
+        "km": "អ្នកប្រហែលជាចង់ដឹងចង់ឃើញអំពីការងារច្នៃប្រឌិត ឬការងារផ្តោតលើមនុស្ស។ សារ ឬគំនិតមួយ អាចដុតចំណាប់អារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Being too timid to apply could hold you back. Send the application even if you feel unsure.",
+        "km": "ការខ្មាសអៀនពេកមិនហ៊ានដាក់ពាក្យសុំ អាចទប់អ្នក។ សូមផ្ញើពាក្យសុំ ទោះបីអ្នកមានអារម្មណ៍មិនប្រាកដក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A gentle step toward creative work could lead to an encouraging response. A small opening may grow into something more.",
+        "km": "ជំហានដ៏ទន់ភ្លន់ឆ្ពោះទៅរកការងារច្នៃប្រឌិត អាចនាំទៅរកការឆ្លើយតបដែលលើកទឹកចិត្ត។ ឱកាសតូចមួយ អាចរីកចម្រើនទៅជាអ្វីដែលធំជាងនេះ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "An attractive offer or idealistic role may be catching your eye. You feel drawn to follow your passion.",
+        "km": "ការផ្តល់ជូនដ៏គួរឱ្យទាក់ទាញ ឬតួនាទីឧត្តមគតិមួយ ប្រហែលជាកំពុងទាក់ទាញភ្នែករបស់អ្នក។ អ្នកមានអារម្មណ៍ត្រូវបានទាក់ទាញឱ្យធ្វើតាមចំណង់ចំណូលចិត្ត។"
+      },
+      "challenge": {
+        "en": "Accepting an offer based on charm rather than facts could disappoint. Check the details behind the promise.",
+        "km": "ការទទួលយកការផ្តល់ជូន ដោយផ្អែកលើមន្តស្នេហ៍ ជាជាងការពិត អាចធ្វើឱ្យខកចិត្ត។ សូមពិនិត្យព័ត៌មានលម្អិតនៅពីក្រោយការសន្យា។"
+      },
+      "outcome": {
+        "en": "A passion-led search could bring an appealing offer. Following your heart with care may lead to fulfilling work.",
+        "km": "ការស្វែងរកដែលដឹកនាំដោយចំណង់ចំណូលចិត្ត អាចនាំមកនូវការផ្តល់ជូនដ៏គួរឱ្យទាក់ទាញ។ ការធ្វើតាមបេះដូងដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកការងារដែលគួរឱ្យពេញចិត្ត។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "You may be in a caring role and wondering whether it still suits you. Your empathy is a strength.",
+        "km": "អ្នកប្រហែលជានៅក្នុងតួនាទីថែទាំ ហើយឆ្ងល់ថាតើវានៅតែសមនឹងអ្នកឬទេ។ ការយល់ចិត្តរបស់អ្នក គឺជាចំណុចខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Staying in a draining role out of guilt could exhaust you. Your own wellbeing matters as much as the people you help.",
+        "km": "ការនៅក្នុងតួនាទីដែលធ្វើឱ្យអស់កម្លាំង ដោយសារកំហុសក្នុងចិត្ត អាចធ្វើឱ្យអ្នកហត់នឿយ។ សុខុមាលភាពរបស់អ្នកសំខាន់ដូចមនុស្សដែលអ្នកជួយ។"
+      },
+      "outcome": {
+        "en": "A search could lead to a role where your caring nature is valued and supported. Emotional fulfilment may follow.",
+        "km": "ការស្វែងរកអាចនាំទៅរកតួនាទី ដែលចរិតយកចិត្តទុកដាក់របស់អ្នកត្រូវបានឱ្យតម្លៃ និងគាំទ្រ។ ការពេញចិត្តផ្នែកអារម្មណ៍ អាចកើតឡើងតាមក្រោយ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You are approaching the question calmly and maturely, without drama. You want a balanced decision you will not regret.",
+        "km": "អ្នកកំពុងចូលទៅរកសំណួរនេះដោយស្ងប់ និងចាស់ទុំ ដោយគ្មានភាពរំជើបរំជួល។ អ្នកចង់បានការសម្រេចចិត្តដែលមានតុល្យភាព ដែលអ្នកនឹងមិនស្តាយក្រោយ។"
+      },
+      "challenge": {
+        "en": "Hiding your dissatisfaction to stay professional could keep you stuck. Be honest with yourself about how you feel.",
+        "km": "ការលាក់ការមិនពេញចិត្ត ដើម្បីរក្សាវិជ្ជាជីវៈ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមស្មោះត្រង់ជាមួយខ្លួនឯងអំពីអារម្មណ៍របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A calm, considered search could lead to a stable and respected role. Emotional maturity may guide a wise choice.",
+        "km": "ការស្វែងរកដោយស្ងប់ និងបានគិតពិចារណា អាចនាំទៅរកតួនាទីដែលមានស្ថិរភាព និងត្រូវបានគោរព។ ភាពចាស់ទុំផ្នែកអារម្មណ៍ អាចដឹកនាំជម្រើសដ៏ឈ្លាសវៃ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "You may have gained sudden clarity about what you want from your career. A clear decision feels within reach.",
+        "km": "អ្នកប្រហែលជាទទួលបានភាពច្បាស់លាស់ភ្លាមៗ អំពីអ្វីដែលអ្នកចង់បានពីអាជីព។ ការសម្រេចចិត្តច្បាស់លាស់ ហាក់ដូចជានៅក្បែរដៃ។"
+      },
+      "challenge": {
+        "en": "Burning bridges as you leave could hurt your reputation. Be clear about your reasons, but stay professional.",
+        "km": "ការដុតស្ពាន ខណៈអ្នកចាកចេញ អាចធ្វើឱ្យខូចកេរ្តិ៍ឈ្មោះរបស់អ្នក។ សូមច្បាស់អំពីហេតុផលរបស់អ្នក ប៉ុន្តែនៅតែរក្សាវិជ្ជាជីវៈ។"
+      },
+      "outcome": {
+        "en": "A clear-headed search could cut straight to the right opportunity. Knowing exactly what you want may speed things up.",
+        "km": "ការស្វែងរកដោយគំនិតច្បាស់លាស់ អាចកាត់ត្រង់ទៅរកឱកាសត្រឹមត្រូវ។ ការដឹងច្បាស់ពីអ្វីដែលអ្នកចង់បាន អាចបង្កើនល្បឿនអ្វីៗ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be torn between staying and going, unable to decide. Both options have their pull.",
+        "km": "អ្នកប្រហែលជាត្រូវបានហែកជាពីរ រវាងការនៅ និងការទៅ ដោយមិនអាចសម្រេចចិត្ត។ ជម្រើសទាំងពីរមានកម្លាំងទាញរបស់វា។"
+      },
+      "challenge": {
+        "en": "Avoiding the decision could leave you stuck in a job you have mentally left. Gather the facts and choose.",
+        "km": "ការជៀសវាងការសម្រេចចិត្ត អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងការងារ ដែលអ្នកបានចាកចេញផ្នែកផ្លូវចិត្តរួចហើយ។ សូមប្រមូលការពិត ហើយជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "Making a decision either way could bring relief. Clarity may come once you stop sitting on the fence.",
+        "km": "ការសម្រេចចិត្តទោះទៅផ្លូវណាក៏ដោយ អាចនាំមកនូវការធូរស្រាល។ ភាពច្បាស់លាស់អាចមកដល់ នៅពេលអ្នកឈប់អង្គុយលើរបង។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "A painful experience at work, such as conflict or rejection, may be pushing you to leave. The hurt is real.",
+        "km": "បទពិសោធន៍ដ៏ឈឺចាប់នៅកន្លែងធ្វើការ ដូចជាជម្លោះ ឬការបដិសេធ ប្រហែលជាកំពុងរុញអ្នកឱ្យចាកចេញ។ ការឈឺចាប់នោះពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Leaving while still hurting could lead to a reactive choice. Give yourself a little time to heal first.",
+        "km": "ការចាកចេញ ខណៈនៅតែឈឺចាប់ អាចនាំទៅរកជម្រើសដែលជាប្រតិកម្ម។ សូមផ្តល់ពេលបន្តិចឱ្យខ្លួនឯងជាសះស្បើយជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Moving on from a painful situation could lead to healthier work. A fresh start may help the wound heal.",
+        "km": "ការបន្តទៅមុខពីស្ថានការណ៍ដ៏ឈឺចាប់ អាចនាំទៅរកការងារដែលល្អជាងមុន។ ការចាប់ផ្តើមថ្មី អាចជួយឱ្យរបួសជាសះស្បើយ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may feel tired and in need of rest before taking on anything new. Recovery feels important.",
+        "km": "អ្នកប្រហែលជាហត់នឿយ និងត្រូវការការសម្រាក មុននឹងទទួលអ្វីថ្មី។ ការស្តារកម្លាំងហាក់ដូចជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Starting a demanding search while exhausted could lead to poor choices. Rest and plan before you begin.",
+        "km": "ការចាប់ផ្តើមការស្វែងរកដែលទាមទារច្រើន ខណៈអស់កម្លាំង អាចនាំទៅរកជម្រើសមិនល្អ។ សូមសម្រាក និងរៀបចំផែនការ មុននឹងអ្នកចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "A rested, well-planned search could lead to a better result. A pause may help you return with clarity.",
+        "km": "ការស្វែងរកដោយបានសម្រាក និងរៀបចំផែនការល្អ អាចនាំទៅរកលទ្ធផលល្អជាងមុន។ ការផ្អាកអាចជួយអ្នកត្រឡប់មកវិញដោយភាពច្បាស់លាស់។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Work may involve conflict or a sense of losing out to others. You may feel bruised by office politics.",
+        "km": "ការងារប្រហែលជាពាក់ព័ន្ធនឹងជម្លោះ ឬអារម្មណ៍នៃការចាញ់អ្នកដទៃ។ អ្នកប្រហែលជាមានអារម្មណ៍ឈឺចាប់ដោយនយោបាយការិយាល័យ។"
+      },
+      "challenge": {
+        "en": "Leaving on bad terms could follow you into your next role. Exit with dignity, even if it is hard.",
+        "km": "ការចាកចេញក្នុងលក្ខខណ្ឌមិនល្អ អាចតាមអ្នកចូលក្នុងតួនាទីបន្ទាប់។ សូមចាកចេញដោយសេចក្តីថ្លៃថ្នូរ ទោះបីវាពិបាកក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Moving on from a toxic situation could bring relief and a healthier start. Letting go of the fight may free you.",
+        "km": "ការបន្តទៅមុខពីស្ថានភាពពុល អាចនាំមកនូវការធូរស្រាល និងការចាប់ផ្តើមដែលល្អជាងមុន។ ការលះបង់ការប្រយុទ្ធ អាចដោះលែងអ្នក។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Mentally, you may already be leaving a hard job behind for calmer ground. The move feels more like when than whether.",
+        "km": "ក្នុងចិត្ត អ្នកប្រហែលជាកំពុងទុកការងារលំបាកនៅពីក្រោយរួចហើយ ដើម្បីទៅរកដីដែលស្ងប់ជាងមុន។ ការផ្លាស់ប្តូរមានអារម្មណ៍ថាជាសំណួរនៃពេលណា ជាជាងថាតើ។"
+      },
+      "challenge": {
+        "en": "Carrying old resentment into a new job could spoil a good start. Leave the baggage behind.",
+        "km": "ការនាំការអាក់អន់ចិត្តចាស់ចូលក្នុងការងារថ្មី អាចធ្វើឱ្យការចាប់ផ្តើមល្អខូច។ សូមទុកបន្ទុកនៅពីក្រោយ។"
+      },
+      "outcome": {
+        "en": "A move toward a calmer workplace could bring relief. Smoother waters may lie on the other side of the change.",
+        "km": "ការផ្លាស់ទៅរកកន្លែងធ្វើការដែលស្ងប់ជាងមុន អាចនាំមកនូវការធូរស្រាល។ ទឹកដែលរលូនជាងមុន អាចនៅម្ខាងទៀតនៃការផ្លាស់ប្តូរ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "You may sense that not everything at work is as it seems. Hidden agendas may be making you uneasy.",
+        "km": "អ្នកប្រហែលជាដឹងថា មិនមែនអ្វីៗទាំងអស់នៅកន្លែងធ្វើការ សុទ្ធតែដូចដែលវាហាក់ដូចជាទេ។ គម្រោងលាក់កំបាំង ប្រហែលជាកំពុងធ្វើឱ្យអ្នកមិនស្ងប់ចិត្ត។"
+      },
+      "challenge": {
+        "en": "Job hunting behind your employer's back in ways that break agreements could backfire. Know your contract and act with integrity.",
+        "km": "ការស្វែងរកការងារដោយលាក់និយោជក តាមរបៀបដែលបំពានកិច្ចព្រមព្រៀង អាចមានផលវិបាក។ សូមដឹងពីកិច្ចសន្យារបស់អ្នក ហើយធ្វើសកម្មភាពដោយសុចរិតភាព។"
+      },
+      "outcome": {
+        "en": "A discreet, honest search could lead you somewhere more transparent. Trust may be easier to find elsewhere.",
+        "km": "ការស្វែងរកដោយស្ងាត់ៗ និងស្មោះត្រង់ អាចនាំអ្នកទៅកន្លែងដែលថ្លាថ្លៃជាងមុន។ ការទុកចិត្តអាចងាយរកនៅកន្លែងផ្សេង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel trapped in your job, believing you have no other options. Self-doubt may be strong.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់ក្នុងការងារ ដោយជឿថាអ្នកគ្មានជម្រើសផ្សេង។ ការសង្ស័យលើខ្លួនឯងប្រហែលជាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Believing no one else would hire you could stop you from even trying. Test that belief with one application.",
+        "km": "ការជឿថាគ្មាននរណាផ្សេងនឹងជួលអ្នក អាចរារាំងអ្នកសូម្បីតែពីការព្យាយាម។ សូមសាកល្បងជំនឿនោះ ដោយពាក្យសុំមួយ។"
+      },
+      "outcome": {
+        "en": "A first step outside your comfort zone could show you that more doors are open than you thought. Freedom may be closer.",
+        "km": "ជំហានដំបូងចេញពីតំបន់សុខស្រួល អាចបង្ហាញអ្នកថា មានទ្វារបើកច្រើនជាងអ្វីដែលអ្នកគិត។ សេរីភាពអាចនៅជិតជាង។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Anxiety about your job or future may be keeping you awake at night. Worry feels heavy.",
+        "km": "ការថប់បារម្ភអំពីការងារ ឬអនាគតរបស់អ្នក ប្រហែលជាកំពុងធ្វើឱ្យអ្នកដេកមិនលក់។ ការព្រួយបារម្ភមានអារម្មណ៍ធ្ងន់។"
+      },
+      "challenge": {
+        "en": "Letting worry decide could push you into a rushed move or keep you frozen. Talk it through with someone you trust.",
+        "km": "ការឱ្យការព្រួយបារម្ភសម្រេចចិត្ត អាចរុញអ្នកទៅរកជំហានប្រញាប់ប្រញាល់ ឬធ្វើឱ្យអ្នកកកនៅដដែល។ សូមនិយាយពីវាជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "A calm, planned search could ease your anxiety. Taking one practical step may make things feel more manageable.",
+        "km": "ការស្វែងរកដោយស្ងប់ និងមានផែនការ អាចបន្ធូរការថប់បារម្ភរបស់អ្នក។ ការដើរជំហានជាក់ស្តែងមួយ អាចធ្វើឱ្យអ្វីៗមានអារម្មណ៍អាចគ្រប់គ្រងបានជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "You may feel that your current job has reached its lowest point. Something has clearly ended.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថា ការងារបច្ចុប្បន្នបានដល់ចំណុចទាបបំផុត។ អ្វីមួយច្បាស់ជាបានបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Staying in a role that has clearly run its course could keep you down. Accept the ending and look ahead.",
+        "km": "ការនៅក្នុងតួនាទីដែលច្បាស់ជាបានដល់ទីបញ្ចប់ អាចរក្សាអ្នកនៅខាងក្រោម។ សូមទទួលយកការបញ្ចប់ ហើយមើលទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A new start could rise from the end of a difficult chapter. Recovery may come through a change of scene.",
+        "km": "ការចាប់ផ្តើមថ្មី អាចក្រោកឡើងពីការបញ្ចប់នៃជំពូកលំបាក។ ការជាសះស្បើយអាចមកតាមរយៈការផ្លាស់ប្តូរទិដ្ឋភាព។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You may be researching options, asking questions and gathering information about the job market. Curiosity is guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងស្រាវជ្រាវជម្រើស សួរសំណួរ និងប្រមូលព័ត៌មានអំពីទីផ្សារការងារ។ ការចង់ដឹងចង់ឃើញកំពុងដឹកនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Researching forever without applying could delay any real progress. Turn what you have learned into at least one application.",
+        "km": "ការស្រាវជ្រាវជារៀងរហូត ដោយមិនដាក់ពាក្យសុំ អាចពន្យារការរីកចម្រើនពិតប្រាកដ។ សូមប្រែអ្វីដែលអ្នកបានរៀន ទៅជាពាក្យសុំយ៉ាងហោចណាស់មួយ។"
+      },
+      "outcome": {
+        "en": "A well-researched search could lead you to a good opportunity. Asking the right questions may reveal the best fit.",
+        "km": "ការស្វែងរកដែលបានស្រាវជ្រាវល្អ អាចនាំអ្នកទៅរកឱកាសល្អ។ ការសួរសំណួរត្រឹមត្រូវ អាចបង្ហាញពីអ្វីដែលសមបំផុត។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You feel ready to move quickly and decisively in your career. Ambition is pushing you forward.",
+        "km": "អ្នកមានអារម្មណ៍ត្រៀមខ្លួនផ្លាស់ទីយ៉ាងរហ័ស និងម៉ឺងម៉ាត់ក្នុងអាជីព។ មហិច្ឆតាកំពុងជំរុញអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Rushing out applications without tailoring them could reduce your chances. Take care to match each one to the role.",
+        "km": "ការប្រញាប់ផ្ញើពាក្យសុំ ដោយមិនកែសម្រួលវា អាចកាត់បន្ថយឱកាសរបស់អ្នក។ សូមយកចិត្តទុកដាក់ផ្គូផ្គងពាក្យសុំនីមួយៗទៅនឹងតួនាទី។"
+      },
+      "outcome": {
+        "en": "A fast, focused search could bring quick results. Decisive action may help you seize an opening.",
+        "km": "ការស្វែងរករហ័ស និងផ្តោត អាចនាំមកនូវលទ្ធផលរហ័ស។ សកម្មភាពម៉ឺងម៉ាត់ អាចជួយអ្នកចាប់យកឱកាស។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You are judging your options with a clear, independent mind. Your standards for a new employer are firm.",
+        "km": "អ្នកកំពុងវិនិច្ឆ័យជម្រើសរបស់អ្នក ដោយគំនិតច្បាស់លាស់ និងឯករាជ្យ។ ស្តង់ដាររបស់អ្នកសម្រាប់និយោជកថ្មី គឺរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Being too critical of every opportunity could leave you with nothing. Weigh the essentials, not every detail.",
+        "km": "ការរិះគន់ខ្លាំងពេកលើរាល់ឱកាស អាចធ្វើឱ្យអ្នកគ្មានអ្វីសោះ។ សូមថ្លឹងថ្លែងចំណុចសំខាន់ៗ មិនមែនរាល់ព័ត៌មានលម្អិតទេ។"
+      },
+      "outcome": {
+        "en": "A clear-sighted search could lead to a role with fair terms and honest people. Your judgement may serve you well.",
+        "km": "ការស្វែងរកដោយភ្នែកច្បាស់លាស់ អាចនាំទៅរកតួនាទីដែលមានលក្ខខណ្ឌយុត្តិធម៌ និងមនុស្សស្មោះត្រង់។ ការវិនិច្ឆ័យរបស់អ្នក អាចជួយអ្នកបានល្អ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "You are approaching the decision logically, listing pros and cons carefully. Reason is your main guide.",
+        "km": "អ្នកកំពុងចូលទៅរកការសម្រេចចិត្តដោយតក្កវិជ្ជា ដោយរាយគុណសម្បត្តិ និងគុណវិបត្តិយ៉ាងប្រុងប្រយ័ត្ន។ ហេតុផលគឺជាអ្នកណែនាំចម្បងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Ignoring how you feel about your work could lead to a choice that looks good but feels wrong. Let feelings count too.",
+        "km": "ការមិនខ្វល់ពីអារម្មណ៍របស់អ្នកចំពោះការងារ អាចនាំទៅរកជម្រើសដែលមើលទៅល្អ ប៉ុន្តែមានអារម្មណ៍ខុស។ សូមឱ្យអារម្មណ៍រាប់បញ្ចូលផងដែរ។"
+      },
+      "outcome": {
+        "en": "A well-reasoned search could lead to a strong, sensible move. Clear criteria may help you choose with confidence.",
+        "km": "ការស្វែងរកដែលមានហេតុផលល្អ អាចនាំទៅរកជំហានដ៏រឹងមាំ និងសមហេតុផល។ លក្ខណៈវិនិច្ឆ័យច្បាស់លាស់ អាចជួយអ្នកជ្រើសរើសដោយទំនុកចិត្ត។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical new opportunity, such as a job offer or a lead, may be appearing. Prospects look tangible.",
+        "km": "ឱកាសជាក់ស្តែងថ្មីមួយ ដូចជាការផ្តល់ការងារ ឬព័ត៌មានការងារ ប្រហែលជាកំពុងលេចឡើង។ ទស្សនវិស័យមើលទៅជាក់ស្តែង។"
+      },
+      "challenge": {
+        "en": "Overlooking a modest but solid offer while waiting for something flashier could cost you. Judge offers by their long-term value.",
+        "km": "ការមើលរំលងការផ្តល់ជូនសាមញ្ញ ប៉ុន្តែរឹងមាំ ខណៈរង់ចាំអ្វីដែលភ្លឺចែងចាំងជាងនេះ អាចធ្វើឱ្យអ្នកខាត។ សូមវិនិច្ឆ័យការផ្តល់ជូន តាមតម្លៃរយៈពេលវែងរបស់វា។"
+      },
+      "outcome": {
+        "en": "A practical search could produce a concrete offer with real potential. A solid opportunity may grow into lasting security.",
+        "km": "ការស្វែងរកជាក់ស្តែង អាចនាំមកនូវការផ្តល់ជូនជាក់លាក់ ដែលមានសក្តានុពលពិតប្រាកដ។ ឱកាសដ៏រឹងមាំ អាចរីកចម្រើនទៅជាសុវត្ថិភាពយូរអង្វែង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be juggling your current job with thoughts of a new one. Balancing both takes effort.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀបចំការងារបច្ចុប្បន្ន ជាមួយគំនិតអំពីការងារថ្មី។ ការរក្សាតុល្យភាពទាំងពីរ ត្រូវការការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Letting your current work slip while you search could hurt your reputation and references. Keep both in balance.",
+        "km": "ការទុកឱ្យការងារបច្ចុប្បន្នធ្លាក់ចុះ ខណៈអ្នកស្វែងរក អាចធ្វើឱ្យខូចកេរ្តិ៍ឈ្មោះ និងការណែនាំរបស់អ្នក។ សូមរក្សាទាំងពីរឱ្យមានតុល្យភាព។"
+      },
+      "outcome": {
+        "en": "A flexible, well-managed search could fit around your current job. Juggling carefully may lead to a smooth transition.",
+        "km": "ការស្វែងរកដែលបត់បែន និងគ្រប់គ្រងបានល្អ អាចសមនឹងការងារបច្ចុប្បន្នរបស់អ្នក។ ការរៀបចំដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកការផ្លាស់ប្តូរដោយរលូន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Your skills and teamwork are respected, which gives you a strong position. Others may vouch for you.",
+        "km": "ជំនាញ និងការងារជាក្រុមរបស់អ្នក ត្រូវបានគោរព ដែលផ្តល់ឱ្យអ្នកនូវតំណែងរឹងមាំ។ អ្នកដទៃអាចធានាសម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Underselling your contributions could leave you with a weaker offer. Show clearly what you have built.",
+        "km": "ការបង្ហាញការរួមចំណែករបស់អ្នកតិចពេក អាចធ្វើឱ្យអ្នកទទួលបានការផ្តល់ជូនខ្សោយជាង។ សូមបង្ហាញឱ្យច្បាស់ពីអ្វីដែលអ្នកបានកសាង។"
+      },
+      "outcome": {
+        "en": "A search built on your proven skills could lead to a role that values them. Good references may help you land well.",
+        "km": "ការស្វែងរកដែលកសាងលើជំនាញដែលបានបញ្ជាក់របស់អ្នក អាចនាំទៅរកតួនាទីដែលឱ្យតម្លៃវា។ ការណែនាំល្អ អាចជួយអ្នកឱ្យចុះចតបានល្អ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be holding tightly to the security of your current job. Change may feel risky.",
+        "km": "អ្នកប្រហែលជាកំពុងកាន់ជាប់យ៉ាងតឹងនឹងសុវត្ថិភាពនៃការងារបច្ចុប្បន្ន។ ការផ្លាស់ប្តូរអាចហាក់ដូចជាប្រថុយប្រថាន។"
+      },
+      "challenge": {
+        "en": "Fear of losing what you have could keep you in a job you have outgrown. Weigh security against growth honestly.",
+        "km": "ការភ័យខ្លាចបាត់បង់អ្វីដែលអ្នកមាន អាចរក្សាអ្នកនៅក្នុងការងារដែលអ្នកបានធំហួស។ សូមថ្លឹងថ្លែងសុវត្ថិភាព ទល់នឹងការរីកចម្រើនដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "A cautious search could lead to a move that keeps you secure while letting you grow. Careful planning may protect you.",
+        "km": "ការស្វែងរកដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកការផ្លាស់ប្តូរដែលរក្សាអ្នកឱ្យមានសុវត្ថិភាព ខណៈអនុញ្ញាតឱ្យអ្នករីកចម្រើន។ ការរៀបចំផែនការដោយប្រុងប្រយ័ត្ន អាចការពារអ្នក។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "You may be facing job insecurity, money worries or a difficult work environment. Things may feel cold and uncertain.",
+        "km": "អ្នកប្រហែលជាកំពុងប្រឈមមុខនឹងភាពមិនប្រាកដប្រជាការងារ ការព្រួយបារម្ភពីប្រាក់ ឬបរិយាកាសការងារលំបាក។ អ្វីៗប្រហែលជាហាក់ដូចជាត្រជាក់ និងមិនប្រាកដប្រជា។"
+      },
+      "challenge": {
+        "en": "Searching alone and in a panic could make things harder. Use support services, contacts and advice.",
+        "km": "ការស្វែងរកតែម្នាក់ឯង និងក្នុងភាពភ័យស្លន់ស្លោ អាចធ្វើឱ្យអ្វីៗកាន់តែពិបាក។ សូមប្រើសេវាគាំទ្រ ទំនាក់ទំនង និងដំបូន្មាន។"
+      },
+      "outcome": {
+        "en": "A supported search could lead you out of a hard period. Help from others may open a door to better conditions.",
+        "km": "ការស្វែងរកដោយមានការគាំទ្រ អាចនាំអ្នកចេញពីរយៈពេលលំបាក។ ជំនួយពីអ្នកដទៃ អាចបើកទ្វារទៅរកលក្ខខណ្ឌល្អជាងមុន។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "You may be receiving help, mentoring or fair rewards, or giving them to others. Support is flowing.",
+        "km": "អ្នកប្រហែលជាកំពុងទទួលជំនួយ ការណែនាំ ឬរង្វាន់យុត្តិធម៌ ឬផ្តល់វាដល់អ្នកដទៃ។ ការគាំទ្រកំពុងហូរ។"
+      },
+      "challenge": {
+        "en": "Accepting a job where pay and recognition feel unfair could lead to resentment. Make sure the offer values you properly.",
+        "km": "ការទទួលយកការងារដែលប្រាក់ឈ្នួល និងការទទួលស្គាល់មានអារម្មណ៍មិនយុត្តិធម៌ អាចនាំទៅរកការអាក់អន់ចិត្ត។ សូមប្រាកដថាការផ្តល់ជូនឱ្យតម្លៃអ្នកបានត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "A search could bring a fair offer and helpful support. Generous people may help you find your next step.",
+        "km": "ការស្វែងរកអាចនាំមកនូវការផ្តល់ជូនយុត្តិធម៌ និងការគាំទ្រដែលមានប្រយោជន៍។ មនុស្សសប្បុរស អាចជួយអ្នករកជំហានបន្ទាប់។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may be asking whether staying longer will ever bring the rewards you hoped for. Your patience with this job is being tested.",
+        "km": "អ្នកប្រហែលជាកំពុងសួរថា តើការនៅយូរជាងនេះ នឹងនាំមកនូវរង្វាន់ដែលអ្នកសង្ឃឹមឬទេ។ ការអត់ធ្មត់របស់អ្នកចំពោះការងារនេះ កំពុងត្រូវបានសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Leaving just before your investment pays off could waste a great deal of effort. Assess honestly whether growth is coming.",
+        "km": "ការចាកចេញ មុនពេលការវិនិយោគរបស់អ្នកទទួលបានផលបន្តិច អាចខ្ជះខ្ជាយការខិតខំយ៉ាងច្រើន។ សូមវាយតម្លៃដោយស្មោះត្រង់ថា តើការរីកចម្រើនកំពុងមកដល់ឬទេ។"
+      },
+      "outcome": {
+        "en": "A measured search could show you whether to stay and harvest or move on. Patient judgement may lead to the right choice.",
+        "km": "ការស្វែងរកដោយវាស់វែង អាចបង្ហាញអ្នកថាតើត្រូវនៅ និងប្រមូលផល ឬបន្តទៅមុខ។ ការវិនិច្ឆ័យដោយអត់ធ្មត់ អាចនាំទៅរកជម្រើសត្រឹមត្រូវ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "You may be building skills or qualifications that make you more employable. Your commitment to learning is clear.",
+        "km": "អ្នកប្រហែលជាកំពុងកសាងជំនាញ ឬលក្ខណៈសម្បត្តិ ដែលធ្វើឱ្យអ្នកងាយរកការងារ។ ការប្តេជ្ញាចិត្តរបស់អ្នកចំពោះការរៀន គឺច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Waiting until you feel fully qualified could mean waiting too long. Apply while you are still learning.",
+        "km": "ការរង់ចាំរហូតដល់អ្នកមានអារម្មណ៍ថាមានលក្ខណៈសម្បត្តិពេញលេញ អាចមានន័យថារង់ចាំយូរពេក។ សូមដាក់ពាក្យសុំ ខណៈអ្នកនៅតែកំពុងរៀន។"
+      },
+      "outcome": {
+        "en": "A search based on growing skills could lead to a role that uses them well. Your dedication may be noticed.",
+        "km": "ការស្វែងរកដែលផ្អែកលើជំនាញដែលកំពុងរីកចម្រើន អាចនាំទៅរកតួនាទីដែលប្រើវាបានល្អ។ ការលះបង់របស់អ្នក អាចត្រូវបានកត់សម្គាល់។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You may feel financially secure and independent, giving you freedom to choose. You do not need to rush.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍សុវត្ថិភាពផ្នែកហិរញ្ញវត្ថុ និងឯករាជ្យ ដែលផ្តល់សេរីភាពឱ្យអ្នកជ្រើសរើស។ អ្នកមិនចាំបាច់ប្រញាប់ទេ។"
+      },
+      "challenge": {
+        "en": "Being too comfortable could make you pass up a good opportunity. Stay open to roles that offer more.",
+        "km": "ការសុខស្រួលពេក អាចធ្វើឱ្យអ្នករំលងឱកាសល្អមួយ។ សូមនៅតែបើកចិត្តចំពោះតួនាទីដែលផ្តល់ច្រើនជាងនេះ។"
+      },
+      "outcome": {
+        "en": "A relaxed, selective search could lead to a role that suits your lifestyle. Independence may let you choose well.",
+        "km": "ការស្វែងរកដោយធូរស្រាល និងជ្រើសរើស អាចនាំទៅរកតួនាទីដែលសមនឹងរបៀបរស់នៅរបស់អ្នក។ ឯករាជ្យភាពអាចឱ្យអ្នកជ្រើសរើសបានល្អ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "You may be thinking about long-term security and how your career supports your family. Stability matters.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតអំពីសុវត្ថិភាពរយៈពេលវែង និងរបៀបដែលអាជីពរបស់អ្នកគាំទ្រគ្រួសារ។ ស្ថិរភាពសំខាន់។"
+      },
+      "challenge": {
+        "en": "Trading long-term security for a quick gain could cause problems later. Think about pensions, benefits and stability too.",
+        "km": "ការដោះដូរសុវត្ថិភាពរយៈពេលវែង សម្រាប់ផលចំណេញរហ័ស អាចបង្កបញ្ហានៅពេលក្រោយ។ សូមគិតអំពីប្រាក់សោធន អត្ថប្រយោជន៍ និងស្ថិរភាពផងដែរ។"
+      },
+      "outcome": {
+        "en": "A careful search could lead to a role with lasting stability and good benefits. Your family's security may be strengthened.",
+        "km": "ការស្វែងរកដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកតួនាទីដែលមានស្ថិរភាពយូរអង្វែង និងអត្ថប្រយោជន៍ល្អ។ សុវត្ថិភាពគ្រួសាររបស់អ្នក អាចត្រូវបានពង្រឹង។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You may be exploring a new field or starting to learn practical skills for a different role. You are taking careful first steps.",
+        "km": "អ្នកប្រហែលជាកំពុងស្វែងយល់វិស័យថ្មី ឬចាប់ផ្តើមរៀនជំនាញជាក់ស្តែងសម្រាប់តួនាទីផ្សេង។ អ្នកកំពុងដើរជំហានដំបូងដោយប្រុងប្រយ័ត្ន។"
+      },
+      "challenge": {
+        "en": "Being too cautious to apply until everything is perfect could slow you down. Start with small, real steps.",
+        "km": "ការប្រុងប្រយ័ត្នពេកមិនហ៊ានដាក់ពាក្យសុំ រហូតដល់អ្វីៗល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកយឺត។ សូមចាប់ផ្តើមពីជំហានតូចៗ និងពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "A practical, step-by-step search could open an entry point into new work. Modest beginnings may grow.",
+        "km": "ការស្វែងរកជាក់ស្តែង មួយជំហានម្តងៗ អាចបើកច្រកចូលទៅក្នុងការងារថ្មី។ ការចាប់ផ្តើមដ៏សាមញ្ញ អាចរីកចម្រើន។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "You prefer to move slowly and carefully, making sure any change is solid. Reliability matters to you.",
+        "km": "អ្នកចូលចិត្តផ្លាស់ទីយឺតៗ និងប្រុងប្រយ័ត្ន ដោយធ្វើឱ្យប្រាកដថាការផ្លាស់ប្តូរណាមួយរឹងមាំ។ ភាពគួរឱ្យទុកចិត្តសំខាន់សម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Moving so slowly could mean good openings are filled before you apply. Keep a steady but timely pace.",
+        "km": "ការផ្លាស់ទីយឺតពេក អាចមានន័យថាឱកាសល្អៗត្រូវបានបំពេញ មុនពេលអ្នកដាក់ពាក្យសុំ។ សូមរក្សាល្បឿននឹងនរ ប៉ុន្តែទាន់ពេល។"
+      },
+      "outcome": {
+        "en": "A steady, methodical search could lead to a dependable new role. Patience may bring a secure result.",
+        "km": "ការស្វែងរកជាប្រចាំ និងមានវិធីសាស្ត្រ អាចនាំទៅរកតួនាទីថ្មីដែលអាចពឹងបាន។ ការអត់ធ្មត់អាចនាំមកនូវលទ្ធផលដែលមានសុវត្ថិភាព។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You may be thinking about how a new job would fit with home and caring responsibilities. Practical needs matter.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតពីរបៀបដែលការងារថ្មី នឹងសមនឹងការទទួលខុសត្រូវនៅផ្ទះ និងការថែទាំ។ តម្រូវការជាក់ស្តែងសំខាន់។"
+      },
+      "challenge": {
+        "en": "Putting everyone else's needs ahead of your own career could keep you stuck. Your growth matters too.",
+        "km": "ការដាក់តម្រូវការរបស់អ្នកដទៃទាំងអស់ មុនអាជីពរបស់អ្នក អាចធ្វើឱ្យអ្នកជាប់គាំង។ ការរីកចម្រើនរបស់អ្នកក៏សំខាន់ដែរ។"
+      },
+      "outcome": {
+        "en": "A search with your whole life in mind could lead to a role that supports home and work. Practical balance may bring contentment.",
+        "km": "ការស្វែងរកដោយគិតពីជីវិតទាំងមូលរបស់អ្នក អាចនាំទៅរកតួនាទីដែលគាំទ្រទាំងផ្ទះ និងការងារ។ តុល្យភាពជាក់ស្តែងអាចនាំមកនូវការពេញចិត្ត។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You may be in a secure, successful position, considering whether to move up or move on. You have bargaining power.",
+        "km": "អ្នកប្រហែលជានៅក្នុងតំណែងដែលមានសុវត្ថិភាព និងជោគជ័យ ដោយពិចារណាថាតើគួរឡើងតំណែង ឬបន្តទៅមុខ។ អ្នកមានអំណាចចរចា។"
+      },
+      "challenge": {
+        "en": "Focusing only on salary in negotiations could make you overlook culture and growth. Weigh the whole package.",
+        "km": "ការផ្តោតតែលើប្រាក់បៀវត្សក្នុងការចរចា អាចធ្វើឱ្យអ្នកមើលរំលងវប្បធម៌ និងការរីកចម្រើន។ សូមថ្លឹងថ្លែងកញ្ចប់ទាំងមូល។"
+      },
+      "outcome": {
+        "en": "A strong position could help you negotiate a rewarding move. Wise choices may bring lasting success.",
+        "km": "តំណែងរឹងមាំ អាចជួយអ្នកចរចាការផ្លាស់ប្តូរដែលគួរឱ្យពេញចិត្ត។ ជម្រើសដ៏ឈ្លាសវៃ អាចនាំមកនូវជោគជ័យយូរអង្វែង។"
+      }
+    }
+  }
+}
