@@ -1,0 +1,1097 @@
+{
+  "questionId": "CW-09",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Bring a lighter, more playful attitude to the pressures you face. Not every problem has to be carried as if everything depends on it.",
+        "km": "សូមនាំអាកប្បកិរិយាស្រាល និងលេងសើចជាងមុន មកកាន់សម្ពាធដែលអ្នកប្រឈម។ មិនមែនគ្រប់បញ្ហាត្រូវតែលីដូចជាអ្វីៗទាំងអស់អាស្រ័យលើវានោះទេ។"
+      },
+      "challenge": {
+        "en": "Ignoring stress and hoping it disappears could let it build until it catches you off guard. Notice the early signs instead.",
+        "km": "ការមិនខ្វល់ពីភាពតានតឹង ហើយសង្ឃឹមថាវានឹងបាត់ទៅ អាចធ្វើឱ្យវាកើនឡើង រហូតដល់វាធ្វើឱ្យអ្នកភ្ញាក់ផ្អើល។ សូមកត់សម្គាល់សញ្ញាដំបូងៗជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "A fresh, more relaxed approach could make work feel less heavy. You may rediscover a sense of ease and freedom.",
+        "km": "វិធីសាស្ត្រថ្មី និងធូរស្រាលជាងមុន អាចធ្វើឱ្យការងារមានអារម្មណ៍ធ្ងន់តិច។ អ្នកអាចរកឃើញអារម្មណ៍ងាយស្រួល និងសេរីភាពឡើងវិញ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Use the tools and skills you already have to take control of what is stressing you. Breaking a problem into clear steps makes it more manageable.",
+        "km": "សូមប្រើឧបករណ៍ និងជំនាញដែលអ្នកមានរួចហើយ ដើម្បីគ្រប់គ្រងអ្វីដែលធ្វើឱ្យអ្នកតានតឹង។ ការបំបែកបញ្ហាមួយទៅជាជំហានច្បាស់លាស់ ធ្វើឱ្យវាងាយគ្រប់គ្រងជាងមុន។"
+      },
+      "challenge": {
+        "en": "Trying to fix everything at once could scatter your energy and add to the pressure. Focus on one task you can complete.",
+        "km": "ការព្យាយាមជួសជុលអ្វីៗទាំងអស់ក្នុងពេលតែមួយ អាចធ្វើឱ្យថាមពលរបស់អ្នករាយប៉ាយ ហើយបន្ថែមសម្ពាធ។ សូមផ្តោតលើកិច្ចការមួយដែលអ្នកអាចបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "Taking practical charge of your workload could restore a sense of control. Stress may ease as you see results.",
+        "km": "ការគ្រប់គ្រងបន្ទុកការងាររបស់អ្នកដោយជាក់ស្តែង អាចស្តារអារម្មណ៍នៃការគ្រប់គ្រងឡើងវិញ។ ភាពតានតឹងអាចធូរស្រាល នៅពេលអ្នកឃើញលទ្ធផល។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Make space for quiet moments to listen to what your body and mind are telling you. Stillness can show you what needs to change.",
+        "km": "សូមរៀបចំកន្លែងសម្រាប់ពេលស្ងប់ស្ងាត់ ដើម្បីស្តាប់អ្វីដែលរាងកាយ និងចិត្តរបស់អ្នកកំពុងប្រាប់។ ភាពស្ងៀមស្ងាត់ អាចបង្ហាញអ្នកពីអ្វីដែលត្រូវផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Keeping stress hidden from everyone could make it heavier to carry alone. Telling one trusted person how you really feel can lighten it.",
+        "km": "ការលាក់ភាពតានតឹងពីមនុស្សគ្រប់គ្នា អាចធ្វើឱ្យវាធ្ងន់ជាងមុន ក្នុងការលីម្នាក់ឯង។ ការប្រាប់មនុស្សម្នាក់ដែលអ្នកទុកចិត្ត ពីអារម្មណ៍ពិតរបស់អ្នក អាចធ្វើឱ្យវាស្រាល។"
+      },
+      "outcome": {
+        "en": "Inner calm could become a resource you can return to under pressure. Intuition may guide you through difficult moments.",
+        "km": "ភាពស្ងប់ស្ងាត់ខាងក្នុង អាចក្លាយជាធនធានដែលអ្នកអាចត្រឡប់មកវិញក្រោមសម្ពាធ។ វិចារណញាណ អាចណែនាំអ្នកឆ្លងកាត់ពេលវេលាលំបាក។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Look after yourself with the same care you give to others, through rest, good food and time in nature. Nurturing yourself eases stress.",
+        "km": "សូមមើលថែខ្លួនឯង ដោយការយកចិត្តទុកដាក់ដូចដែលអ្នកផ្តល់ដល់អ្នកដទៃ តាមរយៈការសម្រាក អាហារល្អ និងពេលវេលានៅក្នុងធម្មជាតិ។ ការថែទាំខ្លួនឯង បន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Giving all your energy to work and others could leave nothing for your own recovery. Refill your reserves before they run dry.",
+        "km": "ការផ្តល់ថាមពលទាំងអស់ដល់ការងារ និងអ្នកដទៃ អាចមិនទុកអ្វីសម្រាប់ការស្តារកម្លាំងរបស់អ្នកផ្ទាល់។ សូមបំពេញទុនបម្រុងរបស់អ្នក មុនពេលវាអស់។"
+      },
+      "outcome": {
+        "en": "Caring for yourself could bring back energy and calm. Work may feel more manageable when you are well.",
+        "km": "ការមើលថែខ្លួនឯង អាចនាំថាមពល និងភាពស្ងប់ស្ងាត់មកវិញ។ ការងារអាចមានអារម្មណ៍ងាយគ្រប់គ្រងជាងមុន នៅពេលអ្នកសុខសប្បាយ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Bring structure and order to your workload with clear plans, priorities and routines. A good system can take much of the chaos out of stress.",
+        "km": "សូមនាំរចនាសម្ព័ន្ធ និងរបៀបរៀបរយ មកកាន់បន្ទុកការងាររបស់អ្នក ដោយផែនការ អាទិភាព និងទម្លាប់ច្បាស់លាស់។ ប្រព័ន្ធល្អ អាចដកភាពច្របូកច្របល់ជាច្រើនចេញពីភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Trying to control every detail could become a source of stress itself. Let go of what does not need your attention.",
+        "km": "ការព្យាយាមគ្រប់គ្រងរាល់ព័ត៌មានលម្អិត អាចក្លាយជាប្រភពនៃភាពតានតឹងដោយខ្លួនវាផ្ទាល់។ សូមលែងអ្វីដែលមិនត្រូវការការយកចិត្តទុកដាក់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Better structure could bring a calmer, more stable working life. You may feel more in command.",
+        "km": "រចនាសម្ព័ន្ធល្អជាងមុន អាចនាំមកនូវជីវិតការងារស្ងប់ស្ងាត់ និងមានស្ថិរភាពជាងមុន។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងបានច្រើនជាងមុន។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Lean on proven methods and the guidance of experienced people when pressure rises. You do not have to work out every answer alone.",
+        "km": "សូមពឹងផ្អែកលើវិធីសាស្ត្រដែលបានបញ្ជាក់ និងការណែនាំរបស់មនុស្សដែលមានបទពិសោធន៍ នៅពេលសម្ពាធកើនឡើង។ អ្នកមិនចាំបាច់រកចម្លើយគ្រប់យ៉ាងម្នាក់ឯងទេ។"
+      },
+      "challenge": {
+        "en": "Feeling you must meet every expectation exactly could create constant pressure. Ask which rules really matter.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែបំពេញរាល់ការរំពឹងទុកឱ្យបានត្រឹមត្រូវ អាចបង្កើតសម្ពាធជានិច្ច។ សូមសួរថាច្បាប់ណាដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "Support from a mentor or trusted adviser could make stress easier to manage. Shared wisdom may steady you.",
+        "km": "ការគាំទ្រពីអ្នកណែនាំ ឬទីប្រឹក្សាដែលអ្នកទុកចិត្ត អាចធ្វើឱ្យភាពតានតឹងងាយគ្រប់គ្រងជាងមុន។ ប្រាជ្ញារួម អាចធ្វើឱ្យអ្នកនឹងនរ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Make clear choices about what you will and will not take on, based on what matters most. Saying no to some things protects your energy.",
+        "km": "សូមធ្វើជម្រើសច្បាស់លាស់អំពីអ្វីដែលអ្នកនឹងទទួលយក និងមិនទទួលយក ដោយផ្អែកលើអ្វីដែលសំខាន់បំផុត។ ការបដិសេធរឿងខ្លះ ការពារថាមពលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Feeling torn between competing demands could pull you in two directions. Decide which matters most and start there.",
+        "km": "អារម្មណ៍ស្ទាក់ស្ទើររវាងតម្រូវការប្រកួតប្រជែង អាចទាញអ្នកទៅពីរទិស។ សូមសម្រេចថាមួយណាសំខាន់បំផុត ហើយចាប់ផ្តើមពីទីនោះ។"
+      },
+      "outcome": {
+        "en": "Choices aligned with your values could ease inner conflict. You may feel more at peace with your work.",
+        "km": "ជម្រើសដែលស្របនឹងគុណតម្លៃរបស់អ្នក អាចបន្ធូរជម្លោះខាងក្នុង។ អ្នកអាចមានអារម្មណ៍ស្ងប់ចិត្តជាងមុនជាមួយការងាររបស់អ្នក។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Take charge of your direction by setting clear goals and steering your energy toward them. Feeling in control reduces stress.",
+        "km": "សូមគ្រប់គ្រងទិសដៅរបស់អ្នក ដោយកំណត់គោលដៅច្បាស់លាស់ ហើយដឹកនាំថាមពលរបស់អ្នកឆ្ពោះទៅរកវា។ អារម្មណ៍នៃការគ្រប់គ្រង កាត់បន្ថយភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Pushing yourself relentlessly to keep up could lead to burnout. Discipline includes knowing when to stop.",
+        "km": "ការជំរុញខ្លួនឯងឥតឈប់ឈរ ដើម្បីតាមឱ្យទាន់ អាចនាំឱ្យអស់កម្លាំង។ វិន័យរួមបញ្ចូលការដឹងថាពេលណាត្រូវឈប់។"
+      },
+      "outcome": {
+        "en": "Focused effort could carry you through a demanding stretch with a sense of achievement. Pressure may become manageable.",
+        "km": "ការខិតខំដោយផ្តោត អាចនាំអ្នកឆ្លងកាត់ដំណាក់កាលទាមទារខ្លាំង ដោយអារម្មណ៍នៃសមិទ្ធផល។ សម្ពាធអាចក្លាយជាអ្វីដែលអាចគ្រប់គ្រងបាន។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Meet pressure with patience and gentle strength rather than force. Calm persistence often handles stress better than struggle.",
+        "km": "សូមប្រឈមមុខនឹងសម្ពាធ ដោយការអត់ធ្មត់ និងកម្លាំងទន់ភ្លន់ ជាជាងកម្លាំងខ្លាំង។ ការតស៊ូដោយស្ងប់ស្ងាត់ ជារឿយៗដោះស្រាយភាពតានតឹងបានល្អជាងការតស៊ូប្រឆាំង។"
+      },
+      "challenge": {
+        "en": "Swallowing frustration until it bursts out could damage relationships and your health. Release tension in healthy ways.",
+        "km": "ការលេបការខកចិត្ត រហូតដល់វាផ្ទុះចេញ អាចបំផ្លាញទំនាក់ទំនង និងសុខភាពរបស់អ្នក។ សូមបញ្ចេញភាពតានតឹងតាមវិធីដែលមានសុខភាពល្អ។"
+      },
+      "outcome": {
+        "en": "Your inner strength could help you stay steady through difficult periods. Confidence may grow with each challenge.",
+        "km": "កម្លាំងខាងក្នុងរបស់អ្នក អាចជួយឱ្យអ្នកនៅនឹងនរ ឆ្លងកាត់ដំណាក់កាលលំបាក។ ទំនុកចិត្តអាចកើនឡើងជាមួយការប្រឈមនីមួយៗ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Step back and give yourself some quiet time alone to recharge. Solitude can help you see your stress more clearly.",
+        "km": "សូមដកខ្លួនបន្តិច ហើយផ្តល់ពេលវេលាស្ងប់ស្ងាត់ម្នាក់ឯងដល់ខ្លួនឯង ដើម្បីបញ្ចូលថាមពលឡើងវិញ។ ភាពឯកោ អាចជួយអ្នកមើលឃើញភាពតានតឹងរបស់អ្នកកាន់តែច្បាស់។"
+      },
+      "challenge": {
+        "en": "Withdrawing completely could leave you alone with your worries, which tends to make them grow. Balance solitude with connection.",
+        "km": "ការដកខ្លួនទាំងស្រុង អាចធ្វើឱ្យអ្នកនៅម្នាក់ឯងជាមួយការព្រួយបារម្ភរបស់អ្នក ដែលច្រើនតែធ្វើឱ្យវាកើនឡើង។ សូមធ្វើឱ្យមានតុល្យភាពរវាងភាពឯកោ និងការភ្ជាប់ទំនាក់ទំនង។"
+      },
+      "outcome": {
+        "en": "Reflection could bring a calmer, wiser perspective on work pressures. You may find your own way through.",
+        "km": "ការឆ្លុះបញ្ចាំង អាចនាំមកនូវទស្សនៈស្ងប់ស្ងាត់ និងឆ្លាតវៃជាងមុន ចំពោះសម្ពាធការងារ។ អ្នកអាចរកឃើញផ្លូវរបស់អ្នកផ្ទាល់ឆ្លងកាត់។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Accept that some pressures come and go with cycles beyond your control. Riding the ups and downs is easier than fighting them.",
+        "km": "សូមទទួលយកថាសម្ពាធខ្លះមក ហើយទៅតាមវដ្តដែលហួសពីការគ្រប់គ្រងរបស់អ្នក។ ការជិះលើការឡើងចុះ ងាយស្រួលជាងការប្រយុទ្ធប្រឆាំងនឹងវា។"
+      },
+      "challenge": {
+        "en": "Feeling helpless about changes at work could add to your stress. Put your energy into the parts of the situation you can actually shape.",
+        "km": "អារម្មណ៍គ្មានទីពឹងចំពោះការផ្លាស់ប្តូរនៅកន្លែងធ្វើការ អាចបន្ថែមភាពតានតឹងរបស់អ្នក។ សូមដាក់ថាមពលរបស់អ្នកទៅលើផ្នែកនៃស្ថានភាពដែលអ្នកពិតជាអាចរៀបចំបាន។"
+      },
+      "outcome": {
+        "en": "A change in circumstances could bring welcome relief. The pressure may lift as things turn in a better direction.",
+        "km": "ការផ្លាស់ប្តូរកាលៈទេសៈ អាចនាំមកនូវការធូរស្រាលដែលគួរស្វាគមន៍។ សម្ពាធអាចស្រាលឡើង នៅពេលអ្វីៗប្រែទៅទិសដៅល្អជាង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Look honestly at whether your workload is fair and speak up if it is not. Addressing imbalance can reduce stress at its source.",
+        "km": "សូមមើលដោយស្មោះត្រង់ថាតើបន្ទុកការងាររបស់អ្នកយុត្តិធម៌ឬទេ ហើយនិយាយឡើង ប្រសិនបើវាមិនយុត្តិធម៌។ ការដោះស្រាយអតុល្យភាព អាចកាត់បន្ថយភាពតានតឹងពីប្រភពរបស់វា។"
+      },
+      "challenge": {
+        "en": "Blaming yourself for every problem could add guilt to stress. Look fairly at what is and is not your responsibility.",
+        "km": "ការបន្ទោសខ្លួនឯងចំពោះរាល់បញ្ហា អាចបន្ថែមកំហុសទៅលើភាពតានតឹង។ សូមមើលដោយយុត្តិធម៌ពីអ្វីដែលជា និងមិនមែនជាការទទួលខុសត្រូវរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A fairer balance of work could bring real relief. Honest conversations may lead to better arrangements.",
+        "km": "តុល្យភាពការងារដែលយុត្តិធម៌ជាងមុន អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។ ការសន្ទនាដោយស្មោះត្រង់ អាចនាំទៅរកការរៀបចំល្អជាង។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Pause and look at your situation from a different angle. Sometimes a stressful problem looks smaller once you step back.",
+        "km": "សូមផ្អាក ហើយមើលស្ថានភាពរបស់អ្នកពីមុំផ្សេង។ ពេលខ្លះ បញ្ហាដែលធ្វើឱ្យតានតឹង មើលទៅតូចជាងមុន នៅពេលអ្នកដកខ្លួនបន្តិច។"
+      },
+      "challenge": {
+        "en": "Feeling stuck could make stress seem endless. A short break or change of routine can loosen its grip.",
+        "km": "អារម្មណ៍ជាប់គាំង អាចធ្វើឱ្យភាពតានតឹងហាក់ដូចជាគ្មានទីបញ្ចប់។ ការសម្រាកខ្លី ឬការផ្លាស់ប្តូរទម្លាប់ អាចបន្ធូរការក្តាប់របស់វា។"
+      },
+      "outcome": {
+        "en": "A new perspective could make pressures feel lighter. You may find unexpected relief by letting go.",
+        "km": "ទស្សនៈថ្មី អាចធ្វើឱ្យសម្ពាធមានអារម្មណ៍ស្រាលជាងមុន។ អ្នកអាចរកឃើញការធូរស្រាលដែលមិនបានរំពឹងទុក ដោយការបោះបង់។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Let go of habits, tasks or expectations that keep adding to your stress. Ending what drains you can make room for calm.",
+        "km": "សូមលែងទម្លាប់ កិច្ចការ ឬការរំពឹងទុក ដែលបន្តបន្ថែមភាពតានតឹងរបស់អ្នក។ ការបញ្ចប់អ្វីដែលបូមកម្លាំងអ្នក អាចបើកកន្លែងសម្រាប់ភាពស្ងប់ស្ងាត់។"
+      },
+      "challenge": {
+        "en": "Resisting a necessary change at work could keep you tense. Accepting what is ending may bring relief.",
+        "km": "ការទប់ទល់នឹងការផ្លាស់ប្តូរចាំបាច់នៅកន្លែងធ្វើការ អាចធ្វើឱ្យអ្នកតានតឹង។ ការទទួលយកអ្វីដែលកំពុងបញ្ចប់ អាចនាំមកនូវការធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "A significant change could clear away a major source of stress. Something calmer may grow in the space it leaves.",
+        "km": "ការផ្លាស់ប្តូរដ៏សំខាន់ អាចបោសសម្អាតប្រភពធំនៃភាពតានតឹង។ អ្វីដែលស្ងប់ស្ងាត់ជាងមុន អាចដុះឡើងក្នុងកន្លែងទំនេរដែលវាបន្សល់ទុក។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Find a steady, moderate pace and mix demanding work with restful moments. Balance is one of the best defences against stress.",
+        "km": "សូមរកចង្វាក់នឹងនរ និងល្មម ហើយលាយការងារដែលទាមទារខ្លាំង ជាមួយពេលវេលាសម្រាក។ តុល្យភាព គឺជាការការពារល្អបំផុតមួយប្រឆាំងនឹងភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Swinging between overwork and collapse could wear you down badly. Aim for a steady rhythm you can actually keep up.",
+        "km": "ការយោលរវាងការធ្វើការហួសកម្លាំង និងការដួលរលំ អាចធ្វើឱ្យអ្នកអស់កម្លាំងខ្លាំង។ សូមប្រាថ្នាឱ្យមានចង្វាក់នឹងនរ ដែលអ្នកពិតជាអាចរក្សាបាន។"
+      },
+      "outcome": {
+        "en": "A more balanced rhythm could bring lasting calm. Work and rest may find their proper places.",
+        "km": "ចង្វាក់មានតុល្យភាពជាងមុន អាចនាំមកនូវភាពស្ងប់ស្ងាត់ស្ថិតស្ថេរ។ ការងារ និងការសម្រាក អាចរកឃើញកន្លែងត្រឹមត្រូវរបស់វា។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Notice the habits or pressures that keep you hooked into stress, like checking messages constantly. Seeing the pattern is the first step to breaking it.",
+        "km": "សូមកត់សម្គាល់ទម្លាប់ ឬសម្ពាធ ដែលរក្សាអ្នកឱ្យជាប់ក្នុងភាពតានតឹង ដូចជាការពិនិត្យសារជាប្រចាំ។ ការមើលឃើញលំនាំ គឺជាជំហានដំបូងដើម្បីបំបែកវា។"
+      },
+      "challenge": {
+        "en": "Coping through unhealthy habits could make stress worse in the end. If you feel trapped, consider talking to a counsellor or doctor.",
+        "km": "ការដោះស្រាយតាមរយៈទម្លាប់មិនល្អ អាចធ្វើឱ្យភាពតានតឹងកាន់តែអាក្រក់នៅទីបញ្ចប់។ ប្រសិនបើអ្នកមានអារម្មណ៍ជាប់អន្ទាក់ សូមពិចារណានិយាយជាមួយអ្នកប្រឹក្សា ឬគ្រូពេទ្យ។"
+      },
+      "outcome": {
+        "en": "Breaking free from a stressful pattern could bring a real sense of release. You may feel lighter.",
+        "km": "ការរួចផុតពីលំនាំដែលធ្វើឱ្យតានតឹង អាចនាំមកនូវអារម្មណ៍នៃការដោះលែងពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "If a sudden crisis has shaken you, focus first on what is urgent and let the rest wait. Steadying yourself comes before fixing everything.",
+        "km": "ប្រសិនបើវិបត្តិភ្លាមៗបានរង្គោះរង្គើអ្នក សូមផ្តោតជាមុនលើអ្វីដែលបន្ទាន់ ហើយឱ្យអ្វីផ្សេងទៀតរង់ចាំ។ ការធ្វើឱ្យខ្លួនឯងនឹងនរ មកមុនការជួសជុលអ្វីៗទាំងអស់។"
+      },
+      "challenge": {
+        "en": "A sudden blow at work could leave you feeling overwhelmed. If the shock does not ease, reach out for professional support.",
+        "km": "ការវាយប្រហារភ្លាមៗនៅកន្លែងធ្វើការ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍លើសកម្លាំង។ ប្រសិនបើការភ្ញាក់ផ្អើលមិនធូរស្រាល សូមស្វែងរកការគាំទ្រពីអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Coming through a crisis could leave you stronger and clearer about your limits. Rebuilding may bring calm.",
+        "km": "ការឆ្លងកាត់វិបត្តិ អាចធ្វើឱ្យអ្នករឹងមាំជាងមុន និងច្បាស់លាស់ជាងមុនអំពីដែនកំណត់របស់អ្នក។ ការកសាងឡើងវិញ អាចនាំមកនូវភាពស្ងប់ស្ងាត់។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hold on to hope and remind yourself that pressure like this does not stay at its peak. Small moments of rest and beauty can renew you.",
+        "km": "សូមកាន់ក្តីសង្ឃឹម ហើយរំលឹកខ្លួនឯងថាសម្ពាធបែបនេះ មិននៅកម្រិតខ្ពស់បំផុតជានិច្ចទេ។ ពេលវេលាតូចៗនៃការសម្រាក និងភាពស្រស់ស្អាត អាចធ្វើឱ្យអ្នកកើតឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Losing hope under prolonged stress could make everything feel worse. Reach out to someone who can help you see a way through.",
+        "km": "ការបាត់បង់ក្តីសង្ឃឹមក្រោមភាពតានតឹងយូរ អាចធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់។ សូមទាក់ទងនរណាម្នាក់ដែលអាចជួយអ្នកមើលឃើញផ្លូវឆ្លងកាត់។"
+      },
+      "outcome": {
+        "en": "Healing and renewed energy could follow a stressful period. Optimism may return, bringing a gentler view of your work.",
+        "km": "ការព្យាបាល និងថាមពលថ្មី អាចកើតឡើងបន្ទាប់ពីដំណាក់កាលតានតឹង។ សុទិដ្ឋិនិយមអាចត្រឡប់មកវិញ ដោយនាំមកនូវទស្សនៈទន់ភ្លន់ជាងមុនចំពោះការងាររបស់អ្នក។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Pay attention to vague worries and fears that may be adding to your stress. Writing them down can make them less overwhelming.",
+        "km": "សូមយកចិត្តទុកដាក់ចំពោះការព្រួយបារម្ភ និងការភ័យខ្លាចមិនច្បាស់លាស់ ដែលប្រហែលជាកំពុងបន្ថែមភាពតានតឹងរបស់អ្នក។ ការសរសេរវាចុះ អាចធ្វើឱ្យវាមិនសូវលើសកម្លាំង។"
+      },
+      "challenge": {
+        "en": "Uncertainty and rumours could fuel anxiety that is bigger than the real problem. Check the facts before you worry.",
+        "km": "ភាពមិនប្រាកដប្រជា និងពាក្យចចាមអារ៉ាម អាចបង្កើនការថប់បារម្ភដែលធំជាងបញ្ហាពិត។ សូមពិនិត្យការពិត មុននឹងព្រួយបារម្ភ។"
+      },
+      "outcome": {
+        "en": "Clarity could dissolve fears that seemed overwhelming. Things may look calmer and smaller once you see them clearly.",
+        "km": "ភាពច្បាស់លាស់ អាចរំលាយការភ័យខ្លាចដែលហាក់ដូចជាលើសកម្លាំង។ អ្វីៗអាចមើលទៅស្ងប់ស្ងាត់ និងតូចជាងមុន នៅពេលអ្នកមើលឃើញវាយ៉ាងច្បាស់។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Bring warmth and positivity into your working life through small pleasures and good company. Joy is a powerful antidote to stress.",
+        "km": "សូមនាំភាពកក់ក្តៅ និងភាពវិជ្ជមាន មកកាន់ជីវិតការងាររបស់អ្នក តាមរយៈសេចក្តីរីករាយតូចៗ និងមិត្តភក្តិល្អ។ សេចក្តីរីករាយ គឺជាថ្នាំបន្សាបដ៏មានឥទ្ធិពលចំពោះភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Putting on a brave face while struggling inside could exhaust you. It is fine to admit you are under pressure.",
+        "km": "ការធ្វើមុខក្លាហាន ខណៈដែលតស៊ូនៅខាងក្នុង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ វាជារឿងធម្មតាក្នុងការទទួលស្គាល់ថាអ្នកស្ថិតក្រោមសម្ពាធ។"
+      },
+      "outcome": {
+        "en": "Lighter, brighter moments at work could return. Success and good spirits may ease the pressure you have been under.",
+        "km": "ពេលវេលាដែលស្រាល និងភ្លឺស្វាងជាងមុននៅកន្លែងធ្វើការ អាចត្រឡប់មកវិញ។ ភាពជោគជ័យ និងស្មារតីល្អ អាចបន្ធូរសម្ពាធដែលអ្នកបានរងនោះ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Take an honest look at what is really causing your stress and what you can change. A clear assessment can be a wake-up call.",
+        "km": "សូមមើលដោយស្មោះត្រង់ ពីអ្វីដែលពិតជាបង្កភាពតានតឹងរបស់អ្នក និងអ្វីដែលអ្នកអាចផ្លាស់ប្តូរ។ ការវាយតម្លៃច្បាស់លាស់ អាចជាការដាស់តឿន។"
+      },
+      "challenge": {
+        "en": "Being harsh with yourself about not coping could make stress worse. Treat yourself with the understanding you would give a friend.",
+        "km": "ការតឹងរ៉ឹងចំពោះខ្លួនឯង ដោយសារមិនអាចដោះស្រាយបាន អាចធ្វើឱ្យភាពតានតឹងកាន់តែអាក្រក់។ សូមប្រព្រឹត្តចំពោះខ្លួនឯង ដោយការយល់ចិត្តដែលអ្នកនឹងផ្តល់ដល់មិត្តភក្តិ។"
+      },
+      "outcome": {
+        "en": "A clear decision to change could bring renewal and relief. You may feel ready for a fresh start.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់ដើម្បីផ្លាស់ប្តូរ អាចនាំមកនូវការកើតឡើងវិញ និងការធូរស្រាល។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនសម្រាប់ការចាប់ផ្តើមថ្មី។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Recognise how much you have already handled and give yourself credit. Finishing what you start can lift a weight off your mind.",
+        "km": "សូមទទួលស្គាល់ថាអ្នកបានដោះស្រាយរួចហើយច្រើនប៉ុណ្ណា ហើយផ្តល់កិត្តិយសដល់ខ្លួនឯង។ ការបញ្ចប់អ្វីដែលអ្នកចាប់ផ្តើម អាចលើកទម្ងន់ចេញពីចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Leaving many tasks half-done could keep stress simmering. Complete one thing fully before starting the next.",
+        "km": "ការទុកកិច្ចការជាច្រើនធ្វើបានពាក់កណ្តាល អាចធ្វើឱ្យភាពតានតឹងពុះឡើងជានិច្ច។ សូមបញ្ចប់រឿងមួយឱ្យពេញលេញ មុននឹងចាប់ផ្តើមរឿងបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Completing a demanding phase could bring a deep sense of relief. A calmer chapter may begin.",
+        "km": "ការបញ្ចប់ដំណាក់កាលដែលទាមទារខ្លាំង អាចនាំមកនូវអារម្មណ៍ធូរស្រាលយ៉ាងជ្រាលជ្រៅ។ ជំពូកស្ងប់ស្ងាត់ជាងមុន អាចចាប់ផ្តើម។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Channel nervous energy into one positive action, like starting a task you have been avoiding. Movement often eases stress better than worry does.",
+        "km": "សូមបង្វែរថាមពលភ័យខ្លាច ទៅក្នុងសកម្មភាពវិជ្ជមានមួយ ដូចជាការចាប់ផ្តើមកិច្ចការដែលអ្នកបានជៀសវាង។ ចលនា ជារឿយៗបន្ធូរភាពតានតឹងបានល្អជាងការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Taking on exciting new projects when you are already stretched could tip you into overload. Start new things only when there is room.",
+        "km": "ការទទួលយកគម្រោងថ្មីដ៏គួរឱ្យរំភើប នៅពេលអ្នកតឹងតែងរួចហើយ អាចរុញអ្នកចូលទៅក្នុងការលើសបន្ទុក។ សូមចាប់ផ្តើមរឿងថ្មី តែនៅពេលមានកន្លែងទំនេរ។"
+      },
+      "outcome": {
+        "en": "A fresh burst of energy could help you break through a stressful stretch. Momentum may lift your mood.",
+        "km": "ថាមពលថ្មីមួយ អាចជួយអ្នកទម្លុះដំណាក់កាលតានតឹង។ សន្ទុះអាចលើកស្ទួយអារម្មណ៍របស់អ្នក។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Plan ahead so that busy periods do not catch you by surprise. Looking at the bigger picture can help you prepare instead of react.",
+        "km": "សូមធ្វើផែនការទុកជាមុន ដើម្បីកុំឱ្យដំណាក់កាលមមាញឹកធ្វើឱ្យអ្នកភ្ញាក់ផ្អើល។ ការមើលរូបភាពធំ អាចជួយអ្នករៀបចំខ្លួន ជំនួសឱ្យការប្រតិកម្ម។"
+      },
+      "challenge": {
+        "en": "Making plan after plan without ever acting on one could become a source of stress in itself. Pick the simplest plan and begin.",
+        "km": "ការធ្វើផែនការម្តងហើយម្តងទៀត ដោយមិនដែលអនុវត្តមួយណា អាចក្លាយជាប្រភពនៃភាពតានតឹងដោយខ្លួនវាផ្ទាល់។ សូមជ្រើសរើសផែនការសាមញ្ញបំផុត ហើយចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Good planning could help you stay ahead of pressure. You may feel more prepared and in control.",
+        "km": "ផែនការល្អ អាចជួយអ្នកនៅមុខសម្ពាធ។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួន និងគ្រប់គ្រងបានច្រើនជាងមុន។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Look beyond the immediate pressure to the progress you are making. Seeing how far you have come can ease the weight of what remains.",
+        "km": "សូមមើលហួសពីសម្ពាធភ្លាមៗ ទៅលើការរីកចម្រើនដែលអ្នកកំពុងធ្វើ។ ការមើលឃើញថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា អាចបន្ធូរទម្ងន់នៃអ្វីដែលនៅសល់។"
+      },
+      "challenge": {
+        "en": "Waiting anxiously for results could keep you tense. Trust the work you have done and turn your attention to something else.",
+        "km": "ការរង់ចាំលទ្ធផលដោយថប់បារម្ភ អាចធ្វើឱ្យអ្នកតានតឹង។ សូមទុកចិត្តលើការងារដែលអ្នកបានធ្វើ ហើយបង្វែរការយកចិត្តទុកដាក់ទៅរឿងផ្សេង។"
+      },
+      "outcome": {
+        "en": "Your efforts could start paying off, easing the pressure. A wider view of your progress may bring a sense of calm.",
+        "km": "ការខិតខំរបស់អ្នក អាចចាប់ផ្តើមទទួលបានផល ដោយបន្ធូរសម្ពាធ។ ទស្សនៈទូលាយជាងមុនអំពីការរីកចម្រើនរបស់អ្នក អាចនាំមកនូវអារម្មណ៍ស្ងប់ស្ងាត់។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Make time to celebrate small wins and enjoy moments with colleagues. Positive shared moments can buffer you against stress.",
+        "km": "សូមចំណាយពេលអបអរជ័យជម្នះតូចៗ ហើយរីករាយនឹងពេលវេលាជាមួយសហការី។ ពេលវេលាវិជ្ជមានរួមគ្នា អាចការពារអ្នកពីភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Being too busy to ever pause could rob you of the moments that recharge you. Build small breaks into your routine.",
+        "km": "ការមមាញឹកពេក រហូតមិនដែលផ្អាក អាចប្លន់ពេលវេលាដែលបញ្ចូលថាមពលដល់អ្នក។ សូមដាក់ការសម្រាកតូចៗចូលក្នុងទម្លាប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A more stable, joyful working rhythm could take shape. Stress may ease as good moments return.",
+        "km": "ចង្វាក់ការងារដែលមានស្ថិរភាព និងរីករាយជាងមុន អាចមានរូបរាង។ ភាពតានតឹងអាចធូរស្រាល នៅពេលពេលវេលាល្អៗត្រឡប់មកវិញ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Notice which conflicts or competitive pressures are adding to your stress. Stepping out of unnecessary battles can bring relief.",
+        "km": "សូមកត់សម្គាល់ជម្លោះ ឬសម្ពាធប្រកួតប្រជែងណា ដែលកំពុងបន្ថែមភាពតានតឹងរបស់អ្នក។ ការដើរចេញពីសមរភូមិដែលមិនចាំបាច់ អាចនាំមកនូវការធូរស្រាល។"
+      },
+      "challenge": {
+        "en": "Constant friction with colleagues could keep your stress levels high. Listen first and choose your responses carefully.",
+        "km": "ការកកិតជាប្រចាំជាមួយសហការី អាចរក្សាកម្រិតភាពតានតឹងរបស់អ្នកឱ្យខ្ពស់។ សូមស្តាប់ជាមុន ហើយជ្រើសរើសការឆ្លើយតបរបស់អ្នកដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Calmer interactions could reduce much of the tension at work. Disagreements may settle into steady, respectful cooperation.",
+        "km": "ការប្រាស្រ័យទាក់ទងស្ងប់ស្ងាត់ជាងមុន អាចកាត់បន្ថយភាពតានតឹងជាច្រើននៅកន្លែងធ្វើការ។ ការខ្វែងគំនិត អាចប្រែទៅជាកិច្ចសហប្រតិបត្តិការនឹងនរ និងគោរពគ្នា។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Remind yourself of past successes when pressure makes you doubt yourself. Confidence built on real achievements can steady you.",
+        "km": "សូមរំលឹកខ្លួនឯងពីភាពជោគជ័យកន្លងមក នៅពេលសម្ពាធធ្វើឱ្យអ្នកសង្ស័យខ្លួនឯង។ ទំនុកចិត្តដែលកសាងលើសមិទ្ធផលពិតប្រាកដ អាចធ្វើឱ្យអ្នកនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Pressure to keep proving yourself could become exhausting. You do not need to win every time.",
+        "km": "សម្ពាធដើម្បីបន្តបង្ហាញសមត្ថភាពខ្លួនឯង អាចក្លាយជាការអស់កម្លាំង។ អ្នកមិនចាំបាច់ឈ្នះគ្រប់ពេលទេ។"
+      },
+      "outcome": {
+        "en": "Recognition for your efforts could lift your confidence and ease stress. You may feel more secure.",
+        "km": "ការទទួលស្គាល់ការខិតខំរបស់អ្នក អាចលើកទំនុកចិត្តរបស់អ្នក ហើយបន្ធូរភាពតានតឹង។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពជាងមុន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Set firm boundaries and defend your time and energy calmly. Protecting your limits is a key way to manage stress.",
+        "km": "សូមកំណត់ព្រំដែនរឹងមាំ ហើយការពារពេលវេលា និងថាមពលរបស់អ្នកដោយស្ងប់ស្ងាត់។ ការការពារដែនកំណត់របស់អ្នក គឺជាវិធីសំខាន់ដើម្បីគ្រប់គ្រងភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Feeling you must defend yourself against everyone could keep you constantly on edge. Save your energy for the issues that truly count.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែការពារខ្លួនពីមនុស្សគ្រប់គ្នា អាចធ្វើឱ្យអ្នកតានតឹងជានិច្ច។ សូមសន្សំថាមពលរបស់អ្នក សម្រាប់បញ្ហាដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "Holding firm boundaries could give you more control and less stress. Others may respect your limits.",
+        "km": "ការរក្សាព្រំដែនរឹងមាំ អាចផ្តល់ឱ្យអ្នកនូវការគ្រប់គ្រងច្រើនជាងមុន និងភាពតានតឹងតិចជាងមុន។ អ្នកដទៃអាចគោរពដែនកំណត់របស់អ្នក។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Deal with small tasks and messages promptly so they do not pile up. Quick action on little things can prevent bigger stress.",
+        "km": "សូមដោះស្រាយកិច្ចការតូចៗ និងសារឱ្យរហ័ស ដើម្បីកុំឱ្យវាគរ។ សកម្មភាពរហ័សលើរឿងតូចៗ អាចការពារភាពតានតឹងធំជាង។"
+      },
+      "challenge": {
+        "en": "Rushing to keep up with everything could lead to mistakes that add more stress. Slow down enough to work carefully.",
+        "km": "ការប្រញាប់ដើម្បីតាមឱ្យទាន់អ្វីៗទាំងអស់ អាចនាំឱ្យមានកំហុសដែលបន្ថែមភាពតានតឹង។ សូមបន្ថយល្បឿនគ្រប់គ្រាន់ ដើម្បីធ្វើការដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Things could start moving more smoothly, easing the backlog. Clearing small tasks may relieve pressure faster than you expect.",
+        "km": "អ្វីៗអាចចាប់ផ្តើមដំណើរការរលូនជាងមុន ដោយបន្ធូរការងារដែលគរ។ ការបញ្ចប់កិច្ចការតូចៗ អាចបន្ធូរសម្ពាធលឿនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Acknowledge how much you have endured and how resilient you have been. Recognising your strength can help you keep going.",
+        "km": "សូមទទួលស្គាល់ថាអ្នកបានស៊ូទ្រាំច្រើនប៉ុណ្ណា និងមានភាពធន់ប៉ុណ្ណា។ ការទទួលស្គាល់កម្លាំងរបស់អ្នក អាចជួយអ្នកឱ្យបន្តទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Running on empty for too long could lead to burnout. If exhaustion persists, consider speaking to a doctor or counsellor.",
+        "km": "ការរត់ដោយគ្មានថាមពលយូរពេក អាចនាំឱ្យអស់កម្លាំងទាំងស្រុង។ ប្រសិនបើការអស់កម្លាំងនៅតែបន្ត សូមពិចារណានិយាយជាមួយគ្រូពេទ្យ ឬអ្នកប្រឹក្សា។"
+      },
+      "outcome": {
+        "en": "Your resilience could carry you through the hardest part of a demanding stretch. Relief may be closer than it seems.",
+        "km": "ភាពធន់របស់អ្នក អាចនាំអ្នកឆ្លងកាត់ផ្នែកដែលលំបាកបំផុត នៃដំណាក់កាលដែលទាមទារខ្លាំង។ ការធូរស្រាល អាចនៅជិតជាងអ្វីដែលហាក់ដូចជា។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "List everything you are carrying and look for what you can delegate, delay or drop. Sharing the load is not failure but good sense.",
+        "km": "សូមរាយបញ្ជីអ្វីៗទាំងអស់ដែលអ្នកកំពុងលី ហើយរកអ្វីដែលអ្នកអាចប្រគល់ ពន្យារ ឬបោះបង់។ ការចែករំលែកបន្ទុក មិនមែនជាការបរាជ័យទេ តែជាសុភវិនិច្ឆ័យ។"
+      },
+      "challenge": {
+        "en": "Saying yes to everything could leave you crushed under too many responsibilities. Learn to say no.",
+        "km": "ការយល់ព្រមចំពោះអ្វីៗទាំងអស់ អាចធ្វើឱ្យអ្នកត្រូវសង្កត់ក្រោមការទទួលខុសត្រូវច្រើនពេក។ សូមរៀនបដិសេធ។"
+      },
+      "outcome": {
+        "en": "Handing over or dropping even one task could take real weight off your shoulders. Work may start to feel possible again.",
+        "km": "ការប្រគល់ ឬបោះបង់កិច្ចការសូម្បីតែមួយ អាចដកទម្ងន់ពិតប្រាកដចេញពីស្មារបស់អ្នក។ ការងារអាចចាប់ផ្តើមមានអារម្មណ៍ថាអាចធ្វើបានម្តងទៀត។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Try a new approach to managing stress, such as a short walk, a hobby or a different routine. Curiosity about what helps can lead to discovery.",
+        "km": "សូមសាកល្បងវិធីថ្មីក្នុងការគ្រប់គ្រងភាពតានតឹង ដូចជាការដើរខ្លី ចំណង់ចំណូលចិត្ត ឬទម្លាប់ផ្សេង។ ការចង់ដឹងពីអ្វីដែលជួយ អាចនាំទៅរកការរកឃើញ។"
+      },
+      "challenge": {
+        "en": "Starting many coping strategies without sticking to any could leave you no better off. Choose one and keep it up.",
+        "km": "ការចាប់ផ្តើមយុទ្ធសាស្ត្រដោះស្រាយជាច្រើន ដោយមិនប្រកាន់ខ្ជាប់ណាមួយ អាចមិនធ្វើឱ្យអ្នកប្រសើរឡើង។ សូមជ្រើសរើសមួយ ហើយបន្តវា។"
+      },
+      "outcome": {
+        "en": "A new habit could become a reliable way to release stress. Small changes may bring real relief.",
+        "km": "ទម្លាប់ថ្មីមួយ អាចក្លាយជាវិធីគួរឱ្យទុកចិត្ត ដើម្បីបញ្ចេញភាពតានតឹង។ ការផ្លាស់ប្តូរតូចៗ អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Use physical activity to burn off tension, whether that is exercise, a brisk walk or simply moving more. Energy needs an outlet.",
+        "km": "សូមប្រើសកម្មភាពរាងកាយ ដើម្បីដុតបំផ្លាញភាពតានតឹង មិនថាជាការហាត់ប្រាណ ការដើររហ័ស ឬគ្រាន់តែផ្លាស់ទីច្រើនជាងមុន។ ថាមពលត្រូវការច្រកចេញ។"
+      },
+      "challenge": {
+        "en": "Reacting impulsively under pressure could create new problems on top of old ones. Pause and breathe before you act.",
+        "km": "ការប្រតិកម្មដោយគ្មានការគិតក្រោមសម្ពាធ អាចបង្កើតបញ្ហាថ្មីបន្ថែមលើបញ្ហាចាស់។ សូមផ្អាក ហើយដកដង្ហើម មុននឹងធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "Releasing tension through action could leave you clearer and calmer. You may tackle problems with new energy.",
+        "km": "ការបញ្ចេញភាពតានតឹងតាមរយៈសកម្មភាព អាចធ្វើឱ្យអ្នកច្បាស់ និងស្ងប់ជាងមុន។ អ្នកអាចដោះស្រាយបញ្ហាដោយថាមពលថ្មី។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Draw on your natural confidence and warmth to stay positive under pressure. Good humour can be a powerful stress reliever.",
+        "km": "សូមទាញយកទំនុកចិត្ត និងភាពកក់ក្តៅធម្មជាតិរបស់អ្នក ដើម្បីរក្សាភាពវិជ្ជមានក្រោមសម្ពាធ។ អារម្មណ៍កំប្លែងល្អ អាចជាការបន្ធូរភាពតានតឹងដ៏មានឥទ្ធិពល។"
+      },
+      "challenge": {
+        "en": "Taking on everyone else's stress could leave you drained. Care for others without carrying their burdens.",
+        "km": "ការទទួលយកភាពតានតឹងរបស់អ្នកដទៃទាំងអស់ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមយកចិត្តទុកដាក់អ្នកដទៃ ដោយមិនលីបន្ទុករបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Your positive energy could help both you and your team cope better. Confidence may grow as the pressure eases.",
+        "km": "ថាមពលវិជ្ជមានរបស់អ្នក អាចជួយទាំងអ្នក និងក្រុមរបស់អ្នក ដោះស្រាយបានល្អជាងមុន។ ទំនុកចិត្តអាចកើនឡើង ខណៈសម្ពាធធូរស្រាល។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Step back and take a leadership view of your situation: what matters most and what can wait. Clear priorities reduce stress.",
+        "km": "សូមដកខ្លួនបន្តិច ហើយមើលស្ថានភាពរបស់អ្នកដូចអ្នកដឹកនាំ៖ អ្វីដែលសំខាន់បំផុត និងអ្វីដែលអាចរង់ចាំ។ អាទិភាពច្បាស់លាស់ កាត់បន្ថយភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Feeling responsible for everything could weigh you down. Trust others to handle their share, even if they do it differently.",
+        "km": "អារម្មណ៍ថាទទួលខុសត្រូវចំពោះអ្វីៗទាំងអស់ អាចធ្វើឱ្យអ្នកធ្ងន់។ សូមទុកចិត្តអ្នកដទៃឱ្យដោះស្រាយចំណែករបស់ពួកគេ ទោះបីពួកគេធ្វើវាខុសពីអ្នកក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Clear direction could bring a sense of calm control. Stress may ease as priorities settle into their proper order.",
+        "km": "ទិសដៅច្បាស់លាស់ អាចនាំមកនូវអារម្មណ៍នៃការគ្រប់គ្រងដោយស្ងប់ស្ងាត់។ ភាពតានតឹងអាចធូរស្រាល នៅពេលអាទិភាពចូលរបៀបត្រឹមត្រូវរបស់វា។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Allow yourself to feel what the stress is stirring up rather than pushing it down. Naming your emotions honestly can loosen their hold on you.",
+        "km": "សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ពីអ្វីដែលភាពតានតឹងកំពុងធ្វើឱ្យកើតឡើង ជាជាងសង្កត់វាចុះ។ ការដាក់ឈ្មោះអារម្មណ៍របស់អ្នកដោយស្មោះត្រង់ អាចបន្ធូរការក្តាប់របស់វាលើអ្នក។"
+      },
+      "challenge": {
+        "en": "Bottling up feelings at work could let them spill out at the worst moment. Find a safe place to let them out.",
+        "km": "ការទប់អារម្មណ៍នៅកន្លែងធ្វើការ អាចធ្វើឱ្យវាហៀរចេញនៅពេលអាក្រក់បំផុត។ សូមរកកន្លែងសុវត្ថិភាពដើម្បីបញ្ចេញវា។"
+      },
+      "outcome": {
+        "en": "Emotional release could bring a fresh sense of calm and renewal. Kindness toward yourself may make work feel lighter.",
+        "km": "ការបញ្ចេញអារម្មណ៍ អាចនាំមកនូវអារម្មណ៍ស្ងប់ស្ងាត់ និងការកើតឡើងវិញថ្មី។ សេចក្តីសប្បុរសចំពោះខ្លួនឯង អាចធ្វើឱ្យការងារមានអារម្មណ៍ស្រាលជាងមុន។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Talk openly with a colleague or friend you trust about the pressure you feel. A good listener can halve the weight of stress.",
+        "km": "សូមនិយាយដោយបើកចំហ ជាមួយសហការី ឬមិត្តភក្តិដែលអ្នកទុកចិត្ត អំពីសម្ពាធដែលអ្នកមានអារម្មណ៍។ អ្នកស្តាប់ល្អ អាចកាត់បន្ថយទម្ងន់នៃភាពតានតឹងពាក់កណ្តាល។"
+      },
+      "challenge": {
+        "en": "Tension with one particular person could be a major source of your stress. A calm, honest conversation might ease it.",
+        "km": "ភាពតានតឹងជាមួយមនុស្សជាក់លាក់ម្នាក់ អាចជាប្រភពសំខាន់នៃភាពតានតឹងរបស់អ្នក។ ការសន្ទនាដោយស្ងប់ស្ងាត់ និងស្មោះត្រង់ អាចបន្ធូរវា។"
+      },
+      "outcome": {
+        "en": "A supportive working relationship could become a real buffer against pressure. You may not feel alone.",
+        "km": "ទំនាក់ទំនងការងារដែលគាំទ្រ អាចក្លាយជារបាំងពិតប្រាកដប្រឆាំងនឹងសម្ពាធ។ អ្នកអាចមិនមានអារម្មណ៍ឯកោ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Spend time with friends and colleagues who make you laugh and help you unwind. Shared enjoyment is a natural way to relieve stress.",
+        "km": "សូមចំណាយពេលជាមួយមិត្តភក្តិ និងសហការី ដែលធ្វើឱ្យអ្នកសើច និងជួយអ្នកបន្ធូរអារម្មណ៍។ សេចក្តីរីករាយរួមគ្នា គឺជាវិធីធម្មជាតិក្នុងការបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Using social outings to escape rather than recover could leave you more tired. Balance fun with genuine rest.",
+        "km": "ការប្រើការជួបជុំសង្គម ដើម្បីគេចចេញ ជាជាងស្តារកម្លាំង អាចធ្វើឱ្យអ្នកកាន់តែនឿយហត់។ សូមធ្វើឱ្យមានតុល្យភាពរវាងភាពសប្បាយ និងការសម្រាកពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Good company could help you laugh off pressures that once felt heavy. Friendship may restore your energy.",
+        "km": "មិត្តភក្តិល្អ អាចជួយអ្នកសើចចំពោះសម្ពាធដែលធ្លាប់មានអារម្មណ៍ធ្ងន់។ មិត្តភាព អាចស្តារថាមពលរបស់អ្នកឡើងវិញ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Notice if stress has made you withdrawn or numb, and gently re-engage with things you used to enjoy. Small pleasures can bring you back.",
+        "km": "សូមកត់សម្គាល់ ប្រសិនបើភាពតានតឹងបានធ្វើឱ្យអ្នកដកខ្លួន ឬស្ពឹក ហើយចូលរួមឡើងវិញដោយទន់ភ្លន់ជាមួយអ្វីដែលអ្នកធ្លាប់រីករាយ។ សេចក្តីរីករាយតូចៗ អាចនាំអ្នកត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Turning down help or support because you feel too tired to engage could deepen the strain. Accept what is offered.",
+        "km": "ការបដិសេធជំនួយ ឬការគាំទ្រ ដោយសារអ្នកមានអារម្មណ៍អស់កម្លាំងពេកក្នុងការចូលរួម អាចធ្វើឱ្យភាពតានតឹងកាន់តែជ្រៅ។ សូមទទួលយកអ្វីដែលគេផ្តល់ឱ្យ។"
+      },
+      "outcome": {
+        "en": "Saying yes to a small comfort could reconnect you with your energy. Interest in life may slowly return.",
+        "km": "ការយល់ព្រមចំពោះការលួងលោមតូចមួយ អាចភ្ជាប់អ្នកឡើងវិញជាមួយថាមពលរបស់អ្នក។ ចំណាប់អារម្មណ៍ចំពោះជីវិត អាចត្រឡប់មកវិញបន្តិចម្តងៗ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Acknowledge any disappointment or setback that is weighing on you at work. Letting yourself feel it can stop it turning into ongoing stress.",
+        "km": "សូមទទួលស្គាល់ការខកចិត្ត ឬការបរាជ័យណាមួយ ដែលកំពុងធ្វើឱ្យអ្នកធ្ងន់ចិត្តនៅកន្លែងធ្វើការ។ ការអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍វា អាចការពារវាពីការក្លាយជាភាពតានតឹងជាប់រហូត។"
+      },
+      "challenge": {
+        "en": "Dwelling on mistakes could feed a cycle of worry and stress. Learn what you can, then let the rest go.",
+        "km": "ការគិតច្រើនពីកំហុស អាចចិញ្ចឹមវដ្តនៃការព្រួយបារម្ភ និងភាពតានតឹង។ សូមរៀនអ្វីដែលអ្នកអាចរៀន បន្ទាប់មកលែងអ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Moving on from a setback could lift a hidden source of stress. What still works may become clearer.",
+        "km": "ការបន្តទៅមុខពីការបរាជ័យមួយ អាចលើកប្រភពលាក់កំបាំងនៃភាពតានតឹង។ អ្វីដែលនៅតែដំណើរការ អាចកាន់តែច្បាស់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Recall simple, comforting things that helped you relax in easier times, and bring them back. Familiar comforts can soothe stress.",
+        "km": "សូមរំលឹកពីរឿងសាមញ្ញ និងលួងលោម ដែលបានជួយអ្នកសម្រាកក្នុងគ្រាងាយស្រួលជាង ហើយនាំវាមកវិញ។ ការលួងលោមដែលធ្លាប់ស្គាល់ អាចបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Longing for easier times could make the work in front of you feel harder. Bring a little of that old ease into your routine.",
+        "km": "ការនឹករលឹកពីគ្រាងាយស្រួលជាង អាចធ្វើឱ្យការងារនៅចំពោះមុខអ្នក មានអារម្មណ៍ពិបាកជាងមុន។ សូមនាំភាពងាយស្រួលចាស់នោះបន្តិច ចូលក្នុងទម្លាប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Simple comforts could bring a gentle sense of calm. Kindness from others may soften the pressure.",
+        "km": "ការលួងលោមសាមញ្ញ អាចនាំមកនូវអារម្មណ៍ស្ងប់ស្ងាត់ទន់ភ្លន់។ សេចក្តីសប្បុរសពីអ្នកដទៃ អាចបន្ទន់សម្ពាធ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Sort out what is real from what you fear might happen. Much stress comes from imagined problems rather than actual ones.",
+        "km": "សូមញែកអ្វីដែលពិត ចេញពីអ្វីដែលអ្នកខ្លាចថាអាចកើតឡើង។ ភាពតានតឹងជាច្រើន មកពីបញ្ហាដែលស្រមៃ ជាជាងបញ្ហាពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Too many options or demands could leave you overwhelmed and unable to choose. Pick one thing to focus on.",
+        "km": "ជម្រើស ឬតម្រូវការច្រើនពេក អាចធ្វើឱ្យអ្នកលើសកម្លាំង ហើយមិនអាចជ្រើសរើស។ សូមជ្រើសរើសរឿងមួយដើម្បីផ្តោត។"
+      },
+      "outcome": {
+        "en": "Clarity could cut through confusion and ease stress. Choosing one path and letting the rest wait may calm your mind.",
+        "km": "ភាពច្បាស់លាស់ អាចកាត់ផ្តាច់ការច្របូកច្របល់ ហើយបន្ធូរភាពតានតឹង។ ការជ្រើសរើសផ្លូវមួយ ហើយឱ្យអ្វីផ្សេងរង់ចាំ អាចធ្វើឱ្យចិត្តរបស់អ្នកស្ងប់។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Ask whether a particular source of stress is worth staying with, or whether it is time to step away. Walking away can sometimes be self-care.",
+        "km": "សូមសួរថាតើប្រភពភាពតានតឹងជាក់លាក់មួយ សមនឹងការនៅជាមួយឬទេ ឬដល់ពេលត្រូវដកខ្លួនចេញ។ ការដើរចេញ ពេលខ្លះអាចជាការមើលថែខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Staying in a draining situation out of duty could wear you down. Consider what you truly need.",
+        "km": "ការនៅក្នុងស្ថានភាពដែលបូមកម្លាំង ដោយសារកាតព្វកិច្ច អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមពិចារណាពីអ្វីដែលអ្នកពិតជាត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Leaving behind a draining situation could bring deep relief. You may find calmer ground and more energy for what matters.",
+        "km": "ការទុកស្ថានភាពដែលបូមកម្លាំងនៅពីក្រោយ អាចនាំមកនូវការធូរស្រាលយ៉ាងជ្រាលជ្រៅ។ អ្នកអាចរកឃើញដីស្ងប់ស្ងាត់ជាងមុន និងថាមពលច្រើនជាងមុនសម្រាប់អ្វីដែលសំខាន់។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Give yourself something to look forward to after demanding work, a treat or a pleasure you enjoy. Rewards can ease pressure.",
+        "km": "សូមផ្តល់ឱ្យខ្លួនឯងនូវអ្វីមួយដើម្បីទន្ទឹងរង់ចាំ ក្រោយការងារដែលទាមទារខ្លាំង ជារង្វាន់ ឬសេចក្តីរីករាយដែលអ្នកចូលចិត្ត។ រង្វាន់អាចបន្ធូរសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Relying on indulgence to cope could leave you feeling worse. Choose comforts that truly restore you.",
+        "km": "ការពឹងផ្អែកលើការបណ្តោយចិត្ត ដើម្បីដោះស្រាយ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍កាន់តែអាក្រក់។ សូមជ្រើសរើសការលួងលោមដែលពិតជាស្តារកម្លាំងអ្នក។"
+      },
+      "outcome": {
+        "en": "Contentment could return as pressures ease. You may feel satisfied, rested and at peace with your work.",
+        "km": "ការពេញចិត្តអាចត្រឡប់មកវិញ នៅពេលសម្ពាធធូរស្រាល។ អ្នកអាចមានអារម្មណ៍ពេញចិត្ត បានសម្រាក និងស្ងប់ចិត្តជាមួយការងាររបស់អ្នក។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Lean on family and loved ones for support, and protect your time with them. Home can be a powerful refuge from work stress.",
+        "km": "សូមពឹងផ្អែកលើគ្រួសារ និងមនុស្សជាទីស្រឡាញ់សម្រាប់ការគាំទ្រ ហើយការពារពេលវេលារបស់អ្នកជាមួយពួកគេ។ ផ្ទះអាចជាជម្រកដ៏មានឥទ្ធិពលពីភាពតានតឹងការងារ។"
+      },
+      "challenge": {
+        "en": "Bringing work stress home could strain relationships with those you love. Keep a clear line between the two.",
+        "km": "ការនាំភាពតានតឹងការងារមកផ្ទះ អាចធ្វើឱ្យទំនាក់ទំនងជាមួយអ្នកដែលអ្នកស្រឡាញ់តានតឹង។ សូមរក្សាបន្ទាត់ច្បាស់លាស់រវាងទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "Harmony at home could help you face work pressures with more calm. Support may surround you.",
+        "km": "ភាពសុខដុមនៅផ្ទះ អាចជួយអ្នកប្រឈមមុខនឹងសម្ពាធការងារដោយស្ងប់ស្ងាត់ជាងមុន។ ការគាំទ្រអាចហ៊ុំព័ទ្ធអ្នក។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Try something creative or gentle to unwind, such as music, drawing or a quiet hobby. Playfulness can soothe a stressed mind.",
+        "km": "សូមសាកល្បងអ្វីដែលច្នៃប្រឌិត ឬទន់ភ្លន់ ដើម្បីបន្ធូរអារម្មណ៍ ដូចជាតន្ត្រី គំនូរ ឬចំណង់ចំណូលចិត្តស្ងប់ស្ងាត់។ ភាពលេងសើច អាចបន្ធូរចិត្តដែលតានតឹង។"
+      },
+      "challenge": {
+        "en": "Being overly sensitive to criticism under stress could make small comments feel huge. Give yourself some grace.",
+        "km": "ការរសើបហួសហេតុចំពោះការរិះគន់ក្រោមភាពតានតឹង អាចធ្វើឱ្យមតិតូចៗមានអារម្មណ៍ធំ។ សូមផ្តល់ការអត់ឱនខ្លះដល់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "A gentle creative outlet could bring unexpected calm. You may feel lighter and more like yourself again.",
+        "km": "ច្រកចេញច្នៃប្រឌិតទន់ភ្លន់ អាចនាំមកនូវភាពស្ងប់ស្ងាត់ដែលមិនបានរំពឹងទុក។ អ្នកអាចមានអារម្មណ៍ស្រាល និងជាខ្លួនឯងម្តងទៀត។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Follow what your heart tells you about what you need to feel better. Listening to your feelings can guide you to real relief.",
+        "km": "សូមដើរតាមអ្វីដែលបេះដូងរបស់អ្នកប្រាប់ អំពីអ្វីដែលអ្នកត្រូវការដើម្បីមានអារម្មណ៍ល្អជាងមុន។ ការស្តាប់អារម្មណ៍របស់អ្នក អាចណែនាំអ្នកទៅរកការធូរស្រាលពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Dreaming of escape without changing anything could leave stress unaddressed. Take one practical step toward what you need.",
+        "km": "ការសុបិនពីការគេចចេញ ដោយមិនផ្លាស់ប្តូរអ្វីសោះ អាចទុកភាពតានតឹងឱ្យនៅមិនបានដោះស្រាយ។ សូមបោះជំហានជាក់ស្តែងមួយ ឆ្ពោះទៅរកអ្វីដែលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Following your heart could lead you to a calmer, kinder way of working. Relief may follow.",
+        "km": "ការដើរតាមបេះដូងរបស់អ្នក អាចនាំអ្នកទៅរកវិធីធ្វើការស្ងប់ស្ងាត់ និងសប្បុរសជាងមុន។ ការធូរស្រាលអាចកើតឡើងបន្ទាប់។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Treat yourself with the same compassion you would show a stressed friend. Self-kindness is one of the best stress relievers.",
+        "km": "សូមប្រព្រឹត្តចំពោះខ្លួនឯង ដោយសេចក្តីមេត្តាករុណាដូចដែលអ្នកនឹងបង្ហាញចំពោះមិត្តភក្តិដែលតានតឹង។ សេចក្តីសប្បុរសចំពោះខ្លួនឯង គឺជាការបន្ធូរភាពតានតឹងល្អបំផុតមួយ។"
+      },
+      "challenge": {
+        "en": "Absorbing the emotions of everyone around you could add to your stress. Protect your emotional energy.",
+        "km": "ការស្រូបយកអារម្មណ៍របស់មនុស្សគ្រប់គ្នានៅជុំវិញអ្នក អាចបន្ថែមភាពតានតឹងរបស់អ្នក។ សូមការពារថាមពលផ្លូវអារម្មណ៍របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Compassion for yourself could bring deep calm. You may feel more able to cope with whatever the job asks.",
+        "km": "សេចក្តីមេត្តាករុណាចំពោះខ្លួនឯង អាចនាំមកនូវភាពស្ងប់ស្ងាត់យ៉ាងជ្រាលជ្រៅ។ អ្នកអាចមានអារម្មណ៍ថាអាចដោះស្រាយអ្វីក៏ដោយដែលការងារស្នើសុំ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Stay calm and steady when pressure mounts, managing your reactions with care. Emotional balance helps you think clearly.",
+        "km": "សូមរក្សាភាពស្ងប់ស្ងាត់ និងនឹងនរ នៅពេលសម្ពាធកើនឡើង ដោយគ្រប់គ្រងប្រតិកម្មរបស់អ្នកដោយប្រុងប្រយ័ត្ន។ តុល្យភាពផ្លូវអារម្មណ៍ ជួយអ្នកគិតឱ្យច្បាស់។"
+      },
+      "challenge": {
+        "en": "Holding in all your feelings to appear calm could build hidden stress. Find a private outlet.",
+        "km": "ការទប់អារម្មណ៍ទាំងអស់ ដើម្បីមើលទៅស្ងប់ស្ងាត់ អាចបង្កើតភាពតានតឹងលាក់កំបាំង។ សូមរកច្រកចេញឯកជនមួយ។"
+      },
+      "outcome": {
+        "en": "Emotional steadiness could help you handle pressure with grace. Calm may become a strength others notice and rely on.",
+        "km": "ភាពនឹងនរផ្លូវអារម្មណ៍ អាចជួយអ្នកដោះស្រាយសម្ពាធដោយភាពស្រស់ស្អាត។ ភាពស្ងប់ស្ងាត់អាចក្លាយជាកម្លាំងដែលអ្នកដទៃកត់សម្គាល់ និងពឹងផ្អែក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Name the exact cause of your stress clearly, rather than feeling a general sense of pressure. A precise problem is easier to solve than a vague one.",
+        "km": "សូមដាក់ឈ្មោះមូលហេតុពិតប្រាកដនៃភាពតានតឹងរបស់អ្នកឱ្យច្បាស់ ជាជាងមានអារម្មណ៍សម្ពាធទូទៅ។ បញ្ហាជាក់លាក់ ងាយដោះស្រាយជាងបញ្ហាមិនច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Harsh self-talk under pressure could cut deeper than the stress itself. Speak to yourself as clearly but kindly as you would to a friend.",
+        "km": "ការនិយាយមកកាន់ខ្លួនឯងយ៉ាងតឹងរ៉ឹងក្រោមសម្ពាធ អាចកាត់ជ្រៅជាងភាពតានតឹងខ្លួនឯង។ សូមនិយាយមកកាន់ខ្លួនឯងឱ្យច្បាស់ តែសប្បុរស ដូចអ្នកនឹងនិយាយទៅកាន់មិត្តភក្តិ។"
+      },
+      "outcome": {
+        "en": "Clear thinking could cut through confusion and show you a practical way forward. Stress may ease once the real problem is named.",
+        "km": "ការគិតច្បាស់លាស់ អាចកាត់ផ្តាច់ការច្របូកច្របល់ ហើយបង្ហាញអ្នកពីផ្លូវទៅមុខជាក់ស្តែង។ ភាពតានតឹងអាចធូរស្រាល នៅពេលបញ្ហាពិតត្រូវបានដាក់ឈ្មោះ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "If you are avoiding a decision that is causing stress, gather what you need and make the call. Indecision often weighs more than the choice itself.",
+        "km": "ប្រសិនបើអ្នកកំពុងជៀសវាងការសម្រេចចិត្តដែលបង្កភាពតានតឹង សូមប្រមូលអ្វីដែលអ្នកត្រូវការ ហើយសម្រេចចិត្ត។ ការមិនសម្រេចចិត្ត ជារឿយៗធ្ងន់ជាងជម្រើសខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Shutting out difficult feelings to cope could leave stress unresolved underneath. Let yourself look at what is really going on.",
+        "km": "ការបិទអារម្មណ៍ពិបាកៗ ដើម្បីដោះស្រាយ អាចទុកភាពតានតឹងឱ្យនៅមិនបានដោះស្រាយនៅខាងក្រោម។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមើលអ្វីដែលពិតជាកំពុងកើតឡើង។"
+      },
+      "outcome": {
+        "en": "Making a clear decision could release tension you have been holding. A sense of calm may follow once you choose.",
+        "km": "ការធ្វើការសម្រេចចិត្តច្បាស់លាស់ អាចបញ្ចេញភាពតានតឹងដែលអ្នកបានកាន់។ អារម្មណ៍ស្ងប់ស្ងាត់អាចកើតឡើង នៅពេលអ្នកជ្រើសរើស។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Acknowledge if something at work has genuinely hurt you, rather than dismissing it as stress. Recognising the pain is the first step to healing it.",
+        "km": "សូមទទួលស្គាល់ ប្រសិនបើមានអ្វីមួយនៅកន្លែងធ្វើការ ពិតជាបានធ្វើឱ្យអ្នកឈឺចាប់ ជាជាងមិនខ្វល់ថាវាគ្រាន់តែជាភាពតានតឹង។ ការទទួលស្គាល់ការឈឺចាប់ គឺជាជំហានដំបូងក្នុងការព្យាបាលវា។"
+      },
+      "challenge": {
+        "en": "Painful words or events could keep replaying in your mind and adding to stress. If the hurt runs deep, talking to a counsellor can help.",
+        "km": "ពាក្យសម្តី ឬព្រឹត្តិការណ៍ឈឺចាប់ អាចបន្តលេងឡើងវិញក្នុងចិត្តរបស់អ្នក ហើយបន្ថែមភាពតានតឹង។ ប្រសិនបើការឈឺចាប់ជ្រៅ ការនិយាយជាមួយអ្នកប្រឹក្សាអាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Facing a painful experience could allow real healing to begin. The weight may lift as the wound is cared for.",
+        "km": "ការប្រឈមមុខនឹងបទពិសោធន៍ឈឺចាប់ អាចអនុញ្ញាតឱ្យការព្យាបាលពិតប្រាកដចាប់ផ្តើម។ ទម្ងន់អាចស្រាលឡើង នៅពេលរបួសត្រូវបានថែទាំ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest is not a luxury but a necessity when stress builds. Give yourself real breaks, and protect your sleep as carefully as your work.",
+        "km": "ការសម្រាក មិនមែនជាភាពប្រណីតទេ តែជាភាពចាំបាច់ នៅពេលភាពតានតឹងកើនឡើង។ សូមផ្តល់ការសម្រាកពិតប្រាកដដល់ខ្លួនឯង ហើយការពារការគេងរបស់អ្នកដោយប្រុងប្រយ័ត្នដូចការងាររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Pushing on without any recovery could lead to exhaustion or illness. Stop before your body forces you to.",
+        "km": "ការបន្តទៅមុខ ដោយគ្មានការស្តារកម្លាំងណាមួយ អាចនាំឱ្យអស់កម្លាំង ឬជំងឺ។ សូមឈប់ មុនពេលរាងកាយរបស់អ្នកបង្ខំអ្នកឱ្យឈប់។"
+      },
+      "outcome": {
+        "en": "Proper rest could restore your energy and clear your mind. You may return to work with a calmer outlook.",
+        "km": "ការសម្រាកត្រឹមត្រូវ អាចស្តារថាមពលរបស់អ្នក និងធ្វើឱ្យចិត្តរបស់អ្នកច្បាស់។ អ្នកអាចត្រឡប់មកការងារវិញ ដោយទស្សនៈស្ងប់ស្ងាត់ជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Step back from arguments or power struggles that are draining you. Not every disagreement needs to be won.",
+        "km": "សូមដកខ្លួនចេញពីការឈ្លោះប្រកែក ឬការតស៊ូដណ្តើមអំណាច ដែលកំពុងបូមកម្លាំងអ្នក។ មិនមែនគ្រប់ការខ្វែងគំនិតត្រូវតែឈ្នះនោះទេ។"
+      },
+      "challenge": {
+        "en": "A tense, competitive atmosphere could keep you constantly on guard. Protect your peace where you can.",
+        "km": "បរិយាកាសតានតឹង និងប្រកួតប្រជែង អាចធ្វើឱ្យអ្នកប្រុងប្រយ័ត្នជានិច្ច។ សូមការពារសន្តិភាពរបស់អ្នក នៅកន្លែងដែលអ្នកអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Walking away from a pointless conflict could bring surprising relief. Your energy may return when you stop fighting.",
+        "km": "ការដើរចេញពីជម្លោះគ្មានន័យ អាចនាំមកនូវការធូរស្រាលគួរឱ្យភ្ញាក់ផ្អើល។ ថាមពលរបស់អ្នកអាចត្រឡប់មកវិញ នៅពេលអ្នកឈប់ប្រយុទ្ធ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Move gradually toward calmer conditions, whether that means changing tasks, teams or habits. Small steps away from stress add up.",
+        "km": "សូមផ្លាស់ទីបន្តិចម្តងៗ ឆ្ពោះទៅរកលក្ខខណ្ឌស្ងប់ស្ងាត់ជាងមុន មិនថាមានន័យថាការផ្លាស់ប្តូរកិច្ចការ ក្រុម ឬទម្លាប់។ ជំហានតូចៗឆ្ងាយពីភាពតានតឹង បូកបញ្ចូលគ្នា។"
+      },
+      "challenge": {
+        "en": "Carrying stress from one situation into the next could stop you from ever fully resting. Leave work worries at the door.",
+        "km": "ការយកភាពតានតឹងពីស្ថានភាពមួយ ទៅស្ថានភាពបន្ទាប់ អាចរារាំងអ្នកពីការសម្រាកពេញលេញ។ សូមទុកការព្រួយបារម្ភការងារនៅមាត់ទ្វារ។"
+      },
+      "outcome": {
+        "en": "Calmer waters could open up as you move through a stressful stretch. Relief may come gradually rather than all at once.",
+        "km": "ទឹកស្ងប់ស្ងាត់ជាងមុន អាចបើកឡើង ខណៈអ្នកឆ្លងកាត់ដំណាក់កាលតានតឹង។ ការធូរស្រាលអាចមកដល់បន្តិចម្តងៗ ជាជាងទាំងអស់ក្នុងពេលតែមួយ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Think strategically about how to work smarter, not harder. A clever change in approach can reduce pressure significantly.",
+        "km": "សូមគិតជាយុទ្ធសាស្ត្រ អំពីរបៀបធ្វើការឱ្យឆ្លាតជាងមុន មិនមែនខ្លាំងជាងមុនទេ។ ការផ្លាស់ប្តូរវិធីសាស្ត្រដ៏ឆ្លាតវៃ អាចកាត់បន្ថយសម្ពាធយ៉ាងច្រើន។"
+      },
+      "challenge": {
+        "en": "Avoiding problems or hoping no one notices could make stress worse when they surface. Face issues openly.",
+        "km": "ការជៀសវាងបញ្ហា ឬសង្ឃឹមថាគ្មាននរណាកត់សម្គាល់ អាចធ្វើឱ្យភាពតានតឹងកាន់តែអាក្រក់ នៅពេលវាលេចឡើង។ សូមប្រឈមមុខនឹងបញ្ហាដោយបើកចំហ។"
+      },
+      "outcome": {
+        "en": "A smarter way of working could lighten your load noticeably. Problems may become easier to manage.",
+        "km": "វិធីធ្វើការឆ្លាតជាងមុន អាចបន្ធូរបន្ទុករបស់អ្នកគួរឱ្យកត់សម្គាល់។ បញ្ហាអាចកាន់តែងាយគ្រប់គ្រង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel trapped by your workload, but there are likely more options than you can see. Ask for help or look for one thing to change.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់ដោយបន្ទុកការងាររបស់អ្នក តែទំនងជាមានជម្រើសច្រើនជាងអ្វីដែលអ្នកអាចមើលឃើញ។ សូមសុំជំនួយ ឬរករឿងមួយដើម្បីផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Feeling stuck and powerless could deepen stress into despair. If you feel trapped, speak to someone you trust or a professional.",
+        "km": "អារម្មណ៍ជាប់គាំង និងគ្មានអំណាច អាចធ្វើឱ្យភាពតានតឹងជ្រៅទៅជាការអស់សង្ឃឹម។ ប្រសិនបើអ្នកមានអារម្មណ៍ជាប់អន្ទាក់ សូមនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ឬអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Seeing a way out could free you from feeling trapped. Small changes may open bigger possibilities.",
+        "km": "ការមើលឃើញផ្លូវចេញ អាចដោះលែងអ្នកពីអារម្មណ៍ជាប់អន្ទាក់។ ការផ្លាស់ប្តូរតូចៗ អាចបើកលទ្ធភាពធំជាង។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Notice if worry keeps replaying in your mind when you are trying to rest. Writing down concerns before you leave work can help quiet it.",
+        "km": "សូមកត់សម្គាល់ ប្រសិនបើការព្រួយបារម្ភបន្តលេងឡើងវិញក្នុងចិត្តរបស់អ្នក នៅពេលអ្នកព្យាយាមសម្រាក។ ការសរសេរកង្វល់ចុះ មុនពេលអ្នកចាកចេញពីកន្លែងធ្វើការ អាចជួយធ្វើឱ្យវាស្ងប់។"
+      },
+      "challenge": {
+        "en": "Anxiety could grow larger than the problems causing it. If worry becomes overwhelming or constant, please reach out to a doctor or counsellor.",
+        "km": "ការថប់បារម្ភ អាចកើនធំជាងបញ្ហាដែលបង្កវា។ ប្រសិនបើការព្រួយបារម្ភក្លាយជាលើសកម្លាំង ឬជាប់ជានិច្ច សូមទាក់ទងគ្រូពេទ្យ ឬអ្នកប្រឹក្សា។"
+      },
+      "outcome": {
+        "en": "Facing your worries with support could bring real relief. Things may seem far less frightening once they are shared.",
+        "km": "ការប្រឈមមុខនឹងការព្រួយបារម្ភរបស់អ្នក ដោយមានការគាំទ្រ អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។ អ្វីៗអាចហាក់ដូចជាមិនសូវគួរឱ្យខ្លាចទាល់តែសោះ នៅពេលវាត្រូវបានចែករំលែក។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "If stress has brought you to breaking point, stop and accept that something has to change. Reaching out for help is a sign of strength.",
+        "km": "ប្រសិនបើភាពតានតឹងបាននាំអ្នកដល់ចំណុចបែកបាក់ សូមឈប់ ហើយទទួលយកថាត្រូវតែមានអ្វីមួយផ្លាស់ប្តូរ។ ការស្វែងរកជំនួយ គឺជាសញ្ញានៃកម្លាំង។"
+      },
+      "challenge": {
+        "en": "Ignoring signs of burnout could lead to a collapse that takes much longer to recover from. Please seek professional support if you feel overwhelmed.",
+        "km": "ការមិនខ្វល់ពីសញ្ញានៃការអស់កម្លាំង អាចនាំទៅរកការដួលរលំ ដែលត្រូវការពេលយូរជាងមុនដើម្បីស្តារ។ សូមស្វែងរកការគាំទ្រពីអ្នកជំនាញ ប្រសិនបើអ្នកមានអារម្មណ៍លើសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Reaching the end of a crisis could mark the start of genuine recovery. Things may slowly get better from here.",
+        "km": "ការឈានដល់ទីបញ្ចប់នៃវិបត្តិ អាចសម្គាល់ការចាប់ផ្តើមនៃការស្តារពិតប្រាកដ។ អ្វីៗអាចប្រសើរឡើងបន្តិចម្តងៗពីទីនេះ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Stay alert to the early warning signs of stress in yourself, such as irritability or poor sleep. Noticing them early helps you act sooner.",
+        "km": "សូមប្រុងប្រយ័ត្នចំពោះសញ្ញាព្រមានដំបូងនៃភាពតានតឹងក្នុងខ្លួនអ្នក ដូចជាការឆាប់ខឹង ឬការគេងមិនលក់ស្រួល។ ការកត់សម្គាល់វាមុន ជួយឱ្យអ្នកធ្វើសកម្មភាពបានឆាប់។"
+      },
+      "challenge": {
+        "en": "Gossip and office drama could add needless stress to an already full plate. Keep your distance from rumours.",
+        "km": "ពាក្យចចាមអារ៉ាម និងរឿងល្ខោននៅការិយាល័យ អាចបន្ថែមភាពតានតឹងដោយមិនចាំបាច់ ទៅលើបន្ទុកដែលពេញរួចហើយ។ សូមរក្សាចម្ងាយពីពាក្យចចាមអារ៉ាម។"
+      },
+      "outcome": {
+        "en": "Paying attention to your own signals could help you prevent stress from building. Awareness may become protection.",
+        "km": "ការយកចិត្តទុកដាក់ចំពោះសញ្ញារបស់ខ្លួនឯង អាចជួយអ្នកការពារភាពតានតឹងពីការកើនឡើង។ ការយល់ដឹង អាចក្លាយជាការការពារ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Tackle the most stressful problem directly instead of letting it hang over you. Decisive action can release a lot of tension.",
+        "km": "សូមដោះស្រាយបញ្ហាដែលតានតឹងបំផុតដោយផ្ទាល់ ជំនួសឱ្យការទុកវាព្យួរលើអ្នក។ សកម្មភាពម៉ឺងម៉ាត់ អាចបញ្ចេញភាពតានតឹងជាច្រើន។"
+      },
+      "challenge": {
+        "en": "Rushing through tasks under pressure could cause mistakes that add more stress. Slow and steady may be faster.",
+        "km": "ការប្រញាប់ឆ្លងកាត់កិច្ចការក្រោមសម្ពាធ អាចបង្កកំហុសដែលបន្ថែមភាពតានតឹង។ យឺតៗ តែជាប់លាប់ អាចលឿនជាង។"
+      },
+      "outcome": {
+        "en": "Facing problems head-on could clear the air quickly. You may feel lighter once action is taken.",
+        "km": "ការប្រឈមមុខនឹងបញ្ហាដោយផ្ទាល់ អាចធ្វើឱ្យបរិយាកាសស្រឡះយ៉ាងរហ័ស។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលសកម្មភាពត្រូវបានធ្វើ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Set clear limits on your time and say plainly what you can and cannot do. Honest boundaries are one of the best stress defences.",
+        "km": "សូមកំណត់ដែនកំណត់ច្បាស់លាស់លើពេលវេលារបស់អ្នក ហើយនិយាយឱ្យច្បាស់ពីអ្វីដែលអ្នកអាចធ្វើ និងមិនអាចធ្វើ។ ព្រំដែនស្មោះត្រង់ គឺជាការការពារភាពតានតឹងល្អបំផុតមួយ។"
+      },
+      "challenge": {
+        "en": "Being too hard on yourself or others under pressure could make the atmosphere colder and more stressful. Soften where you can.",
+        "km": "ការតឹងរ៉ឹងពេកចំពោះខ្លួនឯង ឬអ្នកដទៃក្រោមសម្ពាធ អាចធ្វើឱ្យបរិយាកាសត្រជាក់ និងតានតឹងជាងមុន។ សូមបន្ទន់នៅកន្លែងដែលអ្នកអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Clear boundaries could bring a calmer, more manageable workload. People may come to respect your limits.",
+        "km": "ព្រំដែនច្បាស់លាស់ អាចនាំមកនូវបន្ទុកការងារស្ងប់ស្ងាត់ និងងាយគ្រប់គ្រងជាងមុន។ មនុស្សអាចចាប់ផ្តើមគោរពដែនកំណត់របស់អ្នក។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Approach stress logically: list the causes, weigh the options and make clear decisions. A calm, rational plan can restore control.",
+        "km": "សូមចូលទៅរកភាពតានតឹងដោយតក្កវិជ្ជា៖ រាយបញ្ជីមូលហេតុ ថ្លឹងថ្លែងជម្រើស ហើយធ្វើការសម្រេចចិត្តច្បាស់លាស់។ ផែនការស្ងប់ស្ងាត់ និងសមហេតុផល អាចស្តារការគ្រប់គ្រងឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Relying only on logic while ignoring your feelings could leave stress unresolved. Make space for both.",
+        "km": "ការពឹងផ្អែកតែលើតក្កវិជ្ជា ខណៈដែលមិនខ្វល់ពីអារម្មណ៍របស់អ្នក អាចទុកភាពតានតឹងឱ្យនៅមិនបានដោះស្រាយ។ សូមទុកកន្លែងសម្រាប់ទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "Clear thinking and good decisions could bring stress under control. You may feel more in charge.",
+        "km": "ការគិតច្បាស់លាស់ និងការសម្រេចចិត្តល្អ អាចនាំភាពតានតឹងមកក្រោមការគ្រប់គ្រង។ អ្នកអាចមានអារម្មណ៍ថាគ្រប់គ្រងបានច្រើនជាងមុន។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Start with one small, practical change that makes your working life easier, like tidying your workspace or fixing a recurring problem. Concrete steps reduce stress.",
+        "km": "សូមចាប់ផ្តើមជាមួយការផ្លាស់ប្តូរតូច និងជាក់ស្តែងមួយ ដែលធ្វើឱ្យជីវិតការងាររបស់អ្នកងាយស្រួលជាងមុន ដូចជាការរៀបចំកន្លែងធ្វើការ ឬជួសជុលបញ្ហាដែលកើតឡើងដដែលៗ។ ជំហានជាក់ស្តែងកាត់បន្ថយភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Money worries linked to work could quietly add to the pressure you feel. Look at them clearly rather than avoiding them.",
+        "km": "ការព្រួយបារម្ភអំពីប្រាក់ដែលទាក់ទងនឹងការងារ អាចបន្ថែមសម្ពាធដែលអ្នកមានអារម្មណ៍ដោយស្ងាត់ៗ។ សូមមើលវាឱ្យច្បាស់ ជាជាងជៀសវាងវា។"
+      },
+      "outcome": {
+        "en": "A practical improvement could bring a lasting sense of stability. Stress may ease as solid ground returns.",
+        "km": "ការកែលម្អជាក់ស្តែងមួយ អាចនាំមកនូវអារម្មណ៍ស្ថិរភាពយូរអង្វែង។ ភាពតានតឹងអាចធូរស្រាល នៅពេលដីរឹងមាំត្រឡប់មកវិញ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Learn to juggle demands with flexibility, accepting that not everything can be perfect. Adaptability makes pressure easier to handle.",
+        "km": "សូមរៀនដោះស្រាយតម្រូវការជាច្រើនដោយភាពបត់បែន ដោយទទួលយកថាមិនមែនអ្វីៗទាំងអស់អាចល្អឥតខ្ចោះ។ ភាពបត់បែន ធ្វើឱ្យសម្ពាធងាយដោះស្រាយជាងមុន។"
+      },
+      "challenge": {
+        "en": "Saying yes to every request at once could leave you scattered and worn out. Let the least important demand wait or go.",
+        "km": "ការយល់ព្រមចំពោះរាល់សំណើក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នករាយប៉ាយ និងអស់កម្លាំង។ សូមឱ្យតម្រូវការដែលសំខាន់តិចបំផុតរង់ចាំ ឬទៅ។"
+      },
+      "outcome": {
+        "en": "A better balance between tasks could reduce your stress noticeably. You may find a comfortable rhythm.",
+        "km": "តុល្យភាពល្អជាងមុនរវាងកិច្ចការ អាចកាត់បន្ថយភាពតានតឹងរបស់អ្នកគួរឱ្យកត់សម្គាល់។ អ្នកអាចរកឃើញចង្វាក់សុខស្រួល។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Work with your team to share tasks and solve problems together. Collaboration can spread the load and ease pressure on everyone.",
+        "km": "សូមធ្វើការជាមួយក្រុមរបស់អ្នក ដើម្បីចែករំលែកកិច្ចការ និងដោះស្រាយបញ្ហាជាមួយគ្នា។ កិច្ចសហការ អាចចែកចាយបន្ទុក និងបន្ធូរសម្ពាធលើមនុស្សគ្រប់គ្នា។"
+      },
+      "challenge": {
+        "en": "Trying to do everything yourself instead of relying on colleagues could increase your stress. Trust others with their part.",
+        "km": "ការព្យាយាមធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯង ជំនួសឱ្យការពឹងផ្អែកលើសហការី អាចបង្កើនភាពតានតឹងរបស់អ្នក។ សូមទុកចិត្តអ្នកដទៃលើចំណែករបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Good teamwork could make demanding work feel manageable. Shared effort may lighten your load and lift everyone's mood.",
+        "km": "ការងារជាក្រុមល្អ អាចធ្វើឱ្យការងារដែលទាមទារខ្លាំងមានអារម្មណ៍ថាអាចគ្រប់គ្រងបាន។ ការខិតខំរួមគ្នា អាចបន្ធូរបន្ទុករបស់អ្នក និងលើកស្ទួយអារម្មណ៍របស់មនុស្សគ្រប់គ្នា។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Protect your energy and resources by being careful about what you commit to. Holding back a little can prevent overload.",
+        "km": "សូមការពារថាមពល និងធនធានរបស់អ្នក ដោយប្រុងប្រយ័ត្នអំពីអ្វីដែលអ្នកប្តេជ្ញា។ ការទប់ខ្លួនបន្តិច អាចការពារការលើសបន្ទុក។"
+      },
+      "challenge": {
+        "en": "Needing to control every outcome could make you rigid and more stressed. Allow some things to unfold without your hand on them.",
+        "km": "ការត្រូវការគ្រប់គ្រងរាល់លទ្ធផល អាចធ្វើឱ្យអ្នករឹងរូស និងតានតឹងជាងមុន។ សូមអនុញ្ញាតឱ្យរឿងខ្លះលាតត្រដាង ដោយគ្មានដៃរបស់អ្នកលើវា។"
+      },
+      "outcome": {
+        "en": "Careful management of your energy could bring steadier, calmer work. You may feel more secure and less stretched.",
+        "km": "ការគ្រប់គ្រងថាមពលរបស់អ្នកដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវការងារនឹងនរ និងស្ងប់ស្ងាត់ជាងមុន។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពជាងមុន និងមិនសូវតឹងតែង។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "If you are struggling, do not be too proud to ask for help or support. Reaching out can turn hardship into something you can manage.",
+        "km": "ប្រសិនបើអ្នកកំពុងតស៊ូ សូមកុំមានមោទនភាពពេក ក្នុងការសុំជំនួយ ឬការគាំទ្រ។ ការលាតដៃទៅរកគេ អាចប្រែការលំបាកទៅជាអ្វីដែលអ្នកអាចគ្រប់គ្រងបាន។"
+      },
+      "challenge": {
+        "en": "Feeling left out in the cold at work could deepen stress and loneliness. If things feel very hard, reach out to someone who can help.",
+        "km": "អារម្មណ៍ថាត្រូវបានទុកចោលនៅកន្លែងធ្វើការ អាចធ្វើឱ្យភាពតានតឹង និងភាពឯកោកាន់តែជ្រៅ។ ប្រសិនបើអ្វីៗមានអារម្មណ៍ពិបាកខ្លាំង សូមទាក់ទងនរណាម្នាក់ដែលអាចជួយ។"
+      },
+      "outcome": {
+        "en": "Help could arrive when you ask for it, easing the pressure. A warmer place may be found.",
+        "km": "ជំនួយអាចមកដល់ នៅពេលអ្នកស្នើសុំ ដោយបន្ធូរសម្ពាធ។ កន្លែងកក់ក្តៅជាងមុន អាចត្រូវបានរកឃើញ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Accept help when it is offered and offer it to others when you can. A fair give and take keeps stress from piling up on anyone.",
+        "km": "សូមទទួលយកជំនួយ នៅពេលគេផ្តល់ឱ្យ ហើយផ្តល់វាដល់អ្នកដទៃ នៅពេលអ្នកអាចធ្វើបាន។ ការផ្តល់ និងទទួលដោយយុត្តិធម៌ ការពារភាពតានតឹងពីការគរលើនរណាម្នាក់។"
+      },
+      "challenge": {
+        "en": "Giving more than you can afford, in time or energy, could leave you depleted. Keep enough for yourself.",
+        "km": "ការផ្តល់ច្រើនជាងអ្វីដែលអ្នកអាចមានលទ្ធភាព ទាំងពេលវេលា ឬថាមពល អាចធ្វើឱ្យអ្នកអស់។ សូមរក្សាគ្រប់គ្រាន់សម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Mutual support could make stress easier for everyone to bear. Help may flow in both directions.",
+        "km": "ការគាំទ្រគ្នាទៅវិញទៅមក អាចធ្វើឱ្យភាពតានតឹងងាយស្រួលសម្រាប់មនុស្សគ្រប់គ្នាក្នុងការទ្រាំទ្រ។ ជំនួយអាចហូរទាំងសងខាង។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Be patient with yourself and recognise that progress takes time. Slow, steady effort is less stressful than trying to rush results.",
+        "km": "សូមអត់ធ្មត់ជាមួយខ្លួនឯង ហើយទទួលស្គាល់ថាការរីកចម្រើនត្រូវការពេលវេលា។ ការខិតខំយឺតៗ និងជាប់លាប់ មិនសូវតានតឹងជាងការព្យាយាមប្រញាប់លទ្ធផលទេ។"
+      },
+      "challenge": {
+        "en": "Impatience for results could create constant frustration and extra pressure. Trust that your efforts are adding up.",
+        "km": "ការមិនអត់ធ្មត់ចំពោះលទ្ធផល អាចបង្កើតការខកចិត្តជានិច្ច និងសម្ពាធបន្ថែម។ សូមទុកចិត្តថាការខិតខំរបស់អ្នកកំពុងបូកបញ្ចូលគ្នា។"
+      },
+      "outcome": {
+        "en": "Steady effort could pay off and ease the sense of pressure. Patience with yourself may bring a deeper calm.",
+        "km": "ការខិតខំជាប់លាប់ អាចទទួលបានផល ហើយបន្ធូរអារម្មណ៍នៃសម្ពាធ។ ការអត់ធ្មត់ជាមួយខ្លួនឯង អាចនាំមកនូវភាពស្ងប់ស្ងាត់ជ្រៅជាងមុន។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Focus on one task at a time and give it your full attention. Absorbing yourself in careful work can calm a busy mind.",
+        "km": "សូមផ្តោតលើកិច្ចការមួយម្តងៗ ហើយផ្តល់ការយកចិត្តទុកដាក់ពេញលេញដល់វា។ ការជ្រួតជ្រាបខ្លួនឯងក្នុងការងារប្រុងប្រយ័ត្ន អាចធ្វើឱ្យចិត្តមមាញឹកស្ងប់។"
+      },
+      "challenge": {
+        "en": "Perfectionism could turn ordinary tasks into a source of stress. Good enough is often good enough.",
+        "km": "ភាពល្អឥតខ្ចោះនិយម អាចប្រែកិច្ចការធម្មតាទៅជាប្រភពនៃភាពតានតឹង។ ល្អគ្រប់គ្រាន់ ជារឿយៗគឺល្អគ្រប់គ្រាន់ហើយ។"
+      },
+      "outcome": {
+        "en": "Focused, steady work could bring calm and a sense of mastery. Stress may fade as you concentrate.",
+        "km": "ការងារផ្តោត និងជាប់លាប់ អាចនាំមកនូវភាពស្ងប់ស្ងាត់ និងអារម្មណ៍នៃការស្ទាត់ជំនាញ។ ភាពតានតឹងអាចរសាត់បាត់ ខណៈអ្នកផ្តោតអារម្មណ៍។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Create some independence and personal space in your working life, even a quiet corner or a short solo break. Self-sufficiency can ease stress.",
+        "km": "សូមបង្កើតឯករាជ្យភាព និងកន្លែងផ្ទាល់ខ្លួនខ្លះ ក្នុងជីវិតការងាររបស់អ្នក សូម្បីតែជ្រុងស្ងាត់មួយ ឬការសម្រាកខ្លីម្នាក់ឯង។ ការពឹងផ្អែកលើខ្លួនឯង អាចបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Isolating yourself too much could leave you without support when stress rises. Stay connected to a few people.",
+        "km": "ការធ្វើឱ្យខ្លួនឯងនៅឯកោច្រើនពេក អាចធ្វើឱ្យអ្នកគ្មានការគាំទ្រ នៅពេលភាពតានតឹងកើនឡើង។ សូមរក្សាការភ្ជាប់ទំនាក់ទំនងជាមួយមនុស្សមួយចំនួន។"
+      },
+      "outcome": {
+        "en": "A comfortable, independent rhythm could bring ease. You may enjoy work more when you feel in control.",
+        "km": "ចង្វាក់សុខស្រួល និងឯករាជ្យ អាចនាំមកនូវភាពងាយស្រួល។ អ្នកអាចរីករាយនឹងការងារកាន់តែច្រើន នៅពេលអ្នកមានអារម្មណ៍ថាគ្រប់គ្រងបាន។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Build long-term security in your working life so that short-term pressures feel less threatening. A solid foundation reduces worry.",
+        "km": "សូមកសាងសន្តិសុខរយៈពេលវែងក្នុងជីវិតការងាររបស់អ្នក ដើម្បីឱ្យសម្ពាធរយៈពេលខ្លីមានអារម្មណ៍គំរាមកំហែងតិច។ មូលដ្ឋានរឹងមាំ កាត់បន្ថយការព្រួយបារម្ភ។"
+      },
+      "challenge": {
+        "en": "Worrying about providing for family could add heavy pressure. Share the concern with those close to you.",
+        "km": "ការព្រួយបារម្ភអំពីការផ្គត់ផ្គង់គ្រួសារ អាចបន្ថែមសម្ពាធធ្ងន់។ សូមចែករំលែកកង្វល់នោះជាមួយអ្នកជិតស្និទ្ធរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Greater security could ease many of the worries underneath your stress. Stability may bring a calm that lasts.",
+        "km": "សន្តិសុខកាន់តែច្រើន អាចបន្ធូរការព្រួយបារម្ភជាច្រើន នៅពីក្រោមភាពតានតឹងរបស់អ្នក។ ស្ថិរភាពអាចនាំមកនូវភាពស្ងប់ស្ងាត់ដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learn a new skill or method that makes your work easier. Building competence can reduce the stress of feeling out of your depth.",
+        "km": "សូមរៀនជំនាញ ឬវិធីសាស្ត្រថ្មី ដែលធ្វើឱ្យការងាររបស់អ្នកងាយស្រួលជាងមុន។ ការកសាងសមត្ថភាព អាចកាត់បន្ថយភាពតានតឹងនៃអារម្មណ៍ថាហួសសមត្ថភាព។"
+      },
+      "challenge": {
+        "en": "Feeling inexperienced could make every task stressful. Ask questions freely and learn one step at a time.",
+        "km": "អារម្មណ៍ថាគ្មានបទពិសោធន៍ អាចធ្វើឱ្យរាល់កិច្ចការតានតឹង។ សូមសួរសំណួរដោយសេរី ហើយរៀនម្តងមួយជំហាន។"
+      },
+      "outcome": {
+        "en": "Growing skills could bring growing confidence and less stress. Work may feel more manageable as you learn.",
+        "km": "ជំនាញដែលកំពុងរីកចម្រើន អាចនាំមកនូវទំនុកចិត្តកើនឡើង និងភាពតានតឹងតិចជាងមុន។ ការងារអាចមានអារម្មណ៍ងាយគ្រប់គ្រងជាងមុន ខណៈអ្នករៀន។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Build steady routines that make your work predictable and calm. Reliable habits can be a powerful shield against stress.",
+        "km": "សូមកសាងទម្លាប់នឹងនរ ដែលធ្វើឱ្យការងាររបស់អ្នកអាចទាយទុកបាន និងស្ងប់ស្ងាត់។ ទម្លាប់គួរឱ្យទុកចិត្ត អាចជារបាំងដ៏មានឥទ្ធិពលប្រឆាំងនឹងភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Clinging to routine when things change around you could increase stress. Allow some flexibility in how you work.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ នៅពេលអ្វីៗនៅជុំវិញអ្នកផ្លាស់ប្តូរ អាចបង្កើនភាពតានតឹង។ សូមអនុញ្ញាតឱ្យមានភាពបត់បែនខ្លះ ក្នុងរបៀបដែលអ្នកធ្វើការ។"
+      },
+      "outcome": {
+        "en": "Steady habits could bring a calm that lasts. Stress may become easier to manage when your routine supports you.",
+        "km": "ទម្លាប់នឹងនរ អាចនាំមកនូវភាពស្ងប់ស្ងាត់ដែលស្ថិតស្ថេរ។ ភាពតានតឹងអាចកាន់តែងាយគ្រប់គ្រង នៅពេលទម្លាប់របស់អ្នកគាំទ្រអ្នក។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Take care of your physical comfort at work, with breaks, good food and a pleasant space. Practical self-care can ease stress.",
+        "km": "សូមមើលថែភាពសុខស្រួលខាងរាងកាយរបស់អ្នកនៅកន្លែងធ្វើការ ដោយការសម្រាក អាហារល្អ និងកន្លែងរីករាយ។ ការមើលថែខ្លួនឯងជាក់ស្តែង អាចបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Looking after everyone's comfort but your own could leave you running on empty. Add your own needs to the list.",
+        "km": "ការមើលថែភាពសុខស្រួលរបស់មនុស្សគ្រប់គ្នា លើកលែងតែខ្លួនឯង អាចធ្វើឱ្យអ្នកដំណើរការដោយគ្មានថាមពល។ សូមបន្ថែមតម្រូវការរបស់អ្នកផ្ទាល់ចូលក្នុងបញ្ជី។"
+      },
+      "outcome": {
+        "en": "Good self-care could restore your energy and ease pressure. You may feel more grounded and able to cope.",
+        "km": "ការមើលថែខ្លួនឯងល្អ អាចស្តារថាមពលរបស់អ្នក និងបន្ធូរសម្ពាធ។ អ្នកអាចមានអារម្មណ៍នឹងនរ និងអាចដោះស្រាយបានច្រើនជាងមុន។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Use your experience and resources to create a working life that is steady and secure. Taking practical control can reduce stress.",
+        "km": "សូមប្រើបទពិសោធន៍ និងធនធានរបស់អ្នក ដើម្បីបង្កើតជីវិតការងារដែលនឹងនរ និងមានសុវត្ថិភាព។ ការគ្រប់គ្រងជាក់ស្តែង អាចកាត់បន្ថយភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Carrying all responsibility as the provider could weigh heavily on you. Let others share it where they can.",
+        "km": "ការលីការទទួលខុសត្រូវទាំងអស់ ក្នុងនាមជាអ្នកផ្គត់ផ្គង់ អាចធ្ងន់ខ្លាំងលើអ្នក។ សូមឱ្យអ្នកដទៃចែករំលែកវា នៅកន្លែងដែលពួកគេអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Practical security could bring a deep sense of calm. You may feel steady and in command.",
+        "km": "សន្តិសុខជាក់ស្តែង អាចនាំមកនូវអារម្មណ៍ស្ងប់ស្ងាត់យ៉ាងជ្រាលជ្រៅ។ អ្នកអាចមានអារម្មណ៍នឹងនរ និងគ្រប់គ្រងបាន។"
+      }
+    }
+  }
+}
