@@ -54,6 +54,7 @@
 | `src/content/readings/BI-08.json` | How can I improve teamwork in my business? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/BI-09.json` | What new opportunity should I explore? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/BI-10.json` | Where is my business heading? | 78 cards × 3 positions, English and Khmer (heading) |
+| `src/content/readings/FF-01.json` | What is the atmosphere in my family right now? | 78 cards × 3 positions, English and Khmer (state) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
