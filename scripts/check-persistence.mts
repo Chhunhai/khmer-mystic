@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { restoreFlow } from '../src/state/persistence.ts';
+import { dayKey, msUntilReset, parseCount, readingsLeft, recordReading } from '../src/state/dailyLimit.ts';
 import type { Content } from '../src/engine/types.ts';
 import type { FlowState } from '../src/state/flow.tsx';
 const content = Object.fromEntries(['cards', 'zodiac', 'topics', 'templates'].map(name =>
@@ -16,4 +17,17 @@ assert.equal(restore({ ...saved, noticeSeen: 'yes' }).noticeSeen, false);
 assert.equal(restore({ ...saved, questionId: 'missing' }).timeFrame, null);
 assert.equal(restore({ ...saved, cardIds: ['MAJ-00', 'MAJ-00', 'MAJ-02'] }).cardIds, null);
 assert.deepEqual(restore({ ...saved, flipped: [true, 'yes', false] }).flipped, initial.flipped);
-console.log('Persistence checks passed: valid sessions, malformed data, stale IDs, duplicate cards, and invalid reveal state.');
+// Three readings a day, counted per local day.
+const morning = new Date(2026, 9, 23, 9, 0), nextDay = new Date(2026, 9, 24, 0, 1);
+let count = null as ReturnType<typeof parseCount>;
+assert.equal(readingsLeft(count, morning), 3);
+for (let i = 0; i < 3; i++) count = recordReading(count, morning);
+assert.equal(readingsLeft(count, morning), 0, 'none left after three');
+assert.equal(readingsLeft(count, nextDay), 3, 'resets the next day');
+assert.equal(dayKey(morning), '2026-10-23');
+assert.equal(msUntilReset(new Date(2026, 9, 23, 23, 30)), 30 * 60000, 'half an hour to midnight');
+assert.deepEqual(parseCount(JSON.stringify(count)), count);
+assert.equal(parseCount('{"day":"x","count":2}'), null, 'bad day discarded');
+assert.equal(parseCount('{"day":"2026-10-23","count":-1}'), null, 'bad count discarded');
+assert.equal(parseCount('{broken'), null);
+console.log('Persistence checks passed: valid sessions, malformed data, stale IDs, duplicate cards, and invalid reveal state, daily reading limit.');

@@ -6,9 +6,12 @@ import Svg, { Circle } from 'react-native-svg';
 import { Redirect, router } from 'expo-router';
 import { content } from '../content/index.ts';
 import { drawCards } from '../engine/reading.ts';
-import { stepLabel, useFlow, useUi, type Flipped } from '../state/flow.tsx';
+import { format, stepLabel, useFlow, useUi, type Flipped } from '../state/flow.tsx';
+import { msUntilReset, readingsPerDay } from '../state/dailyLimit.ts';
+import { useDailyLimit } from '../state/dailyLimitStore.tsx';
 import { CardBack, FlipCard, useReducedMotion } from '../ui/cards.tsx';
 import { useCardViewer } from '../ui/cardViewer.tsx';
+import { LotusMark } from '../ui/icons.tsx';
 import { AppText, GhostButton, Hint, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
 import { colors, useWide } from '../ui/theme.ts';
 
@@ -141,11 +144,24 @@ export default function DrawScreen() {
     );
   };
 
+  // Three deals a day; each deal (Shuffle again too) uses one. Arriving with no cards and none left
+  // shows the "come back tomorrow" message instead of a deck.
+  const daily = useDailyLimit();
+  const [limited] = useState(() => ready && !startDealt && daily.left() === 0);
+  // While limited, a clock for the countdown to midnight, ticking each half minute.
+  const [now, setNow] = useState(() => new Date());
+  useEffect(() => {
+    if (!limited) return;
+    const t = setInterval(() => setNow(new Date()), 30000);
+    return () => clearInterval(t);
+  }, [limited]);
+
   // Development builds run effects twice on mount; deal only once.
   const started = useRef(false);
   useEffect(() => {
-    if (!ready || startDealt || started.current) return;
+    if (!ready || startDealt || started.current || limited) return;
     started.current = true;
+    daily.use();
     update({ cardIds: drawCards(content.cards), flipped: [false, false, false] });
     shuffleAndDeal();
     // Runs once on arrival; later deals come from "Shuffle again".
@@ -155,6 +171,7 @@ export default function DrawScreen() {
   if (!ready) return <Redirect href="/" />;
 
   const shuffleAgain = () => {
+    if (!daily.use()) return;
     const newDeal = () => {
       update({ cardIds: drawCards(content.cards), flipped: [false, false, false] });
       shuffleAndDeal();
@@ -168,8 +185,25 @@ export default function DrawScreen() {
     ).start(newDeal);
   };
 
+  if (limited) {
+    const mins = Math.ceil(msUntilReset(now) / 60000);
+    const h = Math.floor(mins / 60);
+    const m = mins % 60;
+    const time = h > 0 ? format(ui.hoursMinutes, { h, m }, state.lang) : format(ui.minutesOnly, { m }, state.lang);
+    return (
+      <Screen width={900} step={4} footer={<PrimaryButton label={ui.backHome} onPress={() => router.dismissTo('/')} />}>
+        <View style={styles.limit}>
+          <LotusMark />
+          <Title>{ui.limitTitle}</Title>
+          <Hint>{format(ui.limitBody, { total: readingsPerDay, time }, state.lang)}</Hint>
+        </View>
+      </Screen>
+    );
+  }
+
   const cards = state.cardIds?.map(id => content.cards.find(c => c.id === id)!);
   const allOpen = state.flipped.every(Boolean);
+  const left = daily.left();
 
   return (
     <Screen
@@ -177,7 +211,7 @@ export default function DrawScreen() {
       step={4}
       footer={
         <>
-          <GhostButton label={ui.shuffle} onPress={shuffleAgain} disabled={phase !== 'ready'} />
+          <GhostButton label={ui.shuffle} onPress={shuffleAgain} disabled={phase !== 'ready' || left === 0} />
           <PrimaryButton label={ui.see} onPress={() => router.push('/reading')} disabled={!allOpen || phase !== 'ready'} />
         </>
       }
@@ -248,6 +282,11 @@ export default function DrawScreen() {
         </View>
       </View>
       {/* Says why "See my reading" is still off, and how many cards are left. */}
+      {phase === 'ready' && (
+        <AppText size={13} style={styles.left}>
+          {left === 0 ? ui.lastToday : format(ui.leftToday, { n: left, total: readingsPerDay }, state.lang)}
+        </AppText>
+      )}
       {phase === 'ready' && !allOpen && (
         <AppText size={14} style={styles.left}>
           {(() => {
@@ -263,6 +302,7 @@ export default function DrawScreen() {
 
 const styles = StyleSheet.create({
   left: { color: colors.muted, textAlign: 'center', marginTop: 4 },
+  limit: { alignItems: 'center', gap: 12, marginTop: 40, maxWidth: 520, alignSelf: 'center' },
   top: { gap: 6 },
   stage: { marginTop: 24 },
   rings: { position: 'absolute' },

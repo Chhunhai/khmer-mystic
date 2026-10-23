@@ -6,6 +6,7 @@ import { Cinzel_700Bold } from '@expo-google-fonts/cinzel';
 import { KantumruyPro_400Regular, KantumruyPro_500Medium, KantumruyPro_600SemiBold } from '@expo-google-fonts/kantumruy-pro';
 import { Moul_400Regular } from '@expo-google-fonts/moul';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { DailyLimitProvider } from '../state/dailyLimitStore.tsx';
 import { FlowProvider } from '../state/flow.tsx';
 import { colors } from '../ui/theme.ts';
 
@@ -37,10 +38,12 @@ export default function RootLayout() {
 
   return (
     <SafeAreaProvider>
-      <FlowProvider>
-        <Stack screenOptions={{ headerShown: false, contentStyle: { backgroundColor: colors.midnight } }} />
-        <StatusBar style="light" />
-      </FlowProvider>
+      <DailyLimitProvider>
+        <FlowProvider>
+          <Stack screenOptions={{ headerShown: false, contentStyle: { backgroundColor: colors.midnight } }} />
+          <StatusBar style="light" />
+        </FlowProvider>
+      </DailyLimitProvider>
     </SafeAreaProvider>
   );
 }

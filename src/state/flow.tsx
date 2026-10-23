@@ -92,6 +92,14 @@ export function findTopic(id: string | null) {
 
 const khmerDigits = '០១២៣៤៥៦៧៨៩';
 
+/** Fill {name} placeholders; numbers are written with Khmer numerals in Khmer. */
+export function format(template: string, values: Record<string, string | number>, lang: Lang): string {
+  return template.replace(/\{(\w+)\}/g, (_, k: string) => {
+    const v = String(values[k] ?? '');
+    return lang === 'km' ? v.replace(/\d/g, d => khmerDigits[Number(d)]) : v;
+  });
+}
+
 /** "Step {n} of 5" with Khmer numerals in Khmer. */
 export function stepLabel(template: string, n: number, lang: Lang): string {
   const num = lang === 'km' ? String(n).replace(/\d/g, d => khmerDigits[Number(d)]) : String(n);

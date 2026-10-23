@@ -42,6 +42,7 @@ Everything needed to build the Khmer Mystic app: all content in English and Khme
 - One language per reading. Never mix English and Khmer.
 - The disclaimer is always last and always visible. On the Wellbeing topic (`WB`), never collapse it.
 - No AI and no network calls at runtime. Every sentence comes from reviewed content.
+- Daily limit: 3 readings per device per local day (`src/state/dailyLimit.ts`, `readingsPerDay`). Each deal of three cards uses one, "Shuffle again" included; reopening a dealt reading does not. The count is kept in the phone's secure storage (expo-secure-store; browser storage on web) and resets at local midnight. With none left, the draw step shows "Today's readings are done" with a countdown. Soft limit only: clearing app data (Android), a private browser window or changing the clock gets around it.
 - The draw is random with no duplicates and no reversed cards. `drawCards()` accepts a custom random function if a daily lock is chosen later.
 
 ## Design

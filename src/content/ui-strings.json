@@ -86,7 +86,14 @@
     "privacyLink": "Privacy",
     "termsLink": "Terms of use",
     "turnMore": "Turn over {n} more cards to see your reading",
-    "turnOne": "Turn over 1 more card to see your reading"
+    "turnOne": "Turn over 1 more card to see your reading",
+    "leftToday": "{n} of {total} readings left today",
+    "lastToday": "This is your last reading for today",
+    "limitTitle": "Today’s readings are done",
+    "limitBody": "You can draw {total} readings a day, so each one has time to settle. New readings open at midnight, in {time}.",
+    "hoursMinutes": "{h} h {m} min",
+    "minutesOnly": "{m} min",
+    "backHome": "Back to home"
   },
   "km": {
     "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
@@ -175,6 +182,13 @@
     "privacyLink": "ឯកជនភាព",
     "termsLink": "លក្ខខណ្ឌប្រើប្រាស់",
     "turnMore": "សូមបើកសន្លឹកបៀ {n} សន្លឹកទៀត ដើម្បីមើលលទ្ធផល",
-    "turnOne": "សូមបើកសន្លឹកបៀ ១ សន្លឹកទៀត ដើម្បីមើលលទ្ធផល"
+    "turnOne": "សូមបើកសន្លឹកបៀ ១ សន្លឹកទៀត ដើម្បីមើលលទ្ធផល",
+    "leftToday": "នៅសល់ការទស្សន៍ទាយ {n} ក្នុងចំណោម {total} សម្រាប់ថ្ងៃនេះ",
+    "lastToday": "នេះជាការទស្សន៍ទាយចុងក្រោយសម្រាប់ថ្ងៃនេះ",
+    "limitTitle": "ការទស្សន៍ទាយសម្រាប់ថ្ងៃនេះបានចប់ហើយ",
+    "limitBody": "អ្នកអាចដកសន្លឹកបៀបាន {total} ដងក្នុងមួយថ្ងៃ ដើម្បីឱ្យការទស្សន៍ទាយនីមួយៗមានពេលពិចារណា។ ការទស្សន៍ទាយថ្មីនឹងបើកនៅពាក់កណ្តាលអធ្រាត្រ ក្នុងរយៈពេល {time}។",
+    "hoursMinutes": "{h} ម៉ោង {m} នាទី",
+    "minutesOnly": "{m} នាទី",
+    "backHome": "ត្រឡប់ទៅទំព័រដើម"
   }
 }

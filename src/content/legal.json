@@ -1,5 +1,5 @@
 {
-  "_note": "From the 'Disclaimer, Privacy and Terms' doc (docs/LINKS.md). Draft: needs legal review before launch. Fill `values` once; {company}, {email}, {minAge} and {effective} in the text are replaced from it. privacy.*.body[1] and [2] were corrected to match the app, which also keeps the reading in progress on the device.",
+  "_note": "From the 'Disclaimer, Privacy and Terms' doc (docs/LINKS.md). Draft: needs legal review before launch. Fill `values` once; {company}, {email}, {minAge} and {effective} in the text are replaced from it. privacy.*.body[1] and [2] were corrected to match the app, which also keeps the reading in progress and today's reading count on the device.",
   "values": {
     "company": "[Company name]",
     "email": "[contact email]",
@@ -32,7 +32,7 @@
       "body": [
         "Khmer Mystic does not ask you to create an account, and it does not collect your name, phone number, location or contacts.",
         "Your choices (birth year animal, topic, question, time frame) are used only on your device to create your reading. They are not sent to us or to anyone else.",
-        "The app keeps your language choice and your reading in progress on your device, so you can continue where you left off. Starting a new reading clears it, and you can remove everything by clearing the app’s data.",
+        "The app keeps your language choice, your reading in progress and how many readings you have drawn today on your device, so you can continue where you left off and the daily limit works. Starting a new reading clears the reading in progress, and you can remove everything by clearing the app’s data.",
         "If we change how the app handles information, we will update this notice and show you the change before it takes effect.",
         "Questions: {email}"
       ]
@@ -42,7 +42,7 @@
       "body": [
         "Khmer Mystic មិនតម្រូវឱ្យអ្នកបង្កើតគណនីទេ ហើយមិនប្រមូលឈ្មោះ លេខទូរស័ព្ទ ទីតាំង ឬបញ្ជីទំនាក់ទំនងរបស់អ្នកឡើយ។",
         "ជម្រើសរបស់អ្នក (ឆ្នាំកំណើត ប្រធានបទ សំណួរ និងរយៈពេល) ត្រូវបានប្រើតែនៅលើឧបករណ៍របស់អ្នក ដើម្បីបង្កើតការទស្សន៍ទាយប៉ុណ្ណោះ។ ព័ត៌មានទាំងនេះមិនត្រូវបានផ្ញើមកយើង ឬទៅអ្នកណាផ្សេងទេ។",
-        "កម្មវិធីរក្សាទុកជម្រើសភាសា និងការទស្សន៍ទាយដែលអ្នកកំពុងធ្វើ នៅលើឧបករណ៍របស់អ្នក ដើម្បីឱ្យអ្នកអាចបន្តពីកន្លែងដែលអ្នកបានឈប់។ ការចាប់ផ្តើមការទស្សន៍ទាយថ្មីនឹងលុបវាចោល ហើយអ្នកអាចលុបទាំងអស់បាន ដោយសម្អាតទិន្នន័យកម្មវិធី។",
+        "កម្មវិធីរក្សាទុកជម្រើសភាសា ការទស្សន៍ទាយដែលអ្នកកំពុងធ្វើ និងចំនួនការទស្សន៍ទាយដែលអ្នកបានដកនៅថ្ងៃនេះ នៅលើឧបករណ៍របស់អ្នក ដើម្បីឱ្យអ្នកអាចបន្តពីកន្លែងដែលអ្នកបានឈប់ ហើយដែនកំណត់ប្រចាំថ្ងៃដំណើរការ។ ការចាប់ផ្តើមការទស្សន៍ទាយថ្មីនឹងលុបការទស្សន៍ទាយដែលកំពុងធ្វើចោល ហើយអ្នកអាចលុបទាំងអស់បាន ដោយសម្អាតទិន្នន័យកម្មវិធី។",
         "ប្រសិនបើយើងផ្លាស់ប្តូររបៀបដែលកម្មវិធីគ្រប់គ្រងព័ត៌មាន យើងនឹងធ្វើបច្ចុប្បន្នភាពសេចក្តីជូនដំណឹងនេះ ហើយបង្ហាញការផ្លាស់ប្តូរដល់អ្នក មុនពេលវាចូលជាធរមាន។",
         "សំណួរ៖ {email}"
       ]
