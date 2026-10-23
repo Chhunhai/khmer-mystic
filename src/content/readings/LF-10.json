@@ -1,0 +1,1097 @@
+{
+  "questionId": "LF-10",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You are standing at the edge of something new, with no fixed map yet. Your life feels open, and that freedom is where its direction starts.",
+        "km": "អ្នកកំពុងឈរនៅមាត់នៃអ្វីមួយថ្មី ដោយមិនទាន់មានផែនទីច្បាស់លាស់។ ជីវិតរបស់អ្នកហាក់ដូចជាបើកចំហ ហើយសេរីភាពនោះ គឺជាកន្លែងដែលទិសដៅរបស់វាចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Drifting wherever excitement leads could leave your life without a real direction. Some planning keeps freedom from turning into aimlessness.",
+        "km": "ការរសាត់ទៅតាមភាពរំភើបនាំទៅ អាចធ្វើឱ្យជីវិតរបស់អ្នកគ្មានទិសដៅពិតប្រាកដ។ ការរៀបផែនការខ្លះ រក្សាសេរីភាពមិនឱ្យក្លាយជាការដើរដោយគ្មានគោលដៅ។"
+      },
+      "outcome": {
+        "en": "You are moving toward a bold new chapter shaped by experience. Trusting yourself on unfamiliar ground could teach you who you are becoming.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកជំពូកថ្មីដ៏ក្លាហាន ដែលរៀបចំដោយបទពិសោធន៍។ ការទុកចិត្តខ្លួនឯងនៅលើដីដែលមិនធ្លាប់ស្គាល់ អាចបង្រៀនអ្នកថាអ្នកកំពុងក្លាយជានរណា។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You have the abilities and resources to steer your own life. The direction depends a great deal on how you choose to use them.",
+        "km": "អ្នកមានសមត្ថភាព និងធនធាន ដើម្បីដឹកនាំជីវិតរបស់ខ្លួន។ ទិសដៅអាស្រ័យយ៉ាងខ្លាំងលើរបៀបដែលអ្នកជ្រើសរើសប្រើវា។"
+      },
+      "challenge": {
+        "en": "Waiting for life to hand you a direction could waste the power you already have. Your own choices may matter more than chance.",
+        "km": "ការរង់ចាំឱ្យជីវិតផ្តល់ទិសដៅឱ្យអ្នក អាចខ្ជះខ្ជាយអំណាចដែលអ្នកមានរួចហើយ។ ជម្រើសរបស់អ្នកផ្ទាល់ អាចសំខាន់ជាងចៃដន្យ។"
+      },
+      "outcome": {
+        "en": "You are moving toward self-made success, where ideas turn into real results. What you create with intention could define your next chapter.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពជោគជ័យដែលអ្នកបង្កើតដោយខ្លួនឯង ដែលគំនិតប្រែទៅជាលទ្ធផលពិតប្រាកដ។ អ្វីដែលអ្នកបង្កើតដោយចេតនា អាចកំណត់ជំពូកបន្ទាប់របស់អ្នក។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "You are moving more quietly than it seems, guided by inner knowing. Some of its direction is not yet visible, even to you.",
+        "km": "អ្នកកំពុងដើរដោយស្ងាត់ៗជាងអ្វីដែលមើលទៅ ដោយមានការដឹងខាងក្នុងជាអ្នកណែនាំ។ ទិសដៅខ្លះរបស់វា មិនទាន់អាចមើលឃើញនៅឡើយ សូម្បីតែចំពោះខ្លួនអ្នក។"
+      },
+      "challenge": {
+        "en": "Ignoring your intuition in favour of what others expect could pull your life off its true course. Listen inward before you choose.",
+        "km": "ការមិនខ្វល់ពីវិចារណញាណ ដើម្បីធ្វើតាមអ្វីដែលអ្នកដទៃរំពឹង អាចទាញជីវិតរបស់អ្នកចេញពីផ្លូវពិត។ សូមស្តាប់ខាងក្នុង មុននឹងជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "You are moving toward deeper self-knowledge and a quieter kind of wisdom. Hidden parts of your path could slowly reveal themselves.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការស្គាល់ខ្លួនឯងកាន់តែស៊ីជម្រៅ និងប្រាជ្ញាដ៏ស្ងប់ស្ងាត់។ ផ្នែកដែលលាក់កំបាំងនៃផ្លូវរបស់អ្នក អាចបង្ហាញខ្លួនបន្តិចម្តងៗ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "You are in a growing season, rich with care, creativity and connection. What you tend is shaping where you go.",
+        "km": "អ្នកកំពុងស្ថិតក្នុងរដូវនៃការលូតលាស់ ពោរពេញដោយការថែទាំ ការច្នៃប្រឌិត និងទំនាក់ទំនង។ អ្វីដែលអ្នកថែរក្សា កំពុងកំណត់ទិសដែលអ្នកទៅ។"
+      },
+      "challenge": {
+        "en": "Pouring yourself into everyone else could leave your own direction neglected. Your dreams also need tending.",
+        "km": "ការចំណាយខ្លួនឯងទាំងស្រុងទៅលើអ្នកដទៃ អាចធ្វើឱ្យទិសដៅរបស់អ្នកផ្ទាល់ត្រូវបានគេបំភ្លេច។ ក្តីស្រមៃរបស់អ្នក ក៏ត្រូវការការថែរក្សាដែរ។"
+      },
+      "outcome": {
+        "en": "You are moving toward abundance, warmth and creative fulfilment. A home, family or project you nurture could blossom beautifully.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពបរិបូរណ៍ ភាពកក់ក្តៅ និងការពេញចិត្តក្នុងការច្នៃប្រឌិត។ ផ្ទះ គ្រួសារ ឬគម្រោងដែលអ្នកថែរក្សា អាចរីកស្គុះស្គាយយ៉ាងស្រស់ស្អាត។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Things are becoming more structured, with responsibilities and plans taking shape. You may be building something meant to last.",
+        "km": "អ្វីៗកំពុងមានរបៀបរៀបរយកាន់តែច្រើន ដោយភារកិច្ច និងផែនការកំពុងមានរូបរាង។ អ្នកប្រហែលជាកំពុងកសាងអ្វីមួយដែលមានបំណងឱ្យស្ថិតស្ថេរ។"
+      },
+      "challenge": {
+        "en": "Becoming too rigid could make your life feel boxed in. Plans work best when they can bend a little.",
+        "km": "ការក្លាយជាមនុស្សតឹងរ៉ឹងពេក អាចធ្វើឱ្យជីវិតរបស់អ្នកហាក់ដូចជាជាប់ក្នុងប្រអប់។ ផែនការដំណើរការល្អបំផុត នៅពេលវាអាចបត់បែនបានបន្តិច។"
+      },
+      "outcome": {
+        "en": "You are moving toward stability, authority and a solid foundation. Steady leadership of your own affairs could bring lasting security.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកស្ថិរភាព អំណាច និងមូលដ្ឋានដ៏រឹងមាំ។ ការដឹកនាំកិច្ចការផ្ទាល់ខ្លួនដោយនឹងនរ អាចនាំមកនូវសុវត្ថិភាពយូរអង្វែង។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "You are being shaped by learning, tradition and the guidance of others. Shared values may be pointing the way.",
+        "km": "អ្នកកំពុងទទួលឥទ្ធិពលពីការរៀនសូត្រ ប្រពៃណី និងការណែនាំរបស់អ្នកដទៃ។ គុណតម្លៃរួមគ្នា ប្រហែលជាកំពុងចង្អុលផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Following a path chosen by others could lead you somewhere that is not truly yours. Make sure the direction fits your heart.",
+        "km": "ការដើរតាមផ្លូវដែលអ្នកដទៃជ្រើសរើស អាចនាំអ្នកទៅកាន់កន្លែងដែលមិនមែនជារបស់អ្នកពិតប្រាកដ។ សូមប្រាកដថាទិសដៅនោះសមនឹងចិត្តរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You are moving toward wisdom, belonging and perhaps a role guiding others. Learning may become a lasting part of your path.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកប្រាជ្ញា ការមានកន្លែងរបស់ខ្លួន និងប្រហែលជាតួនាទីណែនាំអ្នកដទៃ។ ការរៀនសូត្រ អាចក្លាយជាផ្នែកមួយដ៏ស្ថិតស្ថេរនៃផ្លូវរបស់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "You are at a crossroads of the heart, where relationships and values guide the way. An important choice may set your direction.",
+        "km": "អ្នកកំពុងស្ថិតនៅផ្លូវបំបែកនៃចិត្ត ដែលទំនាក់ទំនង និងគុណតម្លៃណែនាំផ្លូវ។ ជម្រើសសំខាន់មួយ អាចកំណត់ទិសដៅរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting others make your biggest choices could take your life somewhere you would not choose. Your values deserve the final say.",
+        "km": "ការឱ្យអ្នកដទៃធ្វើជម្រើសធំៗជំនួសអ្នក អាចនាំជីវិតរបស់អ្នកទៅកាន់កន្លែងដែលអ្នកមិនជ្រើសរើស។ គុណតម្លៃរបស់អ្នក សមនឹងមានសំឡេងចុងក្រោយ។"
+      },
+      "outcome": {
+        "en": "You are moving toward deeper commitment and harmony with what you value. A meaningful bond could shape much of what follows.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការប្តេជ្ញាកាន់តែជ្រាលជ្រៅ និងភាពសុខដុមជាមួយអ្វីដែលអ្នកឱ្យតម្លៃ។ ចំណងដ៏មានអត្ថន័យមួយ អាចកំណត់អ្វីៗជាច្រើនដែលមកបន្ទាប់។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You are moving with purpose, driven by your own determination. You are steering more than drifting.",
+        "km": "អ្នកកំពុងដើរដោយមានគោលបំណង ដោយត្រូវបានជំរុញដោយការតាំងចិត្តផ្ទាល់ខ្លួន។ អ្នកកំពុងដឹកនាំ ច្រើនជាងការរសាត់។"
+      },
+      "challenge": {
+        "en": "Chasing two goals that pull in opposite directions could leave your life spinning in place. Choose which road matters most.",
+        "km": "ការដេញតាមគោលដៅពីរដែលទាញទៅទិសផ្ទុយគ្នា អាចធ្វើឱ្យជីវិតរបស់អ្នកវិលនៅនឹងកន្លែង។ សូមជ្រើសថាផ្លូវណាសំខាន់ជាងគេ។"
+      },
+      "outcome": {
+        "en": "You are moving toward achievement through focus and willpower. A goal you have fought for could come within reach.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកសមិទ្ធផល តាមរយៈការផ្តោតអារម្មណ៍ និងឆន្ទៈ។ គោលដៅដែលអ្នកបានតស៊ូដើម្បីវា អាចមកដល់ក្បែរដៃ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "You are being shaped by inner strength and patience. You are learning to handle difficulty with calm rather than force.",
+        "km": "អ្នកកំពុងទទួលឥទ្ធិពលពីកម្លាំងខាងក្នុង និងការអត់ធ្មត់។ អ្នកកំពុងរៀនដោះស្រាយការលំបាកដោយភាពស្ងប់ ជាជាងការបង្ខំ។"
+      },
+      "challenge": {
+        "en": "Doubting your own strength could keep you from the life you are capable of. Courage may be closer than it feels.",
+        "km": "ការសង្ស័យលើកម្លាំងរបស់ខ្លួនឯង អាចរារាំងអ្នកពីជីវិតដែលអ្នកមានសមត្ថភាពរស់នៅ។ ភាពក្លាហាន អាចនៅជិតជាងអ្វីដែលអ្នកគិត។"
+      },
+      "outcome": {
+        "en": "You are moving toward quiet confidence and self-mastery. Challenges you once feared could become proof of how strong you are.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកទំនុកចិត្តដ៏ស្ងប់ស្ងាត់ និងការគ្រប់គ្រងខ្លួនឯង។ បញ្ហាប្រឈមដែលអ្នកធ្លាប់ខ្លាច អាចក្លាយជាភស្តុតាងពីភាពរឹងមាំរបស់អ្នក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You are in an inward season, where reflection matters more than speed. You may be searching for your own truth.",
+        "km": "អ្នកកំពុងស្ថិតក្នុងរដូវនៃការបែរចូលខាងក្នុង ដែលការពិចារណាសំខាន់ជាងល្បឿន។ អ្នកប្រហែលជាកំពុងស្វែងរកការពិតផ្ទាល់ខ្លួន។"
+      },
+      "challenge": {
+        "en": "Retreating too far from the world could leave your life feeling empty. Wisdom grows when it is shared.",
+        "km": "ការដកខ្លួនឆ្ងាយពីពិភពលោកពេក អាចធ្វើឱ្យជីវិតរបស់អ្នកហាក់ដូចជាទទេ។ ប្រាជ្ញារីកចម្រើន នៅពេលវាត្រូវបានចែករំលែក។"
+      },
+      "outcome": {
+        "en": "You are moving toward self-understanding and a path that feels truly your own. Inner clarity could guide every major choice.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការស្គាល់ខ្លួនឯង និងផ្លូវដែលពិតជារបស់អ្នក។ ភាពច្បាស់លាស់ខាងក្នុង អាចណែនាំគ្រប់ជម្រើសសំខាន់ៗ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "You are at a turning point, with circumstances shifting around you. Change is carrying you, whether or not you planned it.",
+        "km": "អ្នកកំពុងស្ថិតនៅចំណុចបត់មួយ ដោយកាលៈទេសៈកំពុងផ្លាស់ប្តូរនៅជុំវិញអ្នក។ ការផ្លាស់ប្តូរកំពុងនាំអ្នកទៅ ទោះបីអ្នកបានគ្រោងទុក ឬមិនបានគ្រោងទុកក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Fighting every change could leave you feeling at the mercy of fate. Learning to adapt may give you more say in where you land.",
+        "km": "ការប្រឆាំងនឹងគ្រប់ការផ្លាស់ប្តូរ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាស្ថិតក្រោមអំណាចវាសនា។ ការរៀនសម្របខ្លួន អាចផ្តល់ឱ្យអ្នកនូវសិទ្ធិសម្រេចកាន់តែច្រើនលើកន្លែងដែលអ្នកនឹងទៅដល់។"
+      },
+      "outcome": {
+        "en": "You are moving into a new cycle, possibly a lucky one. Opportunities that come with the turn could change your direction for the better.",
+        "km": "អ្នកកំពុងចូលទៅក្នុងវដ្តថ្មី ប្រហែលជាវដ្តដ៏សំណាង។ ឱកាសដែលមកជាមួយការប្រែប្រួល អាចផ្លាស់ប្តូរទិសដៅរបស់អ្នកឱ្យប្រសើរឡើង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "You are being shaped by the choices you have made and their results. Balance and honesty are central right where you stand.",
+        "km": "អ្នកកំពុងទទួលឥទ្ធិពលពីជម្រើសដែលអ្នកបានធ្វើ និងលទ្ធផលរបស់វា។ តុល្យភាព និងភាពស្មោះត្រង់ គឺជាស្នូលនៃស្ថានភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Avoiding responsibility for past choices could keep repeating the same results. Owning your part may change where you go next.",
+        "km": "ការគេចពីការទទួលខុសត្រូវចំពោះជម្រើសពីមុន អាចធ្វើឱ្យលទ្ធផលដដែលៗកើតឡើងម្តងហើយម្តងទៀត។ ការទទួលស្គាល់ចំណែករបស់អ្នក អាចផ្លាស់ប្តូរទិសដែលអ្នកទៅបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "You are moving toward fairness and balance, where actions and rewards line up. Honest choices could lead to results you can be proud of.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពយុត្តិធម៌ និងតុល្យភាព ដែលសកម្មភាព និងរង្វាន់ស្របគ្នា។ ជម្រើសដោយស្មោះត្រង់ អាចនាំទៅរកលទ្ធផលដែលអ្នកអាចមានមោទនភាព។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Everything seems to be on pause, as if waiting for something to shift. The stillness may be offering a new way of seeing.",
+        "km": "អ្វីៗហាក់ដូចជាកំពុងផ្អាក ហាក់ដូចជាកំពុងរង់ចាំអ្វីមួយផ្លាស់ប្តូរ។ ភាពស្ងៀមស្ងាត់នេះ អាចកំពុងផ្តល់របៀបមើលថ្មី។"
+      },
+      "challenge": {
+        "en": "Struggling against a necessary pause could keep your life stuck longer. A changed outlook may move things faster than effort.",
+        "km": "ការតស៊ូប្រឆាំងនឹងការផ្អាកដែលចាំបាច់ អាចធ្វើឱ្យជីវិតរបស់អ្នកជាប់គាំងយូរជាងមុន។ ទស្សនៈដែលផ្លាស់ប្តូរ អាចធ្វើឱ្យអ្វីៗដើរលឿនជាងការខិតខំ។"
+      },
+      "outcome": {
+        "en": "You are moving toward a fresh perspective that changes your priorities. What once felt like a delay could become a turning point.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកទស្សនៈថ្មី ដែលផ្លាស់ប្តូរអាទិភាពរបស់អ្នក។ អ្វីដែលធ្លាប់ហាក់ដូចជាការពន្យារពេល អាចក្លាយជាចំណុចបត់មួយ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "You are in the middle of a transformation, with one chapter ending and another waiting to begin. It may feel like standing between two worlds.",
+        "km": "អ្នកកំពុងស្ថិតក្នុងការប្រែប្រួល ដោយជំពូកមួយកំពុងបញ្ចប់ ហើយជំពូកមួយទៀតកំពុងរង់ចាំចាប់ផ្តើម។ វាអាចដូចជាការឈរនៅចន្លោះពិភពពីរ។"
+      },
+      "challenge": {
+        "en": "Refusing to let go could keep your life tied to a chapter that has ended. Moving on may require a goodbye.",
+        "km": "ការបដិសេធមិនព្រមដោះលែង អាចធ្វើឱ្យជីវិតរបស់អ្នកជាប់នឹងជំពូកដែលបានបញ្ចប់។ ការបន្តទៅមុខ អាចតម្រូវឱ្យមានការលាគ្នា។"
+      },
+      "outcome": {
+        "en": "You are moving toward deep renewal after a necessary ending. A very different chapter could open, better suited to who you are becoming.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការកើតឡើងវិញយ៉ាងជ្រាលជ្រៅ បន្ទាប់ពីការបញ្ចប់ដែលចាំបាច់។ ជំពូកដែលខុសគ្នាខ្លាំងមួយ អាចបើកឡើង ដែលសមនឹងមនុស្សដែលអ្នកកំពុងក្លាយជា។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You are finding a gentler balance, with different parts slowly coming together. Patience is guiding the way.",
+        "km": "អ្នកកំពុងរកឃើញតុល្យភាពដ៏ទន់ភ្លន់ ដោយផ្នែកផ្សេងៗកំពុងរួមគ្នាបន្តិចម្តងៗ។ ការអត់ធ្មត់កំពុងណែនាំផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Rushing toward the future could upset the balance you are building. Big leaps may set you back more than small steps.",
+        "km": "ការប្រញាប់ឆ្ពោះទៅរកអនាគត អាចរំខានតុល្យភាពដែលអ្នកកំពុងកសាង។ ការលោតធំៗ អាចធ្វើឱ្យអ្នកថយក្រោយច្រើនជាងជំហានតូចៗ។"
+      },
+      "outcome": {
+        "en": "You are moving toward harmony, health and a steady sense of peace. A balanced way of living could become your foundation.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពសុខដុម សុខភាព និងអារម្មណ៍នៃសន្តិភាពដ៏នឹងនរ។ របៀបរស់នៅដែលមានតុល្យភាព អាចក្លាយជាមូលដ្ឋានរបស់អ្នក។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Something in your life is holding you back, perhaps a habit, fear or attachment. Your direction may be more limited than it needs to be.",
+        "km": "អ្វីមួយក្នុងជីវិតរបស់អ្នក កំពុងរារាំងអ្នក ប្រហែលជាទម្លាប់ ការភ័យខ្លាច ឬការជាប់ចិត្ត។ ទិសដៅរបស់អ្នក អាចត្រូវបានកំណត់ច្រើនជាងអ្វីដែលចាំបាច់។"
+      },
+      "challenge": {
+        "en": "Staying tied to what harms you could steer your life in circles. Seek support if a pattern feels too strong to break alone.",
+        "km": "ការនៅជាប់នឹងអ្វីដែលធ្វើឱ្យអ្នកខូចខាត អាចធ្វើឱ្យជីវិតរបស់អ្នកវិលជុំ។ សូមស្វែងរកការគាំទ្រ ប្រសិនបើលំនាំមួយហាក់ដូចជាខ្លាំងពេកសម្រាប់បំបែកតែម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "You could move toward liberation once you face what binds you. Freedom gained with effort may feel especially precious.",
+        "km": "អ្នកអាចឆ្ពោះទៅរកការរំដោះខ្លួន នៅពេលអ្នកប្រឈមនឹងអ្វីដែលចងអ្នក។ សេរីភាពដែលទទួលបានដោយការខិតខំ អាចមានតម្លៃពិសេស។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "You may be going through a shake-up, with old certainties falling away. It can feel chaotic, even if it clears the ground.",
+        "km": "អ្នកប្រហែលជាកំពុងឆ្លងកាត់ការរង្គោះរង្គើ ដោយភាពប្រាកដប្រជាចាស់ៗកំពុងធ្លាក់ចុះ។ វាអាចហាក់ដូចជាច្របូកច្របល់ ទោះបីវាធ្វើឱ្យដីស្អាតក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Clinging to the life you had planned could make sudden change harder to bear. Some structures may need to fall.",
+        "km": "ការតោងជាប់នឹងជីវិតដែលអ្នកបានគ្រោងទុក អាចធ្វើឱ្យការផ្លាស់ប្តូរភ្លាមៗពិបាកទ្រាំជាងមុន។ រចនាសម្ព័ន្ធខ្លះ ប្រហែលជាត្រូវធ្លាក់ចុះ។"
+      },
+      "outcome": {
+        "en": "You are moving through upheaval toward a more truthful foundation. What you rebuild could suit you far better than what fell.",
+        "km": "អ្នកកំពុងឆ្លងកាត់ការរង្គោះរង្គើ ឆ្ពោះទៅរកមូលដ្ឋានដែលពិតប្រាកដជាងមុន។ អ្វីដែលអ្នកកសាងឡើងវិញ អាចសមនឹងអ្នកជាងអ្វីដែលបានដួលរលំ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "You are recovering, and hope is guiding you again. A quiet faith in the future is returning.",
+        "km": "អ្នកកំពុងងើបឡើងវិញ ហើយក្តីសង្ឃឹមកំពុងណែនាំអ្នកម្តងទៀត។ ជំនឿដ៏ស្ងប់ស្ងាត់លើអនាគត កំពុងត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Letting old disappointments decide your future could dim a bright direction. Hope may need protecting.",
+        "km": "ការឱ្យការខកចិត្តចាស់ៗ សម្រេចអនាគតរបស់អ្នក អាចធ្វើឱ្យទិសដៅដ៏ភ្លឺស្វាងមួយស្រអាប់។ ក្តីសង្ឃឹម ប្រហែលជាត្រូវការការការពារ។"
+      },
+      "outcome": {
+        "en": "You are moving toward healing, inspiration and renewed purpose. The future you hope for could gradually take shape.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការជាសះស្បើយ ការបំផុសគំនិត និងគោលបំណងដែលកើតឡើងវិញ។ អនាគតដែលអ្នកសង្ឃឹម អាចចាប់ផ្តើមមានរូបរាងបន្តិចម្តងៗ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Things feel uncertain, and the road ahead is hard to see. Feelings and fears may be colouring the view.",
+        "km": "អ្វីៗហាក់ដូចជាមិនប្រាកដប្រជា ហើយផ្លូវខាងមុខពិបាកមើលឃើញ។ អារម្មណ៍ និងការភ័យខ្លាច អាចកំពុងធ្វើឱ្យទិដ្ឋភាពប្រែពណ៌។"
+      },
+      "challenge": {
+        "en": "Making big life choices out of fear or confusion could lead you astray. Wait for clearer light before you turn.",
+        "km": "ការធ្វើជម្រើសធំៗក្នុងជីវិត ដោយសារការភ័យខ្លាច ឬការភាន់ច្រឡំ អាចនាំអ្នកឱ្យវង្វេង។ សូមរង់ចាំពន្លឺច្បាស់ជាងនេះ មុននឹងបត់។"
+      },
+      "outcome": {
+        "en": "You are moving slowly out of uncertainty toward clearer understanding. Trusting what you can verify could guide you through the fog.",
+        "km": "អ្នកកំពុងចេញពីភាពមិនប្រាកដប្រជាបន្តិចម្តងៗ ឆ្ពោះទៅរកការយល់ដឹងកាន់តែច្បាស់។ ការទុកចិត្តលើអ្វីដែលអ្នកអាចផ្ទៀងផ្ទាត់ អាចណែនាំអ្នកឆ្លងកាត់អ័ព្ទ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "You are in a bright, confident phase, and things feel possible. You are growing into yourself.",
+        "km": "អ្នកកំពុងស្ថិតក្នុងដំណាក់កាលដ៏ភ្លឺស្វាង និងមានទំនុកចិត្ត ហើយអ្វីៗហាក់ដូចជាអាចធ្វើទៅបាន។ អ្នកកំពុងធំធាត់ទៅជាខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Taking good fortune for granted could make you miss early warning signs. Stay grounded as things grow brighter.",
+        "km": "ការចាត់ទុកសំណាងល្អថាជារឿងធម្មតា អាចធ្វើឱ្យអ្នករំលងសញ្ញាព្រមានដំបូងៗ។ សូមរក្សាជើងឱ្យនៅលើដី ខណៈអ្វីៗកាន់តែភ្លឺស្វាង។"
+      },
+      "outcome": {
+        "en": "You are moving toward joy, success and a strong sense of self. Happiness could spread through many parts of your life.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកសេចក្តីរីករាយ ភាពជោគជ័យ និងការស្គាល់ខ្លួនឯងយ៉ាងរឹងមាំ។ សុភមង្គលអាចរីករាលដាលពាសពេញផ្នែកជាច្រើននៃជីវិតរបស់អ្នក។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You are at a point of awakening, where the past is being reviewed. A call to rise into something new may be stirring.",
+        "km": "អ្នកកំពុងស្ថិតនៅចំណុចនៃការភ្ញាក់ដឹងខ្លួន ដែលអតីតកាលកំពុងត្រូវបានពិនិត្យឡើងវិញ។ ការហៅឱ្យក្រោកឡើងទៅរកអ្វីថ្មី ប្រហែលជាកំពុងរំជួល។"
+      },
+      "challenge": {
+        "en": "Being haunted by old choices could keep you from stepping into your next life. Self-forgiveness may unlock the door.",
+        "km": "ការត្រូវបានលងបន្លាចដោយជម្រើសចាស់ៗ អាចរារាំងអ្នកពីការឈានចូលជីវិតបន្ទាប់។ ការអភ័យទោសខ្លួនឯង អាចដោះសោទ្វារ។"
+      },
+      "outcome": {
+        "en": "You are moving toward rebirth and a clearer sense of calling. A major decision could set the tone for a long season of growth.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការកើតជាថ្មី និងការយល់ច្បាស់ជាងមុនអំពីបេសកកម្មរបស់ខ្លួន។ ការសម្រេចចិត្តសំខាន់មួយ អាចកំណត់សម្លេងសម្រាប់រដូវនៃការរីកចម្រើនដ៏យូរ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You are completing a major cycle, and you can see how far you have come. A sense of wholeness is close.",
+        "km": "អ្នកកំពុងបញ្ចប់វដ្តដ៏សំខាន់មួយ ហើយអ្នកអាចមើលឃើញថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា។ អារម្មណ៍នៃភាពពេញលេញនៅជិតហើយ។"
+      },
+      "challenge": {
+        "en": "Hesitating at the finish line could delay the next stage of your life. Let yourself complete what you started.",
+        "km": "ការស្ទាក់ស្ទើរនៅខ្សែបញ្ចប់ អាចពន្យារដំណាក់កាលបន្ទាប់នៃជីវិតរបស់អ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងបញ្ចប់អ្វីដែលអ្នកបានចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "You are moving toward fulfilment and the start of a wider journey. Completion could open doors to travel, growth or a larger role.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការសម្រេចបាន និងការចាប់ផ្តើមនៃដំណើរដែលទូលំទូលាយជាងមុន។ ការបញ្ចប់ អាចបើកទ្វារទៅរកការធ្វើដំណើរ ការរីកចម្រើន ឬតួនាទីធំជាងមុន។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "You have a fresh spark, with a new passion or idea taking hold. Something wants to begin.",
+        "km": "អ្នកមានផ្កាភ្លើងថ្មី ដោយចំណង់ ឬគំនិតថ្មីមួយកំពុងចាក់ឫស។ អ្វីមួយចង់ចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Letting new inspiration fade without action could leave your life where it is. Sparks need fuel to become fires.",
+        "km": "ការឱ្យការបំផុសគំនិតថ្មីរសាត់បាត់ដោយគ្មានសកម្មភាព អាចធ្វើឱ្យជីវិតរបស់អ្នកនៅកន្លែងដដែល។ ផ្កាភ្លើងត្រូវការឥន្ធនៈ ដើម្បីក្លាយជាភ្លើង។"
+      },
+      "outcome": {
+        "en": "You are moving toward a passionate new beginning. A project or calling could give you fresh energy and purpose.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការចាប់ផ្តើមថ្មីដែលពោរពេញដោយចំណង់។ គម្រោង ឬបេសកកម្មមួយ អាចផ្តល់ថាមពល និងគោលបំណងថ្មីដល់អ្នក។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You are at a planning stage, with wider horizons calling. You are deciding how big to dream.",
+        "km": "អ្នកកំពុងស្ថិតនៅដំណាក់កាលរៀបផែនការ ដោយមានជើងមេឃកាន់តែទូលាយកំពុងហៅ។ អ្នកកំពុងសម្រេចថាគួរស្រមៃធំប៉ុណ្ណា។"
+      },
+      "challenge": {
+        "en": "Playing it safe forever could keep your life smaller than it could be. Some risk may be needed to grow.",
+        "km": "ការលេងសុវត្ថិភាពជារៀងរហូត អាចធ្វើឱ្យជីវិតរបស់អ្នកតូចជាងអ្វីដែលវាអាចជា។ ហានិភ័យខ្លះ ប្រហែលជាចាំបាច់ដើម្បីរីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "You are moving toward expansion, perhaps through travel, study or a bigger plan. Your world could grow wider and richer.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការពង្រីក ប្រហែលជាតាមរយៈការធ្វើដំណើរ ការសិក្សា ឬផែនការធំជាងមុន។ ពិភពរបស់អ្នកអាចកាន់តែទូលំទូលាយ និងសម្បូរបែប។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "You are reaching outward, as earlier efforts begin to bear fruit. You are looking toward distant possibilities.",
+        "km": "អ្នកកំពុងលាតសន្ធឹងទៅខាងក្រៅ ខណៈការខិតខំពីមុនចាប់ផ្តើមផ្តល់ផល។ អ្នកកំពុងសម្លឹងទៅរកលទ្ធភាពនៅឆ្ងាយ។"
+      },
+      "challenge": {
+        "en": "Expecting quick results from a long journey could leave you discouraged. Big directions often take time to unfold.",
+        "km": "ការរំពឹងលទ្ធផលរហ័សពីដំណើរដ៏វែងឆ្ងាយ អាចធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។ ទិសដៅធំៗ ច្រើនតែត្រូវការពេលវេលាដើម្បីលាតត្រដាង។"
+      },
+      "outcome": {
+        "en": "You are moving toward wider horizons and new connections. What you have started could carry you further than you imagined.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកជើងមេឃកាន់តែទូលាយ និងទំនាក់ទំនងថ្មីៗ។ អ្វីដែលអ្នកបានចាប់ផ្តើម អាចនាំអ្នកទៅឆ្ងាយជាងអ្វីដែលអ្នកស្រមៃ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "You have a secure, happy base, with reasons to celebrate. Home and community feel supportive.",
+        "km": "អ្នកមានមូលដ្ឋានដ៏មានសុវត្ថិភាព និងរីករាយ ជាមួយហេតុផលដើម្បីអបអរ។ ផ្ទះ និងសហគមន៍ហាក់ដូចជាគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Taking a good home life for granted could let it slowly weaken. Joy grows when it is noticed and shared.",
+        "km": "ការចាត់ទុកជីវិតក្នុងផ្ទះដ៏ល្អថាជារឿងធម្មតា អាចធ្វើឱ្យវាចុះខ្សោយបន្តិចម្តងៗ។ សេចក្តីរីករាយរីកចម្រើន នៅពេលវាត្រូវបានកត់សម្គាល់ និងចែករំលែក។"
+      },
+      "outcome": {
+        "en": "You are moving toward milestones worth celebrating, such as a settled home or a joyful union. Stability and happiness could grow together.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកព្រឹត្តិការណ៍សំខាន់ៗដែលគួរអបអរ ដូចជាផ្ទះដែលស្ងប់សុខ ឬការរួមរស់ដ៏រីករាយ។ ស្ថិរភាព និងសុភមង្គល អាចរីកចម្រើនជាមួយគ្នា។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "You are surrounded by competing demands and differing opinions. It may feel like everyone wants something different from you.",
+        "km": "អ្នកកំពុងត្រូវបានហ៊ុំព័ទ្ធដោយការទាមទារដែលប្រជែងគ្នា និងមតិខុសៗគ្នា។ វាអាចហាក់ដូចជាគ្រប់គ្នាចង់បានអ្វីផ្សេងៗពីអ្នក។"
+      },
+      "challenge": {
+        "en": "Getting pulled into every conflict could scatter your direction. Not every battle is part of your path.",
+        "km": "ការត្រូវបានទាញចូលក្នុងគ្រប់ជម្លោះ អាចធ្វើឱ្យទិសដៅរបស់អ្នកខ្ចាត់ខ្ចាយ។ មិនមែនគ្រប់ការប្រយុទ្ធសុទ្ធតែជាផ្នែកនៃផ្លូវរបស់អ្នកនោះទេ។"
+      },
+      "outcome": {
+        "en": "You are moving through a competitive stretch that could sharpen your skills. Clarity about your own goals may emerge from the noise.",
+        "km": "អ្នកកំពុងឆ្លងកាត់ដំណាក់កាលនៃការប្រកួតប្រជែង ដែលអាចធ្វើឱ្យជំនាញរបស់អ្នកមុតស្រួច។ ភាពច្បាស់លាស់អំពីគោលដៅផ្ទាល់ខ្លួន អាចលេចចេញពីភាពអ៊ូអរ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "You are gaining momentum, and your efforts are being recognised. You may be stepping into a more visible role.",
+        "km": "អ្នកកំពុងទទួលបានសន្ទុះ ហើយការខិតខំរបស់អ្នកកំពុងត្រូវបានទទួលស្គាល់។ អ្នកប្រហែលជាកំពុងឈានចូលតួនាទីដែលគេមើលឃើញច្រើនជាងមុន។"
+      },
+      "challenge": {
+        "en": "Measuring your life by other people's approval could pull you off your true course. Your own values are the better compass.",
+        "km": "ការវាស់ជីវិតរបស់អ្នកតាមការយល់ព្រមរបស់អ្នកដទៃ អាចទាញអ្នកចេញពីផ្លូវពិត។ គុណតម្លៃរបស់អ្នកផ្ទាល់ គឺជាត្រីវិស័យដែលល្អជាង។"
+      },
+      "outcome": {
+        "en": "You are moving toward success and public recognition. A hard-won victory could open new paths and build lasting confidence.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពជោគជ័យ និងការទទួលស្គាល់ជាសាធារណៈ។ ជ័យជម្នះដែលទទួលបានដោយលំបាក អាចបើកផ្លូវថ្មី និងកសាងទំនុកចិត្តយូរអង្វែង។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You are being asked to stand firm for what you believe in. You may be holding ground against pressure.",
+        "km": "អ្នកត្រូវបានទាមទារឱ្យឈររឹងមាំសម្រាប់អ្វីដែលអ្នកជឿជាក់។ អ្នកប្រហែលជាកំពុងរក្សាជំហរប្រឆាំងនឹងសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Defending everything at once could wear you out before you reach your goal. Protect what truly shapes your future.",
+        "km": "ការការពារអ្វីៗទាំងអស់ក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នកអស់កម្លាំង មុនពេលទៅដល់គោលដៅ។ សូមការពារអ្វីដែលពិតជាកំណត់អនាគតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You are moving toward a stronger position earned through courage. Holding firm on what matters could secure the future you want.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកជំហរដ៏រឹងមាំ ដែលទទួលបានតាមរយៈភាពក្លាហាន។ ការរឹងមាំលើអ្វីដែលសំខាន់ អាចធានាអនាគតដែលអ្នកចង់បាន។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things are speeding up, with news, travel or decisions moving fast. Things are in motion.",
+        "km": "អ្វីៗកំពុងបង្កើនល្បឿន ដោយដំណឹង ការធ្វើដំណើរ ឬការសម្រេចចិត្តកំពុងដើរលឿន។ អ្វីៗកំពុងមានចលនា។"
+      },
+      "challenge": {
+        "en": "Moving too fast could take your life in a direction you did not mean to choose. Pause long enough to steer.",
+        "km": "ការដើរលឿនពេក អាចនាំជីវិតរបស់អ្នកទៅក្នុងទិសដែលអ្នកមិនបានចង់ជ្រើស។ សូមផ្អាកឱ្យបានល្មម ដើម្បីដឹកនាំ។"
+      },
+      "outcome": {
+        "en": "You are moving quickly toward progress, perhaps with travel or exciting news. Things could fall into place faster than expected.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការរីកចម្រើនយ៉ាងរហ័ស ប្រហែលជាជាមួយការធ្វើដំណើរ ឬដំណឹងដ៏គួរឱ្យរំភើប។ អ្វីៗអាចចូលរូបរាងលឿនជាងការរំពឹងទុក។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "A great deal has been asked of you, and you are still going. Resilience has carried you this far.",
+        "km": "អ្នកត្រូវបានទាមទារច្រើន ហើយអ្នកនៅតែបន្ត។ ភាពធន់បាននាំអ្នកមកដល់ទីនេះ។"
+      },
+      "challenge": {
+        "en": "Exhaustion and old wounds could make you stop just short of a turning point. Rest, then keep going.",
+        "km": "ភាពអស់កម្លាំង និងរបួសចាស់ៗ អាចធ្វើឱ្យអ្នកឈប់ មុនពេលដល់ចំណុចបត់មួយបន្តិច។ សូមសម្រាក រួចបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "You are moving toward the end of a long struggle. Persistence could bring you through to a calmer, steadier stage.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកទីបញ្ចប់នៃការតស៊ូដ៏យូរមួយ។ ការតស៊ូ អាចនាំអ្នកឆ្លងទៅកាន់ដំណាក់កាលដែលស្ងប់ និងនឹងនរជាងមុន។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You feel weighed down with responsibilities. The load may be hiding why you chose this road.",
+        "km": "អ្នកហាក់ដូចជាត្រូវបានសង្កត់ដោយភារកិច្ច។ បន្ទុកនោះ អាចកំពុងលាក់ហេតុផលដែលអ្នកជ្រើសផ្លូវនេះ។"
+      },
+      "challenge": {
+        "en": "Carrying everything yourself could steer your life toward burnout. Some burdens are meant to be shared or set down.",
+        "km": "ការលីសែងអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចនាំជីវិតរបស់អ្នកទៅរកការអស់កម្លាំង។ បន្ទុកខ្លះ គួរត្រូវបានចែករំលែក ឬដាក់ចុះ។"
+      },
+      "outcome": {
+        "en": "You could move toward relief once the load is lightened. A simpler life may reveal what truly matters to you.",
+        "km": "អ្នកអាចឆ្ពោះទៅរកការធូរស្រាល នៅពេលបន្ទុកត្រូវបានធ្វើឱ្យស្រាល។ ជីវិតដែលសាមញ្ញជាង អាចបង្ហាញអ្វីដែលពិតជាសំខាន់សម្រាប់អ្នក។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You are in an adventurous, curious mood, with new interests opening up. You are exploring what excites you.",
+        "km": "អ្នកមានអារម្មណ៍នៃការផ្សងព្រេង និងចង់ដឹង ដោយចំណាប់អារម្មណ៍ថ្មីៗកំពុងបើកឡើង។ អ្នកកំពុងស្វែងយល់ពីអ្វីដែលធ្វើឱ្យអ្នករំភើប។"
+      },
+      "challenge": {
+        "en": "Chasing every new interest could keep your life from taking a clear shape. Depth may matter as much as novelty.",
+        "km": "ការដេញតាមគ្រប់ចំណាប់អារម្មណ៍ថ្មី អាចរារាំងជីវិតរបស់អ្នកមិនឱ្យមានរូបរាងច្បាស់លាស់។ ភាពស៊ីជម្រៅ អាចសំខាន់ដូចភាពថ្មី។"
+      },
+      "outcome": {
+        "en": "You are moving toward discovery and a passion worth following. Exploring could lead you to a calling you did not expect.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការរកឃើញ និងចំណង់ដែលគួរដើរតាម។ ការស្វែងយល់ អាចនាំអ្នកទៅរកបេសកកម្មដែលអ្នកមិនបានរំពឹងទុក។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You are full of energy and movement, and you feel ready for change. Restlessness is pushing you forward.",
+        "km": "អ្នកពោរពេញដោយថាមពល និងចលនា ហើយអ្នកមានអារម្មណ៍ថាត្រៀមសម្រាប់ការផ្លាស់ប្តូរ។ ភាពមិនស្ងប់ កំពុងរុញអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Charging toward change without direction could take your life somewhere you regret. Aim before you leap.",
+        "km": "ការប្រញាប់ទៅរកការផ្លាស់ប្តូរដោយគ្មានទិសដៅ អាចនាំជីវិតរបស់អ្នកទៅកន្លែងដែលអ្នកសោកស្តាយ។ សូមកំណត់គោលដៅ មុននឹងលោត។"
+      },
+      "outcome": {
+        "en": "You are moving toward adventure, perhaps a move, a journey or a bold new venture. Change could come quickly and feel exciting.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកដំណើរផ្សងព្រេង ប្រហែលជាការផ្លាស់ទីលំនៅ ការធ្វើដំណើរ ឬមុខរបរថ្មីដ៏ក្លាហាន។ ការផ្លាស់ប្តូរអាចមកដល់យ៉ាងរហ័ស និងគួរឱ្យរំភើប។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You are shining through your confidence and warmth. People are drawn to the way you live.",
+        "km": "អ្នកកំពុងភ្លឺចែងចាំង តាមរយៈទំនុកចិត្ត និងភាពកក់ក្តៅរបស់អ្នក។ មនុស្សត្រូវបានទាក់ទាញដោយរបៀបដែលអ្នករស់នៅ។"
+      },
+      "challenge": {
+        "en": "Spreading yourself too thin for others could dim your own direction. Keep some of your fire for yourself.",
+        "km": "ការបែងចែកខ្លួនឯងស្តើងពេកសម្រាប់អ្នកដទៃ អាចធ្វើឱ្យទិសដៅរបស់អ្នកផ្ទាល់ស្រអាប់។ សូមរក្សាភ្លើងខ្លះសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "You are moving toward personal success and a respected place among others. Confidence could open doors and draw good people near.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពជោគជ័យផ្ទាល់ខ្លួន និងកន្លែងដែលគេគោរពក្នុងចំណោមអ្នកដទៃ។ ទំនុកចិត្ត អាចបើកទ្វារ និងទាក់ទាញមនុស្សល្អៗឱ្យមកជិត។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You are being called to lead with vision. You may be ready to shape your own future rather than react to it.",
+        "km": "អ្នកកំពុងត្រូវបានហៅឱ្យដឹកនាំដោយចក្ខុវិស័យ។ អ្នកប្រហែលជាត្រៀមខ្លួនរៀបចំអនាគតរបស់អ្នក ជាជាងគ្រាន់តែឆ្លើយតបនឹងវា។"
+      },
+      "challenge": {
+        "en": "Expecting life and people to move at your pace could create frustration. Big visions take time and others' help.",
+        "km": "ការរំពឹងឱ្យជីវិត និងមនុស្សដើរតាមល្បឿនរបស់អ្នក អាចបង្កការមួម៉ៅ។ ចក្ខុវិស័យធំៗ ត្រូវការពេលវេលា និងជំនួយពីអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "You are moving toward leadership and achievements that reflect your vision. Your influence could grow well beyond your own circle.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពជាអ្នកដឹកនាំ និងសមិទ្ធផលដែលឆ្លុះបញ្ចាំងពីចក្ខុវិស័យរបស់អ្នក។ ឥទ្ធិពលរបស់អ្នក អាចរីកធំហួសពីរង្វង់ផ្ទាល់ខ្លួន។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "You are opening up emotionally, with new love, friendship or creativity flowing in. Your heart is leading.",
+        "km": "អ្នកកំពុងបើកចំហផ្នែកអារម្មណ៍ ដោយក្តីស្រឡាញ់ មិត្តភាព ឬការច្នៃប្រឌិតថ្មីកំពុងហូរចូល។ ចិត្តរបស់អ្នកកំពុងដឹកនាំ។"
+      },
+      "challenge": {
+        "en": "Closing your heart after past hurt could steer your life away from love. Openness may be worth the risk.",
+        "km": "ការបិទចិត្តបន្ទាប់ពីរបួសពីមុន អាចនាំជីវិតរបស់អ្នកឱ្យឃ្លាតពីក្តីស្រឡាញ់។ ការបើកចិត្ត អាចសមនឹងហានិភ័យ។"
+      },
+      "outcome": {
+        "en": "You are moving toward emotional fulfilment and new beginnings of the heart. Love in many forms could fill the road ahead.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការពេញចិត្តផ្នែកអារម្មណ៍ និងការចាប់ផ្តើមថ្មីនៃចិត្ត។ ក្តីស្រឡាញ់ក្នុងទម្រង់ជាច្រើន អាចបំពេញផ្លូវខាងមុខ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "You are being shaped by a meaningful partnership or close bond. Connection is guiding your choices.",
+        "km": "អ្នកកំពុងទទួលឥទ្ធិពលពីភាពជាដៃគូ ឬចំណងជិតស្និទ្ធដ៏មានអត្ថន័យ។ ការភ្ជាប់ទំនាក់ទំនងកំពុងណែនាំជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Giving more than you receive could tilt your life off balance. A partnership should carry you both forward.",
+        "km": "ការផ្តល់ច្រើនជាងទទួល អាចធ្វើឱ្យជីវិតរបស់អ្នកបាត់តុល្យភាព។ ភាពជាដៃគូ គួរតែនាំអ្នកទាំងពីរទៅមុខ។"
+      },
+      "outcome": {
+        "en": "You are moving toward a deeper union, in love, friendship or partnership. Walking alongside someone could shape a happier future.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការរួបរួមកាន់តែជ្រាលជ្រៅ ក្នុងស្នេហា មិត្តភាព ឬភាពជាដៃគូ។ ការដើរក្បែរនរណាម្នាក់ អាចរៀបចំអនាគតដ៏សប្បាយរីករាយជាងមុន។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "You are lifted by friendship and shared celebration. Community is part of where you are going.",
+        "km": "អ្នកត្រូវបានលើកទឹកចិត្តដោយមិត្តភាព និងការអបអររួមគ្នា។ សហគមន៍ជាផ្នែកមួយនៃទិសដែលអ្នកកំពុងទៅ។"
+      },
+      "challenge": {
+        "en": "Drifting with the crowd could pull your life away from your own goals. Friends are best when they support your direction.",
+        "km": "ការរសាត់តាមហ្វូងមនុស្ស អាចទាញជីវិតរបស់អ្នកចេញពីគោលដៅផ្ទាល់ខ្លួន។ មិត្តភក្តិល្អបំផុត នៅពេលពួកគេគាំទ្រទិសដៅរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You are moving toward joyful connection and a strong circle of support. Shared happiness could become one of your greatest blessings.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការភ្ជាប់ទំនាក់ទំនងដ៏រីករាយ និងរង្វង់គាំទ្រដ៏រឹងមាំ។ សុភមង្គលរួមគ្នា អាចក្លាយជាពរជ័យដ៏ធំបំផុតមួយរបស់អ្នក។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel stuck in a rut, with little that excites you. Something seems to be missing.",
+        "km": "អ្នកអាចមានអារម្មណ៍ថាជាប់ក្នុងភាពដដែលៗ ដោយមានរឿងតិចតួចដែលធ្វើឱ្យអ្នករំភើប។ អ្វីមួយហាក់ដូចជាខ្វះខាត។"
+      },
+      "challenge": {
+        "en": "Waiting for life to excite you again could keep you standing still. New direction may come from small changes.",
+        "km": "ការរង់ចាំឱ្យជីវិតធ្វើឱ្យអ្នករំភើបម្តងទៀត អាចធ្វើឱ្យអ្នកនៅស្ងៀម។ ទិសដៅថ្មីអាចមកពីការផ្លាស់ប្តូរតូចៗ។"
+      },
+      "outcome": {
+        "en": "You could move toward renewed interest once you look at what is already offered. An overlooked option may set a new direction.",
+        "km": "អ្នកអាចឆ្ពោះទៅរកចំណាប់អារម្មណ៍ដែលកើតឡើងវិញ នៅពេលអ្នកមើលអ្វីដែលគេផ្តល់ឱ្យរួចហើយ។ ជម្រើសដែលធ្លាប់មើលរំលង អាចកំណត់ទិសដៅថ្មី។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Loss or disappointment is colouring how you see things. It may be hard to see past what went wrong.",
+        "km": "ការបាត់បង់ ឬការខកចិត្ត កំពុងប៉ះពាល់របៀបដែលអ្នកមើលឃើញអ្វីៗ។ វាអាចពិបាកមើលឃើញហួសពីអ្វីដែលខុស។"
+      },
+      "challenge": {
+        "en": "Letting grief set your direction could keep you facing backward. Something good still remains behind you.",
+        "km": "ការឱ្យទុក្ខសោកកំណត់ទិសដៅរបស់អ្នក អាចធ្វើឱ្យអ្នកបែរមុខទៅក្រោយ។ អ្វីមួយដែលល្អ នៅតែមាននៅពីក្រោយអ្នក។"
+      },
+      "outcome": {
+        "en": "You are moving slowly through sorrow toward acceptance and renewal. What remains could become the start of something new.",
+        "km": "អ្នកកំពុងឆ្លងកាត់ទុក្ខសោកបន្តិចម្តងៗ ឆ្ពោះទៅរកការទទួលយក និងការកើតឡើងវិញ។ អ្វីដែលនៅសល់ អាចក្លាយជាការចាប់ផ្តើមនៃអ្វីមួយថ្មី។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "You are touched by the past, through memories, old friends or childhood places. Comfort comes from what is familiar.",
+        "km": "អ្នកត្រូវបានប៉ះពាល់ដោយអតីតកាល តាមរយៈអនុស្សាវរីយ៍ មិត្តចាស់ ឬកន្លែងក្នុងវ័យកុមារ។ ការលួងលោមមកពីអ្វីដែលធ្លាប់ស្គាល់។"
+      },
+      "challenge": {
+        "en": "Looking back too much could keep your life from moving forward. The past is a teacher, not a destination.",
+        "km": "ការក្រឡេកមើលក្រោយច្រើនពេក អាចរារាំងជីវិតរបស់អ្នកមិនឱ្យដើរទៅមុខ។ អតីតកាលគឺជាគ្រូ មិនមែនជាទិសដៅទេ។"
+      },
+      "outcome": {
+        "en": "You are moving toward gentle comfort and reconnection with your roots. Old kindness could help shape a happier future.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការលួងលោមដ៏ទន់ភ្លន់ និងការភ្ជាប់ទំនាក់ទំនងឡើងវិញជាមួយឫសគល់។ ក្តីមេត្តាចាស់ៗ អាចជួយរៀបចំអនាគតដ៏រីករាយជាងមុន។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You have many options and dreams, and it is hard to know which to follow. Imagination is running high.",
+        "km": "អ្នកមានជម្រើស និងក្តីស្រមៃជាច្រើន ហើយវាពិបាកដឹងថាគួរដើរតាមមួយណា។ ការស្រមៃកំពុងខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Chasing illusions could take your life down a path that leads nowhere. Test your dreams against reality.",
+        "km": "ការដេញតាមការបំភាន់ អាចនាំជីវិតរបស់អ្នកទៅតាមផ្លូវដែលគ្មានទិសដៅ។ សូមសាកល្បងក្តីស្រមៃរបស់អ្នកជាមួយការពិត។"
+      },
+      "outcome": {
+        "en": "You are moving toward clarity once you choose one dream to pursue. Focus could turn imagination into a real future.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពច្បាស់លាស់ នៅពេលអ្នកជ្រើសក្តីស្រមៃមួយដើម្បីដេញតាម។ ការផ្តោតអារម្មណ៍ អាចប្រែការស្រមៃឱ្យទៅជាអនាគតពិតប្រាកដ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be outgrowing something that once fulfilled you. A deeper search is beginning.",
+        "km": "អ្នកប្រហែលជាកំពុងធំហួសពីអ្វីមួយដែលធ្លាប់បំពេញចិត្តអ្នក។ ការស្វែងរកដ៏ជ្រាលជ្រៅមួយកំពុងចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Staying out of fear could keep your life in a place you have outgrown. Courage may be needed to walk on.",
+        "km": "ការស្នាក់នៅដោយសារការភ័យខ្លាច អាចធ្វើឱ្យជីវិតរបស់អ្នកនៅកន្លែងដែលអ្នកបានធំហួស។ ភាពក្លាហាន ប្រហែលជាចាំបាច់ ដើម្បីដើរបន្ត។"
+      },
+      "outcome": {
+        "en": "You are moving toward a more meaningful path, even if it means leaving something behind. What you are seeking could be waiting ahead.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកផ្លូវដែលមានអត្ថន័យជាងមុន ទោះបីវាមានន័យថាត្រូវទុកអ្វីមួយនៅពីក្រោយក៏ដោយ។ អ្វីដែលអ្នកកំពុងស្វែងរក អាចកំពុងរង់ចាំនៅខាងមុខ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You have much to be grateful for, and a wish may be close. Contentment is within reach.",
+        "km": "អ្នកមានរឿងជាច្រើនដែលគួរដឹងគុណ ហើយក្តីប្រាថ្នាមួយអាចនៅជិត។ ភាពពេញចិត្តនៅក្បែរដៃ។"
+      },
+      "challenge": {
+        "en": "Becoming complacent could let your life drift instead of grow. Gratitude works best alongside effort.",
+        "km": "ការធ្វេសប្រហែស អាចធ្វើឱ្យជីវិតរបស់អ្នករសាត់ ជាជាងរីកចម្រើន។ ការដឹងគុណមានប្រសិទ្ធភាពបំផុត នៅពេលមានការខិតខំជាមួយ។"
+      },
+      "outcome": {
+        "en": "You are moving toward satisfaction and the fulfilment of a cherished wish. Happiness could feel well earned and deeply personal.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការពេញចិត្ត និងការសម្រេចក្តីប្រាថ្នាដ៏ស្រឡាញ់មួយ។ សុភមង្គលអាចហាក់ដូចជាសមនឹងទទួល និងមានលក្ខណៈផ្ទាល់ខ្លួនយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "You are grounded in love and belonging, with family or close friends at its centre. Home matters deeply.",
+        "km": "អ្នកមានមូលដ្ឋានលើក្តីស្រឡាញ់ និងការមានកន្លែងរបស់ខ្លួន ដោយមានគ្រួសារ ឬមិត្តជិតស្និទ្ធនៅចំកណ្តាល។ ផ្ទះមានសារៈសំខាន់យ៉ាងជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Holding your life to an ideal picture could create needless pressure. Real happiness rarely looks perfect.",
+        "km": "ការកំណត់ជីវិតរបស់អ្នកតាមរូបភាពឧត្តមគតិ អាចបង្កសម្ពាធដែលមិនចាំបាច់។ សុភមង្គលពិតប្រាកដ កម្រមើលទៅល្អឥតខ្ចោះណាស់។"
+      },
+      "outcome": {
+        "en": "You are moving toward lasting harmony and a sense of home. Family and close bonds could become your deepest joy.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពសុខដុមយូរអង្វែង និងអារម្មណ៍នៃផ្ទះ។ គ្រួសារ និងចំណងជិតស្និទ្ធ អាចក្លាយជាសេចក្តីរីករាយដ៏ជ្រាលជ្រៅបំផុតរបស់អ្នក។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "You are in a tender, creative mood, with small signs pointing the way. Gentle feelings may be guiding you.",
+        "km": "អ្នកកំពុងមានអារម្មណ៍ទន់ភ្លន់ និងច្នៃប្រឌិត ដោយមានសញ្ញាតូចៗចង្អុលផ្លូវ។ អារម្មណ៍ទន់ភ្លន់ ប្រហែលជាកំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Brushing off small signs or feelings could make you miss where life is pointing. Pay attention to what moves you.",
+        "km": "ការមិនខ្វល់ពីសញ្ញា ឬអារម្មណ៍តូចៗ អាចធ្វើឱ្យអ្នករំលងទិសដែលជីវិតកំពុងចង្អុល។ សូមយកចិត្តទុកដាក់ចំពោះអ្វីដែលប៉ះចិត្តអ្នក។"
+      },
+      "outcome": {
+        "en": "You are moving toward creative joy and pleasant surprises. A gentle new beginning could grow into something meaningful.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកសេចក្តីរីករាយក្នុងការច្នៃប្រឌិត និងការភ្ញាក់ផ្អើលដ៏រីករាយ។ ការចាប់ផ្តើមថ្មីដ៏ទន់ភ្លន់ អាចរីកធំទៅជាអ្វីមួយដែលមានអត្ថន័យ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "You are being led by your heart and your ideals. Something beautiful, perhaps love or creative work, is pulling you onward.",
+        "km": "អ្នកកំពុងត្រូវបានដឹកនាំដោយចិត្ត និងឧត្តមគតិរបស់អ្នក។ អ្វីមួយដ៏ស្រស់ស្អាត ប្រហែលជាស្នេហា ឬការងារច្នៃប្រឌិត កំពុងទាញអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Following dreams without a plan could leave your life full of beautiful intentions and little progress. Ground your ideals in action.",
+        "km": "ការដើរតាមក្តីស្រមៃដោយគ្មានផែនការ អាចធ្វើឱ្យជីវិតរបស់អ្នកពោរពេញដោយចេតនាដ៏ស្រស់ស្អាត ប៉ុន្តែការរីកចម្រើនតិចតួច។ សូមភ្ជាប់ឧត្តមគតិរបស់អ្នកជាមួយសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "You are moving toward a heartfelt calling or a romantic new chapter. Following your heart wisely could lead somewhere beautiful.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកបេសកកម្មដែលចេញពីចិត្ត ឬជំពូកថ្មីដ៏មនោសញ្ចេតនា។ ការដើរតាមចិត្តដោយឈ្លាសវៃ អាចនាំទៅរកកន្លែងដ៏ស្រស់ស្អាត។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "You are guided by compassion and intuition. People may look to you for understanding and care.",
+        "km": "អ្នកត្រូវបានណែនាំដោយក្តីអាណិតអាសូរ និងវិចារណញាណ។ មនុស្សអាចងាកមករកអ្នក ដើម្បីការយល់ចិត្ត និងការថែទាំ។"
+      },
+      "challenge": {
+        "en": "Living through others' feelings could leave your own direction blurred. Your needs deserve a place in your future.",
+        "km": "ការរស់នៅតាមរយៈអារម្មណ៍របស់អ្នកដទៃ អាចធ្វើឱ្យទិសដៅរបស់អ្នកផ្ទាល់មិនច្បាស់។ តម្រូវការរបស់អ្នក សមនឹងមានកន្លែងក្នុងអនាគតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You are moving toward emotional depth and a role that uses your caring nature. Healing others could also heal you.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពជ្រាលជ្រៅផ្នែកអារម្មណ៍ និងតួនាទីដែលប្រើធម្មជាតិនៃការយកចិត្តទុកដាក់របស់អ្នក។ ការព្យាបាលចិត្តអ្នកដទៃ ក៏អាចព្យាបាលចិត្តអ្នកដែរ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You are steadied by emotional maturity and calm. You are the anchor for many around you.",
+        "km": "អ្នកមានភាពនឹងនរដោយសារភាពចាស់ទុំផ្នែកអារម្មណ៍ និងភាពស្ងប់។ អ្នកគឺជាយុថ្កាសម្រាប់មនុស្សជាច្រើននៅជុំវិញអ្នក។"
+      },
+      "challenge": {
+        "en": "Hiding your own feelings to stay strong for others could leave your heart unheard. Your direction needs your own voice too.",
+        "km": "ការលាក់អារម្មណ៍ផ្ទាល់ខ្លួន ដើម្បីរឹងមាំសម្រាប់អ្នកដទៃ អាចធ្វើឱ្យចិត្តរបស់អ្នកមិនត្រូវបានស្តាប់។ ទិសដៅរបស់អ្នកក៏ត្រូវការសំឡេងរបស់អ្នកផ្ទាល់ដែរ។"
+      },
+      "outcome": {
+        "en": "You are moving toward wise, balanced leadership of your own heart. Calm strength could earn you respect and lasting peace.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការដឹកនាំចិត្តរបស់ខ្លួនដោយប្រាជ្ញា និងតុល្យភាព។ កម្លាំងដ៏ស្ងប់ស្ងាត់ អាចធ្វើឱ្យអ្នកទទួលបានការគោរព និងសន្តិភាពយូរអង្វែង។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Things are coming into focus, with a clear idea or truth cutting through confusion. You see your direction more sharply.",
+        "km": "អ្វីៗកំពុងច្បាស់ឡើង ដោយគំនិតច្បាស់លាស់ ឬការពិតមួយកំពុងកាត់ផ្តាច់ភាពច្របូកច្របល់។ អ្នកមើលឃើញទិសដៅរបស់អ្នកកាន់តែច្បាស់។"
+      },
+      "challenge": {
+        "en": "Cutting people off in the name of truth could leave your life lonelier. Clarity works best with kindness.",
+        "km": "ការកាត់ផ្តាច់មនុស្ស ក្នុងនាមនៃការពិត អាចធ្វើឱ្យជីវិតរបស់អ្នកឯកោជាងមុន។ ភាពច្បាស់លាស់មានប្រសិទ្ធភាពបំផុត នៅពេលមានក្តីមេត្តាជាមួយ។"
+      },
+      "outcome": {
+        "en": "You are moving toward clarity and a decisive new beginning. A breakthrough in understanding could change your course.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពច្បាស់លាស់ និងការចាប់ផ្តើមថ្មីដ៏ម៉ឺងម៉ាត់។ ការរកឃើញថ្មីក្នុងការយល់ដឹង អាចផ្លាស់ប្តូរផ្លូវរបស់អ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You are at a standstill between two paths. A decision is waiting, and it is hard to make.",
+        "km": "អ្នកកំពុងនៅស្ងៀមរវាងផ្លូវពីរ។ ការសម្រេចចិត្តមួយកំពុងរង់ចាំ ហើយវាពិបាកធ្វើ។"
+      },
+      "challenge": {
+        "en": "Refusing to choose could leave your life on hold. No decision is still a direction.",
+        "km": "ការបដិសេធមិនព្រមជ្រើសរើស អាចធ្វើឱ្យជីវិតរបស់អ្នកផ្អាក។ ការមិនសម្រេចចិត្ត ក៏នៅតែជាទិសដៅមួយដែរ។"
+      },
+      "outcome": {
+        "en": "You are moving toward release once a long-delayed choice is made. A clear path could open once you commit.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការធូរស្រាល នៅពេលជម្រើសដែលពន្យារយូរត្រូវបានធ្វើ។ ផ្លូវច្បាស់លាស់អាចបើកឡើង នៅពេលអ្នកប្តេជ្ញា។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "You are passing through heartache or a painful truth. Sorrow is part of the road.",
+        "km": "អ្នកកំពុងឆ្លងកាត់ការឈឺចាប់ក្នុងចិត្ត ឬការពិតដ៏ឈឺចាប់។ ទុក្ខសោក គឺជាផ្នែកមួយនៃផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Letting pain harden into bitterness could darken your direction. Grief needs a way out.",
+        "km": "ការឱ្យការឈឺចាប់រឹងទៅជាភាពជូរចត់ អាចធ្វើឱ្យទិសដៅរបស់អ្នកងងឹត។ ទុក្ខសោកត្រូវការផ្លូវចេញ។"
+      },
+      "outcome": {
+        "en": "You are moving through sorrow toward healing and honesty. A painful lesson could become the root of future wisdom.",
+        "km": "អ្នកកំពុងឆ្លងកាត់ទុក្ខសោក ឆ្ពោះទៅរកការជាសះស្បើយ និងភាពស្មោះត្រង់។ មេរៀនដ៏ឈឺចាប់មួយ អាចក្លាយជាឫសគល់នៃប្រាជ្ញានាពេលអនាគត។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You need a pause for rest and recovery. Stillness may be part of the path.",
+        "km": "អ្នកត្រូវការការផ្អាកដើម្បីសម្រាក និងស្តារកម្លាំង។ ភាពស្ងៀមស្ងាត់ អាចជាផ្នែកមួយនៃផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Pushing through exhaustion could take your life toward burnout. Rest may be the wisest step forward.",
+        "km": "ការរុញឆ្លងកាត់ភាពអស់កម្លាំង អាចនាំជីវិតរបស់អ្នកទៅរកការអស់កម្លាំងខ្លាំង។ ការសម្រាក អាចជាជំហានទៅមុខដ៏ឈ្លាសវៃបំផុត។"
+      },
+      "outcome": {
+        "en": "You are moving toward renewal after a period of rest. Returning refreshed could give you a clearer sense of where to go.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការកើតឡើងវិញ បន្ទាប់ពីរយៈពេលនៃការសម្រាក។ ការត្រឡប់មកវិញដោយស្រស់ស្រាយ អាចផ្តល់ឱ្យអ្នកនូវការយល់ច្បាស់ជាងមុនអំពីកន្លែងដែលត្រូវទៅ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "You are caught up in conflict, where winning and losing are on people's minds. Pride may be in the way.",
+        "km": "អ្នកកំពុងជាប់ពាក់ព័ន្ធនឹងជម្លោះ ដែលការឈ្នះ និងការចាញ់ កំពុងនៅក្នុងគំនិតមនុស្ស។ មោទនភាព ប្រហែលជាកំពុងរារាំងផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Fighting battles that do not matter could steer your life away from what does. Some wins cost too much.",
+        "km": "ការប្រយុទ្ធក្នុងសមរភូមិដែលមិនសំខាន់ អាចនាំជីវិតរបស់អ្នកឱ្យឃ្លាតពីអ្វីដែលសំខាន់។ ជ័យជម្នះខ្លះ ចំណាយច្រើនពេក។"
+      },
+      "outcome": {
+        "en": "You could move toward peace once you step away from needless conflict. Choosing calm over pride may open a better road.",
+        "km": "អ្នកអាចឆ្ពោះទៅរកសន្តិភាព នៅពេលអ្នកដកខ្លួនចេញពីជម្លោះដែលមិនចាំបាច់។ ការជ្រើសរើសភាពស្ងប់ជាជាងមោទនភាព អាចបើកផ្លូវដែលល្អជាង។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You are in transition, moving away from troubled times. The journey is slow but steady.",
+        "km": "អ្នកកំពុងស្ថិតក្នុងការផ្លាស់ប្តូរ ដោយចាកចេញពីពេលវេលាដែលមានបញ្ហា។ ដំណើរនេះយឺត ប៉ុន្តែនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Carrying old burdens into a new chapter could weigh down your fresh start. Travel light.",
+        "km": "ការយកបន្ទុកចាស់ៗចូលទៅក្នុងជំពូកថ្មី អាចធ្វើឱ្យការចាប់ផ្តើមថ្មីរបស់អ្នកធ្ងន់។ សូមធ្វើដំណើរដោយស្រាល។"
+      },
+      "outcome": {
+        "en": "You are moving toward calmer, more peaceful days. A move or change of scene could help you begin again.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកថ្ងៃដែលស្ងប់ និងមានសន្តិភាពជាងមុន។ ការផ្លាស់ទីលំនៅ ឬការផ្លាស់ប្តូរបរិយាកាស អាចជួយអ្នកចាប់ផ្តើមម្តងទៀត។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Strategy and careful thought are called for. Not everything is out in the open.",
+        "km": "ស្ថានភាពរបស់អ្នក ទាមទារយុទ្ធសាស្ត្រ និងការគិតពិចារណាដោយប្រុងប្រយ័ត្ន។ មិនមែនអ្វីៗទាំងអស់ត្រូវបានបង្ហាញចំហនោះទេ។"
+      },
+      "challenge": {
+        "en": "Relying on shortcuts or secrets could lead your life into trouble. An honest path may be slower but safer.",
+        "km": "ការពឹងលើផ្លូវកាត់ ឬការលាក់រឿង អាចនាំជីវិតរបស់អ្នកទៅរកបញ្ហា។ ផ្លូវដែលស្មោះត្រង់ អាចយឺតជាង ប៉ុន្តែមានសុវត្ថិភាពជាង។"
+      },
+      "outcome": {
+        "en": "You are moving toward solving a complex problem through wit and honesty. A clever, open approach could get you where you want to go.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការដោះស្រាយបញ្ហាស្មុគស្មាញ តាមរយៈភាពឆ្លាតវៃ និងភាពស្មោះត្រង់។ វិធីដ៏ឆ្លាតវៃ និងបើកចំហ អាចនាំអ្នកទៅកន្លែងដែលអ្នកចង់ទៅ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel restricted, as if your options are few. Some walls may be in your mind.",
+        "km": "អ្នកអាចមានអារម្មណ៍ថាត្រូវបានរឹតត្បិត ហាក់ដូចជាជម្រើសរបស់អ្នកមានតិច។ ជញ្ជាំងខ្លះ ប្រហែលជានៅក្នុងគំនិតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Believing you have no choices could keep your life stuck. A different view may reveal the door.",
+        "km": "ការជឿថាអ្នកគ្មានជម្រើស អាចធ្វើឱ្យជីវិតរបស់អ្នកជាប់គាំង។ ទស្សនៈផ្សេង អាចបង្ហាញទ្វារ។"
+      },
+      "outcome": {
+        "en": "You are moving toward freedom as you test and loosen old limits. Small steps could open a much wider world.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកសេរីភាព ខណៈអ្នកសាកល្បង និងបន្ធូរដែនកំណត់ចាស់ៗ។ ជំហានតូចៗ អាចបើកពិភពលោកដែលទូលំទូលាយជាងនេះ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "You feel shadowed by worry and sleepless thoughts. Fear may be shaping how you see the future.",
+        "km": "អ្នកហាក់ដូចជាត្រូវបានគ្របដោយការព្រួយបារម្ភ និងគំនិតដែលធ្វើឱ្យដេកមិនលក់។ ការភ័យខ្លាច អាចកំពុងកំណត់របៀបដែលអ្នកមើលឃើញអនាគត។"
+      },
+      "challenge": {
+        "en": "Making big choices just to quiet your fears could narrow your future. If anxiety is wearing you down, support from a professional may help.",
+        "km": "ការធ្វើជម្រើសធំៗ គ្រាន់តែដើម្បីបំបាត់ការភ័យខ្លាច អាចធ្វើឱ្យអនាគតរបស់អ្នករួមតូច។ ប្រសិនបើការថប់បារម្ភកំពុងធ្វើឱ្យអ្នកអស់កម្លាំង ការគាំទ្រពីអ្នកជំនាញអាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "You could move out of worry toward a calmer, clearer outlook. Support and honest talk may lighten what has felt dark.",
+        "km": "អ្នកអាចចេញពីការព្រួយបារម្ភ ឆ្ពោះទៅរកទស្សនៈដែលស្ងប់ និងច្បាស់ជាងមុន។ ការគាំទ្រ និងការនិយាយដោយស្មោះត្រង់ អាចធ្វើឱ្យអ្វីដែលធ្លាប់ងងឹតស្រាលជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "You may have reached rock bottom after a painful ending. Once you are at the lowest point, the only way left is up.",
+        "km": "អ្នកប្រហែលជាបានធ្លាក់ដល់បាតជ្រៅបំផុត បន្ទាប់ពីការបញ្ចប់ដ៏ឈឺចាប់មួយ។ នៅពេលអ្នកនៅចំណុចទាបបំផុត ផ្លូវតែមួយគត់ដែលនៅសល់ គឺឡើងលើ។"
+      },
+      "challenge": {
+        "en": "Holding on to the pain could keep you from rising. Endings are not the end of your story.",
+        "km": "ការតោងជាប់នឹងការឈឺចាប់ អាចរារាំងអ្នកពីការក្រោកឡើង។ ការបញ្ចប់ មិនមែនជាទីបញ្ចប់នៃរឿងរបស់អ្នកទេ។"
+      },
+      "outcome": {
+        "en": "You are moving upward from a low point toward recovery. A new dawn could follow the hardest night.",
+        "km": "អ្នកកំពុងឡើងពីចំណុចទាប ឆ្ពោះទៅរកការស្តារឡើងវិញ។ អរុណរះថ្មី អាចមកបន្ទាប់ពីយប់ដ៏លំបាកបំផុត។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You are asking big questions about where you are going. New information keeps reshaping your ideas about the future.",
+        "km": "អ្នកកំពុងសួរសំណួរធំៗអំពីទិសដែលអ្នកកំពុងទៅ។ ព័ត៌មានថ្មីៗ កំពុងផ្លាស់ប្តូរគំនិតរបស់អ្នកអំពីអនាគតជានិច្ច។"
+      },
+      "challenge": {
+        "en": "Believing everything you hear could steer your life the wrong way. Check facts before changing course.",
+        "km": "ការជឿគ្រប់យ៉ាងដែលអ្នកឮ អាចនាំជីវិតរបស់អ្នកទៅខុសទិស។ សូមពិនិត្យការពិត មុននឹងផ្លាស់ប្តូរផ្លូវ។"
+      },
+      "outcome": {
+        "en": "You are moving toward knowledge and sharper understanding. A question you follow could lead to a new direction.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកចំណេះដឹង និងការយល់ដឹងកាន់តែមុតស្រួច។ សំណួរដែលអ្នកដើរតាម អាចនាំទៅរកទិសដៅថ្មី។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You are moving fast, driven by strong ideas and urgency. You want to get somewhere quickly.",
+        "km": "អ្នកកំពុងដើរលឿន ដោយត្រូវបានជំរុញដោយគំនិតខ្លាំងៗ និងភាពបន្ទាន់។ អ្នកចង់ទៅដល់កន្លែងណាមួយឱ្យលឿន។"
+      },
+      "challenge": {
+        "en": "Rushing without listening could take your life off course. Speed is not the same as direction.",
+        "km": "ការប្រញាប់ដោយមិនស្តាប់ អាចនាំជីវិតរបស់អ្នកចេញពីផ្លូវ។ ល្បឿនមិនដូចគ្នានឹងទិសដៅទេ។"
+      },
+      "outcome": {
+        "en": "You are moving rapidly toward change and decisive action. Bold moves could bring quick results if they are well aimed.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការផ្លាស់ប្តូរ និងសកម្មភាពម៉ឺងម៉ាត់យ៉ាងរហ័ស។ ជំហានដ៏ក្លាហាន អាចនាំមកនូវលទ្ធផលរហ័ស ប្រសិនបើវាមានគោលដៅច្បាស់។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You are guided by clear thinking and honest boundaries. You see things as they are.",
+        "km": "អ្នកត្រូវបានណែនាំដោយការគិតច្បាស់លាស់ និងដែនកំណត់ដ៏ស្មោះត្រង់។ អ្នកមើលឃើញអ្វីៗដូចដែលវាពិតជាមាន។"
+      },
+      "challenge": {
+        "en": "Shutting out warmth could make your life feel cold, however clear it is. Let people in.",
+        "km": "ការបិទភាពកក់ក្តៅ អាចធ្វើឱ្យជីវិតរបស់អ្នកហាក់ដូចជាត្រជាក់ ទោះបីវាច្បាស់លាស់ប៉ុណ្ណាក៏ដោយ។ សូមអនុញ្ញាតឱ្យមនុស្សចូលមក។"
+      },
+      "outcome": {
+        "en": "You are moving toward independence and wise, clear-sighted choices. Honesty could earn you deep respect.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកឯករាជ្យភាព និងជម្រើសដ៏ឈ្លាសវៃ និងមើលឃើញច្បាស់។ ភាពស្មោះត្រង់ អាចធ្វើឱ្យអ្នកទទួលបានការគោរពយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "You are being shaped by reason and fair judgement. People rely on your clear mind.",
+        "km": "អ្នកកំពុងទទួលឥទ្ធិពលពីហេតុផល និងការវិនិច្ឆ័យដោយយុត្តិធម៌។ មនុស្សពឹងផ្អែកលើគំនិតច្បាស់លាស់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Living only by logic could leave your heart out of your future. Feelings also point the way.",
+        "km": "ការរស់នៅតែតាមហេតុផល អាចទុកចិត្តរបស់អ្នកចេញពីអនាគត។ អារម្មណ៍ក៏ចង្អុលផ្លូវដែរ។"
+      },
+      "outcome": {
+        "en": "You are moving toward authority and respected decision-making. Fair, clear choices could shape a stable future.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកអំណាច និងការសម្រេចចិត្តដែលត្រូវបានគោរព។ ជម្រើសដ៏យុត្តិធម៌ និងច្បាស់លាស់ អាចរៀបចំអនាគតដ៏មានស្ថិរភាព។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "You have a practical new beginning in view, such as work, study or a home. The ground is ready for planting.",
+        "km": "អ្នកមានការចាប់ផ្តើមថ្មីជាក់ស្តែងនៅក្នុងការមើលឃើញ ដូចជាការងារ ការសិក្សា ឬផ្ទះ។ ដីត្រៀមរួចជាស្រេចសម្រាប់ការដាំដុះ។"
+      },
+      "challenge": {
+        "en": "Letting a practical chance slip could slow your life's progress. Small, solid steps matter.",
+        "km": "ការឱ្យឱកាសជាក់ស្តែងរអិលបាត់ អាចធ្វើឱ្យការរីកចម្រើនក្នុងជីវិតរបស់អ្នកយឺត។ ជំហានតូចៗ ប៉ុន្តែរឹងមាំ មានសារៈសំខាន់។"
+      },
+      "outcome": {
+        "en": "You are moving toward security built from a promising start. What you plant could grow into lasting stability.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកសុវត្ថិភាព ដែលកសាងចេញពីការចាប់ផ្តើមដ៏មានសក្តានុពល។ អ្វីដែលអ្នកដាំ អាចរីកធំទៅជាស្ថិរភាពយូរអង្វែង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You are in the middle of a balancing act, with many demands competing for your time. You are adapting as you go.",
+        "km": "អ្នកកំពុងរក្សាតុល្យភាព ដោយមានការទាមទារជាច្រើនប្រជែងគ្នាដណ្តើមពេលវេលារបស់អ្នក។ អ្នកកំពុងសម្របខ្លួនតាមផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Trying to keep every ball in the air could leave your life feeling chaotic. Decide what deserves your time.",
+        "km": "ការព្យាយាមរក្សាគ្រប់រឿងឱ្យដំណើរការ អាចធ្វើឱ្យជីវិតរបស់អ្នកច្របូកច្របល់។ សូមសម្រេចថាអ្វីសមនឹងទទួលពេលវេលារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You are moving toward a more flexible balance that works for you. Good priorities could make change easier to handle.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកតុល្យភាពដែលបត់បែនជាងមុន និងសមនឹងអ្នក។ អាទិភាពល្អៗ អាចធ្វើឱ្យការផ្លាស់ប្តូរងាយដោះស្រាយជាងមុន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "You are growing through skill and teamwork. You are building something alongside others.",
+        "km": "អ្នកកំពុងរីកចម្រើន តាមរយៈជំនាញ និងការងារជាក្រុម។ អ្នកកំពុងកសាងអ្វីមួយជាមួយអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Working alone when help is available could slow your life's progress. Collaboration may take you further.",
+        "km": "ការធ្វើការតែម្នាក់ឯង នៅពេលមានជំនួយ អាចធ្វើឱ្យការរីកចម្រើនក្នុងជីវិតរបស់អ្នកយឺត។ កិច្ចសហការ អាចនាំអ្នកទៅបានឆ្ងាយជាងនេះ។"
+      },
+      "outcome": {
+        "en": "You are moving toward recognised skill and shared achievement. Good work done with others could open new paths.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកជំនាញដែលត្រូវបានទទួលស្គាល់ និងសមិទ្ធផលរួមគ្នា។ ការងារល្អដែលធ្វើជាមួយអ្នកដទៃ អាចបើកផ្លូវថ្មី។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You are focused on security and protecting what you have built. Stability matters deeply.",
+        "km": "អ្នកកំពុងផ្តោតលើសុវត្ថិភាព និងការការពារអ្វីដែលអ្នកបានកសាង។ ស្ថិរភាពមានសារៈសំខាន់យ៉ាងជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly could keep your life from growing. Security without openness can become a cage.",
+        "km": "ការកាន់ក្តាប់តឹងពេក អាចរារាំងជីវិតរបស់អ្នកមិនឱ្យរីកចម្រើន។ សុវត្ថិភាពដែលគ្មានការបើកចំហ អាចក្លាយជាទ្រុង។"
+      },
+      "outcome": {
+        "en": "You are moving toward firm security, with room to grow if you allow it. Wise caution could protect a good future.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកសុវត្ថិភាពដ៏រឹងមាំ ដោយមានកន្លែងសម្រាប់រីកចម្រើន ប្រសិនបើអ្នកអនុញ្ញាត។ ការប្រុងប្រយ័ត្នដោយឈ្លាសវៃ អាចការពារអនាគតដ៏ល្អ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "You may be in a hard season, with resources or support running low. It can seem as if good things are happening to everyone but you.",
+        "km": "អ្នកប្រហែលជាកំពុងស្ថិតក្នុងរដូវដ៏លំបាក ដោយធនធាន ឬការគាំទ្រកំពុងខ្វះខាត។ វាអាចហាក់ដូចជារឿងល្អៗកំពុងកើតឡើងចំពោះគ្រប់គ្នា លើកលែងតែអ្នក។"
+      },
+      "challenge": {
+        "en": "Refusing help could make a hard season last longer. If money or health is a serious worry, reach out to qualified services.",
+        "km": "ការបដិសេធជំនួយ អាចធ្វើឱ្យរដូវដ៏លំបាកស្ថិតនៅយូរជាងមុន។ ប្រសិនបើលុយកាក់ ឬសុខភាពជាកង្វល់ធ្ងន់ធ្ងរ សូមទាក់ទងសេវាកម្មដែលមានជំនាញ។"
+      },
+      "outcome": {
+        "en": "You could move out of hardship toward support and recovery. Accepting help may be the turning point.",
+        "km": "អ្នកអាចចេញពីការលំបាក ឆ្ពោះទៅរកការគាំទ្រ និងការស្តារឡើងវិញ។ ការទទួលយកជំនួយ អាចជាចំណុចបត់។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "You are being shaped by giving and receiving, with generosity flowing both ways. Support is part of your path.",
+        "km": "អ្នកកំពុងទទួលឥទ្ធិពលពីការផ្តល់ និងការទទួល ដោយសេចក្តីសប្បុរសហូរទៅមកទាំងសងខាង។ ការគាំទ្រ គឺជាផ្នែកមួយនៃផ្លូវរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Giving beyond your means could set your life back. Generosity should not cost you your stability.",
+        "km": "ការផ្តល់ហួសពីលទ្ធភាព អាចធ្វើឱ្យជីវិតរបស់អ្នកថយក្រោយ។ សេចក្តីសប្បុរស មិនគួរធ្វើឱ្យអ្នកបាត់បង់ស្ថិរភាពនោះទេ។"
+      },
+      "outcome": {
+        "en": "You are moving toward fairness, balance and mutual support. Kindness could return to you in meaningful ways.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពយុត្តិធម៌ តុល្យភាព និងការគាំទ្រគ្នាទៅវិញទៅមក។ ក្តីមេត្តាអាចត្រឡប់មករកអ្នកវិញតាមរបៀបដែលមានអត្ថន័យ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You are in a patient growing stage, with results still forming. You are waiting to see what your efforts produce.",
+        "km": "អ្នកកំពុងស្ថិតក្នុងដំណាក់កាលលូតលាស់ដោយអត់ធ្មត់ ដោយលទ្ធផលនៅតែកំពុងបង្កើតឡើង។ អ្នកកំពុងរង់ចាំមើលអ្វីដែលការខិតខំរបស់អ្នកបង្កើត។"
+      },
+      "challenge": {
+        "en": "Giving up too early could cut your life's harvest short. Some things take longer to ripen.",
+        "km": "ការបោះបង់លឿនពេក អាចធ្វើឱ្យការប្រមូលផលក្នុងជីវិតរបស់អ្នកខ្លី។ រឿងខ្លះត្រូវការពេលយូរជាងមុនដើម្បីទុំ។"
+      },
+      "outcome": {
+        "en": "You are moving toward a well-earned harvest. Patience and steady care could bring lasting rewards.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការប្រមូលផលដែលសមនឹងទទួល។ ការអត់ធ្មត់ និងការថែរក្សាជាប់លាប់ អាចនាំមកនូវរង្វាន់យូរអង្វែង។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "You are building your future through practice, effort and growing skill. Mastery is taking shape.",
+        "km": "អ្នកកំពុងកសាងអនាគត តាមរយៈការហាត់ហ្វឹក ការខិតខំ និងជំនាញដែលកំពុងកើនឡើង។ ភាពស្ទាត់ជំនាញកំពុងមានរូបរាង។"
+      },
+      "challenge": {
+        "en": "Losing patience with slow progress could make you abandon a promising path. Keep showing up.",
+        "km": "ការបាត់ការអត់ធ្មត់ជាមួយការរីកចម្រើនយឺត អាចធ្វើឱ្យអ្នកបោះបង់ផ្លូវដ៏មានសក្តានុពល។ សូមបន្តខិតខំជាប់លាប់។"
+      },
+      "outcome": {
+        "en": "You are moving toward mastery and work you can be proud of. Dedication could become your path to success.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពស្ទាត់ជំនាញ និងការងារដែលអ្នកអាចមានមោទនភាព។ ការលះបង់ អាចក្លាយជាផ្លូវរបស់អ្នកទៅរកភាពជោគជ័យ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You are comfortable and independent, built on your own efforts. You are enjoying what you have made.",
+        "km": "អ្នកមានភាពសុខស្រួល និងឯករាជ្យ ដែលកសាងលើការខិតខំរបស់អ្នកផ្ទាល់។ អ្នកកំពុងរីករាយនឹងអ្វីដែលអ្នកបានបង្កើត។"
+      },
+      "challenge": {
+        "en": "Keeping your success to yourself could make your life feel isolated. Comfort is richer when shared.",
+        "km": "ការរក្សាភាពជោគជ័យសម្រាប់ខ្លួនឯង អាចធ្វើឱ្យជីវិតរបស់អ្នកឯកោ។ ភាពសុខស្រួលកាន់តែមានតម្លៃ នៅពេលវាត្រូវបានចែករំលែក។"
+      },
+      "outcome": {
+        "en": "You are moving toward lasting comfort, freedom and self-respect. Independence could become a source of quiet pride.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពសុខស្រួល សេរីភាព និងការគោរពខ្លួនឯងយូរអង្វែង។ ឯករាជ្យភាព អាចក្លាយជាប្រភពនៃមោទនភាពដ៏ស្ងប់ស្ងាត់។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "You are rooted in family, legacy and long-term plans. You are building for the future.",
+        "km": "អ្នកមានឫសគល់ក្នុងគ្រួសារ កេរ្តិ៍ដំណែល និងផែនការរយៈពេលវែង។ អ្នកកំពុងកសាងសម្រាប់អនាគត។"
+      },
+      "challenge": {
+        "en": "Living only by family expectations could lead your life away from your own dreams. Your path deserves your voice.",
+        "km": "ការរស់នៅតែតាមការរំពឹងរបស់គ្រួសារ អាចនាំជីវិតរបស់អ្នកឱ្យឃ្លាតពីក្តីស្រមៃផ្ទាល់ខ្លួន។ ផ្លូវរបស់អ្នក សមនឹងមានសំឡេងរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "You are moving toward lasting security and a strong family legacy. What you build could benefit many who come after you.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកសុវត្ថិភាពយូរអង្វែង និងកេរ្តិ៍ដំណែលគ្រួសារដ៏រឹងមាំ។ អ្វីដែលអ្នកកសាង អាចផ្តល់ប្រយោជន៍ដល់មនុស្សជាច្រើនដែលមកបន្ទាប់អ្នក។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You are learning and building practical skills, one lesson at a time. Each thing you master widens your options.",
+        "km": "អ្នកកំពុងរៀន និងកសាងជំនាញជាក់ស្តែង ម្តងមួយមេរៀន។ រាល់អ្វីដែលអ្នកស្ទាត់ជំនាញ ពង្រីកជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Dreaming without doing could keep your life's plans on paper. Start with one small step.",
+        "km": "ការស្រមៃដោយមិនធ្វើ អាចធ្វើឱ្យផែនការក្នុងជីវិតរបស់អ្នកនៅតែលើក្រដាស។ សូមចាប់ផ្តើមដោយជំហានតូចមួយ។"
+      },
+      "outcome": {
+        "en": "You are moving toward new skills and solid opportunities. Steady learning could open a rewarding path.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកជំនាញថ្មី និងឱកាសដ៏រឹងមាំ។ ការរៀនសូត្រជាប់លាប់ អាចបើកផ្លូវដែលផ្តល់ផលល្អ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "You are moving forward slowly and steadily, built on routine and reliability. Progress may be quiet but real.",
+        "km": "អ្នកកំពុងបោះជំហានទៅមុខយឺតៗ និងនឹងនរ ដោយកសាងលើទម្លាប់ និងភាពគួរឱ្យទុកចិត្ត។ ការរីកចម្រើនអាចស្ងាត់ៗ ប៉ុន្តែពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Getting stuck in routine could keep your life from reaching its potential. Allow some change.",
+        "km": "ការជាប់ក្នុងទម្លាប់ អាចរារាំងជីវិតរបស់អ្នកមិនឱ្យឈានដល់សក្តានុពលរបស់វា។ សូមអនុញ្ញាតឱ្យមានការផ្លាស់ប្តូរខ្លះ។"
+      },
+      "outcome": {
+        "en": "You are moving toward dependable progress and quiet success. Persistence could carry you further than flashier paths.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកការរីកចម្រើនដែលអាចពឹងបាន និងភាពជោគជ័យដ៏ស្ងប់ស្ងាត់។ ការតស៊ូ អាចនាំអ្នកទៅបានឆ្ងាយជាងផ្លូវដែលភ្លឺចែងចាំងជាង។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You are grounded in home, care and practical comfort. You are nurturing yourself and others.",
+        "km": "អ្នកមានមូលដ្ឋានលើផ្ទះ ការថែទាំ និងភាពសុខស្រួលជាក់ស្តែង។ អ្នកកំពុងថែរក្សាខ្លួនឯង និងអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Putting everyone else first could leave your own life unattended. Care for yourself too.",
+        "km": "ការដាក់អ្នកដទៃមុនគេ អាចធ្វើឱ្យជីវិតរបស់អ្នកផ្ទាល់គ្មានការថែទាំ។ សូមថែរក្សាខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "You are moving toward abundance, comfort and a warm, secure home. Practical care could create a life that feels rich.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពបរិបូរណ៍ ភាពសុខស្រួល និងផ្ទះដ៏កក់ក្តៅ និងមានសុវត្ថិភាព។ ការថែទាំជាក់ស្តែង អាចបង្កើតជីវិតដែលពោរពេញដោយភាពសម្បូរបែប។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You are stable and well resourced, backed by experience. You are in a position of strength.",
+        "km": "អ្នកមានស្ថិរភាព និងធនធានគ្រប់គ្រាន់ ដោយមានបទពិសោធន៍គាំទ្រ។ អ្នកស្ថិតក្នុងជំហរដែលរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Defining your life by money or status could leave it feeling empty. Remember what gives it meaning.",
+        "km": "ការកំណត់ជីវិតរបស់អ្នកតាមលុយកាក់ ឬឋានៈ អាចធ្វើឱ្យវាហាក់ដូចជាទទេ។ សូមចងចាំអ្វីដែលផ្តល់អត្ថន័យដល់វា។"
+      },
+      "outcome": {
+        "en": "You are moving toward lasting prosperity and respected leadership. Wise stewardship could secure a good life for you and others.",
+        "km": "អ្នកកំពុងឆ្ពោះទៅរកភាពរុងរឿងយូរអង្វែង និងភាពជាអ្នកដឹកនាំដែលត្រូវបានគោរព។ ការគ្រប់គ្រងដោយឈ្លាសវៃ អាចធានាជីវិតដ៏ល្អសម្រាប់អ្នក និងអ្នកដទៃ។"
+      }
+    }
+  }
+}
