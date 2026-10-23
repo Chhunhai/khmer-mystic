@@ -1,0 +1,1097 @@
+{
+  "questionId": "CW-06",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Adaptability and a willingness to experiment are skills worth growing. Try tasks outside your comfort zone and see what you learn from them.",
+        "km": "ភាពបត់បែន និងឆន្ទៈក្នុងការសាកល្បង គឺជាជំនាញដែលគួរអភិវឌ្ឍ។ សូមសាកល្បងកិច្ចការក្រៅតំបន់សុខស្រួលរបស់អ្នក ហើយមើលថាអ្នករៀនបានអ្វីខ្លះពីវា។"
+      },
+      "challenge": {
+        "en": "Jumping between new interests without sticking with any could leave you with many beginnings and no real ability. Choose one skill to carry further.",
+        "km": "ការលោតពីចំណាប់អារម្មណ៍ថ្មីមួយទៅមួយទៀត ដោយមិនប្រកាន់ខ្ជាប់ណាមួយ អាចធ្វើឱ្យអ្នកមានការចាប់ផ្តើមច្រើន តែគ្មានសមត្ថភាពពិត។ សូមជ្រើសរើសជំនាញមួយ ដើម្បីបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A willingness to learn as you go could open doors you never planned for. Curiosity may lead you to a surprising new strength.",
+        "km": "ឆន្ទៈក្នុងការរៀនតាមផ្លូវ អាចបើកទ្វារដែលអ្នកមិនដែលគ្រោងទុក។ ការចង់ដឹងចង់ឃើញ អាចនាំអ្នកទៅរកចំណុចខ្លាំងថ្មីគួរឱ្យភ្ញាក់ផ្អើល។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Practical, hands-on skills that turn ideas into results would serve you well. Learning a tool or method you can use straight away is a good place to begin.",
+        "km": "ជំនាញជាក់ស្តែងដែលប្រែគំនិតទៅជាលទ្ធផល នឹងមានប្រយោជន៍សម្រាប់អ្នក។ ការរៀនឧបករណ៍ ឬវិធីសាស្ត្រដែលអ្នកអាចប្រើភ្លាមៗ គឺជាកន្លែងល្អដើម្បីចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Collecting certificates without applying what you learn could leave the knowledge unused. Put each new skill to work on something real.",
+        "km": "ការប្រមូលវិញ្ញាបនបត្រ ដោយមិនអនុវត្តអ្វីដែលអ្នករៀន អាចធ្វើឱ្យចំណេះដឹងនោះគ្មានប្រយោជន៍។ សូមដាក់ជំនាញថ្មីនីមួយៗឱ្យប្រើលើអ្វីដែលពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Mastering a practical tool could make you the person others turn to for help. Your ability to get things done may become what you are known for.",
+        "km": "ការស្ទាត់ជំនាញលើឧបករណ៍ជាក់ស្តែងមួយ អាចធ្វើឱ្យអ្នកក្លាយជាមនុស្សដែលអ្នកដទៃងាកមករកដើម្បីសុំជំនួយ។ សមត្ថភាពក្នុងការធ្វើកិច្ចការឱ្យសម្រេច អាចក្លាយជាអ្វីដែលគេស្គាល់អ្នក។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Listening, observing and reading between the lines are quiet skills worth sharpening. Research and careful study may suit you more than you think.",
+        "km": "ការស្តាប់ ការសង្កេត និងការយល់ពីអត្ថន័យលាក់កំបាំង គឺជាជំនាញស្ងាត់ៗដែលគួរធ្វើឱ្យមុតស្រួច។ ការស្រាវជ្រាវ និងការសិក្សាដោយយកចិត្តទុកដាក់ អាចសមនឹងអ្នកច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "Doubting your own instincts could stop you from trusting skills you already have. Notice how often your quiet hunches turn out right.",
+        "km": "ការសង្ស័យលើសភាវគតិរបស់ខ្លួនឯង អាចរារាំងអ្នកពីការទុកចិត្តលើជំនាញដែលអ្នកមានរួចហើយ។ សូមកត់សម្គាល់ថា តើការប្រមាណស្ងាត់ៗរបស់អ្នកត្រឹមត្រូវញឹកញាប់ប៉ុណ្ណា។"
+      },
+      "outcome": {
+        "en": "Deeper insight and understanding could set your work apart. A talent for seeing what others miss may become valued.",
+        "km": "ការយល់ដឹងកាន់តែជ្រៅ អាចធ្វើឱ្យការងាររបស់អ្នកលេចធ្លោ។ ទេពកោសល្យក្នុងការមើលឃើញអ្វីដែលអ្នកដទៃមើលរំលង អាចក្លាយជាអ្វីដែលគេឱ្យតម្លៃ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Creative skills, such as design, writing or developing new products, could grow well for you. Give your imagination a practical outlet at work.",
+        "km": "ជំនាញច្នៃប្រឌិត ដូចជាការរចនា ការសរសេរ ឬការអភិវឌ្ឍផលិតផលថ្មី អាចរីកចម្រើនបានល្អសម្រាប់អ្នក។ សូមផ្តល់ច្រកចេញជាក់ស្តែងដល់ការស្រមើស្រមៃរបស់អ្នកនៅកន្លែងធ្វើការ។"
+      },
+      "challenge": {
+        "en": "Waiting until you feel truly creative before practising could stall your progress. Skills grow through regular work, inspired or not.",
+        "km": "ការរង់ចាំរហូតដល់អ្នកមានអារម្មណ៍ច្នៃប្រឌិតពិតប្រាកដ មុននឹងហាត់ អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកជាប់គាំង។ ជំនាញរីកចម្រើនតាមរយៈការងារទៀងទាត់ ទោះមានការបំផុសគំនិត ឬអត់ក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Your creative abilities could flourish and bring real rewards. Something you make may be appreciated more widely than you expect.",
+        "km": "សមត្ថភាពច្នៃប្រឌិតរបស់អ្នក អាចរីកចម្រើន ហើយនាំមកនូវរង្វាន់ពិតប្រាកដ។ អ្វីដែលអ្នកបង្កើត អាចត្រូវបានគេកោតសរសើរទូលំទូលាយជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Organisation, planning and management skills would give your career a strong backbone. Learning to structure projects and lead processes is a good investment.",
+        "km": "ជំនាញរៀបចំ ផែនការ និងការគ្រប់គ្រង នឹងផ្តល់ឆ្អឹងខ្នងរឹងមាំដល់អាជីពរបស់អ្នក។ ការរៀនរៀបចំរចនាសម្ព័ន្ធគម្រោង និងដឹកនាំដំណើរការ គឺជាការវិនិយោគដ៏ល្អ។"
+      },
+      "challenge": {
+        "en": "Relying on rigid rules could make it hard to learn flexible ways of working. Structure helps most when it can bend.",
+        "km": "ការពឹងផ្អែកលើច្បាប់តឹងរ៉ឹង អាចធ្វើឱ្យពិបាករៀនវិធីធ្វើការដែលបត់បែន។ រចនាសម្ព័ន្ធជួយបានច្រើនបំផុត នៅពេលវាអាចបត់បែនបាន។"
+      },
+      "outcome": {
+        "en": "Strong organisational skills could prepare you for greater responsibility. People may trust you to run things.",
+        "km": "ជំនាញរៀបចំដ៏រឹងមាំ អាចរៀបចំអ្នកសម្រាប់ការទទួលខុសត្រូវធំជាងមុន។ មនុស្សអាចទុកចិត្តអ្នកឱ្យគ្រប់គ្រងអ្វីៗ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "A recognised qualification or structured course in your field could be worth pursuing. Learning from an experienced mentor may also help.",
+        "km": "គុណវុឌ្ឍិដែលគេទទួលស្គាល់ ឬវគ្គសិក្សាមានរចនាសម្ព័ន្ធក្នុងវិស័យរបស់អ្នក អាចសមនឹងការខិតខំ។ ការរៀនពីអ្នកណែនាំដែលមានបទពិសោធន៍ ក៏អាចជួយបានដែរ។"
+      },
+      "challenge": {
+        "en": "Following only the standard path could mean overlooking skills that suit you better. Ask whether the usual route really fits your goals.",
+        "km": "ការដើរតាមតែផ្លូវស្តង់ដារ អាចមានន័យថាការមើលរំលងជំនាញដែលសមនឹងអ្នកជាង។ សូមសួរថា តើផ្លូវធម្មតាពិតជាសមនឹងគោលដៅរបស់អ្នកឬទេ។"
+      },
+      "outcome": {
+        "en": "Formal learning could give you credibility and a respected foundation. A mentor's guidance may speed your growth.",
+        "km": "ការរៀនជាផ្លូវការ អាចផ្តល់ឱ្យអ្នកនូវភាពជឿជាក់ និងមូលដ្ឋានដែលគេគោរព។ ការណែនាំរបស់អ្នកណែនាំ អាចពន្លឿនការរីកចម្រើនរបស់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Collaboration and good decision-making are skills that would serve you well. Learn to weigh options against your values and choose with confidence.",
+        "km": "កិច្ចសហការ និងការសម្រេចចិត្តល្អ គឺជាជំនាញដែលនឹងមានប្រយោជន៍សម្រាប់អ្នក។ សូមរៀនថ្លឹងថ្លែងជម្រើសធៀបនឹងគុណតម្លៃរបស់អ្នក ហើយជ្រើសរើសដោយទំនុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Being torn between two paths of study could leave you making no progress on either. Pick the one that fits who you want to become.",
+        "km": "ការស្ទាក់ស្ទើររវាងផ្លូវសិក្សាពីរ អាចធ្វើឱ្យអ្នកមិនរីកចម្រើនលើផ្លូវណាមួយ។ សូមជ្រើសរើសផ្លូវដែលសមនឹងមនុស្សដែលអ្នកចង់ក្លាយជា។"
+      },
+      "outcome": {
+        "en": "Learning to work well with others could make you a valued partner. A choice made with care may shape your path.",
+        "km": "ការរៀនធ្វើការល្អជាមួយអ្នកដទៃ អាចធ្វើឱ្យអ្នកក្លាយជាដៃគូដែលមានតម្លៃ។ ជម្រើសដែលធ្វើឡើងដោយប្រុងប្រយ័ត្ន អាចរៀបចំផ្លូវរបស់អ្នក។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Self-discipline and goal-setting are skills that would push your career forward. Learning to stay focused on a target can multiply your results.",
+        "km": "វិន័យខ្លួនឯង និងការកំណត់គោលដៅ គឺជាជំនាញដែលនឹងជំរុញអាជីពរបស់អ្នកទៅមុខ។ ការរៀនផ្តោតលើគោលដៅមួយ អាចបង្កើនលទ្ធផលរបស់អ្នកច្រើនដង។"
+      },
+      "challenge": {
+        "en": "Pushing too hard to master everything at once could lead to burnout. Steer your learning one area at a time.",
+        "km": "ការជំរុញខ្លួនខ្លាំងពេក ដើម្បីស្ទាត់ជំនាញគ្រប់យ៉ាងក្នុងពេលតែមួយ អាចនាំឱ្យអស់កម្លាំង។ សូមដឹកនាំការរៀនរបស់អ្នកម្តងមួយផ្នែក។"
+      },
+      "outcome": {
+        "en": "Focused effort could carry you quickly toward a clear goal. Your determination may become your strongest asset.",
+        "km": "ការខិតខំដោយផ្តោត អាចនាំអ្នកទៅរកគោលដៅច្បាស់លាស់យ៉ាងរហ័ស។ ការប្តេជ្ញាចិត្តរបស់អ្នក អាចក្លាយជាទ្រព្យសម្បត្តិដ៏ខ្លាំងបំផុតរបស់អ្នក។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience, composure and the ability to handle difficult people are skills worth developing. Inner strength is as valuable as technical knowledge.",
+        "km": "ការអត់ធ្មត់ ភាពស្ងប់ស្ងាត់ និងសមត្ថភាពក្នុងការដោះស្រាយជាមួយមនុស្សពិបាក គឺជាជំនាញដែលគួរអភិវឌ្ឍ។ កម្លាំងខាងក្នុង មានតម្លៃដូចចំណេះដឹងបច្ចេកទេសដែរ។"
+      },
+      "challenge": {
+        "en": "Doubting whether you are capable of learning something difficult could hold you back. Persistence often matters more than talent.",
+        "km": "ការសង្ស័យថាតើអ្នកអាចរៀនអ្វីដែលពិបាកបានឬទេ អាចរារាំងអ្នក។ ការតស៊ូ ជារឿយៗសំខាន់ជាងទេពកោសល្យ។"
+      },
+      "outcome": {
+        "en": "Steady practice could turn a weakness into a real strength. Your calm under pressure may become widely respected.",
+        "km": "ការហាត់ជាប់លាប់ អាចប្រែភាពទន់ខ្សោយមួយ ទៅជាចំណុចខ្លាំងពិតប្រាកដ។ ភាពស្ងប់ស្ងាត់របស់អ្នកក្រោមសម្ពាធ អាចត្រូវបានគេគោរពយ៉ាងទូលំទូលាយ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Deep, specialist knowledge in one area could make you stand out. Time spent in focused study may pay off more than broad, shallow learning.",
+        "km": "ចំណេះដឹងជំនាញជ្រៅក្នុងផ្នែកមួយ អាចធ្វើឱ្យអ្នកលេចធ្លោ។ ពេលវេលាដែលចំណាយលើការសិក្សាដោយផ្តោត អាចទទួលបានផលច្រើនជាងការរៀនទូលាយ តែរាក់។"
+      },
+      "challenge": {
+        "en": "Studying alone without sharing what you know could keep your expertise hidden. Let others see what you have learned.",
+        "km": "ការសិក្សាម្នាក់ឯង ដោយមិនចែករំលែកអ្វីដែលអ្នកដឹង អាចធ្វើឱ្យជំនាញរបស់អ្នកនៅលាក់កំបាំង។ សូមឱ្យអ្នកដទៃឃើញអ្វីដែលអ្នកបានរៀន។"
+      },
+      "outcome": {
+        "en": "Your expertise could make you a trusted source of guidance. People may seek out your knowledge.",
+        "km": "ជំនាញរបស់អ្នក អាចធ្វើឱ្យអ្នកក្លាយជាប្រភពនៃការណែនាំដែលគេទុកចិត្ត។ មនុស្សអាចស្វែងរកចំណេះដឹងរបស់អ្នក។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "The ability to adapt to change and spot new trends is a valuable skill. Learning about where your industry is moving could serve you well.",
+        "km": "សមត្ថភាពក្នុងការសម្របខ្លួនទៅនឹងការផ្លាស់ប្តូរ និងមើលឃើញនិន្នាការថ្មី គឺជាជំនាញដ៏មានតម្លៃ។ ការរៀនអំពីទិសដៅដែលឧស្សាហកម្មរបស់អ្នកកំពុងធ្វើដំណើរ អាចមានប្រយោជន៍សម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Sticking to skills that are losing value could leave you behind when things shift. Watch which abilities are becoming more needed.",
+        "km": "ការប្រកាន់ខ្ជាប់ជំនាញដែលកំពុងបាត់បង់តម្លៃ អាចធ្វើឱ្យអ្នកនៅពីក្រោយ នៅពេលអ្វីៗផ្លាស់ប្តូរ។ សូមតាមដានថាសមត្ថភាពណាកំពុងត្រូវការកាន់តែច្រើន។"
+      },
+      "outcome": {
+        "en": "Being ready for change could put you in the right place when opportunities turn. Flexibility may become your advantage.",
+        "km": "ការត្រៀមខ្លួនសម្រាប់ការផ្លាស់ប្តូរ អាចដាក់អ្នកនៅកន្លែងត្រឹមត្រូវ នៅពេលឱកាសប្រែប្រួល។ ភាពបត់បែន អាចក្លាយជាអត្ថប្រយោជន៍របស់អ្នក។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Skills in negotiation, fairness and careful judgement could strengthen your career. Understanding the rules and ethics of your field also builds trust.",
+        "km": "ជំនាញក្នុងការចរចា ភាពយុត្តិធម៌ និងការវិនិច្ឆ័យដោយប្រុងប្រយ័ត្ន អាចពង្រឹងអាជីពរបស់អ្នក។ ការយល់ដឹងពីច្បាប់ និងក្រមសីលធម៌នៃវិស័យរបស់អ្នក ក៏កសាងការទុកចិត្តដែរ។"
+      },
+      "challenge": {
+        "en": "Avoiding honest feedback on your weak spots could slow your growth. An accurate view of your skills is the place to start.",
+        "km": "ការជៀសវាងមតិត្រឡប់ដោយស្មោះត្រង់ អំពីចំណុចខ្សោយរបស់អ្នក អាចពន្យឺតការរីកចម្រើនរបស់អ្នក។ ការមើលឃើញជំនាញរបស់អ្នកឱ្យបានត្រឹមត្រូវ គឺជាកន្លែងដើម្បីចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "A reputation for sound, fair judgement could earn you greater trust. Balanced decisions may become your strength.",
+        "km": "កេរ្តិ៍ឈ្មោះនៃការវិនិច្ឆ័យត្រឹមត្រូវ និងយុត្តិធម៌ អាចនាំឱ្យអ្នកទទួលបានការទុកចិត្តកាន់តែច្រើន។ ការសម្រេចចិត្តប្រកបដោយតុល្យភាព អាចក្លាយជាចំណុចខ្លាំងរបស់អ្នក។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Creative problem-solving and seeing things from new angles are skills worth growing. Learning to pause and rethink can lead to better answers.",
+        "km": "ការដោះស្រាយបញ្ហាដោយច្នៃប្រឌិត និងការមើលអ្វីៗពីមុំថ្មី គឺជាជំនាញដែលគួរអភិវឌ្ឍ។ ការរៀនផ្អាក ហើយគិតឡើងវិញ អាចនាំទៅរកចម្លើយល្អជាង។"
+      },
+      "challenge": {
+        "en": "Feeling stuck in your development could tempt you to give up. A pause in progress can be when the real learning settles in.",
+        "km": "អារម្មណ៍ជាប់គាំងក្នុងការអភិវឌ្ឍរបស់អ្នក អាចល្បួងអ្នកឱ្យបោះបង់។ ការផ្អាកក្នុងការរីកចម្រើន អាចជាពេលដែលការរៀនពិតប្រាកដចូលជ្រៅ។"
+      },
+      "outcome": {
+        "en": "A fresh way of thinking could unlock problems others find hard. Your unusual approach may become an asset.",
+        "km": "របៀបគិតថ្មីមួយ អាចដោះសោបញ្ហាដែលអ្នកដទៃយល់ថាពិបាក។ វិធីសាស្ត្រមិនធម្មតារបស់អ្នក អាចក្លាយជាទ្រព្យសម្បត្តិ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Skills that help you manage change, such as restructuring work or learning new systems, are worth building. Letting go of outdated methods makes room.",
+        "km": "ជំនាញដែលជួយអ្នកគ្រប់គ្រងការផ្លាស់ប្តូរ ដូចជាការរៀបចំការងារឡើងវិញ ឬការរៀនប្រព័ន្ធថ្មី គឺសមនឹងការកសាង។ ការលែងវិធីសាស្ត្រហួសសម័យ បើកកន្លែងទំនេរ។"
+      },
+      "challenge": {
+        "en": "Holding on to an old way of working out of habit could stop you from learning what comes next. Some skills have run their course.",
+        "km": "ការប្រកាន់ខ្ជាប់វិធីធ្វើការចាស់ ដោយសារទម្លាប់ អាចរារាំងអ្នកពីការរៀនអ្វីដែលមកបន្ទាប់។ ជំនាញខ្លះបានដល់ទីបញ្ចប់របស់វាហើយ។"
+      },
+      "outcome": {
+        "en": "Leaving old methods behind could make way for a whole new set of abilities. A turning point in your learning may arrive.",
+        "km": "ការទុកវិធីសាស្ត្រចាស់ៗនៅពីក្រោយ អាចបើកផ្លូវសម្រាប់សមត្ថភាពថ្មីទាំងស្រុង។ ចំណុចបត់មួយក្នុងការរៀនរបស់អ្នក អាចមកដល់។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Balance and coordination, such as managing priorities or mediating between teams, are skills worth practising. Blending different strengths creates value.",
+        "km": "តុល្យភាព និងការសម្របសម្រួល ដូចជាការគ្រប់គ្រងអាទិភាព ឬការសម្រុះសម្រួលរវាងក្រុម គឺជាជំនាញដែលគួរហាត់។ ការលាយបញ្ចូលចំណុចខ្លាំងខុសៗគ្នា បង្កើតតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Trying to learn everything quickly could leave you overwhelmed and remembering little. Steady, paced learning sticks better.",
+        "km": "ការព្យាយាមរៀនគ្រប់យ៉ាងយ៉ាងរហ័ស អាចធ្វើឱ្យអ្នកលើសកម្លាំង ហើយចងចាំបានតិចតួច។ ការរៀនជាប់លាប់ និងមានចង្វាក់ ជាប់បានល្អជាង។"
+      },
+      "outcome": {
+        "en": "A blend of skills could make you unusually versatile. Combining strengths may open roles others cannot fill.",
+        "km": "ការលាយបញ្ចូលជំនាញ អាចធ្វើឱ្យអ្នកមានភាពចម្រុះមិនធម្មតា។ ការបញ្ចូលចំណុចខ្លាំងគ្នា អាចបើកតួនាទីដែលអ្នកដទៃមិនអាចបំពេញបាន។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "The skill you most need may be breaking an unhelpful work habit, like procrastination or constant distraction. Freeing your focus could change everything.",
+        "km": "ជំនាញដែលអ្នកត្រូវការបំផុត ប្រហែលជាការបំបែកទម្លាប់ការងារដែលមិនមានប្រយោជន៍ ដូចជាការពន្យារពេល ឬការរំខានជាប្រចាំ។ ការដោះលែងការផ្តោតអារម្មណ៍របស់អ្នក អាចផ្លាស់ប្តូរអ្វីៗទាំងអស់។"
+      },
+      "challenge": {
+        "en": "Chasing skills only for status or money could leave you trapped in work you dislike. Choose learning that also suits who you are.",
+        "km": "ការដេញតាមជំនាញតែដើម្បីឋានៈ ឬប្រាក់ អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់ក្នុងការងារដែលអ្នកមិនចូលចិត្ត។ សូមជ្រើសរើសការរៀនដែលសមនឹងមនុស្សដែលអ្នកជាផងដែរ។"
+      },
+      "outcome": {
+        "en": "Breaking free from a limiting habit could release energy for real growth. You may surprise yourself with what you can learn.",
+        "km": "ការរួចផុតពីទម្លាប់ដែលកំណត់ អាចបញ្ចេញថាមពលសម្រាប់ការរីកចម្រើនពិតប្រាកដ។ អ្នកអាចភ្ញាក់ផ្អើលនឹងអ្វីដែលអ្នកអាចរៀនបាន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Crisis management and quick thinking under pressure are skills worth building. Learning to stay steady when plans fall apart is invaluable.",
+        "km": "ការគ្រប់គ្រងវិបត្តិ និងការគិតរហ័សក្រោមសម្ពាធ គឺជាជំនាញដែលគួរកសាង។ ការរៀនរក្សាភាពនឹងនរ នៅពេលផែនការដួលរលំ គឺមានតម្លៃមិនអាចកាត់ថ្លៃបាន។"
+      },
+      "challenge": {
+        "en": "A sudden change in your field could expose skills you have neglected. Treat the shock as a signal of what to learn next.",
+        "km": "ការផ្លាស់ប្តូរភ្លាមៗក្នុងវិស័យរបស់អ្នក អាចបង្ហាញពីជំនាញដែលអ្នកបានធ្វេសប្រហែស។ សូមចាត់ទុកការភ្ញាក់ផ្អើលនោះ ជាសញ្ញាពីអ្វីដែលត្រូវរៀនបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Being able to handle upheaval could make you indispensable in difficult moments. Resilience may become one of your best skills.",
+        "km": "ការអាចដោះស្រាយភាពចលាចល អាចធ្វើឱ្យអ្នកក្លាយជាមនុស្សដែលខ្វះមិនបានក្នុងគ្រាលំបាក។ ភាពធន់ អាចក្លាយជាជំនាញល្អបំផុតមួយរបស់អ្នក។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Skills that let you inspire others, such as storytelling or presenting a vision, could suit you. Hope is a powerful thing to communicate.",
+        "km": "ជំនាញដែលធ្វើឱ្យអ្នកអាចបំផុសគំនិតអ្នកដទៃ ដូចជាការនិទានរឿង ឬការបង្ហាញចក្ខុវិស័យ អាចសមនឹងអ្នក។ ក្តីសង្ឃឹមគឺជារឿងដ៏មានឥទ្ធិពលក្នុងការទំនាក់ទំនង។"
+      },
+      "challenge": {
+        "en": "Waiting to feel fully ready before learning something new could keep you waiting forever. Begin with hope rather than certainty.",
+        "km": "ការរង់ចាំឱ្យមានអារម្មណ៍ត្រៀមខ្លួនពេញលេញ មុននឹងរៀនអ្វីថ្មី អាចធ្វើឱ្យអ្នករង់ចាំជារៀងរហូត។ សូមចាប់ផ្តើមដោយក្តីសង្ឃឹម ជាជាងភាពប្រាកដប្រជា។"
+      },
+      "outcome": {
+        "en": "Renewed motivation could carry your learning a long way. A talent you had almost forgotten may come back to life.",
+        "km": "ការលើកទឹកចិត្តដែលកើតឡើងវិញ អាចនាំការរៀនរបស់អ្នកទៅបានឆ្ងាយ។ ទេពកោសល្យដែលអ្នកស្ទើរតែភ្លេច អាចរស់ឡើងវិញ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Intuition and the ability to work with uncertainty are subtle skills worth developing. Learning to make good choices without all the facts helps in any role.",
+        "km": "វិចារណញាណ និងសមត្ថភាពក្នុងការធ្វើការជាមួយភាពមិនប្រាកដប្រជា គឺជាជំនាញស៊ីជម្រៅដែលគួរអភិវឌ្ឍ។ ការរៀនធ្វើជម្រើសល្អ ដោយគ្មានការពិតទាំងអស់ ជួយក្នុងតួនាទីណាក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Unclear advice about which skills matter could leave you confused. Test claims for yourself before investing heavily in a course.",
+        "km": "ដំបូន្មានមិនច្បាស់លាស់ អំពីជំនាញណាដែលសំខាន់ អាចធ្វើឱ្យអ្នកច្របូកច្របល់។ សូមសាកល្បងការអះអាងដោយខ្លួនឯង មុននឹងវិនិយោគច្រើនលើវគ្គសិក្សាមួយ។"
+      },
+      "outcome": {
+        "en": "Clarity about your real strengths could emerge as you explore. A hidden talent may come to light.",
+        "km": "ភាពច្បាស់លាស់អំពីចំណុចខ្លាំងពិតរបស់អ្នក អាចលេចចេញមក ខណៈអ្នកស្វែងរក។ ទេពកោសល្យលាក់កំបាំងមួយ អាចលេចចេញមកពន្លឺ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Visible skills, such as public speaking, presenting or leading meetings, could help you shine. Confidence in front of others can be learned.",
+        "km": "ជំនាញដែលមើលឃើញ ដូចជាការនិយាយជាសាធារណៈ ការធ្វើបទបង្ហាញ ឬការដឹកនាំការប្រជុំ អាចជួយឱ្យអ្នកភ្លឺស្វាង។ ទំនុកចិត្តនៅមុខអ្នកដទៃ អាចរៀនបាន។"
+      },
+      "challenge": {
+        "en": "Relying on charm instead of real knowledge could catch up with you. Back up your confidence with solid skill.",
+        "km": "ការពឹងផ្អែកលើភាពទាក់ទាញ ជំនួសឱ្យចំណេះដឹងពិតប្រាកដ អាចមានផលវិបាកមកលើអ្នក។ សូមគាំទ្រទំនុកចិត្តរបស់អ្នក ដោយជំនាញរឹងមាំ។"
+      },
+      "outcome": {
+        "en": "Your abilities could shine and be recognised well beyond your own team. Success may make learning feel joyful rather than a chore.",
+        "km": "សមត្ថភាពរបស់អ្នក អាចភ្លឺស្វាង ហើយត្រូវបានគេទទួលស្គាល់ហួសពីក្រុមរបស់អ្នក។ ភាពជោគជ័យអាចធ្វើឱ្យការរៀនមានអារម្មណ៍រីករាយ ជាជាងជាកាតព្វកិច្ច។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Honest self-assessment is a skill in itself: look at where you are strong and where you still need to grow. Asking for feedback can guide you.",
+        "km": "ការវាយតម្លៃខ្លួនឯងដោយស្មោះត្រង់ គឺជាជំនាញមួយដោយខ្លួនឯង៖ សូមមើលកន្លែងដែលអ្នកខ្លាំង និងកន្លែងដែលអ្នកនៅតែត្រូវរីកចម្រើន។ ការសុំមតិត្រឡប់ អាចណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Being too hard on yourself about past failures could stop you from trying again. Treat each one as information about what to practise next.",
+        "km": "ការតឹងរ៉ឹងពេកចំពោះខ្លួនឯង អំពីការបរាជ័យកន្លងមក អាចរារាំងអ្នកពីការព្យាយាមម្តងទៀត។ សូមចាត់ទុកការបរាជ័យនីមួយៗ ជាព័ត៌មានអំពីអ្វីដែលត្រូវហាត់បន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A clear understanding of your strengths could point to the next step. You may feel called toward a particular kind of work.",
+        "km": "ការយល់ដឹងច្បាស់លាស់ពីចំណុចខ្លាំងរបស់អ្នក អាចចង្អុលទៅជំហានបន្ទាប់។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានហៅទៅរកការងារប្រភេទជាក់លាក់មួយ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Finishing a qualification or bringing your existing skills together into one strong profile could be the next step. Completion builds confidence.",
+        "km": "ការបញ្ចប់គុណវុឌ្ឍិមួយ ឬការប្រមូលជំនាញដែលអ្នកមានស្រាប់ ឱ្យទៅជាប្រវត្តិរូបរឹងមាំមួយ អាចជាជំហានបន្ទាប់។ ការបញ្ចប់កសាងទំនុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Leaving a course or project almost finished could waste the effort already made. Carry it over the finish line.",
+        "km": "ការទុកវគ្គសិក្សា ឬគម្រោងដែលស្ទើរតែបញ្ចប់ អាចខ្ជះខ្ជាយការខិតខំដែលបានធ្វើរួច។ សូមនាំវាឆ្លងផុតខ្សែបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "A complete set of skills could make you ready for a bigger role. A sense of achievement may open the next chapter.",
+        "km": "សំណុំជំនាញពេញលេញ អាចធ្វើឱ្យអ្នកត្រៀមខ្លួនសម្រាប់តួនាទីធំជាងមុន។ អារម្មណ៍នៃសមិទ្ធផល អាចបើកជំពូកបន្ទាប់។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Initiative and the ability to start new projects are skills worth building. Learning how to turn an idea into a simple first plan could serve you well.",
+        "km": "ការផ្តួចផ្តើម និងសមត្ថភាពក្នុងការចាប់ផ្តើមគម្រោងថ្មី គឺជាជំនាញដែលគួរកសាង។ ការរៀនពីរបៀបប្រែគំនិតមួយ ទៅជាផែនការដំបូងសាមញ្ញ អាចមានប្រយោជន៍សម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Excitement about a new subject could fade before you build real skill in it. Set a small, regular practice so the interest has somewhere to go.",
+        "km": "ភាពរំភើបចំពោះមុខវិជ្ជាថ្មី អាចរសាត់បាត់ មុនពេលអ្នកកសាងជំនាញពិតប្រាកដក្នុងវា។ សូមកំណត់ការហាត់តូចៗ និងទៀងទាត់ ដើម្បីឱ្យចំណាប់អារម្មណ៍មានកន្លែងទៅ។"
+      },
+      "outcome": {
+        "en": "A new skill learned with enthusiasm could spark a whole new direction. One course or project may light the way.",
+        "km": "ជំនាញថ្មីដែលបានរៀនដោយភាពរីករាយ អាចបង្កើតទិសដៅថ្មីទាំងស្រុង។ វគ្គសិក្សា ឬគម្រោងមួយ អាចបំភ្លឺផ្លូវ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Strategic thinking and long-range planning are skills that could lift your career. Learning to map out goals and the steps between them is a good investment.",
+        "km": "ការគិតជាយុទ្ធសាស្ត្រ និងការធ្វើផែនការរយៈពេលវែង គឺជាជំនាញដែលអាចលើកកម្ពស់អាជីពរបស់អ្នក។ ការរៀនគូសផែនទីគោលដៅ និងជំហាននៅចន្លោះវា គឺជាការវិនិយោគដ៏ល្អ។"
+      },
+      "challenge": {
+        "en": "Comparing many possible courses without enrolling in any could keep you standing still. Choose one direction and begin.",
+        "km": "ការប្រៀបធៀបវគ្គសិក្សាជាច្រើន ដោយមិនចុះឈ្មោះចូលណាមួយ អាចធ្វើឱ្យអ្នកនៅនឹងកន្លែង។ សូមជ្រើសរើសទិសដៅមួយ ហើយចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Planning skills could help you see further than those around you. A well-chosen path may open wider horizons.",
+        "km": "ជំនាញធ្វើផែនការ អាចជួយអ្នកឱ្យមើលឃើញឆ្ងាយជាងអ្នកនៅជុំវិញ។ ផ្លូវដែលបានជ្រើសរើសយ៉ាងល្អ អាចបើកជើងមេឃទូលាយជាងមុន។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Skills that reach beyond your local role, like a second language, cross-cultural work or international trade, could open new doors. Think wider.",
+        "km": "ជំនាញដែលលាតសន្ធឹងហួសពីតួនាទីក្នុងតំបន់របស់អ្នក ដូចជាភាសាទីពីរ ការងារឆ្លងវប្បធម៌ ឬពាណិជ្ជកម្មអន្តរជាតិ អាចបើកទ្វារថ្មី។ សូមគិតឱ្យទូលាយ។"
+      },
+      "challenge": {
+        "en": "Waiting for your employer to offer training could slow your growth. Look for learning opportunities on your own.",
+        "km": "ការរង់ចាំឱ្យនិយោជកផ្តល់ការបណ្តុះបណ្តាល អាចពន្យឺតការរីកចម្រើនរបស់អ្នក។ សូមស្វែងរកឱកាសរៀនដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Broader skills could bring opportunities from places you never expected. Your reach may grow along with your abilities.",
+        "km": "ជំនាញទូលាយជាងមុន អាចនាំមកនូវឱកាសពីកន្លែងដែលអ្នកមិនដែលរំពឹង។ វិសាលភាពរបស់អ្នក អាចរីកចម្រើនរួមជាមួយសមត្ថភាពរបស់អ្នក។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Skills that help bring people together, such as event planning or team building, could suit you. Creating a positive environment is a real ability.",
+        "km": "ជំនាញដែលជួយនាំមនុស្សមកជួបជុំគ្នា ដូចជាការរៀបចំព្រឹត្តិការណ៍ ឬការកសាងក្រុម អាចសមនឹងអ្នក។ ការបង្កើតបរិយាកាសវិជ្ជមាន គឺជាសមត្ថភាពពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Feeling settled in what you already know could make learning seem unnecessary. Even a stable role benefits from new skills.",
+        "km": "អារម្មណ៍ស្ងប់ស្ងាត់នឹងអ្វីដែលអ្នកដឹងរួចហើយ អាចធ្វើឱ្យការរៀនហាក់ដូចជាមិនចាំបាច់។ សូម្បីតែតួនាទីមានស្ថិរភាព ក៏ទទួលបានប្រយោជន៍ពីជំនាញថ្មីដែរ។"
+      },
+      "outcome": {
+        "en": "A skill learned could become a milestone worth celebrating. A stronger foundation may support your next step.",
+        "km": "ជំនាញដែលបានរៀន អាចក្លាយជាព្រឹត្តិការណ៍សំខាន់ដែលគួរអបអរ។ មូលដ្ឋានរឹងមាំជាងមុន អាចគាំទ្រជំហានបន្ទាប់របស់អ្នក។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Debate, persuasion and handling competing views are skills worth practising. Learning to argue your case well without making enemies is valuable.",
+        "km": "ការជជែកដេញដោល ការបញ្ចុះបញ្ចូល និងការដោះស្រាយទស្សនៈប្រកួតប្រជែង គឺជាជំនាញដែលគួរហាត់។ ការរៀនការពារហេតុផលរបស់អ្នកឱ្យបានល្អ ដោយមិនបង្កើតសត្រូវ គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Comparing yourself constantly with others who seem more skilled could drain your motivation. Measure your progress against your own starting point.",
+        "km": "ការប្រៀបធៀបខ្លួនឯងជានិច្ចជាមួយអ្នកដទៃ ដែលហាក់ដូចជាមានជំនាញជាង អាចបំបាត់ការលើកទឹកចិត្តរបស់អ្នក។ សូមវាស់វែងការរីកចម្រើនរបស់អ្នក ធៀបនឹងចំណុចចាប់ផ្តើមរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Healthy competition could sharpen your abilities faster than studying alone. Testing your ideas may make them stronger.",
+        "km": "ការប្រកួតប្រជែងដ៏ល្អ អាចធ្វើឱ្យសមត្ថភាពរបស់អ្នកមុតស្រួចលឿនជាងការសិក្សាម្នាក់ឯង។ ការសាកល្បងគំនិតរបស់អ្នក អាចធ្វើឱ្យវាកាន់តែរឹងមាំ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Leadership skills and the ability to represent your team could suit you well. Learning to speak for a project and take responsibility builds standing.",
+        "km": "ជំនាញដឹកនាំ និងសមត្ថភាពក្នុងការតំណាងឱ្យក្រុមរបស់អ្នក អាចសមនឹងអ្នកណាស់។ ការរៀននិយាយជំនួសគម្រោងមួយ និងទទួលខុសត្រូវ កសាងឋានៈ។"
+      },
+      "challenge": {
+        "en": "Resting on praise for what you already do well could stop you from learning more. Recognition is a starting line, not a finish.",
+        "km": "ការពឹងផ្អែកលើការសរសើរ ចំពោះអ្វីដែលអ្នកធ្វើបានល្អរួចហើយ អាចរារាំងអ្នកពីការរៀនបន្ថែម។ ការទទួលស្គាល់ គឺជាខ្សែចាប់ផ្តើម មិនមែនខ្សែបញ្ចប់ទេ។"
+      },
+      "outcome": {
+        "en": "New skills could bring you visible recognition and a step up. People may begin to see you as a leader.",
+        "km": "ជំនាញថ្មី អាចនាំមកនូវការទទួលស្គាល់ដែលមើលឃើញ និងការឡើងមួយជំហាន។ មនុស្សអាចចាប់ផ្តើមមើលឃើញអ្នកជាអ្នកដឹកនាំ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Assertiveness and the ability to defend your ideas clearly are skills worth strengthening. Learning to hold your ground respectfully could help you advance.",
+        "km": "ភាពអះអាង និងសមត្ថភាពក្នុងការការពារគំនិតរបស់អ្នកឱ្យច្បាស់ គឺជាជំនាញដែលគួរពង្រឹង។ ការរៀនឈរលើជំហររបស់អ្នកដោយការគោរព អាចជួយអ្នកឱ្យឈានទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Feeling you must prove yourself against everyone could make learning stressful. Focus on growing, not on winning.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែបង្ហាញសមត្ថភាពខ្លួនទល់នឹងមនុស្សគ្រប់គ្នា អាចធ្វើឱ្យការរៀនមានភាពតានតឹង។ សូមផ្តោតលើការរីកចម្រើន មិនមែនការឈ្នះទេ។"
+      },
+      "outcome": {
+        "en": "Firm, well-supported views could earn you a respected voice. Your persistence may protect what you have built.",
+        "km": "ទស្សនៈរឹងមាំ និងមានមូលដ្ឋានគាំទ្រល្អ អាចនាំឱ្យអ្នកមានសំឡេងដែលគេគោរព។ ការតស៊ូរបស់អ្នក អាចការពារអ្វីដែលអ្នកបានកសាង។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Fast communication, quick decision-making and managing several tasks at once are skills that could help. Learning efficient digital tools may speed your work.",
+        "km": "ការទំនាក់ទំនងរហ័ស ការសម្រេចចិត្តរហ័ស និងការគ្រប់គ្រងកិច្ចការច្រើនក្នុងពេលតែមួយ គឺជាជំនាញដែលអាចជួយបាន។ ការរៀនឧបករណ៍ឌីជីថលដែលមានប្រសិទ្ធភាព អាចពន្លឿនការងាររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Rushing through training to finish quickly could leave gaps in your knowledge. Speed is useful only when the basics are solid.",
+        "km": "ការប្រញាប់ឆ្លងកាត់ការបណ្តុះបណ្តាល ដើម្បីបញ្ចប់ឱ្យលឿន អាចបន្សល់ចន្លោះប្រហោងក្នុងចំណេះដឹងរបស់អ្នក។ ល្បឿនមានប្រយោជន៍ តែនៅពេលមូលដ្ឋានរឹងមាំ។"
+      },
+      "outcome": {
+        "en": "Quick learning could help you keep pace with a fast-moving field. Progress may come faster than you expect.",
+        "km": "ការរៀនរហ័ស អាចជួយអ្នកឱ្យរក្សាល្បឿនជាមួយវិស័យដែលផ្លាស់ប្តូរលឿន។ ការរីកចម្រើនអាចមកដល់លឿនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Resilience and the ability to keep going under pressure are skills you have been building. Learning to pace yourself could make them last.",
+        "km": "ភាពធន់ និងសមត្ថភាពក្នុងការបន្តទៅមុខក្រោមសម្ពាធ គឺជាជំនាញដែលអ្នកកំពុងកសាង។ ការរៀនកំណត់ចង្វាក់ខ្លួនឯង អាចធ្វើឱ្យវាស្ថិតស្ថេរ។"
+      },
+      "challenge": {
+        "en": "Tiredness from past setbacks could make new learning feel like too much. Start small and protect your energy.",
+        "km": "ការនឿយហត់ពីការបរាជ័យកន្លងមក អាចធ្វើឱ្យការរៀនថ្មីហាក់ដូចជាច្រើនពេក។ សូមចាប់ផ្តើមតិចៗ ហើយការពារថាមពលរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Endurance could carry you through a demanding course or training. You may finish stronger than you started.",
+        "km": "ការស៊ូទ្រាំ អាចនាំអ្នកឆ្លងកាត់វគ្គសិក្សា ឬការបណ្តុះបណ្តាលដែលទាមទារខ្លាំង។ អ្នកអាចបញ្ចប់ដោយកម្លាំងខ្លាំងជាងពេលចាប់ផ្តើម។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Delegation and workload management are skills that could free you to grow. Learning to hand tasks to others is not weakness but good leadership.",
+        "km": "ការប្រគល់ភារកិច្ច និងការគ្រប់គ្រងបន្ទុកការងារ គឺជាជំនាញដែលអាចដោះលែងអ្នកឱ្យរីកចម្រើន។ ការរៀនប្រគល់កិច្ចការឱ្យអ្នកដទៃ មិនមែនជាភាពទន់ខ្សោយទេ តែជាការដឹកនាំល្អ។"
+      },
+      "challenge": {
+        "en": "Carrying too many duties could leave no space to learn anything new. Lighten the load before adding more.",
+        "km": "ការលីភារកិច្ចច្រើនពេក អាចមិនទុកកន្លែងសម្រាប់រៀនអ្វីថ្មី។ សូមបន្ធូរបន្ទុក មុននឹងបន្ថែមទៀត។"
+      },
+      "outcome": {
+        "en": "Sharing responsibility could give you room to master something new. Lightening the load may open a path forward.",
+        "km": "ការចែករំលែកការទទួលខុសត្រូវ អាចផ្តល់កន្លែងឱ្យអ្នកស្ទាត់ជំនាញអ្វីថ្មី។ ការបន្ធូរបន្ទុក អាចបើកផ្លូវទៅមុខ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity and eagerness to try new things are a strong start. Exploring short courses or online tutorials in a field that excites you could be rewarding.",
+        "km": "ការចង់ដឹងចង់ឃើញ និងការចង់សាកល្បងអ្វីថ្មី គឺជាការចាប់ផ្តើមដ៏រឹងមាំ។ ការស្វែងរកវគ្គខ្លីៗ ឬមេរៀនតាមអ៊ីនធឺណិតក្នុងវិស័យដែលធ្វើឱ្យអ្នករំភើប អាចផ្តល់ផលល្អ។"
+      },
+      "challenge": {
+        "en": "Starting many short courses without finishing them could leave you with scattered knowledge. Complete one before beginning the next.",
+        "km": "ការចាប់ផ្តើមវគ្គខ្លីៗជាច្រើន ដោយមិនបញ្ចប់ អាចធ្វើឱ្យអ្នកមានចំណេះដឹងរាយប៉ាយ។ សូមបញ្ចប់មួយ មុននឹងចាប់ផ្តើមមួយទៀត។"
+      },
+      "outcome": {
+        "en": "An eager start could lead to a skill you truly enjoy using. Exploring may reveal a new passion.",
+        "km": "ការចាប់ផ្តើមដោយភាពរីករាយ អាចនាំទៅរកជំនាញដែលអ្នកពិតជារីករាយប្រើ។ ការស្វែងរក អាចបង្ហាញពីចំណង់ចំណូលចិត្តថ្មី។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Action-oriented skills like sales, business development or project launches could suit your energy. Learning to move ideas forward quickly is valuable.",
+        "km": "ជំនាញផ្តោតលើសកម្មភាព ដូចជាការលក់ ការអភិវឌ្ឍអាជីវកម្ម ឬការដាក់ឱ្យដំណើរការគម្រោង អាចសមនឹងថាមពលរបស់អ្នក។ ការរៀនជំរុញគំនិតទៅមុខយ៉ាងរហ័ស គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Jumping into advanced training without the basics could leave you struggling. Build the foundation before chasing the exciting parts.",
+        "km": "ការលោតចូលការបណ្តុះបណ្តាលកម្រិតខ្ពស់ ដោយគ្មានមូលដ្ឋាន អាចធ្វើឱ្យអ្នកជួបការលំបាក។ សូមកសាងមូលដ្ឋាន មុននឹងដេញតាមផ្នែកដែលគួរឱ្យរំភើប។"
+      },
+      "outcome": {
+        "en": "Bold, practical learning could launch you into new kinds of work. Your drive may take you places quickly.",
+        "km": "ការរៀនជាក់ស្តែង និងក្លាហាន អាចនាំអ្នកចូលទៅក្នុងប្រភេទការងារថ្មី។ កម្លាំងជំរុញរបស់អ្នក អាចនាំអ្នកទៅកន្លែងនានាយ៉ាងរហ័ស។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Confidence, charisma and the ability to motivate others are skills you could develop further. Learning to lead with warmth could make you stand out.",
+        "km": "ទំនុកចិត្ត មន្តស្នេហ៍ និងសមត្ថភាពក្នុងការលើកទឹកចិត្តអ្នកដទៃ គឺជាជំនាញដែលអ្នកអាចអភិវឌ្ឍបន្ថែម។ ការរៀនដឹកនាំដោយភាពកក់ក្តៅ អាចធ្វើឱ្យអ្នកលេចធ្លោ។"
+      },
+      "challenge": {
+        "en": "Assuming you already know enough could stop you from learning from others. Stay humble enough to keep growing.",
+        "km": "ការសន្មតថាអ្នកដឹងគ្រប់គ្រាន់ហើយ អាចរារាំងអ្នកពីការរៀនពីអ្នកដទៃ។ សូមរក្សាភាពរាបទាបគ្រប់គ្រាន់ ដើម្បីបន្តរីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "Your growing confidence could inspire others to learn alongside you. You may become a natural mentor.",
+        "km": "ទំនុកចិត្តដែលកំពុងរីកចម្រើនរបស់អ្នក អាចបំផុសគំនិតអ្នកដទៃឱ្យរៀនជាមួយអ្នក។ អ្នកអាចក្លាយជាអ្នកណែនាំដោយធម្មជាតិ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Visionary leadership and the ability to set direction for others are skills worth developing. Learning to think like a leader prepares you for one.",
+        "km": "ការដឹកនាំប្រកបដោយចក្ខុវិស័យ និងសមត្ថភាពក្នុងការកំណត់ទិសដៅសម្រាប់អ្នកដទៃ គឺជាជំនាញដែលគួរអភិវឌ្ឍ។ ការរៀនគិតដូចអ្នកដឹកនាំ រៀបចំអ្នកឱ្យក្លាយជាអ្នកដឹកនាំ។"
+      },
+      "challenge": {
+        "en": "Focusing only on big-picture skills could leave practical gaps. Leaders also need to understand the details.",
+        "km": "ការផ្តោតតែលើជំនាញរូបភាពធំ អាចបន្សល់ចន្លោះប្រហោងជាក់ស្តែង។ អ្នកដឹកនាំក៏ត្រូវយល់ពីព័ត៌មានលម្អិតដែរ។"
+      },
+      "outcome": {
+        "en": "Leadership skills could prepare you to guide a team or a venture of your own. Your vision may shape what others build.",
+        "km": "ជំនាញដឹកនាំ អាចរៀបចំអ្នកឱ្យដឹកនាំក្រុម ឬគម្រោងផ្ទាល់ខ្លួន។ ចក្ខុវិស័យរបស់អ្នក អាចរៀបចំអ្វីដែលអ្នកដទៃកសាង។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Emotional intelligence, the skill of understanding your own feelings and other people's, could open a new chapter for you. It is learnable like any other.",
+        "km": "បញ្ញាផ្លូវអារម្មណ៍ ដែលជាជំនាញនៃការយល់ពីអារម្មណ៍ខ្លួនឯង និងរបស់អ្នកដទៃ អាចបើកជំពូកថ្មីសម្រាប់អ្នក។ វាអាចរៀនបាន ដូចជំនាញផ្សេងទៀតដែរ។"
+      },
+      "challenge": {
+        "en": "Choosing skills only for practical reasons could leave you uninspired. Make room for learning that touches your heart too.",
+        "km": "ការជ្រើសរើសជំនាញតែដោយហេតុផលជាក់ស្តែង អាចធ្វើឱ្យអ្នកគ្មានការបំផុសគំនិត។ សូមទុកកន្លែងសម្រាប់ការរៀនដែលប៉ះពាល់បេះដូងរបស់អ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "A skill you care deeply about could bring fresh joy to your work. Passion may make learning feel effortless.",
+        "km": "ជំនាញដែលអ្នកយកចិត្តទុកដាក់យ៉ាងជ្រាលជ្រៅ អាចនាំមកនូវសេចក្តីរីករាយថ្មីដល់ការងាររបស់អ្នក។ ចំណង់ចំណូលចិត្ត អាចធ្វើឱ្យការរៀនមានអារម្មណ៍ថាមិនពិបាក។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Partnership skills, such as building rapport and working closely with one other person, could serve you well. Learning to collaborate deeply is valuable.",
+        "km": "ជំនាញភាពជាដៃគូ ដូចជាការកសាងទំនាក់ទំនងល្អ និងការធ្វើការយ៉ាងជិតស្និទ្ធជាមួយមនុស្សម្នាក់ទៀត អាចមានប្រយោជន៍សម្រាប់អ្នក។ ការរៀនសហការយ៉ាងស៊ីជម្រៅ គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Learning alone when a study partner could help might slow you down. Find someone to learn with and keep each other going.",
+        "km": "ការរៀនម្នាក់ឯង នៅពេលដៃគូសិក្សាអាចជួយបាន អាចពន្យឺតអ្នក។ សូមរកនរណាម្នាក់ដើម្បីរៀនជាមួយ ហើយជំរុញគ្នាទៅវិញទៅមក។"
+      },
+      "outcome": {
+        "en": "A learning partnership could help you both grow faster. A mentor or peer may become a valued ally.",
+        "km": "ភាពជាដៃគូក្នុងការរៀន អាចជួយអ្នកទាំងពីររីកចម្រើនលឿនជាងមុន។ អ្នកណែនាំ ឬមិត្តរួមការងារ អាចក្លាយជាសម្ព័ន្ធមិត្តដ៏មានតម្លៃ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Networking and community-building skills could suit you well. Learning to connect people and keep relationships alive is valuable in any career.",
+        "km": "ជំនាញបង្កើតបណ្តាញ និងការកសាងសហគមន៍ អាចសមនឹងអ្នកណាស់។ ការរៀនភ្ជាប់មនុស្ស និងរក្សាទំនាក់ទំនងឱ្យនៅរស់ គឺមានតម្លៃក្នុងអាជីពណាក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Enjoying social learning so much that the serious study slips could leave gaps. Balance fun and focus.",
+        "km": "ការរីករាយនឹងការរៀនបែបសង្គមខ្លាំងពេក រហូតដល់ការសិក្សាធ្ងន់ធ្ងររអិលបាត់ អាចបន្សល់ចន្លោះប្រហោង។ សូមធ្វើឱ្យមានតុល្យភាពរវាងភាពសប្បាយ និងការផ្តោតអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "Learning alongside others could make growth enjoyable and lasting. A supportive group may help you succeed.",
+        "km": "ការរៀនជាមួយអ្នកដទៃ អាចធ្វើឱ្យការរីកចម្រើនរីករាយ និងស្ថិតស្ថេរ។ ក្រុមដែលគាំទ្រ អាចជួយឱ្យអ្នកជោគជ័យ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Reflection and self-awareness are skills worth developing, especially if work feels flat. Notice which tasks still interest you and build on those.",
+        "km": "ការឆ្លុះបញ្ចាំង និងការយល់ដឹងពីខ្លួនឯង គឺជាជំនាញដែលគួរអភិវឌ្ឍ ជាពិសេសប្រសិនបើការងារមានអារម្មណ៍រាបស្មើ។ សូមកត់សម្គាល់កិច្ចការណាដែលនៅតែធ្វើឱ្យអ្នកចាប់អារម្មណ៍ ហើយកសាងលើវា។"
+      },
+      "challenge": {
+        "en": "Feeling bored or unmotivated could make you overlook training already on offer. Look again at what is available.",
+        "km": "អារម្មណ៍ធុញទ្រាន់ ឬគ្មានការលើកទឹកចិត្ត អាចធ្វើឱ្យអ្នកមើលរំលងការបណ្តុះបណ្តាលដែលគេផ្តល់ជូនរួចហើយ។ សូមមើលម្តងទៀតនូវអ្វីដែលមាន។"
+      },
+      "outcome": {
+        "en": "Paying fresh attention could reveal a learning opportunity you had missed. Renewed interest in your work may follow from one small step.",
+        "km": "ការយកចិត្តទុកដាក់ថ្មី អាចបង្ហាញពីឱកាសរៀនដែលអ្នកបានមើលរំលង។ ចំណាប់អារម្មណ៍ថ្មីចំពោះការងាររបស់អ្នក អាចកើតឡើងពីជំហានតូចមួយ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "The ability to learn from setbacks and recover from disappointment is a skill in itself. Look at what a past failure taught you.",
+        "km": "សមត្ថភាពក្នុងការរៀនពីការបរាជ័យ និងងើបឡើងវិញពីការខកចិត្ត គឺជាជំនាញមួយដោយខ្លួនឯង។ សូមមើលពីអ្វីដែលការបរាជ័យកន្លងមកបានបង្រៀនអ្នក។"
+      },
+      "challenge": {
+        "en": "Regret about skills you never learned could stop you from starting at all. It is rarely too late to begin something worthwhile.",
+        "km": "ការសោកស្តាយពីជំនាញដែលអ្នកមិនដែលបានរៀន អាចរារាំងអ្នកមិនឱ្យចាប់ផ្តើមសោះ។ កម្រណាស់ដែលយឺតពេលក្នុងការចាប់ផ្តើមអ្វីដែលមានតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Turning past disappointments into lessons could set you on a better path. What remains may be enough to build on.",
+        "km": "ការប្រែការខកចិត្តកន្លងមក ទៅជាមេរៀន អាចដាក់អ្នកនៅលើផ្លូវល្អជាង។ អ្វីដែលនៅសល់ អាចគ្រប់គ្រាន់ដើម្បីកសាងបន្ត។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Skills you enjoyed long ago, perhaps a childhood hobby or an old talent, could be worth reviving. Familiar abilities can be developed further.",
+        "km": "ជំនាញដែលអ្នកធ្លាប់រីករាយកាលពីមុន ប្រហែលជាចំណង់ចំណូលចិត្តកាលពីកុមារភាព ឬទេពកោសល្យចាស់ អាចសមនឹងការរស់ឡើងវិញ។ សមត្ថភាពដែលធ្លាប់ស្គាល់ អាចត្រូវបានអភិវឌ្ឍបន្ថែម។"
+      },
+      "challenge": {
+        "en": "Relying on skills that worked in the past could leave you behind in a changing field. Update what you know.",
+        "km": "ការពឹងផ្អែកលើជំនាញដែលធ្លាប់មានប្រសិទ្ធភាពកាលពីមុន អាចធ្វើឱ្យអ្នកនៅពីក្រោយក្នុងវិស័យដែលកំពុងផ្លាស់ប្តូរ។ សូមធ្វើបច្ចុប្បន្នភាពអ្វីដែលអ្នកដឹង។"
+      },
+      "outcome": {
+        "en": "An old talent, refreshed, could find a new use in your career. Familiar joy may return to your work.",
+        "km": "ទេពកោសល្យចាស់ ដែលបានធ្វើឱ្យស្រស់ឡើងវិញ អាចរកឃើញការប្រើប្រាស់ថ្មីក្នុងអាជីពរបស់អ្នក។ សេចក្តីរីករាយដែលធ្លាប់ស្គាល់ អាចត្រឡប់មកការងាររបស់អ្នកវិញ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may have many options for what to learn. Narrowing them down by asking which skill fits your real goals is a skill in itself.",
+        "km": "អ្នកប្រហែលជាមានជម្រើសជាច្រើនសម្រាប់អ្វីដែលត្រូវរៀន។ ការបង្រួមវាដោយសួរថាជំនាញណាសមនឹងគោលដៅពិតរបស់អ្នក គឺជាជំនាញមួយដោយខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Dreaming about impressive qualifications without a plan could keep them out of reach. Pick one realistic step.",
+        "km": "ការសុបិនពីគុណវុឌ្ឍិដ៏គួរឱ្យចាប់អារម្មណ៍ ដោយគ្មានផែនការ អាចធ្វើឱ្យវានៅហួសពីដៃ។ សូមជ្រើសរើសជំហានជាក់ស្តែងមួយ។"
+      },
+      "outcome": {
+        "en": "Choosing one clear option could turn daydreams into real progress. Focus may make the right skill obvious.",
+        "km": "ការជ្រើសរើសជម្រើសច្បាស់លាស់មួយ អាចប្រែការស្រមើស្រមៃទៅជាការរីកចម្រើនពិតប្រាកដ។ ការផ្តោតអារម្មណ៍ អាចធ្វើឱ្យជំនាញត្រឹមត្រូវកាន់តែច្បាស់។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "The courage to leave behind skills that no longer fit you could be important. Learning something completely different may be the right move.",
+        "km": "ភាពក្លាហានក្នុងការទុកជំនាញដែលលែងសមនឹងអ្នកនៅពីក្រោយ អាចសំខាន់។ ការរៀនអ្វីដែលខុសគ្នាទាំងស្រុង អាចជាចលនាត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Staying with a subject only because you have already invested in it could hold you back. Know when to move on.",
+        "km": "ការនៅជាមួយមុខវិជ្ជាមួយ តែដោយសារអ្នកបានវិនិយោគលើវារួចហើយ អាចរារាំងអ្នក។ សូមដឹងថាពេលណាត្រូវបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Following a deeper interest could lead to more meaningful skills. A change of direction may feel right.",
+        "km": "ការដើរតាមចំណាប់អារម្មណ៍ជ្រៅជាងមុន អាចនាំទៅរកជំនាញដែលមានអត្ថន័យជាងមុន។ ការផ្លាស់ប្តូរទិសដៅ អាចមានអារម្មណ៍ត្រឹមត្រូវ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Skills that bring you personal satisfaction, not just career advancement, could be worth pursuing. Learning something you enjoy keeps motivation alive.",
+        "km": "ជំនាញដែលនាំមកនូវការពេញចិត្តផ្ទាល់ខ្លួន មិនមែនត្រឹមតែការរីកចម្រើនក្នុងអាជីព អាចសមនឹងការដេញតាម។ ការរៀនអ្វីដែលអ្នករីករាយ រក្សាការលើកទឹកចិត្តឱ្យនៅរស់។"
+      },
+      "challenge": {
+        "en": "Feeling content with your current abilities could make growth seem unnecessary. Satisfaction is good, but do not stop learning.",
+        "km": "អារម្មណ៍ពេញចិត្តនឹងសមត្ថភាពរបស់អ្នក អាចធ្វើឱ្យការរីកចម្រើនហាក់ដូចជាមិនចាំបាច់។ ការពេញចិត្តគឺល្អ តែកុំឈប់រៀន។"
+      },
+      "outcome": {
+        "en": "A skill you love could bring both success and contentment. Learning may feel like a reward.",
+        "km": "ជំនាញដែលអ្នកស្រឡាញ់ អាចនាំមកនូវទាំងភាពជោគជ័យ និងការពេញចិត្ត។ ការរៀនអាចមានអារម្មណ៍ដូចជារង្វាន់។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Skills that support balance between work and family, like time management or flexible work methods, could be worth developing. Wellbeing matters.",
+        "km": "ជំនាញដែលគាំទ្រតុល្យភាពរវាងការងារ និងគ្រួសារ ដូចជាការគ្រប់គ្រងពេលវេលា ឬវិធីធ្វើការបត់បែន អាចសមនឹងការអភិវឌ្ឍ។ សុខុមាលភាពគឺសំខាន់។"
+      },
+      "challenge": {
+        "en": "Trying to learn new skills at the cost of family time could create strain at home. Find a balance that works for everyone.",
+        "km": "ការព្យាយាមរៀនជំនាញថ្មី ដោយលះបង់ពេលវេលាជាមួយគ្រួសារ អាចបង្កើតភាពតានតឹងនៅផ្ទះ។ សូមរកតុល្យភាពដែលដំណើរការសម្រាប់មនុស្សគ្រប់គ្នា។"
+      },
+      "outcome": {
+        "en": "Skills that improve your whole life could bring lasting fulfilment. Work and home may feel more in harmony.",
+        "km": "ជំនាញដែលធ្វើឱ្យជីវិតទាំងមូលរបស់អ្នកប្រសើរឡើង អាចនាំមកនូវការពេញចិត្តយូរអង្វែង។ ការងារ និងផ្ទះ អាចមានអារម្មណ៍សុខដុមជាងមុន។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Creative and intuitive skills, such as art, music or writing, could be worth exploring. A playful approach to learning may unlock talent.",
+        "km": "ជំនាញច្នៃប្រឌិត និងវិចារណញាណ ដូចជាសិល្បៈ តន្ត្រី ឬការសរសេរ អាចសមនឹងការស្វែងរក។ វិធីរៀនបែបលេងសើច អាចដោះសោទេពកោសល្យ។"
+      },
+      "challenge": {
+        "en": "Fear of looking foolish as a beginner could stop you from trying something new. Everyone who is skilled once started out clumsy.",
+        "km": "ការភ័យខ្លាចថានឹងមើលទៅល្ងង់ក្នុងនាមជាអ្នកចាប់ផ្តើម អាចរារាំងអ្នកពីការសាកល្បងអ្វីថ្មី។ អ្នកមានជំនាញគ្រប់រូប ធ្លាប់ចាប់ផ្តើមដោយភាពរអាក់រអួល។"
+      },
+      "outcome": {
+        "en": "A gentle creative interest could grow into a real skill. Something you try for fun may become valuable.",
+        "km": "ចំណាប់អារម្មណ៍ច្នៃប្រឌិតទន់ភ្លន់មួយ អាចរីកធំទៅជាជំនាញពិតប្រាកដ។ អ្វីដែលអ្នកសាកល្បងដើម្បីសប្បាយ អាចក្លាយជាអ្វីដែលមានតម្លៃ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Skills in customer care, hospitality or helping people could suit your caring nature. Learning to look after others well is a real profession.",
+        "km": "ជំនាញថែទាំអតិថិជន បដិសណ្ឋារកិច្ច ឬការជួយមនុស្ស អាចសមនឹងធម្មជាតិយកចិត្តទុកដាក់របស់អ្នក។ ការរៀនមើលថែអ្នកដទៃឱ្យបានល្អ គឺជាវិជ្ជាជីវៈពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Following an idealistic dream without checking it against reality could lead to disappointment. Research what the skill really involves.",
+        "km": "ការដើរតាមសុបិនឧត្តមគតិ ដោយមិនពិនិត្យធៀបនឹងការពិត អាចនាំឱ្យខកចិត្ត។ សូមស្រាវជ្រាវពីអ្វីដែលជំនាញនោះពិតជាពាក់ព័ន្ធ។"
+      },
+      "outcome": {
+        "en": "Following your heart could lead you to work that feels meaningful. A caring skill may become your calling.",
+        "km": "ការដើរតាមបេះដូងរបស់អ្នក អាចនាំអ្នកទៅរកការងារដែលមានអត្ថន័យ។ ជំនាញថែទាំ អាចក្លាយជាការត្រាស់ហៅរបស់អ្នក។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Counselling, coaching or listening skills could build on your natural empathy. Learning to support others professionally could be fulfilling.",
+        "km": "ជំនាញផ្តល់ប្រឹក្សា ការបង្វឹក ឬការស្តាប់ អាចកសាងលើការយល់ចិត្តធម្មជាតិរបស់អ្នក។ ការរៀនគាំទ្រអ្នកដទៃដោយវិជ្ជាជីវៈ អាចផ្តល់ការពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "Taking on other people's emotions while learning could wear you down. Develop boundaries alongside your empathy.",
+        "km": "ការស្រូបយកអារម្មណ៍របស់អ្នកដទៃ ខណៈពេលរៀន អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមអភិវឌ្ឍព្រំដែន រួមជាមួយការយល់ចិត្តរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Your empathy, shaped into a real skill, could help many people. You may find deep meaning in work that supports others.",
+        "km": "ការយល់ចិត្តរបស់អ្នក ដែលបានរៀបចំឱ្យក្លាយជាជំនាញពិតប្រាកដ អាចជួយមនុស្សជាច្រើន។ អ្នកអាចរកឃើញអត្ថន័យជ្រាលជ្រៅ ក្នុងការងារដែលគាំទ្រអ្នកដទៃ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Emotional maturity and calm leadership are skills that could take you far. Learning to handle sensitive situations wisely is highly valued.",
+        "km": "ភាពចាស់ទុំផ្លូវអារម្មណ៍ និងការដឹកនាំដោយស្ងប់ស្ងាត់ គឺជាជំនាញដែលអាចនាំអ្នកទៅឆ្ងាយ។ ការរៀនដោះស្រាយស្ថានភាពរសើបដោយប្រាជ្ញា ត្រូវបានគេឱ្យតម្លៃខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Hiding uncertainty about what you need to learn could stop you from asking for help. Admitting a gap is the first step to filling it.",
+        "km": "ការលាក់ភាពមិនប្រាកដប្រជា អំពីអ្វីដែលអ្នកត្រូវរៀន អាចរារាំងអ្នកពីការសុំជំនួយ។ ការទទួលស្គាល់ចន្លោះប្រហោង គឺជាជំហានដំបូងដើម្បីបំពេញវា។"
+      },
+      "outcome": {
+        "en": "Calm, wise leadership could become your signature skill. Others may look to you in difficult times.",
+        "km": "ការដឹកនាំដោយស្ងប់ស្ងាត់ និងប្រាជ្ញា អាចក្លាយជាជំនាញសម្គាល់របស់អ្នក។ អ្នកដទៃអាចងាកមករកអ្នកក្នុងគ្រាលំបាក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Analytical thinking and clear communication are skills worth sharpening. Learning to explain complex ideas simply could set you apart.",
+        "km": "ការគិតវិភាគ និងការទំនាក់ទំនងច្បាស់លាស់ គឺជាជំនាញដែលគួរធ្វើឱ្យមុតស្រួច។ ការរៀនពន្យល់គំនិតស្មុគស្មាញឱ្យសាមញ្ញ អាចធ្វើឱ្យអ្នកលេចធ្លោ។"
+      },
+      "challenge": {
+        "en": "Overthinking which skill to choose could stall you completely. A clear decision beats a perfect one.",
+        "km": "ការគិតច្រើនពេកអំពីជំនាញណាដែលត្រូវជ្រើសរើស អាចធ្វើឱ្យអ្នកជាប់គាំងទាំងស្រុង។ ការសម្រេចចិត្តច្បាស់លាស់ ប្រសើរជាងការសម្រេចចិត្តល្អឥតខ្ចោះ។"
+      },
+      "outcome": {
+        "en": "Sharper thinking could help you solve problems that others find confusing. Clarity of mind may become your professional edge.",
+        "km": "ការគិតមុតស្រួចជាងមុន អាចជួយអ្នកដោះស្រាយបញ្ហាដែលអ្នកដទៃយល់ថាច្របូកច្របល់។ ភាពច្បាស់លាស់នៃចិត្ត អាចក្លាយជាអត្ថប្រយោជន៍វិជ្ជាជីវៈរបស់អ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Decision-making under uncertainty is a skill worth practising. Learning to weigh options and commit, even without perfect information, could help you grow.",
+        "km": "ការសម្រេចចិត្តក្រោមភាពមិនប្រាកដប្រជា គឺជាជំនាញដែលគួរហាត់។ ការរៀនថ្លឹងថ្លែងជម្រើស ហើយប្តេជ្ញាចិត្ត ទោះគ្មានព័ត៌មានល្អឥតខ្ចោះក៏ដោយ អាចជួយអ្នកឱ្យរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Avoiding a choice between two areas of study could keep you from progressing in either. Gather what you need, then decide.",
+        "km": "ការជៀសវាងការជ្រើសរើសរវាងផ្នែកសិក្សាពីរ អាចរារាំងអ្នកពីការរីកចម្រើនក្នុងផ្នែកណាមួយ។ សូមប្រមូលអ្វីដែលអ្នកត្រូវការ បន្ទាប់មកសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "A clear choice could free your energy to learn with focus. The path may become obvious once you commit.",
+        "km": "ជម្រើសច្បាស់លាស់ អាចដោះលែងថាមពលរបស់អ្នកឱ្យរៀនដោយផ្តោត។ ផ្លូវអាចកាន់តែច្បាស់ នៅពេលអ្នកប្តេជ្ញាចិត្ត។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Learning to give and receive difficult feedback is a skill that could help you grow. Hard truths, handled well, build stronger professionals.",
+        "km": "ការរៀនផ្តល់ និងទទួលមតិត្រឡប់ដែលពិបាក គឺជាជំនាញដែលអាចជួយអ្នកឱ្យរីកចម្រើន។ ការពិតដ៏លំបាក ដែលដោះស្រាយបានល្អ កសាងអ្នកជំនាញដែលរឹងមាំជាង។"
+      },
+      "challenge": {
+        "en": "Painful criticism could make you want to give up on a skill. Separate the useful part from the hurt.",
+        "km": "ការរិះគន់ដ៏ឈឺចាប់ អាចធ្វើឱ្យអ្នកចង់បោះបង់ជំនាញមួយ។ សូមញែកផ្នែកដែលមានប្រយោជន៍ ចេញពីការឈឺចាប់។"
+      },
+      "outcome": {
+        "en": "Working through a hard lesson could make you more capable than before. Growth may come from what hurt.",
+        "km": "ការឆ្លងកាត់មេរៀនដ៏លំបាក អាចធ្វើឱ្យអ្នកមានសមត្ថភាពជាងមុន។ ការរីកចម្រើនអាចមកពីអ្វីដែលធ្វើឱ្យឈឺចាប់។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest and reflection are part of learning too. Skills such as focus, mindfulness or stress management could help you absorb more.",
+        "km": "ការសម្រាក និងការឆ្លុះបញ្ចាំង ក៏ជាផ្នែកមួយនៃការរៀនដែរ។ ជំនាញដូចជាការផ្តោតអារម្មណ៍ ការដឹងខ្លួន ឬការគ្រប់គ្រងភាពតានតឹង អាចជួយអ្នកស្រូបយកបានច្រើនជាងមុន។"
+      },
+      "challenge": {
+        "en": "Pushing on with learning when you are exhausted could mean little sticks. Take breaks so new skills can settle.",
+        "km": "ការបន្តរៀន នៅពេលអ្នកអស់កម្លាំង អាចមានន័យថាចងចាំបានតិចតួច។ សូមសម្រាក ដើម្បីឱ្យជំនាញថ្មីអាចចូលជ្រៅ។"
+      },
+      "outcome": {
+        "en": "A rested, focused mind could learn faster and more deeply. Recovery may prepare you for the next step.",
+        "km": "ចិត្តដែលបានសម្រាក និងផ្តោត អាចរៀនបានលឿន និងជ្រៅជាងមុន។ ការសម្រាកឡើងវិញ អាចរៀបចំអ្នកសម្រាប់ជំហានបន្ទាប់។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Conflict resolution and negotiation skills could help you handle tense situations better. Learning when to push and when to let go is valuable.",
+        "km": "ជំនាញដោះស្រាយជម្លោះ និងការចរចា អាចជួយអ្នកដោះស្រាយស្ថានភាពតានតឹងបានល្អជាង។ ការរៀនដឹងថាពេលណាត្រូវជំរុញ និងពេលណាត្រូវបោះបង់ គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Learning skills only to beat a rival could leave you feeling empty even when you win. Grow for your own reasons.",
+        "km": "ការរៀនជំនាញតែដើម្បីឈ្នះគូប្រជែង អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ទទេ សូម្បីតែពេលអ្នកឈ្នះ។ សូមរីកចម្រើនដោយហេតុផលរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Better negotiation could help you win fairly without losing goodwill. Disputes may become easier to handle.",
+        "km": "ការចរចាល្អជាងមុន អាចជួយអ្នកឈ្នះដោយយុត្តិធម៌ ដោយមិនបាត់បង់សុច្ឆន្ទៈ។ ជម្លោះអាចកាន់តែងាយស្រួលដោះស្រាយ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Skills that help you move into a new area of work, like retraining or learning a new system, could be worth pursuing. Transition is a skill too.",
+        "km": "ជំនាញដែលជួយអ្នកផ្លាស់ទៅផ្នែកការងារថ្មី ដូចជាការបណ្តុះបណ្តាលឡើងវិញ ឬការរៀនប្រព័ន្ធថ្មី អាចសមនឹងការដេញតាម។ ការផ្លាស់ប្តូរ ក៏ជាជំនាញមួយដែរ។"
+      },
+      "challenge": {
+        "en": "Carrying doubts from a past failure into a new course could slow your progress. Leave old fears behind.",
+        "km": "ការយកការសង្ស័យពីការបរាជ័យកន្លងមក ចូលទៅក្នុងវគ្គសិក្សាថ្មី អាចពន្យឺតការរីកចម្រើនរបស់អ្នក។ សូមទុកការភ័យខ្លាចចាស់ៗនៅពីក្រោយ។"
+      },
+      "outcome": {
+        "en": "Moving into a new skill area could bring calmer, more promising work. A smoother path may open.",
+        "km": "ការផ្លាស់ចូលផ្នែកជំនាញថ្មី អាចនាំមកនូវការងារស្ងប់ស្ងាត់ និងមានសក្តានុពលជាងមុន។ ផ្លូវរលូនជាងមុន អាចបើកឡើង។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Strategy, tactics and thinking a few moves ahead are skills that could help your career. Learning to plan cleverly and ethically is valuable.",
+        "km": "យុទ្ធសាស្ត្រ កលល្បិច និងការគិតទុកជាមុនពីរបីជំហាន គឺជាជំនាញដែលអាចជួយអាជីពរបស់អ្នក។ ការរៀនធ្វើផែនការដោយឆ្លាតវៃ និងប្រកបដោយក្រមសីលធម៌ គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Taking shortcuts in your training could leave weak spots that show up under pressure. Learn the fundamentals properly.",
+        "km": "ការដើរផ្លូវកាត់ក្នុងការបណ្តុះបណ្តាលរបស់អ្នក អាចបន្សល់ចំណុចខ្សោយដែលលេចឡើងក្រោមសម្ពាធ។ សូមរៀនមូលដ្ឋានគ្រឹះឱ្យបានត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "Strategic skills could help you find clever, honest ways forward. Good planning may outpace raw effort.",
+        "km": "ជំនាញយុទ្ធសាស្ត្រ អាចជួយអ្នករកផ្លូវទៅមុខដ៏ឆ្លាតវៃ និងស្មោះត្រង់។ ផែនការល្អ អាចលើសការខិតខំធម្មតា។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel limited by the skills you have, but new ones are within reach. Identifying one small gap to close could free you.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានកំណត់ដោយជំនាញដែលអ្នកមាន តែជំនាញថ្មីនៅក្បែរដៃ។ ការកំណត់ចន្លោះប្រហោងតូចមួយដើម្បីបិទ អាចដោះលែងអ្នក។"
+      },
+      "challenge": {
+        "en": "Believing you are too old, too busy or not clever enough to learn could keep you stuck. Beliefs like these are often simply untrue.",
+        "km": "ជំនឿថាអ្នកចាស់ពេក មមាញឹកពេក ឬមិនឆ្លាតគ្រប់គ្រាន់ដើម្បីរៀន អាចធ្វើឱ្យអ្នកជាប់គាំង។ ជំនឿបែបនេះ ជារឿយៗមិនពិតទាល់តែសោះ។"
+      },
+      "outcome": {
+        "en": "Learning one new skill could break a feeling of being trapped. More options may appear than you thought.",
+        "km": "ការរៀនជំនាញថ្មីមួយ អាចបំបែកអារម្មណ៍ជាប់អន្ទាក់។ ជម្រើសច្រើនជាងអ្វីដែលអ្នកគិត អាចលេចឡើង។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Skills for managing worry and pressure, such as planning ahead or breaking tasks down, could ease your mind. Calm helps learning.",
+        "km": "ជំនាញសម្រាប់គ្រប់គ្រងការព្រួយបារម្ភ និងសម្ពាធ ដូចជាការធ្វើផែនការទុកជាមុន ឬការបំបែកកិច្ចការ អាចបន្ធូរចិត្តរបស់អ្នក។ ភាពស្ងប់ស្ងាត់ជួយការរៀន។"
+      },
+      "challenge": {
+        "en": "Anxiety about exams or assessments could stop you from even trying. If the worry feels overwhelming, talk to someone who can help.",
+        "km": "ការថប់បារម្ភអំពីការប្រឡង ឬការវាយតម្លៃ អាចរារាំងអ្នកសូម្បីតែពីការព្យាយាម។ ប្រសិនបើការព្រួយបារម្ភហាក់ដូចជាលើសកម្លាំង សូមនិយាយជាមួយនរណាម្នាក់ដែលអាចជួយ។"
+      },
+      "outcome": {
+        "en": "Facing your worries could reveal you are more capable than you feared. Confidence may grow with each step.",
+        "km": "ការប្រឈមមុខនឹងការព្រួយបារម្ភរបស់អ្នក អាចបង្ហាញថាអ្នកមានសមត្ថភាពច្រើនជាងអ្វីដែលអ្នកខ្លាច។ ទំនុកចិត្តអាចកើនឡើងជាមួយជំហាននីមួយៗ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "If a skill set has reached its limit, it may be time to learn something new. Letting an old specialism go can be the start of growth.",
+        "km": "ប្រសិនបើសំណុំជំនាញមួយបានដល់ដែនកំណត់ វាប្រហែលជាពេលដែលត្រូវរៀនអ្វីថ្មី។ ការលែងជំនាញឯកទេសចាស់ អាចជាការចាប់ផ្តើមនៃការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Clinging to a role that no longer needs your skills could leave you exhausted and stuck. Accepting an ending can free you.",
+        "km": "ការប្រកាន់ខ្ជាប់តួនាទីដែលលែងត្រូវការជំនាញរបស់អ្នក អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងជាប់គាំង។ ការទទួលយកការបញ្ចប់ អាចដោះលែងអ្នក។"
+      },
+      "outcome": {
+        "en": "Starting over with new skills could lead to a stronger, more secure career. An ending may turn out to be the doorway to growth.",
+        "km": "ការចាប់ផ្តើមម្តងទៀតជាមួយជំនាញថ្មី អាចនាំទៅរកអាជីពដែលរឹងមាំ និងមានសុវត្ថិភាពជាង។ ការបញ្ចប់មួយ អាចប្រែជាទ្វារឆ្ពោះទៅរកការរីកចម្រើន។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Research, investigation and fact-checking are skills worth developing. A curious, questioning mind could serve you in many roles.",
+        "km": "ការស្រាវជ្រាវ ការស៊ើបអង្កេត និងការពិនិត្យការពិត គឺជាជំនាញដែលគួរអភិវឌ្ឍ។ ចិត្តចង់ដឹង និងចេះសួរ អាចមានប្រយោជន៍សម្រាប់អ្នកក្នុងតួនាទីជាច្រើន។"
+      },
+      "challenge": {
+        "en": "Gathering endless information without applying it could keep you stuck in learning mode. Put what you know to use.",
+        "km": "ការប្រមូលព័ត៌មានគ្មានទីបញ្ចប់ ដោយមិនអនុវត្ត អាចធ្វើឱ្យអ្នកជាប់ក្នុងរបៀបរៀន។ សូមដាក់អ្វីដែលអ្នកដឹងឱ្យប្រើប្រាស់។"
+      },
+      "outcome": {
+        "en": "Sharp research skills could make you a reliable source of insight. Your questions may lead to answers others missed.",
+        "km": "ជំនាញស្រាវជ្រាវមុតស្រួច អាចធ្វើឱ្យអ្នកក្លាយជាប្រភពនៃការយល់ដឹងដែលគួរឱ្យទុកចិត្ត។ សំណួររបស់អ្នក អាចនាំទៅរកចម្លើយដែលអ្នកដទៃមើលរំលង។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Debating, persuasive writing and quick thinking are skills that could suit your sharp mind. Learning to argue clearly is valuable.",
+        "km": "ការជជែកដេញដោល ការសរសេរបញ្ចុះបញ្ចូល និងការគិតរហ័ស គឺជាជំនាញដែលអាចសមនឹងចិត្តមុតស្រួចរបស់អ្នក។ ការរៀនការពារហេតុផលឱ្យច្បាស់ គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Rushing ahead without listening to others' expertise could cause costly mistakes. Learn from those who know more.",
+        "km": "ការប្រញាប់ទៅមុខ ដោយមិនស្តាប់ជំនាញរបស់អ្នកដទៃ អាចបង្កកំហុសដែលមានតម្លៃខ្ពស់។ សូមរៀនពីអ្នកដែលដឹងច្រើនជាង។"
+      },
+      "outcome": {
+        "en": "Quick, clear thinking could help you excel in fast-moving roles. Your sharp mind may open new opportunities.",
+        "km": "ការគិតរហ័ស និងច្បាស់លាស់ អាចជួយអ្នកពូកែក្នុងតួនាទីដែលផ្លាស់ប្តូរលឿន។ ចិត្តមុតស្រួចរបស់អ្នក អាចបើកឱកាសថ្មីៗ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Precise writing, editing or quality control could suit your clear, discerning mind. Learning to spot errors and set standards is valuable.",
+        "km": "ការសរសេរច្បាស់លាស់ ការកែសម្រួល ឬការត្រួតពិនិត្យគុណភាព អាចសមនឹងចិត្តច្បាស់លាស់ និងចេះវែកញែករបស់អ្នក។ ការរៀនរកឃើញកំហុស និងកំណត់ស្តង់ដារ គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Being too critical of your own progress could make learning feel joyless. Give yourself credit as you go.",
+        "km": "ការរិះគន់ការរីកចម្រើនរបស់ខ្លួនឯងខ្លាំងពេក អាចធ្វើឱ្យការរៀនគ្មានភាពរីករាយ។ សូមផ្តល់កិត្តិយសដល់ខ្លួនឯង តាមផ្លូវ។"
+      },
+      "outcome": {
+        "en": "High standards could make your work trusted and respected by everyone who relies on it. Precision may become your trademark.",
+        "km": "ស្តង់ដារខ្ពស់ អាចធ្វើឱ្យការងាររបស់អ្នកត្រូវបានគេទុកចិត្ត និងគោរពដោយអ្នកដែលពឹងផ្អែកលើវា។ ភាពជាក់លាក់ អាចក្លាយជាសញ្ញាសម្គាល់របស់អ្នក។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Advanced analysis, policy or professional expertise could be your next step. Deep knowledge combined with sound judgement builds authority.",
+        "km": "ការវិភាគកម្រិតខ្ពស់ គោលនយោបាយ ឬជំនាញវិជ្ជាជីវៈ អាចជាជំហានបន្ទាប់របស់អ្នក។ ចំណេះដឹងជ្រៅ រួមជាមួយការវិនិច្ឆ័យត្រឹមត្រូវ កសាងអំណាច។"
+      },
+      "challenge": {
+        "en": "Relying only on technical knowledge could neglect the people skills a senior role also needs. Develop both.",
+        "km": "ការពឹងផ្អែកតែលើចំណេះដឹងបច្ចេកទេស អាចធ្វើឱ្យធ្វេសប្រហែសជំនាញទំនាក់ទំនងមនុស្ស ដែលតួនាទីជាន់ខ្ពស់ក៏ត្រូវការដែរ។ សូមអភិវឌ្ឍទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "Recognised expertise could earn you a respected, senior voice. Your judgement may be sought on important matters.",
+        "km": "ជំនាញដែលគេទទួលស្គាល់ អាចនាំឱ្យអ្នកមានសំឡេងជាន់ខ្ពស់ដែលគេគោរព។ ការវិនិច្ឆ័យរបស់អ្នក អាចត្រូវបានគេស្វែងរកលើបញ្ហាសំខាន់ៗ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical, marketable skill, such as a trade, a technical tool or a recognised certificate, could be a solid investment. Choose one with clear real-world use.",
+        "km": "ជំនាញជាក់ស្តែងដែលមានទីផ្សារ ដូចជាមុខរបរ ឧបករណ៍បច្ចេកទេស ឬវិញ្ញាបនបត្រដែលគេទទួលស្គាល់ អាចជាការវិនិយោគដ៏រឹងមាំ។ សូមជ្រើសរើសមួយដែលមានការប្រើប្រាស់ជាក់ស្តែងច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Waiting until you can afford the perfect course could delay you needlessly. Free or low-cost learning can be a good start.",
+        "km": "ការរង់ចាំរហូតដល់អ្នកមានលទ្ធភាពចំណាយលើវគ្គសិក្សាល្អឥតខ្ចោះ អាចពន្យារអ្នកដោយមិនចាំបាច់។ ការរៀនដោយឥតគិតថ្លៃ ឬថ្លៃទាប អាចជាការចាប់ផ្តើមល្អ។"
+      },
+      "outcome": {
+        "en": "A practical new skill could open a reliable source of opportunity. Your investment in learning may pay off well.",
+        "km": "ជំនាញជាក់ស្តែងថ្មី អាចបើកប្រភពឱកាសដែលគួរឱ្យទុកចិត្ត។ ការវិនិយោគរបស់អ្នកលើការរៀន អាចទទួលបានផលល្អ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Time management and the ability to juggle priorities are skills that could serve you well. Learning to balance learning with work is valuable.",
+        "km": "ការគ្រប់គ្រងពេលវេលា និងសមត្ថភាពក្នុងការដោះស្រាយអាទិភាពច្រើន គឺជាជំនាញដែលអាចមានប្រយោជន៍សម្រាប់អ្នក។ ការរៀនធ្វើឱ្យមានតុល្យភាពរវាងការរៀន និងការងារ គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Trying to study while managing too many other duties could leave you stretched thin. Fit learning into a realistic schedule.",
+        "km": "ការព្យាយាមសិក្សា ខណៈដែលគ្រប់គ្រងភារកិច្ចផ្សេងទៀតច្រើនពេក អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមបញ្ចូលការរៀនទៅក្នុងកាលវិភាគដែលអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Better balance could let you learn steadily without burning out. Flexibility in how you study may become a strength in itself.",
+        "km": "តុល្យភាពល្អជាងមុន អាចឱ្យអ្នករៀនជាប់លាប់ ដោយមិនអស់កម្លាំង។ ភាពបត់បែនក្នុងរបៀបសិក្សា អាចក្លាយជាចំណុចខ្លាំងមួយដោយខ្លួនឯង។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Teamwork on technical projects and skilled craftsmanship could be your path. Learning from experienced colleagues on real work builds solid ability.",
+        "km": "ការងារជាក្រុមលើគម្រោងបច្ចេកទេស និងសិប្បកម្មប្រកបដោយជំនាញ អាចជាផ្លូវរបស់អ្នក។ ការរៀនពីសហការីដែលមានបទពិសោធន៍ លើការងារពិតប្រាកដ កសាងសមត្ថភាពរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Learning in isolation could miss the practical tips that only come from working with others. Seek hands-on collaboration.",
+        "km": "ការរៀនដាច់ដោយឡែក អាចខកខានគន្លឹះជាក់ស្តែង ដែលមកតែពីការធ្វើការជាមួយអ្នកដទៃ។ សូមស្វែងរកកិច្ចសហការជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "Skills built through real projects could earn you a strong reputation. Your craftsmanship may be noticed.",
+        "km": "ជំនាញដែលកសាងតាមរយៈគម្រោងពិតប្រាកដ អាចនាំឱ្យអ្នកមានកេរ្តិ៍ឈ្មោះរឹងមាំ។ សិប្បកម្មរបស់អ្នក អាចត្រូវបានគេកត់សម្គាល់។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Budgeting, financial management or resource planning skills could strengthen your position. Learning to look after money and resources wisely is valuable.",
+        "km": "ជំនាញធ្វើថវិកា ការគ្រប់គ្រងហិរញ្ញវត្ថុ ឬការធ្វើផែនការធនធាន អាចពង្រឹងជំហររបស់អ្នក។ ការរៀនមើលថែប្រាក់ និងធនធានដោយប្រាជ្ញា គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Being too cautious to spend anything on your own development could hold you back. Some learning is worth paying for.",
+        "km": "ការប្រុងប្រយ័ត្នខ្លាំងពេក រហូតមិនចំណាយអ្វីលើការអភិវឌ្ឍខ្លួនឯង អាចរារាំងអ្នក។ ការរៀនខ្លះ សមនឹងការចំណាយ។"
+      },
+      "outcome": {
+        "en": "Sound financial skills could give you security and greater responsibility. Careful management may become your strength.",
+        "km": "ជំនាញហិរញ្ញវត្ថុត្រឹមត្រូវ អាចផ្តល់ឱ្យអ្នកនូវសន្តិសុខ និងការទទួលខុសត្រូវធំជាងមុន។ ការគ្រប់គ្រងដោយប្រុងប្រយ័ត្ន អាចក្លាយជាចំណុចខ្លាំងរបស់អ្នក។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Skills that make you more employable in hard times, like digital literacy or a practical trade, could be worth building. Look for free resources and support.",
+        "km": "ជំនាញដែលធ្វើឱ្យអ្នកងាយរកការងារក្នុងគ្រាលំបាក ដូចជាចំណេះដឹងឌីជីថល ឬមុខរបរជាក់ស្តែង អាចសមនឹងការកសាង។ សូមស្វែងរកធនធាន និងការគាំទ្រដោយឥតគិតថ្លៃ។"
+      },
+      "challenge": {
+        "en": "Feeling left behind by others' qualifications could discourage you. There are often more learning options available than you know.",
+        "km": "អារម្មណ៍ថាត្រូវបានគេទុកនៅពីក្រោយ ដោយសារគុណវុឌ្ឍិរបស់អ្នកដទៃ អាចធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។ ជារឿយៗមានជម្រើសរៀនច្រើនជាងអ្វីដែលអ្នកដឹង។"
+      },
+      "outcome": {
+        "en": "A new practical skill could help you through a difficult stretch. Support may appear when you ask for it.",
+        "km": "ជំនាញជាក់ស្តែងថ្មី អាចជួយអ្នកឆ្លងកាត់ដំណាក់កាលលំបាក។ ការគាំទ្រ អាចលេចឡើងនៅពេលអ្នកស្នើសុំ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Mentoring and sharing knowledge with others are skills worth developing. Teaching what you know is one of the best ways to deepen it.",
+        "km": "ការណែនាំ និងការចែករំលែកចំណេះដឹងជាមួយអ្នកដទៃ គឺជាជំនាញដែលគួរអភិវឌ្ឍ។ ការបង្រៀនអ្វីដែលអ្នកដឹង គឺជាវិធីល្អបំផុតមួយដើម្បីធ្វើឱ្យវាជ្រៅជាងមុន។"
+      },
+      "challenge": {
+        "en": "Hesitating to ask for training or support could leave you without the help you need. It is fine to accept help.",
+        "km": "ការស្ទាក់ស្ទើរក្នុងការស្នើសុំការបណ្តុះបណ្តាល ឬការគាំទ្រ អាចធ្វើឱ្យអ្នកគ្មានជំនួយដែលអ្នកត្រូវការ។ ការទទួលយកជំនួយ គឺជារឿងធម្មតា។"
+      },
+      "outcome": {
+        "en": "Giving and receiving knowledge could make your skills grow faster. A sponsor or mentor may help you.",
+        "km": "ការផ្តល់ និងទទួលចំណេះដឹង អាចធ្វើឱ្យជំនាញរបស់អ្នករីកចម្រើនលឿនជាងមុន។ អ្នកឧបត្ថម្ភ ឬអ្នកណែនាំ អាចជួយអ្នក។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Skills that take time to master, like a profession or a craft, could reward your patience. Choose something worth a long-term commitment.",
+        "km": "ជំនាញដែលត្រូវការពេលវេលាដើម្បីស្ទាត់ ដូចជាវិជ្ជាជីវៈ ឬសិប្បកម្ម អាចផ្តល់រង្វាន់ដល់ការអត់ធ្មត់របស់អ្នក។ សូមជ្រើសរើសអ្វីដែលសមនឹងការប្តេជ្ញាចិត្តរយៈពេលវែង។"
+      },
+      "challenge": {
+        "en": "Expecting quick results from a demanding skill could lead to giving up. Mastery takes steady effort.",
+        "km": "ការរំពឹងលទ្ធផលរហ័សពីជំនាញដែលទាមទារខ្លាំង អាចនាំឱ្យបោះបង់។ ការស្ទាត់ជំនាញត្រូវការការខិតខំជាប់លាប់។"
+      },
+      "outcome": {
+        "en": "Patient learning could grow into deep, respected expertise. The effort you plant may bear rich fruit in your career.",
+        "km": "ការរៀនដោយអត់ធ្មត់ អាចរីកធំទៅជាជំនាញជ្រៅ ដែលគេគោរព។ ការខិតខំដែលអ្នកដាំ អាចផ្តល់ផ្លែផ្កាសម្បូរក្នុងអាជីពរបស់អ្នក។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Mastering your craft through careful, repeated practice could be your strongest move. Focus on doing one thing exceptionally well.",
+        "km": "ការស្ទាត់ជំនាញវិជ្ជាជីវៈរបស់អ្នក តាមរយៈការហាត់ដោយប្រុងប្រយ័ត្ន និងម្តងហើយម្តងទៀត អាចជាចលនាដ៏ខ្លាំងបំផុតរបស់អ្នក។ សូមផ្តោតលើការធ្វើរឿងមួយឱ្យបានល្អលើសលប់។"
+      },
+      "challenge": {
+        "en": "Perfectionism could keep you practising basics instead of moving on. Know when good enough is ready.",
+        "km": "ភាពល្អឥតខ្ចោះនិយម អាចធ្វើឱ្យអ្នកហាត់តែមូលដ្ឋាន ជំនួសឱ្យការបន្តទៅមុខ។ សូមដឹងថាពេលណាល្អគ្រប់គ្រាន់ គឺត្រៀមរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Dedicated practice could make you a true expert in your field. Skill may become your security.",
+        "km": "ការហាត់ដោយលះបង់ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកជំនាញពិតប្រាកដក្នុងវិស័យរបស់អ្នក។ ជំនាញអាចក្លាយជាសន្តិសុខរបស់អ្នក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Skills that give you independence, such as freelancing, self-employment or self-directed learning, could suit you. Self-reliance is valuable.",
+        "km": "ជំនាញដែលផ្តល់ឯករាជ្យភាពដល់អ្នក ដូចជាការងារឯករាជ្យ ការធ្វើការងារខ្លួនឯង ឬការរៀនដោយខ្លួនឯង អាចសមនឹងអ្នក។ ការពឹងផ្អែកលើខ្លួនឯង គឺមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Assuming you can teach yourself everything could leave gaps an expert would spot. Some skills need a teacher.",
+        "km": "ការសន្មតថាអ្នកអាចបង្រៀនខ្លួនឯងគ្រប់យ៉ាង អាចបន្សល់ចន្លោះប្រហោងដែលអ្នកជំនាញនឹងមើលឃើញ។ ជំនាញខ្លះត្រូវការគ្រូ។"
+      },
+      "outcome": {
+        "en": "Independent skills could give you freedom and greater financial comfort. Your self-reliance may pay off in more ways than one.",
+        "km": "ជំនាញឯករាជ្យ អាចផ្តល់ឱ្យអ្នកនូវសេរីភាព និងភាពសុខស្រួលផ្នែកហិរញ្ញវត្ថុកាន់តែច្រើន។ ការពឹងផ្អែកលើខ្លួនឯងរបស់អ្នក អាចទទួលបានផលច្រើនជាងមួយផ្លូវ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Skills that build lasting security, like professional certification or deep expertise, could be your focus. Think about what will keep serving you as your career grows.",
+        "km": "ជំនាញដែលកសាងសន្តិសុខយូរអង្វែង ដូចជាវិញ្ញាបនបត្រវិជ្ជាជីវៈ ឬជំនាញជ្រៅ អាចជាការផ្តោតរបស់អ្នក។ សូមគិតពីអ្វីដែលនឹងបន្តមានប្រយោជន៍សម្រាប់អ្នក ខណៈអាជីពរបស់អ្នករីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Choosing skills only because family or tradition expects it could lead to unfulfilling work. Check that the path is one you want to walk.",
+        "km": "ការជ្រើសរើសជំនាញ តែដោយសារគ្រួសារ ឬប្រពៃណីរំពឹង អាចនាំទៅរកការងារដែលមិនពេញចិត្ត។ សូមពិនិត្យថាផ្លូវនោះជាផ្លូវដែលអ្នកចង់ដើរ។"
+      },
+      "outcome": {
+        "en": "Solid, lasting skills could give you security you can build a life on. Your learning may benefit your family too.",
+        "km": "ជំនាញរឹងមាំ និងយូរអង្វែង អាចផ្តល់ឱ្យអ្នកនូវសន្តិសុខដែលអ្នកអាចកសាងជីវិតលើវា។ ការរៀនរបស់អ្នក អាចផ្តល់ប្រយោជន៍ដល់គ្រួសាររបស់អ្នកផងដែរ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A beginner's practical skill, like a short technical course or apprenticeship, could be a great first step. Be a diligent student.",
+        "km": "ជំនាញជាក់ស្តែងសម្រាប់អ្នកចាប់ផ្តើម ដូចជាវគ្គបច្ចេកទេសខ្លី ឬការសិក្សាជាកូនជាង អាចជាជំហានដំបូងដ៏ល្អ។ សូមធ្វើជាសិស្សឧស្សាហ៍ព្យាយាម។"
+      },
+      "challenge": {
+        "en": "Feeling behind because you are starting late could make you hesitate. Steady effort can close any gap.",
+        "km": "អារម្មណ៍ថានៅពីក្រោយ ដោយសារអ្នកចាប់ផ្តើមយឺត អាចធ្វើឱ្យអ្នកស្ទាក់ស្ទើរ។ ការខិតខំជាប់លាប់ អាចបិទចន្លោះប្រហោងណាមួយ។"
+      },
+      "outcome": {
+        "en": "A modest first step could grow into a useful career skill. Diligence may open real opportunities.",
+        "km": "ជំហានដំបូងតិចតួចមួយ អាចរីកធំទៅជាជំនាញអាជីពដែលមានប្រយោជន៍។ ការឧស្សាហ៍ព្យាយាម អាចបើកឱកាសពិតប្រាកដ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Reliability, thoroughness and following procedures well are skills employers deeply value. Developing a methodical approach could strengthen your career.",
+        "km": "ភាពគួរឱ្យទុកចិត្ត ភាពហ្មត់ចត់ និងការអនុវត្តនីតិវិធីបានល្អ គឺជាជំនាញដែលនិយោជកឱ្យតម្លៃយ៉ាងខ្លាំង។ ការអភិវឌ្ឍវិធីសាស្ត្រមានរបៀបរៀបរយ អាចពង្រឹងអាជីពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Sticking to familiar routines could keep you from learning faster methods. Be open to better ways.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ដែលធ្លាប់ស្គាល់ អាចរារាំងអ្នកពីការរៀនវិធីសាស្ត្រលឿនជាង។ សូមបើកចំហចំពោះវិធីល្អជាង។"
+      },
+      "outcome": {
+        "en": "Steady, methodical learning could make you a dependable expert. Progress that feels slow may prove the most lasting.",
+        "km": "ការរៀនជាប់លាប់ និងមានរបៀបរៀបរយ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកជំនាញដែលគួរឱ្យពឹងផ្អែក។ ការរីកចម្រើនដែលហាក់ដូចជាយឺត អាចបង្ហាញថាស្ថិតស្ថេរបំផុត។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Practical skills that let you care for people and resources, such as operations or administration, could suit you well. Being the one who keeps a workplace organised is a real talent.",
+        "km": "ជំនាញជាក់ស្តែងដែលធ្វើឱ្យអ្នកអាចមើលថែមនុស្ស និងធនធាន ដូចជាប្រតិបត្តិការ ឬរដ្ឋបាល អាចសមនឹងអ្នកណាស់។ ការធ្វើជាមនុស្សដែលរក្សាកន្លែងធ្វើការឱ្យមានរបៀបរៀបរយ គឺជាទេពកោសល្យពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Spending all your time supporting others' growth could leave none for your own. Make your learning a priority too.",
+        "km": "ការចំណាយពេលទាំងអស់ គាំទ្រការរីកចម្រើនរបស់អ្នកដទៃ អាចមិនទុកពេលសម្រាប់ខ្លួនឯង។ សូមធ្វើឱ្យការរៀនរបស់អ្នកជាអាទិភាពផងដែរ។"
+      },
+      "outcome": {
+        "en": "Practical, caring skills could make you indispensable. Your ability to keep things running may be rewarded.",
+        "km": "ជំនាញជាក់ស្តែង និងយកចិត្តទុកដាក់ អាចធ្វើឱ្យអ្នកក្លាយជាមនុស្សដែលខ្វះមិនបាន។ សមត្ថភាពរបស់អ្នកក្នុងការរក្សាអ្វីៗឱ្យដំណើរការ អាចទទួលបានរង្វាន់។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Business management, investment or senior professional skills could be your next goal. Building on what you have achieved could take you further.",
+        "km": "ការគ្រប់គ្រងអាជីវកម្ម ការវិនិយោគ ឬជំនាញវិជ្ជាជីវៈជាន់ខ្ពស់ អាចជាគោលដៅបន្ទាប់របស់អ្នក។ ការកសាងលើអ្វីដែលអ្នកបានសម្រេច អាចនាំអ្នកទៅឆ្ងាយជាងមុន។"
+      },
+      "challenge": {
+        "en": "Feeling too established to learn anything new could make you fall behind. Even experts keep studying.",
+        "km": "អារម្មណ៍ថាមានជំហររឹងមាំពេក រហូតមិនចាំបាច់រៀនអ្វីថ្មី អាចធ្វើឱ្យអ្នកធ្លាក់ទៅពីក្រោយ។ សូម្បីតែអ្នកជំនាញ ក៏បន្តសិក្សាដែរ។"
+      },
+      "outcome": {
+        "en": "Advanced skills could bring leadership and lasting reward. Your expertise may become something others build on too.",
+        "km": "ជំនាញកម្រិតខ្ពស់ អាចនាំមកនូវភាពជាអ្នកដឹកនាំ និងរង្វាន់យូរអង្វែង។ ជំនាញរបស់អ្នក អាចក្លាយជាអ្វីដែលអ្នកដទៃកសាងបន្តផងដែរ។"
+      }
+    }
+  }
+}
