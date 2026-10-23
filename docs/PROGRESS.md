@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 38 of 100 questions (8,892 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 39 of 100 questions (9,126 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-23: Drafted MF-09 (“How can I plan for financial security?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/MF-09.json. security planning; Presents describe the base you start from rather than repeating the imperative pattern of MF-02/04/06 AI-drafted; English and native Khmer review pending. Saved coverage 39/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted MF-08 (“Is now a good time for a big purchase?”, yesno): 78 cards × 3 positions in English and Khmer, src/content/readings/MF-08.json. big-purchase readiness; Outcomes kept conditional so they sit under either yes/no answer AI-drafted; English and native Khmer review pending. Saved coverage 38/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted MF-07 (“What should I be careful about with money?”, obstacle): 78 cards × 3 positions in English and Khmer, src/content/readings/MF-07.json. money cautions: scams, lending, impulse spending, chasing losses; debt and anxiety entries point to an adviser or support service AI-drafted; English and native Khmer review pending. Saved coverage 37/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted MF-06 (“How can I reduce my money worries?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/MF-06.json. money-worry lens (facing figures, fear versus fact, small controllable steps, sharing the load); counsellor, doctor, adviser or support service suggested where worry or debt is heavy; rewritten to avoid echoing CW-09 AI-drafted; English and native Khmer review pending. Saved coverage 36/100 questions; checks, typecheck and lint pass
