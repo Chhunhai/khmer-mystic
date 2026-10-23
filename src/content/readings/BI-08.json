@@ -1,0 +1,1097 @@
+{
+  "questionId": "BI-08",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A fresh, open attitude, willing to try new ways of working together, could be the team's starting asset. People may be ready for something different.",
+        "km": "អាកប្បកិរិយាថ្មី និងបើកចំហ ដែលសុខចិត្តសាកល្បងវិធីថ្មីក្នុងការធ្វើការជាមួយគ្នា អាចជាទ្រព្យសម្បត្តិចាប់ផ្តើមរបស់ក្រុម។ មនុស្ស ប្រហែលជាត្រៀមខ្លួនសម្រាប់អ្វីមួយខុសពីមុន។"
+      },
+      "challenge": {
+        "en": "Changing how the team works too often could leave staff confused and unsettled. Try one new approach and let it settle.",
+        "km": "ការផ្លាស់ប្តូររបៀបដែលក្រុមធ្វើការញឹកញាប់ពេក អាចធ្វើឱ្យបុគ្គលិកច្របូកច្របល់ និងមិនស្ងប់។ សូមសាកល្បងវិធីសាស្ត្រថ្មីមួយ ហើយឱ្យវាតាំងលំនៅ។"
+      },
+      "outcome": {
+        "en": "A team willing to experiment together could discover better ways of working that stick. Trying a new meeting format or task split as a group may spark real energy.",
+        "km": "ក្រុមដែលហ៊ានសាកល្បងជាមួយគ្នា អាចរកឃើញរបៀបធ្វើការល្អជាងមុនដែលស្ថិតស្ថេរ។ ការសាកល្បងទម្រង់ប្រជុំថ្មី ឬការបែងចែកកិច្ចការថ្មីជាក្រុម អាចបញ្ឆេះថាមពលពិតប្រាកដ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "The team may have plenty of skill and resourcefulness that is not yet being fully used. Talent may be waiting to be tapped.",
+        "km": "ក្រុមប្រហែលជាមានជំនាញ និងភាពប៉ិនប្រសប់ជាច្រើន ដែលមិនទាន់ត្រូវបានប្រើប្រាស់ពេញលេញ។ ទេពកោសល្យ ប្រហែលជាកំពុងរង់ចាំត្រូវបានទាញយក។"
+      },
+      "challenge": {
+        "en": "Doing the clever work yourself while others watch could leave the team underused and uninvolved. Hand real tasks to the people around you.",
+        "km": "ការធ្វើការងារឆ្លាតដោយខ្លួនឯង ខណៈអ្នកដទៃមើល អាចទុកឱ្យក្រុមមិនត្រូវបានប្រើប្រាស់ និងមិនចូលរួម។ សូមប្រគល់កិច្ចការពិតប្រាកដដល់មនុស្សនៅជុំវិញអ្នក។"
+      },
+      "outcome": {
+        "en": "Putting each person's skills to real use could make the team feel capable and engaged. Staff who see their talents matter may take more ownership of shared results.",
+        "km": "ការប្រើប្រាស់ជំនាញរបស់ម្នាក់ៗឱ្យមានប្រយោជន៍ពិតប្រាកដ អាចធ្វើឱ្យក្រុមមានអារម្មណ៍ថាមានសមត្ថភាព និងចូលរួម។ បុគ្គលិកដែលឃើញថាទេពកោសល្យរបស់ខ្លួនសំខាន់ អាចទទួលភាពជាម្ចាស់លើលទ្ធផលរួមកាន់តែច្រើន។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Unspoken feelings and quiet tensions in the team may be more important than they appear. Paying attention to who stays silent in meetings could tell you a great deal.",
+        "km": "អារម្មណ៍ដែលមិនបាននិយាយចេញ និងភាពតានតឹងស្ងាត់ៗក្នុងក្រុម ប្រហែលជាសំខាន់ជាងអ្វីដែលមើលឃើញ។ ការយកចិត្តទុកដាក់ថាអ្នកណានៅស្ងៀមក្នុងកិច្ចប្រជុំ អាចប្រាប់អ្នកបានច្រើន។"
+      },
+      "challenge": {
+        "en": "Missing what people are not saying could let small grievances grow into bigger rifts. Make space for quiet team members to speak.",
+        "km": "ការខកខានអ្វីដែលមនុស្សមិននិយាយ អាចឱ្យការអាក់អន់ចិត្តតូចៗរីកធំទៅជាការបែកបាក់ធំជាងនេះ។ សូមបង្កើតកន្លែងឱ្យសមាជិកក្រុមដែលស្ងៀមស្ងាត់និយាយ។"
+      },
+      "outcome": {
+        "en": "Listening for what lies beneath the surface could ease hidden tensions. A team that feels heard may work together more openly.",
+        "km": "ការស្តាប់អ្វីដែលស្ថិតនៅក្រោមផ្ទៃ អាចបន្ធូរភាពតានតឹងលាក់កំបាំង។ ក្រុមដែលមានអារម្មណ៍ថាត្រូវបានស្តាប់ អាចធ្វើការជាមួយគ្នាដោយបើកចំហជាងមុន។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "A warm, nurturing atmosphere, where people feel cared for, could be a strong base for teamwork. Staff who feel looked after may be more willing to help one another.",
+        "km": "បរិយាកាសកក់ក្តៅ និងថែទាំ ដែលមនុស្សមានអារម្មណ៍ថាត្រូវបានយកចិត្តទុកដាក់ អាចជាមូលដ្ឋានរឹងមាំសម្រាប់ការងារជាក្រុម។ បុគ្គលិកដែលមានអារម្មណ៍ថាត្រូវបានមើលថែ អាចមានឆន្ទៈជួយគ្នាកាន់តែច្រើន។"
+      },
+      "challenge": {
+        "en": "Being so caring that poor performance goes unaddressed could frustrate the people who carry the load. Pair your kindness with clear, fair expectations for every role.",
+        "km": "ការយកចិត្តទុកដាក់ខ្លាំងពេក រហូតមិនដោះស្រាយការងារខ្សោយ អាចធ្វើឱ្យអ្នកដែលទទួលបន្ទុកខកចិត្ត។ សូមភ្ជាប់ចិត្តល្អរបស់អ្នក ជាមួយការរំពឹងទុកច្បាស់លាស់ និងយុត្តិធម៌សម្រាប់គ្រប់តួនាទី។"
+      },
+      "outcome": {
+        "en": "Care combined with clear expectations could help the team flourish together. People who feel supported may give their best.",
+        "km": "ការយកចិត្តទុកដាក់ រួមផ្សំជាមួយការរំពឹងទុកច្បាស់លាស់ អាចជួយក្រុមឱ្យរីកស្គុះស្គាយជាមួយគ្នា។ មនុស្សដែលមានអារម្មណ៍ថាត្រូវបានគាំទ្រ អាចផ្តល់អ្វីដែលល្អបំផុតរបស់ពួកគេ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Clear roles, rules and routines could give the team a solid frame to work within. Knowing who handles what may cut down on confusion and finger-pointing.",
+        "km": "តួនាទី ច្បាប់ និងទម្លាប់ច្បាស់លាស់ អាចផ្តល់ឱ្យក្រុមនូវក្របខណ្ឌរឹងមាំសម្រាប់ធ្វើការ។ ការដឹងថាអ្នកណាទទួលបន្ទុកអ្វី អាចកាត់បន្ថយការច្របូកច្របល់ និងការចង្អុលបន្ទោសគ្នា។"
+      },
+      "challenge": {
+        "en": "Rules imposed from above without explanation could make staff feel controlled rather than led. Explain the reason behind each rule and invite questions about it.",
+        "km": "ច្បាប់ដែលដាក់ពីលើដោយគ្មានការពន្យល់ អាចធ្វើឱ្យបុគ្គលិកមានអារម្មណ៍ថាត្រូវបានគ្រប់គ្រង ជាជាងត្រូវបានដឹកនាំ។ សូមពន្យល់ហេតុផលនៅពីក្រោយច្បាប់នីមួយៗ ហើយអញ្ជើញឱ្យសួរសំណួរអំពីវា។"
+      },
+      "outcome": {
+        "en": "Fair, well-explained structure could let everyone know where they stand and work smoothly together. Clear order in daily tasks may free people to focus on helping each other.",
+        "km": "រចនាសម្ព័ន្ធយុត្តិធម៌ និងពន្យល់បានល្អ អាចឱ្យអ្នករាល់គ្នាដឹងពីជំហររបស់ខ្លួន និងធ្វើការជាមួយគ្នាបានរលូន។ សណ្តាប់ធ្នាប់ច្បាស់លាស់ក្នុងកិច្ចការប្រចាំថ្ងៃ អាចដោះលែងមនុស្សឱ្យផ្តោតលើការជួយគ្នា។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Shared values, traditions or a common way of doing things could hold the team together. Staff who feel part of a familiar culture may cooperate more naturally.",
+        "km": "គុណតម្លៃរួម ប្រពៃណី ឬរបៀបធ្វើការរួម អាចចងក្រុមឱ្យនៅជាមួយគ្នា។ បុគ្គលិកដែលមានអារម្មណ៍ថាជាផ្នែកនៃវប្បធម៌ដែលស៊ាំ អាចសហការគ្នាដោយធម្មជាតិជាងមុន។"
+      },
+      "challenge": {
+        "en": "Insisting on doing things the old way could shut out newer staff and fresh ideas. Let workplace traditions adapt as new people join the team.",
+        "km": "ការទទូចធ្វើការតាមរបៀបចាស់ អាចបិទទ្វារចំពោះបុគ្គលិកថ្មី និងគំនិតថ្មី។ សូមឱ្យប្រពៃណីកន្លែងធ្វើការសម្របខ្លួន នៅពេលមនុស្សថ្មីចូលរួមក្រុម។"
+      },
+      "outcome": {
+        "en": "Honouring shared values while welcoming new voices could build a team that is both rooted and growing. Experienced staff mentoring newcomers may pass on good habits.",
+        "km": "ការគោរពគុណតម្លៃរួម ខណៈស្វាគមន៍សំឡេងថ្មី អាចកសាងក្រុមដែលទាំងមានឫសគល់ និងរីកចម្រើន។ បុគ្គលិកដែលមានបទពិសោធន៍ណែនាំអ្នកថ្មី អាចបន្តទម្លាប់ល្អៗ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Strong working relationships between pairs or partners in the team could be a real asset. Two people who click can lift everyone around them.",
+        "km": "ទំនាក់ទំនងការងាររឹងមាំរវាងគូ ឬដៃគូក្នុងក្រុម អាចជាទ្រព្យសម្បត្តិពិតប្រាកដ។ មនុស្សពីរនាក់ដែលចុះសម្រុងគ្នា អាចលើកអ្នករាល់គ្នានៅជុំវិញពួកគេ។"
+      },
+      "challenge": {
+        "en": "Close pairs or cliques could leave others feeling left out. Mix people across tasks so everyone connects.",
+        "km": "គូជិតស្និទ្ធ ឬក្រុមតូចៗ អាចធ្វើឱ្យអ្នកដទៃមានអារម្មណ៍ត្រូវបានទុកចោល។ សូមលាយមនុស្សឆ្លងកាត់កិច្ចការ ដើម្បីឱ្យអ្នករាល់គ្នាតភ្ជាប់។"
+      },
+      "outcome": {
+        "en": "Spreading good relationships across the whole team could build trust and cooperation. Everyone may feel part of the group.",
+        "km": "ការពង្រីកទំនាក់ទំនងល្អទូទាំងក្រុម អាចកសាងការទុកចិត្ត និងកិច្ចសហប្រតិបត្តិការ។ អ្នករាល់គ្នា អាចមានអារម្មណ៍ជាផ្នែកមួយនៃក្រុម។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "A shared goal and the drive to reach it could pull the team in one direction. A clear target gives people a reason to work as one.",
+        "km": "គោលដៅរួម និងកម្លាំងជំរុញដើម្បីឈានដល់វា អាចទាញក្រុមក្នុងទិសដៅតែមួយ។ គោលដៅច្បាស់លាស់ ផ្តល់ហេតុផលឱ្យមនុស្សធ្វើការជាមួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Pushing the team too hard toward a target could cause burnout or resentment. Steer staff with encouragement and support, not pressure alone.",
+        "km": "ការជំរុញក្រុមខ្លាំងពេកឆ្ពោះទៅរកគោលដៅ អាចបង្កការអស់កម្លាំង ឬការអាក់អន់ចិត្ត។ សូមដឹកនាំបុគ្គលិកដោយការលើកទឹកចិត្ត និងការគាំទ្រ មិនមែនតែសម្ពាធទេ។"
+      },
+      "outcome": {
+        "en": "A clear, shared target could rally the team and bring a real sense of achievement. Reaching a goal side by side may strengthen the bonds between colleagues.",
+        "km": "គោលដៅរួមច្បាស់លាស់ អាចប្រមូលផ្តុំក្រុម និងនាំមកនូវអារម្មណ៍សម្រេចបានពិតប្រាកដ។ ការសម្រេចគោលដៅជាមួយគ្នា អាចពង្រឹងចំណងរវាងមិត្តរួមការងារ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience and calm leadership could help the team work through friction without drama. Staff may take their cue from a steady boss.",
+        "km": "ការអត់ធ្មត់ និងភាពជាអ្នកដឹកនាំស្ងប់ស្ងាត់ អាចជួយក្រុមធ្វើការឆ្លងកាត់ការកកិត ដោយគ្មានរឿងរ៉ាវ។ បុគ្គលិក អាចយកគំរូពីចៅហ្វាយដែលនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Losing your temper with staff could damage trust that was hard to build. Handle tension in the team with patience and quiet firmness.",
+        "km": "ការខឹងសម្បារជាមួយបុគ្គលិក អាចធ្វើឱ្យខូចការទុកចិត្តដែលពិបាកកសាង។ សូមដោះស្រាយភាពតានតឹងក្នុងក្រុម ដោយការអត់ធ្មត់ និងភាពម៉ឺងម៉ាត់ស្ងប់ស្ងាត់។"
+      },
+      "outcome": {
+        "en": "Calm, patient leadership could build a team that feels safe to speak up and cooperate. Staff may copy the steadiness they see in how you handle pressure.",
+        "km": "ការដឹកនាំស្ងប់ស្ងាត់ និងអត់ធ្មត់ អាចកសាងក្រុមដែលមានអារម្មណ៍សុវត្ថិភាពក្នុងការនិយាយចេញ និងសហការ។ បុគ្គលិកអាចយកតម្រាប់ភាពនឹងនរ ដែលពួកគេឃើញក្នុងរបៀបដែលអ្នកដោះស្រាយសម្ពាធ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Stepping back to watch how the team really works could reveal what needs to change. Patterns may be easier to see from a little distance.",
+        "km": "ការដកថយដើម្បីមើលពីរបៀបដែលក្រុមពិតជាធ្វើការ អាចបង្ហាញពីអ្វីដែលត្រូវផ្លាស់ប្តូរ។ លំនាំ ប្រហែលជាងាយស្រួលមើលឃើញពីចម្ងាយបន្តិច។"
+      },
+      "challenge": {
+        "en": "Withdrawing too far from the team could leave people feeling unsupported. Take time to reflect, but stay approachable when staff need you.",
+        "km": "ការដកខ្លួនឆ្ងាយពេកពីក្រុម អាចធ្វើឱ្យមនុស្សមានអារម្មណ៍ថាមិនត្រូវបានគាំទ្រ។ សូមឆ្លៀតពេលពិចារណា ប៉ុន្តែនៅតែងាយជួបនៅពេលបុគ្គលិកត្រូវការអ្នក។"
+      },
+      "outcome": {
+        "en": "Thoughtful observation followed by action could improve how the team works. Changes based on what you have quietly noticed may be well received by staff.",
+        "km": "ការសង្កេតដោយយកចិត្តទុកដាក់ អមដោយសកម្មភាព អាចកែលម្អរបៀបដែលក្រុមធ្វើការ។ ការផ្លាស់ប្តូរដែលផ្អែកលើអ្វីដែលអ្នកបានកត់សម្គាល់ដោយស្ងៀមស្ងាត់ អាចត្រូវបានបុគ្គលិកទទួលយកបានល្អ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Changes in the team, such as new members, departures or shifting roles, may be reshaping how people work together. The old balance may be giving way to a new one.",
+        "km": "ការផ្លាស់ប្តូរក្នុងក្រុម ដូចជាសមាជិកថ្មី ការចាកចេញ ឬតួនាទីដែលកំពុងផ្លាស់ប្តូរ ប្រហែលជាកំពុងរៀបចំឡើងវិញពីរបៀបដែលមនុស្សធ្វើការជាមួយគ្នា។ តុល្យភាពចាស់ ប្រហែលជាកំពុងផ្តល់ផ្លូវឱ្យតុល្យភាពថ្មី។"
+      },
+      "challenge": {
+        "en": "Ignoring how change affects people could leave the team unsettled. Talk openly about what is shifting and why.",
+        "km": "ការមិនអើពើនឹងរបៀបដែលការផ្លាស់ប្តូរប៉ះពាល់ដល់មនុស្ស អាចធ្វើឱ្យក្រុមមិនស្ងប់។ សូមនិយាយដោយបើកចំហអំពីអ្វីដែលកំពុងផ្លាស់ប្តូរ និងហេតុអ្វី។"
+      },
+      "outcome": {
+        "en": "Guiding the team through change with honesty could make it stronger and more adaptable. A new mix may bring fresh energy.",
+        "km": "ការណែនាំក្រុមឆ្លងកាត់ការផ្លាស់ប្តូរដោយភាពស្មោះត្រង់ អាចធ្វើឱ្យវារឹងមាំ និងអាចសម្របខ្លួនបានជាងមុន។ ការលាយបញ្ចូលថ្មី អាចនាំមកនូវថាមពលថ្មី។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A sense of fairness, where workload, credit and pay feel balanced, could be the base of good teamwork. People cooperate when they feel treated evenly.",
+        "km": "អារម្មណ៍នៃយុត្តិធម៌ ដែលបន្ទុកការងារ ការទទួលស្គាល់ និងប្រាក់ឈ្នួលមានអារម្មណ៍មានតុល្យភាព អាចជាមូលដ្ឋាននៃការងារជាក្រុមល្អ។ មនុស្សសហការ នៅពេលពួកគេមានអារម្មណ៍ថាត្រូវបានប្រព្រឹត្តស្មើគ្នា។"
+      },
+      "challenge": {
+        "en": "Favouritism or uneven treatment, even if unintended, could quietly poison team spirit. Apply the same standards for praise and correction to everyone.",
+        "km": "ការលំអៀង ឬការប្រព្រឹត្តមិនស្មើគ្នា ទោះបីជាមិនមានចេតនាក៏ដោយ អាចបំពុលស្មារតីក្រុមដោយស្ងៀមស្ងាត់។ សូមអនុវត្តស្តង់ដារដូចគ្នាសម្រាប់ការសរសើរ និងការកែតម្រូវ ចំពោះអ្នករាល់គ្នា។"
+      },
+      "outcome": {
+        "en": "Fair, consistent treatment could build a team that trusts each other and the leader. Staff who feel treated equally may respect one another more.",
+        "km": "ការប្រព្រឹត្តដោយយុត្តិធម៌ និងស៊ីសង្វាក់ អាចកសាងក្រុមដែលទុកចិត្តគ្នា និងទុកចិត្តអ្នកដឹកនាំ។ បុគ្គលិកដែលមានអារម្មណ៍ថាត្រូវបានប្រព្រឹត្តស្មើគ្នា អាចគោរពគ្នាកាន់តែច្រើន។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Teamwork may feel stuck, with old patterns repeating and progress paused. Meetings may go round in the same circles.",
+        "km": "ការងារជាក្រុម ប្រហែលជាមានអារម្មណ៍ជាប់គាំង ដោយលំនាំចាស់ៗកើតឡើងម្តងទៀត ហើយការរីកចម្រើនផ្អាក។ ការប្រជុំ ប្រហែលជាវិលជុំវិញរង្វង់ដដែល។"
+      },
+      "challenge": {
+        "en": "Forcing the same approach harder when it is not working could deepen frustration. Try looking at the problem from staff's point of view.",
+        "km": "ការបង្ខំវិធីសាស្ត្រដដែលឱ្យខ្លាំងជាងមុន នៅពេលវាមិនដំណើរការ អាចធ្វើឱ្យការខកចិត្តកាន់តែជ្រៅ។ សូមសាកល្បងមើលបញ្ហាពីទស្សនៈរបស់បុគ្គលិក។"
+      },
+      "outcome": {
+        "en": "Seeing things from the team's angle could unlock new ways of working together. A small concession may ease the logjam.",
+        "km": "ការមើលអ្វីៗពីមុំរបស់ក្រុម អាចដោះសោវិធីថ្មីក្នុងការធ្វើការជាមួយគ្នា។ ការសម្របសម្រួលតូចមួយ អាចបន្ធូរភាពកកស្ទះ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "An old way of working, a difficult relationship or a team structure may be coming to an end. Clearing it away can lighten the mood.",
+        "km": "វិធីធ្វើការចាស់ ទំនាក់ទំនងលំបាក ឬរចនាសម្ព័ន្ធក្រុម ប្រហែលជាកំពុងបញ្ចប់។ ការសម្អាតវាចេញ អាចធ្វើឱ្យអារម្មណ៍ស្រាល។"
+      },
+      "challenge": {
+        "en": "Holding on to a team setup that clearly is not working could keep everyone stuck. Let what has run its course end.",
+        "km": "ការកាន់ខ្ជាប់ការរៀបចំក្រុមដែលច្បាស់ជាមិនដំណើរការ អាចរក្សាអ្នករាល់គ្នាឱ្យជាប់គាំង។ សូមឱ្យអ្វីដែលបានដល់ទីបញ្ចប់ បញ្ចប់។"
+      },
+      "outcome": {
+        "en": "A clean break from what was not working could make room for healthier teamwork. A renewed team structure may bring fresh trust between colleagues.",
+        "km": "ការផ្តាច់ចេញទាំងស្រុងពីអ្វីដែលមិនដំណើរការ អាចបើកកន្លែងសម្រាប់ការងារជាក្រុមដែលមានសុខភាពល្អជាងមុន។ រចនាសម្ព័ន្ធក្រុមដែលបានកែថ្មី អាចនាំមកនូវការទុកចិត្តថ្មីរវាងមិត្តរួមការងារ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "A balanced approach, mixing support with accountability, could be the right base for the team. People may respond well to a fair middle way.",
+        "km": "វិធីសាស្ត្រមានតុល្យភាព ដែលលាយបញ្ចូលការគាំទ្រជាមួយគណនេយ្យភាព អាចជាមូលដ្ឋានត្រឹមត្រូវសម្រាប់ក្រុម។ មនុស្ស អាចឆ្លើយតបបានល្អចំពោះផ្លូវកណ្តាលដែលយុត្តិធម៌។"
+      },
+      "challenge": {
+        "en": "Swinging between too soft and too strict could confuse staff about what is expected. Find a steady middle way in how you guide the team.",
+        "km": "ការប្តូរទៅមករវាងទន់ពេក និងតឹងរ៉ឹងពេក អាចធ្វើឱ្យបុគ្គលិកច្របូកច្របល់អំពីអ្វីដែលគេរំពឹង។ សូមរកផ្លូវកណ្តាលនឹងនរ ក្នុងរបៀបដែលអ្នកណែនាំក្រុម។"
+      },
+      "outcome": {
+        "en": "Steady, balanced leadership could help the team find a healthy working rhythm. People may relax when they know what to expect.",
+        "km": "ភាពជាអ្នកដឹកនាំនឹងនរ និងមានតុល្យភាព អាចជួយក្រុមរកចង្វាក់ការងារដែលមានសុខភាពល្អ។ មនុស្ស អាចសម្រាក នៅពេលពួកគេដឹងពីអ្វីដែលត្រូវរំពឹង។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Unhealthy patterns, such as gossip, blame or fear, may be binding the team. Staff may be guarding themselves instead of helping each other.",
+        "km": "លំនាំដែលមិនមានសុខភាពល្អ ដូចជាការនិយាយដើម ការស្តីបន្ទោស ឬការភ័យខ្លាច ប្រហែលជាកំពុងចងក្រុម។ បុគ្គលិក ប្រហែលជាកំពុងការពារខ្លួនឯង ជំនួសឱ្យការជួយគ្នាទៅវិញទៅមក។"
+      },
+      "challenge": {
+        "en": "Leading through fear or control could get compliance but not cooperation. Build trust so staff work together by choice rather than dependence.",
+        "km": "ការដឹកនាំតាមរយៈការភ័យខ្លាច ឬការគ្រប់គ្រង អាចទទួលបានការគោរពតាម ប៉ុន្តែមិនមែនកិច្ចសហការទេ។ សូមកសាងការទុកចិត្ត ដើម្បីឱ្យបុគ្គលិកធ្វើការជាមួយគ្នាដោយជម្រើស ជាជាងការពឹងផ្អែក។"
+      },
+      "outcome": {
+        "en": "Breaking unhealthy patterns could free the team to work openly and well. People released from fear may start sharing ideas.",
+        "km": "ការបំបែកលំនាំដែលមិនមានសុខភាពល្អ អាចដោះលែងក្រុមឱ្យធ្វើការដោយបើកចំហ និងបានល្អ។ មនុស្សដែលត្រូវបានដោះលែងពីការភ័យខ្លាច អាចចាប់ផ្តើមចែករំលែកគំនិត។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A shake-up, such as a conflict, resignation or crisis, may have disrupted the team. The way people worked together may have cracked open.",
+        "km": "ការរង្គោះរង្គើ ដូចជាជម្លោះ ការលាលែង ឬវិបត្តិ ប្រហែលជាបានរំខានក្រុម។ របៀបដែលមនុស្សធ្វើការជាមួយគ្នា ប្រហែលជាបានប្រេះបើក។"
+      },
+      "challenge": {
+        "en": "Rushing to restore things exactly as before could miss a chance to fix what was wrong. Use the upheaval to rebuild roles and routines on a better footing.",
+        "km": "ការប្រញាប់ស្តារអ្វីៗឱ្យដូចមុនទាំងស្រុង អាចខកខានឱកាសជួសជុលអ្វីដែលខុស។ សូមប្រើភាពចលាចលនេះ ដើម្បីកសាងតួនាទី និងទម្លាប់ឡើងវិញលើមូលដ្ឋានល្អជាងមុន។"
+      },
+      "outcome": {
+        "en": "Rebuilding after a shake-up could create a stronger, more honest team. Disruption may clear the way for real trust.",
+        "km": "ការកសាងឡើងវិញ បន្ទាប់ពីការរង្គោះរង្គើ អាចបង្កើតក្រុមរឹងមាំ និងស្មោះត្រង់ជាងមុន។ ការរំខាន អាចបើកផ្លូវសម្រាប់ការទុកចិត្តពិតប្រាកដ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Renewed hope and shared optimism could lift the team after a hard stretch. People may be ready to believe in the place again.",
+        "km": "ក្តីសង្ឃឹមថ្មី និងសុទិដ្ឋិនិយមរួមគ្នា អាចលើកក្រុម បន្ទាប់ពីដំណាក់កាលលំបាក។ មនុស្ស ប្រហែលជាត្រៀមខ្លួនជឿលើកន្លែងនេះម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Hoping things will improve without changing how the team works could lead to disappointment. Pair your optimism with one practical step the team can take together.",
+        "km": "ការសង្ឃឹមថាអ្វីៗនឹងប្រសើរឡើង ដោយមិនផ្លាស់ប្តូររបៀបដែលក្រុមធ្វើការ អាចនាំឱ្យខកចិត្ត។ សូមភ្ជាប់សុទិដ្ឋិនិយមរបស់អ្នក ជាមួយជំហានជាក់ស្តែងមួយដែលក្រុមអាចធ្វើជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "A hopeful team with clear steps could heal and grow together. A shared sense of purpose may inspire staff to support one another.",
+        "km": "ក្រុមដែលមានក្តីសង្ឃឹម និងជំហានច្បាស់លាស់ អាចជាសះស្បើយ និងរីកចម្រើនជាមួយគ្នា។ អារម្មណ៍រួមនៃគោលបំណង អាចបំផុសគំនិតបុគ្គលិកឱ្យគាំទ្រគ្នាទៅវិញទៅមក។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Confusion or mistrust may be clouding how the team works, with unclear roles or mixed messages. People may not know who is responsible for what.",
+        "km": "ភាពច្របូកច្របល់ ឬការមិនទុកចិត្ត ប្រហែលជាកំពុងធ្វើឱ្យរបៀបដែលក្រុមធ្វើការស្រអាប់ ដោយតួនាទីមិនច្បាស់ ឬសារចម្រុះ។ មនុស្ស ប្រហែលជាមិនដឹងថាអ្នកណាទទួលខុសត្រូវចំពោះអ្វី។"
+      },
+      "challenge": {
+        "en": "Letting rumours fill the gaps could breed suspicion. Share news with the team clearly and regularly.",
+        "km": "ការទុកឱ្យពាក្យចចាមអារ៉ាមបំពេញចន្លោះ អាចបង្កើតការសង្ស័យ។ សូមចែករំលែកព័ត៌មានជាមួយក្រុមឱ្យច្បាស់ និងទៀងទាត់។"
+      },
+      "outcome": {
+        "en": "Clear, honest communication could dispel confusion and rebuild trust across the team. Knowing who does what may bring people together.",
+        "km": "ការប្រាស្រ័យទាក់ទងច្បាស់លាស់ និងស្មោះត្រង់ អាចបំបាត់ភាពច្របូកច្របល់ ហើយកសាងការទុកចិត្តឡើងវិញទូទាំងក្រុម។ ការដឹងថាអ្នកណាធ្វើអ្វី អាចនាំមនុស្សមកជាមួយគ្នា។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Success and good morale may already be lifting the team, with people enjoying working together. Shared laughter and pride in results could be real assets.",
+        "km": "ភាពជោគជ័យ និងទឹកចិត្តល្អ ប្រហែលជាកំពុងលើកស្ទួយក្រុមរួចហើយ ដោយមនុស្សរីករាយធ្វើការជាមួយគ្នា។ សំណើចរួមគ្នា និងមោទនភាពចំពោះលទ្ធផល អាចជាទ្រព្យសម្បត្តិពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Taking good team spirit for granted could let it fade. Keep recognising effort and celebrating wins with the whole team.",
+        "km": "ការចាត់ទុកស្មារតីក្រុមល្អថាជារឿងធម្មតា អាចធ្វើឱ្យវារសាត់បាត់។ សូមបន្តទទួលស្គាល់ការខិតខំ និងអបអរជ័យជម្នះជាមួយក្រុមទាំងមូល។"
+      },
+      "outcome": {
+        "en": "Nurturing good morale could keep the team warm, productive and loyal. Celebrating shared success may build bonds between colleagues that last.",
+        "km": "ការថែរក្សាទឹកចិត្តល្អ អាចរក្សាក្រុមឱ្យកក់ក្តៅ មានផលិតភាព និងស្មោះត្រង់។ ការអបអរភាពជោគជ័យរួមគ្នា អាចកសាងចំណងរវាងមិត្តរួមការងារដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "An honest look at how the team has worked, including past mistakes, could point the way forward. Old disagreements may hold useful lessons about roles and communication.",
+        "km": "ការមើលដោយស្មោះត្រង់ពីរបៀបដែលក្រុមបានធ្វើការ រួមទាំងកំហុសកន្លងមក អាចបង្ហាញផ្លូវទៅមុខ។ ការខ្វែងគំនិតចាស់ៗ អាចមានមេរៀនមានប្រយោជន៍អំពីតួនាទី និងការទំនាក់ទំនង។"
+      },
+      "challenge": {
+        "en": "Blaming individuals for team problems could hide the real causes. Look at systems as well as people.",
+        "km": "ការស្តីបន្ទោសបុគ្គលចំពោះបញ្ហាក្រុម អាចលាក់មូលហេតុពិតប្រាកដ។ សូមមើលប្រព័ន្ធ ក៏ដូចជាមនុស្ស។"
+      },
+      "outcome": {
+        "en": "Learning together from the past could create a fresh, more united team. Reviewing what went wrong without blame may rebuild trust between staff.",
+        "km": "ការរៀនជាមួយគ្នាពីអតីតកាល អាចបង្កើតក្រុមថ្មី និងរួបរួមជាងមុន។ ការពិនិត្យឡើងវិញពីអ្វីដែលខុស ដោយគ្មានការបន្ទោស អាចកសាងការទុកចិត្តរវាងបុគ្គលិកឡើងវិញ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "The team may have completed a major project or goal together, with a sense of shared accomplishment. People may feel proud of what they built.",
+        "km": "ក្រុមប្រហែលជាបានបញ្ចប់គម្រោង ឬគោលដៅធំមួយជាមួយគ្នា ដោយមានអារម្មណ៍នៃសមិទ្ធផលរួមគ្នា។ មនុស្ស ប្រហែលជាមានមោទនភាពលើអ្វីដែលពួកគេបានកសាង។"
+      },
+      "challenge": {
+        "en": "Moving straight to the next task without marking the achievement could leave people feeling unappreciated. Thank the team and celebrate together before taking on new work.",
+        "km": "ការផ្លាស់ទៅកិច្ចការបន្ទាប់ភ្លាម ដោយមិនអបអរសមិទ្ធផល អាចធ្វើឱ្យមនុស្សមានអារម្មណ៍ថាមិនត្រូវបានគេកោតសរសើរ។ សូមអរគុណក្រុម និងអបអរជាមួយគ្នា មុននឹងទទួលការងារថ្មី។"
+      },
+      "outcome": {
+        "en": "Recognising shared success could strengthen the team for the next challenge. A completed cycle may lead to a stronger one.",
+        "km": "ការទទួលស្គាល់ភាពជោគជ័យរួមគ្នា អាចពង្រឹងក្រុមសម្រាប់បញ្ហាប្រឈមបន្ទាប់។ វដ្តដែលបានបញ្ចប់ អាចនាំទៅរកវដ្តរឹងមាំជាងមុន។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A fresh project could give your staff something exciting to rally around together. Inviting everyone to add ideas may spark energy that routine tasks rarely do.",
+        "km": "គម្រោងថ្មីមួយ អាចផ្តល់ឱ្យបុគ្គលិករបស់អ្នកនូវអ្វីដែលគួរឱ្យរំភើប ដើម្បីរួបរួមគ្នា។ ការអញ្ជើញអ្នករាល់គ្នាឱ្យបន្ថែមគំនិត អាចបញ្ឆេះថាមពលដែលកិច្ចការទម្លាប់កម្រផ្តល់ឱ្យ។"
+      },
+      "challenge": {
+        "en": "Launching new ideas without involving the team could leave people uninterested and slow to help. Let staff shape the idea from the very first conversation.",
+        "km": "ការដាក់ចេញគំនិតថ្មី ដោយមិនរួមបញ្ចូលក្រុម អាចធ្វើឱ្យមនុស្សមិនចាប់អារម្មណ៍ និងយឺតក្នុងការជួយ។ សូមឱ្យបុគ្គលិកជួយរៀបចំគំនិតនោះ តាំងពីការពិភាក្សាដំបូងបំផុត។"
+      },
+      "outcome": {
+        "en": "A project the whole team helps to design could ignite real shared enthusiasm. People who feel they own an idea may work hard together to make it succeed.",
+        "km": "គម្រោងដែលក្រុមទាំងមូលជួយរចនា អាចបញ្ឆេះភាពរំភើបរួមគ្នាពិតប្រាកដ។ មនុស្សដែលមានអារម្មណ៍ថាខ្លួនជាម្ចាស់គំនិតមួយ អាចខិតខំធ្វើការជាមួយគ្នា ដើម្បីធ្វើឱ្យវាជោគជ័យ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Planning the team's direction together, with each person adding ideas, could be a strong base. A plan that staff help draw may feel like theirs rather than yours alone.",
+        "km": "ការរៀបចំទិសដៅរបស់ក្រុមជាមួយគ្នា ដោយម្នាក់ៗបន្ថែមគំនិត អាចជាមូលដ្ឋានរឹងមាំ។ ផែនការដែលបុគ្គលិកជួយគូរ អាចមានអារម្មណ៍ថាជារបស់ពួកគេ មិនមែនតែរបស់អ្នកម្នាក់ឯងទេ។"
+      },
+      "challenge": {
+        "en": "Making plans alone and simply announcing them could leave staff feeling shut out of decisions. Ask the people who will do the work for their input before deciding.",
+        "km": "ការធ្វើផែនការតែម្នាក់ឯង ហើយគ្រាន់តែប្រកាសវា អាចធ្វើឱ្យបុគ្គលិកមានអារម្មណ៍ថាត្រូវបានដកចេញពីការសម្រេចចិត្ត។ សូមសុំមតិពីអ្នកដែលនឹងធ្វើការងារនោះ មុនពេលសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "A plan built with the team could earn genuine commitment instead of quiet compliance. A direction everyone understands may carry the whole group further than orders could.",
+        "km": "ផែនការដែលកសាងជាមួយក្រុម អាចទទួលបានការប្តេជ្ញាចិត្តពិតប្រាកដ ជំនួសឱ្យការធ្វើតាមដោយស្ងៀមស្ងាត់។ ទិសដៅដែលអ្នករាល់គ្នាយល់ អាចនាំក្រុមទាំងមូលទៅឆ្ងាយជាងបញ្ជា។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "A recent shared success could show the team what it can achieve when people pull together. Building on that example may encourage more members to cooperate across roles.",
+        "km": "ភាពជោគជ័យរួមគ្នាមួយ អាចបង្ហាញក្រុមពីអ្វីដែលខ្លួនអាចសម្រេចបាន នៅពេលមនុស្សរួមកម្លាំងគ្នា។ ការកសាងលើគំរូនោះ អាចលើកទឹកចិត្តសមាជិកកាន់តែច្រើន ឱ្យសហការឆ្លងតួនាទី។"
+      },
+      "challenge": {
+        "en": "Expanding the team's workload too fast after one good result could stretch people thin. Grow responsibilities step by step so cooperation has room to settle.",
+        "km": "ការពង្រីកបន្ទុកការងាររបស់ក្រុមលឿនពេក បន្ទាប់ពីលទ្ធផលល្អមួយ អាចធ្វើឱ្យមនុស្សហត់នឿយ។ សូមបង្កើនការទទួលខុសត្រូវមួយជំហានម្តងៗ ដើម្បីឱ្យកិច្ចសហការមានពេលចូលរបៀប។"
+      },
+      "outcome": {
+        "en": "Looking ahead together could help the team see where its combined skills might lead. A shared sense of where the business is going may make each role feel connected.",
+        "km": "ការមើលទៅមុខជាមួយគ្នា អាចជួយក្រុមឱ្យឃើញថាជំនាញរួមរបស់ខ្លួនអាចនាំទៅណា។ ការយល់ដឹងរួមថាអាជីវកម្មកំពុងទៅណា អាចធ្វើឱ្យតួនាទីនីមួយៗមានអារម្មណ៍ថាភ្ជាប់គ្នា។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "There may already be a warm, welcoming feeling among your staff that gives you a good base. Small gatherings or shared meals could strengthen that sense of belonging.",
+        "km": "ប្រហែលជាមានអារម្មណ៍កក់ក្តៅ និងស្វាគមន៍រួចហើយ ក្នុងចំណោមបុគ្គលិករបស់អ្នក ដែលផ្តល់មូលដ្ឋានល្អ។ ការជួបជុំតូចៗ ឬអាហាររួមគ្នា អាចពង្រឹងអារម្មណ៍ជាផ្នែកមួយនៃក្រុមនោះ។"
+      },
+      "challenge": {
+        "en": "Celebrating only some people could make others on the team feel left out. Make sure recognition and invitations reach everyone, including quieter or newer staff.",
+        "km": "ការអបអរតែមនុស្សមួយចំនួន អាចធ្វើឱ្យអ្នកផ្សេងទៀតក្នុងក្រុមមានអារម្មណ៍ថាត្រូវបានទុកចោល។ សូមប្រាកដថាការទទួលស្គាល់ និងការអញ្ជើញទៅដល់អ្នករាល់គ្នា រួមទាំងបុគ្គលិកស្ងាត់ៗ ឬថ្មីៗ។"
+      },
+      "outcome": {
+        "en": "Marking milestones together could make the workplace feel like a place people are glad to belong. A team that celebrates as one may also handle pressure as one.",
+        "km": "ការអបអរព្រឹត្តិការណ៍សំខាន់ៗជាមួយគ្នា អាចធ្វើឱ្យកន្លែងធ្វើការក្លាយជាកន្លែងដែលមនុស្សរីករាយចូលរួម។ ក្រុមដែលអបអររួមគ្នា ក៏អាចដោះស្រាយសម្ពាធរួមគ្នាដែរ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "There may be rivalry or friction between team members, with people competing rather than cooperating. Some of that energy could be turned toward shared goals instead.",
+        "km": "ប្រហែលជាមានការប្រកួតប្រជែង ឬការកកិតរវាងសមាជិកក្រុម ដោយមនុស្សប្រកួតគ្នាជាជាងសហការ។ ថាមពលខ្លះនោះ អាចបង្វែរទៅរកគោលដៅរួមវិញ។"
+      },
+      "challenge": {
+        "en": "Letting disagreements between staff turn personal could split the team into camps. Bring disputes into the open and focus the talk on the work, not on people.",
+        "km": "ការបណ្តោយឱ្យការខ្វែងគំនិតរវាងបុគ្គលិក ក្លាយជារឿងផ្ទាល់ខ្លួន អាចបំបែកក្រុមជាក្រុមតូចៗ។ សូមនាំជម្លោះមកនិយាយដោយចំហ ហើយផ្តោតការពិភាក្សាលើការងារ មិនមែនលើមនុស្សទេ។"
+      },
+      "outcome": {
+        "en": "Channelling healthy competition into team targets could turn rivalry into motivation. People who once argued may find they push each other to do better work.",
+        "km": "ការបង្វែរការប្រកួតប្រជែងដែលមានសុខភាពល្អ ទៅរកគោលដៅក្រុម អាចប្តូរការប្រជែងទៅជាកម្លាំងចិត្ត។ មនុស្សដែលធ្លាប់ឈ្លោះគ្នា អាចរកឃើញថាពួកគេជំរុញគ្នាឱ្យធ្វើការងារបានល្អជាងមុន។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "The team may have earned recognition for good work, giving people a reason to feel proud together. Sharing credit widely could build on that goodwill.",
+        "km": "ក្រុមប្រហែលជាទទួលបានការទទួលស្គាល់ចំពោះការងារល្អ ដែលផ្តល់ហេតុផលឱ្យមនុស្សមានមោទនភាពរួមគ្នា។ ការចែករំលែកកិត្តិយសឱ្យបានទូលំទូលាយ អាចកសាងលើឆន្ទៈល្អនោះ។"
+      },
+      "challenge": {
+        "en": "Praising one star while overlooking the people who supported them could breed resentment. Name everyone who contributed when you thank the team for a result.",
+        "km": "ការសរសើរមនុស្សពូកែម្នាក់ ខណៈមើលរំលងអ្នកដែលគាំទ្រពួកគេ អាចបង្កការអាក់អន់ចិត្ត។ សូមដាក់ឈ្មោះអ្នករាល់គ្នាដែលបានរួមចំណែក នៅពេលអ្នកអរគុណក្រុមចំពោះលទ្ធផលមួយ។"
+      },
+      "outcome": {
+        "en": "Fair, public recognition could lift morale and show staff that teamwork is noticed. People who feel seen may be more willing to help each other succeed.",
+        "km": "ការទទួលស្គាល់ដោយយុត្តិធម៌ និងជាសាធារណៈ អាចលើកទឹកចិត្ត និងបង្ហាញបុគ្គលិកថាការងារជាក្រុមត្រូវបានគេកត់សម្គាល់។ មនុស្សដែលមានអារម្មណ៍ថាត្រូវបានគេមើលឃើញ អាចមានឆន្ទៈជួយគ្នាឱ្យជោគជ័យកាន់តែច្រើន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may be defending the team from outside pressure, such as demanding customers or tight targets. Standing up for your staff could earn their loyalty and trust.",
+        "km": "អ្នកប្រហែលជាកំពុងការពារក្រុមពីសម្ពាធខាងក្រៅ ដូចជាអតិថិជនដែលទាមទារខ្លាំង ឬគោលដៅតឹងតែង។ ការក្រោកឈរការពារបុគ្គលិករបស់អ្នក អាចទទួលបានភាពស្មោះត្រង់ និងការទុកចិត្តពីពួកគេ។"
+      },
+      "challenge": {
+        "en": "Feeling that you must defend every decision could make you resist useful feedback from staff. Listen to criticism of how the team works before arguing back.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវការពាររាល់ការសម្រេចចិត្ត អាចធ្វើឱ្យអ្នកបដិសេធមតិមានប្រយោជន៍ពីបុគ្គលិក។ សូមស្តាប់ការរិះគន់អំពីរបៀបដែលក្រុមធ្វើការ មុននឹងតបតវិញ។"
+      },
+      "outcome": {
+        "en": "Holding firm on the values that matter while staying open on details could steady the team. Staff may trust a leader who protects them and still listens.",
+        "km": "ការប្រកាន់ខ្ជាប់គុណតម្លៃដែលសំខាន់ ខណៈនៅតែបើកចំហលើព័ត៌មានលម្អិត អាចធ្វើឱ្យក្រុមមានស្ថិរភាព។ បុគ្គលិកអាចទុកចិត្តលើអ្នកដឹកនាំដែលការពារពួកគេ ហើយនៅតែស្តាប់។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Messages and tasks may be moving quickly through the team, with plenty of activity and energy. Clear channels for updates could keep everyone pointed the same way.",
+        "km": "សារ និងកិច្ចការប្រហែលជាកំពុងផ្លាស់ទីយ៉ាងរហ័សក្នុងក្រុម ជាមួយនឹងសកម្មភាព និងថាមពលច្រើន។ បណ្តាញច្បាស់លាស់សម្រាប់ព័ត៌មានថ្មីៗ អាចរក្សាអ្នករាល់គ្នាឱ្យឆ្ពោះទៅទិសតែមួយ។"
+      },
+      "challenge": {
+        "en": "Rushing instructions out without checking they were understood could cause mistakes and blame. Confirm who is doing what before the team races ahead.",
+        "km": "ការប្រញាប់បញ្ចេញការណែនាំ ដោយមិនពិនិត្យថាគេយល់ឬអត់ អាចបង្កកំហុស និងការបន្ទោសគ្នា។ សូមបញ្ជាក់ថាអ្នកណាធ្វើអ្វី មុនពេលក្រុមប្រញាប់ទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Fast, clear communication could help the team move together instead of tripping over each other. Brief regular check-ins may keep work flowing smoothly between roles.",
+        "km": "ការទំនាក់ទំនងរហ័ស និងច្បាស់លាស់ អាចជួយក្រុមឱ្យផ្លាស់ទីជាមួយគ្នា ជំនួសឱ្យការជំពប់ដួលលើគ្នាទៅវិញទៅមក។ ការជួបពិនិត្យខ្លីៗជាប្រចាំ អាចរក្សាលំហូរការងាររវាងតួនាទីឱ្យរលូន។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "The team may be tired after a demanding stretch, still holding on but running low on energy. Acknowledging the effort people have made could restore some strength.",
+        "km": "ក្រុមប្រហែលជាហត់នឿយ បន្ទាប់ពីការងារលំបាកមួយរយៈ នៅតែតស៊ូ ប៉ុន្តែថាមពលកំពុងអស់។ ការទទួលស្គាល់ការខិតខំដែលមនុស្សបានធ្វើ អាចស្តារកម្លាំងខ្លះឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Wariness after past conflicts could make staff guarded with one another. Rebuild trust with small, honest steps rather than expecting everyone to open up at once.",
+        "km": "ការប្រុងប្រយ័ត្នបន្ទាប់ពីជម្លោះកន្លងមក អាចធ្វើឱ្យបុគ្គលិករក្សាចម្ងាយពីគ្នា។ សូមកសាងការទុកចិត្តឡើងវិញ ដោយជំហានតូចៗ និងស្មោះត្រង់ ជាជាងរំពឹងថាអ្នករាល់គ្នាបើកចិត្តភ្លាមៗ។"
+      },
+      "outcome": {
+        "en": "Supporting a weary team through the last stretch of a hard project could deepen its bond. People who come through difficulty together may trust each other more.",
+        "km": "ការគាំទ្រក្រុមដែលហត់នឿយ ឆ្លងកាត់ដំណាក់កាលចុងក្រោយនៃគម្រោងលំបាក អាចពង្រឹងចំណងរបស់ក្រុម។ មនុស្សដែលឆ្លងកាត់ការលំបាកជាមួយគ្នា អាចទុកចិត្តគ្នាកាន់តែខ្លាំង។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "A few people may be carrying far more than their share of the workload. Spreading tasks more evenly could ease the strain and the quiet resentment it brings.",
+        "km": "មនុស្សពីរបីនាក់ប្រហែលជាកំពុងទទួលបន្ទុកការងារច្រើនជាងចំណែករបស់ខ្លួនឆ្ងាយ។ ការចែកកិច្ចការឱ្យស្មើជាងមុន អាចបន្ធូរសម្ពាធ និងការអាក់អន់ចិត្តស្ងាត់ៗដែលវានាំមក។"
+      },
+      "challenge": {
+        "en": "Holding on to every task yourself could exhaust you and leave staff feeling untrusted. Delegate real responsibility, not only small jobs, to people who are ready.",
+        "km": "ការកាន់កិច្ចការទាំងអស់ដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកហត់នឿយ ហើយធ្វើឱ្យបុគ្គលិកមានអារម្មណ៍ថាមិនត្រូវបានទុកចិត្ត។ សូមប្រគល់ការទទួលខុសត្រូវពិតប្រាកដ មិនមែនតែការងារតូចៗទេ ទៅអ្នកដែលត្រៀមខ្លួន។"
+      },
+      "outcome": {
+        "en": "Sharing the load fairly could free you to lead while staff grow in their roles. A team where everyone carries something may feel stronger and less strained.",
+        "km": "ការចែករំលែកបន្ទុកដោយយុត្តិធម៌ អាចផ្តល់សេរីភាពឱ្យអ្នកដឹកនាំ ខណៈបុគ្គលិករីកចម្រើនក្នុងតួនាទីរបស់ពួកគេ។ ក្រុមដែលអ្នករាល់គ្នាទទួលបន្ទុកខ្លះ អាចមានអារម្មណ៍រឹងមាំជាង និងតានតឹងតិចជាង។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "A newer or younger team member may bring curiosity and fresh ideas to how things are done. Giving their enthusiasm room to grow could lift the whole group.",
+        "km": "សមាជិកក្រុមថ្មី ឬក្មេងជាងគេម្នាក់ ប្រហែលជានាំមកនូវការចង់ដឹង និងគំនិតថ្មីៗ អំពីរបៀបធ្វើការ។ ការផ្តល់កន្លែងឱ្យភាពរំភើបរបស់ពួកគេរីកចម្រើន អាចលើកស្ទួយក្រុមទាំងមូល។"
+      },
+      "challenge": {
+        "en": "Dismissing new ideas because they come from inexperienced staff could dampen everyone's willingness to speak up. Hear suggestions out before judging who made them.",
+        "km": "ការបដិសេធគំនិតថ្មី ដោយសារវាមកពីបុគ្គលិកដែលគ្មានបទពិសោធន៍ អាចធ្វើឱ្យឆន្ទៈនិយាយចេញរបស់អ្នករាល់គ្នាធ្លាក់ចុះ។ សូមស្តាប់សំណើឱ្យចប់ មុនពេលវិនិច្ឆ័យអ្នកដែលលើកវាឡើង។"
+      },
+      "outcome": {
+        "en": "Pairing eager newcomers with experienced staff could spread both energy and know-how. A team that learns from every level may grow closer and more capable.",
+        "km": "ការផ្គូផ្គងអ្នកថ្មីដែលស្វាហាប់ ជាមួយបុគ្គលិកដែលមានបទពិសោធន៍ អាចផ្សព្វផ្សាយទាំងថាមពល និងចំណេះដឹង។ ក្រុមដែលរៀនពីគ្រប់កម្រិត អាចកាន់តែស្និទ្ធស្នាល និងមានសមត្ថភាពជាងមុន។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "There may be a lot of energy and drive in the team, with people eager to act fast. Pointing that drive at shared goals could keep it from scattering.",
+        "km": "ប្រហែលជាមានថាមពល និងការតាំងចិត្តច្រើនក្នុងក្រុម ដោយមនុស្សចង់ធ្វើសកម្មភាពលឿន។ ការតម្រង់ការតាំងចិត្តនោះទៅរកគោលដៅរួម អាចការពារវាកុំឱ្យខ្ចាត់ខ្ចាយ។"
+      },
+      "challenge": {
+        "en": "Charging ahead with changes before the team is on board could leave people confused or resentful. Explain the reason for a change and give staff a chance to respond.",
+        "km": "ការប្រញាប់ធ្វើការផ្លាស់ប្តូរ មុនពេលក្រុមយល់ព្រម អាចធ្វើឱ្យមនុស្សច្របូកច្របល់ ឬអាក់អន់ចិត្ត។ សូមពន្យល់ហេតុផលនៃការផ្លាស់ប្តូរ ហើយផ្តល់ឱកាសឱ្យបុគ្គលិកឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "Bold energy that brings the team along could get projects moving and keep morale high. People may follow a leader whose enthusiasm includes them rather than outruns them.",
+        "km": "ថាមពលក្លាហានដែលនាំក្រុមទៅជាមួយ អាចធ្វើឱ្យគម្រោងចាប់ផ្តើមដំណើរការ និងរក្សាទឹកចិត្តឱ្យខ្ពស់។ មនុស្សអាចដើរតាមអ្នកដឹកនាំដែលភាពរំភើបរបស់គាត់រួមបញ្ចូលពួកគេ ជាជាងរត់ទុកពួកគេចោល។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your warmth and confidence may already set a positive tone that staff respond to. Showing that same openness in meetings could encourage people to share ideas freely.",
+        "km": "ភាពកក់ក្តៅ និងទំនុកចិត្តរបស់អ្នក ប្រហែលជាបង្កើតបរិយាកាសវិជ្ជមានរួចហើយ ដែលបុគ្គលិកឆ្លើយតប។ ការបង្ហាញភាពបើកចំហដូចគ្នានោះក្នុងកិច្ចប្រជុំ អាចលើកទឹកចិត្តមនុស្សឱ្យចែករំលែកគំនិតដោយសេរី។"
+      },
+      "challenge": {
+        "en": "Being so confident that you dominate every discussion could quieten the people around you. Leave space in meetings for others to lead the conversation.",
+        "km": "ការមានទំនុកចិត្តខ្លាំងពេក រហូតគ្រប់គ្រងរាល់ការពិភាក្សា អាចធ្វើឱ្យមនុស្សជុំវិញអ្នកស្ងាត់។ សូមទុកកន្លែងក្នុងកិច្ចប្រជុំ ឱ្យអ្នកផ្សេងដឹកនាំការសន្ទនា។"
+      },
+      "outcome": {
+        "en": "A confident, encouraging presence could help each team member believe in their own contribution. Staff who feel trusted may step up and support one another more.",
+        "km": "វត្តមានដែលមានទំនុកចិត្ត និងលើកទឹកចិត្ត អាចជួយសមាជិកក្រុមម្នាក់ៗឱ្យជឿលើការរួមចំណែករបស់ខ្លួន។ បុគ្គលិកដែលមានអារម្មណ៍ថាត្រូវបានទុកចិត្ត អាចបោះជំហានឡើង និងគាំទ្រគ្នាកាន់តែច្រើន។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You may have a clear vision for the business that could inspire your staff if shared. Explaining where you are heading could give everyone a reason to work together.",
+        "km": "អ្នកប្រហែលជាមានចក្ខុវិស័យច្បាស់លាស់សម្រាប់អាជីវកម្ម ដែលអាចបំផុសគំនិតបុគ្គលិក ប្រសិនបើចែករំលែក។ ការពន្យល់ថាអ្នកកំពុងឆ្ពោះទៅណា អាចផ្តល់ហេតុផលឱ្យអ្នករាល់គ្នាធ្វើការជាមួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Keeping the big picture in your own head could leave staff working hard without knowing why. Share the vision often and show how each role fits into it.",
+        "km": "ការរក្សារូបភាពធំនៅក្នុងក្បាលរបស់អ្នកតែម្នាក់ឯង អាចធ្វើឱ្យបុគ្គលិកខិតខំធ្វើការ ដោយមិនដឹងពីមូលហេតុ។ សូមចែករំលែកចក្ខុវិស័យឱ្យបានញឹកញាប់ ហើយបង្ហាញថាតួនាទីនីមួយៗសមនឹងវាយ៉ាងដូចម្តេច។"
+      },
+      "outcome": {
+        "en": "Leading with a vision that staff understand could unite the team behind common goals. People may cooperate more readily when they see what their work is building.",
+        "km": "ការដឹកនាំដោយចក្ខុវិស័យដែលបុគ្គលិកយល់ អាចរួបរួមក្រុមនៅពីក្រោយគោលដៅរួម។ មនុស្សអាចសហការបានងាយជាង នៅពេលពួកគេឃើញថាការងាររបស់ពួកគេកំពុងកសាងអ្វី។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "There may be fresh goodwill in the team, an opening for kinder and more open working relationships. A small gesture of care could set a warmer tone.",
+        "km": "ប្រហែលជាមានឆន្ទៈល្អថ្មីក្នុងក្រុម ដែលជាឱកាសសម្រាប់ទំនាក់ទំនងការងារកាន់តែសប្បុរស និងបើកចំហ។ កាយវិការយកចិត្តទុកដាក់តូចមួយ អាចបង្កើតបរិយាកាសកក់ក្តៅជាងមុន។"
+      },
+      "challenge": {
+        "en": "Treating staff only as roles to fill could leave their feelings about the work unheard. Ask people how they are coping, and listen to the answer.",
+        "km": "ការចាត់ទុកបុគ្គលិកត្រឹមតែជាតួនាទីដែលត្រូវបំពេញ អាចធ្វើឱ្យអារម្មណ៍របស់ពួកគេចំពោះការងារមិនត្រូវបានគេស្តាប់។ សូមសួរមនុស្សថាពួកគេកំពុងទប់ទល់យ៉ាងដូចម្តេច ហើយស្តាប់ចម្លើយ។"
+      },
+      "outcome": {
+        "en": "Genuine care shown to staff could open the door to a more trusting, cooperative team. People who feel valued may give more of themselves to shared work.",
+        "km": "ការយកចិត្តទុកដាក់ពិតប្រាកដចំពោះបុគ្គលិក អាចបើកទ្វារទៅរកក្រុមដែលទុកចិត្តគ្នា និងសហការគ្នាកាន់តែច្រើន។ មនុស្សដែលមានអារម្មណ៍ថាត្រូវបានគេឱ្យតម្លៃ អាចលះបង់ខ្លួនកាន់តែច្រើនសម្រាប់ការងាររួម។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Two people in the team may work especially well together, showing what good partnership looks like. Pairing staff thoughtfully could spread that kind of trust.",
+        "km": "មនុស្សពីរនាក់ក្នុងក្រុម ប្រហែលជាធ្វើការជាមួយគ្នាបានល្អជាពិសេស ដែលបង្ហាញពីភាពជាដៃគូល្អ។ ការផ្គូផ្គងបុគ្គលិកដោយគិតគូរ អាចផ្សព្វផ្សាយការទុកចិត្តបែបនោះ។"
+      },
+      "challenge": {
+        "en": "A strained relationship between two key people could ripple through the whole team. Help them talk directly and agree on how they will work together.",
+        "km": "ទំនាក់ទំនងតានតឹងរវាងមនុស្សសំខាន់ពីរនាក់ អាចរាលដាលពេញក្រុមទាំងមូល។ សូមជួយពួកគេឱ្យនិយាយផ្ទាល់ ហើយព្រមព្រៀងគ្នាអំពីរបៀបដែលពួកគេនឹងធ្វើការជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "Building strong working pairs could create links of trust that hold the wider team together. Mutual respect between colleagues may make cooperation feel natural.",
+        "km": "ការកសាងគូការងាររឹងមាំ អាចបង្កើតខ្សែភ្ជាប់នៃការទុកចិត្ត ដែលចងក្រុមទាំងមូលឱ្យនៅជាមួយគ្នា។ ការគោរពគ្នាទៅវិញទៅមករវាងមិត្តរួមការងារ អាចធ្វើឱ្យកិច្ចសហការមានលក្ខណៈធម្មជាតិ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "There may be real friendship and good humour among your staff that makes work enjoyable. Shared breaks or small celebrations could keep that spirit alive.",
+        "km": "ប្រហែលជាមានមិត្តភាពពិតប្រាកដ និងភាពកំប្លុកកំប្លែងល្អក្នុងចំណោមបុគ្គលិករបស់អ្នក ដែលធ្វើឱ្យការងាររីករាយ។ ការសម្រាករួមគ្នា ឬការអបអរតូចៗ អាចរក្សាស្មារតីនោះឱ្យរស់រវើក។"
+      },
+      "challenge": {
+        "en": "A close circle of friends at work could leave other staff feeling like outsiders. Mix people across tasks so friendships open up rather than close in.",
+        "km": "ក្រុមមិត្តភក្តិជិតស្និទ្ធមួយនៅកន្លែងធ្វើការ អាចធ្វើឱ្យបុគ្គលិកផ្សេងទៀតមានអារម្មណ៍ដូចជាជនខាងក្រៅ។ សូមលាយមនុស្សឆ្លងកិច្ចការផ្សេងៗ ដើម្បីឱ្យមិត្តភាពបើកចំហ ជាជាងបិទជិត។"
+      },
+      "outcome": {
+        "en": "Celebrating together could make your workplace somewhere people enjoy being part of a team. Staff who like each other may help one another without being asked.",
+        "km": "ការអបអររួមគ្នា អាចធ្វើឱ្យកន្លែងធ្វើការរបស់អ្នក ក្លាយជាកន្លែងដែលមនុស្សរីករាយជាផ្នែកនៃក្រុម។ បុគ្គលិកដែលចូលចិត្តគ្នា អាចជួយគ្នាទៅវិញទៅមកដោយមិនចាំបាច់សុំ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Some staff may seem withdrawn or disengaged, going through the motions without much interest. A quiet one-to-one talk could reveal what has dulled their energy.",
+        "km": "បុគ្គលិកខ្លះប្រហែលជាហាក់ដូចជាដកខ្លួន ឬមិនចូលរួម ធ្វើការតាមទម្លាប់ដោយគ្មានចំណាប់អារម្មណ៍ច្រើន។ ការពិភាក្សាផ្ទាល់ម្នាក់ទល់ម្នាក់ដោយស្ងប់ស្ងាត់ អាចបង្ហាញថាអ្វីបានធ្វើឱ្យថាមពលរបស់ពួកគេធ្លាក់ចុះ។"
+      },
+      "challenge": {
+        "en": "Overlooking offers of help or new ideas because you feel flat could make staff stop offering. Notice and thank people who try to contribute, even in a slow patch.",
+        "km": "ការមើលរំលងការផ្តល់ជំនួយ ឬគំនិតថ្មី ដោយសារអ្នកអស់កម្លាំងចិត្ត អាចធ្វើឱ្យបុគ្គលិកឈប់ផ្តល់។ សូមកត់សម្គាល់ និងអរគុណអ្នកដែលព្យាយាមរួមចំណែក សូម្បីតែក្នុងដំណាក់កាលយឺត។"
+      },
+      "outcome": {
+        "en": "Reconnecting with staff who have drifted could bring renewed interest in working together. A fresh task or role may restore the spark someone had lost.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងឡើងវិញជាមួយបុគ្គលិកដែលបានរសាត់ចេញ អាចនាំមកនូវចំណាប់អារម្មណ៍ថ្មីក្នុងការធ្វើការជាមួយគ្នា។ កិច្ចការ ឬតួនាទីថ្មីមួយ អាចស្តារភាពរស់រវើកដែលនរណាម្នាក់បានបាត់បង់។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "The team may be dwelling on a setback, such as a lost customer or a project that failed. Acknowledging the disappointment openly could help people move past it.",
+        "km": "ក្រុមប្រហែលជាកំពុងគិតច្រើនពីការបរាជ័យមួយ ដូចជាការបាត់បង់អតិថិជន ឬគម្រោងដែលមិនបានសម្រេច។ ការទទួលស្គាល់ការខកចិត្តដោយចំហ អាចជួយមនុស្សឱ្យឆ្លងកាត់វា។"
+      },
+      "challenge": {
+        "en": "Searching for someone to blame after a mistake could make staff hide problems from each other. Look at what went wrong together, without pointing fingers.",
+        "km": "ការស្វែងរកនរណាម្នាក់ដើម្បីបន្ទោស បន្ទាប់ពីកំហុសមួយ អាចធ្វើឱ្យបុគ្គលិកលាក់បញ្ហាពីគ្នា។ សូមពិនិត្យមើលអ្វីដែលខុសជាមួយគ្នា ដោយមិនចង្អុលបន្ទោសនរណាម្នាក់។"
+      },
+      "outcome": {
+        "en": "Turning a shared loss into a shared lesson could bring the team closer instead of apart. Focusing on what still works may restore confidence in each other.",
+        "km": "ការប្តូរការបាត់បង់រួមគ្នា ទៅជាមេរៀនរួមគ្នា អាចនាំក្រុមឱ្យខិតជិតគ្នា ជាជាងបែកគ្នា។ ការផ្តោតលើអ្វីដែលនៅតែដំណើរការ អាចស្តារទំនុកចិត្តលើគ្នាទៅវិញទៅមក។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Long-serving staff may carry good memories and habits from the early days of the business. Their goodwill and experience could be a gentle base for cooperation.",
+        "km": "បុគ្គលិកដែលធ្វើការយូរ ប្រហែលជាមានអនុស្សាវរីយ៍ និងទម្លាប់ល្អពីដំណាក់កាលដំបូងនៃអាជីវកម្ម។ ឆន្ទៈល្អ និងបទពិសោធន៍របស់ពួកគេ អាចជាមូលដ្ឋានទន់ភ្លន់សម្រាប់កិច្ចសហការ។"
+      },
+      "challenge": {
+        "en": "Comparing the team with how things used to be could make newer staff feel they never measure up. Value what each person brings rather than the old way of working.",
+        "km": "ការប្រៀបធៀបក្រុមជាមួយរបៀបដែលធ្លាប់ធ្វើ អាចធ្វើឱ្យបុគ្គលិកថ្មីមានអារម្មណ៍ថាពួកគេមិនដែលល្អគ្រប់គ្រាន់។ សូមឱ្យតម្លៃលើអ្វីដែលម្នាក់ៗនាំមក ជាជាងរបៀបធ្វើការចាស់។"
+      },
+      "outcome": {
+        "en": "Small acts of kindness between colleagues could build a friendly, generous atmosphere. Staff who share helpful habits with newcomers may make everyone feel at home.",
+        "km": "ទង្វើសប្បុរសតូចៗរវាងមិត្តរួមការងារ អាចកសាងបរិយាកាសរួសរាយ និងចិត្តទូលាយ។ បុគ្គលិកដែលចែករំលែកទម្លាប់មានប្រយោជន៍ជាមួយអ្នកថ្មី អាចធ្វើឱ្យអ្នករាល់គ្នាមានអារម្មណ៍ដូចនៅផ្ទះ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "There may be many ideas for improving teamwork, from new tools to new meeting styles. Choosing one or two to try properly could work better than chasing them all.",
+        "km": "ប្រហែលជាមានគំនិតជាច្រើនសម្រាប់ការកែលម្អការងារជាក្រុម ចាប់ពីឧបករណ៍ថ្មី រហូតដល់របៀបប្រជុំថ្មី។ ការជ្រើសរើសមួយ ឬពីរដើម្បីសាកល្បងឱ្យបានត្រឹមត្រូវ អាចមានប្រសិទ្ធភាពជាងការដេញតាមទាំងអស់។"
+      },
+      "challenge": {
+        "en": "Imagining the team is happier than it is could hide problems that need attention. Ask staff for honest feedback, perhaps anonymously, before assuming all is well.",
+        "km": "ការស្រមៃថាក្រុមសប្បាយចិត្តជាងការពិត អាចលាក់បញ្ហាដែលត្រូវការការយកចិត្តទុកដាក់។ សូមសុំមតិត្រឡប់ដោយស្មោះត្រង់ពីបុគ្គលិក ប្រហែលជាដោយអនាមិក មុនពេលសន្មតថាអ្វីៗល្អ។"
+      },
+      "outcome": {
+        "en": "Picking one realistic change and seeing it through could show staff that their input leads somewhere. A clear choice may build more trust than a long list of promises.",
+        "km": "ការជ្រើសរើសការផ្លាស់ប្តូរជាក់ស្តែងមួយ ហើយអនុវត្តវាឱ្យចប់ អាចបង្ហាញបុគ្គលិកថាមតិរបស់ពួកគេនាំទៅរកលទ្ធផល។ ជម្រើសច្បាស់លាស់មួយ អាចកសាងការទុកចិត្តច្រើនជាងបញ្ជីការសន្យាដ៏វែង។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "An old way of working together may no longer suit the team, even if it once did. Letting go of a habit that no longer helps could make room for better cooperation.",
+        "km": "របៀបធ្វើការជាមួយគ្នាចាស់មួយ ប្រហែលជាលែងសមនឹងក្រុមទៀតហើយ ទោះបីជាវាធ្លាប់សមក៏ដោយ។ ការបោះបង់ទម្លាប់ដែលលែងជួយ អាចបើកកន្លែងសម្រាប់កិច្ចសហការកាន់តែល្អ។"
+      },
+      "challenge": {
+        "en": "Valued staff quietly losing interest could be a sign that something important is missing for them. Ask what would make the work meaningful before they decide to leave.",
+        "km": "បុគ្គលិកដែលមានតម្លៃ បាត់បង់ចំណាប់អារម្មណ៍ដោយស្ងៀមស្ងាត់ អាចជាសញ្ញាថាមានអ្វីសំខាន់ខ្វះខាតសម្រាប់ពួកគេ។ សូមសួរថាអ្វីនឹងធ្វើឱ្យការងារមានអត្ថន័យ មុនពេលពួកគេសម្រេចចិត្តចាកចេញ។"
+      },
+      "outcome": {
+        "en": "Walking away from routines that drain the team could free energy for work that matters more. People may welcome a change that shows you have listened to them.",
+        "km": "ការចាកចេញពីទម្លាប់ដែលធ្វើឱ្យក្រុមអស់កម្លាំង អាចដោះលែងថាមពលសម្រាប់ការងារដែលសំខាន់ជាង។ មនុស្សអាចស្វាគមន៍ការផ្លាស់ប្តូរដែលបង្ហាញថាអ្នកបានស្តាប់ពួកគេ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Many of your staff may feel fairly content with their work and colleagues. That satisfaction could be a comfortable base for asking more of the team together.",
+        "km": "បុគ្គលិករបស់អ្នកជាច្រើន ប្រហែលជាពេញចិត្តគួរសមនឹងការងារ និងមិត្តរួមការងាររបស់ពួកគេ។ ការពេញចិត្តនោះ អាចជាមូលដ្ឋានស្រួលសម្រាប់ការស្នើសុំបន្ថែមពីក្រុមជាមួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Contentment could slide into complacency if the team stops looking for better ways to work. Keep inviting improvement ideas so comfort does not become a rut.",
+        "km": "ការពេញចិត្តអាចរអិលទៅជាការស្កប់ស្កល់ ប្រសិនបើក្រុមឈប់ស្វែងរករបៀបធ្វើការល្អជាងមុន។ សូមបន្តអញ្ជើញគំនិតកែលម្អ ដើម្បីកុំឱ្យភាពស្រួលក្លាយជាទម្លាប់ជាប់គាំង។"
+      },
+      "outcome": {
+        "en": "A satisfied team that feels heard could become a place people are happy to stay and contribute. Shared contentment may make cooperation feel easy rather than forced.",
+        "km": "ក្រុមដែលពេញចិត្ត ហើយមានអារម្មណ៍ថាត្រូវបានគេស្តាប់ អាចក្លាយជាកន្លែងដែលមនុស្សរីករាយស្នាក់នៅ និងរួមចំណែក។ ការពេញចិត្តរួមគ្នា អាចធ្វើឱ្យកិច្ចសហការមានភាពងាយស្រួល ជាជាងបង្ខំ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "There may be a family-like closeness among your staff, with people looking out for each other. Protecting that harmony could be one of your strongest assets.",
+        "km": "ប្រហែលជាមានភាពស្និទ្ធស្នាលដូចគ្រួសារក្នុងចំណោមបុគ្គលិករបស់អ្នក ដោយមនុស្សមើលថែគ្នាទៅវិញទៅមក។ ការការពារភាពសុខដុមនោះ អាចជាទ្រព្យសម្បត្តិរឹងមាំបំផុតមួយរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Staying silent about friction between staff to protect the friendly mood could let small grievances fester. Raise issues kindly but clearly so harmony rests on honesty.",
+        "km": "ការនៅស្ងៀមអំពីការកកិតរវាងបុគ្គលិក ដើម្បីការពារបរិយាកាសរួសរាយ អាចបណ្តោយឱ្យការត្អូញត្អែរតូចៗរលួយនៅខាងក្នុង។ សូមលើកបញ្ហាឡើងដោយសុភាព ប៉ុន្តែច្បាស់លាស់ ដើម្បីឱ្យភាពសុខដុមផ្អែកលើភាពស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "A team that feels like a family could support each other through busy and difficult periods alike. Lasting goodwill among staff may become part of what customers notice too.",
+        "km": "ក្រុមដែលមានអារម្មណ៍ដូចគ្រួសារ អាចគាំទ្រគ្នាឆ្លងកាត់ទាំងដំណាក់កាលមមាញឹក និងលំបាក។ ឆន្ទៈល្អយូរអង្វែងក្នុងចំណោមបុគ្គលិក អាចក្លាយជាផ្នែកមួយនៃអ្វីដែលអតិថិជនកត់សម្គាល់ផងដែរ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A team member may have a creative idea or a feeling about the work they have not yet voiced. Gently inviting quieter staff to share could bring it out.",
+        "km": "សមាជិកក្រុមម្នាក់ ប្រហែលជាមានគំនិតច្នៃប្រឌិត ឬអារម្មណ៍អំពីការងារ ដែលពួកគេមិនទាន់បាននិយាយចេញ។ ការអញ្ជើញបុគ្គលិកស្ងាត់ៗឱ្យចែករំលែកដោយទន់ភ្លន់ អាចនាំវាចេញមក។"
+      },
+      "challenge": {
+        "en": "Brushing off a sensitive comment from staff could teach them not to share feelings at work. Take emotional feedback seriously, even when it is awkward to hear.",
+        "km": "ការមិនអើពើនឹងមតិរសើបមួយពីបុគ្គលិក អាចបង្រៀនពួកគេមិនឱ្យចែករំលែកអារម្មណ៍នៅកន្លែងធ្វើការ។ សូមយកមតិត្រឡប់ផ្នែកអារម្មណ៍ឱ្យធ្ងន់ធ្ងរ ទោះបីជាវាពិបាកស្តាប់ក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Encouraging staff to express ideas and feelings could make the team more creative and caring. A simple thank-you note may mean more to someone than you expect.",
+        "km": "ការលើកទឹកចិត្តបុគ្គលិកឱ្យបញ្ចេញគំនិត និងអារម្មណ៍ អាចធ្វើឱ្យក្រុមកាន់តែច្នៃប្រឌិត និងយកចិត្តទុកដាក់។ កំណត់ចំណាំអរគុណសាមញ្ញមួយ អាចមានន័យសម្រាប់នរណាម្នាក់ច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Someone may be offering a kind or idealistic idea for how the team could work better together. Considering it with an open heart could lift the mood.",
+        "km": "នរណាម្នាក់ប្រហែលជាកំពុងផ្តល់គំនិតសប្បុរស ឬឧត្តមគតិ អំពីរបៀបដែលក្រុមអាចធ្វើការជាមួយគ្នាបានល្អជាងមុន។ ការពិចារណាវាដោយចិត្តបើកចំហ អាចលើកស្ទួយអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Promising staff improvements in a burst of good feeling, then not following through, could damage trust. Offer only the changes to roles or rewards you can deliver.",
+        "km": "ការសន្យាការកែលម្អដល់បុគ្គលិក ក្នុងពេលអារម្មណ៍ល្អ ហើយមិនអនុវត្តតាម អាចធ្វើឱ្យខូចការទុកចិត្ត។ សូមផ្តល់តែការផ្លាស់ប្តូរតួនាទី ឬរង្វាន់ ដែលអ្នកអាចធ្វើបានពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "A warm, sincere invitation to cooperate could win people over more than instructions alone. Staff may respond well to a leader who appeals to their good nature.",
+        "km": "ការអញ្ជើញឱ្យសហការដោយកក់ក្តៅ និងស្មោះត្រង់ អាចទាក់ទាញមនុស្សបានច្រើនជាងការណែនាំតែម្យ៉ាង។ បុគ្គលិកអាចឆ្លើយតបល្អចំពោះអ្នកដឹកនាំដែលអំពាវនាវដល់ចិត្តល្អរបស់ពួកគេ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your understanding of how people feel may already help you sense tension in the team before it spreads. Trusting that sense could guide you to the conversations that matter.",
+        "km": "ការយល់ដឹងរបស់អ្នកអំពីអារម្មណ៍មនុស្ស ប្រហែលជាជួយអ្នកឱ្យដឹងពីភាពតានតឹងក្នុងក្រុម មុនពេលវារាលដាលរួចហើយ។ ការទុកចិត្តលើអារម្មណ៍នោះ អាចណែនាំអ្នកទៅរកការពិភាក្សាដែលសំខាន់។"
+      },
+      "challenge": {
+        "en": "Taking on everyone's worries yourself could leave you drained and the team dependent on you. Listen with care, but help staff find their own ways to resolve issues.",
+        "km": "ការទទួលយកកង្វល់របស់អ្នករាល់គ្នាដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង ហើយក្រុមពឹងផ្អែកលើអ្នក។ សូមស្តាប់ដោយយកចិត្តទុកដាក់ ប៉ុន្តែជួយបុគ្គលិកឱ្យរកវិធីដោះស្រាយបញ្ហាដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Leading with empathy could create a team where people feel safe to raise problems and ask for help. Such trust may keep cooperation strong under pressure.",
+        "km": "ការដឹកនាំដោយការយល់ចិត្ត អាចបង្កើតក្រុមដែលមនុស្សមានអារម្មណ៍សុវត្ថិភាពក្នុងការលើកបញ្ហា និងសុំជំនួយ។ ការទុកចិត្តបែបនេះ អាចរក្សាកិច្ចសហការឱ្យរឹងមាំក្រោមសម្ពាធ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You may already keep a calm, steady presence that helps the team stay level in tense moments. Staff could look to your composure when tempers rise.",
+        "km": "អ្នកប្រហែលជារក្សាវត្តមានស្ងប់ និងនឹងនរ ដែលជួយក្រុមឱ្យនៅស្ថិរភាពក្នុងគ្រាតានតឹងរួចហើយ។ បុគ្គលិកអាចសម្លឹងមើលភាពស្ងប់ស្ងាត់របស់អ្នក នៅពេលកំហឹងកើនឡើង។"
+      },
+      "challenge": {
+        "en": "Keeping your own feelings so contained that staff cannot read you could make you seem distant. Show some warmth so the team knows where it stands with you.",
+        "km": "ការទប់អារម្មណ៍ផ្ទាល់ខ្លួនខ្លាំងពេក រហូតបុគ្គលិកមិនអាចយល់ពីអ្នក អាចធ្វើឱ្យអ្នកហាក់ដូចជានៅឆ្ងាយ។ សូមបង្ហាញភាពកក់ក្តៅខ្លះ ដើម្បីឱ្យក្រុមដឹងថាពួកគេស្ថិតនៅត្រង់ណាជាមួយអ្នក។"
+      },
+      "outcome": {
+        "en": "Balanced, fair handling of disagreements could earn the respect of the whole team. Staff may settle differences more calmly when they see you do the same.",
+        "km": "ការដោះស្រាយការខ្វែងគំនិតដោយតុល្យភាព និងយុត្តិធម៌ អាចទទួលបានការគោរពពីក្រុមទាំងមូល។ បុគ្គលិកអាចដោះស្រាយភាពខុសគ្នាដោយស្ងប់ស្ងាត់ជាងមុន នៅពេលពួកគេឃើញអ្នកធ្វើដូចគ្នា។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Clear, honest communication may be the tool your team needs most. Saying plainly what is expected of each role could cut through confusion.",
+        "km": "ការទំនាក់ទំនងច្បាស់លាស់ និងស្មោះត្រង់ ប្រហែលជាឧបករណ៍ដែលក្រុមរបស់អ្នកត្រូវការបំផុត។ ការនិយាយឱ្យច្បាស់ពីអ្វីដែលរំពឹងពីតួនាទីនីមួយៗ អាចកាត់បន្ថយការច្របូកច្របល់។"
+      },
+      "challenge": {
+        "en": "Blunt truths delivered without care could cut people and shut down discussion. Be honest about problems in the team, but choose your words kindly.",
+        "km": "ការពិតត្រង់ៗដែលនិយាយដោយគ្មានការយកចិត្តទុកដាក់ អាចធ្វើឱ្យមនុស្សឈឺចាប់ និងបិទការពិភាក្សា។ សូមស្មោះត្រង់អំពីបញ្ហាក្នុងក្រុម ប៉ុន្តែជ្រើសរើសពាក្យដោយសុភាព។"
+      },
+      "outcome": {
+        "en": "A clear conversation about goals and roles could give the team a sharper sense of purpose. People may work together better once nobody has to guess.",
+        "km": "ការពិភាក្សាច្បាស់លាស់អំពីគោលដៅ និងតួនាទី អាចផ្តល់ឱ្យក្រុមនូវអារម្មណ៍នៃគោលបំណងកាន់តែច្បាស់។ មនុស្សអាចធ្វើការជាមួយគ្នាបានល្អជាង នៅពេលគ្មាននរណាត្រូវទាយ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "A disagreement in the team may be stuck, with people avoiding the issue to keep things calm. Gently naming the stalemate could help everyone move forward.",
+        "km": "ការខ្វែងគំនិតក្នុងក្រុម ប្រហែលជាជាប់គាំង ដោយមនុស្សជៀសវាងបញ្ហា ដើម្បីរក្សាភាពស្ងប់ស្ងាត់។ ការលើកឡើងពីភាពជាប់គាំងនោះដោយទន់ភ្លន់ អាចជួយអ្នករាល់គ្នាឱ្យទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Refusing to decide between two staff members' views could leave both frustrated. Hear each side fully, then make a clear call and explain it.",
+        "km": "ការបដិសេធមិនសម្រេចចិត្តរវាងទស្សនៈរបស់បុគ្គលិកពីរនាក់ អាចធ្វើឱ្យទាំងពីរខកចិត្ត។ សូមស្តាប់ភាគីនីមួយៗឱ្យពេញលេញ បន្ទាប់មកសម្រេចចិត្តឱ្យច្បាស់ ហើយពន្យល់វា។"
+      },
+      "outcome": {
+        "en": "Bringing a quiet standoff into the open could clear the air between colleagues. A fair decision may let the team stop circling and start cooperating.",
+        "km": "ការនាំភាពប្រឆាំងគ្នាស្ងាត់ៗមកនិយាយដោយចំហ អាចធ្វើឱ្យបរិយាកាសរវាងមិត្តរួមការងារស្រឡះ។ ការសម្រេចចិត្តដោយយុត្តិធម៌ អាចឱ្យក្រុមឈប់វិលវល់ ហើយចាប់ផ្តើមសហការ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Someone in the team may feel hurt by a harsh word, a broken promise or being left out. Recognising that pain could be the first step to repairing trust.",
+        "km": "នរណាម្នាក់ក្នុងក្រុម ប្រហែលជាឈឺចិត្តដោយពាក្យសម្តីធ្ងន់ ការសន្យាដែលមិនបានរក្សា ឬការត្រូវបានទុកចោល។ ការទទួលស្គាល់ការឈឺចាប់នោះ អាចជាជំហានដំបូងក្នុងការជួសជុលការទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Ignoring hurt feelings between staff could let resentment harden into lasting division. Make space for an honest, private talk where each person can be heard.",
+        "km": "ការមិនអើពើនឹងអារម្មណ៍ឈឺចាប់រវាងបុគ្គលិក អាចបណ្តោយឱ្យការអាក់អន់ចិត្តរឹងទៅជាការបែកបាក់ជាប់លាប់។ សូមបង្កើតឱកាសសម្រាប់ការពិភាក្សាស្មោះត្រង់ និងឯកជន ដែលម្នាក់ៗអាចត្រូវបានគេស្តាប់។"
+      },
+      "outcome": {
+        "en": "Facing a painful episode openly could help the team heal rather than carry it quietly. An honest apology, where one is due, may restore more than you expect.",
+        "km": "ការប្រឈមមុខនឹងហេតុការណ៍ឈឺចាប់ដោយចំហ អាចជួយក្រុមឱ្យជាសះស្បើយ ជាជាងទ្រាំទ្រវាស្ងាត់ៗ។ ការសុំទោសដោយស្មោះ នៅពេលដែលគួរធ្វើ អាចស្តារបានច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "The team may need a pause to rest and recover before it can cooperate well again. Easing the pace could give tired people room to reset.",
+        "km": "ក្រុមប្រហែលជាត្រូវការការផ្អាកដើម្បីសម្រាក និងស្តារកម្លាំង មុននឹងអាចសហការបានល្អម្តងទៀត។ ការបន្ធូរល្បឿន អាចផ្តល់កន្លែងឱ្យមនុស្សដែលហត់នឿយកំណត់ខ្លួនឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Pushing a worn-out team harder could lead to mistakes, short tempers and staff leaving. Protect breaks and reasonable hours so people can recharge.",
+        "km": "ការជំរុញក្រុមដែលអស់កម្លាំងឱ្យខ្លាំងជាងមុន អាចនាំឱ្យមានកំហុស ការខឹងងាយ និងបុគ្គលិកចាកចេញ។ សូមការពារការសម្រាក និងម៉ោងធ្វើការសមរម្យ ដើម្បីឱ្យមនុស្សអាចបញ្ចូលថាមពលឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "A well-rested team could return with clearer heads and more patience for each other. Respecting people's need for recovery may build lasting loyalty.",
+        "km": "ក្រុមដែលបានសម្រាកគ្រប់គ្រាន់ អាចត្រឡប់មកវិញជាមួយគំនិតច្បាស់ជាង និងការអត់ធ្មត់ចំពោះគ្នាកាន់តែច្រើន។ ការគោរពតម្រូវការស្តារកម្លាំងរបស់មនុស្ស អាចកសាងភាពស្មោះត្រង់ជាប់លាប់។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "There may be a conflict in the team where someone wants to win at any cost. Looking past who is right to what the team needs could calm things.",
+        "km": "ប្រហែលជាមានជម្លោះក្នុងក្រុម ដែលនរណាម្នាក់ចង់ឈ្នះទោះបីត្រូវចំណាយអ្វីក៏ដោយ។ ការមើលរំលងថាអ្នកណាត្រូវ ទៅរកអ្វីដែលក្រុមត្រូវការ អាចធ្វើឱ្យស្ថានការណ៍ស្ងប់។"
+      },
+      "challenge": {
+        "en": "Winning an argument with staff by pulling rank could cost you their goodwill. Pick the disputes that truly matter and let small ones go.",
+        "km": "ការឈ្នះការឈ្លោះប្រកែកជាមួយបុគ្គលិក ដោយប្រើឋានៈ អាចធ្វើឱ្យអ្នកបាត់បង់ឆន្ទៈល្អរបស់ពួកគេ។ សូមជ្រើសរើសជម្លោះដែលពិតជាសំខាន់ ហើយបណ្តោយរឿងតូចៗចោល។"
+      },
+      "outcome": {
+        "en": "Settling a tense dispute fairly could stop the team splitting into winners and losers. People may cooperate again once nobody feels humiliated.",
+        "km": "ការដោះស្រាយជម្លោះតានតឹងដោយយុត្តិធម៌ អាចបញ្ឈប់ក្រុមពីការបែងចែកជាអ្នកឈ្នះ និងអ្នកចាញ់។ មនុស្សអាចសហការគ្នាម្តងទៀត នៅពេលគ្មាននរណាម្នាក់មានអារម្មណ៍អាម៉ាស់។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "The team may be moving out of a difficult patch toward calmer working relationships. Supporting people through that change could help them settle.",
+        "km": "ក្រុមប្រហែលជាកំពុងចេញពីដំណាក់កាលលំបាក ឆ្ពោះទៅរកទំនាក់ទំនងការងារស្ងប់ជាងមុន។ ការគាំទ្រមនុស្សឆ្លងកាត់ការផ្លាស់ប្តូរនោះ អាចជួយពួកគេឱ្យនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Carrying old grudges into a new structure could undo the progress the team is making. Encourage a genuine fresh start rather than reopening past quarrels.",
+        "km": "ការនាំការចងគំនុំចាស់ៗចូលទៅក្នុងរចនាសម្ព័ន្ធថ្មី អាចបំផ្លាញវឌ្ឍនភាពដែលក្រុមកំពុងធ្វើ។ សូមលើកទឹកចិត្តការចាប់ផ្តើមថ្មីពិតប្រាកដ ជាជាងបើកជម្លោះចាស់ឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Guiding the team calmly through a change of roles or routines could bring steadier cooperation. Leaving tension behind may let people focus on the work again.",
+        "km": "ការណែនាំក្រុមដោយស្ងប់ស្ងាត់ ឆ្លងកាត់ការផ្លាស់ប្តូរតួនាទី ឬទម្លាប់ អាចនាំមកនូវកិច្ចសហការកាន់តែមានស្ថិរភាព។ ការទុកភាពតានតឹងចោល អាចឱ្យមនុស្សផ្តោតលើការងារម្តងទៀត។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Not everything said in the team may be fully open, with some people working around others. Noticing quiet side deals or withheld information could be important.",
+        "km": "មិនមែនអ្វីៗទាំងអស់ដែលនិយាយក្នុងក្រុម សុទ្ធតែបើកចំហពេញលេញនោះទេ ដោយមនុស្សខ្លះធ្វើការដោយគេចពីអ្នកដទៃ។ ការកត់សម្គាល់កិច្ចព្រមព្រៀងលាក់កំបាំង ឬព័ត៌មានដែលត្រូវបានលាក់ទុក អាចមានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Hidden agendas or office politics could quietly undermine trust between staff. Make decisions and information visible so nobody gains by keeping secrets.",
+        "km": "របៀបវារៈលាក់កំបាំង ឬនយោបាយការិយាល័យ អាចបំផ្លាញការទុកចិត្តរវាងបុគ្គលិកដោយស្ងៀមស្ងាត់។ សូមធ្វើឱ្យការសម្រេចចិត្ត និងព័ត៌មានអាចមើលឃើញ ដើម្បីកុំឱ្យនរណាម្នាក់ទទួលផលពីការលាក់អាថ៌កំបាំង។"
+      },
+      "outcome": {
+        "en": "Open sharing of plans and decisions could leave little room for scheming within the team. A smart, transparent approach may win more cooperation than control.",
+        "km": "ការចែករំលែកផែនការ និងការសម្រេចចិត្តដោយចំហ អាចទុកកន្លែងតិចតួចសម្រាប់ការឃុបឃិតក្នុងក្រុម។ វិធីសាស្ត្រឆ្លាតវៃ និងតម្លាភាព អាចទទួលបានកិច្ចសហការច្រើនជាងការគ្រប់គ្រង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Staff may feel boxed in by strict rules, unclear limits or fear of making mistakes. Loosening what is not essential could free them to help each other.",
+        "km": "បុគ្គលិកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានរារាំងដោយច្បាប់តឹងរ៉ឹង ដែនកំណត់មិនច្បាស់ ឬការភ័យខ្លាចធ្វើខុស។ ការបន្ធូរអ្វីដែលមិនចាំបាច់ អាចដោះលែងពួកគេឱ្យជួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Believing nothing can change about how the team works could keep everyone stuck. Look for one rule or habit you could relax as a trial.",
+        "km": "ការជឿថាគ្មានអ្វីអាចផ្លាស់ប្តូរអំពីរបៀបដែលក្រុមធ្វើការ អាចធ្វើឱ្យអ្នករាល់គ្នាជាប់គាំង។ សូមស្វែងរកច្បាប់ ឬទម្លាប់មួយ ដែលអ្នកអាចបន្ធូរជាការសាកល្បង។"
+      },
+      "outcome": {
+        "en": "Giving staff more freedom to decide how they work together could unlock cooperation. People who feel trusted may surprise you with their initiative.",
+        "km": "ការផ្តល់សេរីភាពបន្ថែមដល់បុគ្គលិក ក្នុងការសម្រេចរបៀបធ្វើការជាមួយគ្នា អាចដោះសោកិច្ចសហការ។ មនុស្សដែលមានអារម្មណ៍ថាត្រូវបានទុកចិត្ត អាចធ្វើឱ្យអ្នកភ្ញាក់ផ្អើលដោយគំនិតផ្តួចផ្តើមរបស់ពួកគេ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about the team may be weighing on you, or staff themselves may be anxious about their jobs. Talking concerns through openly could ease the strain.",
+        "km": "ការព្រួយបារម្ភអំពីក្រុម ប្រហែលជាកំពុងសង្កត់លើអ្នក ឬបុគ្គលិកខ្លួនឯងប្រហែលជាព្រួយបារម្ភអំពីការងាររបស់ពួកគេ។ ការពិភាក្សាពីកង្វល់ដោយចំហ អាចបន្ធូរសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Imagining the worst about staff could make you suspicious of people who mean well. Check your fears against facts, and seek support if stress feels overwhelming.",
+        "km": "ការស្រមៃអំពីរឿងអាក្រក់បំផុតពីបុគ្គលិក អាចធ្វើឱ្យអ្នកសង្ស័យមនុស្សដែលមានចេតនាល្អ។ សូមផ្ទៀងផ្ទាត់ការភ័យខ្លាចរបស់អ្នកជាមួយការពិត ហើយស្វែងរកការគាំទ្រ ប្រសិនបើភាពតានតឹងហាក់ដូចជាហួសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Reassuring anxious staff with honest information could calm fears that block teamwork. A team that feels secure may focus more on helping each other.",
+        "km": "ការធានាដល់បុគ្គលិកដែលព្រួយបារម្ភ ដោយព័ត៌មានស្មោះត្រង់ អាចបន្ធូរការភ័យខ្លាចដែលរារាំងការងារជាក្រុម។ ក្រុមដែលមានអារម្មណ៍សុវត្ថិភាព អាចផ្តោតកាន់តែច្រើនលើការជួយគ្នា។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A working relationship or team arrangement may have reached a painful end. Accepting that it cannot continue could clear the way for something healthier.",
+        "km": "ទំនាក់ទំនងការងារ ឬការរៀបចំក្រុមមួយ ប្រហែលជាបានដល់ទីបញ្ចប់ដ៏ឈឺចាប់។ ការទទួលយកថាវាមិនអាចបន្តបាន អាចបើកផ្លូវសម្រាប់អ្វីដែលមានសុខភាពល្អជាងមុន។"
+      },
+      "challenge": {
+        "en": "Clinging to a team setup that has clearly failed could drag everyone down with it. Recognise when a structure or partnership has run its course.",
+        "km": "ការប្រកាន់ខ្ជាប់ការរៀបចំក្រុមដែលបរាជ័យយ៉ាងច្បាស់ អាចទាញអ្នករាល់គ្នាធ្លាក់ចុះជាមួយវា។ សូមទទួលស្គាល់នៅពេលរចនាសម្ព័ន្ធ ឬភាពជាដៃគូមួយបានដល់ទីបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "Closing a chapter that was not working could let the team rebuild on firmer ground. The lowest point may also be where real change begins.",
+        "km": "ការបិទជំពូកដែលមិនដំណើរការ អាចឱ្យក្រុមកសាងឡើងវិញលើដីរឹងមាំជាង។ ចំណុចទាបបំផុត ក៏អាចជាកន្លែងដែលការផ្លាស់ប្តូរពិតប្រាកដចាប់ផ្តើម។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "A curious team member may be asking sharp questions about how things are done. Their alertness could help spot problems in cooperation before they grow.",
+        "km": "សមាជិកក្រុមដែលចង់ដឹងម្នាក់ ប្រហែលជាកំពុងសួរសំណួរមុតស្រួចអំពីរបៀបធ្វើការ។ ភាពប្រុងប្រយ័ត្នរបស់ពួកគេ អាចជួយរកឃើញបញ្ហាក្នុងកិច្ចសហការ មុនពេលវារីកធំ។"
+      },
+      "challenge": {
+        "en": "Gossip or idle talk among staff could spread mistrust faster than facts. Address rumours directly and keep information flowing through clear channels.",
+        "km": "ការនិយាយដើម ឬការនិយាយលេងក្នុងចំណោមបុគ្គលិក អាចផ្សព្វផ្សាយការមិនទុកចិត្តលឿនជាងការពិត។ សូមដោះស្រាយពាក្យចចាមអារ៉ាមដោយផ្ទាល់ ហើយរក្សាលំហូរព័ត៌មានតាមបណ្តាញច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Welcoming honest questions could make the team sharper and more willing to speak up. People who can challenge ideas safely may work together more effectively.",
+        "km": "ការស្វាគមន៍សំណួរស្មោះត្រង់ អាចធ្វើឱ្យក្រុមកាន់តែមុតស្រួច និងមានឆន្ទៈនិយាយចេញ។ មនុស្សដែលអាចជំទាស់គំនិតដោយសុវត្ថិភាព អាចធ្វើការជាមួយគ្នាកាន់តែមានប្រសិទ្ធភាព។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You may be driving hard toward goals, pushing the team to keep up with your pace. Checking whether people are with you could prevent strain.",
+        "km": "អ្នកប្រហែលជាកំពុងជំរុញខ្លាំងឆ្ពោះទៅរកគោលដៅ ដោយជំរុញក្រុមឱ្យតាមល្បឿនរបស់អ្នក។ ការពិនិត្យថាមនុស្សនៅជាមួយអ្នកឬអត់ អាចការពារសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Making sharp decisions about staff without listening could leave people feeling bulldozed. Slow down enough to hear objections before acting.",
+        "km": "ការសម្រេចចិត្តមុតស្រួចអំពីបុគ្គលិក ដោយមិនស្តាប់ អាចធ្វើឱ្យមនុស្សមានអារម្មណ៍ថាត្រូវបានគេជាន់ឈ្លី។ សូមបន្ថយល្បឿនឱ្យគ្រប់គ្រាន់ ដើម្បីស្តាប់ការជំទាស់ មុនពេលធ្វើសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "Focused drive that carries the team with it could achieve a great deal together. Ambition shared openly may motivate rather than exhaust your staff.",
+        "km": "ការតាំងចិត្តដែលផ្តោត ហើយនាំក្រុមទៅជាមួយ អាចសម្រេចបានច្រើនជាមួយគ្នា។ មហិច្ឆតាដែលចែករំលែកដោយចំហ អាចលើកទឹកចិត្ត ជាជាងធ្វើឱ្យបុគ្គលិករបស់អ្នកអស់កម្លាំង។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You may see the team's strengths and weaknesses clearly, without illusions. That honest view could help you place people in the right roles.",
+        "km": "អ្នកប្រហែលជាមើលឃើញចំណុចខ្លាំង និងចំណុចខ្សោយរបស់ក្រុមយ៉ាងច្បាស់ ដោយគ្មានការបំភាន់។ ទស្សនៈស្មោះត្រង់នោះ អាចជួយអ្នកដាក់មនុស្សក្នុងតួនាទីត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Being too critical or cool with staff could make them afraid to try. Balance clear feedback with acknowledgement of what people do well.",
+        "km": "ការរិះគន់ខ្លាំងពេក ឬត្រជាក់ពេកជាមួយបុគ្គលិក អាចធ្វើឱ្យពួកគេខ្លាចសាកល្បង។ សូមថ្លឹងមតិត្រឡប់ច្បាស់លាស់ ជាមួយការទទួលស្គាល់អ្វីដែលមនុស្សធ្វើបានល្អ។"
+      },
+      "outcome": {
+        "en": "Fair, direct feedback could help each person understand how to contribute better. A team that values honesty may solve problems faster together.",
+        "km": "មតិត្រឡប់ដោយយុត្តិធម៌ និងត្រង់ អាចជួយម្នាក់ៗឱ្យយល់ពីរបៀបរួមចំណែកឱ្យបានល្អជាងមុន។ ក្រុមដែលឱ្យតម្លៃភាពស្មោះត្រង់ អាចដោះស្រាយបញ្ហាជាមួយគ្នាបានលឿនជាង។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Fair rules and clear standards may already give the team a stable structure. Applying them evenly to everyone could strengthen respect for your leadership.",
+        "km": "ច្បាប់យុត្តិធម៌ និងស្តង់ដារច្បាស់លាស់ ប្រហែលជាផ្តល់ឱ្យក្រុមនូវរចនាសម្ព័ន្ធមានស្ថិរភាពរួចហើយ។ ការអនុវត្តវាស្មើៗគ្នាចំពោះអ្នករាល់គ្នា អាចពង្រឹងការគោរពចំពោះការដឹកនាំរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Relying only on rules and logic could leave staff feeling managed rather than led. Explain the thinking behind decisions and leave room for people's concerns.",
+        "km": "ការពឹងផ្អែកតែលើច្បាប់ និងតក្កវិជ្ជា អាចធ្វើឱ្យបុគ្គលិកមានអារម្មណ៍ថាត្រូវបានគ្រប់គ្រង ជាជាងត្រូវបានដឹកនាំ។ សូមពន្យល់ពីការគិតនៅពីក្រោយការសម្រេចចិត្ត ហើយទុកកន្លែងសម្រាប់កង្វល់របស់មនុស្ស។"
+      },
+      "outcome": {
+        "en": "Clear, consistent leadership could give the team a shared sense of fairness. People who trust the rules are applied evenly may cooperate more willingly.",
+        "km": "ការដឹកនាំច្បាស់លាស់ និងស៊ីសង្វាក់ អាចផ្តល់ឱ្យក្រុមនូវអារម្មណ៍រួមនៃយុត្តិធម៌។ មនុស្សដែលទុកចិត្តថាច្បាប់ត្រូវបានអនុវត្តស្មើៗគ្នា អាចសហការដោយស្ម័គ្រចិត្តជាងមុន។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical opportunity, such as training or better tools, could help the team work together. A modest investment in shared resources may go a long way.",
+        "km": "ឱកាសជាក់ស្តែងមួយ ដូចជាការបណ្តុះបណ្តាល ឬឧបករណ៍ល្អជាងមុន អាចជួយក្រុមឱ្យធ្វើការជាមួយគ្នា។ ការវិនិយោគតិចតួចលើធនធានរួម អាចមានផលច្រើន។"
+      },
+      "challenge": {
+        "en": "Overlooking simple, practical fixes in the search for a big solution could leave daily friction in place. Start with the tool or routine that annoys staff most.",
+        "km": "ការមើលរំលងដំណោះស្រាយជាក់ស្តែងសាមញ្ញ ក្នុងការស្វែងរកដំណោះស្រាយធំ អាចទុកការកកិតប្រចាំថ្ងៃនៅដដែល។ សូមចាប់ផ្តើមពីឧបករណ៍ ឬទម្លាប់ដែលរំខានបុគ្គលិកខ្លាំងបំផុត។"
+      },
+      "outcome": {
+        "en": "A small, concrete improvement in how work is shared could become the seed of stronger teamwork. Staff tend to notice and appreciate practical changes that ease their day.",
+        "km": "ការកែលម្អតូចមួយ និងជាក់ស្តែងក្នុងរបៀបចែករំលែកការងារ អាចក្លាយជាគ្រាប់ពូជនៃការងារជាក្រុមរឹងមាំជាងមុន។ បុគ្គលិកច្រើនតែកត់សម្គាល់ និងកោតសរសើរការផ្លាស់ប្តូរជាក់ស្តែងដែលធ្វើឱ្យការងាររបស់ពួកគេស្រួលជាងមុន។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "The team may be juggling many tasks at once, trying to keep every customer and job moving. Agreeing on priorities together could reduce the scramble.",
+        "km": "ក្រុមប្រហែលជាកំពុងចាត់ចែងកិច្ចការជាច្រើនក្នុងពេលតែមួយ ដោយព្យាយាមរក្សាអតិថិជន និងការងារគ្រប់យ៉ាងឱ្យដំណើរការ។ ការព្រមព្រៀងគ្នាលើអាទិភាព អាចកាត់បន្ថយភាពច្របូកច្របល់។"
+      },
+      "challenge": {
+        "en": "Shifting priorities without telling everyone could leave staff working against each other. Keep one shared list of what matters most and update it openly.",
+        "km": "ការផ្លាស់ប្តូរអាទិភាព ដោយមិនប្រាប់អ្នករាល់គ្នា អាចធ្វើឱ្យបុគ្គលិកធ្វើការប្រឆាំងគ្នា។ សូមរក្សាបញ្ជីរួមមួយនៃអ្វីដែលសំខាន់បំផុត ហើយធ្វើបច្ចុប្បន្នភាពវាដោយចំហ។"
+      },
+      "outcome": {
+        "en": "Balancing the workload flexibly could help the team stay steady through busy periods. People who cover for each other may build real trust along the way.",
+        "km": "ការថ្លឹងថ្លែងបន្ទុកការងារដោយបត់បែន អាចជួយក្រុមឱ្យនៅស្ថិរភាពក្នុងដំណាក់កាលមមាញឹក។ មនុស្សដែលជួយបំពេញការងារជំនួសគ្នា អាចកសាងការទុកចិត្តពិតប្រាកដតាមផ្លូវ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Your staff may already work well together on practical tasks, each bringing a different skill. Recognising how their strengths fit together could build on that.",
+        "km": "បុគ្គលិករបស់អ្នក ប្រហែលជាធ្វើការជាមួយគ្នាបានល្អលើកិច្ចការជាក់ស្តែងរួចហើយ ដោយម្នាក់ៗនាំមកនូវជំនាញខុសៗគ្នា។ ការទទួលស្គាល់ពីរបៀបដែលចំណុចខ្លាំងរបស់ពួកគេបំពេញគ្នា អាចកសាងលើនោះ។"
+      },
+      "challenge": {
+        "en": "Unclear roles on shared projects could lead to duplicated effort or tasks falling through the gaps. Agree who owns each part before work begins.",
+        "km": "តួនាទីមិនច្បាស់លាស់ក្នុងគម្រោងរួម អាចនាំឱ្យមានការខិតខំស្ទួនគ្នា ឬកិច្ចការធ្លាក់ចន្លោះ។ សូមព្រមព្រៀងគ្នាថាអ្នកណាទទួលខុសត្រូវផ្នែកនីមួយៗ មុនពេលការងារចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Valuing each person's craft and combining skills well could produce work none could do alone. A team that respects each member's expertise may cooperate naturally.",
+        "km": "ការឱ្យតម្លៃលើជំនាញរបស់ម្នាក់ៗ និងការបញ្ចូលជំនាញគ្នាឱ្យបានល្អ អាចបង្កើតការងារដែលគ្មាននរណាម្នាក់អាចធ្វើតែម្នាក់ឯងបាន។ ក្រុមដែលគោរពជំនាញរបស់សមាជិកម្នាក់ៗ អាចសហការគ្នាដោយធម្មជាតិ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be holding tight control over how work is done, keeping key decisions to yourself. That control could feel safe but limit what the team can do.",
+        "km": "អ្នកប្រហែលជាកំពុងកាន់ការគ្រប់គ្រងយ៉ាងតឹងលើរបៀបធ្វើការ ដោយរក្សាការសម្រេចចិត្តសំខាន់ៗសម្រាប់ខ្លួនឯង។ ការគ្រប់គ្រងនោះអាចមានអារម្មណ៍សុវត្ថិភាព ប៉ុន្តែកំណត់អ្វីដែលក្រុមអាចធ្វើបាន។"
+      },
+      "challenge": {
+        "en": "Guarding information or resources too closely could make staff feel untrusted. Share what people need to do their jobs and help each other.",
+        "km": "ការការពារព័ត៌មាន ឬធនធានខ្លាំងពេក អាចធ្វើឱ្យបុគ្គលិកមានអារម្មណ៍ថាមិនត្រូវបានទុកចិត្ត។ សូមចែករំលែកអ្វីដែលមនុស្សត្រូវការ ដើម្បីធ្វើការងាររបស់ពួកគេ និងជួយគ្នា។"
+      },
+      "outcome": {
+        "en": "Loosening your grip on small decisions could let staff take ownership and cooperate more freely. Trust given carefully may come back as greater commitment.",
+        "km": "ការបន្ធូរការក្តាប់លើការសម្រេចចិត្តតូចៗ អាចឱ្យបុគ្គលិកទទួលភាពជាម្ចាស់ និងសហការដោយសេរីជាងមុន។ ការទុកចិត្តដែលផ្តល់ដោយប្រុងប្រយ័ត្ន អាចត្រឡប់មកវិញជាការប្តេជ្ញាចិត្តកាន់តែខ្លាំង។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Some staff may feel left out or unsupported, struggling without asking for help. Noticing who is on the margins could be where better teamwork starts.",
+        "km": "បុគ្គលិកខ្លះប្រហែលជាមានអារម្មណ៍ថាត្រូវបានទុកចោល ឬមិនត្រូវបានគាំទ្រ ដោយតស៊ូដោយមិនសុំជំនួយ។ ការកត់សម្គាល់ថាអ្នកណានៅខាងក្រៅ អាចជាកន្លែងដែលការងារជាក្រុមល្អជាងមុនចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Tight resources could make people compete for help instead of sharing it. Be open about limits and make sure nobody is quietly left to cope alone.",
+        "km": "ធនធានមានកំណត់ អាចធ្វើឱ្យមនុស្សប្រជែងគ្នាដើម្បីជំនួយ ជាជាងចែករំលែកវា។ សូមបើកចំហអំពីដែនកំណត់ ហើយប្រាកដថាគ្មាននរណាម្នាក់ត្រូវបានទុកឱ្យទប់ទល់តែម្នាក់ឯងដោយស្ងៀមស្ងាត់។"
+      },
+      "outcome": {
+        "en": "Reaching out to struggling team members could turn a difficult patch into a moment of solidarity. People who were helped may become the most loyal helpers.",
+        "km": "ការឈោងទៅរកសមាជិកក្រុមដែលកំពុងលំបាក អាចប្តូរដំណាក់កាលលំបាកទៅជាពេលនៃសាមគ្គីភាព។ មនុស្សដែលធ្លាប់ទទួលជំនួយ អាចក្លាយជាអ្នកជួយដែលស្មោះត្រង់បំផុត។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "There may be a spirit of give and take in the team, with people sharing help and knowledge. Encouraging that generosity openly could strengthen cooperation across roles.",
+        "km": "ប្រហែលជាមានស្មារតីផ្តល់ និងទទួលក្នុងក្រុម ដោយមនុស្សចែករំលែកជំនួយ និងចំណេះដឹង។ ការលើកទឹកចិត្តភាពសប្បុរសនោះដោយចំហ អាចពង្រឹងកិច្ចសហការឆ្លងតួនាទី។"
+      },
+      "challenge": {
+        "en": "Uneven rewards or favours could make staff feel the system is unfair. Make pay, bonuses and opportunities as transparent and consistent as you can.",
+        "km": "រង្វាន់ ឬការអនុគ្រោះមិនស្មើគ្នា អាចធ្វើឱ្យបុគ្គលិកមានអារម្មណ៍ថាប្រព័ន្ធមិនយុត្តិធម៌។ សូមធ្វើឱ្យប្រាក់ឈ្នួល ប្រាក់រង្វាន់ និងឱកាស មានតម្លាភាព និងស៊ីសង្វាក់តាមដែលអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Sharing credit, rewards and know-how fairly could build a team where people help freely. A sense of fairness may be one of the strongest bonds at work.",
+        "km": "ការចែករំលែកកិត្តិយស រង្វាន់ និងចំណេះដឹងដោយយុត្តិធម៌ អាចកសាងក្រុមដែលមនុស្សជួយគ្នាដោយសេរី។ អារម្មណ៍នៃយុត្តិធម៌ អាចជាចំណងរឹងមាំបំផុតមួយនៅកន្លែងធ្វើការ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may be taking stock of how the team is working, weighing what has helped and what has not. That honest review could show where to focus.",
+        "km": "អ្នកប្រហែលជាកំពុងពិនិត្យមើលពីរបៀបដែលក្រុមកំពុងធ្វើការ ដោយថ្លឹងថ្លែងអ្វីដែលបានជួយ និងអ្វីដែលមិនបានជួយ។ ការពិនិត្យដោយស្មោះត្រង់នោះ អាចបង្ហាញកន្លែងដែលត្រូវផ្តោត។"
+      },
+      "challenge": {
+        "en": "Expecting teamwork to transform all at once could lead to frustration and abandoned efforts. Give new habits room to take root before judging them.",
+        "km": "ការរំពឹងថាការងារជាក្រុមនឹងផ្លាស់ប្តូរទាំងស្រុងក្នុងពេលតែមួយ អាចនាំឱ្យមានការខកចិត្ត និងការបោះបង់ការខិតខំ។ សូមទុកឱកាសឱ្យទម្លាប់ថ្មីចាក់ឫស មុនពេលវិនិច្ឆ័យវា។"
+      },
+      "outcome": {
+        "en": "Steady investment in relationships could bring a team that works well together without constant pushing. Patient effort may yield cooperation that lasts.",
+        "km": "ការវិនិយោគជាប្រចាំលើទំនាក់ទំនង អាចនាំមកនូវក្រុមដែលធ្វើការជាមួយគ្នាបានល្អ ដោយមិនចាំបាច់ជំរុញជានិច្ច។ ការខិតខំដោយអត់ធ្មត់ អាចផ្តល់ផលជាកិច្ចសហការដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Staff may be focused on building skills and doing careful, steady work. Training them together could strengthen both their abilities and their bonds.",
+        "km": "បុគ្គលិកប្រហែលជាកំពុងផ្តោតលើការកសាងជំនាញ និងការធ្វើការដោយយកចិត្តទុកដាក់ និងទៀងទាត់។ ការបណ្តុះបណ្តាលពួកគេជាមួយគ្នា អាចពង្រឹងទាំងសមត្ថភាព និងចំណងរបស់ពួកគេ។"
+      },
+      "challenge": {
+        "en": "Everyone working hard in isolation could leave little chance to learn from each other. Create moments for staff to share techniques and solve problems together.",
+        "km": "ការដែលអ្នករាល់គ្នាខិតខំធ្វើការដាច់ដោយឡែក អាចទុកឱកាសតិចតួចក្នុងការរៀនពីគ្នា។ សូមបង្កើតឱកាសឱ្យបុគ្គលិកចែករំលែកបច្ចេកទេស និងដោះស្រាយបញ្ហាជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "Learning side by side could make the team more skilled and more connected. People who improve together may take pride in each other's progress.",
+        "km": "ការរៀនជាមួយគ្នា អាចធ្វើឱ្យក្រុមកាន់តែមានជំនាញ និងភ្ជាប់គ្នាកាន់តែខ្លាំង។ មនុស្សដែលរីកចម្រើនជាមួយគ្នា អាចមានមោទនភាពចំពោះវឌ្ឍនភាពរបស់គ្នាទៅវិញទៅមក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Capable staff may be working well independently, needing little supervision. Linking their individual strengths could turn self-reliance into strong cooperation.",
+        "km": "បុគ្គលិកដែលមានសមត្ថភាព ប្រហែលជាកំពុងធ្វើការបានល្អដោយឯករាជ្យ ដោយត្រូវការការត្រួតពិនិត្យតិចតួច។ ការភ្ជាប់ចំណុចខ្លាំងរបស់បុគ្គលម្នាក់ៗ អាចប្តូរការពឹងលើខ្លួនឯង ទៅជាកិច្ចសហការរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Too much independence could mean staff rarely share what they know or ask for help. Encourage people to explain their methods so knowledge does not sit with one person.",
+        "km": "ឯករាជ្យភាពច្រើនពេក អាចមានន័យថាបុគ្គលិកកម្រចែករំលែកអ្វីដែលពួកគេដឹង ឬសុំជំនួយ។ សូមលើកទឹកចិត្តមនុស្សឱ្យពន្យល់វិធីសាស្ត្ររបស់ពួកគេ ដើម្បីកុំឱ្យចំណេះដឹងស្ថិតនៅតែលើមនុស្សម្នាក់។"
+      },
+      "outcome": {
+        "en": "Self-reliant people who also choose to cooperate could make the team both strong and resilient. Respecting autonomy may make collaboration feel like a choice, not a demand.",
+        "km": "មនុស្សដែលពឹងលើខ្លួនឯង ហើយក៏ជ្រើសរើសសហការ អាចធ្វើឱ្យក្រុមទាំងរឹងមាំ និងធន់។ ការគោរពស្វ័យភាព អាចធ្វើឱ្យកិច្ចសហការមានអារម្មណ៍ជាជម្រើស មិនមែនជាការទាមទារ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "The business may have a stable core team and shared values built up together. That foundation could be something to protect and pass on to newcomers.",
+        "km": "អាជីវកម្មប្រហែលជាមានក្រុមស្នូលមានស្ថិរភាព និងគុណតម្លៃរួមដែលកសាងជាមួយគ្នា។ មូលដ្ឋាននោះ អាចជាអ្វីដែលត្រូវការពារ និងបន្តទៅអ្នកថ្មី។"
+      },
+      "challenge": {
+        "en": "Relying on established ways could make the team resistant to fresh people and ideas. Welcome newcomers into the culture rather than expecting them simply to fit.",
+        "km": "ការពឹងផ្អែកលើរបៀបដែលបានបង្កើតរួច អាចធ្វើឱ្យក្រុមប្រឆាំងនឹងមនុស្ស និងគំនិតថ្មី។ សូមស្វាគមន៍អ្នកថ្មីចូលក្នុងវប្បធម៌ ជាជាងរំពឹងថាពួកគេគ្រាន់តែសម្របខ្លួន។"
+      },
+      "outcome": {
+        "en": "A shared culture of trust and care could become one of the business's most lasting strengths. A team built on solid values may hold together through change.",
+        "km": "វប្បធម៌រួមនៃការទុកចិត្ត និងការយកចិត្តទុកដាក់ អាចក្លាយជាចំណុចខ្លាំងស្ថិតស្ថេរបំផុតមួយរបស់អាជីវកម្ម។ ក្រុមដែលកសាងលើគុណតម្លៃរឹងមាំ អាចនៅជាមួយគ្នាឆ្លងកាត់ការផ្លាស់ប្តូរ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A team member may be eager to learn a new skill or take on more responsibility. Supporting that ambition could benefit both them and the team.",
+        "km": "សមាជិកក្រុមម្នាក់ ប្រហែលជាចង់រៀនជំនាញថ្មី ឬទទួលការទទួលខុសត្រូវបន្ថែម។ ការគាំទ្រមហិច្ឆតានោះ អាចផ្តល់ផលប្រយោជន៍ទាំងដល់ពួកគេ និងក្រុម។"
+      },
+      "challenge": {
+        "en": "Overlooking staff who want to grow could leave them feeling stuck and less invested. Ask people what they want to learn and find small ways to help.",
+        "km": "ការមើលរំលងបុគ្គលិកដែលចង់រីកចម្រើន អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ជាប់គាំង និងចូលរួមតិចជាងមុន។ សូមសួរមនុស្សថាពួកគេចង់រៀនអ្វី ហើយរកវិធីតូចៗដើម្បីជួយ។"
+      },
+      "outcome": {
+        "en": "Giving staff chances to learn could create a team that grows stronger together. People who feel invested in may invest more in their colleagues.",
+        "km": "ការផ្តល់ឱកាសឱ្យបុគ្គលិករៀន អាចបង្កើតក្រុមដែលរីកចម្រើនរឹងមាំជាមួយគ្នា។ មនុស្សដែលមានអារម្មណ៍ថាត្រូវបានគេវិនិយោគលើ អាចវិនិយោគលើមិត្តរួមការងាររបស់ពួកគេកាន់តែច្រើន។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "The team may rely on steady routines and dependable people who quietly get things done. That reliability could be the backbone of good cooperation.",
+        "km": "ក្រុមប្រហែលជាពឹងផ្អែកលើទម្លាប់ទៀងទាត់ និងមនុស្សដែលអាចទុកចិត្តបាន ដែលធ្វើការងារបានសម្រេចដោយស្ងៀមស្ងាត់។ ភាពអាចទុកចិត្តបាននោះ អាចជាឆ្អឹងខ្នងនៃកិច្ចសហការល្អ។"
+      },
+      "challenge": {
+        "en": "Dependable staff being taken for granted could slowly wear down their goodwill. Thank the steady workers as often as the people who stand out.",
+        "km": "ការចាត់ទុកបុគ្គលិកដែលអាចទុកចិត្តបានថាជារឿងធម្មតា អាចធ្វើឱ្យឆន្ទៈល្អរបស់ពួកគេរលាយបន្តិចម្តងៗ។ សូមអរគុណអ្នកធ្វើការទៀងទាត់ ឱ្យញឹកញាប់ដូចអ្នកដែលលេចធ្លោដែរ។"
+      },
+      "outcome": {
+        "en": "Consistent routines that everyone follows could make cooperation smooth and predictable. A team that can count on each other may handle pressure calmly.",
+        "km": "ទម្លាប់ស៊ីសង្វាក់ដែលអ្នករាល់គ្នាអនុវត្តតាម អាចធ្វើឱ្យកិច្ចសហការរលូន និងអាចព្យាករបាន។ ក្រុមដែលអាចពឹងផ្អែកលើគ្នា អាចដោះស្រាយសម្ពាធដោយស្ងប់ស្ងាត់។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You may already look after your staff in practical ways, noticing their needs and offering support. That care could be a strong base for teamwork.",
+        "km": "អ្នកប្រហែលជាមើលថែបុគ្គលិករបស់អ្នកតាមវិធីជាក់ស្តែងរួចហើយ ដោយកត់សម្គាល់តម្រូវការរបស់ពួកគេ និងផ្តល់ការគាំទ្រ។ ការយកចិត្តទុកដាក់នោះ អាចជាមូលដ្ឋានរឹងមាំសម្រាប់ការងារជាក្រុម។"
+      },
+      "challenge": {
+        "en": "Looking after everyone's needs yourself could leave you stretched and staff less able to support each other. Encourage colleagues to look out for one another too.",
+        "km": "ការមើលថែតម្រូវការរបស់អ្នករាល់គ្នាដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកហត់នឿយ ហើយបុគ្គលិកមិនសូវអាចគាំទ្រគ្នា។ សូមលើកទឹកចិត្តមិត្តរួមការងារឱ្យមើលថែគ្នាទៅវិញទៅមកផងដែរ។"
+      },
+      "outcome": {
+        "en": "A workplace where people feel practically supported could foster loyalty and mutual help. Comfortable, fair conditions may make cooperation come more easily.",
+        "km": "កន្លែងធ្វើការដែលមនុស្សមានអារម្មណ៍ថាត្រូវបានគាំទ្រជាក់ស្តែង អាចជំរុញភាពស្មោះត្រង់ និងការជួយគ្នាទៅវិញទៅមក។ លក្ខខណ្ឌការងារស្រួល និងយុត្តិធម៌ អាចធ្វើឱ្យកិច្ចសហការកើតឡើងកាន់តែងាយ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You may offer staff a secure, well-run workplace that gives them confidence. That stability could be a solid base for asking them to work closely together.",
+        "km": "អ្នកប្រហែលជាផ្តល់ឱ្យបុគ្គលិកនូវកន្លែងធ្វើការមានសុវត្ថិភាព និងរៀបចំបានល្អ ដែលផ្តល់ទំនុកចិត្តដល់ពួកគេ។ ស្ថិរភាពនោះ អាចជាមូលដ្ឋានរឹងមាំសម្រាប់ការស្នើឱ្យពួកគេធ្វើការជាមួយគ្នាយ៉ាងជិតស្និទ្ធ។"
+      },
+      "challenge": {
+        "en": "Focusing only on results and numbers could make staff feel like resources rather than people. Show interest in the team's wellbeing as well as its output.",
+        "km": "ការផ្តោតតែលើលទ្ធផល និងតួលេខ អាចធ្វើឱ្យបុគ្គលិកមានអារម្មណ៍ដូចជាធនធាន ជាជាងមនុស្ស។ សូមបង្ហាញចំណាប់អារម្មណ៍លើសុខុមាលភាពរបស់ក្រុម ក៏ដូចជាលទ្ធផលរបស់វាដែរ។"
+      },
+      "outcome": {
+        "en": "Steady, generous leadership could build a team that feels secure enough to cooperate fully. People who trust their workplace may give their best to it.",
+        "km": "ការដឹកនាំទៀងទាត់ និងចិត្តទូលាយ អាចកសាងក្រុមដែលមានអារម្មណ៍សុវត្ថិភាពគ្រប់គ្រាន់ដើម្បីសហការពេញលេញ។ មនុស្សដែលទុកចិត្តកន្លែងធ្វើការរបស់ខ្លួន អាចផ្តល់អ្វីដែលល្អបំផុតដល់វា។"
+      }
+    }
+  }
+}
