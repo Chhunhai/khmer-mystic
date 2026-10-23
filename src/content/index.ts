@@ -52,6 +52,7 @@ import BI05 from './readings/BI-05.json';
 import BI06 from './readings/BI-06.json';
 import BI07 from './readings/BI-07.json';
 import BI08 from './readings/BI-08.json';
+import BI09 from './readings/BI-09.json';
 import zodiacReadingText from './zodiac-readings.json';
 import type { Content, QuestionReading, ZodiacReading } from '../engine/types.ts';
 
@@ -104,6 +105,7 @@ const questionReadings = {
   'BI-06': BI06,
   'BI-07': BI07,
   'BI-08': BI08,
+  'BI-09': BI09,
 } satisfies Record<string, QuestionReading>;
 const zodiacReadings = zodiacReadingText satisfies Record<string, ZodiacReading>;
 export const content = { cards, zodiac, topics, templates, questionReadings, zodiacReadings } as unknown as Content;

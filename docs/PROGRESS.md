@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 48 of 100 questions (11,232 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 49 of 100 questions (11,466 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-23: Drafted BI-09 (“What new opportunity should I explore?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/BI-09.json. BI-09 new-opportunity readings AI-drafted; English and native Khmer review pending. Saved coverage 49/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted BI-08 (“How can I improve teamwork in my business?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/BI-08.json. BI-08 teamwork readings AI-drafted; English and native Khmer review pending. Saved coverage 48/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted BI-07 (“What should I consider before investing?”, obstacle): 78 cards × 3 positions in English and Khmer, src/content/readings/BI-07.json. before investing: affordability, due diligence, liquidity, conflicts of interest, scams; no product advice, adviser pointers kept AI-drafted; English and native Khmer review pending. Saved coverage 47/100 questions; checks, typecheck and lint pass
 - 2026-10-23: Drafted BI-06 (“How can I attract more customers?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/BI-06.json. attracting customers: reviews, referrals, visibility, offers and service as the concrete lens AI-drafted; English and native Khmer review pending. Saved coverage 46/100 questions; checks, typecheck and lint pass

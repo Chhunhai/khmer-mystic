@@ -52,6 +52,7 @@
 | `src/content/readings/BI-06.json` | How can I attract more customers? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/BI-07.json` | What should I consider before investing? | 78 cards × 3 positions, English and Khmer (obstacle) |
 | `src/content/readings/BI-08.json` | How can I improve teamwork in my business? | 78 cards × 3 positions, English and Khmer (how) |
+| `src/content/readings/BI-09.json` | What new opportunity should I explore? | 78 cards × 3 positions, English and Khmer (how) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.

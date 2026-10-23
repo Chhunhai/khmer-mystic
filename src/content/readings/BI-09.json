@@ -1,0 +1,1097 @@
+{
+  "questionId": "BI-09",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You may feel drawn toward something untried, perhaps a product or market you know little about. That curiosity could be a good place to start exploring.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ទាក់ទាញទៅរកអ្វីដែលមិនទាន់សាកល្បង ប្រហែលជាផលិតផល ឬទីផ្សារដែលអ្នកដឹងតិចតួច។ ការចង់ដឹងនោះ អាចជាចំណុចល្អសម្រាប់ចាប់ផ្តើមស្វែងយល់។"
+      },
+      "challenge": {
+        "en": "Leaping into an unfamiliar venture without checking the ground could expose the business to avoidable risk. Test the idea on a small scale before committing more.",
+        "km": "ការលោតចូលក្នុងគម្រោងអាជីវកម្មដែលមិនស៊ាំ ដោយមិនពិនិត្យមើលស្ថានភាព អាចធ្វើឱ្យអាជីវកម្មប្រឈមហានិភ័យដែលអាចជៀសវាងបាន។ សូមសាកល្បងគំនិតនោះក្នុងកម្រិតតូច មុននឹងប្តេជ្ញាបន្ថែម។"
+      },
+      "outcome": {
+        "en": "An open-minded first step into new territory could reveal a direction you had not considered. A modest trial may teach you more than endless planning.",
+        "km": "ជំហានដំបូងដោយចិត្តបើកចំហ ចូលទៅក្នុងទឹកដីថ្មី អាចបង្ហាញទិសដៅដែលអ្នកមិនធ្លាប់គិត។ ការសាកល្បងតូចមួយ អាចបង្រៀនអ្នកច្រើនជាងការរៀបចំផែនការគ្មានទីបញ្ចប់។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may already have the skills and resources to turn an idea into a real offer. Looking at what you can do well could point to the right opportunity.",
+        "km": "អ្នកប្រហែលជាមានជំនាញ និងធនធានរួចហើយ ដើម្បីប្តូរគំនិតមួយទៅជាការផ្តល់ជូនពិតប្រាកដ។ ការមើលអ្វីដែលអ្នកអាចធ្វើបានល្អ អាចចង្អុលទៅរកឱកាសត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Chasing an opportunity that needs skills you lack could drain energy and money. Match new ventures to the abilities you and your staff already have.",
+        "km": "ការដេញតាមឱកាសដែលត្រូវការជំនាញដែលអ្នកខ្វះ អាចធ្វើឱ្យខាតថាមពល និងប្រាក់។ សូមផ្គូផ្គងគម្រោងថ្មី ជាមួយសមត្ថភាពដែលអ្នក និងបុគ្គលិករបស់អ្នកមានរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Putting your existing strengths to a fresh use could open a promising new line of business. Resourcefulness may turn a simple idea into a real source of income.",
+        "km": "ការប្រើចំណុចខ្លាំងដែលមានស្រាប់តាមរបៀបថ្មី អាចបើកផ្នែកអាជីវកម្មថ្មីដែលមានសក្តានុពល។ ភាពប៉ិនប្រសប់ អាចប្តូរគំនិតសាមញ្ញមួយ ទៅជាប្រភពចំណូលពិតប្រាកដ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "An opportunity may be forming quietly, not yet obvious to you or your competitors. Listening to customers' unspoken needs could help you see it.",
+        "km": "ឱកាសមួយប្រហែលជាកំពុងកើតឡើងដោយស្ងៀមស្ងាត់ ដែលមិនទាន់ច្បាស់សម្រាប់អ្នក ឬដៃគូប្រកួតប្រជែងរបស់អ្នក។ ការស្តាប់តម្រូវការដែលអតិថិជនមិនបាននិយាយ អាចជួយអ្នកឱ្យមើលឃើញវា។"
+      },
+      "challenge": {
+        "en": "Acting on a hunch without gathering facts could lead you toward an opportunity that is not real. Check your instinct against what customers actually say and buy.",
+        "km": "ការធ្វើសកម្មភាពតាមការសង្ស័យ ដោយមិនប្រមូលការពិត អាចនាំអ្នកទៅរកឱកាសដែលមិនពិត។ សូមផ្ទៀងផ្ទាត់សភាវគតិរបស់អ្នក ជាមួយអ្វីដែលអតិថិជននិយាយ និងទិញពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Paying attention to subtle signals in your market could uncover a niche others have missed. Insight gathered patiently may give you a quiet advantage.",
+        "km": "ការយកចិត្តទុកដាក់លើសញ្ញាតូចៗក្នុងទីផ្សាររបស់អ្នក អាចរកឃើញទីផ្សារពិសេសដែលអ្នកដទៃមើលរំលង។ ការយល់ដឹងដែលប្រមូលដោយអត់ធ្មត់ អាចផ្តល់ឱ្យអ្នកនូវគុណសម្បត្តិស្ងាត់ៗ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "There may be room to grow by nurturing something you already offer into something fuller. Customers' delight with an existing product could hint at what to expand.",
+        "km": "ប្រហែលជាមានកន្លែងរីកចម្រើន ដោយការថែរក្សាអ្វីដែលអ្នកផ្តល់ជូនរួចហើយ ឱ្យកាន់តែពេញលេញ។ ការពេញចិត្តរបស់អតិថិជនចំពោះផលិតផលដែលមានស្រាប់ អាចបង្ហាញពីអ្វីដែលគួរពង្រីក។"
+      },
+      "challenge": {
+        "en": "Spreading care across too many new ideas could leave none of them able to grow properly. Choose one opportunity to nurture rather than planting everything at once.",
+        "km": "ការបែងចែកការយកចិត្តទុកដាក់លើគំនិតថ្មីច្រើនពេក អាចធ្វើឱ្យគ្មានគំនិតណាមួយអាចរីកចម្រើនបានត្រឹមត្រូវ។ សូមជ្រើសរើសឱកាសមួយដើម្បីថែរក្សា ជាជាងដាំអ្វីៗទាំងអស់ក្នុងពេលតែមួយ។"
+      },
+      "outcome": {
+        "en": "Developing a well-loved product or service further could bring steady, natural growth. Customers who already trust you may welcome more of what they like.",
+        "km": "ការអភិវឌ្ឍផលិតផល ឬសេវាកម្មដែលគេចូលចិត្តបន្ថែមទៀត អាចនាំមកនូវកំណើនទៀងទាត់ និងធម្មជាតិ។ អតិថិជនដែលទុកចិត្តអ្នករួចហើយ អាចស្វាគមន៍អ្វីដែលពួកគេចូលចិត្តបន្ថែមទៀត។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "A structured opportunity, such as a formal contract or an established supplier, may be within reach. Your organised approach could make you a dependable partner.",
+        "km": "ឱកាសដែលមានរចនាសម្ព័ន្ធ ដូចជាកិច្ចសន្យាផ្លូវការ ឬអ្នកផ្គត់ផ្គង់ដែលមានស្រាប់ ប្រហែលជាស្ថិតនៅក្នុងដៃ។ វិធីសាស្ត្ររៀបចំបានល្អរបស់អ្នក អាចធ្វើឱ្យអ្នកក្លាយជាដៃគូដែលអាចទុកចិត្តបាន។"
+      },
+      "challenge": {
+        "en": "Holding too rigidly to your current way of operating could make you miss openings that need flexibility. Be willing to adjust processes for the right opportunity.",
+        "km": "ការប្រកាន់ខ្ជាប់របៀបប្រតិបត្តិការបច្ចុប្បន្នយ៉ាងតឹងរ៉ឹងពេក អាចធ្វើឱ្យអ្នកខកខានឱកាសដែលត្រូវការភាពបត់បែន។ សូមមានឆន្ទៈកែសម្រួលដំណើរការ សម្រាប់ឱកាសត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "Building a solid system around a new venture could help it grow on firm ground. Clear agreements and processes may make the opportunity last.",
+        "km": "ការកសាងប្រព័ន្ធរឹងមាំជុំវិញគម្រោងថ្មី អាចជួយវាឱ្យរីកចម្រើនលើដីរឹងមាំ។ កិច្ចព្រមព្រៀង និងដំណើរការច្បាស់លាស់ អាចធ្វើឱ្យឱកាសនោះស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "A proven path, such as joining an association or following a trusted model, may suit you. Learning from established businesses could show you reliable opportunities.",
+        "km": "ផ្លូវដែលបានបញ្ជាក់រួច ដូចជាការចូលរួមសមាគម ឬការធ្វើតាមគំរូដែលគួរឱ្យទុកចិត្ត ប្រហែលជាសមនឹងអ្នក។ ការរៀនពីអាជីវកម្មដែលមានស្រាប់ អាចបង្ហាញអ្នកពីឱកាសដែលអាចទុកចិត្តបាន។"
+      },
+      "challenge": {
+        "en": "Copying what everyone else does could leave you in a crowded market with little to stand out. Adapt a proven idea with something that is truly your own.",
+        "km": "ការចម្លងអ្វីដែលអ្នកដទៃធ្វើ អាចទុកអ្នកក្នុងទីផ្សារដែលមានមនុស្សច្រើន ដោយមានអ្វីតិចតួចដើម្បីលេចធ្លោ។ សូមកែសម្រួលគំនិតដែលបានបញ្ជាក់រួច ដោយបន្ថែមអ្វីដែលជារបស់អ្នកពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Advice from an experienced mentor or trade group could guide you toward a sound opportunity. Building on tested foundations may reduce the risk of trying something new.",
+        "km": "ដំបូន្មានពីអ្នកណែនាំដែលមានបទពិសោធន៍ ឬក្រុមពាណិជ្ជកម្ម អាចណែនាំអ្នកទៅរកឱកាសដែលល្អ។ ការកសាងលើមូលដ្ឋានដែលបានសាកល្បង អាចកាត់បន្ថយហានិភ័យនៃការសាកល្បងអ្វីថ្មី។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "A partnership or collaboration may be the opportunity worth exploring, joining strengths with another business. Choosing who to work with could shape everything else.",
+        "km": "ភាពជាដៃគូ ឬកិច្ចសហការ ប្រហែលជាឱកាសដែលគួរស្វែងយល់ ដោយរួមបញ្ចូលចំណុចខ្លាំងជាមួយអាជីវកម្មផ្សេងទៀត។ ការជ្រើសរើសអ្នកដែលត្រូវធ្វើការជាមួយ អាចកំណត់អ្វីៗផ្សេងទៀតទាំងអស់។"
+      },
+      "challenge": {
+        "en": "Partnering with someone whose values differ from yours could create conflict over decisions. Check that a potential partner shares your standards before agreeing.",
+        "km": "ការចាប់ដៃគូជាមួយនរណាម្នាក់ដែលមានគុណតម្លៃខុសពីអ្នក អាចបង្កជម្លោះលើការសម្រេចចិត្ត។ សូមពិនិត្យថាដៃគូដែលមានសក្តានុពល ចែករំលែកស្តង់ដាររបស់អ្នក មុនពេលយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "A well-matched partnership could open markets or customers you could not reach alone. Shared values and clear terms may make the collaboration rewarding for both sides.",
+        "km": "ភាពជាដៃគូដែលត្រូវគ្នាល្អ អាចបើកទីផ្សារ ឬអតិថិជនដែលអ្នកមិនអាចឈានដល់តែម្នាក់ឯង។ គុណតម្លៃរួម និងលក្ខខណ្ឌច្បាស់លាស់ អាចធ្វើឱ្យកិច្ចសហការផ្តល់ផលល្អដល់ភាគីទាំងពីរ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You may have the drive to push into a new market or launch something ambitious. Focusing that determination on one clear target could carry you far.",
+        "km": "អ្នកប្រហែលជាមានការតាំងចិត្តដើម្បីជំរុញចូលទីផ្សារថ្មី ឬដាក់ចេញអ្វីដែលមានមហិច្ឆតា។ ការផ្តោតការតាំងចិត្តនោះលើគោលដៅច្បាស់លាស់មួយ អាចនាំអ្នកទៅឆ្ងាយ។"
+      },
+      "challenge": {
+        "en": "Pursuing several opportunities in different directions could pull your business apart. Pick the one that fits your strengths and steer firmly toward it.",
+        "km": "ការដេញតាមឱកាសច្រើនក្នុងទិសដៅខុសៗគ្នា អាចទាញអាជីវកម្មរបស់អ្នកឱ្យបែកខ្ញែក។ សូមជ្រើសរើសឱកាសដែលសមនឹងចំណុចខ្លាំងរបស់អ្នក ហើយដឹកនាំឆ្ពោះទៅរកវាយ៉ាងម៉ឺងម៉ាត់។"
+      },
+      "outcome": {
+        "en": "Steering decisively toward one well-chosen opportunity could bring a real breakthrough. Focused effort may get you further than scattered attempts.",
+        "km": "ការដឹកនាំដោយម៉ឺងម៉ាត់ឆ្ពោះទៅរកឱកាសដែលជ្រើសរើសបានល្អមួយ អាចនាំមកនូវការទម្លុះពិតប្រាកដ។ ការខិតខំដែលផ្តោត អាចនាំអ្នកទៅឆ្ងាយជាងការព្យាយាមខ្ចាត់ខ្ចាយ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Steady confidence may help you approach a new opportunity without rushing or fear. Gentle persistence could win over customers or partners who are hesitant.",
+        "km": "ទំនុកចិត្តនឹងនរ អាចជួយអ្នកឱ្យចូលទៅរកឱកាសថ្មី ដោយមិនប្រញាប់ ឬភ័យខ្លាច។ ការតស៊ូដោយទន់ភ្លន់ អាចទាក់ទាញអតិថិជន ឬដៃគូដែលស្ទាក់ស្ទើរ។"
+      },
+      "challenge": {
+        "en": "Doubting your ability to handle something new could keep you from trying at all. Remember the challenges you have already managed in the business.",
+        "km": "ការសង្ស័យលើសមត្ថភាពរបស់អ្នកក្នុងការដោះស្រាយអ្វីថ្មី អាចរារាំងអ្នកពីការសាកល្បងទាំងស្រុង។ សូមនឹកឃើញពីបញ្ហាប្រឈមដែលអ្នកបានដោះស្រាយរួចហើយក្នុងអាជីវកម្ម។"
+      },
+      "outcome": {
+        "en": "Calm courage could help you take on a challenging opportunity and see it through. Patient handling of setbacks may turn a difficult venture into a success.",
+        "km": "ភាពក្លាហានស្ងប់ស្ងាត់ អាចជួយអ្នកឱ្យទទួលយកឱកាសដែលមានបញ្ហាប្រឈម ហើយអនុវត្តវាឱ្យចប់។ ការដោះស្រាយឧបសគ្គដោយអត់ធ្មត់ អាចប្តូរគម្រោងលំបាកទៅជាភាពជោគជ័យ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Stepping back to think about what you truly want from the business could clarify which opportunity fits. Quiet research may matter more than quick action.",
+        "km": "ការដកខ្លួនមកវិញដើម្បីគិតអំពីអ្វីដែលអ្នកពិតជាចង់បានពីអាជីវកម្ម អាចបញ្ជាក់ថាឱកាសណាដែលសម។ ការស្រាវជ្រាវស្ងាត់ៗ អាចសំខាន់ជាងសកម្មភាពរហ័ស។"
+      },
+      "challenge": {
+        "en": "Researching endlessly without acting could let a good opening pass you by. Set a point at which you will decide whether to go ahead.",
+        "km": "ការស្រាវជ្រាវគ្មានទីបញ្ចប់ ដោយមិនធ្វើសកម្មភាព អាចបណ្តោយឱ្យឱកាសល្អរំលងអ្នក។ សូមកំណត់ចំណុចមួយ ដែលអ្នកនឹងសម្រេចចិត្តថាត្រូវបន្តឬអត់។"
+      },
+      "outcome": {
+        "en": "Careful reflection could lead you to an opportunity that truly suits your strengths and values. A well-considered choice may bring lasting satisfaction.",
+        "km": "ការពិចារណាដោយប្រុងប្រយ័ត្ន អាចនាំអ្នកទៅរកឱកាសដែលពិតជាសមនឹងចំណុចខ្លាំង និងគុណតម្លៃរបស់អ្នក។ ជម្រើសដែលបានពិចារណាល្អ អាចនាំមកនូវការពេញចិត្តស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Shifts in your market may be opening doors that were closed before. Noticing which way demand is turning could reveal an opportunity worth exploring.",
+        "km": "ការផ្លាស់ប្តូរក្នុងទីផ្សាររបស់អ្នក ប្រហែលជាកំពុងបើកទ្វារដែលធ្លាប់បិទ។ ការកត់សម្គាល់ថាតម្រូវការកំពុងបង្វែរទៅទិសណា អាចបង្ហាញឱកាសដែលគួរស្វែងយល់។"
+      },
+      "challenge": {
+        "en": "Assuming a lucky break will last could leave the business exposed when conditions change. Use good fortune to build something that can stand on its own.",
+        "km": "ការសន្មតថាសំណាងល្អនឹងស្ថិតស្ថេរ អាចធ្វើឱ្យអាជីវកម្មងាយរងគ្រោះនៅពេលលក្ខខណ្ឌផ្លាស់ប្តូរ។ សូមប្រើសំណាងល្អដើម្បីកសាងអ្វីដែលអាចឈរដោយខ្លួនឯងបាន។"
+      },
+      "outcome": {
+        "en": "Moving with a favourable turn in your market could bring growth you did not plan for. Being ready to adapt may let you catch the opportunity while the door is open.",
+        "km": "ការផ្លាស់ទីតាមការប្រែប្រួលល្អក្នុងទីផ្សាររបស់អ្នក អាចនាំមកនូវកំណើនដែលអ្នកមិនបានគ្រោងទុក។ ការត្រៀមខ្លួនសម្របខ្លួន អាចឱ្យអ្នកចាប់ឱកាសនោះ ខណៈទ្វារនៅបើកចំហ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A fair, balanced look at the costs and benefits of each option may be your best starting point. Weighing facts honestly could show which opportunity is sound.",
+        "km": "ការមើលដោយយុត្តិធម៌ និងតុល្យភាពលើថ្លៃដើម និងអត្ថប្រយោជន៍នៃជម្រើសនីមួយៗ ប្រហែលជាចំណុចចាប់ផ្តើមល្អបំផុតរបស់អ្នក។ ការថ្លឹងថ្លែងការពិតដោយស្មោះត្រង់ អាចបង្ហាញថាឱកាសណាដែលល្អ។"
+      },
+      "challenge": {
+        "en": "Overlooking the legal or contractual side of a new venture could create problems you did not expect. Get proper advice on agreements before you commit.",
+        "km": "ការមើលរំលងផ្នែកច្បាប់ ឬកិច្ចសន្យានៃគម្រោងថ្មី អាចបង្កបញ្ហាដែលអ្នកមិនបានរំពឹង។ សូមស្វែងរកដំបូន្មានត្រឹមត្រូវលើកិច្ចព្រមព្រៀង មុនពេលអ្នកប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "Choosing an opportunity that is fair to customers and partners could build a strong reputation. Honest dealings may attract more of the right kind of business.",
+        "km": "ការជ្រើសរើសឱកាសដែលយុត្តិធម៌ចំពោះអតិថិជន និងដៃគូ អាចកសាងកេរ្តិ៍ឈ្មោះរឹងមាំ។ ការធ្វើជំនួញដោយស្មោះត្រង់ អាចទាក់ទាញអាជីវកម្មប្រភេទត្រឹមត្រូវកាន់តែច្រើន។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Looking at your business from a different angle may reveal an opportunity hidden in plain sight. A pause in growth could be a chance to rethink your offer.",
+        "km": "ការមើលអាជីវកម្មរបស់អ្នកពីមុំផ្សេង អាចបង្ហាញឱកាសដែលលាក់នៅចំពោះមុខ។ ការផ្អាកនៃកំណើន អាចជាឱកាសដើម្បីគិតឡើងវិញពីការផ្តល់ជូនរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Waiting for the perfect opportunity could leave you stuck while others move. Accept that any opening will involve some uncertainty.",
+        "km": "ការរង់ចាំឱកាសដ៏ល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកជាប់គាំង ខណៈអ្នកដទៃផ្លាស់ទី។ សូមទទួលយកថាឱកាសណាមួយនឹងមានភាពមិនច្បាស់លាស់ខ្លះ។"
+      },
+      "outcome": {
+        "en": "A fresh perspective could turn a slow patch into the start of a new direction. Seeing your products or customers differently may spark the right idea.",
+        "km": "ទស្សនៈថ្មីមួយ អាចប្តូរដំណាក់កាលយឺតយ៉ាវ ទៅជាការចាប់ផ្តើមនៃទិសដៅថ្មី។ ការមើលផលិតផល ឬអតិថិជនរបស់អ្នកខុសពីមុន អាចបញ្ឆេះគំនិតត្រឹមត្រូវ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Part of your business may be reaching its natural end, making space for something new. Letting go of a fading line could free resources to explore elsewhere.",
+        "km": "ផ្នែកមួយនៃអាជីវកម្មរបស់អ្នក ប្រហែលជាកំពុងឈានដល់ទីបញ្ចប់ធម្មជាតិ ដោយបើកកន្លែងសម្រាប់អ្វីថ្មី។ ការបោះបង់ផ្នែកដែលកំពុងរសាត់ អាចដោះលែងធនធានដើម្បីស្វែងយល់កន្លែងផ្សេង។"
+      },
+      "challenge": {
+        "en": "Holding on to a product or service that no longer sells could block room for better ideas. Be honest about what has run its course.",
+        "km": "ការប្រកាន់ខ្ជាប់ផលិតផល ឬសេវាកម្មដែលលែងលក់ដាច់ អាចរារាំងកន្លែងសម្រាប់គំនិតល្អជាង។ សូមស្មោះត្រង់អំពីអ្វីដែលបានដល់ទីបញ្ចប់ហើយ។"
+      },
+      "outcome": {
+        "en": "Closing one chapter could open the way to an opportunity better suited to the business you want. Transformation may bring renewed purpose and energy.",
+        "km": "ការបិទជំពូកមួយ អាចបើកផ្លូវទៅរកឱកាសដែលសមស្របជាងសម្រាប់អាជីវកម្មដែលអ្នកចង់បាន។ ការផ្លាស់ប្តូរទាំងស្រុង អាចនាំមកនូវគោលបំណង និងថាមពលថ្មី។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "A balanced opportunity, one that blends what you already do with something new, may suit you. Mixing familiar strengths with fresh ideas could feel right.",
+        "km": "ឱកាសដែលមានតុល្យភាព ដែលលាយបញ្ចូលអ្វីដែលអ្នកធ្វើរួចហើយ ជាមួយអ្វីថ្មី ប្រហែលជាសមនឹងអ្នក។ ការលាយចំណុចខ្លាំងដែលស៊ាំ ជាមួយគំនិតថ្មី អាចមានអារម្មណ៍ត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Expanding too fast into something new could unbalance the parts of the business that already work. Grow the new venture in measured steps alongside the old.",
+        "km": "ការពង្រីកលឿនពេកទៅរកអ្វីថ្មី អាចធ្វើឱ្យផ្នែកនៃអាជីវកម្មដែលដំណើរការរួចហើយបាត់តុល្យភាព។ សូមពង្រីកគម្រោងថ្មីជាជំហានៗដែលមានកម្រិត ស្របជាមួយផ្នែកចាស់។"
+      },
+      "outcome": {
+        "en": "Blending a new offer smoothly into your existing business could create steady, healthy growth. Patience and moderation may help both old and new thrive.",
+        "km": "ការបញ្ចូលការផ្តល់ជូនថ្មីយ៉ាងរលូនទៅក្នុងអាជីវកម្មដែលមានស្រាប់ អាចបង្កើតកំណើនទៀងទាត់ និងមានសុខភាពល្អ។ ការអត់ធ្មត់ និងភាពសមរម្យ អាចជួយទាំងផ្នែកចាស់ និងថ្មីឱ្យរីកចម្រើន។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "An opportunity promising fast money may be tempting, even if something about it feels off. Looking closely at the strings attached could protect you.",
+        "km": "ឱកាសដែលសន្យាប្រាក់ងាយៗ ប្រហែលជាទាក់ទាញ ទោះបីជាមានអ្វីមួយហាក់ដូចជាមិនប្រក្រតី។ ការពិនិត្យមើលលក្ខខណ្ឌលាក់កំបាំងដោយយកចិត្តទុកដាក់ អាចការពារអ្នក។"
+      },
+      "challenge": {
+        "en": "Getting tied into a deal that limits your freedom could trap the business. Read every condition carefully and seek advice before signing anything binding.",
+        "km": "ការជាប់ចំណងក្នុងកិច្ចព្រមព្រៀងដែលកំណត់សេរីភាពរបស់អ្នក អាចដាក់អាជីវកម្មក្នុងអន្ទាក់។ សូមអានលក្ខខណ្ឌនីមួយៗដោយយកចិត្តទុកដាក់ ហើយស្វែងរកដំបូន្មាន មុនពេលចុះហត្ថលេខាលើអ្វីដែលមានកាតព្វកិច្ច។"
+      },
+      "outcome": {
+        "en": "Walking away from a tempting but unhealthy deal could leave you free for something better. Opportunities that respect your independence may serve you well.",
+        "km": "ការចាកចេញពីកិច្ចព្រមព្រៀងដែលទាក់ទាញ ប៉ុន្តែមិនល្អ អាចទុកឱ្យអ្នកមានសេរីភាពសម្រាប់អ្វីដែលល្អជាង។ ឱកាសដែលគោរពឯករាជ្យភាពរបស់អ្នក អាចបម្រើអ្នកបានល្អ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A sudden change in your market or circumstances may be forcing you to look for new openings. Disruption could reveal opportunities you would not have seen otherwise.",
+        "km": "ការផ្លាស់ប្តូរភ្លាមៗក្នុងទីផ្សារ ឬកាលៈទេសៈរបស់អ្នក ប្រហែលជាកំពុងបង្ខំអ្នកឱ្យស្វែងរកឱកាសថ្មី។ ការរំខាននេះ អាចបង្ហាញឱកាសដែលអ្នកមិនអាចមើលឃើញបើគ្មានវា។"
+      },
+      "challenge": {
+        "en": "Reacting to a shock by grabbing the first new idea could lead to another mistake. Steady yourself and assess options before rebuilding.",
+        "km": "ការឆ្លើយតបនឹងការភ្ញាក់ផ្អើល ដោយចាប់យកគំនិតថ្មីដំបូងបង្អស់ អាចនាំឱ្យមានកំហុសមួយទៀត។ សូមធ្វើឱ្យខ្លួនឯងនឹងនរ ហើយវាយតម្លៃជម្រើស មុនពេលកសាងឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Rebuilding after an upheaval could lead you to a stronger, more relevant business. What falls away may make room for a better opportunity.",
+        "km": "ការកសាងឡើងវិញបន្ទាប់ពីភាពចលាចល អាចនាំអ្នកទៅរកអាជីវកម្មដែលរឹងមាំ និងពាក់ព័ន្ធជាងមុន។ អ្វីដែលធ្លាក់ចេញ អាចបើកកន្លែងសម្រាប់ឱកាសល្អជាង។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "You may feel hopeful about a new direction that seems to fit your values and dreams. That sense of possibility could guide you toward meaningful work.",
+        "km": "អ្នកប្រហែលជាមានក្តីសង្ឃឹមអំពីទិសដៅថ្មី ដែលហាក់ដូចជាសមនឹងគុណតម្លៃ និងក្តីស្រមៃរបស់អ្នក។ អារម្មណ៍នៃលទ្ធភាពនោះ អាចណែនាំអ្នកទៅរកការងារដែលមានអត្ថន័យ។"
+      },
+      "challenge": {
+        "en": "Following inspiration without a practical plan could leave a good idea unfinished. Turn your vision into concrete steps, costs and customers.",
+        "km": "ការធ្វើតាមការបំផុសគំនិត ដោយគ្មានផែនការជាក់ស្តែង អាចទុកគំនិតល្អមួយមិនបានបញ្ចប់។ សូមប្តូរចក្ខុវិស័យរបស់អ្នកទៅជាជំហាន ថ្លៃដើម និងអតិថិជនជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "An opportunity that matches your deeper purpose could renew your enthusiasm for the business. Work you believe in may attract customers who share your values.",
+        "km": "ឱកាសដែលត្រូវនឹងគោលបំណងជ្រៅរបស់អ្នក អាចធ្វើឱ្យភាពរំភើបរបស់អ្នកចំពោះអាជីវកម្មរស់ឡើងវិញ។ ការងារដែលអ្នកជឿជាក់ អាចទាក់ទាញអតិថិជនដែលចែករំលែកគុណតម្លៃរបស់អ្នក។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "The picture around a possible opportunity may be unclear, with some facts still hidden. Gathering more information could help you see what is really on offer.",
+        "km": "រូបភាពជុំវិញឱកាសដែលអាចកើតមាន ប្រហែលជាមិនច្បាស់ ដោយការពិតខ្លះនៅលាក់កំបាំង។ ការប្រមូលព័ត៌មានបន្ថែម អាចជួយអ្នកឱ្យឃើញអ្វីដែលពិតជាត្រូវបានផ្តល់ជូន។"
+      },
+      "challenge": {
+        "en": "Trusting an offer that sounds too good could expose you to hidden costs or dishonest partners. Verify claims and check references before going further.",
+        "km": "ការទុកចិត្តលើការផ្តល់ជូនដែលស្តាប់ទៅល្អពេក អាចធ្វើឱ្យអ្នកប្រឈមនឹងថ្លៃដើមលាក់កំបាំង ឬដៃគូមិនស្មោះត្រង់។ សូមផ្ទៀងផ្ទាត់ការអះអាង និងពិនិត្យឯកសារយោង មុនពេលបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Looking past the surface of an opportunity could protect you from costly surprises. Clear facts may turn uncertainty into a confident decision.",
+        "km": "ការមើលហួសពីផ្ទៃខាងក្រៅនៃឱកាសមួយ អាចការពារអ្នកពីការភ្ញាក់ផ្អើលដែលខាតបង់។ ការពិតច្បាស់លាស់ អាចប្តូរភាពមិនច្បាស់លាស់ ទៅជាការសម្រេចចិត្តប្រកបដោយទំនុកចិត្ត។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "An opportunity that feels bright and energising may be in front of you. Your enthusiasm could be a strong signal that this direction is worth exploring.",
+        "km": "ឱកាសដែលមានអារម្មណ៍ភ្លឺស្វាង និងផ្តល់ថាមពល ប្រហែលជានៅចំពោះមុខអ្នក។ ភាពរំភើបរបស់អ្នក អាចជាសញ្ញាខ្លាំងថាទិសដៅនេះគួរស្វែងយល់។"
+      },
+      "challenge": {
+        "en": "Excitement about a promising idea could make you overlook its practical demands. Check costs, workload and demand even when everything looks good.",
+        "km": "ភាពរំភើបអំពីគំនិតដែលមានសក្តានុពល អាចធ្វើឱ្យអ្នកមើលរំលងតម្រូវការជាក់ស្តែងរបស់វា។ សូមពិនិត្យថ្លៃដើម បន្ទុកការងារ និងតម្រូវការ ទោះបីជាអ្វីៗមើលទៅល្អក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A well-chosen opportunity could bring visible success and renewed confidence in the business. Customers may respond warmly to an offer that clearly delights them.",
+        "km": "ឱកាសដែលជ្រើសរើសបានល្អ អាចនាំមកនូវភាពជោគជ័យដែលមើលឃើញ និងទំនុកចិត្តថ្មីលើអាជីវកម្ម។ អតិថិជនអាចឆ្លើយតបយ៉ាងកក់ក្តៅ ចំពោះការផ្តល់ជូនដែលធ្វើឱ្យពួកគេរីករាយយ៉ាងច្បាស់។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "A past idea or contact may deserve a second look in light of what you have learned. Reviewing what you once set aside could reveal a fresh opportunity.",
+        "km": "គំនិត ឬទំនាក់ទំនងកន្លងមកមួយ ប្រហែលជាសមនឹងមើលម្តងទៀត ដោយផ្អែកលើអ្វីដែលអ្នកបានរៀន។ ការពិនិត្យឡើងវិញនូវអ្វីដែលអ្នកធ្លាប់ទុកចោល អាចបង្ហាញឱកាសថ្មី។"
+      },
+      "challenge": {
+        "en": "Repeating a past business mistake could cost you a promising opportunity. Learn honestly from what went wrong before trying something similar.",
+        "km": "ការធ្វើកំហុសអាជីវកម្មកន្លងមកម្តងទៀត អាចធ្វើឱ្យអ្នកបាត់បង់ឱកាសដែលមានសក្តានុពល។ សូមរៀនដោយស្មោះត្រង់ពីអ្វីដែលខុស មុនពេលសាកល្បងអ្វីដែលស្រដៀងគ្នា។"
+      },
+      "outcome": {
+        "en": "Answering a call you feel strongly about could lead to an opportunity that reshapes the business. Lessons from experience may make the new venture wiser.",
+        "km": "ការឆ្លើយតបនឹងការអំពាវនាវដែលអ្នកមានអារម្មណ៍ខ្លាំង អាចនាំទៅរកឱកាសដែលកែប្រែរូបរាងអាជីវកម្ម។ មេរៀនពីបទពិសោធន៍ អាចធ្វើឱ្យគម្រោងថ្មីឆ្លាតវៃជាងមុន។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "A sense of completion may be settling over what you have built, leaving you ready for the next stage. Looking beyond your current market could reveal where to expand.",
+        "km": "អារម្មណ៍នៃភាពពេញលេញ ប្រហែលជាកំពុងគ្របដណ្តប់លើអ្វីដែលអ្នកបានកសាង ដោយធ្វើឱ្យអ្នកត្រៀមខ្លួនសម្រាប់ដំណាក់កាលបន្ទាប់។ ការមើលហួសពីទីផ្សារបច្ចុប្បន្នរបស់អ្នក អាចបង្ហាញកន្លែងដែលត្រូវពង្រីក។"
+      },
+      "challenge": {
+        "en": "Feeling settled could make you hesitate to explore beyond what you have built. Treat your achievements as a base for the next step, not an end point.",
+        "km": "អារម្មណ៍ថាបាននឹងនរ អាចធ្វើឱ្យអ្នកស្ទាក់ស្ទើរក្នុងការស្វែងយល់ហួសពីអ្វីដែលអ្នកបានកសាង។ សូមចាត់ទុកសមិទ្ធផលរបស់អ្នកជាមូលដ្ឋានសម្រាប់ជំហានបន្ទាប់ មិនមែនជាចំណុចបញ្ចប់ទេ។"
+      },
+      "outcome": {
+        "en": "Expanding into a wider market or new region could bring the business to a fuller stage. Building on what you have achieved may open a broader world of customers.",
+        "km": "ការពង្រីកទៅទីផ្សារធំជាង ឬតំបន់ថ្មី អាចនាំអាជីវកម្មទៅដំណាក់កាលពេញលេញជាងមុន។ ការកសាងលើអ្វីដែលអ្នកបានសម្រេច អាចបើកពិភពអតិថិជនទូលំទូលាយជាង។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A spark of inspiration for a new product, service or venture may be calling to you. Testing the idea with a few customers could be the place to start.",
+        "km": "ការបំផុសគំនិតសម្រាប់ផលិតផល សេវាកម្ម ឬគម្រោងថ្មី ប្រហែលជាកំពុងហៅអ្នក។ ការសាកល្បងគំនិតនោះជាមួយអតិថិជនពីរបីនាក់ អាចជាកន្លែងចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "A burst of excitement could fade before the new idea has a real plan behind it. Back your inspiration with a simple test of whether people will pay.",
+        "km": "ភាពរំភើបមួយភ្លែត អាចរសាត់បាត់មុនពេលគំនិតថ្មីមានផែនការពិតប្រាកដនៅពីក្រោយ។ សូមគាំទ្រការបំផុសគំនិតរបស់អ្នក ដោយការសាកល្បងសាមញ្ញមួយថាតើមនុស្សនឹងបង់ប្រាក់ឬអត់។"
+      },
+      "outcome": {
+        "en": "A bold new idea, tested and refined, could become a lively new part of your business. Fresh energy may attract customers who are looking for something different.",
+        "km": "គំនិតថ្មីដ៏ក្លាហាន ដែលបានសាកល្បង និងកែលម្អ អាចក្លាយជាផ្នែកថ្មីដ៏រស់រវើកនៃអាជីវកម្មរបស់អ្នក។ ថាមពលថ្មី អាចទាក់ទាញអតិថិជនដែលកំពុងស្វែងរកអ្វីដែលខុសប្លែក។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You may be weighing two directions, staying with what you know or reaching for a wider market. Mapping out the options could show which is worth exploring.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងទិសដៅពីរ គឺនៅជាមួយអ្វីដែលអ្នកដឹង ឬឈោងទៅរកទីផ្សារធំជាង។ ការគូសផែនទីជម្រើស អាចបង្ហាញថាមួយណាដែលគួរស្វែងយល់។"
+      },
+      "challenge": {
+        "en": "Planning in great detail without taking a first step could keep the opportunity on paper. Choose one direction and set a small, real action to test it.",
+        "km": "ការរៀបចំផែនការលម្អិតខ្លាំង ដោយមិនបោះជំហានដំបូង អាចទុកឱកាសនោះត្រឹមលើក្រដាស។ សូមជ្រើសរើសទិសដៅមួយ ហើយកំណត់សកម្មភាពតូច និងពិតប្រាកដមួយដើម្បីសាកល្បងវា។"
+      },
+      "outcome": {
+        "en": "A clear decision to pursue a wider market could expand what your business can become. Careful planning may turn ambition into a realistic route forward.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់ដើម្បីដេញតាមទីផ្សារធំជាង អាចពង្រីកអ្វីដែលអាជីវកម្មរបស់អ្នកអាចក្លាយជា។ ការរៀបចំផែនការដោយប្រុងប្រយ័ត្ន អាចប្តូរមហិច្ឆតាទៅជាផ្លូវទៅមុខដែលជាក់ស្តែង។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "First efforts in a new direction may already be showing promise, with interest coming from further afield. Watching where enquiries come from could point the way.",
+        "km": "ការខិតខំដំបូងក្នុងទិសដៅថ្មី ប្រហែលជាកំពុងបង្ហាញសក្តានុពលរួចហើយ ដោយមានចំណាប់អារម្មណ៍មកពីកន្លែងឆ្ងាយៗ។ ការតាមដានថាសំណួរមកពីណា អាចចង្អុលផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Reaching for distant markets before your base is secure could stretch the business too thin. Make sure your current customers stay well served as you expand.",
+        "km": "ការឈោងទៅរកទីផ្សារឆ្ងាយៗ មុនពេលមូលដ្ឋានរបស់អ្នកមានសុវត្ថិភាព អាចធ្វើឱ្យអាជីវកម្មតឹងតែងពេក។ សូមប្រាកដថាអតិថិជនបច្ចុប្បន្នរបស់អ្នក នៅតែទទួលបានសេវាល្អ ខណៈអ្នកពង្រីក។"
+      },
+      "outcome": {
+        "en": "Expanding into new areas, such as online sales or another region, could widen your reach. Foresight and preparation may help the business grow beyond its current borders.",
+        "km": "ការពង្រីកទៅតំបន់ថ្មី ដូចជាការលក់តាមអនឡាញ ឬតំបន់ផ្សេងទៀត អាចពង្រីកវិសាលភាពរបស់អ្នក។ ការមើលឃើញជាមុន និងការត្រៀមរៀបចំ អាចជួយអាជីវកម្មឱ្យរីកចម្រើនហួសព្រំដែនបច្ចុប្បន្ន។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A stable, welcoming shop or service that customers enjoy returning to may be your base. Events or community gatherings could be an opportunity to build on that.",
+        "km": "ហាង ឬសេវាកម្មដែលមានស្ថិរភាព និងរាក់ទាក់ ដែលអតិថិជនចូលចិត្តត្រឡប់មកវិញ ប្រហែលជាមូលដ្ឋានរបស់អ្នក។ ព្រឹត្តិការណ៍ ឬការជួបជុំសហគមន៍ អាចជាឱកាសដើម្បីកសាងលើនោះ។"
+      },
+      "challenge": {
+        "en": "Feeling comfortable with what works could make you overlook openings to grow. Ask loyal customers what else they would like you to offer.",
+        "km": "ការមានអារម្មណ៍ស្រួលនឹងអ្វីដែលដំណើរការ អាចធ្វើឱ្យអ្នកមើលរំលងឱកាសដើម្បីរីកចម្រើន។ សូមសួរអតិថិជនស្មោះត្រង់ថាពួកគេចង់ឱ្យអ្នកផ្តល់ជូនអ្វីទៀត។"
+      },
+      "outcome": {
+        "en": "Celebrating your community of customers could open opportunities for events, partnerships or new services. A welcoming brand may draw people in naturally.",
+        "km": "ការអបអរសហគមន៍អតិថិជនរបស់អ្នក អាចបើកឱកាសសម្រាប់ព្រឹត្តិការណ៍ ភាពជាដៃគូ ឬសេវាកម្មថ្មី។ ម៉ាកយីហោដែលរាក់ទាក់ អាចទាក់ទាញមនុស្សដោយធម្មជាតិ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Your market may be crowded and competitive, with many businesses chasing the same customers. Finding a gap others are ignoring could be the opportunity to explore.",
+        "km": "ទីផ្សាររបស់អ្នក ប្រហែលជាមានមនុស្សច្រើន និងប្រកួតប្រជែង ដោយមានអាជីវកម្មជាច្រើនដេញតាមអតិថិជនដូចគ្នា។ ការស្វែងរកចន្លោះដែលអ្នកដទៃមើលរំលង អាចជាឱកាសដែលត្រូវស្វែងយល់។"
+      },
+      "challenge": {
+        "en": "Competing head-on on price could wear down your margins without building loyalty. Look for a different way to stand out, such as service or speciality.",
+        "km": "ការប្រកួតប្រជែងដោយផ្ទាល់លើតម្លៃ អាចធ្វើឱ្យប្រាក់ចំណេញរបស់អ្នកថយចុះ ដោយមិនកសាងភាពស្មោះត្រង់។ សូមស្វែងរកវិធីផ្សេងដើម្បីលេចធ្លោ ដូចជាសេវាកម្ម ឬជំនាញពិសេស។"
+      },
+      "outcome": {
+        "en": "Carving out a niche where competition is lighter could give the business room to thrive. A clear difference may win customers tired of the same old choices.",
+        "km": "ការបង្កើតទីផ្សារពិសេសមួយ ដែលការប្រកួតប្រជែងស្រាលជាង អាចផ្តល់កន្លែងឱ្យអាជីវកម្មរីកចម្រើន។ ភាពខុសប្លែកច្បាស់លាស់ អាចទាក់ទាញអតិថិជនដែលធុញទ្រាន់នឹងជម្រើសចាស់ៗដដែល។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Recognition for your work, such as good reviews or word of mouth, may be opening doors. Building on that reputation could lead to the right opportunity.",
+        "km": "ការទទួលស្គាល់ចំពោះការងាររបស់អ្នក ដូចជាការវាយតម្លៃល្អ ឬការនិយាយតៗគ្នា ប្រហែលជាកំពុងបើកទ្វារ។ ការកសាងលើកេរ្តិ៍ឈ្មោះនោះ អាចនាំទៅរកឱកាសត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Resting on praise could make you miss the next step that keeps your reputation growing. Use positive feedback to find what customers want more of.",
+        "km": "ការពឹងលើការសរសើរ អាចធ្វើឱ្យអ្នកខកខានជំហានបន្ទាប់ដែលរក្សាកេរ្តិ៍ឈ្មោះរបស់អ្នកឱ្យរីកចម្រើន។ សូមប្រើមតិត្រឡប់វិជ្ជមាន ដើម្បីរកអ្វីដែលអតិថិជនចង់បានបន្ថែម។"
+      },
+      "outcome": {
+        "en": "A strong reputation could attract partners, referrals or larger customers. Your proven success may make others eager to work with you.",
+        "km": "កេរ្តិ៍ឈ្មោះរឹងមាំ អាចទាក់ទាញដៃគូ ការណែនាំ ឬអតិថិជនធំៗ។ ភាពជោគជ័យដែលបានបញ្ជាក់របស់អ្នក អាចធ្វើឱ្យអ្នកដទៃចង់ធ្វើការជាមួយអ្នក។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may be holding a strong position in your market that others would like to take. Defending it while exploring nearby opportunities could be wise.",
+        "km": "អ្នកប្រហែលជាកាន់ជំហររឹងមាំក្នុងទីផ្សាររបស់អ្នក ដែលអ្នកដទៃចង់ដណ្តើម។ ការការពារវា ខណៈស្វែងយល់ឱកាសជិតខាង អាចជាការឆ្លាតវៃ។"
+      },
+      "challenge": {
+        "en": "Spending all your energy fending off competitors could leave none for new ideas. Protect what matters most, then set aside some effort to explore.",
+        "km": "ការចំណាយថាមពលទាំងអស់ដើម្បីទប់ទល់ដៃគូប្រកួតប្រជែង អាចទុកថាមពលគ្មានសម្រាប់គំនិតថ្មី។ សូមការពារអ្វីដែលសំខាន់បំផុត បន្ទាប់មកទុកការខិតខំខ្លះដើម្បីស្វែងយល់។"
+      },
+      "outcome": {
+        "en": "Standing firm in your core market could give you a secure base for trying something new. Confidence in your position may let you take measured risks.",
+        "km": "ការឈររឹងមាំក្នុងទីផ្សារស្នូលរបស់អ្នក អាចផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានមានសុវត្ថិភាពសម្រាប់ការសាកល្បងអ្វីថ្មី។ ទំនុកចិត្តលើជំហររបស់អ្នក អាចឱ្យអ្នកប្រថុយប្រថានដែលមានកម្រិត។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Opportunities may be arriving fast, through messages, enquiries or sudden offers. Responding promptly to the most promising ones could make a difference.",
+        "km": "ឱកាសប្រហែលជាកំពុងមកដល់យ៉ាងលឿន តាមរយៈសារ សំណួរ ឬការផ្តល់ជូនភ្លាមៗ។ ការឆ្លើយតបយ៉ាងរហ័សចំពោះឱកាសដែលមានសក្តានុពលបំផុត អាចធ្វើឱ្យមានភាពខុសគ្នា។"
+      },
+      "challenge": {
+        "en": "Saying yes to every fast-moving offer could overload the business and dilute your focus. Filter quickly but carefully for what really fits.",
+        "km": "ការយល់ព្រមនឹងរាល់ការផ្តល់ជូនដែលមកលឿន អាចធ្វើឱ្យអាជីវកម្មលើសបន្ទុក និងធ្វើឱ្យការផ្តោតរបស់អ្នករលាយ។ សូមចម្រាញ់ឱ្យរហ័ស ប៉ុន្តែប្រុងប្រយ័ត្ន ចំពោះអ្វីដែលពិតជាសម។"
+      },
+      "outcome": {
+        "en": "Moving swiftly on the right opening could put you ahead of slower competitors. Momentum may carry a new venture forward with energy.",
+        "km": "ការធ្វើសកម្មភាពយ៉ាងរហ័សលើឱកាសត្រឹមត្រូវ អាចដាក់អ្នកនៅខាងមុខដៃគូប្រកួតប្រជែងដែលយឺតជាង។ សន្ទុះ អាចនាំគម្រោងថ្មីទៅមុខប្រកបដោយថាមពល។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may be cautious after earlier setbacks, wary of taking on anything new. That experience could help you spot which opportunities are genuinely sound.",
+        "km": "អ្នកប្រហែលជាប្រុងប្រយ័ត្ន បន្ទាប់ពីឧបសគ្គកន្លងមក ដោយខ្លាចទទួលយកអ្វីថ្មី។ បទពិសោធន៍នោះ អាចជួយអ្នកឱ្យរកឃើញថាឱកាសណាដែលពិតជាល្អ។"
+      },
+      "challenge": {
+        "en": "Being too guarded could make you turn away an opportunity that deserves a chance. Separate real warning signs from fears left by past disappointments.",
+        "km": "ការប្រុងប្រយ័ត្នខ្លាំងពេក អាចធ្វើឱ្យអ្នកបដិសេធឱកាសដែលសមនឹងទទួលបានឱកាស។ សូមបែងចែកសញ្ញាព្រមានពិតប្រាកដ ពីការភ័យខ្លាចដែលនៅសល់ពីការខកចិត្តកន្លងមក។"
+      },
+      "outcome": {
+        "en": "Pressing on with a carefully chosen opportunity could reward your resilience. A venture backed by hard-won experience may stand up well to challenges.",
+        "km": "ការបន្តទៅមុខជាមួយឱកាសដែលជ្រើសរើសដោយប្រុងប្រយ័ត្ន អាចផ្តល់រង្វាន់ដល់ភាពធន់របស់អ្នក។ គម្រោងដែលគាំទ្រដោយបទពិសោធន៍ដែលទទួលបានដោយលំបាក អាចទប់ទល់នឹងបញ្ហាប្រឈមបានល្អ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "The business may already be carrying a heavy workload, leaving little room for anything new. Freeing up capacity could be a step before exploring further.",
+        "km": "អាជីវកម្មប្រហែលជាកំពុងទទួលបន្ទុកការងារធ្ងន់រួចហើយ ដោយទុកកន្លែងតិចតួចសម្រាប់អ្វីថ្មី។ ការដោះលែងសមត្ថភាព អាចជាជំហានមួយមុនពេលស្វែងយល់បន្ថែម។"
+      },
+      "challenge": {
+        "en": "Taking on a new venture while already overloaded could put everything at risk. Drop or delegate low-value tasks before adding more.",
+        "km": "ការទទួលយកគម្រោងថ្មី ខណៈដែលលើសបន្ទុករួចហើយ អាចធ្វើឱ្យអ្វីៗទាំងអស់ប្រឈមហានិភ័យ។ សូមបោះបង់ ឬប្រគល់កិច្ចការដែលមានតម្លៃទាប មុននឹងបន្ថែមទៀត។"
+      },
+      "outcome": {
+        "en": "Lightening the load could give you the space to pursue an opportunity properly. A business with room to breathe may grow in healthier ways.",
+        "km": "ការបន្ធូរបន្ទុក អាចផ្តល់ឱ្យអ្នកនូវលំហដើម្បីដេញតាមឱកាសឱ្យបានត្រឹមត្រូវ។ អាជីវកម្មដែលមានកន្លែងដកដង្ហើម អាចរីកចម្រើនតាមរបៀបដែលមានសុខភាពល្អជាង។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "A fresh, curious approach may lead you toward an unexpected opportunity. Exploring trends, social media or new customer groups could spark ideas.",
+        "km": "វិធីសាស្ត្រថ្មី និងចង់ដឹង អាចនាំអ្នកទៅរកឱកាសដែលមិនបានរំពឹងទុក។ ការស្វែងយល់និន្នាការ បណ្តាញសង្គម ឬក្រុមអតិថិជនថ្មី អាចបញ្ឆេះគំនិត។"
+      },
+      "challenge": {
+        "en": "Chasing every trend could scatter your efforts without building anything lasting. Test new ideas quickly, and keep only those that show real promise.",
+        "km": "ការដេញតាមរាល់និន្នាការ អាចធ្វើឱ្យការខិតខំរបស់អ្នកខ្ចាត់ខ្ចាយ ដោយមិនកសាងអ្វីដែលស្ថិតស្ថេរ។ សូមសាកល្បងគំនិតថ្មីៗ ហើយរក្សាទុកតែគំនិតដែលបង្ហាញសក្តានុពលពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Playful experimentation could uncover a new product or audience with real potential. Enthusiasm for learning may keep the business fresh and adaptable.",
+        "km": "ការសាកល្បងដោយរីករាយ អាចរកឃើញផលិតផល ឬទស្សនិកជនថ្មីដែលមានសក្តានុពលពិតប្រាកដ។ ភាពរំភើបក្នុងការរៀន អាចរក្សាអាជីវកម្មឱ្យស្រស់ថ្មី និងងាយសម្របខ្លួន។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You may feel eager to jump into a bold new venture with energy and confidence. Directing that drive toward a well-researched opportunity could pay off.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ចង់លោតចូលគម្រោងថ្មីដ៏ក្លាហាន ដោយថាមពល និងទំនុកចិត្ត។ ការតម្រង់ការតាំងចិត្តនោះ ទៅរកឱកាសដែលបានស្រាវជ្រាវល្អ អាចទទួលបានផល។"
+      },
+      "challenge": {
+        "en": "Rushing into a venture on impulse could lead to costly mistakes. Check demand, costs and capacity before committing your money or energy.",
+        "km": "ការប្រញាប់ចូលក្នុងគម្រោងតាមចិត្តភ្លាមៗ អាចនាំឱ្យមានកំហុសដែលខាតបង់។ សូមពិនិត្យតម្រូវការ ថ្លៃដើម និងសមត្ថភាព មុនពេលប្តេជ្ញាប្រាក់ ឬថាមពលរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Bold action on a well-chosen opportunity could bring exciting growth. Your energy may inspire customers and staff to join the new direction.",
+        "km": "សកម្មភាពក្លាហានលើឱកាសដែលជ្រើសរើសបានល្អ អាចនាំមកនូវកំណើនគួរឱ្យរំភើប។ ថាមពលរបស់អ្នក អាចបំផុសគំនិតអតិថិជន និងបុគ្គលិកឱ្យចូលរួមទិសដៅថ្មី។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your confidence and warmth may make others want to work with you on something new. Your personal reputation could be a door to fresh opportunities.",
+        "km": "ទំនុកចិត្ត និងភាពកក់ក្តៅរបស់អ្នក អាចធ្វើឱ្យអ្នកដទៃចង់ធ្វើការជាមួយអ្នកលើអ្វីថ្មី។ កេរ្តិ៍ឈ្មោះផ្ទាល់ខ្លួនរបស់អ្នក អាចជាទ្វារទៅរកឱកាសថ្មី។"
+      },
+      "challenge": {
+        "en": "Relying on charm without solid plans could leave partners disappointed. Back your enthusiasm with clear terms and realistic promises.",
+        "km": "ការពឹងលើភាពទាក់ទាញ ដោយគ្មានផែនការរឹងមាំ អាចធ្វើឱ្យដៃគូខកចិត្ត។ សូមគាំទ្រភាពរំភើបរបស់អ្នក ដោយលក្ខខណ្ឌច្បាស់លាស់ និងការសន្យាជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "Confident networking could connect you with customers, suppliers or partners who open new doors. Your energy may make a new venture attractive to others.",
+        "km": "ការបង្កើតបណ្តាញទំនាក់ទំនងដោយទំនុកចិត្ត អាចភ្ជាប់អ្នកជាមួយអតិថិជន អ្នកផ្គត់ផ្គង់ ឬដៃគូដែលបើកទ្វារថ្មី។ ថាមពលរបស់អ្នក អាចធ្វើឱ្យគម្រោងថ្មីទាក់ទាញអ្នកដទៃ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "A clear, ambitious vision for the business may be pointing you toward a larger opportunity. Thinking about where you want the business to be could guide your choice.",
+        "km": "ចក្ខុវិស័យច្បាស់លាស់ និងមានមហិច្ឆតាសម្រាប់អាជីវកម្ម ប្រហែលជាកំពុងចង្អុលអ្នកទៅរកឱកាសធំជាង។ ការគិតអំពីកន្លែងដែលអ្នកចង់ឱ្យអាជីវកម្មស្ថិតនៅ អាចណែនាំជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Pursuing a grand vision without involving others could leave you carrying it alone. Share the idea with trusted staff or advisers and invite their input.",
+        "km": "ការដេញតាមចក្ខុវិស័យធំ ដោយមិនរួមបញ្ចូលអ្នកដទៃ អាចធ្វើឱ្យអ្នកទទួលបន្ទុកវាតែម្នាក់ឯង។ សូមចែករំលែកគំនិតនោះជាមួយបុគ្គលិក ឬទីប្រឹក្សាដែលទុកចិត្ត ហើយអញ្ជើញមតិរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Leading with vision into a new market could establish your business as a pioneer. Others may follow where you show the way.",
+        "km": "ការដឹកនាំដោយចក្ខុវិស័យចូលទៅក្នុងទីផ្សារថ្មី អាចបង្កើតអាជីវកម្មរបស់អ្នកជាអ្នកត្រួសត្រាយ។ អ្នកដទៃអាចដើរតាមកន្លែងដែលអ្នកបង្ហាញផ្លូវ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "An opportunity that touches people's feelings, such as gifts, wellbeing or hospitality, may be worth exploring. Your own heartfelt interest could guide you.",
+        "km": "ឱកាសដែលប៉ះពាល់អារម្មណ៍មនុស្ស ដូចជាកាដូ សុខុមាលភាព ឬបដិសណ្ឋារកិច្ច ប្រហែលជាគួរស្វែងយល់។ ចំណាប់អារម្មណ៍ពីចិត្តរបស់អ្នកផ្ទាល់ អាចណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Falling in love with an idea could blind you to whether customers truly want it. Ask a few potential buyers for honest reactions before investing heavily.",
+        "km": "ការលង់ស្រលាញ់គំនិតមួយ អាចធ្វើឱ្យអ្នកមើលមិនឃើញថាអតិថិជនពិតជាចង់បានវាឬអត់។ សូមសួរអ្នកទិញដែលមានសក្តានុពលពីរបីនាក់ ពីប្រតិកម្មស្មោះត្រង់ មុនពេលចំណាយច្រើន។"
+      },
+      "outcome": {
+        "en": "An offer created with genuine care could build an emotional bond with customers. People may return again and again to a business that makes them feel good.",
+        "km": "ការផ្តល់ជូនដែលបង្កើតដោយការយកចិត្តទុកដាក់ពិតប្រាកដ អាចកសាងចំណងអារម្មណ៍ជាមួយអតិថិជន។ មនុស្សអាចត្រឡប់មកវិញម្តងហើយម្តងទៀត ទៅរកអាជីវកម្មដែលធ្វើឱ្យពួកគេមានអារម្មណ៍ល្អ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A promising partnership may be forming with another business or individual you get along with. Mutual respect could be the basis for a joint venture.",
+        "km": "ភាពជាដៃគូដែលមានសក្តានុពល ប្រហែលជាកំពុងកើតឡើងជាមួយអាជីវកម្ម ឬបុគ្គលផ្សេងដែលអ្នកចុះសម្រុងគ្នា។ ការគោរពគ្នាទៅវិញទៅមក អាចជាមូលដ្ឋានសម្រាប់គម្រោងរួមគ្នា។"
+      },
+      "challenge": {
+        "en": "Agreeing to a partnership on goodwill alone could lead to misunderstandings about roles and money. Put the terms in writing, however friendly the arrangement.",
+        "km": "ការយល់ព្រមលើភាពជាដៃគូ ដោយផ្អែកតែលើឆន្ទៈល្អ អាចនាំឱ្យមានការយល់ច្រឡំអំពីតួនាទី និងប្រាក់។ សូមសរសេរលក្ខខណ្ឌជាលាយលក្ខណ៍អក្សរ ទោះបីជាការរៀបចំនោះរួសរាយយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A balanced collaboration could combine your strengths with someone else's to reach new customers. Shared trust may make the venture rewarding for both.",
+        "km": "កិច្ចសហការដែលមានតុល្យភាព អាចរួមបញ្ចូលចំណុចខ្លាំងរបស់អ្នក ជាមួយរបស់អ្នកផ្សេង ដើម្បីឈានដល់អតិថិជនថ្មី។ ការទុកចិត្តរួមគ្នា អាចធ្វើឱ្យគម្រោងនោះផ្តល់ផលល្អដល់ទាំងពីរ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Opportunities may come through your social circle, community groups or friendly networks. Celebrations and gatherings could be a natural place to find them.",
+        "km": "ឱកាសប្រហែលជាមកតាមរយៈរង្វង់សង្គម ក្រុមសហគមន៍ ឬបណ្តាញមិត្តភក្តិរបស់អ្នក។ ការអបអរ និងការជួបជុំ អាចជាកន្លែងធម្មជាតិដើម្បីរកឃើញពួកវា។"
+      },
+      "challenge": {
+        "en": "Mixing business with friendship too casually could strain both if something goes wrong. Keep clear agreements even with people you know well.",
+        "km": "ការលាយអាជីវកម្មជាមួយមិត្តភាពដោយធម្មតាពេក អាចធ្វើឱ្យទាំងពីរតានតឹង ប្រសិនបើមានអ្វីខុស។ សូមរក្សាកិច្ចព្រមព្រៀងច្បាស់លាស់ សូម្បីតែជាមួយមនុស្សដែលអ្នកស្គាល់ច្បាស់។"
+      },
+      "outcome": {
+        "en": "Events, celebrations or community services could become a lively new source of business. Customers who enjoy themselves may spread the word.",
+        "km": "ព្រឹត្តិការណ៍ ការអបអរ ឬសេវាកម្មសហគមន៍ អាចក្លាយជាប្រភពអាជីវកម្មថ្មីដ៏រស់រវើក។ អតិថិជនដែលរីករាយ អាចផ្សព្វផ្សាយតៗគ្នា។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel uninspired by the options in front of you, unsure any of them is worth pursuing. A fresh look could reveal one you have been overlooking.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាមិនមានការបំផុសគំនិតពីជម្រើសនៅចំពោះមុខ ដោយមិនប្រាកដថាជម្រើសណាមួយគួរដេញតាម។ ការមើលថ្មីមួយ អាចបង្ហាញជម្រើសដែលអ្នកបានមើលរំលង។"
+      },
+      "challenge": {
+        "en": "Dismissing offers because none feel exciting could mean missing a solid opportunity. Look at each option on its merits, not just your mood.",
+        "km": "ការបដិសេធការផ្តល់ជូន ដោយសារគ្មានអ្វីគួរឱ្យរំភើប អាចមានន័យថាខកខានឱកាសដ៏រឹងមាំ។ សូមមើលជម្រើសនីមួយៗតាមគុណសម្បត្តិរបស់វា មិនមែនតែតាមអារម្មណ៍របស់អ្នកទេ។"
+      },
+      "outcome": {
+        "en": "Reconsidering an offer you first ignored could lead somewhere worthwhile. Renewed interest may grow once you look past your initial reluctance.",
+        "km": "ការពិចារណាឡើងវិញនូវការផ្តល់ជូនដែលអ្នកធ្លាប់មិនអើពើ អាចនាំទៅកន្លែងដែលមានតម្លៃ។ ចំណាប់អារម្មណ៍ថ្មីអាចកើនឡើង នៅពេលអ្នកមើលហួសពីការស្ទាក់ស្ទើរដំបូង។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "A disappointment, such as a failed product or lost deal, may still be on your mind. What remains after the loss could point to a better opportunity.",
+        "km": "ការខកចិត្តមួយ ដូចជាផលិតផលដែលបរាជ័យ ឬកិច្ចព្រមព្រៀងដែលបាត់បង់ ប្រហែលជានៅក្នុងចិត្តរបស់អ្នក។ អ្វីដែលនៅសល់បន្ទាប់ពីការបាត់បង់ អាចចង្អុលទៅរកឱកាសល្អជាង។"
+      },
+      "challenge": {
+        "en": "Dwelling on what went wrong could keep you from noticing what still works. Look at the customers and skills you kept, not only what was lost.",
+        "km": "ការគិតច្រើនពីអ្វីដែលខុស អាចរារាំងអ្នកពីការកត់សម្គាល់អ្វីដែលនៅតែដំណើរការ។ សូមមើលអតិថិជន និងជំនាញដែលអ្នករក្សាបាន មិនមែនតែអ្វីដែលបាត់បង់ទេ។"
+      },
+      "outcome": {
+        "en": "Turning a setback into a lesson could guide you toward a stronger opportunity. What did not work may show clearly what customers really want.",
+        "km": "ការប្តូរឧបសគ្គទៅជាមេរៀន អាចណែនាំអ្នកទៅរកឱកាសដែលរឹងមាំជាង។ អ្វីដែលមិនដំណើរការ អាចបង្ហាញយ៉ាងច្បាស់ពីអ្វីដែលអតិថិជនពិតជាចង់បាន។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "An opportunity linked to your roots, such as a traditional product or a past customer, may be worth revisiting. Familiar ground could offer a gentle start.",
+        "km": "ឱកាសដែលភ្ជាប់ទៅនឹងឫសគល់របស់អ្នក ដូចជាផលិតផលប្រពៃណី ឬអតិថិជនកន្លងមក ប្រហែលជាគួរមើលម្តងទៀត។ ទីដែលស៊ាំ អាចផ្តល់ការចាប់ផ្តើមទន់ភ្លន់។"
+      },
+      "challenge": {
+        "en": "Longing for how things used to be could hold you back from what customers want from you. Blend tradition with something fresh rather than simply repeating the past.",
+        "km": "ការនឹករលឹកពីរបៀបដែលធ្លាប់មាន អាចរារាំងអ្នកពីអ្វីដែលអតិថិជនចង់បានពីអ្នក។ សូមលាយប្រពៃណីជាមួយអ្វីថ្មី ជាជាងគ្រាន់តែធ្វើឡើងវិញនូវអតីតកាល។"
+      },
+      "outcome": {
+        "en": "A product with heritage or nostalgic appeal could find a warm market. Kindness and authenticity may set your business apart.",
+        "km": "ផលិតផលដែលមានបេតិកភណ្ឌ ឬការទាក់ទាញដែលរំលឹកអនុស្សាវរីយ៍ អាចរកឃើញទីផ្សារកក់ក្តៅ។ ភាពសប្បុរស និងភាពពិតប្រាកដ អាចធ្វើឱ្យអាជីវកម្មរបស់អ្នកខុសប្លែក។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may have many tempting options, each looking attractive in its own way. Separating real opportunities from wishful thinking could be the first task.",
+        "km": "អ្នកប្រហែលជាមានជម្រើសគួរឱ្យទាក់ទាញជាច្រើន ដែលនីមួយៗមើលទៅទាក់ទាញតាមរបៀបរបស់វា។ ការបែងចែកឱកាសពិតប្រាកដពីការគិតបែបស្រមៃ អាចជាកិច្ចការដំបូង។"
+      },
+      "challenge": {
+        "en": "Being dazzled by too many possibilities could leave you unable to commit to any. Narrow the list using facts about demand and cost.",
+        "km": "ការភ្លឹកភ្លាំងដោយលទ្ធភាពច្រើនពេក អាចធ្វើឱ្យអ្នកមិនអាចប្តេជ្ញាលើលទ្ធភាពណាមួយ។ សូមបង្រួមបញ្ជីដោយប្រើការពិតអំពីតម្រូវការ និងថ្លៃដើម។"
+      },
+      "outcome": {
+        "en": "Choosing one realistic opportunity from many could bring focus and real progress. Clarity may turn a dream into a workable plan.",
+        "km": "ការជ្រើសរើសឱកាសជាក់ស្តែងមួយ ពីក្នុងចំណោមឱកាសជាច្រើន អាចនាំមកនូវការផ្តោត និងវឌ្ឍនភាពពិតប្រាកដ។ ភាពច្បាស់លាស់ អាចប្តូរក្តីស្រមៃទៅជាផែនការដែលអាចអនុវត្តបាន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be ready to move on from a part of the business that no longer fulfils you. Searching for something more meaningful could lead somewhere new.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនចាកចេញពីផ្នែកនៃអាជីវកម្មដែលលែងធ្វើឱ្យអ្នកពេញចិត្ត។ ការស្វែងរកអ្វីដែលមានអត្ថន័យជាង អាចនាំទៅកន្លែងថ្មី។"
+      },
+      "challenge": {
+        "en": "Walking away from a steady line before the new one is ready could leave a gap in income. Plan the transition so one can support the other.",
+        "km": "ការចាកចេញពីផ្នែកដែលមានស្ថិរភាព មុនពេលផ្នែកថ្មីត្រៀមរួចរាល់ អាចបង្កចន្លោះក្នុងចំណូល។ សូមរៀបចំផែនការផ្លាស់ប្តូរ ដើម្បីឱ្យផ្នែកមួយអាចគាំទ្រផ្នែកមួយទៀត។"
+      },
+      "outcome": {
+        "en": "Leaving behind what no longer suits you could free energy for a more rewarding direction. A meaningful venture may renew your motivation.",
+        "km": "ការទុកចោលអ្វីដែលលែងសមនឹងអ្នក អាចដោះលែងថាមពលសម្រាប់ទិសដៅដែលផ្តល់ផលល្អជាង។ គម្រោងដែលមានអត្ថន័យ អាចធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នករស់ឡើងវិញ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "A satisfying, comfortable position may give you room to explore without pressure. Opportunities that add enjoyment to your work could be worth considering.",
+        "km": "ជំហរដែលពេញចិត្ត និងស្រួល ប្រហែលជាផ្តល់កន្លែងឱ្យអ្នកស្វែងយល់ដោយគ្មានសម្ពាធ។ ឱកាសដែលបន្ថែមភាពរីករាយដល់ការងាររបស់អ្នក អាចគួរពិចារណា។"
+      },
+      "challenge": {
+        "en": "Contentment could make you turn down opportunities that would keep the business growing. Ask whether staying the same is truly your choice or just comfort.",
+        "km": "ការពេញចិត្ត អាចធ្វើឱ្យអ្នកបដិសេធឱកាសដែលនឹងរក្សាអាជីវកម្មឱ្យរីកចម្រើន។ សូមសួរខ្លួនឯងថាការនៅដដែលពិតជាជម្រើសរបស់អ្នក ឬគ្រាន់តែជាភាពស្រួល។"
+      },
+      "outcome": {
+        "en": "An opportunity that fits your wishes could bring both profit and personal satisfaction. Doing more of what you love may please customers too.",
+        "km": "ឱកាសដែលត្រូវនឹងបំណងរបស់អ្នក អាចនាំមកនូវទាំងប្រាក់ចំណេញ និងការពេញចិត្តផ្ទាល់ខ្លួន។ ការធ្វើអ្វីដែលអ្នកស្រលាញ់កាន់តែច្រើន អាចធ្វើឱ្យអតិថិជនពេញចិត្តផងដែរ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Opportunities that serve families or bring people together may suit your business well. Your own sense of community could point the way.",
+        "km": "ឱកាសដែលបម្រើគ្រួសារ ឬនាំមនុស្សមកជួបជុំគ្នា ប្រហែលជាសមនឹងអាជីវកម្មរបស់អ្នក។ អារម្មណ៍សហគមន៍ផ្ទាល់ខ្លួនរបស់អ្នក អាចចង្អុលផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Pursuing growth that strains your family or close relationships could cost more than it earns. Weigh how a new venture would affect the people closest to you.",
+        "km": "ការដេញតាមកំណើនដែលធ្វើឱ្យគ្រួសារ ឬទំនាក់ទំនងជិតស្និទ្ធរបស់អ្នកតានតឹង អាចខាតច្រើនជាងអ្វីដែលវារកបាន។ សូមថ្លឹងថ្លែងថាគម្រោងថ្មីនឹងប៉ះពាល់មនុស្សជិតស្និទ្ធបំផុតរបស់អ្នកយ៉ាងដូចម្តេច។"
+      },
+      "outcome": {
+        "en": "A venture built around family, community or shared happiness could bring lasting rewards. Customers may feel at home with a business that values connection.",
+        "km": "គម្រោងដែលកសាងជុំវិញគ្រួសារ សហគមន៍ ឬសុភមង្គលរួម អាចនាំមកនូវរង្វាន់ស្ថិតស្ថេរ។ អតិថិជនអាចមានអារម្មណ៍ដូចនៅផ្ទះ ជាមួយអាជីវកម្មដែលឱ្យតម្លៃលើការភ្ជាប់ទំនាក់ទំនង។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A creative idea or an unexpected message may hint at a new opportunity. Paying attention to small, imaginative sparks could lead somewhere interesting.",
+        "km": "គំនិតច្នៃប្រឌិត ឬសារដែលមិនបានរំពឹងទុក អាចបង្ហាញពីឱកាសថ្មី។ ការយកចិត្តទុកដាក់លើការបំផុសគំនិតតូចៗ និងប្រកបដោយការស្រមៃ អាចនាំទៅកន្លែងគួរឱ្យចាប់អារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Dismissing a creative idea as unrealistic could mean missing something original. Give imaginative suggestions a fair trial before rejecting them.",
+        "km": "ការបដិសេធគំនិតច្នៃប្រឌិតថាមិនជាក់ស្តែង អាចមានន័យថាខកខានអ្វីដែលដើម។ សូមផ្តល់ឱកាសសាកល្បងដោយយុត្តិធម៌ដល់សំណើប្រកបដោយការស្រមៃ មុនពេលបដិសេធវា។"
+      },
+      "outcome": {
+        "en": "A creative product, design or service could become a distinctive new offer. Imagination may give your business a fresh identity.",
+        "km": "ផលិតផល ការរចនា ឬសេវាកម្មច្នៃប្រឌិត អាចក្លាយជាការផ្តល់ជូនថ្មីដែលលេចធ្លោ។ ការស្រមៃ អាចផ្តល់ឱ្យអាជីវកម្មរបស់អ្នកនូវអត្តសញ្ញាណថ្មី។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "An attractive offer or proposal may be coming your way, appealing to your ideals. Exploring it with an open but careful mind could be wise.",
+        "km": "ការផ្តល់ជូន ឬសំណើដែលទាក់ទាញ ប្រហែលជាកំពុងមករកអ្នក ដោយទាក់ទាញឧត្តមគតិរបស់អ្នក។ ការស្វែងយល់វាដោយចិត្តបើកចំហ ប៉ុន្តែប្រុងប្រយ័ត្ន អាចជាការឆ្លាតវៃ។"
+      },
+      "challenge": {
+        "en": "Being swept up by a charming pitch could lead you to overlook practical weaknesses. Ask hard questions about costs and commitments, however appealing it sounds.",
+        "km": "ការត្រូវបានទាញចិត្តដោយការបង្ហាញដ៏ទាក់ទាញ អាចនាំឱ្យអ្នកមើលរំលងចំណុចខ្សោយជាក់ស្តែង។ សូមសួរសំណួរពិបាកៗអំពីថ្លៃដើម និងការប្តេជ្ញាចិត្ត ទោះបីជាវាស្តាប់ទៅទាក់ទាញយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Following an opportunity that matches your values could bring meaningful and graceful growth. An idealistic venture with practical backing may thrive.",
+        "km": "ការធ្វើតាមឱកាសដែលត្រូវនឹងគុណតម្លៃរបស់អ្នក អាចនាំមកនូវកំណើនដែលមានអត្ថន័យ និងថ្លៃថ្នូរ។ គម្រោងឧត្តមគតិដែលមានការគាំទ្រជាក់ស្តែង អាចរីកចម្រើន។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your intuition about what customers need may already be pointing to an opportunity. Trusting that feeling while checking facts could guide you well.",
+        "km": "វិចារណញាណរបស់អ្នកអំពីអ្វីដែលអតិថិជនត្រូវការ ប្រហែលជាកំពុងចង្អុលទៅរកឱកាសមួយរួចហើយ។ ការទុកចិត្តលើអារម្មណ៍នោះ ខណៈពិនិត្យការពិត អាចណែនាំអ្នកបានល្អ។"
+      },
+      "challenge": {
+        "en": "Following feelings alone could lead you into an opportunity that does not add up financially. Pair intuition with simple numbers on costs and sales.",
+        "km": "ការធ្វើតាមអារម្មណ៍តែម្យ៉ាង អាចនាំអ្នកចូលទៅក្នុងឱកាសដែលមិនសមហេតុផលផ្នែកហិរញ្ញវត្ថុ។ សូមភ្ជាប់វិចារណញាណ ជាមួយតួលេខសាមញ្ញអំពីថ្លៃដើម និងការលក់។"
+      },
+      "outcome": {
+        "en": "An opportunity rooted in caring for customers could build deep loyalty. Understanding people's needs may lead to offers they truly value.",
+        "km": "ឱកាសដែលចាក់ឫសក្នុងការយកចិត្តទុកដាក់ចំពោះអតិថិជន អាចកសាងភាពស្មោះត្រង់យ៉ាងជ្រៅ។ ការយល់ដឹងពីតម្រូវការរបស់មនុស្ស អាចនាំទៅរកការផ្តល់ជូនដែលពួកគេឱ្យតម្លៃពិតប្រាកដ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "A calm, balanced view of your options may help you choose an opportunity without being swayed by emotion. Steady judgement could be your strength.",
+        "km": "ទស្សនៈស្ងប់ស្ងាត់ និងមានតុល្យភាពលើជម្រើសរបស់អ្នក អាចជួយអ្នកជ្រើសរើសឱកាស ដោយមិនរង្គោះរង្គើដោយអារម្មណ៍។ ការវិនិច្ឆ័យនឹងនរ អាចជាចំណុចខ្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding back your enthusiasm too much could make partners doubt your commitment. Show genuine interest in the opportunities you choose.",
+        "km": "ការទប់ភាពរំភើបរបស់អ្នកខ្លាំងពេក អាចធ្វើឱ្យដៃគូសង្ស័យលើការប្តេជ្ញាចិត្តរបស់អ្នក។ សូមបង្ហាញចំណាប់អារម្មណ៍ពិតប្រាកដ ចំពោះឱកាសដែលអ្នកជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "Balanced, generous leadership could attract opportunities through trust and goodwill. People may bring ideas to someone known for fair dealing.",
+        "km": "ការដឹកនាំដែលមានតុល្យភាព និងចិត្តទូលាយ អាចទាក់ទាញឱកាសតាមរយៈការទុកចិត្ត និងឆន្ទៈល្អ។ មនុស្សអាចនាំគំនិតមករកនរណាម្នាក់ដែលល្បីថាធ្វើជំនួញដោយយុត្តិធម៌។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A clear idea may be cutting through the noise, showing exactly what problem you could solve for customers. Sharp thinking could be your best starting tool.",
+        "km": "គំនិតច្បាស់លាស់មួយ ប្រហែលជាកំពុងកាត់តាមភាពច្របូកច្របល់ ដោយបង្ហាញយ៉ាងច្បាស់ពីបញ្ហាដែលអ្នកអាចដោះស្រាយសម្រាប់អតិថិជន។ ការគិតមុតស្រួច អាចជាឧបករណ៍ចាប់ផ្តើមល្អបំផុតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Ignoring hard facts that contradict a favourite idea could lead you down the wrong path. Let honest analysis decide which opportunity holds up.",
+        "km": "ការមិនអើពើនឹងការពិតដែលផ្ទុយនឹងគំនិតដែលអ្នកចូលចិត្ត អាចនាំអ្នកទៅផ្លូវខុស។ សូមឱ្យការវិភាគដោយស្មោះត្រង់ សម្រេចថាឱកាសណាដែលឈររឹងមាំ។"
+      },
+      "outcome": {
+        "en": "A clear, well-defined offer could cut through a crowded market. Customers may respond to a business that solves one problem very well.",
+        "km": "ការផ្តល់ជូនច្បាស់លាស់ និងកំណត់បានល្អ អាចកាត់តាមទីផ្សារដែលមានមនុស្សច្រើន។ អតិថិជនអាចឆ្លើយតបចំពោះអាជីវកម្មដែលដោះស្រាយបញ្ហាមួយបានយ៉ាងល្អ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be undecided between options, avoiding a choice because each has drawbacks. Laying out the facts side by side could break the deadlock.",
+        "km": "អ្នកប្រហែលជាមិនទាន់សម្រេចចិត្តរវាងជម្រើស ដោយជៀសវាងការជ្រើសរើស ពីព្រោះជម្រើសនីមួយៗមានគុណវិបត្តិ។ ការដាក់ការពិតទន្ទឹមគ្នា អាចបំបែកភាពជាប់គាំង។"
+      },
+      "challenge": {
+        "en": "Refusing to choose could let both opportunities slip away. Set clear criteria, such as cost, demand and fit, and decide by them.",
+        "km": "ការបដិសេធមិនជ្រើសរើស អាចបណ្តោយឱ្យឱកាសទាំងពីររអិលបាត់។ សូមកំណត់លក្ខណៈវិនិច្ឆ័យច្បាស់លាស់ ដូចជាថ្លៃដើម តម្រូវការ និងភាពសមស្រប ហើយសម្រេចចិត្តតាមវា។"
+      },
+      "outcome": {
+        "en": "Making a reasoned choice could end the stalemate and let you put energy into one direction. A decision based on facts may feel calmer to live with.",
+        "km": "ការធ្វើជម្រើសដែលមានហេតុផល អាចបញ្ចប់ភាពជាប់គាំង ហើយឱ្យអ្នកដាក់ថាមពលក្នុងទិសដៅមួយ។ ការសម្រេចចិត្តដែលផ្អែកលើការពិត អាចមានអារម្មណ៍ស្ងប់ជាង។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "A painful setback, such as a failed launch or lost partner, may be shaping your thinking. That hurt could hold lessons about what to pursue next.",
+        "km": "ឧបសគ្គដ៏ឈឺចាប់មួយ ដូចជាការដាក់ចេញដែលបរាជ័យ ឬការបាត់បង់ដៃគូ ប្រហែលជាកំពុងកំណត់ការគិតរបស់អ្នក។ ការឈឺចាប់នោះ អាចមានមេរៀនអំពីអ្វីដែលត្រូវដេញតាមបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Letting disappointment make you reject all new ideas could close off real opportunities. Acknowledge the loss without letting it decide your direction.",
+        "km": "ការបណ្តោយឱ្យការខកចិត្តធ្វើឱ្យអ្នកបដិសេធគំនិតថ្មីទាំងអស់ អាចបិទឱកាសពិតប្រាកដ។ សូមទទួលស្គាល់ការបាត់បង់ ដោយមិនឱ្យវាសម្រេចទិសដៅរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Facing a hard lesson honestly could lead you to a wiser, more resilient opportunity. What hurt may show you what to avoid.",
+        "km": "ការប្រឈមមុខនឹងមេរៀនលំបាកដោយស្មោះត្រង់ អាចនាំអ្នកទៅរកឱកាសដែលឆ្លាតវៃ និងធន់ជាងមុន។ អ្វីដែលធ្វើឱ្យឈឺចាប់ អាចបង្ហាញអ្នកពីអ្វីដែលត្រូវជៀសវាង។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may need a pause to think before choosing your next opportunity. Rest and reflection could help you see options more clearly.",
+        "km": "អ្នកប្រហែលជាត្រូវការការផ្អាកដើម្បីគិត មុនពេលជ្រើសរើសឱកាសបន្ទាប់របស់អ្នក។ ការសម្រាក និងការពិចារណា អាចជួយអ្នកឱ្យមើលឃើញជម្រើសកាន់តែច្បាស់។"
+      },
+      "challenge": {
+        "en": "Pushing ahead while exhausted could lead to a poor decision about where to expand. Give yourself space to recover before committing to something new.",
+        "km": "ការជំរុញទៅមុខខណៈអស់កម្លាំង អាចនាំឱ្យមានការសម្រេចចិត្តខ្សោយអំពីកន្លែងដែលត្រូវពង្រីក។ សូមផ្តល់លំហឱ្យខ្លួនឯងស្តារកម្លាំង មុនពេលប្តេជ្ញាលើអ្វីថ្មី។"
+      },
+      "outcome": {
+        "en": "Taking a quiet pause could help you return with a clearer sense of which opportunity fits. A rested mind may spot what a busy one misses.",
+        "km": "ការផ្អាកស្ងាត់ៗ អាចជួយអ្នកឱ្យត្រឡប់មកវិញជាមួយអារម្មណ៍ច្បាស់ជាងថាឱកាសណាដែលសម។ ចិត្តដែលបានសម្រាក អាចមើលឃើញអ្វីដែលចិត្តមមាញឹកមើលរំលង។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Competition for a particular opportunity may be fierce, with others ready to fight hard for it. Weighing whether the prize is worth the battle could be important.",
+        "km": "ការប្រកួតប្រជែងសម្រាប់ឱកាសជាក់លាក់មួយ ប្រហែលជាខ្លាំង ដោយអ្នកដទៃត្រៀមខ្លួនប្រយុទ្ធយ៉ាងខ្លាំងដើម្បីវា។ ការថ្លឹងថ្លែងថារង្វាន់សមនឹងការប្រយុទ្ធឬអត់ អាចមានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Winning a deal through aggressive tactics could damage relationships the business relies on. Compete fairly, even when others do not.",
+        "km": "ការឈ្នះកិច្ចព្រមព្រៀងតាមរយៈយុទ្ធសាស្ត្រឈ្លានពាន អាចធ្វើឱ្យខូចទំនាក់ទំនងដែលអាជីវកម្មពឹងផ្អែក។ សូមប្រកួតប្រជែងដោយយុត្តិធម៌ ទោះបីជាអ្នកដទៃមិនធ្វើដូច្នេះក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Choosing your battles wisely could lead you to an opportunity with less conflict and more reward. Walking away from a costly fight may be the smarter win.",
+        "km": "ការជ្រើសរើសការប្រយុទ្ធដោយឆ្លាតវៃ អាចនាំអ្នកទៅរកឱកាសដែលមានជម្លោះតិច និងរង្វាន់ច្រើន។ ការចាកចេញពីការប្រយុទ្ធដែលខាតបង់ អាចជាជ័យជម្នះដ៏ឆ្លាតវៃជាង។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You may be moving away from a difficult market or arrangement toward calmer ground. That transition could itself open an opportunity.",
+        "km": "អ្នកប្រហែលជាកំពុងផ្លាស់ចេញពីទីផ្សារ ឬការរៀបចំដ៏លំបាក ឆ្ពោះទៅរកទីស្ងប់ជាងមុន។ ការផ្លាស់ប្តូរនោះផ្ទាល់ អាចបើកឱកាសមួយ។"
+      },
+      "challenge": {
+        "en": "Carrying old problems into a new venture could repeat the same difficulties. Leave behind what did not work as you move forward.",
+        "km": "ការនាំបញ្ហាចាស់ៗចូលក្នុងគម្រោងថ្មី អាចធ្វើឱ្យការលំបាកដដែលកើតឡើងម្តងទៀត។ សូមទុកចោលអ្វីដែលមិនដំណើរការ ខណៈអ្នកទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Moving into a steadier market or location could bring smoother business. A carefully planned shift may lead to calmer, more reliable growth.",
+        "km": "ការផ្លាស់ទៅទីផ្សារ ឬទីតាំងដែលមានស្ថិរភាពជាង អាចនាំមកនូវអាជីវកម្មរលូនជាងមុន។ ការផ្លាស់ប្តូរដែលបានរៀបចំផែនការដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកកំណើនស្ងប់ស្ងាត់ និងអាចទុកចិត្តបានជាង។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "An opportunity may need a clever, strategic approach rather than a direct one. Thinking about how competitors will react could help.",
+        "km": "ឱកាសមួយប្រហែលជាត្រូវការវិធីសាស្ត្រឆ្លាតវៃ និងជាយុទ្ធសាស្ត្រ ជាជាងវិធីផ្ទាល់។ ការគិតអំពីរបៀបដែលដៃគូប្រកួតប្រជែងនឹងប្រតិកម្ម អាចជួយបាន។"
+      },
+      "challenge": {
+        "en": "An offer that seems too good could hide dishonest intentions or missing details. Check carefully who benefits and what is not being said.",
+        "km": "ការផ្តល់ជូនដែលហាក់ដូចជាល្អពេក អាចលាក់ចេតនាមិនស្មោះត្រង់ ឬព័ត៌មានលម្អិតដែលបាត់។ សូមពិនិត្យដោយប្រុងប្រយ័ត្នថាអ្នកណាទទួលផល និងអ្វីដែលមិនត្រូវបាននិយាយ។"
+      },
+      "outcome": {
+        "en": "A smart, well-timed strategy could help you claim an opportunity others overlook. Honest cleverness may give you an edge without risking your reputation.",
+        "km": "យុទ្ធសាស្ត្រឆ្លាតវៃ និងត្រូវពេល អាចជួយអ្នកឱ្យទាមទារឱកាសដែលអ្នកដទៃមើលរំលង។ ភាពឆ្លាតវៃដោយស្មោះត្រង់ អាចផ្តល់ឱ្យអ្នកនូវគុណសម្បត្តិ ដោយមិនប្រថុយកេរ្តិ៍ឈ្មោះរបស់អ្នក។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel limited by money, rules or circumstances, unsure any opportunity is open to you. Looking for small openings within those limits could help.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានកំណត់ដោយប្រាក់ ច្បាប់ ឬកាលៈទេសៈ ដោយមិនប្រាកដថាឱកាសណាមួយបើកចំហសម្រាប់អ្នក។ ការស្វែងរកឱកាសតូចៗក្នុងដែនកំណត់ទាំងនោះ អាចជួយបាន។"
+      },
+      "challenge": {
+        "en": "Assuming every door is shut could hide the openings that do exist. Question the limits you have accepted and look for a way around them.",
+        "km": "ការសន្មតថាគ្រប់ទ្វារបិទ អាចលាក់ឱកាសដែលមានពិត។ សូមសួរពីដែនកំណត់ដែលអ្នកបានទទួលយក ហើយស្វែងរកផ្លូវជុំវិញវា។"
+      },
+      "outcome": {
+        "en": "Finding a creative way around a constraint could reveal an unexpected opportunity. Small steps within your means may lead somewhere promising.",
+        "km": "ការស្វែងរកវិធីច្នៃប្រឌិតដើម្បីគេចពីឧបសគ្គ អាចបង្ហាញឱកាសដែលមិនបានរំពឹងទុក។ ជំហានតូចៗក្នុងលទ្ធភាពរបស់អ្នក អាចនាំទៅកន្លែងដែលមានសក្តានុពល។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about making the wrong choice may be keeping you from exploring anything new. Writing down your fears could help you see which are real.",
+        "km": "ការព្រួយបារម្ភអំពីការធ្វើជម្រើសខុស ប្រហែលជាកំពុងរារាំងអ្នកពីការស្វែងយល់អ្វីថ្មី។ ការសរសេរការភ័យខ្លាចរបស់អ្នកចុះ អាចជួយអ្នកឱ្យឃើញថាមួយណាពិត។"
+      },
+      "challenge": {
+        "en": "Anxiety could make every opportunity look like a disaster waiting to happen. Talk your options through with a trusted adviser, and seek support if worry feels overwhelming.",
+        "km": "ការថប់បារម្ភ អាចធ្វើឱ្យរាល់ឱកាសមើលទៅដូចជាគ្រោះមហន្តរាយដែលកំពុងរង់ចាំ។ សូមពិភាក្សាជម្រើសរបស់អ្នកជាមួយទីប្រឹក្សាដែលទុកចិត្ត ហើយស្វែងរកការគាំទ្រ ប្រសិនបើការព្រួយបារម្ភហាក់ដូចជាហួសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Facing your doubts with facts could free you to pursue an opportunity with confidence. A calmer mind may see possibilities that fear was hiding.",
+        "km": "ការប្រឈមមុខនឹងការសង្ស័យរបស់អ្នកដោយការពិត អាចដោះលែងអ្នកឱ្យដេញតាមឱកាសដោយទំនុកចិត្ត។ ចិត្តស្ងប់ជាង អាចមើលឃើញលទ្ធភាពដែលការភ័យខ្លាចបានលាក់ទុក។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A venture or market may have come to a hard end, leaving you to start again. That ending could clear the way for a better opportunity.",
+        "km": "គម្រោង ឬទីផ្សារមួយ ប្រហែលជាបានដល់ទីបញ្ចប់ដ៏លំបាក ដោយទុកឱ្យអ្នកចាប់ផ្តើមម្តងទៀត។ ទីបញ្ចប់នោះ អាចបើកផ្លូវសម្រាប់ឱកាសល្អជាង។"
+      },
+      "challenge": {
+        "en": "Trying to revive something that has clearly failed could waste resources you need for a fresh start. Accept the ending and redirect your effort.",
+        "km": "ការព្យាយាមធ្វើឱ្យរស់ឡើងវិញនូវអ្វីដែលបរាជ័យយ៉ាងច្បាស់ អាចខ្ជះខ្ជាយធនធានដែលអ្នកត្រូវការសម្រាប់ការចាប់ផ្តើមថ្មី។ សូមទទួលយកទីបញ្ចប់ ហើយតម្រង់ការខិតខំរបស់អ្នកទៅទិសថ្មី។"
+      },
+      "outcome": {
+        "en": "Starting over with the lessons of a failed venture could lead to a stronger opportunity. The lowest point may be where a better business begins.",
+        "km": "ការចាប់ផ្តើមម្តងទៀតជាមួយមេរៀនពីគម្រោងដែលបរាជ័យ អាចនាំទៅរកឱកាសរឹងមាំជាង។ ចំណុចទាបបំផុត អាចជាកន្លែងដែលអាជីវកម្មល្អជាងចាប់ផ្តើម។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Curiosity and sharp observation may be helping you notice gaps in the market. Asking questions about what customers lack could lead to an opportunity.",
+        "km": "ការចង់ដឹង និងការសង្កេតមុតស្រួច ប្រហែលជាកំពុងជួយអ្នកឱ្យកត់សម្គាល់ចន្លោះក្នុងទីផ្សារ។ ការសួរសំណួរអំពីអ្វីដែលអតិថិជនខ្វះ អាចនាំទៅរកឱកាស។"
+      },
+      "challenge": {
+        "en": "Gathering opinions without checking them could lead you to act on rumours. Verify information about markets and partners before acting on it.",
+        "km": "ការប្រមូលមតិ ដោយមិនពិនិត្យវា អាចនាំឱ្យអ្នកធ្វើសកម្មភាពតាមពាក្យចចាមអារ៉ាម។ សូមផ្ទៀងផ្ទាត់ព័ត៌មានអំពីទីផ្សារ និងដៃគូ មុនពេលធ្វើសកម្មភាពលើវា។"
+      },
+      "outcome": {
+        "en": "Careful research into an emerging need could lead to a well-timed new offer. Alertness may help you spot trends before they become crowded.",
+        "km": "ការស្រាវជ្រាវដោយប្រុងប្រយ័ត្នលើតម្រូវការដែលកំពុងលេចឡើង អាចនាំទៅរកការផ្តល់ជូនថ្មីដែលត្រូវពេល។ ការប្រុងប្រយ័ត្ន អាចជួយអ្នកឱ្យរកឃើញនិន្នាការ មុនពេលវាមានមនុស្សច្រើន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You may be ready to move fast and decisively toward a new opportunity. That drive could help you seize an opening that slower rivals hesitate over.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនធ្វើសកម្មភាពយ៉ាងរហ័ស និងម៉ឺងម៉ាត់ឆ្ពោះទៅរកឱកាសថ្មី។ ការតាំងចិត្តនោះ អាចជួយអ្នកឱ្យចាប់យកឱកាសដែលដៃគូប្រកួតប្រជែងយឺតៗនៅស្ទាក់ស្ទើរ។"
+      },
+      "challenge": {
+        "en": "Charging in without a plan could leave the business exposed if things go wrong. Pause long enough to check the risks before committing.",
+        "km": "ការប្រញាប់ចូលដោយគ្មានផែនការ អាចធ្វើឱ្យអាជីវកម្មងាយរងគ្រោះ ប្រសិនបើមានអ្វីខុស។ សូមផ្អាកឱ្យបានគ្រប់គ្រាន់ ដើម្បីពិនិត្យហានិភ័យ មុនពេលប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "Decisive action on a well-researched opportunity could put you ahead of competitors. Speed backed by clear thinking may bring real results.",
+        "km": "សកម្មភាពម៉ឺងម៉ាត់លើឱកាសដែលបានស្រាវជ្រាវល្អ អាចដាក់អ្នកនៅខាងមុខដៃគូប្រកួតប្រជែង។ ល្បឿនដែលគាំទ្រដោយការគិតច្បាស់លាស់ អាចនាំមកនូវលទ្ធផលពិតប្រាកដ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Your clear judgement may help you see the true potential and risks of each option. Honest assessment could lead you to the right opportunity.",
+        "km": "ការវិនិច្ឆ័យច្បាស់លាស់របស់អ្នក អាចជួយអ្នកឱ្យមើលឃើញសក្តានុពល និងហានិភ័យពិតប្រាកដនៃជម្រើសនីមួយៗ។ ការវាយតម្លៃដោយស្មោះត្រង់ អាចនាំអ្នកទៅរកឱកាសត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Being too critical could make you reject every idea before it has a chance. Balance scepticism with openness to new possibilities.",
+        "km": "ការរិះគន់ខ្លាំងពេក អាចធ្វើឱ្យអ្នកបដិសេធរាល់គំនិត មុនពេលវាមានឱកាស។ សូមថ្លឹងថ្លែងការសង្ស័យ ជាមួយការបើកចំហចំពោះលទ្ធភាពថ្មី។"
+      },
+      "outcome": {
+        "en": "A clear-eyed choice could lead to an opportunity that is realistic and sustainable. Independent thinking may help you see what others miss.",
+        "km": "ជម្រើសដែលមើលឃើញច្បាស់ អាចនាំទៅរកឱកាសដែលជាក់ស្តែង និងនិរន្តរភាព។ ការគិតដោយឯករាជ្យ អាចជួយអ្នកឱ្យមើលឃើញអ្វីដែលអ្នកដទៃមើលរំលង។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Strategic, logical thinking may be your strongest tool for choosing the right opportunity. A clear analysis of the market could guide your decision.",
+        "km": "ការគិតជាយុទ្ធសាស្ត្រ និងតក្កវិជ្ជា ប្រហែលជាឧបករណ៍ខ្លាំងបំផុតរបស់អ្នកសម្រាប់ការជ្រើសរើសឱកាសត្រឹមត្រូវ។ ការវិភាគច្បាស់លាស់លើទីផ្សារ អាចណែនាំការសម្រេចចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Relying only on analysis could make you miss the human side of an opportunity. Consider how customers and staff will feel about the change.",
+        "km": "ការពឹងផ្អែកតែលើការវិភាគ អាចធ្វើឱ្យអ្នកខកខានផ្នែកមនុស្សនៃឱកាសមួយ។ សូមពិចារណាថាអតិថិជន និងបុគ្គលិកនឹងមានអារម្មណ៍យ៉ាងណាចំពោះការផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "A well-reasoned move into a new area could establish the business on solid ground. Expert advice and clear plans may make the opportunity succeed.",
+        "km": "ការផ្លាស់ទៅតំបន់ថ្មីដែលមានហេតុផលល្អ អាចបង្កើតអាជីវកម្មលើដីរឹងមាំ។ ដំបូន្មានពីអ្នកជំនាញ និងផែនការច្បាស់លាស់ អាចធ្វើឱ្យឱកាសនោះជោគជ័យ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A solid, practical opportunity may be appearing, such as a reliable new product line or customer. Its down-to-earth potential could make it worth a close look.",
+        "km": "ឱកាសរឹងមាំ និងជាក់ស្តែងមួយ ប្រហែលជាកំពុងលេចឡើង ដូចជាផ្នែកផលិតផលថ្មីដែលអាចទុកចិត្តបាន ឬអតិថិជនថ្មី។ សក្តានុពលជាក់ស្តែងរបស់វា អាចធ្វើឱ្យវាសមនឹងការពិនិត្យដោយយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Overlooking a modest but dependable opportunity while chasing something flashier could be a mistake. Give practical options the attention they deserve.",
+        "km": "ការមើលរំលងឱកាសតូច ប៉ុន្តែអាចទុកចិត្តបាន ខណៈដេញតាមអ្វីដែលភ្លឺចិញ្ចាចជាង អាចជាកំហុស។ សូមផ្តល់ការយកចិត្តទុកដាក់ដល់ជម្រើសជាក់ស្តែង តាមដែលវាសមនឹងទទួលបាន។"
+      },
+      "outcome": {
+        "en": "A practical new line of business could grow into a steady source of income. Careful planting may bring a reliable harvest.",
+        "km": "ផ្នែកអាជីវកម្មថ្មីជាក់ស្តែងមួយ អាចរីកចម្រើនទៅជាប្រភពចំណូលទៀងទាត់។ ការដាំដុះដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវផលដែលអាចទុកចិត្តបាន។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be balancing several small opportunities alongside your main business. Deciding which deserve more attention could be the next step.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងឱកាសតូចៗជាច្រើន ស្របជាមួយអាជីវកម្មចម្បងរបស់អ្នក។ ការសម្រេចថាឱកាសណាដែលសមនឹងទទួលការយកចិត្តទុកដាក់បន្ថែម អាចជាជំហានបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Juggling too many side ventures could weaken the core business that pays the bills. Keep track of which ones are really worth the effort.",
+        "km": "ការចាត់ចែងគម្រោងបន្ទាប់បន្សំច្រើនពេក អាចធ្វើឱ្យអាជីវកម្មស្នូលដែលចិញ្ចឹមអ្នកចុះខ្សោយ។ សូមតាមដានថាគម្រោងណាដែលពិតជាសមនឹងការខិតខំ។"
+      },
+      "outcome": {
+        "en": "Flexibly balancing a new opportunity with existing work could let both grow. Adaptability may help you take on more without dropping anything important.",
+        "km": "ការថ្លឹងថ្លែងឱកាសថ្មីជាមួយការងារដែលមានស្រាប់ដោយបត់បែន អាចឱ្យទាំងពីររីកចម្រើន។ ភាពងាយសម្របខ្លួន អាចជួយអ្នកឱ្យទទួលយកបន្ថែម ដោយមិនទម្លាក់អ្វីសំខាន់។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Collaborating with skilled people, such as craftspeople, suppliers or specialists, may open a new opportunity. Your combined expertise could create something valuable.",
+        "km": "ការសហការជាមួយមនុស្សដែលមានជំនាញ ដូចជាសិប្បករ អ្នកផ្គត់ផ្គង់ ឬអ្នកឯកទេស អាចបើកឱកាសថ្មី។ ជំនាញរួមរបស់អ្នក អាចបង្កើតអ្វីដែលមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Trying to do everything yourself could limit how far a new venture can go. Bring in people with the skills you lack.",
+        "km": "ការព្យាយាមធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចកំណត់ថាគម្រោងថ្មីអាចទៅបានឆ្ងាយប៉ុណ្ណា។ សូមនាំមនុស្សដែលមានជំនាញដែលអ្នកខ្វះចូលមក។"
+      },
+      "outcome": {
+        "en": "A well-crafted product made with skilled partners could earn a strong reputation. Quality work may attract customers willing to pay for it.",
+        "km": "ផលិតផលដែលធ្វើបានល្អជាមួយដៃគូដែលមានជំនាញ អាចទទួលបានកេរ្តិ៍ឈ្មោះរឹងមាំ។ ការងារមានគុណភាព អាចទាក់ទាញអតិថិជនដែលមានឆន្ទៈបង់ប្រាក់សម្រាប់វា។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be holding resources tightly, reluctant to spend on anything uncertain. That caution could protect you while you look for the right opening.",
+        "km": "អ្នកប្រហែលជាកំពុងកាន់ធនធានយ៉ាងតឹង ដោយស្ទាក់ស្ទើរក្នុងការចំណាយលើអ្វីដែលមិនច្បាស់លាស់។ ការប្រុងប្រយ័ត្ននោះ អាចការពារអ្នក ខណៈអ្នកស្វែងរកឱកាសត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Refusing to spend anything on a promising idea could keep it from ever getting started. Set aside a small, safe amount for testing new opportunities.",
+        "km": "ការបដិសេធមិនចំណាយអ្វីសោះលើគំនិតដែលមានសក្តានុពល អាចរារាំងវាពីការចាប់ផ្តើម។ សូមទុកចំនួនតូច និងមានសុវត្ថិភាពមួយ សម្រាប់ការសាកល្បងឱកាសថ្មី។"
+      },
+      "outcome": {
+        "en": "Using your reserves wisely on a carefully chosen opportunity could bring growth without undue risk. Security and progress may go together.",
+        "km": "ការប្រើប្រាស់ទុនបម្រុងរបស់អ្នកដោយឆ្លាតវៃ លើឱកាសដែលជ្រើសរើសដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវកំណើនដោយគ្មានហានិភ័យហួសហេតុ។ សុវត្ថិភាព និងវឌ្ឍនភាព អាចទៅជាមួយគ្នា។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Money may be tight, making any new opportunity feel out of reach. Low-cost ideas or community support could still offer a way forward.",
+        "km": "ប្រាក់ប្រហែលជាខ្វះខាត ដែលធ្វើឱ្យឱកាសថ្មីណាមួយមានអារម្មណ៍ថាហួសពីលទ្ធភាព។ គំនិតដែលចំណាយតិច ឬការគាំទ្រពីសហគមន៍ អាចនៅតែផ្តល់ផ្លូវទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Taking on debt to chase an uncertain opportunity could deepen financial strain. Seek advice from a qualified adviser before borrowing for a new venture.",
+        "km": "ការខ្ចីបំណុលដើម្បីដេញតាមឱកាសមិនច្បាស់លាស់ អាចធ្វើឱ្យសម្ពាធហិរញ្ញវត្ថុកាន់តែធ្ងន់។ សូមស្វែងរកដំបូន្មានពីទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ មុនពេលខ្ចីប្រាក់សម្រាប់គម្រោងថ្មី។"
+      },
+      "outcome": {
+        "en": "A modest, low-risk opportunity could help the business recover and grow. Support from others may make a difficult start easier.",
+        "km": "ឱកាសតូច និងហានិភ័យទាប អាចជួយអាជីវកម្មឱ្យងើបឡើងវិញ និងរីកចម្រើន។ ការគាំទ្រពីអ្នកដទៃ អាចធ្វើឱ្យការចាប់ផ្តើមដ៏លំបាកងាយស្រួលជាងមុន។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Support may be available, such as a grant, a mentor or a generous partner. Accepting help while offering value in return could open opportunities.",
+        "km": "ការគាំទ្រប្រហែលជាមាន ដូចជាជំនួយឥតសំណង អ្នកណែនាំ ឬដៃគូចិត្តទូលាយ។ ការទទួលយកជំនួយ ខណៈផ្តល់តម្លៃត្រឡប់វិញ អាចបើកឱកាស។"
+      },
+      "challenge": {
+        "en": "Accepting help with hidden conditions could leave you indebted in ways you did not expect. Make sure any support is fair and clearly agreed.",
+        "km": "ការទទួលយកជំនួយដែលមានលក្ខខណ្ឌលាក់កំបាំង អាចធ្វើឱ្យអ្នកជំពាក់គុណតាមរបៀបដែលអ្នកមិនបានរំពឹង។ សូមប្រាកដថាការគាំទ្រណាមួយ យុត្តិធម៌ និងព្រមព្រៀងគ្នាច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "A fair exchange of help and resources could launch a promising new venture. Generosity may come back to you through goodwill and referrals.",
+        "km": "ការផ្លាស់ប្តូរជំនួយ និងធនធានដោយយុត្តិធម៌ អាចចាប់ផ្តើមគម្រោងថ្មីដែលមានសក្តានុពល។ ភាពសប្បុរស អាចត្រឡប់មករកអ្នកវិញតាមរយៈឆន្ទៈល្អ និងការណែនាំ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may be assessing whether an opportunity you have nurtured is worth further investment. Looking honestly at the results it has produced could guide your choice.",
+        "km": "អ្នកប្រហែលជាកំពុងវាយតម្លៃថាឱកាសដែលអ្នកបានថែរក្សា សមនឹងការវិនិយោគបន្ថែមឬអត់។ ការមើលដោយស្មោះត្រង់លើលទ្ធផលដែលវាបានផ្តល់ អាចណែនាំជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Abandoning a slow-growing opportunity too hastily could waste the effort already made. Measure progress honestly before deciding to stop or continue.",
+        "km": "ការបោះបង់ឱកាសដែលរីកចម្រើនយឺតៗដោយប្រញាប់ពេក អាចខ្ជះខ្ជាយការខិតខំដែលបានធ្វើរួចហើយ។ សូមវាស់វឌ្ឍនភាពដោយស្មោះត្រង់ មុនពេលសម្រេចចិត្តឈប់ ឬបន្ត។"
+      },
+      "outcome": {
+        "en": "Patient investment in the right opportunity could bring a rewarding return. Steady effort may pay off more than chasing new ideas.",
+        "km": "ការវិនិយោគដោយអត់ធ្មត់លើឱកាសត្រឹមត្រូវ អាចនាំមកនូវផលត្រឡប់ល្អ។ ការខិតខំទៀងទាត់ អាចទទួលបានផលច្រើនជាងការដេញតាមគំនិតថ្មីៗ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Developing a new skill or perfecting a product may be the opportunity in front of you. Dedicated practice could turn your craft into a stronger offer.",
+        "km": "ការអភិវឌ្ឍជំនាញថ្មី ឬការធ្វើឱ្យផលិតផលល្អឥតខ្ចោះ ប្រហែលជាឱកាសនៅចំពោះមុខអ្នក។ ការហ្វឹកហាត់ដោយយកចិត្តទុកដាក់ អាចប្តូរសិប្បកម្មរបស់អ្នកទៅជាការផ្តល់ជូនរឹងមាំជាង។"
+      },
+      "challenge": {
+        "en": "Focusing on small details could keep you from seeing a bigger opportunity. Step back occasionally to check where your skills could take the business.",
+        "km": "ការផ្តោតលើព័ត៌មានលម្អិតតូចៗ អាចរារាំងអ្នកពីការមើលឃើញឱកាសធំជាង។ សូមដកខ្លួនមកវិញម្តងម្កាល ដើម្បីពិនិត្យថាជំនាញរបស់អ្នកអាចនាំអាជីវកម្មទៅណា។"
+      },
+      "outcome": {
+        "en": "Mastering a craft could lead to a specialised product or service customers value highly. Quality and expertise may become your business's mark.",
+        "km": "ការស្ទាត់ជំនាញក្នុងសិប្បកម្មមួយ អាចនាំទៅរកផលិតផល ឬសេវាកម្មឯកទេសដែលអតិថិជនឱ្យតម្លៃខ្ពស់។ គុណភាព និងជំនាញ អាចក្លាយជាសញ្ញាសម្គាល់អាជីវកម្មរបស់អ្នក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "A self-sufficient, secure position may let you explore something refined or premium. Independence could give you freedom to choose carefully.",
+        "km": "ជំហរដែលពឹងលើខ្លួនឯងបាន និងមានសុវត្ថិភាព អាចឱ្យអ្នកស្វែងយល់អ្វីដែលល្អិតល្អន់ ឬលំដាប់ខ្ពស់។ ឯករាជ្យភាព អាចផ្តល់សេរីភាពឱ្យអ្នកជ្រើសរើសដោយប្រុងប្រយ័ត្ន។"
+      },
+      "challenge": {
+        "en": "Enjoying what you have achieved could make you hesitant to risk any of it. Explore opportunities that build on your security without threatening it.",
+        "km": "ការរីករាយនឹងអ្វីដែលអ្នកបានសម្រេច អាចធ្វើឱ្យអ្នកស្ទាក់ស្ទើរក្នុងការប្រថុយអ្វីមួយ។ សូមស្វែងយល់ឱកាសដែលកសាងលើសុវត្ថិភាពរបស់អ្នក ដោយមិនគំរាមកំហែងវា។"
+      },
+      "outcome": {
+        "en": "A quality, premium offer could attract customers who value excellence. Your independence may let you pursue opportunities on your own terms.",
+        "km": "ការផ្តល់ជូនមានគុណភាព និងលំដាប់ខ្ពស់ អាចទាក់ទាញអតិថិជនដែលឱ្យតម្លៃលើភាពល្អឥតខ្ចោះ។ ឯករាជ្យភាពរបស់អ្នក អាចឱ្យអ្នកដេញតាមឱកាសតាមលក្ខខណ្ឌរបស់អ្នកផ្ទាល់។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "A solid foundation you have built may be strong enough to support a larger opportunity. Family ties, heritage or loyal customers could be part of it.",
+        "km": "មូលដ្ឋានរឹងមាំដែលអ្នកបានកសាង ប្រហែលជារឹងមាំគ្រប់គ្រាន់ដើម្បីគាំទ្រឱកាសធំជាង។ ចំណងគ្រួសារ បេតិកភណ្ឌ ឬអតិថិជនស្មោះត្រង់ អាចជាផ្នែកមួយនៃវា។"
+      },
+      "challenge": {
+        "en": "Taking risks that could endanger what so much hard work has built could be unwise. Protect your core while exploring new ground carefully.",
+        "km": "ការប្រថុយប្រថានដែលអាចធ្វើឱ្យខូចអ្វីដែលការខិតខំយ៉ាងច្រើនបានកសាង អាចមិនឆ្លាតវៃ។ សូមការពារស្នូលរបស់អ្នក ខណៈស្វែងយល់ទីថ្មីដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "An opportunity that strengthens your business's legacy could bring lasting wealth and stability. Building for those who come after you may benefit many people.",
+        "km": "ឱកាសដែលពង្រឹងកេរដំណែលនៃអាជីវកម្មរបស់អ្នក អាចនាំមកនូវទ្រព្យសម្បត្តិ និងស្ថិរភាពស្ថិតស្ថេរ។ ការកសាងសម្រាប់អ្នកដែលមកតាមក្រោយអ្នក អាចផ្តល់ផលប្រយោជន៍ដល់មនុស្សជាច្រើន។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learning about a new field or market may be the first step toward an opportunity. A course, a mentor or careful research could open the door.",
+        "km": "ការរៀនអំពីវិស័យ ឬទីផ្សារថ្មី ប្រហែលជាជំហានដំបូងឆ្ពោះទៅរកឱកាស។ វគ្គសិក្សា អ្នកណែនាំ ឬការស្រាវជ្រាវដោយប្រុងប្រយ័ត្ន អាចបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Studying an opportunity endlessly without trying it could leave it as theory. Put what you learn into a small practical test.",
+        "km": "ការសិក្សាឱកាសមួយគ្មានទីបញ្ចប់ ដោយមិនសាកល្បងវា អាចទុកវាត្រឹមជាទ្រឹស្តី។ សូមដាក់អ្វីដែលអ្នករៀនទៅក្នុងការសាកល្បងជាក់ស្តែងតូចមួយ។"
+      },
+      "outcome": {
+        "en": "Practical learning could turn an idea into a viable new business line. A careful beginning may grow into something substantial.",
+        "km": "ការរៀនជាក់ស្តែង អាចប្តូរគំនិតមួយទៅជាផ្នែកអាជីវកម្មថ្មីដែលអាចដំណើរការបាន។ ការចាប់ផ្តើមដោយប្រុងប្រយ័ត្ន អាចរីកចម្រើនទៅជាអ្វីដែលធំដុំ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "A steady, reliable approach may suit the opportunities in front of you better than a bold leap. Consistent effort could build something lasting.",
+        "km": "វិធីសាស្ត្រទៀងទាត់ និងអាចទុកចិត្តបាន ប្រហែលជាសមនឹងឱកាសនៅចំពោះមុខអ្នក ជាងការលោតដ៏ក្លាហាន។ ការខិតខំស៊ីសង្វាក់ អាចកសាងអ្វីដែលស្ថិតស្ថេរ។"
+      },
+      "challenge": {
+        "en": "Moving too slowly could let a good opportunity go to a faster competitor. Keep your careful approach, but set clear milestones.",
+        "km": "ការផ្លាស់ទីយឺតពេក អាចបណ្តោយឱ្យឱកាសល្អទៅដៃគូប្រកួតប្រជែងដែលលឿនជាង។ សូមរក្សាវិធីសាស្ត្រប្រុងប្រយ័ត្នរបស់អ្នក ប៉ុន្តែកំណត់ចំណុចសំខាន់ៗឱ្យច្បាស់។"
+      },
+      "outcome": {
+        "en": "Methodical work on a sound opportunity could bring dependable growth. Reliability may earn the trust of customers and partners alike.",
+        "km": "ការងារជាប្រព័ន្ធលើឱកាសដ៏ល្អ អាចនាំមកនូវកំណើនដែលអាចទុកចិត្តបាន។ ភាពអាចទុកចិត្តបាន អាចទទួលបានការទុកចិត្តពីទាំងអតិថិជន និងដៃគូ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Practical, caring opportunities, such as services that make daily life easier, may suit your business. Your nurturing approach could attract loyal customers.",
+        "km": "ឱកាសជាក់ស្តែង និងយកចិត្តទុកដាក់ ដូចជាសេវាកម្មដែលធ្វើឱ្យជីវិតប្រចាំថ្ងៃងាយស្រួល ប្រហែលជាសមនឹងអាជីវកម្មរបស់អ្នក។ វិធីសាស្ត្រថែទាំរបស់អ្នក អាចទាក់ទាញអតិថិជនស្មោះត្រង់។"
+      },
+      "challenge": {
+        "en": "Taking on too much in the name of caring for customers could stretch you thin. Choose opportunities that support your wellbeing as well as theirs.",
+        "km": "ការទទួលយកច្រើនពេកក្នុងនាមការយកចិត្តទុកដាក់អតិថិជន អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមជ្រើសរើសឱកាសដែលគាំទ្រសុខុមាលភាពរបស់អ្នក ក៏ដូចជារបស់ពួកគេដែរ។"
+      },
+      "outcome": {
+        "en": "A practical, nurturing service could become a well-loved part of your business. Customers may value an offer that genuinely improves their lives.",
+        "km": "សេវាកម្មជាក់ស្តែង និងថែទាំ អាចក្លាយជាផ្នែកដែលគេស្រលាញ់នៃអាជីវកម្មរបស់អ្នក។ អតិថិជនអាចឱ្យតម្លៃលើការផ្តល់ជូនដែលធ្វើឱ្យជីវិតរបស់ពួកគេប្រសើរឡើងពិតប្រាកដ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "A strong, secure position may let you take on a substantial opportunity. Experience and resources could give you real advantages over newcomers.",
+        "km": "ជំហររឹងមាំ និងមានសុវត្ថិភាព អាចឱ្យអ្នកទទួលយកឱកាសធំដុំមួយ។ បទពិសោធន៍ និងធនធាន អាចផ្តល់ឱ្យអ្នកនូវគុណសម្បត្តិពិតប្រាកដលើអ្នកមកថ្មី។"
+      },
+      "challenge": {
+        "en": "Becoming too focused on profit could lead you to choose opportunities that lack meaning. Balance financial returns with values and purpose.",
+        "km": "ការផ្តោតខ្លាំងពេកលើប្រាក់ចំណេញ អាចនាំឱ្យអ្នកជ្រើសរើសឱកាសដែលខ្វះអត្ថន័យ។ សូមថ្លឹងថ្លែងផលត្រឡប់ផ្នែកហិរញ្ញវត្ថុ ជាមួយគុណតម្លៃ និងគោលបំណង។"
+      },
+      "outcome": {
+        "en": "A well-managed expansion could strengthen the business and benefit those who depend on it. Steady leadership may turn opportunity into lasting success.",
+        "km": "ការពង្រីកដែលគ្រប់គ្រងបានល្អ អាចពង្រឹងអាជីវកម្ម និងផ្តល់ផលប្រយោជន៍ដល់អ្នកដែលពឹងផ្អែកលើវា។ ការដឹកនាំនឹងនរ អាចប្តូរឱកាសទៅជាភាពជោគជ័យស្ថិតស្ថេរ។"
+      }
+    }
+  }
+}
