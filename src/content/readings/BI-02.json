@@ -1,0 +1,1097 @@
+{
+  "questionId": "BI-02",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You may feel the pull of a brand-new venture, excited and ready to leap before every detail is settled. The spirit of a beginner is strong.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ទាញទៅរកគម្រោងថ្មីស្រឡាង ដោយរំភើប ហើយត្រៀមខ្លួនលោត មុនពេលព័ត៌មានលម្អិតនីមួយៗត្រូវបានដោះស្រាយ។ ស្មារតីរបស់អ្នកចាប់ផ្តើមដំបូង គឺខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Jumping in without testing the idea or knowing your start-up costs could turn excitement into a costly lesson. Sell a few before you build a lot.",
+        "km": "ការលោតចូល ដោយមិនសាកល្បងគំនិត ឬមិនដឹងពីថ្លៃដើមចាប់ផ្តើម អាចបង្វែរភាពរំភើបទៅជាមេរៀនថ្លៃ។ សូមលក់បន្តិចសិន មុនពេលអ្នកកសាងច្រើន។"
+      },
+      "outcome": {
+        "en": "A launch that keeps its fresh spirit but covers the basics could get off to a lively start. Early customers may share your enthusiasm.",
+        "km": "ការដាក់ចេញដែលរក្សាស្មារតីថ្មី ប៉ុន្តែគ្របដណ្តប់មូលដ្ឋានគ្រឹះ អាចចាប់ផ្តើមយ៉ាងរស់រវើក។ អតិថិជនដំបូង អាចចែករំលែកភាពរំភើបរបស់អ្នក។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may already have the skills, contacts and tools a new venture needs. The raw materials for a start-up may be in your hands.",
+        "km": "អ្នកប្រហែលជាមានជំនាញ ទំនាក់ទំនង និងឧបករណ៍ ដែលគម្រោងថ្មីត្រូវការរួចហើយ។ វត្ថុធាតុដើមសម្រាប់ការចាប់ផ្តើមអាជីវកម្ម ប្រហែលជាស្ថិតនៅក្នុងដៃរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Trying to launch several ideas at once could leave none of them strong enough to succeed. Pick the one with the clearest customers.",
+        "km": "ការព្យាយាមដាក់ចេញគំនិតជាច្រើនក្នុងពេលតែមួយ អាចធ្វើឱ្យគ្មានមួយណារឹងមាំល្មមដើម្បីជោគជ័យ។ សូមជ្រើសរើសគំនិតដែលមានអតិថិជនច្បាស់លាស់បំផុត។"
+      },
+      "outcome": {
+        "en": "Putting your skills behind one clear offer could turn a start-up into a working business. Your own know-how may be its best asset.",
+        "km": "ការដាក់ជំនាញរបស់អ្នកនៅពីក្រោយការផ្តល់ជូនច្បាស់លាស់មួយ អាចបង្វែរការចាប់ផ្តើម ទៅជាអាជីវកម្មដែលដំណើរការ។ ចំណេះដឹងផ្ទាល់ខ្លួនរបស់អ្នក អាចជាទ្រព្យសម្បត្តិល្អបំផុតរបស់វា។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Your inner sense about starting may be stronger than the facts you have so far. Some important details may still be hidden.",
+        "km": "អារម្មណ៍ខាងក្នុងរបស់អ្នកអំពីការចាប់ផ្តើម ប្រហែលជាខ្លាំងជាងការពិតដែលអ្នកមានរហូតមកដល់ពេលនេះ។ ព័ត៌មានលម្អិតសំខាន់ៗខ្លះ ប្រហែលជានៅតែលាក់កំបាំង។"
+      },
+      "challenge": {
+        "en": "Brushing aside a hunch about the location, a co-founder or the funding could lead to regret. Find out what your intuition has picked up.",
+        "km": "ការច្រានចោលការសង្ស័យអំពីទីតាំង សហស្ថាបនិក ឬមូលនិធិ អាចនាំទៅរកការសោកស្តាយ។ សូមស្វែងយល់ពីអ្វីដែលវិចារណញាណរបស់អ្នកបានចាប់បាន។"
+      },
+      "outcome": {
+        "en": "Quiet research into customers and costs could show whether the idea is ready. Trusting a well-informed instinct may guide the launch well.",
+        "km": "ការស្រាវជ្រាវស្ងាត់ៗអំពីអតិថិជន និងថ្លៃដើម អាចបង្ហាញថាតើគំនិតនេះត្រៀមរួចរាល់ឬអត់។ ការទុកចិត្តលើសភាវគតិដែលមានព័ត៌មានគ្រប់គ្រាន់ អាចណែនាំការដាក់ចេញបានល្អ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "A creative, fertile idea may be ready to grow, perhaps something that makes life more comfortable or beautiful. The conditions for growth may be good.",
+        "km": "គំនិតច្នៃប្រឌិត និងមានជីជាតិមួយ ប្រហែលជាត្រៀមខ្លួនរីកចម្រើន ប្រហែលជាអ្វីមួយដែលធ្វើឱ្យជីវិតកាន់តែស្រួល ឬស្រស់ស្អាត។ លក្ខខណ្ឌសម្រាប់ការរីកចម្រើន ប្រហែលជាល្អ។"
+      },
+      "challenge": {
+        "en": "Spending too much on a beautiful launch before sales arrive could drain your savings. Grow the business before you decorate it.",
+        "km": "ការចំណាយច្រើនពេកលើការដាក់ចេញដ៏ស្រស់ស្អាត មុនពេលការលក់មកដល់ អាចបង្ហូរប្រាក់សន្សំរបស់អ្នក។ សូមឱ្យអាជីវកម្មរីកចម្រើន មុនពេលអ្នកតុបតែងវា។"
+      },
+      "outcome": {
+        "en": "A new venture nurtured with patience could flourish into something fruitful. Customers may be drawn to its warmth and quality.",
+        "km": "គម្រោងថ្មីដែលត្រូវបានចិញ្ចឹមបីបាច់ដោយការអត់ធ្មត់ អាចរីកស្គុះស្គាយទៅជាអ្វីមួយដែលមានផល។ អតិថិជន អាចត្រូវបានទាក់ទាញដោយភាពកក់ក្តៅ និងគុណភាពរបស់វា។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "You may have the structure a start-up needs, such as savings, a plan or experience running things. A firm footing may already exist.",
+        "km": "អ្នកប្រហែលជាមានរចនាសម្ព័ន្ធដែលការចាប់ផ្តើមអាជីវកម្មត្រូវការ ដូចជាប្រាក់សន្សំ ផែនការ ឬបទពិសោធន៍ក្នុងការដំណើរការអ្វីៗ។ ជំហររឹងមាំ ប្រហែលជាមានរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Starting without registration, records or a basic budget could create avoidable trouble. Put the foundations in place first.",
+        "km": "ការចាប់ផ្តើមដោយគ្មានការចុះបញ្ជី កំណត់ត្រា ឬថវិកាមូលដ្ឋាន អាចបង្កើតបញ្ហាដែលអាចជៀសវាងបាន។ សូមដាក់គ្រឹះឱ្យនៅនឹងកន្លែងជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "A launch built on clear structure could stand firm through the early tests. Good systems may let the business grow without chaos.",
+        "km": "ការដាក់ចេញដែលកសាងលើរចនាសម្ព័ន្ធច្បាស់លាស់ អាចឈររឹងមាំឆ្លងកាត់ការសាកល្បងដំបូងៗ។ ប្រព័ន្ធល្អ អាចឱ្យអាជីវកម្មរីកចម្រើន ដោយគ្មានភាពវឹកវរ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "You may be drawn to a proven business model, such as a franchise, a family trade or a well-known type of shop. Familiar paths may feel safer.",
+        "km": "អ្នកប្រហែលជាត្រូវបានទាក់ទាញទៅរកគំរូអាជីវកម្មដែលបានបញ្ជាក់ ដូចជាសិទ្ធិអាជីវកម្ម មុខរបរគ្រួសារ ឬប្រភេទហាងដែលល្បី។ ផ្លូវដែលធ្លាប់ស្គាល់ ប្រហែលជាមានអារម្មណ៍សុវត្ថិភាពជាង។"
+      },
+      "challenge": {
+        "en": "Copying an existing model without checking local demand could leave you competing for the same customers. A mentor or adviser can help you test it.",
+        "km": "ការចម្លងគំរូដែលមានស្រាប់ ដោយមិនពិនិត្យតម្រូវការក្នុងតំបន់ អាចធ្វើឱ្យអ្នកប្រកួតប្រជែងដើម្បីអតិថិជនដដែល។ អ្នកណែនាំ ឬទីប្រឹក្សា អាចជួយអ្នកសាកល្បងវា។"
+      },
+      "outcome": {
+        "en": "A proven model adapted to your area could give the new business a reliable start. Experienced guidance may smooth the first steps.",
+        "km": "គំរូដែលបានបញ្ជាក់ ដែលកែសម្រួលតាមតំបន់របស់អ្នក អាចផ្តល់ការចាប់ផ្តើមដែលអាចទុកចិត្តបានដល់អាជីវកម្មថ្មី។ ការណែនាំពីអ្នកមានបទពិសោធន៍ អាចធ្វើឱ្យជំហានដំបូងរលូន។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Starting a business may involve a partner or a choice that affects someone close to you. Shared values may decide whether it feels right.",
+        "km": "ការចាប់ផ្តើមអាជីវកម្ម ប្រហែលជាពាក់ព័ន្ធនឹងដៃគូ ឬជម្រើសដែលប៉ះពាល់ដល់នរណាម្នាក់ជិតស្និទ្ធនឹងអ្នក។ គុណតម្លៃរួម ប្រហែលជាសម្រេចថាតើវាមានអារម្មណ៍ត្រឹមត្រូវឬអត់។"
+      },
+      "challenge": {
+        "en": "Going into business together without agreeing on roles, money and exit terms could strain the relationship. Put it in writing first.",
+        "km": "ការចូលរួមអាជីវកម្មជាមួយគ្នា ដោយមិនព្រមព្រៀងលើតួនាទី ប្រាក់ និងលក្ខខណ្ឌចាកចេញ អាចធ្វើឱ្យទំនាក់ទំនងតានតឹង។ សូមសរសេរវាជាលាយលក្ខណ៍អក្សរជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "A partnership founded on clear agreement could make the start-up stronger than either of you alone. Shared commitment may carry it through.",
+        "km": "ភាពជាដៃគូដែលបង្កើតឡើងលើការឯកភាពច្បាស់លាស់ អាចធ្វើឱ្យការចាប់ផ្តើមអាជីវកម្មរឹងមាំជាងអ្នកណាម្នាក់តែឯង។ ការប្តេជ្ញាចិត្តរួមគ្នា អាចនាំវាឆ្លងកាត់។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You may feel determined to make a new venture happen, with the drive to push past doubts and obstacles. Willpower is on your side.",
+        "km": "អ្នកប្រហែលជាមានការប្តេជ្ញាចិត្តធ្វើឱ្យគម្រោងថ្មីកើតឡើង ដោយមានកម្លាំងជំរុញដើម្បីរុញឆ្លងកាត់ការសង្ស័យ និងឧបសគ្គ។ ឆន្ទៈ ស្ថិតនៅខាងអ្នក។"
+      },
+      "challenge": {
+        "en": "Racing to open before the groundwork is done could leave gaps in stock, staff or cash. Steer the launch, do not just speed it.",
+        "km": "ការប្រណាំងបើក មុនពេលការងារមូលដ្ឋានត្រូវបានធ្វើរួច អាចបន្សល់ចន្លោះក្នុងស្តុក បុគ្គលិក ឬសាច់ប្រាក់។ សូមដឹកនាំការដាក់ចេញ មិនមែនគ្រាន់តែបង្កើនល្បឿនទេ។"
+      },
+      "outcome": {
+        "en": "Focused determination could carry a new business past its first hurdles. A well-steered launch may build early momentum.",
+        "km": "ការប្តេជ្ញាចិត្តដែលផ្តោត អាចនាំអាជីវកម្មថ្មីឆ្លងកាត់ឧបសគ្គដំបូងៗ។ ការដាក់ចេញដែលដឹកនាំបានល្អ អាចកសាងសន្ទុះដំបូង។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "You may have the patience and steady nerve that a new business demands. Quiet strength may help you handle early setbacks.",
+        "km": "អ្នកប្រហែលជាមានការអត់ធ្មត់ និងសរសៃប្រសាទនឹងនរ ដែលអាជីវកម្មថ្មីទាមទារ។ កម្លាំងស្ងប់ស្ងាត់ អាចជួយអ្នកដោះស្រាយការថយក្រោយដំបូងៗ។"
+      },
+      "challenge": {
+        "en": "Forcing quick results could wear you down before the business finds its feet. Give it patient, steady effort.",
+        "km": "ការបង្ខំឱ្យមានលទ្ធផលរហ័ស អាចធ្វើឱ្យអ្នកអស់កម្លាំង មុនពេលអាជីវកម្មរកឃើញជើងរបស់វា។ សូមផ្តល់ការខិតខំដោយអត់ធ្មត់ និងនឹងនរដល់វា។"
+      },
+      "outcome": {
+        "en": "Calm persistence could help a new venture take root and grow. Inner strength may see you through the hard early stretch.",
+        "km": "ការតស៊ូដោយស្ងប់ស្ងាត់ អាចជួយគម្រោងថ្មីឱ្យចាក់ឫស និងរីកចម្រើន។ កម្លាំងខាងក្នុង អាចនាំអ្នកឆ្លងកាត់ដំណាក់កាលដំបូងដ៏លំបាក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You may need quiet reflection on whether a business is what you truly want. Your deeper purpose may still be taking shape.",
+        "km": "អ្នកប្រហែលជាត្រូវការការឆ្លុះបញ្ចាំងស្ងប់ស្ងាត់ អំពីថាតើអាជីវកម្មគឺជាអ្វីដែលអ្នកពិតជាចង់បានឬអត់។ គោលបំណងជ្រៅជាងរបស់អ្នក ប្រហែលជានៅតែកំពុងមានរូបរាង។"
+      },
+      "challenge": {
+        "en": "Starting because others expect it, rather than from your own conviction, could leave you running something that feels empty. Be sure the reason is yours.",
+        "km": "ការចាប់ផ្តើម ដោយសារអ្នកដទៃរំពឹង ជាជាងពីការជឿជាក់ផ្ទាល់ខ្លួនរបស់អ្នក អាចធ្វើឱ្យអ្នកដំណើរការអ្វីមួយដែលមានអារម្មណ៍ទទេ។ សូមប្រាកដថាហេតុផលនេះជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A venture chosen after honest reflection could feel deeply meaningful to run. Clear purpose may guide wiser early decisions.",
+        "km": "គម្រោងដែលជ្រើសរើស បន្ទាប់ពីការឆ្លុះបញ្ចាំងដោយស្មោះត្រង់ អាចមានអារម្មណ៍មានអត្ថន័យយ៉ាងជ្រៅក្នុងការដំណើរការ។ គោលបំណងច្បាស់លាស់ អាចណែនាំការសម្រេចចិត្តដំបូងដ៏ឆ្លាតវៃជាងមុន។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Market conditions or your own circumstances may be shifting, opening doors that were closed before. Luck may be turning.",
+        "km": "លក្ខខណ្ឌទីផ្សារ ឬកាលៈទេសៈផ្ទាល់ខ្លួនរបស់អ្នក ប្រហែលជាកំពុងផ្លាស់ប្តូរ ដោយបើកទ្វារដែលធ្លាប់បិទ។ សំណាង ប្រហែលជាកំពុងបង្វិល។"
+      },
+      "challenge": {
+        "en": "Betting everything on a lucky moment could leave the venture exposed when conditions turn. Plan for lean stretches as well as good ones.",
+        "km": "ការភ្នាល់អ្វីៗទាំងអស់លើពេលសំណាង អាចធ្វើឱ្យគម្រោងងាយរងគ្រោះ នៅពេលលក្ខខណ្ឌបង្វិល។ សូមរៀបចំផែនការសម្រាប់ដំណាក់កាលខ្វះខាត ក៏ដូចជាដំណាក់កាលល្អ។"
+      },
+      "outcome": {
+        "en": "A launch that rides the change with a safety margin could catch a real opportunity. The turning wheel may favour the prepared.",
+        "km": "ការដាក់ចេញដែលជិះការផ្លាស់ប្តូរ ជាមួយរឹមសុវត្ថិភាព អាចចាប់យកឱកាសពិតប្រាកដ។ កង់ដែលកំពុងវិល អាចអនុគ្រោះដល់អ្នកដែលត្រៀមខ្លួន។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "You may be weighing the idea fairly, looking at costs, risks and rewards with an honest eye. Balanced judgement is guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងគំនិតនេះដោយយុត្តិធម៌ ដោយមើលលើថ្លៃដើម ហានិភ័យ និងរង្វាន់ ដោយភ្នែកស្មោះត្រង់។ ការវិនិច្ឆ័យមានតុល្យភាព កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Overlooking licences, tax or contracts could create legal trouble for a new business. Check the rules, and seek qualified advice where needed.",
+        "km": "ការរំលងអាជ្ញាប័ណ្ណ ពន្ធ ឬកិច្ចសន្យា អាចបង្កើតបញ្ហាផ្លូវច្បាប់សម្រាប់អាជីវកម្មថ្មី។ សូមពិនិត្យច្បាប់ ហើយស្វែងរកដំបូន្មានពីអ្នកជំនាញនៅកន្លែងចាំបាច់។"
+      },
+      "outcome": {
+        "en": "A fair, well-documented start could give the business a clean foundation. Honest dealing may earn early trust from customers.",
+        "km": "ការចាប់ផ្តើមដោយយុត្តិធម៌ និងមានឯកសារល្អ អាចផ្តល់គ្រឹះស្អាតដល់អាជីវកម្ម។ ការដោះស្រាយដោយស្មោះត្រង់ អាចទទួលបានការទុកចិត្តដំបូងពីអតិថិជន។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "You may feel on hold about starting, waiting for something to change or become clear. A new way of seeing the idea may be forming.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ផ្អាកអំពីការចាប់ផ្តើម ដោយរង់ចាំអ្វីមួយផ្លាស់ប្តូរ ឬកាន់តែច្បាស់។ វិធីថ្មីក្នុងការមើលគំនិតនេះ ប្រហែលជាកំពុងបង្កើតឡើង។"
+      },
+      "challenge": {
+        "en": "Forcing a launch while key pieces are missing could lock you into a shaky start. Use the pause to refine the plan.",
+        "km": "ការបង្ខំការដាក់ចេញ ខណៈផ្នែកសំខាន់ៗនៅខ្វះ អាចចាក់សោអ្នកទៅក្នុងការចាប់ផ្តើមដែលរង្គើ។ សូមប្រើការផ្អាកនេះ ដើម្បីកែលម្អផែនការ។"
+      },
+      "outcome": {
+        "en": "Seeing the idea from a new angle could reveal a better way to launch. A small sacrifice may make room for a stronger start.",
+        "km": "ការមើលគំនិតនេះពីមុំថ្មី អាចបង្ហាញវិធីល្អជាងមុនក្នុងការដាក់ចេញ។ ការលះបង់តូចមួយ អាចបង្កើតកន្លែងសម្រាប់ការចាប់ផ្តើមរឹងមាំជាងមុន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Starting a business may follow the end of something else, such as a job, a role or an old way of life. A door may be closing so another can open.",
+        "km": "ការចាប់ផ្តើមអាជីវកម្ម ប្រហែលជាកើតឡើងបន្ទាប់ពីការបញ្ចប់អ្វីមួយផ្សេងទៀត ដូចជាការងារ តួនាទី ឬរបៀបរស់នៅចាស់។ ទ្វារមួយ ប្រហែលជាកំពុងបិទ ដើម្បីឱ្យទ្វារមួយទៀតអាចបើក។"
+      },
+      "challenge": {
+        "en": "Launching mainly to escape something could carry old frustrations into the new venture. Make sure you are moving toward a goal, not only away.",
+        "km": "ការដាក់ចេញភាគច្រើនដើម្បីគេចពីអ្វីមួយ អាចយកការខកចិត្តចាស់ៗចូលទៅក្នុងគម្រោងថ្មី។ សូមប្រាកដថាអ្នកកំពុងឆ្ពោះទៅរកគោលដៅ មិនមែនគ្រាន់តែគេចចេញទេ។"
+      },
+      "outcome": {
+        "en": "A venture that marks a real new chapter could bring renewal and purpose. Letting go of the old may free energy for building.",
+        "km": "គម្រោងដែលសម្គាល់ជំពូកថ្មីពិតប្រាកដ អាចនាំមកនូវការកកើតឡើងវិញ និងគោលបំណង។ ការបោះបង់របស់ចាស់ អាចដោះលែងថាមពលសម្រាប់ការកសាង។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You may be weighing a new venture against your job, family and savings, looking for a balanced way in. Moderation may guide the choice.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងគម្រោងថ្មី ធៀបនឹងការងារ គ្រួសារ និងប្រាក់សន្សំរបស់អ្នក ដោយស្វែងរកវិធីចូលដែលមានតុល្យភាព។ ភាពល្មម ប្រហែលជាណែនាំជម្រើស។"
+      },
+      "challenge": {
+        "en": "Going all in at once, or holding back completely, could both miss the mark. A gradual start may balance risk and reward.",
+        "km": "ការចូលទាំងស្រុងក្នុងពេលតែមួយ ឬការទប់ទាំងស្រុង អាចខកខានគោលដៅទាំងពីរ។ ការចាប់ផ្តើមបន្តិចម្តងៗ អាចធ្វើឱ្យហានិភ័យ និងរង្វាន់មានតុល្យភាព។"
+      },
+      "outcome": {
+        "en": "Starting small alongside your existing income could let the business grow at a healthy pace. Patient blending may lead to a sound result.",
+        "km": "ការចាប់ផ្តើមតូច ស្របជាមួយចំណូលដែលមានស្រាប់ អាចឱ្យអាជីវកម្មរីកចម្រើនក្នុងល្បឿនដែលមានសុខភាពល្អ។ ការលាយបញ្ចូលដោយអត់ធ្មត់ អាចនាំទៅរកលទ្ធផលល្អ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "The urge to start may be tied up with pressure, such as debt, a demanding investor or a need to prove something. Not every pull may be healthy.",
+        "km": "ការជំរុញឱ្យចាប់ផ្តើម ប្រហែលជាជាប់ទាក់ទងនឹងសម្ពាធ ដូចជាបំណុល វិនិយោគិនដែលទាមទារខ្លាំង ឬតម្រូវការដើម្បីបញ្ជាក់អ្វីមួយ។ មិនមែនការទាញទាំងអស់ សុទ្ធតែមានសុខភាពល្អទេ។"
+      },
+      "challenge": {
+        "en": "Borrowing heavily or signing restrictive terms to get started could tie you to a burden. Read every contract and consider professional advice.",
+        "km": "ការខ្ចីប្រាក់ច្រើន ឬការចុះហត្ថលេខាលើលក្ខខណ្ឌរឹតត្បិត ដើម្បីចាប់ផ្តើម អាចចងអ្នកទៅនឹងបន្ទុក។ សូមអានកិច្ចសន្យានីមួយៗ ហើយពិចារណាដំបូន្មានវិជ្ជាជីវៈ។"
+      },
+      "outcome": {
+        "en": "Starting free of heavy strings could give the business room to breathe. Choosing your terms carefully may protect your independence.",
+        "km": "ការចាប់ផ្តើមដោយគ្មានចំណងធ្ងន់ៗ អាចផ្តល់កន្លែងដកដង្ហើមដល់អាជីវកម្ម។ ការជ្រើសរើសលក្ខខណ្ឌរបស់អ្នកដោយប្រុងប្រយ័ត្ន អាចការពារឯករាជ្យភាពរបស់អ្នក។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "An upheaval, such as a lost job or a market shock, may be pushing you toward starting something of your own. The ground you stood on may have shifted.",
+        "km": "ការរង្គោះរង្គើ ដូចជាការបាត់បង់ការងារ ឬការភ្ញាក់ផ្អើលទីផ្សារ ប្រហែលជាកំពុងជំរុញអ្នកឆ្ពោះទៅរកការចាប់ផ្តើមអ្វីមួយផ្ទាល់ខ្លួន។ ដីដែលអ្នកធ្លាប់ឈរ ប្រហែលជាបានផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Launching in the middle of upheaval, before your footing is steady, could add risk on top of shock. Stabilise first, then build.",
+        "km": "ការដាក់ចេញនៅកណ្តាលការរង្គោះរង្គើ មុនពេលជំហររបស់អ្នកនឹងនរ អាចបន្ថែមហានិភ័យលើការភ្ញាក់ផ្អើល។ សូមធ្វើឱ្យមានស្ថិរភាពជាមុន ហើយបន្ទាប់មកកសាង។"
+      },
+      "outcome": {
+        "en": "A venture born from upheaval could become stronger for what it learned. Rebuilding on your own terms may open a truer path.",
+        "km": "គម្រោងដែលកើតចេញពីការរង្គោះរង្គើ អាចក្លាយជារឹងមាំជាងមុន ដោយសារអ្វីដែលវាបានរៀន។ ការកសាងឡើងវិញតាមលក្ខខណ្ឌផ្ទាល់ខ្លួនរបស់អ្នក អាចបើកផ្លូវពិតជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "You may feel hopeful about a new venture, inspired by a vision of what it could become. Optimism may be returning after a hard stretch.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍សង្ឃឹមអំពីគម្រោងថ្មី ដោយត្រូវបានបំផុសដោយចក្ខុវិស័យនៃអ្វីដែលវាអាចក្លាយជា។ សុទិដ្ឋិនិយម ប្រហែលជាកំពុងត្រឡប់មកវិញ បន្ទាប់ពីដំណាក់កាលលំបាក។"
+      },
+      "challenge": {
+        "en": "Letting hope run ahead of the numbers could lead you to underestimate costs. Check the figures as carefully as you dream.",
+        "km": "ការទុកឱ្យក្តីសង្ឃឹមរត់មុនតួលេខ អាចនាំអ្នកឱ្យប៉ាន់ស្មានថ្លៃដើមទាបពេក។ សូមពិនិត្យតួលេខ ដោយប្រុងប្រយ័ត្នដូចដែលអ្នកស្រមៃ។"
+      },
+      "outcome": {
+        "en": "An inspired idea backed by sound planning could grow into something that lifts others too. Hope may become a real business.",
+        "km": "គំនិតដែលបានបំផុស ដែលគាំទ្រដោយការរៀបចំផែនការល្អ អាចរីកចម្រើនទៅជាអ្វីមួយដែលលើកទឹកចិត្តអ្នកដទៃផងដែរ។ ក្តីសង្ឃឹម អាចក្លាយជាអាជីវកម្មពិតប្រាកដ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Much about the venture may still be unclear, such as demand, costs or competitors. Not everything may be as it looks from outside.",
+        "km": "អ្វីៗជាច្រើនអំពីគម្រោងនេះ ប្រហែលជានៅតែមិនច្បាស់ ដូចជាតម្រូវការ ថ្លៃដើម ឬគូប្រជែង។ មិនមែនអ្វីៗទាំងអស់ប្រហែលជាដូចអ្វីដែលវាមើលទៅពីខាងក្រៅនោះទេ។"
+      },
+      "challenge": {
+        "en": "Committing money before the fog lifts could lead you into a market you misread. Talk to potential customers before you invest.",
+        "km": "ការប្តេជ្ញាប្រាក់ មុនពេលអ័ព្ទរលាយបាត់ អាចនាំអ្នកចូលទៅក្នុងទីផ្សារដែលអ្នកអានខុស។ សូមនិយាយជាមួយអតិថិជនសក្តានុពល មុនពេលអ្នកវិនិយោគ។"
+      },
+      "outcome": {
+        "en": "Talking to real customers could show whether the idea stands on solid ground. Patience with the unknowns may spare you an expensive false start.",
+        "km": "ការនិយាយជាមួយអតិថិជនពិត អាចបង្ហាញថាតើគំនិតនេះឈរលើដីរឹងមាំឬអត់។ ការអត់ធ្មត់ជាមួយអ្វីដែលមិនដឹង អាចជួយអ្នកពីការចាប់ផ្តើមខុសដែលថ្លៃ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "You may feel confident and full of energy, with a bright idea and support around you. Conditions for a new venture may look sunny.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មានទំនុកចិត្ត និងពោរពេញដោយថាមពល ជាមួយគំនិតភ្លឺស្វាង និងការគាំទ្រនៅជុំវិញអ្នក។ លក្ខខណ្ឌសម្រាប់គម្រោងថ្មី ប្រហែលជាមើលទៅភ្លឺស្វាង។"
+      },
+      "challenge": {
+        "en": "Confidence could tempt you to skip the dull checks, such as cash flow forecasts and contracts. Do them anyway.",
+        "km": "ទំនុកចិត្ត អាចល្បួងអ្នកឱ្យរំលងការពិនិត្យដ៏ធុញទ្រាន់ ដូចជាការព្យាករណ៍លំហូរសាច់ប្រាក់ និងកិច្ចសន្យា។ សូមធ្វើវាទោះយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A well-prepared launch could shine and draw customers readily. Warm energy may make the business a success people talk about.",
+        "km": "ការដាក់ចេញដែលបានត្រៀមខ្លួនល្អ អាចភ្លឺស្វាង និងទាក់ទាញអតិថិជនបានយ៉ាងងាយ។ ថាមពលកក់ក្តៅ អាចធ្វើឱ្យអាជីវកម្មក្លាយជាភាពជោគជ័យដែលមនុស្សនិយាយអំពី។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You may be reflecting on past ventures or work experience and what they taught you. A clear sense of calling may be emerging.",
+        "km": "អ្នកប្រហែលជាកំពុងឆ្លុះបញ្ចាំងលើគម្រោង ឬបទពិសោធន៍ការងារកន្លងមក និងអ្វីដែលវាបានបង្រៀនអ្នក។ អារម្មណ៍ច្បាស់លាស់នៃការហៅ ប្រហែលជាកំពុងលេចចេញ។"
+      },
+      "challenge": {
+        "en": "Repeating a past business mistake out of habit could undercut a new start. Apply what you have learned.",
+        "km": "ការធ្វើកំហុសអាជីវកម្មកន្លងមកម្តងទៀត ដោយសារទម្លាប់ អាចធ្វើឱ្យការចាប់ផ្តើមថ្មីចុះខ្សោយ។ សូមអនុវត្តអ្វីដែលអ្នកបានរៀន។"
+      },
+      "outcome": {
+        "en": "A venture shaped by hard-won lessons could start on wiser footing. Answering a genuine calling may bring deep satisfaction.",
+        "km": "គម្រោងដែលរៀបចំឡើងដោយមេរៀនដែលទទួលបានដោយលំបាក អាចចាប់ផ្តើមលើជំហរឆ្លាតវៃជាងមុន។ ការឆ្លើយតបនឹងការហៅពិតប្រាកដ អាចនាំមកនូវការពេញចិត្តយ៉ាងជ្រៅ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You may have completed a stage of life or work that leaves you ready for something new. A cycle may be closing on a high note.",
+        "km": "អ្នកប្រហែលជាបានបញ្ចប់ដំណាក់កាលមួយនៃជីវិត ឬការងារ ដែលធ្វើឱ្យអ្នកត្រៀមខ្លួនសម្រាប់អ្វីមួយថ្មី។ វដ្តមួយ ប្រហែលជាកំពុងបិទដោយចំណុចខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Rushing into a venture without tying up loose ends could leave old business unfinished. Close one chapter cleanly before opening the next.",
+        "km": "ការប្រញាប់ចូលទៅក្នុងគម្រោង ដោយមិនបញ្ចប់កិច្ចការដែលនៅសល់ អាចទុករឿងចាស់ឱ្យមិនទាន់បញ្ចប់។ សូមបិទជំពូកមួយឱ្យស្អាត មុនពេលបើកជំពូកបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Starting from a place of completion could give the new business a confident, whole beginning. A fresh cycle may open on solid ground.",
+        "km": "ការចាប់ផ្តើមពីកន្លែងនៃការបញ្ចប់ អាចផ្តល់ការចាប់ផ្តើមដោយទំនុកចិត្ត និងពេញលេញដល់អាជីវកម្មថ្មី។ វដ្តថ្មី អាចបើកលើដីរឹងមាំ។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A fresh business idea may be sparking with real energy, perhaps a product or service you are itching to try. The first flame is lit.",
+        "km": "គំនិតអាជីវកម្មថ្មីមួយ ប្រហែលជាកំពុងភ្លឺឡើងដោយថាមពលពិតប្រាកដ ប្រហែលជាផលិតផល ឬសេវាកម្មដែលអ្នកចង់សាកល្បងខ្លាំង។ អណ្តាតភ្លើងដំបូងត្រូវបានបញ្ឆេះ។"
+      },
+      "challenge": {
+        "en": "Acting on the spark alone, without checking whether anyone will pay, could burn through savings. Test demand before you spend big.",
+        "km": "ការធ្វើសកម្មភាពតាមផ្កាភ្លើងតែម្យ៉ាង ដោយមិនពិនិត្យថាតើមាននរណាម្នាក់នឹងបង់ប្រាក់ឬអត់ អាចដុតប្រាក់សន្សំអស់។ សូមសាកល្បងតម្រូវការ មុនពេលអ្នកចំណាយច្រើន។"
+      },
+      "outcome": {
+        "en": "A spark fed by a small test run could grow into a real venture. Early buyers may confirm the idea is worth pursuing.",
+        "km": "ផ្កាភ្លើងដែលបានចិញ្ចឹមដោយការសាកល្បងតូចមួយ អាចរីកចម្រើនទៅជាគម្រោងពិតប្រាកដ។ អ្នកទិញដំបូងៗ អាចបញ្ជាក់ថាគំនិតនេះសមនឹងការតាមរក។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You may be standing at the planning stage, comparing locations, markets or business models. The world of options may feel wide open.",
+        "km": "អ្នកប្រហែលជាកំពុងឈរនៅដំណាក់កាលរៀបចំផែនការ ដោយប្រៀបធៀបទីតាំង ទីផ្សារ ឬគំរូអាជីវកម្ម។ ពិភពនៃជម្រើស ប្រហែលជាមានអារម្មណ៍បើកចំហទូលាយ។"
+      },
+      "challenge": {
+        "en": "Endless comparing could keep the venture on paper while others move in. Narrow it down to one plan you can test.",
+        "km": "ការប្រៀបធៀបគ្មានទីបញ្ចប់ អាចរក្សាគម្រោងនៅលើក្រដាស ខណៈអ្នកដទៃចូលមក។ សូមបង្រួមវាមកនៅត្រឹមផែនការមួយដែលអ្នកអាចសាកល្បង។"
+      },
+      "outcome": {
+        "en": "Choosing a direction with clear eyes could launch the business toward a wider horizon. Good planning may make the first move confident.",
+        "km": "ការជ្រើសរើសទិសដៅដោយភ្នែកច្បាស់ អាចដាក់ចេញអាជីវកម្មឆ្ពោះទៅរកជើងមេឃទូលាយជាងមុន។ ការរៀបចំផែនការល្អ អាចធ្វើឱ្យការផ្លាស់ទីដំបូងមានទំនុកចិត្ត។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Groundwork you have already laid, such as contacts or a side project, may be ready to expand into a full business. Prospects may be opening.",
+        "km": "ការងារមូលដ្ឋានដែលអ្នកបានដាក់រួចហើយ ដូចជាទំនាក់ទំនង ឬគម្រោងបន្ទាប់បន្សំ ប្រហែលជាត្រៀមខ្លួនពង្រីកទៅជាអាជីវកម្មពេញលេញ។ ទស្សនវិស័យ ប្រហែលជាកំពុងបើក។"
+      },
+      "challenge": {
+        "en": "Quitting a steady income before the side project can support you could create strain. Let it prove itself first.",
+        "km": "ការលាឈប់ពីចំណូលនឹងនរ មុនពេលគម្រោងបន្ទាប់បន្សំអាចទ្រទ្រង់អ្នក អាចបង្កើតសម្ពាធ។ សូមឱ្យវាបង្ហាញខ្លួនវាជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Growing a side project step by step could turn it into a solid business. A wider market may open as it proves itself.",
+        "km": "ការពង្រីកគម្រោងបន្ទាប់បន្សំមួយជំហានម្តងៗ អាចបង្វែរវាទៅជាអាជីវកម្មរឹងមាំ។ ទីផ្សារទូលាយជាងមុន អាចបើកចំហ នៅពេលវាបង្ហាញខ្លួនវា។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "You may be in a stable, happy place, with a home base and support that could carry a new venture. Good spirits may surround the idea.",
+        "km": "អ្នកប្រហែលជាស្ថិតនៅកន្លែងមានស្ថិរភាព និងរីករាយ ដោយមានមូលដ្ឋាន និងការគាំទ្រ ដែលអាចទ្រទ្រង់គម្រោងថ្មី។ ស្មារតីល្អ ប្រហែលជានៅជុំវិញគំនិតនេះ។"
+      },
+      "challenge": {
+        "en": "Spending heavily on a grand opening could leave too little for running costs. Celebrate modestly and save for the basics.",
+        "km": "ការចំណាយច្រើនលើពិធីបើកដ៏ធំ អាចទុកប្រាក់តិចពេកសម្រាប់ថ្លៃដំណើរការ។ សូមអបអរដោយសមរម្យ ហើយសន្សំសម្រាប់មូលដ្ឋានគ្រឹះ។"
+      },
+      "outcome": {
+        "en": "A venture launched from a secure base could grow with less strain. Community support may help it settle in.",
+        "km": "គម្រោងដែលបានដាក់ចេញពីមូលដ្ឋានមានសុវត្ថិភាព អាចរីកចម្រើនដោយសម្ពាធតិចជាងមុន។ ការគាំទ្រពីសហគមន៍ អាចជួយវាឱ្យតាំងលំនៅ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "The market you are eyeing may be crowded, with rivals and opinions competing for attention. Things may feel noisy and contested.",
+        "km": "ទីផ្សារដែលអ្នកកំពុងមើល ប្រហែលជាមានមនុស្សច្រើន ដោយគូប្រជែង និងមតិនានាប្រកួតប្រជែងដើម្បីការយកចិត្តទុកដាក់។ អ្វីៗប្រហែលជាមានអារម្មណ៍ច្របូកច្របល់ និងមានការប្រជែង។"
+      },
+      "challenge": {
+        "en": "Entering a crowded field without something different to offer could leave you fighting on price alone. Find what sets you apart.",
+        "km": "ការចូលទៅក្នុងវិស័យដែលមានមនុស្សច្រើន ដោយគ្មានអ្វីខុសប្លែកដើម្បីផ្តល់ជូន អាចធ្វើឱ្យអ្នកប្រយុទ្ធតែលើតម្លៃ។ សូមស្វែងរកអ្វីដែលធ្វើឱ្យអ្នកខុសប្លែក។"
+      },
+      "outcome": {
+        "en": "A clear point of difference could carve out space even in a busy market. Rivals may push you to make the offer sharper.",
+        "km": "ចំណុចខុសប្លែកច្បាស់លាស់ អាចឆ្លាក់កន្លែងមួយ សូម្បីតែនៅក្នុងទីផ្សារមមាញឹក។ គូប្រជែង អាចជំរុញអ្នកឱ្យធ្វើការផ្តល់ជូនកាន់តែមុតស្រួច។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Past success or recognition may be giving you the confidence to strike out on your own. Others may believe in you.",
+        "km": "ភាពជោគជ័យ ឬការទទួលស្គាល់កន្លងមក ប្រហែលជាកំពុងផ្តល់ទំនុកចិត្តដល់អ្នកក្នុងការចេញទៅធ្វើដោយខ្លួនឯង។ អ្នកដទៃ ប្រហែលជាជឿជាក់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "Assuming a reputation will carry the business on its own could lead to disappointment. Customers still need a clear reason to buy.",
+        "km": "ការសន្មតថាកេរ្តិ៍ឈ្មោះនឹងនាំអាជីវកម្មដោយខ្លួនឯង អាចនាំទៅរកការខកចិត្ត។ អតិថិជន នៅតែត្រូវការហេតុផលច្បាស់លាស់ដើម្បីទិញ។"
+      },
+      "outcome": {
+        "en": "Building on your good name with a strong offer could give the venture a flying start. Recognition may turn into loyal customers.",
+        "km": "ការកសាងលើឈ្មោះល្អរបស់អ្នក ជាមួយការផ្តល់ជូនរឹងមាំ អាចផ្តល់ការចាប់ផ្តើមដ៏ល្អដល់គម្រោង។ ការទទួលស្គាល់ អាចប្រែក្លាយទៅជាអតិថិជនស្មោះត្រង់។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may be defending your idea against doubters, holding firm in the face of criticism or risk. Conviction is strong.",
+        "km": "អ្នកប្រហែលជាកំពុងការពារគំនិតរបស់អ្នក ប្រឆាំងនឹងអ្នកសង្ស័យ ដោយកាន់ជំហររឹងមាំ ចំពោះមុខការរិះគន់ ឬហានិភ័យ។ ការជឿជាក់ គឺខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Dismissing every warning as negativity could make you miss a real flaw in the plan. Hear critics out before you decide.",
+        "km": "ការច្រានចោលរាល់ការព្រមាន ថាជាភាពអវិជ្ជមាន អាចធ្វើឱ្យអ្នករំលងចំណុចខ្សោយពិតប្រាកដក្នុងផែនការ។ សូមស្តាប់អ្នករិះគន់ មុនពេលអ្នកសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "A well-tested idea defended with conviction could hold its ground. Resilience may help the business survive early pressure.",
+        "km": "គំនិតដែលបានសាកល្បងល្អ ហើយការពារដោយការជឿជាក់ អាចឈររឹងមាំ។ ភាពធន់ អាចជួយអាជីវកម្មឱ្យរស់រានពីសម្ពាធដំបូង។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things may be moving fast, with an opportunity, premises or a partner appearing at speed. Momentum may be pulling you forward.",
+        "km": "អ្វីៗប្រហែលជាកំពុងផ្លាស់ទីយ៉ាងលឿន ដោយឱកាស ទីតាំង ឬដៃគូលេចឡើងយ៉ាងរហ័ស។ សន្ទុះ ប្រហែលជាកំពុងទាញអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Signing a lease or deal under pressure to decide on the spot could lock you into poor terms. A genuine offer can survive a pause to check.",
+        "km": "ការចុះហត្ថលេខាលើកិច្ចសន្យាជួល ឬកិច្ចព្រមព្រៀង ក្រោមសម្ពាធឱ្យសម្រេចចិត្តភ្លាមៗ អាចចាក់សោអ្នកទៅក្នុងលក្ខខណ្ឌមិនល្អ។ ការផ្តល់ជូនពិតប្រាកដ អាចរង់ចាំការផ្អាកដើម្បីពិនិត្យ។"
+      },
+      "outcome": {
+        "en": "Moving swiftly with your homework done could let you catch a good opening. Fast, informed action may give the venture a strong start.",
+        "km": "ការផ្លាស់ទីយ៉ាងរហ័ស ដោយបានធ្វើការស្រាវជ្រាវរួចហើយ អាចឱ្យអ្នកចាប់យកឱកាសល្អ។ សកម្មភាពរហ័ស និងមានព័ត៌មាន អាចផ្តល់ការចាប់ផ្តើមរឹងមាំដល់គម្រោង។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may have been building toward this patiently, tired from obstacles but still determined. You may be close to ready.",
+        "km": "អ្នកប្រហែលជាបានកសាងឆ្ពោះទៅរកវាដោយអត់ធ្មត់ អស់កម្លាំងពីឧបសគ្គ ប៉ុន្តែនៅតែប្តេជ្ញាចិត្ត។ អ្នកប្រហែលជាជិតត្រៀមរួចរាល់ហើយ។"
+      },
+      "challenge": {
+        "en": "Launching while worn out could leave you without the energy a start-up demands. Recharge before the final push.",
+        "km": "ការដាក់ចេញ ខណៈអស់កម្លាំង អាចធ្វើឱ្យអ្នកគ្មានថាមពលដែលការចាប់ផ្តើមអាជីវកម្មទាមទារ។ សូមបញ្ចូលថាមពលឡើងវិញ មុនការរុញចុងក្រោយ។"
+      },
+      "outcome": {
+        "en": "Persistence could carry the idea over the starting line. Your resilience may become the business's backbone.",
+        "km": "ការតស៊ូ អាចនាំគំនិតនេះឆ្លងកាត់ខ្សែចាប់ផ្តើម។ ភាពធន់របស់អ្នក អាចក្លាយជាឆ្អឹងខ្នងរបស់អាជីវកម្ម។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Work, family and other duties may already fill your days, and a start-up would ask for even more. Spare energy may be scarce.",
+        "km": "ការងារ គ្រួសារ និងកាតព្វកិច្ចផ្សេងទៀត ប្រហែលជាបំពេញជីវិតរបស់អ្នករួចហើយ ហើយការចាប់ផ្តើមអាជីវកម្មនឹងទាមទារកាន់តែច្រើន។ ថាមពលទំនេរ ប្រហែលជាខ្វះខាត។"
+      },
+      "challenge": {
+        "en": "Adding a business on top of everything else could lead to burnout. Lighten other commitments or find help before starting.",
+        "km": "ការបន្ថែមអាជីវកម្មលើអ្វីៗផ្សេងទៀតទាំងអស់ អាចនាំទៅរកការអស់កម្លាំង។ សូមបន្ធូរកាតព្វកិច្ចផ្សេងទៀត ឬរកជំនួយ មុនពេលចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Clearing space for the venture could make it manageable and even enjoyable. Shared responsibility may help it thrive.",
+        "km": "ការបង្កើតកន្លែងសម្រាប់គម្រោង អាចធ្វើឱ្យវាអាចគ្រប់គ្រងបាន និងថែមទាំងរីករាយ។ ការទទួលខុសត្រូវរួមគ្នា អាចជួយវាឱ្យរីកចម្រើន។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You may be eager to learn and try something new, full of curiosity about running your own business. Enthusiasm is fresh.",
+        "km": "អ្នកប្រហែលជាចង់រៀន និងសាកល្បងអ្វីមួយថ្មី ពោរពេញដោយការចង់ដឹងអំពីការដំណើរការអាជីវកម្មផ្ទាល់ខ្លួន។ ភាពរំភើបគឺថ្មីស្រឡាង។"
+      },
+      "challenge": {
+        "en": "Starting without basic knowledge of costs, pricing or bookkeeping could lead to avoidable mistakes. Learn the essentials first.",
+        "km": "ការចាប់ផ្តើម ដោយគ្មានចំណេះដឹងមូលដ្ឋានអំពីថ្លៃដើម ការកំណត់តម្លៃ ឬការកត់ត្រាបញ្ជី អាចនាំទៅរកកំហុសដែលអាចជៀសវាងបាន។ សូមរៀនរឿងចាំបាច់ជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Learning while starting small could build skills and confidence together. A curious beginner may grow into a capable owner.",
+        "km": "ការរៀន ខណៈចាប់ផ្តើមតូច អាចកសាងជំនាញ និងទំនុកចិត្តជាមួយគ្នា។ អ្នកចាប់ផ្តើមដំបូងដែលចង់ដឹង អាចរីកចម្រើនទៅជាម្ចាស់ដែលមានសមត្ថភាព។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You may feel ready to charge into a new venture, full of drive and impatient to begin. Boldness is high.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ត្រៀមខ្លួនរត់ចូលទៅក្នុងគម្រោងថ្មី ពោរពេញដោយកម្លាំងជំរុញ និងមិនអាចរង់ចាំចាប់ផ្តើមបាន។ ភាពក្លាហាន គឺខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Racing in without a business plan or budget could lead to costly surprises. Channel the drive into preparation first.",
+        "km": "ការប្រញាប់ចូល ដោយគ្មានផែនការអាជីវកម្ម ឬថវិកា អាចនាំទៅរកការភ្ញាក់ផ្អើលថ្លៃៗ។ សូមបង្វែរកម្លាំងជំរុញទៅក្នុងការរៀបចំជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Bold energy aimed by a solid plan could make for an exciting launch. Daring may pay off when it is prepared.",
+        "km": "ថាមពលក្លាហាន ដែលតម្រង់ដោយផែនការរឹងមាំ អាចធ្វើឱ្យមានការដាក់ចេញដ៏គួរឱ្យរំភើប។ ភាពក្លាហាន អាចទទួលបានផល នៅពេលវាត្រូវបានត្រៀមខ្លួន។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You may have the warmth, confidence and people skills that help a new business win customers. Charisma could be a real asset.",
+        "km": "អ្នកប្រហែលជាមានភាពកក់ក្តៅ ទំនុកចិត្ត និងជំនាញទំនាក់ទំនងមនុស្ស ដែលជួយអាជីវកម្មថ្មីឈ្នះអតិថិជន។ ភាពទាក់ទាញ អាចជាទ្រព្យសម្បត្តិពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Relying on charm while neglecting the numbers could leave the business popular but unprofitable. Keep an eye on margins.",
+        "km": "ការពឹងលើភាពគួរឱ្យចាប់ចិត្ត ខណៈធ្វេសប្រហែសតួលេខ អាចធ្វើឱ្យអាជីវកម្មពេញនិយម ប៉ុន្តែគ្មានប្រាក់ចំណេញ។ សូមតាមដានប្រាក់ចំណេញរឹម។"
+      },
+      "outcome": {
+        "en": "Personal warmth backed by sound figures could build a loyal following. Your confidence may draw the right people in.",
+        "km": "ភាពកក់ក្តៅផ្ទាល់ខ្លួន ដែលគាំទ្រដោយតួលេខល្អ អាចកសាងអ្នកគាំទ្រស្មោះត្រង់។ ទំនុកចិត្តរបស់អ្នក អាចទាក់ទាញមនុស្សត្រឹមត្រូវចូលមក។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You may have a clear vision and the leadership to build something of your own. Ambition and direction may be strong.",
+        "km": "អ្នកប្រហែលជាមានចក្ខុវិស័យច្បាស់លាស់ និងភាពជាអ្នកដឹកនាំ ដើម្បីកសាងអ្វីមួយផ្ទាល់ខ្លួន។ មហិច្ឆតា និងទិសដៅ ប្រហែលជាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "A grand vision without a realistic budget could overreach before the business finds its feet. Start with a version you can afford.",
+        "km": "ចក្ខុវិស័យដ៏ធំ ដោយគ្មានថវិកាប្រាកដនិយម អាចលាតសន្ធឹងហួសហេតុ មុនពេលអាជីវកម្មរកឃើញជើងរបស់វា។ សូមចាប់ផ្តើមជាមួយកំណែដែលអ្នកអាចមានលទ្ធភាព។"
+      },
+      "outcome": {
+        "en": "Vision combined with practical steps could grow into a business that leads its field. Strong direction may attract partners and talent.",
+        "km": "ចក្ខុវិស័យរួមផ្សំជាមួយជំហានជាក់ស្តែង អាចរីកចម្រើនទៅជាអាជីវកម្មដែលដឹកនាំវិស័យរបស់ខ្លួន។ ទិសដៅរឹងមាំ អាចទាក់ទាញដៃគូ និងទេពកោសល្យ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your heart may be set on a business built around something you love, such as food, craft or caring for people. Passion is the spark.",
+        "km": "បេះដូងរបស់អ្នក ប្រហែលជាតាំងចិត្តលើអាជីវកម្មដែលកសាងជុំវិញអ្វីមួយដែលអ្នកស្រឡាញ់ ដូចជាម្ហូប សិប្បកម្ម ឬការថែរក្សាមនុស្ស។ ចំណង់ចំណូលចិត្ត គឺជាផ្កាភ្លើង។"
+      },
+      "challenge": {
+        "en": "Loving the work does not guarantee customers will pay enough for it. Check that the passion can pay its way.",
+        "km": "ការស្រឡាញ់ការងារ មិនធានាថាអតិថិជននឹងបង់ប្រាក់គ្រប់គ្រាន់សម្រាប់វាទេ។ សូមពិនិត្យថាចំណង់ចំណូលចិត្ត អាចគ្របដណ្តប់ថ្លៃដើមរបស់វា។"
+      },
+      "outcome": {
+        "en": "A heartfelt business with sound pricing could bring both joy and income. Customers may feel the care you put in.",
+        "km": "អាជីវកម្មពីបេះដូង ដែលមានការកំណត់តម្លៃល្អ អាចនាំមកនូវទាំងសេចក្តីរីករាយ និងចំណូល។ អតិថិជន អាចមានអារម្មណ៍ពីការយកចិត្តទុកដាក់ដែលអ្នកដាក់ចូល។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A new venture may involve a close partner, friend or spouse, with two people sharing one dream. Connection is at the centre.",
+        "km": "គម្រោងថ្មី ប្រហែលជាពាក់ព័ន្ធនឹងដៃគូជិតស្និទ្ធ មិត្តភក្តិ ឬប្តីប្រពន្ធ ដោយមនុស្សពីរនាក់ចែករំលែកក្តីសុបិនតែមួយ។ ការតភ្ជាប់ ស្ថិតនៅចំកណ្តាល។"
+      },
+      "challenge": {
+        "en": "Mixing friendship and money without clear agreements could put both at risk. Agree on shares, roles and what happens if one leaves.",
+        "km": "ការលាយបញ្ចូលមិត្តភាព និងប្រាក់ ដោយគ្មានកិច្ចព្រមព្រៀងច្បាស់លាស់ អាចធ្វើឱ្យទាំងពីរស្ថិតក្នុងហានិភ័យ។ សូមព្រមព្រៀងលើចំណែក តួនាទី និងអ្វីដែលកើតឡើង ប្រសិនបើម្នាក់ចាកចេញ។"
+      },
+      "outcome": {
+        "en": "A partnership with clear terms and mutual respect could make starting together a joy. Shared effort may lighten the load.",
+        "km": "ភាពជាដៃគូដែលមានលក្ខខណ្ឌច្បាស់លាស់ និងការគោរពគ្នាទៅវិញទៅមក អាចធ្វើឱ្យការចាប់ផ្តើមជាមួយគ្នាក្លាយជាសេចក្តីរីករាយ។ ការខិតខំរួមគ្នា អាចធ្វើឱ្យបន្ទុកស្រាល។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friends or a supportive community may be encouraging you to start, perhaps offering help or first orders. Goodwill surrounds the idea.",
+        "km": "មិត្តភក្តិ ឬសហគមន៍ដែលគាំទ្រ ប្រហែលជាកំពុងលើកទឹកចិត្តអ្នកឱ្យចាប់ផ្តើម ប្រហែលជាផ្តល់ជំនួយ ឬការបញ្ជាទិញដំបូង។ ឆន្ទៈល្អ នៅជុំវិញគំនិតនេះ។"
+      },
+      "challenge": {
+        "en": "Counting on friends' enthusiasm as proof of demand could mislead you. Test the idea with strangers who owe you nothing.",
+        "km": "ការពឹងលើភាពរំភើបរបស់មិត្តភក្តិ ជាភស្តុតាងនៃតម្រូវការ អាចនាំអ្នកឱ្យយល់ខុស។ សូមសាកល្បងគំនិតជាមួយមនុស្សចម្លែក ដែលមិនជំពាក់អ្វីពីអ្នក។"
+      },
+      "outcome": {
+        "en": "Community support combined with real market testing could give the venture a warm and solid start. Word of mouth may spread.",
+        "km": "ការគាំទ្រពីសហគមន៍ រួមផ្សំជាមួយការសាកល្បងទីផ្សារពិត អាចផ្តល់ការចាប់ផ្តើមកក់ក្តៅ និងរឹងមាំដល់គម្រោង។ ការផ្សព្វផ្សាយតាមមាត់ អាចរីករាលដាល។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel unsure or unmoved about starting, as if the ideas on offer do not quite excite you. The fire for it may not be lit yet.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មិនប្រាកដ ឬមិនរំភើបអំពីការចាប់ផ្តើម ដូចជាគំនិតដែលមាន មិនសូវធ្វើឱ្យអ្នករំភើប។ ភ្លើងសម្រាប់វា ប្រហែលជាមិនទាន់ត្រូវបានបញ្ឆេះ។"
+      },
+      "challenge": {
+        "en": "Starting a business out of boredom could leave you running something you do not care about. Wait for an idea that truly moves you.",
+        "km": "ការចាប់ផ្តើមអាជីវកម្ម ដោយសារភាពធុញទ្រាន់ អាចធ្វើឱ្យអ្នកដំណើរការអ្វីមួយដែលអ្នកមិនខ្វល់។ សូមរង់ចាំគំនិតដែលពិតជាធ្វើឱ្យអ្នករំភើប។"
+      },
+      "outcome": {
+        "en": "Noticing which idea genuinely interests you could reveal a venture worth starting. Fresh enthusiasm may return with the right fit.",
+        "km": "ការកត់សម្គាល់ថាគំនិតណាមួយពិតជាចាប់អារម្មណ៍អ្នក អាចបង្ហាញគម្រោងដែលសមនឹងការចាប់ផ្តើម។ ភាពរំភើបថ្មី អាចត្រឡប់មកវិញ ជាមួយអ្វីដែលសម។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "You may be thinking of starting after a disappointment, such as a lost job or a failed venture. Regret may still colour your view.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតចាប់ផ្តើម បន្ទាប់ពីការខកចិត្ត ដូចជាការបាត់បង់ការងារ ឬគម្រោងបរាជ័យ។ ការសោកស្តាយ ប្រហែលជានៅតែជះឥទ្ធិពលលើទស្សនៈរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Launching to prove something after a loss could cloud your judgement. Let the sting fade before you commit savings.",
+        "km": "ការដាក់ចេញដើម្បីបញ្ជាក់អ្វីមួយ បន្ទាប់ពីការបាត់បង់ អាចធ្វើឱ្យការវិនិច្ឆ័យរបស់អ្នកស្រអាប់។ សូមឱ្យការឈឺចាប់រសាត់ មុនពេលអ្នកប្តេជ្ញាប្រាក់សន្សំ។"
+      },
+      "outcome": {
+        "en": "A venture started once the hurt has eased could draw on hard lessons. What remains may be enough to build something new.",
+        "km": "គម្រោងដែលចាប់ផ្តើម នៅពេលការឈឺចាប់បានធូរស្រាល អាចទាញយកមេរៀនលំបាក។ អ្វីដែលនៅសល់ អាចគ្រប់គ្រាន់ដើម្បីកសាងអ្វីមួយថ្មី។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "The idea may come from your roots, such as a family recipe, a childhood skill or a trade passed down. Nostalgia may be part of its charm.",
+        "km": "គំនិតនេះ ប្រហែលជាមកពីឫសគល់របស់អ្នក ដូចជារូបមន្តគ្រួសារ ជំនាញពីកុមារភាព ឬមុខរបរដែលបន្តពីដូនតា។ ការនឹករលឹក ប្រហែលជាផ្នែកមួយនៃភាពទាក់ទាញរបស់វា។"
+      },
+      "challenge": {
+        "en": "Relying on sentiment alone could overlook whether modern customers want it. Update the tradition for the people you serve.",
+        "km": "ការពឹងលើអារម្មណ៍តែម្យ៉ាង អាចរំលងថាតើអតិថិជនសម័យទំនើបចង់បានវាឬអត់។ សូមធ្វើបច្ចុប្បន្នភាពប្រពៃណី សម្រាប់មនុស្សដែលអ្នកបម្រើ។"
+      },
+      "outcome": {
+        "en": "A business that honours its roots while meeting modern needs could stand out warmly. Heritage may become a selling point.",
+        "km": "អាជីវកម្មដែលគោរពឫសគល់របស់ខ្លួន ខណៈបំពេញតម្រូវការទំនើប អាចលេចធ្លោដោយភាពកក់ក្តៅ។ មរតក អាចក្លាយជាចំណុចលក់។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may have many business dreams, each tempting in a different way. It may be hard to tell which one is real.",
+        "km": "អ្នកប្រហែលជាមានក្តីសុបិនអាជីវកម្មជាច្រើន ដែលនីមួយៗទាក់ទាញតាមរបៀបខុសៗគ្នា។ វាអាចពិបាកប្រាប់ថាមួយណាជាការពិត។"
+      },
+      "challenge": {
+        "en": "Chasing a dream that sounds too good, such as a scheme promising easy profits, could cost you dearly. Check every claim.",
+        "km": "ការដេញតាមក្តីសុបិនដែលស្តាប់ទៅល្អពេក ដូចជាគម្រោងដែលសន្យាប្រាក់ចំណេញងាយស្រួល អាចធ្វើឱ្យអ្នកខាតបង់ច្រើន។ សូមពិនិត្យការអះអាងនីមួយៗ។"
+      },
+      "outcome": {
+        "en": "Narrowing the options to one realistic idea could turn dreaming into building. Clarity may reveal the venture worth backing.",
+        "km": "ការបង្រួមជម្រើសមកនៅត្រឹមគំនិតប្រាកដនិយមមួយ អាចបង្វែរការស្រមៃទៅជាការកសាង។ ភាពច្បាស់លាស់ អាចបង្ហាញគម្រោងដែលសមនឹងការគាំទ្រ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be ready to leave something behind, such as a job or path that no longer fulfils you, to build something of your own. A deeper calling may pull.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនបន្សល់ទុកអ្វីមួយ ដូចជាការងារ ឬផ្លូវដែលលែងធ្វើឱ្យអ្នកពេញចិត្ត ដើម្បីកសាងអ្វីមួយផ្ទាល់ខ្លួន។ ការហៅដ៏ជ្រៅជាង ប្រហែលជាកំពុងទាញ។"
+      },
+      "challenge": {
+        "en": "Walking away from income without savings to bridge the gap could make the start stressful. Build a cushion before you leave.",
+        "km": "ការដើរចេញពីចំណូល ដោយគ្មានប្រាក់សន្សំដើម្បីបិទចន្លោះ អាចធ្វើឱ្យការចាប់ផ្តើមតានតឹង។ សូមកសាងប្រាក់បម្រុង មុនពេលអ្នកចាកចេញ។"
+      },
+      "outcome": {
+        "en": "Leaving with savings and a test market in place could make the leap feel exciting rather than reckless. Work that matters to you may follow.",
+        "km": "ការចាកចេញ ដោយមានប្រាក់សន្សំ និងទីផ្សារសាកល្បងរួចរាល់ អាចធ្វើឱ្យការលោតមានអារម្មណ៍រំភើប ជាជាងមិនខ្វល់ខ្វាយ។ ការងារដែលសំខាន់សម្រាប់អ្នក អាចកើតឡើងតាមក្រោយ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You may be in a comfortable position, and starting a business may feel like fulfilling a cherished wish. Contentment may support the leap.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងទីតាំងស្រួល ហើយការចាប់ផ្តើមអាជីវកម្ម ប្រហែលជាមានអារម្មណ៍ដូចជាការបំពេញបំណងប្រាថ្នាដែលស្រឡាញ់។ ការពេញចិត្ត ប្រហែលជាគាំទ្រការលោត។"
+      },
+      "challenge": {
+        "en": "Treating the venture as a hobby could keep it from becoming a real business. Set clear targets even if the pressure feels low.",
+        "km": "ការចាត់ទុកគម្រោងជាចំណង់ចំណូលចិត្ត អាចរារាំងវាពីការក្លាយជាអាជីវកម្មពិតប្រាកដ។ សូមកំណត់គោលដៅច្បាស់លាស់ សូម្បីតែសម្ពាធមានអារម្មណ៍ទាប។"
+      },
+      "outcome": {
+        "en": "A dream business run with real discipline could bring deep satisfaction. Wishes may come true when they are planned.",
+        "km": "អាជីវកម្មក្នុងក្តីសុបិន ដែលដំណើរការដោយវិន័យពិតប្រាកដ អាចនាំមកនូវការពេញចិត្តយ៉ាងជ្រៅ។ បំណងប្រាថ្នា អាចក្លាយជាការពិត នៅពេលវាត្រូវបានគ្រោងទុក។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "A new business may be meant to support family life and a happy home. Your loved ones may be part of the plan.",
+        "km": "អាជីវកម្មថ្មី ប្រហែលជាមានគោលបំណងគាំទ្រជីវិតគ្រួសារ និងផ្ទះដ៏រីករាយ។ មនុស្សជាទីស្រឡាញ់របស់អ្នក ប្រហែលជាផ្នែកមួយនៃផែនការ។"
+      },
+      "challenge": {
+        "en": "Starting without talking openly with family about money and time could cause strain at home. Make the decision together.",
+        "km": "ការចាប់ផ្តើម ដោយមិននិយាយដោយបើកចំហជាមួយគ្រួសារ អំពីប្រាក់ និងពេលវេលា អាចបង្កភាពតានតឹងនៅផ្ទះ។ សូមធ្វើការសម្រេចចិត្តជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "A family-backed venture could bring both income and closeness. Shared goals may make the effort feel worthwhile.",
+        "km": "គម្រោងដែលគាំទ្រដោយគ្រួសារ អាចនាំមកនូវទាំងចំណូល និងភាពជិតស្និទ្ធ។ គោលដៅរួមគ្នា អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍សមនឹងតម្លៃ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A creative idea or hopeful message about a venture may have reached you. Gentle inspiration may be stirring.",
+        "km": "គំនិតច្នៃប្រឌិត ឬសារប្រកបដោយក្តីសង្ឃឹមអំពីគម្រោងមួយ ប្រហែលជាបានមកដល់អ្នក។ ការបំផុសគំនិតទន់ភ្លន់ ប្រហែលជាកំពុងរំញោច។"
+      },
+      "challenge": {
+        "en": "Pouring savings into a lovely idea before anyone has tried it could prove expensive. Make a sample and see how people respond.",
+        "km": "ការចាក់ប្រាក់សន្សំចូលក្នុងគំនិតដ៏ស្រស់ស្អាត មុនពេលមាននរណាម្នាក់បានសាកល្បងវា អាចបង្ហាញថាថ្លៃ។ សូមធ្វើគំរូមួយ ហើយមើលពីរបៀបដែលមនុស្សឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "A creative spark tested with care could blossom into a charming small business. Early feedback may show it has promise.",
+        "km": "ផ្កាភ្លើងច្នៃប្រឌិតដែលបានសាកល្បងដោយប្រុងប្រយ័ត្ន អាចរីកស្គុះស្គាយទៅជាអាជីវកម្មតូចដ៏គួរឱ្យស្រលាញ់។ មតិកែលម្អដំបូង អាចបង្ហាញថាវាមានសក្តានុពល។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "An appealing offer to start something may have arrived, perhaps from a charming partner or a persuasive seller. It may feel like a dream.",
+        "km": "ការផ្តល់ជូនដ៏ទាក់ទាញមួយដើម្បីចាប់ផ្តើមអ្វីមួយ ប្រហែលជាបានមកដល់ ប្រហែលជាពីដៃគូដែលគួរឱ្យចាប់ចិត្ត ឬអ្នកលក់ដែលបញ្ចុះបញ្ចូលបានល្អ។ វាអាចមានអារម្មណ៍ដូចជាក្តីសុបិន។"
+      },
+      "challenge": {
+        "en": "A smooth pitch, such as a franchise or partnership deal, could hide high fees or weak support. Read the fine print and ask questions.",
+        "km": "ការបង្ហាញដោយពាក្យរលូន ដូចជាកិច្ចព្រមព្រៀងសិទ្ធិអាជីវកម្ម ឬភាពជាដៃគូ អាចលាក់ថ្លៃសេវាខ្ពស់ ឬការគាំទ្រខ្សោយ។ សូមអានអក្សរតូចៗ ហើយសួរសំណួរ។"
+      },
+      "outcome": {
+        "en": "An offer that survives careful checking could give the venture a delightful start. Romance may meet reality well.",
+        "km": "ការផ្តល់ជូនដែលឆ្លងផុតការពិនិត្យដោយប្រុងប្រយ័ត្ន អាចផ្តល់ការចាប់ផ្តើមដ៏រីករាយដល់គម្រោង។ ក្តីស្រមៃ អាចជួបការពិតបានល្អ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "You may want a business that cares for people, such as a service, a shop that helps or work that heals. Compassion is your motive.",
+        "km": "អ្នកប្រហែលជាចង់បានអាជីវកម្មដែលថែរក្សាមនុស្ស ដូចជាសេវាកម្ម ហាងដែលជួយ ឬការងារដែលព្យាបាល។ សេចក្តីមេត្តា គឺជាហេតុផលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Undercharging out of kindness could make a caring business unsustainable. Price fairly so you can keep helping.",
+        "km": "ការគិតថ្លៃទាបពេក ដោយសារចិត្តល្អ អាចធ្វើឱ្យអាជីវកម្មយកចិត្តទុកដាក់គ្មាននិរន្តរភាព។ សូមកំណត់តម្លៃដោយយុត្តិធម៌ ដើម្បីឱ្យអ្នកអាចបន្តជួយ។"
+      },
+      "outcome": {
+        "en": "A caring business priced fairly could serve people well and keep going. Kindness may be your strongest brand.",
+        "km": "អាជីវកម្មយកចិត្តទុកដាក់ ដែលកំណត់តម្លៃដោយយុត្តិធម៌ អាចបម្រើមនុស្សបានល្អ ហើយបន្តដំណើរការ។ ចិត្តសប្បុរស អាចជាម៉ាកយីហោរឹងមាំបំផុតរបស់អ្នក។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You may be weighing the idea with a calm heart, letting neither fear nor excitement take over. A level head may help you see it fairly.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងគំនិតនេះដោយបេះដូងស្ងប់ ដោយមិនឱ្យការភ័យខ្លាច ឬភាពរំភើបគ្រប់គ្រង។ ក្បាលត្រជាក់ អាចជួយអ្នកមើលវាដោយយុត្តិធម៌។"
+      },
+      "challenge": {
+        "en": "Hiding real worries behind a calm face could leave important risks unspoken. Talk through your concerns with someone you trust.",
+        "km": "ការលាក់ការព្រួយបារម្ភពិតប្រាកដ នៅពីក្រោយមុខស្ងប់ស្ងាត់ អាចទុកហានិភ័យសំខាន់ៗឱ្យមិនត្រូវបាននិយាយ។ សូមពិភាក្សាការព្រួយបារម្ភរបស់អ្នក ជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Starting from emotional steadiness could help you lead a young business through its ups and downs. Calm may become your quiet advantage.",
+        "km": "ការចាប់ផ្តើមពីភាពនឹងនរផ្លូវចិត្ត អាចជួយអ្នកដឹកនាំអាជីវកម្មថ្មីឆ្លងកាត់ការឡើងចុះ។ ភាពស្ងប់ស្ងាត់ អាចក្លាយជាអត្ថប្រយោជន៍ស្ងាត់ៗរបស់អ្នក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "You may be seeing the idea with sharp clarity, cutting through hype to the real numbers and risks. The truth about readiness may be clear.",
+        "km": "អ្នកប្រហែលជាកំពុងមើលឃើញគំនិតនេះយ៉ាងច្បាស់ ដោយកាត់ផ្តាច់ការបំផ្លើស ទៅរកតួលេខ និងហានិភ័យពិតប្រាកដ។ ការពិតអំពីការត្រៀមខ្លួន ប្រហែលជាច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Ignoring a clear warning sign, such as weak demand or thin margins, could lead to a costly launch. Let the facts decide.",
+        "km": "ការមិនអើពើនឹងសញ្ញាព្រមានច្បាស់លាស់ ដូចជាតម្រូវការខ្សោយ ឬប្រាក់ចំណេញរឹមស្តើង អាចនាំទៅរកការដាក់ចេញដែលមានតម្លៃថ្លៃ។ សូមឱ្យការពិតជាអ្នកសម្រេច។"
+      },
+      "outcome": {
+        "en": "Letting the numbers and customer feedback guide the choice could keep you out of a doomed venture or into a sound one. Clarity may be your best ally.",
+        "km": "ការឱ្យតួលេខ និងមតិកែលម្អរបស់អតិថិជនណែនាំជម្រើស អាចរក្សាអ្នកឱ្យនៅក្រៅគម្រោងដែលបរាជ័យ ឬចូលទៅក្នុងគម្រោងដ៏ល្អ។ ភាពច្បាស់លាស់ អាចជាសម្ព័ន្ធមិត្តល្អបំផុតរបស់អ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be torn about starting, weighing security against opportunity without settling. The decision may feel stuck.",
+        "km": "អ្នកប្រហែលជាកំពុងស្ទាក់ស្ទើរអំពីការចាប់ផ្តើម ដោយថ្លឹងថ្លែងសុវត្ថិភាព ធៀបនឹងឱកាស ដោយមិនសម្រេចបាន។ ការសម្រេចចិត្ត ប្រហែលជាមានអារម្មណ៍ជាប់គាំង។"
+      },
+      "challenge": {
+        "en": "Staying frozen could let a good opening pass or keep you stuck in worry. List what you need to know, find out, then choose.",
+        "km": "ការនៅកកស្ងៀម អាចឱ្យឱកាសល្អកន្លងផុត ឬរក្សាអ្នកឱ្យជាប់ក្នុងការព្រួយបារម្ភ។ សូមរាយបញ្ជីអ្វីដែលអ្នកត្រូវដឹង ស្វែងរកវា ហើយបន្ទាប់មកជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "Settling the question, one way or the other, could free energy you have been spending on worry. A firm decision may open a clear road.",
+        "km": "ការដោះស្រាយសំណួរនេះ មិនថាផ្លូវណាមួយ អាចដោះលែងថាមពលដែលអ្នកបានចំណាយលើការព្រួយបារម្ភ។ ការសម្រេចចិត្តរឹងមាំ អាចបើកផ្លូវច្បាស់លាស់។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "The idea may come after a painful experience, such as a broken partnership or a loss at work. Hurt may still be fresh.",
+        "km": "គំនិតនេះ ប្រហែលជាកើតឡើងបន្ទាប់ពីបទពិសោធន៍ឈឺចាប់ ដូចជាភាពជាដៃគូដែលបែកបាក់ ឬការបាត់បង់នៅកន្លែងធ្វើការ។ ការឈឺចាប់ ប្រហែលជានៅតែថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Starting a business while still hurting could lead to rushed or reactive decisions. Let the pain ease before you invest.",
+        "km": "ការចាប់ផ្តើមអាជីវកម្ម ខណៈនៅតែឈឺចាប់ អាចនាំទៅរកការសម្រេចចិត្តប្រញាប់ប្រញាល់ ឬប្រតិកម្ម។ សូមឱ្យការឈឺចាប់ធូរស្រាល មុនពេលអ្នកវិនិយោគ។"
+      },
+      "outcome": {
+        "en": "A venture started once the hurt has healed could stand on clearer ground. Painful lessons may make you a wiser owner.",
+        "km": "គម្រោងដែលចាប់ផ្តើម នៅពេលការឈឺចាប់បានជាសះស្បើយ អាចឈរលើដីច្បាស់ជាងមុន។ មេរៀនឈឺចាប់ អាចធ្វើឱ្យអ្នកក្លាយជាម្ចាស់ដែលឆ្លាតវៃជាងមុន។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may be running on empty, and the idea of launching may feel too much to weigh right this minute. Rest could restore your judgement.",
+        "km": "អ្នកប្រហែលជាកំពុងរត់ដោយអស់ថាមពល ហើយគំនិតនៃការដាក់ចេញ ប្រហែលជាមានអារម្មណ៍ធ្ងន់ពេកក្នុងការថ្លឹងថ្លែង។ ការសម្រាក អាចស្តារការវិនិច្ឆ័យរបស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Committing savings while drained could tie you to a plan you would reject with fresh eyes. Sleep on it before you sign anything.",
+        "km": "ការប្តេជ្ញាប្រាក់សន្សំ ខណៈអស់កម្លាំង អាចចងអ្នកទៅនឹងផែនការដែលអ្នកនឹងបដិសេធ ប្រសិនបើមើលដោយភ្នែកថ្មី។ សូមគិតឱ្យល្អសិន មុនពេលអ្នកចុះហត្ថលេខាលើអ្វីមួយ។"
+      },
+      "outcome": {
+        "en": "A rested mind could see the venture's strengths and weaknesses more clearly. A thoughtful pause may lead to a stronger start.",
+        "km": "ចិត្តដែលបានសម្រាក អាចមើលឃើញចំណុចខ្លាំង និងចំណុចខ្សោយរបស់គម្រោងកាន់តែច្បាស់។ ការផ្អាកដោយគិតគូរ អាចនាំទៅរកការចាប់ផ្តើមរឹងមាំជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "There may be conflict around the idea, such as disagreement with a partner, family or competitor. Not everyone may want you to succeed.",
+        "km": "ប្រហែលជាមានជម្លោះជុំវិញគំនិតនេះ ដូចជាការមិនចុះសម្រុងជាមួយដៃគូ គ្រួសារ ឬគូប្រជែង។ មិនមែនអ្នករាល់គ្នាប្រហែលជាចង់ឱ្យអ្នកជោគជ័យនោះទេ។"
+      },
+      "challenge": {
+        "en": "Starting a venture in the middle of a fight could drain energy before the business begins. Settle disputes before launching.",
+        "km": "ការចាប់ផ្តើមគម្រោងនៅកណ្តាលការប្រយុទ្ធ អាចបង្ហូរថាមពល មុនពេលអាជីវកម្មចាប់ផ្តើម។ សូមដោះស្រាយជម្លោះ មុនពេលដាក់ចេញ។"
+      },
+      "outcome": {
+        "en": "Resolving conflict fairly could clear the way for a calmer launch. A truce may be worth more than winning the argument.",
+        "km": "ការដោះស្រាយជម្លោះដោយយុត្តិធម៌ អាចបើកផ្លូវសម្រាប់ការដាក់ចេញស្ងប់ស្ងាត់ជាងមុន។ បទឈប់បាញ់ អាចមានតម្លៃជាងការឈ្នះការឈ្លោះប្រកែក។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Starting a business may be part of moving toward calmer, more stable circumstances. A transition may already be in motion.",
+        "km": "ការចាប់ផ្តើមអាជីវកម្ម ប្រហែលជាផ្នែកមួយនៃការផ្លាស់ទីឆ្ពោះទៅរកកាលៈទេសៈស្ងប់ស្ងាត់ និងមានស្ថិរភាពជាងមុន។ ការផ្លាស់ប្តូរមួយ ប្រហែលជាកំពុងដំណើរការរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Underestimating start-up costs, such as deposits, licences and equipment, could unsettle the calm you are seeking. Add a margin for surprises.",
+        "km": "ការប៉ាន់ស្មានថ្លៃដើមចាប់ផ្តើមទាបពេក ដូចជាប្រាក់កក់ អាជ្ញាប័ណ្ណ និងឧបករណ៍ អាចរំខានភាពស្ងប់ស្ងាត់ដែលអ្នកកំពុងស្វែងរក។ សូមបន្ថែមរឹមសម្រាប់ការភ្ញាក់ផ្អើល។"
+      },
+      "outcome": {
+        "en": "A well-planned move into business could carry you to steadier ground. The crossing may be smoother with everything accounted for.",
+        "km": "ការផ្លាស់ទីចូលទៅក្នុងអាជីវកម្មដែលបានរៀបចំផែនការល្អ អាចនាំអ្នកទៅដល់ដីនឹងនរជាងមុន។ ការឆ្លងកាត់ អាចរលូនជាងមុន នៅពេលអ្វីៗទាំងអស់ត្រូវបានគិតគូរ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "The opportunity in front of you may hide something, such as debts in a business for sale or a partner with a hidden agenda. Your guard may be right to be up.",
+        "km": "ឱកាសនៅចំពោះមុខអ្នក ប្រហែលជាលាក់អ្វីមួយ ដូចជាបំណុលក្នុងអាជីវកម្មដែលកំពុងលក់ ឬដៃគូដែលមានបំណងលាក់កំបាំង។ ការប្រុងប្រយ័ត្នរបស់អ្នក ប្រហែលជាត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Buying into a business, franchise or scheme without checking could expose you to fraud. Verify accounts, licences and references before paying.",
+        "km": "ការទិញចូលក្នុងអាជីវកម្ម សិទ្ធិអាជីវកម្ម ឬគម្រោង ដោយមិនពិនិត្យ អាចធ្វើឱ្យអ្នកប្រឈមនឹងការក្លែងបន្លំ។ សូមផ្ទៀងផ្ទាត់គណនី អាជ្ញាប័ណ្ណ និងឯកសារយោង មុនពេលបង់ប្រាក់។"
+      },
+      "outcome": {
+        "en": "Due diligence could uncover the truth before your money is committed. A clean, verified start may be worth the extra effort.",
+        "km": "ការពិនិត្យយ៉ាងហ្មត់ចត់ អាចរកឃើញការពិត មុនពេលប្រាក់របស់អ្នកត្រូវបានប្តេជ្ញា។ ការចាប់ផ្តើមស្អាត និងបានផ្ទៀងផ្ទាត់ អាចសមនឹងការខិតខំបន្ថែម។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel trapped where you are, believing you cannot afford to start or cannot afford not to. Options may feel narrow.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់នៅកន្លែងដែលអ្នកនៅ ដោយជឿថាអ្នកមិនអាចមានលទ្ធភាពចាប់ផ្តើម ឬមិនអាចមានលទ្ធភាពមិនចាប់ផ្តើម។ ជម្រើស ប្រហែលជាមានអារម្មណ៍តូចចង្អៀត។"
+      },
+      "challenge": {
+        "en": "Feeling trapped could push you into a risky launch just to escape. Look for smaller, safer ways to begin, or ask a business adviser.",
+        "km": "អារម្មណ៍ជាប់អន្ទាក់ អាចជំរុញអ្នកទៅរកការដាក់ចេញប្រថុយប្រថាន គ្រាន់តែដើម្បីគេចចេញ។ សូមស្វែងរកវិធីតូចជាង និងមានសុវត្ថិភាពជាងដើម្បីចាប់ផ្តើម ឬសួរទីប្រឹក្សាអាជីវកម្ម។"
+      },
+      "outcome": {
+        "en": "Seeing new options could reveal a way to start without betting everything. Freedom may begin with one small, safe step.",
+        "km": "ការមើលឃើញជម្រើសថ្មីៗ អាចបង្ហាញវិធីចាប់ផ្តើម ដោយមិនភ្នាល់អ្វីៗទាំងអស់។ សេរីភាព អាចចាប់ផ្តើមពីជំហានតូច និងមានសុវត្ថិភាពមួយ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "You may be anxious about starting, worrying about money, failure or what others will think. Fear may be loud.",
+        "km": "អ្នកប្រហែលជាថប់បារម្ភអំពីការចាប់ផ្តើម ដោយព្រួយបារម្ភអំពីប្រាក់ ការបរាជ័យ ឬអ្វីដែលអ្នកដទៃនឹងគិត។ ការភ័យខ្លាច ប្រហែលជាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Letting anxiety make the decision could mean saying no to a good idea or yes to a poor one. If the stress becomes too much, a counsellor or trusted friend can help.",
+        "km": "ការទុកឱ្យការថប់បារម្ភធ្វើការសម្រេចចិត្ត អាចមានន័យថាការបដិសេធគំនិតល្អ ឬការយល់ព្រមនឹងគំនិតខ្សោយ។ ប្រសិនបើភាពតានតឹងក្លាយជាច្រើនពេក អ្នកប្រឹក្សា ឬមិត្តដែលទុកចិត្ត អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Writing down the real risks and figures could shrink the fear to its true size. A calmer mind may make a sounder choice.",
+        "km": "ការសរសេរហានិភ័យ និងតួលេខពិតប្រាកដ អាចបង្រួមការភ័យខ្លាចឱ្យនៅទំហំពិតរបស់វា។ ចិត្តស្ងប់ជាងមុន អាចធ្វើជម្រើសដ៏ត្រឹមត្រូវជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Your finances or circumstances may be at a low point, and starting a business may feel risky or out of reach. A hard chapter may be closing.",
+        "km": "ហិរញ្ញវត្ថុ ឬកាលៈទេសៈរបស់អ្នក ប្រហែលជាស្ថិតនៅចំណុចទាប ហើយការចាប់ផ្តើមអាជីវកម្ម ប្រហែលជាមានអារម្មណ៍ប្រថុយប្រថាន ឬហួសពីដៃ។ ជំពូកលំបាកមួយ ប្រហែលជាកំពុងបិទ។"
+      },
+      "challenge": {
+        "en": "Betting your last savings on a launch could turn a hard patch into a crisis. If money troubles feel severe, speak to a debt adviser before starting.",
+        "km": "ការភ្នាល់ប្រាក់សន្សំចុងក្រោយរបស់អ្នក លើការដាក់ចេញ អាចបង្វែរដំណាក់កាលលំបាកទៅជាវិបត្តិ។ ប្រសិនបើបញ្ហាប្រាក់មានអារម្មណ៍ធ្ងន់ធ្ងរ សូមនិយាយជាមួយទីប្រឹក្សាបំណុល មុនពេលចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Steadying yourself before launching could protect your recovery. A venture may be more possible once the ground is firmer.",
+        "km": "ការធ្វើឱ្យខ្លួនឯងនឹងនរ មុនពេលដាក់ចេញ អាចការពារការស្តាររបស់អ្នក។ គម្រោងមួយ អាចកាន់តែអាចទៅរួច នៅពេលដីរឹងមាំជាងមុន។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You may be scouting the market, studying rivals and asking hard questions about the idea. Curiosity is sharpening your view.",
+        "km": "អ្នកប្រហែលជាកំពុងស៊ើបអង្កេតទីផ្សារ សិក្សាគូប្រជែង និងសួរសំណួរលំបាកអំពីគំនិតនេះ។ ការចង់ដឹង កំពុងធ្វើឱ្យទស្សនៈរបស់អ្នកកាន់តែមុតស្រួច។"
+      },
+      "challenge": {
+        "en": "Relying on one success story or online claim could give a distorted picture. Gather information from several trusted sources.",
+        "km": "ការពឹងលើរឿងជោគជ័យតែមួយ ឬការអះអាងតាមអនឡាញ អាចផ្តល់រូបភាពខុសឆ្គង។ សូមប្រមូលព័ត៌មានពីប្រភពដែលគួរឱ្យទុកចិត្តជាច្រើន។"
+      },
+      "outcome": {
+        "en": "Solid market research could tell you whether there is room for you. Your watchfulness may spot a gap others have missed.",
+        "km": "ការស្រាវជ្រាវទីផ្សាររឹងមាំ អាចប្រាប់អ្នកថាតើមានកន្លែងសម្រាប់អ្នកឬអត់។ ការប្រុងប្រយ័ត្នរបស់អ្នក អាចមើលឃើញចន្លោះដែលអ្នកដទៃបានរំលង។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You may feel driven to start at once, convinced the idea is too good to hold back. A fear of missing the chance may be pushing you.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ត្រូវបានជំរុញឱ្យចាប់ផ្តើមភ្លាមៗ ដោយជឿជាក់ថាគំនិតនេះល្អពេកមិនគួរទប់ទុក។ ការភ័យខ្លាចខកខានឱកាស ប្រហែលជាកំពុងជំរុញអ្នក។"
+      },
+      "challenge": {
+        "en": "Charging in on conviction alone could skip the checks that protect your savings. Run the numbers past someone who will challenge them.",
+        "km": "ការរត់ចូលដោយផ្អែកលើការជឿជាក់តែម្យ៉ាង អាចរំលងការពិនិត្យដែលការពារប្រាក់សន្សំរបស់អ្នក។ សូមបង្ហាញតួលេខទៅនរណាម្នាក់ដែលនឹងសួរដេញដោលវា។"
+      },
+      "outcome": {
+        "en": "Bold action that rests on tested figures could give the venture a confident start. Drive may carry it further when it is well aimed.",
+        "km": "សកម្មភាពក្លាហាន ដែលផ្អែកលើតួលេខដែលបានសាកល្បង អាចផ្តល់ការចាប់ផ្តើមដោយទំនុកចិត្តដល់គម្រោង។ កម្លាំងជំរុញ អាចនាំវាទៅឆ្ងាយជាងមុន នៅពេលវាតម្រង់បានល្អ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You may be judging the idea with a cool head, asking whether it can really pay its way. Hard experience may be sharpening your eye.",
+        "km": "អ្នកប្រហែលជាកំពុងវិនិច្ឆ័យគំនិតនេះដោយក្បាលត្រជាក់ ដោយសួរថាតើវាពិតជាអាចទូទាត់ចំណាយខ្លួនឯងបានឬអត់។ បទពិសោធន៍លំបាក ប្រហែលជាកំពុងធ្វើឱ្យភ្នែករបស់អ្នកកាន់តែមុតស្រួច។"
+      },
+      "challenge": {
+        "en": "Being so critical that no idea ever seems good enough could keep you from starting at all. Practical judgement still leaves room for risk.",
+        "km": "ការរិះគន់ខ្លាំងពេក រហូតគ្មានគំនិតណាហាក់ដូចជាល្អគ្រប់គ្រាន់ អាចរារាំងអ្នកពីការចាប់ផ្តើមទាំងស្រុង។ ការវិនិច្ឆ័យជាក់ស្តែង នៅតែទុកកន្លែងសម្រាប់ហានិភ័យ។"
+      },
+      "outcome": {
+        "en": "Clear-headed judgement could pick out a venture that truly makes sense. Honest assessment may lead to a confident start.",
+        "km": "ការវិនិច្ឆ័យដោយក្បាលច្បាស់ អាចជ្រើសរើសគម្រោងដែលពិតជាសមហេតុផល។ ការវាយតម្លៃដោយស្មោះត្រង់ អាចនាំទៅរកការចាប់ផ្តើមដោយទំនុកចិត្ត។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Starting may involve registration, permits, loans or formal agreements that need careful reading. A clear, logical head may be your best tool.",
+        "km": "ការចាប់ផ្តើម ប្រហែលជាពាក់ព័ន្ធនឹងការចុះបញ្ជី លិខិតអនុញ្ញាត ប្រាក់កម្ចី ឬកិច្ចព្រមព្រៀងផ្លូវការ ដែលត្រូវការការអានដោយប្រុងប្រយ័ត្ន។ ក្បាលច្បាស់លាស់ និងមានតក្កវិជ្ជា អាចជាឧបករណ៍ល្អបំផុតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Registering the wrong structure or signing terms you have not understood could create trouble that lasts. A qualified accountant or lawyer can set it up properly.",
+        "km": "ការចុះបញ្ជីរចនាសម្ព័ន្ធខុស ឬការចុះហត្ថលេខាលើលក្ខខណ្ឌដែលអ្នកមិនទាន់យល់ អាចបង្កើតបញ្ហាដែលស្ថិតស្ថេរ។ គណនេយ្យករ ឬមេធាវីដែលមានលក្ខណៈសម្បត្តិ អាចរៀបចំវាបានត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "A properly set-up business could start with clean paperwork and clear rules. Getting the structure right may save trouble as it grows.",
+        "km": "អាជីវកម្មដែលបានរៀបចំត្រឹមត្រូវ អាចចាប់ផ្តើមជាមួយឯកសារស្អាត និងច្បាប់ច្បាស់លាស់។ ការធ្វើរចនាសម្ព័ន្ធឱ្យត្រឹមត្រូវ អាចសង្គ្រោះបញ្ហា នៅពេលវារីកចម្រើន។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A solid opening may be in front of you, such as start-up funds, a ready customer or affordable premises. The ground for a venture may be firm.",
+        "km": "ឱកាសរឹងមាំមួយ ប្រហែលជាស្ថិតនៅចំពោះមុខអ្នក ដូចជាមូលនិធិចាប់ផ្តើម អតិថិជនដែលត្រៀមរួចរាល់ ឬទីតាំងដែលមានតម្លៃសមរម្យ។ ដីសម្រាប់គម្រោង ប្រហែលជារឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Spending start-up money on fittings and signs before you have customers could leave nothing for stock and wages. Fund what earns first.",
+        "km": "ការចំណាយប្រាក់ចាប់ផ្តើមលើគ្រឿងតុបតែង និងស្លាកសញ្ញា មុនពេលអ្នកមានអតិថិជន អាចមិនទុកអ្វីសម្រាប់ស្តុក និងប្រាក់ឈ្នួល។ សូមផ្តល់មូលនិធិដល់អ្វីដែលរកប្រាក់បានជាមុន។"
+      },
+      "outcome": {
+        "en": "A venture planted on solid ground could grow steadily into real value. A modest seed may become a dependable source of income.",
+        "km": "គម្រោងដែលដាំលើដីរឹងមាំ អាចរីកចម្រើនដោយនឹងនរ ទៅជាតម្លៃពិតប្រាកដ។ គ្រាប់ពូជតូចមួយ អាចក្លាយជាប្រភពចំណូលដែលអាចពឹងផ្អែកបាន។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be juggling a job, family and the idea of a new venture, trying to fit everything in. Hours and money may both be stretched.",
+        "km": "អ្នកប្រហែលជាកំពុងចាប់ផ្តួលការងារ គ្រួសារ និងគំនិតនៃគម្រោងថ្មី ដោយព្យាយាមដាក់អ្វីៗទាំងអស់ឱ្យសម។ ម៉ោង និងប្រាក់ ប្រហែលជាតឹងតែងទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Adding a business to an already full schedule could let something important drop. Check what you can realistically carry.",
+        "km": "ការបន្ថែមអាជីវកម្មទៅលើកាលវិភាគដែលពេញរួចហើយ អាចឱ្យអ្វីមួយសំខាន់ធ្លាក់។ សូមពិនិត្យអ្វីដែលអ្នកអាចលីបានតាមការពិត។"
+      },
+      "outcome": {
+        "en": "Launching on evenings or a small scale first could let you keep your other plates spinning. A gradual start may protect what already works.",
+        "km": "ការដាក់ចេញក្នុងកម្រិតតូចជាមុនសិន អាចឱ្យអ្នករក្សាកិច្ចការផ្សេងទៀតឱ្យដំណើរការ។ ការចាប់ផ្តើមបន្តិចម្តងៗ អាចការពារអ្វីដែលកំពុងដំណើរការរួចហើយ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "You may have skilled people around you, such as potential partners, suppliers or helpers, who could make a venture work. Teamwork may be available.",
+        "km": "អ្នកប្រហែលជាមានមនុស្សដែលមានជំនាញនៅជុំវិញអ្នក ដូចជាដៃគូសក្តានុពល អ្នកផ្គត់ផ្គង់ ឬអ្នកជួយ ដែលអាចធ្វើឱ្យគម្រោងដំណើរការ។ ការងារជាក្រុម ប្រហែលជាមាន។"
+      },
+      "challenge": {
+        "en": "Bringing people in without clear roles, pay or agreements could cause friction from the outset. Agree who does what before you begin.",
+        "km": "ការនាំមនុស្សចូល ដោយគ្មានតួនាទី ប្រាក់ឈ្នួល ឬកិច្ចព្រមព្រៀងច្បាស់លាស់ អាចបង្កការកកិតតាំងពីដំបូង។ សូមព្រមព្រៀងថាអ្នកណាធ្វើអ្វី មុនពេលអ្នកចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Building with skilled, trusted people could turn the idea into quality work. Good collaboration may give the venture a strong foundation.",
+        "km": "ការកសាងជាមួយមនុស្សដែលមានជំនាញ និងគួរឱ្យទុកចិត្ត អាចបង្វែរគំនិតទៅជាការងារមានគុណភាព។ កិច្ចសហការល្អ អាចផ្តល់គ្រឹះរឹងមាំដល់គម្រោង។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be holding tightly to your savings, cautious about putting them at risk. Security may feel more important than opportunity.",
+        "km": "អ្នកប្រហែលជាកំពុងកាន់ប្រាក់សន្សំរបស់អ្នកយ៉ាងតឹង ដោយប្រុងប្រយ័ត្នអំពីការដាក់វាក្នុងហានិភ័យ។ សុវត្ថិភាព ប្រហែលជាមានអារម្មណ៍សំខាន់ជាងឱកាស។"
+      },
+      "challenge": {
+        "en": "Refusing to risk anything could mean never testing an idea that might work. Consider a small, limited investment you can afford to lose.",
+        "km": "ការបដិសេធមិនប្រថុយអ្វីសោះ អាចមានន័យថាមិនដែលសាកល្បងគំនិតដែលអាចដំណើរការ។ សូមពិចារណាការវិនិយោគតូច និងមានកំណត់ ដែលអ្នកអាចមានលទ្ធភាពបាត់បង់។"
+      },
+      "outcome": {
+        "en": "A cautious start with a set budget could protect your savings while testing the idea. Security and opportunity may work together.",
+        "km": "ការចាប់ផ្តើមដោយប្រុងប្រយ័ត្ន ជាមួយថវិកាកំណត់ អាចការពារប្រាក់សន្សំរបស់អ្នក ខណៈសាកល្បងគំនិត។ សុវត្ថិភាព និងឱកាស អាចធ្វើការជាមួយគ្នា។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Cash may be scarce, and the thought of funding a start-up may feel heavy or far off. Help may seem hard to find.",
+        "km": "សាច់ប្រាក់ប្រហែលជាខ្វះខាត ហើយគំនិតនៃការផ្តល់មូលនិធិដល់ការចាប់ផ្តើមអាជីវកម្ម ប្រហែលជាមានអារម្មណ៍ធ្ងន់ ឬនៅឆ្ងាយ។ ជំនួយ ប្រហែលជាហាក់ដូចជាពិបាករក។"
+      },
+      "challenge": {
+        "en": "Borrowing heavily to start while money is scarce could deepen hardship. Look for low-cost ways to begin or support for new businesses.",
+        "km": "ការខ្ចីប្រាក់ច្រើនដើម្បីចាប់ផ្តើម ខណៈប្រាក់ខ្វះខាត អាចធ្វើឱ្យការលំបាកកាន់តែជ្រៅ។ សូមស្វែងរកវិធីចំណាយទាបដើម្បីចាប់ផ្តើម ឬការគាំទ្រសម្រាប់អាជីវកម្មថ្មី។"
+      },
+      "outcome": {
+        "en": "Starting very small, or finding support first, could make a venture possible without added risk. Things may steady step by step.",
+        "km": "ការចាប់ផ្តើមតូចបំផុត ឬការរកការគាំទ្រជាមុនសិន អាចធ្វើឱ្យគម្រោងអាចទៅរួច ដោយគ្មានហានិភ័យបន្ថែម។ អ្វីៗអាចនឹងនរមួយជំហានម្តងៗ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "A new venture may depend on outside help, such as a loan, an investor, a grant or family support. Generosity may be part of the picture.",
+        "km": "គម្រោងថ្មី ប្រហែលជាអាស្រ័យលើជំនួយពីខាងក្រៅ ដូចជាប្រាក់កម្ចី វិនិយោគិន ជំនួយឥតសំណង ឬការគាំទ្រពីគ្រួសារ។ ចិត្តសប្បុរស ប្រហែលជាផ្នែកមួយនៃរូបភាព។"
+      },
+      "challenge": {
+        "en": "Accepting money with unclear conditions could give others more control than you intended. Agree all terms in writing before money changes hands.",
+        "km": "ការទទួលយកប្រាក់ ដែលមានលក្ខខណ្ឌមិនច្បាស់លាស់ អាចផ្តល់ការគ្រប់គ្រងដល់អ្នកដទៃច្រើនជាងអ្វីដែលអ្នកចង់បាន។ សូមព្រមព្រៀងលក្ខខណ្ឌទាំងអស់ជាលាយលក្ខណ៍អក្សរ មុនពេលប្រាក់ផ្លាស់ប្តូរដៃ។"
+      },
+      "outcome": {
+        "en": "Fair, clear support could give the venture the boost it needs. Balanced give and take may build lasting goodwill.",
+        "km": "ការគាំទ្រដោយយុត្តិធម៌ និងច្បាស់លាស់ អាចផ្តល់កម្លាំងជំរុញដែលគម្រោងត្រូវការ។ ការផ្តល់ និងការទទួលដោយតុល្យភាព អាចកសាងឆន្ទៈល្អយូរអង្វែង។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may be weighing whether your preparation, savings and skills are enough to start. The groundwork may be nearly ripe.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងថាតើការត្រៀមខ្លួន ប្រាក់សន្សំ និងជំនាញរបស់អ្នក គ្រប់គ្រាន់ដើម្បីចាប់ផ្តើមឬអត់។ ការងារមូលដ្ឋាន ប្រហែលជាជិតទុំហើយ។"
+      },
+      "challenge": {
+        "en": "Cutting preparation short to launch in a hurry could leave gaps you come to regret. Review honestly what is still missing.",
+        "km": "ការកាត់បន្ថយការត្រៀមខ្លួន ដើម្បីដាក់ចេញដោយប្រញាប់ប្រញាល់ អាចបន្សល់ចន្លោះដែលអ្នកសោកស្តាយ។ សូមពិនិត្យដោយស្មោះត្រង់ពីអ្វីដែលនៅខ្វះ។"
+      },
+      "outcome": {
+        "en": "Finishing the groundwork could let the business open with confidence instead of crossed fingers. Careful preparation may show in the first results.",
+        "km": "ការបញ្ចប់ការងារមូលដ្ឋាន អាចឱ្យអាជីវកម្មបើកដោយទំនុកចិត្ត ជំនួសឱ្យការសង្ឃឹមតែសំណាង។ ការត្រៀមខ្លួនដោយប្រុងប្រយ័ត្ន អាចបង្ហាញក្នុងលទ្ធផលដំបូងៗ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "You may be learning the craft or trade a new business needs, building skill through steady practice. Your hands may be getting surer.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនសិប្បកម្ម ឬមុខរបរដែលអាជីវកម្មថ្មីត្រូវការ ដោយកសាងជំនាញតាមរយៈការអនុវត្តនឹងនរ។ ដៃរបស់អ្នក ប្រហែលជាកាន់តែប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Polishing skills endlessly could keep you from ever opening for business. Good enough skill can grow with real customers.",
+        "km": "ការខាត់ជំនាញគ្មានទីបញ្ចប់ អាចរារាំងអ្នកពីការបើកអាជីវកម្ម។ ជំនាញល្អគ្រប់គ្រាន់ អាចរីកចម្រើនជាមួយអតិថិជនពិត។"
+      },
+      "outcome": {
+        "en": "Careful preparation could lead to a venture known for quality. Skilled work may bring loyal customers.",
+        "km": "ការរៀបចំដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកគម្រោងដែលល្បីល្បាញដោយគុណភាព។ ការងារដែលមានជំនាញ អាចនាំមកនូវអតិថិជនស្មោះត្រង់។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Your own finances may be comfortable, giving you room to try a venture without needing it to pay at once. You may be choosing from strength.",
+        "km": "ហិរញ្ញវត្ថុផ្ទាល់ខ្លួនរបស់អ្នក ប្រហែលជាស្រួល ដោយផ្តល់កន្លែងឱ្យអ្នកសាកល្បងគម្រោង ដោយមិនចាំបាច់ឱ្យវាផ្តល់ផលភ្លាមៗ។ អ្នកប្រហែលជាកំពុងជ្រើសរើសពីភាពខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Risking comfort you worked hard for without a clear plan could undo it. Protect your base while you test the idea.",
+        "km": "ការប្រថុយភាពស្រួលដែលអ្នកបានខិតខំរក ដោយគ្មានផែនការច្បាស់លាស់ អាចលុបបំបាត់វា។ សូមការពារមូលដ្ឋានរបស់អ្នក ខណៈអ្នកសាកល្បងគំនិត។"
+      },
+      "outcome": {
+        "en": "A venture built on top of solid independence could grow without strain. Enjoying what you have may fund what comes next.",
+        "km": "គម្រោងដែលកសាងលើឯករាជ្យភាពរឹងមាំ អាចរីកចម្រើនដោយគ្មានសម្ពាធ។ ការរីករាយនឹងអ្វីដែលអ្នកមាន អាចផ្តល់មូលនិធិសម្រាប់អ្វីដែលមកបន្ទាប់។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "A new venture may connect to family wealth, property or a business passed down. Lasting security may be at stake.",
+        "km": "គម្រោងថ្មី ប្រហែលជាភ្ជាប់ទៅនឹងទ្រព្យសម្បត្តិគ្រួសារ អចលនទ្រព្យ ឬអាជីវកម្មដែលបន្តពីដូនតា។ សុវត្ថិភាពយូរអង្វែង ប្រហែលជាស្ថិតក្នុងហានិភ័យ។"
+      },
+      "challenge": {
+        "en": "Using family assets without clear agreement could cause lasting conflict. Discuss openly and seek legal advice where needed.",
+        "km": "ការប្រើទ្រព្យសម្បត្តិគ្រួសារ ដោយគ្មានការឯកភាពច្បាស់លាស់ អាចបង្កជម្លោះយូរអង្វែង។ សូមពិភាក្សាដោយបើកចំហ ហើយស្វែងរកដំបូន្មានផ្លូវច្បាប់នៅកន្លែងចាំបាច់។"
+      },
+      "outcome": {
+        "en": "A venture built with family agreement could create security for generations. Careful planning may turn it into a legacy.",
+        "km": "គម្រោងដែលកសាងដោយការឯកភាពពីគ្រួសារ អាចបង្កើតសុវត្ថិភាពសម្រាប់ជំនាន់ជាច្រើន។ ការរៀបចំផែនការដោយប្រុងប្រយ័ត្ន អាចបង្វែរវាទៅជាកេរដំណែល។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You may be a first-time founder, keen to learn the ropes and do things properly. A careful apprenticeship in business may be starting.",
+        "km": "អ្នកប្រហែលជាស្ថាបនិកលើកដំបូង ដោយចង់រៀនពីរបៀបធ្វើ និងធ្វើអ្វីៗឱ្យបានត្រឹមត្រូវ។ ការហាត់រៀនអាជីវកម្មដោយប្រុងប្រយ័ត្ន ប្រហែលជាកំពុងចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Starting without understanding cash flow, pricing or record-keeping could lead to avoidable trouble. Learn the basics first.",
+        "km": "ការចាប់ផ្តើម ដោយមិនយល់ពីលំហូរសាច់ប្រាក់ ការកំណត់តម្លៃ ឬការរក្សាកំណត់ត្រា អាចនាំទៅរកបញ្ហាដែលអាចជៀសវាងបាន។ សូមរៀនមូលដ្ឋានគ្រឹះជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "A well-studied first venture could grow into lasting skill and income. Small, practical steps may build a sturdy business.",
+        "km": "គម្រោងដំបូងដែលបានសិក្សាល្អ អាចរីកចម្រើនទៅជាជំនាញ និងចំណូលយូរអង្វែង។ ជំហានតូចៗ និងជាក់ស្តែង អាចកសាងអាជីវកម្មរឹងមាំ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "You may be building the plan brick by brick, testing suppliers, prices and costs before committing. Slow, sure groundwork is your style.",
+        "km": "អ្នកប្រហែលជាកំពុងកសាងផែនការម្តងមួយឥដ្ឋ ដោយសាកល្បងអ្នកផ្គត់ផ្គង់ តម្លៃ និងថ្លៃដើម មុនពេលប្តេជ្ញាចិត្ត។ ការងារមូលដ្ឋានយឺតៗ និងប្រាកដ គឺជាស្ទីលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Planning every detail before opening could let a gap in the market close. Set a launch point and stick to it.",
+        "km": "ការរៀបចំផែនការព័ត៌មានលម្អិតនីមួយៗ មុនពេលបើក អាចឱ្យចន្លោះនៅក្នុងទីផ្សារបិទ។ សូមកំណត់ចំណុចដាក់ចេញ ហើយប្រកាន់ខ្ជាប់វា។"
+      },
+      "outcome": {
+        "en": "A launch built on tested suppliers and costings could run smoothly from the start. Dependable systems may earn trust.",
+        "km": "ការដាក់ចេញដែលកសាងលើអ្នកផ្គត់ផ្គង់ និងការគណនាថ្លៃដើមដែលបានសាកល្បង អាចដំណើរការរលូនតាំងពីដំបូង។ ប្រព័ន្ធដែលអាចពឹងផ្អែកបាន អាចទទួលបានការទុកចិត្ត។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You may be thinking of a business that supports your household, practical and caring in its aims. Resourcefulness guides you.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតពីអាជីវកម្មដែលគាំទ្រគ្រួសាររបស់អ្នក ដែលជាក់ស្តែង និងយកចិត្តទុកដាក់ក្នុងគោលបំណង។ ភាពប៉ិនប្រសប់ ណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Putting household savings at risk without a safety net could leave the family exposed. Keep a reserve that the business cannot touch.",
+        "km": "ការដាក់ប្រាក់សន្សំគ្រួសារក្នុងហានិភ័យ ដោយគ្មានសំណាញ់សុវត្ថិភាព អាចធ្វើឱ្យគ្រួសារងាយរងគ្រោះ។ សូមរក្សាទុនបម្រុងដែលអាជីវកម្មមិនអាចប៉ះបាន។"
+      },
+      "outcome": {
+        "en": "A practical venture that protects the home could bring comfort and income together. Sensible growth may benefit everyone.",
+        "km": "គម្រោងជាក់ស្តែងដែលការពារផ្ទះ អាចនាំមកនូវភាពស្រួល និងចំណូលជាមួយគ្នា។ ការរីកចម្រើនដ៏សមហេតុផល អាចផ្តល់អត្ថប្រយោជន៍ដល់អ្នករាល់គ្នា។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You may be in a strong, experienced position, with resources and a track record to back a new venture. Confidence is earned.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងទីតាំងរឹងមាំ និងមានបទពិសោធន៍ ដោយមានធនធាន និងប្រវត្តិ ដើម្បីគាំទ្រគម្រោងថ្មី។ ទំនុកចិត្ត គឺត្រូវបានទទួលដោយសមហេតុផល។"
+      },
+      "challenge": {
+        "en": "Assuming past success guarantees a new venture will work could lead to overreach. Test the new market as carefully as a beginner.",
+        "km": "ការសន្មតថាភាពជោគជ័យកន្លងមក ធានាថាគម្រោងថ្មីនឹងដំណើរការ អាចនាំទៅរកការលាតសន្ធឹងហួសហេតុ។ សូមសាកល្បងទីផ្សារថ្មី ដោយប្រុងប្រយ័ត្នដូចអ្នកចាប់ផ្តើមដំបូង។"
+      },
+      "outcome": {
+        "en": "Experience combined with careful testing could make a new venture a solid asset. Your success may extend into new ground.",
+        "km": "បទពិសោធន៍ រួមផ្សំជាមួយការសាកល្បងដោយប្រុងប្រយ័ត្ន អាចធ្វើឱ្យគម្រោងថ្មីក្លាយជាទ្រព្យសម្បត្តិរឹងមាំ។ ភាពជោគជ័យរបស់អ្នក អាចពង្រីកចូលទៅក្នុងទឹកដីថ្មី។"
+      }
+    }
+  }
+}

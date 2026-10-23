@@ -45,6 +45,7 @@
 | `src/content/readings/MF-09.json` | How can I plan for financial security? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/MF-10.json` | Where are my finances heading? | 78 cards × 3 positions, English and Khmer (heading) |
 | `src/content/readings/BI-01.json` | What is the current state of my business? | 78 cards × 3 positions, English and Khmer (state) |
+| `src/content/readings/BI-02.json` | Is this a good time to start a new business? | 78 cards × 3 positions, English and Khmer (yesno) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
