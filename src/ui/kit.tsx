@@ -153,6 +153,13 @@ function StepBar({ step }: { step: number }) {
 }
 
 /** Desktop: numbered steps with names; done and current are gold, the current one ringed. */
+// Desktop step n lives at stepRoutes[n - 1] (topic and question share one page there).
+const stepRoutes = ['/zodiac', '/topic', '/time', '/draw', '/reading'] as const;
+
+/**
+ * Desktop: numbered steps with names; done and current are gold, the current one ringed.
+ * Finished steps can be clicked to go back to them.
+ */
 function Stepper({ step }: { step: number }) {
   const ui = useUi();
   return (
@@ -161,15 +168,33 @@ function Stepper({ step }: { step: number }) {
         const n = i + 1;
         const reached = n <= step;
         const now = n === step;
-        return (
-          <View key={name} style={styles.stepperItem}>
-            <View style={[styles.stepperDot, reached && styles.stepperDotOn, now && styles.stepperDotNow]}>
+        const content = (hovered: boolean) => (
+          <>
+            <View style={[styles.stepperDot, reached && styles.stepperDotOn, now && styles.stepperDotNow, hovered && styles.stepperDotHover]}>
               <Text style={[styles.stepperNum, reached && styles.stepperNumOn]}>{n}</Text>
             </View>
-            <AppText size={13} style={[styles.stepperName, reached && styles.ivory, now && styles.gold]}>
+            <AppText size={13} style={[styles.stepperName, reached && styles.ivory, now && styles.gold, hovered && styles.gold]}>
               {name}
             </AppText>
-          </View>
+          </>
+        );
+        if (n >= step) {
+          return (
+            <View key={name} style={styles.stepperItem}>
+              {content(false)}
+            </View>
+          );
+        }
+        return (
+          <Pressable
+            key={name}
+            onPress={() => router.dismissTo(stepRoutes[i])}
+            accessibilityRole="link"
+            accessibilityLabel={`${ui.back}: ${name}`}
+            style={styles.stepperItem}
+          >
+            {s => content(isHovered(s))}
+          </Pressable>
         );
       })}
     </View>
@@ -665,6 +690,7 @@ export const styles = StyleSheet.create({
   },
   stepperDotOn: { backgroundColor: colors.gold, borderColor: colors.gold },
   stepperDotNow: { boxShadow: `0 0 0 5px ${colors.stepRing}` },
+  stepperDotHover: { boxShadow: `0 0 0 5px ${colors.stepRing}` },
   stepperNum: { fontFamily: fonts.brand, fontSize: 15, color: colors.muted },
   stepperNumOn: { color: colors.midnight },
   stepperName: { color: colors.muted, textAlign: 'center' },

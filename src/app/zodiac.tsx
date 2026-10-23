@@ -1,5 +1,5 @@
 // Screen 2: birth-year animal. Pick one, then Continue.
-import { Pressable, StyleSheet, View } from 'react-native';
+import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { router } from 'expo-router';
 import { content } from '../content/index.ts';
 import { useFlow, useUi } from '../state/flow.tsx';
@@ -7,7 +7,7 @@ import { AnimalEmblem } from '../ui/animals.tsx';
 import { Icon } from '../ui/icons.tsx';
 import { AppText, PrimaryButton, Screen, Title, isHovered } from '../ui/kit.tsx';
 import { Medallion } from '../ui/medallion.tsx';
-import { colors, useWide } from '../ui/theme.ts';
+import { colors, fonts, useWide } from '../ui/theme.ts';
 
 export default function ZodiacScreen() {
   const { state, update } = useFlow();
@@ -53,6 +53,12 @@ export default function ZodiacScreen() {
                   <AppText size={wide ? 16 : 14} style={[styles.center, !on && isHovered(s) && styles.labelHover]}>
                     {label}
                   </AppText>
+                  {/* In English, the Khmer year name too: the Khmer zodiac is the app's point of difference. */}
+                  {state.lang === 'en' && (
+                    <Text style={[styles.khmerName, wide && styles.khmerNameWide]} accessible={false}>
+                      {z.name.km}
+                    </Text>
+                  )}
                 </>
               )}
             </Pressable>
@@ -88,4 +94,6 @@ const styles = StyleSheet.create({
   tileHover: { transform: [{ translateY: -3 }] },
   medallionHover: { borderRadius: 999, boxShadow: '0 0 14px rgba(232,201,136,0.28)' },
   labelHover: { color: colors.gold },
+  khmerName: { fontFamily: fonts.khmerTitle, fontSize: 11, lineHeight: 20, color: colors.gold, opacity: 0.85, marginTop: -6 },
+  khmerNameWide: { fontSize: 12, lineHeight: 22 },
 });

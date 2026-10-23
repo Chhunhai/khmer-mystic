@@ -82,7 +82,7 @@ export function Backdrop({ variant }: { variant: 'phone' | 'hero' | 'soft' }) {
     return (
       <View style={StyleSheet.absoluteFill} pointerEvents="none">
         <CoverImage focus={{ x: 0.22, y: 0.3 }} opacity={0.95} style={StyleSheet.absoluteFill} />
-        <Fade horizontal stops={[[0, 0.05], [0.4, 0.55], [0.62, 0.9], [1, 0.9]]} />
+        <Fade horizontal stops={[[0, 0.05], [0.32, 0.45], [0.48, 0.86], [1, 0.93]]} />
         <Fade stops={[[0, 0.55], [0.18, 0], [0.75, 0], [1, 0.9]]} />
       </View>
     );

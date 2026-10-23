@@ -75,10 +75,11 @@ export default function WelcomeScreen() {
                 const icon = featureIcons[i];
                 return (
                   <Entrance key={label} delay={120 + i * 70} style={styles.feature}>
-                    <Medallion size={56} edge={colors.midnight} edgeOpacity={0.9} glowOpacity={0.18}>
-                      {icon === 'dragon' ? <AnimalEmblem id="DRA" size={40} /> : <Icon name={icon} size={26} />}
+                    {/* Decorative: smaller, quieter rings so they don't read as buttons. */}
+                    <Medallion size={48} edge={colors.midnight} edgeOpacity={0.6} glowOpacity={0.08}>
+                      {icon === 'dragon' ? <AnimalEmblem id="DRA" size={34} /> : <Icon name={icon} size={22} />}
                     </Medallion>
-                    <AppText size={15} style={styles.center}>
+                    <AppText size={14} style={[styles.center, styles.featureLabel]}>
                       {label}
                     </AppText>
                   </Entrance>
@@ -188,8 +189,9 @@ const styles = StyleSheet.create({
     textShadowRadius: 28,
   },
   intro: { maxWidth: 560, textAlign: 'center', lineHeight: 31 },
-  features: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 12, marginTop: 12, paddingTop: 20, borderTopWidth: 1, borderTopColor: colors.line },
-  feature: { flex: 1, minWidth: 110, alignItems: 'center', gap: 10 },
+  features: { alignSelf: 'stretch', flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 8, marginTop: 12, paddingTop: 20, borderTopWidth: 1, borderTopColor: colors.line },
+  feature: { flexGrow: 1, flexBasis: 0, minWidth: 140, alignItems: 'center', gap: 8 },
+  featureLabel: { color: colors.muted },
   homeActions: { width: '100%', flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 12, marginTop: 8 },
   action: { flexGrow: 1, flexBasis: 250, maxWidth: 320 },
 });
