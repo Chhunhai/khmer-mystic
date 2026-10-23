@@ -1,0 +1,1097 @@
+{
+  "questionId": "FF-05",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "This friendship may have brought something fresh and spontaneous into your life. With this friend, you could feel free to try things you would not do alone.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបាននាំអ្វីដែលថ្មី និងភ្លាមៗចូលក្នុងជីវិតរបស់អ្នក។ ជាមួយមិត្តនេះ អ្នកអាចមានអារម្មណ៍សេរីក្នុងការសាកល្បងអ្វីដែលអ្នកមិនធ្វើតែម្នាក់ឯង។"
+      },
+      "challenge": {
+        "en": "You may be learning to say yes to new experiences instead of playing it safe. A friend who invites adventure can help you discover a braver side of yourself.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនយល់ព្រមចំពោះបទពិសោធន៍ថ្មី ជាជាងលេងសុវត្ថិភាព។ មិត្តដែលអញ្ជើញការផ្សងព្រេង អាចជួយអ្នករកឃើញផ្នែកក្លាហានជាងមុននៃខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "The friendship could keep your life open and light-hearted. Shared adventures may become some of your most cherished memories.",
+        "km": "មិត្តភាពនេះ អាចរក្សាជីវិតរបស់អ្នកឱ្យបើកចំហ និងចិត្តស្រាល។ ការផ្សងព្រេងរួមគ្នា អាចក្លាយជាអនុស្សាវរីយ៍ដ៏មានតម្លៃបំផុតមួយចំនួនរបស់អ្នក។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "This friend may bring out your talents and help you believe in what you can do. Together, you could feel able to make things happen.",
+        "km": "មិត្តនេះ ប្រហែលជាទាញយកទេពកោសល្យរបស់អ្នកមកក្រៅ ហើយជួយអ្នកឱ្យជឿលើអ្វីដែលអ្នកអាចធ្វើ។ ជាមួយគ្នា អ្នកអាចមានអារម្មណ៍ថាអាចធ្វើឱ្យអ្វីៗកើតឡើង។"
+      },
+      "challenge": {
+        "en": "You may be learning that you have more skill and influence than you realised. A friend who sees your potential can help you use it.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាអ្នកមានជំនាញ និងឥទ្ធិពលច្រើនជាងអ្វីដែលអ្នកបានដឹង។ មិត្តដែលមើលឃើញសក្តានុពលរបស់អ្នក អាចជួយអ្នកប្រើវា។"
+      },
+      "outcome": {
+        "en": "The friendship could become a source of encouragement and shared projects. Working on something together may bring out the best in both of you.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃការលើកទឹកចិត្ត និងគម្រោងរួមគ្នា។ ការធ្វើការលើអ្វីមួយជាមួយគ្នា អាចទាញយកអ្វីដែលល្អបំផុតពីអ្នកទាំងពីរ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "This friendship may run deep, with an understanding that does not need many words. You could feel known by this friend in a quiet way.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាជ្រៅ ជាមួយការយល់ដឹងដែលមិនត្រូវការពាក្យសម្តីច្រើន។ អ្នកអាចមានអារម្មណ៍ថាមិត្តនេះស្គាល់អ្នកតាមរបៀបស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "You may be learning to trust your intuition about people. This friend can show you how much is communicated through silence and presence.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនទុកចិត្តលើវិចារណញាណរបស់អ្នកអំពីមនុស្ស។ មិត្តនេះ អាចបង្ហាញអ្នកពីរបៀបដែលរឿងជាច្រើនត្រូវបានប្រាប់តាមរយៈភាពស្ងៀមស្ងាត់ និងវត្តមាន។"
+      },
+      "outcome": {
+        "en": "The friendship could become a place of deep trust and quiet support. A friend who understands without explanation may be rare and precious.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាកន្លែងនៃការទុកចិត្តយ៉ាងជ្រៅ និងការគាំទ្រស្ងាត់ៗ។ មិត្តដែលយល់ដោយគ្មានការពន្យល់ អាចកម្រ និងមានតម្លៃ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "This friend may be a nurturing presence, someone who makes you feel cared for. Time with them could feel warm and comforting.",
+        "km": "មិត្តនេះ ប្រហែលជាវត្តមានដែលថែទាំ ជាមនុស្សដែលធ្វើឱ្យអ្នកមានអារម្មណ៍ថាត្រូវបានយកចិត្តទុកដាក់។ ពេលនៅជាមួយពួកគេ អាចមានអារម្មណ៍កក់ក្តៅ និងស្រួល។"
+      },
+      "challenge": {
+        "en": "You may be learning to receive care as well as give it. Allowing a friend to look after you can deepen trust on both sides.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនទទួលការយកចិត្តទុកដាក់ ក៏ដូចជាផ្តល់វាដែរ។ ការអនុញ្ញាតឱ្យមិត្តមើលថែអ្នក អាចពង្រឹងការទុកចិត្តទាំងសងខាង។"
+      },
+      "outcome": {
+        "en": "The friendship could grow into a lasting source of comfort and kindness. You may find yourself more generous with others because of it.",
+        "km": "មិត្តភាពនេះ អាចរីកចម្រើនទៅជាប្រភពនៃភាពស្រួល និងភាពសប្បុរសស្ថិតស្ថេរ។ អ្នកអាចរកឃើញថាខ្លួនឯងកាន់តែចិត្តទូលាយចំពោះអ្នកដទៃ ដោយសារវា។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "This friend may be a steady, reliable figure, someone you can count on. The friendship could give your life structure and security.",
+        "km": "មិត្តនេះ ប្រហែលជាបុគ្គលនឹងនរ និងអាចទុកចិត្តបាន ជាមនុស្សដែលអ្នកអាចពឹងផ្អែក។ មិត្តភាពនេះ អាចផ្តល់រចនាសម្ព័ន្ធ និងសុវត្ថិភាពដល់ជីវិតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "You may be learning the value of dependability and clear boundaries. A friend who keeps their word can show you how trust is built.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីតម្លៃនៃភាពអាចទុកចិត្តបាន និងព្រំដែនច្បាស់លាស់។ មិត្តដែលរក្សាពាក្យសម្តី អាចបង្ហាញអ្នកពីរបៀបដែលការទុកចិត្តត្រូវបានកសាង។"
+      },
+      "outcome": {
+        "en": "The friendship could become a solid foundation you return to through life's changes. Its steadiness may help you feel secure.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាមូលដ្ឋានរឹងមាំដែលអ្នកត្រឡប់មករកវិញឆ្លងកាត់ការផ្លាស់ប្តូរក្នុងជីវិត។ ភាពនឹងនររបស់វា អាចជួយអ្នកឱ្យមានអារម្មណ៍សុវត្ថិភាព។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "This friendship may be rooted in shared values, beliefs or traditions. You could feel a sense of belonging with this friend.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាចាក់ឫសក្នុងគុណតម្លៃ ជំនឿ ឬប្រពៃណីរួម។ អ្នកអាចមានអារម្មណ៍ជាផ្នែកមួយជាមួយមិត្តនេះ។"
+      },
+      "challenge": {
+        "en": "You may be learning from this friend's wisdom or example. A friend who mentors you can help you grow in ways you could not alone.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីប្រាជ្ញា ឬគំរូរបស់មិត្តនេះ។ មិត្តដែលណែនាំអ្នក អាចជួយអ្នករីកចម្រើនតាមរបៀបដែលអ្នកមិនអាចធ្វើតែម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "The friendship could become a source of guidance and shared purpose. Common values may keep you connected through many changes.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃការណែនាំ និងគោលបំណងរួម។ គុណតម្លៃរួម អាចរក្សាអ្នកឱ្យភ្ជាប់គ្នាឆ្លងកាត់ការផ្លាស់ប្តូរជាច្រើន។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "This friendship may be one of choice and genuine affection, a bond you value deeply. You could feel truly yourself with this friend.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមិត្តភាពនៃការជ្រើសរើស និងក្តីស្រលាញ់ពិតប្រាកដ ជាចំណងដែលអ្នកឱ្យតម្លៃយ៉ាងជ្រៅ។ អ្នកអាចមានអារម្មណ៍ថាជាខ្លួនឯងពិតប្រាកដជាមួយមិត្តនេះ។"
+      },
+      "challenge": {
+        "en": "You may be learning what you truly value in the people you choose to keep close. This friend can help you see which bonds are worth nurturing.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីអ្វីដែលអ្នកពិតជាឱ្យតម្លៃចំពោះមនុស្សដែលអ្នកជ្រើសរើសឱ្យនៅជិត។ មិត្តនេះ អាចជួយអ្នកមើលឃើញថាចំណងណាដែលសមនឹងការថែរក្សា។"
+      },
+      "outcome": {
+        "en": "The friendship could deepen into one of your most meaningful relationships. Choosing each other again and again may keep it strong.",
+        "km": "មិត្តភាពនេះ អាចកាន់តែជ្រៅទៅជាទំនាក់ទំនងដែលមានអត្ថន័យបំផុតមួយរបស់អ្នក។ ការជ្រើសរើសគ្នាម្តងហើយម្តងទៀត អាចរក្សាវាឱ្យរឹងមាំ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "This friend may push you forward, sharing your ambitions and spurring you on. Together, you could feel driven and determined.",
+        "km": "មិត្តនេះ ប្រហែលជារុញអ្នកទៅមុខ ដោយចែករំលែកមហិច្ឆតារបស់អ្នក និងជំរុញអ្នក។ ជាមួយគ្នា អ្នកអាចមានអារម្មណ៍ថាមានការតាំងចិត្ត និងម៉ឺងម៉ាត់។"
+      },
+      "challenge": {
+        "en": "You may be learning how much a supportive friend can help you reach your goals. Steering together can carry you further than going alone.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីរបៀបដែលមិត្តដែលគាំទ្រអាចជួយអ្នកសម្រេចគោលដៅរបស់អ្នក។ ការដឹកនាំជាមួយគ្នា អាចនាំអ្នកទៅឆ្ងាយជាងការទៅតែម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "The friendship could become a partnership that helps you both succeed. Celebrating each other's wins may make the bond stronger with every goal reached.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាភាពជាដៃគូដែលជួយអ្នកទាំងពីរជោគជ័យ។ ការអបអរជ័យជម្នះរបស់គ្នាទៅវិញទៅមក អាចធ្វើឱ្យចំណងកាន់តែរឹងមាំ រាល់ពេលសម្រេចគោលដៅ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "This friendship may have a gentle strength, helping you both through hard times. You could feel braver with this friend beside you.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានកម្លាំងទន់ភ្លន់ ដែលជួយអ្នកទាំងពីរឆ្លងកាត់ការលំបាក។ អ្នកអាចមានអារម្មណ៍ក្លាហានជាងមុន នៅពេលមិត្តនេះនៅក្បែរអ្នក។"
+      },
+      "challenge": {
+        "en": "You may be learning about patience, courage and kindness from this friend. Their example can show you how to face difficulty calmly.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនអំពីការអត់ធ្មត់ ភាពក្លាហាន និងភាពសប្បុរសពីមិត្តនេះ។ គំរូរបស់ពួកគេ អាចបង្ហាញអ្នកពីរបៀបប្រឈមមុខនឹងការលំបាកដោយស្ងប់ស្ងាត់។"
+      },
+      "outcome": {
+        "en": "The friendship could become a quiet source of strength you can rely on. Supporting each other may help you both grow braver.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពកម្លាំងស្ងាត់ៗដែលអ្នកអាចពឹងផ្អែក។ ការគាំទ្រគ្នាទៅវិញទៅមក អាចជួយអ្នកទាំងពីរឱ្យកាន់តែក្លាហាន។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "This friend may be a wise, reflective presence who helps you think things through. Conversations with them could bring clarity.",
+        "km": "មិត្តនេះ ប្រហែលជាវត្តមានដែលមានប្រាជ្ញា និងពិចារណា ដែលជួយអ្នកគិតឱ្យល្អិតល្អន់។ ការសន្ទនាជាមួយពួកគេ អាចនាំមកនូវភាពច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "You may be learning the value of solitude and reflection, even within friendship. This friend can show you that space can strengthen a bond.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីតម្លៃនៃភាពឯកោ និងការពិចារណា សូម្បីតែក្នុងមិត្តភាព។ មិត្តនេះ អាចបង្ហាញអ្នកថាលំហអាចពង្រឹងចំណង។"
+      },
+      "outcome": {
+        "en": "The friendship could become a source of wisdom and guidance. Meaningful conversations may help you find your own answers.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃប្រាជ្ញា និងការណែនាំ។ ការសន្ទនាដែលមានអត្ថន័យ អាចជួយអ្នករកចម្លើយដោយខ្លួនឯង។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "This friendship may have come into your life at a turning point. Its arrival could feel meaningful, as if it was meant to be.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានចូលមកក្នុងជីវិតរបស់អ្នកនៅចំណុចបង្វែរ។ ការមកដល់របស់វា អាចមានអារម្មណ៍មានអត្ថន័យ ដូចជាត្រូវបានកំណត់ទុក។"
+      },
+      "challenge": {
+        "en": "You may be learning that friendships change as life changes. Some bonds stay, while others shift, and both can be part of growth.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពផ្លាស់ប្តូរ នៅពេលជីវិតផ្លាស់ប្តូរ។ ចំណងខ្លះនៅដដែល ខណៈចំណងផ្សេងទៀតប្រែប្រួល ហើយទាំងពីរអាចជាផ្នែកមួយនៃការរីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "The friendship could help you through a period of change. Its role in your life may shift, but its value could remain.",
+        "km": "មិត្តភាពនេះ អាចជួយអ្នកឆ្លងកាត់ដំណាក់កាលនៃការផ្លាស់ប្តូរ។ តួនាទីរបស់វាក្នុងជីវិតរបស់អ្នកអាចប្រែប្រួល ប៉ុន្តែតម្លៃរបស់វាអាចនៅដដែល។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "This friendship may be built on fairness and honesty, with both giving and receiving. You could feel respected as an equal.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាកសាងលើយុត្តិធម៌ និងភាពស្មោះត្រង់ ដោយទាំងពីរផ្តល់ និងទទួល។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានគោរពជាមនុស្សស្មើគ្នា។"
+      },
+      "challenge": {
+        "en": "You may be learning about balance and honesty in relationships. This friend can show you what a fair, two-way friendship looks like.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនអំពីតុល្យភាព និងភាពស្មោះត្រង់ក្នុងទំនាក់ទំនង។ មិត្តនេះ អាចបង្ហាញអ្នកពីរូបរាងនៃមិត្តភាពយុត្តិធម៌ និងទៅមកទាំងសងខាង។"
+      },
+      "outcome": {
+        "en": "The friendship could become a model of mutual respect. Honest dealings may keep it strong through disagreements.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាគំរូនៃការគោរពគ្នាទៅវិញទៅមក។ ការប្រព្រឹត្តដោយស្មោះត្រង់ អាចរក្សាវាឱ្យរឹងមាំឆ្លងកាត់ការខ្វែងគំនិត។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "This friendship may be in a pause, or asking you to see it differently. You could be waiting to understand what it means.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាស្ថិតក្នុងការផ្អាក ឬកំពុងសុំឱ្យអ្នកមើលវាខុសពីមុន។ អ្នកអាចកំពុងរង់ចាំដើម្បីយល់ពីអត្ថន័យរបស់វា។"
+      },
+      "challenge": {
+        "en": "You may be learning to see this friend from a new angle. Letting go of old expectations can reveal what the friendship truly offers.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនមើលមិត្តនេះពីមុំថ្មី។ ការបោះបង់ការរំពឹងទុកចាស់ៗ អាចបង្ហាញពីអ្វីដែលមិត្តភាពនេះពិតជាផ្តល់។"
+      },
+      "outcome": {
+        "en": "A fresh perspective could transform how you value this friendship. Seeing your friend as they are, not as you expected, may bring you closer.",
+        "km": "ទស្សនៈថ្មីមួយ អាចប្រែក្លាយរបៀបដែលអ្នកឱ្យតម្លៃលើមិត្តភាពនេះ។ ការមើលឃើញមិត្តរបស់អ្នកតាមអ្វីដែលពួកគេជា មិនមែនតាមអ្វីដែលអ្នករំពឹងទេ អាចនាំអ្នកឱ្យខិតជិតគ្នា។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "This friendship may be changing deeply, perhaps ending one phase and starting another. You could feel the old way of being friends slipping away.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាកំពុងផ្លាស់ប្តូរយ៉ាងជ្រៅ ប្រហែលជាបញ្ចប់ដំណាក់កាលមួយ និងចាប់ផ្តើមដំណាក់កាលមួយទៀត។ អ្នកអាចមានអារម្មណ៍ថារបៀបជាមិត្តចាស់កំពុងរសាត់បាត់។"
+      },
+      "challenge": {
+        "en": "You may be learning to let friendships evolve rather than holding them as they were. Accepting change can let the bond survive in a new form.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនឱ្យមិត្តភាពវិវត្ត ជាជាងរក្សាវាដូចដែលវាធ្លាប់មាន។ ការទទួលយកការផ្លាស់ប្តូរ អាចឱ្យចំណងនៅរស់ក្នុងទម្រង់ថ្មី។"
+      },
+      "outcome": {
+        "en": "The friendship could transform into something new and healthier. An ending of one kind may open the way to a deeper connection.",
+        "km": "មិត្តភាពនេះ អាចប្រែក្លាយទៅជាអ្វីថ្មី និងមានសុខភាពល្អជាងមុន។ ទីបញ្ចប់ប្រភេទមួយ អាចបើកផ្លូវទៅរកការភ្ជាប់ទំនាក់ទំនងកាន់តែជ្រៅ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "This friendship may bring balance and calm into your life. Time with this friend could help you feel centred.",
+        "km": "មិត្តភាពនេះ ប្រហែលជានាំតុល្យភាព និងភាពស្ងប់ចូលក្នុងជីវិតរបស់អ្នក។ ការនៅជាមួយមិត្តនេះ អាចជួយអ្នកឱ្យមានអារម្មណ៍នឹងនរ។"
+      },
+      "challenge": {
+        "en": "You may be learning patience and moderation from this friendship. A friend who stays steady can teach you to meet others halfway.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនការអត់ធ្មត់ និងភាពសមរម្យពីមិត្តភាពនេះ។ មិត្តដែលនៅនឹងនរ អាចបង្រៀនអ្នកឱ្យជួបអ្នកដទៃពាក់កណ្តាលផ្លូវ។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a peaceful, harmonious presence in your life. Its gentle balance may help you through ups and downs.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាវត្តមានសន្តិភាព និងសុខដុមក្នុងជីវិតរបស់អ្នក។ តុល្យភាពទន់ភ្លន់របស់វា អាចជួយអ្នកឆ្លងកាត់ការឡើងចុះ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "This friendship may have an unhealthy pull, such as dependence, jealousy or pressure to do things you would rather not. You could feel tied to it.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានការទាញដែលមិនល្អ ដូចជាការពឹងផ្អែក ការច្រណែន ឬសម្ពាធឱ្យធ្វើអ្វីដែលអ្នកមិនចង់ធ្វើ។ អ្នកអាចមានអារម្មណ៍ថាជាប់ចំណងនឹងវា។"
+      },
+      "challenge": {
+        "en": "You may be learning to recognise when a friendship is holding you back. Setting boundaries, or stepping away, can be an act of self-respect.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនទទួលស្គាល់ នៅពេលមិត្តភាពមួយកំពុងរារាំងអ្នក។ ការកំណត់ព្រំដែន ឬការដកខ្លួនចេញ អាចជាទង្វើនៃការគោរពខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Breaking free of unhealthy patterns could leave you freer and more confident. The friendship may either change for the better or make room for healthier ones.",
+        "km": "ការរំដោះខ្លួនពីគំរូមិនល្អ អាចធ្វើឱ្យអ្នកមានសេរីភាព និងទំនុកចិត្តជាងមុន។ មិត្តភាពនេះ អាចផ្លាស់ប្តូរទៅរកអ្វីដែលល្អជាង ឬបើកកន្លែងសម្រាប់មិត្តភាពដែលមានសុខភាពល្អជាង។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "This friendship may have been shaken by a sudden event, such as a falling-out or revelation. You could be seeing it in a new light.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាត្រូវបានរង្គោះរង្គើដោយព្រឹត្តិការណ៍ភ្លាមៗ ដូចជាការបែកបាក់ ឬការលាតត្រដាងអ្វីមួយ។ អ្នកអាចកំពុងមើលវាក្នុងពន្លឺថ្មី។"
+      },
+      "challenge": {
+        "en": "You may be learning that some friendships are built on shakier ground than they seemed. A shock can reveal what is real.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពខ្លះត្រូវបានកសាងលើដីរង្គោះរង្គើជាងអ្វីដែលវាមើលទៅ។ ការភ្ញាក់ផ្អើលអាចបង្ហាញពីអ្វីដែលពិត។"
+      },
+      "outcome": {
+        "en": "Rebuilding after upheaval could leave the friendship stronger and more honest. If it cannot be mended, the space it leaves may make room for truer bonds.",
+        "km": "ការកសាងឡើងវិញបន្ទាប់ពីភាពចលាចល អាចធ្វើឱ្យមិត្តភាពកាន់តែរឹងមាំ និងស្មោះត្រង់។ ប្រសិនបើវាមិនអាចជួសជុលបាន លំហដែលវាទុក អាចបើកកន្លែងសម្រាប់ចំណងដែលពិតជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "This friendship may bring hope and inspiration into your life. This friend could help you believe that things can get better.",
+        "km": "មិត្តភាពនេះ ប្រហែលជានាំក្តីសង្ឃឹម និងការបំផុសគំនិតចូលក្នុងជីវិតរបស់អ្នក។ មិត្តនេះ អាចជួយអ្នកឱ្យជឿថាអ្វីៗអាចប្រសើរឡើង។"
+      },
+      "challenge": {
+        "en": "You may be learning to trust in healing and renewal. A hopeful friend can help you see light after a hard stretch.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនទុកចិត្តលើការជាសះស្បើយ និងការកែថ្មី។ មិត្តដែលមានក្តីសង្ឃឹម អាចជួយអ្នកមើលឃើញពន្លឺបន្ទាប់ពីដំណាក់កាលលំបាក។"
+      },
+      "outcome": {
+        "en": "The friendship could become a guiding light, offering encouragement when you need it. Shared dreams may inspire you both.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាពន្លឺណែនាំ ដោយផ្តល់ការលើកទឹកចិត្តនៅពេលអ្នកត្រូវការ។ ក្តីស្រមៃរួម អាចបំផុសគំនិតអ្នកទាំងពីរ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "This friendship may feel unclear, with mixed signals or unspoken doubts. You could be unsure what it really means to you.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍មិនច្បាស់លាស់ ជាមួយសញ្ញាចម្រុះ ឬការសង្ស័យដែលមិនបាននិយាយ។ អ្នកអាចមិនប្រាកដថាវាពិតជាមានន័យយ៉ាងណាសម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "You may be learning to look past illusions and see a friend as they really are. Trusting what you observe can protect you from confusion.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនមើលហួសពីការបំភាន់ ហើយមើលឃើញមិត្តម្នាក់តាមអ្វីដែលពួកគេពិតជាជា។ ការទុកចិត្តលើអ្វីដែលអ្នកសង្កេតឃើញ អាចការពារអ្នកពីភាពច្របូកច្របល់។"
+      },
+      "outcome": {
+        "en": "Clearing up uncertainty could reveal the true value of this friendship. An honest conversation about how you both feel may bring peace of mind.",
+        "km": "ការជម្រះភាពមិនច្បាស់លាស់ អាចបង្ហាញពីតម្លៃពិតនៃមិត្តភាពនេះ។ ការសន្ទនាស្មោះត្រង់អំពីអារម្មណ៍របស់អ្នកទាំងពីរ អាចនាំមកនូវសន្តិភាពផ្លូវចិត្ត។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "This friendship may bring real joy and warmth into your life. With this friend, you could feel happy and fully yourself.",
+        "km": "មិត្តភាពនេះ ប្រហែលជានាំសេចក្តីរីករាយ និងភាពកក់ក្តៅពិតប្រាកដចូលក្នុងជីវិតរបស់អ្នក។ ជាមួយមិត្តនេះ អ្នកអាចមានអារម្មណ៍រីករាយ និងជាខ្លួនឯងពេញលេញ។"
+      },
+      "challenge": {
+        "en": "You may be learning how much happiness a true friend can bring. Valuing that joy can help you protect and nurture it.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីសេចក្តីរីករាយច្រើនប៉ុណ្ណាដែលមិត្តពិតអាចនាំមក។ ការឱ្យតម្លៃលើសេចក្តីរីករាយនោះ អាចជួយអ្នកការពារ និងថែរក្សាវា។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a bright, uplifting part of your life. The laughter you share may become one of its most lasting gifts.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាផ្នែកភ្លឺស្វាង និងលើកស្ទួយនៃជីវិតរបស់អ្នក។ សំណើចដែលអ្នកចែករំលែក អាចក្លាយជាអំណោយស្ថិតស្ថេរបំផុតមួយរបស់វា។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "This friendship may be asking you to reflect on its history and what it has meant. You could be at a point of reckoning with it.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាកំពុងសុំឱ្យអ្នកពិចារណាពីប្រវត្តិរបស់វា និងអ្វីដែលវាបានមានន័យ។ អ្នកអាចស្ថិតនៅចំណុចនៃការវាយតម្លៃជាមួយវា។"
+      },
+      "challenge": {
+        "en": "You may be learning to forgive, or to accept what the friendship has taught you. Looking back honestly can help you decide how to go forward.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនអភ័យទោស ឬទទួលយកអ្វីដែលមិត្តភាពនេះបានបង្រៀនអ្នក។ ការមើលទៅក្រោយដោយស្មោះត្រង់ អាចជួយអ្នកសម្រេចពីរបៀបទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A renewed understanding could bring a fresh start to the friendship. If it has run its course, it may help you let go with gratitude rather than regret.",
+        "km": "ការយល់ដឹងថ្មី អាចនាំការចាប់ផ្តើមថ្មីដល់មិត្តភាពនេះ។ ប្រសិនបើវាបានដល់ទីបញ្ចប់ វាអាចជួយអ្នកបោះបង់ដោយការដឹងគុណ ជាជាងការសោកស្តាយ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "This friendship may feel complete and fulfilling, a bond that has come full circle. You could feel deeply grateful for it.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍ពេញលេញ និងពេញចិត្ត ជាចំណងដែលបានវិលជុំ។ អ្នកអាចមានអារម្មណ៍ដឹងគុណយ៉ាងជ្រៅចំពោះវា។"
+      },
+      "challenge": {
+        "en": "You may be learning to appreciate a friendship for all it has given you. Recognising its completeness can bring peace.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនកោតសរសើរមិត្តភាពមួយចំពោះអ្វីៗទាំងអស់ដែលវាបានផ្តល់ឱ្យអ្នក។ ការទទួលស្គាល់ភាពពេញលេញរបស់វា អាចនាំមកនូវសន្តិភាព។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a source of lasting fulfilment. As you both grow, it may keep enriching your life in new ways.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាប្រភពនៃការពេញចិត្តស្ថិតស្ថេរ។ ខណៈអ្នកទាំងពីររីកចម្រើន វាអាចបន្តធ្វើឱ្យជីវិតរបស់អ្នកសម្បូរបែបតាមរបៀបថ្មីៗ។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "This friendship may have sparked new energy, ideas or excitement in your life. Being around this friend could make you feel inspired.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានបញ្ឆេះថាមពល គំនិត ឬភាពរំភើបថ្មីក្នុងជីវិតរបស់អ្នក។ ការនៅជុំវិញមិត្តនេះ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាត្រូវបានបំផុសគំនិត។"
+      },
+      "challenge": {
+        "en": "You may be learning to follow your enthusiasm with the support of a friend. Shared passion can turn ideas into action.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនធ្វើតាមភាពរំភើបរបស់អ្នក ដោយមានការគាំទ្រពីមិត្តម្នាក់។ ចំណង់ចំណូលចិត្តរួម អាចប្តូរគំនិតទៅជាសកម្មភាព។"
+      },
+      "outcome": {
+        "en": "The friendship could become a source of creative energy and shared projects. Starting something together, even something small, may bring you both real joy.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃថាមពលច្នៃប្រឌិត និងគម្រោងរួមគ្នា។ ការចាប់ផ្តើមអ្វីមួយជាមួយគ្នា សូម្បីតែអ្វីតូចមួយ អាចនាំសេចក្តីរីករាយពិតប្រាកដដល់អ្នកទាំងពីរ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "This friend may be someone you make plans and share dreams with. The friendship could feel full of possibility and things still to do.",
+        "km": "មិត្តនេះ ប្រហែលជាមនុស្សដែលអ្នករៀបចំផែនការ និងចែករំលែកក្តីស្រមៃជាមួយ។ មិត្តភាពនេះ អាចមានអារម្មណ៍ពោរពេញដោយលទ្ធភាព និងរឿងដែលនៅត្រូវធ្វើ។"
+      },
+      "challenge": {
+        "en": "You may be learning that some friendships are about shared vision as well as shared feelings. Planning together can deepen trust.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពខ្លះគឺអំពីចក្ខុវិស័យរួម ក៏ដូចជាអារម្មណ៍រួមដែរ។ ការរៀបចំផែនការជាមួយគ្នា អាចពង្រឹងការទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "The friendship could grow as you pursue shared goals. Cheering each other on through plans large and small may bring you closer.",
+        "km": "មិត្តភាពនេះ អាចរីកចម្រើន ខណៈអ្នកដេញតាមគោលដៅរួម។ ការលើកទឹកចិត្តគ្នាទៅវិញទៅមកឆ្លងកាត់ផែនការធំ និងតូច អាចនាំអ្នកឱ្យខិតជិតគ្នា។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "This friendship may stretch across distance or open you to wider horizons. This friend could broaden your view of the world.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាលាតសន្ធឹងឆ្លងចម្ងាយ ឬបើកអ្នកទៅរកជើងមេឃកាន់តែទូលាយ។ មិត្តនេះ អាចពង្រីកទស្សនៈរបស់អ្នកអំពីពិភពលោក។"
+      },
+      "challenge": {
+        "en": "You may be learning that friendship can thrive even when you are apart. Keeping in touch can sustain a bond across any distance.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពអាចរីកចម្រើន សូម្បីតែនៅពេលអ្នកនៅឆ្ងាយពីគ្នា។ ការរក្សាទំនាក់ទំនង អាចទ្រទ្រង់ចំណងឆ្លងកាត់ចម្ងាយណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "The friendship could keep widening your horizons. Through this friend, you may meet new places, people and ideas you would not find alone.",
+        "km": "មិត្តភាពនេះ អាចបន្តពង្រីកជើងមេឃរបស់អ្នក។ តាមរយៈមិត្តនេះ អ្នកអាចជួបកន្លែង មនុស្ស និងគំនិតថ្មីៗ ដែលអ្នកមិនអាចរកឃើញតែម្នាក់ឯង។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "This friendship may feel like a home away from home, full of warmth and celebration. You could feel welcome and at ease with this friend.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍ដូចជាផ្ទះទីពីរ ពោរពេញដោយភាពកក់ក្តៅ និងការអបអរ។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានស្វាគមន៍ និងស្រួលជាមួយមិត្តនេះ។"
+      },
+      "challenge": {
+        "en": "You may be learning how much a stable, joyful friendship can support you. Celebrating together can strengthen your sense of belonging.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីរបៀបដែលមិត្តភាពនឹងនរ និងរីករាយអាចគាំទ្រអ្នកបានច្រើនប៉ុណ្ណា។ ការអបអរជាមួយគ្នា អាចពង្រឹងអារម្មណ៍ជាផ្នែកមួយរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "The friendship could become a lasting source of happiness and security. Marking birthdays and milestones together may keep the bond warm and strong.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃសុភមង្គល និងសុវត្ថិភាពស្ថិតស្ថេរ។ ការអបអរថ្ងៃកំណើត និងព្រឹត្តិការណ៍សំខាន់ៗជាមួយគ្នា អាចរក្សាចំណងឱ្យកក់ក្តៅ និងរឹងមាំ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "This friendship may include healthy rivalry or occasional clashes. You could find that this friend challenges you and keeps you sharp.",
+        "km": "មិត្តភាពនេះ ប្រហែលជារួមបញ្ចូលការប្រជែងដែលមានសុខភាពល្អ ឬការប៉ះទង្គិចម្តងម្កាល។ អ្នកអាចរកឃើញថាមិត្តនេះប្រជែងអ្នក និងរក្សាអ្នកឱ្យមុតស្រួច។"
+      },
+      "challenge": {
+        "en": "You may be learning that disagreement does not have to end a friendship. Handling conflict respectfully can make the bond stronger.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាការខ្វែងគំនិតមិនចាំបាច់បញ្ចប់មិត្តភាពទេ។ ការដោះស្រាយជម្លោះដោយការគោរព អាចធ្វើឱ្យចំណងកាន់តែរឹងមាំ។"
+      },
+      "outcome": {
+        "en": "The friendship could keep pushing you both to grow. Friendly competition, kept good-natured, may bring out the best in each of you.",
+        "km": "មិត្តភាពនេះ អាចបន្តជំរុញអ្នកទាំងពីរឱ្យរីកចម្រើន។ ការប្រកួតប្រជែងរួសរាយ ដែលរក្សាឱ្យមានចិត្តល្អ អាចទាញយកអ្វីដែលល្អបំផុតពីអ្នកម្នាក់ៗ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "This friend may be someone who celebrates your successes and believes in you. Time spent with them could leave you feeling more confident.",
+        "km": "មិត្តនេះ ប្រហែលជាមនុស្សដែលអបអរភាពជោគជ័យរបស់អ្នក និងជឿលើអ្នក។ ពេលដែលចំណាយជាមួយពួកគេ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ទំនុកចិត្តជាងមុន។"
+      },
+      "challenge": {
+        "en": "You may be learning to accept praise and share credit graciously. A friend who cheers you on can teach you to cheer others too.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនទទួលយកការសរសើរ និងចែករំលែកកិត្តិយសដោយសុភាព។ មិត្តដែលលើកទឹកចិត្តអ្នក អាចបង្រៀនអ្នកឱ្យលើកទឹកចិត្តអ្នកដទៃផងដែរ។"
+      },
+      "outcome": {
+        "en": "The friendship could become a source of encouragement through life's achievements. Taking pride in each other's progress may bring you closer still.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃការលើកទឹកចិត្តឆ្លងកាត់សមិទ្ធផលក្នុងជីវិត។ ការមានមោទនភាពចំពោះវឌ្ឍនភាពរបស់គ្នាទៅវិញទៅមក អាចនាំអ្នកឱ្យខិតជិតគ្នាថែមទៀត។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "This friend may be someone who stands by you when you face pressure or criticism. The friendship could feel loyal and protective.",
+        "km": "មិត្តនេះ ប្រហែលជាមនុស្សដែលឈរក្បែរអ្នក នៅពេលអ្នកប្រឈមនឹងសម្ពាធ ឬការរិះគន់។ មិត្តភាពនេះ អាចមានអារម្មណ៍ស្មោះត្រង់ និងការពារ។"
+      },
+      "challenge": {
+        "en": "You may be learning about loyalty and standing up for what you value. A friend who backs you can give you courage.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនអំពីភាពស្មោះត្រង់ និងការក្រោកឈរការពារអ្វីដែលអ្នកឱ្យតម្លៃ។ មិត្តដែលគាំទ្រអ្នក អាចផ្តល់ភាពក្លាហានដល់អ្នក។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a source of strength when you need to hold your ground. Standing up for each other may make it one that lasts.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាប្រភពកម្លាំង នៅពេលអ្នកត្រូវរក្សាជំហររបស់អ្នក។ ការក្រោកឈរការពារគ្នាទៅវិញទៅមក អាចធ្វើឱ្យវាក្លាយជាមិត្តភាពដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "This friendship may have grown fast, full of energy and frequent contact. You could feel swept up in the excitement of the connection.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានរីកចម្រើនលឿន ពោរពេញដោយថាមពល និងការទាក់ទងញឹកញាប់។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានទាញចូលក្នុងភាពរំភើបនៃការភ្ជាប់ទំនាក់ទំនងនោះ។"
+      },
+      "challenge": {
+        "en": "You may be learning that a friendship built in a rush needs care to last. Getting to know each other beyond the excitement can give the bond roots.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពដែលកសាងយ៉ាងប្រញាប់ ត្រូវការការថែរក្សាដើម្បីស្ថិតស្ថេរ។ ការស្គាល់គ្នាហួសពីភាពរំភើប អាចផ្តល់ឫសដល់ចំណង។"
+      },
+      "outcome": {
+        "en": "The friendship could keep bringing lively energy and good news into your life. Easy, regular contact and quick replies may keep the two of you close.",
+        "km": "មិត្តភាពនេះ អាចបន្តនាំថាមពលរស់រវើក និងដំណឹងល្អចូលក្នុងជីវិតរបស់អ្នក។ ការទាក់ទងងាយស្រួល និងទៀងទាត់ និងការឆ្លើយតបរហ័ស អាចរក្សាអ្នកទាំងពីរឱ្យនៅជិតគ្នា។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "This friend may have stuck by you through hard stretches, and the friendship may feel tested. You could feel a deep, if weary, loyalty.",
+        "km": "មិត្តនេះ ប្រហែលជាបាននៅក្បែរអ្នកឆ្លងកាត់ដំណាក់កាលលំបាក ហើយមិត្តភាពនេះអាចមានអារម្មណ៍ថាបានឆ្លងកាត់ការសាកល្បង។ អ្នកអាចមានអារម្មណ៍ស្មោះត្រង់យ៉ាងជ្រៅ ទោះបីហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "You may be learning how much resilience a true friendship can have. Even when you are both tired or hurt, a bond like this one can endure.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីភាពធន់ដែលមិត្តភាពពិតអាចមានច្រើនប៉ុណ្ណា។ សូម្បីតែនៅពេលអ្នកទាំងពីរហត់នឿយ ឬឈឺចាប់ ចំណងបែបនេះអាចស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "The friendship could emerge stronger after everything you have been through. Its endurance may be one of its greatest gifts.",
+        "km": "មិត្តភាពនេះ អាចចេញមកកាន់តែរឹងមាំ បន្ទាប់ពីអ្វីៗទាំងអស់ដែលអ្នកបានឆ្លងកាត់។ ភាពធន់របស់វា អាចជាអំណោយធំបំផុតមួយរបស់វា។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "This friendship may feel like hard work, with one of you carrying more of the load. You could feel weighed down by it.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍ដូចជាការងារលំបាក ដោយម្នាក់ក្នុងចំណោមអ្នកទទួលបន្ទុកច្រើនជាង។ អ្នកអាចមានអារម្មណ៍ធ្ងន់ដោយសារវា។"
+      },
+      "challenge": {
+        "en": "You may be learning that friendship should be shared, not carried alone. Speaking honestly about the imbalance can restore fairness.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពគួរតែត្រូវបានចែករំលែក មិនមែនទទួលបន្ទុកតែម្នាក់ឯងទេ។ ការនិយាយដោយស្មោះត្រង់អំពីភាពមិនស្មើគ្នា អាចស្តារយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "Rebalancing the friendship could make it lighter and more rewarding. If it cannot be shared fairly, you may decide to give it less of your energy.",
+        "km": "ការធ្វើឱ្យមិត្តភាពមានតុល្យភាពឡើងវិញ អាចធ្វើឱ្យវាស្រាល និងផ្តល់ផលល្អជាងមុន។ ប្រសិនបើវាមិនអាចចែករំលែកដោយយុត្តិធម៌ អ្នកអាចសម្រេចចិត្តផ្តល់ថាមពលរបស់អ្នកដល់វាតិចជាងមុន។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "This friendship may be playful, curious and full of new discoveries. This friend could bring out your sense of fun.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាលេងសើច ចង់ដឹង និងពោរពេញដោយការរកឃើញថ្មីៗ។ មិត្តនេះ អាចទាញយកភាពសប្បាយរបស់អ្នកមកក្រៅ។"
+      },
+      "challenge": {
+        "en": "You may be learning to stay curious and open with people. A friend who loves exploring can remind you to keep learning.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀននៅតែចង់ដឹង និងបើកចំហជាមួយមនុស្ស។ មិត្តដែលចូលចិត្តរុករក អាចរំលឹកអ្នកឱ្យបន្តរៀន។"
+      },
+      "outcome": {
+        "en": "The friendship could keep your life lively and full of surprises. Exploring new places and ideas together may create memories you treasure.",
+        "km": "មិត្តភាពនេះ អាចរក្សាជីវិតរបស់អ្នកឱ្យរស់រវើក និងពោរពេញដោយការភ្ញាក់ផ្អើល។ ការរុករកកន្លែង និងគំនិតថ្មីៗជាមួយគ្នា អាចបង្កើតអនុស្សាវរីយ៍ដែលអ្នកស្រលាញ់។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "This friendship may be bold and adventurous, full of spontaneous plans. This friend could encourage you to take risks.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាក្លាហាន និងផ្សងព្រេង ពោរពេញដោយផែនការភ្លាមៗ។ មិត្តនេះ អាចលើកទឹកចិត្តអ្នកឱ្យប្រថុយ។"
+      },
+      "challenge": {
+        "en": "You may be learning to balance excitement with good judgement. A daring friend can teach you courage, while you keep an eye on safety.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថ្លឹងថ្លែងភាពរំភើបជាមួយការវិនិច្ឆ័យល្អ។ មិត្តដែលហ៊ាន អាចបង្រៀនអ្នកពីភាពក្លាហាន ខណៈអ្នករក្សាការប្រុងប្រយ័ត្នលើសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "The friendship could bring adventure and growth into your life. The things you dare to do together may become stories you love to retell.",
+        "km": "មិត្តភាពនេះ អាចនាំការផ្សងព្រេង និងការរីកចម្រើនចូលក្នុងជីវិតរបស់អ្នក។ អ្វីដែលអ្នកហ៊ានធ្វើជាមួយគ្នា អាចក្លាយជារឿងរ៉ាវដែលអ្នកចូលចិត្តនិទានឡើងវិញ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "This friend may be warm, confident and generous, someone who lights up a room. The friendship could make you feel valued and included.",
+        "km": "មិត្តនេះ ប្រហែលជាកក់ក្តៅ មានទំនុកចិត្ត និងចិត្តទូលាយ ជាមនុស្សដែលធ្វើឱ្យបន្ទប់ភ្លឺស្វាង។ មិត្តភាពនេះ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាត្រូវបានឱ្យតម្លៃ និងរួមបញ្ចូល។"
+      },
+      "challenge": {
+        "en": "You may be learning to shine alongside a confident friend rather than in their shadow. Their warmth can teach you to trust your own light.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនភ្លឺក្បែរមិត្តដែលមានទំនុកចិត្ត ជាជាងនៅក្នុងស្រមោលរបស់ពួកគេ។ ភាពកក់ក្តៅរបស់ពួកគេ អាចបង្រៀនអ្នកឱ្យទុកចិត្តលើពន្លឺផ្ទាល់ខ្លួនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "The friendship could become a warm, uplifting presence in your life. Its easy generosity may inspire you to be more generous with others.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាវត្តមានកក់ក្តៅ និងលើកស្ទួយក្នុងជីវិតរបស់អ្នក។ ភាពសប្បុរសដោយងាយរបស់វា អាចបំផុសគំនិតអ្នកឱ្យកាន់តែចិត្តទូលាយចំពោះអ្នកដទៃ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "This friend may be a natural leader, someone with vision who inspires you. The friendship could feel motivating and purposeful.",
+        "km": "មិត្តនេះ ប្រហែលជាអ្នកដឹកនាំពីធម្មជាតិ ជាមនុស្សដែលមានចក្ខុវិស័យ ដែលបំផុសគំនិតអ្នក។ មិត្តភាពនេះ អាចមានអារម្មណ៍ជំរុញ និងមានគោលបំណង។"
+      },
+      "challenge": {
+        "en": "You may be learning from this friend's example while finding your own direction. Admiring someone can help you discover what you want for yourself.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីគំរូរបស់មិត្តនេះ ខណៈរកទិសដៅផ្ទាល់ខ្លួនរបស់អ្នក។ ការកោតសរសើរនរណាម្នាក់ អាចជួយអ្នករកឃើញអ្វីដែលអ្នកចង់បានសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "The friendship could inspire you to aim higher and lead your own life with confidence. Respecting each other's paths may keep it strong.",
+        "km": "មិត្តភាពនេះ អាចបំផុសគំនិតអ្នកឱ្យតម្រង់ខ្ពស់ជាងមុន និងដឹកនាំជីវិតរបស់អ្នកដោយទំនុកចិត្ត។ ការគោរពផ្លូវរបស់គ្នាទៅវិញទៅមក អាចរក្សាវាឱ្យរឹងមាំ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "This friendship may have opened your heart in a new way, bringing fresh affection into your life. You could feel deeply cared for.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានបើកចិត្តរបស់អ្នកតាមរបៀបថ្មី ដោយនាំក្តីស្រលាញ់ថ្មីចូលក្នុងជីវិតរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានយកចិត្តទុកដាក់យ៉ាងជ្រៅ។"
+      },
+      "challenge": {
+        "en": "You may be learning to let others in emotionally. Allowing yourself to be vulnerable with a friend can deepen trust.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនឱ្យអ្នកដទៃចូលមកក្នុងចិត្ត។ ការអនុញ្ញាតឱ្យខ្លួនឯងងាយរងគ្រោះជាមួយមិត្ត អាចពង្រឹងការទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "The friendship could grow into a deep, heartfelt bond. Emotional openness may make it one of the most important in your life.",
+        "km": "មិត្តភាពនេះ អាចរីកចម្រើនទៅជាចំណងជ្រៅ និងចេញពីចិត្ត។ ការបើកចិត្តផ្នែកអារម្មណ៍ អាចធ្វើឱ្យវាក្លាយជាចំណងសំខាន់បំផុតមួយក្នុងជីវិតរបស់អ្នក។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "This friendship may be a true meeting of minds and hearts, built on mutual understanding. You could feel deeply connected.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាការជួបគ្នាពិតប្រាកដនៃគំនិត និងចិត្ត ដែលកសាងលើការយល់ដឹងគ្នាទៅវិញទៅមក។ អ្នកអាចមានអារម្មណ៍ភ្ជាប់គ្នាយ៉ាងជ្រៅ។"
+      },
+      "challenge": {
+        "en": "You may be learning what real mutual respect feels like. A friend who meets you as an equal can show you what to expect from others.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីអារម្មណ៍នៃការគោរពគ្នាទៅវិញទៅមកពិតប្រាកដ។ មិត្តដែលជួបអ្នកជាមនុស្សស្មើគ្នា អាចបង្ហាញអ្នកពីអ្វីដែលត្រូវរំពឹងពីអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "The friendship could become a lasting partnership of trust and care. Understanding each other this well may keep it strong through any change.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាភាពជាដៃគូស្ថិតស្ថេរនៃការទុកចិត្ត និងការយកចិត្តទុកដាក់។ ការយល់គ្នាបានល្អបែបនេះ អាចរក្សាវាឱ្យរឹងមាំឆ្លងកាត់ការផ្លាស់ប្តូរណាមួយ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "This friendship may be full of fun, laughter and shared celebrations. This friend could be part of a happy circle you love to be around.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាពោរពេញដោយភាពសប្បាយ សំណើច និងការអបអររួមគ្នា។ មិត្តនេះ អាចជាផ្នែកមួយនៃរង្វង់រីករាយដែលអ្នកចូលចិត្តនៅជុំវិញ។"
+      },
+      "challenge": {
+        "en": "You may be learning the joy of community and belonging. A friendship can be a source of pure happiness, not only of help in hard moments.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីសេចក្តីរីករាយនៃសហគមន៍ និងការជាផ្នែកមួយ។ មិត្តភាពអាចជាប្រភពនៃសុភមង្គលបរិសុទ្ធ មិនមែនតែជំនួយក្នុងពេលលំបាកទេ។"
+      },
+      "outcome": {
+        "en": "The friendship could keep bringing joy and connection into your life. Celebrations and laughter shared with this friend may become memories you treasure.",
+        "km": "មិត្តភាពនេះ អាចបន្តនាំសេចក្តីរីករាយ និងការភ្ជាប់ទំនាក់ទំនងចូលក្នុងជីវិតរបស់អ្នក។ ការអបអរ និងសំណើចដែលចែករំលែកជាមួយមិត្តនេះ អាចក្លាយជាអនុស្សាវរីយ៍ដែលអ្នកស្រលាញ់។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "This friendship may feel flat or taken for granted, with less spark than it once had. You could be unsure what it still offers.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍ស្ងាត់ស្ងៀម ឬត្រូវបានចាត់ទុកជារឿងធម្មតា ដោយមានភាពរស់រវើកតិចជាងមុន។ អ្នកអាចមិនប្រាកដថាវានៅតែផ្តល់អ្វី។"
+      },
+      "challenge": {
+        "en": "You may be learning not to overlook the friends who are already in your life. Noticing quiet gestures of care can rekindle appreciation.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនមិនមើលរំលងមិត្តដែលនៅក្នុងជីវិតរបស់អ្នករួចហើយ។ ការកត់សម្គាល់កាយវិការយកចិត្តទុកដាក់ស្ងាត់ៗ អាចបញ្ឆេះការកោតសរសើរឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Renewed attention could bring the friendship back to life. A simple invitation may remind you both why you became friends.",
+        "km": "ការយកចិត្តទុកដាក់ថ្មី អាចធ្វើឱ្យមិត្តភាពរស់ឡើងវិញ។ ការអញ្ជើញសាមញ្ញមួយ អាចរំលឹកអ្នកទាំងពីរពីមូលហេតុដែលអ្នកបានក្លាយជាមិត្ត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "This friendship may carry some sadness, perhaps a loss, a hurt or a falling-out. You could be mourning what it used to be.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានភាពសោកសៅខ្លះ ប្រហែលជាការបាត់បង់ ការឈឺចាប់ ឬការបែកបាក់។ អ្នកអាចកំពុងកាន់ទុក្ខអ្វីដែលវាធ្លាប់ជា។"
+      },
+      "challenge": {
+        "en": "You may be learning that some friendships bring grief as well as joy. Honouring what was lost can help you value what remains.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពខ្លះនាំមកនូវការសោកសៅ ក៏ដូចជាសេចក្តីរីករាយដែរ។ ការគោរពអ្វីដែលបានបាត់បង់ អាចជួយអ្នកឱ្យតម្លៃលើអ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Healing could bring a new kind of closeness, or peace in letting go. What remains of the friendship may still be precious.",
+        "km": "ការជាសះស្បើយ អាចនាំមកនូវភាពស្និទ្ធស្នាលប្រភេទថ្មី ឬសន្តិភាពក្នុងការបោះបង់។ អ្វីដែលនៅសល់នៃមិត្តភាពនេះ អាចនៅតែមានតម្លៃ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "This friendship may be rooted in shared history, perhaps from childhood or school. It could bring a comforting sense of familiarity.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាចាក់ឫសក្នុងប្រវត្តិរួម ប្រហែលជាតាំងពីកុមារភាព ឬសាលារៀន។ វាអាចនាំមកនូវអារម្មណ៍ស៊ាំ និងស្រួល។"
+      },
+      "challenge": {
+        "en": "You may be learning to appreciate old friends while letting them grow and change. Holding on to who you both were can limit who you are becoming.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនកោតសរសើរមិត្តចាស់ ខណៈឱ្យពួកគេរីកចម្រើន និងផ្លាស់ប្តូរ។ ការប្រកាន់ខ្ជាប់អ្វីដែលអ្នកទាំងពីរធ្លាប់ជា អាចកំណត់អ្វីដែលអ្នកកំពុងក្លាយជា។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a warm link to your roots. Laughing over shared memories may keep this friend close to your heart wherever life takes you.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាខ្សែភ្ជាប់កក់ក្តៅទៅកាន់ឫសគល់របស់អ្នក។ ការសើចលើអនុស្សាវរីយ៍រួមគ្នា អាចរក្សាមិត្តនេះឱ្យនៅជិតចិត្តរបស់អ្នក ទោះជីវិតនាំអ្នកទៅណាក៏ដោយ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "This friendship may be hard to read, with hopes, illusions or mixed feelings involved. You could be unsure which parts of it are real.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាពិបាកយល់ ដោយមានក្តីសង្ឃឹម ការបំភាន់ ឬអារម្មណ៍ចម្រុះពាក់ព័ន្ធ។ អ្នកអាចមិនប្រាកដថាផ្នែកណាខ្លះរបស់វាពិត។"
+      },
+      "challenge": {
+        "en": "You may be learning to see friends as they are, not as you wish them to be. Watching what a friend does, not only what they promise, can protect you.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនមើលឃើញមិត្តតាមអ្វីដែលពួកគេជា មិនមែនតាមអ្វីដែលអ្នកចង់ឱ្យពួកគេជាទេ។ ការមើលពីអ្វីដែលមិត្តធ្វើ មិនមែនតែអ្វីដែលពួកគេសន្យា អាចការពារអ្នក។"
+      },
+      "outcome": {
+        "en": "Seeing the friendship clearly could help you decide what it means to you. Expecting what this friend can really give may make it more rewarding.",
+        "km": "ការមើលឃើញមិត្តភាពយ៉ាងច្បាស់ អាចជួយអ្នកសម្រេចថាវាមានន័យយ៉ាងណាសម្រាប់អ្នក។ ការរំពឹងអ្វីដែលមិត្តនេះពិតជាអាចផ្តល់ អាចធ្វើឱ្យវាផ្តល់ផលល្អជាងមុន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "This friendship may be fading, or you may feel drawn away from it toward something more fulfilling. You could sense it has run its course.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាកំពុងរសាត់បាត់ ឬអ្នកអាចមានអារម្មណ៍ថាត្រូវបានទាញចេញពីវា ឆ្ពោះទៅរកអ្វីដែលបំពេញចិត្តជាង។ អ្នកអាចដឹងថាវាបានដល់ទីបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "You may be learning that it is all right to outgrow some friendships. Moving on with kindness can honour what you shared.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាវាមិនអីទេក្នុងការរីកចម្រើនហួសពីមិត្តភាពខ្លះ។ ការបន្តទៅមុខដោយសប្បុរស អាចគោរពអ្វីដែលអ្នកបានចែករំលែក។"
+      },
+      "outcome": {
+        "en": "Letting go gracefully could free you to find more fulfilling connections. Gratitude for what the friendship gave may stay with you as you move on.",
+        "km": "ការបោះបង់ដោយសុភាព អាចដោះលែងអ្នកឱ្យរកការភ្ជាប់ទំនាក់ទំនងដែលបំពេញចិត្តជាង។ ការដឹងគុណចំពោះអ្វីដែលមិត្តភាពនេះបានផ្តល់ អាចនៅជាមួយអ្នក។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "This friendship may bring contentment and simple happiness into your life. Time with this friend could feel easy and satisfying.",
+        "km": "មិត្តភាពនេះ ប្រហែលជានាំការពេញចិត្ត និងសុភមង្គលសាមញ្ញចូលក្នុងជីវិតរបស់អ្នក។ ពេលនៅជាមួយមិត្តនេះ អាចមានអារម្មណ៍ងាយស្រួល និងពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "You may be learning to appreciate easy, uncomplicated friendship. Not every bond has to be intense to be valuable.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនកោតសរសើរមិត្តភាពងាយស្រួល និងមិនស្មុគស្មាញ។ មិនមែនគ្រប់ចំណងត្រូវតែខ្លាំងក្លាដើម្បីមានតម្លៃនោះទេ។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a steady source of comfort and pleasure. Simple shared joys, like a meal or a chat, may keep it strong without effort.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាប្រភពនៃភាពស្រួល និងសេចក្តីរីករាយទៀងទាត់។ សេចក្តីរីករាយសាមញ្ញៗរួមគ្នា ដូចជាអាហារ ឬការជជែក អាចរក្សាវាឱ្យរឹងមាំដោយមិនចាំបាច់ខិតខំ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "This friendship may feel like family, with a deep sense of belonging and shared happiness. This friend could be part of your chosen family.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍ដូចគ្រួសារ ជាមួយអារម្មណ៍ជ្រៅនៃការជាផ្នែកមួយ និងសុភមង្គលរួម។ មិត្តនេះ អាចជាផ្នែកមួយនៃគ្រួសារដែលអ្នកជ្រើសរើស។"
+      },
+      "challenge": {
+        "en": "You may be learning that family can include the friends you choose. Treasuring these bonds can bring lasting fulfilment.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាគ្រួសារអាចរួមបញ្ចូលមិត្តដែលអ្នកជ្រើសរើស។ ការស្រលាញ់ចំណងទាំងនេះ អាចនាំមកនូវការពេញចិត្តស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "The friendship could become a lasting source of love and belonging. You may find this friend at your side for many of life's big moments.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃក្តីស្រលាញ់ និងការជាផ្នែកមួយស្ថិតស្ថេរ។ អ្នកអាចរកឃើញមិត្តនេះនៅក្បែរអ្នក ក្នុងព្រឹត្តិការណ៍ធំៗជាច្រើននៃជីវិត។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "This friendship may be gentle, creative and full of small kindnesses. This friend could bring out your sensitive, imaginative side.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាទន់ភ្លន់ ច្នៃប្រឌិត និងពោរពេញដោយភាពសប្បុរសតូចៗ។ មិត្តនេះ អាចទាញយកផ្នែករសើប និងស្រមៃរបស់អ្នកមកក្រៅ។"
+      },
+      "challenge": {
+        "en": "You may be learning to express your feelings more openly with friends. A gentle friend can make it safe to share what is in your heart.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនបញ្ចេញអារម្មណ៍របស់អ្នកដោយចំហជាមួយមិត្ត។ មិត្តទន់ភ្លន់ អាចធ្វើឱ្យមានសុវត្ថិភាពក្នុងការចែករំលែកអ្វីដែលនៅក្នុងចិត្តរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "The friendship could keep nurturing your creativity and emotional openness. Notes, small gifts and kind words passed between you may come to mean a great deal.",
+        "km": "មិត្តភាពនេះ អាចបន្តថែរក្សាការច្នៃប្រឌិត និងការបើកចិត្តផ្នែកអារម្មណ៍របស់អ្នក។ កំណត់ចំណាំ អំណោយតូចៗ និងពាក្យសប្បុរសដែលផ្លាស់ប្តូររវាងអ្នក អាចមានន័យច្រើន។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "This friendship may feel romantic in spirit, idealistic or full of heartfelt gestures. You could feel deeply moved by this friend.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានស្មារតីមនោសញ្ចេតនា ឧត្តមគតិ ឬពោរពេញដោយកាយវិការចេញពីចិត្ត។ អ្នកអាចមានអារម្មណ៍រំជួលចិត្តយ៉ាងជ្រៅដោយមិត្តនេះ។"
+      },
+      "challenge": {
+        "en": "You may be learning to balance idealism with reality in friendship. Admiring a friend is lovely, as long as you see them clearly.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថ្លឹងថ្លែងឧត្តមគតិជាមួយការពិតក្នុងមិត្តភាព។ ការកោតសរសើរមិត្តម្នាក់គឺល្អ ដរាបណាអ្នកមើលឃើញពួកគេយ៉ាងច្បាស់។"
+      },
+      "outcome": {
+        "en": "The friendship could bring beauty and inspiration into your life. Thoughtful gestures on both sides may keep it warm and sincere.",
+        "km": "មិត្តភាពនេះ អាចនាំភាពស្រស់ស្អាត និងការបំផុសគំនិតចូលក្នុងជីវិតរបស់អ្នក។ កាយវិការគិតគូរពីភាគីទាំងពីរ អាចរក្សាវាឱ្យកក់ក្តៅ និងស្មោះត្រង់។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "This friend may be deeply caring and intuitive, someone who understands your feelings. The friendship could feel emotionally safe.",
+        "km": "មិត្តនេះ ប្រហែលជាយកចិត្តទុកដាក់យ៉ាងជ្រៅ និងមានវិចារណញាណ ជាមនុស្សដែលយល់ពីអារម្មណ៍របស់អ្នក។ មិត្តភាពនេះ អាចមានអារម្មណ៍សុវត្ថិភាពផ្នែកអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "You may be learning to accept emotional support and offer it in return. Empathy flowing both ways can make a friendship deep.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនទទួលយកការគាំទ្រផ្នែកអារម្មណ៍ និងផ្តល់វាត្រឡប់វិញ។ ការយល់ចិត្តដែលហូរទាំងសងខាង អាចធ្វើឱ្យមិត្តភាពជ្រៅ។"
+      },
+      "outcome": {
+        "en": "The friendship could become a sanctuary of understanding and care. Its compassion may help you heal and grow.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាទីជម្រកនៃការយល់ដឹង និងការយកចិត្តទុកដាក់។ មេត្តាករុណារបស់វា អាចជួយអ្នកឱ្យជាសះស្បើយ និងរីកចម្រើន។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "This friend may be calm, wise and emotionally steady, someone you turn to for perspective. The friendship could feel grounding.",
+        "km": "មិត្តនេះ ប្រហែលជាស្ងប់ មានប្រាជ្ញា និងនឹងនរផ្នែកអារម្មណ៍ ជាមនុស្សដែលអ្នកងាកទៅរកសម្រាប់ទស្សនៈ។ មិត្តភាពនេះ អាចមានអារម្មណ៍ធ្វើឱ្យអ្នកនឹងនរ។"
+      },
+      "challenge": {
+        "en": "You may be learning emotional balance from this friend's example. Their calm can teach you to respond rather than react.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនតុល្យភាពផ្លូវចិត្តពីគំរូរបស់មិត្តនេះ។ ភាពស្ងប់របស់ពួកគេ អាចបង្រៀនអ្នកឱ្យឆ្លើយតប ជាជាងប្រតិកម្ម។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a steady anchor through life's ups and downs. This friend's calm, wise counsel may guide you through hard choices.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាយុថ្កានឹងនរឆ្លងកាត់ការឡើងចុះនៃជីវិត។ ដំបូន្មានស្ងប់ស្ងាត់ និងមានប្រាជ្ញារបស់មិត្តនេះ អាចណែនាំអ្នកឆ្លងកាត់ជម្រើសលំបាក។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "This friendship may be built on honesty, with a friend who tells you the truth. Their clarity could help you see things as they are.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាកសាងលើភាពស្មោះត្រង់ ជាមួយមិត្តដែលប្រាប់អ្នកពីការពិត។ ភាពច្បាស់លាស់របស់ពួកគេ អាចជួយអ្នកមើលឃើញអ្វីៗតាមអ្វីដែលវាជា។"
+      },
+      "challenge": {
+        "en": "You may be learning to value honest friends, even when the truth is hard to hear. Clear words from someone who cares can help you grow.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនឱ្យតម្លៃលើមិត្តស្មោះត្រង់ សូម្បីតែនៅពេលការពិតពិបាកស្តាប់។ ពាក្យសម្តីច្បាស់លាស់ពីនរណាម្នាក់ដែលយកចិត្តទុកដាក់ អាចជួយអ្នករីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "The friendship could become a source of clear, trustworthy advice. Honesty on both sides may keep it strong and real.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃដំបូន្មានច្បាស់លាស់ និងគួរឱ្យទុកចិត្ត។ ភាពស្មោះត្រង់ពីភាគីទាំងពីរ អាចរក្សាវាឱ្យរឹងមាំ និងពិតប្រាកដ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "This friendship may be at a standstill, with something unspoken keeping you apart. You could feel torn between reaching out and staying silent.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាស្ថិតនៅជាប់គាំង ដោយមានអ្វីមួយមិនបាននិយាយ ដែលរក្សាអ្នកឱ្យនៅឆ្ងាយពីគ្នា។ អ្នកអាចមានអារម្មណ៍ស្ទាក់ស្ទើររវាងការឈោងទៅរក និងការនៅស្ងៀម។"
+      },
+      "challenge": {
+        "en": "You may be learning that avoiding difficult conversations can freeze a friendship. Speaking honestly, even gently, can break the deadlock.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាការជៀសវាងការសន្ទនាលំបាក អាចធ្វើឱ្យមិត្តភាពកកជាប់។ ការនិយាយដោយស្មោះត្រង់ សូម្បីតែដោយទន់ភ្លន់ អាចបំបែកភាពជាប់គាំង។"
+      },
+      "outcome": {
+        "en": "Facing what lies between you could restore the friendship or show clearly where it stands. Either way, honesty may bring you peace of mind.",
+        "km": "ការប្រឈមមុខនឹងអ្វីដែលស្ថិតនៅចន្លោះអ្នក អាចស្តារមិត្តភាពនេះ ឬបង្ហាញយ៉ាងច្បាស់ពីជំហររបស់វា។ ទោះយ៉ាងណាក៏ដោយ ភាពស្មោះត្រង់អាចនាំមកនូវសន្តិភាពផ្លូវចិត្តដល់អ្នក។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "This friendship may carry hurt, perhaps from a betrayal, harsh words or a painful parting. You could still feel the sting.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានការឈឺចាប់ ប្រហែលជាពីការក្បត់ ពាក្យសម្តីធ្ងន់ ឬការបែកគ្នាដ៏ឈឺចាប់។ អ្នកអាចនៅតែមានអារម្មណ៍ឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "You may be learning that even good friendships can cause pain. Acknowledging the hurt honestly can be the first step toward healing or moving on.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាសូម្បីតែមិត្តភាពល្អ ក៏អាចបង្កការឈឺចាប់ដែរ។ ការទទួលស្គាល់ការឈឺចាប់ដោយស្មោះត្រង់ អាចជាជំហានដំបូងទៅរកការជាសះស្បើយ ឬការបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Healing could bring either reconciliation or a peaceful close. What the friendship taught you about trust may stay valuable whatever happens.",
+        "km": "ការជាសះស្បើយ អាចនាំមកនូវការផ្សះផ្សា ឬការបញ្ចប់ដោយសន្តិភាព។ អ្វីដែលមិត្តភាពនេះបានបង្រៀនអ្នកអំពីការទុកចិត្ត អាចនៅតែមានតម្លៃ ទោះអ្វីកើតឡើងក៏ដោយ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "This friendship may be in a quiet phase, resting after a busy or difficult stretch. You could be giving each other some space.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាស្ថិតក្នុងដំណាក់កាលស្ងាត់ កំពុងសម្រាកបន្ទាប់ពីដំណាក់កាលមមាញឹក ឬលំបាក។ អ្នកអាចកំពុងផ្តល់លំហដល់គ្នាទៅវិញទៅមក។"
+      },
+      "challenge": {
+        "en": "You may be learning that friendships can survive pauses and quiet spells. Not every bond needs constant contact to stay strong.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពអាចរស់រានមានជីវិតឆ្លងកាត់ការផ្អាក និងដំណាក់កាលស្ងាត់។ មិនមែនគ្រប់ចំណងត្រូវការការទាក់ទងជាប្រចាំដើម្បីនៅរឹងមាំនោះទេ។"
+      },
+      "outcome": {
+        "en": "A rested friendship could return with renewed warmth. Picking up where you left off after a pause may feel easier than you expect.",
+        "km": "មិត្តភាពដែលបានសម្រាក អាចត្រឡប់មកវិញជាមួយភាពកក់ក្តៅថ្មី។ ការបន្តពីកន្លែងដែលអ្នកបានឈប់ បន្ទាប់ពីការផ្អាក អាចមានអារម្មណ៍ងាយស្រួលជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "This friendship may have been strained by conflict or competition. You could feel that someone has been trying to win at your expense.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាត្រូវបានធ្វើឱ្យតានតឹងដោយជម្លោះ ឬការប្រកួតប្រជែង។ អ្នកអាចមានអារម្មណ៍ថានរណាម្នាក់បានព្យាយាមឈ្នះដោយចំណាយលើអ្នក។"
+      },
+      "challenge": {
+        "en": "You may be learning which friendships are worth fighting for and which are not. Walking away from a toxic rivalry can be wise.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពណាដែលសមនឹងតស៊ូ និងមួយណាមិនសម។ ការដើរចេញពីការប្រជែងដែលពុល អាចជាការឆ្លាតវៃ។"
+      },
+      "outcome": {
+        "en": "Choosing peace over winning could heal the friendship or free you from it. Either way, your self-respect may grow.",
+        "km": "ការជ្រើសរើសសន្តិភាពជាជាងការឈ្នះ អាចជួសជុលមិត្តភាពនេះ ឬរំដោះអ្នកពីវា។ ទោះយ៉ាងណាក៏ដោយ ការគោរពខ្លួនឯងរបស់អ្នកអាចកើនឡើង។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "This friendship may be helping you through a transition, carrying you toward calmer waters. You could feel grateful for this friend's steady support.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាកំពុងជួយអ្នកឆ្លងកាត់ការផ្លាស់ប្តូរ ដោយនាំអ្នកឆ្ពោះទៅរកទឹកស្ងប់ជាងមុន។ អ្នកអាចមានអារម្មណ៍ដឹងគុណចំពោះការគាំទ្រនឹងនររបស់មិត្តនេះ។"
+      },
+      "challenge": {
+        "en": "You may be learning how much a good friend can help during change. Accepting help on the journey can make it easier.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីរបៀបដែលមិត្តល្អអាចជួយបានច្រើនប៉ុណ្ណាក្នុងពេលផ្លាស់ប្តូរ។ ការទទួលយកជំនួយលើដំណើរ អាចធ្វើឱ្យវាងាយស្រួលជាងមុន។"
+      },
+      "outcome": {
+        "en": "The friendship could carry you both to a more peaceful place. Having travelled through change together may deepen the bond between you.",
+        "km": "មិត្តភាពនេះ អាចនាំអ្នកទាំងពីរទៅរកកន្លែងមានសន្តិភាពជាង។ ការបានធ្វើដំណើរឆ្លងកាត់ការផ្លាស់ប្តូរជាមួយគ្នា អាចពង្រឹងចំណងរវាងអ្នក។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "This friendship may involve some secrecy or mixed motives. You could sense that not everything is being shared openly.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាពាក់ព័ន្ធនឹងអាថ៌កំបាំងខ្លះ ឬចេតនាចម្រុះ។ អ្នកអាចដឹងថាមិនមែនអ្វីៗទាំងអស់ត្រូវបានចែករំលែកដោយចំហនោះទេ។"
+      },
+      "challenge": {
+        "en": "You may be learning to trust your instincts about who is genuine. Watching actions as well as words can show you who to rely on.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនទុកចិត្តលើសភាវគតិរបស់អ្នកអំពីអ្នកណាដែលស្មោះ។ ការមើលសកម្មភាព ក៏ដូចជាពាក្យសម្តី អាចបង្ហាញអ្នកថាអ្នកណាដែលអាចពឹងផ្អែកបាន។"
+      },
+      "outcome": {
+        "en": "Bringing things into the open could clarify what this friendship really is. Friends who stay honest with you may become more precious than ever.",
+        "km": "ការនាំអ្វីៗមកបើកចំហ អាចបញ្ជាក់ថាមិត្តភាពនេះពិតជាអ្វី។ មិត្តដែលនៅតែស្មោះត្រង់ជាមួយអ្នក អាចកាន់តែមានតម្លៃជាងពេលណាៗទាំងអស់។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "This friendship may feel restrictive, perhaps through expectations, guilt or pressure. You could feel trapped by it.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍រឹតត្បិត ប្រហែលជាតាមរយៈការរំពឹងទុក កំហុស ឬសម្ពាធ។ អ្នកអាចមានអារម្មណ៍ជាប់អន្ទាក់ដោយវា។"
+      },
+      "challenge": {
+        "en": "You may be learning that a healthy friendship should leave you free, not trapped. Setting boundaries can reveal whether it can change.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពដែលមានសុខភាពល្អ គួរតែទុកឱ្យអ្នកមានសេរីភាព មិនមែនជាប់អន្ទាក់ទេ។ ការកំណត់ព្រំដែន អាចបង្ហាញថាតើវាអាចផ្លាស់ប្តូរឬអត់។"
+      },
+      "outcome": {
+        "en": "Freeing yourself from unhealthy expectations could leave you lighter. The friendship may adjust to respect your limits, or make room for kinder ones.",
+        "km": "ការរំដោះខ្លួនពីការរំពឹងទុកមិនល្អ អាចធ្វើឱ្យអ្នកស្រាលជាងមុន។ មិត្តភាពនេះ អាចសម្របខ្លួនដើម្បីគោរពដែនកំណត់របស់អ្នក ឬបើកកន្លែងសម្រាប់មិត្តភាពសប្បុរសជាង។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "This friendship may be a source of worry, perhaps about where it stands or how a friend is doing. You could be losing sleep over it.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាប្រភពនៃការព្រួយបារម្ភ ប្រហែលជាអំពីជំហររបស់វា ឬស្ថានភាពរបស់មិត្ត។ អ្នកអាចកំពុងដេកមិនលក់ដោយសារវា។"
+      },
+      "challenge": {
+        "en": "You may be learning not to carry a friendship's worries alone. Talking openly with your friend, or with someone you trust, can ease anxiety.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនមិនទទួលបន្ទុកការព្រួយបារម្ភរបស់មិត្តភាពតែម្នាក់ឯង។ ការនិយាយដោយចំហជាមួយមិត្តរបស់អ្នក ឬជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត អាចបន្ធូរការថប់បារម្ភ។"
+      },
+      "outcome": {
+        "en": "Facing your worries honestly could bring relief and clarity. A frank, kind talk may show that the friendship is stronger than your fears suggested.",
+        "km": "ការប្រឈមមុខនឹងការព្រួយបារម្ភរបស់អ្នកដោយស្មោះត្រង់ អាចនាំមកនូវការធូរស្បើយ និងភាពច្បាស់លាស់។ ការនិយាយត្រង់ៗ និងសប្បុរស អាចបង្ហាញថាមិត្តភាពនេះរឹងមាំជាងអ្វីដែលការភ័យខ្លាចរបស់អ្នកបានបង្ហាញ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "This friendship may have reached a painful end, or feel at its lowest point. You could be grieving what has been lost.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានដល់ទីបញ្ចប់ដ៏ឈឺចាប់ ឬមានអារម្មណ៍ថាស្ថិតនៅចំណុចទាបបំផុត។ អ្នកអាចកំពុងកាន់ទុក្ខអ្វីដែលបានបាត់បង់។"
+      },
+      "challenge": {
+        "en": "You may be learning that some endings, though painful, make room for healing. Accepting a loss can be the first step toward peace.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាទីបញ្ចប់ខ្លះ ទោះបីឈឺចាប់ ក៏បើកកន្លែងសម្រាប់ការជាសះស្បើយ។ ការទទួលយកការបាត់បង់ អាចជាជំហានដំបូងទៅរកសន្តិភាព។"
+      },
+      "outcome": {
+        "en": "Reaching the bottom could mark a turning point, leading either to repair or to a clean, healing close. Lessons learned may serve you well.",
+        "km": "ការធ្លាក់ដល់បាត អាចជាចំណុចបង្វែរ ដែលនាំទៅរកការជួសជុល ឬការបញ្ចប់ដ៏ស្អាត និងជាសះស្បើយ។ មេរៀនដែលបានរៀន អាចបម្រើអ្នកបានល្អ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "This friend may be sharp, curious and full of questions, keeping you on your toes. The friendship could feel stimulating.",
+        "km": "មិត្តនេះ ប្រហែលជាមុតស្រួច ចង់ដឹង និងពោរពេញដោយសំណួរ ដែលរក្សាអ្នកឱ្យប្រុងប្រយ័ត្នជានិច្ច។ មិត្តភាពនេះ អាចមានអារម្មណ៍រំញោចគំនិត។"
+      },
+      "challenge": {
+        "en": "You may be learning to stay open to new ideas through a curious friend. Watch, though, for gossip that could harm trust.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀននៅបើកចំហចំពោះគំនិតថ្មីៗ តាមរយៈមិត្តដែលចង់ដឹង។ ប៉ុន្តែ សូមប្រយ័ត្នការនិយាយដើមដែលអាចបំផ្លាញការទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "The friendship could keep your mind active and engaged. Honest, lively conversations with this friend may be one of the things you value most about it.",
+        "km": "មិត្តភាពនេះ អាចរក្សាចិត្តរបស់អ្នកឱ្យសកម្ម និងចូលរួម។ ការសន្ទនាស្មោះត្រង់ និងរស់រវើកជាមួយមិត្តនេះ អាចជាអ្វីមួយដែលអ្នកឱ្យតម្លៃបំផុតអំពីវា។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "This friend may be quick-moving and outspoken, bringing energy and drive. The friendship could feel exciting but sometimes intense.",
+        "km": "មិត្តនេះ ប្រហែលជាផ្លាស់ទីរហ័ស និងនិយាយត្រង់ ដោយនាំថាមពល និងការតាំងចិត្ត។ មិត្តភាពនេះ អាចមានអារម្មណ៍គួរឱ្យរំភើប ប៉ុន្តែពេលខ្លះខ្លាំងក្លា។"
+      },
+      "challenge": {
+        "en": "You may be learning to keep up with a bold friend without losing yourself. Speaking up for your own pace can keep the friendship balanced.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនតាមមិត្តក្លាហាន ដោយមិនបាត់បង់ខ្លួនឯង។ ការនិយាយចេញអំពីល្បឿនរបស់អ្នក អាចរក្សាមិត្តភាពឱ្យមានតុល្យភាព។"
+      },
+      "outcome": {
+        "en": "The friendship could push you forward and bring adventure into your life. Respecting each other's limits may keep its energy positive.",
+        "km": "មិត្តភាពនេះ អាចរុញអ្នកទៅមុខ និងនាំការផ្សងព្រេងចូលក្នុងជីវិតរបស់អ្នក។ ការគោរពដែនកំណត់របស់គ្នាទៅវិញទៅមក អាចរក្សាថាមពលរបស់វាឱ្យវិជ្ជមាន។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "This friend may be clear-sighted and independent, someone who tells it as it is. The friendship could feel honest, if sometimes cool.",
+        "km": "មិត្តនេះ ប្រហែលជាមើលឃើញច្បាស់ និងឯករាជ្យ ជាមនុស្សដែលនិយាយតាមការពិត។ មិត្តភាពនេះ អាចមានអារម្មណ៍ស្មោះត្រង់ ទោះបីពេលខ្លះត្រជាក់។"
+      },
+      "challenge": {
+        "en": "You may be learning to value honesty and independence in friendship. A friend who respects your space can help you stand on your own.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនឱ្យតម្លៃលើភាពស្មោះត្រង់ និងឯករាជ្យភាពក្នុងមិត្តភាព។ មិត្តដែលគោរពលំហរបស់អ្នក អាចជួយអ្នកឈរដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "The friendship could become a source of clear advice and mutual respect. A friend this honest may help you see your own life more wisely.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃដំបូន្មានច្បាស់លាស់ និងការគោរពគ្នាទៅវិញទៅមក។ មិត្តដែលស្មោះត្រង់បែបនេះ អាចជួយអ្នកមើលជីវិតរបស់អ្នកដោយប្រាជ្ញាជាងមុន។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "This friend may be wise and logical, someone you turn to for sound advice. The friendship could feel grounded in respect.",
+        "km": "មិត្តនេះ ប្រហែលជាមានប្រាជ្ញា និងមានតក្កវិជ្ជា ជាមនុស្សដែលអ្នកងាកទៅរកដំបូន្មានល្អ។ មិត្តភាពនេះ អាចមានអារម្មណ៍ចាក់ឫសក្នុងការគោរព។"
+      },
+      "challenge": {
+        "en": "You may be learning the value of clear thinking and fairness from this friend. Their guidance can help you make wiser choices.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីតម្លៃនៃការគិតច្បាស់លាស់ និងយុត្តិធម៌ពីមិត្តនេះ។ ការណែនាំរបស់ពួកគេ អាចជួយអ្នកធ្វើជម្រើសឆ្លាតវៃជាងមុន។"
+      },
+      "outcome": {
+        "en": "The friendship could become a trusted source of counsel when choices are hard. Respecting each other's judgement may keep it strong through disagreements.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពដំបូន្មានដែលគួរឱ្យទុកចិត្ត នៅពេលជម្រើសលំបាក។ ការគោរពការវិនិច្ឆ័យរបស់គ្នាទៅវិញទៅមក អាចរក្សាវាឱ្យរឹងមាំឆ្លងកាត់ការខ្វែងគំនិត។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "This friendship may bring practical benefits, such as help, opportunities or a steady presence. This friend could make your daily life better.",
+        "km": "មិត្តភាពនេះ ប្រហែលជានាំផលប្រយោជន៍ជាក់ស្តែង ដូចជាជំនួយ ឱកាស ឬវត្តមាននឹងនរ។ មិត្តនេះ អាចធ្វើឱ្យជីវិតប្រចាំថ្ងៃរបស់អ្នកប្រសើរឡើង។"
+      },
+      "challenge": {
+        "en": "You may be learning that friendship can be grounded in practical care as well as feelings. Showing up in small, useful ways can build trust.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពអាចចាក់ឫសក្នុងការយកចិត្តទុកដាក់ជាក់ស្តែង ក៏ដូចជាអារម្មណ៍ដែរ។ ការមកជួយតាមរបៀបតូចៗ និងមានប្រយោជន៍ អាចកសាងការទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "The friendship could grow into a solid, dependable bond. Helping each other with practical things, like moves or errands, may make it one that lasts.",
+        "km": "មិត្តភាពនេះ អាចរីកចម្រើនទៅជាចំណងរឹងមាំ និងអាចទុកចិត្តបាន។ ការជួយគ្នាទៅវិញទៅមកលើរឿងជាក់ស្តែង ដូចជាការផ្លាស់ទីលំនៅ ឬការរត់ការ អាចធ្វើឱ្យវាក្លាយជាចំណងដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "This friendship may be one you juggle alongside many other demands. You could find it hard to give it the attention you would like.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមិត្តភាពដែលអ្នកចាត់ចែងស្របជាមួយតម្រូវការជាច្រើនផ្សេងទៀត។ អ្នកអាចពិបាកផ្តល់ការយកចិត្តទុកដាក់ដែលអ្នកចង់ផ្តល់ដល់វា។"
+      },
+      "challenge": {
+        "en": "You may be learning to make room for the friends who matter amid a busy life. Small, regular contact can keep a bond alive.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនទុកកន្លែងសម្រាប់មិត្តដែលសំខាន់ ក្នុងចំណោមជីវិតមមាញឹក។ ការទាក់ទងតូចៗ និងទៀងទាត់ អាចរក្សាចំណងឱ្យរស់។"
+      },
+      "outcome": {
+        "en": "Balancing the friendship with other commitments could keep it steady. Easygoing contact that fits both your lives may suit you better than big plans.",
+        "km": "ការថ្លឹងថ្លែងមិត្តភាពជាមួយការប្តេជ្ញាចិត្តផ្សេងទៀត អាចរក្សាវាឱ្យនឹងនរ។ ការទាក់ទងងាយស្រួលដែលសមនឹងជីវិតរបស់អ្នកទាំងពីរ អាចសមនឹងអ្នកជាងផែនការធំៗ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "This friendship may be built through working together, perhaps at school, work or a shared project. You could feel a strong sense of teamwork.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាត្រូវបានកសាងតាមរយៈការធ្វើការជាមួយគ្នា ប្រហែលជានៅសាលារៀន កន្លែងធ្វើការ ឬគម្រោងរួម។ អ្នកអាចមានអារម្មណ៍ខ្លាំងនៃការងារជាក្រុម។"
+      },
+      "challenge": {
+        "en": "You may be learning how shared effort can build lasting bonds. Respecting what each of you brings to the work can deepen the friendship beyond it.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនពីរបៀបដែលការខិតខំរួមគ្នា អាចកសាងចំណងស្ថិតស្ថេរ។ ការគោរពអ្វីដែលម្នាក់ៗនាំមកក្នុងការងារ អាចពង្រឹងមិត្តភាពហួសពីការងារនោះ។"
+      },
+      "outcome": {
+        "en": "The friendship could grow beyond its working roots into something personal. Making and building things together may keep you close.",
+        "km": "មិត្តភាពនេះ អាចរីកចម្រើនហួសពីឫសគល់ការងាររបស់វា ទៅជាអ្វីដែលផ្ទាល់ខ្លួន។ ការបង្កើត និងកសាងអ្វីៗជាមួយគ្នា អាចរក្សាអ្នកឱ្យនៅជិតគ្នា។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "This friendship may involve holding on tightly, perhaps through possessiveness or fear of losing it. You could feel anxious about its security.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាពាក់ព័ន្ធនឹងការកាន់យ៉ាងតឹង ប្រហែលជាតាមរយៈការចង់កាន់កាប់ ឬការភ័យខ្លាចបាត់បង់វា។ អ្នកអាចមានអារម្មណ៍ថប់បារម្ភអំពីសុវត្ថិភាពរបស់វា។"
+      },
+      "challenge": {
+        "en": "You may be learning that true friendship thrives on freedom, not control. Loosening your grip can let the bond breathe.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពពិតរីកចម្រើនលើសេរីភាព មិនមែនការគ្រប់គ្រងទេ។ ការបន្ធូរការក្តាប់របស់អ្នក អាចឱ្យចំណងដកដង្ហើមបាន។"
+      },
+      "outcome": {
+        "en": "Trusting the friendship to hold on its own could make it stronger. Giving each other space may deepen your bond rather than weaken it.",
+        "km": "ការទុកចិត្តថាមិត្តភាពអាចនៅជាប់ដោយខ្លួនឯង អាចធ្វើឱ្យវាកាន់តែរឹងមាំ។ ការផ្តល់លំហដល់គ្នាទៅវិញទៅមក អាចពង្រឹងចំណងរបស់អ្នក ជាជាងធ្វើឱ្យវាចុះខ្សោយ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "This friendship may have stood by you through hardship, or be going through a hard patch itself. You could feel its strength tested.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានឈរក្បែរអ្នកឆ្លងកាត់ការលំបាក ឬកំពុងឆ្លងកាត់ដំណាក់កាលលំបាកខ្លួនឯង។ អ្នកអាចមានអារម្មណ៍ថាកម្លាំងរបស់វាត្រូវបានសាកល្បង។"
+      },
+      "challenge": {
+        "en": "You may be learning who your true friends are when things get difficult. Leaning on each other through hardship can forge lasting bonds.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាអ្នកណាជាមិត្តពិតរបស់អ្នក នៅពេលអ្វីៗពិបាក។ ការពឹងផ្អែកលើគ្នាទៅវិញទៅមកឆ្លងកាត់ការលំបាក អាចបង្កើតចំណងស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "Coming through hardship together could make the friendship one of your strongest. Having seen each other at your lowest may bring a deep, lasting trust.",
+        "km": "ការឆ្លងកាត់ការលំបាកជាមួយគ្នា អាចធ្វើឱ្យមិត្តភាពនេះក្លាយជាមិត្តភាពរឹងមាំបំផុតមួយរបស់អ្នក។ ការបានឃើញគ្នាទៅវិញទៅមកនៅពេលទាបបំផុត អាចនាំមកនូវការទុកចិត្តយ៉ាងជ្រៅ និងស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "This friendship may be marked by generosity, with help and kindness flowing between you. You could feel supported and valued.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាត្រូវបានសម្គាល់ដោយភាពសប្បុរស ដោយជំនួយ និងភាពសប្បុរសហូររវាងអ្នក។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានគាំទ្រ និងឱ្យតម្លៃ។"
+      },
+      "challenge": {
+        "en": "You may be learning about balance in giving and receiving. A friendship where only one side gives can become strained, so let your friend help you too.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនអំពីតុល្យភាពក្នុងការផ្តល់ និងការទទួល។ មិត្តភាពដែលមានតែភាគីម្ខាងផ្តល់ អាចក្លាយជាតានតឹង ដូច្នេះសូមឱ្យមិត្តរបស់អ្នកជួយអ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a source of mutual support and generosity. Kindness flowing freely in both directions may keep it warm and fair.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាប្រភពនៃការគាំទ្រគ្នាទៅវិញទៅមក និងភាពសប្បុរស។ ភាពសប្បុរសដែលហូរដោយសេរីទាំងសងខាង អាចរក្សាវាឱ្យកក់ក្តៅ និងយុត្តិធម៌។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "This friendship may have grown slowly and steadily, built through patient effort. You could feel it has deep roots.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានរីកចម្រើនយឺតៗ និងទៀងទាត់ ដែលកសាងតាមរយៈការខិតខំដោយអត់ធ្មត់។ អ្នកអាចមានអារម្មណ៍ថាវាមានឫសជ្រៅ។"
+      },
+      "challenge": {
+        "en": "You may be learning that the best friendships often grow gradually. Patience and steady care can bring rich rewards.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពល្អបំផុត ច្រើនតែរីកចម្រើនបន្តិចម្តងៗ។ ការអត់ធ្មត់ និងការយកចិត្តទុកដាក់ទៀងទាត់ អាចនាំមកនូវរង្វាន់សម្បូរបែប។"
+      },
+      "outcome": {
+        "en": "The friendship could keep growing deeper with care. The patience and attention you have invested may come back as a bond you can always rely on.",
+        "km": "មិត្តភាពនេះ អាចបន្តកាន់តែជ្រៅជាមួយការយកចិត្តទុកដាក់។ ការអត់ធ្មត់ និងការយកចិត្តទុកដាក់ដែលអ្នកបានវិនិយោគ អាចត្រឡប់មកវិញជាចំណងដែលអ្នកអាចពឹងផ្អែកជានិច្ច។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "This friendship may be built on reliability and effort, with both of you showing up for each other. You could value its steadiness.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាកសាងលើភាពអាចទុកចិត្តបាន និងការខិតខំ ដោយអ្នកទាំងពីរមកជួយគ្នាទៅវិញទៅមក។ អ្នកអាចឱ្យតម្លៃលើភាពនឹងនររបស់វា។"
+      },
+      "challenge": {
+        "en": "You may be learning that friendship, like any skill, grows with practice. Making the effort to stay in touch can keep it strong.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាព ដូចជាជំនាញណាមួយ រីកចម្រើនជាមួយការអនុវត្ត។ ការខិតខំរក្សាទំនាក់ទំនង អាចរក្សាវាឱ្យរឹងមាំ។"
+      },
+      "outcome": {
+        "en": "The friendship could become one of the most dependable in your life. Keeping up small habits of contact may help it last.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាមិត្តភាពដែលអាចទុកចិត្តបានបំផុតមួយក្នុងជីវិតរបស់អ្នក។ ការរក្សាទម្លាប់តូចៗនៃការទាក់ទង អាចជួយឱ្យវាស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "This friendship may feel comfortable and secure, with a friend who respects your independence. You could enjoy each other's company without pressure.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍ស្រួល និងមានសុវត្ថិភាព ជាមួយមិត្តដែលគោរពឯករាជ្យភាពរបស់អ្នក។ អ្នកអាចរីករាយនឹងវត្តមានរបស់គ្នាដោយគ្មានសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "You may be learning that friendship can support independence rather than threaten it. A secure friend can help you feel confident on your own.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនថាមិត្តភាពអាចគាំទ្រឯករាជ្យភាព ជាជាងគំរាមកំហែងវា។ មិត្តដែលមានសុវត្ថិភាព អាចជួយអ្នកឱ្យមានអារម្មណ៍ទំនុកចិត្តដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a comfortable, enriching part of your life. Respecting each other's independence may keep it relaxed and free of strain.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាផ្នែកស្រួល និងធ្វើឱ្យជីវិតរបស់អ្នកសម្បូរបែប។ ការគោរពឯករាជ្យភាពរបស់គ្នាទៅវិញទៅមក អាចរក្សាវាឱ្យធូរស្រាល និងគ្មានភាពតានតឹង។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "This friendship may feel deeply established, perhaps reaching back to childhood or linking your families. It could be part of your foundation.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍រឹងមាំយ៉ាងជ្រៅ ប្រហែលជាតាំងពីកុមារភាព ឬភ្ជាប់គ្រួសាររបស់អ្នក។ វាអាចជាផ្នែកមួយនៃមូលដ្ឋានរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "You may be learning to treasure friendships that have stood the test of change. Long bonds can offer a rare kind of security.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនស្រលាញ់មិត្តភាពដែលបានឆ្លងកាត់ការសាកល្បងនៃការផ្លាស់ប្តូរ។ ចំណងយូរអង្វែង អាចផ្តល់សុវត្ថិភាពប្រភេទកម្រ។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a lasting part of your life and even your family's. Its roots may keep growing deeper as each of you changes.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាផ្នែកស្ថិតស្ថេរនៃជីវិតរបស់អ្នក និងសូម្បីតែគ្រួសាររបស់អ្នក។ ឫសរបស់វា អាចបន្តកាន់តែជ្រៅ ខណៈអ្នកម្នាក់ៗផ្លាស់ប្តូរ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "This friendship may be new and full of promise, with much still to learn about each other. You could feel curious about where it may go.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាថ្មី និងពោរពេញដោយការសន្យា ដោយនៅមានរឿងជាច្រើនដែលត្រូវរៀនអំពីគ្នាទៅវិញទៅមក។ អ្នកអាចមានអារម្មណ៍ចង់ដឹងពីកន្លែងដែលវាអាចទៅ។"
+      },
+      "challenge": {
+        "en": "You may be learning to invest patiently in new friendships. Getting to know someone step by step can build a strong foundation.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនវិនិយោគដោយអត់ធ្មត់ក្នុងមិត្តភាពថ្មី។ ការស្គាល់នរណាម្នាក់មួយជំហានម្តងៗ អាចកសាងមូលដ្ឋានរឹងមាំ។"
+      },
+      "outcome": {
+        "en": "The friendship could grow into something solid and rewarding. Small, steady gestures of care may help it flourish into a bond you count on.",
+        "km": "មិត្តភាពនេះ អាចរីកចម្រើនទៅជាអ្វីដែលរឹងមាំ និងផ្តល់ផលល្អ។ កាយវិការយកចិត្តទុកដាក់តូចៗ និងទៀងទាត់ អាចជួយវាឱ្យរីកចម្រើនទៅជាចំណងដែលអ្នកពឹងផ្អែក។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "This friend may be dependable and steady, someone who is always there. The friendship could feel safe and reliable.",
+        "km": "មិត្តនេះ ប្រហែលជាអាចទុកចិត្តបាន និងនឹងនរ ជាមនុស្សដែលតែងតែនៅទីនោះ។ មិត្តភាពនេះ អាចមានអារម្មណ៍សុវត្ថិភាព និងអាចទុកចិត្តបាន។"
+      },
+      "challenge": {
+        "en": "You may be learning to value quiet reliability over excitement. A steady friend can be one of life's greatest gifts.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនឱ្យតម្លៃលើភាពអាចទុកចិត្តបានស្ងាត់ៗ ជាជាងភាពរំភើប។ មិត្តនឹងនរ អាចជាអំណោយធំបំផុតមួយនៃជីវិត។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a constant through life's changes. Knowing this friend will be there may be a quiet comfort you carry everywhere.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាអ្វីដែលមិនប្រែប្រួលឆ្លងកាត់ការផ្លាស់ប្តូរនៃជីវិត។ ការដឹងថាមិត្តនេះនឹងនៅទីនោះ អាចជាភាពស្រួលស្ងាត់ៗដែលអ្នកយកទៅគ្រប់ទីកន្លែង។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "This friend may be nurturing and practical, someone who looks after you in tangible ways. The friendship could feel like a warm, safe haven.",
+        "km": "មិត្តនេះ ប្រហែលជាថែទាំ និងជាក់ស្តែង ជាមនុស្សដែលមើលថែអ្នកតាមរបៀបរូបី។ មិត្តភាពនេះ អាចមានអារម្មណ៍ដូចជាជម្រកកក់ក្តៅ និងមានសុវត្ថិភាព។"
+      },
+      "challenge": {
+        "en": "You may be learning to accept practical care without feeling you owe something in return. Letting a friend help can be a gift to them too.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនទទួលយកការយកចិត្តទុកដាក់ជាក់ស្តែង ដោយមិនមានអារម្មណ៍ថាអ្នកជំពាក់អ្វីមួយ។ ការអនុញ្ញាតឱ្យមិត្តជួយ អាចជាអំណោយសម្រាប់ពួកគេផងដែរ។"
+      },
+      "outcome": {
+        "en": "The friendship could remain a source of comfort and practical support. Taking turns caring for each other may keep it close and warm whatever life brings.",
+        "km": "មិត្តភាពនេះ អាចនៅតែជាប្រភពនៃភាពស្រួល និងការគាំទ្រជាក់ស្តែង។ ការផ្លាស់វេនមើលថែគ្នាទៅវិញទៅមក អាចរក្សាវាឱ្យជិតស្និទ្ធ និងកក់ក្តៅ ទោះជីវិតនាំមកអ្វីក៏ដោយ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "This friend may be generous, successful and steady, someone who offers security. The friendship could feel grounding and supportive.",
+        "km": "មិត្តនេះ ប្រហែលជាចិត្តទូលាយ ជោគជ័យ និងនឹងនរ ជាមនុស្សដែលផ្តល់សុវត្ថិភាព។ មិត្តភាពនេះ អាចមានអារម្មណ៍ធ្វើឱ្យនឹងនរ និងគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "You may be learning about generosity and stability from this friend's example. Their steadiness can show you how to build your own security.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនអំពីភាពសប្បុរស និងស្ថិរភាពពីគំរូរបស់មិត្តនេះ។ ភាពនឹងនររបស់ពួកគេ អាចបង្ហាញអ្នកពីរបៀបកសាងសុវត្ថិភាពផ្ទាល់ខ្លួនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "The friendship could become a lasting source of support and wise counsel. Generosity flowing both ways may keep it strong and balanced.",
+        "km": "មិត្តភាពនេះ អាចក្លាយជាប្រភពនៃការគាំទ្រ និងដំបូន្មានប្រកបដោយប្រាជ្ញាស្ថិតស្ថេរ។ ភាពសប្បុរសដែលហូរទាំងសងខាង អាចរក្សាវាឱ្យរឹងមាំ និងមានតុល្យភាព។"
+      }
+    }
+  }
+}
