@@ -6,6 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
+- Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
 - Web layout polish: home actions above feature icons, one-language tagline, compact desktop framing, smaller result cards with the overall answer leading the reading column.
 - UX refinement: shorter responsive welcome, docked phone actions (scrolling fallback for short screens/large text), readable questions and full-width reading text, mobile Back, desktop time/draw layouts, and local language/reading recovery with a resume action. ESLint configured and animation ref errors resolved.
@@ -27,14 +28,17 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ### Next
 1. "12 Animal Years" and "About" pages: the design's desktop header links to them; left out until the pages exist.
 2. Verify native iOS/Android layouts, text scaling, and local storage in a development build
+3. Review the LF-01 saved-reading pilot, then expand to LF-02 and the remaining 98 questions; see docs/READING_CONTENT.md.
 
 ### Waiting on the team
+- English editorial and native Khmer review of the 234 bilingual LF-01 interpretations, including their fit with the existing summary and connecting templates. These are AI-authored drafts enabled for preview, not certified translations.
 - Native Khmer review of all content, including the new answer and per-kind reading templates (templates.json: kinds, answers, arc, outlook, and the topic-framed card lines in parts), and the new interface strings from the screens design (step names, intro, nav, feature labels)
 - Final sign-off on card artwork (all 78 imported; title band shows the reading language only, the template shows English over Khmer)
 - Legal review of disclaimer, privacy and terms, then fill src/content/legal.json `values` (company, contact email, minimum age, effective date)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-23: Added the offline LF-01 reading pilot: 78 cards × 3 positions = 234 AI-authored bilingual interpretations in src/content/readings/LF-01.json (about 129 KB). Wired question/card/position/language lookup into the pure engine and overall answer, retaining generic fallback for the other 99 questions. Added authoring/review documentation and 22,464 selection cases plus fallback/regression checks. Content/persistence checks, typecheck and lint pass. English editorial and native Khmer review remain pending; no visual/device verification in this batch.
 - 2026-10-23: Desktop: today's balance moved into the site header as three gold dots and a short label ("2 left today", or "New in 4 h 42 min" linking to the limit screen); the balance line is gone from desktop home and the result. Phone keeps the line on home, draw and result. New strings balanceShort / balanceNone need Khmer review. Checked on web in English and Khmer; typecheck, checks and lint pass
 - 2026-10-23: The daily balance now shows on home, the result and the full reading ("2 of 3 readings left today", or "No readings left today · new ones in 4 h 50 min"), not only on the draw step. With none left, Start a new reading and Ask another question go straight to the come-back-tomorrow screen (/limit) instead of letting people pick a birth year, topic and time frame first; the reading in progress is kept. Tested on web; typecheck, checks and lint pass
 - 2026-10-23: Added a daily limit of 3 readings per device: each deal (Shuffle again included) uses one, counted in secure storage (expo-secure-store, browser storage on web) and reset at local midnight; a "N of 3 readings left today" line on the draw step, Shuffle again disabled at the last one, and a "Today's readings are done" screen with a countdown. Privacy notice updated to mention the count. New strings need Khmer review. Tested the full 3-deal flow on web; typecheck, checks (incl. new limit tests) and lint pass

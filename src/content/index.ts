@@ -4,9 +4,11 @@ import topics from './topics.json';
 import templates from './templates.json';
 import uiStrings from './ui-strings.json';
 import legalText from './legal.json';
-import type { Content } from '../engine/types.ts';
+import lifePath from './readings/LF-01.json';
+import type { Content, QuestionReading } from '../engine/types.ts';
 
-export const content = { cards, zodiac, topics, templates } as unknown as Content;
+const questionReadings = { 'LF-01': lifePath } satisfies Record<string, QuestionReading>;
+export const content = { cards, zodiac, topics, templates, questionReadings } as unknown as Content;
 export { uiStrings };
 
 type Lang = 'en' | 'km';

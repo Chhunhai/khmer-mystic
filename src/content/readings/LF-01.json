@@ -1,0 +1,1097 @@
+{
+  "questionId": "LF-01",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Your path is at a beginning. You have room to explore before deciding which direction deserves your commitment.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងស្ថិតនៅចំណុចចាប់ផ្តើម។ អ្នកមានឱកាសស្វែងយល់ មុននឹងសម្រេចថាត្រូវប្តេជ្ញាដើរតាមទិសដៅណា។"
+      },
+      "challenge": {
+        "en": "A fresh start may feel more exciting than the preparation it needs. Check the ground before taking your next step.",
+        "km": "ការចាប់ផ្តើមថ្មីអាចធ្វើឱ្យអ្នករំភើបរហូតភ្លេចការត្រៀមខ្លួន។ សូមពិនិត្យស្ថានភាព មុននឹងបោះជំហានបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "This path could open a new chapter through experience. A small, considered adventure can teach you more about what suits you.",
+        "km": "ផ្លូវនេះអាចបើកទំព័រថ្មីតាមរយៈបទពិសោធន៍។ ការសាកល្បងតូចមួយដោយគិតគូរ អាចជួយឱ្យអ្នកយល់ថាអ្វីសមនឹងខ្លួន។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Your path calls for using what you already know. Skills, ideas and available resources give you a practical starting point.",
+        "km": "ផ្លូវរបស់អ្នកទាមទារឱ្យប្រើអ្វីដែលអ្នកចេះស្រាប់។ ជំនាញ គំនិត និងធនធានដែលមាន ផ្តល់ចំណុចចាប់ផ្តើមជាក់ស្តែងដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Too many directions could scatter your effort. Choose one meaningful aim so your abilities have somewhere clear to go.",
+        "km": "ទិសដៅច្រើនពេកអាចធ្វើឱ្យការខិតខំរបស់អ្នកខ្ចាត់ខ្ចាយ។ សូមជ្រើសគោលដៅមានន័យមួយ ដើម្បីប្រើសមត្ថភាពរបស់អ្នកឱ្យចំទិស។"
+      },
+      "outcome": {
+        "en": "Focused action could turn this stage into visible progress. What you practice and finish matters more than what you only imagine.",
+        "km": "សកម្មភាពដែលមានការផ្តោតអារម្មណ៍ អាចធ្វើឱ្យដំណាក់កាលនេះមានការរីកចម្រើនច្បាស់លាស់។ អ្វីដែលអ្នកអនុវត្តនិងបញ្ចប់ សំខាន់ជាងអ្វីដែលគ្រាន់តែស្រមៃ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Your path is quieter than it looks from outside. Reflection can help you notice feelings you have not yet put into words.",
+        "km": "ផ្លូវរបស់អ្នកមានភាពស្ងប់ស្ងាត់ជាងអ្វីដែលអ្នកដទៃមើលឃើញ។ ការពិចារណាអាចជួយឱ្យអ្នកស្គាល់អារម្មណ៍ដែលមិនទាន់អាចនិយាយចេញបាន។"
+      },
+      "challenge": {
+        "en": "You may want certainty before the full picture is available. Give yourself time, and check impressions against what you can observe.",
+        "km": "អ្នកអាចចង់បានភាពប្រាកដប្រជា ខណៈដែលព័ត៌មានមិនទាន់គ្រប់គ្រាន់។ សូមទុកពេលឱ្យខ្លួន ហើយផ្ទៀងផ្ទាត់អារម្មណ៍ជាមួយអ្វីដែលអ្នកអាចសង្កេតឃើញ។"
+      },
+      "outcome": {
+        "en": "Patient observation could make your direction clearer. You may understand your next step once overlooked details have had time to emerge.",
+        "km": "ការសង្កេតដោយអត់ធ្មត់អាចធ្វើឱ្យទិសដៅរបស់អ្នកច្បាស់ឡើង។ អ្នកអាចយល់ពីជំហានបន្ទាប់ នៅពេលព័ត៌មានដែលធ្លាប់រំលងចាប់ផ្តើមលេចឡើង។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Your path is growing through care rather than force. The relationships, routines and ideas you nurture are shaping this stage of life.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងរីកចម្រើនតាមរយៈការថែទាំ ជាជាងការបង្ខំ។ ទំនាក់ទំនង ទម្លាប់ និងគំនិតដែលអ្នកថែរក្សា កំពុងកំណត់ដំណាក់កាលជីវិតនេះ។"
+      },
+      "challenge": {
+        "en": "Caring for everything around you may leave little energy for yourself. Your own needs also deserve a place on this path.",
+        "km": "ការថែទាំអ្វីៗជុំវិញខ្លួនអាចធ្វើឱ្យអ្នកសល់កម្លាំងតិចសម្រាប់ខ្លួនឯង។ តម្រូវការរបស់អ្នកក៏សមនឹងទទួលការយកចិត្តទុកដាក់លើផ្លូវនេះដែរ។"
+      },
+      "outcome": {
+        "en": "Consistent care could make your daily life more nourishing. Allow worthwhile things to grow at their own pace.",
+        "km": "ការថែទាំជាប់លាប់អាចធ្វើឱ្យជីវិតប្រចាំថ្ងៃរបស់អ្នកកាន់តែពេញលេញ។ សូមទុកឱ្យអ្វីដែលមានតម្លៃរីកចម្រើនតាមល្បឿនរបស់វា។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Your path needs a clear foundation. Steady routines and responsibility can help you turn an uncertain direction into something manageable.",
+        "km": "ផ្លូវរបស់អ្នកត្រូវការគ្រឹះច្បាស់លាស់។ ទម្លាប់ទៀងទាត់ និងការទទួលខុសត្រូវ អាចជួយឱ្យទិសដៅមិនប្រាកដប្រជាក្លាយជាអ្វីដែលអាចគ្រប់គ្រងបាន។"
+      },
+      "challenge": {
+        "en": "Trying to control every step could make your path too rigid. Keep useful structure while allowing other people and new information to matter.",
+        "km": "ការព្យាយាមគ្រប់គ្រងគ្រប់ជំហានអាចធ្វើឱ្យផ្លូវរបស់អ្នករឹងតឹងពេក។ សូមរក្សារបៀបរៀបចំដែលមានប្រយោជន៍ ហើយទទួលយកមតិអ្នកដទៃនិងព័ត៌មានថ្មី។"
+      },
+      "outcome": {
+        "en": "A dependable foundation could support your next stage. Progress may come from commitments you can sustain rather than dramatic changes.",
+        "km": "គ្រឹះរឹងមាំអាចគាំទ្រដំណាក់កាលបន្ទាប់របស់អ្នក។ ការរីកចម្រើនអាចមកពីការប្តេជ្ញាដែលអ្នកអាចរក្សាបាន ជាជាងការផ្លាស់ប្តូរធំៗ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Your path is being shaped by what you have learned from others. A trusted teacher or familiar practice may offer useful direction.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងត្រូវបានកំណត់ដោយអ្វីដែលបានរៀនពីអ្នកដទៃ។ គ្រូដែលអ្នកទុកចិត្ត ឬការអនុវត្តដែលធ្លាប់ស្គាល់ អាចផ្តល់ទិសដៅមានប្រយោជន៍។"
+      },
+      "challenge": {
+        "en": "An inherited rule may no longer fit your life. Ask whether you are following it from conviction or simply from habit.",
+        "km": "ច្បាប់ដែលអ្នកទទួលបន្តពីមុនអាចលែងសមនឹងជីវិតបច្ចុប្បន្ន។ សូមសួរខ្លួនថា អ្នកធ្វើតាមដោយជឿជាក់ ឬគ្រាន់តែដោយទម្លាប់។"
+      },
+      "outcome": {
+        "en": "Guidance that matches your values could help you feel more grounded. Keep learning while making the path your own.",
+        "km": "ការណែនាំដែលស្របនឹងគុណតម្លៃរបស់អ្នក អាចជួយឱ្យអ្នកមានភាពនឹងនរជាងមុន។ សូមបន្តរៀន ហើយកសាងផ្លូវដែលជារបស់អ្នកផ្ទាល់។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Your current path centres on a meaningful choice or connection. What you commit to should reflect what matters most to you.",
+        "km": "ផ្លូវបច្ចុប្បន្នរបស់អ្នកផ្តោតលើជម្រើស ឬទំនាក់ទំនងដ៏មានន័យ។ អ្វីដែលអ្នកប្តេជ្ញាគួរតែស្របនឹងអ្វីដែលសំខាន់បំផុតសម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Conflicting wishes may pull you in different directions. Be honest about your values before choosing what or whom to follow.",
+        "km": "បំណងប្រាថ្នាដែលផ្ទុយគ្នាអាចទាញអ្នកទៅទិសផ្សេងៗ។ សូមស្មោះត្រង់ចំពោះគុណតម្លៃរបស់ខ្លួន មុនជ្រើសថាត្រូវធ្វើតាមអ្វី ឬនរណា។"
+      },
+      "outcome": {
+        "en": "An honest choice could bring your actions and values closer together. Supportive connections may grow where your commitments are clear.",
+        "km": "ជម្រើសស្មោះត្រង់អាចធ្វើឱ្យសកម្មភាពនិងគុណតម្លៃរបស់អ្នកកាន់តែស្របគ្នា។ ទំនាក់ទំនងគាំទ្រអាចរីកចម្រើន នៅពេលការប្តេជ្ញារបស់អ្នកច្បាស់លាស់។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Your path has momentum, and your determination is helping you move. A clear destination matters as much as the effort you put in.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងបោះទៅមុខ ហើយការប្តេជ្ញាចិត្តកំពុងជួយអ្នក។ ទិសដៅច្បាស់លាស់មានសារៈសំខាន់ដូចគ្នានឹងកម្លាំងដែលអ្នកចំណាយ។"
+      },
+      "challenge": {
+        "en": "Competing priorities could pull your effort apart. Decide which direction comes first before trying to move faster.",
+        "km": "អាទិភាពដែលប្រជែងគ្នាអាចធ្វើឱ្យការខិតខំរបស់អ្នកបែកខ្ចាត់ខ្ចាយ។ សូមសម្រេចថាទិសដៅណាសំខាន់ជាងគេ មុនព្យាយាមដើរឱ្យលឿន។"
+      },
+      "outcome": {
+        "en": "Steady focus could carry you past an obstacle on this path. Keep your pace deliberate so progress remains under your direction.",
+        "km": "ការផ្តោតជាប់លាប់អាចជួយអ្នកឆ្លងកាត់ឧបសគ្គលើផ្លូវនេះ។ សូមរក្សាល្បឿនដោយគិតគូរ ដើម្បីឱ្យការរីកចម្រើននៅតាមទិសដែលអ្នកជ្រើស។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Your path is asking for quiet courage. Patience with yourself and others can be a stronger guide than force.",
+        "km": "ផ្លូវរបស់អ្នកទាមទារភាពក្លាហានដ៏ស្ងប់ស្ងាត់។ ការអត់ធ្មត់ចំពោះខ្លួនឯងនិងអ្នកដទៃ អាចដឹកនាំអ្នកបានល្អជាងការបង្ខំ។"
+      },
+      "challenge": {
+        "en": "Frustration may make you push harder than the situation needs. Pause before reacting, and choose a response you can stand behind.",
+        "km": "ភាពមួម៉ៅអាចធ្វើឱ្យអ្នកបង្ខំខ្លាំងជាងស្ថានភាពត្រូវការ។ សូមផ្អាកមុនប្រតិកម្ម ហើយជ្រើសរបៀបឆ្លើយតបដែលអ្នកអាចទទួលខុសត្រូវបាន។"
+      },
+      "outcome": {
+        "en": "Gentle persistence could build confidence in your ability to cope. The next stage may feel steadier as you learn to respond calmly.",
+        "km": "ការព្យាយាមដោយទន់ភ្លន់អាចបង្កើនទំនុកចិត្តលើសមត្ថភាពដោះស្រាយរបស់អ្នក។ ដំណាក់កាលបន្ទាប់អាចនឹងនរជាងមុន ពេលអ្នករៀនឆ្លើយតបដោយស្ងប់ស្ងាត់។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Your path is in a reflective phase. Stepping back from outside expectations can help you hear what you actually want.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងស្ថិតក្នុងដំណាក់កាលពិចារណា។ ការដកខ្លួនពីការរំពឹងរបស់អ្នកដទៃ អាចជួយឱ្យអ្នកស្គាល់អ្វីដែលខ្លួនចង់បានពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Time alone may become isolation if you close every door. Leave room for a trusted person to walk beside you.",
+        "km": "ពេលវេលានៅម្នាក់ឯងអាចក្លាយជាភាពឯកោ ប្រសិនបើអ្នកបិទទ្វារគ្រប់ច្រក។ សូមទុកឱកាសឱ្យមនុស្សដែលអ្នកទុកចិត្តដើរជាមួយអ្នក។"
+      },
+      "outcome": {
+        "en": "Reflection could help you choose a direction that feels more like your own. You do not need everyone else's pace to make progress.",
+        "km": "ការពិចារណាអាចជួយអ្នកជ្រើសទិសដៅដែលសមនឹងខ្លួនជាងមុន។ អ្នកមិនចាំបាច់ដើរតាមល្បឿនអ្នកដទៃ ដើម្បីរីកចម្រើនឡើយ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Your path is changing as circumstances shift around you. This stage asks you to notice what is opening and what is passing.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងផ្លាស់ប្តូរតាមស្ថានភាពជុំវិញខ្លួន។ ដំណាក់កាលនេះសុំឱ្យអ្នកកត់សម្គាល់អ្វីដែលកំពុងបើកឡើង និងអ្វីដែលកំពុងកន្លងផុត។"
+      },
+      "challenge": {
+        "en": "Trying to hold life still may use energy you need for adapting. Focus on the choices available within the change.",
+        "km": "ការព្យាយាមរក្សាជីវិតឱ្យនៅដដែល អាចប្រើអស់កម្លាំងដែលអ្នកត្រូវការសម្រាប់សម្របខ្លួន។ សូមផ្តោតលើជម្រើសដែលមានក្នុងការផ្លាស់ប្តូរនេះ។"
+      },
+      "outcome": {
+        "en": "A changing situation could offer a fresh opening. Staying flexible may help you recognise it without relying on luck alone.",
+        "km": "ស្ថានភាពដែលផ្លាស់ប្តូរអាចផ្តល់ឱកាសថ្មី។ ភាពបត់បែនអាចជួយអ្នកស្គាល់ឱកាសនោះ ដោយមិនពឹងផ្អែកតែលើសំណាង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Your path is asking you to look honestly at choices and consequences. Fairness matters in how you treat yourself as well as others.",
+        "km": "ផ្លូវរបស់អ្នកសុំឱ្យមើលជម្រើសនិងផលវិបាកដោយស្មោះត្រង់។ ភាពយុត្តិធម៌មានសារៈសំខាន់ ទាំងចំពោះខ្លួនឯងនិងអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Seeing only one side could lead you off course. Consider the facts and your own part before deciding what is fair.",
+        "km": "ការមើលតែម្ខាងអាចធ្វើឱ្យអ្នកចេញពីទិសដៅ។ សូមពិចារណាការពិត និងចំណែកទទួលខុសត្រូវរបស់ខ្លួន មុនសម្រេចថាអ្វីយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "A considered decision could bring more balance to this path. Clear agreements and accountability can make your next steps easier to trust.",
+        "km": "ការសម្រេចចិត្តដោយគិតគូរអាចនាំតុល្យភាពមកផ្លូវនេះ។ កិច្ចព្រមព្រៀងច្បាស់លាស់ និងការទទួលខុសត្រូវ អាចធ្វើឱ្យជំហានបន្ទាប់កាន់តែគួរឱ្យទុកចិត្ត។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Your path may feel paused rather than finished. A slower phase gives you space to question the direction you have been taking.",
+        "km": "ផ្លូវរបស់អ្នកអាចហាក់ដូចជាផ្អាក មិនមែនបញ្ចប់ទេ។ ដំណាក់កាលយឺតអាចផ្តល់ឱកាសឱ្យអ្នកពិចារណាទិសដៅដែលបានដើរកន្លងមក។"
+      },
+      "challenge": {
+        "en": "Struggling against every delay may leave you exhausted. Ask what a different viewpoint could reveal while you wait.",
+        "km": "ការតស៊ូប្រឆាំងរាល់ការពន្យារពេលអាចធ្វើឱ្យអ្នកអស់កម្លាំង។ ខណៈកំពុងរង់ចាំ សូមសួរថាទស្សនៈផ្សេងអាចបង្ហាញអ្វីដល់អ្នក។"
+      },
+      "outcome": {
+        "en": "A different perspective could reveal a way forward that effort alone missed. Progress may begin with changing your approach.",
+        "km": "ទស្សនៈផ្សេងអាចបង្ហាញផ្លូវទៅមុខដែលការខិតខំតែឯងមិនបានរកឃើញ។ ការរីកចម្រើនអាចចាប់ផ្តើមពីការផ្លាស់ប្តូរវិធីសាស្ត្ររបស់អ្នក។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Your path is moving between chapters. A role, habit or expectation may be ending, leaving you to decide what still belongs.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងឆ្លងពីដំណាក់កាលមួយទៅមួយ។ តួនាទី ទម្លាប់ ឬការរំពឹងមួយអាចកំពុងបញ្ចប់ ហើយអ្នកត្រូវសម្រេចថាអ្វីគួររក្សាទុក។"
+      },
+      "challenge": {
+        "en": "Holding on to a chapter that no longer fits may slow your growth. Letting go can happen gradually and with care.",
+        "km": "ការតោងជាប់នឹងដំណាក់កាលដែលលែងសមនឹងអ្នក អាចរារាំងការរីកចម្រើន។ ការលែងអាចធ្វើបន្តិចម្តងៗ ដោយយកចិត្តទុកដាក់។"
+      },
+      "outcome": {
+        "en": "Making room for change could help you build a life closer to your present needs. Renewal may begin with one thing you release.",
+        "km": "ការទុកកន្លែងសម្រាប់ការផ្លាស់ប្តូរ អាចជួយអ្នកកសាងជីវិតដែលសមនឹងតម្រូវការបច្ចុប្បន្ន។ ការចាប់ផ្តើមថ្មីអាចកើតពីអ្វីមួយដែលអ្នកព្រមលែង។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Your path is finding a workable rhythm. Small adjustments between effort and rest can help different parts of your life fit together.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងស្វែងរកចង្វាក់សមស្រប។ ការកែសម្រួលតូចៗរវាងការខិតខំនិងការសម្រាក អាចជួយឱ្យផ្នែកផ្សេងៗនៃជីវិតស្របគ្នា។"
+      },
+      "challenge": {
+        "en": "Swinging between extremes could undo your progress. Choose a pace you can maintain instead of trying to fix everything at once.",
+        "km": "ការប្រែពីជ្រុលម្ខាងទៅម្ខាងអាចបំផ្លាញការរីកចម្រើន។ សូមជ្រើសល្បឿនដែលអ្នកអាចរក្សាបាន ជាជាងព្យាយាមកែអ្វីៗទាំងអស់ក្នុងពេលតែមួយ។"
+      },
+      "outcome": {
+        "en": "Patient adjustments could make this path more sustainable. Balance may grow through everyday choices rather than one perfect solution.",
+        "km": "ការកែសម្រួលដោយអត់ធ្មត់អាចធ្វើឱ្យផ្លូវនេះបន្តបានយូរ។ តុល្យភាពអាចកើតពីជម្រើសប្រចាំថ្ងៃ ជាជាងដំណោះស្រាយល្អឥតខ្ចោះតែមួយ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Your path may be circling a pattern that limits your choices. Notice what feels compulsory even when it no longer serves you.",
+        "km": "ផ្លូវរបស់អ្នកអាចកំពុងវិលជុំក្នុងទម្លាប់ដែលកម្រិតជម្រើស។ សូមកត់សម្គាល់អ្វីដែលអ្នកមានអារម្មណ៍ថាត្រូវតែធ្វើ ទោះវាលែងមានប្រយោជន៍ក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "A familiar attachment may be difficult to question. Start by naming the pattern and identifying one choice you can safely change.",
+        "km": "ការជាប់ចិត្តនឹងអ្វីដែលធ្លាប់ស្គាល់ អាចពិបាកនឹងពិចារណាឡើងវិញ។ សូមចាប់ផ្តើមស្គាល់ទម្លាប់នោះ ហើយរកជម្រើសមួយដែលអ្នកអាចកែដោយសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Recognising a limiting pattern could create room for greater freedom. Change may take support and repeated small choices rather than willpower alone.",
+        "km": "ការស្គាល់ទម្លាប់ដែលកម្រិតអ្នក អាចបើកកន្លែងឱ្យមានសេរីភាពជាងមុន។ ការផ្លាស់ប្តូរអាចត្រូវការការគាំទ្រ និងជម្រើសតូចៗជាបន្តបន្ទាប់ មិនមែនតែកម្លាំងចិត្តទេ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Your path may feel unsettled because a plan or assumption is changing. Focus on what remains dependable while you reassess the rest.",
+        "km": "ផ្លូវរបស់អ្នកអាចមានភាពរង្គោះរង្គើ ដោយសារផែនការឬការសន្មតកំពុងផ្លាស់ប្តូរ។ សូមផ្តោតលើអ្វីដែលនៅតែអាចពឹងបាន ខណៈពិចារណាអ្វីផ្សេងឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Trying to preserve an unworkable plan may add strain. Separate what is worth protecting from what needs a different foundation.",
+        "km": "ការព្យាយាមរក្សាផែនការដែលមិនដំណើរការ អាចបន្ថែមសម្ពាធ។ សូមបែងចែកអ្វីដែលគួរការពារ និងអ្វីដែលត្រូវការគ្រឹះថ្មី។"
+      },
+      "outcome": {
+        "en": "Rebuilding could give your path a more honest foundation. Take practical steps toward stability without expecting everything to settle immediately.",
+        "km": "ការកសាងឡើងវិញអាចផ្តល់គ្រឹះស្មោះត្រង់ជាងមុនដល់ផ្លូវរបស់អ្នក។ សូមធ្វើជំហានជាក់ស្តែងឆ្ពោះទៅស្ថិរភាព ដោយមិនរំពឹងថាអ្វីៗនឹងស្ងប់ភ្លាមៗ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Your path has room for hope again. A renewed interest or a small sign of progress may be helping you look ahead.",
+        "km": "ផ្លូវរបស់អ្នកមានកន្លែងសម្រាប់ក្តីសង្ឃឹមម្តងទៀត។ ចំណាប់អារម្មណ៍ថ្មី ឬសញ្ញារីកចម្រើនតូចមួយ អាចកំពុងជួយឱ្យអ្នកសម្លឹងទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Doubt may make gradual progress hard to recognise. Give your hopes a practical next step instead of demanding certainty from them.",
+        "km": "ការសង្ស័យអាចធ្វើឱ្យពិបាកស្គាល់ការរីកចម្រើនបន្តិចម្តងៗ។ សូមផ្តល់ជំហានជាក់ស្តែងដល់ក្តីសង្ឃឹម ជាជាងទាមទារភាពប្រាកដប្រជាពីវា។"
+      },
+      "outcome": {
+        "en": "Nurturing what inspires you could make this path feel more hopeful. Let small, real improvements rebuild your trust in the future.",
+        "km": "ការថែរក្សាអ្វីដែលបំផុសគំនិតអ្នក អាចធ្វើឱ្យផ្លូវនេះមានក្តីសង្ឃឹមជាងមុន។ សូមឱ្យការកែលម្អតូចៗពិតប្រាកដ ស្តារទំនុកចិត្តលើអនាគត។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Your path may feel hard to read because feelings and uncertainty overlap. You can acknowledge your intuition without treating every fear as a fact.",
+        "km": "ផ្លូវរបស់អ្នកអាចពិបាកយល់ ព្រោះអារម្មណ៍និងភាពមិនប្រាកដប្រជាលាយគ្នា។ អ្នកអាចស្តាប់វិចារណញាណ ដោយមិនចាត់ទុករាល់ការភ័យខ្លាចថាជាការពិត។"
+      },
+      "challenge": {
+        "en": "Guessing what you cannot yet know could make the path seem more frightening. Check facts before letting an imagined outcome guide you.",
+        "km": "ការទាយអ្វីដែលមិនទាន់ដឹង អាចធ្វើឱ្យផ្លូវនេះហាក់គួរឱ្យខ្លាចជាងមុន។ សូមពិនិត្យការពិត មុនឱ្យលទ្ធផលក្នុងការស្រមៃដឹកនាំអ្នក។"
+      },
+      "outcome": {
+        "en": "More information could help you distinguish a real concern from an assumption. Move carefully while your understanding of the path develops.",
+        "km": "ព័ត៌មានបន្ថែមអាចជួយអ្នកបែងចែកកង្វល់ពិតប្រាកដពីការសន្មត។ សូមដើរដោយប្រុងប្រយ័ត្ន ខណៈការយល់ដឹងពីផ្លូវនេះកំពុងកើនឡើង។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Your path has a sense of clarity and renewed confidence. Notice what is working so you can build on it deliberately.",
+        "km": "ផ្លូវរបស់អ្នកមានភាពច្បាស់លាស់ និងទំនុកចិត្តឡើងវិញ។ សូមកត់សម្គាល់អ្វីដែលដំណើរការល្អ ដើម្បីបន្តកសាងលើវាដោយចេតនា។"
+      },
+      "challenge": {
+        "en": "Confidence could make you overlook a detail or another person's perspective. Enjoy your progress while staying willing to learn.",
+        "km": "ទំនុកចិត្តអាចធ្វើឱ្យអ្នករំលងព័ត៌មានលម្អិត ឬទស្សនៈអ្នកដទៃ។ សូមរីករាយនឹងការរីកចម្រើន ហើយនៅតែបើកចិត្តរៀន។"
+      },
+      "outcome": {
+        "en": "Continuing with openness could make your progress easier to see and enjoy. Share the good moments with people who support you.",
+        "km": "ការបន្តដោយបើកចិត្តអាចធ្វើឱ្យការរីកចម្រើនកាន់តែច្បាស់ និងគួរឱ្យរីករាយ។ សូមចែករំលែកពេលវេលាល្អជាមួយមនុស្សដែលគាំទ្រអ្នក។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Your path is at a point of review. Looking honestly at past choices can help you decide what deserves another chance or a new direction.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងដល់ចំណុចពិនិត្យឡើងវិញ។ ការមើលជម្រើសកន្លងមកដោយស្មោះត្រង់ អាចជួយសម្រេចថាអ្វីគួរបានឱកាសម្តងទៀត ឬទិសដៅថ្មី។"
+      },
+      "challenge": {
+        "en": "Judging your past too harshly may keep you from using its lessons. Take responsibility without making an old mistake your whole identity.",
+        "km": "ការវិនិច្ឆ័យអតីតកាលខ្លាំងពេក អាចរារាំងអ្នកពីការប្រើមេរៀនរបស់វា។ សូមទទួលខុសត្រូវ ដោយមិនឱ្យកំហុសចាស់កំណត់ថាអ្នកជានរណាទាំងស្រុង។"
+      },
+      "outcome": {
+        "en": "A clear decision could give this path renewed purpose. Carry the lesson forward rather than repeating the same judgement of yourself.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់អាចផ្តល់គោលបំណងថ្មីដល់ផ្លូវនេះ។ សូមយកមេរៀនទៅមុខ ជាជាងបន្តវិនិច្ឆ័យខ្លួនឯងដដែលៗ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Your path is bringing a cycle toward completion. Taking stock can help you recognise what you have learned and what remains unfinished.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងនាំវដ្តមួយឆ្ពោះទៅការបញ្ចប់។ ការពិនិត្យឡើងវិញអាចជួយឱ្យអ្នកស្គាល់អ្វីដែលបានរៀន និងអ្វីដែលនៅមិនទាន់រួច។"
+      },
+      "challenge": {
+        "en": "Rushing toward the next chapter could leave this one unresolved. Give the remaining details the attention they need.",
+        "km": "ការប្រញាប់ទៅដំណាក់កាលបន្ទាប់ អាចទុកដំណាក់កាលនេះឱ្យមិនទាន់ចប់។ សូមយកចិត្តទុកដាក់លើព័ត៌មានលម្អិតដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Completing what matters could bring a satisfying sense of closure. Your next direction can grow from the experience you have gathered.",
+        "km": "ការបញ្ចប់អ្វីដែលសំខាន់ អាចនាំអារម្មណ៍ពេញចិត្តនឹងការបិទបញ្ចប់។ ទិសដៅបន្ទាប់អាចរីកចេញពីបទពិសោធន៍ដែលអ្នកបានប្រមូល។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Your path has a fresh spark of motivation. An idea or interest is asking for a small beginning you can actually make.",
+        "km": "ផ្លូវរបស់អ្នកមានកម្លាំងចិត្តថ្មី។ គំនិត ឬចំណាប់អារម្មណ៍មួយកំពុងសុំឱ្យអ្នកចាប់ផ្តើមតូចមួយ ដែលអាចធ្វើបានពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Initial excitement may fade before an idea takes shape. Give your enthusiasm one clear task instead of waiting for perfect inspiration.",
+        "km": "ភាពរំភើបដំបូងអាចថយ មុនគំនិតក្លាយជារូបរាង។ សូមផ្តល់កិច្ចការច្បាស់មួយដល់កម្លាំងចិត្ត ជាជាងរង់ចាំការបំផុសគំនិតល្អឥតខ្ចោះ។"
+      },
+      "outcome": {
+        "en": "Following a promising interest could open a new direction. A modest first attempt may show you whether it deserves more energy.",
+        "km": "ការធ្វើតាមចំណាប់អារម្មណ៍ដែលមានសក្តានុពល អាចបើកទិសដៅថ្មី។ ការសាកល្បងដំបូងតូចមួយអាចបង្ហាញថា វាសមនឹងទទួលកម្លាំងបន្ថែមឬអត់។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Your path is at a planning stage. You are weighing what is familiar against the possibility of a wider life.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងស្ថិតក្នុងដំណាក់កាលរៀបផែនការ។ អ្នកកំពុងថ្លឹងថ្លែងរវាងអ្វីដែលធ្លាប់ស្គាល់ និងលទ្ធភាពនៃជីវិតដែលទូលំទូលាយជាងមុន។"
+      },
+      "challenge": {
+        "en": "Keeping every option open could delay your first step. Choose a direction to explore without demanding a complete map.",
+        "km": "ការរក្សាគ្រប់ជម្រើសអាចពន្យារជំហានដំបូង។ សូមជ្រើសទិសដៅមួយដើម្បីស្វែងយល់ ដោយមិនទាមទារផែនទីពេញលេញជាមុន។"
+      },
+      "outcome": {
+        "en": "A thoughtful plan could make a wider horizon feel reachable. Move from comparing possibilities to testing one of them.",
+        "km": "ផែនការដែលគិតគូរអាចធ្វើឱ្យទិសដៅទូលំទូលាយហាក់អាចទៅដល់។ សូមប្តូរពីការប្រៀបធៀបលទ្ធភាព ទៅការសាកល្បងមួយក្នុងចំណោមនោះ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Your path is extending beyond its starting point. Effort you have already made is giving you reasons to look further ahead.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងលាតសន្ធឹងហួសចំណុចចាប់ផ្តើម។ ការខិតខំដែលបានធ្វើ ផ្តល់ហេតុផលឱ្យអ្នកសម្លឹងទៅមុខកាន់តែឆ្ងាយ។"
+      },
+      "challenge": {
+        "en": "Waiting for a response may make you doubt your direction. Keep tending what you started while staying alert to other openings.",
+        "km": "ការរង់ចាំការឆ្លើយតបអាចធ្វើឱ្យអ្នកសង្ស័យទិសដៅខ្លួន។ សូមបន្តថែរក្សាអ្វីដែលបានចាប់ផ្តើម ហើយនៅតែយកចិត្តទុកដាក់ចំពោះឱកាសផ្សេង។"
+      },
+      "outcome": {
+        "en": "Looking beyond your usual surroundings could reveal a useful opportunity. Build on your preparation rather than assuming distance alone means progress.",
+        "km": "ការមើលហួសបរិយាកាសធ្លាប់ស្គាល់ អាចបង្ហាញឱកាសមានប្រយោជន៍។ សូមពឹងលើការត្រៀមខ្លួន ជាជាងសន្មតថាការទៅឆ្ងាយមានន័យថារីកចម្រើន។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Your path includes a foundation worth appreciating. A supportive place or shared milestone may remind you that progress can also feel like belonging.",
+        "km": "ផ្លូវរបស់អ្នកមានគ្រឹះដែលគួរឱ្យកោតសរសើរ។ កន្លែងគាំទ្រ ឬសមិទ្ធផលរួម អាចរំលឹកថាការរីកចម្រើនក៏អាចមានអារម្មណ៍ថាខ្លួនជាផ្នែកមួយដែរ។"
+      },
+      "challenge": {
+        "en": "Always looking for the next milestone may hide what you have achieved. Pause long enough to appreciate the support already around you.",
+        "km": "ការស្វែងរកសមិទ្ធផលបន្ទាប់ជានិច្ច អាចបិទបាំងអ្វីដែលអ្នកសម្រេចបាន។ សូមផ្អាកបន្តិច ដើម្បីឱ្យតម្លៃការគាំទ្រដែលមានជុំវិញខ្លួន។"
+      },
+      "outcome": {
+        "en": "Making room for shared celebration could strengthen your sense of stability. Let the people who support you be part of your progress.",
+        "km": "ការទុកពេលសម្រាប់អបអររួមគ្នា អាចពង្រឹងអារម្មណ៍នឹងនររបស់អ្នក។ សូមឱ្យអ្នកដែលគាំទ្រក្លាយជាផ្នែកមួយនៃការរីកចម្រើន។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Your path runs through competing ideas or demands. Some friction may be showing you where your own priorities need to become clearer.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងឆ្លងកាត់គំនិត ឬការទាមទារដែលប្រជែងគ្នា។ ការប៉ះទង្គិចខ្លះអាចបង្ហាញថា អាទិភាពរបស់អ្នកត្រូវការភាពច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Minor disagreements could consume energy meant for your goals. Decide which differences need discussion and which you can leave alone.",
+        "km": "ការខ្វែងគំនិតតូចៗអាចប្រើអស់កម្លាំងសម្រាប់គោលដៅរបស់អ្នក។ សូមសម្រេចថាភាពខុសគ្នាណាត្រូវពិភាក្សា និងណាអាចទុកឱ្យកន្លងផុត។"
+      },
+      "outcome": {
+        "en": "Working constructively with differences could sharpen your skills. Progress may come from learning to cooperate without needing everyone to agree.",
+        "km": "ការដោះស្រាយភាពខុសគ្នាដោយស្ថាបនា អាចពង្រឹងជំនាញរបស់អ្នក។ ការរីកចម្រើនអាចមកពីការរៀនសហការ ដោយមិនចាំបាច់ឱ្យគ្រប់គ្នាយល់ស្រប។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Your path is showing signs of achievement. Recognition can encourage you, especially when it reflects effort you know you have made.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងបង្ហាញសញ្ញានៃសមិទ្ធផល។ ការទទួលស្គាល់អាចលើកទឹកចិត្ត ជាពិសេសពេលវាឆ្លុះបញ្ចាំងការខិតខំដែលអ្នកបានធ្វើ។"
+      },
+      "challenge": {
+        "en": "Needing applause could pull you away from your real purpose. Share credit and remember what makes the path worthwhile to you.",
+        "km": "ការត្រូវការការសរសើរអាចទាញអ្នកចេញពីគោលបំណងពិត។ សូមចែករំលែកកិត្តិយស ហើយចងចាំអ្វីដែលធ្វើឱ្យផ្លូវនេះមានតម្លៃសម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Consistent effort could bring recognition and stronger confidence. Use encouragement as support for your next step, not as your only measure of worth.",
+        "km": "ការខិតខំជាប់លាប់អាចនាំការទទួលស្គាល់ និងទំនុកចិត្តរឹងមាំ។ សូមប្រើការលើកទឹកចិត្តគាំទ្រជំហានបន្ទាប់ មិនមែនជារង្វាស់តម្លៃខ្លួនតែមួយទេ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Your path asks you to hold your ground. A priority or boundary matters enough that you are being called to defend it.",
+        "km": "ផ្លូវរបស់អ្នកសុំឱ្យរក្សាជំហរ។ អាទិភាព ឬព្រំដែនមួយមានសារៈសំខាន់គ្រប់គ្រាន់ ដែលអ្នកត្រូវការពារវា។"
+      },
+      "challenge": {
+        "en": "Treating every disagreement as a battle could wear you down. Protect what matters most and save energy where the stakes are smaller.",
+        "km": "ការចាត់ទុករាល់ការខ្វែងគំនិតជាសមរភូមិ អាចធ្វើឱ្យអ្នកនឿយហត់។ សូមការពារអ្វីដែលសំខាន់បំផុត ហើយសន្សំកម្លាំងចំពោះរឿងតូចជាង។"
+      },
+      "outcome": {
+        "en": "Clear boundaries could help you preserve your direction under pressure. Persistence works best when you know exactly what you are protecting.",
+        "km": "ព្រំដែនច្បាស់លាស់អាចជួយអ្នករក្សាទិសដៅក្រោមសម្ពាធ។ ការតស៊ូមានប្រសិទ្ធភាពបំផុត ពេលអ្នកដឹងច្បាស់ថាកំពុងការពារអ្វី។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Your path is gathering speed. Messages, decisions or opportunities may be arriving faster than you can comfortably absorb them.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងមានល្បឿនលឿនឡើង។ សារ ការសម្រេចចិត្ត ឬឱកាស អាចមកលឿនជាងអ្វីដែលអ្នកអាចទទួលយកដោយស្រួល។"
+      },
+      "challenge": {
+        "en": "Moving quickly could make it easy to miss an important detail. Confirm your direction before committing to the next thing.",
+        "km": "ការដើរលឿនអាចធ្វើឱ្យងាយរំលងព័ត៌មានសំខាន់។ សូមបញ្ជាក់ទិសដៅរបស់ខ្លួន មុនប្តេជ្ញាទទួលរឿងបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Clear communication could help several moving pieces come together. Stay organised so a faster pace supports your path rather than overwhelms it.",
+        "km": "ការប្រាស្រ័យច្បាស់លាស់អាចជួយឱ្យកិច្ចការជាច្រើនស្របគ្នា។ សូមរៀបចំខ្លួន ដើម្បីឱ្យល្បឿនលឿនគាំទ្រផ្លូវរបស់អ្នក ជាជាងធ្វើឱ្យលើសកម្លាំង។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Your path reflects persistence through a tiring stretch. You have experience to draw on, but your energy also needs care.",
+        "km": "ផ្លូវរបស់អ្នកបង្ហាញការតស៊ូឆ្លងកាត់ដំណាក់កាលនឿយហត់។ អ្នកមានបទពិសោធន៍អាចពឹងបាន ប៉ុន្តែកម្លាំងរបស់អ្នកក៏ត្រូវការថែរក្សា។"
+      },
+      "challenge": {
+        "en": "Past disappointments may make every new step feel risky. Keep sensible boundaries without assuming the next experience will repeat the last.",
+        "km": "ការខកចិត្តពីមុនអាចធ្វើឱ្យរាល់ជំហានថ្មីហាក់មានហានិភ័យ។ សូមរក្សាព្រំដែនសមស្រប ដោយមិនសន្មតថាបទពិសោធន៍បន្ទាប់នឹងដូចមុន។"
+      },
+      "outcome": {
+        "en": "Measured persistence could help you through this demanding stage. Rest and support can be part of continuing, rather than signs of giving up.",
+        "km": "ការតស៊ូដោយដឹងកម្រិតអាចជួយអ្នកឆ្លងកាត់ដំណាក់កាលលំបាកនេះ។ ការសម្រាកនិងការគាំទ្រអាចជាផ្នែកនៃការបន្ត មិនមែនសញ្ញានៃការបោះបង់ទេ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Your path is crowded with responsibilities. The amount you carry may be making it difficult to see why you chose this direction.",
+        "km": "ផ្លូវរបស់អ្នកពោរពេញដោយទំនួលខុសត្រូវ។ បន្ទុកច្រើនអាចធ្វើឱ្យពិបាកមើលឃើញថា ហេតុអ្វីអ្នកបានជ្រើសទិសដៅនេះ។"
+      },
+      "challenge": {
+        "en": "Taking responsibility for everything could leave you with little capacity to move. Identify one task to share, postpone or decline.",
+        "km": "ការទទួលខុសត្រូវគ្រប់យ៉ាងអាចធ្វើឱ្យអ្នកសល់កម្លាំងតិចសម្រាប់បន្ត។ សូមរកកិច្ចការមួយដែលអាចចែករំលែក ពន្យារ ឬបដិសេធ។"
+      },
+      "outcome": {
+        "en": "Reducing unnecessary burdens could make your direction clearer. A lighter load may let you give better attention to what truly belongs to you.",
+        "km": "ការកាត់បន្ថយបន្ទុកមិនចាំបាច់អាចធ្វើឱ្យទិសដៅច្បាស់ឡើង។ បន្ទុកស្រាលអាចឱ្យអ្នកយកចិត្តទុកដាក់ល្អជាងមុនចំពោះអ្វីដែលជាភារកិច្ចរបស់ខ្លួនពិត។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Your path is being renewed by curiosity. Exploring an unfamiliar interest can help you discover what gives you energy.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងមានភាពថ្មីតាមរយៈការចង់ដឹង។ ការស្វែងយល់ចំណាប់អារម្មណ៍មិនធ្លាប់ស្គាល់ អាចជួយរកឃើញអ្វីដែលផ្តល់កម្លាំងដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Jumping between ideas could keep your path at the starting line. Choose one small exploration and see it through.",
+        "km": "ការលោតពីគំនិតមួយទៅមួយអាចទុកផ្លូវរបស់អ្នកត្រឹមចំណុចចាប់ផ្តើម។ សូមជ្រើសការស្វែងយល់តូចមួយ ហើយធ្វើវាឱ្យចប់។"
+      },
+      "outcome": {
+        "en": "Trying something unfamiliar could reveal a direction you want to develop. Treat the experience as learning rather than a demand to succeed immediately.",
+        "km": "ការសាកល្បងអ្វីថ្មីអាចបង្ហាញទិសដៅដែលអ្នកចង់អភិវឌ្ឍ។ សូមចាត់ទុកបទពិសោធន៍ជាការរៀន មិនមែនការទាមទារឱ្យជោគជ័យភ្លាមៗ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Your path is driven by a strong urge to move. Enthusiasm can help you begin, especially when you give it a clear aim.",
+        "km": "ផ្លូវរបស់អ្នកត្រូវបានជំរុញដោយបំណងខ្លាំងចង់បោះទៅមុខ។ ភាពស្វាហាប់អាចជួយឱ្យចាប់ផ្តើម ជាពិសេសពេលអ្នកផ្តល់គោលដៅច្បាស់ដល់វា។"
+      },
+      "challenge": {
+        "en": "The desire for change could outrun your preparation. Check the consequences before making a move that is difficult to reverse.",
+        "km": "បំណងចង់ផ្លាស់ប្តូរអាចលឿនជាងការត្រៀមខ្លួន។ សូមពិនិត្យផលវិបាក មុនធ្វើជំហានដែលពិបាកត្រឡប់ក្រោយ។"
+      },
+      "outcome": {
+        "en": "Courage paired with preparation could move your path forward. Keep enough flexibility to adjust once you see how your action unfolds.",
+        "km": "ភាពក្លាហានរួមជាមួយការត្រៀមខ្លួន អាចនាំផ្លូវរបស់អ្នកទៅមុខ។ សូមរក្សាភាពបត់បែន ដើម្បីកែសម្រួលពេលឃើញលទ្ធផលនៃសកម្មភាព។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your path benefits from confidence and warmth. Showing up as yourself can help you connect with people who appreciate your direction.",
+        "km": "ផ្លូវរបស់អ្នកទទួលប្រយោជន៍ពីទំនុកចិត្តនិងភាពកក់ក្តៅ។ ការបង្ហាញខ្លួនពិត អាចជួយអ្នកភ្ជាប់ជាមួយមនុស្សដែលឱ្យតម្លៃទិសដៅរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Being capable does not mean carrying everything alone. Let others contribute so your confidence does not turn into exhaustion.",
+        "km": "ការមានសមត្ថភាពមិនមានន័យថាត្រូវរ៉ាប់រងគ្រប់យ៉ាងម្នាក់ឯងទេ។ សូមឱ្យអ្នកដទៃចូលរួម ដើម្បីកុំឱ្យទំនុកចិត្តប្រែជាភាពអស់កម្លាំង។"
+      },
+      "outcome": {
+        "en": "Expressing your ideas with warmth could draw useful support. Your path may grow through shared enthusiasm rather than effort alone.",
+        "km": "ការបង្ហាញគំនិតដោយភាពកក់ក្តៅ អាចទាក់ទាញការគាំទ្រមានប្រយោជន៍។ ផ្លូវរបស់អ្នកអាចរីកចម្រើនតាមកម្លាំងចិត្តរួម មិនមែនការខិតខំតែឯង។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Your path calls for a larger vision and the courage to take responsibility. You may be ready to guide a direction rather than follow one.",
+        "km": "ផ្លូវរបស់អ្នកត្រូវការចក្ខុវិស័យធំ និងភាពក្លាហានទទួលខុសត្រូវ។ អ្នកអាចត្រៀមខ្លួនដឹកនាំទិសដៅ ជាជាងគ្រាន់តែដើរតាម។"
+      },
+      "challenge": {
+        "en": "Expecting others to match your pace could create friction. Explain the purpose and listen to what people can realistically contribute.",
+        "km": "ការរំពឹងឱ្យអ្នកដទៃដើរតាមល្បឿនអ្នក អាចបង្កការប៉ះទង្គិច។ សូមពន្យល់គោលបំណង ហើយស្តាប់ថាមនុស្សអាចចូលរួមអ្វីបានពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "A clear vision backed by consistent action could give your path direction. Leadership becomes more effective when others have room to contribute.",
+        "km": "ចក្ខុវិស័យច្បាស់ដែលមានសកម្មភាពជាប់លាប់គាំទ្រ អាចផ្តល់ទិសដៅដល់ផ្លូវរបស់អ្នក។ ការដឹកនាំមានប្រសិទ្ធភាពជាងមុន ពេលអ្នកដទៃមានឱកាសចូលរួម។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your path is opening toward connection and feeling. A new interest or a kind exchange may be reminding you what matters emotionally.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងបើកទៅរកទំនាក់ទំនងនិងអារម្មណ៍។ ចំណាប់អារម្មណ៍ថ្មី ឬការប្រាស្រ័យល្អ អាចរំលឹកអ្វីដែលសំខាន់ចំពោះចិត្តអ្នក។"
+      },
+      "challenge": {
+        "en": "Protecting yourself from every possible disappointment could also keep out care. Let trust develop gradually without abandoning your boundaries.",
+        "km": "ការការពារខ្លួនពីរាល់ការខកចិត្តដែលអាចកើត ក៏អាចរារាំងការយកចិត្តទុកដាក់ផងដែរ។ សូមឱ្យទំនុកចិត្តរីកបន្តិចម្តងៗ ដោយរក្សាព្រំដែនខ្លួន។"
+      },
+      "outcome": {
+        "en": "Making space for kindness could bring emotional renewal to this path. Start with connections where care can move both ways.",
+        "km": "ការទុកកន្លែងសម្រាប់ក្តីមេត្តា អាចនាំភាពស្រស់ថ្លាផ្លូវចិត្តមកផ្លូវនេះ។ សូមចាប់ផ្តើមពីទំនាក់ទំនងដែលអាចយកចិត្តទុកដាក់គ្នាទៅវិញទៅមក។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Your path is being shaped by a meaningful connection. Cooperation and mutual understanding may matter more than moving forward alone.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងត្រូវបានកំណត់ដោយទំនាក់ទំនងមានន័យ។ កិច្ចសហការ និងការយល់គ្នា អាចសំខាន់ជាងការដើរទៅមុខម្នាក់ឯង។"
+      },
+      "challenge": {
+        "en": "An uneven exchange could make a shared path difficult. Notice whether both people have room to speak, give and receive.",
+        "km": "ការផ្តល់និងទទួលមិនស្មើគ្នា អាចធ្វើឱ្យផ្លូវរួមពិបាក។ សូមកត់សម្គាល់ថា តើទាំងពីរមានឱកាសនិយាយ ផ្តល់ និងទទួលដែរឬទេ។"
+      },
+      "outcome": {
+        "en": "Mutual respect could turn a connection into dependable support. Your direction may feel clearer when expectations are discussed openly.",
+        "km": "ការគោរពគ្នាអាចធ្វើឱ្យទំនាក់ទំនងក្លាយជាការគាំទ្រដែលពឹងបាន។ ទិសដៅអាចច្បាស់ជាងមុន ពេលពិភាក្សាការរំពឹងដោយបើកចិត្ត។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Your current path is strengthened by friendship and shared experiences. Notice which connections leave you encouraged and able to be yourself.",
+        "km": "ផ្លូវបច្ចុប្បន្នរបស់អ្នករឹងមាំដោយមិត្តភាព និងបទពិសោធន៍រួម។ សូមកត់សម្គាល់ទំនាក់ទំនងណាដែលលើកទឹកចិត្ត និងអនុញ្ញាតឱ្យអ្នកធ្វើជាខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Keeping up with everyone else could distract you from your own direction. Enjoy companionship while protecting time for what matters to you.",
+        "km": "ការព្យាយាមតាមទាន់គ្រប់គ្នាអាចបង្វែរអ្នកពីទិសដៅខ្លួន។ សូមរីករាយនឹងមិត្តភាព ហើយរក្សាពេលវេលាសម្រាប់អ្វីដែលសំខាន់ចំពោះអ្នក។"
+      },
+      "outcome": {
+        "en": "Nurturing supportive friendships could make this path feel less solitary. Shared joy may help you appreciate progress you would otherwise overlook.",
+        "km": "ការថែរក្សាមិត្តភាពដែលគាំទ្រ អាចធ្វើឱ្យផ្លូវនេះលែងឯកោ។ សេចក្តីរីករាយរួមអាចជួយឱ្យអ្នកឱ្យតម្លៃការរីកចម្រើនដែលធ្លាប់រំលង។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Your path may feel less engaging than it once did. Dissatisfaction can be a reason to reflect on what needs attention or renewal.",
+        "km": "ផ្លូវរបស់អ្នកអាចលែងទាក់ទាញដូចមុន។ ភាពមិនពេញចិត្តអាចជាហេតុឱ្យពិចារណាថា អ្វីត្រូវការការយកចិត្តទុកដាក់ ឬការកែថ្មី។"
+      },
+      "challenge": {
+        "en": "Turning inward for too long could make a useful opening easy to miss. Look again at what is available before dismissing it.",
+        "km": "ការសម្លឹងតែក្នុងខ្លួនយូរពេក អាចធ្វើឱ្យរំលងឱកាសល្អ។ សូមមើលអ្វីដែលមានម្តងទៀត មុនបដិសេធវា។"
+      },
+      "outcome": {
+        "en": "A fresh look at your surroundings could renew your interest. One small change may help you reconnect with the path you are on.",
+        "km": "ការមើលបរិយាកាសជុំវិញតាមទស្សនៈថ្មី អាចធ្វើឱ្យមានចំណាប់អារម្មណ៍ឡើងវិញ។ ការកែតូចមួយអាចជួយអ្នកភ្ជាប់ចិត្តនឹងផ្លូវដែលកំពុងដើរ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Your path is being viewed through a disappointment. Give that feeling room while noticing what remains available to support you.",
+        "km": "អ្នកកំពុងមើលផ្លូវរបស់ខ្លួនតាមរយៈការខកចិត្ត។ សូមទុកកន្លែងឱ្យអារម្មណ៍នោះ ហើយកត់សម្គាល់អ្វីដែលនៅអាចគាំទ្រអ្នក។"
+      },
+      "challenge": {
+        "en": "Focusing only on what did not work could hide the choices still open. You can honour a loss without letting it define every step.",
+        "km": "ការផ្តោតតែលើអ្វីដែលមិនដំណើរការ អាចបិទបាំងជម្រើសដែលនៅមាន។ អ្នកអាចទទួលស្គាល់ការបាត់បង់ ដោយមិនឱ្យវាកំណត់គ្រប់ជំហាន។"
+      },
+      "outcome": {
+        "en": "Acknowledging disappointment could make room for comfort and a next step. Moving forward does not require pretending the past did not matter.",
+        "km": "ការទទួលស្គាល់ការខកចិត្ត អាចបើកកន្លែងសម្រាប់ភាពកក់ក្តៅនិងជំហានបន្ទាប់។ ការដើរទៅមុខមិនទាមទារឱ្យធ្វើពុតថាអតីតកាលមិនសំខាន់ឡើយ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Your path is drawing meaning from familiar people or memories. Something from the past may be reminding you of values you still want to keep.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងទទួលអត្ថន័យពីមនុស្សធ្លាប់ស្គាល់ ឬអនុស្សាវរីយ៍។ អ្វីមួយពីអតីតកាលអាចរំលឹកគុណតម្លៃដែលអ្នកនៅចង់រក្សា។"
+      },
+      "challenge": {
+        "en": "An idealised past could make the present seem lacking. Bring useful lessons forward without asking life to become exactly what it was.",
+        "km": "ការមើលអតីតកាលថាល្អឥតខ្ចោះ អាចធ្វើឱ្យបច្ចុប្បន្នហាក់ខ្វះខាត។ សូមយកមេរៀនល្អទៅមុខ ដោយមិនទាមទារឱ្យជីវិតដូចមុនទាំងស្រុង។"
+      },
+      "outcome": {
+        "en": "Reconnecting with a familiar source of kindness could ground your next steps. Keep what nourishes you while allowing yourself to grow beyond it.",
+        "km": "ការភ្ជាប់ឡើងវិញនឹងក្តីមេត្តាដែលធ្លាប់ស្គាល់ អាចពង្រឹងជំហានបន្ទាប់។ សូមរក្សាអ្វីដែលចិញ្ចឹមចិត្ត ហើយអនុញ្ញាតឱ្យខ្លួនរីកចម្រើនហួសពីនោះ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Your path branches into many imagined possibilities. Before choosing, separate what attracts you from what you are ready and able to pursue.",
+        "km": "ផ្លូវរបស់អ្នកបែកទៅលទ្ធភាពជាច្រើនក្នុងការស្រមៃ។ មុនជ្រើស សូមបែងចែកអ្វីដែលទាក់ទាញអ្នក និងអ្វីដែលអ្នកត្រៀមខ្លួនអាចធ្វើបាន។"
+      },
+      "challenge": {
+        "en": "A beautiful possibility may hide practical demands. Check what each option involves before letting its promise decide your direction.",
+        "km": "លទ្ធភាពដ៏ស្រស់ស្អាតអាចបិទបាំងតម្រូវការជាក់ស្តែង។ សូមពិនិត្យថាជម្រើសនីមួយៗទាមទារអ្វី មុនឱ្យភាពទាក់ទាញកំណត់ទិសដៅ។"
+      },
+      "outcome": {
+        "en": "Choosing one realistic possibility could make your path clearer. You can learn more from a manageable experiment than from endlessly comparing dreams.",
+        "km": "ការជ្រើសលទ្ធភាពជាក់ស្តែងមួយ អាចធ្វើឱ្យផ្លូវច្បាស់ឡើង។ អ្នកអាចរៀនពីការសាកល្បងដែលគ្រប់គ្រងបាន ច្រើនជាងការប្រៀបធៀបក្តីស្រមៃមិនចេះចប់។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Your path is raising questions about what still feels meaningful. You may be outgrowing a situation even if it once mattered deeply.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងលើកសំណួរថា អ្វីនៅតែមានន័យ។ អ្នកអាចកំពុងផ្លាស់ប្តូររហូតលែងសមនឹងស្ថានភាពមួយ ទោះវាធ្លាប់សំខាន់ខ្លាំងក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Leaving the familiar may feel difficult even when something needs to change. Clarify what you are seeking before deciding what to leave.",
+        "km": "ការចាកចេញពីអ្វីធ្លាប់ស្គាល់អាចពិបាក ទោះមានអ្វីត្រូវផ្លាស់ប្តូរក៏ដោយ។ សូមបញ្ជាក់ថាអ្នកកំពុងស្វែងរកអ្វី មុនសម្រេចថាត្រូវចាកចេញពីអ្វី។"
+      },
+      "outcome": {
+        "en": "Seeking what matters now could lead toward a more meaningful direction. Give yourself time to make a considered transition.",
+        "km": "ការស្វែងរកអ្វីដែលសំខាន់បច្ចុប្បន្ន អាចនាំទៅទិសដៅមានន័យជាងមុន។ សូមទុកពេលឱ្យខ្លួនផ្លាស់ប្តូរដោយគិតគូរ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Your path includes something you can feel pleased about. Recognising enoughness may help you enjoy progress instead of immediately chasing another goal.",
+        "km": "ផ្លូវរបស់អ្នកមានអ្វីមួយដែលអាចធ្វើឱ្យពេញចិត្ត។ ការស្គាល់ភាពគ្រប់គ្រាន់អាចជួយឱ្យរីករាយនឹងការរីកចម្រើន ជាជាងប្រញាប់ដេញតាមគោលដៅថ្មី។"
+      },
+      "challenge": {
+        "en": "Comfort could make it easy to stop tending what you value. Appreciate what is good while staying attentive to its needs.",
+        "km": "ភាពសុខស្រួលអាចធ្វើឱ្យងាយឈប់ថែទាំអ្វីដែលអ្នកឱ្យតម្លៃ។ សូមរីករាយនឹងអ្វីល្អ ហើយនៅតែយកចិត្តទុកដាក់ចំពោះតម្រូវការរបស់វា។"
+      },
+      "outcome": {
+        "en": "Defining satisfaction on your own terms could make this path more rewarding. Notice modest wishes that are already becoming possible.",
+        "km": "ការកំណត់ភាពពេញចិត្តតាមខ្លួនឯង អាចធ្វើឱ្យផ្លូវនេះមានន័យជាងមុន។ សូមកត់សម្គាល់បំណងតូចៗដែលកំពុងអាចសម្រេចបាន។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Your path is closely tied to belonging and shared wellbeing. The people you feel at home with may be an important source of direction.",
+        "km": "ផ្លូវរបស់អ្នកភ្ជាប់ជិតស្និទ្ធនឹងភាពជាផ្នែកមួយ និងសុខសុភមង្គលរួម។ មនុស្សដែលធ្វើឱ្យអ្នកមានអារម្មណ៍កក់ក្តៅ អាចជាប្រភពទិសដៅសំខាន់។"
+      },
+      "challenge": {
+        "en": "Expecting your life or relationships to look perfect could create unnecessary pressure. Value the care that is real, even when things are unfinished.",
+        "km": "ការរំពឹងឱ្យជីវិតឬទំនាក់ទំនងល្អឥតខ្ចោះ អាចបង្កសម្ពាធមិនចាំបាច់។ សូមឱ្យតម្លៃការយកចិត្តទុកដាក់ពិតប្រាកដ ទោះអ្វីៗមិនទាន់ពេញលេញក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Caring for your closest connections could strengthen your sense of belonging. Shared contentment grows through everyday attention rather than a flawless picture.",
+        "km": "ការថែរក្សាទំនាក់ទំនងជិតស្និទ្ធ អាចពង្រឹងអារម្មណ៍ថាខ្លួនជាផ្នែកមួយ។ ភាពពេញចិត្តរួមកើតពីការយកចិត្តទុកដាក់ប្រចាំថ្ងៃ មិនមែនរូបភាពឥតខ្ចោះទេ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Your path is inviting a gentler, more curious response to your feelings. A small creative impulse may be worth exploring without judging it too soon.",
+        "km": "ផ្លូវរបស់អ្នកអញ្ជើញឱ្យឆ្លើយតបនឹងអារម្មណ៍ដោយទន់ភ្លន់ និងចង់ស្វែងយល់។ គំនិតច្នៃប្រឌិតតូចមួយអាចគួរសាកល្បង ដោយមិនវិនិច្ឆ័យវាឆាប់ពេក។"
+      },
+      "challenge": {
+        "en": "A small comment could feel larger than intended. Give your feelings attention while checking what was actually said or meant.",
+        "km": "ពាក្យតូចមួយអាចធ្វើឱ្យអ្នកមានអារម្មណ៍ធ្ងន់ជាងបំណងអ្នកនិយាយ។ សូមយកចិត្តទុកដាក់អារម្មណ៍ ហើយពិនិត្យអ្វីដែលគេបាននិយាយ ឬចង់មានន័យពិត។"
+      },
+      "outcome": {
+        "en": "An open, curious attitude could help you notice a kind gesture or a creative possibility. Let a small invitation develop at its own pace.",
+        "km": "ការបើកចិត្តចង់ស្វែងយល់ អាចជួយឱ្យអ្នកស្គាល់កាយវិការល្អ ឬលទ្ធភាពច្នៃប្រឌិត។ សូមឱ្យការអញ្ជើញតូចមួយរីកចម្រើនតាមល្បឿនរបស់វា។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Your path is being guided by what moves your heart. Inspiration can point toward meaning, especially when you pair it with practical awareness.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងដឹកនាំដោយអ្វីដែលប៉ះចិត្ត។ ការបំផុសគំនិតអាចនាំទៅអត្ថន័យ ជាពិសេសពេលរួមជាមួយការយល់ដឹងជាក់ស្តែង។"
+      },
+      "challenge": {
+        "en": "An ideal picture could hide the ordinary effort a path requires. Check whether a beautiful promise is supported by consistent actions.",
+        "km": "រូបភាពល្អឥតខ្ចោះអាចបិទបាំងការខិតខំប្រចាំថ្ងៃដែលផ្លូវមួយត្រូវការ។ សូមពិនិត្យថា ពាក្យសន្យាល្អមានសកម្មភាពជាប់លាប់គាំទ្រឬទេ។"
+      },
+      "outcome": {
+        "en": "Expressing what matters to you could open a meaningful exchange. Let inspiration guide an invitation, while leaving space for an honest response.",
+        "km": "ការបង្ហាញអ្វីដែលសំខាន់ចំពោះអ្នក អាចបើកការប្រាស្រ័យមានន័យ។ សូមឱ្យការបំផុសគំនិតដឹកនាំការអញ្ជើញ ហើយទុកកន្លែងសម្រាប់ចម្លើយស្មោះត្រង់។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your path is shaped by sensitivity and care. Understanding your own feelings can help you support others without losing sight of yourself.",
+        "km": "ផ្លូវរបស់អ្នកត្រូវបានកំណត់ដោយភាពរសើប និងការយកចិត្តទុកដាក់។ ការយល់អារម្មណ៍ខ្លួនអាចជួយគាំទ្រអ្នកដទៃ ដោយមិនភ្លេចខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Taking everyone's feelings onto your own shoulders could blur your direction. Compassion needs boundaries and time to replenish your energy.",
+        "km": "ការរ៉ាប់រងអារម្មណ៍គ្រប់គ្នាអាចធ្វើឱ្យទិសដៅរបស់អ្នកមិនច្បាស់។ ក្តីមេត្តាត្រូវការព្រំដែន និងពេលស្តារកម្លាំងខ្លួន។"
+      },
+      "outcome": {
+        "en": "Listening with care could deepen understanding along this path. Include your own needs in the kindness you offer.",
+        "km": "ការស្តាប់ដោយយកចិត្តទុកដាក់ អាចធ្វើឱ្យការយល់ដឹងលើផ្លូវនេះកាន់តែជ្រាលជ្រៅ។ សូមរាប់បញ្ចូលតម្រូវការខ្លួនក្នុងក្តីមេត្តាដែលអ្នកផ្តល់។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Your path asks you to hold strong feelings with steadiness. A calm response can help you stay connected without being carried by every mood.",
+        "km": "ផ្លូវរបស់អ្នកសុំឱ្យទទួលអារម្មណ៍ខ្លាំងដោយនឹងនរ។ ការឆ្លើយតបស្ងប់អាចជួយរក្សាទំនាក់ទំនង ដោយមិនឱ្យរាល់អារម្មណ៍ទាញអ្នកទៅតាម។"
+      },
+      "challenge": {
+        "en": "Appearing composed could hide what you need others to understand. Share something honest instead of expecting people to read your silence.",
+        "km": "ការបង្ហាញភាពស្ងប់អាចបិទបាំងអ្វីដែលអ្នកចង់ឱ្យគេយល់។ សូមចែករំលែកដោយស្មោះត្រង់ ជាជាងរំពឹងឱ្យគេយល់តាមភាពស្ងៀមស្ងាត់។"
+      },
+      "outcome": {
+        "en": "Balancing honesty with calm could make your relationships more dependable. Your path may feel steadier when feelings can be discussed without taking over.",
+        "km": "ការរកតុល្យភាពរវាងភាពស្មោះត្រង់និងស្ងប់ស្ងាត់ អាចធ្វើឱ្យទំនាក់ទំនងគួរឱ្យពឹងជាងមុន។ ផ្លូវអាចនឹងនរ ពេលអាចពិភាក្សាអារម្មណ៍ដោយមិនឱ្យវាគ្រប់គ្រង។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Your path is coming into sharper focus. A clear idea or an honest realisation may be helping you separate what matters from what distracts.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងច្បាស់ឡើង។ គំនិតច្បាស់ ឬការយល់ឃើញស្មោះត្រង់ អាចជួយបែងចែកអ្វីសំខាន់ពីអ្វីដែលបង្វែរអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Clarity can become harshness if you forget how words land. Say what is true while leaving room for another person's perspective.",
+        "km": "ភាពច្បាស់លាស់អាចប្រែជាភាពគ្រោតគ្រាត បើភ្លេចផលប៉ះពាល់នៃពាក្យ។ សូមនិយាយការពិត ហើយទុកកន្លែងសម្រាប់ទស្សនៈអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Naming the real issue could help you choose your next step. A clearer understanding may be more useful than a faster answer.",
+        "km": "ការបញ្ជាក់បញ្ហាពិតអាចជួយអ្នកជ្រើសជំហានបន្ទាប់។ ការយល់ច្បាស់ជាងមុនអាចមានប្រយោជន៍ជាងចម្លើយដែលបានឆាប់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Your path is paused between competing options. You may need more information, or an honest admission of what makes choosing difficult.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងផ្អាករវាងជម្រើសដែលប្រជែងគ្នា។ អ្នកអាចត្រូវការព័ត៌មានបន្ថែម ឬការទទួលស្គាល់ស្មោះត្រង់ថាអ្វីធ្វើឱ្យពិបាកជ្រើស។"
+      },
+      "challenge": {
+        "en": "Avoiding a decision could quietly become a decision of its own. Identify the missing fact or priority that would help you move.",
+        "km": "ការគេចពីការសម្រេចចិត្តអាចក្លាយជាការសម្រេចមួយដោយមិនដឹងខ្លួន។ សូមរកការពិត ឬអាទិភាពដែលខ្វះ ហើយអាចជួយឱ្យអ្នកបោះជំហាន។"
+      },
+      "outcome": {
+        "en": "Weighing both sides against your priorities could break the stalemate. You may be able to choose without eliminating every uncertainty.",
+        "km": "ការថ្លឹងថ្លែងទាំងសងខាងតាមអាទិភាព អាចបញ្ចប់ភាពជាប់គាំង។ អ្នកអាចជ្រើសបាន ដោយមិនចាំបាច់លុបភាពមិនប្រាកដប្រជាទាំងអស់។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Your path may be passing through disappointment or a painful realisation. Be gentle with yourself while you make sense of what has changed.",
+        "km": "ផ្លូវរបស់អ្នកអាចកំពុងឆ្លងកាត់ការខកចិត្ត ឬការយល់ឃើញឈឺចាប់។ សូមទន់ភ្លន់ចំពោះខ្លួន ខណៈព្យាយាមយល់អ្វីដែលបានផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Keeping hurt entirely to yourself could make this stretch feel lonelier. Consider sharing what you can with someone who listens respectfully.",
+        "km": "ការទុកការឈឺចាប់ទាំងអស់ក្នុងខ្លួន អាចធ្វើឱ្យដំណាក់កាលនេះកាន់តែឯកោ។ សូមពិចារណាចែករំលែកអ្វីដែលអាចនិយាយបាន ជាមួយអ្នកស្តាប់ដោយគោរព។"
+      },
+      "outcome": {
+        "en": "Giving difficult feelings space could help you take a gentler next step. There is no need to force closure before you are ready.",
+        "km": "ការទុកកន្លែងឱ្យអារម្មណ៍ពិបាក អាចជួយអ្នកបោះជំហានបន្ទាប់ដោយទន់ភ្លន់។ មិនចាំបាច់បង្ខំឱ្យបិទបញ្ចប់ មុនពេលអ្នកត្រៀមខ្លួនទេ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Your path needs a pause for rest and perspective. Constant movement may not be the most useful form of progress at this stage.",
+        "km": "ផ្លូវរបស់អ្នកត្រូវការផ្អាកសម្រាប់សម្រាក និងមើលទស្សនៈឡើងវិញ។ ការបន្តរហូតអាចមិនមែនជារបៀបរីកចម្រើនដែលមានប្រយោជន៍បំផុតនៅដំណាក់កាលនេះ។"
+      },
+      "challenge": {
+        "en": "Pushing through every tired moment could make decisions harder. Give yourself permission to step back from what can wait.",
+        "km": "ការបង្ខំខ្លួនបន្តរាល់ពេលនឿយ អាចធ្វើឱ្យពិបាកសម្រេចចិត្ត។ សូមអនុញ្ញាតឱ្យខ្លួនដកថយពីអ្វីដែលអាចរង់ចាំបាន។"
+      },
+      "outcome": {
+        "en": "A deliberate pause could help you return with a clearer sense of direction. Make room for recovery before adding more demands.",
+        "km": "ការផ្អាកដោយចេតនាអាចជួយឱ្យអ្នកត្រឡប់មកវិញដោយមានទិសដៅច្បាស់ជាងមុន។ សូមទុកកន្លែងសម្រាប់ស្តារកម្លាំង មុនបន្ថែមការទាមទារ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Your path may be caught in a conflict where winning feels costly. Look at what the disagreement is doing to your wider priorities.",
+        "km": "ផ្លូវរបស់អ្នកអាចជាប់ក្នុងជម្លោះដែលការឈ្នះមានតម្លៃខ្ពស់ត្រូវបង់។ សូមមើលថាការខ្វែងគំនិតកំពុងប៉ះពាល់អាទិភាពធំៗយ៉ាងដូចម្តេច។"
+      },
+      "challenge": {
+        "en": "Proving a point could cost more than it gives you. Decide whether continuing the argument serves the life you want to build.",
+        "km": "ការបង្ហាញថាខ្លួនត្រូវ អាចបាត់បង់ច្រើនជាងទទួលបាន។ សូមសម្រេចថាការបន្តប្រកែកបម្រើជីវិតដែលអ្នកចង់កសាងឬទេ។"
+      },
+      "outcome": {
+        "en": "Stepping away from an unproductive contest could free your attention. You can protect your boundaries without needing the final word.",
+        "km": "ការដកខ្លួនពីការប្រជែងគ្មានប្រយោជន៍ អាចដោះលែងការយកចិត្តទុកដាក់របស់អ្នក។ អ្នកអាចការពារព្រំដែន ដោយមិនចាំបាច់មានពាក្យចុងក្រោយ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Your path is moving away from a difficult stretch. The transition may feel unfamiliar even when a calmer direction makes sense.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងចាកចេញពីដំណាក់កាលលំបាក។ ការផ្លាស់ប្តូរអាចមានអារម្មណ៍មិនស៊ាំ ទោះទិសដៅស្ងប់ជាងមុនសមហេតុផលក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Attachment to the familiar could make a necessary transition feel harder. Acknowledge what you miss while remembering why you began to move.",
+        "km": "ការជាប់ចិត្តនឹងអ្វីធ្លាប់ស្គាល់ អាចធ្វើឱ្យការផ្លាស់ប្តូរចាំបាច់កាន់តែពិបាក។ សូមទទួលស្គាល់អ្វីដែលនឹក ហើយចងចាំហេតុអ្វីបានចាប់ផ្តើមចេញដំណើរ។"
+      },
+      "outcome": {
+        "en": "Continuing a thoughtful transition could bring more breathing room. Let a calmer routine develop one manageable step at a time.",
+        "km": "ការបន្តផ្លាស់ប្តូរដោយគិតគូរ អាចផ្តល់ភាពធូរស្រាលជាងមុន។ សូមឱ្យទម្លាប់ស្ងប់រីកឡើង តាមជំហានដែលអាចធ្វើបានម្តងមួយ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Your path calls for thoughtful strategy. Consider how to move wisely while staying honest about your intentions and responsibilities.",
+        "km": "ផ្លូវរបស់អ្នកត្រូវការយុទ្ធសាស្ត្រដែលគិតគូរ។ សូមពិចារណារបៀបដើរដោយប្រាជ្ញា ហើយរក្សាភាពស្មោះត្រង់ចំពោះបំណងនិងទំនួលខុសត្រូវ។"
+      },
+      "challenge": {
+        "en": "A shortcut or an avoided conversation could create trouble later. Ask whether your approach would still feel right if explained openly.",
+        "km": "ផ្លូវកាត់ ឬការគេចពីសន្ទនា អាចបង្កបញ្ហានៅពេលក្រោយ។ សូមសួរថាវិធីរបស់អ្នកនៅតែត្រឹមត្រូវឬទេ បើពន្យល់ដោយបើកចំហ។"
+      },
+      "outcome": {
+        "en": "Careful, honest planning could help you navigate a complicated stage. Protect your direction without making secrecy the foundation of your progress.",
+        "km": "ការរៀបផែនការប្រុងប្រយ័ត្ននិងស្មោះត្រង់ អាចជួយឆ្លងដំណាក់កាលស្មុគស្មាញ។ សូមការពារទិសដៅ ដោយមិនយកការលាក់បាំងធ្វើជាគ្រឹះនៃការរីកចម្រើន។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Your path may feel constrained, with fewer options than you want. Separating practical limits from assumptions could help you see where movement remains possible.",
+        "km": "ផ្លូវរបស់អ្នកអាចមានអារម្មណ៍រឹតត្បិត និងជម្រើសតិចជាងចង់បាន។ ការបែងចែកកម្រិតជាក់ស្តែងពីការសន្មត អាចបង្ហាញកន្លែងដែលនៅអាចបោះជំហានបាន។"
+      },
+      "challenge": {
+        "en": "Feeling stuck could make even a small option hard to notice. Identify one realistic step or source of support within your circumstances.",
+        "km": "អារម្មណ៍ជាប់គាំងអាចធ្វើឱ្យពិបាកស្គាល់សូម្បីជម្រើសតូច។ សូមរកជំហានជាក់ស្តែងមួយ ឬប្រភពគាំទ្រក្នុងស្ថានភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Examining one limitation at a time could reveal more room to act. Progress may start with a choice that previously seemed unavailable.",
+        "km": "ការពិនិត្យកម្រិតម្តងមួយ អាចបង្ហាញឱកាសធ្វើសកម្មភាពច្រើនជាងមុន។ ការរីកចម្រើនអាចចាប់ពីជម្រើសដែលពីមុនហាក់មិនអាចធ្វើបាន។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry may be making your path look harsher than it is. Notice what is happening now separately from what you fear might happen.",
+        "km": "ការបារម្ភអាចធ្វើឱ្យផ្លូវរបស់អ្នកហាក់លំបាកជាងការពិត។ សូមបែងចែកអ្វីកំពុងកើតឡើងពីអ្វីដែលអ្នកខ្លាចថាអាចកើត។"
+      },
+      "challenge": {
+        "en": "Replaying the same fear could leave little room for perspective. Put the concern into words with someone you trust instead of carrying it silently.",
+        "km": "ការគិតការភ័យដដែលៗអាចទុកកន្លែងតិចសម្រាប់ទស្សនៈផ្សេង។ សូមនិយាយកង្វល់ជាមួយអ្នកទុកចិត្ត ជាជាងរ៉ាប់រងដោយស្ងៀមស្ងាត់។"
+      },
+      "outcome": {
+        "en": "Support and clearer information could make your next step feel more manageable. You do not need to solve every imagined problem before moving gently forward.",
+        "km": "ការគាំទ្រ និងព័ត៌មានច្បាស់អាចធ្វើឱ្យជំហានបន្ទាប់មានអារម្មណ៍ថាអាចធ្វើបាន។ អ្នកមិនចាំបាច់ដោះស្រាយរាល់បញ្ហាក្នុងស្រមៃ មុនបន្តដោយទន់ភ្លន់ទេ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Your path may be reaching the end of a difficult chapter. You can acknowledge that ending without deciding that every future direction is closed.",
+        "km": "ផ្លូវរបស់អ្នកអាចកំពុងដល់ចុងដំណាក់កាលលំបាក។ អ្នកអាចទទួលស្គាល់ការបញ្ចប់នោះ ដោយមិនសម្រេចថាគ្រប់ទិសដៅអនាគតត្រូវបានបិទ។"
+      },
+      "challenge": {
+        "en": "Revisiting a painful ending may make it hard to see what comes next. Allow time for the loss without turning it into your entire story.",
+        "km": "ការគិតត្រឡប់ទៅការបញ្ចប់ឈឺចាប់ អាចធ្វើឱ្យពិបាកមើលអ្វីបន្ទាប់។ សូមទុកពេលសម្រាប់ការបាត់បង់ ដោយមិនឱ្យវាក្លាយជារឿងរ៉ាវទាំងមូលរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Accepting that one chapter is over could make room for a different beginning. Take the next stage slowly and seek support where you need it.",
+        "km": "ការទទួលថាដំណាក់កាលមួយបានបញ្ចប់ អាចទុកកន្លែងសម្រាប់ការចាប់ផ្តើមផ្សេង។ សូមចូលដំណាក់កាលបន្ទាប់យឺតៗ ហើយស្វែងរកការគាំទ្រតាមតម្រូវការ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Your path is being sharpened by questions and learning. Curiosity can help you understand a situation before deciding how to enter it.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងច្បាស់តាមសំណួរនិងការរៀន។ ការចង់ដឹងអាចជួយយល់ស្ថានភាព មុនសម្រេចថាត្រូវចូលរួមយ៉ាងដូចម្តេច។"
+      },
+      "challenge": {
+        "en": "Quick conclusions or unverified stories could distract you. Check a claim before repeating it or allowing it to change your direction.",
+        "km": "ការសន្និដ្ឋានឆាប់ ឬរឿងមិនទាន់ផ្ទៀងផ្ទាត់អាចបង្វែរអ្នក។ សូមពិនិត្យពាក្យអះអាង មុននិយាយបន្ត ឬឱ្យវាប្តូរទិសដៅអ្នក។"
+      },
+      "outcome": {
+        "en": "Asking better questions could reveal a useful new direction. Turn what you learn into one considered action rather than collecting information endlessly.",
+        "km": "ការសួរសំណួរល្អជាងមុន អាចបង្ហាញទិសដៅថ្មីមានប្រយោជន៍។ សូមប្តូរអ្វីបានរៀនជាសកម្មភាពគិតគូរមួយ ជាជាងប្រមូលព័ត៌មានមិនចេះចប់។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Your path is moving with urgency and conviction. Strong ideas can drive progress when you also notice the people and details around them.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងដើរដោយប្រញាប់ និងជឿជាក់។ គំនិតខ្លាំងអាចជំរុញការរីកចម្រើន ពេលអ្នកក៏យកចិត្តទុកដាក់មនុស្សនិងព័ត៌មានជុំវិញវា។"
+      },
+      "challenge": {
+        "en": "Being certain of your answer could make you stop listening. Slow down enough to test your assumptions before acting on them.",
+        "km": "ការប្រាកដនឹងចម្លើយខ្លួនអាចធ្វើឱ្យឈប់ស្តាប់។ សូមបន្ថយល្បឿនឱ្យគ្រប់គ្រាន់ ដើម្បីពិនិត្យការសន្មតមុនធ្វើតាមវា។"
+      },
+      "outcome": {
+        "en": "Decisive action could move a stalled situation forward. Check that the direction is sound before making speed your measure of success.",
+        "km": "សកម្មភាពដាច់ខាតអាចនាំស្ថានភាពជាប់គាំងទៅមុខ។ សូមពិនិត្យថាទិសដៅសមស្រប មុនយកល្បឿនធ្វើជារង្វាស់ជោគជ័យ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Your path is guided by discernment and honest boundaries. You may be learning to name what you need without unnecessary explanation.",
+        "km": "ផ្លូវរបស់អ្នកត្រូវបានដឹកនាំដោយការវិនិច្ឆ័យច្បាស់ និងព្រំដែនស្មោះត្រង់។ អ្នកអាចកំពុងរៀនប្រាប់តម្រូវការខ្លួន ដោយមិនពន្យល់លើសចាំបាច់។"
+      },
+      "challenge": {
+        "en": "Protecting your clarity could come across as distance or harshness. Keep your boundary while choosing words that preserve dignity on both sides.",
+        "km": "ការការពារភាពច្បាស់លាស់ខ្លួន អាចហាក់ដូចជាគម្លាតឬភាពគ្រោតគ្រាត។ សូមរក្សាព្រំដែន ហើយជ្រើសពាក្យដែលរក្សាសេចក្តីថ្លៃថ្នូរទាំងសងខាង។"
+      },
+      "outcome": {
+        "en": "Clear, considerate decisions could give your path firmer direction. Honesty becomes more useful when it leaves room for compassion.",
+        "km": "ការសម្រេចចិត្តច្បាស់និងគិតគូរអាចផ្តល់ទិសដៅរឹងមាំ។ ភាពស្មោះត្រង់មានប្រយោជន៍ជាងមុន ពេលវាទុកកន្លែងសម្រាប់ក្តីមេត្តា។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Your path calls for clear reasoning and fair judgement. Sorting facts from opinions can help you take responsibility for the direction you choose.",
+        "km": "ផ្លូវរបស់អ្នកត្រូវការហេតុផលច្បាស់ និងការវិនិច្ឆ័យយុត្តិធម៌។ ការបែងចែកការពិតពីមតិ អាចជួយអ្នកទទួលខុសត្រូវលើទិសដៅដែលជ្រើស។"
+      },
+      "challenge": {
+        "en": "A decision can be logical and still overlook someone's needs. Include the human consequences when weighing your next step.",
+        "km": "ការសម្រេចអាចសមហេតុផល ប៉ុន្តែនៅតែរំលងតម្រូវការមនុស្ស។ សូមរាប់បញ្ចូលផលប៉ះពាល់លើមនុស្ស ពេលថ្លឹងថ្លែងជំហានបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Reasoning that includes fairness could lead to a more dependable choice. Explain your decision clearly so others can understand its basis.",
+        "km": "ហេតុផលដែលរួមភាពយុត្តិធម៌ អាចនាំទៅជម្រើសគួរឱ្យពឹងជាងមុន។ សូមពន្យល់ការសម្រេចឱ្យច្បាស់ ដើម្បីឱ្យអ្នកដទៃយល់មូលដ្ឋានរបស់វា។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Your path has a practical opening that could be developed. Look for the small, tangible start behind a larger possibility.",
+        "km": "ផ្លូវរបស់អ្នកមានឱកាសជាក់ស្តែងដែលអាចអភិវឌ្ឍ។ សូមរកចំណុចចាប់ផ្តើមតូចដែលអាចធ្វើបាន នៅពីក្រោយលទ្ធភាពធំ។"
+      },
+      "challenge": {
+        "en": "Waiting for complete certainty could keep an opportunity untouched. Understand what is required, then choose a first step within your means.",
+        "km": "ការរង់ចាំភាពប្រាកដប្រជាទាំងស្រុង អាចទុកឱកាសឱ្យមិនបានប្រើ។ សូមយល់តម្រូវការ រួចជ្រើសជំហានដំបូងដែលសមនឹងលទ្ធភាពខ្លួន។"
+      },
+      "outcome": {
+        "en": "A realistic beginning could become a useful foundation. Its value will depend on the attention and steady effort you give it.",
+        "km": "ការចាប់ផ្តើមជាក់ស្តែងអាចក្លាយជាគ្រឹះមានប្រយោជន៍។ តម្លៃរបស់វាអាស្រ័យលើការយកចិត្តទុកដាក់ និងការខិតខំជាប់លាប់ដែលអ្នកផ្តល់។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Your path is a balancing act between several demands. Flexibility is helping, but your time and energy still have limits.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងរកតុល្យភាពរវាងការទាមទារជាច្រើន។ ភាពបត់បែនកំពុងជួយ ប៉ុន្តែពេលវេលានិងកម្លាំងរបស់អ្នកនៅតែមានកម្រិត។"
+      },
+      "challenge": {
+        "en": "Keeping everything moving could leave nothing with your full attention. Choose what must come first and what can reasonably wait.",
+        "km": "ការព្យាយាមរក្សាគ្រប់យ៉ាងឱ្យដំណើរការ អាចធ្វើឱ្យគ្មានអ្វីទទួលការយកចិត្តទុកដាក់ពេញលេញ។ សូមជ្រើសអ្វីត្រូវធ្វើមុន និងអ្វីអាចរង់ចាំ។"
+      },
+      "outcome": {
+        "en": "Adjusting priorities could make your daily path more manageable. A flexible rhythm may serve you better than trying to give everything equal time.",
+        "km": "ការកែអាទិភាពអាចធ្វើឱ្យផ្លូវប្រចាំថ្ងៃងាយគ្រប់គ្រង។ ចង្វាក់បត់បែនអាចមានប្រយោជន៍ជាងការព្យាយាមផ្តល់ពេលស្មើគ្នាដល់គ្រប់យ៉ាង។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Your path is developing through shared effort and useful skills. Working with others can show you both what you offer and what you can learn.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងអភិវឌ្ឍតាមការខិតខំរួម និងជំនាញមានប្រយោជន៍។ ការធ្វើការជាមួយគេអាចបង្ហាញអ្វីដែលអ្នកអាចផ្តល់ និងអ្វីដែលអាចរៀន។"
+      },
+      "challenge": {
+        "en": "Unclear roles could slow a shared direction. Make sure everyone understands the aim, their responsibility and how to ask for help.",
+        "km": "តួនាទីមិនច្បាស់អាចធ្វើឱ្យទិសដៅរួមយឺត។ សូមឱ្យគ្រប់គ្នាយល់គោលដៅ ទំនួលខុសត្រូវ និងរបៀបសុំជំនួយ។"
+      },
+      "outcome": {
+        "en": "Combining complementary skills could improve the quality of your progress. Be willing to contribute, receive feedback and recognise another person's expertise.",
+        "km": "ការរួមជំនាញដែលបំពេញគ្នា អាចលើកគុណភាពនៃការរីកចម្រើន។ សូមបើកចិត្តចូលរួម ទទួលមតិកែលម្អ និងទទួលស្គាល់ជំនាញអ្នកដទៃ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Your path is focused on protecting what you have built. A wish for stability may be influencing how much change you are willing to allow.",
+        "km": "ផ្លូវរបស់អ្នកផ្តោតលើការការពារអ្វីដែលបានកសាង។ បំណងចង់បានស្ថិរភាពអាចមានឥទ្ធិពលលើកម្រិតការផ្លាស់ប្តូរដែលអ្នកព្រមទទួល។"
+      },
+      "challenge": {
+        "en": "Holding tightly to the familiar could leave little room for growth. Consider which protections are useful and which have become restrictions.",
+        "km": "ការតោងអ្វីធ្លាប់ស្គាល់ខ្លាំងពេក អាចទុកកន្លែងតិចសម្រាប់រីកចម្រើន។ សូមពិចារណាថាការការពារណាមានប្រយោជន៍ និងណាបានក្លាយជាការរឹតត្បិត។"
+      },
+      "outcome": {
+        "en": "A thoughtful balance between keeping and allowing could strengthen your foundation. Security can include enough flexibility to respond when life changes.",
+        "km": "តុល្យភាពគិតគូររវាងការរក្សានិងការទទួលយក អាចពង្រឹងគ្រឹះ។ ស្ថិរភាពអាចរួមភាពបត់បែនគ្រប់គ្រាន់ ដើម្បីឆ្លើយតបពេលជីវិតផ្លាស់ប្តូរ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Your path may feel difficult because resources or support seem limited. This stage calls for recognising your needs rather than judging yourself for having them.",
+        "km": "ផ្លូវរបស់អ្នកអាចពិបាក ព្រោះធនធានឬការគាំទ្រហាក់មានកម្រិត។ ដំណាក់កាលនេះត្រូវការទទួលស្គាល់តម្រូវការ ជាជាងវិនិច្ឆ័យខ្លួនដែលមានតម្រូវការនោះ។"
+      },
+      "challenge": {
+        "en": "Embarrassment or discouragement could make it harder to ask for support. Consider one person or place where you can explain what you need.",
+        "km": "ការខ្មាស ឬបាក់ទឹកចិត្តអាចធ្វើឱ្យពិបាកសុំការគាំទ្រ។ សូមគិតពីមនុស្ស ឬកន្លែងមួយដែលអាចប្រាប់តម្រូវការរបស់អ្នកបាន។"
+      },
+      "outcome": {
+        "en": "Reaching for available support could make this stretch less isolating. A practical connection may help you identify a manageable next step.",
+        "km": "ការស្វែងរកការគាំទ្រដែលមាន អាចធ្វើឱ្យដំណាក់កាលនេះលែងឯកោ។ ទំនាក់ទំនងជាក់ស្តែងអាចជួយរកជំហានបន្ទាប់ដែលអាចធ្វើបាន។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Your path is shaped by the support you give and receive. Notice whether these exchanges leave room for dignity and choice on both sides.",
+        "km": "ផ្លូវរបស់អ្នកត្រូវបានកំណត់ដោយការគាំទ្រដែលផ្តល់និងទទួល។ សូមកត់សម្គាល់ថាការផ្លាស់ប្តូរនេះរក្សាសេចក្តីថ្លៃថ្នូរ និងជម្រើសទាំងសងខាងឬទេ។"
+      },
+      "challenge": {
+        "en": "An imbalance in giving could create resentment or dependence. Be clear about what you can offer and what you need in return.",
+        "km": "ការផ្តល់មិនស្មើគ្នាអាចបង្កការអាក់អន់ចិត្ត ឬការពឹងផ្អែក។ សូមបញ្ជាក់អ្វីដែលអ្នកអាចផ្តល់ និងអ្វីដែលត្រូវការត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "Fair, thoughtful exchanges could strengthen the support around your path. Generosity works best when receiving is allowed as well as giving.",
+        "km": "ការផ្តល់និងទទួលយុត្តិធម៌និងគិតគូរ អាចពង្រឹងការគាំទ្រជុំវិញផ្លូវអ្នក។ ភាពសប្បុរសមានប្រសិទ្ធភាព ពេលអនុញ្ញាតទាំងការទទួលនិងការផ្តល់។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Your path is in a stage of tending and reviewing. You have invested effort, and now you are learning what is actually growing.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងស្ថិតក្នុងដំណាក់កាលថែទាំនិងពិនិត្យ។ អ្នកបានចំណាយកម្លាំង ហើយឥឡូវកំពុងរៀនថាអ្វីរីកចម្រើនពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Slow results could tempt you either to quit too soon or wait without adjusting. Review the evidence before deciding what deserves more effort.",
+        "km": "លទ្ធផលយឺតអាចធ្វើឱ្យចង់បោះបង់ឆាប់ ឬរង់ចាំដោយមិនកែសម្រួល។ សូមពិនិត្យអ្វីដែលឃើញ មុនសម្រេចថាអ្វីសមនឹងទទួលកម្លាំងបន្ថែម។"
+      },
+      "outcome": {
+        "en": "Patient effort with regular review could bring worthwhile progress. Keep tending what responds, and adjust what no longer fits your direction.",
+        "km": "ការខិតខំអត់ធ្មត់ជាមួយការពិនិត្យទៀងទាត់ អាចនាំការរីកចម្រើនមានតម្លៃ។ សូមបន្តថែអ្វីដែលដំណើរការ ហើយកែអ្វីដែលលែងសមនឹងទិសដៅ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Your path is being built through practice. Repeated attention to small tasks is developing abilities that may not yet feel remarkable.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងកសាងតាមការអនុវត្ត។ ការយកចិត្តទុកដាក់កិច្ចការតូចៗដដែលៗ កំពុងបង្កើនសមត្ថភាពដែលអាចមិនទាន់ហាក់លេចធ្លោ។"
+      },
+      "challenge": {
+        "en": "Repetition may feel empty if you lose sight of its purpose. Connect today's practice to the capability you want to build.",
+        "km": "ការធ្វើដដែលអាចមានអារម្មណ៍ទទេ បើភ្លេចគោលបំណង។ សូមភ្ជាប់ការអនុវត្តថ្ងៃនេះនឹងសមត្ថភាពដែលអ្នកចង់កសាង។"
+      },
+      "outcome": {
+        "en": "Consistent practice could deepen your skill and confidence. Look for evidence of improvement rather than expecting mastery all at once.",
+        "km": "ការអនុវត្តជាប់លាប់អាចពង្រឹងជំនាញនិងទំនុកចិត្ត។ សូមរកសញ្ញានៃការកែលម្អ ជាជាងរំពឹងថានឹងស្ទាត់ជំនាញក្នុងពេលតែមួយ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Your path reflects something you have built through your own effort. There is value in recognising your independence and enjoying its everyday rewards.",
+        "km": "ផ្លូវរបស់អ្នកឆ្លុះបញ្ចាំងអ្វីដែលបានកសាងដោយកម្លាំងខ្លួន។ ការទទួលស្គាល់ឯករាជ្យភាព និងរីករាយនឹងផលប្រចាំថ្ងៃរបស់វាមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Self-reliance could become isolation if accepting help feels like failure. Make room for connection without dismissing what you can do yourself.",
+        "km": "ការពឹងខ្លួនអាចក្លាយជាភាពឯកោ បើការទទួលជំនួយហាក់ដូចជាបរាជ័យ។ សូមទុកកន្លែងសម្រាប់ទំនាក់ទំនង ដោយមិនមើលរំលងសមត្ថភាពខ្លួន។"
+      },
+      "outcome": {
+        "en": "Caring for what you have built could bring greater ease and independence. Let enjoyment be part of your progress, alongside effort.",
+        "km": "ការថែរក្សាអ្វីដែលបានកសាង អាចនាំភាពស្រួលនិងឯករាជ្យជាងមុន។ សូមឱ្យការរីករាយជាផ្នែកនៃការរីកចម្រើន ទន្ទឹមនឹងការខិតខំ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Your path is linked to lasting foundations and the people who share them. Consider how your choices fit the life you want to sustain.",
+        "km": "ផ្លូវរបស់អ្នកភ្ជាប់នឹងគ្រឹះយូរអង្វែង និងមនុស្សដែលចែករំលែកវា។ សូមពិចារណាថាជម្រើសរបស់អ្នកសមនឹងជីវិតដែលចង់រក្សាយ៉ាងដូចម្តេច។"
+      },
+      "challenge": {
+        "en": "Family expectations could make your own direction harder to hear. Respect what has supported you while being honest about what you want to build.",
+        "km": "ការរំពឹងរបស់គ្រួសារអាចធ្វើឱ្យពិបាកស្គាល់ទិសដៅខ្លួន។ សូមគោរពអ្វីដែលបានគាំទ្រ ហើយស្មោះត្រង់ចំពោះអ្វីដែលអ្នកចង់កសាង។"
+      },
+      "outcome": {
+        "en": "Thinking beyond the immediate moment could strengthen a shared foundation. Choose habits and commitments that can support both you and those you care about.",
+        "km": "ការគិតហួសពេលបច្ចុប្បន្ន អាចពង្រឹងគ្រឹះរួម។ សូមជ្រើសទម្លាប់និងការប្តេជ្ញា ដែលអាចគាំទ្រទាំងអ្នកនិងមនុស្សដែលអ្នកយកចិត្តទុកដាក់។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Your path is beginning with practical learning. Curiosity becomes useful when you give yourself time to study, try and ask questions.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងចាប់ផ្តើមដោយការរៀនជាក់ស្តែង។ ការចង់ដឹងមានប្រយោជន៍ ពេលអ្នកទុកពេលសិក្សា សាកល្បង និងសួរសំណួរ។"
+      },
+      "challenge": {
+        "en": "Wanting a skill is different from making room to learn it. Choose a simple routine that turns your intention into practice.",
+        "km": "ការចង់មានជំនាញខុសពីការទុកពេលរៀនវា។ សូមជ្រើសទម្លាប់សាមញ្ញ ដែលប្តូរបំណងរបស់អ្នកទៅជាការអនុវត្ត។"
+      },
+      "outcome": {
+        "en": "Patient study could open a practical next step. Let what you learn guide a small project or responsibility you can grow into.",
+        "km": "ការសិក្សាអត់ធ្មត់អាចបើកជំហានជាក់ស្តែងបន្ទាប់។ សូមឱ្យអ្វីដែលបានរៀនដឹកនាំគម្រោងតូច ឬទំនួលខុសត្រូវដែលអាចរីកចម្រើនជាមួយ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Your path is moving through steady, ordinary effort. Progress may look quiet because it is being built through reliability rather than sudden change.",
+        "km": "ផ្លូវរបស់អ្នកកំពុងដើរតាមការខិតខំធម្មតាជាប់លាប់។ ការរីកចម្រើនអាចស្ងប់ ព្រោះកសាងតាមភាពទៀងទាត់ ជាជាងការផ្លាស់ប្តូរភ្លាមៗ។"
+      },
+      "challenge": {
+        "en": "A dependable routine could become a rut if you never review it. Keep what works and allow one small improvement where it is needed.",
+        "km": "ទម្លាប់ទៀងទាត់អាចក្លាយជាភាពជាប់គាំង បើមិនពិនិត្យឡើងវិញ។ សូមរក្សាអ្វីដំណើរការ ហើយអនុញ្ញាតការកែលម្អតូចមួយតាមតម្រូវការ។"
+      },
+      "outcome": {
+        "en": "Following through on realistic commitments could give your path dependable progress. Consistency becomes stronger when it remains responsive to change.",
+        "km": "ការធ្វើតាមការប្តេជ្ញាជាក់ស្តែងរហូត អាចនាំការរីកចម្រើនដែលពឹងបាន។ ភាពជាប់លាប់រឹងមាំជាងមុន ពេលនៅតែឆ្លើយតបនឹងការផ្លាស់ប្តូរ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Your path is grounded in everyday care. Practical attention to your surroundings and relationships may be holding more together than you realise.",
+        "km": "ផ្លូវរបស់អ្នកផ្អែកលើការថែទាំប្រចាំថ្ងៃ។ ការយកចិត្តទុកដាក់ជាក់ស្តែងលើបរិយាកាសនិងទំនាក់ទំនង អាចកំពុងទ្រទ្រង់អ្វីៗច្រើនជាងអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "Meeting everyone else's needs could leave your own unattended. Include rest and practical support for yourself in the care you organise.",
+        "km": "ការបំពេញតម្រូវការគ្រប់គ្នា អាចទុកតម្រូវការខ្លួនឱ្យគ្មានការថែទាំ។ សូមរាប់បញ្ចូលការសម្រាក និងការគាំទ្រខ្លួនក្នុងការថែរក្សាដែលអ្នករៀបចំ។"
+      },
+      "outcome": {
+        "en": "Sustainable care could make your daily life feel more supported. Build routines that nourish you as well as the people around you.",
+        "km": "ការថែទាំដែលអាចបន្តបាន អាចធ្វើឱ្យជីវិតប្រចាំថ្ងៃមានការគាំទ្រជាងមុន។ សូមកសាងទម្លាប់ដែលថែទាំងអ្នក និងមនុស្សជុំវិញខ្លួន។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Your path is supported by experience and practical responsibility. You may be in a position to maintain something valuable and use it wisely.",
+        "km": "ផ្លូវរបស់អ្នកមានបទពិសោធន៍ និងទំនួលខុសត្រូវជាក់ស្តែងគាំទ្រ។ អ្នកអាចស្ថិតក្នុងស្ថានភាពរក្សាអ្វីមានតម្លៃ ហើយប្រើវាដោយប្រាជ្ញា។"
+      },
+      "challenge": {
+        "en": "Measuring your path only by achievement or possessions could leave out meaning. Ask whether your daily life reflects what you value beyond success.",
+        "km": "ការវាស់ផ្លូវតែតាមសមិទ្ធផលឬទ្រព្យសម្បត្តិ អាចរំលងអត្ថន័យ។ សូមសួរថាជីវិតប្រចាំថ្ងៃឆ្លុះបញ្ចាំងអ្វីដែលអ្នកឱ្យតម្លៃក្រៅពីជោគជ័យឬទេ។"
+      },
+      "outcome": {
+        "en": "Responsible stewardship could help your progress last. A strong foundation serves you best when it also supports a life you find meaningful.",
+        "km": "ការគ្រប់គ្រងដោយទទួលខុសត្រូវ អាចជួយរក្សាការរីកចម្រើនបានយូរ។ គ្រឹះរឹងមាំមានប្រយោជន៍បំផុត ពេលវាគាំទ្រជីវិតដែលអ្នកយល់ថាមានន័យផងដែរ។"
+      }
+    }
+  }
+}

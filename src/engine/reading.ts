@@ -63,6 +63,9 @@ export function buildReading(input: ReadingInput, content: Content): Reading {
   const found = cardIds.map(id => content.cards.find(c => c.id === id));
   if (!z || !topic || !question || !tf || found.some(c => !c)) throw new Error('Unknown input id');
   const cards = found as [Card, Card, Card];
+  const questionReading = content.questionReadings?.[questionId];
+  const meaning = (card: Card, position: keyof Card['meaning']) =>
+    questionReading?.cards[card.id]?.[position]?.[lang] ?? card.meaning[position][lang];
 
   const T = content.templates;
   const kind = question.kind;
@@ -83,9 +86,9 @@ export function buildReading(input: ReadingInput, content: Content): Reading {
     card1: cards[0].name[lang],
     card2: cards[1].name[lang],
     card3: cards[2].name[lang],
-    present: cards[0].meaning.present[lang],
-    challenge: cards[1].meaning.challenge[lang],
-    outcome: cards[2].meaning.outcome[lang],
+    present: meaning(cards[0], 'present'),
+    challenge: meaning(cards[1], 'challenge'),
+    outcome: meaning(cards[2], 'outcome'),
   };
 
   // Theme: 2+ Major cards wins, then any suit drawn 2+ times, otherwise mixed.

@@ -64,11 +64,18 @@ export interface Templates {
   disclaimer: Text;
 }
 
+/** Offline, question-specific interpretations. Keys use the existing card IDs. */
+export interface QuestionReading {
+  questionId: string;
+  cards: Partial<Record<string, Card['meaning']>>;
+}
+
 export interface Content {
   cards: Card[];
   zodiac: Zodiac[];
   topics: Topic[];
   templates: Templates;
+  questionReadings?: Partial<Record<string, QuestionReading>>;
 }
 
 export interface ReadingInput {

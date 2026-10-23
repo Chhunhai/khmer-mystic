@@ -1,11 +1,43 @@
 // Checks all content and reproduces the worked example. Run: npm run check
 import assert from 'node:assert';
-import { readFileSync } from 'node:fs';
+import { readFileSync, readdirSync } from 'node:fs';
 import { buildReading, drawCards } from '../src/engine/reading.ts';
-import type { Content } from '../src/engine/types.ts';
+import type { Content, QuestionReading } from '../src/engine/types.ts';
 
 const load = (f: string) => JSON.parse(readFileSync(new URL(`../src/content/${f}.json`, import.meta.url), 'utf8'));
 const content: Content = { cards: load('cards'), zodiac: load('zodiac'), topics: load('topics'), templates: load('templates') };
+const genericContent = { ...content };
+const questionReadings: Record<string, QuestionReading> = {};
+const readingFiles = readdirSync(new URL('../src/content/readings/', import.meta.url)).filter(f => f.endsWith('.json'));
+const appContentSource = readFileSync(new URL('../src/content/index.ts', import.meta.url), 'utf8');
+const questionIds = new Set(content.topics.flatMap(t => t.questions.map(q => q.id)));
+const positions = ['present', 'challenge', 'outcome'] as const;
+const languages = ['en', 'km'] as const;
+for (const file of readingFiles) {
+  const saved: QuestionReading = load(`readings/${file.slice(0, -5)}`);
+  assert.equal(file, `${saved.questionId}.json`, 'reading filename matches question ID');
+  assert.ok(questionIds.has(saved.questionId), `${file}: known question`);
+  assert.ok(appContentSource.includes(`'./readings/${file}'`), `${file}: imported by the app`);
+  assert.deepEqual(Object.keys(saved).sort(), ['cards', 'questionId'], `${file}: expected structure`);
+  assert.deepEqual(Object.keys(saved.cards).sort(), content.cards.map(c => c.id).sort(), `${file}: exactly the 78 known cards`);
+  for (const c of content.cards) {
+    const entry = saved.cards[c.id]!;
+    assert.deepEqual(Object.keys(entry).sort(), [...positions].sort(), `${file} ${c.id}: all three positions`);
+    for (const p of positions) {
+      assert.deepEqual(Object.keys(entry[p]).sort(), [...languages].sort(), `${file} ${c.id} ${p}: both languages`);
+      for (const lang of languages) {
+        const text = entry[p][lang];
+        assert.ok(typeof text === 'string' && text.trim() === text && text.length > 20, `${file} ${c.id} ${p} ${lang}: complete text`);
+        assert.ok(!/[{}]|undefined|TODO|TBD|interpretation here/i.test(text), `${file} ${c.id} ${p} ${lang}: no placeholders`);
+        assert.notEqual(text, c.meaning[p][lang], `${file} ${c.id} ${p} ${lang}: authored interpretation, not copied generic meaning`);
+        assert.ok(lang === 'en' ? !/[\u1780-\u17ff]/.test(text) : /[\u1780-\u17ff]/.test(text) && !/[A-Za-z]/.test(text), `${file} ${c.id} ${p} ${lang}: one language only`);
+      }
+    }
+  }
+  questionReadings[saved.questionId] = saved;
+}
+assert.ok(questionReadings['LF-01'], 'first question pilot is present');
+content.questionReadings = questionReadings;
 
 assert.equal(content.cards.length, 78, '78 cards');
 assert.equal(content.zodiac.length, 12, '12 zodiac animals');
@@ -34,6 +66,9 @@ for (const t of content.topics)
       for (const cardIds of draws)
         for (const lang of ['en', 'km'] as const) {
           const r = buildReading({ lang, zodiacId: 'TIG', questionId: q.id, timeFrame: tf.id, cardIds }, content);
+          if (!questionReadings[q.id]) {
+            assert.deepEqual(r, buildReading({ lang, zodiacId: 'TIG', questionId: q.id, timeFrame: tf.id, cardIds }, genericContent), `${q.id}: existing reading unchanged`);
+          }
           for (const p of r.parts) assert.ok(p.text && !/[{}]|undefined/.test(p.text), `${q.id} ${tf.id} ${lang} ${p.key}: ${p.text}`);
           if (lang === 'km') assert.ok(r.parts.every(p => !/[A-Za-z]{3,}/.test(p.text)), `${q.id} Khmer has English words`);
           assert.ok(r.parts.some(p => p.key === 'answer'), `${q.id} answer line`);
@@ -43,6 +78,49 @@ for (const t of content.topics)
           if (lang === 'en' && /not yet|waiting and preparing/.test(all)) assert.ok(all.includes('asks for care'), `${q.id} not-yet lean with a non-testing mood`);
         }
   }
+
+// Every saved interpretation is selected in its actual position, in both languages,
+// across every time frame and animal. Checks the same parts consumed by result/full/viewer.
+let savedCases = 0;
+const contentBefore = JSON.stringify(content);
+for (const saved of Object.values(questionReadings))
+  for (const [i, c] of content.cards.entries())
+    for (const [slot, position] of positions.entries())
+      for (const lang of languages)
+        for (const tf of content.templates.timeFrames)
+          for (const zodiac of content.zodiac) {
+            const others = [content.cards[(i + 1) % 78].id, content.cards[(i + 2) % 78].id];
+            const cardIds = [...others];
+            cardIds.splice(slot, 0, c.id);
+            const request = { lang, zodiacId: zodiac.id, questionId: saved.questionId, timeFrame: tf.id, cardIds };
+            const r = buildReading(request, content);
+            assert.ok(partText(r, position).includes(saved.cards[c.id]![position][lang]), `${saved.questionId} ${c.id} ${position} ${lang}: saved text used`);
+            if (slot === 0 && saved.questionId === 'LF-01') {
+              assert.ok(partText(r, 'answer').includes(saved.cards[c.id]!.present[lang]), 'overall answer uses saved present text too');
+            }
+            assert.deepEqual(buildReading(request, content), r, 'saved readings remain deterministic');
+            assert.equal(r.parts.at(-1)?.key, 'disclaimer', 'disclaimer remains last');
+            for (const p of r.parts) {
+              assert.ok(p.text && !/[{}]|undefined/.test(p.text), `${saved.questionId}: complete ${p.key}`);
+              assert.ok(lang === 'km' ? !/[A-Za-z]/.test(p.text) : !/[\u1780-\u17ff]/.test(p.text), `${saved.questionId}: entire reading stays in ${lang}`);
+            }
+            savedCases++;
+          }
+assert.equal(JSON.stringify(content), contentBefore, 'reading generation does not mutate content');
+
+// A missing entry falls back to the generic meaning without changing other positions.
+const pilotInput = { lang: 'en', zodiacId: 'TIG', questionId: 'LF-01', timeFrame: 'present', cardIds: ['CUP-03', 'CUP-10', 'CUP-11'] } as const;
+const request = { ...pilotInput, cardIds: [...pilotInput.cardIds] };
+const pilot = buildReading(request, content);
+const generic = buildReading(request, genericContent);
+const partialContent: Content = { ...content, questionReadings: { 'LF-01': { questionId: 'LF-01', cards: { 'CUP-03': questionReadings['LF-01'].cards['CUP-03'] } } } };
+const partial = buildReading(request, partialContent);
+assert.equal(partText(partial, 'present'), partText(pilot, 'present'), 'available saved entry wins');
+assert.equal(partText(partial, 'challenge'), partText(generic, 'challenge'), 'missing challenge falls back');
+assert.equal(partText(partial, 'outcome'), partText(generic, 'outcome'), 'missing outcome falls back');
+assert.ok(partText(pilot, 'challenge').includes('Expecting your life or relationships to look perfect'), 'screenshot uses question-specific Ten of Cups challenge');
+assert.ok(partText(pilot, 'outcome').includes('a kind gesture or a creative possibility'), 'screenshot uses question-specific Page of Cups outcome');
+console.log(`Saved reading checks passed: ${readingFiles.length} question files, ${savedCases} card/position/language/time/animal cases; other questions retain existing text.`);
 
 // Yes/no questions lean with the mood of all three cards.
 const lean = (cardIds: string[]) =>
