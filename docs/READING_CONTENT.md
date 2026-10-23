@@ -38,6 +38,7 @@
 | `src/content/readings/MF-02.json` | How can I improve my money situation? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/MF-03.json` | What spending habits should I change? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/MF-04.json` | How can I build better saving habits? | 78 cards × 3 positions, English and Khmer (how) |
+| `src/content/readings/MF-05.json` | What new sources of income might open up? | 78 cards × 3 positions, English and Khmer (heading) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.

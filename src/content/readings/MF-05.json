@@ -1,0 +1,1097 @@
+{
+  "questionId": "MF-05",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You may be open to earning in a way you have never tried, perhaps a side project or a leap into something new. That willingness is itself a resource.",
+        "km": "អ្នកប្រហែលជាបើកចិត្តចំពោះការរកប្រាក់តាមវិធីដែលអ្នកមិនដែលសាកល្បង ប្រហែលជាគម្រោងបន្ថែម ឬការលោតចូលអ្វីថ្មី។ ឆន្ទៈនោះ គឺជាធនធានមួយដោយខ្លួនវា។"
+      },
+      "challenge": {
+        "en": "Chasing every new money idea without checking it could lead to wasted effort or even scams. Test an idea small before you commit to it.",
+        "km": "ការដេញតាមគ្រប់គំនិតរកប្រាក់ថ្មី ដោយមិនពិនិត្យវា អាចនាំទៅរកការខិតខំខ្ជះខ្ជាយ ឬសូម្បីតែការបោកប្រាស់។ សូមសាកល្បងគំនិតមួយក្នុងទំហំតូច មុនពេលអ្នកប្តេជ្ញាចិត្តចំពោះវា។"
+      },
+      "outcome": {
+        "en": "An unexpected new way of earning could appear, perhaps from a hobby or a chance meeting. A small experiment may grow into a real income stream.",
+        "km": "វិធីរកប្រាក់ថ្មីដែលមិនបានរំពឹងទុក អាចលេចឡើង ប្រហែលជាពីចំណង់ចំណូលចិត្ត ឬការជួបគ្នាដោយចៃដន្យ។ ការពិសោធន៍តូចមួយ អាចរីកធំទៅជាប្រភពចំណូលពិតប្រាកដ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You already have skills, tools or knowledge that others would pay for. Seeing them as income-earning assets is the first step.",
+        "km": "អ្នកមានជំនាញ ឧបករណ៍ ឬចំណេះដឹងរួចហើយ ដែលអ្នកដទៃនឹងបង់ប្រាក់សម្រាប់។ ការមើលឃើញវាជាទ្រព្យសម្បត្តិរកចំណូល គឺជាជំហានដំបូង។"
+      },
+      "challenge": {
+        "en": "Undervaluing what you can do could stop you from offering it at all. Practise describing your skills as something of value.",
+        "km": "ការបន្ទាបតម្លៃអ្វីដែលអ្នកអាចធ្វើបាន អាចរារាំងអ្នកពីការផ្តល់វាទាល់តែសោះ។ សូមហាត់រៀបរាប់ជំនាញរបស់អ្នក ជាអ្វីមួយដែលមានតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Turning a skill you already have into paid work could open a practical new source of income. Freelance or small jobs may grow from it.",
+        "km": "ការប្រែជំនាញដែលអ្នកមានរួចហើយ ទៅជាការងារដែលទទួលបានប្រាក់ អាចបើកប្រភពចំណូលថ្មីជាក់ស្តែង។ ការងារឯករាជ្យ ឬការងារតូចៗ អាចដុះចេញពីវា។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Quiet knowledge or expertise you rarely talk about could be more valuable than you think. Opportunities may be forming out of sight.",
+        "km": "ចំណេះដឹង ឬជំនាញស្ងាត់ៗ ដែលអ្នកកម្រនិយាយ អាចមានតម្លៃច្រើនជាងអ្វីដែលអ្នកគិត។ ឱកាសប្រហែលជាកំពុងកើតឡើងនៅកន្លែងដែលមើលមិនឃើញ។"
+      },
+      "challenge": {
+        "en": "Keeping your abilities hidden could mean the right people never hear of them. Let someone know what you can offer.",
+        "km": "ការលាក់សមត្ថភាពរបស់អ្នក អាចមានន័យថាមនុស្សត្រឹមត្រូវមិនដែលឮពីវា។ សូមឱ្យនរណាម្នាក់ដឹងពីអ្វីដែលអ្នកអាចផ្តល់ជូន។"
+      },
+      "outcome": {
+        "en": "Income could come from research, advice or behind-the-scenes work that suits your quiet strengths. A hidden opportunity may come to light.",
+        "km": "ចំណូល អាចមកពីការស្រាវជ្រាវ ការផ្តល់ដំបូន្មាន ឬការងារនៅពីក្រោយឆាក ដែលសមនឹងចំណុចខ្លាំងស្ងប់ស្ងាត់របស់អ្នក។ ឱកាសលាក់កំបាំង អាចលេចចេញមក។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "You may have a talent for making, growing or nurturing things that people value. Creativity and care could become a source of earnings.",
+        "km": "អ្នកប្រហែលជាមានទេពកោសល្យក្នុងការធ្វើ ដាំដុះ ឬថែទាំរបស់ដែលមនុស្សឱ្យតម្លៃ។ ភាពច្នៃប្រឌិត និងការយកចិត្តទុកដាក់ អាចក្លាយជាប្រភពប្រាក់ចំណូល។"
+      },
+      "challenge": {
+        "en": "Giving your creations away or pricing them too low could keep a promising idea from paying. Charge fairly for what you make.",
+        "km": "ការផ្តល់ស្នាដៃរបស់អ្នកដោយឥតគិតថ្លៃ ឬកំណត់តម្លៃទាបពេក អាចរារាំងគំនិតដែលមានសក្តានុពលពីការផ្តល់ប្រាក់។ សូមគិតថ្លៃដោយយុត្តិធម៌សម្រាប់អ្វីដែលអ្នកធ្វើ។"
+      },
+      "outcome": {
+        "en": "Handmade goods, food, plants or creative work could grow into a steady income. Something you enjoy making may find eager buyers.",
+        "km": "ទំនិញធ្វើដោយដៃ អាហារ រុក្ខជាតិ ឬការងារច្នៃប្រឌិត អាចរីកធំទៅជាចំណូលនឹងនរ។ អ្វីមួយដែលអ្នករីករាយធ្វើ អាចរកឃើញអ្នកទិញដែលចង់បាន។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Your reliability and organising skills could be worth more in a role with more responsibility. Structure is one of your strengths.",
+        "km": "ភាពគួរឱ្យទុកចិត្ត និងជំនាញរៀបចំរបស់អ្នក អាចមានតម្លៃច្រើនជាងមុន ក្នុងតួនាទីដែលមានការទទួលខុសត្រូវច្រើនជាង។ រចនាសម្ព័ន្ធ គឺជាចំណុចខ្លាំងមួយរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Sticking to familiar routines could mean overlooking a chance to step up. Ask about roles with more authority.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ដែលធ្លាប់ស្គាល់ អាចមានន័យថាការមើលរំលងឱកាសដើម្បីឡើង។ សូមសួរអំពីតួនាទីដែលមានអំណាចច្រើនជាង។"
+      },
+      "outcome": {
+        "en": "A more senior or managerial role could bring a steadier, higher income. Stability may come with added responsibility.",
+        "km": "តួនាទីជាន់ខ្ពស់ ឬតួនាទីគ្រប់គ្រង អាចនាំមកនូវចំណូលនឹងនរ និងខ្ពស់ជាងមុន។ ស្ថិរភាព អាចមកជាមួយការទទួលខុសត្រូវបន្ថែម។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Your experience in a field could qualify you to teach, train or mentor others. Established knowledge has real market value.",
+        "km": "បទពិសោធន៍របស់អ្នកក្នុងវិស័យមួយ អាចធ្វើឱ្យអ្នកមានលក្ខណៈសម្បត្តិបង្រៀន បណ្តុះបណ្តាល ឬណែនាំអ្នកដទៃ។ ចំណេះដឹងដែលបានបង្កើតឡើង មានតម្លៃទីផ្សារពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Assuming only formal qualifications count could stop you offering what you know. Practical experience is often what learners want most.",
+        "km": "ការសន្មតថាមានតែគុណវុឌ្ឍិផ្លូវការប៉ុណ្ណោះដែលរាប់បញ្ចូល អាចរារាំងអ្នកពីការផ្តល់អ្វីដែលអ្នកដឹង។ បទពិសោធន៍ជាក់ស្តែង ជារឿយៗជាអ្វីដែលអ្នករៀនចង់បានបំផុត។"
+      },
+      "outcome": {
+        "en": "Teaching, tutoring or training could become a respected new source of income. An institution or community may value what you know.",
+        "km": "ការបង្រៀន ការបង្រៀនបន្ថែម ឬការបណ្តុះបណ្តាល អាចក្លាយជាប្រភពចំណូលថ្មីដែលគេគោរព។ ស្ថាប័ន ឬសហគមន៍ អាចឱ្យតម្លៃអ្វីដែលអ្នកដឹង។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "A partnership with someone whose skills complement yours could open earning possibilities. Two people together can offer more.",
+        "km": "ភាពជាដៃគូជាមួយនរណាម្នាក់ ដែលជំនាញរបស់ពួកគេបំពេញជំនាញរបស់អ្នក អាចបើកលទ្ធភាពរកប្រាក់។ មនុស្សពីរនាក់ជាមួយគ្នា អាចផ្តល់ជូនបានច្រើនជាង។"
+      },
+      "challenge": {
+        "en": "Entering a money partnership without clear agreements could cause conflict later. Agree on roles and shares at the start.",
+        "km": "ការចូលភាពជាដៃគូប្រាក់ ដោយគ្មានកិច្ចព្រមព្រៀងច្បាស់លាស់ អាចបង្កជម្លោះនៅពេលក្រោយ។ សូមយល់ព្រមលើតួនាទី និងចំណែក តាំងពីដំបូង។"
+      },
+      "outcome": {
+        "en": "A well-matched partnership could create income neither of you would earn alone. Shared values may make it last.",
+        "km": "ភាពជាដៃគូដែលសមគ្នាល្អ អាចបង្កើតចំណូលដែលគ្មានអ្នកណាម្នាក់រកបានម្នាក់ឯង។ គុណតម្លៃរួម អាចធ្វើឱ្យវាស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Drive and determination could help you go after opportunities others leave untouched. Your energy is a resource for earning.",
+        "km": "កម្លាំងជំរុញ និងការប្តេជ្ញាចិត្ត អាចជួយអ្នកដេញតាមឱកាស ដែលអ្នកដទៃទុកមិនប៉ះ។ ថាមពលរបស់អ្នក គឺជាធនធានសម្រាប់ការរកប្រាក់។"
+      },
+      "challenge": {
+        "en": "Pushing into too many ventures at once could spread you thin. Focus on one direction and drive it forward.",
+        "km": "ការរុញចូលគម្រោងច្រើនពេកក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នកបែងចែកខ្លួនស្តើង។ សូមផ្តោតលើទិសដៅមួយ ហើយជំរុញវាទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Income from sales, delivery, travel or work that rewards effort could open up. Determination may carry you to real gains.",
+        "km": "ចំណូលពីការលក់ ការដឹកជញ្ជូន ការធ្វើដំណើរ ឬការងារដែលផ្តល់រង្វាន់ដល់ការខិតខំ អាចបើកឡើង។ ការប្តេជ្ញាចិត្ត អាចនាំអ្នកទៅរកផលចំណេញពិតប្រាកដ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience, gentleness and the ability to handle difficult situations could be valuable to others. Quiet strength is employable.",
+        "km": "ការអត់ធ្មត់ ភាពទន់ភ្លន់ និងសមត្ថភាពក្នុងការដោះស្រាយស្ថានភាពលំបាក អាចមានតម្លៃចំពោះអ្នកដទៃ។ កម្លាំងស្ងប់ស្ងាត់ អាចរកការងារបាន។"
+      },
+      "challenge": {
+        "en": "Doubting whether your gentle strengths are worth paying for could hold you back. Many paid roles need exactly that kind of patience.",
+        "km": "ការសង្ស័យថាតើចំណុចខ្លាំងទន់ភ្លន់របស់អ្នក សមនឹងការបង់ប្រាក់ឬទេ អាចរារាំងអ្នក។ តួនាទីដែលទទួលបានប្រាក់ជាច្រើន ត្រូវការការអត់ធ្មត់បែបនោះពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Work in care, support or with animals could become a fulfilling source of income. Patience may be well rewarded.",
+        "km": "ការងារក្នុងការថែទាំ ការគាំទ្រ ឬជាមួយសត្វ អាចក្លាយជាប្រភពចំណូលដែលពេញចិត្ត។ ការអត់ធ្មត់ អាចទទួលបានរង្វាន់ល្អ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Deep expertise or a specialist skill you have developed could be offered as advice or consulting. What you know well has value.",
+        "km": "ជំនាញជ្រៅ ឬជំនាញឯកទេសដែលអ្នកបានអភិវឌ្ឍ អាចត្រូវបានផ្តល់ជូនជាដំបូន្មាន ឬការប្រឹក្សា។ អ្វីដែលអ្នកដឹងច្បាស់ មានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Waiting until you feel like a complete expert could delay earning from what you already know. You may be more ready than you think.",
+        "km": "ការរង់ចាំរហូតដល់អ្នកមានអារម្មណ៍ថាជាអ្នកជំនាញពេញលេញ អាចពន្យារការរកប្រាក់ពីអ្វីដែលអ្នកដឹងរួចហើយ។ អ្នកប្រហែលជាត្រៀមខ្លួនរួចហើយ ច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "outcome": {
+        "en": "Consulting, tutoring or expert advice could become a quiet but steady income. Clients may come to you by recommendation.",
+        "km": "ការប្រឹក្សា ការបង្រៀនបន្ថែម ឬដំបូន្មានពីអ្នកជំនាញ អាចក្លាយជាចំណូលស្ងប់ស្ងាត់ តែនឹងនរ។ អតិថិជនអាចមករកអ្នកតាមរយៈការណែនាំ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Circumstances may be shifting in ways that open new earning chances. Staying alert to change is part of your advantage.",
+        "km": "កាលៈទេសៈប្រហែលជាកំពុងផ្លាស់ប្តូរ តាមវិធីដែលបើកឱកាសរកប្រាក់ថ្មី។ ការប្រុងប្រយ័ត្នចំពោះការផ្លាស់ប្តូរ គឺជាផ្នែកមួយនៃអត្ថប្រយោជន៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Relying on luck to bring income could leave you unprepared. Be ready when an opening appears.",
+        "km": "ការពឹងផ្អែកលើសំណាង ដើម្បីនាំចំណូលមក អាចធ្វើឱ្យអ្នកមិនបានត្រៀមខ្លួន។ សូមត្រៀមខ្លួនរួចរាល់ នៅពេលឱកាសលេចឡើង។"
+      },
+      "outcome": {
+        "en": "A turn of fortune could bring seasonal, irregular or unexpected income. Setting some aside in good stretches may smooth out the lean ones.",
+        "km": "វេននៃសំណាង អាចនាំមកនូវចំណូលតាមរដូវកាល មិនទៀងទាត់ ឬមិនបានរំពឹងទុក។ ការទុកខ្លះដាច់ដោយឡែកក្នុងដំណាក់កាលល្អ អាចធ្វើឱ្យដំណាក់កាលខ្វះខាតរលូន។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Fair agreements, contracts or money you are owed may be part of your picture. What is rightfully yours deserves attention.",
+        "km": "កិច្ចព្រមព្រៀងយុត្តិធម៌ កិច្ចសន្យា ឬប្រាក់ដែលគេជំពាក់អ្នក ប្រហែលជាផ្នែកមួយនៃរូបភាពរបស់អ្នក។ អ្វីដែលជាសិទ្ធិរបស់អ្នក សមនឹងការយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Unclear terms could leave you underpaid or out of pocket. Make sure every arrangement is written and fair.",
+        "km": "លក្ខខណ្ឌមិនច្បាស់លាស់ អាចធ្វើឱ្យអ្នកទទួលបានប្រាក់តិច ឬខាតបង់។ សូមប្រាកដថារាល់ការរៀបចំត្រូវបានសរសេរ និងយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "Contract work, a fair settlement or a balanced agreement could bring in money. Honest dealings may be rewarded.",
+        "km": "ការងារតាមកិច្ចសន្យា ការដោះស្រាយយុត្តិធម៌ ឬកិច្ចព្រមព្រៀងមានតុល្យភាព អាចនាំប្រាក់ចូល។ ការប្រព្រឹត្តដោយស្មោះត្រង់ អាចទទួលបានរង្វាន់។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Looking at your situation from an unusual angle could reveal income you had not considered. A pause may be preparing something new.",
+        "km": "ការមើលស្ថានភាពរបស់អ្នកពីមុំមិនធម្មតា អាចបង្ហាញពីចំណូលដែលអ្នកមិនបានពិចារណា។ ការផ្អាក ប្រហែលជាកំពុងរៀបចំអ្វីថ្មី។"
+      },
+      "challenge": {
+        "en": "Feeling stuck could make you think no new income is possible. Patience and a fresh view may change that.",
+        "km": "អារម្មណ៍ជាប់គាំង អាចធ្វើឱ្យអ្នកគិតថាគ្មានចំណូលថ្មីអាចទៅរួច។ ការអត់ធ្មត់ និងទស្សនៈថ្មី អាចផ្លាស់ប្តូររឿងនោះ។"
+      },
+      "outcome": {
+        "en": "An unconventional idea could become a new source of income. What seemed like a pause may turn into an opening.",
+        "km": "គំនិតមិនធម្មតាមួយ អាចក្លាយជាប្រភពចំណូលថ្មី។ អ្វីដែលហាក់ដូចជាការផ្អាក អាចប្រែក្លាយទៅជាឱកាស។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "An old source of income may be ending, which can make room for a new one. Change may already be underway.",
+        "km": "ប្រភពចំណូលចាស់ ប្រហែលជាកំពុងបញ្ចប់ ដែលអាចបើកកន្លែងសម្រាប់ប្រភពថ្មី។ ការផ្លាស់ប្តូរ ប្រហែលជាកំពុងដំណើរការរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Clinging to income that is fading could delay finding something better. Let go when it is clearly over.",
+        "km": "ការប្រកាន់ខ្ជាប់ចំណូលដែលកំពុងរសាត់បាត់ អាចពន្យារការរកអ្វីដែលល្អជាង។ សូមលែង នៅពេលវាច្បាស់ថាបានបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "A career change or entirely new line of work could bring fresh income. A transformation may open doors.",
+        "km": "ការផ្លាស់ប្តូរអាជីព ឬផ្នែកការងារថ្មីទាំងស្រុង អាចនាំមកនូវចំណូលថ្មី។ ការផ្លាស់ប្តូរ អាចបើកទ្វារ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Combining two of your skills in an unusual way could create something people would pay for. Blending strengths is your advantage.",
+        "km": "ការរួមបញ្ចូលជំនាញពីររបស់អ្នក តាមវិធីមិនធម្មតា អាចបង្កើតអ្វីមួយដែលមនុស្សនឹងបង់ប្រាក់សម្រាប់។ ការលាយបញ្ចូលចំណុចខ្លាំង គឺជាអត្ថប្រយោជន៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Taking on too many sources of income at once could leave you exhausted. Add one at a time.",
+        "km": "ការទទួលយកប្រភពចំណូលច្រើនពេកក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមបន្ថែមម្តងមួយ។"
+      },
+      "outcome": {
+        "en": "A balanced mix of income sources could bring steadier security. A blend of skills may open a niche.",
+        "km": "ការលាយបញ្ចូលប្រភពចំណូលដោយតុល្យភាព អាចនាំមកនូវសុវត្ថិភាពនឹងនរជាងមុន។ ការលាយបញ្ចូលជំនាញ អាចបើកទីផ្សារពិសេសមួយ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "An offer that promises easy money may be tempting you. Look closely at what it really asks of you.",
+        "km": "ការផ្តល់ជូនដែលសន្យាប្រាក់ងាយស្រួល ប្រហែលជាកំពុងល្បួងអ្នក។ សូមមើលឱ្យជិតពីអ្វីដែលវាពិតជាស្នើពីអ្នក។"
+      },
+      "challenge": {
+        "en": "Schemes that sound too good, or work that compromises your values, could trap you. Walk away from anything that feels wrong.",
+        "km": "គម្រោងដែលស្តាប់ទៅល្អពេក ឬការងារដែលធ្វើឱ្យគុណតម្លៃរបស់អ្នកខូច អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់។ សូមដើរចេញពីអ្វីដែលមានអារម្មណ៍ខុស។"
+      },
+      "outcome": {
+        "en": "Saying no to a bad deal could free you for income that is honest and sustainable. Freedom may matter more than quick money.",
+        "km": "ការបដិសេធកិច្ចព្រមព្រៀងអាក្រក់ អាចដោះលែងអ្នកសម្រាប់ចំណូលដែលស្មោះត្រង់ និងអាចទ្រទ្រង់បាន។ សេរីភាព អាចសំខាន់ជាងប្រាក់រហ័ស។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A sudden change at work or in your circumstances may be shaking up how you earn. Disruption can sometimes open new paths.",
+        "km": "ការផ្លាស់ប្តូរភ្លាមៗនៅកន្លែងធ្វើការ ឬក្នុងកាលៈទេសៈរបស់អ្នក ប្រហែលជាកំពុងរង្គោះរង្គើរបៀបដែលអ្នករកប្រាក់។ ការរំខាន ពេលខ្លះអាចបើកផ្លូវថ្មី។"
+      },
+      "challenge": {
+        "en": "Panicking after a loss of income could lead to accepting the first thing offered. Take a breath and weigh your options.",
+        "km": "ការភ័យស្លន់ស្លោ ក្រោយការបាត់បង់ចំណូល អាចនាំទៅរកការទទួលយកអ្វីដំបូងដែលគេផ្តល់ជូន។ សូមដកដង្ហើម ហើយថ្លឹងថ្លែងជម្រើសរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Losing one way of earning could push you toward one that suits you better. The shake-up may reveal skills you had not been using.",
+        "km": "ការបាត់បង់វិធីរកប្រាក់មួយ អាចរុញអ្នកឆ្ពោះទៅរកវិធីមួយដែលសមនឹងអ្នកជាង។ ការរង្គោះរង្គើ អាចបង្ហាញពីជំនាញដែលអ្នកមិនបានប្រើ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and creativity could inspire a new way of earning, perhaps online or through work that helps people. Optimism is a starting point.",
+        "km": "ក្តីសង្ឃឹម និងភាពច្នៃប្រឌិត អាចបំផុសវិធីរកប្រាក់ថ្មី ប្រហែលជាតាមអ៊ីនធឺណិត ឬតាមរយៈការងារដែលជួយមនុស្ស។ សុទិដ្ឋិនិយម គឺជាចំណុចចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Expecting a new venture to pay off quickly could lead to disappointment. Most new income starts as a trickle before it flows.",
+        "km": "ការរំពឹងថាគម្រោងថ្មីនឹងផ្តល់ផលលឿន អាចនាំឱ្យខកចិត្ត។ ចំណូលថ្មីភាគច្រើន ចាប់ផ្តើមជាការហូរតិចៗ មុនពេលវាហូរខ្លាំង។"
+      },
+      "outcome": {
+        "en": "Creative, healing or community-minded work could bring income and meaning together. A hopeful idea may take root.",
+        "km": "ការងារច្នៃប្រឌិត ព្យាបាល ឬផ្តោតលើសហគមន៍ អាចនាំមកនូវចំណូល និងអត្ថន័យរួមគ្នា។ គំនិតដែលមានក្តីសង្ឃឹម អាចចាក់ឫស។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Your intuition about where opportunities lie may be sharp, even if details are unclear. Some possibilities are still forming.",
+        "km": "វិចារណញាណរបស់អ្នកអំពីកន្លែងដែលឱកាសស្ថិតនៅ ប្រហែលជាមុតស្រួច ទោះបីព័ត៌មានលម្អិតមិនច្បាស់ក៏ដោយ។ លទ្ធភាពខ្លះ នៅតែកំពុងកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Vague offers or unclear promises of income could hide risks. Ask for details in writing before committing.",
+        "km": "ការផ្តល់ជូនមិនច្បាស់ ឬការសន្យាមិនច្បាស់លាស់អំពីចំណូល អាចលាក់ហានិភ័យ។ សូមស្នើសុំព័ត៌មានលម្អិតជាលាយលក្ខណ៍អក្សរ មុនពេលប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "Income from imaginative or intuitive work could become clearer as it develops. Trusting your instincts carefully may pay off.",
+        "km": "ចំណូលពីការងារស្រមើស្រមៃ ឬវិចារណញាណ អាចកាន់តែច្បាស់ ខណៈវារីកចម្រើន។ ការទុកចិត្តលើសភាវគតិរបស់អ្នកដោយប្រុងប្រយ័ត្ន អាចទទួលបានផល។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Visible success and a positive reputation could attract earning opportunities. People notice what you do well.",
+        "km": "ភាពជោគជ័យដែលមើលឃើញ និងកេរ្តិ៍ឈ្មោះវិជ្ជមាន អាចទាក់ទាញឱកាសរកប្រាក់។ មនុស្សកត់សម្គាល់អ្វីដែលអ្នកធ្វើបានល្អ។"
+      },
+      "challenge": {
+        "en": "Spending new income as fast as it arrives could leave you no better off. Keep some of each gain.",
+        "km": "ការចំណាយចំណូលថ្មីលឿនដូចដែលវាមកដល់ អាចធ្វើឱ្យអ្នកមិនប្រសើរឡើង។ សូមរក្សាខ្លះពីផលចំណេញនីមួយៗ។"
+      },
+      "outcome": {
+        "en": "Work that puts you in the public eye could bring rewarding income. One visible success may lead to several more invitations.",
+        "km": "ការងារដែលដាក់អ្នកនៅមុខសាធារណជន អាចនាំមកនូវចំណូលដែលផ្តល់ផលល្អ។ ភាពជោគជ័យដែលមើលឃើញមួយ អាចនាំទៅរកការអញ្ជើញជាច្រើនទៀត។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You may feel called toward a different kind of work, one that could also support you financially. Listening to that call matters.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានហៅទៅរកការងារប្រភេទផ្សេង ដែលក៏អាចគាំទ្រអ្នកផ្នែកហិរញ្ញវត្ថុផងដែរ។ ការស្តាប់ការត្រាស់ហៅនោះ មានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Ignoring a calling because the money seems uncertain could leave you restless. Explore it carefully alongside existing income.",
+        "km": "ការមិនខ្វល់ពីការត្រាស់ហៅ ព្រោះប្រាក់ហាក់ដូចជាមិនប្រាកដ អាចធ្វើឱ្យអ្នកមិនស្ងប់។ សូមស្វែងរកវាដោយប្រុងប្រយ័ត្ន រួមជាមួយចំណូលដែលមានស្រាប់។"
+      },
+      "outcome": {
+        "en": "Answering a deeper calling could bring both income and fulfilment. Work that feels right may also turn out to pay.",
+        "km": "ការឆ្លើយតបនឹងការត្រាស់ហៅជ្រៅជាង អាចនាំមកនូវទាំងចំណូល និងការពេញចិត្ត។ ការងារដែលមានអារម្មណ៍ត្រឹមត្រូវ ក៏អាចប្រែជាផ្តល់ប្រាក់ដែរ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Experience you have gathered may be ready to pay off in a new arena. Your skills have come together.",
+        "km": "បទពិសោធន៍ដែលអ្នកបានប្រមូល ប្រហែលជាត្រៀមខ្លួនដើម្បីផ្តល់ផលក្នុងវិស័យថ្មី។ ជំនាញរបស់អ្នក បានប្រមូលផ្តុំគ្នា។"
+      },
+      "challenge": {
+        "en": "Hesitating to step into a bigger arena could keep you earning less than you could. Your experience may already be enough to compete.",
+        "km": "ការស្ទាក់ស្ទើរក្នុងការបោះជំហានចូលវិស័យធំជាងមុន អាចធ្វើឱ្យអ្នករកបានតិចជាងអ្វីដែលអ្នកអាច។ បទពិសោធន៍របស់អ្នក ប្រហែលជាគ្រប់គ្រាន់រួចហើយ ដើម្បីប្រកួតប្រជែង។"
+      },
+      "outcome": {
+        "en": "Income from wider markets, even international ones, could open up. A new cycle of earning may begin.",
+        "km": "ចំណូលពីទីផ្សារទូលាយជាងមុន សូម្បីតែទីផ្សារអន្តរជាតិ អាចបើកឡើង។ វដ្តថ្មីនៃការរកប្រាក់ អាចចាប់ផ្តើម។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A fresh idea for earning may be sparking, perhaps a small business, a side project or a new service. Your enthusiasm is the seed.",
+        "km": "គំនិតថ្មីសម្រាប់ការរកប្រាក់ ប្រហែលជាកំពុងឆាបឆេះ ប្រហែលជាអាជីវកម្មតូច គម្រោងបន្ថែម ឬសេវាថ្មី។ ភាពរីករាយរបស់អ្នក គឺជាគ្រាប់ពូជ។"
+      },
+      "challenge": {
+        "en": "An exciting idea that never gets tested could fade without earning anything. Take one concrete step to try it out.",
+        "km": "គំនិតគួរឱ្យរំភើបដែលមិនដែលត្រូវបានសាកល្បង អាចរសាត់បាត់ដោយមិនរកបានអ្វី។ សូមបោះជំហានជាក់ស្តែងមួយ ដើម្បីសាកល្បងវា។"
+      },
+      "outcome": {
+        "en": "A small new venture could take off and become a real source of income. A spark may grow into something steady.",
+        "km": "គម្រោងថ្មីតូចមួយ អាចចាប់ផ្តើមបានល្អ ហើយក្លាយជាប្រភពចំណូលពិតប្រាកដ។ ផ្កាភ្លើងមួយ អាចរីកធំទៅជាអ្វីដែលនឹងនរ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You may be weighing several ways to increase your income and looking further ahead. A plan is beginning to form.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងវិធីជាច្រើន ដើម្បីបង្កើនចំណូលរបស់អ្នក ហើយមើលទៅមុខឆ្ងាយជាងមុន។ ផែនការមួយ កំពុងចាប់ផ្តើមកើតឡើង។"
+      },
+      "challenge": {
+        "en": "Planning without acting could leave every option untried. Choose one path and test it on a small scale.",
+        "km": "ការធ្វើផែនការ ដោយមិនធ្វើសកម្មភាព អាចធ្វើឱ្យរាល់ជម្រើសមិនបានសាកល្បង។ សូមជ្រើសរើសផ្លូវមួយ ហើយសាកល្បងវាក្នុងទំហំតូច។"
+      },
+      "outcome": {
+        "en": "A well-planned move could open income from new places or markets. Wider horizons may bring wider earnings.",
+        "km": "ចលនាដែលបានគ្រោងទុកល្អ អាចបើកចំណូលពីកន្លែង ឬទីផ្សារថ្មី។ ជើងមេឃទូលាយជាងមុន អាចនាំមកនូវប្រាក់ចំណូលទូលាយជាងមុន។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Efforts you have already made may be starting to bring returns from further afield. Your reach is growing.",
+        "km": "ការខិតខំដែលអ្នកបានធ្វើរួចហើយ ប្រហែលជាកំពុងចាប់ផ្តើមនាំមកនូវផលត្រឡប់ពីកន្លែងឆ្ងាយ។ វិសាលភាពរបស់អ្នក កំពុងរីកធំ។"
+      },
+      "challenge": {
+        "en": "Waiting passively for opportunities to arrive could mean missing them. Keep reaching out to new people and places.",
+        "km": "ការរង់ចាំឱកាសដោយអសកម្ម អាចមានន័យថាខកខានវា។ សូមបន្តលាតដៃទៅរកមនុស្ស និងកន្លែងថ្មី។"
+      },
+      "outcome": {
+        "en": "Income from distant customers, online work or trade could open up. Opportunities may arrive from further than expected.",
+        "km": "ចំណូលពីអតិថិជននៅឆ្ងាយ ការងារតាមអ៊ីនធឺណិត ឬពាណិជ្ជកម្ម អាចបើកឡើង។ ឱកាសអាចមកដល់ពីកន្លែងឆ្ងាយជាងការរំពឹង។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A stable base and supportive community could help a new income idea get started. Celebrations and gatherings may bring connections.",
+        "km": "មូលដ្ឋានមានស្ថិរភាព និងសហគមន៍ដែលគាំទ្រ អាចជួយគំនិតចំណូលថ្មីឱ្យចាប់ផ្តើម។ ការអបអរ និងការជួបជុំ អាចនាំមកនូវទំនាក់ទំនង។"
+      },
+      "challenge": {
+        "en": "Settling into comfort could make you overlook chances to earn more. Stay open when people mention possibilities.",
+        "km": "ការចូលទៅក្នុងភាពសុខស្រួល អាចធ្វើឱ្យអ្នកមើលរំលងឱកាសដើម្បីរកប្រាក់បានច្រើនជាងមុន។ សូមបើកចិត្ត នៅពេលមនុស្សលើកឡើងពីលទ្ធភាព។"
+      },
+      "outcome": {
+        "en": "Income from events, hospitality or home-based work could grow. A secure, happy foundation may support it.",
+        "km": "ចំណូលពីព្រឹត្តិការណ៍ បដិសណ្ឋារកិច្ច ឬការងារនៅផ្ទះ អាចរីកចម្រើន។ មូលដ្ឋានមានសុវត្ថិភាព និងរីករាយ អាចគាំទ្រវា។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "A competitive market may be pushing you to find what makes you stand out. Differences can become selling points.",
+        "km": "ទីផ្សារប្រកួតប្រជែង ប្រហែលជាកំពុងជំរុញអ្នកឱ្យរកអ្វីដែលធ្វើឱ្យអ្នកលេចធ្លោ។ ភាពខុសគ្នា អាចក្លាយជាចំណុចលក់។"
+      },
+      "challenge": {
+        "en": "Competing on price alone could leave you working hard for little reward. Compete on quality and reliability instead.",
+        "km": "ការប្រកួតប្រជែងតែលើតម្លៃ អាចធ្វើឱ្យអ្នកខិតខំច្រើន ដើម្បីរង្វាន់តិចតួច។ សូមប្រកួតប្រជែងលើគុណភាព និងភាពគួរឱ្យទុកចិត្តជំនួសវិញ។"
+      },
+      "outcome": {
+        "en": "Standing out in a crowded field could bring new customers and income. Healthy competition may sharpen your offer.",
+        "km": "ការលេចធ្លោក្នុងវិស័យដែលមានមនុស្សច្រើន អាចនាំមកនូវអតិថិជន និងចំណូលថ្មី។ ការប្រកួតប្រជែងល្អ អាចធ្វើឱ្យការផ្តល់ជូនរបស់អ្នកមុតស្រួច។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Recognition for your work may be building, which can open earning opportunities. Your reputation is an asset.",
+        "km": "ការទទួលស្គាល់ការងាររបស់អ្នក ប្រហែលជាកំពុងកសាងឡើង ដែលអាចបើកឱកាសរកប្រាក់។ កេរ្តិ៍ឈ្មោះរបស់អ្នក គឺជាទ្រព្យសម្បត្តិ។"
+      },
+      "challenge": {
+        "en": "Being too modest about your achievements could hide them from people who would pay. Let your success be known.",
+        "km": "ការរាបទាបពេកអំពីសមិទ្ធផលរបស់អ្នក អាចលាក់វាពីមនុស្សដែលនឹងបង់ប្រាក់។ សូមឱ្យភាពជោគជ័យរបស់អ្នកត្រូវបានគេដឹង។"
+      },
+      "outcome": {
+        "en": "Public recognition could lead to promotions, bonuses or new clients. Being known for good work may become your best advertisement.",
+        "km": "ការទទួលស្គាល់ជាសាធារណៈ អាចនាំទៅរកការដំឡើងតួនាទី ប្រាក់រង្វាន់ ឬអតិថិជនថ្មី។ ការត្រូវបានគេស្គាល់ដោយការងារល្អ អាចក្លាយជាការផ្សព្វផ្សាយល្អបំផុតរបស់អ្នក។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may be defending your position in a competitive field, holding on to what you have earned. Persistence is serving you.",
+        "km": "អ្នកប្រហែលជាកំពុងការពារជំហររបស់អ្នក ក្នុងវិស័យប្រកួតប្រជែង ដោយកាន់ខ្ជាប់អ្វីដែលអ្នកបានរកបាន។ ការតស៊ូ កំពុងមានប្រយោជន៍សម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Spending all your energy defending old income could leave none for new sources. Make room for growth.",
+        "km": "ការចំណាយថាមពលទាំងអស់ ដើម្បីការពារចំណូលចាស់ អាចមិនទុកអ្វីសម្រាប់ប្រភពថ្មី។ សូមទុកកន្លែងសម្រាប់ការរីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "Keeping a firm hold on the income you have could give you a safe base to try something new. New options may grow beside the old.",
+        "km": "ការកាន់ខ្ជាប់ចំណូលដែលអ្នកមាន អាចផ្តល់មូលដ្ឋានសុវត្ថិភាពដល់អ្នក ដើម្បីសាកល្បងអ្វីថ្មី។ ជម្រើសថ្មី អាចដុះនៅក្បែរជម្រើសចាស់។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things may be moving quickly, with offers, messages or opportunities arriving fast. The pace itself may be a sign of demand for you.",
+        "km": "អ្វីៗប្រហែលជាកំពុងផ្លាស់ទីយ៉ាងរហ័ស ដោយមានការផ្តល់ជូន សារ ឬឱកាសមកដល់លឿន។ ល្បឿនខ្លួនវាផ្ទាល់ ប្រហែលជាសញ្ញានៃតម្រូវការសម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Saying yes to every fast-moving offer could lead to overcommitment or poor deals. Check before you accept.",
+        "km": "ការយល់ព្រមចំពោះរាល់ការផ្តល់ជូនដែលផ្លាស់ទីលឿន អាចនាំទៅរកការប្តេជ្ញាហួសហេតុ ឬកិច្ចព្រមព្រៀងមិនល្អ។ សូមពិនិត្យមុនពេលអ្នកទទួលយក។"
+      },
+      "outcome": {
+        "en": "New income could arrive faster than you expect. Quick, clear replies to enquiries may win the best offers.",
+        "km": "ចំណូលថ្មី អាចមកដល់លឿនជាងអ្វីដែលអ្នករំពឹង។ ការឆ្លើយតបរហ័ស និងច្បាស់លាស់ចំពោះការសាកសួរ អាចឈ្នះការផ្តល់ជូនល្អបំផុត។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may be weary from working hard for modest returns, but your persistence has built resilience. You are still in the game.",
+        "km": "អ្នកប្រហែលជានឿយហត់ពីការខិតខំច្រើន ដើម្បីផលត្រឡប់តិចតួច តែការតស៊ូរបស់អ្នក បានកសាងភាពធន់។ អ្នកនៅតែនៅក្នុងការប្រកួត។"
+      },
+      "challenge": {
+        "en": "Exhaustion could make you give up just before a new opportunity appears. Rest, but stay alert.",
+        "km": "ការអស់កម្លាំង អាចធ្វើឱ្យអ្នកបោះបង់ មុនពេលឱកាសថ្មីលេចឡើងបន្តិច។ សូមសម្រាក តែនៅតែប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Your persistence could finally lead to a better source of income. The effort may be worth it.",
+        "km": "ការតស៊ូរបស់អ្នក អាចនាំទៅរកប្រភពចំណូលល្អជាងនៅទីបំផុត។ ការខិតខំ អាចសមនឹងតម្លៃ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may be carrying a heavy workload that limits time for new income ideas. Something may need to be put down.",
+        "km": "អ្នកប្រហែលជាកំពុងលីបន្ទុកការងារធ្ងន់ ដែលកំណត់ពេលវេលាសម្រាប់គំនិតចំណូលថ្មី។ អ្វីមួយប្រហែលជាត្រូវដាក់ចុះ។"
+      },
+      "challenge": {
+        "en": "Adding a new income stream on top of an already heavy load could lead to burnout. Lighten one area first.",
+        "km": "ការបន្ថែមប្រភពចំណូលថ្មី លើបន្ទុកដែលធ្ងន់រួចហើយ អាចនាំឱ្យអស់កម្លាំង។ សូមបន្ធូរផ្នែកមួយជាមុន។"
+      },
+      "outcome": {
+        "en": "Freeing up time could open room for a more rewarding source of income. Delegation may help.",
+        "km": "ការដោះលែងពេលវេលា អាចបើកកន្លែងសម្រាប់ប្រភពចំណូលដែលផ្តល់ផលល្អជាង។ ការប្រគល់ភារកិច្ច អាចជួយបាន។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity about new fields or skills may be pointing toward future income. Exploring is a good starting point.",
+        "km": "ការចង់ដឹងចង់ឃើញអំពីវិស័យ ឬជំនាញថ្មី ប្រហែលជាកំពុងចង្អុលទៅរកចំណូលនាពេលអនាគត។ ការស្វែងរក គឺជាចំណុចចាប់ផ្តើមល្អ។"
+      },
+      "challenge": {
+        "en": "Chasing every new trend could scatter your energy and money. Explore widely, then choose one to pursue properly.",
+        "km": "ការដេញតាមរាល់និន្នាការថ្មី អាចធ្វើឱ្យថាមពល និងប្រាក់របស់អ្នករាយប៉ាយ។ សូមស្វែងរកឱ្យទូលាយ បន្ទាប់មកជ្រើសរើសមួយដើម្បីដេញតាមឱ្យបានត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "A new interest could grow into paid work. A first small job may arrive through someone who notices your enthusiasm.",
+        "km": "ចំណាប់អារម្មណ៍ថ្មី អាចរីកធំទៅជាការងារដែលទទួលបានប្រាក់។ ការងារតូចដំបូងមួយ អាចមកដល់តាមរយៈនរណាម្នាក់ដែលកត់សម្គាល់ភាពរីករាយរបស់អ្នក។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You may be ready to chase income opportunities boldly and energetically. Quick action could bring results others wait too long for.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនដេញតាមឱកាសចំណូលដោយក្លាហាន និងសកម្ម។ សកម្មភាពរហ័ស អាចនាំមកនូវលទ្ធផលដែលអ្នកដទៃរង់ចាំយូរពេក។"
+      },
+      "challenge": {
+        "en": "Rushing into a venture without planning could cost more than it earns. Look before you leap.",
+        "km": "ការប្រញាប់ចូលគម្រោង ដោយគ្មានការធ្វើផែនការ អាចចំណាយច្រើនជាងអ្វីដែលវារកបាន។ សូមមើលមុនពេលអ្នកលោត។"
+      },
+      "outcome": {
+        "en": "Energetic pursuit could open a dynamic new source of income. Being first to act may give you an edge.",
+        "km": "ការដេញតាមដោយសកម្ម អាចបើកប្រភពចំណូលថ្មីដ៏សកម្ម។ ការធ្វើសកម្មភាពមុនគេ អាចផ្តល់អត្ថប្រយោជន៍ដល់អ្នក។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Confidence and charm could help you attract customers, clients or supporters. Your personality is part of your value.",
+        "km": "ទំនុកចិត្ត និងមន្តស្នេហ៍ អាចជួយអ្នកទាក់ទាញអតិថិជន ភ្ញៀវ ឬអ្នកគាំទ្រ។ បុគ្គលិកលក្ខណៈរបស់អ្នក គឺជាផ្នែកមួយនៃតម្លៃរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Giving your time or talents away too freely could keep income low. Value what you offer.",
+        "km": "ការផ្តល់ពេលវេលា ឬទេពកោសល្យរបស់អ្នកដោយសេរីពេក អាចរក្សាចំណូលឱ្យទាប។ សូមឱ្យតម្លៃអ្វីដែលអ្នកផ្តល់ជូន។"
+      },
+      "outcome": {
+        "en": "Work that uses your warmth and confidence could become a strong income source. People may be drawn to you.",
+        "km": "ការងារដែលប្រើភាពកក់ក្តៅ និងទំនុកចិត្តរបស់អ្នក អាចក្លាយជាប្រភពចំណូលរឹងមាំ។ មនុស្សអាចត្រូវបានទាក់ទាញមករកអ្នក។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Vision and leadership could help you create income rather than just find it. You may be ready to lead something.",
+        "km": "ចក្ខុវិស័យ និងភាពជាអ្នកដឹកនាំ អាចជួយអ្នកបង្កើតចំណូល ជាជាងគ្រាន់តែរកវា។ អ្នកប្រហែលជាត្រៀមខ្លួនដឹកនាំអ្វីមួយ។"
+      },
+      "challenge": {
+        "en": "Big plans without practical steps could stay as dreams. Turn the vision into one concrete action.",
+        "km": "ផែនការធំៗ ដោយគ្មានជំហានជាក់ស្តែង អាចនៅតែជាសុបិន។ សូមប្រែចក្ខុវិស័យទៅជាសកម្មភាពជាក់ស្តែងមួយ។"
+      },
+      "outcome": {
+        "en": "Leading a venture or team could bring significant new income. Others may want to be part of what you build.",
+        "km": "ការដឹកនាំគម្រោង ឬក្រុម អាចនាំមកនូវចំណូលថ្មីដ៏សំខាន់។ អ្នកដទៃអាចចង់ធ្វើជាផ្នែកមួយនៃអ្វីដែលអ្នកកសាង។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Work you genuinely love may be closer to earning potential than you think. A heartfelt interest could become a source of income.",
+        "km": "ការងារដែលអ្នកពិតជាស្រឡាញ់ ប្រហែលជាជិតនឹងសក្តានុពលរកប្រាក់ ជាងអ្វីដែលអ្នកគិត។ ចំណាប់អារម្មណ៍ចេញពីបេះដូង អាចក្លាយជាប្រភពចំណូល។"
+      },
+      "challenge": {
+        "en": "Feeling that doing what you love should not be paid could hold you back. Passion and income can go together.",
+        "km": "អារម្មណ៍ថាការធ្វើអ្វីដែលអ្នកស្រឡាញ់ មិនគួរទទួលបានប្រាក់ អាចរារាំងអ្នក។ ចំណង់ចំណូលចិត្ត និងចំណូល អាចទៅជាមួយគ្នាបាន។"
+      },
+      "outcome": {
+        "en": "A labour of love could begin to bring in money as well as joy. An offer or gift of opportunity may arrive.",
+        "km": "ការងារដោយក្តីស្រឡាញ់ អាចចាប់ផ្តើមនាំប្រាក់ចូល ក៏ដូចជាសេចក្តីរីករាយ។ ការផ្តល់ជូន ឬអំណោយនៃឱកាស អាចមកដល់។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A connection with someone may lead to a shared opportunity or collaboration. Relationships can open earning doors.",
+        "km": "ទំនាក់ទំនងជាមួយនរណាម្នាក់ អាចនាំទៅរកឱកាសរួម ឬកិច្ចសហការ។ ទំនាក់ទំនង អាចបើកទ្វាររកប្រាក់។"
+      },
+      "challenge": {
+        "en": "Mixing friendship and money without clear terms could strain both. Agree openly on how things will work.",
+        "km": "ការលាយបញ្ចូលមិត្តភាព និងប្រាក់ ដោយគ្មានលក្ខខណ្ឌច្បាស់លាស់ អាចធ្វើឱ្យទាំងពីរតានតឹង។ សូមយល់ព្រមដោយបើកចំហអំពីរបៀបដែលអ្វីៗនឹងដំណើរការ។"
+      },
+      "outcome": {
+        "en": "A mutually rewarding partnership could create new income for both of you. Trust may make it last.",
+        "km": "ភាពជាដៃគូដែលផ្តល់ផលគ្នាទៅវិញទៅមក អាចបង្កើតចំណូលថ្មីសម្រាប់អ្នកទាំងពីរ។ ការទុកចិត្ត អាចធ្វើឱ្យវាស្ថិតស្ថេរ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Your social circle could be a source of leads, customers or collaborators. Community is a quiet asset.",
+        "km": "រង្វង់សង្គមរបស់អ្នក អាចជាប្រភពនៃការណែនាំ អតិថិជន ឬអ្នកសហការ។ សហគមន៍ គឺជាទ្រព្យសម្បត្តិស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Feeling awkward about mentioning work to friends could hide useful opportunities. A simple mention may open doors.",
+        "km": "អារម្មណ៍មិនស្រួល អំពីការលើកឡើងការងារជាមួយមិត្តភក្តិ អាចលាក់ឱកាសដែលមានប្រយោជន៍។ ការលើកឡើងសាមញ្ញមួយ អាចបើកទ្វារ។"
+      },
+      "outcome": {
+        "en": "Word of mouth from friends could bring new work or customers. Community support may grow into income.",
+        "km": "ការផ្សព្វផ្សាយតាមមាត់ពីមិត្តភក្តិ អាចនាំមកនូវការងារ ឬអតិថិជនថ្មី។ ការគាំទ្រពីសហគមន៍ អាចរីកធំទៅជាចំណូល។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "An opportunity for income may be in front of you that you have not fully noticed. Looking again could reveal it.",
+        "km": "ឱកាសសម្រាប់ចំណូល ប្រហែលជានៅចំពោះមុខអ្នក ដែលអ្នកមិនទាន់បានកត់សម្គាល់ពេញលេញ។ ការមើលម្តងទៀត អាចបង្ហាញវា។"
+      },
+      "challenge": {
+        "en": "Feeling uninterested could make you turn down good offers. Consider each one fairly before saying no.",
+        "km": "អារម្មណ៍មិនចាប់អារម្មណ៍ អាចធ្វើឱ្យអ្នកបដិសេធការផ្តល់ជូនល្អ។ សូមពិចារណានីមួយៗដោយយុត្តិធម៌ មុនពេលបដិសេធ។"
+      },
+      "outcome": {
+        "en": "Accepting an overlooked offer could open a useful source of income. What looked dull may turn out to suit you.",
+        "km": "ការទទួលយកការផ្តល់ជូនដែលត្រូវបានមើលរំលង អាចបើកប្រភពចំណូលដែលមានប្រយោជន៍។ អ្វីដែលមើលទៅគួរឱ្យធុញ អាចប្រែជាសមនឹងអ្នក។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "A past loss of income may still be weighing on you, but some options remain open. Skills and contacts survive most setbacks.",
+        "km": "ការបាត់បង់ចំណូលកន្លងមក ប្រហែលជានៅតែធ្វើឱ្យអ្នកធ្ងន់ចិត្ត តែជម្រើសខ្លះនៅតែបើក។ ជំនាញ និងទំនាក់ទំនង នៅរស់រានក្រោយការបរាជ័យភាគច្រើន។"
+      },
+      "challenge": {
+        "en": "Dwelling on income that has been lost could stop you seeing new options. Turn toward what is still possible.",
+        "km": "ការគិតច្រើនពីចំណូលដែលបានបាត់បង់ អាចរារាំងអ្នកពីការមើលឃើញជម្រើសថ្មី។ សូមងាកមករកអ្វីដែលនៅតែអាចទៅរួច។"
+      },
+      "outcome": {
+        "en": "What remains could become the base for a new source of income. Old skills may find a new buyer.",
+        "km": "អ្វីដែលនៅសល់ អាចក្លាយជាមូលដ្ឋានសម្រាប់ប្រភពចំណូលថ្មី។ ជំនាញចាស់ អាចរកឃើញអ្នកទិញថ្មី។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Old contacts, past employers or familiar skills could lead to new income. The past may hold a door open.",
+        "km": "ទំនាក់ទំនងចាស់ និយោជកពីមុន ឬជំនាញដែលធ្លាប់ស្គាល់ អាចនាំទៅរកចំណូលថ្មី។ អតីតកាល ប្រហែលជាកំពុងកាន់ទ្វារឱ្យបើក។"
+      },
+      "challenge": {
+        "en": "Assuming old connections have forgotten you could stop you reaching out. A friendly message costs nothing.",
+        "km": "ការសន្មតថាទំនាក់ទំនងចាស់បានភ្លេចអ្នក អាចរារាំងអ្នកពីការទាក់ទង។ សាររួសរាយមួយ មិនចំណាយអ្វីទេ។"
+      },
+      "outcome": {
+        "en": "Reconnecting with someone from your past could bring work or opportunity. A former colleague may remember you well.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងឡើងវិញ ជាមួយនរណាម្នាក់ពីអតីតកាលរបស់អ្នក អាចនាំមកនូវការងារ ឬឱកាស។ អតីតសហការីម្នាក់ អាចចងចាំអ្នកបានល្អ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Several income ideas may be competing for your attention, some more practical than others. Sorting them is the first job.",
+        "km": "គំនិតចំណូលជាច្រើន ប្រហែលជាកំពុងប្រកួតប្រជែងដើម្បីការយកចិត្តទុកដាក់របស់អ្នក ដែលខ្លះជាក់ស្តែងជាងខ្លះ។ ការតម្រៀបវា គឺជាការងារដំបូង។"
+      },
+      "challenge": {
+        "en": "Being dazzled by an attractive opportunity could hide its risks. Check the details and the source carefully.",
+        "km": "ការត្រូវបានធ្វើឱ្យភ្លឹកដោយឱកាសទាក់ទាញ អាចលាក់ហានិភ័យរបស់វា។ សូមពិនិត្យព័ត៌មានលម្អិត និងប្រភពដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Choosing the most practical idea could turn possibility into real income. One option may prove the right one.",
+        "km": "ការជ្រើសរើសគំនិតជាក់ស្តែងបំផុត អាចប្រែលទ្ធភាពទៅជាចំណូលពិតប្រាកដ។ ជម្រើសមួយ អាចបង្ហាញថាជាជម្រើសត្រឹមត្រូវ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be ready to leave behind a source of income that no longer satisfies you. Something more fulfilling may be calling.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនទុកប្រភពចំណូលដែលលែងធ្វើឱ្យអ្នកពេញចិត្តនៅពីក្រោយ។ អ្វីមួយដែលពេញចិត្តជាងមុន ប្រហែលជាកំពុងហៅ។"
+      },
+      "challenge": {
+        "en": "Walking away before securing an alternative could leave you short. Plan the transition so income does not stop.",
+        "km": "ការដើរចេញ មុនពេលធានាជម្រើសផ្សេង អាចធ្វើឱ្យអ្នកខ្វះខាត។ សូមធ្វើផែនការការផ្លាស់ប្តូរ ដើម្បីកុំឱ្យចំណូលឈប់។"
+      },
+      "outcome": {
+        "en": "Moving toward more meaningful work could bring income that satisfies more deeply. Change may feel right.",
+        "km": "ការផ្លាស់ទីឆ្ពោះទៅរកការងារដែលមានអត្ថន័យជាងមុន អាចនាំមកនូវចំណូលដែលធ្វើឱ្យពេញចិត្តជ្រៅជាង។ ការផ្លាស់ប្តូរ អាចមានអារម្មណ៍ត្រឹមត្រូវ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You may be in a comfortable position, with income meeting many of your needs. There may be room to grow.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងជំហរសុខស្រួល ដោយចំណូលបំពេញតម្រូវការជាច្រើនរបស់អ្នក។ អាចមានកន្លែងដើម្បីរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Contentment could make you overlook chances to add to your income. Stay curious about what else is possible.",
+        "km": "ការពេញចិត្ត អាចធ្វើឱ្យអ្នកមើលរំលងឱកាសដើម្បីបន្ថែមចំណូលរបស់អ្នក។ សូមនៅតែចង់ដឹងចង់ឃើញអំពីអ្វីផ្សេងទៀតដែលអាចទៅរួច។"
+      },
+      "outcome": {
+        "en": "A wish for extra income could come true. It may arrive through something you already enjoy doing.",
+        "km": "បំណងប្រាថ្នាសម្រាប់ចំណូលបន្ថែម អាចក្លាយជាការពិត។ វាអាចមកដល់តាមរយៈអ្វីមួយដែលអ្នករីករាយធ្វើរួចហើយ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Family or household connections could open earning opportunities, such as a shared business or support. Home can be a base.",
+        "km": "ទំនាក់ទំនងគ្រួសារ អាចបើកឱកាសរកប្រាក់ ដូចជាអាជីវកម្មរួម ឬការគាំទ្រ។ ផ្ទះ អាចជាមូលដ្ឋាន។"
+      },
+      "challenge": {
+        "en": "Mixing family and money could create tension if roles are unclear. Agree on how things work.",
+        "km": "ការលាយបញ្ចូលគ្រួសារ និងប្រាក់ អាចបង្កើតភាពតានតឹង ប្រសិនបើតួនាទីមិនច្បាស់លាស់។ សូមយល់ព្រមលើរបៀបដែលអ្វីៗដំណើរការ។"
+      },
+      "outcome": {
+        "en": "A family venture or home-based income could bring security and togetherness. Working side by side may strengthen both home and wallet.",
+        "km": "គម្រោងគ្រួសារ ឬចំណូលនៅផ្ទះ អាចនាំមកនូវសុវត្ថិភាព និងភាពជាមួយគ្នា។ ការធ្វើការក្បែរគ្នា អាចពង្រឹងទាំងផ្ទះ និងកាបូប។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A creative or intuitive idea, perhaps small and playful, could become a source of income. Gentle beginnings count.",
+        "km": "គំនិតច្នៃប្រឌិត ឬវិចារណញាណ ប្រហែលជាតូច និងលេងសើច អាចក្លាយជាប្រភពចំណូល។ ការចាប់ផ្តើមទន់ភ្លន់ មានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Dismissing a small creative idea as unimportant could mean missing its potential. Try it once before deciding.",
+        "km": "ការមិនខ្វល់ពីគំនិតច្នៃប្រឌិតតូចមួយ ថាមិនសំខាន់ អាចមានន័យថាខកខានសក្តានុពលរបស់វា។ សូមសាកល្បងវាម្តង មុនពេលសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "A playful idea could grow into a welcome side income. A first sale or booking may come as a pleasant surprise.",
+        "km": "គំនិតបែបលេងសើចមួយ អាចរីកធំទៅជាចំណូលបន្ថែមដែលគួរស្វាគមន៍។ ការលក់ ឬការកក់ដំបូង អាចមកដល់ជាការភ្ញាក់ផ្អើលរីករាយ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "An inspiring offer or idea may be drawing you toward work that matches your ideals. Your heart may lead to income.",
+        "km": "ការផ្តល់ជូន ឬគំនិតដ៏បំផុសគំនិត ប្រហែលជាកំពុងទាក់ទាញអ្នកទៅរកការងារដែលស្របនឹងឧត្តមគតិរបស់អ្នក។ បេះដូងរបស់អ្នក អាចនាំទៅរកចំណូល។"
+      },
+      "challenge": {
+        "en": "An offer that seems perfect could hide practical problems. Check the terms, the pay and who is behind it.",
+        "km": "ការផ្តល់ជូនដែលហាក់ដូចជាល្អឥតខ្ចោះ អាចលាក់បញ្ហាជាក់ស្តែង។ សូមពិនិត្យលក្ខខណ្ឌ ប្រាក់ឈ្នួល និងអ្នកដែលនៅពីក្រោយវា។"
+      },
+      "outcome": {
+        "en": "Work that matches your ideals could also cover your needs. Doing what you believe in may prove more sustainable than you feared.",
+        "km": "ការងារដែលស្របនឹងឧត្តមគតិរបស់អ្នក ក៏អាចបំពេញតម្រូវការរបស់អ្នកផងដែរ។ ការធ្វើអ្វីដែលអ្នកជឿជាក់ អាចបង្ហាញថាអាចទ្រទ្រង់បានជាងអ្វីដែលអ្នកខ្លាច។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your caring nature and emotional intelligence could be valuable in paid roles. Empathy is a skill.",
+        "km": "ធម្មជាតិយកចិត្តទុកដាក់ និងបញ្ញាផ្លូវអារម្មណ៍របស់អ្នក អាចមានតម្លៃក្នុងតួនាទីដែលទទួលបានប្រាក់។ ការយល់ចិត្ត គឺជាជំនាញមួយ។"
+      },
+      "challenge": {
+        "en": "Giving care freely to everyone could leave little time for paid work. Value your caring skills.",
+        "km": "ការផ្តល់ការថែទាំដោយឥតគិតថ្លៃដល់មនុស្សគ្រប់គ្នា អាចទុកពេលតិចតួចសម្រាប់ការងារដែលទទួលបានប្រាក់។ សូមឱ្យតម្លៃជំនាញថែទាំរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Work in counselling, care or support could become a fulfilling income. Your compassion may be rewarded.",
+        "km": "ការងារក្នុងការផ្តល់ប្រឹក្សា ការថែទាំ ឬការគាំទ្រ អាចក្លាយជាចំណូលដែលពេញចិត្ត។ សេចក្តីមេត្តាករុណារបស់អ្នក អាចទទួលបានរង្វាន់។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm judgement and emotional maturity could open more senior or advisory roles. Steadiness under pressure is worth paying for.",
+        "km": "ការវិនិច្ឆ័យស្ងប់ស្ងាត់ និងភាពចាស់ទុំផ្លូវអារម្មណ៍ អាចបើកតួនាទីជាន់ខ្ពស់ ឬប្រឹក្សា។ ភាពនឹងនរក្រោមសម្ពាធ សមនឹងការបង់ប្រាក់។"
+      },
+      "challenge": {
+        "en": "Keeping quiet about wanting more responsibility could mean being passed over. Say plainly that you are interested.",
+        "km": "ការនៅស្ងៀមអំពីការចង់បានការទទួលខុសត្រូវច្រើនជាងមុន អាចមានន័យថាត្រូវបានគេរំលង។ សូមនិយាយឱ្យច្បាស់ថាអ្នកចាប់អារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "A role valuing wisdom and calm could bring higher income. People may trust you with more, and pay accordingly.",
+        "km": "តួនាទីដែលឱ្យតម្លៃប្រាជ្ញា និងភាពស្ងប់ស្ងាត់ អាចនាំមកនូវចំណូលខ្ពស់ជាងមុន។ មនុស្សអាចទុកចិត្តអ្នកឱ្យទទួលខុសត្រូវច្រើនជាងមុន ហើយបង់ប្រាក់តាមនោះ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A clear idea about how to earn more may be cutting through earlier confusion. You may see your options more plainly than before.",
+        "km": "គំនិតច្បាស់លាស់អំពីរបៀបរកប្រាក់បានច្រើនជាងមុន ប្រហែលជាកំពុងកាត់ផ្តាច់ការច្របូកច្របល់ពីមុន។ អ្នកប្រហែលជាមើលឃើញជម្រើសរបស់អ្នកកាន់តែច្បាស់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "A blunt or rushed decision about work could close doors you might want open. Think it through and speak carefully.",
+        "km": "ការសម្រេចចិត្តត្រង់ៗពេក ឬប្រញាប់អំពីការងារ អាចបិទទ្វារដែលអ្នកប្រហែលជាចង់ឱ្យបើក។ សូមគិតឱ្យល្អ ហើយនិយាយដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "A clear, well-reasoned move could open a sharper, more rewarding source of income. Writing, analysis or advice may pay.",
+        "km": "ចលនាច្បាស់លាស់ និងមានហេតុផលល្អ អាចបើកប្រភពចំណូលដែលមុតស្រួច និងផ្តល់ផលល្អជាងមុន។ ការសរសេរ ការវិភាគ ឬការផ្តល់ដំបូន្មាន អាចផ្តល់ប្រាក់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Two possible ways of earning more may be in front of you, and neither is clearly better. Comparing them honestly is the next step.",
+        "km": "វិធីពីរដែលអាចរកប្រាក់បានច្រើនជាងមុន ប្រហែលជានៅចំពោះមុខអ្នក ហើយគ្មានមួយណាល្អជាងច្បាស់។ ការប្រៀបធៀបវាដោយស្មោះត្រង់ គឺជាជំហានបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Holding both income options open indefinitely could mean neither gets your full effort. Set a point by which you will decide.",
+        "km": "ការរក្សាជម្រើសចំណូលទាំងពីរឱ្យបើកដោយគ្មានកំណត់ អាចមានន័យថាគ្មានមួយណាទទួលបានការខិតខំពេញលេញរបស់អ្នក។ សូមកំណត់ចំណុចមួយ ដែលអ្នកនឹងសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Making a clear choice could unlock a steady new source of income. Balance may return once you commit.",
+        "km": "ការធ្វើជម្រើសច្បាស់លាស់ អាចដោះសោប្រភពចំណូលថ្មីនឹងនរ។ តុល្យភាពអាចត្រឡប់មកវិញ នៅពេលអ្នកប្តេជ្ញាចិត្ត។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "A disappointment about work or money may still sting, colouring how you see new options. Acknowledge the hurt.",
+        "km": "ការខកចិត្តអំពីការងារ ឬប្រាក់ ប្រហែលជានៅតែឈឺចាប់ ដោយធ្វើឱ្យរបៀបដែលអ្នកមើលជម្រើសថ្មីមានពណ៌។ សូមទទួលស្គាល់ការឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "A painful rejection could make you stop looking for new income. Separate the hurt from the next opportunity.",
+        "km": "ការបដិសេធដ៏ឈឺចាប់ អាចធ្វើឱ្យអ្នកឈប់ស្វែងរកចំណូលថ្មី។ សូមញែកការឈឺចាប់ ចេញពីឱកាសបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Healing from a setback could lead to a better-suited source of income. Lessons may guide better choices.",
+        "km": "ការជាសះស្បើយពីការបរាជ័យ អាចនាំទៅរកប្រភពចំណូលដែលសមជាងមុន។ មេរៀន អាចណែនាំជម្រើសល្អជាង។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may be in a quiet phase where income is steady but not growing. This rest can be used to plan.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងដំណាក់កាលស្ងប់ស្ងាត់ ដែលចំណូលនឹងនរ តែមិនកើនឡើង។ ការសម្រាកនេះ អាចប្រើដើម្បីធ្វើផែនការ។"
+      },
+      "challenge": {
+        "en": "Resting too long could mean missing a good opening. Recover, then start looking for work again.",
+        "km": "ការសម្រាកយូរពេក អាចមានន័យថាខកខានឱកាសល្អ។ សូមស្តារកម្លាំង បន្ទាប់មកចាប់ផ្តើមស្វែងរកការងារម្តងទៀត។"
+      },
+      "outcome": {
+        "en": "A period of reflection could lead to a clearer, better plan for income. You may return with fresh ideas.",
+        "km": "ដំណាក់កាលនៃការឆ្លុះបញ្ចាំង អាចនាំទៅរកផែនការចំណូលច្បាស់ និងល្អជាងមុន។ អ្នកអាចត្រឡប់មកវិញជាមួយគំនិតថ្មី។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "A competitive or tense environment may be shaping your earning options. Not every win is worth the cost.",
+        "km": "បរិយាកាសប្រកួតប្រជែង ឬតានតឹង ប្រហែលជាកំពុងរៀបចំជម្រើសរកប្រាក់របស់អ្នក។ មិនមែនគ្រប់ជ័យជម្នះសមនឹងតម្លៃនោះទេ។"
+      },
+      "challenge": {
+        "en": "Pursuing income at the cost of relationships or integrity could leave you poorer in other ways. Choose wisely.",
+        "km": "ការដេញតាមចំណូល ដោយចំណាយទំនាក់ទំនង ឬសុចរិតភាព អាចធ្វើឱ្យអ្នកក្រជាងមុនតាមវិធីផ្សេង។ សូមជ្រើសរើសដោយប្រាជ្ញា។"
+      },
+      "outcome": {
+        "en": "Stepping away from a draining contest could free you for better income. Peace may open new doors.",
+        "km": "ការដកខ្លួនចេញពីការប្រកួតដែលបូមកម្លាំង អាចដោះលែងអ្នកសម្រាប់ចំណូលល្អជាង។ សន្តិភាព អាចបើកទ្វារថ្មី។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You may be leaving a draining job or income behind and heading for steadier work. The change is already in motion.",
+        "km": "អ្នកប្រហែលជាកំពុងទុកការងារ ឬចំណូលដែលបូមកម្លាំងនៅពីក្រោយ ហើយឆ្ពោះទៅរកការងារនឹងនរជាងមុន។ ការផ្លាស់ប្តូរ កំពុងដំណើរការរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Carrying old doubts into a new opportunity could hold you back. Give the new path a fair chance.",
+        "km": "ការយកការសង្ស័យចាស់ចូលទៅក្នុងឱកាសថ្មី អាចរារាំងអ្នក។ សូមផ្តល់ឱកាសដ៏យុត្តិធម៌ដល់ផ្លូវថ្មី។"
+      },
+      "outcome": {
+        "en": "A move to a new place, role or field could bring steadier income. Calmer waters may support growth.",
+        "km": "ការផ្លាស់ទៅកន្លែង តួនាទី ឬវិស័យថ្មី អាចនាំមកនូវចំណូលនឹងនរជាងមុន។ ទឹកស្ងប់ស្ងាត់ជាងមុន អាចគាំទ្រការរីកចម្រើន។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Clever thinking could help you spot income opportunities others overlook. A smart angle may matter more than hard work.",
+        "km": "ការគិតដ៏ឆ្លាតវៃ អាចជួយអ្នករកឃើញឱកាសចំណូលដែលអ្នកដទៃមើលរំលង។ មុំឆ្លាតវៃ អាចសំខាន់ជាងការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Offers involving shortcuts or bending rules could cost more than they pay. Stay honest, even when others do not.",
+        "km": "ការផ្តល់ជូនដែលពាក់ព័ន្ធនឹងផ្លូវកាត់ ឬការបង្វែរច្បាប់ អាចចំណាយច្រើនជាងអ្វីដែលវាផ្តល់។ សូមស្មោះត្រង់ សូម្បីតែពេលអ្នកដទៃមិនធ្វើក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A smart, honest strategy could open a profitable niche. Seeing a need others missed may become your income.",
+        "km": "យុទ្ធសាស្ត្រឆ្លាតវៃ និងស្មោះត្រង់ អាចបើកទីផ្សារពិសេសដែលមានប្រាក់ចំណេញ។ ការមើលឃើញតម្រូវការដែលអ្នកដទៃខកខាន អាចក្លាយជាចំណូលរបស់អ្នក។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel stuck in your current income situation, unsure how to change it. More options likely exist.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់គាំងក្នុងស្ថានភាពចំណូលបច្ចុប្បន្ន ដោយមិនប្រាកដពីរបៀបផ្លាស់ប្តូរវា។ ជម្រើសច្រើនជាងមុន ទំនងជាមាន។"
+      },
+      "challenge": {
+        "en": "Believing your current job is the only option could stop you from looking. List even unlikely alternatives before you rule them out.",
+        "km": "ការជឿថាការងារបច្ចុប្បន្នរបស់អ្នក គឺជាជម្រើសតែមួយ អាចរារាំងអ្នកពីការស្វែងរក។ សូមរាយបញ្ជីសូម្បីតែជម្រើសដែលមិនទំនង មុនពេលអ្នកបដិសេធវា។"
+      },
+      "outcome": {
+        "en": "Seeing a way out could open a new source of income. Freedom may come step by step.",
+        "km": "ការមើលឃើញផ្លូវចេញ អាចបើកប្រភពចំណូលថ្មី។ សេរីភាព អាចមកដល់ម្តងមួយជំហាន។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about income may be making every option look riskier than it is. Facts on paper may be calmer than the fears in your head.",
+        "km": "ការព្រួយបារម្ភអំពីចំណូល ប្រហែលជាកំពុងធ្វើឱ្យរាល់ជម្រើសមើលទៅប្រថុយជាងការពិត។ ការពិតនៅលើក្រដាស អាចស្ងប់ស្ងាត់ជាងការភ័យខ្លាចក្នុងក្បាលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Fear of rejection could stop you from applying, pitching or asking for work. If worry about money keeps you from functioning, a counsellor or someone you trust can help.",
+        "km": "ការភ័យខ្លាចការបដិសេធ អាចរារាំងអ្នកពីការដាក់ពាក្យ ការបង្ហាញគំនិត ឬការសុំការងារ។ ប្រសិនបើការព្រួយបារម្ភអំពីប្រាក់ រារាំងអ្នកពីការរស់នៅធម្មតា អ្នកប្រឹក្សា ឬនរណាម្នាក់ដែលអ្នកទុកចិត្ត អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Sending one application or proposal despite the fear could open more than you expect. Relief may follow the first step.",
+        "km": "ការផ្ញើពាក្យស្នើសុំ ឬសំណើមួយ ទោះមានការភ័យខ្លាច អាចបើកបានច្រើនជាងអ្វីដែលអ្នករំពឹង។ ការធូរស្រាល អាចកើតឡើងបន្ទាប់ពីជំហានដំបូង។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "An income source may have ended painfully. Though hard, this can clear the way for something new.",
+        "km": "ប្រភពចំណូលមួយ ប្រហែលជាបានបញ្ចប់យ៉ាងឈឺចាប់។ ទោះបីលំបាក វាអាចបើកផ្លូវសម្រាប់អ្វីថ្មី។"
+      },
+      "challenge": {
+        "en": "Feeling defeated could stop you from searching again. If things feel overwhelming, reach out to a support service or adviser.",
+        "km": "អារម្មណ៍ចាញ់ អាចរារាំងអ្នកពីការស្វែងរកម្តងទៀត។ ប្រសិនបើអ្វីៗមានអារម្មណ៍លើសកម្លាំង សូមទាក់ទងសេវាគាំទ្រ ឬទីប្រឹក្សា។"
+      },
+      "outcome": {
+        "en": "A fresh source of income could rise from a hard ending. The skills you take with you may matter more than what you lost.",
+        "km": "ប្រភពចំណូលថ្មី អាចងើបចេញពីការបញ្ចប់ដ៏លំបាក។ ជំនាញដែលអ្នកយកទៅជាមួយ អាចសំខាន់ជាងអ្វីដែលអ្នកបានបាត់បង់។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Watching job listings, markets and what people are asking for could reveal openings. Curiosity is a practical tool here.",
+        "km": "ការតាមដានបញ្ជីការងារ ទីផ្សារ និងអ្វីដែលមនុស្សកំពុងស្នើសុំ អាចបង្ហាញពីឱកាស។ ការចង់ដឹងចង់ឃើញ គឺជាឧបករណ៍ជាក់ស្តែងនៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Acting on rumours about easy money could lead you astray. Verify before you invest time or money.",
+        "km": "ការធ្វើសកម្មភាពតាមពាក្យចចាមអារ៉ាមអំពីប្រាក់ងាយស្រួល អាចនាំអ្នកវង្វេង។ សូមផ្ទៀងផ្ទាត់ មុនពេលវិនិយោគពេលវេលា ឬប្រាក់។"
+      },
+      "outcome": {
+        "en": "Good information could lead you to a promising income opportunity. A tip from the right person may point the way.",
+        "km": "ព័ត៌មានល្អ អាចនាំអ្នកទៅរកឱកាសចំណូលដែលមានសក្តានុពល។ គន្លឹះពីមនុស្សត្រឹមត្រូវ អាចចង្អុលផ្លូវ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You may be ready to move quickly on an income opportunity. Decisiveness is on your side.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនផ្លាស់ទីយ៉ាងរហ័សលើឱកាសចំណូលមួយ។ ភាពម៉ឺងម៉ាត់ នៅខាងអ្នក។"
+      },
+      "challenge": {
+        "en": "Rushing into an opportunity without checking it could lead to loss. Read the terms before you sign up.",
+        "km": "ការប្រញាប់ចូលឱកាស ដោយមិនពិនិត្យវា អាចនាំទៅរកការខាតបង់។ សូមអានលក្ខខណ្ឌ មុនពេលអ្នកចុះឈ្មោះ។"
+      },
+      "outcome": {
+        "en": "Quick, well-judged action could secure a new source of income. Being ready to reply fast may win the work.",
+        "km": "សកម្មភាពរហ័ស និងបានវិនិច្ឆ័យល្អ អាចធានាប្រភពចំណូលថ្មី។ ការត្រៀមខ្លួនឆ្លើយតបលឿន អាចឈ្នះការងារ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear thinking and independence could help you set up income on your own terms. Your judgement is sound.",
+        "km": "ការគិតច្បាស់លាស់ និងឯករាជ្យភាព អាចជួយអ្នករៀបចំចំណូលតាមលក្ខខណ្ឌរបស់អ្នកផ្ទាល់។ ការវិនិច្ឆ័យរបស់អ្នកត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Being too critical of opportunities could make you dismiss good ones. Stay open while staying careful.",
+        "km": "ការរិះគន់ឱកាសខ្លាំងពេក អាចធ្វើឱ្យអ្នកបដិសេធឱកាសល្អ។ សូមបើកចិត្ត ខណៈពេលនៅតែប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "Independent work or a role valuing clear judgement could bring income. Your honesty may be valued.",
+        "km": "ការងារឯករាជ្យ ឬតួនាទីដែលឱ្យតម្លៃការវិនិច្ឆ័យច្បាស់លាស់ អាចនាំមកនូវចំណូល។ ភាពស្មោះត្រង់របស់អ្នក អាចត្រូវបានគេឱ្យតម្លៃ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Expertise and sound judgement could open advisory or senior roles. People may be willing to pay for your clear thinking.",
+        "km": "ជំនាញ និងការវិនិច្ឆ័យត្រឹមត្រូវ អាចបើកតួនាទីប្រឹក្សា ឬជាន់ខ្ពស់។ មនុស្សអាចសុខចិត្តបង់ប្រាក់សម្រាប់ការគិតច្បាស់លាស់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Relying only on logic could miss opportunities that need a personal touch. Balance reason with relationships.",
+        "km": "ការពឹងផ្អែកតែលើតក្កវិជ្ជា អាចខកខានឱកាសដែលត្រូវការការប៉ះផ្ទាល់ខ្លួន។ សូមធ្វើឱ្យមានតុល្យភាពរវាងហេតុផល និងទំនាក់ទំនង។"
+      },
+      "outcome": {
+        "en": "Professional or advisory work could bring respected, well-paid income. A formal role may recognise what you already know.",
+        "km": "ការងារវិជ្ជាជីវៈ ឬប្រឹក្សា អាចនាំមកនូវចំណូលដែលគេគោរព និងទទួលបានប្រាក់ល្អ។ តួនាទីផ្លូវការ អាចទទួលស្គាល់អ្វីដែលអ្នកដឹងរួចហើយ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical new opportunity to earn may be appearing, perhaps a job offer, a contract or a small business idea. It may look modest at first.",
+        "km": "ឱកាសជាក់ស្តែងថ្មីដើម្បីរកប្រាក់ ប្រហែលជាកំពុងលេចឡើង ប្រហែលជាការផ្តល់ការងារ កិច្ចសន្យា ឬគំនិតអាជីវកម្មតូច។ វាអាចមើលទៅតិចតួចដំបូង។"
+      },
+      "challenge": {
+        "en": "Dismissing a modest offer because it seems too small could mean missing a good start. A first client often leads to the next.",
+        "km": "ការមិនខ្វល់ពីការផ្តល់ជូនតិចតួច ព្រោះវាហាក់ដូចជាតូចពេក អាចមានន័យថាខកខានការចាប់ផ្តើមល្អ។ អតិថិជនដំបូង ជារឿយៗនាំទៅរកអតិថិជនបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A concrete new source of income could take root and grow. Practical effort may bring real rewards.",
+        "km": "ប្រភពចំណូលថ្មីជាក់ស្តែង អាចចាក់ឫស ហើយរីកធំ។ ការខិតខំជាក់ស្តែង អាចនាំមកនូវរង្វាន់ពិតប្រាកដ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be juggling income from more than one place, balancing work and other demands. Being adaptable keeps it all going.",
+        "km": "អ្នកប្រហែលជាកំពុងដោះស្រាយចំណូលពីកន្លែងច្រើនជាងមួយ ដោយធ្វើឱ្យមានតុល្យភាពរវាងការងារ និងតម្រូវការផ្សេង។ ការសម្របខ្លួនបាន រក្សាអ្វីៗទាំងអស់ឱ្យដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Taking on too many small jobs could leave you exhausted and earning little from each. Focus on the best ones.",
+        "km": "ការទទួលយកការងារតូចៗច្រើនពេក អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងរកបានតិចតួចពីនីមួយៗ។ សូមផ្តោតលើការងារល្អបំផុត។"
+      },
+      "outcome": {
+        "en": "A workable mix of income sources could bring steadier security. If one slows, another may keep you afloat.",
+        "km": "ការលាយបញ្ចូលប្រភពចំណូលដែលអាចដំណើរការបាន អាចនាំមកនូវសុវត្ថិភាពនឹងនរជាងមុន។ ប្រសិនបើមួយយឺត មួយទៀតអាចរក្សាអ្នកឱ្យអណ្តែត។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Skilled work and collaboration may be building your reputation, opening paid opportunities. Your craft is noticed.",
+        "km": "ការងារដែលមានជំនាញ និងកិច្ចសហការ ប្រហែលជាកំពុងកសាងកេរ្តិ៍ឈ្មោះរបស់អ្នក ដោយបើកឱកាសទទួលបានប្រាក់។ សិប្បកម្មរបស់អ្នក ត្រូវបានគេកត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Underpricing your work could limit what it earns you. Find out what others charge and charge fairly too.",
+        "km": "ការកំណត់តម្លៃការងាររបស់អ្នកទាបពេក អាចកំណត់អ្វីដែលវារកបានសម្រាប់អ្នក។ សូមស្វែងយល់ថាអ្នកដទៃគិតថ្លៃប៉ុន្មាន ហើយគិតថ្លៃដោយយុត្តិធម៌ផងដែរ។"
+      },
+      "outcome": {
+        "en": "Skilled, collaborative work could bring a steady new income. Satisfied clients may recommend you to others.",
+        "km": "ការងារដែលមានជំនាញ និងសហការ អាចនាំមកនូវចំណូលថ្មីនឹងនរ។ អតិថិជនដែលពេញចិត្ត អាចណែនាំអ្នកទៅអ្នកដទៃ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be holding on carefully to existing income, wary of risk. Security matters to you.",
+        "km": "អ្នកប្រហែលជាកំពុងកាន់ខ្ជាប់ចំណូលដែលមានស្រាប់ដោយប្រុងប្រយ័ត្ន ដោយប្រុងប្រយ័ត្នចំពោះហានិភ័យ។ សុវត្ថិភាពសំខាន់សម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Being too cautious could stop you from exploring new income. A small, safe experiment may help.",
+        "km": "ការប្រុងប្រយ័ត្នពេក អាចរារាំងអ្នកពីការស្វែងរកចំណូលថ្មី។ ការពិសោធន៍តូច និងមានសុវត្ថិភាព អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "A secure base could let you add new income without risk. Careful growth may serve you well.",
+        "km": "មូលដ្ឋានមានសុវត្ថិភាព អាចឱ្យអ្នកបន្ថែមចំណូលថ្មី ដោយគ្មានហានិភ័យ។ ការរីកចម្រើនដោយប្រុងប្រយ័ត្ន អាចមានប្រយោជន៍សម្រាប់អ្នក។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "You may be going through a hard stretch financially, looking for any way to earn. Local help and modest work may be within reach.",
+        "km": "អ្នកប្រហែលជាកំពុងឆ្លងកាត់ដំណាក់កាលលំបាកផ្នែកហិរញ្ញវត្ថុ ដោយស្វែងរកវិធីណាមួយដើម្បីរកប្រាក់។ ជំនួយក្នុងតំបន់ និងការងារតិចតួច អាចនៅក្បែរដៃ។"
+      },
+      "challenge": {
+        "en": "Pride could stop you from accepting help or modest work. If even basic needs are hard to meet, a support service may help first.",
+        "km": "មោទនភាព អាចរារាំងអ្នកពីការទទួលយកជំនួយ ឬការងារតិចតួច។ ប្រសិនបើសូម្បីតែតម្រូវការមូលដ្ឋានក៏ពិបាកបំពេញ សេវាគាំទ្រ អាចជួយជាមុន។"
+      },
+      "outcome": {
+        "en": "A modest job or a helping hand could be the first step out of hardship. Small, steady earnings may rebuild confidence.",
+        "km": "ការងារតិចតួច ឬជំនួយ អាចជាជំហានដំបូងចេញពីការលំបាក។ ប្រាក់ចំណូលតូចៗ និងនឹងនរ អាចកសាងទំនុកចិត្តឡើងវិញ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Someone may be willing to offer work, support or a helping hand. Generosity may flow your way.",
+        "km": "នរណាម្នាក់ ប្រហែលជាសុខចិត្តផ្តល់ការងារ ការគាំទ្រ ឬជំនួយ។ ចិត្តទូលាយ អាចហូរមករកអ្នក។"
+      },
+      "challenge": {
+        "en": "Accepting help with strings attached could limit your freedom. Make sure the terms are fair before you agree.",
+        "km": "ការទទួលយកជំនួយដែលមានលក្ខខណ្ឌភ្ជាប់ អាចកំណត់សេរីភាពរបស់អ្នក។ សូមប្រាកដថាលក្ខខណ្ឌមានភាពយុត្តិធម៌ មុនពេលអ្នកយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "A fair offer or support from a mentor could open new income. Someone may vouch for you in a way that opens doors.",
+        "km": "ការផ្តល់ជូនយុត្តិធម៌ ឬការគាំទ្រពីអ្នកណែនាំ អាចបើកចំណូលថ្មី។ នរណាម្នាក់អាចធានាសម្រាប់អ្នក តាមវិធីដែលបើកទ្វារ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Work you started a while ago may be quietly building toward income, even if it has not paid yet. Some seeds take longer to sprout.",
+        "km": "ការងារដែលអ្នកបានចាប់ផ្តើមមួយរយៈមុន ប្រហែលជាកំពុងកសាងឆ្ពោះទៅរកចំណូលដោយស្ងាត់ៗ ទោះបីវាមិនទាន់ផ្តល់ប្រាក់ក៏ដោយ។ គ្រាប់ពូជខ្លះ ត្រូវការពេលយូរជាងដើម្បីដុះ។"
+      },
+      "challenge": {
+        "en": "Giving up on a side project because it has not paid yet could waste the groundwork you have laid. Check its progress before you quit.",
+        "km": "ការបោះបង់គម្រោងបន្ថែម ព្រោះវាមិនទាន់ផ្តល់ប្រាក់ អាចខ្ជះខ្ជាយមូលដ្ឋានដែលអ្នកបានចាក់។ សូមពិនិត្យការរីកចម្រើនរបស់វា មុនពេលអ្នកឈប់។"
+      },
+      "outcome": {
+        "en": "Patient work could finally bear fruit as a new income stream. The results may be worth the wait.",
+        "km": "ការងារដោយអត់ធ្មត់ អាចផ្តល់ផ្លែផ្កានៅទីបំផុត ជាប្រភពចំណូលថ្មី។ លទ្ធផល អាចសមនឹងការរង់ចាំ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Dedication to your craft may be building skills that others will pay for. Mastery is your path.",
+        "km": "ការលះបង់ចំពោះវិជ្ជាជីវៈរបស់អ្នក ប្រហែលជាកំពុងកសាងជំនាញដែលអ្នកដទៃនឹងបង់ប្រាក់សម្រាប់។ ការស្ទាត់ជំនាញ គឺជាផ្លូវរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Focusing only on doing the work could make you forget to market it. Let people know what you offer.",
+        "km": "ការផ្តោតតែលើការធ្វើការងារ អាចធ្វើឱ្យអ្នកភ្លេចផ្សព្វផ្សាយវា។ សូមឱ្យមនុស្សដឹងពីអ្វីដែលអ្នកផ្តល់ជូន។"
+      },
+      "outcome": {
+        "en": "Skilled craftsmanship could become a reliable source of income. Steady demand may grow for work done well.",
+        "km": "សិប្បកម្មដែលមានជំនាញ អាចក្លាយជាប្រភពចំណូលគួរឱ្យទុកចិត្ត។ តម្រូវការនឹងនរ អាចកើនឡើងសម្រាប់ការងារដែលធ្វើបានល្អ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You may be comfortably self-sufficient, with room to add income on your own terms. Independence is an asset.",
+        "km": "អ្នកប្រហែលជាពឹងផ្អែកលើខ្លួនឯងបានដោយសុខស្រួល ដោយមានកន្លែងបន្ថែមចំណូលតាមលក្ខខណ្ឌរបស់អ្នកផ្ទាល់។ ឯករាជ្យភាព គឺជាទ្រព្យសម្បត្តិ។"
+      },
+      "challenge": {
+        "en": "Comfort could make you stop looking for growth. Keep an eye out for opportunities that suit your independence.",
+        "km": "ភាពសុខស្រួល អាចធ្វើឱ្យអ្នកឈប់ស្វែងរកការរីកចម្រើន។ សូមតាមដានឱកាសដែលសមនឹងឯករាជ្យភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Self-directed income, such as freelancing or a small enterprise, could add to your comfort and freedom. You may set your own terms.",
+        "km": "ចំណូលដែលដឹកនាំដោយខ្លួនឯង ដូចជាការងារឯករាជ្យ ឬសហគ្រាសតូច អាចបន្ថែមភាពសុខស្រួល និងសេរីភាពរបស់អ្នក។ អ្នកអាចកំណត់លក្ខខណ្ឌផ្ទាល់ខ្លួន។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family resources, property or long-term assets could be part of your income picture. Legacy may play a role.",
+        "km": "ធនធានគ្រួសារ អចលនទ្រព្យ ឬទ្រព្យសម្បត្តិរយៈពេលវែង អាចជាផ្នែកមួយនៃរូបភាពចំណូលរបស់អ្នក។ កេរដំណែល អាចដើរតួ។"
+      },
+      "challenge": {
+        "en": "Family expectations about how money should be earned could limit your options. Make choices that suit you.",
+        "km": "ការរំពឹងទុករបស់គ្រួសារ អំពីរបៀបដែលប្រាក់គួររកបាន អាចកំណត់ជម្រើសរបស់អ្នក។ សូមធ្វើជម្រើសដែលសមនឹងអ្នក។"
+      },
+      "outcome": {
+        "en": "Income linked to family, property or long-term assets could grow. What has been built over generations may support you further.",
+        "km": "ចំណូលដែលភ្ជាប់នឹងគ្រួសារ អចលនទ្រព្យ ឬទ្រព្យសម្បត្តិរយៈពេលវែង អាចរីកចម្រើន។ អ្វីដែលបានកសាងតាំងពីជំនាន់មុន អាចគាំទ្រអ្នកបន្ថែម។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A practical learning opportunity, such as an apprenticeship or course, could lead to future income. You are building a foundation.",
+        "km": "ឱកាសរៀនជាក់ស្តែង ដូចជាការសិក្សាជាកូនជាង ឬវគ្គសិក្សា អាចនាំទៅរកចំណូលនាពេលអនាគត។ អ្នកកំពុងកសាងមូលដ្ឋាន។"
+      },
+      "challenge": {
+        "en": "Thinking a course or apprenticeship pays too little to bother with could cost more in the end. What you learn first is what you earn from later.",
+        "km": "ការគិតថាវគ្គសិក្សា ឬការសិក្សាជាកូនជាង ផ្តល់ប្រាក់តិចពេក មិនសមនឹងការខិតខំ អាចចំណាយច្រើនជាងនៅទីបញ្ចប់។ អ្វីដែលអ្នករៀនជាមុន គឺជាអ្វីដែលអ្នករកប្រាក់ពីវានៅពេលក្រោយ។"
+      },
+      "outcome": {
+        "en": "New skills could lead to a solid new source of income. A modest start may grow.",
+        "km": "ជំនាញថ្មី អាចនាំទៅរកប្រភពចំណូលថ្មីរឹងមាំ។ ការចាប់ផ្តើមតិចតួច អាចរីកធំ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Slow, reliable effort may be steadily building your earning potential. Employers and clients notice people who always deliver.",
+        "km": "ការខិតខំយឺតៗ និងគួរឱ្យទុកចិត្ត ប្រហែលជាកំពុងកសាងសក្តានុពលរកប្រាក់របស់អ្នកជាប់លាប់។ និយោជក និងអតិថិជន កត់សម្គាល់មនុស្សដែលតែងតែផ្តល់លទ្ធផល។"
+      },
+      "challenge": {
+        "en": "Waiting until an opportunity feels completely safe could mean someone else takes it first. A measured yes can still be careful.",
+        "km": "ការរង់ចាំរហូតដល់ឱកាសមានអារម្មណ៍មានសុវត្ថិភាពទាំងស្រុង អាចមានន័យថានរណាម្នាក់ផ្សេងយកវាមុន។ ការយល់ព្រមដែលបានគិតគូរ នៅតែអាចប្រុងប្រយ័ត្នបាន។"
+      },
+      "outcome": {
+        "en": "Steady effort could lead to a reliable increase in income. A reputation for dependability may become your strongest asset.",
+        "km": "ការខិតខំជាប់លាប់ អាចនាំទៅរកការកើនឡើងចំណូលគួរឱ្យទុកចិត្ត។ កេរ្តិ៍ឈ្មោះនៃភាពអាចពឹងផ្អែកបាន អាចក្លាយជាទ្រព្យសម្បត្តិដ៏ខ្លាំងបំផុតរបស់អ្នក។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Practical, caring skills, such as running a home or looking after others, could become paid work. Your good sense has value.",
+        "km": "ជំនាញជាក់ស្តែង និងយកចិត្តទុកដាក់ ដូចជាការគ្រប់គ្រងផ្ទះ ឬការមើលថែអ្នកដទៃ អាចក្លាយជាការងារដែលទទួលបានប្រាក់។ សុភវិនិច្ឆ័យរបស់អ្នកមានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Doing caring work for free could leave little time for paid income. Value your contribution, and let others value it too.",
+        "km": "ការធ្វើការងារថែទាំដោយឥតគិតថ្លៃ អាចទុកពេលតិចតួចសម្រាប់ចំណូលដែលទទួលបានប្រាក់។ សូមឱ្យតម្លៃការរួមចំណែករបស់អ្នក ហើយឱ្យអ្នកដទៃឱ្យតម្លៃវាផងដែរ។"
+      },
+      "outcome": {
+        "en": "Home-based or caring work could become a comfortable source of income. Practical skills may be rewarded.",
+        "km": "ការងារនៅផ្ទះ ឬការងារថែទាំ អាចក្លាយជាប្រភពចំណូលសុខស្រួល។ ជំនាញជាក់ស្តែង អាចទទួលបានរង្វាន់។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Experience and resources may position you to create income through investment, business or leadership. You have built something.",
+        "km": "បទពិសោធន៍ និងធនធាន ប្រហែលជាដាក់អ្នកនៅក្នុងជំហរដើម្បីបង្កើតចំណូល តាមរយៈការវិនិយោគ អាជីវកម្ម ឬភាពជាអ្នកដឹកនាំ។ អ្នកបានកសាងអ្វីមួយ។"
+      },
+      "challenge": {
+        "en": "Taking on big risks with what you have built could put it in danger. Seek qualified advice before major moves.",
+        "km": "ការប្រថុយធំជាមួយអ្វីដែលអ្នកបានកសាង អាចធ្វើឱ្យវាប្រឈមគ្រោះថ្នាក់។ សូមស្វែងរកដំបូន្មានពីអ្នកជំនាញ មុនពេលចលនាធំៗ។"
+      },
+      "outcome": {
+        "en": "A well-managed venture could bring substantial new income. Experience and resources together may create something lasting.",
+        "km": "គម្រោងដែលគ្រប់គ្រងបានល្អ អាចនាំមកនូវចំណូលថ្មីដ៏ច្រើន។ បទពិសោធន៍ និងធនធានរួមគ្នា អាចបង្កើតអ្វីមួយដែលស្ថិតស្ថេរ។"
+      }
+    }
+  }
+}
