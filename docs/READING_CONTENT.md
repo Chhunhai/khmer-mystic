@@ -22,6 +22,7 @@
 | `src/content/readings/LR-06.json` | What lesson is this relationship teaching me? | 78 cards × 3 positions, English and Khmer (lesson) |
 | `src/content/readings/LR-07.json` | How can I heal from a past relationship? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/LR-08.json` | What should I know before making a commitment? | 78 cards × 3 positions, English and Khmer (obstacle) |
+| `src/content/readings/LR-09.json` | How can we communicate better? | 78 cards × 3 positions, English and Khmer (how) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
