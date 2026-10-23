@@ -109,3 +109,24 @@ export function useReading() {
   const part = (key: PartKey) => reading.parts.find(p => p.key === key)?.text ?? '';
   return { lang, reading, part, question: question[lang], animal: zodiac.name[lang], time: time.label[lang] };
 }
+
+/** True once a reading has been started (a birth year chosen). */
+export function hasProgress(state: FlowState): boolean {
+  return !!state.zodiacId;
+}
+
+/** Where "Continue your reading" goes: the first step not yet finished. */
+export function resumeRoute(state: FlowState, wide: boolean): '/zodiac' | '/topic' | '/question' | '/time' | '/draw' | '/reading' {
+  if (state.cardIds) return state.flipped.every(Boolean) ? '/reading' : '/draw';
+  if (state.questionId) return '/time';
+  if (state.topicId) return wide ? '/topic' : '/question';
+  if (state.zodiacId) return '/topic';
+  return '/zodiac';
+}
+
+/** The step (1–5) that "Continue your reading" returns to. */
+export function resumeStep(state: FlowState): number {
+  if (state.cardIds) return state.flipped.every(Boolean) ? 5 : 4;
+  if (state.questionId) return 3;
+  return state.zodiacId ? 2 : 1;
+}

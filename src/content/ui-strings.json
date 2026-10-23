@@ -77,7 +77,12 @@
     ],
     "resume": "Continue your reading",
     "close": "Close",
-    "viewCard": "Opens the card large"
+    "viewCard": "Opens the card large",
+    "newReading": "Start a new reading",
+    "confirmNewTitle": "Start a new reading?",
+    "confirmNewBody": "Your current reading will be cleared.",
+    "confirmNewYes": "Start new",
+    "cancel": "Cancel"
   },
   "km": {
     "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
@@ -157,6 +162,11 @@
     ],
     "resume": "បន្តការទស្សន៍ទាយរបស់អ្នក",
     "close": "បិទ",
-    "viewCard": "បើកមើលសន្លឹកបៀឱ្យធំ"
+    "viewCard": "បើកមើលសន្លឹកបៀឱ្យធំ",
+    "newReading": "ចាប់ផ្តើមការទស្សន៍ទាយថ្មី",
+    "confirmNewTitle": "ចាប់ផ្តើមការទស្សន៍ទាយថ្មីមែនទេ?",
+    "confirmNewBody": "ការទស្សន៍ទាយបច្ចុប្បន្នរបស់អ្នកនឹងត្រូវលុបចោល។",
+    "confirmNewYes": "ចាប់ផ្តើមថ្មី",
+    "cancel": "បោះបង់"
   }
 }

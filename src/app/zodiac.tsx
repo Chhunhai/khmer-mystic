@@ -5,7 +5,7 @@ import { content } from '../content/index.ts';
 import { useFlow, useUi } from '../state/flow.tsx';
 import { AnimalEmblem } from '../ui/animals.tsx';
 import { Icon } from '../ui/icons.tsx';
-import { AppText, PrimaryButton, Screen, Title } from '../ui/kit.tsx';
+import { AppText, PrimaryButton, Screen, Title, isHovered } from '../ui/kit.tsx';
 import { Medallion } from '../ui/medallion.tsx';
 import { colors, useWide } from '../ui/theme.ts';
 
@@ -13,7 +13,7 @@ export default function ZodiacScreen() {
   const { state, update } = useFlow();
   const ui = useUi();
   const wide = useWide();
-  const size = wide ? 108 : 76;
+  const size = wide ? 96 : 76;
 
   return (
     <Screen
@@ -41,14 +41,20 @@ export default function ZodiacScreen() {
               accessibilityRole="radio"
               accessibilityLabel={label}
               accessibilityState={{ checked: on }}
-              style={[styles.tile, wide && styles.tileWide]}
+              style={s => [styles.tile, wide && styles.tileWide, !on && isHovered(s) && styles.tileHover]}
             >
-              <Medallion size={size} selected={on}>
-                <AnimalEmblem id={z.id} size={Math.round(size * 0.74)} />
-              </Medallion>
-              <AppText size={wide ? 16 : 14} style={styles.center}>
-                {label}
-              </AppText>
+              {s => (
+                <>
+                  <View style={!on && isHovered(s) && styles.medallionHover}>
+                    <Medallion size={size} selected={on}>
+                      <AnimalEmblem id={z.id} size={Math.round(size * 0.74)} />
+                    </Medallion>
+                  </View>
+                  <AppText size={wide ? 16 : 14} style={[styles.center, !on && isHovered(s) && styles.labelHover]}>
+                    {label}
+                  </AppText>
+                </>
+              )}
             </Pressable>
           );
         })}
@@ -59,7 +65,7 @@ export default function ZodiacScreen() {
 
 const styles = StyleSheet.create({
   top: { gap: 14, paddingHorizontal: 4 },
-  topWide: { gap: 24 },
+  topWide: { gap: 16 },
   note: {
     flexDirection: 'row',
     gap: 10,
@@ -74,8 +80,12 @@ const styles = StyleSheet.create({
   noteWide: { maxWidth: 720, alignSelf: 'center', paddingHorizontal: 14 },
   noteText: { flex: 1 },
   grid: { flexDirection: 'row', flexWrap: 'wrap', rowGap: 12, marginTop: 18 },
-  gridWide: { rowGap: 22, marginTop: 24, justifyContent: 'center' },
+  gridWide: { rowGap: 16, marginTop: 18, justifyContent: 'center' },
   tile: { width: '33.33%', alignItems: 'center', gap: 6 },
   tileWide: { width: '16.66%', minWidth: 132 },
   center: { textAlign: 'center' },
+  // Desktop hover: the medallion lifts and glows softly.
+  tileHover: { transform: [{ translateY: -3 }] },
+  medallionHover: { borderRadius: 999, boxShadow: '0 0 14px rgba(232,201,136,0.28)' },
+  labelHover: { color: colors.gold },
 });

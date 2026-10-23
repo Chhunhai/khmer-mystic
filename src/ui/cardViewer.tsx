@@ -21,7 +21,7 @@ import { useUi } from '../state/flow.tsx';
 import { CardFace, useReducedMotion } from './cards.tsx';
 import { Icon } from './icons.tsx';
 import { Vortex } from './vortex.tsx';
-import { AppText, PanelHeading } from './kit.tsx';
+import { AppText, PanelHeading, isHovered } from './kit.tsx';
 import { colors } from './theme.ts';
 
 const useNativeDriver = Platform.OS !== 'web';
@@ -85,7 +85,7 @@ export function ZoomableCard({
       accessibilityRole="button"
       accessibilityLabel={`${label}: ${card.name[lang]}`}
       accessibilityHint={ui.viewCard}
-      style={[style, viewer.isOpen(viewKey) && styles.hidden]}
+      style={s => [style, isHovered(s) && styles.hoverLift, viewer.isOpen(viewKey) && styles.hidden]}
     >
       <CardFace card={card} lang={lang} />
     </Pressable>
@@ -205,6 +205,7 @@ function CardViewer({ card, lang, label, caption, from, onClosed }: CardView & {
 
 const styles = StyleSheet.create({
   hidden: { opacity: 0 },
+  hoverLift: { transform: [{ translateY: -4 }, { scale: 1.02 }] },
   backdrop: { backgroundColor: 'rgba(11,21,48,0.96)' },
   closeRow: { position: 'absolute' },
   closeButton: {

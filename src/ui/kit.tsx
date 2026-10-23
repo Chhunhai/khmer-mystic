@@ -1,6 +1,7 @@
 // Shared building blocks: screen frame with headers, text styles, buttons and option tiles.
-import { createContext, useContext, type ReactNode } from 'react';
+import { createContext, useContext, useState, type ReactNode } from 'react';
 import {
+  Modal,
   Pressable,
   ScrollView,
   StyleSheet,
@@ -8,6 +9,7 @@ import {
   View,
   useWindowDimensions,
   type AccessibilityRole,
+  type PressableStateCallbackType,
   type StyleProp,
   type TextStyle,
   type ViewStyle,
@@ -15,7 +17,7 @@ import {
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import Svg, { G, Path } from 'react-native-svg';
 import { router, usePathname } from 'expo-router';
-import { stepLabel, useFlow, useUi } from '../state/flow.tsx';
+import { hasProgress, resumeRoute, stepLabel, useFlow, useUi } from '../state/flow.tsx';
 import type { Lang } from '../engine/types.ts';
 import { Backdrop } from './backdrop.tsx';
 import { Divider, Icon, LotusMark } from './icons.tsx';
@@ -25,6 +27,11 @@ const langNames: Record<Lang, string> = { en: 'EN', km: 'ខ្មែរ' };
 
 /** True inside the desktop footer row, where buttons take fixed widths instead of the full column. */
 const InFooterRow = createContext(false);
+
+/** On web, Pressable also reports when the mouse is over it; native only reports `pressed`. */
+export function isHovered(state: PressableStateCallbackType): boolean {
+  return !!(state as PressableStateCallbackType & { hovered?: boolean }).hovered;
+}
 
 /**
  * Text in Kantumruy Pro with the line height for the current language.
@@ -117,7 +124,7 @@ export function LangToggle() {
             onPress={() => update({ lang: l })}
             accessibilityRole="radio"
             accessibilityState={{ checked: on }}
-            style={[styles.langButton, on && styles.langButtonOn]}
+            style={s => [styles.langButton, on && styles.langButtonOn, !on && isHovered(s) && styles.hoverFill]}
           >
             <Text style={[styles.langText, on && styles.langTextOn]}>{langNames[l]}</Text>
           </Pressable>
@@ -183,7 +190,12 @@ function BackButton() {
   const ui = useUi();
   const goBack = useGoBack();
   return (
-    <Pressable onPress={goBack} accessibilityRole="button" accessibilityLabel={ui.back} style={styles.iconButton}>
+    <Pressable
+      onPress={goBack}
+      accessibilityRole="button"
+      accessibilityLabel={ui.back}
+      style={s => [styles.iconButton, isHovered(s) && styles.iconButtonHover]}
+    >
       <Icon name="back" size={22} strokeWidth={2} />
     </Pressable>
   );
@@ -201,14 +213,16 @@ function startReading() {
 /** Desktop and tablet header: logo, Home and Tarot Reading links, language. */
 export function SiteHeader({ active }: { active: 'home' | 'reading' }) {
   const ui = useUi();
-  const { reset } = useFlow();
+  const { state } = useFlow();
+  // A reading in progress is resumed, never cleared, from the header.
+  const openReading = () => (hasProgress(state) ? router.push(resumeRoute(state, true)) : startReading());
   const links = [
     { key: 'home', label: ui.nav[0], onPress: goHome },
-    { key: 'reading', label: ui.nav[1], onPress: () => { reset(); startReading(); } },
+    { key: 'reading', label: ui.nav[1], onPress: openReading },
   ] as const;
   return (
     <View style={styles.siteInner}>
-      <Pressable onPress={goHome} accessibilityRole="link" style={styles.logo}>
+      <Pressable onPress={goHome} accessibilityRole="link" style={s => [styles.logo, isHovered(s) && styles.hoverDim]}>
         <LotusMark width={40} strokeWidth={4} />
         <Text style={styles.logoText}>KHMER MYSTIC</Text>
       </Pressable>
@@ -217,9 +231,11 @@ export function SiteHeader({ active }: { active: 'home' | 'reading' }) {
           const on = l.key === active;
           return (
             <Pressable key={l.key} onPress={on ? undefined : l.onPress} accessibilityRole="link" accessibilityState={{ selected: on }}>
-              <AppText size={15} style={[styles.navLink, on && styles.navLinkOn]}>
-                {l.label}
-              </AppText>
+              {s => (
+                <AppText size={15} style={[styles.navLink, on && styles.navLinkOn, !on && isHovered(s) && styles.navLinkHover]}>
+                  {l.label}
+                </AppText>
+              )}
             </Pressable>
           );
         })}
@@ -297,14 +313,6 @@ export function Screen({
                 <View style={styles.frameInner}>
                   {step !== undefined && <Stepper step={step} />}
                   <View style={[styles.frameContent, { maxWidth: width }]}>{children}</View>
-                  {(footer || back) && (
-                    <View style={styles.footerRow}>
-                      {back ? <GhostButton label={ui.back} onPress={goBack} style={styles.backWide} /> : <View />}
-                      <InFooterRow.Provider value={true}>
-                        <View style={styles.footerActions}>{footer}</View>
-                      </InFooterRow.Provider>
-                    </View>
-                  )}
                 </View>
                 {cornerTransforms.map((style, i) => (
                   <FrameCorner key={i} style={style} />
@@ -313,6 +321,17 @@ export function Screen({
             </View>
           )}
         </ScrollView>
+        {!home && (footer || back) && (
+          // Docked to the bottom of the window, so Continue is always in view on short laptop screens.
+          <View style={styles.wideDock}>
+            <View style={styles.wideDockInner}>
+              {back ? <GhostButton label={ui.back} onPress={goBack} style={styles.backWide} /> : <View />}
+              <InFooterRow.Provider value={true}>
+                <View style={styles.footerActions}>{footer}</View>
+              </InFooterRow.Provider>
+            </View>
+          </View>
+        )}
       </View>
     );
   }
@@ -368,7 +387,14 @@ export function PrimaryButton({
       disabled={disabled}
       accessibilityRole="button"
       accessibilityState={{ disabled: !!disabled }}
-      style={({ pressed }) => [styles.primary, inRow && styles.primaryRow, disabled && styles.disabled, pressed && styles.pressed, style]}
+      style={s => [
+        styles.primary,
+        inRow && styles.primaryRow,
+        !disabled && isHovered(s) && styles.primaryHover,
+        disabled && styles.disabled,
+        s.pressed && styles.pressed,
+        style,
+      ]}
     >
       <AppText size={16} style={styles.primaryText}>
         {label}
@@ -395,7 +421,14 @@ export function GhostButton({
       disabled={disabled}
       accessibilityRole="button"
       accessibilityState={{ disabled: !!disabled }}
-      style={({ pressed }) => [styles.ghost, inRow && styles.ghostRow, disabled && styles.disabled, pressed && styles.pressed, style]}
+      style={s => [
+        styles.ghost,
+        inRow && styles.ghostRow,
+        !disabled && isHovered(s) && styles.hoverFill,
+        disabled && styles.disabled,
+        s.pressed && styles.pressed,
+        style,
+      ]}
     >
       <AppText size={15} style={styles.ghostText}>
         {label}
@@ -429,7 +462,14 @@ export function Option({
       accessibilityRole={role}
       accessibilityLabel={label}
       accessibilityState={role === 'radio' ? { checked: !!selected } : { selected: !!selected }}
-      style={({ pressed }) => [styles.option, style, selected && styles.optionOn, selected && selectedStyle, pressed && styles.pressed]}
+      style={s => [
+        styles.option,
+        style,
+        !selected && isHovered(s) && styles.optionHover,
+        selected && styles.optionOn,
+        selected && selectedStyle,
+        s.pressed && styles.pressed,
+      ]}
     >
       {children}
     </Pressable>
@@ -444,6 +484,73 @@ export function Radio({ on }: { on: boolean }) {
 /** Bordered night panel. */
 export function Panel({ children, style }: { children: ReactNode; style?: StyleProp<ViewStyle> }) {
   return <View style={[styles.panel, style]}>{children}</View>;
+}
+
+/** A small confirm / cancel dialog (React Native's Alert does nothing on web). */
+export function ConfirmDialog({
+  visible,
+  title,
+  body,
+  confirmLabel,
+  cancelLabel,
+  onConfirm,
+  onCancel,
+}: {
+  visible: boolean;
+  title: string;
+  body: string;
+  confirmLabel: string;
+  cancelLabel: string;
+  onConfirm: () => void;
+  onCancel: () => void;
+}) {
+  return (
+    <Modal transparent visible={visible} animationType="fade" statusBarTranslucent onRequestClose={onCancel}>
+      <Pressable style={styles.dialogBackdrop} onPress={onCancel} accessible={false} />
+      <View style={styles.dialogWrap} pointerEvents="box-none">
+        <View style={styles.dialog} accessibilityViewIsModal accessibilityRole="alert">
+          <PanelHeading size={18}>{title}</PanelHeading>
+          <AppText size={15} style={styles.muted}>
+            {body}
+          </AppText>
+          <View style={styles.dialogActions}>
+            <GhostButton label={cancelLabel} onPress={onCancel} style={styles.dialogButton} />
+            <PrimaryButton label={confirmLabel} onPress={onConfirm} style={styles.dialogButton} />
+          </View>
+        </View>
+      </View>
+    </Modal>
+  );
+}
+
+/**
+ * "Start a new reading": clears the selections and opens step 1. If a reading is in progress it asks
+ * first, so nothing is lost by accident. Render `dialog` somewhere on the screen.
+ */
+export function useStartNewReading() {
+  const { state, reset } = useFlow();
+  const ui = useUi();
+  const [asking, setAsking] = useState(false);
+  const begin = () => {
+    setAsking(false);
+    reset();
+    if (router.canDismiss()) router.dismissAll();
+    router.push('/zodiac');
+  };
+  return {
+    request: () => (hasProgress(state) ? setAsking(true) : begin()),
+    dialog: (
+      <ConfirmDialog
+        visible={asking}
+        title={ui.confirmNewTitle}
+        body={ui.confirmNewBody}
+        confirmLabel={ui.confirmNewYes}
+        cancelLabel={ui.cancel}
+        onConfirm={begin}
+        onCancel={() => setAsking(false)}
+      />
+    ),
+  };
 }
 
 export const styles = StyleSheet.create({
@@ -498,6 +605,37 @@ export const styles = StyleSheet.create({
   nav: { flexDirection: 'row', flexWrap: 'wrap', alignItems: 'center', gap: 26 },
   navLink: { paddingVertical: 6, paddingHorizontal: 2, borderBottomWidth: 1.5, borderBottomColor: 'transparent' },
   navLinkOn: { color: colors.gold, borderBottomColor: colors.gold },
+  navLinkHover: { color: colors.gold },
+  hoverDim: { opacity: 0.85 },
+  dialogBackdrop: { ...StyleSheet.absoluteFill, backgroundColor: 'rgba(11,21,48,0.8)' },
+  dialogWrap: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: 24 },
+  dialog: {
+    width: '100%',
+    maxWidth: 420,
+    gap: 12,
+    padding: 22,
+    borderRadius: 18,
+    borderWidth: 1.5,
+    borderColor: colors.gold,
+    backgroundColor: colors.panel,
+    boxShadow: `0 0 36px ${colors.glow}`,
+  },
+  dialogActions: { flexDirection: 'row', flexWrap: 'wrap', gap: 10, marginTop: 6 },
+  dialogButton: { flexGrow: 1, flexBasis: 140 },
+  hoverFill: { backgroundColor: colors.selected },
+  iconButtonHover: { backgroundColor: colors.selected, borderRadius: 22 },
+  wideDock: { borderTopWidth: 1, borderTopColor: colors.line, backgroundColor: 'rgba(11,21,48,0.94)', paddingVertical: 14 },
+  wideDockInner: {
+    width: '100%',
+    maxWidth: frameWidth,
+    alignSelf: 'center',
+    paddingHorizontal: 64,
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    gap: 12,
+  },
   page: { width: '100%', alignSelf: 'center', paddingHorizontal: 32 },
   frameWrap: { width: '100%', maxWidth: frameWidth, alignSelf: 'center', paddingHorizontal: 32, marginTop: 12, marginBottom: 40 },
   frame: { borderWidth: 1.5, borderColor: colors.gold, borderRadius: 24, padding: 7, backgroundColor: colors.frame },
@@ -530,21 +668,12 @@ export const styles = StyleSheet.create({
   stepperNum: { fontFamily: fonts.brand, fontSize: 15, color: colors.muted },
   stepperNumOn: { color: colors.midnight },
   stepperName: { color: colors.muted, textAlign: 'center' },
-  footerRow: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    gap: 12,
-    paddingTop: 22,
-    borderTopWidth: 1,
-    borderTopColor: colors.line,
-  },
   footerActions: { flexDirection: 'row', flexWrap: 'wrap', gap: 12 },
   backWide: { width: 170 },
   // Buttons
   primary: { backgroundColor: colors.gold, borderRadius: 999, minHeight: 52, paddingVertical: 10, paddingHorizontal: 20, alignItems: 'center', justifyContent: 'center' },
   primaryRow: { minWidth: 240 },
+  primaryHover: { backgroundColor: '#D9B86A' },
   primaryText: { color: colors.midnight, fontWeight: '600' },
   ghost: {
     borderWidth: 1,
@@ -561,6 +690,7 @@ export const styles = StyleSheet.create({
   disabled: { opacity: 0.45 },
   pressed: { opacity: 0.8 },
   option: { backgroundColor: colors.panel, borderWidth: 1, borderColor: colors.line, borderRadius: 12 },
+  optionHover: { borderColor: colors.gold },
   optionOn: { borderColor: colors.gold, borderWidth: 1.5, backgroundColor: colors.selected },
   radio: {
     width: 18,

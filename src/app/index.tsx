@@ -1,11 +1,12 @@
 // Screen 1: welcome and language choice.
 import { Pressable, StyleSheet, Text, View, useWindowDimensions } from 'react-native';
 import { router } from 'expo-router';
-import { useFlow, useUi } from '../state/flow.tsx';
+import { content } from '../content/index.ts';
+import { findTopic, hasProgress, resumeRoute, resumeStep, stepLabel, useFlow, useUi } from '../state/flow.tsx';
 import { AnimalEmblem } from '../ui/animals.tsx';
 import { CoverImage, Fade } from '../ui/backdrop.tsx';
 import { Divider, Icon, LotusMark, type IconName } from '../ui/icons.tsx';
-import { AppText, GhostButton, PrimaryButton, Screen } from '../ui/kit.tsx';
+import { AppText, GhostButton, PrimaryButton, Screen, useStartNewReading } from '../ui/kit.tsx';
 import { Entrance } from '../ui/entrance.tsx';
 import { Medallion } from '../ui/medallion.tsx';
 import { colors, fonts, useWide } from '../ui/theme.ts';
@@ -33,16 +34,16 @@ function PhoneHero() {
 }
 
 export default function WelcomeScreen() {
-  const { state, update, reset } = useFlow();
+  const { state, update } = useFlow();
   const ui = useUi();
   const wide = useWide();
-
-  const resume = () => router.push(state.cardIds ? (state.flipped.every(Boolean) ? '/reading' : '/draw') : state.questionId ? '/time' : state.topicId ? (wide ? '/topic' : '/question') : '/topic');
-
-  const start = () => {
-    reset();
-    router.push('/zodiac');
-  };
+  const newReading = useStartNewReading();
+  const progress = hasProgress(state);
+  const resume = () => router.push(resumeRoute(state, wide));
+  // Where the reading in progress stands, e.g. "Love & Relationships · Step 3 of 5".
+  const where = progress
+    ? `${findTopic(state.topicId)?.name[state.lang] ?? content.zodiac.find(z => z.id === state.zodiacId)?.name[state.lang] ?? ''} · ${stepLabel(ui.step, resumeStep(state), state.lang)}`
+    : '';
 
   if (wide) {
     return (
@@ -60,9 +61,14 @@ export default function WelcomeScreen() {
               {ui.intro}
             </AppText>
             <View style={styles.homeActions}>
-              <PrimaryButton label={state.zodiacId ? ui.resume : ui.start} onPress={state.zodiacId ? resume : start} style={styles.action} />
-              {state.zodiacId && <GhostButton label={ui.start} onPress={start} style={styles.action} />}
+              <PrimaryButton label={progress ? ui.resume : ui.start} onPress={progress ? resume : newReading.request} style={styles.action} />
+              {progress && <GhostButton label={ui.newReading} onPress={newReading.request} style={styles.action} />}
             </View>
+            {progress && (
+              <AppText size={14} style={styles.where}>
+                {where}
+              </AppText>
+            )}
             <AppText size={14} style={styles.muted}>{ui.note}</AppText>
             <View style={styles.features}>
               {ui.features.map((label, i) => {
@@ -81,6 +87,7 @@ export default function WelcomeScreen() {
             </View>
           </Entrance>
         </View>
+        {newReading.dialog}
       </Screen>
     );
   }
@@ -90,8 +97,17 @@ export default function WelcomeScreen() {
       header="none"
       footer={
         <View style={styles.foot}>
-          {state.zodiacId && <GhostButton label={ui.resume} onPress={resume} style={styles.full} />}
-          <PrimaryButton label={ui.start} onPress={start} style={styles.full} />
+          {progress ? (
+            <>
+              <PrimaryButton label={ui.resume} onPress={resume} style={styles.full} />
+              <AppText size={13} style={styles.where}>
+                {where}
+              </AppText>
+              <GhostButton label={ui.newReading} onPress={newReading.request} style={styles.full} />
+            </>
+          ) : (
+            <PrimaryButton label={ui.start} onPress={newReading.request} style={styles.full} />
+          )}
           <AppText size={12} style={styles.muted}>
             {ui.note}
           </AppText>
@@ -128,6 +144,7 @@ export default function WelcomeScreen() {
           })}
         </View>
       </View>
+      {newReading.dialog}
     </Screen>
   );
 }
@@ -156,6 +173,7 @@ const styles = StyleSheet.create({
   langTextOn: { color: colors.midnight, fontWeight: '600' },
   foot: { alignItems: 'center', gap: 12, paddingHorizontal: 8 },
   full: { alignSelf: 'stretch' },
+  where: { color: colors.gold, textAlign: 'center' },
   // Wide layout: text column on the right, over the artwork.
   wideMain: { flexDirection: 'row', justifyContent: 'flex-end', paddingTop: 24, paddingBottom: 40 },
   wideText: { flexGrow: 0, flexShrink: 1, flexBasis: 640, alignItems: 'center', gap: 16 },
