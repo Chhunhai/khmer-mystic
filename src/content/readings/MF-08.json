@@ -1,0 +1,1097 @@
+{
+  "questionId": "MF-08",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You may feel drawn to a big purchase on impulse, excited by something new and free of second thoughts. The urge feels light and joyful.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ទាក់ទាញទៅរកការទិញធំមួយដោយចិត្តឆាប់ ដោយរំភើបនឹងអ្វីមួយថ្មី ហើយគ្មានការគិតឡើងវិញ។ ការជំរុញនេះ មានអារម្មណ៍ស្រាល និងរីករាយ។"
+      },
+      "challenge": {
+        "en": "Leaping without checking the price, the terms or your budget could turn a happy purchase into a burden. Look before you jump.",
+        "km": "ការលោតដោយមិនពិនិត្យតម្លៃ លក្ខខណ្ឌ ឬថវិការបស់អ្នក អាចបង្វែរការទិញដ៏រីករាយ ទៅជាបន្ទុក។ សូមមើលមុនពេលអ្នកលោត។"
+      },
+      "outcome": {
+        "en": "A purchase made with open eyes could bring a fresh, exciting start. Checking the basics first may keep the joy free of regret.",
+        "km": "ការទិញដែលធ្វើឡើងដោយភ្នែកបើកចំហ អាចនាំមកនូវការចាប់ផ្តើមថ្មី និងគួរឱ្យរំភើប។ ការពិនិត្យមូលដ្ឋានគ្រឹះជាមុន អាចរក្សាសេចក្តីរីករាយឱ្យគ្មានការសោកស្តាយ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may have the skills and resources to make a big purchase work, if you plan it well. The tools are in your hands.",
+        "km": "អ្នកប្រហែលជាមានជំនាញ និងធនធាន ដើម្បីធ្វើឱ្យការទិញធំមួយដំណើរការ ប្រសិនបើអ្នករៀបចំផែនការវាបានល្អ។ ឧបករណ៍ស្ថិតនៅក្នុងដៃរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Talking yourself into a purchase with clever reasoning could hide whether you truly need it. Be honest about your motives.",
+        "km": "ការបញ្ចុះបញ្ចូលខ្លួនឯងឱ្យទិញ ដោយហេតុផលឆ្លាតវៃ អាចលាក់ថាតើអ្នកពិតជាត្រូវការវាឬអត់។ សូមស្មោះត្រង់អំពីហេតុផលរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Using your resources with skill could make a big purchase pay its way. A well-planned choice may keep serving you well.",
+        "km": "ការប្រើធនធានរបស់អ្នកដោយជំនាញ អាចធ្វើឱ្យការទិញធំមួយ មានតម្លៃសមនឹងការចំណាយ។ ជម្រើសដែលបានរៀបចំផែនការល្អ អាចបន្តបម្រើអ្នកបានល្អ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Something about this purchase may not be fully clear yet, and your instincts may be quietly hesitant. There may be more to learn.",
+        "km": "អ្វីមួយអំពីការទិញនេះ ប្រហែលជាមិនទាន់ច្បាស់ទាំងស្រុងនៅឡើយ ហើយសភាវគតិរបស់អ្នក ប្រហែលជាកំពុងស្ទាក់ស្ទើរដោយស្ងាត់ៗ។ ប្រហែលជាមានអ្វីច្រើនទៀតដែលត្រូវរៀន។"
+      },
+      "challenge": {
+        "en": "Ignoring a quiet doubt about the seller, the price or the timing could lead to regret. Listen to what your intuition is noticing.",
+        "km": "ការមិនអើពើនឹងការសង្ស័យស្ងាត់ៗ អំពីអ្នកលក់ តម្លៃ ឬពេលវេលា អាចនាំទៅរកការសោកស្តាយ។ សូមស្តាប់អ្វីដែលវិចារណញាណរបស់អ្នកកំពុងកត់សម្គាល់។"
+      },
+      "outcome": {
+        "en": "Gathering hidden details could reveal whether this purchase is truly right. Trusting your inner sense may guide you to a wise choice.",
+        "km": "ការប្រមូលព័ត៌មានលម្អិតដែលលាក់កំបាំង អាចបង្ហាញថាតើការទិញនេះពិតជាត្រឹមត្រូវឬអត់។ ការទុកចិត្តលើអារម្មណ៍ខាងក្នុង អាចណែនាំអ្នកទៅរកជម្រើសដ៏ឆ្លាតវៃ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "You may be in a comfortable, growing position, with a wish to make your home or life more beautiful. Abundance feels within reach.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងទីតាំងស្រួល និងកំពុងរីកចម្រើន ដោយមានបំណងចង់ធ្វើឱ្យផ្ទះ ឬជីវិតរបស់អ្នកកាន់តែស្រស់ស្អាត។ ភាពបរិបូរណ៍ មានអារម្មណ៍ថាស្ថិតនៅក្បែរដៃ។"
+      },
+      "challenge": {
+        "en": "Spending to create comfort could slip into indulgence that strains your savings. Enjoy beauty without overstretching.",
+        "km": "ការចំណាយដើម្បីបង្កើតភាពស្រួល អាចរអិលទៅជាការលើសលុប ដែលធ្វើឱ្យប្រាក់សន្សំរបស់អ្នកតានតឹង។ សូមរីករាយនឹងភាពស្រស់ស្អាត ដោយមិនលាតសន្ធឹងហួសកម្រិត។"
+      },
+      "outcome": {
+        "en": "A purchase that nurtures your home or wellbeing could bring lasting comfort. Growth may feel richer when it stays within your means.",
+        "km": "ការទិញដែលចិញ្ចឹមបីបាច់ផ្ទះ ឬសុខុមាលភាពរបស់អ្នក អាចនាំមកនូវភាពស្រួលយូរអង្វែង។ ការរីកចម្រើន អាចមានអារម្មណ៍សម្បូរបែបជាងមុន នៅពេលវានៅក្នុងលទ្ធភាពរបស់អ្នក។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "You may have a solid structure in place, such as a budget, savings or steady income, that could support a big purchase. Order gives you options.",
+        "km": "អ្នកប្រហែលជាមានរចនាសម្ព័ន្ធរឹងមាំរួចហើយ ដូចជាថវិកា ប្រាក់សន្សំ ឬចំណូលនឹងនរ ដែលអាចទ្រទ្រង់ការទិញធំមួយ។ សណ្តាប់ធ្នាប់ ផ្តល់ជម្រើសដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Breaking your own rules or budget for one exciting item could weaken the stability you built. Stick to the limits you set.",
+        "km": "ការបំពានច្បាប់ ឬថវិកាផ្ទាល់ខ្លួនរបស់អ្នក សម្រាប់របស់គួរឱ្យរំភើបមួយ អាចធ្វើឱ្យស្ថិរភាពដែលអ្នកបានកសាងចុះខ្សោយ។ សូមប្រកាន់ខ្ជាប់ដែនកំណត់ដែលអ្នកបានកំណត់។"
+      },
+      "outcome": {
+        "en": "A purchase that fits your plan could add to your security rather than shake it. Disciplined choices may keep you in control.",
+        "km": "ការទិញដែលសមនឹងផែនការរបស់អ្នក អាចបន្ថែមលើសុវត្ថិភាពរបស់អ្នក ជាជាងរង្គោះរង្គើវា។ ជម្រើសដែលមានវិន័យ អាចរក្សាអ្នកឱ្យនៅក្នុងការគ្រប់គ្រង។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "You may be considering a traditional or sensible purchase, such as a home, vehicle or something for the family. Advice from others may matter.",
+        "km": "អ្នកប្រហែលជាកំពុងពិចារណាការទិញបែបប្រពៃណី ឬសមហេតុផល ដូចជាផ្ទះ យានយន្ត ឬអ្វីមួយសម្រាប់គ្រួសារ។ ដំបូន្មានពីអ្នកដទៃ ប្រហែលជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Buying something only because it is expected of you could leave you with a cost that does not suit your life. Make sure the choice is truly yours.",
+        "km": "ការទិញអ្វីមួយ គ្រាន់តែដោយសារគេរំពឹងពីអ្នក អាចទុកឱ្យអ្នកមានការចំណាយដែលមិនសមនឹងជីវិតរបស់អ្នក។ សូមប្រាកដថាជម្រើសនេះ ពិតជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Seeking trusted advice could help a sensible purchase go smoothly. A well-informed choice may bring lasting peace of mind.",
+        "km": "ការស្វែងរកដំបូន្មានដែលគួរឱ្យទុកចិត្ត អាចជួយឱ្យការទិញដ៏សមហេតុផលដំណើរការដោយរលូន។ ជម្រើសដែលមានព័ត៌មានគ្រប់គ្រាន់ អាចនាំមកនូវភាពស្ងប់ចិត្តយូរអង្វែង។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "A big purchase may involve a partner or loved one, and the choice may affect you both. Shared values are part of the decision.",
+        "km": "ការទិញធំមួយ ប្រហែលជាពាក់ព័ន្ធនឹងដៃគូ ឬមនុស្សជាទីស្រឡាញ់ ហើយជម្រើសនេះ ប្រហែលជាប៉ះពាល់ដល់អ្នកទាំងពីរ។ គុណតម្លៃរួម គឺជាផ្នែកមួយនៃការសម្រេចចិត្ត។"
+      },
+      "challenge": {
+        "en": "Deciding alone on something that affects someone close could cause friction or mistrust. Talk it through together first.",
+        "km": "ការសម្រេចចិត្តតែម្នាក់ឯង លើអ្វីមួយដែលប៉ះពាល់ដល់នរណាម្នាក់ដែលជិតស្និទ្ធ អាចបង្កការកកិត ឬការមិនទុកចិត្ត។ សូមពិភាក្សាជាមួយគ្នាជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "A choice made together could strengthen both your plans and your bond. Agreement may make the purchase feel right for everyone.",
+        "km": "ជម្រើសដែលធ្វើឡើងជាមួយគ្នា អាចពង្រឹងទាំងផែនការ និងចំណងរបស់អ្នក។ ការឯកភាពគ្នា អាចធ្វើឱ្យការទិញមានអារម្មណ៍ត្រឹមត្រូវសម្រាប់អ្នករាល់គ្នា។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You may feel determined to make this purchase happen, focused and ready to move ahead. Your resolve may be carrying you forward.",
+        "km": "អ្នកប្រហែលជាមានការប្តេជ្ញាចិត្តធ្វើឱ្យការទិញនេះកើតឡើង ដោយផ្តោតអារម្មណ៍ ហើយត្រៀមខ្លួនទៅមុខ។ ការតាំងចិត្តរបស់អ្នក ប្រហែលជាកំពុងនាំអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Pushing ahead so hard that you skip comparing prices or reading the terms could cost you. Steer with care, not just speed.",
+        "km": "ការជំរុញទៅមុខខ្លាំងពេក រហូតអ្នករំលងការប្រៀបធៀបតម្លៃ ឬការអានលក្ខខណ្ឌ អាចធ្វើឱ្យអ្នកខាតបង់។ សូមដឹកនាំដោយប្រុងប្រយ័ត្ន មិនមែនតែល្បឿនទេ។"
+      },
+      "outcome": {
+        "en": "Focused effort could carry this purchase through successfully. Staying in control of the details may lead to a result you are proud of.",
+        "km": "ការខិតខំដោយផ្តោតអារម្មណ៍ អាចនាំការទិញនេះឆ្លងកាត់ដោយជោគជ័យ។ ការរក្សាការគ្រប់គ្រងលើព័ត៌មានលម្អិត អាចនាំទៅរកលទ្ធផលដែលអ្នកមានមោទនភាព។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "You may be holding steady against the pull to buy, showing patience and quiet self-control. Inner strength is guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងរក្សាភាពនឹងនរ ទប់ទល់នឹងការទាក់ទាញឱ្យទិញ ដោយបង្ហាញការអត់ធ្មត់ និងការគ្រប់គ្រងខ្លួនដោយស្ងប់ស្ងាត់។ កម្លាំងខាងក្នុង កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Giving in to pressure, whether from a seller or your own cravings, could weaken your resolve. Gentle firmness protects your choice.",
+        "km": "ការចុះចាញ់សម្ពាធ មិនថាពីអ្នកលក់ ឬពីបំណងប្រាថ្នាផ្ទាល់ខ្លួនរបស់អ្នក អាចធ្វើឱ្យការតាំងចិត្តរបស់អ្នកចុះខ្សោយ។ ភាពរឹងមាំទន់ភ្លន់ ការពារជម្រើសរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Patient self-control could lead you to the right purchase on the right terms. Calm strength may help you buy without strain.",
+        "km": "ការគ្រប់គ្រងខ្លួនដោយអត់ធ្មត់ អាចនាំអ្នកទៅរកការទិញត្រឹមត្រូវ ក្នុងលក្ខខណ្ឌត្រឹមត្រូវ។ កម្លាំងស្ងប់ស្ងាត់ អាចជួយអ្នកទិញដោយគ្មានសម្ពាធ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You may need quiet time to think about whether this purchase truly fits your life. Reflection may matter more than action.",
+        "km": "អ្នកប្រហែលជាត្រូវការពេលស្ងប់ស្ងាត់ ដើម្បីគិតថាតើការទិញនេះពិតជាសមនឹងជីវិតរបស់អ្នកឬអត់។ ការឆ្លុះបញ្ចាំង ប្រហែលជាសំខាន់ជាងសកម្មភាព។"
+      },
+      "challenge": {
+        "en": "Rushing past your own doubts to please others or keep up could lead to a choice that feels empty. Give yourself space to decide.",
+        "km": "ការប្រញាប់រំលងការសង្ស័យផ្ទាល់ខ្លួន ដើម្បីផ្គាប់ចិត្តអ្នកដទៃ ឬតាមឱ្យទាន់អ្នកដទៃ អាចនាំទៅរកជម្រើសដែលមានអារម្មណ៍ទទេ។ សូមផ្តល់កន្លែងឱ្យខ្លួនឯងដើម្បីសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Thoughtful reflection could reveal whether this purchase brings real value. A clear answer may emerge from quiet consideration.",
+        "km": "ការឆ្លុះបញ្ចាំងដោយគិតគូរ អាចបង្ហាញថាតើការទិញនេះនាំមកនូវតម្លៃពិតប្រាកដឬអត់។ ចម្លើយច្បាស់លាស់ អាចលេចចេញពីការពិចារណាដោយស្ងប់ស្ងាត់។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Circumstances may be shifting, with prices, offers or your own situation changing. Luck and timing may be playing a part.",
+        "km": "កាលៈទេសៈ ប្រហែលជាកំពុងផ្លាស់ប្តូរ ដោយតម្លៃ ការផ្តល់ជូន ឬស្ថានភាពផ្ទាល់ខ្លួនរបស់អ្នកកំពុងប្រែប្រួល។ សំណាង និងពេលវេលា ប្រហែលជាកំពុងដើរតួនាទី។"
+      },
+      "challenge": {
+        "en": "Counting on a lucky break or a deal that may not last could push you into a rushed buy. Base your choice on what you can control.",
+        "km": "ការពឹងលើសំណាង ឬកិច្ចព្រមព្រៀងដែលប្រហែលជាមិនស្ថិតស្ថេរ អាចជំរុញអ្នកឱ្យទិញដោយប្រញាប់ប្រញាល់។ សូមផ្អែកជម្រើសរបស់អ្នកលើអ្វីដែលអ្នកអាចគ្រប់គ្រងបាន។"
+      },
+      "outcome": {
+        "en": "Staying flexible with changing conditions could help you catch a good opportunity. The wheel may turn in your favour if you are ready.",
+        "km": "ការរក្សាភាពបត់បែនជាមួយលក្ខខណ្ឌដែលផ្លាស់ប្តូរ អាចជួយអ្នកចាប់យកឱកាសល្អ។ កង់ អាចវិលមកខាងអ្នក ប្រសិនបើអ្នកត្រៀមខ្លួនរួចរាល់។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "You may be weighing this purchase fairly, looking at costs, benefits and consequences. Balance and honesty are guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងការទិញនេះដោយយុត្តិធម៌ ដោយមើលលើថ្លៃដើម អត្ថប្រយោជន៍ និងផលវិបាក។ តុល្យភាព និងភាពស្មោះត្រង់ កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Overlooking the full cost, including upkeep, fees or contracts, could tip the scales against you. Read every term before you agree.",
+        "km": "ការរំលងថ្លៃដើមពេញលេញ រួមទាំងការថែទាំ ថ្លៃសេវា ឬកិច្ចសន្យា អាចធ្វើឱ្យជញ្ជីងផ្អៀងប្រឆាំងនឹងអ្នក។ សូមអានលក្ខខណ្ឌនីមួយៗ មុនពេលអ្នកយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "A fair and honest weighing could lead to a purchase you can stand behind. Clear terms may bring a balanced, lasting result.",
+        "km": "ការថ្លឹងថ្លែងដោយយុត្តិធម៌ និងស្មោះត្រង់ អាចនាំទៅរកការទិញដែលអ្នកអាចគាំទ្របាន។ លក្ខខណ្ឌច្បាស់លាស់ អាចនាំមកនូវលទ្ធផលមានតុល្យភាព និងស្ថិតស្ថេរ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "You may feel on hold with this purchase, waiting for something to change or become clear. A pause may be part of the picture.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាការទិញនេះកំពុងផ្អាក ដោយរង់ចាំអ្វីមួយផ្លាស់ប្តូរ ឬកាន់តែច្បាស់។ ការផ្អាក ប្រហែលជាផ្នែកមួយនៃរូបភាព។"
+      },
+      "challenge": {
+        "en": "Forcing a purchase while things are uncertain could lock you into something you would rather undo. Seeing it from another angle may help.",
+        "km": "ការបង្ខំការទិញ ខណៈអ្វីៗមិនប្រាកដប្រជា អាចចាក់សោអ្នកទៅក្នុងអ្វីមួយដែលអ្នកចង់លុបចោល។ ការមើលវាពីមុំផ្សេង អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "A patient pause could show the purchase in a new light. Waiting for clarity may lead to a better choice.",
+        "km": "ការផ្អាកដោយអត់ធ្មត់ អាចបង្ហាញការទិញក្នុងពន្លឺថ្មី។ ការរង់ចាំភាពច្បាស់លាស់ អាចនាំទៅរកជម្រើសល្អជាងមុន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "A big purchase may be tied to a major change, such as ending one chapter and starting another. Something old may be giving way.",
+        "km": "ការទិញធំមួយ ប្រហែលជាជាប់ទាក់ទងនឹងការផ្លាស់ប្តូរធំ ដូចជាការបញ្ចប់ជំពូកមួយ ហើយចាប់ផ្តើមជំពូកមួយទៀត។ អ្វីមួយចាស់ ប្រហែលជាកំពុងផ្តល់ផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Holding on to something that no longer serves you, or buying to avoid a needed change, could keep you stuck. Let go of what is finished.",
+        "km": "ការកាន់ខ្ជាប់អ្វីមួយដែលលែងបម្រើអ្នក ឬការទិញដើម្បីជៀសវាងការផ្លាស់ប្តូរដែលចាំបាច់ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមបោះបង់អ្វីដែលបានបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "A purchase that marks a genuine new start could help you move on. Clearing out the old may make room for something better.",
+        "km": "ការទិញដែលសម្គាល់ការចាប់ផ្តើមថ្មីពិតប្រាកដ អាចជួយអ្នកបន្តទៅមុខ។ ការសម្អាតរបស់ចាស់ អាចបង្កើតកន្លែងសម្រាប់អ្វីមួយដែលល្អជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You may be trying to balance a wish to buy against other needs and savings. Moderation may be guiding your thinking.",
+        "km": "អ្នកប្រហែលជាកំពុងព្យាយាមធ្វើឱ្យមានតុល្យភាព រវាងបំណងចង់ទិញ និងតម្រូវការផ្សេងទៀត និងប្រាក់សន្សំ។ ភាពល្មម ប្រហែលជាកំពុងណែនាំការគិតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Going to extremes, either splurging or denying yourself everything, could upset your balance. Find a middle path that works.",
+        "km": "ការទៅរកភាពជ្រុល មិនថាការចាយលុយខ្ជះខ្ជាយ ឬការបដិសេធខ្លួនឯងគ្រប់យ៉ាង អាចរំខានតុល្យភាពរបស់អ្នក។ សូមស្វែងរកផ្លូវកណ្តាលដែលដំណើរការ។"
+      },
+      "outcome": {
+        "en": "A moderate choice, perhaps a simpler version or saving up first, could bring the best result. Balance may make the purchase sit well.",
+        "km": "ជម្រើសល្មម ប្រហែលជាកំណែសាមញ្ញជាង ឬការសន្សំជាមុនសិន អាចនាំមកនូវលទ្ធផលល្អបំផុត។ តុល្យភាព អាចធ្វើឱ្យការទិញមានអារម្មណ៍ស្រួល។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "You may feel a strong pull toward this purchase, perhaps more than makes sense. Desire or pressure may be shaping the urge.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ទាក់ទាញខ្លាំងទៅរកការទិញនេះ ប្រហែលជាច្រើនជាងអ្វីដែលសមហេតុផល។ បំណងប្រាថ្នា ឬសម្ពាធ ប្រហែលជាកំពុងរៀបចំការជំរុញនេះ។"
+      },
+      "challenge": {
+        "en": "Buying on credit you cannot comfortably repay, or giving in to a craving, could tie you to a burden. Ask whether you truly need it.",
+        "km": "ការទិញដោយឥណទានដែលអ្នកមិនអាចសងបានដោយស្រួល ឬការចុះចាញ់បំណងប្រាថ្នា អាចចងអ្នកទៅនឹងបន្ទុក។ សូមសួរខ្លួនឯងថាតើអ្នកពិតជាត្រូវការវាឬអត់។"
+      },
+      "outcome": {
+        "en": "Seeing the pull for what it is could free you to choose clearly. A purchase made freely may feel far better than one made under pressure.",
+        "km": "ការមើលឃើញការទាក់ទាញនេះតាមការពិត អាចដោះលែងអ្នកឱ្យជ្រើសរើសបានច្បាស់។ ការទិញដែលធ្វើឡើងដោយសេរី អាចមានអារម្មណ៍ល្អជាងការទិញក្រោមសម្ពាធ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "An unexpected change or cost may be shaking your plans, making a big purchase feel uncertain. Stability may be in question.",
+        "km": "ការផ្លាស់ប្តូរ ឬការចំណាយដែលមិនបានរំពឹងទុក ប្រហែលជាកំពុងរង្គោះរង្គើផែនការរបស់អ្នក ធ្វើឱ្យការទិញធំមួយមានអារម្មណ៍មិនប្រាកដប្រជា។ ស្ថិរភាព ប្រហែលជាស្ថិតក្នុងសំណួរ។"
+      },
+      "challenge": {
+        "en": "Making a large commitment while things are unsettled could leave you exposed if more surprises come. Secure your footing first.",
+        "km": "ការប្តេជ្ញាចិត្តធំមួយ ខណៈអ្វីៗមិនទាន់នឹងនរ អាចធ្វើឱ្យអ្នកងាយរងគ្រោះ ប្រសិនបើមានការភ្ញាក់ផ្អើលបន្ថែមទៀត។ សូមធានាជំហររបស់អ្នកជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Rebuilding stability before buying could protect you from further shocks. A sudden change may clear the way for a wiser plan.",
+        "km": "ការកសាងស្ថិរភាពឡើងវិញ មុនពេលទិញ អាចការពារអ្នកពីការភ្ញាក់ផ្អើលបន្ថែម។ ការផ្លាស់ប្តូរភ្លាមៗ អាចបើកផ្លូវសម្រាប់ផែនការដ៏ឆ្លាតវៃជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "You may feel hopeful about this purchase, seeing it as a step toward a brighter future. Optimism is guiding you.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍សង្ឃឹមអំពីការទិញនេះ ដោយមើលឃើញវាជាជំហានឆ្ពោះទៅរកអនាគតភ្លឺស្វាង។ សុទិដ្ឋិនិយម កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Letting hope run ahead of the numbers could lead you to stretch beyond what is safe. Keep your dreams grounded in your budget.",
+        "km": "ការទុកឱ្យក្តីសង្ឃឹមរត់មុនតួលេខ អាចនាំអ្នកឱ្យលាតសន្ធឹងហួសពីអ្វីដែលមានសុវត្ថិភាព។ សូមរក្សាក្តីសុបិនរបស់អ្នកឱ្យផ្អែកលើថវិការបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Grounded hope could turn this purchase into a real source of renewal. A hopeful step may lead somewhere good with care.",
+        "km": "ក្តីសង្ឃឹមដែលមានមូលដ្ឋាន អាចបង្វែរការទិញនេះ ទៅជាប្រភពនៃការកកើតឡើងវិញពិតប្រាកដ។ ជំហានប្រកបដោយក្តីសង្ឃឹម អាចនាំទៅកន្លែងល្អ ជាមួយការប្រុងប្រយ័ត្ន។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Something about this purchase may be unclear, such as hidden costs, vague promises or mixed feelings. The full picture may not be visible.",
+        "km": "អ្វីមួយអំពីការទិញនេះ ប្រហែលជាមិនច្បាស់ ដូចជាថ្លៃដើមលាក់កំបាំង ការសន្យាស្រពិចស្រពិល ឬអារម្មណ៍ចម្រុះ។ រូបភាពពេញលេញ ប្រហែលជាមិនទាន់អាចមើលឃើញ។"
+      },
+      "challenge": {
+        "en": "Committing before the fog lifts could lead you into a deal you misunderstood. Ask questions until things are clear.",
+        "km": "ការប្តេជ្ញាចិត្ត មុនពេលអ័ព្ទរលាយបាត់ អាចនាំអ្នកចូលទៅក្នុងកិច្ចព្រមព្រៀងដែលអ្នកយល់ខុស។ សូមសួរសំណួររហូតដល់អ្វីៗច្បាស់។"
+      },
+      "outcome": {
+        "en": "Clearing up the details could reveal whether this is a sound purchase. Patience with uncertainty may protect you from a costly mistake.",
+        "km": "ការបំភ្លឺព័ត៌មានលម្អិត អាចបង្ហាញថាតើនេះជាការទិញដ៏ត្រឹមត្រូវឬអត់។ ការអត់ធ្មត់ជាមួយភាពមិនប្រាកដប្រជា អាចការពារអ្នកពីកំហុសដែលមានតម្លៃថ្លៃ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Things may be going well with money, and a big purchase may feel like a reward you have earned. Confidence is high.",
+        "km": "អ្វីៗប្រហែលជាកំពុងដំណើរការល្អជាមួយប្រាក់ ហើយការទិញធំមួយ ប្រហែលជាមានអារម្មណ៍ដូចជារង្វាន់ដែលអ្នកសមនឹងទទួលបាន។ ទំនុកចិត្ត កំពុងខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Overconfidence in good times could lead you to spend more than you planned. Keep some aside even when things look bright.",
+        "km": "ទំនុកចិត្តហួសហេតុ ក្នុងពេលល្អ អាចនាំអ្នកឱ្យចំណាយច្រើនជាងអ្វីដែលអ្នកបានគ្រោងទុក។ សូមរក្សាប្រាក់ខ្លះទុក សូម្បីតែនៅពេលអ្វីៗមើលទៅភ្លឺស្វាង។"
+      },
+      "outcome": {
+        "en": "A well-earned purchase could bring genuine joy and satisfaction. Enjoying success sensibly may keep things bright.",
+        "km": "ការទិញដែលសមនឹងទទួលបាន អាចនាំមកនូវសេចក្តីរីករាយ និងការពេញចិត្តពិតប្រាកដ។ ការរីករាយនឹងភាពជោគជ័យដោយសមហេតុផល អាចរក្សាអ្វីៗឱ្យភ្លឺស្វាង។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You may be looking back at past purchases and what they taught you. A clearer judgement may be guiding this choice.",
+        "km": "អ្នកប្រហែលជាកំពុងមើលទៅក្រោយលើការទិញកន្លងមក និងអ្វីដែលវាបានបង្រៀនអ្នក។ ការវិនិច្ឆ័យច្បាស់ជាងមុន ប្រហែលជាកំពុងណែនាំជម្រើសនេះ។"
+      },
+      "challenge": {
+        "en": "Repeating a past spending mistake out of habit could undo hard-won progress. Let old lessons inform this decision.",
+        "km": "ការធ្វើកំហុសការចំណាយកន្លងមកម្តងទៀត ដោយសារទម្លាប់ អាចលុបបំបាត់ការរីកចម្រើនដែលទទួលបានដោយលំបាក។ សូមឱ្យមេរៀនចាស់ៗ ផ្តល់ព័ត៌មានដល់ការសម្រេចចិត្តនេះ។"
+      },
+      "outcome": {
+        "en": "Applying what you have learned could lead to a purchase you feel good about. A wiser choice may mark a fresh chapter.",
+        "km": "ការអនុវត្តអ្វីដែលអ្នកបានរៀន អាចនាំទៅរកការទិញដែលអ្នកមានអារម្មណ៍ល្អ។ ជម្រើសដ៏ឆ្លាតវៃជាងមុន អាចសម្គាល់ជំពូកថ្មី។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "A big purchase may mark the completion of a goal, such as finishing saving or reaching a milestone. Things may feel ready to come together.",
+        "km": "ការទិញធំមួយ ប្រហែលជាសម្គាល់ការបញ្ចប់គោលដៅមួយ ដូចជាការសន្សំបានគ្រប់ ឬការឈានដល់សមិទ្ធផលមួយ។ អ្វីៗប្រហែលជាមានអារម្មណ៍ត្រៀមខ្លួនរួមគ្នា។"
+      },
+      "challenge": {
+        "en": "Spending the last of your cushion to complete the goal could leave you exposed to the next surprise. Make sure a safety net remains in place.",
+        "km": "ការចំណាយប្រាក់បម្រុងចុងក្រោយ ដើម្បីបញ្ចប់គោលដៅ អាចធ្វើឱ្យអ្នកងាយរងគ្រោះចំពោះការភ្ញាក់ផ្អើលបន្ទាប់។ សូមប្រាកដថាសំណាញ់សុវត្ថិភាព នៅតែមាន។"
+      },
+      "outcome": {
+        "en": "Completing this goal wisely could bring a deep sense of fulfilment. A purchase that rounds things off may open a new chapter.",
+        "km": "ការបញ្ចប់គោលដៅនេះដោយឆ្លាតវៃ អាចនាំមកនូវអារម្មណ៍ពេញចិត្តយ៉ាងជ្រៅ។ ការទិញដែលបញ្ចប់អ្វីៗ អាចបើកជំពូកថ្មី។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A sudden spark of desire for something new may be pushing you toward a big purchase. Enthusiasm is running high.",
+        "km": "ផ្កាភ្លើងភ្លាមៗនៃបំណងចង់បានអ្វីមួយថ្មី ប្រហែលជាកំពុងជំរុញអ្នកឆ្ពោះទៅរកការទិញធំមួយ។ ភាពរំភើប កំពុងកើនឡើងខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Acting on a burst of excitement before you have compared options could leave you with buyer's regret. Let the first thrill settle.",
+        "km": "ការធ្វើសកម្មភាពតាមភាពរំភើបភ្លាមៗ មុនពេលអ្នកបានប្រៀបធៀបជម្រើស អាចទុកឱ្យអ្នកសោកស្តាយក្រោយទិញ។ សូមឱ្យភាពរំភើបដំបូងស្ងប់ចុះសិន។"
+      },
+      "outcome": {
+        "en": "Channelling that spark into careful research could lead to a purchase that truly energises you. Fresh enthusiasm may find a worthy home.",
+        "km": "ការបង្វែរផ្កាភ្លើងនោះ ទៅក្នុងការស្រាវជ្រាវដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកការទិញដែលពិតជាផ្តល់ថាមពលដល់អ្នក។ ភាពរំភើបថ្មី អាចរកឃើញកន្លែងដែលសមរម្យ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "You may be weighing a big purchase as part of a wider plan, looking at what it could make possible. Options are open.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងការទិញធំមួយ ជាផ្នែកមួយនៃផែនការទូលាយជាងនេះ ដោយមើលលើអ្វីដែលវាអាចធ្វើឱ្យអាចកើតឡើង។ ជម្រើសនៅបើកចំហ។"
+      },
+      "challenge": {
+        "en": "Planning in your head without checking real prices and running costs could leave gaps in your budget. Put the numbers on paper.",
+        "km": "ការរៀបចំផែនការក្នុងក្បាល ដោយមិនពិនិត្យតម្លៃពិត និងថ្លៃដំណើរការ អាចបន្សល់ចន្លោះក្នុងថវិការបស់អ្នក។ សូមដាក់តួលេខលើក្រដាស។"
+      },
+      "outcome": {
+        "en": "A purchase that fits a clear plan could open new possibilities for you. Thinking ahead may make the choice feel confident.",
+        "km": "ការទិញដែលសមនឹងផែនការច្បាស់លាស់ អាចបើកលទ្ធភាពថ្មីៗសម្រាប់អ្នក។ ការគិតទុកជាមុន អាចធ្វើឱ្យជម្រើសមានអារម្មណ៍ប្រកបដោយទំនុកចិត្ត។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Your resources may be growing, and you may be considering a purchase that helps you expand, such as tools or a larger space. Prospects look promising.",
+        "km": "ធនធានរបស់អ្នក ប្រហែលជាកំពុងកើនឡើង ហើយអ្នកប្រហែលជាកំពុងពិចារណាការទិញដែលជួយអ្នកពង្រីក ដូចជាឧបករណ៍ ឬកន្លែងធំជាងមុន។ ទស្សនវិស័យមើលទៅមានសង្ឃឹម។"
+      },
+      "challenge": {
+        "en": "Buying for the growth you expect, rather than what you already have, could stretch you thin if plans slow. Match the purchase to current means.",
+        "km": "ការទិញសម្រាប់ការរីកចម្រើនដែលអ្នករំពឹងទុក ជាជាងអ្វីដែលអ្នកមានរួចហើយ អាចធ្វើឱ្យអ្នកតឹងតែង ប្រសិនបើផែនការយឺតយ៉ាវ។ សូមផ្គូផ្គងការទិញទៅនឹងលទ្ធភាពដែលមាន។"
+      },
+      "outcome": {
+        "en": "A purchase sized to your real means could support steady expansion. Looking ahead with care may bring rewarding returns.",
+        "km": "ការទិញដែលមានទំហំសមនឹងលទ្ធភាពពិតរបស់អ្នក អាចគាំទ្រការពង្រីកដោយនឹងនរ។ ការមើលទៅមុខដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវផលចំណេញដែលគួរឱ្យពេញចិត្ត។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "This purchase may be linked to a happy milestone, such as a home, a wedding or a family celebration. Spirits may be high.",
+        "km": "ការទិញនេះ ប្រហែលជាជាប់ទាក់ទងនឹងសមិទ្ធផលដ៏រីករាយ ដូចជាផ្ទះ ពិធីមង្គលការ ឬការអបអរក្នុងគ្រួសារ។ ស្មារតី ប្រហែលជាកំពុងខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Letting the excitement of a celebration push spending past your limits could dim the joy. Keep the occasion and the budget in step.",
+        "km": "ការទុកឱ្យភាពរំភើបនៃការអបអរ ជំរុញការចំណាយហួសពីដែនកំណត់របស់អ្នក អាចធ្វើឱ្យសេចក្តីរីករាយស្រអាប់។ សូមរក្សាឱកាសពិសេស និងថវិកាឱ្យដើរស្របគ្នា។"
+      },
+      "outcome": {
+        "en": "A purchase that supports a happy milestone could add to a sense of home and belonging. Shared joy may feel lasting when it is affordable.",
+        "km": "ការទិញដែលគាំទ្រសមិទ្ធផលដ៏រីករាយ អាចបន្ថែមលើអារម្មណ៍នៃផ្ទះ និងការជាកម្មសិទ្ធិ។ សេចក្តីរីករាយរួមគ្នា អាចមានអារម្មណ៍ស្ថិតស្ថេរ នៅពេលវាស្ថិតក្នុងលទ្ធភាព។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Others may be pulling you in different directions about this purchase, with opinions, competition or rival offers. It may feel noisy.",
+        "km": "អ្នកដទៃ ប្រហែលជាកំពុងទាញអ្នកក្នុងទិសដៅផ្សេងៗគ្នា អំពីការទិញនេះ ដោយមតិ ការប្រកួតប្រជែង ឬការផ្តល់ជូនដែលប្រជែងគ្នា។ វាអាចមានអារម្មណ៍ច្របូកច្របល់។"
+      },
+      "challenge": {
+        "en": "Rushing to outbid others or prove a point could push the price beyond its real value. Step back from the contest.",
+        "km": "ការប្រញាប់ដេញថ្លៃលើសអ្នកដទៃ ឬដើម្បីបង្ហាញចំណុចមួយ អាចជំរុញតម្លៃហួសពីតម្លៃពិតរបស់វា។ សូមដកខ្លួនចេញពីការប្រកួតប្រជែង។"
+      },
+      "outcome": {
+        "en": "Cutting through the noise could help you find the purchase that is right for you, not just the one others want. Clarity may win over competition.",
+        "km": "ការកាត់ផ្តាច់ភាពច្របូកច្របល់ អាចជួយអ្នករកឃើញការទិញដែលត្រឹមត្រូវសម្រាប់អ្នក មិនមែនគ្រាន់តែអ្វីដែលអ្នកដទៃចង់បាននោះទេ។ ភាពច្បាស់លាស់ អាចឈ្នះលើការប្រកួតប្រជែង។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "You may feel you have earned a big purchase after a success or a hard-won goal. Pride and confidence are present.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាអ្នកសមនឹងទទួលបានការទិញធំមួយ បន្ទាប់ពីភាពជោគជ័យ ឬគោលដៅដែលទទួលបានដោយលំបាក។ មោទនភាព និងទំនុកចិត្ត កំពុងមានវត្តមាន។"
+      },
+      "challenge": {
+        "en": "Buying mainly to show others how well you are doing could cost more than it gives back. Choose for yourself, not for an audience.",
+        "km": "ការទិញភាគច្រើនដើម្បីបង្ហាញអ្នកដទៃថាអ្នកកំពុងធ្វើបានល្អប៉ុណ្ណា អាចចំណាយច្រើនជាងអ្វីដែលវាផ្តល់មកវិញ។ សូមជ្រើសរើសសម្រាប់ខ្លួនឯង មិនមែនសម្រាប់អ្នកទស្សនាទេ។"
+      },
+      "outcome": {
+        "en": "A purchase that celebrates real progress could feel deeply rewarding. Recognising your success sensibly may keep its glow.",
+        "km": "ការទិញដែលអបអរការរីកចម្រើនពិតប្រាកដ អាចមានអារម្មណ៍ផ្តល់រង្វាន់យ៉ាងជ្រៅ។ ការទទួលស្គាល់ភាពជោគជ័យរបស់អ្នកដោយសមហេតុផល អាចរក្សាពន្លឺរបស់វា។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may be defending your choice to buy, or resisting pressure from others to spend or hold back. Standing firm takes energy.",
+        "km": "អ្នកប្រហែលជាកំពុងការពារជម្រើសរបស់អ្នកក្នុងការទិញ ឬទប់ទល់នឹងសម្ពាធពីអ្នកដទៃឱ្យចំណាយ ឬទប់ចិត្ត។ ការកាន់ជំហររឹងមាំ ត្រូវការថាមពល។"
+      },
+      "challenge": {
+        "en": "Digging in just to win an argument could make you overlook real reasons to wait or proceed. Defend your choice only if it still makes sense.",
+        "km": "ការប្រកាន់ជំហរគ្រាន់តែដើម្បីឈ្នះការឈ្លោះប្រកែក អាចធ្វើឱ្យអ្នករំលងហេតុផលពិតដើម្បីរង់ចាំ ឬបន្ត។ សូមការពារជម្រើសរបស់អ្នក លុះត្រាតែវានៅតែសមហេតុផល។"
+      },
+      "outcome": {
+        "en": "Holding firm on a well-reasoned choice could give you confidence in the outcome. Your conviction may be rewarded if it rests on facts.",
+        "km": "ការកាន់ជំហររឹងមាំលើជម្រើសដែលមានហេតុផលល្អ អាចផ្តល់ទំនុកចិត្តដល់អ្នកលើលទ្ធផល។ ការជឿជាក់របស់អ្នក អាចទទួលបានរង្វាន់ ប្រសិនបើវាផ្អែកលើការពិត។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things may be moving quickly with this purchase, with offers, deadlines or sellers pressing for an answer. The pace may feel intense.",
+        "km": "អ្វីៗប្រហែលជាកំពុងផ្លាស់ទីយ៉ាងលឿនជាមួយការទិញនេះ ដោយការផ្តល់ជូន កាលកំណត់ ឬអ្នកលក់ដែលជំរុញឱ្យឆ្លើយ។ ល្បឿន ប្រហែលជាមានអារម្មណ៍ខ្លាំងក្លា។"
+      },
+      "challenge": {
+        "en": "Being hurried by a deal that must be signed on the spot could lead to a purchase you would not choose with more thought. A good offer can survive a pause.",
+        "km": "ការត្រូវបានជំរុញឱ្យប្រញាប់ ដោយកិច្ចព្រមព្រៀងដែលត្រូវតែចុះហត្ថលេខាភ្លាមៗ អាចនាំទៅរកការទិញដែលអ្នកនឹងមិនជ្រើសរើស ប្រសិនបើគិតច្រើនជាងនេះ។ ការផ្តល់ជូនល្អ អាចរង់ចាំបាន។"
+      },
+      "outcome": {
+        "en": "Moving quickly with your homework already done could help you seize a good chance. Swift action may pay off if it is well informed.",
+        "km": "ការផ្លាស់ទីយ៉ាងលឿន ដោយបានធ្វើការស្រាវជ្រាវរួចហើយ អាចជួយអ្នកចាប់យកឱកាសល្អ។ សកម្មភាពរហ័ស អាចទទួលបានផល ប្រសិនបើវាមានព័ត៌មានគ្រប់គ្រាន់។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may have been saving or waiting patiently for this purchase, and you may feel tired but still determined. You are close.",
+        "km": "អ្នកប្រហែលជាបានសន្សំ ឬរង់ចាំដោយអត់ធ្មត់សម្រាប់ការទិញនេះ ហើយអ្នកប្រហែលជាមានអារម្មណ៍អស់កម្លាំង ប៉ុន្តែនៅតែប្តេជ្ញាចិត្ត។ អ្នកនៅជិតហើយ។"
+      },
+      "challenge": {
+        "en": "Giving in at the last hurdle and buying something cheaper or riskier out of fatigue could undo your patience. Hold on a little longer.",
+        "km": "ការចុះចាញ់នៅឧបសគ្គចុងក្រោយ ហើយទិញអ្វីមួយដែលថោកជាង ឬប្រថុយប្រថានជាង ដោយសារអស់កម្លាំង អាចលុបបំបាត់ការអត់ធ្មត់របស់អ្នក។ សូមកាន់ខ្ជាប់បន្តិចទៀត។"
+      },
+      "outcome": {
+        "en": "Persistence could bring the purchase you have worked toward. Your resilience may be rewarded with something that lasts.",
+        "km": "ការតស៊ូ អាចនាំមកនូវការទិញដែលអ្នកបានខិតខំឆ្ពោះទៅរក។ ភាពធន់របស់អ្នក អាចទទួលបានរង្វាន់ ជាមួយអ្វីមួយដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may already be carrying heavy money commitments, and a big purchase could add to the load. Your plate may be full.",
+        "km": "អ្នកប្រហែលជាកំពុងលីកាតព្វកិច្ចប្រាក់ធ្ងន់ៗរួចហើយ ហើយការទិញធំមួយ អាចបន្ថែមលើបន្ទុក។ បន្ទុករបស់អ្នក ប្រហែលជាពេញហើយ។"
+      },
+      "challenge": {
+        "en": "Adding another payment to an already stretched budget could become too much to carry. Lighten the load before taking on more.",
+        "km": "ការបន្ថែមការបង់ប្រាក់មួយទៀត ទៅលើថវិកាដែលតឹងតែងរួចហើយ អាចក្លាយជាច្រើនពេកក្នុងការលី។ សូមបន្ធូរបន្ទុក មុនពេលទទួលយកបន្ថែម។"
+      },
+      "outcome": {
+        "en": "Clearing some existing commitments first could make a big purchase manageable. A lighter load may give you real freedom to choose.",
+        "km": "ការសម្អាតកាតព្វកិច្ចដែលមានស្រាប់ខ្លះជាមុន អាចធ្វើឱ្យការទិញធំមួយអាចគ្រប់គ្រងបាន។ បន្ទុកស្រាលជាងមុន អាចផ្តល់សេរីភាពពិតប្រាកដដល់អ្នកក្នុងការជ្រើសរើស។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You may be eager to explore a purchase you know little about yet, curious and ready to learn. Fresh interest is driving you.",
+        "km": "អ្នកប្រហែលជាចង់ស្វែងយល់ពីការទិញមួយ ដែលអ្នកមិនទាន់ដឹងច្រើន ដោយចង់ដឹង ហើយត្រៀមខ្លួនរៀន។ ចំណាប់អារម្មណ៍ថ្មី កំពុងជំរុញអ្នក។"
+      },
+      "challenge": {
+        "en": "Buying before you understand what you are getting could lead to costly surprises. Learn the basics and ask questions first.",
+        "km": "ការទិញ មុនពេលអ្នកយល់ពីអ្វីដែលអ្នកនឹងទទួលបាន អាចនាំទៅរកការភ្ញាក់ផ្អើលដែលមានតម្លៃថ្លៃ។ សូមរៀនមូលដ្ឋានគ្រឹះ ហើយសួរសំណួរជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Curiosity backed by research could lead you to a purchase you feel sure about. Learning as you go may build your confidence.",
+        "km": "ការចង់ដឹងដែលគាំទ្រដោយការស្រាវជ្រាវ អាចនាំអ្នកទៅរកការទិញដែលអ្នកមានអារម្មណ៍ប្រាកដ។ ការរៀនតាមផ្លូវ អាចកសាងទំនុកចិត្តរបស់អ្នក។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "You may feel ready to charge ahead with a big purchase, full of drive and eager for change. Patience may feel hard.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ត្រៀមខ្លួនរត់ទៅមុខជាមួយការទិញធំមួយ ពោរពេញដោយកម្លាំងជំរុញ ហើយចង់បានការផ្លាស់ប្តូរ។ ការអត់ធ្មត់ ប្រហែលជាមានអារម្មណ៍ពិបាក។"
+      },
+      "challenge": {
+        "en": "Racing into a purchase without comparing offers or checking reviews could leave you paying more than you should. Slow down long enough to check.",
+        "km": "ការប្រញាប់ចូលទៅក្នុងការទិញ ដោយមិនប្រៀបធៀបការផ្តល់ជូន ឬពិនិត្យមតិយោបល់ អាចធ្វើឱ្យអ្នកបង់ច្រើនជាងអ្វីដែលគួរ។ សូមបន្ថយល្បឿនល្មមដើម្បីពិនិត្យ។"
+      },
+      "outcome": {
+        "en": "Directing your drive with a little care could bring an exciting change. Bold action may succeed when the basics are covered.",
+        "km": "ការដឹកនាំកម្លាំងជំរុញរបស់អ្នក ដោយការប្រុងប្រយ័ត្នបន្តិច អាចនាំមកនូវការផ្លាស់ប្តូរដ៏គួរឱ្យរំភើប។ សកម្មភាពក្លាហាន អាចជោគជ័យ នៅពេលមូលដ្ឋានគ្រឹះត្រូវបានគ្របដណ្តប់។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You may feel confident about this purchase and capable of handling what it brings. Warm self-belief is guiding you.",
+        "km": "អ្នកប្រហែលជាមានទំនុកចិត្តអំពីការទិញនេះ ហើយមានសមត្ថភាពដោះស្រាយអ្វីដែលវានាំមក។ ជំនឿលើខ្លួនឯងដ៏កក់ក្តៅ កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Confidence could tip into spending to impress, or buying for others more than for your own needs. Stay honest about who it is for.",
+        "km": "ទំនុកចិត្ត អាចផ្អៀងទៅជាការចំណាយដើម្បីធ្វើឱ្យគេចាប់អារម្មណ៍ ឬការទិញសម្រាប់អ្នកដទៃច្រើនជាងតម្រូវការផ្ទាល់ខ្លួន។ សូមស្មោះត្រង់ថាវាសម្រាប់អ្នកណា។"
+      },
+      "outcome": {
+        "en": "A confident, well-chosen purchase could bring warmth and pride to your life. Self-assurance may serve you well when it is grounded.",
+        "km": "ការទិញដែលជ្រើសរើសបានល្អ និងមានទំនុកចិត្ត អាចនាំមកនូវភាពកក់ក្តៅ និងមោទនភាពដល់ជីវិតរបស់អ្នក។ ការជឿជាក់លើខ្លួនឯង អាចបម្រើអ្នកបានល្អ នៅពេលវាមានមូលដ្ឋាន។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "You may see this purchase as part of a bigger vision, a step toward the life you want to lead. You may feel in charge.",
+        "km": "អ្នកប្រហែលជាមើលឃើញការទិញនេះ ជាផ្នែកមួយនៃចក្ខុវិស័យធំជាង ជាជំហានឆ្ពោះទៅរកជីវិតដែលអ្នកចង់រស់នៅ។ អ្នកប្រហែលជាមានអារម្មណ៍ថាជាអ្នកទទួលបន្ទុក។"
+      },
+      "challenge": {
+        "en": "A grand vision could make you overlook practical limits, such as upkeep, insurance or other running costs. Lead with vision and a budget.",
+        "km": "ចក្ខុវិស័យដ៏ធំ អាចធ្វើឱ្យអ្នករំលងដែនកំណត់ជាក់ស្តែង ដូចជាការថែទាំ ការធានារ៉ាប់រង ឬថ្លៃដំណើរការផ្សេងទៀត។ សូមដឹកនាំដោយចក្ខុវិស័យ និងថវិកា។"
+      },
+      "outcome": {
+        "en": "A purchase that serves a clear vision could become a lasting asset. Wise leadership of your own finances may bring it within reach.",
+        "km": "ការទិញដែលបម្រើចក្ខុវិស័យច្បាស់លាស់ អាចក្លាយជាទ្រព្យសម្បត្តិយូរអង្វែង។ ការដឹកនាំហិរញ្ញវត្ថុផ្ទាល់ខ្លួនដោយឆ្លាតវៃ អាចនាំវាមកក្បែរដៃ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "You may feel an emotional pull toward this purchase, a sense that it could bring joy or fulfil a heartfelt wish. Your heart may be doing the choosing.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ទាក់ទាញផ្លូវចិត្តទៅរកការទិញនេះ ជាអារម្មណ៍ថាវាអាចនាំមកនូវសេចក្តីរីករាយ ឬបំពេញបំណងប្រាថ្នាពីបេះដូង។ បេះដូងរបស់អ្នក ប្រហែលជាកំពុងជ្រើសរើស។"
+      },
+      "challenge": {
+        "en": "Buying to fill an emotional gap could leave you with the item but not the feeling you hoped for. Ask what you are really seeking.",
+        "km": "ការទិញដើម្បីបំពេញចន្លោះផ្លូវចិត្ត អាចទុកឱ្យអ្នកមានរបស់នោះ ប៉ុន្តែមិនមានអារម្មណ៍ដែលអ្នកសង្ឃឹម។ សូមសួរខ្លួនឯងថាអ្នកពិតជាកំពុងស្វែងរកអ្វី។"
+      },
+      "outcome": {
+        "en": "A purchase that truly answers your heart could bring lasting contentment. Joy may flow more freely when the choice is sincere.",
+        "km": "ការទិញដែលពិតជាឆ្លើយតបនឹងបេះដូងរបស់អ្នក អាចនាំមកនូវការពេញចិត្តយូរអង្វែង។ សេចក្តីរីករាយ អាចហូរកាន់តែសេរី នៅពេលជម្រើសនេះស្មោះត្រង់។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "This purchase may involve a partner or close relationship, perhaps something you would share or buy together. Connection matters here.",
+        "km": "ការទិញនេះ ប្រហែលជាពាក់ព័ន្ធនឹងដៃគូ ឬទំនាក់ទំនងជិតស្និទ្ធ ប្រហែលជាអ្វីមួយដែលអ្នកនឹងចែករំលែក ឬទិញជាមួយគ្នា។ ការតភ្ជាប់ មានសារៈសំខាន់នៅទីនេះ។"
+      },
+      "challenge": {
+        "en": "Assuming you agree on cost or who pays could cause friction between you. Talk openly about money before buying together.",
+        "km": "ការសន្មតថាអ្នកឯកភាពគ្នាលើថ្លៃដើម ឬអ្នកណាបង់ អាចបង្កការកកិត។ សូមនិយាយដោយបើកចំហអំពីប្រាក់ មុនពេលទិញជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "A shared purchase made in agreement could strengthen your bond. Mutual respect may make the choice feel right for both.",
+        "km": "ការទិញរួមគ្នាដែលធ្វើឡើងដោយការឯកភាព អាចពង្រឹងចំណងរបស់អ្នក។ ការគោរពគ្នាទៅវិញទៅមក អាចធ្វើឱ្យជម្រើសមានអារម្មណ៍ត្រឹមត្រូវសម្រាប់អ្នកទាំងពីរ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "This purchase may be connected to friends, gatherings or a shared good time. A social mood may be shaping the wish.",
+        "km": "ការទិញនេះ ប្រហែលជាទាក់ទងនឹងមិត្តភក្តិ ការជួបជុំ ឬពេលវេលាល្អរួមគ្នា។ អារម្មណ៍សង្គម ប្រហែលជាកំពុងរៀបចំបំណងនេះ។"
+      },
+      "challenge": {
+        "en": "Spending big to join in or keep up with friends could strain your budget more than it is worth. True friends will understand a limit.",
+        "km": "ការចំណាយច្រើនដើម្បីចូលរួម ឬតាមឱ្យទាន់មិត្តភក្តិ អាចធ្វើឱ្យថវិការបស់អ្នកតានតឹងច្រើនជាងតម្លៃរបស់វា។ មិត្តពិតនឹងយល់ពីដែនកំណត់។"
+      },
+      "outcome": {
+        "en": "A purchase that brings people together within your means could create happy memories. Shared joy may not need a big price.",
+        "km": "ការទិញដែលនាំមនុស្សមកជួបជុំគ្នា ក្នុងលទ្ធភាពរបស់អ្នក អាចបង្កើតអនុស្សាវរីយ៍ដ៏រីករាយ។ សេចក្តីរីករាយរួមគ្នា ប្រហែលជាមិនត្រូវការតម្លៃធំទេ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel unsure or unmoved about this purchase, as if nothing on offer quite satisfies. Interest may be low.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មិនប្រាកដ ឬមិនរំភើបអំពីការទិញនេះ ដូចជាគ្មានអ្វីដែលផ្តល់ជូន ពិតជាធ្វើឱ្យពេញចិត្ត។ ចំណាប់អារម្មណ៍ ប្រហែលជាទាប។"
+      },
+      "challenge": {
+        "en": "Buying something just to shake off boredom could bring only a brief lift. Make sure the purchase meets a real need.",
+        "km": "ការទិញអ្វីមួយ គ្រាន់តែដើម្បីបំបាត់ភាពធុញទ្រាន់ អាចនាំមកត្រឹមតែការលើកទឹកចិត្តខ្លីៗប៉ុណ្ណោះ។ សូមប្រាកដថាការទិញនេះ បំពេញតម្រូវការពិត។"
+      },
+      "outcome": {
+        "en": "Noticing what you truly want could reveal a better option than the one in front of you. A clearer desire may lead to a satisfying choice.",
+        "km": "ការកត់សម្គាល់ពីអ្វីដែលអ្នកពិតជាចង់បាន អាចបង្ហាញជម្រើសល្អជាងអ្វីដែលនៅចំពោះមុខអ្នក។ បំណងប្រាថ្នាច្បាស់ជាងមុន អាចនាំទៅរកជម្រើសដែលពេញចិត្ត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "You may be thinking about this purchase after a disappointment or loss, perhaps hoping it will make things feel better. Sadness may still be close.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតអំពីការទិញនេះ បន្ទាប់ពីការខកចិត្ត ឬការបាត់បង់ ប្រហែលជាសង្ឃឹមថាវានឹងធ្វើឱ្យអ្វីៗមានអារម្មណ៍ប្រសើរឡើង។ ភាពសោកសៅ ប្រហែលជានៅតែនៅជិត។"
+      },
+      "challenge": {
+        "en": "Spending to soothe sadness could add a money worry to an emotional one. Let yourself heal before committing to something big.",
+        "km": "ការចំណាយដើម្បីលួងលោមភាពសោកសៅ អាចបន្ថែមការព្រួយបារម្ភអំពីប្រាក់ ទៅលើការព្រួយបារម្ភផ្លូវចិត្ត។ សូមឱ្យខ្លួនឯងជាសះស្បើយ មុនពេលប្តេជ្ញាលើអ្វីមួយធំ។"
+      },
+      "outcome": {
+        "en": "Waiting until the hurt eases could lead to a purchase you feel truly good about. What remains may still offer good options.",
+        "km": "ការរង់ចាំរហូតដល់ការឈឺចាប់ធូរស្រាល អាចនាំទៅរកការទិញដែលអ្នកមានអារម្មណ៍ល្អពិតប្រាកដ។ អ្វីដែលនៅសល់ អាចនៅតែផ្តល់ជម្រើសល្អ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "This purchase may stir memories, such as something from childhood or a link to family or home. Nostalgia may be part of the appeal.",
+        "km": "ការទិញនេះ ប្រហែលជារំញោចអនុស្សាវរីយ៍ ដូចជាអ្វីមួយពីកុមារភាព ឬការតភ្ជាប់ទៅនឹងគ្រួសារ ឬផ្ទះ។ ការនឹករលឹក ប្រហែលជាផ្នែកមួយនៃការទាក់ទាញ។"
+      },
+      "challenge": {
+        "en": "Paying extra for sentimental value alone could lead to a purchase that does not fit your life as it is. Love the memory, then weigh the cost.",
+        "km": "ការបង់ប្រាក់បន្ថែមសម្រាប់តម្លៃខាងអារម្មណ៍តែម្យ៉ាង អាចនាំទៅរកការទិញដែលមិនសមនឹងជីវិតរបស់អ្នកតាមការពិត។ សូមស្រឡាញ់អនុស្សាវរីយ៍ ហើយបន្ទាប់មកថ្លឹងថ្លែងថ្លៃដើម។"
+      },
+      "outcome": {
+        "en": "A purchase that honours the past while fitting your life could bring real comfort. Warm memories may add meaning to a sound choice.",
+        "km": "ការទិញដែលគោរពអតីតកាល ខណៈពេលសមនឹងជីវិតរបស់អ្នក អាចនាំមកនូវការលួងលោមពិតប្រាកដ។ អនុស្សាវរីយ៍ដ៏កក់ក្តៅ អាចបន្ថែមអត្ថន័យដល់ជម្រើសដ៏ត្រឹមត្រូវ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may be choosing between several tempting options, each promising something different. It may be hard to see clearly.",
+        "km": "អ្នកប្រហែលជាកំពុងជ្រើសរើសរវាងជម្រើសទាក់ទាញជាច្រើន ដែលនីមួយៗសន្យាអ្វីមួយខុសៗគ្នា។ វាអាចពិបាកក្នុងការមើលឃើញច្បាស់។"
+      },
+      "challenge": {
+        "en": "Being dazzled by glossy ads or dream features could hide what you actually need. Compare real facts, not promises.",
+        "km": "ការត្រូវបានធ្វើឱ្យស្រឡាំងកាំងដោយការផ្សាយពាណិជ្ជកម្មរលោង ឬលក្ខណៈពិសេសដូចក្តីសុបិន អាចលាក់អ្វីដែលអ្នកពិតជាត្រូវការ។ សូមប្រៀបធៀបការពិត មិនមែនការសន្យាទេ។"
+      },
+      "outcome": {
+        "en": "Narrowing the choice down to facts could reveal the best fit. A clear decision may turn many dreams into one good reality.",
+        "km": "ការបង្រួមជម្រើសឱ្យនៅត្រឹមការពិត អាចបង្ហាញជម្រើសដែលសមបំផុត។ ការសម្រេចចិត្តច្បាស់លាស់ អាចបង្វែរក្តីសុបិនជាច្រើន ទៅជាការពិតល្អមួយ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be ready to move on from something old, and this purchase may be part of a new direction. Something feels finished.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនបន្តទៅមុខពីអ្វីមួយចាស់ ហើយការទិញនេះ ប្រហែលជាផ្នែកមួយនៃទិសដៅថ្មី។ អ្វីមួយមានអារម្មណ៍ថាបានបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Buying to escape a feeling rather than to build something new could leave the emptiness behind. Make sure you are moving toward, not just away.",
+        "km": "ការទិញដើម្បីគេចពីអារម្មណ៍មួយ ជាជាងដើម្បីកសាងអ្វីមួយថ្មី អាចទុកភាពទទេនៅដដែល។ សូមប្រាកដថាអ្នកកំពុងឆ្ពោះទៅរក មិនមែនគ្រាន់តែគេចចេញទេ។"
+      },
+      "outcome": {
+        "en": "A purchase that supports a meaningful change could help you start fresh. Letting go of the old may make room for what matters.",
+        "km": "ការទិញដែលគាំទ្រការផ្លាស់ប្តូរដ៏មានអត្ថន័យ អាចជួយអ្នកចាប់ផ្តើមថ្មី។ ការបោះបង់របស់ចាស់ អាចបង្កើតកន្លែងសម្រាប់អ្វីដែលសំខាន់។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You may be in a comfortable position, and this purchase may feel like a wish you are able to fulfil. Satisfaction is close.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងទីតាំងស្រួល ហើយការទិញនេះ ប្រហែលជាមានអារម្មណ៍ដូចជាបំណងប្រាថ្នាដែលអ្នកអាចបំពេញបាន។ ការពេញចិត្ត នៅជិតហើយ។"
+      },
+      "challenge": {
+        "en": "Treating yourself too often could quietly erode the comfort you have built. Enjoy the wish without making it a habit.",
+        "km": "ការផ្គាប់ចិត្តខ្លួនឯងញឹកញាប់ពេក អាចបំផ្លាញភាពស្រួលដែលអ្នកបានកសាងដោយស្ងាត់ៗ។ សូមរីករាយនឹងបំណងប្រាថ្នា ដោយមិនធ្វើឱ្យវាក្លាយជាទម្លាប់។"
+      },
+      "outcome": {
+        "en": "A wished-for purchase made within your means could bring real contentment. Fulfilment may feel sweeter when it is well earned.",
+        "km": "ការទិញដែលបានប្រាថ្នា ធ្វើឡើងក្នុងលទ្ធភាពរបស់អ្នក អាចនាំមកនូវការពេញចិត្តពិតប្រាកដ។ ការបំពេញបំណង អាចមានអារម្មណ៍ផ្អែមល្ហែមជាង នៅពេលវាសមនឹងទទួលបាន។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "This purchase may be about family happiness and a secure home, something to benefit everyone close to you. Shared wellbeing matters.",
+        "km": "ការទិញនេះ ប្រហែលជាអំពីសុភមង្គលគ្រួសារ និងផ្ទះដែលមានសុវត្ថិភាព អ្វីមួយដើម្បីផ្តល់អត្ថប្រយោជន៍ដល់អ្នកជិតស្និទ្ធទាំងអស់។ សុខុមាលភាពរួម មានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Overspending to give the family an ideal picture could put their real security at risk. Choose what truly helps, not what looks perfect.",
+        "km": "ការចំណាយហួសហេតុ ដើម្បីផ្តល់ឱ្យគ្រួសារនូវរូបភាពដ៏ល្អឥតខ្ចោះ អាចធ្វើឱ្យសុវត្ថិភាពពិតរបស់ពួកគេស្ថិតក្នុងហានិភ័យ។ សូមជ្រើសរើសអ្វីដែលពិតជាជួយ មិនមែនអ្វីដែលមើលទៅល្អឥតខ្ចោះទេ។"
+      },
+      "outcome": {
+        "en": "A purchase made with the whole family in mind could bring lasting harmony. Shared comfort may grow from a thoughtful choice.",
+        "km": "ការទិញដែលធ្វើឡើងដោយគិតដល់គ្រួសារទាំងមូល អាចនាំមកនូវភាពសុខដុមយូរអង្វែង។ ភាពស្រួលរួមគ្នា អាចរីកចម្រើនពីជម្រើសដោយគិតគូរ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A message or idea about this purchase may have caught your heart, perhaps a tip from someone or a hopeful feeling. Intuition is active.",
+        "km": "សារ ឬគំនិតមួយអំពីការទិញនេះ ប្រហែលជាបានចាប់បេះដូងរបស់អ្នក ប្រហែលជាគន្លឹះពីនរណាម្នាក់ ឬអារម្មណ៍ប្រកបដោយក្តីសង្ឃឹម។ វិចារណញាណ កំពុងសកម្ម។"
+      },
+      "challenge": {
+        "en": "Acting on a sweet message or a tip from someone you barely know could lead to a poor deal. Check sources before you trust them.",
+        "km": "ការធ្វើសកម្មភាពតាមសារផ្អែមល្ហែម ឬគន្លឹះពីនរណាម្នាក់ដែលអ្នកស្ទើរតែមិនស្គាល់ អាចនាំទៅរកកិច្ចព្រមព្រៀងមិនល្អ។ សូមពិនិត្យប្រភព មុនពេលអ្នកទុកចិត្តវា។"
+      },
+      "outcome": {
+        "en": "Following a gentle intuition, backed by facts, could guide you to a happy purchase. A small, hopeful step may open something good.",
+        "km": "ការធ្វើតាមវិចារណញាណទន់ភ្លន់ ដែលគាំទ្រដោយការពិត អាចណែនាំអ្នកទៅរកការទិញដ៏រីករាយ។ ជំហានតូច និងប្រកបដោយក្តីសង្ឃឹម អាចបើកអ្វីមួយល្អ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "An appealing offer may have come your way, charming and full of promise. It may feel almost too good to refuse.",
+        "km": "ការផ្តល់ជូនដ៏ទាក់ទាញមួយ ប្រហែលជាបានមករកអ្នក ដែលគួរឱ្យចាប់ចិត្ត និងពោរពេញដោយការសន្យា។ វាអាចមានអារម្មណ៍ស្ទើរតែល្អពេកមិនគួរបដិសេធ។"
+      },
+      "challenge": {
+        "en": "A smooth sales pitch could hide high interest, extra fees or weak guarantees. Read the fine print before you say yes.",
+        "km": "ការលក់ដោយពាក្យរលូន អាចលាក់ការប្រាក់ខ្ពស់ ថ្លៃសេវាបន្ថែម ឬការធានាខ្សោយ។ សូមអានអក្សរតូចៗ មុនពេលអ្នកយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "An offer that holds up under close checking could bring real delight. A heartfelt purchase may be all the sweeter for being sound.",
+        "km": "ការផ្តល់ជូនដែលឈរជើងបាន ក្រោមការពិនិត្យយ៉ាងល្អិតល្អន់ អាចនាំមកនូវសេចក្តីរីករាយពិតប្រាកដ។ ការទិញពីបេះដូង អាចផ្អែមល្ហែមជាងមុន ដោយសារវាត្រឹមត្រូវ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "You may be thinking of this purchase as a way to care for others, such as family or someone who depends on you. Kindness is guiding you.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតពីការទិញនេះ ជាមធ្យោបាយមួយដើម្បីថែរក្សាអ្នកដទៃ ដូចជាគ្រួសារ ឬនរណាម្នាក់ដែលពឹងផ្អែកលើអ្នក។ ចិត្តសប្បុរស កំពុងណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Putting others' wishes so far ahead of your own security could leave you short. Care for yourself as part of caring for them.",
+        "km": "ការដាក់បំណងប្រាថ្នារបស់អ្នកដទៃ ឆ្ងាយពីមុខសុវត្ថិភាពផ្ទាល់ខ្លួនរបស់អ្នក អាចធ្វើឱ្យអ្នកខ្វះខាត។ សូមថែរក្សាខ្លួនឯង ជាផ្នែកមួយនៃការថែរក្សាពួកគេ។"
+      },
+      "outcome": {
+        "en": "A caring purchase that is also affordable could bring comfort to everyone. Balanced kindness may make the gift truly lasting.",
+        "km": "ការទិញដោយយកចិត្តទុកដាក់ ដែលក៏មានលទ្ធភាពផងដែរ អាចនាំមកនូវការលួងលោមដល់អ្នករាល់គ្នា។ ចិត្តសប្បុរសមានតុល្យភាព អាចធ្វើឱ្យអំណោយនេះស្ថិតស្ថេរពិតប្រាកដ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You may be approaching this purchase calmly, balancing feeling with good sense. Steady emotions are helping you decide.",
+        "km": "អ្នកប្រហែលជាកំពុងចូលទៅរកការទិញនេះដោយស្ងប់ស្ងាត់ ដោយធ្វើឱ្យអារម្មណ៍ និងសុភវិនិច្ឆ័យមានតុល្យភាព។ អារម្មណ៍នឹងនរ កំពុងជួយអ្នកសម្រេចចិត្ត។"
+      },
+      "challenge": {
+        "en": "Staying calm on the surface while ignoring a deeper worry could lead to a choice you come to doubt. Name any concern before you commit.",
+        "km": "ការរក្សាភាពស្ងប់ស្ងាត់ខាងក្រៅ ខណៈមិនអើពើនឹងការព្រួយបារម្ភជ្រៅជាងនេះ អាចនាំទៅរកជម្រើសដែលអ្នកសង្ស័យ។ សូមនិយាយពីការព្រួយបារម្ភណាមួយ មុនពេលអ្នកប្តេជ្ញាចិត្ត។"
+      },
+      "outcome": {
+        "en": "A calm, balanced decision could lead to a purchase you feel at peace with. Emotional steadiness may guide you to a wise result.",
+        "km": "ការសម្រេចចិត្តស្ងប់ស្ងាត់ និងមានតុល្យភាព អាចនាំទៅរកការទិញដែលអ្នកមានអារម្មណ៍ស្ងប់ចិត្ត។ ភាពនឹងនរផ្លូវចិត្ត អាចណែនាំអ្នកទៅរកលទ្ធផលដ៏ឆ្លាតវៃ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "You may be seeing this purchase with sharp clarity, cutting through hype to what really matters. The facts are coming into focus.",
+        "km": "អ្នកប្រហែលជាកំពុងមើលឃើញការទិញនេះយ៉ាងច្បាស់ ដោយកាត់ផ្តាច់ការបំផ្លើស ទៅរកអ្វីដែលពិតជាសំខាន់។ ការពិតកំពុងលេចចេញកាន់តែច្បាស់។"
+      },
+      "challenge": {
+        "en": "Ignoring a clear fact, such as the true total cost or your real budget, could cut against you. Let the truth decide.",
+        "km": "ការមិនអើពើនឹងការពិតច្បាស់លាស់ ដូចជាថ្លៃដើមសរុបពិត ឬថវិកាពិតរបស់អ្នក អាចប្រឆាំងនឹងអ្នក។ សូមឱ្យការពិតជាអ្នកសម្រេច។"
+      },
+      "outcome": {
+        "en": "A decision based on clear facts could leave little room for regret. Honest thinking may point you straight to the right answer.",
+        "km": "ការសម្រេចចិត្តដោយផ្អែកលើការពិតច្បាស់លាស់ អាចទុកកន្លែងតិចតួចសម្រាប់ការសោកស្តាយ។ ការគិតដោយស្មោះត្រង់ អាចចង្អុលអ្នកត្រង់ទៅរកចម្លើយត្រឹមត្រូវ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be torn about this purchase, going back and forth without settling. Avoiding the decision may feel easier.",
+        "km": "អ្នកប្រហែលជាកំពុងស្ទាក់ស្ទើរអំពីការទិញនេះ ដោយទៅមកៗ ដោយមិនសម្រេចបាន។ ការជៀសវាងការសម្រេចចិត្ត ប្រហែលជាមានអារម្មណ៍ងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Staying stuck in indecision could let a good option slip away or keep you worrying without end. Compare the facts, then commit to a choice.",
+        "km": "ការជាប់គាំងក្នុងភាពមិនអាចសម្រេចចិត្ត អាចឱ្យជម្រើសល្អរអិលបាត់ ឬធ្វើឱ្យអ្នកព្រួយបារម្ភគ្មានទីបញ្ចប់។ សូមប្រៀបធៀបការពិត ហើយប្តេជ្ញាលើជម្រើសមួយ។"
+      },
+      "outcome": {
+        "en": "Making a clear choice, either way, could bring relief and peace of mind. Deciding may matter more than the perfect option.",
+        "km": "ការធ្វើជម្រើសច្បាស់លាស់ មិនថាផ្លូវណាមួយ អាចនាំមកនូវការធូរស្រាល និងភាពស្ងប់ចិត្ត។ ការសម្រេចចិត្ត អាចសំខាន់ជាងជម្រើសល្អឥតខ្ចោះ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "This purchase may come after a painful time, perhaps a loss, a breakup or a disappointment. Feelings may still be raw.",
+        "km": "ការទិញនេះ ប្រហែលជាកើតឡើងបន្ទាប់ពីពេលវេលាឈឺចាប់ ប្រហែលជាការបាត់បង់ ការបែកបាក់ ឬការខកចិត្ត។ អារម្មណ៍ ប្រហែលជានៅតែឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "Making a big money decision while hurting could lead to a choice you would not make with a calmer heart. Give yourself time to heal.",
+        "km": "ការធ្វើការសម្រេចចិត្តប្រាក់ធំ ខណៈកំពុងឈឺចាប់ អាចនាំទៅរកជម្រើសដែលអ្នកនឹងមិនធ្វើ ប្រសិនបើបេះដូងស្ងប់ជាងនេះ។ សូមផ្តល់ពេលឱ្យខ្លួនឯងជាសះស្បើយ។"
+      },
+      "outcome": {
+        "en": "Letting pain settle before deciding could lead to a purchase you feel sure about. Healing may bring clearer judgement.",
+        "km": "ការទុកឱ្យការឈឺចាប់ស្ងប់ចុះ មុនពេលសម្រេចចិត្ត អាចនាំទៅរកការទិញដែលអ្នកមានអារម្មណ៍ប្រាកដ។ ការជាសះស្បើយ អាចនាំមកនូវការវិនិច្ឆ័យច្បាស់ជាងមុន។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may need rest and space before deciding on this purchase. A quiet pause could help you think.",
+        "km": "អ្នកប្រហែលជាត្រូវការការសម្រាក និងកន្លែង មុនពេលសម្រេចចិត្តលើការទិញនេះ។ ការផ្អាកស្ងប់ស្ងាត់ អាចជួយអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "Deciding while tired or overwhelmed could lead to a choice you would not normally make. Rest first, then review the facts.",
+        "km": "ការសម្រេចចិត្ត ខណៈអស់កម្លាំង ឬលើសលប់ អាចនាំទៅរកជម្រើសដែលអ្នកមិនធម្មតាធ្វើ។ សូមសម្រាកជាមុនសិន ហើយបន្ទាប់មកពិនិត្យការពិតឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Stepping back to rest could bring fresh perspective on whether to buy. A rested mind may find the answer easily.",
+        "km": "ការដកថយដើម្បីសម្រាក អាចនាំមកនូវទស្សនៈថ្មី អំពីថាតើត្រូវទិញឬអត់។ ចិត្តដែលបានសម្រាក អាចរកឃើញចម្លើយយ៉ាងងាយស្រួល។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "There may be tension around this purchase, such as an argument over cost or a seller playing hardball. Someone may be trying to win.",
+        "km": "ប្រហែលជាមានភាពតានតឹងជុំវិញការទិញនេះ ដូចជាការឈ្លោះប្រកែកអំពីថ្លៃដើម ឬអ្នកលក់ដែលចរចាយ៉ាងតឹងរ៉ឹង។ នរណាម្នាក់ ប្រហែលជាកំពុងព្យាយាមឈ្នះ។"
+      },
+      "challenge": {
+        "en": "Winning a deal through a bitter fight could leave you with a bargain and a broken relationship. Ask whether the win is worth it.",
+        "km": "ការឈ្នះកិច្ចព្រមព្រៀងតាមរយៈការប្រយុទ្ធជូរចត់ អាចទុកឱ្យអ្នកមានតម្លៃថោក និងទំនាក់ទំនងដែលខូច។ សូមសួរថាតើជ័យជម្នះនោះ សមនឹងតម្លៃឬអត់។"
+      },
+      "outcome": {
+        "en": "Seeking a fair deal rather than total victory could leave everyone satisfied. Walking away from a bad fight may be its own kind of win.",
+        "km": "ការស្វែងរកកិច្ចព្រមព្រៀងយុត្តិធម៌ ជាជាងជ័យជម្នះទាំងស្រុង អាចធ្វើឱ្យអ្នករាល់គ្នាពេញចិត្ត។ ការដើរចេញពីការប្រយុទ្ធមិនល្អ អាចជាជ័យជម្នះម្យ៉ាង។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "This purchase may be part of a move toward calmer, steadier circumstances, such as relocating or a new start. Change is in motion.",
+        "km": "ការទិញនេះ ប្រហែលជាផ្នែកមួយនៃការផ្លាស់ប្តូរឆ្ពោះទៅរកកាលៈទេសៈស្ងប់ស្ងាត់ និងនឹងនរជាងមុន ដូចជាការផ្លាស់ទីលំនៅ ឬការចាប់ផ្តើមថ្មី។ ការផ្លាស់ប្តូរ កំពុងដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Underestimating the hidden costs of a move, such as fees, deposits or repairs, could unsettle the calm you are seeking. Budget for the whole journey.",
+        "km": "ការប៉ាន់ស្មានថ្លៃដើមលាក់កំបាំងនៃការផ្លាស់ប្តូរទាបពេក ដូចជាថ្លៃសេវា ប្រាក់កក់ ឬការជួសជុល អាចរំខានភាពស្ងប់ស្ងាត់ដែលអ្នកកំពុងស្វែងរក។ សូមរៀបចំថវិកាសម្រាប់ដំណើរទាំងមូល។"
+      },
+      "outcome": {
+        "en": "A well-planned purchase could carry you smoothly into better circumstances. The transition may feel easier with everything accounted for.",
+        "km": "ការទិញដែលបានរៀបចំផែនការល្អ អាចនាំអ្នកដោយរលូន ទៅកាន់កាលៈទេសៈល្អជាងមុន។ ការផ្លាស់ប្តូរ អាចមានអារម្មណ៍ងាយស្រួលជាង នៅពេលអ្វីៗទាំងអស់ត្រូវបានគិតគូរ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Something about this deal may not be fully honest, such as a seller hiding faults or terms that seem too generous. Caution is warranted.",
+        "km": "អ្វីមួយអំពីកិច្ចព្រមព្រៀងនេះ ប្រហែលជាមិនស្មោះត្រង់ទាំងស្រុង ដូចជាអ្នកលក់ដែលលាក់កំហុស ឬលក្ខខណ្ឌដែលហាក់ដូចជាសប្បុរសពេក។ ការប្រុងប្រយ័ត្ន គឺសមហេតុផល។"
+      },
+      "challenge": {
+        "en": "Trusting a seller or offer without checking could expose you to a scam or a hidden defect. Verify the seller and inspect before you pay.",
+        "km": "ការទុកចិត្តលើអ្នកលក់ ឬការផ្តល់ជូន ដោយមិនពិនិត្យ អាចធ្វើឱ្យអ្នកប្រឈមនឹងការបោកប្រាស់ ឬកំហុសលាក់កំបាំង។ សូមផ្ទៀងផ្ទាត់អ្នកលក់ និងពិនិត្យមុនពេលអ្នកបង់ប្រាក់។"
+      },
+      "outcome": {
+        "en": "Careful checking could protect you from a costly trick and reveal the real value. A safe deal may come from refusing to rush.",
+        "km": "ការពិនិត្យដោយប្រុងប្រយ័ត្ន អាចការពារអ្នកពីល្បិចដែលមានតម្លៃថ្លៃ ហើយបង្ហាញតម្លៃពិត។ កិច្ចព្រមព្រៀងមានសុវត្ថិភាព អាចកើតចេញពីការបដិសេធមិនប្រញាប់។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel boxed in about this purchase, as if you have no choice or no way to afford what you need. Options may feel limited.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់ក្នុងប្រអប់ អំពីការទិញនេះ ដូចជាអ្នកគ្មានជម្រើស ឬគ្មានវិធីដើម្បីមានលទ្ធភាពទិញអ្វីដែលអ្នកត្រូវការ។ ជម្រើសប្រហែលជាមានអារម្មណ៍មានកំណត់។"
+      },
+      "challenge": {
+        "en": "Feeling trapped could push you into a costly loan or a rushed deal just to escape the pressure. Look for options you have not yet considered.",
+        "km": "អារម្មណ៍ជាប់អន្ទាក់ អាចជំរុញអ្នកចូលទៅក្នុងប្រាក់កម្ចីថ្លៃ ឬកិច្ចព្រមព្រៀងប្រញាប់ប្រញាល់ គ្រាន់តែដើម្បីគេចពីសម្ពាធ។ សូមស្វែងរកជម្រើសដែលអ្នកមិនទាន់បានពិចារណា។"
+      },
+      "outcome": {
+        "en": "Looking beyond the first options could reveal a way forward you did not see. Freedom to choose may return once fear eases.",
+        "km": "ការមើលហួសពីជម្រើសដំបូង អាចបង្ហាញផ្លូវទៅមុខដែលអ្នកមិនបានមើលឃើញ។ សេរីភាពក្នុងការជ្រើសរើស អាចត្រឡប់មកវិញ នៅពេលការភ័យខ្លាចធូរស្រាល។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "You may be anxious about this purchase, worrying about whether you can afford it or whether it is the right choice. Worry may be loud.",
+        "km": "អ្នកប្រហែលជាថប់បារម្ភអំពីការទិញនេះ ដោយព្រួយបារម្ភថាតើអ្នកអាចមានលទ្ធភាពទិញវាឬអត់ ឬថាតើវាជាជម្រើសត្រឹមត្រូវឬអត់។ ការព្រួយបារម្ភ ប្រហែលជាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Letting anxiety drive the decision could lead to a choice made to quiet fear rather than meet a need. If worry feels overwhelming, talk to someone you trust.",
+        "km": "ការទុកឱ្យការថប់បារម្ភជំរុញការសម្រេចចិត្ត អាចនាំទៅរកជម្រើសដែលធ្វើឡើងដើម្បីបំបាត់ការភ័យខ្លាច ជាជាងបំពេញតម្រូវការ។ ប្រសិនបើការព្រួយបារម្ភមានអារម្មណ៍លើសលប់ សូមនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Writing down the real numbers could shrink the worry and show the true picture. A calmer mind may reach a sounder decision.",
+        "km": "ការសរសេរតួលេខពិត អាចបង្រួមការព្រួយបារម្ភ ហើយបង្ហាញរូបភាពពិត។ ចិត្តស្ងប់ជាងមុន អាចឈានដល់ការសម្រេចចិត្តដ៏ត្រឹមត្រូវជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Finances may feel at a low point, and a big purchase may feel out of reach or risky. Something may be ending.",
+        "km": "ហិរញ្ញវត្ថុប្រហែលជាមានអារម្មណ៍ស្ថិតនៅចំណុចទាប ហើយការទិញធំមួយ ប្រហែលជាមានអារម្មណ៍ហួសពីដៃ ឬប្រថុយប្រថាន។ អ្វីមួយប្រហែលជាកំពុងបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Making a big commitment from a place of crisis could deepen the strain. If money troubles feel severe, a debt adviser or support service may help.",
+        "km": "ការប្តេជ្ញាចិត្តធំមួយ ពីកន្លែងនៃវិបត្តិ អាចធ្វើឱ្យសម្ពាធកាន់តែជ្រៅ។ ប្រសិនបើបញ្ហាប្រាក់មានអារម្មណ៍ធ្ងន់ធ្ងរ ទីប្រឹក្សាបំណុល ឬសេវាគាំទ្រ អាចជួយបាន។"
+      },
+      "outcome": {
+        "en": "Letting this low point pass before buying could protect your recovery. A fresh start may make the purchase more possible.",
+        "km": "ការទុកឱ្យចំណុចទាបនេះកន្លងផុត មុនពេលទិញ អាចការពារការស្តាររបស់អ្នក។ ការចាប់ផ្តើមថ្មី អាចធ្វើឱ្យការទិញកាន់តែអាចទៅរួច។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You may be researching this purchase closely, asking questions and watching for warning signs. Your mind is alert.",
+        "km": "អ្នកប្រហែលជាកំពុងស្រាវជ្រាវការទិញនេះយ៉ាងជិតស្និទ្ធ ដោយសួរសំណួរ និងតាមដានសញ្ញាព្រមាន។ ចិត្តរបស់អ្នក កំពុងភ្ញាក់រលឹក។"
+      },
+      "challenge": {
+        "en": "Relying on one review, rumour or online post could give you a distorted picture. Check several trusted sources before buying.",
+        "km": "ការពឹងលើមតិយោបល់ ពាក្យចចាមអារ៉ាម ឬការបង្ហោះតាមអនឡាញតែមួយ អាចផ្តល់រូបភាពខុសឆ្គងដល់អ្នក។ សូមពិនិត្យប្រភពដែលគួរឱ្យទុកចិត្តជាច្រើន មុនពេលទិញ។"
+      },
+      "outcome": {
+        "en": "Thorough research could lead to a purchase you understand fully. Your watchfulness may save you from a costly mistake.",
+        "km": "ការស្រាវជ្រាវយ៉ាងហ្មត់ចត់ អាចនាំទៅរកការទិញដែលអ្នកយល់ទាំងស្រុង។ ការប្រុងប្រយ័ត្នរបស់អ្នក អាចជួយសង្គ្រោះអ្នកពីកំហុសដែលមានតម្លៃថ្លៃ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You may feel driven to make this purchase quickly, convinced it is the right move. Urgency may be strong.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ត្រូវបានជំរុញឱ្យធ្វើការទិញនេះយ៉ាងលឿន ដោយជឿជាក់ថាវាជាការផ្លាស់ទីត្រឹមត្រូវ។ ភាពបន្ទាន់ ប្រហែលជាខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Charging ahead on a strong opinion without checking details could lead to a costly mistake. Pause long enough to confirm the facts.",
+        "km": "ការរត់ទៅមុខតាមមតិខ្លាំង ដោយមិនពិនិត្យព័ត៌មានលម្អិត អាចនាំទៅរកកំហុសដែលមានតម្លៃថ្លៃ។ សូមផ្អាកល្មមដើម្បីបញ្ជាក់ការពិត។"
+      },
+      "outcome": {
+        "en": "Quick, decisive action backed by facts could secure a good deal. Your conviction may serve you well when it is well informed.",
+        "km": "សកម្មភាពរហ័ស និងម៉ឺងម៉ាត់ ដែលគាំទ្រដោយការពិត អាចធានាបាននូវកិច្ចព្រមព្រៀងល្អ។ ការជឿជាក់របស់អ្នក អាចបម្រើអ្នកបានល្អ នៅពេលវាមានព័ត៌មានគ្រប់គ្រាន់។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You may be looking at this purchase with clear, unsentimental eyes, focused on what makes practical sense. Experience guides you.",
+        "km": "អ្នកប្រហែលជាកំពុងមើលការទិញនេះដោយភ្នែកច្បាស់លាស់ និងមិនជាប់អារម្មណ៍ ដោយផ្តោតលើអ្វីដែលសមហេតុផលជាក់ស្តែង។ បទពិសោធន៍ ណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Being so strict with yourself that you refuse a genuinely useful purchase could cost you in other ways. Practicality should still leave room for real needs.",
+        "km": "ការតឹងរ៉ឹងចំពោះខ្លួនឯងខ្លាំងពេក រហូតអ្នកបដិសេធការទិញដែលពិតជាមានប្រយោជន៍ អាចធ្វើឱ្យអ្នកខាតបង់តាមវិធីផ្សេងទៀត។ ភាពជាក់ស្តែង គួរតែនៅតែទុកកន្លែងសម្រាប់តម្រូវការពិត។"
+      },
+      "outcome": {
+        "en": "Clear-headed judgement could lead to a purchase that truly earns its place. Honest assessment may bring lasting satisfaction.",
+        "km": "ការវិនិច្ឆ័យដោយក្បាលច្បាស់ អាចនាំទៅរកការទិញដែលពិតជាសមនឹងកន្លែងរបស់វា។ ការវាយតម្លៃដោយស្មោះត្រង់ អាចនាំមកនូវការពេញចិត្តយូរអង្វែង។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "This purchase may involve contracts, financing or formal agreements that need careful thought. Logic and authority are called for.",
+        "km": "ការទិញនេះ ប្រហែលជាពាក់ព័ន្ធនឹងកិច្ចសន្យា ការផ្តល់ហិរញ្ញប្បទាន ឬកិច្ចព្រមព្រៀងផ្លូវការ ដែលត្រូវការការគិតដោយប្រុងប្រយ័ត្ន។ តក្កវិជ្ជា និងសិទ្ធិអំណាច គឺត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Signing a loan or contract you do not fully understand could bind you to costly terms. For complex agreements, seek qualified advice.",
+        "km": "ការចុះហត្ថលេខាលើប្រាក់កម្ចី ឬកិច្ចសន្យាដែលអ្នកមិនយល់ទាំងស្រុង អាចចងអ្នកទៅនឹងលក្ខខណ្ឌដែលមានតម្លៃថ្លៃ។ សម្រាប់កិច្ចព្រមព្រៀងស្មុគស្មាញ សូមស្វែងរកដំបូន្មានពីអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Understanding every term before committing could lead to a fair and secure deal. Sound judgement may keep you on solid ground.",
+        "km": "ការយល់ពីលក្ខខណ្ឌនីមួយៗ មុនពេលប្តេជ្ញាចិត្ត អាចនាំទៅរកកិច្ចព្រមព្រៀងយុត្តិធម៌ និងមានសុវត្ថិភាព។ ការវិនិច្ឆ័យត្រឹមត្រូវ អាចរក្សាអ្នកឱ្យនៅលើដីរឹងមាំ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A solid opportunity to buy may be in front of you, perhaps a good price or the funds to make it possible. The ground feels firm.",
+        "km": "ឱកាសរឹងមាំមួយដើម្បីទិញ ប្រហែលជាស្ថិតនៅចំពោះមុខអ្នក ប្រហែលជាតម្លៃល្អ ឬមូលនិធិដើម្បីធ្វើឱ្យវាអាចទៅរួច។ ដីមានអារម្មណ៍រឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Using a windfall or new income on a big purchase before planning where it is best used could waste a real chance. Decide on priorities first.",
+        "km": "ការប្រើប្រាក់ដែលទទួលបានដោយមិននឹកស្មាន ឬចំណូលថ្មី លើការទិញធំ មុនពេលរៀបចំផែនការថាកន្លែងណាល្អបំផុតក្នុងការប្រើវា អាចខ្ជះខ្ជាយឱកាសពិតប្រាកដ។ សូមសម្រេចអាទិភាពជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "A purchase that builds lasting value could become a strong foundation. A practical choice may grow in worth over time.",
+        "km": "ការទិញដែលកសាងតម្លៃយូរអង្វែង អាចក្លាយជាគ្រឹះរឹងមាំ។ ជម្រើសជាក់ស្តែង អាចកើនតម្លៃបន្តិចម្តងៗ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be juggling several costs, and a big purchase would need to fit among them. Balance takes effort.",
+        "km": "អ្នកប្រហែលជាកំពុងចាប់ផ្តួលថ្លៃដើមជាច្រើន ហើយការទិញធំមួយ នឹងត្រូវការសមនៅក្នុងចំណោមវា។ តុល្យភាព ត្រូវការការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Adding one more large payment to an already busy budget could make everything harder to manage. Check how it fits with every other cost.",
+        "km": "ការបន្ថែមការបង់ប្រាក់ធំមួយទៀត ទៅលើថវិកាដែលមមាញឹករួចហើយ អាចធ្វើឱ្យអ្វីៗទាំងអស់កាន់តែពិបាកគ្រប់គ្រង។ សូមពិនិត្យថាវាសមយ៉ាងណាជាមួយថ្លៃដើមផ្សេងទៀតទាំងអស់។"
+      },
+      "outcome": {
+        "en": "A purchase that slots neatly into your budget could keep everything in balance. Flexible planning may make room without strain.",
+        "km": "ការទិញដែលសមយ៉ាងល្អទៅក្នុងថវិការបស់អ្នក អាចរក្សាអ្វីៗទាំងអស់ឱ្យមានតុល្យភាព។ ការរៀបចំផែនការដោយបត់បែន អាចបង្កើតកន្លែងដោយគ្មានសម្ពាធ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "This purchase may involve working with others, such as builders, sellers or advisers who bring skills you need. Cooperation matters.",
+        "km": "ការទិញនេះ ប្រហែលជាពាក់ព័ន្ធនឹងការធ្វើការជាមួយអ្នកដទៃ ដូចជាអ្នកសាងសង់ អ្នកលក់ ឬទីប្រឹក្សា ដែលនាំមកនូវជំនាញដែលអ្នកត្រូវការ។ កិច្ចសហប្រតិបត្តិការ មានសារៈសំខាន់។"
+      },
+      "challenge": {
+        "en": "Hiring help without checking credentials, quotes or references could lead to poor work or higher costs. Get more than one opinion.",
+        "km": "ការជួលជំនួយ ដោយមិនពិនិត្យលិខិតបញ្ជាក់ តម្លៃប៉ាន់ស្មាន ឬឯកសារយោង អាចនាំទៅរកការងារមិនល្អ ឬថ្លៃដើមខ្ពស់ជាងមុន។ សូមទទួលបានមតិច្រើនជាងមួយ។"
+      },
+      "outcome": {
+        "en": "Working with skilled, trusted people could make this purchase a quality investment. Good teamwork may produce something that lasts.",
+        "km": "ការធ្វើការជាមួយមនុស្សដែលមានជំនាញ និងគួរឱ្យទុកចិត្ត អាចធ្វើឱ្យការទិញនេះក្លាយជាការវិនិយោគប្រកបដោយគុណភាព។ ការងារជាក្រុមល្អ អាចបង្កើតអ្វីមួយដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may be holding tightly to your savings, reluctant to spend on anything large. Keeping money safe may feel like the priority.",
+        "km": "អ្នកប្រហែលជាកំពុងកាន់ប្រាក់សន្សំរបស់អ្នកយ៉ាងតឹង ដោយស្ទាក់ស្ទើរក្នុងការចំណាយលើអ្វីដែលធំ។ ការរក្សាប្រាក់ឱ្យមានសុវត្ថិភាព ប្រហែលជាមានអារម្មណ៍ថាជាអាទិភាព។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly could stop you from a purchase that would genuinely improve your life or save money elsewhere. Security can include wise spending.",
+        "km": "ការកាន់តឹងពេក អាចបញ្ឈប់អ្នកពីការទិញដែលនឹងពិតជាធ្វើឱ្យជីវិតរបស់អ្នកប្រសើរឡើង ឬសន្សំប្រាក់នៅកន្លែងផ្សេង។ សុវត្ថិភាព អាចរួមបញ្ចូលការចំណាយដោយឆ្លាតវៃ។"
+      },
+      "outcome": {
+        "en": "Loosening your grip just enough could let you buy what you need while staying secure. Careful spending may protect and improve your life together.",
+        "km": "ការបន្ធូរការក្តាប់ល្មមគ្រប់គ្រាន់ អាចឱ្យអ្នកទិញអ្វីដែលអ្នកត្រូវការ ខណៈនៅតែមានសុវត្ថិភាព។ ការចំណាយដោយប្រុងប្រយ័ត្ន អាចការពារ និងធ្វើឱ្យជីវិតរបស់អ្នកប្រសើរឡើងរួមគ្នា។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Money may feel tight, and a big purchase may feel out of reach or stressful to consider. Support may feel far away.",
+        "km": "ប្រាក់ប្រហែលជាមានអារម្មណ៍តឹងតែង ហើយការទិញធំមួយ ប្រហែលជាមានអារម្មណ៍ហួសពីដៃ ឬតានតឹងក្នុងការពិចារណា។ ការគាំទ្រ ប្រហែលជាមានអារម្មណ៍នៅឆ្ងាយ។"
+      },
+      "challenge": {
+        "en": "Stretching beyond your means through borrowing could deepen hardship. If you are struggling, a support service or adviser may help you find options.",
+        "km": "ការលាតសន្ធឹងហួសពីលទ្ធភាពរបស់អ្នក តាមរយៈការខ្ចីប្រាក់ អាចធ្វើឱ្យការលំបាកកាន់តែជ្រៅ។ ប្រសិនបើអ្នកកំពុងតស៊ូ សេវាគាំទ្រ ឬទីប្រឹក្សា អាចជួយអ្នករកជម្រើស។"
+      },
+      "outcome": {
+        "en": "Focusing on essentials first could help you regain firmer footing. A purchase may become possible once things steady.",
+        "km": "ការផ្តោតលើរឿងចាំបាច់ជាមុនសិន អាចជួយអ្នកទទួលបានជំហររឹងមាំជាងមុនមកវិញ។ ការទិញ អាចក្លាយជាអាចទៅរួច នៅពេលអ្វីៗនឹងនរ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Money may be flowing in or out through gifts, loans or shared help, and this purchase may rely on that support. Generosity is involved.",
+        "km": "ប្រាក់ប្រហែលជាកំពុងហូរចូល ឬចេញ តាមរយៈអំណោយ ប្រាក់កម្ចី ឬជំនួយរួមគ្នា ហើយការទិញនេះ ប្រហែលជាពឹងលើការគាំទ្រនោះ។ ចិត្តសប្បុរស ពាក់ព័ន្ធ។"
+      },
+      "challenge": {
+        "en": "Accepting help with hidden expectations, or borrowing from someone close without clear terms, could strain the relationship. Agree on everything openly.",
+        "km": "ការទទួលយកជំនួយដែលមានការរំពឹងទុកលាក់កំបាំង ឬការខ្ចីពីនរណាម្នាក់ជិតស្និទ្ធ ដោយគ្មានលក្ខខណ្ឌច្បាស់លាស់ អាចធ្វើឱ្យទំនាក់ទំនងតានតឹង។ សូមព្រមព្រៀងគ្រប់យ៉ាងដោយបើកចំហ។"
+      },
+      "outcome": {
+        "en": "Clear, fair arrangements could make shared help a true blessing. Balanced giving and receiving may support a sound purchase.",
+        "km": "ការរៀបចំច្បាស់លាស់ និងយុត្តិធម៌ អាចធ្វើឱ្យជំនួយរួមគ្នាក្លាយជាពរជ័យពិតប្រាកដ។ ការផ្តល់ និងការទទួលដោយតុល្យភាព អាចគាំទ្រការទិញដ៏ត្រឹមត្រូវ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may be weighing whether your savings have grown enough for this purchase. Patience may be close to paying off.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងថាតើប្រាក់សន្សំរបស់អ្នក បានកើនឡើងគ្រប់គ្រាន់សម្រាប់ការទិញនេះឬអត់។ ការអត់ធ្មត់ ប្រហែលជាជិតទទួលបានផល។"
+      },
+      "challenge": {
+        "en": "Cutting your saving short to buy sooner could leave you with less security than you planned. Review your progress honestly.",
+        "km": "ការកាត់បន្ថយការសន្សំរបស់អ្នក ដើម្បីទិញឱ្យលឿនជាងមុន អាចទុកឱ្យអ្នកមានសុវត្ថិភាពតិចជាងអ្វីដែលអ្នកបានគ្រោងទុក។ សូមពិនិត្យការរីកចម្រើនរបស់អ្នកដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Letting your savings reach their goal could make the purchase feel secure and satisfying. Patient effort may bring a rewarding harvest.",
+        "km": "ការទុកឱ្យប្រាក់សន្សំរបស់អ្នកឈានដល់គោលដៅ អាចធ្វើឱ្យការទិញមានអារម្មណ៍សុវត្ថិភាព និងពេញចិត្ត។ ការខិតខំដោយអត់ធ្មត់ អាចនាំមកនូវផលដំណាំដែលគួរឱ្យពេញចិត្ត។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "You may be carefully researching and working toward this purchase, building the means step by step. Diligence is your strength.",
+        "km": "អ្នកប្រហែលជាកំពុងស្រាវជ្រាវដោយប្រុងប្រយ័ត្ន ហើយខិតខំឆ្ពោះទៅរកការទិញនេះ ដោយកសាងលទ្ធភាពមួយជំហានម្តងៗ។ ការឧស្សាហ៍ព្យាយាម គឺជាចំណុចខ្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Getting lost in endless comparisons could keep you from ever deciding. Good research has a natural end point.",
+        "km": "ការវង្វេងក្នុងការប្រៀបធៀបគ្មានទីបញ្ចប់ អាចរារាំងអ្នកពីការសម្រេចចិត្ត។ ការស្រាវជ្រាវល្អ មានចំណុចបញ្ចប់ធម្មជាតិ។"
+      },
+      "outcome": {
+        "en": "Careful preparation could lead to a purchase of real quality and value. Your effort may show in a choice that lasts.",
+        "km": "ការរៀបចំដោយប្រុងប្រយ័ត្ន អាចនាំទៅរកការទិញដែលមានគុណភាព និងតម្លៃពិតប្រាកដ។ ការខិតខំរបស់អ្នក អាចបង្ហាញនៅក្នុងជម្រើសដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You may be in a comfortable, independent position with money, able to consider a purchase from strength. Standing on your own feet feels rewarding.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងទីតាំងស្រួល និងឯករាជ្យជាមួយប្រាក់ ដោយអាចពិចារណាការទិញពីភាពខ្លាំង។ ការឈរលើជើងខ្លួនឯង មានអារម្មណ៍ពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "Treating comfort as permission to keep upgrading could slowly raise your costs. Make sure this purchase adds real value.",
+        "km": "ការចាត់ទុកភាពស្រួល ជាការអនុញ្ញាតឱ្យបន្តដំឡើងកម្រិត អាចបង្កើនថ្លៃដើមរបស់អ្នកបន្តិចម្តងៗ។ សូមប្រាកដថាការទិញនេះ បន្ថែមតម្លៃពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "A purchase that adds to your independence could feel deeply rewarding. Enjoying what you have built may come with peace of mind.",
+        "km": "ការទិញដែលបន្ថែមលើឯករាជ្យភាពរបស់អ្នក អាចមានអារម្មណ៍ផ្តល់រង្វាន់យ៉ាងជ្រៅ។ ការរីករាយនឹងអ្វីដែលអ្នកបានកសាង អាចមកជាមួយភាពស្ងប់ចិត្ត។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "This purchase may be a long-term investment, such as property or something for the family's future. Lasting security is at stake.",
+        "km": "ការទិញនេះ ប្រហែលជាការវិនិយោគរយៈពេលវែង ដូចជាអចលនទ្រព្យ ឬអ្វីមួយសម្រាប់អនាគតរបស់គ្រួសារ។ សុវត្ថិភាពយូរអង្វែង ស្ថិតក្នុងហានិភ័យ។"
+      },
+      "challenge": {
+        "en": "Rushing a major family or property decision without legal or expert advice could create problems for everyone. Take care with every document.",
+        "km": "ការប្រញាប់ធ្វើការសម្រេចចិត្តធំអំពីគ្រួសារ ឬអចលនទ្រព្យ ដោយគ្មានដំបូន្មានផ្លូវច្បាប់ ឬអ្នកជំនាញ អាចបង្កើតបញ្ហាសម្រាប់អ្នករាល់គ្នា។ សូមប្រុងប្រយ័ត្នជាមួយឯកសារនីមួយៗ។"
+      },
+      "outcome": {
+        "en": "A well-chosen investment could build security for generations. Careful planning may turn this purchase into a lasting legacy.",
+        "km": "ការវិនិយោគដែលជ្រើសរើសបានល្អ អាចកសាងសុវត្ថិភាពសម្រាប់ជំនាន់ជាច្រើន។ ការរៀបចំផែនការដោយប្រុងប្រយ័ត្ន អាចបង្វែរការទិញនេះ ទៅជាកេរដំណែលយូរអង្វែង។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You may be new to a purchase like this, eager to learn and keen to get it right. A careful start is forming.",
+        "km": "អ្នកប្រហែលជាថ្មីចំពោះការទិញបែបនេះ ដោយចង់រៀន ហើយចង់ធ្វើវាឱ្យបានត្រឹមត្រូវ។ ការចាប់ផ្តើមដោយប្រុងប្រយ័ត្ន កំពុងបង្កើតឡើង។"
+      },
+      "challenge": {
+        "en": "Going in without understanding costs, warranties or upkeep could lead to surprises. Learn what to look for before you buy.",
+        "km": "ការចូលទៅដោយមិនយល់ពីថ្លៃដើម ការធានា ឬការថែទាំ អាចនាំទៅរកការភ្ញាក់ផ្អើល។ សូមរៀនពីអ្វីដែលត្រូវមើល មុនពេលអ្នកទិញ។"
+      },
+      "outcome": {
+        "en": "Studying the basics could lead to a sensible first big purchase. Practical learning may build skills you can use again.",
+        "km": "ការសិក្សាមូលដ្ឋានគ្រឹះ អាចនាំទៅរកការទិញធំដំបូងដ៏សមហេតុផល។ ការរៀនជាក់ស្តែង អាចកសាងជំនាញដែលអ្នកអាចប្រើម្តងទៀត។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "You may be approaching this purchase slowly and methodically, checking every detail. Reliability matters more than speed.",
+        "km": "អ្នកប្រហែលជាកំពុងចូលទៅរកការទិញនេះយឺតៗ និងមានរបៀបរៀបរយ ដោយពិនិត្យព័ត៌មានលម្អិតនីមួយៗ។ ភាពអាចទុកចិត្តបាន សំខាន់ជាងល្បឿន។"
+      },
+      "challenge": {
+        "en": "Being so cautious that a genuinely good option passes you by could cost you too. Steady checking should still lead to a decision.",
+        "km": "ការប្រុងប្រយ័ត្នខ្លាំងពេក រហូតជម្រើសល្អពិតប្រាកដរំលងអ្នក ក៏អាចធ្វើឱ្យអ្នកខាតបង់ដែរ។ ការពិនិត្យដោយនឹងនរ គួរតែនៅតែនាំទៅរកការសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Methodical care could lead to a dependable purchase you will not regret. Steady progress may bring a solid result.",
+        "km": "ការប្រុងប្រយ័ត្នដោយមានរបៀបរៀបរយ អាចនាំទៅរកការទិញដែលអាចទុកចិត្តបាន ដែលអ្នកនឹងមិនសោកស្តាយ។ ការរីកចម្រើនដោយនឹងនរ អាចនាំមកនូវលទ្ធផលរឹងមាំ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You may be thinking of this purchase as a way to make home more comfortable and secure for those you care for. Practical warmth guides you.",
+        "km": "អ្នកប្រហែលជាកំពុងគិតពីការទិញនេះ ជាមធ្យោបាយមួយដើម្បីធ្វើឱ្យផ្ទះកាន់តែស្រួល និងមានសុវត្ថិភាព សម្រាប់អ្នកដែលអ្នកថែរក្សា។ ភាពកក់ក្តៅជាក់ស្តែង ណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Spending on everyone's comfort while your own savings shrink could leave the household less secure. Include a safety net in your plan.",
+        "km": "ការចំណាយលើភាពស្រួលរបស់អ្នករាល់គ្នា ខណៈប្រាក់សន្សំផ្ទាល់ខ្លួនរបស់អ្នករួញតូច អាចធ្វើឱ្យគ្រួសារមានសុវត្ថិភាពតិចជាងមុន។ សូមរួមបញ្ចូលសំណាញ់សុវត្ថិភាព ក្នុងផែនការរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A practical, caring purchase could make home a better place for everyone. Sensible comfort may bring lasting ease.",
+        "km": "ការទិញជាក់ស្តែង និងដោយយកចិត្តទុកដាក់ អាចធ្វើឱ្យផ្ទះក្លាយជាកន្លែងល្អជាងមុនសម្រាប់អ្នករាល់គ្នា។ ភាពស្រួលដ៏សមហេតុផល អាចនាំមកនូវភាពងាយស្រួលយូរអង្វែង។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You may be in a strong financial position, able to make a large purchase with confidence. Experience and resources support you.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងទីតាំងហិរញ្ញវត្ថុរឹងមាំ ដោយអាចធ្វើការទិញធំមួយដោយទំនុកចិត្ត។ បទពិសោធន៍ និងធនធាន គាំទ្រអ្នក។"
+      },
+      "challenge": {
+        "en": "Assuming wealth makes any purchase safe could lead you to overlook running costs or risks. Even a strong position deserves careful checks.",
+        "km": "ការសន្មតថាទ្រព្យសម្បត្តិធ្វើឱ្យការទិញណាមួយមានសុវត្ថិភាព អាចនាំអ្នកឱ្យរំលងថ្លៃដំណើរការ ឬហានិភ័យ។ សូម្បីតែទីតាំងរឹងមាំ ក៏សមនឹងទទួលបានការពិនិត្យដោយប្រុងប្រយ័ត្ន។"
+      },
+      "outcome": {
+        "en": "A confident, well-judged purchase could add to your lasting wealth. Steady stewardship may turn this choice into a solid asset.",
+        "km": "ការទិញដែលមានទំនុកចិត្ត និងវិនិច្ឆ័យបានល្អ អាចបន្ថែមលើទ្រព្យសម្បត្តិយូរអង្វែងរបស់អ្នក។ ការថែរក្សាទ្រព្យដោយនឹងនរ អាចបង្វែរជម្រើសនេះ ទៅជាទ្រព្យសម្បត្តិរឹងមាំ។"
+      }
+    }
+  }
+}
