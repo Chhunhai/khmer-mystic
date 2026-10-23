@@ -1,5 +1,5 @@
 // Shared building blocks: screen frame with headers, text styles, buttons and option tiles.
-import { createContext, useContext, useState, type ReactNode } from 'react';
+import { createContext, useContext, useEffect, useState, type ReactNode } from 'react';
 import {
   Modal,
   Pressable,
@@ -17,7 +17,8 @@ import {
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import Svg, { G, Path } from 'react-native-svg';
 import { router, usePathname } from 'expo-router';
-import { hasProgress, resumeRoute, stepLabel, useFlow, useUi } from '../state/flow.tsx';
+import { format, hasProgress, resumeRoute, stepLabel, useFlow, useUi } from '../state/flow.tsx';
+import { msUntilReset, readingsPerDay } from '../state/dailyLimit.ts';
 import { useDailyLimit } from '../state/dailyLimitStore.tsx';
 import type { Lang } from '../engine/types.ts';
 import { Backdrop } from './backdrop.tsx';
@@ -237,7 +238,60 @@ function startReading(noticeSeen: boolean) {
   router.push(noticeSeen ? '/zodiac' : '/notice');
 }
 
-/** Desktop and tablet header: logo, Home and Tarot Reading links, language. */
+/** Time until new readings open, e.g. "4 h 54 min", updated every half minute. */
+export function useTimeUntilReset(): string {
+  const ui = useUi();
+  const { lang } = useFlow().state;
+  const [now, setNow] = useState(() => new Date());
+  useEffect(() => {
+    const t = setInterval(() => setNow(new Date()), 30000);
+    return () => clearInterval(t);
+  }, []);
+  const mins = Math.ceil(msUntilReset(now) / 60000);
+  const h = Math.floor(mins / 60);
+  const m = mins % 60;
+  return h > 0 ? format(ui.hoursMinutes, { h, m }, lang) : format(ui.minutesOnly, { m }, lang);
+}
+
+/**
+ * Desktop header balance: one gold dot per reading left today, and a short label. Kept quiet so it
+ * reads as a gentle daily rhythm rather than credits. With none left it shows when new ones open and
+ * opens the come-back-tomorrow screen.
+ */
+function BalancePill() {
+  const ui = useUi();
+  const { lang } = useFlow().state;
+  const left = useDailyLimit().left();
+  const time = useTimeUntilReset();
+  const label = left === 0 ? format(ui.balanceNone, { time }, lang) : format(ui.balanceShort, { n: left }, lang);
+  const full = left === 0 ? format(ui.noneLeft, { time }, lang) : format(ui.leftToday, { n: left, total: readingsPerDay }, lang);
+  const body = (hovered: boolean) => (
+    <View style={[styles.balance, hovered && styles.balanceHover]}>
+      <View style={styles.balanceDots}>
+        {Array.from({ length: readingsPerDay }, (_, i) => (
+          <View key={i} style={[styles.balanceDot, i < left && styles.balanceDotOn]} />
+        ))}
+      </View>
+      <AppText size={13} style={[styles.balanceText, left === 0 && styles.gold]}>
+        {label}
+      </AppText>
+    </View>
+  );
+  if (left > 0) {
+    return (
+      <View accessible accessibilityLabel={full}>
+        {body(false)}
+      </View>
+    );
+  }
+  return (
+    <Pressable onPress={() => router.push('/limit')} accessibilityRole="link" accessibilityLabel={full}>
+      {s => body(isHovered(s))}
+    </Pressable>
+  );
+}
+
+/** Desktop and tablet header: logo, Home and Tarot Reading links, today's balance, language. */
 export function SiteHeader({ active }: { active: 'home' | 'reading' }) {
   const ui = useUi();
   const { state } = useFlow();
@@ -266,6 +320,7 @@ export function SiteHeader({ active }: { active: 'home' | 'reading' }) {
             </Pressable>
           );
         })}
+        <BalancePill />
         <LangToggle />
       </View>
     </View>
@@ -634,6 +689,21 @@ export const styles = StyleSheet.create({
   navLink: { paddingVertical: 6, paddingHorizontal: 2, borderBottomWidth: 1.5, borderBottomColor: 'transparent' },
   navLinkOn: { color: colors.gold, borderBottomColor: colors.gold },
   navLinkHover: { color: colors.gold },
+  balance: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    paddingHorizontal: 12,
+    height: 36,
+    borderRadius: 999,
+    borderWidth: 1,
+    borderColor: colors.line,
+  },
+  balanceHover: { backgroundColor: colors.selected },
+  balanceDots: { flexDirection: 'row', gap: 4 },
+  balanceDot: { width: 7, height: 7, borderRadius: 4, borderWidth: 1, borderColor: colors.gold },
+  balanceDotOn: { backgroundColor: colors.gold },
+  balanceText: { color: colors.muted },
   hoverDim: { opacity: 0.85 },
   dialogBackdrop: { ...StyleSheet.absoluteFill, backgroundColor: 'rgba(11,21,48,0.8)' },
   dialogWrap: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: 24 },

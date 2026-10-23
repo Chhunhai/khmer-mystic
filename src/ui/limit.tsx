@@ -1,34 +1,22 @@
 // The daily reading limit in the interface: the balance line, and the "come back tomorrow" message.
-import { useEffect, useState } from 'react';
 import { StyleSheet, View, type StyleProp, type TextStyle } from 'react-native';
 import { format, useFlow, useUi } from '../state/flow.tsx';
-import { msUntilReset, readingsPerDay } from '../state/dailyLimit.ts';
+import { readingsPerDay } from '../state/dailyLimit.ts';
 import { useDailyLimit } from '../state/dailyLimitStore.tsx';
 import { LotusMark } from './icons.tsx';
-import { AppText, Hint, Title } from './kit.tsx';
-import { colors } from './theme.ts';
+import { AppText, Hint, Title, useTimeUntilReset } from './kit.tsx';
+import { colors, useWide } from './theme.ts';
 
-/** Time until new readings open, e.g. "4 h 54 min", updated every half minute. */
-export function useTimeUntilReset(): string {
-  const ui = useUi();
-  const { lang } = useFlow().state;
-  const [now, setNow] = useState(() => new Date());
-  useEffect(() => {
-    const t = setInterval(() => setNow(new Date()), 30000);
-    return () => clearInterval(t);
-  }, []);
-  const mins = Math.ceil(msUntilReset(now) / 60000);
-  const h = Math.floor(mins / 60);
-  const m = mins % 60;
-  return h > 0 ? format(ui.hoursMinutes, { h, m }, lang) : format(ui.minutesOnly, { m }, lang);
-}
-
-/** "2 of 3 readings left today", or when none are left, when new ones open. */
+/**
+ * "2 of 3 readings left today", or when none are left, when new ones open. Phone only: on desktop the
+ * site header shows the balance on every screen.
+ */
 export function ReadingsLeft({ size = 13, style }: { size?: number; style?: StyleProp<TextStyle> }) {
   const ui = useUi();
   const { lang } = useFlow().state;
   const left = useDailyLimit().left();
   const time = useTimeUntilReset();
+  if (useWide()) return null;
   return (
     <AppText size={size} style={[styles.left, left === 0 && styles.none, style]}>
       {left === 0

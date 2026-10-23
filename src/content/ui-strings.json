@@ -94,7 +94,9 @@
     "hoursMinutes": "{h} h {m} min",
     "minutesOnly": "{m} min",
     "backHome": "Back to home",
-    "noneLeft": "No readings left today · new ones in {time}"
+    "noneLeft": "No readings left today · new ones in {time}",
+    "balanceShort": "{n} left today",
+    "balanceNone": "New in {time}"
   },
   "km": {
     "tag": "តារ៉ូ និងប្រាជ្ញាខ្មែរ",
@@ -191,6 +193,8 @@
     "hoursMinutes": "{h} ម៉ោង {m} នាទី",
     "minutesOnly": "{m} នាទី",
     "backHome": "ត្រឡប់ទៅទំព័រដើម",
-    "noneLeft": "គ្មានការទស្សន៍ទាយនៅសល់សម្រាប់ថ្ងៃនេះទេ · ការទស្សន៍ទាយថ្មីក្នុងរយៈពេល {time}"
+    "noneLeft": "គ្មានការទស្សន៍ទាយនៅសល់សម្រាប់ថ្ងៃនេះទេ · ការទស្សន៍ទាយថ្មីក្នុងរយៈពេល {time}",
+    "balanceShort": "នៅសល់ {n} ថ្ងៃនេះ",
+    "balanceNone": "ថ្មីក្នុង {time}"
   }
 }
