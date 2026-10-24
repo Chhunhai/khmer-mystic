@@ -1,0 +1,1097 @@
+{
+  "questionId": "WB-03",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Your energy may be scattered across many new ideas and impulses. Starting things without finishing them could be leaving you oddly tired.",
+        "km": "ថាមពលរបស់អ្នក ប្រហែលជាកំពុងរាយប៉ាយលើគំនិត និងបំណងថ្មីៗជាច្រើន។ ការចាប់ផ្តើមអ្វីៗដោយមិនបញ្ចប់ អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយដោយមិនដឹងមូលហេតុ។"
+      },
+      "challenge": {
+        "en": "Leaping from one plan to the next could drain you without bringing any rest. Notice how many open projects you are carrying and close a few.",
+        "km": "ការលោតពីផែនការមួយទៅផែនការមួយ អាចបង្ហូរថាមពលរបស់អ្នក ដោយមិននាំមកនូវការសម្រាកណាមួយ។ សូមកត់សម្គាល់ថាអ្នកកំពុងកាន់គម្រោងដែលមិនទាន់ចប់ប៉ុន្មាន ហើយបិទវាខ្លះ។"
+      },
+      "outcome": {
+        "en": "Focusing your energy on fewer things could leave you feeling lighter and more alive. Fresh enthusiasm may return once your attention is not spread so thin.",
+        "km": "ការផ្តោតថាមពលរបស់អ្នកលើរឿងតិចជាងមុន អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ស្រាល និងរស់រវើកជាងមុន។ ភាពរំភើបថ្មីអាចត្រឡប់មកវិញ នៅពេលការយកចិត្តទុកដាក់របស់អ្នកមិនត្រូវបានបែងចែកស្តើងពេក។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may be pouring a great deal of effort into making things happen. Being the one who always takes action could be wearing down your reserves.",
+        "km": "អ្នកប្រហែលជាកំពុងចាក់កម្លាំងយ៉ាងច្រើន ដើម្បីធ្វើឱ្យអ្វីៗកើតឡើង។ ការធ្វើជាមនុស្សដែលតែងតែចាត់វិធានការ អាចកំពុងធ្វើឱ្យកម្លាំងបម្រុងរបស់អ្នកចុះខ្សោយ។"
+      },
+      "challenge": {
+        "en": "Trying to control every outcome could exhaust you more than the work itself. Let some things unfold without your constant input, and notice how much energy that saves.",
+        "km": "ការព្យាយាមគ្រប់គ្រងលទ្ធផលគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នកហត់នឿយច្រើនជាងការងារខ្លួនឯង។ សូមឱ្យអ្វីខ្លះកើតឡើងដោយមិនចាំបាច់មានការចូលរួមរបស់អ្នកជានិច្ច ហើយកត់សម្គាល់ថាវាសន្សំថាមពលបានប៉ុណ្ណា។"
+      },
+      "outcome": {
+        "en": "Using your skills wisely, rather than constantly, could protect your energy. You may achieve as much while feeling far less drained.",
+        "km": "ការប្រើជំនាញរបស់អ្នកដោយឈ្លាសវៃ ជាជាងប្រើជានិច្ច អាចការពារថាមពលរបស់អ្នក។ អ្នកអាចសម្រេចបានច្រើនដូចគ្នា ខណៈមានអារម្មណ៍អស់កម្លាំងតិចជាងមុនច្រើន។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Unspoken feelings or ignored instincts may be quietly using up your energy. Something you sense but have not faced could be weighing on you.",
+        "km": "អារម្មណ៍ដែលមិនបាននិយាយចេញ ឬសភាវគតិដែលមិនអើពើ ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នកដោយស្ងាត់ៗ។ អ្វីមួយដែលអ្នកដឹងតែមិនទាន់ប្រឈមមុខ អាចកំពុងសង្កត់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "Ignoring what your intuition is telling you could leave a low hum of unease. Listen to the quiet signals and act on the one that keeps returning.",
+        "km": "ការមិនអើពើនឹងអ្វីដែលវិចារណញាណរបស់អ្នកកំពុងប្រាប់ អាចបន្សល់ភាពមិនស្រួលស្ងាត់ៗជានិច្ច។ សូមស្តាប់សញ្ញាស្ងាត់ៗ ហើយធ្វើតាមសញ្ញាដែលចេះតែត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "Honouring your instincts could free up energy you did not know you were spending. A quieter, clearer mind may follow once the unspoken has been faced.",
+        "km": "ការគោរពសភាវគតិរបស់អ្នក អាចដោះលែងថាមពលដែលអ្នកមិនដឹងថាអ្នកកំពុងចំណាយ។ គំនិតដែលស្ងប់ និងច្បាស់ជាងមុន អាចកើតមាន នៅពេលអ្វីដែលមិនបាននិយាយត្រូវបានប្រឈមមុខ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Caring for others may be taking more of your energy than you realise. Your nurturing nature could be giving without receiving much back.",
+        "km": "ការមើលថែអ្នកដទៃ ប្រហែលជាកំពុងយកថាមពលរបស់អ្នកច្រើនជាងអ្វីដែលអ្នកដឹង។ ធម្មជាតិនៃការថែរក្សារបស់អ្នក អាចកំពុងផ្តល់ដោយមិនសូវទទួលបានអ្វីត្រឡប់មកវិញ។"
+      },
+      "challenge": {
+        "en": "Looking after everyone except yourself could leave you depleted. Let others care for you, and refill your own cup without guilt.",
+        "km": "ការមើលថែគ្រប់គ្នា លើកលែងតែខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមឱ្យអ្នកដទៃមើលថែអ្នក ហើយបំពេញពែងរបស់ខ្លួនឯងឡើងវិញ ដោយគ្មានអារម្មណ៍ទោសកំហុស។"
+      },
+      "outcome": {
+        "en": "Receiving care as well as giving it could restore your natural warmth and energy. You may feel nourished rather than emptied by those you love.",
+        "km": "ការទទួលការថែរក្សា ក៏ដូចជាការផ្តល់វា អាចស្តារភាពកក់ក្តៅ និងថាមពលធម្មជាតិរបស់អ្នកឡើងវិញ។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានចិញ្ចឹមចិត្ត ជាជាងត្រូវបានបង្ហូរដោយអ្នកដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Rules, responsibilities or rigid routines may be weighing on your energy. Being the one who holds everything and everyone together could be tiring you out.",
+        "km": "ច្បាប់ ការទទួលខុសត្រូវ ឬទម្លាប់តឹងរ៉ឹង ប្រហែលជាកំពុងសង្កត់លើថាមពលរបស់អ្នក។ ការធ្វើជាមនុស្សដែលរក្សាអ្វីៗ និងគ្រប់គ្នាឱ្យនៅជាមួយគ្នា អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Being too strict with yourself or others could leave you tense and drained. Loosen a rule or two and see how much lighter you feel.",
+        "km": "ការតឹងរ៉ឹងពេកជាមួយខ្លួនឯង ឬអ្នកដទៃ អាចធ្វើឱ្យអ្នកតានតឹង និងអស់កម្លាំង។ សូមបន្ធូរច្បាប់មួយ ឬពីរ ហើយមើលថាអ្នកមានអារម្មណ៍ស្រាលជាងមុនប៉ុណ្ណា។"
+      },
+      "outcome": {
+        "en": "Sharing responsibility could ease the pressure and restore your strength. Structure may then feel like a support you lean on rather than a weight you carry.",
+        "km": "ការចែករំលែកការទទួលខុសត្រូវ អាចបន្ធូរសម្ពាធ និងស្តារកម្លាំងរបស់អ្នកឡើងវិញ។ រចនាសម្ព័ន្ធអាចមានអារម្មណ៍ដូចជាការគាំទ្រដែលអ្នកពឹងផ្អែក ជាជាងបន្ទុកដែលអ្នកលី។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Expectations from family, culture or tradition may be pressing on you. Doing what you think you should could be costing you energy.",
+        "km": "ការរំពឹងទុកពីគ្រួសារ វប្បធម៌ ឬប្រពៃណី ប្រហែលជាកំពុងសង្កត់លើអ្នក។ ការធ្វើអ្វីដែលអ្នកគិតថាអ្នកគួរធ្វើ អាចកំពុងធ្វើឱ្យអ្នកខាតថាមពល។"
+      },
+      "challenge": {
+        "en": "Following obligations that no longer feel meaningful could drain your spirit. Keep the customs that nourish you and question the ones that only weigh you down.",
+        "km": "ការធ្វើតាមកាតព្វកិច្ចដែលលែងមានអត្ថន័យ អាចបង្ហូរស្មារតីរបស់អ្នក។ សូមរក្សាទំនៀមទម្លាប់ដែលចិញ្ចឹមចិត្តអ្នក ហើយចោទសួរទំនៀមដែលគ្រាន់តែសង្កត់អ្នក។"
+      },
+      "outcome": {
+        "en": "Choosing traditions that truly support you could restore a sense of meaning and energy. Family gatherings and rituals may feel nourishing rather than demanding.",
+        "km": "ការជ្រើសប្រពៃណីដែលពិតជាគាំទ្រអ្នក អាចស្តារអារម្មណ៍នៃអត្ថន័យ និងថាមពលឡើងវិញ។ ការជួបជុំគ្រួសារ និងពិធីនានា អាចមានអារម្មណ៍ចិញ្ចឹមចិត្ត ជាជាងទាមទារ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "An unresolved choice or a relationship out of balance may be pulling on your energy. Inner conflict about what you want could be tiring you.",
+        "km": "ជម្រើសដែលមិនទាន់ដោះស្រាយ ឬទំនាក់ទំនងដែលមិនមានតុល្យភាព ប្រហែលជាកំពុងទាញថាមពលរបស់អ្នក។ ជម្លោះក្នុងចិត្តអំពីអ្វីដែលអ្នកចង់បាន អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Living against your own values could drain you in ways that are hard to name. Make one choice that brings your actions back in line with your heart.",
+        "km": "ការរស់នៅផ្ទុយនឹងគុណតម្លៃរបស់ខ្លួនឯង អាចបង្ហូរថាមពលរបស់អ្នក ក្នុងរបៀបដែលពិបាកដាក់ឈ្មោះ។ សូមធ្វើជម្រើសមួយ ដែលនាំសកម្មភាពរបស់អ្នកត្រឡប់មកស្របនឹងចិត្តរបស់អ្នកវិញ។"
+      },
+      "outcome": {
+        "en": "Aligning your choices with your values could bring renewed energy and peace. Relationships may feel lighter when they reflect what you truly want.",
+        "km": "ការតម្រឹមជម្រើសរបស់អ្នកជាមួយគុណតម្លៃ អាចនាំមកនូវថាមពល និងសន្តិភាពថ្មី។ ទំនាក់ទំនងអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលវាឆ្លុះបញ្ចាំងពីអ្វីដែលអ្នកពិតជាចង់បាន។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Pushing hard toward a goal may be using up much of your energy. Constant drive, with no pause to refuel, could be leaving little in reserve.",
+        "km": "ការរុញយ៉ាងខ្លាំងឆ្ពោះទៅរកគោលដៅ ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នកយ៉ាងច្រើន។ កម្លាំងជំរុញជានិច្ច ដោយគ្មានការផ្អាកដើម្បីបញ្ចូលថាមពល អាចកំពុងទុកកម្លាំងបម្រុងតិចតួច។"
+      },
+      "challenge": {
+        "en": "Forcing progress without rest could leave you running on empty. Build pauses into your push so you can keep going.",
+        "km": "ការបង្ខំឱ្យមានវឌ្ឍនភាពដោយគ្មានការសម្រាក អាចធ្វើឱ្យអ្នកដំណើរការដោយគ្មានកម្លាំងនៅសល់។ សូមបញ្ចូលការផ្អាកក្នុងការខិតខំរបស់អ្នក ដើម្បីឱ្យអ្នកអាចបន្តទៅមុខបាន។"
+      },
+      "outcome": {
+        "en": "Balanced determination could carry you forward without burning out. Steady progress, with rest built in, may feel energising rather than exhausting.",
+        "km": "ការតាំងចិត្តដែលមានតុល្យភាព អាចនាំអ្នកទៅមុខដោយមិនអស់កម្លាំងខ្លាំង។ វឌ្ឍនភាពនឹងនរ ដែលមានការសម្រាកបញ្ចូល អាចផ្តល់ថាមពល ជាជាងធ្វើឱ្យហត់នឿយ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Holding back strong emotions may be quietly using up your strength. Staying patient and composed under pressure could be costing more than it shows.",
+        "km": "ការទប់អារម្មណ៍ខ្លាំងៗ ប្រហែលជាកំពុងប្រើកម្លាំងរបស់អ្នកដោយស្ងាត់ៗ។ ការរក្សាការអត់ធ្មត់ និងភាពស្ងប់ក្រោមសម្ពាធ អាចកំពុងខាតច្រើនជាងអ្វីដែលបង្ហាញឱ្យឃើញ។"
+      },
+      "challenge": {
+        "en": "Suppressing anger or frustration could drain you from the inside. Find a safe outlet, such as exercise, writing or an honest talk.",
+        "km": "ការទប់កំហឹង ឬការខកចិត្ត អាចបង្ហូរថាមពលរបស់អ្នកពីខាងក្នុង។ សូមរកច្រកចេញដែលមានសុវត្ថិភាព ដូចជាការហាត់ប្រាណ ការសរសេរ ឬការនិយាយដោយស្មោះ។"
+      },
+      "outcome": {
+        "en": "Expressing feelings gently could return the strength you have been spending on control. You may feel calmer and more resilient as a result.",
+        "km": "ការបង្ហាញអារម្មណ៍ដោយទន់ភ្លន់ អាចផ្តល់កម្លាំងដែលអ្នកបានចំណាយលើការគ្រប់គ្រងត្រឡប់មកវិញ។ អ្នកអាចមានអារម្មណ៍ស្ងប់ និងធន់ជាងមុន ជាលទ្ធផល។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Isolation or living too much in your own head may be draining your energy. Turning the same worries over and over on your own could be wearing you down.",
+        "km": "ភាពឯកោ ឬការនៅក្នុងគំនិតរបស់ខ្លួនឯងច្រើនពេក ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ ការគិតវិលវល់ពីការព្រួយបារម្ភដដែលៗតែម្នាក់ឯង អាចកំពុងធ្វើឱ្យអ្នកចុះខ្សោយ។"
+      },
+      "challenge": {
+        "en": "Withdrawing too far could leave you lonely and low. Balance solitude with contact from people who lift you up.",
+        "km": "ការដកខ្លួនឆ្ងាយពេក អាចធ្វើឱ្យអ្នកឯកា និងអារម្មណ៍ធ្លាក់ចុះ។ សូមថ្លឹងភាពឯកកោជាមួយការទាក់ទងមនុស្សដែលលើកទឹកចិត្តអ្នក។"
+      },
+      "outcome": {
+        "en": "Mixing reflection with connection could restore your energy and perspective. You may return to others refreshed and clearer about what you need.",
+        "km": "ការលាយការពិចារណាជាមួយការភ្ជាប់ទំនាក់ទំនង អាចស្តារថាមពល និងទស្សនៈរបស់អ្នកឡើងវិញ។ អ្នកអាចត្រឡប់ទៅរកអ្នកដទៃវិញ ដោយស្រស់ស្រាយ និងច្បាស់ជាងមុនអំពីអ្វីដែលអ្នកត្រូវការ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Constant change and uncertainty may be tiring you more than you realise. Adapting again and again could be using up your reserves.",
+        "km": "ការផ្លាស់ប្តូរ និងភាពមិនប្រាកដប្រជាជានិច្ច ប្រហែលជាកំពុងធ្វើឱ្យអ្នកហត់នឿយច្រើនជាងអ្វីដែលអ្នកដឹង។ ការសម្របខ្លួនម្តងហើយម្តងទៀត អាចកំពុងប្រើកម្លាំងបម្រុងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Fighting against changes you cannot control could exhaust you. Focus your energy on what you can influence and let the rest go.",
+        "km": "ការតស៊ូប្រឆាំងនឹងការផ្លាស់ប្តូរដែលអ្នកមិនអាចគ្រប់គ្រង អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមផ្តោតថាមពលរបស់អ្នកលើអ្វីដែលអ្នកអាចមានឥទ្ធិពល ហើយលែងប្រកាន់អ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Going with the flow could conserve energy and bring a lighter feeling. A positive turn may lift your spirits and restore your strength.",
+        "km": "ការបណ្តែតតាមលំហូរ អាចសន្សំថាមពល និងនាំមកនូវអារម្មណ៍ស្រាលជាងមុន។ ការផ្លាស់ប្តូរវិជ្ជមានមួយ អាចលើកស្មារតី និងស្តារកម្លាំងរបស់អ្នកឡើងវិញ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "An imbalance between what you give and what you get may be draining you. Unfair burdens or unresolved issues could be weighing on you.",
+        "km": "ភាពមិនស្មើគ្នារវាងអ្វីដែលអ្នកផ្តល់ និងអ្វីដែលអ្នកទទួល ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ បន្ទុកដែលមិនយុត្តិធម៌ ឬបញ្ហាដែលមិនទាន់ដោះស្រាយ អាចកំពុងសង្កត់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "Carrying more than your fair share could leave you resentful and tired. Speak up honestly about what needs to be rebalanced.",
+        "km": "ការទទួលបន្ទុកច្រើនជាងចំណែកដ៏យុត្តិធម៌របស់អ្នក អាចធ្វើឱ្យអ្នកអាក់អន់ចិត្ត និងហត់នឿយ។ សូមនិយាយដោយស្មោះត្រង់អំពីអ្វីដែលត្រូវធ្វើឱ្យមានតុល្យភាពឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Restoring fairness could free up energy and bring a sense of relief. Clear agreements about chores and favours may help everyone carry their share.",
+        "km": "ការស្តារយុត្តិធម៌ឡើងវិញ អាចដោះលែងថាមពល និងនាំមកនូវអារម្មណ៍ធូរស្រាល។ កិច្ចព្រមព្រៀងច្បាស់លាស់អំពីការងារផ្ទះ និងការជួយគ្នា អាចជួយគ្រប់គ្នាទទួលបន្ទុកតាមចំណែករបស់ខ្លួន។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Waiting for something to change may be leaving you stuck and drained. Sacrificing your own needs for others could also be part of it.",
+        "km": "ការរង់ចាំឱ្យអ្វីមួយផ្លាស់ប្តូរ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកជាប់គាំង និងអស់កម្លាំង។ ការលះបង់តម្រូវការរបស់ខ្លួនឯងសម្រាប់អ្នកដទៃ ក៏អាចជាផ្នែកមួយនៃរឿងនេះដែរ។"
+      },
+      "challenge": {
+        "en": "Staying in limbo could sap your energy and motivation. Make one small decision that gets things moving again.",
+        "km": "ការនៅក្នុងស្ថានភាពព្យួរ អាចបឺតយកថាមពល និងការលើកទឹកចិត្តរបស់អ្នក។ សូមធ្វើការសម្រេចចិត្តតូចមួយ ដែលធ្វើឱ្យអ្វីៗចាប់ផ្តើមដំណើរការម្តងទៀត។"
+      },
+      "outcome": {
+        "en": "A new perspective could release you from a draining pattern. You may feel lighter once you stop waiting and start choosing.",
+        "km": "ទស្សនៈថ្មី អាចរំដោះអ្នកពីគំរូដែលធ្វើឱ្យអស់កម្លាំង។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលអ្នកឈប់រង់ចាំ ហើយចាប់ផ្តើមជ្រើសរើស។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Holding on to something that has run its course may be draining you. An ending you have been resisting could be using up your energy.",
+        "km": "ការប្រកាន់ខ្ជាប់អ្វីមួយដែលបានដល់ទីបញ្ចប់ ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ ការបញ្ចប់ដែលអ្នកបានទប់ទល់ អាចកំពុងប្រើថាមពលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Resisting a necessary ending could keep you tired and stuck. Let go of what is finished, and seek support if the loss feels heavy.",
+        "km": "ការទប់ទល់នឹងការបញ្ចប់ដែលចាំបាច់ អាចធ្វើឱ្យអ្នកហត់នឿយ និងជាប់គាំង។ សូមលែងប្រកាន់អ្វីដែលបានបញ្ចប់ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើការបាត់បង់ធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Accepting an ending could free up energy for something new. Renewal may follow as you release what no longer fits.",
+        "km": "ការទទួលយកការបញ្ចប់ អាចដោះលែងថាមពលសម្រាប់អ្វីដែលថ្មី។ ការកកើតឡើងវិញអាចកើតមាន នៅពេលអ្នកលែងប្រកាន់អ្វីដែលលែងសម។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Living at extremes, with too much of one thing and too little of another, may be tiring you. Poor balance could be at the root of your fatigue.",
+        "km": "ការរស់នៅបែបហួសហេតុ ដោយមានរឿងមួយច្រើនពេក និងរឿងមួយទៀតតិចពេក ប្រហែលជាកំពុងធ្វើឱ្យអ្នកហត់នឿយ។ តុល្យភាពមិនល្អ អាចជាឫសគល់នៃភាពហត់នឿយរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Swinging between overdoing and collapsing could keep your energy erratic. Aim for a steadier, more moderate pace, even when you feel a burst of energy.",
+        "km": "ការយោលរវាងការធ្វើហួសកម្លាំង និងការដួលរលំ អាចធ្វើឱ្យថាមពលរបស់អ្នកមិនទៀង។ សូមតម្រង់ទៅរកល្បឿនដែលនឹងនរ និងល្មមជាងមុន ទោះបីអ្នកមានអារម្មណ៍ថាមពលផ្ទុះឡើងក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Finding moderation could restore steady energy and calm. Body and mind may feel more in tune as balance returns.",
+        "km": "ការរកភាពល្មមល្មើយ អាចស្តារថាមពលនឹងនរ និងភាពស្ងប់ឡើងវិញ។ រាងកាយ និងចិត្ត អាចមានអារម្មណ៍ចុះសម្រុងគ្នាជាងមុន នៅពេលតុល្យភាពត្រឡប់មកវិញ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "An unhealthy habit or dependency may be quietly draining your energy. Endless scrolling, snacking or another comfort habit could be taking more than it gives.",
+        "km": "ទម្លាប់មិនល្អ ឬការពឹងផ្អែកមួយ ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នកដោយស្ងាត់ៗ។ ការអូសមើលទូរស័ព្ទមិនចេះចប់ ការញ៉ាំចំណីញឹកញាប់ ឬទម្លាប់លួងលោមចិត្តផ្សេងទៀត អាចកំពុងយកច្រើនជាងអ្វីដែលវាផ្តល់។"
+      },
+      "challenge": {
+        "en": "A compulsive habit could keep pulling your energy away. Be honest about it, and reach out to a professional if it feels out of control.",
+        "km": "ទម្លាប់ដែលមិនអាចទប់បាន អាចបន្តទាញថាមពលរបស់អ្នកចេញ។ សូមស្មោះត្រង់អំពីវា ហើយទាក់ទងអ្នកជំនាញ ប្រសិនបើវាហាក់ហួសពីការគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "Breaking free of a draining habit could return a surprising amount of energy. You may feel clearer, stronger and more in control.",
+        "km": "ការរួចផុតពីទម្លាប់ដែលធ្វើឱ្យអស់កម្លាំង អាចផ្តល់ថាមពលត្រឡប់មកវិញច្រើនគួរឱ្យភ្ញាក់ផ្អើល។ អ្នកអាចមានអារម្មណ៍ច្បាស់ ខ្លាំង និងគ្រប់គ្រងបានជាងមុន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "An upheaval or shock may have left you running on adrenaline. Coping with disruption could be using up much of your strength.",
+        "km": "ការរង្គោះរង្គើ ឬការភ្ញាក់ផ្អើលធំមួយ ប្រហែលជាធ្វើឱ្យអ្នកដំណើរការដោយកម្លាំងអាដ្រេណាលីន។ ការទប់ទល់នឹងការរំខាន អាចកំពុងប្រើកម្លាំងរបស់អ្នកយ៉ាងច្រើន។"
+      },
+      "challenge": {
+        "en": "Living in crisis mode could leave you depleted and on edge. Lean on support, and seek professional help if stress feels overwhelming.",
+        "km": "ការរស់នៅក្នុងស្ថានភាពវិបត្តិ អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងតានតឹង។ សូមពឹងផ្អែកលើការគាំទ្រ ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើភាពតានតឹងខ្លាំងពេក។"
+      },
+      "outcome": {
+        "en": "Rebuilding through upheaval could bring a more honest, sustainable way of living. Energy may return as stability is restored around you.",
+        "km": "ការកសាងឡើងវិញតាមរយៈការរង្គោះរង្គើ អាចនាំមកនូវរបៀបរស់នៅដែលស្មោះត្រង់ និងអាចទ្រទ្រង់បានជាងមុន។ ថាមពលអាចត្រឡប់មកវិញ នៅពេលស្ថិរភាពត្រូវបានស្តារឡើងវិញនៅជុំវិញអ្នក។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Losing sight of hope may be quietly draining your motivation. A sense of discouragement could be weighing on your spirit.",
+        "km": "ការបាត់បង់ក្តីសង្ឃឹម ប្រហែលជាកំពុងបង្ហូរការលើកទឹកចិត្តរបស់អ្នកដោយស្ងាត់ៗ។ អារម្មណ៍បាក់ទឹកចិត្ត អាចកំពុងសង្កត់លើស្មារតីរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Doubting that things can improve could sap your energy before you begin. Hold on to small signs of progress and let them encourage you.",
+        "km": "ការសង្ស័យថាអ្វីៗអាចប្រសើរឡើង អាចបឺតយកថាមពលរបស់អ្នក មុនពេលអ្នកចាប់ផ្តើម។ សូមកាន់ខ្ជាប់សញ្ញាតូចៗនៃវឌ្ឍនភាព ហើយឱ្យវាលើកទឹកចិត្តអ្នក។"
+      },
+      "outcome": {
+        "en": "Renewed hope could bring a gentle, steady return of energy. You may feel inspired and refreshed as healing takes hold.",
+        "km": "ក្តីសង្ឃឹមដែលកើតឡើងវិញ អាចនាំការត្រឡប់មកវិញនៃថាមពលដោយទន់ភ្លន់ និងនឹងនរ។ អ្នកអាចមានអារម្មណ៍មានការបំផុសគំនិត និងស្រស់ស្រាយ នៅពេលការជាសះស្បើយចាក់ឫស។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Worry, confusion or vague unease may be draining you more than you realise. Not knowing what is really going on could be tiring your mind.",
+        "km": "ការព្រួយបារម្ភ ភាពច្របូកច្របល់ ឬភាពមិនស្រួលដែលមិនច្បាស់ ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នកច្រើនជាងអ្វីដែលអ្នកដឹង។ ការមិនដឹងថាអ្វីពិតជាកំពុងកើតឡើង អាចកំពុងធ្វើឱ្យគំនិតរបស់អ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Anxious imaginings could use up energy on things that may never happen. Check your fears against the facts, and talk to a professional if anxiety will not settle.",
+        "km": "ការស្រមៃដោយថប់បារម្ភ អាចប្រើថាមពលលើរឿងដែលប្រហែលជាមិនកើតឡើង។ សូមពិនិត្យការភ័យខ្លាចរបស់អ្នកជាមួយការពិត ហើយនិយាយជាមួយអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភមិនព្រមស្ងប់។"
+      },
+      "outcome": {
+        "en": "Clarity could ease the hidden drain of uncertainty. Your mind may feel quieter and more rested as the fog lifts.",
+        "km": "ភាពច្បាស់លាស់ អាចបន្ធូរការបង្ហូរថាមពលលាក់កំបាំងនៃភាពមិនប្រាកដប្រជា។ គំនិតរបស់អ្នកអាចមានអារម្មណ៍ស្ងប់ និងសម្រាកបានជាងមុន នៅពេលអ័ព្ទរសាយ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Being constantly cheerful or busy may be using up more energy than it gives back. Keeping up a bright face for everyone could be more tiring than it looks.",
+        "km": "ការរីករាយ ឬមមាញឹកជានិច្ច ប្រហែលជាកំពុងប្រើថាមពលច្រើនជាងអ្វីដែលវាផ្តល់ត្រឡប់មកវិញ។ ការរក្សាមុខញញឹមសម្រាប់គ្រប់គ្នា អាចធ្វើឱ្យហត់នឿយច្រើនជាងអ្វីដែលវាមើលទៅ។"
+      },
+      "challenge": {
+        "en": "Saying yes to every fun plan on a high could leave you crashing hard. Notice the point where enjoyment turns into fatigue, and stop just before it.",
+        "km": "ការយល់ព្រមលើគ្រប់ផែនការសប្បាយ ពេលអារម្មណ៍ខ្ពស់ អាចធ្វើឱ្យអ្នកធ្លាក់ចុះខ្លាំងតាមក្រោយ។ សូមកត់សម្គាល់ចំណុចដែលសេចក្តីរីករាយប្រែទៅជាភាពហត់នឿយ ហើយឈប់មុនដល់ចំណុចនោះ។"
+      },
+      "outcome": {
+        "en": "Balancing joy with rest could keep your energy bright and steady. You may feel truly vital rather than charged up and then flat.",
+        "km": "ការថ្លឹងសេចក្តីរីករាយជាមួយការសម្រាក អាចរក្សាថាមពលរបស់អ្នកឱ្យភ្លឺស្វាង។ អ្នកអាចមានអារម្មណ៍រស់រវើកពិតប្រាកដ ជាជាងមានថាមពលខ្លាំង រួចធ្លាក់ចុះ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Old regrets or self-judgment may be weighing on your energy. Replaying past choices could be tiring your mind and heart.",
+        "km": "ការសោកស្តាយចាស់ៗ ឬការវិនិច្ឆ័យខ្លួនឯង ប្រហែលជាកំពុងសង្កត់លើថាមពលរបស់អ្នក។ ការរំលឹកជម្រើសចាស់ៗឡើងវិញ អាចកំពុងធ្វើឱ្យគំនិត និងចិត្តរបស់អ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Harsh self-criticism could drain your confidence and motivation. Forgive yourself and turn your attention to what you can do differently.",
+        "km": "ការរិះគន់ខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចបង្ហូរទំនុកចិត្ត និងការលើកទឹកចិត្តរបស់អ្នក។ សូមអភ័យទោសខ្លួនឯង ហើយបង្វែរការយកចិត្តទុកដាក់ទៅរកអ្វីដែលអ្នកអាចធ្វើខុសពីមុន។"
+      },
+      "outcome": {
+        "en": "Self-forgiveness could release energy tied up in regret. You may feel lighter and ready for a fresh, more purposeful chapter.",
+        "km": "ការអភ័យទោសខ្លួនឯង អាចដោះលែងថាមពលដែលជាប់ក្នុងការសោកស្តាយ។ អ្នកអាចមានអារម្មណ៍ស្រាល និងត្រៀមខ្លួនសម្រាប់ជំពូកថ្មីដែលមានគោលបំណងជាងមុន។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Something left unfinished may be quietly draining your energy. A loose end could be keeping a cycle from closing.",
+        "km": "អ្វីមួយដែលមិនទាន់បញ្ចប់ ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នកដោយស្ងាត់ៗ។ ចុងខ្សែដែលនៅរលុង អាចកំពុងរារាំងវដ្តមួយមិនឱ្យបិទ។"
+      },
+      "challenge": {
+        "en": "Leaving tasks or conversations unresolved could keep a part of your mind busy. Complete what you can and consciously set the rest aside.",
+        "km": "ការទុកកិច្ចការ ឬការសន្ទនាឱ្យនៅមិនទាន់ដោះស្រាយ អាចធ្វើឱ្យផ្នែកមួយនៃគំនិតរបស់អ្នករវល់ជានិច្ច។ សូមបញ្ចប់អ្វីដែលអ្នកអាចបញ្ចប់ ហើយដាក់អ្វីដែលនៅសល់មួយឡែកដោយដឹងខ្លួន។"
+      },
+      "outcome": {
+        "en": "Bringing things to completion could release energy and a sense of wholeness. You may feel ready to rest and enjoy what you have achieved.",
+        "km": "ការនាំអ្វីៗទៅដល់ការបញ្ចប់ អាចដោះលែងថាមពល និងអារម្មណ៍នៃភាពពេញលេញ។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនដើម្បីសម្រាក និងរីករាយនឹងអ្វីដែលអ្នកបានសម្រេច។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Starting too many new things may be scattering your energy. Fresh enthusiasm could be burning bright but burning itself out.",
+        "km": "ការចាប់ផ្តើមរឿងថ្មីៗច្រើនពេក ប្រហែលជាកំពុងធ្វើឱ្យថាមពលរបស់អ្នករាយប៉ាយ។ ភាពរំភើបថ្មី អាចកំពុងឆេះភ្លឺ ប៉ុន្តែឆាប់អស់។"
+      },
+      "challenge": {
+        "en": "Chasing every new spark could leave you exhausted before anything is finished. Choose the one idea that matters most and set the others aside.",
+        "km": "ការដេញតាមភាពរំភើបថ្មីគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នកហត់នឿយ មុនពេលអ្វីមួយត្រូវបានបញ្ចប់។ សូមជ្រើសគំនិតមួយដែលសំខាន់បំផុត ហើយទុកគំនិតផ្សេងទៀតមួយឡែក។"
+      },
+      "outcome": {
+        "en": "Channelling your spark into one project could renew your energy. You may feel inspired by your work rather than overwhelmed by everything you began.",
+        "km": "ការតម្រង់ភាពរំភើបរបស់អ្នកទៅកាន់គម្រោងមួយ អាចធ្វើឱ្យថាមពលរបស់អ្នកថ្មីឡើងវិញ។ អ្នកអាចមានអារម្មណ៍មានការបំផុសគំនិតដោយការងាររបស់អ្នក ជាជាងលើសកម្លាំងដោយអ្វីៗដែលអ្នកបានចាប់ផ្តើម។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Restlessness and endless planning may be draining your energy. Thinking about the next step without taking it could be tiring.",
+        "km": "ភាពមិនស្ងប់ និងការរៀបចំផែនការមិនចេះចប់ ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ ការគិតពីជំហានបន្ទាប់ដោយមិនបោះជំហាន អាចធ្វើឱ្យហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Staying stuck between options could sap your motivation. Make a decision and take one concrete step forward.",
+        "km": "ការជាប់គាំងរវាងជម្រើស អាចបឺតយកការលើកទឹកចិត្តរបស់អ្នក។ សូមធ្វើការសម្រេចចិត្ត ហើយបោះជំហានជាក់ស្តែងមួយទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Acting on your plans could turn restless energy into progress. You may feel more alive once you start moving.",
+        "km": "ការធ្វើតាមផែនការរបស់អ្នក អាចប្រែថាមពលមិនស្ងប់ទៅជាវឌ្ឍនភាព។ អ្នកអាចមានអារម្មណ៍រស់រវើកជាងមុន នៅពេលអ្នកចាប់ផ្តើមផ្លាស់ទី។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Waiting for something outside to change may be draining your patience and energy. Fixing your attention on distant hopes could leave you restless with what is in front of you.",
+        "km": "ការរង់ចាំឱ្យអ្វីមួយនៅខាងក្រៅផ្លាស់ប្តូរ ប្រហែលជាកំពុងបង្ហូរការអត់ធ្មត់ និងថាមពលរបស់អ្នក។ ការផ្តោតការយកចិត្តទុកដាក់លើក្តីសង្ឃឹមដែលនៅឆ្ងាយ អាចធ្វើឱ្យអ្នកមិនស្ងប់ជាមួយអ្វីដែលនៅចំពោះមុខអ្នក។"
+      },
+      "challenge": {
+        "en": "Constant waiting and wondering could leave you unsettled. Invest energy in what you can do where you are.",
+        "km": "ការរង់ចាំ និងការឆ្ងល់ជានិច្ច អាចធ្វើឱ្យអ្នកមិនស្ងប់។ សូមវិនិយោគថាមពលលើអ្វីដែលអ្នកអាចធ្វើបាននៅកន្លែងដែលអ្នកនៅ។"
+      },
+      "outcome": {
+        "en": "Focusing on what is within reach could restore your energy and optimism. A wider horizon may open naturally as you act.",
+        "km": "ការផ្តោតលើអ្វីដែលនៅក្បែរដៃ អាចស្តារថាមពល និងសុទិដ្ឋិនិយមរបស់អ្នកឡើងវិញ។ ផ្តេកទូលាយជាងមុន អាចបើកដោយធម្មជាតិ នៅពេលអ្នកធ្វើសកម្មភាព។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Hosting, celebrating or keeping up appearances at home may be tiring you. Social obligations could be using up more energy than they give.",
+        "km": "ការទទួលភ្ញៀវ ការប្រារព្ធ ឬការរក្សាមុខមាត់នៅផ្ទះ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកហត់នឿយ។ កាតព្វកិច្ចសង្គម អាចកំពុងប្រើថាមពលច្រើនជាងអ្វីដែលវាផ្តល់។"
+      },
+      "challenge": {
+        "en": "Saying yes to every gathering could leave you drained. Choose the occasions that truly lift you up, and decline the rest politely.",
+        "km": "ការយល់ព្រមចូលរួមការជួបជុំគ្រប់ពេល អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមជ្រើសឱកាសដែលពិតជាលើកទឹកចិត្តអ្នក ហើយបដិសេធឱកាសផ្សេងទៀតដោយគួរសម។"
+      },
+      "outcome": {
+        "en": "Being selective about social plans could restore energy and enjoyment. Home may feel like a place of rest again.",
+        "km": "ការជ្រើសរើសផែនការសង្គម អាចស្តារថាមពល និងសេចក្តីរីករាយឡើងវិញ។ ផ្ទះអាចមានអារម្មណ៍ជាកន្លែងសម្រាកម្តងទៀត។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Conflict, competition or tension around you may be sapping your energy. Constant friction with colleagues, neighbours or family could be keeping you on edge.",
+        "km": "ជម្លោះ ការប្រកួតប្រជែង ឬភាពតានតឹងនៅជុំវិញអ្នក ប្រហែលជាកំពុងបឺតយកថាមពលរបស់អ្នក។ ការប៉ះទង្គិចជានិច្ចជាមួយសហការី អ្នកជិតខាង ឬគ្រួសារ អាចកំពុងធ្វើឱ្យអ្នកតានតឹង។"
+      },
+      "challenge": {
+        "en": "Getting caught up in every argument could exhaust you. Step back from battles that are not yours to fight.",
+        "km": "ការជាប់ក្នុងការឈ្លោះប្រកែកគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមថយក្រោយពីការតស៊ូដែលមិនមែនជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Stepping away from needless conflict could free up energy for what matters. A calmer environment, at home or at work, may restore your strength.",
+        "km": "ការដកខ្លួនចេញពីជម្លោះដែលមិនចាំបាច់ អាចដោះលែងថាមពលសម្រាប់អ្វីដែលសំខាន់។ បរិយាកាសដែលស្ងប់ជាងមុន នៅផ្ទះ ឬកន្លែងធ្វើការ អាចស្តារកម្លាំងរបស់អ្នកឡើងវិញ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Striving for recognition or approval may be using up your energy. Needing to prove yourself again and again could be quietly exhausting.",
+        "km": "ការខិតខំដើម្បីការទទួលស្គាល់ ឬការយល់ព្រម ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នក។ ការត្រូវការបញ្ជាក់ខ្លួនឯងម្តងហើយម្តងទៀត អាចធ្វើឱ្យហត់នឿយដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Seeking constant validation could leave you running on empty. Value your own effort, whether or not anyone else notices or applauds it.",
+        "km": "ការស្វែងរកការទទួលស្គាល់ជានិច្ច អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមឱ្យតម្លៃកិច្ចខិតខំរបស់អ្នក ទោះបីមាននរណាម្នាក់កត់សម្គាល់ ឬអបអរវាឬអត់ក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Finding confidence within could free you from a tiring need for praise. Your energy may feel steadier and more your own.",
+        "km": "ការរកទំនុកចិត្តពីខាងក្នុង អាចរំដោះអ្នកពីតម្រូវការការសរសើរដែលធ្វើឱ្យហត់នឿយ។ ថាមពលរបស់អ្នកអាចមានអារម្មណ៍នឹងនរ និងជារបស់អ្នកផ្ទាល់ជាងមុន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Constantly defending your position may be wearing you out. Feeling that you must guard your space from others could be draining your reserves.",
+        "km": "ការការពារជំហររបស់អ្នកជានិច្ច ប្រហែលជាកំពុងធ្វើឱ្យអ្នកអស់កម្លាំង។ អារម្មណ៍ថាអ្នកត្រូវតែការពារលំហរបស់អ្នកពីអ្នកដទៃ អាចកំពុងបង្ហូរកម្លាំងបម្រុងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Treating every request as a threat could leave you tense and tired. Decide which battles are worth your energy and let the minor ones pass.",
+        "km": "ការចាត់ទុកសំណើនីមួយៗជាការគំរាមកំហែង អាចធ្វើឱ្យអ្នកតានតឹង និងហត់នឿយ។ សូមសម្រេចថាការតស៊ូណាដែលសមនឹងថាមពលរបស់អ្នក ហើយឱ្យរឿងតូចៗកន្លងផុត។"
+      },
+      "outcome": {
+        "en": "Firm but relaxed boundaries could protect your energy without constant effort. You may feel secure enough to lower your guard where it is safe.",
+        "km": "ព្រំដែនរឹងមាំ ប៉ុន្តែស្រួល អាចការពារថាមពលរបស់អ្នក ដោយមិនចាំបាច់ខិតខំជានិច្ច។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពល្មមដើម្បីបន្ធូរការការពារ នៅកន្លែងដែលមានសុវត្ថិភាព។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "A rush of messages, tasks and demands may be scattering your energy. Racing from one thing to the next could leave no room to recover.",
+        "km": "ការហូរចូលនៃសារ កិច្ចការ និងការទាមទារ ប្រហែលជាកំពុងធ្វើឱ្យថាមពលរបស់អ្នករាយប៉ាយ។ ការប្រញាប់ពីរឿងមួយទៅរឿងមួយ អាចមិនទុកលំហសម្រាប់ការងើបឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Answering every notification as it arrives could keep your nervous system on alert. Reply in batches, and keep some phone-free corners in your routine.",
+        "km": "ការឆ្លើយតបនឹងការជូនដំណឹងនីមួយៗភ្លាមៗ អាចធ្វើឱ្យប្រព័ន្ធប្រសាទរបស់អ្នកប្រុងប្រយ័ត្នជានិច្ច។ សូមឆ្លើយតបជាក្រុមៗ ហើយរក្សាចន្លោះខ្លះដែលគ្មានទូរស័ព្ទក្នុងទម្លាប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Slowing the flow of input could restore focus and energy. You may find more done with less strain once you stop reacting to everything.",
+        "km": "ការបន្ថយលំហូរព័ត៌មាន អាចស្តារការផ្តោតអារម្មណ៍ និងថាមពលឡើងវិញ។ អ្នកអាចធ្វើការបានច្រើនជាងមុន ដោយកម្លាំងតិចជាងមុន នៅពេលអ្នកឈប់ឆ្លើយតបនឹងអ្វីៗទាំងអស់។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Pushing on through a hard stretch may have left you running low. Staying on guard for the next problem could be using up reserves.",
+        "km": "ការបន្តរុញឆ្លងកាត់ដំណាក់កាលលំបាក ប្រហែលជាធ្វើឱ្យអ្នកនៅសល់កម្លាំងតិច។ ការប្រុងប្រយ័ត្នរង់ចាំបញ្ហាបន្ទាប់ អាចកំពុងប្រើកម្លាំងបម្រុង។"
+      },
+      "challenge": {
+        "en": "Refusing to rest until everything is solved could leave you worn out. Give yourself permission to pause, even while challenges remain.",
+        "km": "ការបដិសេធមិនសម្រាក រហូតដល់អ្វីៗត្រូវបានដោះស្រាយ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមអនុញ្ញាតឱ្យខ្លួនឯងផ្អាក ទោះបីបញ្ហាប្រឈមនៅតែមានក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Resting along the way could help you finish strong rather than depleted. Your resilience may grow when it is backed by real recovery.",
+        "km": "ការសម្រាកតាមផ្លូវ អាចជួយអ្នកបញ្ចប់ដោយកម្លាំង ជាជាងអស់កម្លាំង។ ភាពធន់របស់អ្នកអាចកើនឡើង នៅពេលវាត្រូវបានគាំទ្រដោយការងើបឡើងវិញពិតប្រាកដ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Carrying too many responsibilities may be the clearest drain on your energy. Taking on more than your share could be weighing you down.",
+        "km": "ការទទួលខុសត្រូវច្រើនពេក ប្រហែលជាការបង្ហូរថាមពលដែលច្បាស់បំផុតរបស់អ្នក។ ការទទួលយកច្រើនជាងចំណែករបស់អ្នក អាចកំពុងសង្កត់អ្នក។"
+      },
+      "challenge": {
+        "en": "Refusing to put anything down could lead to burnout. List what you carry and hand over, pause or drop at least one thing.",
+        "km": "ការបដិសេធមិនដាក់អ្វីចុះ អាចនាំឱ្យអស់កម្លាំងខ្លាំង។ សូមរាយបញ្ជីអ្វីដែលអ្នកកំពុងកាន់ ហើយប្រគល់ ផ្អាក ឬទម្លាក់យ៉ាងហោចណាស់រឿងមួយ។"
+      },
+      "outcome": {
+        "en": "Lightening your load could bring a welcome sense of relief. Energy may return as you stop carrying what is not yours.",
+        "km": "ការសម្រាលបន្ទុករបស់អ្នក អាចនាំមកនូវអារម្មណ៍ធូរស្រាលដែលគួរឱ្យស្វាគមន៍។ ថាមពលអាចត្រឡប់មកវិញ នៅពេលអ្នកឈប់កាន់អ្វីដែលមិនមែនជារបស់អ្នក។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Chasing many new interests may be spreading your energy thin. Curiosity without focus could leave you busy but unfulfilled.",
+        "km": "ការដេញតាមចំណាប់អារម្មណ៍ថ្មីៗជាច្រើន ប្រហែលជាកំពុងបែងចែកថាមពលរបស់អ្នកស្តើងពេក។ ចិត្តចង់ដឹងដោយគ្មានការផ្តោត អាចធ្វើឱ្យអ្នករវល់ ប៉ុន្តែមិនពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "Saying yes to every new idea could leave you scattered and tired. Commit to one interest deeply enough to truly enjoy it.",
+        "km": "ការយល់ព្រមលើគំនិតថ្មីៗគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នករាយប៉ាយ និងហត់នឿយ។ សូមប្តេជ្ញាចិត្តលើចំណាប់អារម្មណ៍មួយ ឱ្យបានជ្រៅល្មមដើម្បីរីករាយនឹងវាពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Focusing your curiosity could turn scattered energy into real enjoyment. A single absorbing hobby may refresh rather than drain you.",
+        "km": "ការផ្តោតចិត្តចង់ដឹងរបស់អ្នក អាចប្រែថាមពលដែលរាយប៉ាយទៅជាសេចក្តីរីករាយពិតប្រាកដ។ ចំណូលចិត្តមួយដែលទាក់ទាញចិត្ត អាចធ្វើឱ្យអ្នកស្រស់ស្រាយ ជាជាងអស់កម្លាំង។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Restless urgency may be burning through your energy faster than you can replace it. Being constantly on the move, with no real pause, could be tiring your body.",
+        "km": "ភាពបន្ទាន់ដែលមិនស្ងប់ ប្រហែលជាកំពុងដុតថាមពលរបស់អ្នក លឿនជាងអ្វីដែលអ្នកអាចបំពេញវិញ។ ការផ្លាស់ទីជានិច្ច ដោយគ្មានការផ្អាកពិតប្រាកដ អាចកំពុងធ្វើឱ្យរាងកាយរបស់អ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Rushing headlong into everything could leave you frazzled and spent. Slow down enough to notice when your body asks for rest.",
+        "km": "ការប្រញាប់ចូលទៅក្នុងអ្វីៗគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នកហត់នឿយ និងអស់កម្លាំង។ សូមបន្ថយល្បឿនល្មមដើម្បីកត់សម្គាល់ នៅពេលរាងកាយរបស់អ្នកស្នើសុំការសម្រាក។"
+      },
+      "outcome": {
+        "en": "Pacing yourself could keep your energy strong and steady. Bold action may feel exciting rather than draining when balanced with rest.",
+        "km": "ការគ្រប់គ្រងល្បឿនខ្លួនឯង អាចរក្សាថាមពលរបស់អ្នកឱ្យខ្លាំង និងនឹងនរ។ សកម្មភាពក្លាហាន អាចមានអារម្មណ៍រំភើប ជាជាងអស់កម្លាំង នៅពេលថ្លឹងជាមួយការសម្រាក។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Being everyone's source of warmth and confidence may be using up your energy. Shining for others without a break could leave little for yourself.",
+        "km": "ការធ្វើជាប្រភពនៃភាពកក់ក្តៅ និងទំនុកចិត្តរបស់គ្រប់គ្នា ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នក។ ការភ្លឺចែងចាំងសម្រាប់អ្នកដទៃដោយគ្មានការសម្រាក អាចទុកតិចតួចសម្រាប់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Keeping up a confident front could hide how tired you really are. Let trusted people see when you are tired and need support yourself.",
+        "km": "ការរក្សាមុខមាត់ដែលមានទំនុកចិត្ត អាចលាក់បាំងថាអ្នកពិតជាហត់នឿយប៉ុណ្ណា។ សូមឱ្យមនុស្សដែលអ្នកទុកចិត្តមើលឃើញ នៅពេលអ្នកហត់នឿយ និងត្រូវការការគាំទ្រផងដែរ។"
+      },
+      "outcome": {
+        "en": "Sharing your warmth wisely could keep your light from burning out. You may feel more vibrant when you also receive care.",
+        "km": "ការចែករំលែកភាពកក់ក្តៅរបស់អ្នកដោយឈ្លាសវៃ អាចការពារពន្លឺរបស់អ្នកមិនឱ្យរលត់។ អ្នកអាចមានអារម្មណ៍រស់រវើកជាងមុន នៅពេលអ្នកក៏ទទួលការថែរក្សាផងដែរ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Leading, deciding and taking charge may be consuming much of your energy. Being responsible for the big picture could be wearing you down.",
+        "km": "ការដឹកនាំ ការសម្រេចចិត្ត និងការទទួលខុសត្រូវ ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នកយ៉ាងច្រើន។ ការទទួលខុសត្រូវលើរូបភាពធំ អាចកំពុងធ្វើឱ្យអ្នកចុះខ្សោយ។"
+      },
+      "challenge": {
+        "en": "Trying to oversee everything could leave no energy for yourself. Delegate some decisions, and trust others to step up and handle them.",
+        "km": "ការព្យាយាមត្រួតពិនិត្យអ្វីៗទាំងអស់ អាចមិនទុកថាមពលសម្រាប់ខ្លួនឯង។ សូមប្រគល់ការសម្រេចចិត្តខ្លះ ហើយទុកចិត្តឱ្យអ្នកដទៃក្រោកឈរដោះស្រាយវា។"
+      },
+      "outcome": {
+        "en": "Sharing leadership could restore your energy and inspiration. You may lead better from a rested, centred place.",
+        "km": "ការចែករំលែកភាពដឹកនាំ អាចស្តារថាមពល និងការបំផុសគំនិតរបស់អ្នកឡើងវិញ។ អ្នកអាចដឹកនាំបានល្អជាងមុន ពីកន្លែងដែលបានសម្រាក និងនឹងនរ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Holding back feelings may be using more energy than letting them flow would. Sadness, love or hurt kept tightly inside could be quietly tiring you.",
+        "km": "ការទប់អារម្មណ៍ ប្រហែលជាកំពុងប្រើថាមពលច្រើនជាងការឱ្យវាហូរចេញ។ ទុក្ខព្រួយ ក្តីស្រឡាញ់ ឬការឈឺចាប់ដែលរក្សាទុកយ៉ាងតឹងក្នុងចិត្ត អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Closing your heart to avoid hurt could leave you emotionally flat and drained. Allow yourself to feel, and share with someone you trust.",
+        "km": "ការបិទចិត្តដើម្បីជៀសវាងការឈឺចាប់ អាចធ្វើឱ្យអ្នកស្ងាត់ស្ងៀមផ្លូវចិត្ត និងអស់កម្លាំង។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ ហើយចែករំលែកជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Opening your heart could release stuck energy and bring renewed warmth. You may feel lighter and more alive as feelings flow.",
+        "km": "ការបើកចិត្តរបស់អ្នក អាចបញ្ចេញថាមពលដែលកកស្ទះ និងនាំមកនូវភាពកក់ក្តៅថ្មី។ អ្នកអាចមានអារម្មណ៍ស្រាល និងរស់រវើកជាងមុន នៅពេលអារម្មណ៍ហូរចេញ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A relationship that feels out of balance may be draining you. Giving more than you receive in a close bond could be tiring.",
+        "km": "ទំនាក់ទំនងដែលមានអារម្មណ៍មិនមានតុល្យភាព ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ ការផ្តល់ច្រើនជាងអ្វីដែលអ្នកទទួលក្នុងចំណងជិតស្និទ្ធ អាចធ្វើឱ្យហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Unresolved tension with someone close could use up emotional energy. Talk openly and kindly about what each of you needs from the other.",
+        "km": "ភាពតានតឹងដែលមិនទាន់ដោះស្រាយជាមួយមនុស្សជិតស្និទ្ធ អាចប្រើថាមពលផ្លូវចិត្ត។ សូមនិយាយដោយបើកចំហ និងសប្បុរស អំពីអ្វីដែលអ្នកទាំងពីរត្រូវការពីគ្នាទៅវិញទៅមក។"
+      },
+      "outcome": {
+        "en": "A more balanced partnership could restore your energy and joy. Support that flows both ways may feel nourishing rather than draining.",
+        "km": "ភាពជាដៃគូដែលមានតុល្យភាពជាងមុន អាចស្តារថាមពល និងសេចក្តីរីករាយរបស់អ្នកឡើងវិញ។ ការគាំទ្រដែលហូរទាំងសងខាង អាចមានអារម្មណ៍ចិញ្ចឹមចិត្ត ជាជាងបង្ហូរថាមពល។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A busy social life may be using up more energy than it restores. Too many parties, meals out and visits could be leaving you more tired than happy.",
+        "km": "ជីវិតសង្គមដ៏មមាញឹក ប្រហែលជាកំពុងប្រើថាមពលច្រើនជាងអ្វីដែលវាស្តារ។ ពិធីជប់លៀង ការញ៉ាំអាហារខាងក្រៅ និងការទៅលេងច្រើនពេក អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយច្រើនជាងសប្បាយ។"
+      },
+      "challenge": {
+        "en": "Overindulging in socialising, food or drink could leave you depleted. Enjoy good company in moderation, and protect your sleep and quiet moments at home.",
+        "km": "ការរីករាយហួសហេតុជាមួយការជួបជុំ អាហារ ឬភេសជ្ជៈ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមរីករាយជាមួយមិត្តល្អក្នុងកម្រិតល្មម ហើយការពារការគេង និងភាពស្ងប់ស្ងាត់នៅផ្ទះ។"
+      },
+      "outcome": {
+        "en": "Choosing your social plans carefully could keep friendship energising. A few close friends may lift you more than a crowded social calendar.",
+        "km": "ការជ្រើសរើសផែនការសង្គមដោយប្រុងប្រយ័ត្ន អាចរក្សាមិត្តភាពឱ្យផ្តល់ថាមពល។ មិត្តជិតស្និទ្ធពីរបីនាក់ អាចលើកទឹកចិត្តអ្នកបានច្រើនជាងកាលវិភាគដែលពេញ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Apathy and boredom may be draining your energy as much as hard work would. Doing things that no longer interest you could be leaving you flat.",
+        "km": "ភាពព្រងើយកន្តើយ និងភាពធុញទ្រាន់ ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក ច្រើនដូចការងារលំបាកដែរ។ ការធ្វើរឿងដែលលែងធ្វើឱ្យអ្នកចាប់អារម្មណ៍ អាចកំពុងធ្វើឱ្យអ្នកស្ងាត់ស្ងៀម។"
+      },
+      "challenge": {
+        "en": "Withdrawing from everything could deepen low energy and mood. Notice small invitations to engage, and talk to someone if the heaviness will not lift.",
+        "km": "ការដកខ្លួនពីអ្វីៗទាំងអស់ អាចធ្វើឱ្យថាមពល និងអារម្មណ៍ទាបកាន់តែធ្ងន់។ សូមកត់សម្គាល់ការអញ្ជើញតូចៗឱ្យចូលរួម ហើយនិយាយជាមួយនរណាម្នាក់ ប្រសិនបើភាពធ្ងន់មិនព្រមរសាយ។"
+      },
+      "outcome": {
+        "en": "Rediscovering what interests you could rekindle your energy and motivation. Something new may spark a sense of aliveness you had been missing.",
+        "km": "ការរកឃើញឡើងវិញនូវអ្វីដែលធ្វើឱ្យអ្នកចាប់អារម្មណ៍ អាចដុតថាមពល និងការលើកទឹកចិត្តរបស់អ្នកឡើងវិញ។ អ្វីមួយថ្មី អាចបំភ្លឺអារម្មណ៍នៃការរស់រវើកដែលអ្នកបាននឹកស្តាយ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Grief or disappointment may be quietly using up your energy. Sadness you have not fully expressed could be weighing on you.",
+        "km": "ទុក្ខសោក ឬការខកចិត្ត ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នកដោយស្ងាត់ៗ។ ទុក្ខព្រួយដែលអ្នកមិនទាន់បានបង្ហាញចេញពេញលេញ អាចកំពុងសង្កត់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "Focusing only on what was lost could leave you exhausted and low. Allow yourself to grieve, and reach out to a counsellor if the sadness feels too heavy.",
+        "km": "ការផ្តោតតែលើអ្វីដែលបានបាត់បង់ អាចធ្វើឱ្យអ្នកហត់នឿយ និងអារម្មណ៍ធ្លាក់ចុះ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងកាន់ទុក្ខ ហើយទាក់ទងអ្នកប្រឹក្សា ប្រសិនបើទុក្ខព្រួយធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Allowing grief to move through you could restore your energy, step by gentle step. You may notice what still remains to support and comfort you.",
+        "km": "ការអនុញ្ញាតឱ្យទុក្ខសោកឆ្លងកាត់អ្នក អាចស្តារថាមពលរបស់អ្នកឡើងវិញ មួយជំហានទន់ភ្លន់ម្តងៗ។ អ្នកអាចកត់សម្គាល់អ្វីដែលនៅសល់ ដើម្បីគាំទ្រ និងលួងលោមអ្នក។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Dwelling on the past or longing for simpler moments may be draining your energy. Nostalgia could be pulling you away from what you have.",
+        "km": "ការគិតច្រើនពីអតីតកាល ឬការនឹករលឹកគ្រាដែលសាមញ្ញជាងនេះ ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ ការនឹកដល់អតីតកាល អាចកំពុងទាញអ្នកចេញពីអ្វីដែលអ្នកមាន។"
+      },
+      "challenge": {
+        "en": "Living in memories could leave you less engaged with your life as it is. Enjoy fond recollections, then return your energy to what is in front of you.",
+        "km": "ការរស់នៅក្នុងការចងចាំ អាចធ្វើឱ្យអ្នកមិនសូវចូលរួមជាមួយជីវិតដូចដែលវាជា។ សូមរីករាយនឹងការចងចាំដ៏ផ្អែមល្ហែម បន្ទាប់មកបង្វែរថាមពលរបស់អ្នកមកលើអ្វីដែលនៅចំពោះមុខអ្នក។"
+      },
+      "outcome": {
+        "en": "Bringing old joys into your routine could restore warmth and energy. Playful moments with people you love may refresh you more than looking back.",
+        "km": "ការនាំសេចក្តីរីករាយចាស់ៗចូលក្នុងទម្លាប់របស់អ្នក អាចស្តារភាពកក់ក្តៅ និងថាមពលឡើងវិញ។ គ្រាលេងសើចជាមួយមនុស្សដែលអ្នកស្រឡាញ់ អាចធ្វើឱ្យអ្នកស្រស់ស្រាយ ច្រើនជាងការក្រឡេកមើលក្រោយ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Too many options, daydreams or distractions may be scattering your energy. Imagining endless possibilities could be tiring your mind without moving you forward.",
+        "km": "ជម្រើស ការស្រមៃ ឬការរំខានច្រើនពេក ប្រហែលជាកំពុងធ្វើឱ្យថាមពលរបស់អ្នករាយប៉ាយ។ ការស្រមៃពីលទ្ធភាពមិនចេះចប់ អាចកំពុងធ្វើឱ្យគំនិតរបស់អ្នកហត់នឿយ ដោយមិននាំអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Endless scrolling and what-ifs could leave you tired without having truly rested. Swap one round of scrolling for something that actually restores you.",
+        "km": "ការអូសមើលទូរស័ព្ទមិនចេះចប់ និងគំនិត «ចុះបើ» អាចធ្វើឱ្យអ្នកហត់នឿយ ដោយមិនបានសម្រាកពិតប្រាកដ។ សូមប្តូរការអូសមើលទូរស័ព្ទមួយដង ទៅជាអ្វីមួយដែលពិតជាស្តារកម្លាំងអ្នក។"
+      },
+      "outcome": {
+        "en": "Narrowing your focus could bring clarity and a surprising boost of energy. Real progress on one thing may satisfy more than many dreams.",
+        "km": "ការបង្រួមការផ្តោតអារម្មណ៍របស់អ្នក អាចនាំមកនូវភាពច្បាស់លាស់ និងការកើនឡើងថាមពលគួរឱ្យភ្ញាក់ផ្អើល។ វឌ្ឍនភាពពិតលើរឿងមួយ អាចធ្វើឱ្យពេញចិត្តច្រើនជាងក្តីសុបិនជាច្រើន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Staying in something that no longer fulfils you may be steadily draining you. A job, habit or relationship you have outgrown could be the cause.",
+        "km": "ការនៅក្នុងអ្វីមួយដែលលែងបំពេញចិត្តអ្នក ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នកជាបន្តបន្ទាប់។ ការងារ ទម្លាប់ ឬទំនាក់ទំនងដែលអ្នកបានរីកចម្រើនហួស អាចជាមូលហេតុ។"
+      },
+      "challenge": {
+        "en": "Ignoring the urge to move on could leave you feeling empty and tired. Be honest about what you need, even if it means walking away.",
+        "km": "ការមិនអើពើនឹងបំណងចង់បន្តទៅមុខ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ទទេ និងហត់នឿយ។ សូមស្មោះត្រង់អំពីអ្វីដែលអ្នកត្រូវការ ទោះបីវាមានន័យថាត្រូវដើរចេញក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Leaving behind what drains you could open space for renewed purpose and energy. A more meaningful path, even a small change of direction, may restore your spirit.",
+        "km": "ការបោះបង់អ្វីដែលបង្ហូរថាមពលរបស់អ្នក អាចបើកលំហសម្រាប់គោលបំណង និងថាមពលថ្មី។ ផ្លូវដែលមានអត្ថន័យជាងមុន ទោះបីគ្រាន់តែជាការប្តូរទិសតូចមួយក៏ដោយ អាចស្តារស្មារតីរបស់អ្នកឡើងវិញ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Chasing pleasure or comfort may be leaving you less satisfied than you expected. Treats and indulgence could be masking a deeper tiredness that needs real rest.",
+        "km": "ការដេញតាមសេចក្តីរីករាយ ឬភាពសុខស្រួល ប្រហែលជាកំពុងធ្វើឱ្យអ្នកពេញចិត្តតិចជាងអ្វីដែលអ្នករំពឹង។ របស់ផ្អែម និងការបណ្តោយចិត្ត អាចកំពុងលាក់បាំងភាពហត់នឿយកាន់តែជ្រៅ ដែលត្រូវការការសម្រាកពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Relying on treats to lift your mood could leave you even more drained. Look for comforts that truly restore you, like sleep, nature or connection.",
+        "km": "ការពឹងផ្អែកលើរបស់ផ្អែម ឬការកម្សាន្តដើម្បីលើកអារម្មណ៍ អាចធ្វើឱ្យអ្នកអស់កម្លាំងកាន់តែខ្លាំង។ សូមរកភាពសុខស្រួលដែលពិតជាស្តារកម្លាំងអ្នក ដូចជាការគេង ធម្មជាតិ ឬទំនាក់ទំនង។"
+      },
+      "outcome": {
+        "en": "Choosing deeper satisfactions could bring steady energy and contentment. You may feel genuinely nourished rather than pleased on the surface.",
+        "km": "ការជ្រើសរើសសេចក្តីពេញចិត្តដែលជ្រៅជាងមុន អាចនាំមកនូវថាមពល និងសេចក្តីពេញចិត្តដ៏រឹងមាំ។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានចិញ្ចឹមចិត្តពិតប្រាកដ ជាជាងរីករាយតែបន្តិចបន្តួច។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Keeping everyone at home happy may be taking much of your energy. Holding family harmony together on your own could be quietly exhausting.",
+        "km": "ការធ្វើឱ្យគ្រប់គ្នានៅផ្ទះសប្បាយចិត្ត ប្រហែលជាកំពុងយកថាមពលរបស់អ្នកយ៉ាងច្រើន។ ការរក្សាភាពសុខដុមក្នុងគ្រួសារតែម្នាក់ឯង អាចធ្វើឱ្យហត់នឿយដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Trying to make home life perfect could leave you worn out. Let small imperfections be, and share the work of keeping the peace.",
+        "km": "ការព្យាយាមធ្វើឱ្យជីវិតនៅផ្ទះល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមឱ្យភាពមិនល្អឥតខ្ចោះតូចៗនៅដដែល ហើយចែករំលែកការងារនៃការរក្សាសន្តិភាព។"
+      },
+      "outcome": {
+        "en": "Shared effort at home could restore your energy and joy. Family life may feel like a source of strength rather than a drain.",
+        "km": "កិច្ចខិតខំរួមគ្នានៅផ្ទះ អាចស្តារថាមពល និងសេចក្តីរីករាយរបស់អ្នកឡើងវិញ។ ជីវិតគ្រួសារអាចមានអារម្មណ៍ជាប្រភពនៃកម្លាំង ជាជាងការបង្ហូរថាមពល។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Being highly sensitive to moods around you may be tiring you out. Small hurts or worries could be staying with you more than they should.",
+        "km": "ការរសើបខ្លាំងចំពោះអារម្មណ៍នៅជុំវិញអ្នក ប្រហែលជាកំពុងធ្វើឱ្យអ្នកហត់នឿយ។ ការឈឺចិត្ត ឬការព្រួយបារម្ភតូចៗ អាចកំពុងនៅជាប់ក្នុងចិត្តច្រើនជាងគួរ។"
+      },
+      "challenge": {
+        "en": "Taking every comment to heart could drain your emotional reserves. Notice which feelings belong to you and which you are picking up from others.",
+        "km": "ការយកមតិនីមួយៗមកដាក់ក្នុងចិត្ត អាចបង្ហូរកម្លាំងបម្រុងផ្លូវចិត្តរបស់អ្នក។ សូមកត់សម្គាល់ថាអារម្មណ៍ណាជារបស់អ្នក និងណាដែលអ្នកកំពុងទទួលពីអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Gentle self-protection could help you keep your openness without being drained. Creative outlets may turn sensitivity into a source of energy.",
+        "km": "ការការពារខ្លួនដោយទន់ភ្លន់ អាចជួយអ្នករក្សាភាពបើកចំហ ដោយមិនអស់កម្លាំង។ ច្រកច្នៃប្រឌិត អាចប្រែភាពរសើបទៅជាប្រភពនៃថាមពល។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Chasing ideal feelings or romantic hopes may be using up your energy. Waiting for life to feel perfect could leave you weary.",
+        "km": "ការដេញតាមអារម្មណ៍ល្អឥតខ្ចោះ ឬក្តីសង្ឃឹមរ៉ូមែនទិក ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នក។ ការរង់ចាំឱ្យជីវិតមានអារម្មណ៍ល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Following moods rather than plans could leave your energy erratic. Ground your dreams in a few practical, steady habits.",
+        "km": "ការធ្វើតាមអារម្មណ៍ ជាជាងផែនការ អាចធ្វើឱ្យថាមពលរបស់អ្នកមិនទៀង។ សូមធ្វើឱ្យក្តីសុបិនរបស់អ្នកមានមូលដ្ឋាន ក្នុងទម្លាប់ជាក់ស្តែង និងនឹងនរមួយចំនួន។"
+      },
+      "outcome": {
+        "en": "Combining heart with routine could keep your energy steady and inspired. Beauty and meaning may feed rather than drain you.",
+        "km": "ការរួមបញ្ចូលចិត្តជាមួយទម្លាប់ អាចរក្សាថាមពលរបស់អ្នកឱ្យនឹងនរ និងមានការបំផុសគំនិត។ ភាពស្រស់ស្អាត និងអត្ថន័យ អាចចិញ្ចឹមអ្នក ជាជាងបង្ហូរថាមពលរបស់អ្នក។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Absorbing other people's emotions may be quietly draining you. Your deep empathy could be leaving you tired after helping others.",
+        "km": "ការស្រូបយកអារម្មណ៍របស់អ្នកដទៃ ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នកដោយស្ងាត់ៗ។ ការយល់ចិត្តដ៏ជ្រៅរបស់អ្នក អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ ក្រោយពីជួយអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Listening to everyone's troubles without a break could leave your own tank empty. Notice which conversations leave you heavy, and give yourself space after them.",
+        "km": "ការស្តាប់បញ្ហារបស់គ្រប់គ្នាដោយគ្មានការសម្រាក អាចធ្វើឱ្យធុងថាមពលរបស់អ្នកទទេ។ សូមកត់សម្គាល់ថាការសន្ទនាណាដែលធ្វើឱ្យអ្នកធ្ងន់ ហើយផ្តល់លំហដល់ខ្លួនឯងក្រោយការសន្ទនានោះ។"
+      },
+      "outcome": {
+        "en": "Caring with healthy limits could protect your energy and compassion. You may support others fully and still have energy left for yourself.",
+        "km": "ការថែរក្សាដោយមានដែនកំណត់ដែលមានសុខភាពល្អ អាចការពារថាមពល និងមេត្តាធម៌របស់អ្នក។ អ្នកអាចគាំទ្រអ្នកដទៃបានពេញលេញ ហើយនៅតែមានថាមពលសល់សម្រាប់ខ្លួនឯង។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Staying calm for everyone else may be costing you more energy than it shows. Keeping your own emotions tightly in check could be far more tiring than it looks.",
+        "km": "ការរក្សាភាពស្ងប់សម្រាប់អ្នកដទៃ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកខាតថាមពលច្រើនជាងអ្វីដែលបង្ហាញ។ ការគ្រប់គ្រងអារម្មណ៍របស់ខ្លួនឯងយ៉ាងតឹង អាចធ្វើឱ្យហត់នឿយច្រើនជាងអ្វីដែលវាមើលទៅ។"
+      },
+      "challenge": {
+        "en": "Bottling up your own feelings could build hidden fatigue. Give yourself a safe place to express what you feel.",
+        "km": "ការទប់អារម្មណ៍របស់ខ្លួនឯង អាចបង្កើតភាពហត់នឿយលាក់កំបាំង។ សូមផ្តល់កន្លែងដែលមានសុវត្ថិភាពដល់ខ្លួនឯង ដើម្បីបង្ហាញអ្វីដែលអ្នកមានអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "Honest emotional expression could restore your energy and calm. You may feel steadier when you are not holding everything in.",
+        "km": "ការបង្ហាញអារម្មណ៍ដោយស្មោះត្រង់ អាចស្តារថាមពល និងភាពស្ងប់របស់អ្នកឡើងវិញ។ អ្នកអាចមានអារម្មណ៍នឹងនរជាងមុន នៅពេលអ្នកមិនទប់អ្វីៗទាំងអស់ទុកក្នុងចិត្ត។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Overthinking and constant analysis may be draining your mental energy. Your mind could be working harder than it needs to.",
+        "km": "ការគិតច្រើនពេក និងការវិភាគជានិច្ច ប្រហែលជាកំពុងបង្ហូរថាមពលផ្លូវចិត្តរបស់អ្នក។ គំនិតរបស់អ្នក អាចកំពុងធ្វើការខ្លាំងជាងអ្វីដែលវាត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Cutting yourself off from feelings with logic could leave you tense and tired. Give your mind a rest with activities that need no thinking, like walking or music.",
+        "km": "ការកាត់ផ្តាច់ខ្លួនពីអារម្មណ៍ដោយតក្កវិជ្ជា អាចធ្វើឱ្យអ្នកតានតឹង និងហត់នឿយ។ សូមឱ្យគំនិតរបស់អ្នកសម្រាក ជាមួយសកម្មភាពដែលមិនត្រូវការការគិត ដូចជាការដើរ ឬតន្ត្រី។"
+      },
+      "outcome": {
+        "en": "A clear decision could cut through mental clutter and free up energy. Your mind may feel sharper and lighter once the noise settles.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់ អាចកាត់ផ្តាច់ភាពរញ៉េរញ៉ៃក្នុងគំនិត និងដោះលែងថាមពល។ គំនិតរបស់អ្នកអាចមានអារម្មណ៍មុតស្រួច និងស្រាលជាងមុន នៅពេលសំឡេងរំខានស្ងប់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "An unresolved decision may be quietly using up your energy. Staying on the fence could be more tiring than choosing.",
+        "km": "ការសម្រេចចិត្តដែលមិនទាន់ដោះស្រាយ ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នកដោយស្ងាត់ៗ។ ការឈរនៅកណ្តាលផ្លូវ អាចធ្វើឱ្យហត់នឿយច្រើនជាងការជ្រើសរើស។"
+      },
+      "challenge": {
+        "en": "Avoiding a hard choice could keep you mentally stuck and drained. Gather what you need and make the decision you have been avoiding.",
+        "km": "ការគេចពីជម្រើសលំបាក អាចធ្វើឱ្យអ្នកជាប់គាំងផ្លូវចិត្ត និងអស់កម្លាំង។ សូមប្រមូលអ្វីដែលអ្នកត្រូវការ ហើយធ្វើការសម្រេចចិត្តដែលអ្នកបានគេចវេស។"
+      },
+      "outcome": {
+        "en": "Making a decision could release trapped energy and bring relief. You may feel lighter and more focused once the choice is made.",
+        "km": "ការធ្វើការសម្រេចចិត្ត អាចបញ្ចេញថាមពលដែលជាប់គាំង និងនាំមកនូវការធូរស្រាល។ អ្នកអាចមានអារម្មណ៍ស្រាល និងផ្តោតអារម្មណ៍ជាងមុន នៅពេលជម្រើសត្រូវបានធ្វើ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Emotional pain or a hurtful situation may be weighing heavily on your energy. Heartache could be using up more strength than you realise.",
+        "km": "ការឈឺចាប់ផ្លូវចិត្ត ឬស្ថានការណ៍ដែលធ្វើឱ្យឈឺចាប់ ប្រហែលជាកំពុងសង្កត់យ៉ាងធ្ងន់លើថាមពលរបស់អ្នក។ ការខូចចិត្ត អាចកំពុងប្រើកម្លាំងច្រើនជាងអ្វីដែលអ្នកដឹង។"
+      },
+      "challenge": {
+        "en": "Carrying hurt without expressing it could keep draining you. Find a safe way to share your pain, and reach out to a counsellor if it feels too heavy.",
+        "km": "ការទទួលបន្ទុកការឈឺចាប់ដោយមិនបង្ហាញចេញ អាចបន្តបង្ហូរថាមពលរបស់អ្នក។ សូមរកវិធីដែលមានសុវត្ថិភាពដើម្បីចែករំលែកការឈឺចាប់ ហើយទាក់ទងអ្នកប្រឹក្សា ប្រសិនបើវាធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Allowing healing could return your strength and lightness, layer by layer. Your heart may feel steadier as the hurt is acknowledged.",
+        "km": "ការអនុញ្ញាតឱ្យមានការជាសះស្បើយ អាចផ្តល់កម្លាំង និងភាពស្រាលរបស់អ្នកត្រឡប់មកវិញបន្តិចម្តងៗ។ ចិត្តរបស់អ្នកអាចមានអារម្មណ៍នឹងនរជាងមុន នៅពេលការឈឺចាប់ត្រូវបានទទួលស្គាល់។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "A lack of real rest may be the main reason your energy is low. Your body and mind could be asking for a proper pause.",
+        "km": "ការខ្វះការសម្រាកពិតប្រាកដ ប្រហែលជាមូលហេតុចម្បងដែលថាមពលរបស់អ្នកទាប។ រាងកាយ និងគំនិតរបស់អ្នក អាចកំពុងស្នើសុំការផ្អាកឱ្យបានត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Pushing on without sleep or breaks could leave you running on empty. Treat rest as essential, not as a reward you must earn.",
+        "km": "ការបន្តរុញទៅមុខដោយគ្មានការគេង ឬការសម្រាក អាចធ្វើឱ្យអ្នកដំណើរការដោយគ្មានកម្លាំងនៅសល់។ សូមចាត់ទុកការសម្រាកជារឿងចាំបាច់ មិនមែនជារង្វាន់ដែលអ្នកត្រូវខិតខំរកនោះទេ។"
+      },
+      "outcome": {
+        "en": "Deep, regular rest could restore your energy more than any other change. You may wake feeling clearer, steadier and more able to handle whatever comes.",
+        "km": "ការសម្រាកជ្រៅ និងទៀងទាត់ អាចស្តារថាមពលរបស់អ្នកឡើងវិញ ច្រើនជាងការផ្លាស់ប្តូរផ្សេងទៀត។ អ្នកអាចភ្ញាក់ពីដំណេកដោយមានអារម្មណ៍ច្បាស់ នឹងនរ និងអាចដោះស្រាយអ្វីដែលកើតឡើងបានល្អជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Conflict or a battle of wills may be using up your energy. Needing to win or be right could be leaving you tense and drained.",
+        "km": "ជម្លោះ ឬការប្រជែងឆន្ទៈ ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នក។ ការត្រូវការឈ្នះ ឬត្រូវ អាចកំពុងធ្វើឱ្យអ្នកតានតឹង និងអស់កម្លាំង។"
+      },
+      "challenge": {
+        "en": "Replaying an argument in your head could keep burning energy even though it is over. Decide whether to settle it or drop it, rather than carrying it around.",
+        "km": "ការរំលឹកការឈ្លោះប្រកែកឡើងវិញក្នុងក្បាល អាចបន្តដុតថាមពល ទោះបីវាបានបញ្ចប់ហើយក៏ដោយ។ សូមសម្រេចថាត្រូវដោះស្រាយវា ឬទម្លាក់វា ជាជាងកាន់វាទៅគ្រប់ទីកន្លែង។"
+      },
+      "outcome": {
+        "en": "Letting go of a battle could free up a surprising amount of energy. Peace with the people around you may feel far more valuable than winning.",
+        "km": "ការលែងប្រកាន់ការតស៊ូមួយ អាចដោះលែងថាមពលច្រើនគួរឱ្យភ្ញាក់ផ្អើល។ សន្តិភាពជាមួយមនុស្សនៅជុំវិញអ្នក អាចមានតម្លៃច្រើនជាងការឈ្នះ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Carrying old stress into each new situation may be wearing you down. You could be moving forward while still weighed down by the past.",
+        "km": "ការនាំភាពតានតឹងចាស់ៗចូលក្នុងស្ថានការណ៍ថ្មីនីមួយៗ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកចុះខ្សោយ។ អ្នកអាចកំពុងទៅមុខ ខណៈនៅតែត្រូវបានសង្កត់ដោយអតីតកាល។"
+      },
+      "challenge": {
+        "en": "Bringing old worries along could slow your recovery. Name one old worry you can set down, and notice how much lighter you feel.",
+        "km": "ការនាំយកការព្រួយបារម្ភចាស់ៗទៅជាមួយ អាចបន្ថយការងើបឡើងវិញរបស់អ្នក។ សូមដាក់ឈ្មោះការព្រួយបារម្ភចាស់មួយដែលអ្នកអាចដាក់ចុះ ហើយកត់សម្គាល់ថាអ្នកមានអារម្មណ៍ស្រាលជាងមុនប៉ុណ្ណា។"
+      },
+      "outcome": {
+        "en": "Moving on from a difficult phase could bring steady relief and renewed energy. Calmer waters may give your body and mind the chance to rest and recover.",
+        "km": "ការបន្តទៅមុខពីដំណាក់កាលលំបាក អាចនាំមកនូវការធូរស្រាល និងថាមពលថ្មី។ ទឹកដែលស្ងប់ជាងមុន អាចផ្តល់ឱកាសដល់រាងកាយ និងគំនិតរបស់អ្នកឱ្យសម្រាក និងងើបឡើងវិញ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Avoiding a problem or keeping a secret may be quietly draining you. The effort of sidestepping something could be costing more than facing it.",
+        "km": "ការគេចពីបញ្ហា ឬការលាក់អាថ៌កំបាំង ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នកដោយស្ងាត់ៗ។ កិច្ចខិតខំក្នុងការគេចពីអ្វីមួយ អាចកំពុងធ្វើឱ្យអ្នកខាតច្រើនជាងការប្រឈមមុខនឹងវា។"
+      },
+      "challenge": {
+        "en": "Hiding or dodging an issue could keep a low hum of stress running in the background. Face the thing you have been avoiding, with one honest step.",
+        "km": "ការលាក់ ឬការគេចពីបញ្ហា អាចធ្វើឱ្យភាពតានតឹងកម្រិតទាបដំណើរការនៅពីក្រោយ។ សូមប្រឈមមុខនឹងរឿងដែលអ្នកបានគេចវេស ដោយជំហានស្មោះត្រង់មួយ។"
+      },
+      "outcome": {
+        "en": "Bringing things into the open could release the energy you have been spending on avoidance. You may feel lighter and more at ease with yourself.",
+        "km": "ការនាំអ្វីៗមកដាក់ចំហ អាចបញ្ចេញថាមពលដែលអ្នកបានចំណាយលើការគេចវេស។ អ្នកអាចមានអារម្មណ៍ស្រាល និងស្រួលជាមួយខ្លួនឯងជាងមុន។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Feeling trapped by circumstances or your own thoughts may be draining your energy. Believing you have no options could be more exhausting than the situation itself.",
+        "km": "ការមានអារម្មណ៍ជាប់អន្ទាក់ដោយកាលៈទេសៈ ឬគំនិតរបស់ខ្លួនឯង ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ ការជឿថាអ្នកគ្មានជម្រើស អាចធ្វើឱ្យហត់នឿយច្រើនជាងស្ថានភាពខ្លួនវាទៅទៀត។"
+      },
+      "challenge": {
+        "en": "Limiting beliefs could keep you stuck in draining situations. Question one thought that tells you that you cannot change things, and seek support if you feel hopeless.",
+        "km": "ជំនឿដែលកំណត់ព្រំដែន អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងស្ថានភាពដែលធ្វើឱ្យអស់កម្លាំង។ សូមចោទសួរគំនិតមួយដែលប្រាប់អ្នកថាអ្នកមិនអាចផ្លាស់ប្តូរអ្វីៗ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍អស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Recognising your options could bring relief and renewed energy. You may find a way out that was within reach, just unnoticed.",
+        "km": "ការទទួលស្គាល់ជម្រើសរបស់អ្នក អាចនាំមកនូវការធូរស្រាល និងថាមពលថ្មី។ អ្នកអាចរកឃើញផ្លូវចេញដែលនៅក្បែរដៃ គ្រាន់តែមិនទាន់កត់សម្គាល់។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry and poor sleep may be the biggest drains on your energy. Anxious thoughts could be keeping you awake and unrested.",
+        "km": "ការព្រួយបារម្ភ និងការគេងមិនស្កប់ ប្រហែលជាការបង្ហូរថាមពលធំបំផុតរបស់អ្នក។ គំនិតថប់បារម្ភ អាចកំពុងធ្វើឱ្យអ្នកដេកមិនលក់ និងមិនបានសម្រាក។"
+      },
+      "challenge": {
+        "en": "Lying awake replaying worries could leave you exhausted. Try writing them down as you wind down, and seek professional help if anxiety or sleeplessness will not ease.",
+        "km": "ការដេកមិនលក់ ហើយរំលឹកការព្រួយបារម្ភឡើងវិញ អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមសាកល្បងសរសេរវាចុះ នៅពេលអ្នកកំពុងត្រៀមចូលគេង ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភ ឬការដេកមិនលក់មិនព្រមធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "Easing worry could bring better sleep and renewed energy. You may wake feeling lighter as fears lose their grip.",
+        "km": "ការបន្ធូរការព្រួយបារម្ភ អាចនាំមកនូវការគេងល្អជាងមុន និងថាមពលថ្មី។ អ្នកអាចភ្ញាក់ពីដំណេកដោយមានអារម្មណ៍ស្រាលជាងមុន នៅពេលការភ័យខ្លាចបាត់បង់ការក្តាប់របស់វា។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "You may be at the point of exhaustion, with little left to give. A painful situation could have drained you almost completely.",
+        "km": "អ្នកប្រហែលជាស្ថិតនៅចំណុចនៃការអស់កម្លាំង ដោយមានអ្វីតិចតួចនៅសល់ដើម្បីផ្តល់។ ស្ថានការណ៍ដ៏ឈឺចាប់មួយ អាចបានបង្ហូរថាមពលរបស់អ្នកស្ទើរតែទាំងស្រុង។"
+      },
+      "challenge": {
+        "en": "Running on empty without telling anyone could lead to a breakdown in health. Say how depleted you are, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ការបន្តដំណើរការដោយគ្មានកម្លាំងនៅសល់ ដោយមិនប្រាប់នរណាម្នាក់ អាចនាំឱ្យសុខភាពបាក់បែក។ សូមប្រាប់ថាអ្នកអស់កម្លាំងប៉ុណ្ណា ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Admitting that you are spent could open the door to the care you need. With rest and help from others, your energy may rebuild gently and steadily.",
+        "km": "ការទទួលស្គាល់ថាអ្នកអស់កម្លាំង អាចបើកទ្វារទៅរកការថែទាំដែលអ្នកត្រូវការ។ ដោយមានការសម្រាក និងជំនួយពីអ្នកដទៃ ថាមពលរបស់អ្នកអាចកសាងឡើងវិញដោយទន់ភ្លន់ និងនឹងនរ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Constant alertness and information overload may be draining your mental energy. Your mind could be busy scanning for problems even when you are trying to rest.",
+        "km": "ការប្រុងប្រយ័ត្នជានិច្ច និងការទទួលព័ត៌មានច្រើនពេក ប្រហែលជាកំពុងបង្ហូរថាមពលផ្លូវចិត្តរបស់អ្នក។ គំនិតរបស់អ្នក អាចកំពុងរវល់ស្វែងរកបញ្ហា ទោះបីអ្នកកំពុងព្យាយាមសម្រាកក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Checking news, messages and feeds without a break could leave you edgy and tired. Set clear limits on how much news and chatter you take in.",
+        "km": "ការពិនិត្យព័ត៌មាន សារ និងបណ្តាញសង្គមដោយគ្មានការសម្រាក អាចធ្វើឱ្យអ្នកតានតឹង និងហត់នឿយ។ សូមកំណត់ដែនកំណត់ច្បាស់លាស់លើបរិមាណព័ត៌មាន និងការជជែកដែលអ្នកទទួលយក។"
+      },
+      "outcome": {
+        "en": "Reducing mental input could restore focus and calm. You may feel sharper, calmer and far less frazzled by the noise around you.",
+        "km": "ការកាត់បន្ថយព័ត៌មានដែលចូលក្នុងគំនិត អាចស្តារការផ្តោតអារម្មណ៍ និងភាពស្ងប់ឡើងវិញ។ អ្នកអាចមានអារម្មណ៍មុតស្រួច ស្ងប់ និងមិនសូវច្របូកច្របល់ដោយសំឡេងរំខាននៅជុំវិញអ្នក។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Rushing and reacting to everything in a hurry may be burning through your energy. A hurried pace could be leaving no room to recover.",
+        "km": "ការប្រញាប់ និងការឆ្លើយតបរហ័សចំពោះអ្វីៗគ្រប់យ៉ាង ប្រហែលជាកំពុងដុតថាមពលរបស់អ្នក។ ល្បឿនប្រញាប់ប្រញាល់ អាចមិនទុកឱកាសសម្រាប់ការងើបឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Living in a constant rush could keep your body in a state of alarm. Build small pauses between tasks so your nervous system can settle.",
+        "km": "ការរស់នៅក្នុងភាពប្រញាប់ប្រញាល់ជានិច្ច អាចធ្វើឱ្យរាងកាយរបស់អ្នកស្ថិតក្នុងស្ថានភាពប្រុងប្រយ័ត្ន។ សូមបង្កើតការផ្អាកតូចៗរវាងកិច្ចការ ដើម្បីឱ្យប្រព័ន្ធប្រសាទរបស់អ្នកស្ងប់។"
+      },
+      "outcome": {
+        "en": "A steadier pace could conserve energy and improve your focus. You may achieve more with less strain and fewer mistakes to fix.",
+        "km": "ល្បឿនដែលនឹងនរជាងមុន អាចសន្សំថាមពល និងកែលម្អការផ្តោតអារម្មណ៍របស់អ្នក។ អ្នកអាចសម្រេចបានច្រើនជាងមុន ដោយកម្លាំងតិចជាងមុន និងកំហុសដែលត្រូវកែតិចជាងមុន។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Being overly critical of yourself or others may be draining your energy. High standards could be leaving you tense and tired.",
+        "km": "ការរិះគន់ខ្លួនឯង ឬអ្នកដទៃខ្លាំងពេក ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ ស្តង់ដារខ្ពស់ អាចកំពុងធ្វើឱ្យអ្នកតានតឹង និងហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Harsh judgement could keep you on edge. Soften your expectations, and allow yourself and others room for mistakes.",
+        "km": "ការវិនិច្ឆ័យយ៉ាងធ្ងន់ធ្ងរ អាចធ្វើឱ្យអ្នកតានតឹងជានិច្ច។ សូមបន្ទន់ការរំពឹងទុករបស់អ្នក ហើយទុកលំហឱ្យខ្លួនឯង និងអ្នកដទៃធ្វើខុសបាន។"
+      },
+      "outcome": {
+        "en": "Clear but kind standards could protect your energy and peace. You may feel lighter when you stop demanding perfection.",
+        "km": "ស្តង់ដារច្បាស់លាស់ ប៉ុន្តែសប្បុរស អាចការពារថាមពល និងសន្តិភាពរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលអ្នកឈប់ទាមទារភាពល្អឥតខ្ចោះ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Constant decision-making and responsibility may be wearing out your mind. Being the one who must always think clearly could be tiring.",
+        "km": "ការសម្រេចចិត្ត និងការទទួលខុសត្រូវជានិច្ច ប្រហែលជាកំពុងធ្វើឱ្យគំនិតរបស់អ្នកអស់កម្លាំង។ ការធ្វើជាមនុស្សដែលត្រូវតែគិតច្បាស់លាស់ជានិច្ច អាចធ្វើឱ្យហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Relying only on logic could leave emotional needs unmet. Make room for rest and feelings, not just decisions.",
+        "km": "ការពឹងផ្អែកតែលើតក្កវិជ្ជា អាចធ្វើឱ្យតម្រូវការផ្លូវចិត្តមិនត្រូវបានបំពេញ។ សូមទុកលំហសម្រាប់ការសម្រាក និងអារម្មណ៍ មិនត្រឹមតែការសម្រេចចិត្តទេ។"
+      },
+      "outcome": {
+        "en": "Sharing decisions could ease mental fatigue and restore your clarity. You may think more clearly when you are rested.",
+        "km": "ការចែករំលែកការសម្រេចចិត្ត អាចបន្ធូរភាពហត់នឿយផ្លូវចិត្ត និងស្តារភាពច្បាស់លាស់របស់អ្នកឡើងវិញ។ អ្នកអាចគិតបានច្បាស់ជាងមុន នៅពេលអ្នកបានសម្រាក។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Neglecting simple physical needs may be at the root of your low energy. Food, sleep and movement could be out of balance.",
+        "km": "ការមិនអើពើនឹងតម្រូវការរាងកាយសាមញ្ញៗ ប្រហែលជាឫសគល់នៃថាមពលទាបរបស់អ្នក។ អាហារ ការគេង និងចលនា អាចមិនមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Skipping meals, water or exercise could steadily drain your vitality. Look after the basics before anything else, and see a doctor if tiredness will not lift.",
+        "km": "ការរំលងអាហារ ទឹក ឬការហាត់ប្រាណ អាចបង្ហូរភាពរស់រវើករបស់អ្នកជាបន្តបន្ទាប់។ សូមមើលថែមូលដ្ឋានមុនអ្វីៗផ្សេង ហើយជួបវេជ្ជបណ្ឌិត ប្រសិនបើភាពហត់នឿយមិនព្រមធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "Tending to your physical needs could bring a solid return of energy. Simple healthy routines, like regular meals and walks, may become your strongest support.",
+        "km": "ការមើលថែតម្រូវការរាងកាយរបស់អ្នក អាចនាំថាមពលត្រឡប់មកវិញយ៉ាងរឹងមាំ។ ទម្លាប់សុខភាពល្អសាមញ្ញៗ ដូចជាការញ៉ាំអាហារទៀងទាត់ និងការដើរ អាចក្លាយជាការគាំទ្រដ៏រឹងមាំបំផុតរបស់អ្នក។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Juggling too many demands may be wearing down your energy. Keeping many plates spinning could be leaving you scattered.",
+        "km": "ការបំពេញការទាមទារច្រើនពេក ប្រហែលជាកំពុងធ្វើឱ្យថាមពលរបស់អ្នកចុះខ្សោយ។ ការរក្សាចានជាច្រើនឱ្យវិល អាចកំពុងធ្វើឱ្យអ្នករាយប៉ាយ។"
+      },
+      "challenge": {
+        "en": "Constant multitasking could leave you tired without much to show for it. Drop, delegate or pause whatever is not truly essential to you.",
+        "km": "ការធ្វើកិច្ចការច្រើនព្រមគ្នាជានិច្ច អាចធ្វើឱ្យអ្នកហត់នឿយ ដោយមិនសូវមានលទ្ធផលបង្ហាញ។ សូមទម្លាក់ ប្រគល់ ឬផ្អាកអ្វីដែលមិនពិតជាចាំបាច់។"
+      },
+      "outcome": {
+        "en": "Simplifying your commitments could restore energy and focus. A more manageable routine may feel lighter and leave room for things you enjoy.",
+        "km": "ការធ្វើឱ្យការប្តេជ្ញារបស់អ្នកសាមញ្ញ អាចស្តារថាមពល និងការផ្តោតអារម្មណ៍ឡើងវិញ។ ទម្លាប់ដែលអាចគ្រប់គ្រងបានជាងមុន អាចមានអារម្មណ៍ស្រាល ហើយទុកលំហសម្រាប់រឿងដែលអ្នករីករាយ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Carrying too much of a shared workload may be draining you. Others could be leaning on you more than is fair.",
+        "km": "ការទទួលបន្ទុកការងាររួមច្រើនពេក ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ អ្នកដទៃអាចកំពុងពឹងផ្អែកលើអ្នក ច្រើនជាងអ្វីដែលយុត្តិធម៌។"
+      },
+      "challenge": {
+        "en": "Doing other people's share of the work could leave you worn out and resentful. Ask clearly for help and let others pull their weight.",
+        "km": "ការធ្វើចំណែកការងាររបស់អ្នកដទៃ អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងអាក់អន់ចិត្ត។ សូមស្នើសុំជំនួយឱ្យច្បាស់ ហើយឱ្យអ្នកដទៃទទួលបន្ទុករបស់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Fair teamwork could lighten your load and restore your energy. Shared effort at home or work may feel satisfying rather than exhausting.",
+        "km": "ការងារជាក្រុមដែលយុត្តិធម៌ អាចសម្រាលបន្ទុករបស់អ្នក និងស្តារថាមពលរបស់អ្នកឡើងវិញ។ កិច្ចខិតខំរួមគ្នានៅផ្ទះ ឬកន្លែងធ្វើការ អាចធ្វើឱ្យពេញចិត្ត ជាជាងធ្វើឱ្យហត់នឿយ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Worry about security or holding on tightly may be using up your energy. Constantly guarding money or belongings could be keeping you tense.",
+        "km": "ការព្រួយបារម្ភអំពីសុវត្ថិភាព ឬការកាន់ឱ្យតឹង ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នក។ ការការពារប្រាក់ ឬទ្រព្យសម្បត្តិជានិច្ច អាចកំពុងធ្វើឱ្យអ្នកតានតឹង។"
+      },
+      "challenge": {
+        "en": "Constant financial worry could drain your peace and energy. Make a simple plan, and talk to a qualified adviser if money stress feels overwhelming.",
+        "km": "ការព្រួយបារម្ភផ្នែកហិរញ្ញវត្ថុជានិច្ច អាចបង្ហូរសន្តិភាព និងថាមពលរបស់អ្នក។ សូមធ្វើផែនការសាមញ្ញមួយ ហើយនិយាយជាមួយទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ប្រសិនបើភាពតានតឹងអំពីប្រាក់ខ្លាំងពេក។"
+      },
+      "outcome": {
+        "en": "Loosening your grip could free up energy for living, not just guarding. You may feel more secure when worry is replaced by a clear plan.",
+        "km": "ការបន្ធូរការក្តាប់របស់អ្នក អាចដោះលែងថាមពលសម្រាប់ការរស់នៅ មិនមែនត្រឹមតែការការពារទេ។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពជាងមុន នៅពេលការព្រួយបារម្ភត្រូវបានជំនួសដោយផែនការច្បាស់លាស់។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Hardship, illness or feeling unsupported may be draining your energy. Struggling alone, without asking anyone for help, could be making everything heavier.",
+        "km": "ភាពលំបាក ជំងឺ ឬអារម្មណ៍មិនទទួលបានការគាំទ្រ ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ ការតស៊ូតែម្នាក់ឯង ដោយមិនសុំជំនួយពីនរណាម្នាក់ អាចកំពុងធ្វើឱ្យអ្វីៗធ្ងន់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Refusing help out of pride could deepen exhaustion. Reach out to friends, family or services, including a doctor where your health is concerned.",
+        "km": "ការបដិសេធជំនួយដោយមោទនភាព អាចធ្វើឱ្យភាពអស់កម្លាំងកាន់តែធ្ងន់។ សូមទាក់ទងមិត្តភក្តិ គ្រួសារ ឬសេវានានា រួមទាំងវេជ្ជបណ្ឌិត នៅពេលពាក់ព័ន្ធនឹងសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Accepting support could ease your burden and restore some strength. You may find more help available than you expected.",
+        "km": "ការទទួលយកការគាំទ្រ អាចបន្ធូរបន្ទុករបស់អ្នក និងស្តារកម្លាំងខ្លះឡើងវិញ។ អ្នកអាចរកឃើញជំនួយច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Giving more than you can afford, in energy or resources, may be draining you. An uneven exchange in your relationships could be wearing you down.",
+        "km": "ការផ្តល់ច្រើនជាងអ្វីដែលអ្នកអាចផ្តល់បាន ទាំងថាមពល ឬធនធាន ប្រហែលជាកំពុងបង្ហូរថាមពលរបស់អ្នក។ ការផ្លាស់ប្តូរដែលមិនស្មើគ្នាក្នុងទំនាក់ទំនង អាចកំពុងធ្វើឱ្យអ្នកចុះខ្សោយ។"
+      },
+      "challenge": {
+        "en": "Being the helper in every situation could leave nothing for yourself. Give within your limits and let others give back to you.",
+        "km": "ការធ្វើជាអ្នកជួយគ្រប់ស្ថានការណ៍ អាចមិនទុកអ្វីសម្រាប់ខ្លួនឯង។ សូមផ្តល់ក្នុងដែនកំណត់របស់អ្នក ហើយឱ្យអ្នកដទៃផ្តល់ត្រឡប់មកអ្នកវិញ។"
+      },
+      "outcome": {
+        "en": "A fairer give and take could restore your energy and goodwill. Helping others may feel like a joy again once your own cup is full.",
+        "km": "ការផ្តល់ និងការទទួលដែលយុត្តិធម៌ជាងមុន អាចស្តារថាមពល និងឆន្ទៈល្អរបស់អ្នកឡើងវិញ។ ការជួយអ្នកដទៃ អាចក្លាយជាសេចក្តីរីករាយម្តងទៀត នៅពេលពែងរបស់អ្នកពេញ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Waiting for results that are hard to see may be wearing down your motivation. Effort without visible reward could be leaving you tired.",
+        "km": "ការរង់ចាំលទ្ធផលដែលពិបាកមើលឃើញ ប្រហែលជាកំពុងធ្វើឱ្យការលើកទឹកចិត្តរបស់អ្នកចុះខ្សោយ។ កិច្ចខិតខំដោយគ្មានរង្វាន់ដែលមើលឃើញ អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Constantly checking for progress could drain your patience. Trust the process, and let yourself rest while the seeds you planted grow.",
+        "km": "ការពិនិត្យវឌ្ឍនភាពជានិច្ច អាចបង្ហូរការអត់ធ្មត់របស់អ្នក។ សូមទុកចិត្តលើដំណើរការ ហើយអនុញ្ញាតឱ្យខ្លួនឯងសម្រាក ខណៈដែលគ្រាប់ពូជដែលអ្នកបានដាំកំពុងដុះ។"
+      },
+      "outcome": {
+        "en": "Patience could restore your energy as results begin to show. You may feel renewed by seeing your efforts pay off.",
+        "km": "ការអត់ធ្មត់ អាចស្តារថាមពលរបស់អ្នកឡើងវិញ នៅពេលលទ្ធផលចាប់ផ្តើមបង្ហាញ។ អ្នកអាចមានអារម្មណ៍ស្រស់ស្រាយឡើងវិញ ដោយឃើញកិច្ចខិតខំរបស់អ្នកទទួលបានផល។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Working hard on every detail may be using up your energy. Perfectionism in your tasks could be leaving you drained.",
+        "km": "ការធ្វើការខ្លាំងលើព័ត៌មានលម្អិតនីមួយៗ ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នក។ ការចង់បានភាពល្អឥតខ្ចោះក្នុងកិច្ចការ អាចកំពុងធ្វើឱ្យអ្នកអស់កម្លាំង។"
+      },
+      "challenge": {
+        "en": "Overworking to get everything right could lead to burnout. Decide what counts as good enough, and take regular breaks from close work.",
+        "km": "ការធ្វើការហួសកម្លាំង ដើម្បីធ្វើអ្វីៗឱ្យត្រឹមត្រូវ អាចនាំឱ្យអស់កម្លាំងខ្លាំង។ សូមសម្រេចថាអ្វីដែលចាត់ទុកថាល្អគ្រប់គ្រាន់ ហើយសម្រាកជាប្រចាំពីការងារលម្អិត។"
+      },
+      "outcome": {
+        "en": "Balancing diligence with rest could keep your energy steady. You may take real pride in your work without paying for it with your health.",
+        "km": "ការថ្លឹងការឧស្សាហ៍ព្យាយាមជាមួយការសម្រាក អាចរក្សាថាមពលរបស់អ្នកឱ្យនឹងនរ។ អ្នកអាចមានមោទនភាពពិតប្រាកដចំពោះការងាររបស់អ្នក ដោយមិនចាំបាច់បង់ថ្លៃដោយសុខភាពរបស់អ្នក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Doing everything yourself may be costing more energy than you realise. Fierce independence could be leaving you without the support you deserve.",
+        "km": "ការធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯង ប្រហែលជាកំពុងធ្វើឱ្យអ្នកខាតថាមពលច្រើនជាងអ្វីដែលអ្នកដឹង។ ឯករាជ្យភាពខ្លាំងពេក អាចកំពុងធ្វើឱ្យអ្នកគ្មានការគាំទ្រដែលអ្នកសមនឹងទទួលបាន។"
+      },
+      "challenge": {
+        "en": "Refusing to rely on anyone could leave you carrying everything alone. Let trusted people share the load when it gets heavy.",
+        "km": "ការបដិសេធមិនពឹងផ្អែកលើនរណាម្នាក់ អាចធ្វើឱ្យអ្នកទទួលបន្ទុកអ្វីៗទាំងអស់តែម្នាក់ឯង។ សូមឱ្យមនុស្សដែលអ្នកទុកចិត្តចែករំលែកបន្ទុក នៅពេលវាធ្ងន់។"
+      },
+      "outcome": {
+        "en": "Balancing independence with support could restore your energy and ease. You may enjoy your achievements more when you are not exhausted.",
+        "km": "ការថ្លឹងឯករាជ្យភាពជាមួយការគាំទ្រ អាចស្តារថាមពល និងភាពស្រួលរបស់អ្នកឡើងវិញ។ អ្នកអាចរីករាយនឹងសមិទ្ធផលរបស់អ្នកច្រើនជាងមុន នៅពេលអ្នកមិនអស់កម្លាំង។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family responsibilities or heavy obligations may be weighing on your energy. Duties to others could be leaving little for yourself.",
+        "km": "ការទទួលខុសត្រូវគ្រួសារ ឬកាតព្វកិច្ចធំៗ ប្រហែលជាកំពុងសង្កត់លើថាមពលរបស់អ្នក។ កាតព្វកិច្ចចំពោះអ្នកដទៃ អាចកំពុងទុកតិចតួចសម្រាប់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Carrying family expectations alone could slowly wear you down. Share responsibilities with relatives, and make space for your own needs too.",
+        "km": "ការទទួលបន្ទុកការរំពឹងទុករបស់គ្រួសារតែម្នាក់ឯង អាចបង្ហូរថាមពលរបស់អ្នកបន្តិចម្តងៗ។ សូមចែករំលែកការទទួលខុសត្រូវជាមួយសាច់ញាតិ ហើយទុកលំហសម្រាប់តម្រូវការរបស់ខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "Sharing family duties could bring relief and renewed energy. Home may feel more like a place of support and less like a list of demands.",
+        "km": "ការចែករំលែកកាតព្វកិច្ចគ្រួសារ អាចនាំមកនូវការធូរស្រាល និងថាមពលថ្មី។ ផ្ទះអាចមានអារម្មណ៍ជាកន្លែងនៃការគាំទ្រ ជាជាងបញ្ជីនៃការទាមទារ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Taking on new learning or projects may be stretching your energy thin. Studying, practising or planning without rest could be more tiring than you notice.",
+        "km": "ការទទួលយកការរៀនសូត្រ ឬគម្រោងថ្មីៗ ប្រហែលជាកំពុងបែងចែកថាមពលរបស់អ្នកស្តើងពេក។ ការសិក្សា ការហាត់ ឬការរៀបចំផែនការដោយគ្មានការសម្រាក អាចធ្វើឱ្យហត់នឿយច្រើនជាងអ្វីដែលអ្នកកត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Planning endlessly without acting could drain your motivation. Choose one practical step and follow it through to the end.",
+        "km": "ការរៀបចំផែនការមិនចេះចប់ ដោយមិនធ្វើសកម្មភាព អាចបង្ហូរការលើកទឹកចិត្តរបស់អ្នក។ សូមជ្រើសជំហានជាក់ស្តែងមួយ ហើយធ្វើវាឱ្យដល់ទីបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "Steady, focused learning could build energy rather than drain it. Small, completed steps may restore your sense of progress.",
+        "km": "ការរៀនសូត្រដែលនឹងនរ និងផ្តោត អាចកសាងថាមពល ជាជាងបង្ហូរវា។ ជំហានតូចៗដែលបានបញ្ចប់ អាចស្តារអារម្មណ៍នៃវឌ្ឍនភាពរបស់អ្នកឡើងវិញ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "A dull, repetitive routine may be leaving you feeling flat. Doing the same things without variety could be draining your spark.",
+        "km": "ទម្លាប់ដដែលៗ និងគួរឱ្យធុញ ប្រហែលជាកំពុងធ្វើឱ្យអ្នកមានអារម្មណ៍ស្ងាត់ស្ងៀម។ ការធ្វើរឿងដដែលៗដោយគ្មានភាពចម្រុះ អាចកំពុងបង្ហូរភាពរស់រវើករបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Sticking rigidly to routine could leave you bored and low. Add a little variety, such as a new walk or a fresh recipe.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់យ៉ាងតឹងរ៉ឹង អាចធ្វើឱ្យអ្នកធុញទ្រាន់ និងអារម្មណ៍ធ្លាក់ចុះ។ សូមបន្ថែមភាពចម្រុះបន្តិច ដូចជាផ្លូវដើរថ្មី ឬម្ហូបថ្មីមួយ។"
+      },
+      "outcome": {
+        "en": "Small changes to your routine could renew your energy and interest. Familiar habits may feel fresher and more rewarding with a little change of scene.",
+        "km": "ការផ្លាស់ប្តូរតូចៗក្នុងទម្លាប់របស់អ្នក អាចធ្វើឱ្យថាមពល និងចំណាប់អារម្មណ៍របស់អ្នកថ្មីឡើងវិញ។ ទម្លាប់ដែលធ្លាប់ស្គាល់ អាចមានអារម្មណ៍ស្រស់ស្រាយ និងមានតម្លៃជាងមុន ជាមួយការប្តូរបរិយាកាសបន្តិច។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Looking after home and everyone in it may be using up much of your energy. Practical caregiving could be leaving little room for yourself.",
+        "km": "ការមើលថែផ្ទះ និងគ្រប់គ្នានៅក្នុងនោះ ប្រហែលជាកំពុងប្រើថាមពលរបស់អ្នកយ៉ាងច្រើន។ ការថែរក្សាជាក់ស្តែង អាចកំពុងទុកលំហតិចតួចសម្រាប់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Putting everyone's comfort before your own could leave you depleted. Make sure your own meals, rest and health are cared for too.",
+        "km": "ការដាក់ភាពសុខស្រួលរបស់គ្រប់គ្នាមុនខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមប្រាកដថាអាហារ ការសម្រាក និងសុខភាពរបស់អ្នកក៏ត្រូវបានមើលថែផងដែរ។"
+      },
+      "outcome": {
+        "en": "Including yourself in your care could restore your energy and warmth. Home may become a place that nourishes you as well.",
+        "km": "ការរាប់បញ្ចូលខ្លួនឯងក្នុងការថែរក្សារបស់អ្នក អាចស្តារថាមពល និងភាពកក់ក្តៅរបស់អ្នកឡើងវិញ។ ផ្ទះអាចក្លាយជាកន្លែងដែលចិញ្ចឹមចិត្តអ្នកផងដែរ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Managing finances, work and responsibilities may be weighing on your energy. Being the provider could be more tiring than you admit.",
+        "km": "ការគ្រប់គ្រងហិរញ្ញវត្ថុ ការងារ និងការទទួលខុសត្រូវ ប្រហែលជាកំពុងសង្កត់លើថាមពលរបស់អ្នក។ ការធ្វើជាអ្នកផ្គត់ផ្គង់ អាចធ្វើឱ្យហត់នឿយច្រើនជាងអ្វីដែលអ្នកទទួលស្គាល់។"
+      },
+      "challenge": {
+        "en": "Taking on extra work to stay secure could leave nothing in the tank for living. Set a clear stopping point for work, and protect it like any other commitment.",
+        "km": "ការទទួលការងារបន្ថែមដើម្បីរក្សាសុវត្ថិភាព អាចមិនទុកថាមពលសម្រាប់ការរស់នៅ។ សូមកំណត់ចំណុចឈប់ធ្វើការឱ្យច្បាស់ ហើយការពារវាដូចការប្តេជ្ញាផ្សេងទៀត។"
+      },
+      "outcome": {
+        "en": "A more balanced approach could keep your energy steady while maintaining security. You may enjoy what you have built rather than only guarding it.",
+        "km": "វិធីដែលមានតុល្យភាពជាងមុន អាចរក្សាថាមពលរបស់អ្នកឱ្យនឹងនរ ខណៈរក្សាសុវត្ថិភាព។ អ្នកអាចរីករាយនឹងអ្វីដែលអ្នកបានកសាង ជាជាងត្រឹមតែការពារវា។"
+      }
+    }
+  }
+}
