@@ -1,0 +1,1097 @@
+{
+  "questionId": "WB-09",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Joy may be coming from saying yes to something unplanned. A spontaneous outing or a fresh idea could be lifting your spirits more than routine.",
+        "km": "សេចក្តីរីករាយ អាចកំពុងមកពីការយល់ព្រមចំពោះអ្វីមួយដែលមិនបានគ្រោងទុក។ ការចេញដើរលេងភ្លាមៗ ឬគំនិតថ្មីមួយ អាចកំពុងលើកស្មារតីរបស់អ្នកច្រើនជាងទម្លាប់។"
+      },
+      "challenge": {
+        "en": "Chasing one new thrill after another could leave joy feeling thin. Let a simple delight sink in before you rush off to the next.",
+        "km": "ការដេញតាមភាពរំភើបថ្មីម្តងមួយៗ អាចធ្វើឱ្យសេចក្តីរីករាយមានអារម្មណ៍ស្តើង។ សូមទុកឱ្យភាពរីករាយសាមញ្ញមួយជ្រាបចូល មុនពេលអ្នកប្រញាប់ទៅរកមួយទៀត។"
+      },
+      "outcome": {
+        "en": "An open, playful attitude could keep joy close at hand. You may find delight in small surprises that you might otherwise overlook.",
+        "km": "អាកប្បកិរិយាបើកចំហ និងលេងសើច អាចរក្សាសេចក្តីរីករាយឱ្យនៅជិតដៃ។ អ្នកអាចរកឃើញភាពរីករាយក្នុងការភ្ញាក់ផ្អើលតូចៗ ដែលអ្នកអាចមើលរំលង។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Making something with your own hands or mind may be your clearest source of joy. Turning an idea into something real could leave you feeling alive.",
+        "km": "ការបង្កើតអ្វីមួយដោយដៃ ឬគំនិតរបស់អ្នកផ្ទាល់ អាចជាប្រភពសេចក្តីរីករាយច្បាស់បំផុតរបស់អ្នក។ ការប្រែក្លាយគំនិតមួយទៅជាអ្វីដែលពិតប្រាកដ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថារស់រវើក។"
+      },
+      "challenge": {
+        "en": "Treating every skill as a tool for results could drain the fun from it. Make something purely for the pleasure of making it.",
+        "km": "ការចាត់ទុកជំនាញនីមួយៗជាឧបករណ៍សម្រាប់តែលទ្ធផល អាចធ្វើឱ្យវាបាត់ភាពសប្បាយ។ សូមបង្កើតអ្វីមួយសុទ្ធតែដើម្បីភាពរីករាយនៃការបង្កើតវា។"
+      },
+      "outcome": {
+        "en": "Creative focus could bring a bright, satisfying kind of joy. You may feel pleased with what your own skill and effort can bring to life.",
+        "km": "ការផ្តោតលើការច្នៃប្រឌិត អាចនាំមកនូវសេចក្តីរីករាយភ្លឺស្វាង និងពេញចិត្ត។ អ្នកអាចពេញចិត្តនឹងអ្វីដែលជំនាញ និងការខិតខំរបស់អ្នកអាចបង្កើតឱ្យមានជីវិត។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Quiet moments alone with your thoughts may be bringing you a gentle joy. Listening to your inner voice could feel like coming home to yourself.",
+        "km": "គ្រាស្ងាត់ៗតែម្នាក់ឯងជាមួយគំនិតរបស់អ្នក អាចកំពុងនាំមកនូវសេចក្តីរីករាយទន់ភ្លន់។ ការស្តាប់សំឡេងខាងក្នុងរបស់អ្នក អាចមានអារម្មណ៍ដូចជាការត្រឡប់មកផ្ទះរបស់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Ignoring what your intuition delights in could leave you chasing what others enjoy. Trust the quiet pull towards what feels right for you.",
+        "km": "ការមិនអើពើនឹងអ្វីដែលវិចារណញាណរបស់អ្នកពេញចិត្ត អាចធ្វើឱ្យអ្នកដេញតាមអ្វីដែលអ្នកដទៃចូលចិត្ត។ សូមទុកចិត្តលើការទាញស្ងាត់ៗទៅរកអ្វីដែលត្រឹមត្រូវសម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Inner stillness could deepen into a calm, private joy. You may treasure the moments when you hear yourself clearly and feel at peace.",
+        "km": "ភាពស្ងប់ស្ងាត់ខាងក្នុង អាចជ្រៅទៅជាសេចក្តីរីករាយស្ងប់ និងផ្ទាល់ខ្លួន។ អ្នកអាចឱ្យតម្លៃលើគ្រាដែលអ្នកឮខ្លួនឯងច្បាស់ និងមានអារម្មណ៍សុខសាន្ត។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Beauty, comfort and nature may be feeding your joy. Good food, fresh air or tending something that grows could be filling you with warmth.",
+        "km": "សម្រស់ ភាពស្រួល និងធម្មជាតិ អាចកំពុងចិញ្ចឹមសេចក្តីរីករាយរបស់អ្នក។ អាហារឆ្ងាញ់ ខ្យល់បរិសុទ្ធ ឬការថែទាំអ្វីមួយដែលកំពុងដុះលូតលាស់ អាចកំពុងបំពេញអ្នកដោយភាពកក់ក្តៅ។"
+      },
+      "challenge": {
+        "en": "Caring for everyone else could leave no room for your own pleasures. Set aside something lovely that is simply for you to enjoy.",
+        "km": "ការថែទាំអ្នកដទៃទាំងអស់ អាចមិនទុកកន្លែងសម្រាប់ភាពរីករាយរបស់អ្នកផ្ទាល់។ សូមទុកអ្វីមួយដ៏ស្រស់ស្អាតដែលសុទ្ធតែសម្រាប់អ្នករីករាយ។"
+      },
+      "outcome": {
+        "en": "Leaning into simple sensory pleasures could bring an abundant, easy joy. You may feel nourished by the beauty that is already around you.",
+        "km": "ការផ្តោតលើភាពរីករាយសាមញ្ញនៃញាណទាំងប្រាំ អាចនាំមកនូវសេចក្តីរីករាយបរិបូរណ៍ និងងាយស្រួល។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានចិញ្ចឹមដោយសម្រស់ដែលមាននៅជុំវិញអ្នករួចហើយ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "A sense of order and achievement may be quietly pleasing you. Seeing your plans come together could bring a solid kind of satisfaction.",
+        "km": "អារម្មណ៍នៃសណ្តាប់ធ្នាប់ និងសមិទ្ធផល អាចកំពុងធ្វើឱ្យអ្នកពេញចិត្តស្ងាត់ៗ។ ការឃើញផែនការរបស់អ្នកដំណើរការរួមគ្នា អាចនាំមកនូវការពេញចិត្តដ៏រឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Keeping too tight a grip on control could squeeze out spontaneity. Allow a little mess, and let play sit alongside your plans.",
+        "km": "ការកាន់ការគ្រប់គ្រងតឹងពេក អាចច្របាច់ភាពឯកឯងចេញ។ សូមអនុញ្ញាតឱ្យមានភាពរញ៉េរញ៉ៃបន្តិច ហើយទុកឱ្យការលេងនៅក្បែរផែនការរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Steady structure could give your joy a secure place to grow. You may enjoy your freedom more when the basics are taken care of.",
+        "km": "រចនាសម្ព័ន្ធនឹងនរ អាចផ្តល់ឱ្យសេចក្តីរីករាយរបស់អ្នកនូវកន្លែងសុវត្ថិភាពដើម្បីលូតលាស់។ អ្នកអាចរីករាយនឹងសេរីភាពរបស់អ្នកច្រើនជាងមុន នៅពេលមូលដ្ឋានគ្រឹះត្រូវបានថែទាំ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Shared customs and belonging may be warming your heart. Taking part in familiar rituals with others could give you a deep sense of joy.",
+        "km": "ទំនៀមទម្លាប់រួម និងការជាផ្នែកមួយ អាចកំពុងធ្វើឱ្យចិត្តរបស់អ្នកកក់ក្តៅ។ ការចូលរួមក្នុងពិធីដែលធ្លាប់ស្គាល់ជាមួយអ្នកដទៃ អាចផ្តល់ឱ្យអ្នកនូវអារម្មណ៍រីករាយជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Doing what is expected rather than what you enjoy could dull your spirit. Keep the traditions that feed you, and question the ones that only weigh.",
+        "km": "ការធ្វើអ្វីដែលគេរំពឹង ជាជាងអ្វីដែលអ្នកចូលចិត្ត អាចធ្វើឱ្យស្មារតីរបស់អ្នកស្រអាប់។ សូមរក្សាប្រពៃណីដែលចិញ្ចឹមអ្នក ហើយសួរសំណួរពីប្រពៃណីដែលគ្រាន់តែជាបន្ទុក។"
+      },
+      "outcome": {
+        "en": "Meaningful routines could bring a steady, grounding joy. You may feel connected to something larger than yourself and glad to belong.",
+        "km": "ទម្លាប់ដែលមានអត្ថន័យ អាចនាំមកនូវសេចក្តីរីករាយនឹងនរ និងធ្វើឱ្យនឹងធឹង។ អ្នកអាចមានអារម្មណ៍ភ្ជាប់ទៅនឹងអ្វីមួយធំជាងខ្លួនឯង និងរីករាយដែលជាផ្នែកមួយ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Closeness with someone dear may be your brightest joy. Shared laughter and honest affection could be making ordinary moments feel special.",
+        "km": "ភាពស្និទ្ធស្នាលជាមួយនរណាម្នាក់ជាទីស្រឡាញ់ អាចជាសេចក្តីរីករាយភ្លឺបំផុតរបស់អ្នក។ ការសើចរួមគ្នា និងការស្រឡាញ់ដោយស្មោះ អាចកំពុងធ្វើឱ្យគ្រាធម្មតាមានអារម្មណ៍ពិសេស។"
+      },
+      "challenge": {
+        "en": "Putting your happiness entirely in another's hands could make it fragile. Nurture what delights you on your own as well as together.",
+        "km": "ការដាក់សុភមង្គលរបស់អ្នកទាំងស្រុងក្នុងដៃអ្នកដទៃ អាចធ្វើឱ្យវាងាយបាក់បែក។ សូមថែរក្សាអ្វីដែលធ្វើឱ្យអ្នករីករាយដោយខ្លួនឯង ក៏ដូចជាពេលនៅជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "Choosing what you truly love could bring a joy that feels whole. You may find delight in connections that match your heart and values.",
+        "km": "ការជ្រើសរើសអ្វីដែលអ្នកពិតជាស្រឡាញ់ អាចនាំមកនូវសេចក្តីរីករាយដែលមានអារម្មណ៍ពេញលេញ។ អ្នកអាចរកឃើញភាពរីករាយក្នុងទំនាក់ទំនងដែលត្រូវនឹងចិត្ត និងគុណតម្លៃរបស់អ្នក។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Making progress towards something you care about may be lifting your mood. The thrill of moving forward could be a strong source of joy.",
+        "km": "ការរីកចម្រើនឆ្ពោះទៅរកអ្វីដែលអ្នកយកចិត្តទុកដាក់ អាចកំពុងលើកអារម្មណ៍របស់អ្នក។ ភាពរំភើបនៃការឈានទៅមុខ អាចជាប្រភពដ៏ខ្លាំងនៃសេចក្តីរីករាយ។"
+      },
+      "challenge": {
+        "en": "Tying joy only to winning could leave you restless when things stall. Celebrate the effort and the ride, not just the finish line.",
+        "km": "ការភ្ជាប់សេចក្តីរីករាយតែទៅនឹងការឈ្នះ អាចធ្វើឱ្យអ្នកមិនស្ងប់ នៅពេលរឿងរ៉ាវជាប់គាំង។ សូមអបអរការខិតខំ និងដំណើរ មិនមែនត្រឹមតែខ្សែបញ្ចប់នោះទេ។"
+      },
+      "outcome": {
+        "en": "Focused drive could bring a proud, energising joy. You may feel the pleasure of steering your own course with confidence.",
+        "km": "កម្លាំងជំរុញដែលផ្តោត អាចនាំមកនូវសេចក្តីរីករាយដែលមោទនភាព និងផ្តល់ថាមពល។ អ្នកអាចមានអារម្មណ៍រីករាយនៃការដឹកនាំផ្លូវរបស់ខ្លួនឯងដោយទំនុកចិត្ត។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Gentle patience with yourself and others may be bringing a soft joy. Small acts of kindness could be warming you as much as those you help.",
+        "km": "ការអត់ធ្មត់ដោយទន់ភ្លន់ជាមួយខ្លួនឯង និងអ្នកដទៃ អាចកំពុងនាំមកនូវសេចក្តីរីករាយទន់ៗ។ អំពើសប្បុរសតូចៗ អាចកំពុងធ្វើឱ្យអ្នកកក់ក្តៅ ដូចអ្នកដែលអ្នកជួយដែរ។"
+      },
+      "challenge": {
+        "en": "Forcing yourself to be cheerful could hide what you really feel. Meet your harder emotions with tenderness, and joy may find its own way back.",
+        "km": "ការបង្ខំខ្លួនឯងឱ្យរីករាយ អាចលាក់អ្វីដែលអ្នកពិតជាមានអារម្មណ៍។ សូមទទួលអារម្មណ៍ពិបាករបស់អ្នកដោយទន់ភ្លន់ ហើយសេចក្តីរីករាយអាចរកផ្លូវត្រឡប់មកវិញដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Inner calm could grow into a quiet, resilient joy. You may feel steady enough to enjoy life even when it is not easy.",
+        "km": "ភាពស្ងប់ខាងក្នុង អាចលូតលាស់ទៅជាសេចក្តីរីករាយស្ងប់ស្ងាត់ និងធន់។ អ្នកអាចមានអារម្មណ៍នឹងនរគ្រប់គ្រាន់ ដើម្បីរីករាយនឹងជីវិត ទោះបីវាមិនងាយស្រួលក៏ដោយ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Solitude and reflection may be where you find your joy. Time to think, read or wander alone could be restoring a deep contentment.",
+        "km": "ភាពឯកោ និងការឆ្លុះបញ្ចាំង អាចជាកន្លែងដែលអ្នករកឃើញសេចក្តីរីករាយ។ ពេលវេលាសម្រាប់គិត អាន ឬដើរលេងម្នាក់ឯង អាចកំពុងស្តារភាពពេញចិត្តដ៏ជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Withdrawing too far could cut you off from joys that others bring. Balance your quiet retreats with a little warm company.",
+        "km": "ការដកខ្លួនឆ្ងាយពេក អាចកាត់អ្នកចេញពីសេចក្តីរីករាយដែលអ្នកដទៃនាំមក។ សូមថ្លឹងការដកខ្លួនស្ងាត់ៗរបស់អ្នក ជាមួយការនៅជាមួយមនុស្សកក់ក្តៅបន្តិច។"
+      },
+      "outcome": {
+        "en": "Thoughtful solitude could bring a wise, settled joy. You may understand more clearly what truly makes your life feel worthwhile.",
+        "km": "ភាពឯកោដែលមានការគិតគូរ អាចនាំមកនូវសេចក្តីរីករាយដ៏ឈ្លាសវៃ និងស្ងប់ស្ងាត់។ អ្នកអាចយល់ច្បាស់ជាងមុនពីអ្វីដែលពិតជាធ្វើឱ្យជីវិតរបស់អ្នកមានតម្លៃ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Going with the flow of change may be bringing unexpected joy. A lucky turn or welcome surprise could be lightening your heart.",
+        "km": "ការបណ្តោយតាមលំហូរនៃការផ្លាស់ប្តូរ អាចកំពុងនាំមកនូវសេចក្តីរីករាយដែលមិននឹកស្មានដល់។ វេនសំណាង ឬការភ្ញាក់ផ្អើលដែលគួរឱ្យស្វាគមន៍ អាចកំពុងធ្វើឱ្យចិត្តរបស់អ្នកស្រាល។"
+      },
+      "challenge": {
+        "en": "Waiting for luck to make you happy could leave joy out of your hands. Notice what you can enjoy on any turn of the wheel.",
+        "km": "ការរង់ចាំសំណាងដើម្បីធ្វើឱ្យអ្នកសប្បាយ អាចធ្វើឱ្យសេចក្តីរីករាយនៅក្រៅដៃរបស់អ្នក។ សូមកត់សម្គាល់អ្វីដែលអ្នកអាចរីករាយបាន ទោះស្ថានភាពប្រែប្រួលយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Accepting life's ups and downs could bring a flexible, hopeful joy. You may enjoy the good turns more fully because you trust they will come.",
+        "km": "ការទទួលយកការឡើងចុះនៃជីវិត អាចនាំមកនូវសេចក្តីរីករាយបត់បែន និងពោរពេញដោយក្តីសង្ឃឹម។ អ្នកអាចរីករាយនឹងវេនល្អៗកាន់តែពេញលេញ ព្រោះអ្នកទុកចិត្តថាវានឹងមកដល់។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Doing what feels fair and right may be giving you a clear-hearted joy. Living by your values could be bringing a deep sense of peace.",
+        "km": "ការធ្វើអ្វីដែលមានអារម្មណ៍យុត្តិធម៌ និងត្រឹមត្រូវ អាចកំពុងផ្តល់ឱ្យអ្នកនូវសេចក្តីរីករាយដោយចិត្តស្អាត។ ការរស់នៅតាមគុណតម្លៃរបស់អ្នក អាចកំពុងនាំមកនូវអារម្មណ៍សុខសាន្តជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Keeping a strict tally of what you deserve could crowd out simple pleasure. Enjoy what is good without weighing whether it is earned.",
+        "km": "ការរាប់យ៉ាងតឹងរ៉ឹងពីអ្វីដែលអ្នកសមនឹងទទួល អាចច្រានភាពរីករាយសាមញ្ញចេញ។ សូមរីករាយនឹងអ្វីដែលល្អ ដោយមិនថ្លឹងថាតើវាត្រូវបានទទួលដោយការខិតខំឬអត់។"
+      },
+      "outcome": {
+        "en": "Honest balance could bring a calm, steady contentment. You may feel at ease with yourself because your choices match what you believe.",
+        "km": "តុល្យភាពដោយស្មោះត្រង់ អាចនាំមកនូវភាពពេញចិត្តស្ងប់ និងនឹងនរ។ អ្នកអាចមានអារម្មណ៍ស្រួលជាមួយខ្លួនឯង ព្រោះជម្រើសរបស់អ្នកត្រូវនឹងអ្វីដែលអ្នកជឿ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Slowing down and seeing things differently may be revealing hidden joys. A pause could show you delight in places you used to rush past.",
+        "km": "ការបន្ថយល្បឿន និងមើលអ្វីៗខុសពីមុន អាចកំពុងបង្ហាញសេចក្តីរីករាយដែលលាក់កំបាំង។ ការផ្អាកមួយ អាចបង្ហាញអ្នកពីភាពរីករាយនៅកន្លែងដែលអ្នកធ្លាប់ប្រញាប់ដើរកាត់។"
+      },
+      "challenge": {
+        "en": "Feeling stuck in waiting could make it hard to enjoy anything. Look for what this in-between stage can offer rather than what it holds back.",
+        "km": "អារម្មណ៍ជាប់គាំងក្នុងការរង់ចាំ អាចធ្វើឱ្យពិបាករីករាយនឹងអ្វីទាំងអស់។ សូមរកមើលអ្វីដែលដំណាក់កាលចន្លោះនេះអាចផ្តល់ឱ្យ ជាជាងអ្វីដែលវារារាំង។"
+      },
+      "outcome": {
+        "en": "A new perspective could bring a surprising, peaceful joy. You may enjoy simple things more when you stop pushing for them.",
+        "km": "ទស្សនៈថ្មី អាចនាំមកនូវសេចក្តីរីករាយដ៏គួរឱ្យភ្ញាក់ផ្អើល និងសុខសាន្ត។ អ្នកអាចរីករាយនឹងរឿងសាមញ្ញៗកាន់តែច្រើន នៅពេលអ្នកឈប់ជំរុញដើម្បីវា។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Letting go of something that no longer fits may be making room for joy. Space cleared by an ending could already be filling with fresh possibility.",
+        "km": "ការលែងប្រកាន់អ្វីមួយដែលលែងសម អាចកំពុងបង្កើតកន្លែងសម្រាប់សេចក្តីរីករាយ។ លំហដែលបានសម្អាតដោយការបញ្ចប់មួយ អាចកំពុងពោរពេញដោយលទ្ធភាពថ្មី។"
+      },
+      "challenge": {
+        "en": "Grieving what has ended could make joy feel out of place. Allow sadness and gladness to sit side by side, without forcing either.",
+        "km": "ការសោកស្តាយអ្វីដែលបានបញ្ចប់ អាចធ្វើឱ្យសេចក្តីរីករាយមានអារម្មណ៍មិនសមកន្លែង។ សូមអនុញ្ញាតឱ្យទុក្ខព្រួយ និងសេចក្តីរីករាយនៅក្បែរគ្នា ដោយមិនបង្ខំមួយណាឡើយ។"
+      },
+      "outcome": {
+        "en": "Embracing change could bring a renewed, clear-eyed joy. You may delight in a new chapter that suits who you have become.",
+        "km": "ការទទួលយកការផ្លាស់ប្តូរ អាចនាំមកនូវសេចក្តីរីករាយថ្មី និងច្បាស់លាស់។ អ្នកអាចរីករាយនឹងជំពូកថ្មីមួយដែលសមនឹងអ្នកដែលអ្នកបានក្លាយជា។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "A balanced, unhurried pace may be bringing you gentle joy. Mixing work, rest and pleasure in good measure could be keeping you content.",
+        "km": "ល្បឿនដែលមានតុល្យភាព និងមិនប្រញាប់ អាចកំពុងនាំមកនូវសេចក្តីរីករាយទន់ភ្លន់។ ការលាយការងារ ការសម្រាក និងភាពរីករាយក្នុងកម្រិតល្អ អាចកំពុងរក្សាឱ្យអ្នកពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "Overdoing a good thing could turn pleasure into strain. Enjoy what you love in amounts that leave you refreshed rather than worn.",
+        "km": "ការធ្វើរឿងល្អហួសកម្រិត អាចប្រែភាពរីករាយទៅជាភាពតានតឹង។ សូមរីករាយនឹងអ្វីដែលអ្នកស្រឡាញ់ក្នុងបរិមាណ ដែលធ្វើឱ្យអ្នកស្រស់ស្រាយ ជាជាងអស់កម្លាំង។"
+      },
+      "outcome": {
+        "en": "Moderation could bring a smooth, sustainable kind of joy. You may feel a quiet harmony between what you need and what you enjoy.",
+        "km": "ភាពល្មមល្មើយ អាចនាំមកនូវសេចក្តីរីករាយរលូន និងអាចរក្សាបាន។ អ្នកអាចមានអារម្មណ៍នៃភាពចុះសម្រុងស្ងាត់ៗ រវាងអ្វីដែលអ្នកត្រូវការ និងអ្វីដែលអ្នករីករាយ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Some pleasures may feel good but leave you feeling worse. Noticing which habits truly lift you and which only numb could be revealing.",
+        "km": "ភាពរីករាយខ្លះ អាចមានអារម្មណ៍ល្អ ប៉ុន្តែទុកឱ្យអ្នកមានអារម្មណ៍អាក្រក់ជាងមុន។ ការកត់សម្គាល់ទម្លាប់ណាដែលពិតជាលើកអ្នក និងទម្លាប់ណាដែលគ្រាន់តែធ្វើឱ្យស្ពឹក អាចបង្ហាញឱ្យឃើញច្រើន។"
+      },
+      "challenge": {
+        "en": "Mistaking a craving for joy could pull you away from what nourishes you. Seek support or professional help if a habit has started to control you.",
+        "km": "ការយល់ច្រឡំចំណង់ថាជាសេចក្តីរីករាយ អាចទាញអ្នកចេញពីអ្វីដែលចិញ្ចឹមអ្នក។ សូមស្វែងរកការគាំទ្រ ឬជំនួយពីអ្នកជំនាញ ប្រសិនបើទម្លាប់មួយបានចាប់ផ្តើមគ្រប់គ្រងអ្នក។"
+      },
+      "outcome": {
+        "en": "Loosening an unhealthy pull could bring a freer, cleaner joy. You may rediscover pleasures that leave you lighter rather than heavier.",
+        "km": "ការបន្ធូរការទាញដែលមិនល្អ អាចនាំមកនូវសេចក្តីរីករាយដែលសេរី និងស្អាតជាង។ អ្នកអាចរកឃើញឡើងវិញនូវភាពរីករាយ ដែលធ្វើឱ្យអ្នកស្រាលជាជាងធ្ងន់។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "An upheaval may have shaken the things that used to bring you joy. Seeing what is left standing could show you what truly matters.",
+        "km": "ការប្រែប្រួលធំមួយ អាចបានរង្គើរឿងរ៉ាវដែលធ្លាប់នាំមកនូវសេចក្តីរីករាយដល់អ្នក។ ការឃើញអ្វីដែលនៅតែឈរ អាចបង្ហាញអ្នកពីអ្វីដែលពិតជាសំខាន់។"
+      },
+      "challenge": {
+        "en": "Disruption could make joy feel impossible or even wrong. Look after your basic needs, and reach out for support if you feel overwhelmed.",
+        "km": "ការរំខាន អាចធ្វើឱ្យសេចក្តីរីករាយមានអារម្មណ៍ថាមិនអាចទៅរួច ឬសូម្បីតែខុស។ សូមថែរក្សាតម្រូវការមូលដ្ឋានរបស់អ្នក ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍ថាលើសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Rebuilding could bring a more honest, grounded joy. You may enjoy what you choose next because it rests on firmer foundations.",
+        "km": "ការកសាងឡើងវិញ អាចនាំមកនូវសេចក្តីរីករាយដែលស្មោះត្រង់ និងនឹងធឹងជាង។ អ្នកអាចរីករាយនឹងអ្វីដែលអ្នកជ្រើសរើសបន្ទាប់ ព្រោះវាផ្អែកលើគ្រឹះដែលរឹងមាំជាង។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and inspiration may be glowing quietly inside you. Dreaming, making art or simply gazing at the sky could be renewing your joy.",
+        "km": "ក្តីសង្ឃឹម និងការបំផុសគំនិត អាចកំពុងភ្លឺស្ងាត់ៗនៅក្នុងខ្លួនអ្នក។ ការស្រមៃ ការធ្វើសិល្បៈ ឬគ្រាន់តែសម្លឹងមើលមេឃ អាចកំពុងធ្វើឱ្យសេចក្តីរីករាយរបស់អ្នកស្រស់ឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Waiting for life to be fully healed before enjoying it could postpone joy. Let small sparks of hope count, even while you are still mending.",
+        "km": "ការរង់ចាំឱ្យជីវិតជាសះស្បើយទាំងស្រុង មុនពេលរីករាយនឹងវា អាចពន្យារសេចក្តីរីករាយ។ សូមឱ្យផ្កាភ្លើងតូចៗនៃក្តីសង្ឃឹមមានតម្លៃ ទោះបីអ្នកនៅតែកំពុងជាសះស្បើយក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Renewed hope could bring a soft, shining joy. You may feel inspired and gently confident that good things are possible.",
+        "km": "ក្តីសង្ឃឹមថ្មី អាចនាំមកនូវសេចក្តីរីករាយទន់ និងភ្លឺចែងចាំង។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានបំផុសគំនិត និងជឿជាក់ដោយទន់ភ្លន់ថារឿងល្អៗអាចកើតឡើង។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Joy may feel hard to pin down, shifting with your moods. Dreams, music or quiet imagination could be offering glimpses of delight.",
+        "km": "សេចក្តីរីករាយ អាចពិបាកចាប់បាន ហើយប្រែប្រួលតាមអារម្មណ៍របស់អ្នក។ សុបិន តន្ត្រី ឬការស្រមៃស្ងាត់ៗ អាចកំពុងផ្តល់នូវពន្លឺតិចៗនៃភាពរីករាយ។"
+      },
+      "challenge": {
+        "en": "Uncertainty could make you doubt whether you are allowed to feel happy. Trust what genuinely comforts you, and talk to someone if low moods persist.",
+        "km": "ភាពមិនប្រាកដប្រជា អាចធ្វើឱ្យអ្នកសង្ស័យថាតើអ្នកត្រូវបានអនុញ្ញាតឱ្យមានអារម្មណ៍សប្បាយឬអត់។ សូមទុកចិត្តលើអ្វីដែលពិតជាលួងលោមអ្នក ហើយនិយាយជាមួយនរណាម្នាក់ ប្រសិនបើអារម្មណ៍ធ្លាក់ចុះនៅតែបន្ត។"
+      },
+      "outcome": {
+        "en": "Clarity could bring a gentler, more trusting joy. You may find that what delights you becomes easier to recognise and hold.",
+        "km": "ភាពច្បាស់លាស់ អាចនាំមកនូវសេចក្តីរីករាយដែលទន់ភ្លន់ និងទុកចិត្តជាង។ អ្នកអាចឃើញថាអ្វីដែលធ្វើឱ្យអ្នករីករាយ កាន់តែងាយស្គាល់ និងរក្សាទុក។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Plain, open-hearted happiness may be shining through your life. Warmth, laughter and being outdoors could be filling you with energy.",
+        "km": "សុភមង្គលសាមញ្ញ និងបើកចិត្ត អាចកំពុងភ្លឺចែងចាំងក្នុងជីវិតរបស់អ្នក។ ភាពកក់ក្តៅ ការសើច និងការនៅខាងក្រៅ អាចកំពុងបំពេញអ្នកដោយថាមពល។"
+      },
+      "challenge": {
+        "en": "Expecting to feel bright every moment could make ordinary moods feel like failure. Enjoy the sunshine fully, and let quieter feelings have their place too.",
+        "km": "ការរំពឹងថាត្រូវមានអារម្មណ៍ភ្លឺស្វាងគ្រប់ពេល អាចធ្វើឱ្យអារម្មណ៍ធម្មតាមើលទៅដូចជាការបរាជ័យ។ សូមរីករាយនឹងពន្លឺថ្ងៃឱ្យពេញលេញ ហើយទុកកន្លែងឱ្យអារម្មណ៍ស្ងាត់ៗផងដែរ។"
+      },
+      "outcome": {
+        "en": "Generous warmth could bring a radiant, shared joy. You may find your happiness spreading to people around you and coming back.",
+        "km": "ភាពកក់ក្តៅដ៏សប្បុរស អាចនាំមកនូវសេចក្តីរីករាយភ្លឺថ្លា និងចែករំលែក។ អ្នកអាចឃើញសុភមង្គលរបស់អ្នករីករាលដាលទៅមនុស្សជុំវិញអ្នក ហើយត្រឡប់មកវិញ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Answering a deeper calling may be stirring a fresh sense of joy. Rediscovering what inspired you could feel like waking up again.",
+        "km": "ការឆ្លើយតបនឹងការហៅដ៏ជ្រាលជ្រៅ អាចកំពុងដាស់អារម្មណ៍រីករាយថ្មី។ ការរកឃើញឡើងវិញនូវអ្វីដែលធ្លាប់បំផុសគំនិតអ្នក អាចមានអារម្មណ៍ដូចជាការភ្ញាក់ឡើងម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Judging yourself for joys you set aside could stop you from returning to them. Forgive the gap, and pick up what still calls to you.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងចំពោះសេចក្តីរីករាយដែលអ្នកបានទុកចោល អាចរារាំងអ្នកពីការត្រឡប់ទៅរកវាវិញ។ សូមអភ័យទោសចំពោះចន្លោះនោះ ហើយយកអ្វីដែលនៅតែហៅអ្នកមកវិញ។"
+      },
+      "outcome": {
+        "en": "Renewal could bring a joy that feels meaningful and alive. You may sense that you are living closer to your true purpose.",
+        "km": "ការកែប្រែជាថ្មី អាចនាំមកនូវសេចក្តីរីករាយដែលមានអត្ថន័យ និងរស់រវើក។ អ្នកអាចមានអារម្មណ៍ថាអ្នកកំពុងរស់នៅកាន់តែជិតគោលបំណងពិតរបស់អ្នក។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "A sense of completion may be bringing you full, rounded joy. Finishing something important or exploring somewhere new could leave you feeling whole.",
+        "km": "អារម្មណ៍នៃការបញ្ចប់ អាចកំពុងនាំមកនូវសេចក្តីរីករាយពេញលេញ។ ការបញ្ចប់អ្វីមួយដ៏សំខាន់ ឬការរុករកកន្លែងថ្មី អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ពេញលេញ។"
+      },
+      "challenge": {
+        "en": "Rushing past a finish without enjoying it could leave joy unfelt. Pause to celebrate what you have completed before you start the next thing.",
+        "km": "ការប្រញាប់ឆ្លងកាត់ការបញ្ចប់ដោយមិនរីករាយនឹងវា អាចធ្វើឱ្យសេចក្តីរីករាយមិនត្រូវបានទទួលអារម្មណ៍។ សូមផ្អាកដើម្បីអបអរអ្វីដែលអ្នកបានបញ្ចប់ មុនពេលចាប់ផ្តើមរឿងបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Fulfilment could bring a deep, contented joy. You may feel that your life is coming together in a way that makes sense.",
+        "km": "ការបំពេញបាន អាចនាំមកនូវសេចក្តីរីករាយជ្រាលជ្រៅ និងពេញចិត្ត។ អ្នកអាចមានអារម្មណ៍ថាជីវិតរបស់អ្នកកំពុងប្រមូលផ្តុំគ្នាតាមរបៀបដែលសមហេតុផល។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A spark of excitement about a new idea may be lighting you up. Starting something that genuinely thrills you could be your liveliest source of joy.",
+        "km": "ផ្កាភ្លើងនៃភាពរំភើបអំពីគំនិតថ្មីមួយ អាចកំពុងធ្វើឱ្យអ្នកភ្លឺស្វាង។ ការចាប់ផ្តើមអ្វីមួយដែលពិតជាធ្វើឱ្យអ្នករំភើប អាចជាប្រភពសេចក្តីរីករាយដ៏រស់រវើកបំផុតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting a bright idea fizzle unused could leave you flat. Give your spark a small outlet, even if it is only a first sketch.",
+        "km": "ការទុកឱ្យគំនិតភ្លឺស្វាងរលត់ដោយមិនប្រើ អាចធ្វើឱ្យអ្នកអស់កម្លាំងចិត្ត។ សូមផ្តល់ឱ្យផ្កាភ្លើងរបស់អ្នកនូវផ្លូវចេញតូចមួយ ទោះបីវាគ្រាន់តែជាគំនូរព្រាងដំបូងក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Following your enthusiasm could bring a fiery, energising joy. You may feel more alive as you give shape to what excites you.",
+        "km": "ការធ្វើតាមភាពរំភើបរបស់អ្នក អាចនាំមកនូវសេចក្តីរីករាយដ៏ក្តៅគគុក និងផ្តល់ថាមពល។ អ្នកអាចមានអារម្មណ៍រស់រវើកជាងមុន នៅពេលអ្នកផ្តល់រូបរាងដល់អ្វីដែលធ្វើឱ្យអ្នករំភើប។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Imagining new horizons may be stirring a hopeful joy. Planning a trip, a project or a different direction could be lifting your heart.",
+        "km": "ការស្រមៃពីជើងមេឃថ្មី អាចកំពុងដាស់សេចក្តីរីករាយពោរពេញដោយក្តីសង្ឃឹម។ ការគ្រោងដំណើរកម្សាន្ត គម្រោង ឬទិសដៅផ្សេង អាចកំពុងលើកចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Staying in the planning stage could keep joy just out of reach. Take one small step towards the horizon you keep picturing.",
+        "km": "ការស្ថិតនៅក្នុងដំណាក់កាលគ្រោង អាចរក្សាសេចក្តីរីករាយឱ្យនៅហួសដៃបន្តិច។ សូមបោះជំហានតូចមួយឆ្ពោះទៅរកជើងមេឃដែលអ្នកតែងស្រមៃ។"
+      },
+      "outcome": {
+        "en": "Choosing a direction could bring the joy of looking forward to something. You may feel eager and open as wider possibilities come into view.",
+        "km": "ការជ្រើសរើសទិសដៅ អាចនាំមកនូវសេចក្តីរីករាយនៃការទន្ទឹងរង់ចាំអ្វីមួយ។ អ្នកអាចមានអារម្មណ៍ចង់បាន និងបើកចំហ នៅពេលលទ្ធភាពកាន់តែទូលាយលេចឡើង។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Watching your efforts start to pay off may be bringing you joy. Seeing plans spread outward could be filling you with eager anticipation.",
+        "km": "ការមើលការខិតខំរបស់អ្នកចាប់ផ្តើមបង្កើតផល អាចកំពុងនាំមកនូវសេចក្តីរីករាយ។ ការឃើញផែនការរីករាលដាលទៅមុខ អាចកំពុងបំពេញអ្នកដោយការទន្ទឹងរង់ចាំដ៏រំភើប។"
+      },
+      "challenge": {
+        "en": "Waiting impatiently for results could spoil the pleasure of the journey. Enjoy what is unfolding without needing to know exactly how it ends.",
+        "km": "ការរង់ចាំលទ្ធផលដោយមិនអត់ធ្មត់ អាចបំផ្លាញភាពរីករាយនៃដំណើរ។ សូមរីករាយនឹងអ្វីដែលកំពុងលាតត្រដាង ដោយមិនចាំបាច់ដឹងច្បាស់ថាវាបញ្ចប់យ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Expanding horizons could bring an adventurous, hopeful joy. You may enjoy seeing how far your efforts and curiosity can reach.",
+        "km": "ជើងមេឃដែលពង្រីក អាចនាំមកនូវសេចក្តីរីករាយដ៏ផ្សងព្រេង និងពោរពេញដោយក្តីសង្ឃឹម។ អ្នកអាចរីករាយក្នុងការឃើញថាការខិតខំ និងការចង់ដឹងរបស់អ្នកអាចទៅដល់ឆ្ងាយប៉ុណ្ណា។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Celebration and a happy home life may be filling you with joy. Gatherings, milestones or simply feeling settled could be warming your heart.",
+        "km": "ការប្រារព្ធពិធី និងជីវិតគ្រួសារសប្បាយ អាចកំពុងបំពេញអ្នកដោយសេចក្តីរីករាយ។ ការជួបជុំ ព្រឹត្តិការណ៍សំខាន់ៗ ឬគ្រាន់តែមានអារម្មណ៍ស្ថិតស្ថេរ អាចកំពុងធ្វើឱ្យចិត្តរបស់អ្នកកក់ក្តៅ។"
+      },
+      "challenge": {
+        "en": "Saving joy only for big occasions could make ordinary life feel dull. Find small reasons to celebrate with the people around you.",
+        "km": "ការទុកសេចក្តីរីករាយតែសម្រាប់ឱកាសធំៗ អាចធ្វើឱ្យជីវិតធម្មតាមានអារម្មណ៍ស្ងួត។ សូមរកហេតុផលតូចៗដើម្បីអបអរជាមួយមនុស្សជុំវិញអ្នក។"
+      },
+      "outcome": {
+        "en": "Shared celebration could bring a warm, festive joy. You may feel a happy sense of home and belonging among those you love.",
+        "km": "ការអបអររួមគ្នា អាចនាំមកនូវសេចក្តីរីករាយកក់ក្តៅ និងបុណ្យទាន។ អ្នកអាចមានអារម្មណ៍រីករាយនៃផ្ទះ និងការជាផ្នែកមួយក្នុងចំណោមអ្នកដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Friendly competition or lively debate may be giving you a buzz of joy. A good challenge could be bringing out your energy and humour.",
+        "km": "ការប្រកួតប្រជែងដោយមិត្តភាព ឬការជជែកដេញដោលដ៏រស់រវើក អាចកំពុងផ្តល់ឱ្យអ្នកនូវភាពរំភើបរីករាយ។ ការប្រកួតល្អមួយ អាចកំពុងទាញចេញនូវថាមពល និងភាពកំប្លែងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Constant friction could wear down your good mood. Step back from arguments that bring no pleasure, and choose contests that feel fun.",
+        "km": "ការកកិតជាប់ជានិច្ច អាចធ្វើឱ្យអារម្មណ៍ល្អរបស់អ្នកស្រុតចុះ។ សូមដកខ្លួនចេញពីការឈ្លោះប្រកែកដែលមិននាំមកនូវភាពរីករាយ ហើយជ្រើសរើសការប្រកួតដែលមានភាពសប្បាយ។"
+      },
+      "outcome": {
+        "en": "Playful rivalry could bring an energetic, sociable joy. You may enjoy pushing yourself alongside others who share your passions.",
+        "km": "ការប្រកួតប្រជែងបែបលេងសើច អាចនាំមកនូវសេចក្តីរីករាយដ៏មានថាមពល និងសង្គម។ អ្នកអាចរីករាយក្នុងការជំរុញខ្លួនឯងជាមួយអ្នកដទៃ ដែលចែករំលែកចំណង់ចំណូលចិត្តដូចអ្នក។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Being recognised for something you did well may be lifting your spirits. Praise or a small success could be bringing a proud, happy glow.",
+        "km": "ការត្រូវបានទទួលស្គាល់ចំពោះអ្វីដែលអ្នកបានធ្វើបានល្អ អាចកំពុងលើកស្មារតីរបស់អ្នក។ ការសរសើរ ឬភាពជោគជ័យតូចមួយ អាចកំពុងនាំមកនូវពន្លឺនៃមោទនភាព និងរីករាយ។"
+      },
+      "challenge": {
+        "en": "Depending on applause for happiness could leave you feeling empty when it fades. Enjoy your wins quietly for yourself, not only when others are watching.",
+        "km": "ការពឹងផ្អែកលើការទះដៃសម្រាប់សុភមង្គល អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ទទេ នៅពេលវារសាត់បាត់។ សូមរីករាយនឹងជ័យជម្នះរបស់អ្នកដោយស្ងាត់ៗសម្រាប់ខ្លួនឯង មិនមែនតែនៅពេលអ្នកដទៃកំពុងមើលនោះទេ។"
+      },
+      "outcome": {
+        "en": "Honest pride could bring a confident, uplifting joy. You may feel glad of what you have achieved and keen to share it.",
+        "km": "មោទនភាពដោយស្មោះ អាចនាំមកនូវសេចក្តីរីករាយដែលមានទំនុកចិត្ត និងលើកទឹកចិត្ត។ អ្នកអាចរីករាយចំពោះអ្វីដែលអ្នកបានសម្រេច និងចង់ចែករំលែកវា។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Standing up for something you believe in may be giving you a fierce kind of joy. Holding your ground on what matters could feel deeply satisfying.",
+        "km": "ការក្រោកឈរការពារអ្វីមួយដែលអ្នកជឿ អាចកំពុងផ្តល់ឱ្យអ្នកនូវសេចក្តីរីករាយដ៏ខ្លាំងក្លា។ ការឈររឹងមាំលើអ្វីដែលសំខាន់ អាចមានអារម្មណ៍ពេញចិត្តយ៉ាងជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Always being on guard could leave no space to relax and enjoy. Choose which battles are worth it, and let yourself rest between them.",
+        "km": "ការប្រុងប្រយ័ត្នជានិច្ច អាចមិនទុកលំហសម្រាប់សម្រាក និងរីករាយ។ សូមជ្រើសរើសថាការតស៊ូណាដែលសមនឹងខិតខំ ហើយអនុញ្ញាតឱ្យខ្លួនឯងសម្រាករវាងពួកវា។"
+      },
+      "outcome": {
+        "en": "Defending your values could bring a strong, self-respecting joy. You may feel proud of standing true to yourself.",
+        "km": "ការការពារគុណតម្លៃរបស់អ្នក អាចនាំមកនូវសេចក្តីរីករាយដ៏រឹងមាំ និងគោរពខ្លួនឯង។ អ្នកអាចមានមោទនភាពចំពោះការឈរស្មោះត្រង់នឹងខ្លួនឯង និងអ្វីដែលអ្នកជឿ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things moving smoothly may be giving you a rush of joy. Good news or plans falling into place could be energising you.",
+        "km": "អ្វីៗដែលដំណើរការយ៉ាងរលូន អាចកំពុងផ្តល់ឱ្យអ្នកនូវរលកនៃសេចក្តីរីករាយ។ ដំណឹងល្អ ឬផែនការដែលចូលកន្លែង អាចកំពុងផ្តល់ថាមពលដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Racing from one thing to the next could leave no space to savour any of it. Pause long enough to notice when something good has happened.",
+        "km": "ការប្រញាប់ពីរឿងមួយទៅរឿងមួយទៀត អាចមិនទុកលំហដើម្បីភ្លក់រសជាតិវាណាមួយ។ សូមផ្អាកឱ្យបានគ្រប់គ្រាន់ ដើម្បីកត់សម្គាល់នៅពេលមានរឿងល្អកើតឡើង។"
+      },
+      "outcome": {
+        "en": "Momentum could bring an exhilarating, forward-moving joy. You may enjoy the feeling of life opening up in the directions you hoped for.",
+        "km": "សន្ទុះ អាចនាំមកនូវសេចក្តីរីករាយដ៏រំភើប និងឆ្ពោះទៅមុខ។ អ្នកអាចរីករាយនឹងអារម្មណ៍នៃជីវិតដែលបើកចំហតាមទិសដៅដែលអ្នកសង្ឃឹម។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Joy may feel guarded after hard knocks. Noticing that you are still standing could bring a quiet, stubborn pleasure.",
+        "km": "សេចក្តីរីករាយ អាចមានអារម្មណ៍ប្រុងប្រយ័ត្ន បន្ទាប់ពីការប៉ះទង្គិចដ៏លំបាក។ ការកត់សម្គាល់ថាអ្នកនៅតែឈរ អាចនាំមកនូវភាពរីករាយស្ងាត់ៗ និងរឹងរូស។"
+      },
+      "challenge": {
+        "en": "Bracing for the next blow could keep you from enjoying what is good. Lower your guard a little where you feel safe, and let lightness in.",
+        "km": "ការត្រៀមខ្លួនសម្រាប់ការវាយប្រហារបន្ទាប់ អាចរារាំងអ្នកពីការរីករាយនឹងអ្វីដែលល្អ។ សូមបន្ទាបការប្រុងប្រយ័ត្នរបស់អ្នកបន្តិច នៅកន្លែងដែលអ្នកមានអារម្មណ៍សុវត្ថិភាព ហើយទុកឱ្យភាពស្រាលចូលមក។"
+      },
+      "outcome": {
+        "en": "Resilience could bring a hard-earned, grounded joy. You may appreciate good moments more because you know what it took to reach them.",
+        "km": "ភាពធន់ អាចនាំមកនូវសេចក្តីរីករាយដែលទទួលបានដោយលំបាក និងនឹងធឹង។ អ្នកអាចឱ្យតម្លៃលើគ្រាល្អៗកាន់តែច្រើន ព្រោះអ្នកដឹងថាត្រូវខិតខំប៉ុណ្ណាដើម្បីទៅដល់។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Carrying too many duties may be squeezing joy out of your life. Feeling responsible for everything could leave little energy for fun.",
+        "km": "ការទទួលកាតព្វកិច្ចច្រើនពេក អាចកំពុងច្របាច់សេចក្តីរីករាយចេញពីជីវិតរបស់អ្នក។ ការមានអារម្មណ៍ទទួលខុសត្រូវលើអ្វីៗទាំងអស់ អាចទុកថាមពលតិចតួចសម្រាប់ភាពសប្បាយ។"
+      },
+      "challenge": {
+        "en": "Believing you have to earn joy by finishing everything could keep it out of reach. Put down one burden, and let yourself enjoy something simple.",
+        "km": "ការជឿថាអ្នកត្រូវតែទទួលបានសេចក្តីរីករាយ ដោយបញ្ចប់អ្វីៗទាំងអស់ អាចធ្វើឱ្យវានៅហួសដៃ។ សូមដាក់បន្ទុកមួយចុះ ហើយអនុញ្ញាតឱ្យខ្លួនឯងរីករាយនឹងអ្វីមួយសាមញ្ញ។"
+      },
+      "outcome": {
+        "en": "Lightening your load could make room for joy to return. You may rediscover pleasures that pressure had pushed aside.",
+        "km": "ការបន្ធូរបន្ទុករបស់អ្នក អាចបង្កើតកន្លែងឱ្យសេចក្តីរីករាយត្រឡប់មកវិញ។ អ្នកអាចរកឃើញឡើងវិញនូវភាពរីករាយ ដែលសម្ពាធបានរុញចេញទៅម្ខាង។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity and a playful sense of adventure may be your joy. Trying a new hobby or exploring something unfamiliar could feel delightful.",
+        "km": "ការចង់ដឹងចង់ឃើញ និងស្មារតីផ្សងព្រេងបែបលេងសើច អាចជាសេចក្តីរីករាយរបស់អ្នក។ ការសាកល្បងចំណង់ចំណូលចិត្តថ្មី ឬការរុករកអ្វីមួយដែលមិនធ្លាប់ស្គាល់ អាចមានអារម្មណ៍រីករាយ។"
+      },
+      "challenge": {
+        "en": "Dropping each new interest when it gets harder could leave joy shallow. Stay with one passion a little longer to find its deeper rewards.",
+        "km": "ការបោះបង់ចំណាប់អារម្មណ៍ថ្មីនីមួយៗ នៅពេលវាពិបាកជាងមុន អាចធ្វើឱ្យសេចក្តីរីករាយរាក់។ សូមនៅជាមួយចំណង់ចំណូលចិត្តមួយឱ្យយូរបន្តិច ដើម្បីរកឃើញរង្វាន់ជ្រៅជាងរបស់វា។"
+      },
+      "outcome": {
+        "en": "Playful exploration could bring a bright, youthful joy. You may feel excited by how much there is still to discover.",
+        "km": "ការរុករកបែបលេងសើច អាចនាំមកនូវសេចក្តីរីករាយភ្លឺស្វាង និងក្មេងខ្ចី។ អ្នកអាចមានអារម្មណ៍រំភើបចំពោះអ្វីៗជាច្រើនដែលនៅតែរង់ចាំការរកឃើញ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold action and movement may be lifting your spirits. Physical activity, travel or diving into a passion could be bringing a lively joy.",
+        "km": "សកម្មភាពក្លាហាន និងចលនា អាចកំពុងលើកស្មារតីរបស់អ្នក។ សកម្មភាពរាងកាយ ការធ្វើដំណើរ ឬការលោតចូលក្នុងចំណង់ចំណូលចិត្ត អាចកំពុងនាំមកនូវសេចក្តីរីករាយរស់រវើក។"
+      },
+      "challenge": {
+        "en": "Rushing from thrill to thrill could leave you restless rather than happy. Channel your energy into one adventure you can fully enjoy.",
+        "km": "ការប្រញាប់ពីភាពរំភើបមួយទៅមួយទៀត អាចធ្វើឱ្យអ្នកមិនស្ងប់ ជាជាងសប្បាយ។ សូមដឹកនាំថាមពលរបស់អ្នកទៅកាន់ការផ្សងព្រេងមួយ ដែលអ្នកអាចរីករាយបានពេញលេញ។"
+      },
+      "outcome": {
+        "en": "Passionate energy could bring an adventurous, exhilarating joy. You may feel free and alive as you follow what excites you.",
+        "km": "ថាមពលដ៏ងប់ងល់ អាចនាំមកនូវសេចក្តីរីករាយដ៏ផ្សងព្រេង និងរំភើប។ អ្នកអាចមានអារម្មណ៍សេរី និងរស់រវើក នៅពេលអ្នកធ្វើតាមអ្វីដែលធ្វើឱ្យអ្នករំភើប។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Warmth, confidence and social energy may be bringing you joy. Being yourself among friends could be lighting up your spirit.",
+        "km": "ភាពកក់ក្តៅ ទំនុកចិត្ត និងថាមពលសង្គម អាចកំពុងនាំមកនូវសេចក្តីរីករាយ។ ការធ្វើជាខ្លួនឯងក្នុងចំណោមមិត្តភក្តិ អាចកំពុងធ្វើឱ្យស្មារតីរបស់អ្នកភ្លឺស្វាង។"
+      },
+      "challenge": {
+        "en": "Performing happiness to please a crowd could leave you drained. Let yourself be real, and share your warmth without putting on a show.",
+        "km": "ការសម្តែងសុភមង្គលដើម្បីផ្គាប់ចិត្តហ្វូងមនុស្ស អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមអនុញ្ញាតឱ្យខ្លួនឯងជាមនុស្សពិត ហើយចែករំលែកភាពកក់ក្តៅរបស់អ្នក ដោយមិនធ្វើជាសម្តែង។"
+      },
+      "outcome": {
+        "en": "Radiant self-expression could bring a generous, sociable joy. You may find that your enthusiasm draws people in and lifts them too.",
+        "km": "ការបញ្ចេញខ្លួនឯងដ៏ភ្លឺស្វាង អាចនាំមកនូវសេចក្តីរីករាយសប្បុរស និងសង្គម។ អ្នកអាចឃើញថាភាពរំភើបរបស់អ្នកទាក់ទាញមនុស្ស និងលើកស្មារតីពួកគេផងដែរ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Leading a project or guiding others may be bringing you real joy. Turning a vision into action could be filling you with purpose.",
+        "km": "ការដឹកនាំគម្រោង ឬការណែនាំអ្នកដទៃ អាចកំពុងនាំមកនូវសេចក្តីរីករាយពិតប្រាកដ។ ការប្រែក្លាយចក្ខុវិស័យមួយទៅជាសកម្មភាព អាចកំពុងបំពេញអ្នកដោយគោលបំណង។"
+      },
+      "challenge": {
+        "en": "Taking every responsibility on yourself could crowd out play. Share the lead, and leave time for joys that ask nothing of you.",
+        "km": "ការទទួលយកការទទួលខុសត្រូវទាំងអស់លើខ្លួនឯង អាចច្រានការលេងចេញ។ សូមចែករំលែកការដឹកនាំ ហើយទុកលំហសម្រាប់សេចក្តីរីករាយដែលមិនទាមទារអ្វីពីអ្នក។"
+      },
+      "outcome": {
+        "en": "Visionary leadership could bring a proud, purposeful joy. You may feel fulfilled by inspiring others and seeing your ideas come alive.",
+        "km": "ការដឹកនាំដែលមានចក្ខុវិស័យ អាចនាំមកនូវសេចក្តីរីករាយដែលមានមោទនភាព និងគោលបំណង។ អ្នកអាចមានអារម្មណ៍ពេញចិត្តដោយការបំផុសគំនិតអ្នកដទៃ និងឃើញគំនិតរបស់អ្នករស់រវើក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "An open heart may be your richest source of joy. New affection, kindness or a moving moment could be filling you to the brim.",
+        "km": "ចិត្តបើកចំហ អាចជាប្រភពសេចក្តីរីករាយដ៏សម្បូរបំផុតរបស់អ្នក។ ស្នេហាថ្មី សេចក្តីសប្បុរស ឬគ្រាដែលរំជួលចិត្ត អាចកំពុងបំពេញអ្នករហូតដល់ពេញ។"
+      },
+      "challenge": {
+        "en": "Holding back your feelings could keep joy from flowing in. Let yourself be moved, and say the warm thing you are thinking.",
+        "km": "ការទប់អារម្មណ៍របស់អ្នក អាចរារាំងសេចក្តីរីករាយពីការហូរចូល។ សូមអនុញ្ញាតឱ្យខ្លួនឯងរំជួលចិត្ត ហើយនិយាយរឿងកក់ក្តៅដែលអ្នកកំពុងគិត។"
+      },
+      "outcome": {
+        "en": "Emotional openness could bring an overflowing, tender joy. You may feel deeply connected to the people and moments you cherish.",
+        "km": "ការបើកចិត្តផ្លូវអារម្មណ៍ អាចនាំមកនូវសេចក្តីរីករាយទន់ភ្លន់ដែលហៀរហូរ។ អ្នកអាចមានអារម្មណ៍ភ្ជាប់យ៉ាងជ្រាលជ្រៅជាមួយមនុស្ស និងគ្រាដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A close, mutual bond may be bringing you great joy. Feeling truly seen by one person could be making your heart light.",
+        "km": "ចំណងស្និទ្ធស្នាលទៅវិញទៅមក អាចកំពុងនាំមកនូវសេចក្តីរីករាយដ៏ធំ។ អារម្មណ៍ថាត្រូវបានមើលឃើញពិតប្រាកដដោយមនុស្សម្នាក់ អាចកំពុងធ្វើឱ្យចិត្តរបស់អ្នកស្រាល។"
+      },
+      "challenge": {
+        "en": "Taking a special connection for granted could let its warmth fade. Show your appreciation openly, and make room for shared moments.",
+        "km": "ការចាត់ទុកទំនាក់ទំនងពិសេសមួយជារឿងធម្មតា អាចធ្វើឱ្យភាពកក់ក្តៅរបស់វារសាត់។ សូមបង្ហាញការដឹងគុណរបស់អ្នកដោយបើកចំហ ហើយបង្កើតកន្លែងសម្រាប់គ្រារួមគ្នា។"
+      },
+      "outcome": {
+        "en": "Mutual care could bring a warm, balanced joy. You may feel the happiness of giving and receiving love in equal measure.",
+        "km": "ការយកចិត្តទុកដាក់គ្នាទៅវិញទៅមក អាចនាំមកនូវសេចក្តីរីករាយកក់ក្តៅ និងមានតុល្យភាព។ អ្នកអាចមានអារម្មណ៍សុភមង្គលនៃការផ្តល់ និងទទួលស្នេហាក្នុងកម្រិតស្មើគ្នា។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Laughter with friends may be bringing you plenty of joy. Shared meals, celebrations or simply good company could be lifting your mood.",
+        "km": "ការសើចជាមួយមិត្តភក្តិ អាចកំពុងនាំមកនូវសេចក្តីរីករាយច្រើន។ អាហាររួមគ្នា ការអបអរ ឬគ្រាន់តែការនៅជាមួយមនុស្សល្អ អាចកំពុងលើកអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting busyness push friends aside could leave you missing their warmth. Reach out to one friend, and plan something fun you can share together.",
+        "km": "ការទុកឱ្យភាពរវល់រុញមិត្តភក្តិទៅម្ខាង អាចធ្វើឱ្យអ្នកនឹកភាពកក់ក្តៅរបស់ពួកគេ។ សូមទាក់ទងមិត្តម្នាក់ ហើយគ្រោងធ្វើអ្វីមួយដែលសប្បាយ ដែលអ្នកអាចចែករំលែកជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "Good company could bring a bubbly, generous joy. You may feel happily surrounded by people who celebrate you as you are.",
+        "km": "ការនៅជាមួយមនុស្សល្អ អាចនាំមកនូវសេចក្តីរីករាយដ៏ស្រស់ស្រាយ និងសប្បុរស។ អ្នកអាចមានអារម្មណ៍រីករាយ ដែលត្រូវបានហ៊ុំព័ទ្ធដោយមនុស្សដែលអបអរអ្នកដូចអ្នកជា។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Little on offer may truly appeal to you, and pleasures can feel muted. Feeling flat could be a sign that you need something different, not more of the same.",
+        "km": "ប្រហែលជាមានតិចតួចណាស់ដែលទាក់ទាញអ្នកពិតប្រាកដ ហើយភាពរីករាយអាចមានអារម្មណ៍ស្រអាប់។ ការមានអារម្មណ៍ស្ងួត អាចជាសញ្ញាថាអ្នកត្រូវការអ្វីមួយខុសពីមុន មិនមែនច្រើនទៀតនៃរឿងដដែលនោះទេ។"
+      },
+      "challenge": {
+        "en": "Turning down every offer could keep you from finding a new delight. Say yes to one small invitation, even if your enthusiasm is low.",
+        "km": "ការបដិសេធរាល់ការផ្តល់ជូន អាចរារាំងអ្នកពីការរកឃើញភាពរីករាយថ្មី។ សូមយល់ព្រមចំពោះការអញ្ជើញតូចមួយ ទោះបីភាពរំភើបរបស់អ្នកទាបក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Renewed interest could bring a gentle return of joy. You may notice a fresh opportunity for pleasure that had been right beside you.",
+        "km": "ចំណាប់អារម្មណ៍ថ្មី អាចនាំមកនូវការត្រឡប់មកវិញដ៏ទន់ភ្លន់នៃសេចក្តីរីករាយ។ អ្នកអាចកត់សម្គាល់ឱកាសថ្មីសម្រាប់ភាពរីករាយ ដែលនៅក្បែរអ្នករួចហើយ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Disappointment may be overshadowing what still brings you joy. Noticing what remains good could help you feel a little lighter.",
+        "km": "ការខកចិត្ត អាចកំពុងគ្របដណ្តប់អ្វីដែលនៅតែនាំមកនូវសេចក្តីរីករាយ។ ការកត់សម្គាល់អ្វីដែលនៅតែល្អ អាចជួយអ្នកឱ្យមានអារម្មណ៍ស្រាលបន្តិច។"
+      },
+      "challenge": {
+        "en": "Focusing only on what was lost could keep joy out of sight. Grieve honestly, then turn to look at what is still standing.",
+        "km": "ការផ្តោតតែលើអ្វីដែលបានបាត់បង់ អាចលាក់សេចក្តីរីករាយពីការមើលឃើញ។ សូមកាន់ទុក្ខដោយស្មោះ រួចបែរមើលអ្វីដែលនៅតែឈរ។"
+      },
+      "outcome": {
+        "en": "Accepting loss could open the way for joy to return. You may feel grateful for the good that stayed, and hopeful about what comes.",
+        "km": "ការទទួលយកការបាត់បង់ អាចបើកផ្លូវឱ្យសេចក្តីរីករាយត្រឡប់មកវិញ។ អ្នកអាចមានអារម្មណ៍ដឹងគុណចំពោះរឿងល្អដែលនៅសល់ និងសង្ឃឹមលើអ្វីដែលនឹងមកដល់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Childhood pleasures and sweet memories may be bringing you joy. Revisiting an old hobby, song or friend could make you smile.",
+        "km": "ភាពរីករាយកាលពីកុមារភាព និងអនុស្សាវរីយ៍ផ្អែមល្ហែម អាចកំពុងនាំមកនូវសេចក្តីរីករាយ។ ការត្រឡប់ទៅរកចំណង់ចំណូលចិត្ត បទចម្រៀង ឬមិត្តចាស់ អាចធ្វើឱ្យអ្នកញញឹម។"
+      },
+      "challenge": {
+        "en": "Feeling that the best joys are behind you could make you miss new ones. Bring the playful spirit of old memories into the things you do.",
+        "km": "អារម្មណ៍ថាសេចក្តីរីករាយល្អបំផុតបានកន្លងផុតទៅ អាចធ្វើឱ្យអ្នកខកខានសេចក្តីរីករាយថ្មី។ សូមនាំស្មារតីលេងសើចនៃអនុស្សាវរីយ៍ចាស់ៗ មកក្នុងអ្វីដែលអ្នកធ្វើ។"
+      },
+      "outcome": {
+        "en": "Innocent playfulness could bring a sweet, simple joy. You may feel lighter as you let yourself enjoy things without overthinking.",
+        "km": "ភាពលេងសើចដោយស្លូតត្រង់ អាចនាំមកនូវសេចក្តីរីករាយផ្អែមល្ហែម និងសាមញ្ញ។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលអ្នកអនុញ្ញាតឱ្យខ្លួនឯងរីករាយដោយមិនគិតច្រើនពេក។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Daydreams and many tempting options may be stirring your imagination. Picturing different kinds of happiness could be fun but hard to pin down.",
+        "km": "ការស្រមៃពេលភ្ញាក់ និងជម្រើសគួរឱ្យទាក់ទាញជាច្រើន អាចកំពុងដាស់ការស្រមៃរបស់អ្នក។ ការស្រមៃពីសុភមង្គលប្រភេទផ្សេងៗ អាចសប្បាយ ប៉ុន្តែពិបាកចាប់យកឱ្យច្បាស់។"
+      },
+      "challenge": {
+        "en": "Waiting for the perfect choice could leave you enjoying none of them. Pick one pleasure that feels real, and give it your full attention.",
+        "km": "ការរង់ចាំជម្រើសដ៏ល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកមិនរីករាយនឹងជម្រើសណាមួយឡើយ។ សូមជ្រើសរើសភាពរីករាយមួយដែលមានអារម្មណ៍ពិត ហើយផ្តល់ការយកចិត្តទុកដាក់ពេញលេញដល់វា។"
+      },
+      "outcome": {
+        "en": "Clear choices could turn dreams into real enjoyment. You may find delight in one path you commit to with your whole heart.",
+        "km": "ជម្រើសច្បាស់លាស់ អាចប្រែក្លាយក្តីស្រមៃទៅជាភាពរីករាយពិតប្រាកដ។ អ្នកអាចរកឃើញភាពរីករាយក្នុងផ្លូវមួយដែលអ្នកប្តេជ្ញាដោយអស់ពីចិត្ត។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Joy may be calling you away from what no longer fulfils you. Seeking something more meaningful could already feel like a quiet relief.",
+        "km": "សេចក្តីរីករាយ អាចកំពុងហៅអ្នកចេញពីអ្វីដែលលែងបំពេញចិត្តអ្នក។ ការស្វែងរកអ្វីមួយដែលមានអត្ថន័យជាង អាចមានអារម្មណ៍ដូចជាការធូរស្រាលស្ងាត់ៗរួចហើយ។"
+      },
+      "challenge": {
+        "en": "Staying where you feel empty out of habit could drain your joy bit by bit. Give yourself permission to look for something that suits you better.",
+        "km": "ការនៅកន្លែងដែលអ្នកមានអារម្មណ៍ទទេដោយសារទម្លាប់ អាចបង្ហូរសេចក្តីរីករាយរបស់អ្នកបន្តិចម្តងៗ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងរកមើលអ្វីមួយដែលសមនឹងអ្នកជាង។"
+      },
+      "outcome": {
+        "en": "Walking towards meaning could bring a deeper, truer joy. You may feel lighter for choosing what feeds your soul.",
+        "km": "ការដើរឆ្ពោះទៅរកអត្ថន័យ អាចនាំមកនូវសេចក្តីរីករាយជ្រៅ និងពិតជាង។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន ដោយសារការជ្រើសរើសអ្វីដែលចិញ្ចឹមព្រលឹងរបស់អ្នក។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Simple contentment may be bringing you real joy. Enjoying comforts you have worked for could leave you feeling satisfied and at ease.",
+        "km": "ភាពពេញចិត្តសាមញ្ញ អាចកំពុងនាំមកនូវសេចក្តីរីករាយពិតប្រាកដ។ ការរីករាយនឹងភាពស្រួលដែលអ្នកបានខិតខំរក អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ពេញចិត្ត និងស្រួល។"
+      },
+      "challenge": {
+        "en": "Chasing more comforts could make it hard to enjoy what you have. Pause to savour one good thing as if it were enough.",
+        "km": "ការដេញតាមភាពស្រួលបន្ថែម អាចធ្វើឱ្យពិបាករីករាយនឹងអ្វីដែលអ្នកមាន។ សូមផ្អាកដើម្បីភ្លក់រសជាតិរឿងល្អមួយ ហាក់ដូចជាវាគ្រប់គ្រាន់។"
+      },
+      "outcome": {
+        "en": "Gratitude could bring a rich, contented joy. You may feel that your wishes and your reality are closer together than you thought.",
+        "km": "ការដឹងគុណ អាចនាំមកនូវសេចក្តីរីករាយសម្បូរ និងពេញចិត្ត។ អ្នកអាចមានអារម្មណ៍ថាបំណងប្រាថ្នា និងការពិតរបស់អ្នកនៅជិតគ្នាជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Harmony at home and with loved ones may be your deepest joy. Feeling part of a caring circle could fill you with warmth and peace.",
+        "km": "ភាពចុះសម្រុងនៅផ្ទះ និងជាមួយមនុស្សជាទីស្រឡាញ់ អាចជាសេចក្តីរីករាយជ្រៅបំផុតរបស់អ្នក។ អារម្មណ៍ថាជាផ្នែកមួយនៃរង្វង់ដែលយកចិត្តទុកដាក់ អាចបំពេញអ្នកដោយភាពកក់ក្តៅ និងសន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Expecting family life to look perfect could hide the joy already there. Treasure the imperfect, loving moments you share, just as they are.",
+        "km": "ការរំពឹងថាជីវិតគ្រួសារត្រូវតែល្អឥតខ្ចោះ អាចលាក់សេចក្តីរីករាយដែលមានរួចហើយ។ សូមឱ្យតម្លៃលើគ្រាដែលពោរពេញដោយក្តីស្រឡាញ់ ទោះមិនល្អឥតខ្ចោះ ដែលអ្នកចែករំលែក ដូចដែលវាមាន។"
+      },
+      "outcome": {
+        "en": "Close bonds could bring a full, peaceful joy. You may feel surrounded by love and grateful for the life you share with others.",
+        "km": "ចំណងស្និទ្ធស្នាល អាចនាំមកនូវសេចក្តីរីករាយពេញលេញ និងសុខសាន្ត។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានហ៊ុំព័ទ្ធដោយក្តីស្រឡាញ់ និងដឹងគុណចំពោះជីវិតដែលអ្នកចែករំលែកជាមួយអ្នកដទៃ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Gentle creativity and tender feelings may be bringing you joy. A sweet message, a small artwork or a dreamy idea could be delighting you.",
+        "km": "ការច្នៃប្រឌិតទន់ភ្លន់ និងអារម្មណ៍ទន់ៗ អាចកំពុងនាំមកនូវសេចក្តីរីករាយ។ សារផ្អែមល្ហែម ស្នាដៃសិល្បៈតូចមួយ ឬគំនិតស្រមើស្រមៃ អាចកំពុងធ្វើឱ្យអ្នករីករាយ។"
+      },
+      "challenge": {
+        "en": "Brushing off your softer side as silly could limit your joy. Let yourself enjoy whimsy and feeling without needing to justify it.",
+        "km": "ការមើលរំលងផ្នែកទន់ភ្លន់របស់អ្នកថាជារឿងល្ងង់ អាចកំណត់សេចក្តីរីករាយរបស់អ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងរីករាយនឹងភាពចម្លែកគួរឱ្យស្រឡាញ់ និងអារម្មណ៍ ដោយមិនចាំបាច់ពន្យល់។"
+      },
+      "outcome": {
+        "en": "Openness to wonder could bring a sweet, imaginative joy. You may find delight in small surprises that touch your heart.",
+        "km": "ការបើកចិត្តចំពោះភាពអស្ចារ្យ អាចនាំមកនូវសេចក្តីរីករាយផ្អែមល្ហែម និងប្រកបដោយការស្រមៃ។ អ្នកអាចរកឃើញភាពរីករាយក្នុងការភ្ញាក់ផ្អើលតូចៗ ដែលប៉ះពាល់ចិត្តរបស់អ្នក។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Following your heart may be leading you towards joy. Romance, art or a heartfelt pursuit could be making life feel enchanting.",
+        "km": "ការធ្វើតាមចិត្តរបស់អ្នក អាចកំពុងនាំអ្នកទៅរកសេចក្តីរីករាយ។ មនោសញ្ចេតនា សិល្បៈ ឬការស្វែងរកដោយអស់ពីចិត្ត អាចកំពុងធ្វើឱ្យជីវិតមានអារម្មណ៍គួរឱ្យស្រឡាញ់។"
+      },
+      "challenge": {
+        "en": "Chasing an idealised feeling could make real life seem dull by comparison. Look for beauty in the ordinary as well as the dreamy.",
+        "km": "ការដេញតាមអារម្មណ៍ដែលល្អឥតខ្ចោះ អាចធ្វើឱ្យជីវិតពិតមើលទៅស្ងួតបើប្រៀបធៀប។ សូមរកមើលសម្រស់ក្នុងរឿងធម្មតា ក៏ដូចជាក្នុងរឿងស្រមើស្រមៃដែរ។"
+      },
+      "outcome": {
+        "en": "Heartfelt pursuits could bring a romantic, inspiring joy. You may feel moved by beauty and eager to share what touches you.",
+        "km": "ការស្វែងរកដោយអស់ពីចិត្ត អាចនាំមកនូវសេចក្តីរីករាយបែបមនោសញ្ចេតនា និងបំផុសគំនិត។ អ្នកអាចរំជួលចិត្តដោយសម្រស់ និងចង់ចែករំលែកអ្វីដែលប៉ះពាល់អ្នក។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Caring for others with compassion may be bringing you quiet joy. Being a comfort to someone could fill your own heart too.",
+        "km": "ការថែទាំអ្នកដទៃដោយក្តីមេត្តា អាចកំពុងនាំមកនូវសេចក្តីរីករាយស្ងាត់ៗ។ ការជាទីពឹងដល់នរណាម្នាក់ អាចបំពេញចិត្តរបស់អ្នកផ្ទាល់ផងដែរ។"
+      },
+      "challenge": {
+        "en": "Absorbing others' feelings could leave little space for your own joy. Protect your heart, and let yourself be cared for in return.",
+        "km": "ការស្រូបយកអារម្មណ៍អ្នកដទៃ អាចទុកលំហតិចតួចសម្រាប់សេចក្តីរីករាយរបស់អ្នក។ សូមការពារចិត្តរបស់អ្នក ហើយអនុញ្ញាតឱ្យខ្លួនឯងទទួលការថែទាំវិញ។"
+      },
+      "outcome": {
+        "en": "Emotional wisdom could bring a deep, nurturing joy. You may feel at peace with your feelings and glad to share warmth with others.",
+        "km": "ប្រាជ្ញាផ្លូវអារម្មណ៍ អាចនាំមកនូវសេចក្តីរីករាយជ្រៅ និងថែទាំ។ អ្នកអាចមានអារម្មណ៍សុខសាន្តជាមួយអារម្មណ៍របស់អ្នក និងរីករាយក្នុងការចែករំលែកភាពកក់ក្តៅជាមួយអ្នកដទៃ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Emotional steadiness may be giving you a calm sort of joy. Staying kind and composed could be bringing you quiet satisfaction.",
+        "km": "ភាពនឹងនរផ្លូវអារម្មណ៍ អាចកំពុងផ្តល់ឱ្យអ្នកនូវសេចក្តីរីករាយស្ងប់។ ការរក្សាសេចក្តីសប្បុរស និងភាពស្ងប់ស្ងាត់ អាចកំពុងនាំមកនូវការពេញចិត្តស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Keeping your feelings too tightly controlled could mute your joy. Allow yourself to laugh freely and show what moves you.",
+        "km": "ការគ្រប់គ្រងអារម្មណ៍របស់អ្នកតឹងពេក អាចធ្វើឱ្យសេចក្តីរីករាយរបស់អ្នកស្ងាត់។ សូមអនុញ្ញាតឱ្យខ្លួនឯងសើចដោយសេរី និងបង្ហាញអ្វីដែលរំជួលចិត្តអ្នក។"
+      },
+      "outcome": {
+        "en": "Emotional balance could bring a steady, generous joy. You may feel secure enough to enjoy life fully while staying grounded.",
+        "km": "តុល្យភាពផ្លូវអារម្មណ៍ អាចនាំមកនូវសេចក្តីរីករាយនឹងនរ និងសប្បុរស។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពគ្រប់គ្រាន់ ដើម្បីរីករាយនឹងជីវិតពេញលេញ ខណៈពេលនៅតែនឹងធឹង។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A moment of clarity may be giving you a bright, clean joy. Understanding something clearly could feel like a weight lifting off your mind.",
+        "km": "គ្រានៃភាពច្បាស់លាស់ អាចកំពុងផ្តល់ឱ្យអ្នកនូវសេចក្តីរីករាយភ្លឺថ្លា និងស្អាត។ ការយល់អ្វីមួយយ៉ាងច្បាស់ អាចមានអារម្មណ៍ដូចជាទម្ងន់មួយត្រូវបានលើកចេញពីគំនិតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Overanalysing what makes you happy could cut the joy out of it. Let some pleasures simply be enjoyed rather than explained.",
+        "km": "ការវិភាគហួសហេតុពីអ្វីដែលធ្វើឱ្យអ្នកសប្បាយ អាចកាត់សេចក្តីរីករាយចេញពីវា។ សូមទុកឱ្យភាពរីករាយខ្លះគ្រាន់តែត្រូវបានរីករាយ ជាជាងត្រូវបានពន្យល់។"
+      },
+      "outcome": {
+        "en": "Sharp insight could bring an energising, clear-headed joy. You may enjoy the freedom of seeing your life and choices plainly.",
+        "km": "ការយល់ដឹងច្បាស់ អាចនាំមកនូវសេចក្តីរីករាយដែលផ្តល់ថាមពល និងគំនិតច្បាស់។ អ្នកអាចរីករាយនឹងសេរីភាពនៃការមើលឃើញជីវិត និងជម្រើសរបស់អ្នកយ៉ាងច្បាស់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Weighing up a choice may be keeping your gladness on hold. Avoiding a decision could be keeping your heart guarded and your mood neutral.",
+        "km": "ការថ្លឹងថ្លែងជម្រើសមួយ អាចកំពុងផ្អាកសេចក្តីរីករាយរបស់អ្នក។ ការជៀសវាងការសម្រេចចិត្ត អាចកំពុងរក្សាចិត្តរបស់អ្នកឱ្យប្រុងប្រយ័ត្ន និងអារម្មណ៍របស់អ្នកឱ្យព្រងើយ។"
+      },
+      "challenge": {
+        "en": "Blocking out your feelings to stay calm could block out joy too. Let your heart have a say in what you choose.",
+        "km": "ការបិទអារម្មណ៍របស់អ្នកដើម្បីរក្សាភាពស្ងប់ អាចបិទសេចក្តីរីករាយផងដែរ។ សូមឱ្យចិត្តរបស់អ្នកមានសំឡេងក្នុងអ្វីដែលអ្នកជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "Making peace with a choice could free you to feel joy again. You may feel relief and a lighter heart when you commit.",
+        "km": "ការធ្វើឱ្យចិត្តសុខស្រួលជាមួយជម្រើសមួយ អាចដោះលែងអ្នកឱ្យមានអារម្មណ៍រីករាយម្តងទៀត។ អ្នកអាចមានអារម្មណ៍ធូរស្រាល និងចិត្តស្រាលជាងមុន នៅពេលអ្នកប្តេជ្ញា។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Hurt may be pressing on the places where joy usually lives. Acknowledging sorrow could be the first step to feeling glad again.",
+        "km": "ការឈឺចាប់ អាចកំពុងសង្កត់លើកន្លែងដែលសេចក្តីរីករាយធ្លាប់រស់នៅ។ ការទទួលស្គាល់ទុក្ខព្រួយ អាចជាជំហានដំបូងទៅរកការមានអារម្មណ៍រីករាយម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Pushing past pain to be cheerful could keep the wound open. Let yourself feel it, and talk to someone you trust or a counsellor if it weighs on you.",
+        "km": "ការរុញកាត់ការឈឺចាប់ដើម្បីរីករាយ អាចធ្វើឱ្យរបួសនៅចំហ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍វា ហើយនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ឬអ្នកប្រឹក្សា ប្រសិនបើវាសង្កត់លើអ្នក។"
+      },
+      "outcome": {
+        "en": "Healing could make way for a softer, wiser joy. You may appreciate small comforts more deeply as your heart mends.",
+        "km": "ការជាសះស្បើយ អាចបើកផ្លូវឱ្យសេចក្តីរីករាយទន់ និងឈ្លាសវៃជាង។ អ្នកអាចឱ្យតម្លៃលើភាពស្រួលតូចៗកាន់តែជ្រៅ នៅពេលចិត្តរបស់អ្នកជាសះស្បើយ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest and quiet may be where joy is hiding for you. A peaceful break could be helping your mind settle and your mood lift.",
+        "km": "ការសម្រាក និងភាពស្ងប់ស្ងាត់ អាចជាកន្លែងដែលសេចក្តីរីករាយលាក់ខ្លួនសម្រាប់អ្នក។ ការសម្រាកដ៏សុខសាន្ត អាចកំពុងជួយឱ្យគំនិតរបស់អ្នកស្ងប់ និងអារម្មណ៍របស់អ្នកឡើង។"
+      },
+      "challenge": {
+        "en": "Feeling guilty for resting could stop you from enjoying it. Treat stillness as something good in itself, not just a pause between tasks.",
+        "km": "អារម្មណ៍មានកំហុសចំពោះការសម្រាក អាចរារាំងអ្នកពីការរីករាយនឹងវា។ សូមចាត់ទុកភាពស្ងប់ស្ងាត់ជារឿងល្អដោយខ្លួនវា មិនមែនគ្រាន់តែជាការផ្អាករវាងកិច្ចការនោះទេ។"
+      },
+      "outcome": {
+        "en": "Deep rest could bring a restored, peaceful joy. You may return to ordinary life refreshed and more open to delight.",
+        "km": "ការសម្រាកយ៉ាងជ្រៅ អាចនាំមកនូវសេចក្តីរីករាយដែលបានស្តារ និងសុខសាន្ត។ អ្នកអាចត្រឡប់ទៅជីវិតធម្មតាវិញដោយស្រស់ស្រាយ និងបើកចិត្តចំពោះភាពរីករាយកាន់តែច្រើន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "A conflict may be souring your mood and crowding out joy. Winning a point could feel hollow if it costs you peace or friendship.",
+        "km": "ជម្លោះមួយ អាចកំពុងធ្វើឱ្យអារម្មណ៍របស់អ្នកជូរចត់ និងច្រានសេចក្តីរីករាយចេញ។ ការឈ្នះចំណុចមួយ អាចមានអារម្មណ៍ទទេ ប្រសិនបើវាធ្វើឱ្យអ្នកបាត់បង់សន្តិភាព ឬមិត្តភាព។"
+      },
+      "challenge": {
+        "en": "Needing to be right could cost you the pleasure of good company. Let a small argument go, and choose harmony over victory.",
+        "km": "ការចង់ត្រូវជានិច្ច អាចធ្វើឱ្យអ្នកបាត់បង់ភាពរីករាយនៃការនៅជាមួយមនុស្សល្អ។ សូមលែងប្រកាន់ការឈ្លោះប្រកែកតូចមួយ ហើយជ្រើសរើសភាពចុះសម្រុងជាជាងជ័យជម្នះ។"
+      },
+      "outcome": {
+        "en": "Walking away from pointless fights could bring a calmer, cleaner joy. You may feel relieved and free to enjoy what really matters.",
+        "km": "ការដើរចេញពីការឈ្លោះគ្មានន័យ អាចនាំមកនូវសេចក្តីរីករាយស្ងប់ និងស្អាតជាង។ អ្នកអាចមានអារម្មណ៍ធូរស្រាល និងសេរីដើម្បីរីករាយនឹងអ្វីដែលពិតជាសំខាន់។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Moving away from difficulty may be bringing a quiet, hopeful joy. Calmer surroundings could be helping your heart breathe again.",
+        "km": "ការចាកចេញពីការលំបាក អាចកំពុងនាំមកនូវសេចក្តីរីករាយស្ងាត់ៗ និងពោរពេញដោយក្តីសង្ឃឹម។ បរិយាកាសស្ងប់ជាង អាចកំពុងជួយឱ្យចិត្តរបស់អ្នកដកដង្ហើមម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Looking back at what was hard could keep joy from catching up with you. Face the calmer shore ahead, and notice the relief as it comes.",
+        "km": "ការមើលក្រោយទៅរឿងលំបាក អាចរារាំងសេចក្តីរីករាយពីការតាមទាន់អ្នក។ សូមបែរមុខទៅរកច្រាំងដែលស្ងប់ជាងនៅខាងមុខ ហើយកត់សម្គាល់ការធូរស្រាលនៅពេលវាមកដល់។"
+      },
+      "outcome": {
+        "en": "Moving on could bring a gentle, recovering joy. You may find peace and simple pleasures in a better place.",
+        "km": "ការបន្តទៅមុខ អាចនាំមកនូវសេចក្តីរីករាយទន់ភ្លន់ និងកំពុងស្តារឡើងវិញ។ អ្នកអាចរកឃើញសន្តិភាព និងភាពរីករាយសាមញ្ញៗនៅកន្លែងដែលល្អជាង។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Keeping your joys hidden or private may feel safer for you. Enjoying things quietly, away from judgement, could be giving you some freedom.",
+        "km": "ការរក្សាសេចក្តីរីករាយរបស់អ្នកឱ្យលាក់កំបាំង ឬជាឯកជន អាចមានអារម្មណ៍សុវត្ថិភាពជាងសម្រាប់អ្នក។ ការរីករាយនឹងអ្វីៗដោយស្ងាត់ៗ ឆ្ងាយពីការវិនិច្ឆ័យ អាចកំពុងផ្តល់ឱ្យអ្នកនូវសេរីភាពខ្លះ។"
+      },
+      "challenge": {
+        "en": "Sneaking pleasures you feel you must hide could bring guilt instead of joy. Look for delights you can enjoy openly and without secrecy.",
+        "km": "ការលួចរីករាយនឹងអ្វីដែលអ្នកមានអារម្មណ៍ថាត្រូវតែលាក់ អាចនាំមកនូវអារម្មណ៍មានកំហុស ជំនួសឱ្យសេចក្តីរីករាយ។ សូមរកមើលភាពរីករាយដែលអ្នកអាចរីករាយដោយបើកចំហ និងគ្មានការលាក់លៀម។"
+      },
+      "outcome": {
+        "en": "Honest choices could bring a free, uncomplicated joy. You may feel lighter when your pleasures match the person you want to be.",
+        "km": "ជម្រើសដោយស្មោះត្រង់ អាចនាំមកនូវសេចក្តីរីករាយសេរី និងមិនស្មុគស្មាញ។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលភាពរីករាយរបស់អ្នកត្រូវនឹងមនុស្សដែលអ្នកចង់ក្លាយជា។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Feeling restricted may be making joy seem out of reach. Rules you have set for yourself could be stopping you from doing what you love.",
+        "km": "អារម្មណ៍ថាត្រូវបានរឹតត្បិត អាចកំពុងធ្វើឱ្យសេចក្តីរីករាយហាក់នៅឆ្ងាយ។ ច្បាប់ដែលអ្នកបានកំណត់សម្រាប់ខ្លួនឯង អាចកំពុងរារាំងអ្នកពីការធ្វើអ្វីដែលអ្នកស្រឡាញ់។"
+      },
+      "challenge": {
+        "en": "Believing you are not allowed to enjoy yourself could keep you stuck. Question one rule that blocks your joy, and test whether it is real.",
+        "km": "ការជឿថាអ្នកមិនត្រូវបានអនុញ្ញាតឱ្យរីករាយ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមសួរសំណួរពីច្បាប់មួយដែលរារាំងសេចក្តីរីករាយរបស់អ្នក ហើយសាកល្បងមើលថាតើវាពិតឬអត់។"
+      },
+      "outcome": {
+        "en": "Freeing yourself from limiting thoughts could open the door to joy. You may discover more room to enjoy life than you believed.",
+        "km": "ការដោះលែងខ្លួនឯងពីគំនិតដែលកំណត់ព្រំដែន អាចបើកទ្វារទៅរកសេចក្តីរីករាយ។ អ្នកអាចរកឃើញលំហកាន់តែច្រើនដើម្បីរីករាយនឹងជីវិត ជាងអ្វីដែលអ្នកជឿ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry may be crowding out the things that usually bring you joy. Anxious thoughts could be making it hard to relax into pleasure.",
+        "km": "ការព្រួយបារម្ភ អាចកំពុងច្រានចេញនូវរឿងដែលធ្លាប់នាំមកនូវសេចក្តីរីករាយដល់អ្នក។ គំនិតថប់បារម្ភ អាចកំពុងធ្វើឱ្យពិបាកសម្រាក និងរីករាយ។"
+      },
+      "challenge": {
+        "en": "Anxiety could convince you that joy is not safe or deserved. Share your worries with someone, and seek professional help if they affect your sleep or health.",
+        "km": "ការថប់បារម្ភ អាចធ្វើឱ្យអ្នកជឿថាសេចក្តីរីករាយមិនមានសុវត្ថិភាព ឬមិនសមនឹងទទួល។ សូមចែករំលែកការព្រួយបារម្ភរបស់អ្នកជាមួយនរណាម្នាក់ ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើវាប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Easing your worries could let joy return bit by bit. You may find that simple pleasures feel good again as your mind grows calmer.",
+        "km": "ការបន្ធូរការព្រួយបារម្ភរបស់អ្នក អាចឱ្យសេចក្តីរីករាយត្រឡប់មកវិញបន្តិចម្តងៗ។ អ្នកអាចឃើញថាភាពរីករាយសាមញ្ញៗមានអារម្មណ៍ល្អម្តងទៀត នៅពេលគំនិតរបស់អ្នកស្ងប់ជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A painful low point may have drained much of your joy. Recognising that you have reached the bottom could mean things can only rise from here.",
+        "km": "ចំណុចទាបដ៏ឈឺចាប់មួយ អាចបានបង្ហូរសេចក្តីរីករាយរបស់អ្នកជាច្រើន។ ការទទួលស្គាល់ថាអ្នកបានដល់បាតហើយ អាចមានន័យថាអ្វីៗអាចត្រឹមតែឡើងពីទីនេះ។"
+      },
+      "challenge": {
+        "en": "A heavy low could make gladness seem gone for good. Let people who care keep you company, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ភាពធ្លាក់ទឹកចិត្តធ្ងន់ធ្ងរ អាចធ្វើឱ្យសេចក្តីរីករាយហាក់ដូចជាបាត់បង់ទាំងស្រុង។ សូមឱ្យមនុស្សដែលយកចិត្តទុកដាក់នៅជាមួយអ្នក ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Recovery could bring a fragile but genuine return of joy. You may treasure small good moments as signs that healing has begun.",
+        "km": "ការស្តារឡើងវិញ អាចនាំមកនូវការត្រឡប់មកវិញនៃសេចក្តីរីករាយ ដែលផុយស្រួយប៉ុន្តែពិតប្រាកដ។ អ្នកអាចឱ្យតម្លៃលើគ្រាល្អតូចៗ ជាសញ្ញាថាការជាសះស្បើយបានចាប់ផ្តើម។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Learning and curious questioning may be bringing you joy. Discovering new ideas or facts could be keeping your mind bright and lively.",
+        "km": "ការរៀន និងការសួរសំណួរដោយចង់ដឹង អាចកំពុងនាំមកនូវសេចក្តីរីករាយ។ ការរកឃើញគំនិត ឬការពិតថ្មីៗ អាចកំពុងរក្សាគំនិតរបស់អ្នកឱ្យភ្លឺស្វាង និងរស់រវើក។"
+      },
+      "challenge": {
+        "en": "Living too much in your head could keep you from enjoying simple experiences. Balance thinking with doing, tasting and feeling what is right in front of you.",
+        "km": "ការរស់នៅក្នុងក្បាលរបស់អ្នកច្រើនពេក អាចរារាំងអ្នកពីការរីករាយនឹងបទពិសោធន៍សាមញ្ញ។ សូមថ្លឹងការគិត ជាមួយការធ្វើ ការភ្លក់ និងការមានអារម្មណ៍ចំពោះអ្វីដែលនៅចំពោះមុខអ្នក។"
+      },
+      "outcome": {
+        "en": "Curiosity could bring a lively, stimulating joy. You may delight in conversations and discoveries that keep you growing.",
+        "km": "ការចង់ដឹងចង់ឃើញ អាចនាំមកនូវសេចក្តីរីករាយរស់រវើក និងជំរុញ។ អ្នកអាចរីករាយក្នុងការសន្ទនា និងការរកឃើញ ដែលធ្វើឱ្យអ្នកបន្តលូតលាស់។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Charging ahead towards a goal may be giving you an exciting joy. Speaking your mind and acting decisively could feel energising.",
+        "km": "ការរុញទៅមុខឆ្ពោះទៅរកគោលដៅមួយ អាចកំពុងផ្តល់ឱ្យអ្នកនូវសេចក្តីរីករាយដ៏រំភើប។ ការនិយាយពីគំនិតរបស់អ្នក និងការធ្វើសកម្មភាពដោយម៉ឺងម៉ាត់ អាចមានអារម្មណ៍ផ្តល់ថាមពល។"
+      },
+      "challenge": {
+        "en": "Rushing through life could leave no space to enjoy where you are. Slow your pace from time to time to savour what you pass.",
+        "km": "ការប្រញាប់ប្រញាល់ក្នុងជីវិត អាចមិនទុកលំហដើម្បីរីករាយនឹងកន្លែងដែលអ្នកនៅ។ សូមបន្ថយល្បឿនរបស់អ្នកម្តងម្កាល ដើម្បីភ្លក់រសជាតិអ្វីដែលអ្នកដើរកាត់។"
+      },
+      "outcome": {
+        "en": "Purposeful energy could bring a bold, stimulating joy. You may enjoy the thrill of pursuing what you care about with conviction.",
+        "km": "ថាមពលដែលមានគោលបំណង អាចនាំមកនូវសេចក្តីរីករាយក្លាហាន និងជំរុញ។ អ្នកអាចរីករាយនឹងភាពរំភើបនៃការស្វែងរកអ្វីដែលអ្នកយកចិត្តទុកដាក់ដោយការជឿជាក់។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear boundaries and honest independence may be bringing you joy. Being free to think and choose for yourself could feel quietly satisfying.",
+        "km": "ព្រំដែនច្បាស់លាស់ និងឯករាជ្យភាពដោយស្មោះ អាចកំពុងនាំមកនូវសេចក្តីរីករាយ។ ការមានសេរីភាពក្នុងការគិត និងជ្រើសរើសដោយខ្លួនឯង អាចមានអារម្មណ៍ពេញចិត្តស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Keeping too much distance from others could make joy feel cool and thin. Let your guard soften with those who have earned your trust.",
+        "km": "ការរក្សាចម្ងាយច្រើនពេកពីអ្នកដទៃ អាចធ្វើឱ្យសេចក្តីរីករាយមានអារម្មណ៍ត្រជាក់ និងស្តើង។ សូមបន្ទន់ការប្រុងប្រយ័ត្នរបស់អ្នក ជាមួយអ្នកដែលបានទទួលការទុកចិត្តរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Clear-eyed independence could bring a calm, self-assured joy. You may enjoy life on your own terms while staying open to warmth.",
+        "km": "ឯករាជ្យភាពដែលមើលឃើញច្បាស់ អាចនាំមកនូវសេចក្តីរីករាយស្ងប់ និងជឿជាក់លើខ្លួនឯង។ អ្នកអាចរីករាយនឹងជីវិតតាមលក្ខខណ្ឌរបស់អ្នក ខណៈពេលនៅតែបើកចិត្តចំពោះភាពកក់ក្តៅ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Solving problems and making wise decisions may be giving you a quiet joy. Thinking clearly could be bringing a sense of control and calm.",
+        "km": "ការដោះស្រាយបញ្ហា និងការសម្រេចចិត្តដោយប្រាជ្ញា អាចកំពុងផ្តល់ឱ្យអ្នកនូវសេចក្តីរីករាយស្ងាត់ៗ។ ការគិតច្បាស់លាស់ អាចកំពុងនាំមកនូវអារម្មណ៍នៃការគ្រប់គ្រង និងភាពស្ងប់។"
+      },
+      "challenge": {
+        "en": "Treating joy as frivolous could keep you serious at every turn. Make room for laughter and play alongside your sound judgement.",
+        "km": "ការចាត់ទុកសេចក្តីរីករាយជារឿងឥតប្រយោជន៍ អាចធ្វើឱ្យអ្នកម៉ឺងម៉ាត់គ្រប់កាលៈទេសៈ។ សូមបង្កើតកន្លែងសម្រាប់ការសើច និងការលេង នៅក្បែរការវិនិច្ឆ័យដ៏ត្រឹមត្រូវរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Wise perspective could bring a mature, steady joy. You may enjoy the respect and peace that come from living thoughtfully.",
+        "km": "ទស្សនៈដ៏ឈ្លាសវៃ អាចនាំមកនូវសេចក្តីរីករាយចាស់ទុំ និងនឹងនរ។ អ្នកអាចរីករាយនឹងការគោរព និងសន្តិភាព ដែលមកពីការរស់នៅដោយការគិតគូរ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A small, tangible gift or opportunity may be bringing you joy. Something new and practical in your life could be giving you a hopeful lift.",
+        "km": "អំណោយ ឬឱកាសតូចមួយដែលអាចប៉ះពាល់បាន អាចកំពុងនាំមកនូវសេចក្តីរីករាយ។ អ្វីមួយថ្មី និងជាក់ស្តែងក្នុងជីវិតរបស់អ្នក អាចកំពុងលើកក្តីសង្ឃឹមរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Overlooking simple, solid pleasures could leave you chasing bigger ones. Notice the joy in a good meal, a tidy space or a job done well.",
+        "km": "ការមើលរំលងភាពរីករាយសាមញ្ញ និងរឹងមាំ អាចធ្វើឱ្យអ្នកដេញតាមភាពរីករាយធំៗ។ សូមកត់សម្គាល់សេចក្តីរីករាយក្នុងអាហារឆ្ងាញ់ កន្លែងស្អាត ឬការងារដែលធ្វើបានល្អ។"
+      },
+      "outcome": {
+        "en": "Grounded beginnings could bring a steady, nourishing joy. You may enjoy watching something real and useful grow under your care.",
+        "km": "ការចាប់ផ្តើមដែលនឹងធឹង អាចនាំមកនូវសេចក្តីរីករាយនឹងនរ និងចិញ្ចឹម។ អ្នកអាចរីករាយក្នុងការមើលអ្វីមួយពិតប្រាកដ និងមានប្រយោជន៍លូតលាស់ក្រោមការថែទាំរបស់អ្នក។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Keeping life's many parts in balance may be bringing a playful joy. Adapting with good humour could be making busy stretches feel lighter.",
+        "km": "ការរក្សាតុល្យភាពផ្នែកជាច្រើននៃជីវិត អាចកំពុងនាំមកនូវសេចក្តីរីករាយបែបលេងសើច។ ការសម្របខ្លួនដោយភាពកំប្លែងល្អ អាចកំពុងធ្វើឱ្យដំណាក់កាលរវល់មានអារម្មណ៍ស្រាលជាង។"
+      },
+      "challenge": {
+        "en": "Juggling too much could leave no hands free for joy. Drop one ball on purpose, and use the space for something you love.",
+        "km": "ការទទួលរឿងច្រើនពេក អាចមិនទុកដៃទំនេរសម្រាប់សេចក្តីរីករាយ។ សូមទម្លាក់បាល់មួយដោយចេតនា ហើយប្រើលំហនោះសម្រាប់អ្វីដែលអ្នកស្រឡាញ់។"
+      },
+      "outcome": {
+        "en": "Flexible balance could bring a light, adaptable joy. You may enjoy the rhythm of life rather than feeling tossed about by it.",
+        "km": "តុល្យភាពដែលបត់បែន អាចនាំមកនូវសេចក្តីរីករាយស្រាល និងសម្របខ្លួនបាន។ អ្នកអាចរីករាយនឹងចង្វាក់នៃជីវិត ជាជាងមានអារម្មណ៍ថាត្រូវបានបោកបក់ដោយវា។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Working on something with others may be bringing you real satisfaction. Contributing your skill to a shared project could feel joyful and meaningful.",
+        "km": "ការធ្វើការលើអ្វីមួយជាមួយអ្នកដទៃ អាចកំពុងនាំមកនូវការពេញចិត្តពិតប្រាកដ។ ការចូលរួមជំនាញរបស់អ្នកក្នុងគម្រោងរួម អាចមានអារម្មណ៍រីករាយ និងមានអត្ថន័យ។"
+      },
+      "challenge": {
+        "en": "Working without appreciation could drain the joy from good effort. Notice and share what you are proud of in your work.",
+        "km": "ការធ្វើការដោយគ្មានការដឹងគុណ អាចបង្ហូរសេចក្តីរីករាយចេញពីការខិតខំល្អ។ សូមកត់សម្គាល់ និងចែករំលែកអ្វីដែលអ្នកមានមោទនភាពក្នុងការងាររបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Collaboration could bring a proud, shared joy. You may enjoy seeing what you and others can build together.",
+        "km": "ការសហការ អាចនាំមកនូវសេចក្តីរីករាយដែលមានមោទនភាព និងចែករំលែក។ អ្នកអាចរីករាយក្នុងការឃើញអ្វីដែលអ្នក និងអ្នកដទៃអាចកសាងរួមគ្នា។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Security and comfort may be giving you a settled kind of joy. Knowing your needs are covered could be helping you relax.",
+        "km": "សុវត្ថិភាព និងភាពស្រួល អាចកំពុងផ្តល់ឱ្យអ្នកនូវសេចក្តីរីករាយស្ងប់។ ការដឹងថាតម្រូវការរបស់អ្នកត្រូវបានបំពេញ អាចកំពុងជួយអ្នកឱ្យសម្រាក។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly to what you have could stop you from enjoying it. Spend some time, care or resources on something that delights you.",
+        "km": "ការកាន់អ្វីដែលអ្នកមានតឹងពេក អាចរារាំងអ្នកពីការរីករាយនឹងវា។ សូមចំណាយកម្លាំង ការយកចិត្តទុកដាក់ ឬធនធានខ្លះ លើអ្វីមួយដែលធ្វើឱ្យអ្នករីករាយ។"
+      },
+      "outcome": {
+        "en": "Feeling secure could free you to enjoy life more generously. You may find pleasure in sharing what you have with people you love.",
+        "km": "ការមានអារម្មណ៍សុវត្ថិភាព អាចដោះលែងអ្នកឱ្យរីករាយនឹងជីវិតដោយចិត្តទូលាយជាងមុន។ អ្នកអាចរកឃើញភាពរីករាយក្នុងការចែករំលែកអ្វីដែលអ្នកមាន ជាមួយមនុស្សដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Hardship may be making joy feel scarce. A kind word or small help from others could still bring a warm moment of relief.",
+        "km": "ការលំបាក អាចកំពុងធ្វើឱ្យសេចក្តីរីករាយមានអារម្មណ៍ខ្វះខាត។ ពាក្យសប្បុរស ឬជំនួយតូចមួយពីអ្នកដទៃ អាចនៅតែនាំមកនូវគ្រាកក់ក្តៅនៃការធូរស្រាល។"
+      },
+      "challenge": {
+        "en": "Feeling shut out could stop you from accepting the warmth that is offered. Let people in, and look for free, simple joys close to you.",
+        "km": "អារម្មណ៍ថាត្រូវបានបិទទ្វារ អាចរារាំងអ្នកពីការទទួលយកភាពកក់ក្តៅដែលត្រូវបានផ្តល់ជូន។ សូមអនុញ្ញាតឱ្យមនុស្សចូលមក ហើយរកមើលសេចក្តីរីករាយសាមញ្ញ និងឥតគិតថ្លៃនៅជិតអ្នក។"
+      },
+      "outcome": {
+        "en": "Accepting support could bring a humble, heartfelt joy. You may find warmth and kindness where you least expected it.",
+        "km": "ការទទួលយកការគាំទ្រ អាចនាំមកនូវសេចក្តីរីករាយដ៏រាបទាប និងចេញពីចិត្ត។ អ្នកអាចរកឃើញភាពកក់ក្តៅ និងសេចក្តីសប្បុរស នៅកន្លែងដែលអ្នកមិននឹកស្មានដល់។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Giving to others may be filling you with joy. Sharing your time, help or resources could be warming your heart.",
+        "km": "ការផ្តល់ឱ្យអ្នកដទៃ អាចកំពុងបំពេញអ្នកដោយសេចក្តីរីករាយ។ ការចែករំលែកពេលវេលា ជំនួយ ឬធនធានរបស់អ្នក អាចកំពុងធ្វើឱ្យចិត្តរបស់អ្នកកក់ក្តៅ។"
+      },
+      "challenge": {
+        "en": "Giving until you are empty could leave no joy for yourself. Accept kindness from others as gladly as you offer it to them.",
+        "km": "ការផ្តល់រហូតដល់អ្នកទទេ អាចមិនទុកសេចក្តីរីករាយសម្រាប់ខ្លួនឯង។ សូមទទួលយកសេចក្តីសប្បុរសពីអ្នកដទៃដោយរីករាយ ដូចដែលអ្នកផ្តល់វាដល់ពួកគេដែរ។"
+      },
+      "outcome": {
+        "en": "Generosity could bring a warm, circulating joy. You may feel the happiness of both giving and receiving in good balance.",
+        "km": "ចិត្តសប្បុរស អាចនាំមកនូវសេចក្តីរីករាយកក់ក្តៅ និងវិលជុំ។ អ្នកអាចមានអារម្មណ៍សុភមង្គលនៃការផ្តល់ និងការទទួល ក្នុងតុល្យភាពល្អ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Watching your efforts bear fruit may be bringing quiet joy. Pausing to see how something you tended has grown could feel rewarding.",
+        "km": "ការមើលការខិតខំរបស់អ្នកបង្កើតផល អាចកំពុងនាំមកនូវសេចក្តីរីករាយស្ងាត់ៗ។ ការផ្អាកដើម្បីមើលថាអ្វីដែលអ្នកបានថែទាំបានលូតលាស់យ៉ាងណា អាចមានអារម្មណ៍មានតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Focusing only on the harvest could rob you of joy in the growing. Enjoy the steady work itself, not just the result it promises.",
+        "km": "ការផ្តោតតែលើការប្រមូលផល អាចប្លន់យកសេចក្តីរីករាយក្នុងការដាំដុះ។ សូមរីករាយនឹងការងារនឹងនរដោយខ្លួនវា មិនមែនត្រឹមតែលទ្ធផលដែលវាសន្យានោះទេ។"
+      },
+      "outcome": {
+        "en": "Patient tending could bring a deep, earned joy. You may feel proud and content when your efforts show results.",
+        "km": "ការថែទាំដោយអត់ធ្មត់ អាចនាំមកនូវសេចក្តីរីករាយជ្រៅ ដែលទទួលបានដោយការខិតខំ។ អ្នកអាចមានមោទនភាព និងពេញចិត្ត នៅពេលការខិតខំរបស់អ្នកបង្ហាញលទ្ធផល។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Getting absorbed in a craft or skill may be your quiet joy. Focused, careful work could be bringing a deep sense of flow.",
+        "km": "ការជក់ចិត្តក្នុងសិប្បកម្ម ឬជំនាញមួយ អាចជាសេចក្តីរីករាយស្ងាត់ៗរបស់អ្នក។ ការងារដែលផ្តោត និងប្រុងប្រយ័ត្ន អាចកំពុងនាំមកនូវអារម្មណ៍ហូររលូនយ៉ាងជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Turning a hobby into a chore could squeeze out the pleasure. Keep some practice purely for enjoyment, without targets or pressure.",
+        "km": "ការប្រែក្លាយចំណង់ចំណូលចិត្តទៅជាកិច្ចការ អាចច្របាច់ភាពរីករាយចេញ។ សូមរក្សាការហ្វឹកហាត់ខ្លះសុទ្ធតែសម្រាប់ភាពរីករាយ ដោយគ្មានគោលដៅ ឬសម្ពាធ។"
+      },
+      "outcome": {
+        "en": "Dedicated practice could bring a satisfying, absorbing joy. You may love the feeling of getting better at something that matters to you.",
+        "km": "ការហ្វឹកហាត់ដោយលះបង់ អាចនាំមកនូវសេចក្តីរីករាយដែលពេញចិត្ត និងជក់ចិត្ត។ អ្នកអាចស្រឡាញ់អារម្មណ៍នៃការកាន់តែពូកែក្នុងអ្វីមួយដែលសំខាន់ចំពោះអ្នក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Enjoying the comforts you have created may be bringing you joy. A beautiful space, a garden or time to yourself could feel like a reward.",
+        "km": "ការរីករាយនឹងភាពស្រួលដែលអ្នកបានបង្កើត អាចកំពុងនាំមកនូវសេចក្តីរីករាយ។ កន្លែងស្រស់ស្អាត សួនច្បារ ឬពេលវេលាសម្រាប់ខ្លួនឯង អាចមានអារម្មណ៍ដូចជារង្វាន់។"
+      },
+      "challenge": {
+        "en": "Feeling you must earn every pleasure could stop you from relaxing into it. Let yourself enjoy what you already have, without guilt or justification.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែខិតខំទទួលបានភាពរីករាយនីមួយៗ អាចរារាំងអ្នកពីការសម្រាកក្នុងវា។ សូមអនុញ្ញាតឱ្យខ្លួនឯងរីករាយនឹងអ្វីដែលអ្នកមានរួចហើយ ដោយគ្មានអារម្មណ៍មានកំហុស ឬការដោះសា។"
+      },
+      "outcome": {
+        "en": "Self-sufficiency could bring a refined, independent joy. You may feel deeply at ease in the life you have shaped for yourself.",
+        "km": "ការពឹងលើខ្លួនឯង អាចនាំមកនូវសេចក្តីរីករាយដ៏ល្អិតល្អន់ និងឯករាជ្យ។ អ្នកអាចមានអារម្មណ៍ស្រួលយ៉ាងជ្រៅ ក្នុងជីវិតដែលអ្នកបានរៀបចំសម្រាប់ខ្លួនឯង។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family ties and a sense of roots may be bringing you deep joy. Gatherings across generations or shared traditions could be filling you with gratitude.",
+        "km": "ចំណងគ្រួសារ និងអារម្មណ៍នៃឫសគល់ អាចកំពុងនាំមកនូវសេចក្តីរីករាយជ្រៅ។ ការជួបជុំឆ្លងជំនាន់ ឬប្រពៃណីរួម អាចកំពុងបំពេញអ្នកដោយការដឹងគុណ។"
+      },
+      "challenge": {
+        "en": "Feeling weighed down by family expectations could cloud your joy. Treasure the warmth of belonging while choosing your own path.",
+        "km": "អារម្មណ៍ថាត្រូវបានសង្កត់ដោយការរំពឹងទុករបស់គ្រួសារ អាចធ្វើឱ្យសេចក្តីរីករាយរបស់អ្នកស្រអាប់។ សូមឱ្យតម្លៃលើភាពកក់ក្តៅនៃការជាផ្នែកមួយ ខណៈពេលជ្រើសរើសផ្លូវរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Strong roots could bring a rich, secure joy. You may feel grateful for the people and foundations that hold your life together.",
+        "km": "ឫសគល់រឹងមាំ អាចនាំមកនូវសេចក្តីរីករាយសម្បូរ និងសុវត្ថិភាព។ អ្នកអាចមានអារម្មណ៍ដឹងគុណចំពោះមនុស្ស និងគ្រឹះដែលរក្សាជីវិតរបស់អ្នកឱ្យនៅរួមគ្នា។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learning a practical skill may be bringing you a fresh joy. Studying something useful could make you feel capable and curious.",
+        "km": "ការរៀនជំនាញជាក់ស្តែងមួយ អាចកំពុងនាំមកនូវសេចក្តីរីករាយថ្មី។ ការសិក្សាអ្វីមួយដែលមានប្រយោជន៍ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាមានសមត្ថភាព និងចង់ដឹងចង់ឃើញ។"
+      },
+      "challenge": {
+        "en": "Treating learning only as a duty could take the fun out of it. Choose one thing to learn simply because it interests you.",
+        "km": "ការចាត់ទុកការរៀនតែជាកាតព្វកិច្ច អាចដកភាពសប្បាយចេញពីវា។ សូមជ្រើសរើសរឿងមួយដើម្បីរៀន គ្រាន់តែដោយសារវាចាប់អារម្មណ៍អ្នក។"
+      },
+      "outcome": {
+        "en": "Steady learning could bring a hopeful, building joy. You may enjoy watching your knowledge and confidence grow side by side.",
+        "km": "ការរៀនដោយនឹងនរ អាចនាំមកនូវសេចក្តីរីករាយដែលពោរពេញដោយក្តីសង្ឃឹម និងកំពុងកសាង។ អ្នកអាចរីករាយក្នុងការមើលចំណេះដឹង និងទំនុកចិត្តរបស់អ្នកលូតលាស់ជាមួយគ្នា។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Steady routines and reliable progress may be giving you a calm joy. Taking care of things step by step could feel quietly satisfying.",
+        "km": "ទម្លាប់នឹងនរ និងការរីកចម្រើនដែលអាចទុកចិត្តបាន អាចកំពុងផ្តល់ឱ្យអ្នកនូវសេចក្តីរីករាយស្ងប់។ ការថែទាំរឿងរ៉ាវម្តងមួយជំហាន អាចមានអារម្មណ៍ពេញចិត្តស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Sticking rigidly to routine could leave little room for surprise. Add one small change or treat to keep life from feeling flat.",
+        "km": "ការប្រកាន់ទម្លាប់យ៉ាងតឹងរ៉ឹង អាចទុកកន្លែងតិចតួចសម្រាប់ការភ្ញាក់ផ្អើល។ សូមបន្ថែមការផ្លាស់ប្តូរតូច ឬរង្វាន់តូចមួយ ដើម្បីកុំឱ្យជីវិតរបស់អ្នកមានអារម្មណ៍ស្ងួត។"
+      },
+      "outcome": {
+        "en": "Reliable effort could bring a dependable, grounded joy. You may enjoy the peace of knowing your life rests on solid habits.",
+        "km": "ការខិតខំដែលអាចទុកចិត្តបាន អាចនាំមកនូវសេចក្តីរីករាយដែលអាចពឹងបាន និងនឹងធឹង។ អ្នកអាចរីករាយនឹងសន្តិភាពនៃការដឹងថាជីវិតរបស់អ្នកផ្អែកលើទម្លាប់រឹងមាំ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Nurturing your home and the people in it may be bringing you warm joy. Cooking, gardening or making things cosy could be filling you with contentment.",
+        "km": "ការថែទាំផ្ទះ និងមនុស្សនៅក្នុងនោះ អាចកំពុងនាំមកនូវសេចក្តីរីករាយកក់ក្តៅ។ ការធ្វើម្ហូប ការដាំដុះ ឬការធ្វើឱ្យកន្លែងកក់ក្តៅ អាចកំពុងបំពេញអ្នកដោយភាពពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "Looking after everyone else could leave your own comforts neglected. Make something cosy and nourishing that is just for you to enjoy.",
+        "km": "ការថែទាំអ្នកផ្សេងទាំងអស់ អាចធ្វើឱ្យភាពស្រួលរបស់អ្នកផ្ទាល់ត្រូវបានមើលរំលង។ សូមធ្វើអ្វីមួយដែលកក់ក្តៅ និងចិញ្ចឹមចិត្ត ដែលសម្រាប់តែអ្នករីករាយ។"
+      },
+      "outcome": {
+        "en": "Practical care could bring a cosy, generous joy. You may feel rich in the simple comforts you create for yourself and others.",
+        "km": "ការថែទាំជាក់ស្តែង អាចនាំមកនូវសេចក្តីរីករាយកក់ក្តៅ និងសប្បុរស។ អ្នកអាចមានអារម្មណ៍សម្បូរក្នុងភាពស្រួលសាមញ្ញ ដែលអ្នកបង្កើតសម្រាប់ខ្លួនឯង និងអ្នកដទៃ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Enjoying what you have built may be bringing you a proud, steady joy. Feeling secure and capable could be letting you relax into life.",
+        "km": "ការរីករាយនឹងអ្វីដែលអ្នកបានកសាង អាចកំពុងនាំមកនូវសេចក្តីរីករាយដែលមានមោទនភាព និងនឹងនរ។ ការមានអារម្មណ៍សុវត្ថិភាព និងមានសមត្ថភាព អាចកំពុងអនុញ្ញាតឱ្យអ្នកសម្រាកក្នុងជីវិត។"
+      },
+      "challenge": {
+        "en": "Measuring joy by success or possessions could leave you unsatisfied. Enjoy the people and moments that no achievement can replace.",
+        "km": "ការវាស់សេចក្តីរីករាយតាមភាពជោគជ័យ ឬទ្រព្យសម្បត្តិ អាចធ្វើឱ្យអ្នកមិនពេញចិត្ត។ សូមរីករាយនឹងមនុស្ស និងគ្រាដែលគ្មានសមិទ្ធផលណាអាចជំនួសបាន។"
+      },
+      "outcome": {
+        "en": "Abundance shared wisely could bring a generous, secure joy. You may enjoy providing for others and savouring the fruits of your work.",
+        "km": "ភាពបរិបូរណ៍ដែលចែករំលែកដោយប្រាជ្ញា អាចនាំមកនូវសេចក្តីរីករាយសប្បុរស និងសុវត្ថិភាព។ អ្នកអាចរីករាយនឹងការផ្គត់ផ្គង់អ្នកដទៃ និងការភ្លក់ផលនៃការងាររបស់អ្នក។"
+      }
+    }
+  }
+}

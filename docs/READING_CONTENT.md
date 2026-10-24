@@ -71,6 +71,7 @@
 | `src/content/readings/WB-06.json` | How can I balance work and rest? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/WB-07.json` | What should I let go of? | 78 cards × 3 positions, English and Khmer (obstacle) |
 | `src/content/readings/WB-08.json` | How can I build more self-confidence? | 78 cards × 3 positions, English and Khmer (how) |
+| `src/content/readings/WB-09.json` | What brings me joy right now? | 78 cards × 3 positions, English and Khmer (state) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
