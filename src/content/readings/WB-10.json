@@ -1,0 +1,1097 @@
+{
+  "questionId": "WB-10",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "An inner adventure may be just beginning, leaving you curious and unsure. Trusting the first step without knowing the whole path could be part of the lesson.",
+        "km": "ដំណើរផ្សងព្រេងខាងក្នុងមួយ អាចទើបតែចាប់ផ្តើម ដែលធ្វើឱ្យអ្នកចង់ដឹង និងមិនប្រាកដ។ ការទុកចិត្តលើជំហានដំបូង ដោយមិនដឹងផ្លូវទាំងមូល អាចជាផ្នែកមួយនៃមេរៀន។"
+      },
+      "challenge": {
+        "en": "Leaping without reflection could send you in circles rather than forward. Pause to ask what you are really seeking before you set off.",
+        "km": "ការលោតទៅមុខដោយគ្មានការឆ្លុះបញ្ចាំង អាចធ្វើឱ្យអ្នកវិលជុំ ជាជាងទៅមុខ។ សូមផ្អាកដើម្បីសួរថាតើអ្នកពិតជាកំពុងស្វែងរកអ្វី មុនពេលអ្នកចេញដំណើរ។"
+      },
+      "outcome": {
+        "en": "A fresh chapter of discovery could open inside you. An open mind may lead you to parts of yourself you have yet to meet.",
+        "km": "ជំពូកថ្មីនៃការរកឃើញ អាចបើកនៅខាងក្នុងខ្លួនអ្នក។ គំនិតបើកចំហ អាចនាំអ្នកទៅជួបផ្នែកនៃខ្លួនឯង ដែលអ្នកមិនទាន់បានស្គាល់។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may be discovering that you can shape your own inner life. Focusing your will and attention could be turning intentions into real change.",
+        "km": "អ្នកអាចកំពុងរកឃើញថាអ្នកអាចបង្កើតជីវិតខាងក្នុងរបស់ខ្លួនឯង។ ការផ្តោតឆន្ទៈ និងការយកចិត្តទុកដាក់របស់អ្នក អាចកំពុងប្រែក្លាយចេតនាទៅជាការផ្លាស់ប្តូរពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Collecting techniques without practising them could keep growth on paper. Choose one practice and live it, rather than gathering more.",
+        "km": "ការប្រមូលបច្ចេកទេសដោយមិនអនុវត្ត អាចរក្សាការលូតលាស់ត្រឹមតែលើក្រដាស។ សូមជ្រើសរើសការអនុវត្តមួយ ហើយរស់នៅជាមួយវា ជាជាងប្រមូលបន្ថែម។"
+      },
+      "outcome": {
+        "en": "Your journey could be heading towards a stronger sense of personal power. You may learn to direct your thoughts and energy with real skill.",
+        "km": "ដំណើររបស់អ្នក អាចកំពុងឆ្ពោះទៅរកអារម្មណ៍នៃអំណាចផ្ទាល់ខ្លួនកាន់តែខ្លាំង។ អ្នកអាចរៀនដឹកនាំគំនិត និងថាមពលរបស់អ្នកដោយជំនាញពិតប្រាកដ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Quiet and deeper knowing may be drawing you inwards. Your intuition could be speaking more clearly than it usually does.",
+        "km": "ភាពស្ងប់ស្ងាត់ និងការយល់ដឹងជ្រៅជាង អាចកំពុងទាញអ្នកទៅខាងក្នុង។ វិចារណញាណរបស់អ្នក អាចកំពុងនិយាយច្បាស់ជាងធម្មតា។"
+      },
+      "challenge": {
+        "en": "Distrusting what you sense could leave you seeking answers only outside yourself. Make regular room for silence, and note what comes up there.",
+        "km": "ការមិនទុកចិត្តលើអ្វីដែលអ្នកដឹងដោយអារម្មណ៍ អាចធ្វើឱ្យអ្នកស្វែងរកចម្លើយតែនៅខាងក្រៅខ្លួនឯង។ សូមទុកកន្លែងជាប្រចាំសម្រាប់ភាពស្ងៀមស្ងាត់ ហើយកត់ចំណាំអ្វីដែលលេចឡើងនៅទីនោះ។"
+      },
+      "outcome": {
+        "en": "Deeper wisdom and self-trust could be where this leads. You may come to rely on a quiet inner guide that rarely leads you wrong.",
+        "km": "ប្រាជ្ញាជ្រៅជាង និងការទុកចិត្តខ្លួនឯង អាចជាកន្លែងដែលរឿងនេះនាំទៅ។ អ្នកអាចមកពឹងលើអ្នកណែនាំខាងក្នុងដ៏ស្ងាត់ ដែលកម្រនាំអ្នកខុស។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Inner growth and self-nurture may be flourishing together. Caring for your body and senses could be feeding your spirit as well.",
+        "km": "ការលូតលាស់ខាងក្នុង និងការថែទាំខ្លួនឯង អាចកំពុងរីកចម្រើនជាមួយគ្នា។ ការថែរក្សារាងកាយ និងញាណរបស់អ្នក អាចកំពុងចិញ្ចឹមស្មារតីរបស់អ្នកផងដែរ។"
+      },
+      "challenge": {
+        "en": "Pouring all your care into others could leave your own roots dry. Give your inner life the same patient care you give others.",
+        "km": "ការចាក់ការយកចិត្តទុកដាក់ទាំងអស់ទៅអ្នកដទៃ អាចធ្វើឱ្យឫសរបស់អ្នកផ្ទាល់ស្ងួត។ សូមផ្តល់ឱ្យជីវិតខាងក្នុងរបស់អ្នក នូវការថែទាំដោយអត់ធ្មត់ដូចដែលអ្នកផ្តល់ឱ្យអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Abundance and creative flowering could lie ahead. You may feel more at home in yourself and in the natural world.",
+        "km": "ភាពបរិបូរណ៍ និងការរីកដុះដាលនៃការច្នៃប្រឌិត អាចនៅខាងមុខ។ អ្នកអាចមានអារម្មណ៍ដូចនៅផ្ទះកាន់តែច្រើន ក្នុងខ្លួនឯង និងក្នុងពិភពធម្មជាតិ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Inner discipline and structure may be taking shape. Steady habits and clear priorities could be giving your growth a firm frame.",
+        "km": "វិន័យ និងរចនាសម្ព័ន្ធខាងក្នុង អាចកំពុងកើតជារូបរាង។ ទម្លាប់នឹងនរ និងអាទិភាពច្បាស់លាស់ អាចកំពុងផ្តល់ឱ្យការលូតលាស់របស់អ្នកនូវក្របខ័ណ្ឌរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Controlling your feelings too strictly could leave little space for change. Let structure support you without turning into a cage.",
+        "km": "ការគ្រប់គ្រងអារម្មណ៍របស់អ្នកតឹងរ៉ឹងពេក អាចទុកលំហតិចតួចសម្រាប់ការផ្លាស់ប្តូរ។ សូមឱ្យរចនាសម្ព័ន្ធគាំទ្រអ្នក ដោយមិនប្រែក្លាយទៅជាទ្រុង។"
+      },
+      "outcome": {
+        "en": "Steady self-mastery could grow out of this discipline. You may feel more in charge of your choices and calmer under pressure.",
+        "km": "ការគ្រប់គ្រងខ្លួនឯងយ៉ាងនឹងនរ អាចដុះចេញពីវិន័យនេះ។ អ្នកអាចមានអារម្មណ៍ថាគ្រប់គ្រងជម្រើសរបស់អ្នកកាន់តែច្រើន និងស្ងប់ជាងមុនក្រោមសម្ពាធ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "A teacher, tradition or community may be offering the guidance you seek. Learning from those who have walked this path could be steadying you.",
+        "km": "គ្រូ ប្រពៃណី ឬសហគមន៍ អាចកំពុងផ្តល់ការណែនាំដែលអ្នកស្វែងរក។ ការរៀនពីអ្នកដែលបានដើរផ្លូវនេះ អាចកំពុងធ្វើឱ្យអ្នកនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Following rules without making them your own could keep your growth shallow. Keep what rings true, and question what does not.",
+        "km": "ការធ្វើតាមច្បាប់ដោយមិនធ្វើឱ្យវាក្លាយជារបស់ខ្លួនឯង អាចធ្វើឱ្យការលូតលាស់របស់អ្នករាក់។ សូមរក្សាអ្វីដែលស្តាប់ទៅពិត ហើយសួរសំណួរពីអ្វីដែលមិនពិត។"
+      },
+      "outcome": {
+        "en": "A meaningful practice or belief system could become your anchor. You may find belonging among people who share your deepest values.",
+        "km": "ការអនុវត្ត ឬប្រព័ន្ធជំនឿដែលមានអត្ថន័យ អាចក្លាយជាយុថ្ការបស់អ្នក។ អ្នកអាចរកឃើញការជាផ្នែកមួយ ក្នុងចំណោមមនុស្សដែលចែករំលែកគុណតម្លៃជ្រៅបំផុតរបស់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "A choice that reveals what you value most may be in front of you. Aligning your heart and actions could be at the centre of your inner work.",
+        "km": "ជម្រើសមួយដែលបង្ហាញពីអ្វីដែលអ្នកឱ្យតម្លៃបំផុត អាចនៅចំពោះមុខអ្នក។ ការធ្វើឱ្យចិត្ត និងសកម្មភាពរបស់អ្នកស្របគ្នា អាចស្ថិតនៅចំណុចកណ្តាលនៃការងារខាងក្នុងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Choosing to please others over what you believe could pull you off course. Let your values, not other people's approval, guide the decision you make.",
+        "km": "ការជ្រើសរើសផ្គាប់ចិត្តអ្នកដទៃ ជាជាងអ្វីដែលអ្នកជឿ អាចទាញអ្នកចេញពីផ្លូវ។ សូមឱ្យគុណតម្លៃរបស់អ្នក មិនមែនការយល់ព្រមពីអ្នកដទៃ ដឹកនាំការសម្រេចចិត្តដែលអ្នកធ្វើ។"
+      },
+      "outcome": {
+        "en": "Your journey could lead towards wholeness, where heart and mind agree. You may feel more integrated and honest in your relationships.",
+        "km": "ដំណើររបស់អ្នក អាចនាំទៅរកភាពពេញលេញ ដែលចិត្ត និងគំនិតយល់ស្របគ្នា។ អ្នកអាចមានអារម្មណ៍រួមបញ្ចូលគ្នា និងស្មោះត្រង់ជាងមុនក្នុងទំនាក់ទំនងរបស់អ្នក។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Determination may be driving you forward on your inner path. Holding opposing feelings in check could be giving you real momentum.",
+        "km": "ការប្តេជ្ញា អាចកំពុងជំរុញអ្នកទៅមុខលើផ្លូវខាងក្នុងរបស់អ្នក។ ការគ្រប់គ្រងអារម្មណ៍ផ្ទុយគ្នា អាចកំពុងផ្តល់ឱ្យអ្នកនូវសន្ទុះពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Treating growth as a race could make you skip the lessons along the way. Steer with purpose, but let yourself notice the scenery.",
+        "km": "ការចាត់ទុកការលូតលាស់ជាការប្រណាំង អាចធ្វើឱ្យអ្នករំលងមេរៀនតាមផ្លូវ។ សូមដឹកនាំដោយគោលបំណង ប៉ុន្តែអនុញ្ញាតឱ្យខ្លួនឯងកត់សម្គាល់ទេសភាព។"
+      },
+      "outcome": {
+        "en": "A clear victory over an old struggle could be within reach. You may feel proud of the ground you have gained through willpower.",
+        "km": "ជ័យជម្នះច្បាស់លាស់លើការតស៊ូចាស់មួយ អាចនៅក្បែរដៃ។ អ្នកអាចមានមោទនភាពចំពោះផ្លូវដែលអ្នកបានឈានទៅមុខតាមរយៈឆន្ទៈ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "You may be learning to meet your fears and impulses with gentle courage. Patience with yourself could be proving stronger than force.",
+        "km": "អ្នកអាចកំពុងរៀនជួបការភ័យខ្លាច និងកម្លាំងចិត្តរបស់អ្នកដោយភាពក្លាហានទន់ភ្លន់។ ការអត់ធ្មត់ជាមួយខ្លួនឯង អាចកំពុងបង្ហាញថាខ្លាំងជាងកម្លាំង។"
+      },
+      "challenge": {
+        "en": "Fighting your own nature could exhaust you without bringing change. Approach difficult feelings with kindness, as you would a frightened friend.",
+        "km": "ការប្រយុទ្ធនឹងធម្មជាតិរបស់អ្នកផ្ទាល់ អាចធ្វើឱ្យអ្នកអស់កម្លាំង ដោយមិននាំមកនូវការផ្លាស់ប្តូរ។ សូមចូលទៅជិតអារម្មណ៍ពិបាកដោយសេចក្តីសប្បុរស ដូចដែលអ្នកធ្វើចំពោះមិត្តដែលកំពុងភ័យខ្លាច។"
+      },
+      "outcome": {
+        "en": "Quiet inner strength and compassion could keep growing in you. You may find you can hold hard emotions without being ruled by them.",
+        "km": "កម្លាំងខាងក្នុងស្ងាត់ៗ និងក្តីមេត្តា អាចបន្តលូតលាស់ក្នុងខ្លួនអ្នក។ អ្នកអាចឃើញថាអ្នកអាចកាន់អារម្មណ៍ពិបាក ដោយមិនត្រូវបានវាគ្រប់គ្រង។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "A reflective, solitary stretch may be shaping this part of your journey. Stepping back from noise could be helping you search for your own truth.",
+        "km": "ដំណាក់កាលនៃការឆ្លុះបញ្ចាំង និងភាពឯកោ អាចកំពុងបង្កើតផ្នែកនេះនៃដំណើររបស់អ្នក។ ការដកខ្លួនចេញពីសំឡេងរំខាន អាចកំពុងជួយអ្នកស្វែងរកការពិតរបស់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Withdrawing too far could turn healthy solitude into isolation. Share some of what you discover with someone you trust and respect.",
+        "km": "ការដកខ្លួនឆ្ងាយពេក អាចប្រែភាពឯកោដែលមានសុខភាពល្អទៅជាការនៅដាច់ឆ្ងាយ។ សូមចែករំលែកខ្លះនៃអ្វីដែលអ្នករកឃើញ ជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត និងគោរព។"
+      },
+      "outcome": {
+        "en": "Hard-won wisdom could be the reward of this search. You may become a quiet light for others who are searching too.",
+        "km": "ប្រាជ្ញាដែលទទួលបានដោយការតស៊ូ អាចជារង្វាន់នៃការស្វែងរកនេះ។ អ្នកអាចក្លាយជាពន្លឺស្ងាត់ៗសម្រាប់អ្នកដទៃដែលកំពុងស្វែងរកដូចគ្នា។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "A turning point in your inner life may be under way. Change could be moving you whether you feel ready or not.",
+        "km": "ចំណុចបត់មួយក្នុងជីវិតខាងក្នុងរបស់អ្នក អាចកំពុងកើតឡើង។ ការផ្លាស់ប្តូរ អាចកំពុងរុញអ្នកទៅមុខ ទោះបីអ្នកមានអារម្មណ៍ត្រៀមខ្លួនឬអត់ក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Resisting the turn of events could leave you feeling tossed about. Look for the pattern in what is happening, and move with it.",
+        "km": "ការប្រឆាំងនឹងការប្រែប្រួលនៃព្រឹត្តិការណ៍ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាត្រូវបានបោកបក់។ សូមរកមើលលំនាំក្នុងអ្វីដែលកំពុងកើតឡើង ហើយផ្លាស់ទីជាមួយវា។"
+      },
+      "outcome": {
+        "en": "A new cycle of growth could be turning in your favour. You may come to see how each up and down has shaped who you are becoming.",
+        "km": "វដ្តថ្មីនៃការលូតលាស់ អាចកំពុងបង្វិលមកជាប្រយោជន៍ដល់អ្នក។ អ្នកអាចមកមើលឃើញថាការឡើងចុះនីមួយៗ បានបង្កើតអ្នកដែលអ្នកកំពុងក្លាយជាយ៉ាងណា។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "An honest look at your choices and their effects may be your focus. Accepting responsibility could be clearing the way for growth.",
+        "km": "ការពិនិត្យដោយស្មោះត្រង់ពីជម្រើស និងផលប៉ះពាល់របស់វា អាចជាការផ្តោតរបស់អ្នក។ ការទទួលយកការទទួលខុសត្រូវ អាចកំពុងបើកផ្លូវសម្រាប់ការលូតលាស់។"
+      },
+      "challenge": {
+        "en": "Judging yourself harshly could block the clarity you are seeking. Weigh your actions fairly, with the same balance you would offer a friend.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចរារាំងភាពច្បាស់លាស់ដែលអ្នកកំពុងស្វែងរក។ សូមថ្លឹងសកម្មភាពរបស់អ្នកដោយយុត្តិធម៌ ជាមួយតុល្យភាពដូចដែលអ្នកផ្តល់ឱ្យមិត្តម្នាក់។"
+      },
+      "outcome": {
+        "en": "Integrity and inner peace could grow from honest choices. You may feel lighter as your actions come into line with your truth.",
+        "km": "ភាពស្មោះត្រង់ និងសន្តិភាពខាងក្នុង អាចដុះចេញពីជម្រើសស្មោះត្រង់។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលសកម្មភាពរបស់អ្នកស្របនឹងការពិតរបស់អ្នក។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Old ways of seeing may have stopped working, leaving you in a pause. Letting go of control could be opening a surprising new perspective.",
+        "km": "របៀបមើលចាស់ៗ អាចលែងដំណើរការ ដែលទុកអ្នកក្នុងការផ្អាកមួយ។ ការលែងប្រកាន់ការគ្រប់គ្រង អាចកំពុងបើកទស្សនៈថ្មីគួរឱ្យភ្ញាក់ផ្អើល។"
+      },
+      "challenge": {
+        "en": "Struggling against the pause could make it feel like wasted effort. Surrender to the stillness, and see what it reveals.",
+        "km": "ការតស៊ូប្រឆាំងនឹងការផ្អាក អាចធ្វើឱ្យវាមានអារម្មណ៍ដូចជាការខិតខំឥតប្រយោជន៍។ សូមចុះចាញ់នឹងភាពស្ងប់ស្ងាត់ ហើយមើលអ្វីដែលវាបង្ហាញ។"
+      },
+      "outcome": {
+        "en": "A profound shift in outlook could change your direction. You may see your life from a new angle that changes what matters most.",
+        "km": "ការផ្លាស់ប្តូរទស្សនៈដ៏ជ្រាលជ្រៅ អាចផ្លាស់ប្តូរទិសដៅរបស់អ្នក។ អ្នកអាចមើលឃើញជីវិតរបស់អ្នកពីមុំថ្មីមួយ ដែលផ្លាស់ប្តូរអ្វីដែលសំខាន់បំផុត។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "An old version of yourself may be falling away. An ending inside could be making room for who you are becoming.",
+        "km": "កំណែចាស់នៃខ្លួនឯង អាចកំពុងរលុះចេញ។ ការបញ្ចប់មួយនៅខាងក្នុង អាចកំពុងបង្កើតកន្លែងសម្រាប់អ្នកដែលអ្នកកំពុងក្លាយជា។"
+      },
+      "challenge": {
+        "en": "Clinging to an identity you have outgrown could hold back your transformation. Let the old self go with gratitude for what it taught you.",
+        "km": "ការប្រកាន់ខ្ជាប់អត្តសញ្ញាណដែលអ្នកបានលូតលាស់ហួស អាចរារាំងការផ្លាស់ប្តូររបស់អ្នក។ សូមលែងប្រកាន់ខ្លួនចាស់ ដោយការដឹងគុណចំពោះអ្វីដែលវាបានបង្រៀនអ្នក។"
+      },
+      "outcome": {
+        "en": "Deep transformation and renewal could follow this ending. You may emerge clearer, freer and more truly yourself.",
+        "km": "ការផ្លាស់ប្តូរជ្រាលជ្រៅ និងការកើតជាថ្មី អាចកើតឡើងតាមការបញ្ចប់នេះ។ អ្នកអាចលេចចេញមកកាន់តែច្បាស់ សេរី និងជាខ្លួនឯងពិតប្រាកដជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You may be learning to blend different parts of yourself into balance. Moderation and patience could be guiding your inner work.",
+        "km": "អ្នកអាចកំពុងរៀនលាយផ្នែកផ្សេងៗនៃខ្លួនឯងឱ្យមានតុល្យភាព។ ភាពល្មមល្មើយ និងការអត់ធ្មត់ អាចកំពុងដឹកនាំការងារខាងក្នុងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Swinging between extremes could unsettle your progress. Find a middle way, and let change happen in gentle measures.",
+        "km": "ការយោលរវាងភាពជ្រុល អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកមិនស្ថិតស្ថេរ។ សូមរកផ្លូវកណ្តាល ហើយទុកឱ្យការផ្លាស់ប្តូរកើតឡើងក្នុងកម្រិតទន់ភ្លន់។"
+      },
+      "outcome": {
+        "en": "Harmony and inner healing could take root. You may feel a calm sense of flow between your mind, body and spirit.",
+        "km": "ភាពចុះសម្រុង និងការព្យាបាលខាងក្នុង អាចចាក់ឫស។ អ្នកអាចមានអារម្មណ៍ស្ងប់នៃលំហូររវាងគំនិត រាងកាយ និងស្មារតីរបស់អ្នក។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Patterns or attachments that hold you back may be coming into view. Seeing the chains clearly could be the first step towards freedom.",
+        "km": "លំនាំ ឬការជាប់ជំពាក់ដែលរារាំងអ្នក អាចកំពុងលេចឡើងឱ្យឃើញ។ ការមើលឃើញច្រវាក់យ៉ាងច្បាស់ អាចជាជំហានដំបូងឆ្ពោះទៅរកសេរីភាព។"
+      },
+      "challenge": {
+        "en": "Denying an unhealthy habit could keep it in control. Name it honestly, and seek support or professional help if it has a hold on you.",
+        "km": "ការបដិសេធទម្លាប់មិនល្អ អាចរក្សាវាឱ្យនៅតែគ្រប់គ្រង។ សូមដាក់ឈ្មោះវាដោយស្មោះត្រង់ ហើយស្វែងរកការគាំទ្រ ឬជំនួយពីអ្នកជំនាញ ប្រសិនបើវាកំពុងចាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Freedom from what has bound you could be close. You may reclaim energy that was tied up in old compulsions.",
+        "km": "សេរីភាពពីអ្វីដែលបានចងអ្នក អាចនៅជិត។ អ្នកអាចទាមទារថាមពលមកវិញ ដែលធ្លាប់ជាប់ក្នុងការបង្ខិតបង្ខំចាស់ៗ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Beliefs you took for granted may be shaking loose. What is falling apart could be revealing what was never solid.",
+        "km": "ជំនឿដែលអ្នកធ្លាប់ចាត់ទុកជាការពិត អាចកំពុងរង្គើ។ អ្វីដែលកំពុងដួលរលំ អាចកំពុងបង្ហាញពីអ្វីដែលមិនដែលរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Trying to hold up a crumbling belief could deepen the strain. Let it fall, and seek support if the upheaval feels overwhelming.",
+        "km": "ការព្យាយាមទប់ជំនឿដែលកំពុងបាក់បែក អាចធ្វើឱ្យភាពតានតឹងកាន់តែជ្រៅ។ សូមទុកឱ្យវាដួល ហើយស្វែងរកការគាំទ្រ ប្រសិនបើការរង្គើមានអារម្មណ៍ថាលើសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "A breakthrough that clears the ground could reshape your inner life. You may rebuild your inner life on truer, stronger foundations.",
+        "km": "ការទម្លុះដែលសម្អាតដី អាចរៀបចំជីវិតខាងក្នុងរបស់អ្នកឡើងវិញ។ អ្នកអាចកសាងជីវិតខាងក្នុងរបស់អ្នកឡើងវិញ លើគ្រឹះដែលពិត និងរឹងមាំជាង។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and healing may be colouring this part of your journey. A renewed faith in yourself could be glowing quietly inside.",
+        "km": "ក្តីសង្ឃឹម និងការព្យាបាល អាចកំពុងលាបពណ៌ផ្នែកនេះនៃដំណើររបស់អ្នក។ ជំនឿថ្មីលើខ្លួនឯង អាចកំពុងភ្លឺស្ងាត់ៗនៅខាងក្នុង។"
+      },
+      "challenge": {
+        "en": "Doubting that healing is possible could dim your guiding light. Keep a small practice of hope, such as writing what you are grateful for.",
+        "km": "ការសង្ស័យថាការព្យាបាលអាចទៅរួច អាចធ្វើឱ្យពន្លឺណែនាំរបស់អ្នកស្រអាប់។ សូមរក្សាការអនុវត្តតូចមួយនៃក្តីសង្ឃឹម ដូចជាការសរសេរអ្វីដែលអ្នកដឹងគុណ។"
+      },
+      "outcome": {
+        "en": "Renewal and inspiration could light the way forward. You may feel guided by a clear sense of purpose and quiet faith.",
+        "km": "ការកើតជាថ្មី និងការបំផុសគំនិត អាចបំភ្លឺផ្លូវទៅមុខ។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានដឹកនាំដោយអារម្មណ៍ច្បាស់នៃគោលបំណង និងជំនឿស្ងាត់ៗ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Uncertain, dreamlike territory may lie inside you. Feelings and images from deep within could be rising to the surface.",
+        "km": "តំបន់មិនប្រាកដ និងដូចសុបិន អាចស្ថិតនៅខាងក្នុងខ្លួនអ្នក។ អារម្មណ៍ និងរូបភាពពីជម្រៅខាងក្នុង អាចកំពុងងើបឡើងមកផ្ទៃខាងលើ។"
+      },
+      "challenge": {
+        "en": "Fear of the unknown could make you turn back too early. Move gently, trust your instincts, and talk to someone if confusion becomes distressing.",
+        "km": "ការភ័យខ្លាចចំពោះអ្វីដែលមិនស្គាល់ អាចធ្វើឱ្យអ្នកត្រឡប់ក្រោយលឿនពេក។ សូមដើរទៅមុខដោយទន់ភ្លន់ ទុកចិត្តលើសភាវគតិរបស់អ្នក ហើយនិយាយជាមួយនរណាម្នាក់ ប្រសិនបើភាពច្របូកច្របល់ក្លាយជាទុក្ខព្រួយ។"
+      },
+      "outcome": {
+        "en": "Deeper self-knowledge could emerge from this mystery. You may understand hidden parts of yourself as the fog lifts.",
+        "km": "ការស្គាល់ខ្លួនឯងជ្រៅជាង អាចលេចចេញពីភាពអាថ៌កំបាំងនេះ។ អ្នកអាចយល់ពីផ្នែកលាក់កំបាំងនៃខ្លួនឯង នៅពេលអ័ព្ទរសាត់បាត់។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Your inner life may be bright and open. Joy and clarity could be helping you see yourself warmly.",
+        "km": "ជីវិតខាងក្នុងរបស់អ្នក អាចភ្លឺស្វាង និងបើកចំហ។ សេចក្តីរីករាយ និងភាពច្បាស់លាស់ អាចកំពុងជួយអ្នកមើលឃើញខ្លួនឯងដោយភាពកក់ក្តៅ។"
+      },
+      "challenge": {
+        "en": "Assuming the work is done because things feel good could stop your growth. Keep a light curiosity about what is still unfolding.",
+        "km": "ការសន្មតថាការងារបានរួចរាល់ ព្រោះអ្វីៗមានអារម្មណ៍ល្អ អាចបញ្ឈប់ការលូតលាស់របស់អ្នក។ សូមរក្សាការចង់ដឹងស្រាលៗ អំពីអ្វីដែលនៅតែកំពុងលាតត្រដាង។"
+      },
+      "outcome": {
+        "en": "Vitality and self-acceptance could flourish. You may shine more freely as your true self.",
+        "km": "ភាពរស់រវើក និងការទទួលយកខ្លួនឯង អាចរីកចម្រើន។ អ្នកអាចភ្លឺចែងចាំងដោយសេរីជាងមុន ក្នុងនាមជាខ្លួនឯងពិតប្រាកដ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "A call to rise to a higher version of yourself may be sounding. Reviewing your life honestly could be stirring a sense of awakening.",
+        "km": "ការហៅឱ្យក្រោកឡើងទៅរកកំណែខ្ពស់ជាងនៃខ្លួនឯង អាចកំពុងបន្លឺឡើង។ ការពិនិត្យជីវិតរបស់អ្នកដោយស្មោះត្រង់ អាចកំពុងដាស់អារម្មណ៍នៃការភ្ញាក់ដឹងខ្លួន។"
+      },
+      "challenge": {
+        "en": "Harsh self-judgement could drown out the call to grow. Forgive what is behind you, and answer with one meaningful step.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចលង់លិចការហៅឱ្យលូតលាស់។ សូមអភ័យទោសចំពោះអ្វីដែលនៅពីក្រោយអ្នក ហើយឆ្លើយតបដោយជំហានដ៏មានអត្ថន័យមួយ។"
+      },
+      "outcome": {
+        "en": "A spiritual awakening or sense of rebirth could unfold. You may feel ready to live by your deepest sense of purpose.",
+        "km": "ការភ្ញាក់ដឹងខាងវិញ្ញាណ ឬអារម្មណ៍នៃការកើតជាថ្មី អាចលាតត្រដាង។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនដើម្បីរស់នៅតាមអារម្មណ៍ជ្រៅបំផុតនៃគោលបំណងរបស់អ្នក។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "An important stage of your inner journey may be coming full circle. A sense of wholeness could be settling in as lessons come together.",
+        "km": "ដំណាក់កាលសំខាន់មួយនៃដំណើរខាងក្នុងរបស់អ្នក អាចកំពុងបញ្ចប់វដ្តរបស់វា។ អារម្មណ៍នៃភាពពេញលេញ អាចកំពុងស្ថិតស្ថេរ នៅពេលមេរៀនប្រមូលផ្តុំគ្នា។"
+      },
+      "challenge": {
+        "en": "Rushing to the next goal could stop you from honouring what you have learned. Mark this stage in some meaningful way before you start on another.",
+        "km": "ការប្រញាប់ទៅគោលដៅបន្ទាប់ អាចរារាំងអ្នកពីការគោរពអ្វីដែលអ្នកបានរៀន។ សូមកត់សម្គាល់ដំណាក់កាលនេះតាមរបៀបដែលមានអត្ថន័យ មុនពេលអ្នកចាប់ផ្តើមដំណាក់កាលមួយទៀត។"
+      },
+      "outcome": {
+        "en": "Fulfilment and integration could crown this stage of growth. You may feel complete, at peace and ready for a new cycle.",
+        "km": "ការបំពេញ និងការរួមបញ្ចូល អាចបញ្ចប់ដំណាក់កាលនៃការលូតលាស់នេះយ៉ាងល្អ។ អ្នកអាចមានអារម្មណ៍ពេញលេញ សុខសាន្ត និងត្រៀមខ្លួនសម្រាប់វដ្តថ្មី។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A new spark of inner passion may be lighting your way. A fresh interest in growth could be giving your journey real energy.",
+        "km": "ផ្កាភ្លើងថ្មីនៃចំណង់ខាងក្នុង អាចកំពុងបំភ្លឺផ្លូវរបស់អ្នក។ ចំណាប់អារម្មណ៍ថ្មីលើការលូតលាស់ អាចកំពុងផ្តល់ឱ្យដំណើររបស់អ្នកនូវថាមពលពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Letting inspiration fade without action could leave the spark unused. Turn one insight into a small practice you return to regularly.",
+        "km": "ការទុកឱ្យការបំផុសគំនិតរសាត់ដោយគ្មានសកម្មភាព អាចធ្វើឱ្យផ្កាភ្លើងមិនត្រូវបានប្រើ។ សូមប្រែក្លាយការយល់ដឹងមួយ ទៅជាការអនុវត្តតូចមួយដែលអ្នកត្រឡប់មកធ្វើជាប្រចាំ។"
+      },
+      "outcome": {
+        "en": "A burst of motivation could carry your inner growth forward. You may feel drawn towards a calling that excites your spirit.",
+        "km": "កម្លាំងជំរុញដ៏ខ្លាំងមួយ អាចនាំការលូតលាស់ខាងក្នុងរបស់អ្នកទៅមុខ។ អ្នកអាចមានអារម្មណ៍ត្រូវបានទាញទៅរកការហៅដែលធ្វើឱ្យស្មារតីរបស់អ្នករំភើប។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Where to go next inside may be the question you are surveying. Weighing a wider path against a familiar one could be your work.",
+        "km": "ទិសដៅដែលត្រូវទៅខាងក្នុង អាចជាសំណួរដែលអ្នកកំពុងពិនិត្យ។ ការថ្លឹងថ្លែងផ្លូវទូលាយជាង ធៀបនឹងផ្លូវដែលធ្លាប់ស្គាល់ អាចជាការងាររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Planning your growth endlessly could keep you from setting out. Choose a direction that excites you and take the first step.",
+        "km": "ការគ្រោងការលូតលាស់របស់អ្នកដោយមិនចេះចប់ អាចរារាំងអ្នកពីការចេញដំណើរ។ សូមជ្រើសរើសទិសដៅមួយដែលធ្វើឱ្យអ្នករំភើប ហើយបោះជំហានដំបូង។"
+      },
+      "outcome": {
+        "en": "Bold choices could open wider horizons for your inner life. You may find yourself exploring beliefs and experiences beyond your old limits.",
+        "km": "ជម្រើសក្លាហាន អាចបើកជើងមេឃទូលាយជាងសម្រាប់ជីវិតខាងក្នុងរបស់អ្នក។ អ្នកអាចឃើញខ្លួនឯងកំពុងរុករកជំនឿ និងបទពិសោធន៍ ហួសពីដែនកំណត់ចាស់របស់អ្នក។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Your inner work may be starting to show results. Looking ahead with confidence could be expanding your sense of what is possible.",
+        "km": "ការងារខាងក្នុងរបស់អ្នក អាចកំពុងចាប់ផ្តើមបង្ហាញលទ្ធផល។ ការមើលទៅមុខដោយទំនុកចិត្ត អាចកំពុងពង្រីកអារម្មណ៍របស់អ្នកពីអ្វីដែលអាចទៅរួច។"
+      },
+      "challenge": {
+        "en": "Expecting instant transformation could leave you impatient with real progress. Trust that what you set in motion is still unfolding.",
+        "km": "ការរំពឹងការផ្លាស់ប្តូរភ្លាមៗ អាចធ្វើឱ្យអ្នកមិនអត់ធ្មត់ជាមួយការរីកចម្រើនពិតប្រាកដ។ សូមទុកចិត្តថាអ្វីដែលអ្នកបានចាប់ផ្តើម នៅតែកំពុងលាតត្រដាង។"
+      },
+      "outcome": {
+        "en": "Growth could carry you into wider territory than you imagined. You may welcome new ideas, people and experiences that enrich your spirit.",
+        "km": "ការលូតលាស់ អាចនាំអ្នកទៅកាន់តំបន់ទូលាយជាងអ្វីដែលអ្នកស្រមៃ។ អ្នកអាចស្វាគមន៍គំនិត មនុស្ស និងបទពិសោធន៍ថ្មីៗ ដែលធ្វើឱ្យស្មារតីរបស់អ្នកសម្បូរ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A happy milestone on your inner path may have arrived. Celebrating how far you have come could be grounding you.",
+        "km": "ចំណុចសំខាន់ដ៏រីករាយមួយលើផ្លូវខាងក្នុងរបស់អ្នក អាចបានមកដល់។ ការអបអរថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា អាចកំពុងធ្វើឱ្យអ្នកនឹងធឹង។"
+      },
+      "challenge": {
+        "en": "Skipping the celebration could leave you feeling you never arrive. Honour this milestone with people who have supported your growth.",
+        "km": "ការរំលងការអបអរ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាមិនដែលទៅដល់។ សូមគោរពចំណុចសំខាន់នេះ ជាមួយមនុស្សដែលបានគាំទ្រការលូតលាស់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A sense of homecoming could be where your journey leads. You may feel settled, supported and at peace with who you are.",
+        "km": "អារម្មណ៍នៃការត្រឡប់មកផ្ទះ អាចជាកន្លែងដែលដំណើររបស់អ្នកនាំទៅ។ អ្នកអាចមានអារម្មណ៍ស្ថិតស្ថេរ មានការគាំទ្រ និងសុខសាន្តជាមួយអ្នកជានរណា។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Inner conflict may be stirring as different parts of you compete. Opposing wants and values could be pushing you to clarify what matters.",
+        "km": "ជម្លោះខាងក្នុង អាចកំពុងកើតឡើង នៅពេលផ្នែកផ្សេងៗនៃខ្លួនអ្នកប្រកួតប្រជែងគ្នា។ បំណង និងគុណតម្លៃផ្ទុយគ្នា អាចកំពុងជំរុញអ្នកឱ្យបញ្ជាក់ពីអ្វីដែលសំខាន់។"
+      },
+      "challenge": {
+        "en": "Letting inner voices battle endlessly could wear you out. Listen to each side in turn, and choose which one should lead.",
+        "km": "ការទុកឱ្យសំឡេងខាងក្នុងប្រយុទ្ធគ្នាដោយមិនចេះចប់ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមស្តាប់ភាគីនីមួយៗតាមវេន ហើយជ្រើសរើសថាមួយណាគួរដឹកនាំ។"
+      },
+      "outcome": {
+        "en": "Working through inner tension could bring clearer priorities. You may come out of the struggle more sure of what you stand for.",
+        "km": "ការដោះស្រាយភាពតានតឹងខាងក្នុង អាចនាំមកនូវអាទិភាពច្បាស់ជាង។ អ្នកអាចចេញពីការតស៊ូ ដោយប្រាកដជាងមុនពីអ្វីដែលអ្នកការពារ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "A sense of progress on your inner path may be lifting you. Recognition, inner or outer, could be confirming you are on track.",
+        "km": "អារម្មណ៍នៃការរីកចម្រើនលើផ្លូវខាងក្នុងរបស់អ្នក អាចកំពុងលើកអ្នក។ ការទទួលស្គាល់ ទោះពីខាងក្នុង ឬខាងក្រៅ អាចកំពុងបញ្ជាក់ថាអ្នកនៅលើផ្លូវត្រូវ។"
+      },
+      "challenge": {
+        "en": "Depending on praise to measure growth could pull you off your path. Let your own sense of rightness be the guide.",
+        "km": "ការពឹងផ្អែកលើការសរសើរដើម្បីវាស់ការលូតលាស់ អាចទាញអ្នកចេញពីផ្លូវរបស់អ្នក។ សូមឱ្យអារម្មណ៍ត្រឹមត្រូវរបស់អ្នកផ្ទាល់ធ្វើជាអ្នកណែនាំ។"
+      },
+      "outcome": {
+        "en": "Steady progress could lead to a well-earned sense of inner victory. You may feel proud of the person you are becoming.",
+        "km": "ការរីកចម្រើនដ៏នឹងនរ អាចនាំទៅរកអារម្មណ៍នៃជ័យជម្នះខាងក្នុងដែលសមនឹងទទួល។ អ្នកអាចមានមោទនភាពចំពោះមនុស្សដែលអ្នកកំពុងក្លាយជា។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "New beliefs of yours may be meeting questions from others. Defending your inner growth could be testing your conviction.",
+        "km": "ជំនឿថ្មីរបស់អ្នក អាចកំពុងជួបសំណួរពីអ្នកដទៃ។ ការការពារការលូតលាស់ខាងក្នុងរបស់អ្នក អាចកំពុងសាកល្បងការជឿជាក់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Arguing for your path with everyone could drain the energy it needs. Hold your ground quietly, without needing others to agree.",
+        "km": "ការប្រកែកការពារផ្លូវរបស់អ្នកជាមួយមនុស្សគ្រប់គ្នា អាចបង្ហូរថាមពលដែលវាត្រូវការ។ សូមឈររឹងមាំដោយស្ងាត់ៗ ដោយមិនចាំបាច់ឱ្យអ្នកដទៃយល់ស្រប។"
+      },
+      "outcome": {
+        "en": "Holding firm could lead to deeper confidence in your own path. You may grow more certain of your values through gentle resistance.",
+        "km": "ការឈររឹងមាំ អាចនាំទៅរកទំនុកចិត្តជ្រៅជាងលើផ្លូវរបស់អ្នក។ អ្នកអាចកាន់តែប្រាកដលើគុណតម្លៃរបស់អ្នក តាមរយៈការតស៊ូដោយទន់ភ្លន់។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Insights may be arriving thick and steady, moving your inner life along. Things that were stuck could be shifting with welcome ease.",
+        "km": "ការយល់ដឹង អាចកំពុងមកដល់ច្រើន ធ្វើឱ្យជីវិតខាងក្នុងរបស់អ្នកឈានទៅមុខ។ អ្វីដែលធ្លាប់ជាប់គាំង អាចកំពុងផ្លាស់ប្តូរដោយភាពងាយស្រួលគួរឱ្យស្វាគមន៍។"
+      },
+      "challenge": {
+        "en": "Rushing through realisations could leave them unabsorbed. Give each insight room to settle before you chase another one.",
+        "km": "ការប្រញាប់ឆ្លងកាត់ការយល់ដឹង អាចធ្វើឱ្យវាមិនត្រូវបានស្រូបយក។ សូមផ្តល់លំហឱ្យការយល់ដឹងនីមួយៗស្ថិតស្ថេរ មុនពេលអ្នកដេញតាមមួយទៀត។"
+      },
+      "outcome": {
+        "en": "Momentum could carry your growth forward with energy. You may see shifts that felt distant come within reach.",
+        "km": "សន្ទុះ អាចនាំការលូតលាស់របស់អ្នកទៅមុខដោយថាមពល។ អ្នកអាចឃើញការផ្លាស់ប្តូរដែលធ្លាប់មានអារម្មណ៍ឆ្ងាយ មកដល់ក្នុងដៃ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may be weary but still holding on along your inner path. Earlier struggles could have made you watchful and resilient.",
+        "km": "អ្នកអាចកំពុងនឿយហត់ ប៉ុន្តែនៅតែតស៊ូលើផ្លូវខាងក្នុងរបស់អ្នក។ ការតស៊ូកន្លងមក អាចបានធ្វើឱ្យអ្នកប្រុងប្រយ័ត្ន និងធន់។"
+      },
+      "challenge": {
+        "en": "Expecting every step to be another battle could keep you tense. Rest where you can, and trust the strength you have built.",
+        "km": "ការរំពឹងថាជំហាននីមួយៗជាការប្រយុទ្ធមួយទៀត អាចធ្វើឱ្យអ្នកតានតឹង។ សូមសម្រាកនៅកន្លែងដែលអ្នកអាច ហើយទុកចិត្តលើកម្លាំងដែលអ្នកបានកសាង។"
+      },
+      "outcome": {
+        "en": "Perseverance could carry you through the hardest part of a lesson. You may emerge tougher, wiser and gentler with yourself.",
+        "km": "ការតស៊ូ អាចនាំអ្នកឆ្លងកាត់ផ្នែកលំបាកបំផុតនៃមេរៀនមួយ។ អ្នកអាចលេចចេញមកកាន់តែរឹងមាំ ឈ្លាសវៃ និងទន់ភ្លន់ជាមួយខ្លួនឯង។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "A heavy load of expectations may be pressing on your inner path. Trying to grow while managing everything could be wearing you down.",
+        "km": "បន្ទុកធ្ងន់នៃការរំពឹងទុក អាចកំពុងសង្កត់លើផ្លូវខាងក្នុងរបស់អ្នក។ ការព្យាយាមលូតលាស់ ខណៈពេលគ្រប់គ្រងអ្វីៗទាំងអស់ អាចកំពុងធ្វើឱ្យអ្នកអស់កម្លាំង។"
+      },
+      "challenge": {
+        "en": "Treating growth as another duty could make it a burden. Set down one expectation, and let your inner life breathe.",
+        "km": "ការចាត់ទុកការលូតលាស់ជាកាតព្វកិច្ចមួយទៀត អាចធ្វើឱ្យវាក្លាយជាបន្ទុក។ សូមដាក់ការរំពឹងទុកមួយចុះ ហើយឱ្យជីវិតខាងក្នុងរបស់អ្នកដកដង្ហើម។"
+      },
+      "outcome": {
+        "en": "Letting go of extra weight could free your journey to continue. You may find a lighter, more sustainable way to grow.",
+        "km": "ការលែងប្រកាន់ទម្ងន់លើស អាចដោះលែងដំណើររបស់អ្នកឱ្យបន្ត។ អ្នកអាចរកឃើញវិធីស្រាលជាង និងអាចរក្សាបានជាងដើម្បីលូតលាស់។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You may be exploring your inner life with eager curiosity. A new book, practice or idea could be sparking excitement about who you can become.",
+        "km": "អ្នកអាចកំពុងរុករកជីវិតខាងក្នុងរបស់អ្នក ដោយការចង់ដឹងចង់ឃើញយ៉ាងខ្លាំង។ សៀវភៅ ការអនុវត្ត ឬគំនិតថ្មី អាចកំពុងបង្កើតភាពរំភើបអំពីអ្នកដែលអ្នកអាចក្លាយជា។"
+      },
+      "challenge": {
+        "en": "Jumping between practices could keep your growth scattered. Commit to one path deeply enough to feel its effects.",
+        "km": "ការលោតរវាងការអនុវត្តផ្សេងៗ អាចធ្វើឱ្យការលូតលាស់របស់អ្នករាយប៉ាយ។ សូមប្តេជ្ញាចំពោះផ្លូវមួយ ឱ្យបានជ្រៅគ្រប់គ្រាន់ដើម្បីមានអារម្មណ៍ពីឥទ្ធិពលរបស់វា។"
+      },
+      "outcome": {
+        "en": "Enthusiastic exploration could lead you to an inspiring new path. You may discover a passion that becomes central to your growth.",
+        "km": "ការរុករកដោយរំភើប អាចនាំអ្នកទៅរកផ្លូវថ្មីដែលបំផុសគំនិត។ អ្នកអាចរកឃើញចំណង់ចំណូលចិត្តមួយ ដែលក្លាយជាចំណុចកណ្តាលនៃការលូតលាស់របស់អ្នក។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold energy for inner change may be surging through you. A passionate drive to transform could be pushing you forward.",
+        "km": "ថាមពលក្លាហានសម្រាប់ការផ្លាស់ប្តូរខាងក្នុង អាចកំពុងហូរកាត់ខ្លួនអ្នក។ កម្លាំងជំរុញដ៏ងប់ងល់ដើម្បីផ្លាស់ប្តូរ អាចកំពុងរុញអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Charging ahead without reflection could lead to burnout. Balance bold action with quiet time to absorb what you learn.",
+        "km": "ការរុញទៅមុខដោយគ្មានការឆ្លុះបញ្ចាំង អាចនាំទៅរកការអស់កម្លាំង។ សូមថ្លឹងសកម្មភាពក្លាហាន ជាមួយពេលស្ងាត់ដើម្បីស្រូបយកអ្វីដែលអ្នករៀន។"
+      },
+      "outcome": {
+        "en": "Passionate effort could carry you into an adventurous chapter of growth. You may surprise yourself with how much you can change.",
+        "km": "ការខិតខំដ៏ងប់ងល់ អាចនាំអ្នកចូលទៅក្នុងជំពូកផ្សងព្រេងនៃការលូតលាស់។ អ្នកអាចធ្វើឱ្យខ្លួនឯងភ្ញាក់ផ្អើលចំពោះថាតើអ្នកអាចផ្លាស់ប្តូរបានប៉ុណ្ណា។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You may be growing into a warmer, more confident version of yourself. Embracing your own light could be drawing others to you.",
+        "km": "អ្នកអាចកំពុងលូតលាស់ទៅជាកំណែដែលកក់ក្តៅ និងមានទំនុកចិត្តជាងនៃខ្លួនឯង។ ការទទួលយកពន្លឺរបស់អ្នកផ្ទាល់ អាចកំពុងទាក់ទាញអ្នកដទៃមករកអ្នក។"
+      },
+      "challenge": {
+        "en": "Hiding your growth to avoid standing out could slow your journey. Let yourself be seen by others as the person you are becoming.",
+        "km": "ការលាក់ការលូតលាស់របស់អ្នក ដើម្បីជៀសវាងការលេចធ្លោ អាចធ្វើឱ្យដំណើររបស់អ្នកយឺត។ សូមអនុញ្ញាតឱ្យខ្លួនឯងត្រូវបានអ្នកដទៃមើលឃើញ ជាមនុស្សដែលអ្នកកំពុងក្លាយជា។"
+      },
+      "outcome": {
+        "en": "Self-expression could lead to a vibrant, confident inner life. You may inspire others simply by being authentically yourself.",
+        "km": "ការបញ្ចេញខ្លួនឯង អាចនាំទៅរកជីវិតខាងក្នុងដ៏រស់រវើក និងមានទំនុកចិត្ត។ អ្នកអាចបំផុសគំនិតអ្នកដទៃ គ្រាន់តែដោយការធ្វើជាខ្លួនឯងពិតប្រាកដ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Leadership of your own life may be calling you. A clear inner vision could be guiding your choices.",
+        "km": "ការដឹកនាំជីវិតរបស់ខ្លួនឯង អាចកំពុងហៅអ្នក។ ចក្ខុវិស័យខាងក្នុងច្បាស់លាស់ អាចកំពុងដឹកនាំជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Trying to control every part of your growth could make it rigid. Lead with vision, but leave plenty of room for surprise and discovery.",
+        "km": "ការព្យាយាមគ្រប់គ្រងគ្រប់ផ្នែកនៃការលូតលាស់របស់អ្នក អាចធ្វើឱ្យវារឹងតឹង។ សូមដឹកនាំដោយចក្ខុវិស័យ ប៉ុន្តែទុកកន្លែងច្រើនសម្រាប់ការភ្ញាក់ផ្អើល និងការរកឃើញ។"
+      },
+      "outcome": {
+        "en": "Visionary self-leadership could take your inner journey somewhere meaningful. You may become a guide for others on similar paths.",
+        "km": "ការដឹកនាំខ្លួនឯងដោយចក្ខុវិស័យ អាចនាំដំណើរខាងក្នុងរបស់អ្នកទៅកន្លែងដែលមានអត្ថន័យ។ អ្នកអាចក្លាយជាអ្នកណែនាំសម្រាប់អ្នកដទៃ ដែលកំពុងដើរផ្លូវស្រដៀងគ្នា។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your heart may be opening to a new depth of feeling. A sense of compassion or spiritual tenderness could be filling you.",
+        "km": "ចិត្តរបស់អ្នក អាចកំពុងបើកទៅរកជម្រៅថ្មីនៃអារម្មណ៍។ អារម្មណ៍នៃក្តីមេត្តា ឬភាពទន់ភ្លន់ខាងវិញ្ញាណ អាចកំពុងបំពេញអ្នក។"
+      },
+      "challenge": {
+        "en": "Guarding your heart too closely could block this new flow of feeling. Let emotion in, even when it feels unfamiliar or a little uncomfortable.",
+        "km": "ការការពារចិត្តរបស់អ្នកតឹងពេក អាចរារាំងលំហូរថ្មីនៃអារម្មណ៍នេះ។ សូមអនុញ្ញាតឱ្យអារម្មណ៍ចូលមក ទោះបីវាមិនធ្លាប់ស្គាល់ ឬមិនស្រួលបន្តិចក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "An open heart could lead your journey towards love and spiritual fullness. You may feel connected to others and to something greater.",
+        "km": "ចិត្តបើកចំហ អាចនាំដំណើររបស់អ្នកទៅរកក្តីស្រឡាញ់ និងភាពពេញលេញខាងវិញ្ញាណ។ អ្នកអាចមានអារម្មណ៍ភ្ជាប់ទៅនឹងអ្នកដទៃ និងអ្វីមួយធំជាង។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A meaningful connection may be shaping your inner growth. Seeing yourself through someone's caring eyes could be teaching you a lot.",
+        "km": "ទំនាក់ទំនងដែលមានអត្ថន័យ អាចកំពុងបង្កើតការលូតលាស់ខាងក្នុងរបស់អ្នក។ ការមើលឃើញខ្លួនឯងតាមរយៈភ្នែកដែលយកចិត្តទុកដាក់របស់នរណាម្នាក់ អាចកំពុងបង្រៀនអ្នកច្រើន។"
+      },
+      "challenge": {
+        "en": "Losing yourself in another could pull you away from your own path. Grow alongside others while staying true to your journey.",
+        "km": "ការបាត់បង់ខ្លួនឯងនៅក្នុងអ្នកដទៃ អាចទាញអ្នកចេញពីផ្លូវរបស់អ្នក។ សូមលូតលាស់ជាមួយអ្នកដទៃ ខណៈពេលនៅតែស្មោះត្រង់នឹងដំណើររបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Mutual support could lead to growth you could not reach alone. You may find a kindred spirit who walks a similar path.",
+        "km": "ការគាំទ្រគ្នាទៅវិញទៅមក អាចនាំទៅរកការលូតលាស់ដែលអ្នកមិនអាចទៅដល់ម្នាក់ឯង។ អ្នកអាចរកឃើញមិត្តដែលមានចិត្តដូចគ្នា ដែលដើរផ្លូវស្រដៀងគ្នា។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friendship and community may be nourishing your inner life. Shared laughter and support could be helping you grow lighter.",
+        "km": "មិត្តភាព និងសហគមន៍ អាចកំពុងចិញ្ចឹមជីវិតខាងក្នុងរបស់អ្នក។ ការសើចរួមគ្នា និងការគាំទ្រ អាចកំពុងជួយអ្នកឱ្យលូតលាស់ស្រាលជាងមុន។"
+      },
+      "challenge": {
+        "en": "Seeking only fun with others could leave deeper growth unexplored. Balance good company with honest conversations about what really matters to you.",
+        "km": "ការស្វែងរកតែភាពសប្បាយជាមួយអ្នកដទៃ អាចទុកការលូតលាស់ជ្រៅជាងមិនត្រូវបានរុករក។ សូមថ្លឹងការនៅជាមួយមនុស្សល្អ ជាមួយការសន្ទនាស្មោះត្រង់អំពីអ្វីដែលពិតជាសំខាន់ចំពោះអ្នក។"
+      },
+      "outcome": {
+        "en": "Community could carry your growth into a joyful, shared space. You may find people who celebrate who you are becoming.",
+        "km": "សហគមន៍ អាចនាំការលូតលាស់របស់អ្នកចូលទៅក្នុងលំហរីករាយ និងចែករំលែក។ អ្នកអាចរកឃើញមនុស្សដែលអបអរអ្នកដែលអ្នកកំពុងក្លាយជា។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "What used to nourish you may feel flat and uninspiring. Inner restlessness could be a sign that you are ready for something new.",
+        "km": "អ្វីដែលធ្លាប់ចិញ្ចឹមអ្នក អាចមានអារម្មណ៍ស្ងួត និងមិនបំផុសគំនិត។ ភាពមិនស្ងប់ខាងក្នុង អាចជាសញ្ញាថាអ្នកត្រៀមខ្លួនសម្រាប់អ្វីមួយថ្មី។"
+      },
+      "challenge": {
+        "en": "Withdrawing into apathy could make you miss a gift being offered. Look up from your thoughts and notice what life is holding out.",
+        "km": "ការដកខ្លួនចូលទៅក្នុងភាពព្រងើយកន្តើយ អាចធ្វើឱ្យអ្នកខកខានអំណោយដែលកំពុងត្រូវបានផ្តល់។ សូមងើបមុខពីគំនិតរបស់អ្នក ហើយកត់សម្គាល់អ្វីដែលជីវិតកំពុងហុចឱ្យ។"
+      },
+      "outcome": {
+        "en": "Renewed interest could lead you towards fresh inner nourishment. You may accept an invitation that reignites your sense of meaning.",
+        "km": "ចំណាប់អារម្មណ៍ថ្មី អាចនាំអ្នកទៅរកអាហារខាងក្នុងស្រស់ថ្មី។ អ្នកអាចទទួលយកការអញ្ជើញមួយ ដែលដុតឡើងវិញនូវអារម្មណ៍នៃអត្ថន័យរបស់អ្នក។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Grief or regret may be part of what you are working through. Facing loss honestly could be part of your deeper healing.",
+        "km": "ទុក្ខព្រួយ ឬការសោកស្តាយ អាចជាផ្នែកនៃអ្វីដែលអ្នកកំពុងដោះស្រាយ។ ការប្រឈមនឹងការបាត់បង់ដោយស្មោះត្រង់ អាចជាផ្នែកមួយនៃការព្យាបាលជ្រៅរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Staying focused on what is gone could keep you from moving forward. Grieve fully, then turn to what still stands beside you.",
+        "km": "ការផ្តោតលើអ្វីដែលបានបាត់ អាចរារាំងអ្នកពីការទៅមុខ។ សូមកាន់ទុក្ខឱ្យពេញលេញ រួចបែរទៅរកអ្វីដែលនៅតែឈរក្បែរអ្នក។"
+      },
+      "outcome": {
+        "en": "Grief worked through could lead towards compassion and depth. You may carry your loss with tenderness rather than heaviness.",
+        "km": "ទុក្ខព្រួយដែលបានដោះស្រាយ អាចនាំទៅរកក្តីមេត្តា និងជម្រៅ។ អ្នកអាចកាន់ការបាត់បង់របស់អ្នកដោយភាពទន់ភ្លន់ ជាជាងភាពធ្ងន់ធ្ងរ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Memories that shaped who you are may be resurfacing. Reconnecting with your younger self could be healing old wounds.",
+        "km": "អនុស្សាវរីយ៍ដែលបានបង្កើតអ្នកជានរណា អាចកំពុងលេចឡើងវិញ។ ការភ្ជាប់ទំនាក់ទំនងឡើងវិញជាមួយខ្លួនឯងកាលនៅក្មេង អាចកំពុងព្យាបាលរបួសចាស់ៗ។"
+      },
+      "challenge": {
+        "en": "Getting lost in nostalgia could keep you looking backwards. Take the lessons of your history with you as you move forward.",
+        "km": "ការវង្វេងក្នុងការនឹករលឹក អាចធ្វើឱ្យអ្នកនៅតែមើលទៅក្រោយ។ សូមយកមេរៀននៃប្រវត្តិរបស់អ្នកទៅជាមួយ នៅពេលអ្នកទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Healing old memories could lead towards innocence and lightness. You may rediscover a playful, trusting part of yourself.",
+        "km": "ការព្យាបាលអនុស្សាវរីយ៍ចាស់ អាចនាំទៅរកភាពស្លូតត្រង់ និងភាពស្រាល។ អ្នកអាចរកឃើញឡើងវិញនូវផ្នែកលេងសើច និងទុកចិត្តនៃខ្លួនឯង។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Many possible paths may be calling to you. Dreams and visions could be inspiring, but also a little confusing.",
+        "km": "ផ្លូវដែលអាចទៅរួចជាច្រើន អាចកំពុងហៅអ្នក។ ក្តីស្រមៃ និងចក្ខុវិស័យ អាចបំផុសគំនិត ប៉ុន្តែក៏ច្របូកច្របល់បន្តិចដែរ។"
+      },
+      "challenge": {
+        "en": "Chasing every spiritual promise could scatter your energy. Test each idea against your real experience before you commit.",
+        "km": "ការដេញតាមការសន្យាខាងវិញ្ញាណនីមួយៗ អាចធ្វើឱ្យថាមពលរបស់អ្នករាយប៉ាយ។ សូមសាកល្បងគំនិតនីមួយៗ ធៀបនឹងបទពិសោធន៍ពិតរបស់អ្នក មុនពេលអ្នកប្តេជ្ញា។"
+      },
+      "outcome": {
+        "en": "Clear discernment could lead you to the path that is truly yours. You may see clearly which of your dreams are worth pursuing.",
+        "km": "ការវែកញែកច្បាស់លាស់ អាចនាំអ្នកទៅរកផ្លូវដែលពិតជារបស់អ្នក។ អ្នកអាចមើលឃើញយ៉ាងច្បាស់ថាក្តីស្រមៃណាមួយរបស់អ្នកដែលសមនឹងស្វែងរក។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Something that no longer fulfils you may be fading behind you as you walk on. A quiet longing for deeper meaning could be guiding your steps.",
+        "km": "អ្វីមួយដែលលែងបំពេញចិត្តអ្នក អាចកំពុងរសាត់នៅពីក្រោយ នៅពេលអ្នកបន្តដើរ។ ការប្រាថ្នាស្ងាត់ៗចង់បានអត្ថន័យជ្រៅជាង អាចកំពុងដឹកនាំជំហានរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Doubting your decision to leave could keep you half in, half out. Trust the quiet pull towards something truer, even without a map.",
+        "km": "ការសង្ស័យលើការសម្រេចចិត្តចាកចេញរបស់អ្នក អាចធ្វើឱ្យអ្នកនៅពាក់កណ្តាលក្នុង ពាក់កណ្តាលក្រៅ។ សូមទុកចិត្តលើការទាញស្ងាត់ៗទៅរកអ្វីមួយដែលពិតជាង ទោះបីគ្មានផែនទីក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Seeking meaning could lead you towards a more authentic life. You may find what your soul has been longing for.",
+        "km": "ការស្វែងរកអត្ថន័យ អាចនាំអ្នកទៅរកជីវិតដែលពិតប្រាកដជាង។ អ្នកអាចរកឃើញអ្វីដែលព្រលឹងរបស់អ្នកបានប្រាថ្នា។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Contentment with how far your inner life has come may be settling in. A sense of wishes fulfilled could be bringing quiet satisfaction.",
+        "km": "ភាពពេញចិត្តចំពោះថាជីវិតខាងក្នុងរបស់អ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា អាចកំពុងស្ថិតស្ថេរ។ អារម្មណ៍នៃបំណងប្រាថ្នាដែលបានសម្រេច អាចកំពុងនាំមកនូវការពេញចិត្តស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Resting in comfort could stop you from exploring further. Enjoy what you have gained, and stay curious about what else is possible.",
+        "km": "ការសម្រាកក្នុងភាពស្រួល អាចរារាំងអ្នកពីការរុករកបន្ថែម។ សូមរីករាយនឹងអ្វីដែលអ្នកបានទទួល ហើយនៅតែចង់ដឹងអំពីអ្វីផ្សេងទៀតដែលអាចទៅរួច។"
+      },
+      "outcome": {
+        "en": "Contentment could lead towards gratitude and inner richness. You may feel deeply satisfied with your inner life.",
+        "km": "ភាពពេញចិត្ត អាចនាំទៅរកការដឹងគុណ និងភាពសម្បូរខាងក្នុង។ អ្នកអាចមានអារម្មណ៍ពេញចិត្តយ៉ាងជ្រៅជាមួយជីវិតខាងក្នុងរបស់អ្នក។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Love and belonging may be bringing you peace. Harmony with those close to you could be anchoring your inner growth.",
+        "km": "ក្តីស្រឡាញ់ និងការជាផ្នែកមួយ អាចកំពុងនាំមកនូវសន្តិភាព។ ភាពចុះសម្រុងជាមួយអ្នកដែលនៅជិតអ្នក អាចកំពុងបោះយុថ្កាការលូតលាស់ខាងក្នុងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Expecting perfect harmony could make you overlook real growth in imperfect bonds. Value the love you share with others, flaws and all.",
+        "km": "ការរំពឹងភាពចុះសម្រុងល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកមើលរំលងការលូតលាស់ពិតក្នុងចំណងមិនល្អឥតខ្ចោះ។ សូមឱ្យតម្លៃលើក្តីស្រឡាញ់ដែលអ្នកចែករំលែកជាមួយអ្នកដទៃ រួមទាំងចំណុចខ្វះខាតទាំងអស់។"
+      },
+      "outcome": {
+        "en": "Loving connection could lead towards deep emotional fulfilment. You may feel at peace, held by a circle of care.",
+        "km": "ទំនាក់ទំនងប្រកបដោយក្តីស្រឡាញ់ អាចនាំទៅរកការបំពេញផ្លូវអារម្មណ៍ជ្រៅ។ អ្នកអាចមានអារម្មណ៍សុខសាន្ត ដែលត្រូវបានទ្រទ្រង់ដោយរង្វង់នៃការយកចិត្តទុកដាក់។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Gentle messages from your intuition may be reaching you. Dreams, feelings or creative impulses could be pointing the way.",
+        "km": "សារទន់ភ្លន់ពីវិចារណញាណរបស់អ្នក អាចកំពុងមកដល់អ្នក។ សុបិន អារម្មណ៍ ឬកម្លាំងច្នៃប្រឌិត អាចកំពុងចង្អុលផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Dismissing soft inner nudges could make you miss important guidance. Write down what you feel, and take it seriously.",
+        "km": "ការមើលរំលងការជំរុញទន់ៗខាងក្នុង អាចធ្វើឱ្យអ្នកខកខានការណែនាំសំខាន់។ សូមសរសេរអ្វីដែលអ្នកមានអារម្មណ៍ ហើយយកវាមកពិចារណាឱ្យបានម៉ឺងម៉ាត់។"
+      },
+      "outcome": {
+        "en": "Openness to intuition could lead you towards creative and spiritual discovery. You may find a sense of wonder in the richness of your inner world.",
+        "km": "ការបើកចិត្តចំពោះវិចារណញាណ អាចនាំអ្នកទៅរកការរកឃើញច្នៃប្រឌិត និងខាងវិញ្ញាណ។ អ្នកអាចរកឃើញអារម្មណ៍នៃភាពអស្ចារ្យ ក្នុងភាពសម្បូរនៃពិភពខាងក្នុងរបស់អ្នក។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "You may be following your heart towards a romantic or spiritual ideal. A dreamy quest for meaning could be guiding you.",
+        "km": "អ្នកអាចកំពុងធ្វើតាមចិត្តរបស់អ្នក ឆ្ពោះទៅរកឧត្តមគតិបែបមនោសញ្ចេតនា ឬខាងវិញ្ញាណ។ ការស្វែងរកអត្ថន័យដ៏ស្រមើស្រមៃ អាចកំពុងដឹកនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Idealising the destination could make real steps feel disappointing. Honour the small, ordinary work of growth as well as the dream.",
+        "km": "ការធ្វើឱ្យគោលដៅល្អឥតខ្ចោះ អាចធ្វើឱ្យជំហានពិតមានអារម្មណ៍ខកចិត្ត។ សូមគោរពការងារតូចៗ និងធម្មតានៃការលូតលាស់ ក៏ដូចជាក្តីស្រមៃដែរ។"
+      },
+      "outcome": {
+        "en": "Heartfelt seeking could lead to a beautiful, meaningful discovery. You may find a calling that speaks to your soul.",
+        "km": "ការស្វែងរកដោយអស់ពីចិត្ត អាចនាំទៅរកការរកឃើញដ៏ស្រស់ស្អាត និងមានអត្ថន័យ។ អ្នកអាចរកឃើញការហៅមួយ ដែលនិយាយទៅកាន់ព្រលឹងរបស់អ្នក។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Emotional wisdom and empathy may be deepening in you. Caring for your feelings could be guiding your inner path.",
+        "km": "ប្រាជ្ញាផ្លូវអារម្មណ៍ និងការយល់ចិត្ត អាចកំពុងជ្រៅជាងមុនក្នុងខ្លួនអ្នក។ ការថែរក្សាអារម្មណ៍របស់អ្នក អាចកំពុងដឹកនាំផ្លូវខាងក្នុងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Absorbing others' pain could cloud your own journey. Protect your inner space with gentle limits while staying kind to others.",
+        "km": "ការស្រូបយកការឈឺចាប់របស់អ្នកដទៃ អាចធ្វើឱ្យដំណើររបស់អ្នកស្រអាប់។ សូមការពារលំហខាងក្នុងរបស់អ្នក ដោយព្រំដែនទន់ភ្លន់ ខណៈពេលនៅតែសប្បុរសចំពោះអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Emotional maturity could lead towards intuitive wisdom. You may become a calm, compassionate presence for others.",
+        "km": "ភាពចាស់ទុំផ្លូវអារម្មណ៍ អាចនាំទៅរកប្រាជ្ញាវិចារណញាណ។ អ្នកអាចក្លាយជាវត្តមានស្ងប់ និងមានក្តីមេត្តាសម្រាប់អ្នកដទៃ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You may be learning to stay calm amid strong emotions. Balancing heart and head could be part of your growth.",
+        "km": "អ្នកអាចកំពុងរៀនរក្សាភាពស្ងប់ ក្នុងចំណោមអារម្មណ៍ខ្លាំងៗ។ ការថ្លឹងចិត្ត និងក្បាល អាចជាផ្នែកមួយនៃការលូតលាស់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Suppressing feelings to stay composed could block deeper growth. Let yourself feel fully, and respond with care when the wave has passed.",
+        "km": "ការទប់អារម្មណ៍ដើម្បីរក្សាភាពស្ងប់ អាចរារាំងការលូតលាស់ជ្រៅជាង។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ពេញលេញ ហើយឆ្លើយតបដោយការយកចិត្តទុកដាក់ នៅពេលរលកនោះបានកន្លងផុត។"
+      },
+      "outcome": {
+        "en": "Emotional mastery could lead towards steady inner peace. You may handle life's tides with grace and compassion.",
+        "km": "ការគ្រប់គ្រងអារម្មណ៍ អាចនាំទៅរកសន្តិភាពខាងក្នុងនឹងនរ។ អ្នកអាចដោះស្រាយជំនោរនៃជីវិតដោយភាពថ្លៃថ្នូ និងក្តីមេត្តា។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A breakthrough in understanding may be cutting through old confusion. Seeing a truth about yourself clearly could be changing how you see your whole path.",
+        "km": "ការទម្លុះក្នុងការយល់ដឹង អាចកំពុងកាត់ផ្តាច់ភាពច្របូកច្របល់ចាស់ៗ។ ការមើលឃើញការពិតអំពីខ្លួនឯងយ៉ាងច្បាស់ អាចកំពុងផ្លាស់ប្តូររបៀបដែលអ្នកមើលផ្លូវទាំងមូលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Using new insight to judge yourself harshly could turn clarity into a weapon. Hold the truth you see with honesty and with care for yourself.",
+        "km": "ការប្រើការយល់ដឹងថ្មីដើម្បីវិនិច្ឆ័យខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចប្រែភាពច្បាស់លាស់ទៅជាអាវុធ។ សូមកាន់ការពិតដែលអ្នកមើលឃើញ ដោយភាពស្មោះត្រង់ និងការយកចិត្តទុកដាក់ចំពោះខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Mental clarity could lead your journey towards honest self-knowledge. You may make choices with a clear mind and a settled sense of purpose.",
+        "km": "ភាពច្បាស់លាស់នៃគំនិត អាចនាំដំណើររបស់អ្នកទៅរកការស្គាល់ខ្លួនឯងដោយស្មោះត្រង់។ អ្នកអាចធ្វើជម្រើសដោយគំនិតច្បាស់ និងអារម្មណ៍ស្ថិតស្ថេរនៃគោលបំណង។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "An inner standstill may be leaving you unsure which way to turn. Avoiding a hard truth could be keeping you balanced but stuck.",
+        "km": "ភាពជាប់គាំងខាងក្នុង អាចកំពុងធ្វើឱ្យអ្នកមិនប្រាកដថាត្រូវបត់ទៅណា។ ការជៀសវាងការពិតដ៏លំបាក អាចកំពុងរក្សាអ្នកឱ្យមានតុល្យភាព ប៉ុន្តែជាប់គាំង។"
+      },
+      "challenge": {
+        "en": "Refusing to look at what you already know could keep you frozen. Lower the blindfold gently, and let yourself see the choice in front of you.",
+        "km": "ការបដិសេធមិនមើលអ្វីដែលអ្នកដឹងរួចហើយ អាចធ្វើឱ្យអ្នកកក។ សូមដោះក្រណាត់បិទភ្នែកចុះដោយទន់ភ្លន់ ហើយអនុញ្ញាតឱ្យខ្លួនឯងមើលឃើញជម្រើសនៅចំពោះមុខអ្នក។"
+      },
+      "outcome": {
+        "en": "Facing a choice could lead your inner life out of limbo. You may feel relief and direction when you commit to a path.",
+        "km": "ការប្រឈមនឹងជម្រើសមួយ អាចនាំជីវិតខាងក្នុងរបស់អ្នកចេញពីភាពមិនច្បាស់លាស់។ អ្នកអាចមានអារម្មណ៍ធូរស្រាល និងមានទិសដៅ នៅពេលអ្នកប្តេជ្ញាចំពោះផ្លូវមួយ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Heartache may be a central part of your inner journey. A painful truth could be breaking something open so healing can begin.",
+        "km": "ការឈឺចាប់ក្នុងចិត្ត អាចជាផ្នែកកណ្តាលនៃដំណើរខាងក្នុងរបស់អ្នក។ ការពិតដ៏ឈឺចាប់ អាចកំពុងបំបែកអ្វីមួយឱ្យបើក ដើម្បីឱ្យការព្យាបាលអាចចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Locking the hurt away could keep it lodged inside you. Give it room to be felt, and talk to someone you trust or a counsellor if the pain is heavy.",
+        "km": "ការចាក់សោទុកការឈឺចាប់ អាចធ្វើឱ្យវានៅជាប់ក្នុងខ្លួនអ្នក។ សូមផ្តល់លំហឱ្យវាត្រូវបានទទួលអារម្មណ៍ ហើយនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ឬអ្នកប្រឹក្សា ប្រសិនបើការឈឺចាប់ធ្ងន់។"
+      },
+      "outcome": {
+        "en": "Working through pain could lead towards a deeper, wiser heart. You may come to hold sorrow and hope together with grace.",
+        "km": "ការដោះស្រាយការឈឺចាប់ អាចនាំទៅរកចិត្តដែលជ្រៅ និងឈ្លាសវៃជាង។ អ្នកអាចមកកាន់ទុក្ខព្រួយ និងក្តីសង្ឃឹមរួមគ្នាដោយភាពថ្លៃថ្នូ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "A real need for inner rest and retreat may be making itself felt. Stepping back from effort could be letting your spirit recover.",
+        "km": "តម្រូវការពិតប្រាកដសម្រាប់ការសម្រាក និងការដកខ្លួនខាងក្នុង អាចកំពុងបង្ហាញខ្លួនឱ្យដឹង។ ការដកខ្លួនចេញពីការខិតខំ អាចកំពុងអនុញ្ញាតឱ្យស្មារតីរបស់អ្នកស្តារឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Feeling guilty for resting could cut short the renewal you need. Treat stillness and quiet as part of your growth, not a break from it.",
+        "km": "អារម្មណ៍មានកំហុសចំពោះការសម្រាក អាចកាត់បន្ថយការកើតជាថ្មីដែលអ្នកត្រូវការ។ សូមចាត់ទុកភាពស្ងប់ស្ងាត់ជាផ្នែកមួយនៃការលូតលាស់របស់អ្នក មិនមែនជាការឈប់សម្រាកពីវានោះទេ។"
+      },
+      "outcome": {
+        "en": "Rest could lead your journey towards restored strength and clarity. You may return to your path refreshed and more aware of what you need.",
+        "km": "ការសម្រាក អាចនាំដំណើររបស់អ្នកទៅរកកម្លាំង និងភាពច្បាស់លាស់ដែលបានស្តារ។ អ្នកអាចត្រឡប់ទៅផ្លូវរបស់អ្នកវិញដោយស្រស់ស្រាយ និងដឹងកាន់តែច្បាស់ពីអ្វីដែលអ្នកត្រូវការ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "An inner conflict may be leaving you feeling defeated or divided. Winning against yourself could feel like losing in another way.",
+        "km": "ជម្លោះខាងក្នុង អាចកំពុងធ្វើឱ្យអ្នកមានអារម្មណ៍ចាញ់ ឬបែកបាក់។ ការឈ្នះខ្លួនឯង អាចមានអារម្មណ៍ដូចជាការចាញ់តាមវិធីផ្សេង។"
+      },
+      "challenge": {
+        "en": "Needing to be right, even with yourself, could stall your growth. Let go of the inner argument, and choose peace over victory.",
+        "km": "ការចង់ត្រូវជានិច្ច សូម្បីតែជាមួយខ្លួនឯង អាចធ្វើឱ្យការលូតលាស់របស់អ្នកជាប់គាំង។ សូមលែងប្រកាន់ការឈ្លោះប្រកែកខាងក្នុង ហើយជ្រើសរើសសន្តិភាពជាជាងជ័យជម្នះ។"
+      },
+      "outcome": {
+        "en": "Ending inner battles could lead towards humility and peace. You may learn that letting go is sometimes the bravest kind of strength.",
+        "km": "ការបញ្ចប់ការប្រយុទ្ធខាងក្នុង អាចនាំទៅរកភាពរាបទាប និងសន្តិភាព។ អ្នកអាចរៀនថាការលែងប្រកាន់ ជួនកាលជាកម្លាំងដ៏ក្លាហានបំផុត។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Calmer waters may lie ahead as you leave inner turmoil behind. A gradual transition could be carrying you somewhere healthier.",
+        "km": "ទឹកស្ងប់ជាង អាចនៅខាងមុខ នៅពេលអ្នកចាកចេញពីភាពច្របូកច្របល់ខាងក្នុង។ ការផ្លាស់ប្តូរបន្តិចម្តងៗ អាចកំពុងនាំអ្នកទៅកន្លែងដែលមានសុខភាពល្អជាង។"
+      },
+      "challenge": {
+        "en": "Carrying old pain with you could weigh down the crossing. Bring only what serves you, and let the rest stay on the far shore.",
+        "km": "ការយកការឈឺចាប់ចាស់ទៅជាមួយ អាចធ្វើឱ្យការឆ្លងកាត់ធ្ងន់។ សូមយកតែអ្វីដែលមានប្រយោជន៍សម្រាប់អ្នក ហើយទុករបស់ផ្សេងទៀតនៅច្រាំងម្ខាង។"
+      },
+      "outcome": {
+        "en": "Moving on could lead your inner life towards peace and recovery. You may arrive at a calmer place where real healing can unfold.",
+        "km": "ការបន្តទៅមុខ អាចនាំជីវិតខាងក្នុងរបស់អ្នកទៅរកសន្តិភាព និងការស្តារឡើងវិញ។ អ្នកអាចទៅដល់កន្លែងស្ងប់ជាង ដែលការព្យាបាលពិតអាចលាតត្រដាង។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "A part of yourself you would rather not face may be quietly avoided. Strategies to sidestep hard feelings could be shaping your path.",
+        "km": "ផ្នែកមួយនៃខ្លួនឯងដែលអ្នកមិនចង់ប្រឈម អាចកំពុងត្រូវបានជៀសវាងដោយស្ងាត់ៗ។ យុទ្ធសាស្ត្រដើម្បីគេចពីអារម្មណ៍ពិបាក អាចកំពុងបង្កើតផ្លូវរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Deceiving yourself about what you feel could undermine your growth. Be honest with yourself, even about what is uncomfortable to admit.",
+        "km": "ការបោកបញ្ឆោតខ្លួនឯងអំពីអ្វីដែលអ្នកមានអារម្មណ៍ អាចបំផ្លាញការលូតលាស់របស់អ្នក។ សូមស្មោះត្រង់ជាមួយខ្លួនឯង សូម្បីតែអំពីអ្វីដែលមិនស្រួលក្នុងការទទួលស្គាល់។"
+      },
+      "outcome": {
+        "en": "Honesty with yourself could lead towards real integrity. You may feel freer when nothing in you needs to stay hidden.",
+        "km": "ភាពស្មោះត្រង់ជាមួយខ្លួនឯង អាចនាំទៅរកភាពស្មោះត្រង់ពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍សេរីជាងមុន នៅពេលគ្មានអ្វីនៅក្នុងខ្លួនអ្នកត្រូវលាក់។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel trapped by your own thoughts and beliefs. Self-imposed limits could be holding you back more than outside forces.",
+        "km": "អ្នកអាចមានអារម្មណ៍ថាជាប់អន្ទាក់ដោយគំនិត និងជំនឿរបស់ខ្លួនឯង។ ដែនកំណត់ដែលអ្នកដាក់លើខ្លួនឯង អាចកំពុងរារាំងអ្នកច្រើនជាងកម្លាំងពីខាងក្រៅ។"
+      },
+      "challenge": {
+        "en": "Believing you cannot change could keep the bindings tight. Question one limiting thought, and test whether it is really true.",
+        "km": "ការជឿថាអ្នកមិនអាចផ្លាស់ប្តូរ អាចរក្សាចំណងឱ្យតឹង។ សូមសួរសំណួរពីគំនិតកំណត់ព្រំដែនមួយ ហើយសាកល្បងមើលថាតើវាពិតឬអត់។"
+      },
+      "outcome": {
+        "en": "Freeing your mind could lead your journey towards real liberation. You may discover more choices than you believed you had.",
+        "km": "ការដោះលែងគំនិតរបស់អ្នក អាចនាំដំណើររបស់អ្នកទៅរកការរំដោះពិតប្រាកដ។ អ្នកអាចរកឃើញជម្រើសច្រើនជាងអ្វីដែលអ្នកជឿថាអ្នកមាន។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Anxious thoughts may be a heavy part of your inner journey. Fear and worry could be keeping you from feeling at peace.",
+        "km": "គំនិតថប់បារម្ភ អាចជាផ្នែកធ្ងន់មួយនៃដំណើរខាងក្នុងរបស់អ្នក។ ការភ័យខ្លាច និងការព្រួយបារម្ភ អាចកំពុងរារាំងអ្នកពីការមានអារម្មណ៍សុខសាន្ត។"
+      },
+      "challenge": {
+        "en": "Carrying anxiety alone could make it loom larger than it is. Talk your fears through with someone, and seek professional help if they affect your sleep or health.",
+        "km": "ការលីការថប់បារម្ភតែម្នាក់ឯង អាចធ្វើឱ្យវាហាក់ធំជាងការពិត។ សូមនិយាយពីការភ័យខ្លាចរបស់អ្នកជាមួយនរណាម្នាក់ ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើវាប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Facing your fears with support could lead towards inner calm. You may find that fears lose their grip when they are brought into the light.",
+        "km": "ការប្រឈមនឹងការភ័យខ្លាចរបស់អ្នកដោយមានការគាំទ្រ អាចនាំទៅរកភាពស្ងប់ខាងក្នុង។ អ្នកអាចឃើញថាការភ័យខ្លាចបាត់បង់ការក្តាប់របស់វា នៅពេលវាត្រូវបាននាំមកក្នុងពន្លឺ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A painful low point may have been reached on your inner path. Something may have come to a hard end, leaving you drained.",
+        "km": "ចំណុចទាបដ៏ឈឺចាប់មួយ អាចត្រូវបានទៅដល់លើផ្លូវខាងក្នុងរបស់អ្នក។ អ្វីមួយអាចបានដល់ទីបញ្ចប់ដ៏លំបាក ដែលធ្វើឱ្យអ្នកអស់កម្លាំង។"
+      },
+      "challenge": {
+        "en": "Watch for the belief that this low point is the end of your story. Lean on others, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "សូមប្រយ័ត្ននឹងជំនឿថាចំណុចទាបនេះជាទីបញ្ចប់នៃរឿងរ៉ាវរបស់អ្នក។ សូមពឹងផ្អែកលើអ្នកដទៃ ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Reaching the bottom could become the turning point of your journey. You may rise from here with new understanding and quiet resilience.",
+        "km": "ការដល់បាត អាចក្លាយជាចំណុចបត់នៃដំណើររបស់អ្នក។ អ្នកអាចក្រោកឡើងពីទីនេះ ដោយការយល់ដឹងថ្មី និងភាពធន់ស្ងាត់ៗ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You may be curious and alert, eager to understand yourself better. Asking questions about your beliefs could be sharpening your growth.",
+        "km": "អ្នកអាចកំពុងចង់ដឹង និងប្រុងស្មារតី ដោយចង់យល់ពីខ្លួនឯងកាន់តែច្បាស់។ ការសួរសំណួរអំពីជំនឿរបស់អ្នក អាចកំពុងធ្វើឱ្យការលូតលាស់របស់អ្នកមុតស្រួច។"
+      },
+      "challenge": {
+        "en": "Staying in your head could keep insight from reaching your heart. Let what you learn change how you live, not just what you think.",
+        "km": "ការនៅក្នុងក្បាលរបស់អ្នក អាចរារាំងការយល់ដឹងពីការទៅដល់ចិត្តរបស់អ្នក។ សូមឱ្យអ្វីដែលអ្នករៀនផ្លាស់ប្តូររបៀបដែលអ្នករស់នៅ មិនមែនត្រឹមតែអ្វីដែលអ្នកគិតនោះទេ។"
+      },
+      "outcome": {
+        "en": "Curious inquiry could lead your journey towards sharp self-awareness. You may see through old stories you have told about yourself.",
+        "km": "ការស៊ើបសួរដោយចង់ដឹង អាចនាំដំណើររបស់អ្នកទៅរកការដឹងខ្លួនច្បាស់លាស់។ អ្នកអាចមើលធ្លុះរឿងរ៉ាវចាស់ៗដែលអ្នកបានប្រាប់អំពីខ្លួនឯង។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "A drive to change something about yourself may be charging ahead. A strong burst of determination could be pushing you hard.",
+        "km": "កម្លាំងជំរុញដើម្បីផ្លាស់ប្តូរអ្វីមួយអំពីខ្លួនឯង អាចកំពុងរុញទៅមុខ។ កម្លាំងនៃការប្តេជ្ញាដ៏ខ្លាំងមួយ អាចកំពុងជំរុញអ្នកយ៉ាងខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Forcing change too hard could leave you exhausted or careless. Temper your drive with patience and kindness towards yourself.",
+        "km": "ការបង្ខំការផ្លាស់ប្តូរខ្លាំងពេក អាចធ្វើឱ្យអ្នកអស់កម្លាំង ឬធ្វេសប្រហែស។ សូមបន្ទន់កម្លាំងជំរុញរបស់អ្នក ដោយការអត់ធ្មត់ និងសេចក្តីសប្បុរសចំពោះខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Directed determination could carry your growth forward boldly. You may cut through old habits with clear, decisive action.",
+        "km": "ការប្តេជ្ញាដែលមានទិសដៅ អាចនាំការលូតលាស់របស់អ្នកទៅមុខដោយក្លាហាន។ អ្នកអាចកាត់ផ្តាច់ទម្លាប់ចាស់ៗ ដោយសកម្មភាពច្បាស់លាស់ និងម៉ឺងម៉ាត់។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Sharp, independent clarity may be shaping how you see your life. Hard-won experience could be helping you set firm inner boundaries.",
+        "km": "ភាពច្បាស់លាស់មុតស្រួច និងឯករាជ្យ អាចកំពុងបង្កើតរបៀបដែលអ្នកមើលជីវិតរបស់អ្នក។ បទពិសោធន៍ដែលទទួលបានដោយលំបាក អាចកំពុងជួយអ្នកកំណត់ព្រំដែនខាងក្នុងរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Becoming too guarded could close you off from tenderness. Let your clarity be fair, and keep a door open to warmth.",
+        "km": "ការប្រុងប្រយ័ត្នពេក អាចបិទអ្នកពីភាពទន់ភ្លន់។ សូមឱ្យភាពច្បាស់លាស់របស់អ្នកមានភាពយុត្តិធម៌ ហើយទុកទ្វារមួយបើកសម្រាប់ភាពកក់ក្តៅ។"
+      },
+      "outcome": {
+        "en": "Clear perception could lead towards wise, honest independence. You may trust your own judgement while staying open to others.",
+        "km": "ការយល់ឃើញច្បាស់លាស់ អាចនាំទៅរកឯករាជ្យភាពដ៏ឈ្លាសវៃ និងស្មោះត្រង់។ អ្នកអាចទុកចិត្តលើការវិនិច្ឆ័យរបស់ខ្លួនឯង ខណៈពេលនៅតែបើកចិត្តចំពោះអ្នកដទៃ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Reason and principle may be guiding your inner path. Thinking clearly about your values could be bringing a sense of authority.",
+        "km": "ហេតុផល និងគោលការណ៍ អាចកំពុងដឹកនាំផ្លូវខាងក្នុងរបស់អ្នក។ ការគិតច្បាស់លាស់អំពីគុណតម្លៃរបស់អ្នក អាចកំពុងនាំមកនូវអារម្មណ៍នៃសិទ្ធិអំណាច។"
+      },
+      "challenge": {
+        "en": "Relying on logic alone could leave your spirit undernourished. Give intuition and feeling a voice of their own alongside reason.",
+        "km": "ការពឹងផ្អែកតែលើតក្កវិជ្ជា អាចធ្វើឱ្យស្មារតីរបស់អ្នកខ្វះអាហារ។ សូមផ្តល់សំឡេងផ្ទាល់ខ្លួនដល់វិចារណញាណ និងអារម្មណ៍ នៅក្បែរហេតុផល។"
+      },
+      "outcome": {
+        "en": "Principled clarity could lead towards wisdom you can share. You may become a fair, clear-thinking guide for yourself and others.",
+        "km": "ភាពច្បាស់លាស់ដែលមានគោលការណ៍ អាចនាំទៅរកប្រាជ្ញាដែលអ្នកអាចចែករំលែក។ អ្នកអាចក្លាយជាអ្នកណែនាំដែលយុត្តិធម៌ និងគិតច្បាស់ សម្រាប់ខ្លួនឯង និងអ្នកដទៃ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical new beginning may be grounding your inner life. A simple, regular practice could be planting a seed for growth.",
+        "km": "ការចាប់ផ្តើមថ្មីជាក់ស្តែង អាចកំពុងធ្វើឱ្យជីវិតខាងក្នុងរបស់អ្នកនឹងធឹង។ ការអនុវត្តសាមញ្ញ និងទៀងទាត់ អាចកំពុងដាំគ្រាប់ពូជសម្រាប់ការលូតលាស់។"
+      },
+      "challenge": {
+        "en": "Waiting for the ideal conditions could keep the seed unplanted. Begin with one small, steady habit that fits your real life.",
+        "km": "ការរង់ចាំលក្ខខណ្ឌល្អឥតខ្ចោះ អាចធ្វើឱ្យគ្រាប់ពូជមិនត្រូវបានដាំ។ សូមចាប់ផ្តើមជាមួយទម្លាប់តូច និងនឹងនរមួយ ដែលសមនឹងជីវិតពិតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Grounded beginnings could lead your journey towards solid growth. You may see a small practice blossom into deep and steady change.",
+        "km": "ការចាប់ផ្តើមដែលនឹងធឹង អាចនាំដំណើររបស់អ្នកទៅរកការលូតលាស់រឹងមាំ។ អ្នកអាចឃើញការអនុវត្តតូចមួយរីកដុះទៅជាការផ្លាស់ប្តូរជ្រៅ និងនឹងនរ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Inner growth and everyday demands may be competing for your attention. Finding a flexible balance could be part of your path.",
+        "km": "ការលូតលាស់ខាងក្នុង និងតម្រូវការប្រចាំ អាចកំពុងប្រកួតប្រជែងដើម្បីការយកចិត្តទុកដាក់របស់អ្នក។ ការរកឃើញតុល្យភាពបត់បែន អាចជាផ្នែកមួយនៃផ្លូវរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting practical pressures crowd out your inner life could leave you depleted. Protect a small space for reflection, even in busy stretches.",
+        "km": "ការទុកឱ្យសម្ពាធជាក់ស្តែងច្រានជីវិតខាងក្នុងរបស់អ្នកចេញ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមការពារលំហតូចមួយសម្រាប់ការឆ្លុះបញ្ចាំង សូម្បីតែក្នុងដំណាក់កាលរវល់។"
+      },
+      "outcome": {
+        "en": "Graceful balance could lead towards a life where growth and duty coexist. You may move through change with lightness and good humour.",
+        "km": "តុល្យភាពដ៏ថ្លៃថ្នូ អាចនាំទៅរកជីវិតដែលការលូតលាស់ និងកាតព្វកិច្ចរួមរស់ជាមួយគ្នា។ អ្នកអាចឆ្លងកាត់ការផ្លាស់ប្តូរដោយភាពស្រាល និងភាពកំប្លែងល្អ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "You may be learning and growing alongside others. A group, teacher or shared project could be supporting your inner development.",
+        "km": "អ្នកអាចកំពុងរៀន និងលូតលាស់ជាមួយអ្នកដទៃ។ ក្រុម គ្រូ ឬគម្រោងរួម អាចកំពុងគាំទ្រការអភិវឌ្ឍខាងក្នុងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Trying to grow entirely alone could slow you down. Accept feedback and support from people who share your aims.",
+        "km": "ការព្យាយាមលូតលាស់តែម្នាក់ឯងទាំងស្រុង អាចធ្វើឱ្យអ្នកយឺត។ សូមទទួលយកមតិ និងការគាំទ្រពីមនុស្សដែលចែករំលែកគោលបំណងដូចអ្នក។"
+      },
+      "outcome": {
+        "en": "Collaboration could lead your inner journey towards skilled, steady growth. You may build something meaningful with others on the same path.",
+        "km": "ការសហការ អាចនាំដំណើរខាងក្នុងរបស់អ្នកទៅរកការលូតលាស់ប្រកបដោយជំនាញ និងនឹងនរ។ អ្នកអាចកសាងអ្វីមួយដែលមានអត្ថន័យ ជាមួយអ្នកដទៃលើផ្លូវដូចគ្នា។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "What feels secure inside may be held very tightly. Familiar beliefs and routines could be giving you safety but limiting growth.",
+        "km": "អ្វីដែលមានអារម្មណ៍សុវត្ថិភាពនៅខាងក្នុង អាចកំពុងត្រូវបានកាន់យ៉ាងតឹង។ ជំនឿ និងទម្លាប់ដែលធ្លាប់ស្គាល់ អាចកំពុងផ្តល់សុវត្ថិភាព ប៉ុន្តែកំណត់ការលូតលាស់។"
+      },
+      "challenge": {
+        "en": "Clinging to control could keep your inner life small. Loosen your grip on one fixed idea, and see what space opens.",
+        "km": "ការប្រកាន់ខ្ជាប់ការគ្រប់គ្រង អាចរក្សាជីវិតខាងក្នុងរបស់អ្នកឱ្យតូច។ សូមបន្ធូរការកាន់គំនិតថេរមួយ ហើយមើលថាលំហអ្វីដែលបើក។"
+      },
+      "outcome": {
+        "en": "Feeling secure enough to open up could lead towards generous growth. You may find that letting go a little brings more richness inside.",
+        "km": "ការមានអារម្មណ៍សុវត្ថិភាពគ្រប់គ្រាន់ដើម្បីបើកចិត្ត អាចនាំទៅរកការលូតលាស់ដោយចិត្តទូលាយ។ អ្នកអាចឃើញថាការលែងប្រកាន់បន្តិច នាំមកនូវភាពសម្បូរកាន់តែច្រើនខាងក្នុង។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "You may feel spiritually or emotionally left out in the cold. A sense of lack could be making your inner path feel lonely.",
+        "km": "អ្នកអាចមានអារម្មណ៍ថាត្រូវបានទុកចោលខាងវិញ្ញាណ ឬផ្លូវអារម្មណ៍។ អារម្មណ៍នៃការខ្វះខាត អាចកំពុងធ្វើឱ្យផ្លូវខាងក្នុងរបស់អ្នកមានអារម្មណ៍ឯកោ។"
+      },
+      "challenge": {
+        "en": "Feeling unworthy of support could keep you outside the door. Notice the help and warmth that is near, and let yourself step in.",
+        "km": "អារម្មណ៍ថាមិនសមនឹងទទួលការគាំទ្រ អាចធ្វើឱ្យអ្នកនៅខាងក្រៅទ្វារ។ សូមកត់សម្គាល់ជំនួយ និងភាពកក់ក្តៅដែលនៅជិត ហើយអនុញ្ញាតឱ្យខ្លួនឯងចូលមក។"
+      },
+      "outcome": {
+        "en": "Accepting help could lead your journey out of hardship towards belonging. You may find refuge and kindness in places you had not looked.",
+        "km": "ការទទួលយកជំនួយ អាចនាំដំណើររបស់អ្នកចេញពីការលំបាក ទៅរកការជាផ្នែកមួយ។ អ្នកអាចរកឃើញទីជម្រក និងសេចក្តីសប្បុរស នៅកន្លែងដែលអ្នកមិនបានមើល។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Giving and receiving may be teaching you on your inner path. Generosity, offered or accepted, could be teaching you about worth.",
+        "km": "ការផ្តល់ និងការទទួល អាចកំពុងបង្រៀនអ្នកលើផ្លូវខាងក្នុងរបស់អ្នក។ ចិត្តសប្បុរស ទោះជាផ្តល់ ឬទទួល អាចកំពុងបង្រៀនអ្នកអំពីតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Feeling you must always give, or always receive, could unbalance your growth. Let help flow in both directions with an open heart.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែផ្តល់ជានិច្ច ឬទទួលជានិច្ច អាចធ្វើឱ្យការលូតលាស់របស់អ្នកខុសតុល្យភាព។ សូមឱ្យជំនួយហូរទាំងពីរទិស ដោយចិត្តបើកចំហ។"
+      },
+      "outcome": {
+        "en": "Balanced generosity could lead towards gratitude and connection. You may feel enriched by sharing your gifts and receiving others'.",
+        "km": "ចិត្តសប្បុរសដែលមានតុល្យភាព អាចនាំទៅរកការដឹងគុណ និងការភ្ជាប់ទំនាក់ទំនង។ អ្នកអាចមានអារម្មណ៍សម្បូរ ដោយការចែករំលែកអំណោយរបស់អ្នក និងការទទួលអំណោយរបស់អ្នកដទៃ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may be pausing to assess your inner growth so far. Seeing where your patient efforts are bearing fruit could be encouraging.",
+        "km": "អ្នកអាចកំពុងផ្អាកដើម្បីវាយតម្លៃការលូតលាស់ខាងក្នុងរបស់អ្នក។ ការឃើញកន្លែងដែលការខិតខំដោយអត់ធ្មត់របស់អ្នកកំពុងបង្កើតផល អាចលើកទឹកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Doubting gradual progress could tempt you to give up. Trust the roots that are growing even when you cannot see them.",
+        "km": "ការសង្ស័យលើការរីកចម្រើនបន្តិចម្តងៗ អាចល្បួងអ្នកឱ្យបោះបង់។ សូមទុកចិត្តលើឫសដែលកំពុងលូតលាស់ ទោះបីអ្នកមិនអាចមើលឃើញវាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Patient cultivation could lead towards a rich harvest of inner growth. You may see clearly how far steady effort has carried you.",
+        "km": "ការដាំដុះដោយអត់ធ្មត់ អាចនាំទៅរកការប្រមូលផលដ៏សម្បូរនៃការលូតលាស់ខាងក្នុង។ អ្នកអាចមើលឃើញយ៉ាងច្បាស់ថាការខិតខំនឹងនរបាននាំអ្នកមកដល់ឆ្ងាយប៉ុណ្ណា។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Steady, careful inner practice may be your focus. Repetition and focus could be deepening your skill in living well.",
+        "km": "ការអនុវត្តខាងក្នុងនឹងនរ និងប្រុងប្រយ័ត្ន អាចជាការផ្តោតរបស់អ្នក។ ការធ្វើម្តងហើយម្តងទៀត និងការផ្តោត អាចកំពុងធ្វើឱ្យជំនាញរបស់អ្នកក្នុងការរស់នៅល្អកាន់តែជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Turning growth into a grind could drain its meaning. Remember why you started, and let practice be a source of care.",
+        "km": "ការប្រែក្លាយការលូតលាស់ទៅជាការងារធុញទ្រាន់ អាចបង្ហូរអត្ថន័យរបស់វា។ សូមចងចាំពីមូលហេតុដែលអ្នកបានចាប់ផ្តើម ហើយឱ្យការអនុវត្តជាប្រភពនៃការថែទាំ។"
+      },
+      "outcome": {
+        "en": "Dedicated practice could lead your journey towards mastery of yourself. You may become skilled at meeting life with patience and steadiness.",
+        "km": "ការអនុវត្តដោយលះបង់ អាចនាំដំណើររបស់អ្នកទៅរកការគ្រប់គ្រងខ្លួនឯងយ៉ាងស្ទាត់។ អ្នកអាចក្លាយជាអ្នកជំនាញក្នុងការជួបជីវិតដោយការអត់ធ្មត់ និងភាពនឹងនរ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "The fruits of your inner work may be ready to enjoy. Self-reliance and self-respect could be giving you quiet dignity.",
+        "km": "ផលនៃការងារខាងក្នុងរបស់អ្នក អាចរួចរាល់សម្រាប់រីករាយ។ ការពឹងលើខ្លួនឯង និងការគោរពខ្លួនឯង អាចកំពុងផ្តល់ឱ្យអ្នកនូវភាពថ្លៃថ្នូស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Keeping your growth entirely to yourself could isolate you. Share your inner richness with people who would value it.",
+        "km": "ការរក្សាការលូតលាស់របស់អ្នកទុកសម្រាប់តែខ្លួនឯង អាចធ្វើឱ្យអ្នកឯកោ។ សូមចែករំលែកភាពសម្បូរខាងក្នុងរបស់អ្នក ជាមួយមនុស្សដែលនឹងឱ្យតម្លៃវា។"
+      },
+      "outcome": {
+        "en": "Self-sufficiency could lead your journey towards graceful independence. You may feel secure in who you are, without needing outside approval.",
+        "km": "ការពឹងលើខ្លួនឯង អាចនាំដំណើររបស់អ្នកទៅរកឯករាជ្យភាពដ៏ថ្លៃថ្នូ។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពចំពោះអ្នកជានរណា ដោយមិនត្រូវការការយល់ព្រមពីខាងក្រៅ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Your roots and what you inherited may be under exploration. Family patterns and traditions could be shaping your path.",
+        "km": "ឫសគល់ និងអ្វីដែលអ្នកបានទទួលមរតក អាចកំពុងត្រូវបានរុករក។ លំនាំគ្រួសារ និងប្រពៃណី អាចកំពុងបង្កើតផ្លូវរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Repeating inherited patterns without question could limit your growth. Keep what nourishes you, and gently change what does not.",
+        "km": "ការធ្វើតាមលំនាំដែលទទួលមរតកដោយមិនសួរ អាចកំណត់ការលូតលាស់របស់អ្នក។ សូមរក្សាអ្វីដែលចិញ្ចឹមអ្នក ហើយផ្លាស់ប្តូរដោយទន់ភ្លន់នូវអ្វីដែលមិនចិញ្ចឹម។"
+      },
+      "outcome": {
+        "en": "Understanding your roots could lead towards a strong legacy of your own. You may pass on wisdom and stability to those who follow.",
+        "km": "ការយល់ពីឫសគល់របស់អ្នក អាចនាំទៅរកកេរដំណែលរឹងមាំរបស់អ្នកផ្ទាល់។ អ្នកអាចបន្តប្រាជ្ញា និងស្ថិរភាពដល់អ្នកដែលដើរតាម។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You may be a willing student of your own inner life. Studying, journaling or a new practice could be opening fresh ground.",
+        "km": "អ្នកអាចជាសិស្សដែលមានឆន្ទៈនៃជីវិតខាងក្នុងរបស់ខ្លួនឯង។ ការសិក្សា ការសរសេរកំណត់ហេតុ ឬការអនុវត្តថ្មី អាចកំពុងបើកដីថ្មី។"
+      },
+      "challenge": {
+        "en": "Treating growth only as theory could keep it from taking root. Put one thing you learn into practice in your ordinary life.",
+        "km": "ការចាត់ទុកការលូតលាស់តែជាទ្រឹស្តី អាចរារាំងវាពីការចាក់ឫស។ សូមអនុវត្តរឿងមួយដែលអ្នករៀន ក្នុងជីវិតធម្មតារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Steady learning could lead your journey towards grounded wisdom. You may build knowledge of yourself that truly changes how you live.",
+        "km": "ការរៀនដោយនឹងនរ អាចនាំដំណើររបស់អ្នកទៅរកប្រាជ្ញាដែលនឹងធឹង។ អ្នកអាចកសាងការស្គាល់ខ្លួនឯង ដែលពិតជាផ្លាស់ប្តូររបៀបដែលអ្នករស់នៅ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Your inner path may be moving gradually but surely. Patient, methodical effort could be building something durable inside.",
+        "km": "ផ្លូវខាងក្នុងរបស់អ្នក អាចកំពុងឈានទៅមុខបន្តិចម្តងៗ ប៉ុន្តែប្រាកដ។ ការខិតខំដោយអត់ធ្មត់ និងមានរបៀប អាចកំពុងកសាងអ្វីមួយដ៏រឹងមាំនៅខាងក្នុង។"
+      },
+      "challenge": {
+        "en": "Losing heart because change seems gradual could stall your progress. Keep going steadily, and trust that each small step counts.",
+        "km": "ការបាក់ទឹកចិត្តដោយសារការផ្លាស់ប្តូរហាក់បន្តិចម្តងៗ អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកជាប់គាំង។ សូមបន្តទៅមុខដោយនឹងនរ ហើយទុកចិត្តថាជំហានតូចនីមួយៗមានតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Steady commitment could lead towards reliable, deep-rooted growth. You may find that persistence has quietly transformed you.",
+        "km": "ការប្តេជ្ញាដ៏នឹងនរ អាចនាំទៅរកការលូតលាស់ដែលអាចទុកចិត្តបាន និងចាក់ឫសជ្រៅ។ អ្នកអាចឃើញថាការតស៊ូបានផ្លាស់ប្តូរអ្នកដោយស្ងាត់ៗ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You may be growing through practical self-care. Tending your body, home and needs could be grounding your spirit.",
+        "km": "អ្នកអាចកំពុងលូតលាស់តាមរយៈការថែទាំខ្លួនឯងជាក់ស្តែង។ ការថែរក្សារាងកាយ ផ្ទះ និងតម្រូវការរបស់អ្នក អាចកំពុងធ្វើឱ្យស្មារតីរបស់អ្នកនឹងធឹង។"
+      },
+      "challenge": {
+        "en": "Neglecting your own needs while caring for others could drain your inner reserves. Nurture yourself with the same warmth and patience that you give others.",
+        "km": "ការមើលរំលងតម្រូវការរបស់អ្នកផ្ទាល់ ខណៈពេលថែទាំអ្នកដទៃ អាចបង្ហូរធនធានខាងក្នុងរបស់អ្នក។ សូមថែទាំខ្លួនឯងដោយភាពកក់ក្តៅ និងការអត់ធ្មត់ដូចគ្នា ដែលអ្នកផ្តល់ឱ្យអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Grounded nurturing could lead your journey towards earthy wisdom. You may feel at home in your body and generous in spirit.",
+        "km": "ការថែទាំដែលនឹងធឹង អាចនាំដំណើររបស់អ្នកទៅរកប្រាជ្ញាជាក់ស្តែង។ អ្នកអាចមានអារម្មណ៍ដូចនៅផ្ទះក្នុងរាងកាយរបស់អ្នក និងមានស្មារតីសប្បុរស។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "A place of inner stability and maturity may be within reach. Discipline and experience could be giving you a firm footing.",
+        "km": "កន្លែងនៃស្ថិរភាព និងភាពចាស់ទុំខាងក្នុង អាចនៅក្បែរដៃ។ វិន័យ និងបទពិសោធន៍ អាចកំពុងផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Measuring growth by outer success could distract you from deeper work. Value inner peace as highly as any achievement the world can see.",
+        "km": "ការវាស់ការលូតលាស់តាមភាពជោគជ័យខាងក្រៅ អាចធ្វើឱ្យអ្នកវង្វេងពីការងារជ្រៅជាង។ សូមឱ្យតម្លៃលើសន្តិភាពខាងក្នុង ដូចសមិទ្ធផលណាមួយដែលពិភពលោកអាចមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Inner mastery could lead towards a steady, abundant life. You may become a grounded source of support and wisdom for others.",
+        "km": "ការគ្រប់គ្រងខាងក្នុង អាចនាំទៅរកជីវិតនឹងនរ និងបរិបូរណ៍។ អ្នកអាចក្លាយជាប្រភពនឹងធឹងនៃការគាំទ្រ និងប្រាជ្ញាសម្រាប់អ្នកដទៃ។"
+      }
+    }
+  }
+}
