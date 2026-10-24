@@ -1,0 +1,1097 @@
+{
+  "questionId": "EG-02",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A beginner's curiosity may be your best study asset. Approaching material with fresh eyes could help you notice what others take for granted.",
+        "km": "ការចង់ដឹងរបស់អ្នកចាប់ផ្តើម អាចជាទ្រព្យសម្បត្តិសិក្សាល្អបំផុតរបស់អ្នក។ ការចូលទៅរកមេរៀនដោយភ្នែកស្រស់ អាចជួយអ្នកកត់សម្គាល់អ្វីដែលអ្នកដទៃចាត់ទុកជារឿងធម្មតា។"
+      },
+      "challenge": {
+        "en": "Studying without any plan could leave you busy but unprepared. Sketch a simple outline of what to cover, then let curiosity fill in the gaps.",
+        "km": "ការសិក្សាដោយគ្មានផែនការ អាចធ្វើឱ្យអ្នករវល់ ប៉ុន្តែមិនបានត្រៀមខ្លួន។ សូមគូសបន្ទាត់សាមញ្ញពីអ្វីដែលត្រូវរៀន ហើយទុកឱ្យការចង់ដឹងបំពេញចន្លោះ។"
+      },
+      "outcome": {
+        "en": "Playful, open study could make learning feel lighter and stick better. You may remember more when you enjoy exploring a subject.",
+        "km": "ការសិក្សាដោយបើកចំហ និងលេងសើច អាចធ្វើឱ្យការរៀនស្រាល និងចងចាំបានល្អជាង។ អ្នកអាចចងចាំបានច្រើនជាងមុន នៅពេលអ្នករីករាយក្នុងការរុករកមុខវិជ្ជាមួយ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Strong focus and the right tools may already be within your reach. Gathering notes, apps and materials in one place could set you up well.",
+        "km": "ការផ្តោតខ្លាំង និងឧបករណ៍ត្រឹមត្រូវ អាចនៅក្នុងដៃអ្នករួចហើយ។ ការប្រមូលកំណត់ត្រា កម្មវិធី និងសម្ភារៈនៅកន្លែងតែមួយ អាចរៀបចំអ្នកបានល្អ។"
+      },
+      "challenge": {
+        "en": "Switching between too many methods could scatter your attention. Pick one technique, such as practice questions, and use it with full focus.",
+        "km": "ការប្តូររវាងវិធីសាស្ត្រច្រើនពេក អាចធ្វើឱ្យការយកចិត្តទុកដាក់របស់អ្នករាយប៉ាយ។ សូមជ្រើសរើសបច្ចេកទេសមួយ ដូចជាសំណួរហ្វឹកហាត់ ហើយប្រើវាដោយការផ្តោតពេញលេញ។"
+      },
+      "outcome": {
+        "en": "Focused effort could turn study into real, usable skill. You may find that what you learn starts to work for you in practice.",
+        "km": "ការខិតខំដែលផ្តោត អាចប្រែក្លាយការសិក្សាទៅជាជំនាញពិតដែលអាចប្រើបាន។ អ្នកអាចឃើញថាអ្វីដែលអ្នករៀន ចាប់ផ្តើមធ្វើការសម្រាប់អ្នកក្នុងការអនុវត្ត។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Quiet, reflective study may suit you best. Reading slowly and thinking things through could help ideas sink in deeply.",
+        "km": "ការសិក្សាស្ងាត់ៗ និងឆ្លុះបញ្ចាំង អាចសមនឹងអ្នកបំផុត។ ការអានយឺតៗ និងការគិតពិចារណា អាចជួយឱ្យគំនិតជ្រាបចូលយ៉ាងជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Noisy, distracting surroundings could block the deep focus you need. Find a calm corner, and silence notifications while you work.",
+        "km": "បរិយាកាសដែលមានសំឡេង និងការរំខាន អាចរារាំងការផ្តោតជ្រៅដែលអ្នកត្រូវការ។ សូមរកជ្រុងស្ងប់មួយ ហើយបិទការជូនដំណឹង ខណៈពេលអ្នកធ្វើការ។"
+      },
+      "outcome": {
+        "en": "Thoughtful, unhurried study could bring real depth of understanding. You may grasp the meaning behind facts, not just the facts themselves.",
+        "km": "ការសិក្សាដោយការគិត និងមិនប្រញាប់ អាចនាំមកនូវការយល់ដឹងជ្រៅពិតប្រាកដ។ អ្នកអាចយល់ពីអត្ថន័យនៅពីក្រោយការពិត មិនមែនត្រឹមតែការពិតខ្លួនឯងនោះទេ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "A comfortable, pleasant study space may help you learn. Good light, a tidy desk and a snack nearby could make sessions easier.",
+        "km": "កន្លែងសិក្សាស្រួល និងរីករាយ អាចជួយអ្នករៀន។ ពន្លឺល្អ តុស្អាត និងអាហារសម្រន់នៅជិត អាចធ្វើឱ្យវគ្គសិក្សាងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Neglecting sleep, food or movement could drain your study power. Look after your body so your mind has energy to learn.",
+        "km": "ការមើលរំលងការគេង អាហារ ឬចលនា អាចបង្ហូរកម្លាំងសិក្សារបស់អ្នក។ សូមថែរក្សារាងកាយរបស់អ្នក ដើម្បីឱ្យគំនិតរបស់អ្នកមានថាមពលសម្រាប់រៀន។"
+      },
+      "outcome": {
+        "en": "Nurturing yourself while studying could bring steady, healthy progress. You may find learning grows naturally when you feel cared for.",
+        "km": "ការថែទាំខ្លួនឯងខណៈពេលសិក្សា អាចនាំមកនូវការរីកចម្រើនដែលនឹងនរ និងមានសុខភាពល្អ។ អ្នកអាចឃើញថាការរៀនលូតលាស់ដោយធម្មជាតិ នៅពេលអ្នកមានអារម្មណ៍ថាត្រូវបានថែទាំ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Structure and routine may be your strongest study tools. A clear timetable and set goals could keep you on track.",
+        "km": "រចនាសម្ព័ន្ធ និងទម្លាប់ អាចជាឧបករណ៍សិក្សាខ្លាំងបំផុតរបស់អ្នក។ កាលវិភាគច្បាស់ និងគោលដៅដែលបានកំណត់ អាចរក្សាអ្នកឱ្យនៅលើផ្លូវ។"
+      },
+      "challenge": {
+        "en": "A schedule that is too rigid could break at the first disruption. Build in some flexibility so one missed session does not derail you.",
+        "km": "កាលវិភាគដែលតឹងពេក អាចបែកនៅការរំខានដំបូង។ សូមបង្កើតភាពបត់បែនខ្លះ ដើម្បីកុំឱ្យវគ្គមួយដែលខកខាន ធ្វើឱ្យអ្នកចេញពីផ្លូវ។"
+      },
+      "outcome": {
+        "en": "Disciplined planning could bring reliable, measurable progress. You may reach your targets one step at a time.",
+        "km": "ការគ្រោងដែលមានវិន័យ អាចនាំមកនូវការរីកចម្រើនដែលអាចទុកចិត្តបាន និងអាចវាស់វែងបាន។ អ្នកអាចទៅដល់គោលដៅរបស់អ្នក ម្តងមួយជំហាន។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Proven methods and good teachers may be your best guide. Following a well-designed course or textbook could give you solid footing.",
+        "km": "វិធីសាស្ត្រដែលបានបង្ហាញ និងគ្រូល្អ អាចជាការណែនាំល្អបំផុតរបស់អ្នក។ ការធ្វើតាមវគ្គសិក្សា ឬសៀវភៅដែលរចនាល្អ អាចផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Memorising without understanding could leave you stuck on harder questions. Ask your teacher to explain the reasoning behind what you learn.",
+        "km": "ការទន្ទេញដោយមិនយល់ អាចធ្វើឱ្យអ្នកជាប់គាំងលើសំណួរពិបាកជាង។ សូមសុំឱ្យគ្រូរបស់អ្នកពន្យល់ពីហេតុផលនៅពីក្រោយអ្វីដែលអ្នករៀន។"
+      },
+      "outcome": {
+        "en": "Learning from experienced guides could bring sound, trustworthy knowledge. You may build understanding that holds up under testing.",
+        "km": "ការរៀនពីអ្នកណែនាំដែលមានបទពិសោធន៍ អាចនាំមកនូវចំណេះដឹងល្អ និងគួរឱ្យទុកចិត្ត។ អ្នកអាចកសាងការយល់ដឹងដែលរឹងមាំនៅពេលត្រូវបានសាកល្បង។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Studying alongside someone you get on with may help you. A good study partner could keep you motivated and accountable.",
+        "km": "ការសិក្សាជាមួយនរណាម្នាក់ដែលអ្នកចុះសម្រុង អាចជួយអ្នក។ ដៃគូសិក្សាល្អ អាចរក្សាកម្លាំងចិត្ត និងទំនួលខុសត្រូវរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Choosing study methods you dislike could sap your motivation. Match your approach to how you genuinely like to learn.",
+        "km": "ការជ្រើសរើសវិធីសិក្សាដែលអ្នកមិនចូលចិត្ត អាចបង្ហូរកម្លាំងចិត្តរបស់អ្នក។ សូមធ្វើឱ្យវិធីសាស្ត្ររបស់អ្នក ស្របនឹងរបៀបដែលអ្នកពិតជាចូលចិត្តរៀន។"
+      },
+      "outcome": {
+        "en": "Studying in a way that fits you could make learning feel natural. You may find yourself looking forward to sessions rather than dreading them.",
+        "km": "ការសិក្សាតាមរបៀបដែលសមនឹងអ្នក អាចធ្វើឱ្យការរៀនមានអារម្មណ៍ធម្មជាតិ។ អ្នកអាចឃើញខ្លួនឯងទន្ទឹងរង់ចាំវគ្គសិក្សា ជាជាងខ្លាចវា។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Determination and clear goals may be driving your study. Knowing exactly what you are aiming for could keep you focused.",
+        "km": "ការប្តេជ្ញា និងគោលដៅច្បាស់ អាចកំពុងជំរុញការសិក្សារបស់អ្នក។ ការដឹងច្បាស់ថាអ្នកកំពុងតម្រង់ទៅរកអ្វី អាចរក្សាការផ្តោតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Pulling in too many directions could slow you down. Rank your subjects by priority and tackle the most important first.",
+        "km": "ការទាញទៅទិសដៅច្រើនពេក អាចធ្វើឱ្យអ្នកយឺត។ សូមរៀបលំដាប់មុខវិជ្ជារបស់អ្នកតាមអាទិភាព ហើយដោះស្រាយមុខវិជ្ជាសំខាន់បំផុតមុនគេ។"
+      },
+      "outcome": {
+        "en": "Focused willpower could carry you through a demanding study load. You may achieve the goal you set out to reach.",
+        "km": "ឆន្ទៈដែលផ្តោត អាចនាំអ្នកឆ្លងកាត់បន្ទុកសិក្សាដ៏ទាមទារ។ អ្នកអាចសម្រេចគោលដៅដែលអ្នកបានកំណត់ដើម្បីទៅដល់។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience and gentle persistence may be your study strengths. Staying calm with difficult material could help you work through it.",
+        "km": "ការអត់ធ្មត់ និងការតស៊ូដោយទន់ភ្លន់ អាចជាចំណុចខ្លាំងសិក្សារបស់អ្នក។ ការរក្សាភាពស្ងប់ជាមួយមេរៀនពិបាក អាចជួយអ្នកដោះស្រាយវា។"
+      },
+      "challenge": {
+        "en": "Getting frustrated with yourself could make hard topics harder. When stuck, take a breath, break the problem down, and try again calmly.",
+        "km": "ការខឹងនឹងខ្លួនឯង អាចធ្វើឱ្យប្រធានបទពិបាកកាន់តែពិបាក។ នៅពេលជាប់គាំង សូមដកដង្ហើម បំបែកបញ្ហា ហើយព្យាយាមម្តងទៀតដោយស្ងប់។"
+      },
+      "outcome": {
+        "en": "Calm persistence could help you master tough subjects. You may feel proud of conquering material you used to avoid.",
+        "km": "ការតស៊ូដោយស្ងប់ អាចជួយអ្នកស្ទាត់មុខវិជ្ជាពិបាក។ អ្នកអាចមានមោទនភាពចំពោះការយកឈ្នះមេរៀនដែលអ្នកធ្លាប់ជៀសវាង។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Solo, focused study may be where you learn best. Working alone in quiet could help you concentrate fully.",
+        "km": "ការសិក្សាតែម្នាក់ឯង និងផ្តោត អាចជាកន្លែងដែលអ្នករៀនបានល្អបំផុត។ ការធ្វើការតែម្នាក់ឯងក្នុងភាពស្ងាត់ អាចជួយអ្នកផ្តោតបានពេញលេញ។"
+      },
+      "challenge": {
+        "en": "Studying in isolation could hide misunderstandings. Test yourself or explain topics to someone to check you really understand.",
+        "km": "ការសិក្សាដាច់ដោយឡែក អាចលាក់ការយល់ខុស។ សូមសាកល្បងខ្លួនឯង ឬពន្យល់ប្រធានបទដល់នរណាម្នាក់ ដើម្បីពិនិត្យថាអ្នកពិតជាយល់។"
+      },
+      "outcome": {
+        "en": "Deep, independent work could bring expert-level understanding. You may come to know a topic thoroughly and confidently.",
+        "km": "ការងារជ្រៅ និងឯករាជ្យ អាចនាំមកនូវការយល់ដឹងកម្រិតអ្នកជំនាញ។ អ្នកអាចស្គាល់ប្រធានបទមួយយ៉ាងហ្មត់ចត់ និងដោយទំនុកចិត្ត។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "A change in study method may be what you need. Trying a new technique could break you out of a rut.",
+        "km": "ការផ្លាស់ប្តូរវិធីសិក្សា អាចជាអ្វីដែលអ្នកត្រូវការ។ ការសាកល្បងបច្ចេកទេសថ្មី អាចដកអ្នកចេញពីភាពជាប់គាំង។"
+      },
+      "challenge": {
+        "en": "Sticking with a method that is not working could waste effort. Notice what gets results, and adjust your approach accordingly.",
+        "km": "ការប្រកាន់វិធីសាស្ត្រដែលមិនដំណើរការ អាចខ្ជះខ្ជាយការខិតខំ។ សូមកត់សម្គាល់អ្វីដែលបង្កើតលទ្ធផល ហើយកែសម្រួលវិធីសាស្ត្ររបស់អ្នកតាមនោះ។"
+      },
+      "outcome": {
+        "en": "Adapting your approach could bring a welcome turn in results. You may find a method that makes study noticeably easier.",
+        "km": "ការសម្របវិធីសាស្ត្ររបស់អ្នក អាចនាំមកនូវវេនល្អក្នុងលទ្ធផល។ អ្នកអាចរកឃើញវិធីសាស្ត្រមួយ ដែលធ្វើឱ្យការសិក្សាងាយស្រួលជាងមុនគួរឱ្យកត់សម្គាល់។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Honest self-assessment may be a useful study tool. Checking what you really know against what you think you know could guide your effort.",
+        "km": "ការវាយតម្លៃខ្លួនឯងដោយស្មោះត្រង់ អាចជាឧបករណ៍សិក្សាដែលមានប្រយោជន៍។ ការពិនិត្យអ្វីដែលអ្នកពិតជាដឹង ធៀបនឹងអ្វីដែលអ្នកគិតថាអ្នកដឹង អាចដឹកនាំការខិតខំរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Spending equal effort on every topic could neglect your weak spots. Weigh where you need most work, and give it a fair share.",
+        "km": "ការចំណាយការខិតខំស្មើគ្នាលើប្រធានបទនីមួយៗ អាចមើលរំលងចំណុចខ្សោយរបស់អ្នក។ សូមថ្លឹងថ្លែងកន្លែងដែលអ្នកត្រូវការខិតខំច្រើនបំផុត ហើយផ្តល់ចំណែកសមរម្យដល់វា។"
+      },
+      "outcome": {
+        "en": "Balanced, honest study could bring results that reflect your true ability. You may feel confident that your preparation is fair and complete.",
+        "km": "ការសិក្សាដោយតុល្យភាព និងស្មោះត្រង់ អាចនាំមកនូវលទ្ធផលដែលឆ្លុះបញ្ចាំងពីសមត្ថភាពពិតរបស់អ្នក។ អ្នកអាចមានទំនុកចិត្តថាការត្រៀមខ្លួនរបស់អ្នកយុត្តិធម៌ និងពេញលេញ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Looking at a subject from a new angle may unlock it. Pausing to rethink how you approach a topic could reveal a better way.",
+        "km": "ការមើលមុខវិជ្ជាមួយពីមុំថ្មី អាចដោះសោវា។ ការផ្អាកដើម្បីគិតឡើងវិញពីរបៀបដែលអ្នកចូលទៅរកប្រធានបទមួយ អាចបង្ហាញវិធីល្អជាង។"
+      },
+      "challenge": {
+        "en": "Pushing harder with a method that is stuck could deepen frustration. Step back and try explaining the topic in your own words or with diagrams.",
+        "km": "ការរុញខ្លាំងជាងមុនជាមួយវិធីសាស្ត្រដែលជាប់គាំង អាចធ្វើឱ្យការខកចិត្តកាន់តែជ្រៅ។ សូមដកខ្លួនថយក្រោយ ហើយសាកល្បងពន្យល់ប្រធានបទដោយពាក្យរបស់អ្នក ឬដោយដ្យាក្រាម។"
+      },
+      "outcome": {
+        "en": "A fresh perspective could bring a breakthrough in understanding. You may see clearly what had been confusing you.",
+        "km": "ទស្សនៈថ្មី អាចនាំមកនូវការទម្លុះក្នុងការយល់ដឹង។ អ្នកអាចមើលឃើញយ៉ាងច្បាស់ពីអ្វីដែលបានធ្វើឱ្យអ្នកច្របូកច្របល់។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Letting go of an ineffective habit may be your starting point. Clearing out old notes or methods could make room for better ones.",
+        "km": "ការលែងប្រកាន់ទម្លាប់ដែលគ្មានប្រសិទ្ធភាព អាចជាចំណុចចាប់ផ្តើមរបស់អ្នក។ ការសម្អាតកំណត់ត្រា ឬវិធីសាស្ត្រចាស់ៗ អាចបង្កើតកន្លែងសម្រាប់អ្វីដែលល្អជាង។"
+      },
+      "challenge": {
+        "en": "Holding on to study habits you have outgrown could hold you back. End what no longer helps, and adopt methods that suit your level.",
+        "km": "ការប្រកាន់ទម្លាប់សិក្សាដែលអ្នកបានលូតលាស់ហួស អាចរារាំងអ្នក។ សូមបញ្ចប់អ្វីដែលលែងជួយ ហើយយកវិធីសាស្ត្រដែលសមនឹងកម្រិតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Clearing out what does not work could transform your study. You may start fresh with methods that bring better results.",
+        "km": "ការសម្អាតអ្វីដែលមិនដំណើរការ អាចផ្លាស់ប្តូរការសិក្សារបស់អ្នក។ អ្នកអាចចាប់ផ្តើមថ្មី ជាមួយវិធីសាស្ត្រដែលនាំមកនូវលទ្ធផលល្អជាង។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Moderation and steady pacing may help you learn. Mixing study with short breaks could keep your mind fresh.",
+        "km": "ភាពល្មមល្មើយ និងល្បឿននឹងនរ អាចជួយអ្នករៀន។ ការលាយការសិក្សាជាមួយការសម្រាកខ្លីៗ អាចរក្សាគំនិតរបស់អ្នកឱ្យស្រស់។"
+      },
+      "challenge": {
+        "en": "Cramming everything into one sitting could overload your memory. Spread your study across regular sessions so it has a chance to settle.",
+        "km": "ការរៀនប្រញាប់ប្រញាល់អ្វីៗទាំងអស់ក្នុងពេលតែមួយ អាចធ្វើឱ្យការចងចាំរបស់អ្នកលើសបន្ទុក។ សូមចែកការសិក្សារបស់អ្នកទៅជាវគ្គទៀងទាត់ ដើម្បីឱ្យវាមានឱកាសស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "Balanced study could bring calm, sustainable progress. You may retain more of what you study, with far less stress.",
+        "km": "ការសិក្សាដែលមានតុល្យភាព អាចនាំមកនូវការរីកចម្រើនស្ងប់ និងអាចរក្សាបាន។ អ្នកអាចចងចាំអ្វីដែលអ្នកសិក្សាបានច្រើនជាង ដោយភាពតានតឹងតិចជាងច្រើន។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Distractions may be the first thing to address. Recognising what pulls you away from study could be a powerful first step.",
+        "km": "ការរំខាន អាចជារឿងដំបូងដែលត្រូវដោះស្រាយ។ ការទទួលស្គាល់អ្វីដែលទាញអ្នកចេញពីការសិក្សា អាចជាជំហានដំបូងដ៏មានឥទ្ធិពល។"
+      },
+      "challenge": {
+        "en": "Phones, games or other habits could be eating into your focus. Put devices out of reach while studying, and seek support if a habit feels out of control.",
+        "km": "ទូរស័ព្ទ ហ្គេម ឬទម្លាប់ផ្សេងទៀត អាចកំពុងស៊ីចូលការផ្តោតរបស់អ្នក។ សូមដាក់ឧបករណ៍ឱ្យឆ្ងាយពីដៃខណៈពេលសិក្សា ហើយស្វែងរកការគាំទ្រ ប្រសិនបើទម្លាប់មួយហាក់ហួសការគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "Freeing yourself from distractions could bring a big jump in focus. You may be surprised how much you can learn without interruptions.",
+        "km": "ការដោះលែងខ្លួនពីការរំខាន អាចនាំមកនូវការលោតឡើងធំក្នុងការផ្តោត។ អ្នកអាចភ្ញាក់ផ្អើលថាអ្នកអាចរៀនបានប៉ុណ្ណា ដោយគ្មានការរំខាន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A shake-up of how you study may be needed. A poor result could be showing that the approach you use is not working.",
+        "km": "ការផ្លាស់ប្តូរធំក្នុងរបៀបដែលអ្នកសិក្សា អាចត្រូវការ។ លទ្ធផលមិនល្អមួយ អាចកំពុងបង្ហាញថាវិធីសាស្ត្រដែលអ្នកប្រើមិនដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Ignoring warning signs could lead to a bigger setback. Face what is not working honestly, and rebuild your plan from the basics.",
+        "km": "ការមិនអើពើនឹងសញ្ញាព្រមាន អាចនាំទៅរកឧបសគ្គធំជាង។ សូមប្រឈមនឹងអ្វីដែលមិនដំណើរការដោយស្មោះត្រង់ ហើយកសាងផែនការរបស់អ្នកឡើងវិញពីមូលដ្ឋាន។"
+      },
+      "outcome": {
+        "en": "Rebuilding your approach could bring stronger, more reliable study habits. You may find the shake-up was exactly what you needed.",
+        "km": "ការកសាងវិធីសាស្ត្ររបស់អ្នកឡើងវិញ អាចនាំមកនូវទម្លាប់សិក្សារឹងមាំ និងអាចទុកចិត្តបានជាង។ អ្នកអាចឃើញថាការផ្លាស់ប្តូរធំនោះ គឺជាអ្វីដែលអ្នកត្រូវការ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Remembering why you started may be your best motivator. Picturing the goal behind your study could lift your energy for each session.",
+        "km": "ការចងចាំថាហេតុអ្វីអ្នកចាប់ផ្តើម អាចជាកម្លាំងជំរុញល្អបំផុតរបស់អ្នក។ ការស្រមៃពីគោលដៅនៅពីក្រោយការសិក្សារបស់អ្នក អាចលើកថាមពលរបស់អ្នកសម្រាប់វគ្គនីមួយៗ។"
+      },
+      "challenge": {
+        "en": "Losing sight of your goal could make study feel pointless. Keep a reminder of your purpose where you can see it while you work.",
+        "km": "ការបាត់បង់ការមើលឃើញគោលដៅរបស់អ្នក អាចធ្វើឱ្យការសិក្សាមានអារម្មណ៍គ្មានន័យ។ សូមរក្សាការរំលឹកពីគោលបំណងរបស់អ្នក នៅកន្លែងដែលអ្នកអាចមើលឃើញខណៈពេលធ្វើការ។"
+      },
+      "outcome": {
+        "en": "Inspired study could bring renewed energy and progress. You may feel hopeful and motivated as results begin to show.",
+        "km": "ការសិក្សាដោយបំផុសគំនិត អាចនាំមកនូវថាមពល និងការរីកចម្រើនថ្មី។ អ្នកអាចមានអារម្មណ៍សង្ឃឹម និងមានកម្លាំងចិត្ត នៅពេលលទ្ធផលចាប់ផ្តើមបង្ហាញ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Confusion about the material may be holding you up. Recognising what you do not understand could be the first step.",
+        "km": "ភាពច្របូកច្របល់អំពីមេរៀន អាចកំពុងរារាំងអ្នក។ ការទទួលស្គាល់អ្វីដែលអ្នកមិនយល់ អាចជាជំហានដំបូង។"
+      },
+      "challenge": {
+        "en": "Pretending to understand could leave gaps that show up in tests. Ask questions, and clarify anything unclear before moving on.",
+        "km": "ការធ្វើពុតជាយល់ អាចទុកចន្លោះដែលលេចឡើងក្នុងការប្រឡង។ សូមសួរសំណួរ ហើយបញ្ជាក់អ្វីដែលមិនច្បាស់ មុនពេលបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Clearing up confusion could bring much clearer understanding. You may find that topics which felt murky start to make sense.",
+        "km": "ការជម្រះភាពច្របូកច្របល់ អាចនាំមកនូវការយល់ដឹងច្បាស់ជាងមុនច្រើន។ អ្នកអាចឃើញថាប្រធានបទដែលមានអារម្មណ៍មិនច្បាស់ ចាប់ផ្តើមមានន័យ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Enthusiasm and a positive attitude may be your study strengths. Enjoying what you learn could help it stick in your memory.",
+        "km": "ភាពរំភើប និងអាកប្បកិរិយាវិជ្ជមាន អាចជាចំណុចខ្លាំងសិក្សារបស់អ្នក។ ការរីករាយនឹងអ្វីដែលអ្នករៀន អាចជួយឱ្យវាជាប់ក្នុងការចងចាំរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Overconfidence could lead you to skip revision. Keep reviewing, even the topics that feel easy and familiar.",
+        "km": "ការជឿជាក់លើខ្លួនឯងហួសហេតុ អាចនាំអ្នកឱ្យរំលងការរំលឹកមេរៀន។ សូមបន្តពិនិត្យឡើងវិញ សូម្បីតែប្រធានបទដែលហាក់ងាយស្រួល និងធ្លាប់ស្គាល់។"
+      },
+      "outcome": {
+        "en": "Joyful, confident study could bring bright results. You may enjoy success that rewards your positive effort.",
+        "km": "ការសិក្សាដោយរីករាយ និងទំនុកចិត្ត អាចនាំមកនូវលទ្ធផលភ្លឺស្វាង។ អ្នកអាចរីករាយនឹងភាពជោគជ័យ ដែលផ្តល់រង្វាន់ដល់ការខិតខំវិជ្ជមានរបស់អ្នក។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Reviewing work you have already done may be your best starting point. Looking honestly at what went well and what did not could guide you.",
+        "km": "ការពិនិត្យការងារដែលអ្នកបានធ្វើរួច អាចជាចំណុចចាប់ផ្តើមល្អបំផុតរបស់អ្នក។ ការមើលដោយស្មោះត្រង់ពីអ្វីដែលបានដំណើរការល្អ និងអ្វីដែលមិនល្អ អាចដឹកនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Avoiding feedback could keep you repeating the same mistakes. Read comments on your work carefully, and act on them.",
+        "km": "ការជៀសវាងមតិយោបល់ អាចធ្វើឱ្យអ្នកធ្វើកំហុសដដែលៗ។ សូមអានមតិលើការងាររបស់អ្នកដោយប្រុងប្រយ័ត្ន ហើយធ្វើតាមវា។"
+      },
+      "outcome": {
+        "en": "Learning from review could bring a real step up in your results. You may feel renewed and ready to study with fresh purpose.",
+        "km": "ការរៀនពីការពិនិត្យ អាចនាំមកនូវការឡើងកម្រិតពិតប្រាកដក្នុងលទ្ធផលរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ថ្មី និងត្រៀមខ្លួនសិក្សាដោយគោលបំណងថ្មី។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Seeing the whole picture may help you study better. Understanding how topics connect could make each part easier to learn.",
+        "km": "ការមើលឃើញរូបភាពទាំងមូល អាចជួយអ្នកសិក្សាបានល្អជាង។ ការយល់ពីរបៀបដែលប្រធានបទភ្ជាប់គ្នា អាចធ្វើឱ្យផ្នែកនីមួយៗងាយរៀនជាង។"
+      },
+      "challenge": {
+        "en": "Leaving topics half-finished could create gaps. Complete each section fully before moving to the next.",
+        "km": "ការទុកប្រធានបទពាក់កណ្តាល អាចបង្កើតចន្លោះ។ សូមបញ្ចប់ផ្នែកនីមួយៗឱ្យពេញលេញ មុនពេលបន្តទៅផ្នែកបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Complete, connected study could bring a strong sense of mastery. You may feel fully prepared and confident in the whole subject.",
+        "km": "ការសិក្សាដែលពេញលេញ និងភ្ជាប់គ្នា អាចនាំមកនូវអារម្មណ៍ខ្លាំងនៃភាពស្ទាត់ជំនាញ។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនពេញលេញ និងមានទំនុកចិត្តលើមុខវិជ្ជាទាំងមូល។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Fresh enthusiasm may be your best fuel for study. Starting a new topic while you feel excited could help you absorb it well.",
+        "km": "ភាពរំភើបថ្មី អាចជាឥន្ធនៈល្អបំផុតសម្រាប់ការសិក្សារបស់អ្នក។ ការចាប់ផ្តើមប្រធានបទថ្មី ខណៈពេលអ្នកមានអារម្មណ៍រំភើប អាចជួយអ្នកស្រូបយកវាបានល្អ។"
+      },
+      "challenge": {
+        "en": "Letting enthusiasm fade without a plan could stall your progress. Channel that energy into a short, specific study goal.",
+        "km": "ការទុកឱ្យភាពរំភើបរសាត់ដោយគ្មានផែនការ អាចធ្វើឱ្យការរីកចម្រើនរបស់អ្នកជាប់គាំង។ សូមដឹកនាំថាមពលនោះទៅកាន់គោលដៅសិក្សាខ្លី និងជាក់លាក់មួយ។"
+      },
+      "outcome": {
+        "en": "Energised study could bring an exciting burst of progress. You may cover a lot of ground while your motivation is high.",
+        "km": "ការសិក្សាដោយថាមពល អាចនាំមកនូវការរីកចម្រើនដ៏រំភើប។ អ្នកអាចរៀនបានច្រើន ខណៈពេលកម្លាំងចិត្តរបស់អ្នកខ្ពស់។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Planning ahead may be your strongest study skill. Mapping out what to cover could give you a clear sense of direction.",
+        "km": "ការគ្រោងទុកជាមុន អាចជាជំនាញសិក្សាខ្លាំងបំផុតរបស់អ្នក។ ការគូសផែនទីពីអ្វីដែលត្រូវរៀន អាចផ្តល់ឱ្យអ្នកនូវអារម្មណ៍ច្បាស់នៃទិសដៅ។"
+      },
+      "challenge": {
+        "en": "Spending more effort planning than studying could hold you back. Keep plans short, and start working on the first item.",
+        "km": "ការចំណាយការខិតខំគ្រោងច្រើនជាងសិក្សា អាចរារាំងអ្នក។ សូមរក្សាផែនការឱ្យខ្លី ហើយចាប់ផ្តើមធ្វើការលើចំណុចដំបូង។"
+      },
+      "outcome": {
+        "en": "Good planning followed by action could bring wider learning horizons. You may set ambitious study goals and reach them step by step.",
+        "km": "ការគ្រោងល្អ ដែលអមដោយសកម្មភាព អាចនាំមកនូវជើងមេឃនៃការរៀនទូលាយជាង។ អ្នកអាចកំណត់គោលដៅសិក្សាដ៏មានមហិច្ឆតា ហើយសម្រេចវាម្តងមួយជំហាន។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Progress may be showing that your methods are working. Building on what is going well could boost your effectiveness.",
+        "km": "ការរីកចម្រើន អាចកំពុងបង្ហាញថាវិធីសាស្ត្ររបស់អ្នកដំណើរការ។ ការកសាងបន្តលើអ្វីដែលកំពុងដំណើរការល្អ អាចបង្កើនប្រសិទ្ធភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Expecting results straight away could make you abandon a good method. Give your approach enough room and repetition to show what it can do.",
+        "km": "ការរំពឹងលទ្ធផលភ្លាមៗ អាចធ្វើឱ្យអ្នកបោះបង់វិធីសាស្ត្រល្អ។ សូមផ្តល់ឱ្យវិធីសាស្ត្ររបស់អ្នក នូវលំហ និងការធ្វើម្តងហើយម្តងទៀតគ្រប់គ្រាន់ ដើម្បីបង្ហាញអ្វីដែលវាអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Steady expansion could bring wider knowledge and skills. You may branch out into new areas built on solid basics.",
+        "km": "ការពង្រីកដោយនឹងនរ អាចនាំមកនូវចំណេះដឹង និងជំនាញទូលាយជាង។ អ្នកអាចពង្រីកចូលទៅក្នុងតំបន់ថ្មី ដែលកសាងលើមូលដ្ឋានរឹងមាំ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Celebrating small wins may keep your study on track. Rewarding yourself after a session could make study feel positive.",
+        "km": "ការអបអរជ័យជម្នះតូចៗ អាចរក្សាការសិក្សារបស់អ្នកឱ្យនៅលើផ្លូវ។ ការផ្តល់រង្វាន់ដល់ខ្លួនឯងក្រោយវគ្គសិក្សា អាចធ្វើឱ្យការសិក្សាមានអារម្មណ៍វិជ្ជមាន។"
+      },
+      "challenge": {
+        "en": "Treating study as an endless grind could drain your motivation. Mark each finished topic with a small treat or break.",
+        "km": "ការចាត់ទុកការសិក្សាជាការងារធុញទ្រាន់គ្មានទីបញ្ចប់ អាចបង្ហូរកម្លាំងចិត្តរបស់អ្នក។ សូមកត់សម្គាល់ប្រធានបទនីមួយៗដែលបានបញ្ចប់ ដោយរង្វាន់តូច ឬការសម្រាក។"
+      },
+      "outcome": {
+        "en": "Positive, rewarding study could bring a happy sense of progress. You may enjoy milestones that make the effort feel worthwhile.",
+        "km": "ការសិក្សាវិជ្ជមាន និងមានរង្វាន់ អាចនាំមកនូវអារម្មណ៍រីករាយនៃការរីកចម្រើន។ អ្នកអាចរីករាយនឹងចំណុចសំខាន់ៗ ដែលធ្វើឱ្យការខិតខំមានអារម្មណ៍សមនឹងតម្លៃ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Friendly challenge may sharpen your study. Quizzing with others or debating ideas could help you remember.",
+        "km": "ការប្រកួតដោយមិត្តភាព អាចធ្វើឱ្យការសិក្សារបស់អ្នកមុតស្រួច។ ការសួរសំណួរគ្នាជាមួយអ្នកដទៃ ឬការជជែកគំនិត អាចជួយអ្នកចងចាំ។"
+      },
+      "challenge": {
+        "en": "Competing anxiously with others could distract from your own learning. Focus on improving against your own best results instead.",
+        "km": "ការប្រកួតប្រជែងដោយថប់បារម្ភជាមួយអ្នកដទៃ អាចរំខានដល់ការរៀនរបស់អ្នក។ សូមផ្តោតលើការកែលម្អធៀបនឹងលទ្ធផលល្អបំផុតរបស់អ្នកផ្ទាល់វិញ។"
+      },
+      "outcome": {
+        "en": "Healthy competition could bring sharper skills and quicker recall. You may enjoy the challenge and perform better because of it.",
+        "km": "ការប្រកួតប្រជែងដែលមានសុខភាពល្អ អាចនាំមកនូវជំនាញមុតស្រួច និងការចងចាំល្អជាង។ អ្នកអាចរីករាយនឹងការប្រកួត ហើយធ្វើបានល្អជាងដោយសារវា។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Confidence from successes you have had may be a study asset. Remembering what you have achieved could keep you motivated.",
+        "km": "ទំនុកចិត្តពីភាពជោគជ័យដែលអ្នកធ្លាប់មាន អាចជាទ្រព្យសម្បត្តិសិក្សា។ ការចងចាំអ្វីដែលអ្នកបានសម្រេច អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Studying only for grades or praise could make learning shallow. Focus on real understanding, and good results could follow from it.",
+        "km": "ការសិក្សាតែដើម្បីពិន្ទុ ឬការសរសើរ អាចធ្វើឱ្យការរៀនរាក់។ សូមផ្តោតលើការយល់ដឹងពិតប្រាកដ ហើយលទ្ធផលល្អអាចមកតាមពីវា។"
+      },
+      "outcome": {
+        "en": "Confident effort could bring recognition and good results. You may achieve grades or praise that reflect real understanding.",
+        "km": "ការខិតខំដោយទំនុកចិត្ត អាចនាំមកនូវការទទួលស្គាល់ និងលទ្ធផលល្អ។ អ្នកអាចសម្រេចពិន្ទុ ឬការសរសើរ ដែលឆ្លុះបញ្ចាំងពីការយល់ដឹងពិតប្រាកដ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Determination to protect your study time may be your strength. Saying no to distractions could keep you on course.",
+        "km": "ការប្តេជ្ញាការពារពេលសិក្សារបស់អ្នក អាចជាចំណុចខ្លាំងរបស់អ្នក។ ការបដិសេធការរំខាន អាចរក្សាអ្នកឱ្យនៅលើផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Constantly fending off interruptions could exhaust you. Set clear boundaries with others about when you are studying.",
+        "km": "ការការពារខ្លួនពីការរំខានជានិច្ច អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមកំណត់ព្រំដែនច្បាស់ជាមួយអ្នកដទៃ អំពីពេលដែលអ្នកកំពុងសិក្សា។"
+      },
+      "outcome": {
+        "en": "Protected focus could bring solid, uninterrupted progress. You may get through material that kept being pushed aside.",
+        "km": "ការផ្តោតដែលត្រូវបានការពារ អាចនាំមកនូវការរីកចម្រើនរឹងមាំ និងគ្មានការរំខាន។ អ្នកអាចបញ្ចប់មេរៀនដែលត្រូវបានរុញទៅម្ខាងជាច្រើនដង។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Active, energetic study may suit you well. Brief, lively sessions could help you cover a lot efficiently.",
+        "km": "ការសិក្សាសកម្ម និងមានថាមពល អាចសមនឹងអ្នកល្អ។ វគ្គខ្លីៗដែលរស់រវើក អាចជួយអ្នករៀនបានច្រើនប្រកបដោយប្រសិទ្ធភាព។"
+      },
+      "challenge": {
+        "en": "Rushing through material could leave important details behind. Pause to check your understanding of each part before moving on.",
+        "km": "ការប្រញាប់ឆ្លងកាត់មេរៀន អាចទុកព័ត៌មានលម្អិតសំខាន់ៗនៅពីក្រោយ។ សូមផ្អាកដើម្បីពិនិត្យការយល់ដឹងរបស់អ្នកលើផ្នែកនីមួយៗ មុនពេលបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Efficient study could bring brisk progress. You may see results come together better than you expected.",
+        "km": "ការសិក្សាដែលមានប្រសិទ្ធភាព អាចនាំមកនូវការរីកចម្រើនយ៉ាងល្អ។ អ្នកអាចឃើញលទ្ធផលប្រមូលផ្តុំគ្នាល្អជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Resilience may be keeping you going through tough study. Pushing on despite tiredness could show how committed you really are.",
+        "km": "ភាពធន់ អាចកំពុងរក្សាអ្នកឱ្យបន្តឆ្លងកាត់ការសិក្សាលំបាក។ ការរុញទៅមុខទោះបីនឿយហត់ អាចបង្ហាញថាអ្នកពិតជាប្តេជ្ញាប៉ុណ្ណា។"
+      },
+      "challenge": {
+        "en": "Studying while exhausted could reduce what you take in. Rest properly, and study when your mind is fresh.",
+        "km": "ការសិក្សាខណៈពេលអស់កម្លាំង អាចកាត់បន្ថយអ្វីដែលអ្នកស្រូបយក។ សូមសម្រាកឱ្យបានត្រឹមត្រូវ ហើយសិក្សានៅពេលគំនិតរបស់អ្នកស្រស់។"
+      },
+      "outcome": {
+        "en": "Persistent effort balanced with rest could carry you through. You may finish strong despite the challenges along the way.",
+        "km": "ការខិតខំជាប់លាប់ដែលមានតុល្យភាពជាមួយការសម្រាក អាចនាំអ្នកឆ្លងកាត់។ អ្នកអាចបញ្ចប់យ៉ាងរឹងមាំ ទោះបីមានការលំបាកតាមផ្លូវក៏ដោយ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "A heavy workload may be pressing on you. Recognising how much you are carrying could help you organise it better.",
+        "km": "បន្ទុកការងារធ្ងន់ អាចកំពុងសង្កត់លើអ្នក។ ការទទួលស្គាល់ថាអ្នកកំពុងលីប៉ុណ្ណា អាចជួយអ្នករៀបចំវាបានល្អជាង។"
+      },
+      "challenge": {
+        "en": "Trying to do everything in one go could overwhelm you. Break your workload into small, manageable tasks and tick them off.",
+        "km": "ការព្យាយាមធ្វើអ្វីៗទាំងអស់ក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នកលើសកម្លាំង។ សូមបំបែកបន្ទុកការងាររបស់អ្នក ទៅជាកិច្ចការតូចៗដែលអាចគ្រប់គ្រងបាន ហើយគូសធីកវា។"
+      },
+      "outcome": {
+        "en": "Organising your load could bring relief and steady progress. You may get through more by tackling one piece after another.",
+        "km": "ការរៀបចំបន្ទុករបស់អ្នក អាចនាំមកនូវការធូរស្រាល និងការរីកចម្រើននឹងនរ។ អ្នកអាចឆ្លងកាត់បានច្រើនជាង ដោយដោះស្រាយម្តងមួយផ្នែក។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity may make you an eager learner. Asking questions and exploring freely could keep study interesting for you.",
+        "km": "ការចង់ដឹងចង់ឃើញ អាចធ្វើឱ្យអ្នកជាអ្នករៀនដែលចង់ដឹង។ ការសួរសំណួរ និងការរុករកដោយសេរី អាចរក្សាការសិក្សាឱ្យគួរឱ្យចាប់អារម្មណ៍សម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Chasing interesting side topics could pull you away from what you need to learn. Jot side ideas in a separate list, and return to the main task.",
+        "km": "ការដេញតាមប្រធានបទរងគួរឱ្យចាប់អារម្មណ៍ អាចទាញអ្នកចេញពីអ្វីដែលអ្នកត្រូវរៀន។ សូមកត់គំនិតរងក្នុងបញ្ជីដាច់ដោយឡែក ហើយត្រឡប់ទៅកិច្ចការចម្បងវិញ។"
+      },
+      "outcome": {
+        "en": "Curious, playful study could bring enjoyment and better memory. You may learn more because you genuinely want to know.",
+        "km": "ការសិក្សាដោយចង់ដឹង និងលេងសើច អាចនាំមកនូវភាពរីករាយ និងការចងចាំល្អជាង។ អ្នកអាចរៀនបានច្រើនជាង ព្រោះអ្នកពិតជាចង់ដឹង។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold, energetic study may be your style. Diving straight into challenging material could keep you engaged.",
+        "km": "ការសិក្សាដោយក្លាហាន និងថាមពល អាចជារបៀបរបស់អ្នក។ ការលោតចូលមេរៀនលំបាកដោយផ្ទាល់ អាចរក្សាអ្នកឱ្យចូលរួម។"
+      },
+      "challenge": {
+        "en": "Skipping basics in a rush could weaken your foundation. Make sure the fundamentals are solid before tackling advanced topics.",
+        "km": "ការរំលងមូលដ្ឋានគ្រឹះដោយប្រញាប់ អាចធ្វើឱ្យមូលដ្ឋានរបស់អ្នកខ្សោយ។ សូមធ្វើឱ្យប្រាកដថាមូលដ្ឋានគ្រឹះរឹងមាំ មុនពេលដោះស្រាយប្រធានបទកម្រិតខ្ពស់។"
+      },
+      "outcome": {
+        "en": "Energetic, focused effort could bring strong progress. You may tackle ambitious goals with confidence and real energy.",
+        "km": "ការខិតខំដោយថាមពល និងផ្តោត អាចនាំមកនូវការរីកចម្រើនរឹងមាំ។ អ្នកអាចដោះស្រាយគោលដៅដ៏មានមហិច្ឆតា ដោយទំនុកចិត្ត និងថាមពលពិតប្រាកដ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Confidence and a sociable approach may help you study. Teaching others or joining discussions could reinforce what you know.",
+        "km": "ទំនុកចិត្ត និងវិធីសាស្ត្រសង្គម អាចជួយអ្នកសិក្សា។ ការបង្រៀនអ្នកដទៃ ឬការចូលរួមការពិភាក្សា អាចពង្រឹងអ្វីដែលអ្នកដឹង។"
+      },
+      "challenge": {
+        "en": "Relying on talking rather than studying could leave gaps. Balance lively discussion with quiet, focused review on your own.",
+        "km": "ការពឹងលើការនិយាយ ជាជាងការសិក្សា អាចទុកចន្លោះ។ សូមថ្លឹងការពិភាក្សាដ៏រស់រវើក ជាមួយការពិនិត្យឡើងវិញស្ងាត់ៗ និងផ្តោតដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Sharing knowledge could bring deeper understanding and recognition. You may find that explaining ideas helps you master them.",
+        "km": "ការចែករំលែកចំណេះដឹង អាចនាំមកនូវការយល់ដឹងជ្រៅជាង និងការទទួលស្គាល់។ អ្នកអាចឃើញថាការពន្យល់គំនិត ជួយអ្នកឱ្យស្ទាត់វា។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Leadership of your own learning may be your strength. Setting your own goals and pace could keep you motivated.",
+        "km": "ការដឹកនាំការរៀនរបស់ខ្លួនឯង អាចជាចំណុចខ្លាំងរបស់អ្នក។ ការកំណត់គោលដៅ និងល្បឿនរបស់អ្នកផ្ទាល់ អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Taking on too much responsibility could stretch you thin. Delegate group tasks fairly, and focus on your own learning.",
+        "km": "ការទទួលយកទំនួលខុសត្រូវច្រើនពេក អាចធ្វើឱ្យអ្នកស្តើង។ សូមចែកកិច្ចការក្រុមដោយយុត្តិធម៌ ហើយផ្តោតលើការរៀនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Self-directed study could bring confident, visionary results. You may achieve goals that set an example for others.",
+        "km": "ការសិក្សាដែលដឹកនាំដោយខ្លួនឯង អាចនាំមកនូវលទ្ធផលដែលមានទំនុកចិត្ត និងចក្ខុវិស័យ។ អ្នកអាចសម្រេចគោលដៅដែលជាគំរូសម្រាប់អ្នកដទៃ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Genuine interest in the subject may be your best study aid. Connecting material to what you care about could make it easier to remember.",
+        "km": "ចំណាប់អារម្មណ៍ពិតប្រាកដលើមុខវិជ្ជា អាចជាជំនួយសិក្សាល្អបំផុតរបស់អ្នក។ ការភ្ជាប់មេរៀនទៅនឹងអ្វីដែលអ្នកយកចិត្តទុកដាក់ អាចធ្វើឱ្យវាងាយចងចាំជាង។"
+      },
+      "challenge": {
+        "en": "Treating study as purely a chore could block your natural interest. Find one aspect of each topic that genuinely appeals to you.",
+        "km": "ការចាត់ទុកការសិក្សាសុទ្ធតែជាកិច្ចការ អាចរារាំងចំណាប់អារម្មណ៍ធម្មជាតិរបស់អ្នក។ សូមរកផ្នែកមួយនៃប្រធានបទនីមួយៗ ដែលពិតជាទាក់ទាញអ្នក។"
+      },
+      "outcome": {
+        "en": "Heartfelt study could bring deep, satisfying learning. You may find that caring about a topic makes the effort feel natural.",
+        "km": "ការសិក្សាដោយអស់ពីចិត្ត អាចនាំមកនូវការរៀនជ្រៅ និងពេញចិត្ត។ អ្នកអាចឃើញថាការយកចិត្តទុកដាក់លើប្រធានបទមួយ ធ្វើឱ្យការខិតខំមានអារម្មណ៍ធម្មជាតិ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A study partner may help you learn more effectively. Explaining ideas to each other could deepen both your understanding.",
+        "km": "ដៃគូសិក្សា អាចជួយអ្នករៀនប្រកបដោយប្រសិទ្ធភាពជាង។ ការពន្យល់គំនិតដល់គ្នាទៅវិញទៅមក អាចធ្វើឱ្យការយល់ដឹងរបស់អ្នកទាំងពីរកាន់តែជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Chatting more than studying could waste your sessions together. Agree on a clear goal before you start each session.",
+        "km": "ការជជែកលេងច្រើនជាងការសិក្សា អាចខ្ជះខ្ជាយវគ្គរួមគ្នារបស់អ្នក។ សូមព្រមព្រៀងគ្នាលើគោលដៅច្បាស់មួយ មុនពេលចាប់ផ្តើមវគ្គនីមួយៗ។"
+      },
+      "outcome": {
+        "en": "A good partnership could bring shared success and mutual support. You may both improve more than you would alone.",
+        "km": "ភាពជាដៃគូល្អ អាចនាំមកនូវភាពជោគជ័យរួម និងការគាំទ្រគ្នាទៅវិញទៅមក។ អ្នកទាំងពីរអាចប្រសើរឡើងច្រើនជាងការរៀនតែម្នាក់ឯង។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A friendly study group may be a good resource. Learning alongside others could make difficult topics more manageable.",
+        "km": "ក្រុមសិក្សាដ៏រួសរាយ អាចជាធនធានល្អ។ ការរៀនជាមួយអ្នកដទៃ អាចធ្វើឱ្យប្រធានបទពិបាកកាន់តែងាយគ្រប់គ្រង។"
+      },
+      "challenge": {
+        "en": "Social time could take over your study sessions. Keep a light structure so the group stays focused on its goal.",
+        "km": "ពេលលេងសង្គម អាចគ្របដណ្តប់វគ្គសិក្សារបស់អ្នក។ សូមរក្សារចនាសម្ព័ន្ធស្រាលមួយ ដើម្បីឱ្យក្រុមនៅផ្តោតលើគោលដៅរបស់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Group study could bring encouragement and shared celebration. You may enjoy learning more when you do it with friends.",
+        "km": "ការសិក្សាជាក្រុម អាចនាំមកនូវការលើកទឹកចិត្ត និងការអបអររួមគ្នា។ អ្នកអាចរីករាយនឹងការរៀនកាន់តែច្រើន នៅពេលអ្នកធ្វើវាជាមួយមិត្តភក្តិ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Boredom with your usual methods may be a clue. Feeling flat could be a sign that you need a fresh approach.",
+        "km": "ភាពធុញទ្រាន់នឹងវិធីសាស្ត្រធម្មតារបស់អ្នក អាចជាតម្រុយមួយ។ ការមានអារម្មណ៍ស្ងួត អាចជាសញ្ញាថាអ្នកត្រូវការវិធីសាស្ត្រថ្មី។"
+      },
+      "challenge": {
+        "en": "Ignoring new study tools could keep you stuck in a dull routine. Try one new resource, such as a video, podcast or practice app.",
+        "km": "ការមិនអើពើនឹងឧបករណ៍សិក្សាថ្មី អាចធ្វើឱ្យអ្នកជាប់ក្នុងទម្លាប់ស្ងួត។ សូមសាកល្បងធនធានថ្មីមួយ ដូចជាវីដេអូ ផតខាស ឬកម្មវិធីហ្វឹកហាត់។"
+      },
+      "outcome": {
+        "en": "Accepting something new could bring renewed interest in study. You may find a method that makes learning feel fresh again.",
+        "km": "ការទទួលយកអ្វីមួយថ្មី អាចនាំមកនូវចំណាប់អារម្មណ៍ថ្មីលើការសិក្សា។ អ្នកអាចរកឃើញវិធីសាស្ត្រមួយ ដែលធ្វើឱ្យការរៀនមានអារម្មណ៍ស្រស់ម្តងទៀត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Disappointment over a result may be affecting your study. Acknowledging the feeling could help you move past it.",
+        "km": "ការខកចិត្តចំពោះលទ្ធផលមួយ អាចកំពុងប៉ះពាល់ការសិក្សារបស់អ្នក។ ការទទួលស្គាល់អារម្មណ៍នោះ អាចជួយអ្នកឆ្លងកាត់វា។"
+      },
+      "challenge": {
+        "en": "Focusing only on what went wrong could sap your energy. Review mistakes to learn from them, then turn to what you did well.",
+        "km": "ការផ្តោតតែលើអ្វីដែលខុស អាចបង្ហូរថាមពលរបស់អ្នក។ សូមពិនិត្យកំហុសដើម្បីរៀនពីវា រួចបែរទៅរកអ្វីដែលអ្នកបានធ្វើល្អ។"
+      },
+      "outcome": {
+        "en": "Learning from setbacks could bring a stronger study approach. You may come back with better methods and renewed determination.",
+        "km": "ការរៀនពីឧបសគ្គ អាចនាំមកនូវវិធីសាស្ត្រសិក្សារឹងមាំជាង។ អ្នកអាចត្រឡប់មកវិញ ជាមួយវិធីសាស្ត្រល្អជាង និងការប្តេជ្ញាថ្មី។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Methods that worked for you as a child may still help. Simple tools like flashcards or rhymes could make learning easier.",
+        "km": "វិធីសាស្ត្រដែលធ្លាប់ដំណើរការសម្រាប់អ្នកកាលនៅក្មេង អាចនៅតែជួយ។ ឧបករណ៍សាមញ្ញដូចជាកាតចំណាំ ឬកាព្យ អាចធ្វើឱ្យការរៀនងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Relying only on familiar habits could limit your growth. Combine comfortable methods with one new technique that stretches you.",
+        "km": "ការពឹងតែលើទម្លាប់ដែលធ្លាប់ស្គាល់ អាចកំណត់ការលូតលាស់របស់អ្នក។ សូមរួមបញ្ចូលវិធីសាស្ត្រដែលស្រួល ជាមួយបច្ចេកទេសថ្មីមួយដែលពង្រីកសមត្ថភាពអ្នក។"
+      },
+      "outcome": {
+        "en": "Playful, familiar methods could bring comfortable, steady learning. You may enjoy study more when it feels simple and friendly.",
+        "km": "វិធីសាស្ត្រលេងសើច និងធ្លាប់ស្គាល់ អាចនាំមកនូវការរៀនដែលស្រួល និងនឹងនរ។ អ្នកអាចរីករាយនឹងការសិក្សាកាន់តែច្រើន នៅពេលវាមានអារម្មណ៍សាមញ្ញ និងរួសរាយ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Too many study options may be confusing you. Recognising that you cannot try everything could help you choose.",
+        "km": "ជម្រើសសិក្សាច្រើនពេក អាចកំពុងធ្វើឱ្យអ្នកច្របូកច្របល់។ ការទទួលស្គាល់ថាអ្នកមិនអាចសាកល្បងអ្វីៗទាំងអស់ អាចជួយអ្នកជ្រើសរើស។"
+      },
+      "challenge": {
+        "en": "Jumping between methods could leave nothing done well. Pick one or two proven techniques, and stick with them.",
+        "km": "ការលោតរវាងវិធីសាស្ត្រផ្សេងៗ អាចធ្វើឱ្យគ្មានអ្វីត្រូវបានធ្វើល្អ។ សូមជ្រើសរើសបច្ចេកទេសដែលបានបង្ហាញមួយ ឬពីរ ហើយប្រកាន់ខ្ជាប់វា។"
+      },
+      "outcome": {
+        "en": "Focused choices could bring clearer, more effective study. You may get more done by doing fewer things well.",
+        "km": "ជម្រើសដែលផ្តោត អាចនាំមកនូវការសិក្សាច្បាស់ និងមានប្រសិទ្ធភាពជាង។ អ្នកអាចធ្វើបានច្រើនជាង ដោយធ្វើរឿងតិចជាងឱ្យបានល្អ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Moving on from a method that is not working may be wise. Recognising when to change course could save wasted effort.",
+        "km": "ការបន្តទៅមុខពីវិធីសាស្ត្រដែលមិនដំណើរការ អាចជាការឈ្លាសវៃ។ ការទទួលស្គាល់ពេលដែលត្រូវប្តូរទិសដៅ អាចសន្សំការខិតខំដែលខ្ជះខ្ជាយ។"
+      },
+      "challenge": {
+        "en": "Sticking with something out of habit could hold you back. Be willing to leave behind methods that no longer serve you.",
+        "km": "ការប្រកាន់អ្វីមួយដោយសារទម្លាប់ អាចរារាំងអ្នក។ សូមមានឆន្ទៈទុកចោលវិធីសាស្ត្រដែលលែងបម្រើអ្នក។"
+      },
+      "outcome": {
+        "en": "Seeking better methods could bring more meaningful learning. You may find an approach that truly works for you.",
+        "km": "ការស្វែងរកវិធីសាស្ត្រល្អជាង អាចនាំមកនូវការរៀនដែលមានអត្ថន័យជាង។ អ្នកអាចរកឃើញវិធីសាស្ត្រមួយ ដែលពិតជាដំណើរការសម្រាប់អ្នក។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Satisfaction with your progress may be a good foundation. Feeling content could help you study calmly, without heavy pressure.",
+        "km": "ការពេញចិត្តនឹងការរីកចម្រើនរបស់អ្នក អាចជាមូលដ្ឋានល្អ។ ការមានអារម្មណ៍ពេញចិត្ត អាចជួយអ្នកសិក្សាដោយស្ងប់ ដោយគ្មានសម្ពាធធ្ងន់។"
+      },
+      "challenge": {
+        "en": "Feeling too comfortable could make you ease off too much. Set yourself one new, small challenge to keep improving.",
+        "km": "ការមានអារម្មណ៍ស្រួលពេក អាចធ្វើឱ្យអ្នកបន្ធូរខ្លាំងពេក។ សូមកំណត់ការប្រកួតតូចថ្មីមួយសម្រាប់ខ្លួនឯង ដើម្បីបន្តកែលម្អ។"
+      },
+      "outcome": {
+        "en": "Content, steady study could bring the results you hoped for. You may feel pleased as your effort pays off.",
+        "km": "ការសិក្សាដោយពេញចិត្ត និងនឹងនរ អាចនាំមកនូវលទ្ធផលដែលអ្នកសង្ឃឹម។ អ្នកអាចមានអារម្មណ៍ពេញចិត្ត នៅពេលការខិតខំរបស់អ្នកបង្កើតផល។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Support at home may help your study. A calm, encouraging household could make learning easier and more pleasant.",
+        "km": "ការគាំទ្រនៅផ្ទះ អាចជួយការសិក្សារបស់អ្នក។ គ្រួសារដែលស្ងប់ និងលើកទឹកចិត្ត អាចធ្វើឱ្យការរៀនងាយស្រួល និងរីករាយជាង។"
+      },
+      "challenge": {
+        "en": "Family demands could interrupt your study. Talk to the people at home about the quiet you need.",
+        "km": "តម្រូវការគ្រួសារ អាចរំខានដល់ការសិក្សារបស់អ្នក។ សូមនិយាយជាមួយមនុស្សនៅផ្ទះ អំពីភាពស្ងប់ស្ងាត់ដែលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "A supportive home could bring steady, happy progress. You may share your successes with people who care.",
+        "km": "ផ្ទះដែលគាំទ្រ អាចនាំមកនូវការរីកចម្រើនដែលនឹងនរ និងរីករាយ។ អ្នកអាចចែករំលែកភាពជោគជ័យរបស់អ្នក ជាមួយមនុស្សដែលយកចិត្តទុកដាក់។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Creative study methods may suit you. Drawing, colour-coding or making up stories could help you remember.",
+        "km": "វិធីសិក្សាច្នៃប្រឌិត អាចសមនឹងអ្នក។ ការគូរ ការប្រើពណ៌ ឬការបង្កើតរឿង អាចជួយអ្នកចងចាំ។"
+      },
+      "challenge": {
+        "en": "Dismissing creative techniques as childish could limit you. Give visual or imaginative methods a fair and open-minded try.",
+        "km": "ការមើលរំលងបច្ចេកទេសច្នៃប្រឌិតថាជារបស់ក្មេង អាចកំណត់អ្នក។ សូមសាកល្បងវិធីសាស្ត្រដែលប្រើរូបភាព ឬការស្រមៃ ឱ្យបានសមរម្យ និងដោយចិត្តបើកចំហ។"
+      },
+      "outcome": {
+        "en": "Imaginative study could bring better memory and enjoyment. You may find that creative notes make revision easier.",
+        "km": "ការសិក្សាប្រកបដោយការស្រមៃ អាចនាំមកនូវការចងចាំ និងភាពរីករាយល្អជាង។ អ្នកអាចឃើញថាកំណត់ត្រាច្នៃប្រឌិត ធ្វើឱ្យការរំលឹកមេរៀនងាយស្រួលជាង។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Passion for the subject may be driving your study. Following what excites you could keep you engaged and eager to learn.",
+        "km": "ចំណង់ចំណូលចិត្តចំពោះមុខវិជ្ជា អាចកំពុងជំរុញការសិក្សារបស់អ្នក។ ការធ្វើតាមអ្វីដែលធ្វើឱ្យអ្នករំភើប អាចរក្សាអ្នកឱ្យចូលរួម និងចង់រៀន។"
+      },
+      "challenge": {
+        "en": "Focusing only on favourite topics could leave weaker areas neglected. Give less exciting subjects their fair share of your effort too.",
+        "km": "ការផ្តោតតែលើប្រធានបទដែលចូលចិត្ត អាចទុកផ្នែកខ្សោយមិនត្រូវបានយកចិត្តទុកដាក់។ សូមផ្តល់ចំណែកសមរម្យនៃការខិតខំរបស់អ្នក ដល់មុខវិជ្ជាដែលមិនសូវរំភើបផងដែរ។"
+      },
+      "outcome": {
+        "en": "Passionate study could bring inspiring results. You may produce work that shows your enthusiasm and care.",
+        "km": "ការសិក្សាដោយចំណង់ចំណូលចិត្ត អាចនាំមកនូវលទ្ធផលដែលបំផុសគំនិត។ អ្នកអាចបង្កើតការងារដែលបង្ហាញពីភាពរំភើប និងការយកចិត្តទុកដាក់របស់អ្នក។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Emotional awareness may help you study. Noticing when you are tired or stressed could help you plan better.",
+        "km": "ការដឹងខ្លួនផ្លូវអារម្មណ៍ អាចជួយអ្នកសិក្សា។ ការកត់សម្គាល់នៅពេលអ្នកនឿយហត់ ឬតានតឹង អាចជួយអ្នកគ្រោងបានល្អជាង។"
+      },
+      "challenge": {
+        "en": "Ignoring stress could reduce your effectiveness. Take care of your feelings so they do not overwhelm your focus.",
+        "km": "ការមិនអើពើនឹងភាពតានតឹង អាចកាត់បន្ថយប្រសិទ្ធភាពរបស់អ្នក។ សូមថែរក្សាអារម្មណ៍របស់អ្នក ដើម្បីកុំឱ្យវាគ្របដណ្តប់ការផ្តោតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Caring for your well-being could bring calmer, steadier study. You may learn better when you feel emotionally balanced.",
+        "km": "ការថែរក្សាសុខុមាលភាពរបស់អ្នក អាចនាំមកនូវការសិក្សាស្ងប់ និងនឹងនរជាង។ អ្នកអាចរៀនបានល្អជាង នៅពេលអ្នកមានតុល្យភាពផ្លូវអារម្មណ៍។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm composure may be your study strength. Staying steady under pressure could help you think clearly.",
+        "km": "ភាពស្ងប់ស្ងាត់ អាចជាចំណុចខ្លាំងសិក្សារបស់អ្នក។ ការរក្សាភាពនឹងនរក្រោមសម្ពាធ អាចជួយអ្នកគិតច្បាស់។"
+      },
+      "challenge": {
+        "en": "Bottling up stress could catch up with you. Talk about the pressures you feel with someone you trust.",
+        "km": "ការទប់ភាពតានតឹងទុកក្នុងចិត្ត អាចមានផលវិបាក។ សូមនិយាយអំពីសម្ពាធដែលអ្នកមានអារម្មណ៍ ជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Steady composure could bring reliable, mature results. You may handle tests and deadlines with calm and quiet grace.",
+        "km": "ភាពស្ងប់ស្ងាត់នឹងនរ អាចនាំមកនូវលទ្ធផលដែលអាចទុកចិត្តបាន និងចាស់ទុំ។ អ្នកអាចដោះស្រាយការប្រឡង និងកាលកំណត់ ដោយភាពស្ងប់ និងថ្លៃថ្នូស្ងាត់ៗ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A sharp, analytical mind may be your study strength. Cutting through to the key points could help you learn efficiently and clearly.",
+        "km": "គំនិតមុតស្រួច និងវិភាគ អាចជាចំណុចខ្លាំងសិក្សារបស់អ្នក។ ការកាត់ចូលដល់ចំណុចសំខាន់ៗ អាចជួយអ្នករៀនប្រកបដោយប្រសិទ្ធភាព និងច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Overcomplicating topics could make them harder to learn. Look for the one central idea in each topic, and build from there.",
+        "km": "ការធ្វើឱ្យប្រធានបទស្មុគស្មាញពេក អាចធ្វើឱ្យវាពិបាករៀនជាង។ សូមរកគំនិតកណ្តាលមួយក្នុងប្រធានបទនីមួយៗ ហើយកសាងចេញពីទីនោះ។"
+      },
+      "outcome": {
+        "en": "Clear thinking could bring a breakthrough in understanding. You may grasp a difficult concept that unlocks the rest of the subject.",
+        "km": "ការគិតច្បាស់ អាចនាំមកនូវការទម្លុះក្នុងការយល់ដឹង។ អ្នកអាចចាប់យកគំនិតពិបាកមួយ ដែលដោះសោផ្នែកផ្សេងទៀតនៃមុខវិជ្ជា។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Indecision about how to study may be holding you back. Recognising that any reasonable plan beats none could get you started.",
+        "km": "ការមិនអាចសម្រេចចិត្តអំពីរបៀបសិក្សា អាចកំពុងរារាំងអ្នក។ ការទទួលស្គាល់ថាផែនការសមហេតុផលណាមួយ ល្អជាងគ្មាន អាចធ្វើឱ្យអ្នកចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Avoiding a decision could waste valuable study effort. Choose a method, try it for a set stretch, and review how it went.",
+        "km": "ការជៀសវាងការសម្រេចចិត្ត អាចខ្ជះខ្ជាយការខិតខំសិក្សាដ៏មានតម្លៃ។ សូមជ្រើសរើសវិធីសាស្ត្រមួយ សាកល្បងវាមួយរយៈ ហើយពិនិត្យមើលថាវាដំណើរការយ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Committing to a plan could bring focus and momentum to your study. You may feel relieved to have a clear path to follow.",
+        "km": "ការប្តេជ្ញាចំពោះផែនការមួយ អាចនាំមកនូវការផ្តោត និងសន្ទុះដល់ការសិក្សារបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ធូរស្រាល ដែលមានផ្លូវច្បាស់ដើម្បីធ្វើតាម។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Hurtful feedback or a poor mark may be stinging. Acknowledging the disappointment could help you use it constructively.",
+        "km": "មតិយោបល់ដែលធ្វើឱ្យឈឺចាប់ ឬពិន្ទុមិនល្អ អាចកំពុងធ្វើឱ្យឈឺ។ ការទទួលស្គាល់ការខកចិត្ត អាចជួយអ្នកប្រើវាតាមរបៀបស្ថាបនា។"
+      },
+      "challenge": {
+        "en": "Letting criticism crush your confidence could stop you studying. Pick out the useful points from the feedback, and talk through the hurt with someone.",
+        "km": "ការទុកឱ្យការរិះគន់កំទេចទំនុកចិត្តរបស់អ្នក អាចបញ្ឈប់អ្នកពីការសិក្សា។ សូមជ្រើសរើសចំណុចដែលមានប្រយោជន៍ពីមតិយោបល់ ហើយនិយាយពីការឈឺចាប់ជាមួយនរណាម្នាក់។"
+      },
+      "outcome": {
+        "en": "Using hard feedback well could bring real improvement. You may look back on this criticism as the push you needed to grow.",
+        "km": "ការប្រើមតិយោបល់ដ៏លំបាកឱ្យបានល្អ អាចនាំមកនូវការកែលម្អពិតប្រាកដ។ អ្នកអាចមើលការរិះគន់នេះ ជាការជំរុញដែលអ្នកត្រូវការដើម្បីលូតលាស់។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest may be the study tool you are missing. Short breaks and good sleep could help your brain store what you learn.",
+        "km": "ការសម្រាក អាចជាឧបករណ៍សិក្សាដែលអ្នកកំពុងខ្វះ។ ការសម្រាកខ្លីៗ និងការគេងល្អ អាចជួយខួរក្បាលរបស់អ្នករក្សាទុកអ្វីដែលអ្នករៀន។"
+      },
+      "challenge": {
+        "en": "Studying without breaks could reduce what you retain. Build regular pauses and proper sleep into your study plan.",
+        "km": "ការសិក្សាដោយគ្មានការសម្រាក អាចកាត់បន្ថយអ្វីដែលអ្នកចងចាំ។ សូមរៀបចំការផ្អាកទៀងទាត់ និងការគេងគ្រប់គ្រាន់ ក្នុងផែនការសិក្សារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Well-rested study could bring clearer thinking and better memory. You may find that you learn more by working a little less.",
+        "km": "ការសិក្សាដោយបានសម្រាកល្អ អាចនាំមកនូវការគិតច្បាស់ និងការចងចាំល្អជាង។ អ្នកអាចឃើញថាអ្នករៀនបានច្រើនជាង ដោយធ្វើការតិចជាងបន្តិច។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Tension with classmates or teachers may be affecting your study. Recognising the conflict could help you set it aside.",
+        "km": "ភាពតានតឹងជាមួយមិត្តរួមថ្នាក់ ឬគ្រូ អាចកំពុងប៉ះពាល់ការសិក្សារបស់អ្នក។ ការទទួលស្គាល់ជម្លោះ អាចជួយអ្នកទុកវាមួយឡែក។"
+      },
+      "challenge": {
+        "en": "Getting drawn into arguments could eat into your focus. Step away from conflicts that do not help your learning or well-being.",
+        "km": "ការត្រូវបានទាញចូលក្នុងការឈ្លោះប្រកែក អាចស៊ីចូលការផ្តោតរបស់អ្នក។ សូមដើរចេញពីជម្លោះដែលមិនជួយការរៀន ឬសុខុមាលភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Rising above conflict could bring calmer, more focused study. You may find your concentration returns as tensions fade.",
+        "km": "ការក្រោកឡើងលើសជម្លោះ អាចនាំមកនូវការសិក្សាស្ងប់ និងផ្តោតជាង។ អ្នកអាចឃើញថាការផ្តោតរបស់អ្នកត្រឡប់មកវិញ នៅពេលភាពតានតឹងធូរស្រាល។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Moving to a calmer study setting may help. Changing where or how you study could bring relief from stress.",
+        "km": "ការផ្លាស់ទៅកន្លែងសិក្សាស្ងប់ជាង អាចជួយ។ ការផ្លាស់ប្តូរកន្លែង ឬរបៀបដែលអ្នកសិក្សា អាចនាំមកនូវការធូរស្រាលពីភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Carrying worries into every session could weigh down your study. Leave distractions at the door, and focus on one task.",
+        "km": "ការយកការព្រួយបារម្ភចូលគ្រប់វគ្គ អាចធ្វើឱ្យការសិក្សារបស់អ្នកធ្ងន់។ សូមទុកការរំខាននៅមាត់ទ្វារ ហើយផ្តោតលើកិច្ចការមួយ។"
+      },
+      "outcome": {
+        "en": "A smoother approach could bring steadier, less stressful progress. You may find study becomes calmer and more productive.",
+        "km": "វិធីសាស្ត្ររលូនជាង អាចនាំមកនូវការរីកចម្រើននឹងនរ និងតានតឹងតិចជាង។ អ្នកអាចឃើញថាការសិក្សាកាន់តែស្ងប់ និងមានផលិតភាពជាង។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Smart strategies may help you study more efficiently. Finding clever shortcuts could save effort without losing quality.",
+        "km": "យុទ្ធសាស្ត្រឆ្លាតវៃ អាចជួយអ្នកសិក្សាប្រកបដោយប្រសិទ្ធភាពជាង។ ការរកផ្លូវកាត់ដ៏ឆ្លាតវៃ អាចសន្សំការខិតខំ ដោយមិនបាត់បង់គុណភាព។"
+      },
+      "challenge": {
+        "en": "Taking dishonest shortcuts could backfire badly. Use smart methods, but never copy, cheat or pass off others' work.",
+        "km": "ការដើរផ្លូវកាត់មិនស្មោះត្រង់ អាចមានផលផ្ទុយយ៉ាងធ្ងន់។ សូមប្រើវិធីសាស្ត្រឆ្លាតវៃ ប៉ុន្តែកុំចម្លង បន្លំ ឬយកការងាររបស់អ្នកដទៃធ្វើជារបស់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Honest, clever study could bring efficient progress. You may achieve good results with less wasted effort.",
+        "km": "ការសិក្សាដោយស្មោះត្រង់ និងឆ្លាតវៃ អាចនាំមកនូវការរីកចម្រើនប្រកបដោយប្រសិទ្ធភាព។ អ្នកអាចសម្រេចលទ្ធផលល្អ ដោយខ្ជះខ្ជាយការខិតខំតិចជាង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Negative beliefs about your ability may be limiting you. Recognising thoughts like \"I'm bad at this\" could be the first step.",
+        "km": "ជំនឿអវិជ្ជមានអំពីសមត្ថភាពរបស់អ្នក អាចកំពុងកំណត់អ្នក។ ការទទួលស្គាល់គំនិតដូចជា \"ខ្ញុំខ្សោយនឹងរឿងនេះ\" អាចជាជំហានដំបូង។"
+      },
+      "challenge": {
+        "en": "Believing you cannot learn something could become true if you stop trying. Challenge that belief directly, and try a different way of learning.",
+        "km": "ការជឿថាអ្នកមិនអាចរៀនអ្វីមួយ អាចក្លាយជាការពិត ប្រសិនបើអ្នកឈប់ព្យាយាម។ សូមជំទាស់នឹងជំនឿនោះដោយផ្ទាល់ ហើយសាកល្បងវិធីរៀនផ្សេង។"
+      },
+      "outcome": {
+        "en": "Freeing yourself from limiting beliefs could transform your study. A subject you wrote off may turn out to be well within your reach.",
+        "km": "ការដោះលែងខ្លួនពីជំនឿដែលកំណត់ព្រំដែន អាចផ្លាស់ប្តូរការសិក្សារបស់អ្នក។ មុខវិជ្ជាដែលអ្នកបានបោះបង់ អាចប្រែជានៅក្នុងដៃរបស់អ្នកយ៉ាងល្អ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Anxiety may be getting in the way of effective study. Noticing how worry affects your focus could help you address it.",
+        "km": "ការថប់បារម្ភ អាចកំពុងរារាំងការសិក្សាប្រកបដោយប្រសិទ្ធភាព។ ការកត់សម្គាល់ថាការព្រួយបារម្ភប៉ះពាល់ការផ្តោតរបស់អ្នកយ៉ាងណា អាចជួយអ្នកដោះស្រាយវា។"
+      },
+      "challenge": {
+        "en": "Studying while very anxious could make it hard to retain anything. Try calming techniques, and seek professional help if anxiety affects your sleep or health.",
+        "km": "ការសិក្សាខណៈពេលថប់បារម្ភខ្លាំង អាចធ្វើឱ្យពិបាកចងចាំអ្វីទាំងអស់។ សូមសាកល្បងបច្ចេកទេសធ្វើឱ្យស្ងប់ ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Managing anxiety could bring calmer, more effective study. You may find you remember more as your mind settles.",
+        "km": "ការគ្រប់គ្រងការថប់បារម្ភ អាចនាំមកនូវការសិក្សាស្ងប់ និងមានប្រសិទ្ធភាពជាង។ អ្នកអាចឃើញថាអ្នកចងចាំបានច្រើនជាង នៅពេលគំនិតរបស់អ្នកស្ងប់។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A painful setback may have left you feeling defeated. Hitting a low point could be the moment to rethink your approach.",
+        "km": "ឧបសគ្គដ៏ឈឺចាប់មួយ អាចបានធ្វើឱ្យអ្នកមានអារម្មណ៍ចាញ់។ ការប៉ះចំណុចទាប អាចជាគ្រាដើម្បីគិតឡើងវិញពីវិធីសាស្ត្ររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Giving up after one failure could close doors unnecessarily. Lean on teachers or friends, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ការបោះបង់ក្រោយការបរាជ័យមួយ អាចបិទទ្វារដោយមិនចាំបាច់។ សូមពឹងផ្អែកលើគ្រូ ឬមិត្តភក្តិ ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Starting over with a new approach could bring real recovery. You may find a method that works far better for you.",
+        "km": "ការចាប់ផ្តើមឡើងវិញជាមួយវិធីសាស្ត្រថ្មី អាចនាំមកនូវការស្តារឡើងវិញពិតប្រាកដ។ អ្នកអាចរកឃើញវិធីសាស្ត្រមួយ ដែលដំណើរការល្អជាងច្រើនសម្រាប់អ្នក។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Curiosity and nimble thinking may be your study strengths. Asking questions and looking things up could deepen your knowledge.",
+        "km": "ការចង់ដឹងចង់ឃើញ និងការគិតរហ័សរហួន អាចជាចំណុចខ្លាំងសិក្សារបស់អ្នក។ ការសួរសំណួរ និងការស្វែងរកព័ត៌មាន អាចធ្វើឱ្យចំណេះដឹងរបស់អ្នកកាន់តែជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Collecting information without organising it could leave you overwhelmed. Summarise what you find in your own words, in one place.",
+        "km": "ការប្រមូលព័ត៌មានដោយមិនរៀបចំវា អាចធ្វើឱ្យអ្នកលើសកម្លាំង។ សូមសង្ខេបអ្វីដែលអ្នករកឃើញ ដោយពាក្យរបស់អ្នកផ្ទាល់ នៅកន្លែងតែមួយ។"
+      },
+      "outcome": {
+        "en": "Curious, organised study could bring sharp understanding. You may become skilled at finding and using information.",
+        "km": "ការសិក្សាដោយចង់ដឹង និងមានរបៀប អាចនាំមកនូវការយល់ដឹងមុតស្រួច។ អ្នកអាចក្លាយជាអ្នកជំនាញក្នុងការស្វែងរក និងប្រើប្រាស់ព័ត៌មាន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Driven, focused study may be your style. Tackling tasks head-on could help you make steady, visible progress.",
+        "km": "ការសិក្សាដោយកម្លាំងជំរុញ និងផ្តោត អាចជារបៀបរបស់អ្នក។ ការដោះស្រាយកិច្ចការដោយផ្ទាល់ អាចជួយអ្នករីកចម្រើនដោយនឹងនរ និងអាចមើលឃើញ។"
+      },
+      "challenge": {
+        "en": "Rushing could lead to careless errors. Slow down enough to check your work for careless errors.",
+        "km": "ការប្រញាប់ អាចនាំទៅរកកំហុសដោយធ្វេសប្រហែស។ សូមបន្ថយល្បឿនគ្រប់គ្រាន់ ដើម្បីពិនិត្យការងាររបស់អ្នករកកំហុសដោយធ្វេសប្រហែស។"
+      },
+      "outcome": {
+        "en": "Determined effort could bring strong progress. You may achieve ambitious goals with energy still to spare.",
+        "km": "ការខិតខំដោយប្តេជ្ញា អាចនាំមកនូវការរីកចម្រើនរឹងមាំ។ អ្នកអាចសម្រេចគោលដៅដ៏មានមហិច្ឆតា ដោយនៅសល់ថាមពល។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Honest self-evaluation may be your study strength. Seeing clearly where you need to improve could guide your effort.",
+        "km": "ការវាយតម្លៃខ្លួនឯងដោយស្មោះត្រង់ អាចជាចំណុចខ្លាំងសិក្សារបស់អ្នក។ ការមើលឃើញយ៉ាងច្បាស់ពីកន្លែងដែលអ្នកត្រូវកែលម្អ អាចដឹកនាំការខិតខំរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Marking yourself harshly could make you dread study. Note one thing you did well beside each mistake you correct.",
+        "km": "ការដាក់ពិន្ទុខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចធ្វើឱ្យអ្នកខ្លាចការសិក្សា។ សូមកត់សម្គាល់រឿងមួយដែលអ្នកធ្វើបានល្អ នៅក្បែរកំហុសនីមួយៗដែលអ្នកកែ។"
+      },
+      "outcome": {
+        "en": "Honest self-checking could make every study session count. You may spend your effort exactly where it makes the biggest difference.",
+        "km": "ការពិនិត្យខ្លួនឯងដោយស្មោះត្រង់ អាចធ្វើឱ្យវគ្គសិក្សានីមួយៗមានតម្លៃ។ អ្នកអាចចំណាយការខិតខំរបស់អ្នក នៅកន្លែងដែលធ្វើឱ្យមានភាពខុសគ្នាធំបំផុត។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Logic and method may be your study tools. A systematic approach could help you master complex material.",
+        "km": "តក្កវិជ្ជា និងវិធីសាស្ត្រ អាចជាឧបករណ៍សិក្សារបស់អ្នក។ វិធីសាស្ត្រជាប្រព័ន្ធ អាចជួយអ្នកស្ទាត់មេរៀនស្មុគស្មាញ។"
+      },
+      "challenge": {
+        "en": "Treating every topic as a formula could hide the bigger picture. Sketch a mind map of each subject to see how the ideas connect.",
+        "km": "ការចាត់ទុកប្រធានបទនីមួយៗជារូបមន្ត អាចលាក់រូបភាពធំ។ សូមគូរផែនទីគំនិតនៃមុខវិជ្ជានីមួយៗ ដើម្បីមើលថាគំនិតភ្ជាប់គ្នាយ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Systematic study could bring authoritative knowledge. You may become an expert others turn to for clear answers.",
+        "km": "ការសិក្សាជាប្រព័ន្ធ អាចនាំមកនូវចំណេះដឹងដែលមានសិទ្ធិអំណាច។ អ្នកអាចក្លាយជាអ្នកជំនាញ ដែលអ្នកដទៃងាកមករកសម្រាប់ចម្លើយច្បាស់លាស់។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical new study resource may be available to you. A good textbook, course or tool could give your learning a solid start.",
+        "km": "ធនធានសិក្សាថ្មីជាក់ស្តែង អាចមានសម្រាប់អ្នក។ សៀវភៅល្អ វគ្គសិក្សា ឬឧបករណ៍មួយ អាចផ្តល់ឱ្យការរៀនរបស់អ្នកនូវការចាប់ផ្តើមរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Overlooking a useful resource could make study harder than it needs to be. Look into what your school, library or community offers for free.",
+        "km": "ការមើលរំលងធនធានដែលមានប្រយោជន៍ អាចធ្វើឱ្យការសិក្សាពិបាកជាងអ្វីដែលចាំបាច់។ សូមពិនិត្យមើលអ្វីដែលសាលា បណ្ណាល័យ ឬសហគមន៍របស់អ្នកផ្តល់ជូនដោយឥតគិតថ្លៃ។"
+      },
+      "outcome": {
+        "en": "A good foundation could bring steady, tangible progress. You may see study habits take root and grow into real skill.",
+        "km": "មូលដ្ឋានល្អ អាចនាំមកនូវការរីកចម្រើនដែលនឹងនរ និងជាក់ស្តែង។ អ្នកអាចឃើញទម្លាប់សិក្សាចាក់ឫស និងលូតលាស់ទៅជាជំនាញពិតប្រាកដ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Juggling study with other commitments may be your reality. Finding a flexible routine could help you keep everything moving.",
+        "km": "ការរក្សាតុល្យភាពការសិក្សាជាមួយការប្តេជ្ញាផ្សេងទៀត អាចជាការពិតរបស់អ្នក។ ការរកឃើញទម្លាប់បត់បែន អាចជួយអ្នករក្សាអ្វីៗទាំងអស់ឱ្យដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Letting other demands crowd out study could leave you behind. Protect small, regular study slots, even in your busiest stretches.",
+        "km": "ការទុកឱ្យតម្រូវការផ្សេងទៀតច្រានការសិក្សាចេញ អាចធ្វើឱ្យអ្នកនៅពីក្រោយ។ សូមការពារពេលសិក្សាតូចៗ និងទៀងទាត់ សូម្បីតែក្នុងដំណាក់កាលរវល់បំផុតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Flexible balance could bring steady progress alongside other duties. You may find you can study well without giving everything else up.",
+        "km": "តុល្យភាពបត់បែន អាចនាំមកនូវការរីកចម្រើននឹងនរ ជាមួយកាតព្វកិច្ចផ្សេងទៀត។ អ្នកអាចឃើញថាអ្នកអាចសិក្សាបានល្អ ដោយមិនចាំបាច់បោះបង់អ្វីផ្សេងទៀត។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Hands-on practice and teamwork may help you learn. Working on projects with others could deepen your skills.",
+        "km": "ការអនុវត្តផ្ទាល់ និងការធ្វើការជាក្រុម អាចជួយអ្នករៀន។ ការធ្វើការលើគម្រោងជាមួយអ្នកដទៃ អាចធ្វើឱ្យជំនាញរបស់អ្នកកាន់តែជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Avoiding feedback could slow your improvement. Show your work to a teacher or peer, and ask how it could be better.",
+        "km": "ការជៀសវាងមតិយោបល់ អាចធ្វើឱ្យការកែលម្អរបស់អ្នកយឺត។ សូមបង្ហាញការងាររបស់អ្នកដល់គ្រូ ឬមិត្តរួមថ្នាក់ ហើយសួរថាតើវាអាចល្អជាងនេះយ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Practical, collaborative study could bring skilled, recognised work. You may produce something you and others are proud of.",
+        "km": "ការសិក្សាជាក់ស្តែង និងរួមគ្នា អាចនាំមកនូវការងារដែលមានជំនាញ និងទទួលស្គាល់។ អ្នកអាចបង្កើតអ្វីមួយដែលអ្នក និងអ្នកដទៃមានមោទនភាព។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "A secure, consistent routine may be your study strength. Sticking with what works could give you stability and confidence.",
+        "km": "ទម្លាប់ដែលមានសុវត្ថិភាព និងស្ថិរភាព អាចជាចំណុចខ្លាំងសិក្សារបស់អ្នក។ ការប្រកាន់ខ្ជាប់អ្វីដែលដំណើរការ អាចផ្តល់ឱ្យអ្នកនូវស្ថិរភាព និងទំនុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Clinging to one method could stop you discovering better ones. Be willing to experiment with something new to learn better.",
+        "km": "ការប្រកាន់ខ្ជាប់វិធីសាស្ត្រមួយ អាចរារាំងអ្នកពីការរកឃើញវិធីសាស្ត្រល្អជាង។ សូមមានឆន្ទៈពិសោធជាមួយអ្វីមួយថ្មី ដើម្បីរៀនបានល្អជាង។"
+      },
+      "outcome": {
+        "en": "Stable habits could bring reliable, well-rooted knowledge. You may build understanding that stays with you and keeps paying off.",
+        "km": "ទម្លាប់ស្ថិរភាព អាចនាំមកនូវចំណេះដឹងដែលអាចទុកចិត្តបាន និងចាក់ឫសល្អ។ អ្នកអាចកសាងការយល់ដឹងដែលនៅជាប់ជាមួយអ្នក និងបន្តផ្តល់ផល។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "A shortage of books, space or quiet may be limiting how well you study. Naming exactly what you lack could be the first step to finding it.",
+        "km": "ការខ្វះសៀវភៅ កន្លែង ឬភាពស្ងប់ស្ងាត់ អាចកំពុងកំណត់ថាអ្នកសិក្សាបានល្អប៉ុណ្ណា។ ការដាក់ឈ្មោះច្បាស់ពីអ្វីដែលអ្នកខ្វះ អាចជាជំហានដំបូងដើម្បីរកវា។"
+      },
+      "challenge": {
+        "en": "Assuming good study needs money could keep you from free options. Try a public library, online lessons or a study group near you.",
+        "km": "ការសន្មតថាការសិក្សាល្អត្រូវការប្រាក់ អាចរារាំងអ្នកពីជម្រើសឥតគិតថ្លៃ។ សូមសាកល្បងបណ្ណាល័យសាធារណៈ មេរៀនអនឡាញ ឬក្រុមសិក្សានៅជិតអ្នក។"
+      },
+      "outcome": {
+        "en": "Finding support could make effective study possible. You may discover help that changes what you can achieve.",
+        "km": "ការរកឃើញការគាំទ្រ អាចធ្វើឱ្យការសិក្សាប្រកបដោយប្រសិទ្ធភាពអាចទៅរួច។ អ្នកអាចរកឃើញជំនួយដែលផ្លាស់ប្តូរអ្វីដែលអ្នកអាចសម្រេចបាន។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Help from a tutor or mentor may boost your study. Accepting guidance could help you progress further than you would alone.",
+        "km": "ជំនួយពីគ្រូបង្រៀនឯកជន ឬអ្នកណែនាំ អាចជំរុញការសិក្សារបស់អ្នក។ ការទទួលយកការណែនាំ អាចជួយអ្នករីកចម្រើនឆ្ងាយជាងការរៀនតែម្នាក់ឯង។"
+      },
+      "challenge": {
+        "en": "Being too proud to ask for help could slow you down. Accept support graciously, and offer help to others too.",
+        "km": "ការមានមោទនភាពពេកក្នុងការសុំជំនួយ អាចធ្វើឱ្យអ្នកយឺត។ សូមទទួលយកការគាំទ្រដោយរីករាយ ហើយផ្តល់ជំនួយដល់អ្នកដទៃផងដែរ។"
+      },
+      "outcome": {
+        "en": "Giving and receiving help could bring shared growth. You may find that teaching others strengthens your own learning.",
+        "km": "ការផ្តល់ និងការទទួលជំនួយ អាចនាំមកនូវការលូតលាស់រួមគ្នា។ អ្នកអាចឃើញថាការបង្រៀនអ្នកដទៃ ពង្រឹងការរៀនរបស់អ្នកផ្ទាល់។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Patience with gradual progress may be your strength. Reviewing what you have achieved could show your methods are working.",
+        "km": "ការអត់ធ្មត់ជាមួយការរីកចម្រើនបន្តិចម្តងៗ អាចជាចំណុចខ្លាំងរបស់អ្នក។ ការពិនិត្យអ្វីដែលអ្នកបានសម្រេច អាចបង្ហាញថាវិធីសាស្ត្ររបស់អ្នកដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Expecting quick results could make you abandon good habits. Track small gains in a notebook so you can see the steady effort adding up.",
+        "km": "ការរំពឹងលទ្ធផលលឿន អាចធ្វើឱ្យអ្នកបោះបង់ទម្លាប់ល្អ។ សូមកត់ត្រាការរីកចម្រើនតូចៗក្នុងសៀវភៅ ដើម្បីឱ្យអ្នកអាចឃើញការខិតខំនឹងនរបូកបន្ថែមគ្នា។"
+      },
+      "outcome": {
+        "en": "Patient study could bring a rewarding harvest of knowledge. You may see your steady effort pay off in clear, measurable results.",
+        "km": "ការសិក្សាដោយអត់ធ្មត់ អាចនាំមកនូវការប្រមូលផលចំណេះដឹងដ៏មានតម្លៃ។ អ្នកអាចឃើញការខិតខំនឹងនររបស់អ្នកបង្កើតផល ជាលទ្ធផលច្បាស់ និងអាចវាស់វែងបាន។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Diligent practice may be your most effective study tool. Repeating exercises and refining skills could build real mastery.",
+        "km": "ការហ្វឹកហាត់ដោយឧស្សាហ៍ អាចជាឧបករណ៍សិក្សាមានប្រសិទ្ធភាពបំផុតរបស់អ្នក។ ការធ្វើលំហាត់ម្តងហើយម្តងទៀត និងការកែលម្អជំនាញ អាចកសាងភាពស្ទាត់ជំនាញពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Repeating the same exercises without thought could waste your effort. Aim each practice session at one specific weakness, and notice when it improves.",
+        "km": "ការធ្វើលំហាត់ដដែលៗដោយគ្មានការគិត អាចខ្ជះខ្ជាយការខិតខំរបស់អ្នក។ សូមតម្រង់វគ្គហ្វឹកហាត់នីមួយៗទៅរកចំណុចខ្សោយជាក់លាក់មួយ ហើយកត់សម្គាល់នៅពេលវាប្រសើរឡើង។"
+      },
+      "outcome": {
+        "en": "Dedicated practice could bring real expertise. You may become highly skilled, with results that show the care you put in.",
+        "km": "ការហ្វឹកហាត់ដោយលះបង់ អាចនាំមកនូវជំនាញពិតប្រាកដ។ អ្នកអាចក្លាយជាអ្នកមានជំនាញខ្ពស់ ជាមួយលទ្ធផលដែលបង្ហាញពីការយកចិត្តទុកដាក់ដែលអ្នកបានដាក់។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Independent study may suit you well. Working at your own pace, in your own space, could help you learn effectively and calmly.",
+        "km": "ការសិក្សាដោយឯករាជ្យ អាចសមនឹងអ្នកល្អ។ ការធ្វើការតាមល្បឿនរបស់អ្នកផ្ទាល់ ក្នុងកន្លែងរបស់អ្នកផ្ទាល់ អាចជួយអ្នករៀនប្រកបដោយប្រសិទ្ធភាព និងស្ងប់។"
+      },
+      "challenge": {
+        "en": "Studying entirely alone could leave blind spots unnoticed. Check your understanding with practice tests or a tutor's honest view.",
+        "km": "ការសិក្សាតែម្នាក់ឯងទាំងស្រុង អាចទុកចំណុចងងឹតមិនត្រូវបានកត់សម្គាល់។ សូមពិនិត្យការយល់ដឹងរបស់អ្នក ជាមួយការប្រឡងហ្វឹកហាត់ ឬទស្សនៈស្មោះត្រង់របស់គ្រូបង្រៀន។"
+      },
+      "outcome": {
+        "en": "Self-directed study could bring independent achievement. You may enjoy the quiet pride of results earned through your own discipline.",
+        "km": "ការសិក្សាដែលដឹកនាំដោយខ្លួនឯង អាចនាំមកនូវសមិទ្ធផលឯករាជ្យ។ អ្នកអាចរីករាយនឹងមោទនភាពស្ងាត់ៗ នៃលទ្ធផលដែលទទួលបានតាមរយៈវិន័យរបស់អ្នកផ្ទាល់។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Support from family may be a strong base for your study. A stable home with room to concentrate could help you learn well.",
+        "km": "ការគាំទ្រពីគ្រួសារ អាចជាមូលដ្ឋានរឹងមាំសម្រាប់ការសិក្សារបស់អ្នក។ ផ្ទះដែលមានស្ថិរភាព និងមានកន្លែងសម្រាប់ផ្តោត អាចជួយអ្នករៀនបានល្អ។"
+      },
+      "challenge": {
+        "en": "Family expectations could make study feel heavy rather than useful. Talk openly about their hopes, and share the goals that matter to you.",
+        "km": "ការរំពឹងទុករបស់គ្រួសារ អាចធ្វើឱ្យការសិក្សាមានអារម្មណ៍ធ្ងន់ ជាជាងមានប្រយោជន៍។ សូមនិយាយដោយបើកចំហអំពីក្តីសង្ឃឹមរបស់ពួកគេ ហើយចែករំលែកគោលដៅដែលសំខាន់ចំពោះអ្នក។"
+      },
+      "outcome": {
+        "en": "Supported study could bring results with deep roots. You may earn qualifications that benefit both you and the people you care for.",
+        "km": "ការសិក្សាដែលមានការគាំទ្រ អាចនាំមកនូវលទ្ធផលដែលមានឫសជ្រៅ។ អ្នកអាចទទួលបានលិខិតបញ្ជាក់ ដែលផ្តល់ប្រយោជន៍ដល់ទាំងអ្នក និងមនុស្សដែលអ្នកយកចិត្តទុកដាក់។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Careful, methodical study may be your strength. Taking clear, detailed notes could help you learn thoroughly and review with ease.",
+        "km": "ការសិក្សាដោយប្រុងប្រយ័ត្ន និងមានរបៀប អាចជាចំណុចខ្លាំងរបស់អ្នក។ ការកត់ចំណាំច្បាស់ និងលម្អិត អាចជួយអ្នករៀនយ៉ាងហ្មត់ចត់ និងរំលឹកមេរៀនដោយងាយស្រួល។"
+      },
+      "challenge": {
+        "en": "Copying out every detail could leave little energy for practice. Highlight only the key points, and spend the saved effort on questions.",
+        "km": "ការចម្លងព័ត៌មានលម្អិតនីមួយៗ អាចទុកថាមពលតិចតួចសម្រាប់ការហ្វឹកហាត់។ សូមគូសបញ្ជាក់តែចំណុចសំខាន់ៗ ហើយចំណាយការខិតខំដែលសន្សំបានលើលំហាត់។"
+      },
+      "outcome": {
+        "en": "Thorough study could bring solid, reliable results. You may build a foundation strong enough to support harder subjects.",
+        "km": "ការសិក្សាយ៉ាងហ្មត់ចត់ អាចនាំមកនូវលទ្ធផលរឹងមាំ និងអាចទុកចិត្តបាន។ អ្នកអាចកសាងមូលដ្ឋានរឹងមាំគ្រប់គ្រាន់ ដើម្បីទ្រទ្រង់មុខវិជ្ជាពិបាកជាង។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Steady, consistent effort may be your study strength. A regular routine, kept even when you do not feel like it, could build knowledge reliably.",
+        "km": "ការខិតខំនឹងនរ និងជាប់លាប់ អាចជាចំណុចខ្លាំងសិក្សារបស់អ្នក។ ទម្លាប់ទៀងទាត់ ដែលរក្សាទុកសូម្បីតែនៅពេលអ្នកមិនចង់ធ្វើ អាចកសាងចំណេះដឹងដោយអាចទុកចិត្តបាន។"
+      },
+      "challenge": {
+        "en": "A fixed routine could start to feel dull and mechanical. Vary the order, place or method a little to keep your study engaging.",
+        "km": "ទម្លាប់ថេរ អាចចាប់ផ្តើមមានអារម្មណ៍ស្ងួត និងដូចម៉ាស៊ីន។ សូមប្តូរលំដាប់ កន្លែង ឬវិធីសាស្ត្របន្តិច ដើម្បីរក្សាការសិក្សារបស់អ្នកឱ្យគួរឱ្យចាប់អារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "Reliable effort could make revision calmer and results steadier. Persistence, rather than frantic bursts of work, may carry you to your goal.",
+        "km": "ការខិតខំដែលអាចទុកចិត្តបាន អាចធ្វើឱ្យការរំលឹកមេរៀនស្ងប់ និងលទ្ធផលនឹងនរជាង។ ការតស៊ូ ជាជាងការធ្វើការប្រញាប់ប្រញាល់ អាចនាំអ្នកទៅដល់គោលដៅ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "A nurturing study environment may help you thrive. A cosy space, good food and a calm mind could all support your learning.",
+        "km": "បរិយាកាសសិក្សាដែលថែទាំ អាចជួយអ្នកឱ្យរីកចម្រើន។ កន្លែងកក់ក្តៅ អាហារល្អ និងគំនិតស្ងប់ អាចគាំទ្រការរៀនរបស់អ្នកទាំងអស់។"
+      },
+      "challenge": {
+        "en": "Caring for everyone else could leave little room for your own study. Set aside protected study slots and let others know about them.",
+        "km": "ការថែទាំអ្នកផ្សេងទាំងអស់ អាចទុកលំហតិចតួចសម្រាប់ការសិក្សារបស់អ្នក។ សូមកំណត់ពេលសិក្សាដែលត្រូវបានការពារ ហើយប្រាប់អ្នកដទៃអំពីវា។"
+      },
+      "outcome": {
+        "en": "Balanced care could bring steady, healthy progress. You may learn well while still looking after yourself and those around you.",
+        "km": "ការថែទាំដែលមានតុល្យភាព អាចនាំមកនូវការរីកចម្រើននឹងនរ និងមានសុខភាពល្អ។ អ្នកអាចរៀនបានល្អ ខណៈពេលនៅតែថែរក្សាខ្លួនឯង និងអ្នកនៅជុំវិញ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Experience and discipline may be your strongest study assets. Habits that have served you well could help you master new material.",
+        "km": "បទពិសោធន៍ និងវិន័យ អាចជាទ្រព្យសម្បត្តិសិក្សាខ្លាំងបំផុតរបស់អ្នក។ ទម្លាប់ដែលបានបម្រើអ្នកល្អ អាចជួយអ្នកស្ទាត់មេរៀនថ្មី។"
+      },
+      "challenge": {
+        "en": "Assuming you already know enough could stall your growth. Stay curious, and test yourself on material you think you have mastered.",
+        "km": "ការសន្មតថាអ្នកដឹងគ្រប់គ្រាន់រួចហើយ អាចធ្វើឱ្យការលូតលាស់របស់អ្នកជាប់គាំង។ សូមរក្សាការចង់ដឹង ហើយសាកល្បងខ្លួនឯងលើមេរៀនដែលអ្នកគិតថាអ្នកស្ទាត់។"
+      },
+      "outcome": {
+        "en": "Mastery could bring authority and new opportunities. You may be asked to teach, tutor or lead others in what you know.",
+        "km": "ភាពស្ទាត់ជំនាញ អាចនាំមកនូវសិទ្ធិអំណាច និងឱកាសថ្មី។ អ្នកអាចត្រូវបានស្នើឱ្យបង្រៀន បង្ហាត់ ឬដឹកនាំអ្នកដទៃក្នុងអ្វីដែលអ្នកដឹង។"
+      }
+    }
+  }
+}
