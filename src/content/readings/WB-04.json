@@ -1,0 +1,1097 @@
+{
+  "questionId": "WB-04",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A fresh, open attitude toward your own needs may be a good starting point. Treating self-care as an adventure rather than a chore could make it easier to begin.",
+        "km": "អាកប្បកិរិយាថ្មី និងបើកចំហចំពោះតម្រូវការរបស់ខ្លួនឯង អាចជាចំណុចចាប់ផ្តើមល្អ។ ការចាត់ទុកការថែរក្សាខ្លួនឯងជាដំណើរផ្សងព្រេង ជាជាងកាតព្វកិច្ច អាចធ្វើឱ្យងាយចាប់ផ្តើមជាងមុន។"
+      },
+      "challenge": {
+        "en": "Trying every new wellness trend could leave you scattered and unsure what helps. Notice which simple practice actually makes you feel better, and keep that one.",
+        "km": "ការសាកល្បងនិន្នាការសុខភាពថ្មីៗគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នករាយប៉ាយ និងមិនប្រាកដថាអ្វីដែលជួយ។ សូមកត់សម្គាល់ថាការអនុវត្តសាមញ្ញណាដែលពិតជាធ្វើឱ្យអ្នកមានអារម្មណ៍ល្អប្រសើរ ហើយរក្សាវាទុក។"
+      },
+      "outcome": {
+        "en": "A playful, curious approach could make caring for yourself feel light and enjoyable. Small experiments may lead you to habits that genuinely suit you.",
+        "km": "វិធីដ៏លេងសើច និងចង់ដឹង អាចធ្វើឱ្យការមើលថែខ្លួនឯងមានអារម្មណ៍ស្រាល និងរីករាយ។ ការសាកល្បងតូចៗ អាចនាំអ្នកទៅរកទម្លាប់ដែលពិតជាសមនឹងអ្នក។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may already have the skills and resources to look after yourself well. Putting them to use for your own benefit, not just others', could be the key.",
+        "km": "អ្នកប្រហែលជាមានជំនាញ និងធនធានរួចហើយ ដើម្បីមើលថែខ្លួនឯងបានល្អ។ ការប្រើវាសម្រាប់ប្រយោជន៍ខ្លួនឯង មិនមែនត្រឹមតែសម្រាប់អ្នកដទៃ អាចជាគន្លឹះ។"
+      },
+      "challenge": {
+        "en": "Spending all your effort on tasks and other people could leave your own needs last. Schedule your self-care with the same intention you bring to work.",
+        "km": "ការចំណាយកិច្ចខិតខំទាំងអស់លើកិច្ចការ និងអ្នកដទៃ អាចធ្វើឱ្យតម្រូវការរបស់អ្នកស្ថិតនៅចុងក្រោយ។ សូមរៀបចំការថែរក្សាខ្លួនឯង ដោយចេតនាដូចដែលអ្នកនាំមកក្នុងការងារ។"
+      },
+      "outcome": {
+        "en": "Focused attention on your wellbeing could produce real, visible results. Feeling capable of caring for yourself may boost your confidence.",
+        "km": "ការយកចិត្តទុកដាក់ផ្តោតលើសុខុមាលភាពរបស់អ្នក អាចបង្កើតលទ្ធផលពិតប្រាកដ និងមើលឃើញ។ ការមានអារម្មណ៍ថាអាចមើលថែខ្លួនឯងបាន អាចបង្កើនទំនុកចិត្តរបស់អ្នក។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Listening to your body and intuition may be your best guide to self-care. Quiet signals like tiredness or tension could tell you what you need.",
+        "km": "ការស្តាប់រាងកាយ និងវិចារណញាណរបស់អ្នក អាចជាការណែនាំល្អបំផុតសម្រាប់ការថែរក្សាខ្លួនឯង។ សញ្ញាស្ងាត់ៗ ដូចជាភាពហត់នឿយ ឬភាពតានតឹង អាចប្រាប់អ្នកពីអ្វីដែលអ្នកត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Overriding your body's signals to keep going could lead to exhaustion. Pause when you notice strain, and see a doctor about any symptom that worries you.",
+        "km": "ការមិនអើពើនឹងសញ្ញារបស់រាងកាយ ដើម្បីបន្តទៅមុខ អាចនាំឱ្យអស់កម្លាំង។ សូមផ្អាកនៅពេលអ្នកកត់សម្គាល់ភាពតានតឹង ហើយជួបវេជ្ជបណ្ឌិតអំពីរោគសញ្ញាណាមួយដែលធ្វើឱ្យអ្នកព្រួយបារម្ភ។"
+      },
+      "outcome": {
+        "en": "Trusting your inner signals could lead to more natural, effective self-care. You may know what you need before you reach the point of burnout.",
+        "km": "ការទុកចិត្តលើសញ្ញាក្នុងខ្លួន អាចនាំទៅរកការថែរក្សាខ្លួនឯងដែលធម្មជាតិ និងមានប្រសិទ្ធភាពជាងមុន។ អ្នកអាចដឹងពីអ្វីដែលអ្នកត្រូវការ មុនពេលឈានដល់ចំណុចអស់កម្លាំង។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Nurturing yourself the way you nurture others may be your natural path to better care. Comfort, nourishing food and moments in nature could be good places to start.",
+        "km": "ការថែរក្សាខ្លួនឯងដូចដែលអ្នកថែរក្សាអ្នកដទៃ អាចជាផ្លូវធម្មជាតិរបស់អ្នកឆ្ពោះទៅរកការថែរក្សាល្អជាងមុន។ ភាពសុខស្រួល អាហារមានជីវជាតិ និងការនៅក្នុងធម្មជាតិ អាចជាកន្លែងល្អដើម្បីចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Giving all your care to others could leave none for you. Treat yourself with the same tenderness you offer the people you love.",
+        "km": "ការផ្តល់ការថែរក្សាទាំងអស់ដល់អ្នកដទៃ អាចមិនទុកអ្វីសម្រាប់អ្នក។ សូមប្រព្រឹត្តចំពោះខ្លួនឯងដោយភាពទន់ភ្លន់ ដូចដែលអ្នកផ្តល់ដល់មនុស្សដែលអ្នកស្រឡាញ់។"
+      },
+      "outcome": {
+        "en": "Gentle self-nurturing could leave you feeling abundant, rested and whole. Your body may respond warmly to the care you give it.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយទន់ភ្លន់ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍បរិបូរណ៍ សម្រាក និងពេញលេញ។ រាងកាយរបស់អ្នក អាចឆ្លើយតបដោយកក់ក្តៅចំពោះការថែរក្សាដែលអ្នកផ្តល់ឱ្យវា។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "A simple, reliable routine may be the backbone of better self-care. Regular sleep, meals and movement could give you a steady foundation.",
+        "km": "ទម្លាប់សាមញ្ញ និងគួរទុកចិត្ត អាចជាឆ្អឹងខ្នងនៃការថែរក្សាខ្លួនឯងល្អជាងមុន។ ការគេង អាហារ និងចលនាជាប្រចាំ អាចផ្តល់ឱ្យអ្នកនូវមូលដ្ឋាននឹងនរ។"
+      },
+      "challenge": {
+        "en": "Making self-care a strict set of rules could turn it into another pressure. Keep the structure, but be kind when you miss a step.",
+        "km": "ការធ្វើឱ្យការថែរក្សាខ្លួនឯងក្លាយជាច្បាប់តឹងរ៉ឹង អាចប្រែវាទៅជាសម្ពាធមួយទៀត។ សូមរក្សារចនាសម្ព័ន្ធ ប៉ុន្តែសប្បុរសចំពោះខ្លួនឯង នៅពេលអ្នករំលងជំហានណាមួយ។"
+      },
+      "outcome": {
+        "en": "A dependable routine could bring stability and steady energy. Looking after yourself may start to feel automatic rather than effortful.",
+        "km": "ទម្លាប់ដែលគួរទុកចិត្ត អាចនាំមកនូវស្ថិរភាព និងថាមពលនឹងនរ។ ការមើលថែខ្លួនឯង អាចចាប់ផ្តើមមានអារម្មណ៍ជាស្វ័យប្រវត្តិ ជាជាងត្រូវខិតខំ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Trusted practices or wise guidance may support your self-care. A teacher, tradition or community could help you stay on track.",
+        "km": "ការអនុវត្តដែលគួរទុកចិត្ត ឬការណែនាំដ៏ឈ្លាសវៃ អាចគាំទ្រការថែរក្សាខ្លួនឯងរបស់អ្នក។ គ្រូ ប្រពៃណី ឬសហគមន៍ អាចជួយអ្នករក្សាផ្លូវត្រូវ។"
+      },
+      "challenge": {
+        "en": "Following advice that does not fit your body or life could leave you frustrated. Respect expert guidance, but adapt it to what you actually need.",
+        "km": "ការធ្វើតាមដំបូន្មានដែលមិនសមនឹងរាងកាយ ឬជីវិតរបស់អ្នក អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមគោរពការណែនាំរបស់អ្នកជំនាញ ប៉ុន្តែសម្របវាទៅតាមអ្វីដែលអ្នកពិតជាត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Meaningful routines could deepen your sense of care and belonging. A supportive group may help you keep habits that last.",
+        "km": "ទម្លាប់ដែលមានអត្ថន័យ អាចធ្វើឱ្យអារម្មណ៍នៃការថែរក្សា និងការជាប់ចំណងរបស់អ្នកកាន់តែជ្រៅ។ ក្រុមដែលគាំទ្រ អាចជួយអ្នករក្សាទម្លាប់ដែលនៅជាប់លាប់។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Choosing what is truly good for you may be the heart of better self-care. Aligning your habits with your values could make them easier to keep.",
+        "km": "ការជ្រើសរើសអ្វីដែលពិតជាល្អសម្រាប់អ្នក អាចជាស្នូលនៃការថែរក្សាខ្លួនឯងល្អជាងមុន។ ការតម្រឹមទម្លាប់របស់អ្នកជាមួយគុណតម្លៃ អាចធ្វើឱ្យវាងាយរក្សាជាងមុន។"
+      },
+      "challenge": {
+        "en": "Saying yes to things that harm your wellbeing could undermine your efforts. Make choices you can feel good about, even when they disappoint others.",
+        "km": "ការយល់ព្រមលើរឿងដែលប៉ះពាល់ដល់សុខុមាលភាពរបស់អ្នក អាចធ្វើឱ្យកិច្ចខិតខំរបស់អ្នកចុះខ្សោយ។ សូមធ្វើជម្រើសដែលអ្នកអាចពេញចិត្ត ទោះបីវាធ្វើឱ្យអ្នកដទៃខកចិត្តក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Living in line with your values could bring a deep sense of wellbeing. Supportive relationships may help you care for yourself more fully.",
+        "km": "ការរស់នៅស្របតាមគុណតម្លៃរបស់អ្នក អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅនៃសុខុមាលភាព។ ទំនាក់ទំនងដែលគាំទ្រ អាចជួយអ្នកថែរក្សាខ្លួនឯងបានពេញលេញជាងមុន។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Determination may help you commit to taking better care of yourself. Treating your health as a goal worth pursuing could keep you motivated.",
+        "km": "ការតាំងចិត្ត អាចជួយអ្នកប្តេជ្ញាថែរក្សាខ្លួនឯងឱ្យបានល្អជាងមុន។ ការចាត់ទុកសុខភាពរបស់អ្នកជាគោលដៅដែលសមនឹងតាមដាន អាចរក្សាការលើកទឹកចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Pushing your body too hard in the name of self-improvement could backfire. Balance hard workouts or strict diets with rest, recovery and enjoyment.",
+        "km": "ការរុញរាងកាយរបស់អ្នកខ្លាំងពេក ក្នុងនាមនៃការកែលម្អខ្លួនឯង អាចមានផលផ្ទុយ។ សូមថ្លឹងការហាត់ប្រាណខ្លាំង ឬរបបអាហារតឹងរ៉ឹង ជាមួយការសម្រាក ការងើបឡើងវិញ និងសេចក្តីរីករាយ។"
+      },
+      "outcome": {
+        "en": "Steady commitment could bring visible progress in your health and energy. Feeling in control of your wellbeing may be deeply rewarding.",
+        "km": "ការប្តេជ្ញាចិត្តនឹងនរ អាចនាំមកនូវវឌ្ឍនភាពដែលមើលឃើញក្នុងសុខភាព និងថាមពលរបស់អ្នក។ ការមានអារម្មណ៍គ្រប់គ្រងសុខុមាលភាពរបស់អ្នកបាន អាចផ្តល់រង្វាន់យ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Gentle patience with yourself may be the strongest form of self-care. Treating your struggles with compassion could help you heal.",
+        "km": "ការអត់ធ្មត់ដោយទន់ភ្លន់ចំពោះខ្លួនឯង អាចជាទម្រង់ដ៏រឹងមាំបំផុតនៃការថែរក្សាខ្លួនឯង។ ការប្រព្រឹត្តចំពោះការតស៊ូរបស់អ្នកដោយមេត្តាធម៌ អាចជួយអ្នកជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Being harsh with yourself when you slip up could undo your progress. Speak to yourself kindly, as you would to someone you love.",
+        "km": "ការតឹងរ៉ឹងជាមួយខ្លួនឯង នៅពេលអ្នកធ្វើខុស អាចបំផ្លាញវឌ្ឍនភាពរបស់អ្នក។ សូមនិយាយជាមួយខ្លួនឯងដោយសប្បុរស ដូចដែលអ្នកនិយាយជាមួយនរណាម្នាក់ដែលអ្នកស្រឡាញ់។"
+      },
+      "outcome": {
+        "en": "Self-compassion could build inner strength and resilience. You may find it easier to keep caring for yourself through hard moments.",
+        "km": "មេត្តាធម៌ចំពោះខ្លួនឯង អាចកសាងកម្លាំងក្នុងចិត្ត និងភាពធន់។ អ្នកអាចរកឃើញថាវាងាយស្រួលជាងមុនក្នុងការបន្តថែរក្សាខ្លួនឯង ឆ្លងកាត់គ្រាលំបាក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Quiet solitude may be an essential part of caring for yourself. Being alone could help you rest, reflect and reconnect with what you need.",
+        "km": "ភាពស្ងាត់តែម្នាក់ឯង អាចជាផ្នែកសំខាន់នៃការមើលថែខ្លួនឯង។ ការនៅម្នាក់ឯង អាចជួយអ្នកសម្រាក ពិចារណា និងភ្ជាប់ឡើងវិញជាមួយអ្វីដែលអ្នកត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Isolating yourself too much could turn rest into loneliness. Plan a call or a visit with a friend alongside your quiet moments.",
+        "km": "ការដាក់ខ្លួនឯកោពេក អាចប្រែការសម្រាកទៅជាភាពឯកា។ សូមគ្រោងការហៅទូរស័ព្ទ ឬការជួបមិត្តភក្តិ រួមជាមួយគ្រាស្ងាត់ៗរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Regular quiet reflection could deepen your self-understanding and calm. You may become better at knowing what you need.",
+        "km": "ការពិចារណាស្ងាត់ៗជាប្រចាំ អាចធ្វើឱ្យការយល់ពីខ្លួនឯង និងភាពស្ងប់របស់អ្នកកាន់តែជ្រៅ។ អ្នកអាចកាន់តែពូកែដឹងពីអ្វីដែលអ្នកត្រូវការ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Accepting that your needs change with circumstances may be key to good self-care. What used to work well could need adjusting to fit your life as it is.",
+        "km": "ការទទួលយកថាតម្រូវការរបស់អ្នកផ្លាស់ប្តូរតាមកាលៈទេសៈ អាចជាគន្លឹះនៃការថែរក្សាខ្លួនឯងល្អ។ អ្វីដែលធ្លាប់មានប្រសិទ្ធភាព អាចត្រូវការការកែសម្រួលឱ្យសមនឹងជីវិតរបស់អ្នកដូចដែលវាជា។"
+      },
+      "challenge": {
+        "en": "Sticking to an old routine that no longer fits could leave you depleted. Adapt your self-care to the situation and body you have.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ចាស់ដែលលែងសម អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមសម្របការថែរក្សាខ្លួនឯងទៅតាមស្ថានភាព និងរាងកាយដែលអ្នកមាន។"
+      },
+      "outcome": {
+        "en": "Flexible self-care could carry you through ups and downs with more ease. A positive turn may bring renewed energy and motivation.",
+        "km": "ការថែរក្សាខ្លួនឯងដែលបត់បែន អាចនាំអ្នកឆ្លងកាត់ការឡើងចុះដោយភាពស្រួលជាងមុន។ ការផ្លាស់ប្តូរវិជ្ជមាន អាចនាំមកនូវថាមពល និងការលើកទឹកចិត្តថ្មី។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Being fair to yourself may be a good place to start. Weighing your needs as seriously as others' could change how you care for yourself.",
+        "km": "ការយុត្តិធម៌ចំពោះខ្លួនឯង អាចជាកន្លែងល្អដើម្បីចាប់ផ្តើម។ ការថ្លឹងតម្រូវការរបស់អ្នកឱ្យធ្ងន់ធ្ងរដូចតម្រូវការរបស់អ្នកដទៃ អាចផ្លាស់ប្តូររបៀបដែលអ្នកមើលថែខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Giving yourself less than you give others could leave you depleted. Take an honest look at whether your own needs get a fair share.",
+        "km": "ការផ្តល់ឱ្យខ្លួនឯងតិចជាងអ្វីដែលអ្នកផ្តល់ឱ្យអ្នកដទៃ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមពិនិត្យដោយស្មោះត្រង់ថា តើតម្រូវការរបស់អ្នកទទួលបានចំណែកយុត្តិធម៌ឬអត់។"
+      },
+      "outcome": {
+        "en": "A balanced approach to giving and receiving could restore your wellbeing. Honest choices about where your energy goes may bring calm and self-respect.",
+        "km": "វិធីដែលមានតុល្យភាពចំពោះការផ្តល់ និងការទទួល អាចស្តារសុខុមាលភាពរបស់អ្នកឡើងវិញ។ ជម្រើសដោយស្មោះត្រង់អំពីកន្លែងដែលថាមពលរបស់អ្នកទៅ អាចនាំមកនូវភាពស្ងប់ និងការគោរពខ្លួនឯង។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Pausing to see your situation differently may open new ways to care for yourself. Letting go of how things should be could reveal what you need.",
+        "km": "ការផ្អាកដើម្បីមើលស្ថានភាពរបស់អ្នកខុសពីមុន អាចបើកវិធីថ្មីៗក្នុងការមើលថែខ្លួនឯង។ ការលែងប្រកាន់របៀបដែលអ្វីៗគួរតែជា អាចបង្ហាញពីអ្វីដែលអ្នកត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Sacrificing your needs for others again and again could leave you stuck. Ask what you would gain by putting yourself first for a change.",
+        "km": "ការលះបង់តម្រូវការរបស់អ្នកសម្រាប់អ្នកដទៃម្តងហើយម្តងទៀត អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមសួរថាតើអ្នកនឹងទទួលបានអ្វី ដោយដាក់ខ្លួនឯងជាអាទិភាពម្តង។"
+      },
+      "outcome": {
+        "en": "A new perspective could bring unexpected relief and fresh energy. Rest may become something you allow rather than earn.",
+        "km": "ទស្សនៈថ្មី អាចនាំមកនូវការធូរស្រាល និងថាមពលថ្មីដែលមិនបានរំពឹងទុក។ ការសម្រាក អាចក្លាយជាអ្វីដែលអ្នកអនុញ្ញាត ជាជាងអ្វីដែលអ្នកត្រូវខិតខំរកបាន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Ending a habit that no longer serves you may be the most caring thing you can do. Making room for healthier patterns could start with letting something go.",
+        "km": "ការបញ្ចប់ទម្លាប់ដែលលែងមានប្រយោជន៍សម្រាប់អ្នក អាចជារឿងដែលបង្ហាញការយកចិត្តទុកដាក់បំផុតដែលអ្នកអាចធ្វើ។ ការទុកលំហសម្រាប់គំរូដែលមានសុខភាពល្អជាងមុន អាចចាប់ផ្តើមដោយការលែងប្រកាន់អ្វីមួយ។"
+      },
+      "challenge": {
+        "en": "Holding on to an old way of living could block real change. Let go of one habit that drains you, and seek support if the change feels hard.",
+        "km": "ការប្រកាន់ខ្ជាប់របៀបរស់នៅចាស់ អាចរារាំងការផ្លាស់ប្តូរពិតប្រាកដ។ សូមលែងប្រកាន់ទម្លាប់មួយដែលបង្ហូរថាមពលរបស់អ្នក ហើយស្វែងរកការគាំទ្រ ប្រសិនបើការផ្លាស់ប្តូរពិបាក។"
+      },
+      "outcome": {
+        "en": "A meaningful change could renew your health and outlook. Letting go may bring space for a fresh, more caring routine.",
+        "km": "ការផ្លាស់ប្តូរដ៏មានអត្ថន័យ អាចធ្វើឱ្យសុខភាព និងទស្សនៈរបស់អ្នកថ្មីឡើងវិញ។ ការលែងប្រកាន់ អាចនាំលំហសម្រាប់ទម្លាប់ថ្មីដែលយកចិត្តទុកដាក់ជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Moderation may be the key to caring for yourself well. Balancing activity, rest and nourishment could keep you steady.",
+        "km": "ភាពល្មមល្មើយ អាចជាគន្លឹះនៃការមើលថែខ្លួនឯងបានល្អ។ ការថ្លឹងសកម្មភាព ការសម្រាក និងអាហារូបត្ថម្ភ អាចរក្សាអ្នកឱ្យនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Going to extremes, even with healthy habits, could throw you off balance. Aim for steady, sustainable changes rather than dramatic ones.",
+        "km": "ការធ្វើហួសហេតុ ទោះបីជាមួយទម្លាប់ល្អក៏ដោយ អាចធ្វើឱ្យអ្នកបាត់តុល្យភាព។ សូមតម្រង់ទៅរកការផ្លាស់ប្តូរដែលនឹងនរ និងអាចទ្រទ្រង់បាន ជាជាងការផ្លាស់ប្តូរធំៗ។"
+      },
+      "outcome": {
+        "en": "Patient, balanced self-care could bring deep harmony between body and mind. Small, consistent steps may add up to real, steady wellbeing.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយអត់ធ្មត់ និងមានតុល្យភាព អាចនាំមកនូវភាពសុខដុមរវាងរាងកាយ និងចិត្ត។ ជំហានតូចៗ និងជាប់លាប់ អាចបូកបញ្ចូលគ្នាទៅជាសុខុមាលភាពពិតប្រាកដ និងនឹងនរ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Recognising an unhealthy habit may be the first step to better self-care. Something you use for comfort could be doing more harm than good.",
+        "km": "ការទទួលស្គាល់ទម្លាប់មិនល្អ អាចជាជំហានដំបូងឆ្ពោះទៅរកការថែរក្សាខ្លួនឯងល្អជាងមុន។ អ្វីមួយដែលអ្នកប្រើដើម្បីលួងលោមចិត្ត អាចកំពុងបង្កគ្រោះថ្នាក់ច្រើនជាងផលល្អ។"
+      },
+      "challenge": {
+        "en": "Using a substance or habit to cope could quietly work against your health. Tell someone you trust, and contact a doctor or support service if you cannot cut back.",
+        "km": "ការប្រើសារធាតុ ឬទម្លាប់មួយដើម្បីទប់ទល់ អាចធ្វើការប្រឆាំងនឹងសុខភាពរបស់អ្នកដោយស្ងាត់ៗ។ សូមប្រាប់នរណាម្នាក់ដែលអ្នកទុកចិត្ត ហើយទាក់ទងវេជ្ជបណ្ឌិត ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមិនអាចកាត់បន្ថយបាន។"
+      },
+      "outcome": {
+        "en": "Breaking free of an unhealthy pattern could transform your wellbeing. You may feel more in control and more respectful of yourself.",
+        "km": "ការរួចផុតពីគំរូមិនល្អ អាចផ្លាស់ប្តូរសុខុមាលភាពរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងបានច្រើនជាងមុន និងគោរពខ្លួនឯងច្រើនជាងមុន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A shake-up may be showing you that your old self-care was not enough. Disruption could be pushing you to rebuild healthier habits.",
+        "km": "ការរង្គោះរង្គើមួយ ប្រហែលជាកំពុងបង្ហាញអ្នកថាការថែរក្សាខ្លួនឯងចាស់មិនគ្រប់គ្រាន់។ ការរំខាន អាចកំពុងជំរុញអ្នកឱ្យកសាងទម្លាប់ល្អជាងមុនឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Ignoring a wake-up call about your health or stress could lead to bigger problems. Take it seriously, and seek professional advice where needed.",
+        "km": "ការមិនអើពើនឹងការដាស់តឿនអំពីសុខភាព ឬភាពតានតឹងរបស់អ្នក អាចនាំទៅរកបញ្ហាធំជាងមុន។ សូមយកវាមកពិចារណាឱ្យធ្ងន់ធ្ងរ ហើយស្វែងរកដំបូន្មានពីអ្នកជំនាញនៅពេលចាំបាច់។"
+      },
+      "outcome": {
+        "en": "Rebuilding through upheaval could lead to stronger, more honest self-care. The changes you make may leave you healthier and more resilient.",
+        "km": "ការកសាងឡើងវិញតាមរយៈការរង្គោះរង្គើ អាចនាំទៅរកការថែរក្សាខ្លួនឯងដែលរឹងមាំ និងស្មោះត្រង់ជាងមុន។ ការផ្លាស់ប្តូរដែលអ្នកធ្វើ អាចធ្វើឱ្យអ្នកមានសុខភាពល្អ និងធន់ជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and gentle renewal may be guiding you toward better self-care. Small acts of kindness to yourself could help you heal.",
+        "km": "ក្តីសង្ឃឹម និងការកកើតឡើងវិញដោយទន់ភ្លន់ អាចកំពុងណែនាំអ្នកឆ្ពោះទៅរកការថែរក្សាខ្លួនឯងល្អជាងមុន។ សកម្មភាពតូចៗនៃសេចក្តីសប្បុរសចំពោះខ្លួនឯង អាចជួយអ្នកជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Believing you are not worth caring for could hold you back. Remind yourself that you deserve the same care you give others.",
+        "km": "ការជឿថាអ្នកមិនសមនឹងទទួលការថែរក្សា អាចរារាំងអ្នក។ សូមរំលឹកខ្លួនឯងថា អ្នកសមនឹងទទួលការថែរក្សាដូចដែលអ្នកផ្តល់ឱ្យអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Hopeful self-care could bring renewal and a quiet sense of peace. You may feel inspired and refreshed in body and spirit.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយក្តីសង្ឃឹម អាចនាំមកនូវការកកើតឡើងវិញ និងអារម្មណ៍ស្ងប់ស្ងាត់។ អ្នកអាចមានអារម្មណ៍មានការបំផុសគំនិត និងស្រស់ស្រាយទាំងរាងកាយ និងស្មារតី។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Paying attention to hidden worries may be part of caring for yourself. Unspoken anxieties could be affecting your sleep and health.",
+        "km": "ការយកចិត្តទុកដាក់លើការព្រួយបារម្ភដែលលាក់កំបាំង អាចជាផ្នែកមួយនៃការមើលថែខ្លួនឯង។ ការថប់បារម្ភដែលមិនបាននិយាយចេញ អាចកំពុងប៉ះពាល់ដល់ការគេង និងសុខភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting anxiety go unaddressed could wear down your wellbeing. Talk to someone you trust, and seek professional help if anxiety affects daily life.",
+        "km": "ការទុកឱ្យការថប់បារម្ភមិនត្រូវបានដោះស្រាយ អាចធ្វើឱ្យសុខុមាលភាពរបស់អ្នកចុះខ្សោយ។ សូមនិយាយជាមួយអ្នកដែលអ្នកទុកចិត្ត ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភប៉ះពាល់ដល់ជីវិតប្រចាំថ្ងៃ។"
+      },
+      "outcome": {
+        "en": "Facing your worries could bring clarity and calmer sleep. Your body and mind may feel more at ease once worries are spoken aloud.",
+        "km": "ការប្រឈមមុខនឹងការព្រួយបារម្ភរបស់អ្នក អាចនាំមកនូវភាពច្បាស់លាស់ និងការគេងដែលស្ងប់ជាងមុន។ រាងកាយ និងចិត្តរបស់អ្នក អាចមានអារម្មណ៍ស្រួលជាងមុន នៅពេលការព្រួយបារម្ភត្រូវបាននិយាយចេញ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Joy, sunlight and play may be powerful forms of self-care for you. Doing things that make you genuinely happy could boost your health.",
+        "km": "សេចក្តីរីករាយ ពន្លឺថ្ងៃ និងការលេង អាចជាទម្រង់ដ៏មានឥទ្ធិពលនៃការថែរក្សាខ្លួនឯងសម្រាប់អ្នក។ ការធ្វើរឿងដែលធ្វើឱ្យអ្នកសប្បាយចិត្តពិតប្រាកដ អាចបង្កើនសុខភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Treating self-care as serious work could drain the fun from it. Include activities you simply enjoy, like dancing, games or a sunny walk.",
+        "km": "ការចាត់ទុកការថែរក្សាខ្លួនឯងជាការងារធ្ងន់ធ្ងរ អាចដកភាពសប្បាយចេញពីវា។ សូមរួមបញ្ចូលសកម្មភាពដែលអ្នកគ្រាន់តែរីករាយ ដូចជាការរាំ ល្បែង ឬការដើរក្រោមពន្លឺថ្ងៃ។"
+      },
+      "outcome": {
+        "en": "Joyful self-care could bring vitality and lightness to your life. You may feel healthier, more confident and more eager to keep caring for yourself.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយរីករាយ អាចនាំភាពរស់រវើក និងភាពស្រាលដល់ជីវិតរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍មានសុខភាពល្អ មានទំនុកចិត្ត និងចង់បន្តថែរក្សាខ្លួនឯងជាងមុន។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "An honest look at how you have been treating yourself may be a turning point. A wake-up call, such as a health scare or burnout, could inspire you to change.",
+        "km": "ការមើលដោយស្មោះត្រង់ពីរបៀបដែលអ្នកបានប្រព្រឹត្តចំពោះខ្លួនឯង អាចជាចំណុចបត់។ ការដាស់តឿនមួយ ដូចជាការភ័យខ្លាចអំពីសុខភាព ឬការអស់កម្លាំងខ្លាំង អាចបំផុសគំនិតអ្នកឱ្យផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Guilt about neglecting yourself could become another burden. Forgive yourself and focus on one caring step you can take.",
+        "km": "អារម្មណ៍ទោសកំហុសចំពោះការមិនអើពើខ្លួនឯង អាចក្លាយជាបន្ទុកមួយទៀត។ សូមអភ័យទោសខ្លួនឯង ហើយផ្តោតលើជំហានយកចិត្តទុកដាក់មួយដែលអ្នកអាចបោះ។"
+      },
+      "outcome": {
+        "en": "Answering a call to change could bring renewal and a healthier way of living. You may feel like you have been given a fresh start.",
+        "km": "ការឆ្លើយតបនឹងការហៅឱ្យផ្លាស់ប្តូរ អាចនាំមកនូវការកកើតឡើងវិញ និងរបៀបរស់នៅដែលមានសុខភាពល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍ដូចជាត្រូវបានផ្តល់ការចាប់ផ្តើមថ្មី។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You may be close to a well-rounded self-care routine. Completing the picture with one missing piece could bring a sense of wholeness.",
+        "km": "អ្នកប្រហែលជាជិតដល់ទម្លាប់ថែរក្សាខ្លួនឯងដែលគ្រប់ជ្រុងជ្រោយ។ ការបំពេញរូបភាពដោយបំណែកមួយដែលខ្វះ អាចនាំមកនូវអារម្មណ៍នៃភាពពេញលេញ។"
+      },
+      "challenge": {
+        "en": "Neglecting one area, such as rest or connection, could leave you feeling incomplete. Look at body, mind and relationships together, and tend the one you have neglected most.",
+        "km": "ការមិនអើពើលើផ្នែកមួយ ដូចជាការសម្រាក ឬទំនាក់ទំនង អាចធ្វើឱ្យអ្នកមានអារម្មណ៍មិនពេញលេញ។ សូមមើលរាងកាយ ចិត្ត និងទំនាក់ទំនងរួមគ្នា ហើយថែរក្សាផ្នែកដែលអ្នកបានមិនអើពើច្រើនជាងគេ។"
+      },
+      "outcome": {
+        "en": "Holistic self-care could bring a deep sense of wellbeing and fulfilment. You may feel balanced and whole, cared for in body, mind and heart.",
+        "km": "ការថែរក្សាខ្លួនឯងគ្រប់ជ្រុងជ្រោយ អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅនៃសុខុមាលភាព និងការបំពេញចិត្ត។ អ្នកអាចមានអារម្មណ៍មានតុល្យភាព និងពេញលេញ ត្រូវបានថែរក្សាទាំងរាងកាយ គំនិត និងចិត្ត។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A burst of fresh motivation may be the spark you need to care for yourself better. Signing up for a class or trying a new sport could feel exciting rather than dutiful.",
+        "km": "ការលើកទឹកចិត្តថ្មីមួយ អាចជាភាពរំភើបដែលអ្នកត្រូវការ ដើម្បីមើលថែខ្លួនឯងបានល្អជាងមុន។ ការចុះឈ្មោះចូលថ្នាក់ ឬការសាកល្បងកីឡាថ្មី អាចមានអារម្មណ៍គួរឱ្យរំភើប ជាជាងជាកាតព្វកិច្ច។"
+      },
+      "challenge": {
+        "en": "Starting too many new routines together could leave them all to fizzle out. Choose one inspiring change and build on it steadily.",
+        "km": "ការចាប់ផ្តើមទម្លាប់ថ្មីៗច្រើនពេកព្រមគ្នា អាចធ្វើឱ្យវាទាំងអស់រលត់បាត់។ សូមជ្រើសការផ្លាស់ប្តូរដែលបំផុសគំនិតមួយ ហើយកសាងវាជាបន្តបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Fresh enthusiasm could make caring for yourself feel energising. A new activity may become a source of joy and vitality.",
+        "km": "ភាពរំភើបថ្មី អាចធ្វើឱ្យការមើលថែខ្លួនឯងផ្តល់ថាមពល។ សកម្មភាពថ្មីមួយ អាចក្លាយជាប្រភពនៃសេចក្តីរីករាយ និងភាពរស់រវើក។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Thinking carefully about what your body and mind need may be a good first step. Writing down two or three self-care goals could make them feel real.",
+        "km": "ការគិតដោយយកចិត្តទុកដាក់អំពីអ្វីដែលរាងកាយ និងចិត្តរបស់អ្នកត្រូវការ អាចជាជំហានដំបូងល្អ។ ការសរសេរគោលដៅថែរក្សាខ្លួនឯងពីរ ឬបី អាចធ្វើឱ្យវាមានអារម្មណ៍ពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Researching the perfect routine could become a way of not starting at all. Choose one small step from your plan, and simply take it.",
+        "km": "ការស្រាវជ្រាវរកទម្លាប់ដែលល្អឥតខ្ចោះ អាចក្លាយជាវិធីមួយដែលមិនដែលចាប់ផ្តើមទម្លាប់ណាមួយ។ សូមជ្រើសជំហានតូចមួយពីផែនការរបស់អ្នក ហើយគ្រាន់តែបោះជំហាននោះ។"
+      },
+      "outcome": {
+        "en": "A clear plan put into action could bring steady progress in your wellbeing. You may feel more in charge of your health and how you spend your energy.",
+        "km": "ផែនការច្បាស់លាស់ដែលបានអនុវត្ត អាចនាំមកនូវវឌ្ឍនភាពនឹងនរក្នុងសុខុមាលភាពរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងសុខភាព និងរបៀបចំណាយថាមពលរបស់អ្នកបានច្រើនជាងមុន។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Looking beyond your usual routine may open up new ways to care for yourself. A trip, a class or a new environment could refresh you.",
+        "km": "ការមើលហួសពីទម្លាប់ធម្មតារបស់អ្នក អាចបើកវិធីថ្មីៗក្នុងការមើលថែខ្លួនឯង។ ដំណើរកម្សាន្ត ថ្នាក់រៀន ឬបរិយាកាសថ្មី អាចធ្វើឱ្យអ្នកស្រស់ស្រាយ។"
+      },
+      "challenge": {
+        "en": "Waiting for the perfect conditions to start looking after yourself could keep your wellbeing on hold. Begin with what is possible where you are, even a short walk around the block.",
+        "km": "ការរង់ចាំលក្ខខណ្ឌល្អឥតខ្ចោះ ដើម្បីចាប់ផ្តើមមើលថែខ្លួនឯង អាចផ្អាកសុខុមាលភាពរបស់អ្នក។ សូមចាប់ផ្តើមជាមួយអ្វីដែលអាចធ្វើបាននៅកន្លែងដែលអ្នកនៅ ទោះបីគ្រាន់តែជាការដើរជុំវិញភូមិក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Broadening your horizons could bring fresh energy and perspective. New experiences, places and people may inspire healthier habits you can bring home.",
+        "km": "ការពង្រីកផ្តេករបស់អ្នក អាចនាំមកនូវថាមពល និងទស្សនៈថ្មី។ បទពិសោធន៍ ទីកន្លែង និងមនុស្សថ្មីៗ អាចបំផុសគំនិតឱ្យមានទម្លាប់ល្អជាងមុន ដែលអ្នកអាចនាំមកផ្ទះ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Your home and loved ones may be central to how you care for yourself. Creating a comfortable, joyful space could support your wellbeing.",
+        "km": "ផ្ទះ និងមនុស្សជាទីស្រឡាញ់ អាចជាស្នូលនៃរបៀបដែលអ្នកមើលថែខ្លួនឯង។ ការបង្កើតកន្លែងដែលសុខស្រួល និងរីករាយ អាចគាំទ្រសុខុមាលភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Saving rest and pleasure for special occasions could leave you depleted. Build small celebrations into your routine, like a favourite meal or an unhurried bath.",
+        "km": "ការទុកការសម្រាក និងសេចក្តីរីករាយសម្រាប់តែឱកាសពិសេស អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមបញ្ចូលការប្រារព្ធតូចៗក្នុងទម្លាប់របស់អ្នក ដូចជាអាហារដែលចូលចិត្ត ឬការងូតទឹកដោយមិនប្រញាប់។"
+      },
+      "outcome": {
+        "en": "A warm, supportive home life could become a steady source of care. Shared meals, laughter and a cosy corner of your own may nourish you deeply.",
+        "km": "ជីវិតនៅផ្ទះដ៏កក់ក្តៅ និងគាំទ្រ អាចក្លាយជាប្រភពនៃការថែរក្សានឹងនរ។ អាហាររួមគ្នា សំណើច និងជ្រុងកក់ក្តៅរបស់អ្នកផ្ទាល់ អាចចិញ្ចឹមចិត្តអ្នកយ៉ាងជ្រាលជ្រៅ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Physical activity may be a healthy outlet for stress and tension. Using your energy in sport or movement could help you feel better.",
+        "km": "សកម្មភាពរាងកាយ អាចជាច្រកចេញដែលមានសុខភាពល្អសម្រាប់ភាពតានតឹង។ ការប្រើថាមពលរបស់អ្នកក្នុងកីឡា ឬចលនា អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។"
+      },
+      "challenge": {
+        "en": "Constant conflict or competition could wear down your wellbeing. Step back from struggles that drain you, and channel that energy into exercise.",
+        "km": "ជម្លោះ ឬការប្រកួតប្រជែងជានិច្ច អាចធ្វើឱ្យសុខុមាលភាពរបស់អ្នកចុះខ្សោយ។ សូមថយក្រោយពីការតស៊ូដែលបង្ហូរថាមពលរបស់អ្នក ហើយតម្រង់ថាមពលនោះទៅក្នុងការហាត់ប្រាណ។"
+      },
+      "outcome": {
+        "en": "Releasing tension through movement could bring calm and better sleep. You may feel stronger, sleep more soundly and snap at people less often.",
+        "km": "ការបញ្ចេញភាពតានតឹងតាមរយៈចលនា អាចនាំមកនូវភាពស្ងប់ និងការគេងល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍ខ្លាំងជាងមុន គេងលក់ស្កប់ជាងមុន ហើយមិនសូវខឹងដាក់មនុស្ស។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Celebrating your progress may motivate you to keep caring for yourself. Recognising small wins, like an extra glass of water or a proper rest, could boost your confidence.",
+        "km": "ការអបអរវឌ្ឍនភាពរបស់អ្នក អាចលើកទឹកចិត្តអ្នកឱ្យបន្តមើលថែខ្លួនឯង។ ការទទួលស្គាល់ជ័យជំនះតូចៗ ដូចជាការផឹកទឹកបន្ថែមមួយកែវ ឬការចូលគេងបានល្អ អាចបង្កើនទំនុកចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Caring for yourself only to impress others could make it feel hollow. Do it because you deserve to feel well, whether or not anyone notices.",
+        "km": "ការមើលថែខ្លួនឯងតែដើម្បីធ្វើឱ្យអ្នកដទៃចាប់អារម្មណ៍ អាចធ្វើឱ្យវាមានអារម្មណ៍ទទេ។ សូមធ្វើវាព្រោះអ្នកសមនឹងមានអារម្មណ៍ល្អ ទោះបីមាននរណាម្នាក់កត់សម្គាល់ឬអត់ក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Self-care that makes you proud could become a habit that sticks. You may enjoy the quiet confidence that comes with feeling truly well.",
+        "km": "ការថែរក្សាខ្លួនឯងដែលធ្វើឱ្យអ្នកមានមោទនភាព អាចក្លាយជាទម្លាប់ដែលនៅជាប់។ អ្នកអាចរីករាយនឹងទំនុកចិត្តស្ងាត់ៗដែលមកជាមួយការមានអារម្មណ៍ល្អពិតប្រាកដ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Protecting your energy and space may be a crucial part of self-care. Standing firm against demands could give you room to rest.",
+        "km": "ការការពារថាមពលរបស់អ្នក អាចជាផ្នែកសំខាន់នៃការថែរក្សាខ្លួនឯង។ ការឈររឹងមាំប្រឆាំងនឹងការទាមទារ អាចផ្តល់លំហឱ្យអ្នកសម្រាក។"
+      },
+      "challenge": {
+        "en": "Saying yes to every request could leave no room for your own care. Turn down what you cannot manage, kindly and without long explanations.",
+        "km": "ការយល់ព្រមលើគ្រប់សំណើ អាចមិនទុកលំហសម្រាប់ការថែរក្សាខ្លួនឯង។ សូមបដិសេធអ្វីដែលអ្នកមិនអាចគ្រប់គ្រងបាន ដោយសប្បុរស និងដោយមិនចាំបាច់ពន្យល់វែងឆ្ងាយ។"
+      },
+      "outcome": {
+        "en": "Firm boundaries could protect your wellbeing and give you more space to rest. Others may learn to respect your needs once you state them clearly.",
+        "km": "ព្រំដែនរឹងមាំ អាចការពារសុខុមាលភាពរបស់អ្នក និងផ្តល់លំហបន្ថែមឱ្យអ្នកសម្រាក។ អ្នកដទៃអាចរៀនគោរពតម្រូវការរបស់អ្នក នៅពេលអ្នកប្រាប់វាឱ្យច្បាស់។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Acting on a good idea for your health without overthinking may help you feel better. One simple change made with enthusiasm could build real momentum.",
+        "km": "ការធ្វើតាមគំនិតល្អសម្រាប់សុខភាពរបស់អ្នក ដោយមិនគិតច្រើនពេក អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ ការផ្លាស់ប្តូរសាមញ្ញមួយដែលធ្វើដោយភាពរំភើប អាចកសាងសន្ទុះពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "A rushed, busy pace could leave no space for real self-care. Slow down enough to notice when you are hungry, tired or stressed.",
+        "km": "ល្បឿនប្រញាប់ប្រញាល់ និងមមាញឹក អាចមិនទុកលំហសម្រាប់ការថែរក្សាខ្លួនឯងពិតប្រាកដ។ សូមបន្ថយល្បឿនល្មមដើម្បីកត់សម្គាល់ នៅពេលអ្នកឃ្លាន ហត់នឿយ ឬតានតឹង។"
+      },
+      "outcome": {
+        "en": "Positive momentum could carry new habits forward with ease. Good energy may build on itself as one healthy choice leads to the next.",
+        "km": "សន្ទុះវិជ្ជមាន អាចនាំទម្លាប់ថ្មីៗទៅមុខដោយភាពស្រួល។ ថាមពលល្អអាចកើនឡើងដោយខ្លួនវា នៅពេលជម្រើសល្អមួយនាំទៅរកជម្រើសបន្ទាប់។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Your resilience may have carried you through a lot, but even resilience needs rest. Acknowledging your tiredness could be the most caring step.",
+        "km": "ភាពធន់របស់អ្នក ប្រហែលជាបាននាំអ្នកឆ្លងកាត់រឿងជាច្រើន ប៉ុន្តែសូម្បីតែភាពធន់ក៏ត្រូវការការសម្រាកដែរ។ ការទទួលស្គាល់ភាពហត់នឿយរបស់អ្នក អាចជាជំហានដែលបង្ហាញការយកចិត្តទុកដាក់បំផុត។"
+      },
+      "challenge": {
+        "en": "Pushing through exhaustion out of habit could lead to burnout. Let yourself rest before you reach your limit, not only once you have passed it.",
+        "km": "ការរុញឆ្លងកាត់ភាពអស់កម្លាំងដោយសារទម្លាប់ អាចនាំឱ្យអស់កម្លាំងខ្លាំង។ សូមអនុញ្ញាតឱ្យខ្លួនឯងសម្រាក មុនពេលអ្នកឈានដល់ដែនកំណត់ មិនមែនតែក្រោយពីអ្នកបានហួសវាទេ។"
+      },
+      "outcome": {
+        "en": "Combining resilience with rest could restore your strength. You may feel ready to face challenges with fresh energy.",
+        "km": "ការរួមបញ្ចូលភាពធន់ជាមួយការសម្រាក អាចស្តារកម្លាំងរបស់អ្នកឡើងវិញ។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនប្រឈមមុខនឹងបញ្ហាប្រឈម ជាមួយថាមពលថ្មី។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Reducing your load may be the most important form of self-care. Too many responsibilities could be crowding out sleep, meals and moments for yourself.",
+        "km": "ការកាត់បន្ថយបន្ទុករបស់អ្នក អាចជាទម្រង់សំខាន់បំផុតនៃការថែរក្សាខ្លួនឯង។ ការទទួលខុសត្រូវច្រើនពេក អាចកំពុងច្រានការគេង អាហារ និងគ្រាសម្រាប់ខ្លួនឯងចេញ។"
+      },
+      "challenge": {
+        "en": "Taking on everything yourself could leave no energy for your own needs. Ask for help and let go of what is not essential.",
+        "km": "ការទទួលយកអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចមិនទុកថាមពលសម្រាប់តម្រូវការរបស់អ្នក។ សូមសុំជំនួយ ហើយលែងប្រកាន់អ្វីដែលមិនចាំបាច់។"
+      },
+      "outcome": {
+        "en": "Lightening your load could bring relief and space to care for yourself. You may feel freer, lighter and more able to enjoy the things you love.",
+        "km": "ការសម្រាលបន្ទុករបស់អ្នក អាចនាំមកនូវការធូរស្រាល និងលំហដើម្បីមើលថែខ្លួនឯង។ អ្នកអាចមានអារម្មណ៍សេរី ស្រាល និងអាចរីករាយនឹងរឿងដែលអ្នកស្រឡាញ់បានច្រើនជាងមុន។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity about new ways to feel good may lead you to better self-care. Trying a new hobby, food or exercise could be fun and refreshing.",
+        "km": "ចិត្តចង់ដឹងអំពីវិធីថ្មីៗដើម្បីមានអារម្មណ៍ល្អ អាចនាំអ្នកទៅរកការថែរក្សាខ្លួនឯងល្អជាងមុន។ ការសាកល្បងចំណូលចិត្ត អាហារ ឬការហាត់ប្រាណថ្មី អាចសប្បាយ និងធ្វើឱ្យស្រស់ស្រាយ។"
+      },
+      "challenge": {
+        "en": "Jumping from one new routine to another could prevent any from sticking. Give one new practice a fair try before moving on.",
+        "km": "ការលោតពីទម្លាប់ថ្មីមួយទៅទម្លាប់មួយទៀត អាចរារាំងទម្លាប់ណាមួយមិនឱ្យនៅជាប់។ សូមផ្តល់ឱកាសដ៏យុត្តិធម៌ដល់ការអនុវត្តថ្មីមួយ មុនពេលបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A playful approach could make self-care feel like a pleasure rather than a duty. Learning something new may lift your spirits and health.",
+        "km": "វិធីដ៏លេងសើច អាចធ្វើឱ្យការថែរក្សាខ្លួនឯងមានអារម្មណ៍ជាសេចក្តីរីករាយ ជាជាងកាតព្វកិច្ច។ ការរៀនអ្វីមួយថ្មី អាចលើកស្មារតី និងសុខភាពរបស់អ្នក។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Energy and enthusiasm may help you make bold changes to your health. Taking decisive action could get you moving with real momentum.",
+        "km": "ថាមពល និងភាពរំភើប អាចជួយអ្នកធ្វើការផ្លាស់ប្តូរដ៏ក្លាហានចំពោះសុខភាពរបស់អ្នក។ ការធ្វើសកម្មភាពដោយម៉ឺងម៉ាត់ អាចធ្វើឱ្យអ្នកចាប់ផ្តើមផ្លាស់ទី។"
+      },
+      "challenge": {
+        "en": "Rushing into intense new routines could lead to injury or burnout. Build up step by step, and listen to your body along the way.",
+        "km": "ការប្រញាប់ចូលទៅក្នុងទម្លាប់ថ្មីៗដ៏ខ្លាំងក្លា អាចនាំឱ្យមានរបួស ឬការអស់កម្លាំងខ្លាំង។ សូមកសាងមួយជំហានម្តងៗ ហើយស្តាប់រាងកាយរបស់អ្នកតាមផ្លូវ។"
+      },
+      "outcome": {
+        "en": "Channelled energy could bring strong, visible improvements in your wellbeing. Active habits, like swimming, cycling or dancing, may leave you feeling vibrant.",
+        "km": "ថាមពលដែលតម្រង់ទិសបានល្អ អាចនាំមកនូវការកែលម្អដ៏រឹងមាំ និងមើលឃើញក្នុងសុខុមាលភាពរបស់អ្នក។ ទម្លាប់សកម្ម ដូចជាការហែលទឹក ការជិះកង់ ឬការរាំ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍រស់រវើក។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Confidence in your own worth may be the foundation of good self-care. Feeling that you deserve to be well could make it easier to prioritise yourself.",
+        "km": "ទំនុកចិត្តលើតម្លៃរបស់ខ្លួនឯង អាចជាមូលដ្ឋាននៃការថែរក្សាខ្លួនឯងល្អ។ ការមានអារម្មណ៍ថាអ្នកសមនឹងមានសុខភាពល្អ អាចធ្វើឱ្យងាយស្រួលជាងមុនក្នុងការដាក់ខ្លួនឯងជាអាទិភាព។"
+      },
+      "challenge": {
+        "en": "Keeping up a confident image could hide how much you need rest. Let the people close to you see when you are struggling, and accept their help.",
+        "km": "ការរក្សារូបភាពដែលមានទំនុកចិត្ត អាចលាក់បាំងថាអ្នកត្រូវការការសម្រាកប៉ុណ្ណា។ សូមឱ្យមនុស្សជិតស្និទ្ធមើលឃើញ នៅពេលអ្នកកំពុងតស៊ូ ហើយទទួលយកជំនួយរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Warm self-respect could bring vitality and joy to your daily life. You may carry yourself with health, warmth and a quiet sense of worth.",
+        "km": "ការគោរពខ្លួនឯងដ៏កក់ក្តៅ អាចនាំភាពរស់រវើក និងសេចក្តីរីករាយដល់ជីវិតប្រចាំថ្ងៃរបស់អ្នក។ អ្នកអាចបង្ហាញខ្លួនដោយសុខភាព ភាពកក់ក្តៅ និងអារម្មណ៍ស្ងាត់ៗនៃតម្លៃខ្លួនឯង។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Taking charge of your health with a clear plan may be your path to better self-care. Treating your wellbeing as a priority could make a real difference.",
+        "km": "ការគ្រប់គ្រងសុខភាពរបស់អ្នកដោយផែនការច្បាស់លាស់ អាចជាផ្លូវរបស់អ្នកឆ្ពោះទៅរកការថែរក្សាខ្លួនឯងល្អជាងមុន។ ការចាត់ទុកសុខុមាលភាពរបស់អ្នកជាអាទិភាព អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Trying to control every aspect of your health could become stressful. Set a clear direction, but leave room for flexibility.",
+        "km": "ការព្យាយាមគ្រប់គ្រងគ្រប់ទិដ្ឋភាពនៃសុខភាពរបស់អ្នក អាចក្លាយជាភាពតានតឹង។ សូមកំណត់ទិសដៅច្បាស់លាស់ ប៉ុន្តែទុកលំហសម្រាប់ភាពបត់បែន។"
+      },
+      "outcome": {
+        "en": "Purposeful self-leadership could bring strong, steady results. You may feel empowered and steadily in control of your own wellbeing.",
+        "km": "ការដឹកនាំខ្លួនឯងដោយមានគោលបំណង អាចនាំមកនូវលទ្ធផលរឹងមាំ។ អ្នកអាចមានអារម្មណ៍មានអំណាច និងគ្រប់គ្រងសុខុមាលភាពរបស់អ្នកបានយ៉ាងនឹងនរ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Opening your heart to yourself may be the beginning of real self-care. Allowing kindness and love to flow inward could transform how you feel.",
+        "km": "ការបើកចិត្តចំពោះខ្លួនឯង អាចជាការចាប់ផ្តើមនៃការថែរក្សាខ្លួនឯងពិតប្រាកដ។ ការអនុញ្ញាតឱ្យសេចក្តីសប្បុរស និងក្តីស្រឡាញ់ហូរចូលក្នុងខ្លួន អាចផ្លាស់ប្តូររបៀបដែលអ្នកមានអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Being closed off to your own feelings could block healing. Allow yourself to feel and express emotions gently, through tears, words or art.",
+        "km": "ការបិទខ្លួនពីអារម្មណ៍របស់ខ្លួនឯង អាចរារាំងការជាសះស្បើយ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ និងបង្ហាញអារម្មណ៍ដោយទន់ភ្លន់ តាមរយៈទឹកភ្នែក ពាក្យសម្តី ឬសិល្បៈ។"
+      },
+      "outcome": {
+        "en": "Self-love could bring renewed warmth and emotional wellbeing. You may feel nourished from the inside out, as if refilled.",
+        "km": "ក្តីស្រឡាញ់ខ្លួនឯង អាចនាំមកនូវភាពកក់ក្តៅថ្មី និងសុខុមាលភាពផ្លូវចិត្ត។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានចិញ្ចឹមពីខាងក្នុងចេញមកក្រៅ ដូចជាត្រូវបានបំពេញឡើងវិញ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Caring relationships may be part of how you care for yourself. Sharing your needs with someone close could help you feel supported.",
+        "km": "ទំនាក់ទំនងដែលយកចិត្តទុកដាក់ អាចជាផ្នែកមួយនៃរបៀបដែលអ្នកមើលថែខ្លួនឯង។ ការចែករំលែកតម្រូវការរបស់អ្នកជាមួយមនុស្សជិតស្និទ្ធ អាចជួយអ្នកឱ្យមានអារម្មណ៍ថាត្រូវបានគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Relying on one person to meet all your needs could leave you vulnerable. Balance support from others with care you give yourself.",
+        "km": "ការពឹងផ្អែកលើមនុស្សម្នាក់ ដើម្បីបំពេញតម្រូវការទាំងអស់របស់អ្នក អាចធ្វើឱ្យអ្នកងាយរងគ្រោះ។ សូមថ្លឹងការគាំទ្រពីអ្នកដទៃ ជាមួយការថែរក្សាដែលអ្នកផ្តល់ឱ្យខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Mutual care could strengthen both your relationships and your wellbeing. You may feel more balanced, less alone and better able to care for yourself.",
+        "km": "ការថែរក្សាគ្នាទៅវិញទៅមក អាចពង្រឹងទាំងទំនាក់ទំនង និងសុខុមាលភាពរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍មានតុល្យភាព មិនសូវឯកោ និងអាចមើលថែខ្លួនឯងបានល្អជាងមុន។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Good friends may be part of your medicine, in the best sense. A shared meal or walk with someone who makes you laugh could lift your mood and health.",
+        "km": "មិត្តល្អ អាចជាផ្នែកមួយនៃថ្នាំរបស់អ្នក ក្នុងន័យល្អបំផុត។ អាហាររួមគ្នា ឬការដើរជាមួយនរណាម្នាក់ដែលធ្វើឱ្យអ្នកសើច អាចលើកអារម្មណ៍ និងសុខភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Overindulging at social events could undo your other efforts. Enjoy company while keeping an eye on food, drink and sleep.",
+        "km": "ការរីករាយហួសហេតុក្នុងព្រឹត្តិការណ៍សង្គម អាចបំផ្លាញកិច្ចខិតខំផ្សេងទៀតរបស់អ្នក។ សូមរីករាយជាមួយមិត្តភក្តិ ខណៈយកចិត្តទុកដាក់លើអាហារ ភេសជ្ជៈ និងការគេង។"
+      },
+      "outcome": {
+        "en": "Joyful connection could boost your wellbeing in body and spirit. Regular laughter with friends may become one of your best habits.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងដ៏រីករាយ អាចបង្កើនសុខុមាលភាពរបស់អ្នកទាំងរាងកាយ និងស្មារតី។ សំណើចជាប្រចាំជាមួយមិត្តភក្តិ អាចក្លាយជាទម្លាប់ល្អបំផុតមួយរបស់អ្នក។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Noticing where you have lost interest may point to what you need. Boredom or apathy could be a sign that your routine needs refreshing.",
+        "km": "ការកត់សម្គាល់កន្លែងដែលអ្នកបានបាត់បង់ចំណាប់អារម្មណ៍ អាចចង្អុលទៅរកអ្វីដែលអ្នកត្រូវការ។ ភាពធុញទ្រាន់ ឬភាពព្រងើយកន្តើយ អាចជាសញ្ញាថាទម្លាប់របស់អ្នកត្រូវការធ្វើឱ្យស្រស់ស្រាយ។"
+      },
+      "challenge": {
+        "en": "Turning down offers of help or comfort could leave you stuck. Accept the support that is offered, even if it is not exactly what you imagined.",
+        "km": "ការបដិសេធការផ្តល់ជំនួយ ឬការលួងលោម អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមទទួលយកការគាំទ្រដែលត្រូវបានផ្តល់ ទោះបីវាមិនដូចអ្វីដែលអ្នកស្រមៃក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Rediscovering what you enjoy could bring fresh energy and motivation. Renewed interest in food, movement or hobbies may make self-care feel natural again.",
+        "km": "ការរកឃើញឡើងវិញនូវអ្វីដែលអ្នករីករាយ អាចនាំមកនូវថាមពល និងការលើកទឹកចិត្តថ្មី។ ចំណាប់អារម្មណ៍ថ្មីលើអាហារ ចលនា ឬចំណូលចិត្ត អាចធ្វើឱ្យការថែរក្សាខ្លួនឯងមានអារម្មណ៍ធម្មជាតិម្តងទៀត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Allowing yourself to grieve may be an important act of self-care. Acknowledging sadness, rather than hurrying past it, could help you begin to heal.",
+        "km": "ការអនុញ្ញាតឱ្យខ្លួនឯងកាន់ទុក្ខ អាចជាសកម្មភាពសំខាន់នៃការថែរក្សាខ្លួនឯង។ ការទទួលស្គាល់ទុក្ខព្រួយ ជាជាងប្រញាប់ដើរកាត់វា អាចជួយអ្នកចាប់ផ្តើមជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Pushing grief aside could let it affect your health in hidden ways. Give yourself permission to feel it, and seek a counsellor's support if it feels heavy.",
+        "km": "ការរុញទុក្ខសោកចោលមួយឡែក អាចធ្វើឱ្យវាប៉ះពាល់ដល់សុខភាពរបស់អ្នកក្នុងរបៀបលាក់កំបាំង។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍វា ហើយស្វែងរកការគាំទ្រពីអ្នកប្រឹក្សា ប្រសិនបើវាធ្ងន់។"
+      },
+      "outcome": {
+        "en": "Gentle acceptance of loss could open the way to healing and renewed energy. You may find comfort in the people, places and memories that remain.",
+        "km": "ការទទួលយកការបាត់បង់ដោយទន់ភ្លន់ អាចបើកផ្លូវទៅរកការជាសះស្បើយ និងថាមពលថ្មី។ អ្នកអាចរកឃើញការលួងលោមក្នុងមនុស្ស ទីកន្លែង និងការចងចាំដែលនៅសល់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Comforts from childhood may still be good ways to care for yourself. Familiar foods, places or activities could soothe you when you feel worn out.",
+        "km": "ភាពសុខស្រួលតាំងពីកុមារភាព អាចនៅតែជាវិធីល្អក្នុងការមើលថែខ្លួនឯង។ អាហារ ទីកន្លែង ឬសកម្មភាពដែលធ្លាប់ស្គាល់ អាចលួងលោមអ្នក នៅពេលអ្នកមានអារម្មណ៍អស់កម្លាំង។"
+      },
+      "challenge": {
+        "en": "Relying only on old comforts could keep you from discovering new ones. Balance familiar pleasures with fresh ways to care for yourself.",
+        "km": "ការពឹងផ្អែកតែលើភាពសុខស្រួលចាស់ៗ អាចរារាំងអ្នកពីការរកឃើញភាពសុខស្រួលថ្មីៗ។ សូមថ្លឹងសេចក្តីរីករាយដែលធ្លាប់ស្គាល់ ជាមួយវិធីថ្មីៗក្នុងការមើលថែខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Gentle nostalgia could bring warmth and playfulness to your self-care. A favourite snack, song or game from childhood may lift your mood surprisingly well.",
+        "km": "ការនឹកដល់អតីតកាលដោយទន់ភ្លន់ អាចនាំភាពកក់ក្តៅ និងភាពលេងសើចដល់ការថែរក្សាខ្លួនឯងរបស់អ្នក។ អាហារសម្រន់ បទចម្រៀង ឬល្បែងដែលចូលចិត្តតាំងពីកុមារភាព អាចលើកអារម្មណ៍របស់អ្នកបានល្អគួរឱ្យភ្ញាក់ផ្អើល។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Too many options for self-care may be leaving you unsure where to start. Sorting through them could help you choose what really helps.",
+        "km": "ជម្រើសច្រើនពេកសម្រាប់ការថែរក្សាខ្លួនឯង ប្រហែលជាធ្វើឱ្យអ្នកមិនប្រាកដថាត្រូវចាប់ផ្តើមពីណា។ ការតម្រៀបវា អាចជួយអ្នកជ្រើសអ្វីដែលពិតជាជួយ។"
+      },
+      "challenge": {
+        "en": "Escaping into distractions instead of real rest could leave you drained. Choose activities that genuinely restore you, such as sleep, nature or a good conversation.",
+        "km": "ការគេចចូលក្នុងការរំខាន ជំនួសឱ្យការសម្រាកពិតប្រាកដ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមជ្រើសសកម្មភាពដែលពិតជាស្តារកម្លាំងអ្នក ដូចជាការគេង ធម្មជាតិ ឬការសន្ទនាល្អ។"
+      },
+      "outcome": {
+        "en": "Clear choices could make self-care simpler and more effective. Focusing on the few practices that work may bring real, noticeable results.",
+        "km": "ជម្រើសច្បាស់លាស់ អាចធ្វើឱ្យការថែរក្សាខ្លួនឯងសាមញ្ញ និងមានប្រសិទ្ធភាពជាងមុន។ ការផ្តោតលើការអនុវត្តមួយចំនួនដែលមានប្រសិទ្ធភាព អាចនាំមកនូវលទ្ធផលពិតប្រាកដ និងគួរឱ្យកត់សម្គាល់។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Walking away from what drains you may be the kindest thing you can do for yourself. Letting go of a draining habit or situation could restore your wellbeing.",
+        "km": "ការដើរចេញពីអ្វីដែលបង្ហូរថាមពលរបស់អ្នក អាចជារឿងសប្បុរសបំផុតដែលអ្នកអាចធ្វើសម្រាប់ខ្លួនឯង។ ការលែងប្រកាន់ទម្លាប់ ឬស្ថានភាពដែលធ្វើឱ្យអស់កម្លាំង អាចស្តារសុខុមាលភាពរបស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Staying in something unhealthy out of obligation could harm your wellbeing. Give yourself permission to move on from what no longer serves you.",
+        "km": "ការនៅក្នុងអ្វីដែលមិនល្អ ដោយសារកាតព្វកិច្ច អាចប៉ះពាល់ដល់សុខុមាលភាពរបស់អ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងបន្តទៅមុខពីអ្វីដែលលែងមានប្រយោជន៍សម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Choosing what truly nourishes you could bring deeper fulfilment and health. A more meaningful path, even a small change of routine, may restore your energy.",
+        "km": "ការជ្រើសរើសអ្វីដែលពិតជាចិញ្ចឹមចិត្តអ្នក អាចនាំមកនូវការបំពេញចិត្ត និងសុខភាពកាន់តែជ្រៅ។ ផ្លូវដែលមានអត្ថន័យជាងមុន ទោះបីគ្រាន់តែជាការប្តូរទម្លាប់តូចមួយក៏ដោយ អាចស្តារថាមពលរបស់អ្នកឡើងវិញ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Enjoying simple pleasures may be a genuine form of self-care. Treating yourself kindly could lift your mood and wellbeing.",
+        "km": "ការរីករាយនឹងសេចក្តីរីករាយសាមញ្ញៗ អាចជាទម្រង់ពិតប្រាកដនៃការថែរក្សាខ្លួនឯង។ ការប្រព្រឹត្តចំពោះខ្លួនឯងដោយសប្បុរស អាចលើកអារម្មណ៍ និងសុខុមាលភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Confusing indulgence with self-care could leave you feeling worse. Choose treats that nourish you rather than just numb you.",
+        "km": "ការច្រឡំការបណ្តោយចិត្តជាមួយការថែរក្សាខ្លួនឯង អាចធ្វើឱ្យអ្នកមានអារម្មណ៍អាក្រក់ជាងមុន។ សូមជ្រើសរបស់ល្អៗដែលចិញ្ចឹមចិត្តអ្នក ជាជាងគ្រាន់តែធ្វើឱ្យអ្នកស្ពឹក។"
+      },
+      "outcome": {
+        "en": "Balanced enjoyment could bring contentment and steady wellbeing. You may feel satisfied in body and spirit, without the guilt that follows excess.",
+        "km": "ការរីករាយដែលមានតុល្យភាព អាចនាំមកនូវសេចក្តីពេញចិត្ត និងសុខុមាលភាពនឹងនរ។ អ្នកអាចមានអារម្មណ៍ពេញចិត្តទាំងរាងកាយ និងស្មារតី ដោយគ្មានអារម្មណ៍ទោសកំហុសដែលកើតឡើងពីការហួសហេតុ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "A loving home and family may be central to your wellbeing. Spending relaxed moments with loved ones could restore you.",
+        "km": "ផ្ទះ និងគ្រួសារដែលពោរពេញដោយក្តីស្រឡាញ់ អាចជាស្នូលនៃសុខុមាលភាពរបស់អ្នក។ ការចំណាយគ្រាដ៏សម្រាកជាមួយមនុស្សជាទីស្រឡាញ់ អាចស្តារកម្លាំងអ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Caring for family at the expense of yourself could leave you depleted. Make sure your needs are part of the family picture too.",
+        "km": "ការមើលថែគ្រួសារ ដោយលះបង់ខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមប្រាកដថាតម្រូវការរបស់អ្នកក៏ជាផ្នែកមួយនៃរូបភាពគ្រួសារដែរ។"
+      },
+      "outcome": {
+        "en": "A harmonious home life could bring deep emotional wellbeing. You may feel loved, supported and at peace in the place you call home.",
+        "km": "ជីវិតគ្រួសារដែលសុខដុម អាចនាំមកនូវសុខុមាលភាពផ្លូវចិត្តដ៏ជ្រាលជ្រៅ។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានស្រឡាញ់ គាំទ្រ និងស្ងប់ នៅកន្លែងដែលអ្នកហៅថាផ្ទះ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Gentle, creative activities may be a natural way for you to care for yourself. Drawing, singing or writing in a journal could soothe feelings that are hard to say aloud.",
+        "km": "សកម្មភាពច្នៃប្រឌិតដ៏ទន់ភ្លន់ អាចជាវិធីធម្មជាតិសម្រាប់អ្នកក្នុងការមើលថែខ្លួនឯង។ ការគូររូប ការច្រៀង ឬការសរសេរកំណត់ហេតុ អាចលួងលោមអារម្មណ៍ដែលពិបាកនិយាយចេញ។"
+      },
+      "challenge": {
+        "en": "Brushing off your feelings as too sensitive could leave them unattended. Treat your emotions with the same care you would give a child.",
+        "km": "ការមើលរំលងអារម្មណ៍របស់អ្នកថារសើបពេក អាចធ្វើឱ្យវាមិនត្រូវបានយកចិត្តទុកដាក់។ សូមប្រព្រឹត្តចំពោះអារម្មណ៍របស់អ្នក ដោយការយកចិត្តទុកដាក់ដូចដែលអ្នកផ្តល់ឱ្យកុមារ។"
+      },
+      "outcome": {
+        "en": "Creative self-expression could bring comfort and emotional balance. A small, regular ritual of making something may lift your spirits.",
+        "km": "ការបង្ហាញខ្លួនឯងដោយច្នៃប្រឌិត អាចនាំមកនូវការលួងលោម និងតុល្យភាពផ្លូវចិត្ត។ ទម្លាប់តូចៗនៃការបង្កើតអ្វីមួយ អាចលើកស្មារតីរបស់អ្នក។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Following your heart toward what feels nourishing may guide your self-care. Flowers, soft music and other gentle pleasures could restore you more than you expect.",
+        "km": "ការធ្វើតាមចិត្តរបស់អ្នកឆ្ពោះទៅរកអ្វីដែលចិញ្ចឹមចិត្ត អាចណែនាំការថែរក្សាខ្លួនឯងរបស់អ្នក។ ផ្កា តន្ត្រីទន់ៗ និងសេចក្តីរីករាយទន់ភ្លន់ផ្សេងទៀត អាចស្តារកម្លាំងអ្នកច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      },
+      "challenge": {
+        "en": "Waiting to feel inspired before caring for yourself could leave needs unmet. Build gentle habits that do not depend on your mood.",
+        "km": "ការរង់ចាំឱ្យមានការបំផុសគំនិត មុនពេលមើលថែខ្លួនឯង អាចធ្វើឱ្យតម្រូវការមិនត្រូវបានបំពេញ។ សូមកសាងទម្លាប់ទន់ភ្លន់ដែលមិនពឹងផ្អែកលើអារម្មណ៍របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Heart-led self-care could bring grace and emotional nourishment. You may feel more in touch with what makes you feel alive.",
+        "km": "ការថែរក្សាខ្លួនឯងដែលដឹកនាំដោយចិត្ត អាចនាំមកនូវភាពថ្លៃថ្នូ និងការចិញ្ចឹមចិត្ត។ អ្នកអាចមានអារម្មណ៍ស្គាល់អ្វីដែលធ្វើឱ្យអ្នករស់រវើកកាន់តែច្បាស់។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Being as gentle with yourself as you are with others may be the heart of self-care. Asking yourself what you need, as a caring friend would, could guide you.",
+        "km": "ការទន់ភ្លន់ចំពោះខ្លួនឯង ដូចដែលអ្នកទន់ភ្លន់ចំពោះអ្នកដទៃ អាចជាស្នូលនៃការថែរក្សាខ្លួនឯង។ ការសួរខ្លួនឯងថាអ្នកត្រូវការអ្វី ដូចមិត្តដែលយកចិត្តទុកដាក់ម្នាក់ អាចណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Caring deeply for others while neglecting yourself could drain you. Offer yourself the same gentle attention you give the people you love.",
+        "km": "ការយកចិត្តទុកដាក់យ៉ាងជ្រាលជ្រៅចំពោះអ្នកដទៃ ខណៈមិនអើពើខ្លួនឯង អាចបង្ហូរថាមពលរបស់អ្នក។ សូមផ្តល់ការយកចិត្តទុកដាក់ទន់ភ្លន់ដល់ខ្លួនឯង ដូចដែលអ្នកផ្តល់ដល់មនុស្សដែលអ្នកស្រឡាញ់។"
+      },
+      "outcome": {
+        "en": "Self-compassion could bring deep emotional security and calm. You may feel safe, steady and cared for from within, whatever happens around you.",
+        "km": "មេត្តាធម៌ចំពោះខ្លួនឯង អាចនាំមកនូវសុវត្ថិភាពផ្លូវចិត្ត និងភាពស្ងប់ដ៏ជ្រាលជ្រៅ។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាព នឹងនរ និងត្រូវបានថែរក្សាពីខាងក្នុង ទោះមានអ្វីកើតឡើងនៅជុំវិញអ្នកក៏ដោយ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm emotional balance may help you care for yourself wisely. Staying steady through ups and downs could protect your wellbeing.",
+        "km": "តុល្យភាពផ្លូវចិត្តដ៏ស្ងប់ អាចជួយអ្នកមើលថែខ្លួនឯងដោយឈ្លាសវៃ។ ការរក្សាភាពនឹងនរឆ្លងកាត់ការឡើងចុះ អាចការពារសុខុមាលភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding emotions in to stay composed could take a hidden toll on your body. Make space to express what you feel in healthy ways.",
+        "km": "ការទប់អារម្មណ៍ដើម្បីរក្សាភាពស្ងប់ អាចធ្វើឱ្យរាងកាយរបស់អ្នករងផលប៉ះពាល់ដោយលាក់កំបាំង។ សូមទុកលំហដើម្បីបង្ហាញអ្វីដែលអ្នកមានអារម្មណ៍ក្នុងរបៀបដែលមានសុខភាពល្អ។"
+      },
+      "outcome": {
+        "en": "Emotional maturity could bring steady wellbeing and wise choices. You may handle stress with calm and care, and recover from it more easily.",
+        "km": "ភាពចាស់ទុំផ្លូវចិត្ត អាចនាំមកនូវសុខុមាលភាពនឹងនរ និងជម្រើសដ៏ឈ្លាសវៃ។ អ្នកអាចដោះស្រាយភាពតានតឹងដោយភាពស្ងប់ និងការយកចិត្តទុកដាក់ ហើយងើបពីវាបានងាយជាងមុន។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Clear thinking about your health and needs may guide better self-care. An honest assessment could show you what to change first.",
+        "km": "ការគិតច្បាស់លាស់អំពីសុខភាព និងតម្រូវការរបស់អ្នក អាចណែនាំការថែរក្សាខ្លួនឯងល្អជាងមុន។ ការវាយតម្លៃដោយស្មោះត្រង់ អាចបង្ហាញអ្នកពីអ្វីដែលត្រូវផ្លាស់ប្តូរមុនគេ។"
+      },
+      "challenge": {
+        "en": "Overanalysing every health choice could create stress rather than wellbeing. Make a clear decision and stick with it for a fair trial.",
+        "km": "ការវិភាគហួសហេតុលើជម្រើសសុខភាពនីមួយៗ អាចបង្កើតភាពតានតឹង ជាជាងសុខុមាលភាព។ សូមធ្វើការសម្រេចចិត្តច្បាស់លាស់ ហើយប្រកាន់ខ្ជាប់វាសម្រាប់ការសាកល្បងដ៏យុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "Clear choices could bring real improvements in how you feel. Understanding what you actually need may make self-care simpler and far less confusing.",
+        "km": "ជម្រើសច្បាស់លាស់ អាចនាំមកនូវការកែលម្អពិតប្រាកដក្នុងរបៀបដែលអ្នកមានអារម្មណ៍។ ការយល់ពីអ្វីដែលអ្នកពិតជាត្រូវការ អាចធ្វើឱ្យការថែរក្សាខ្លួនឯងសាមញ្ញ និងមិនសូវច្របូកច្របល់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "A decision you have been avoiding may be affecting your wellbeing. Facing it could free up energy that you can then spend on caring for yourself.",
+        "km": "ការសម្រេចចិត្តដែលអ្នកបានគេចវេស ប្រហែលជាកំពុងប៉ះពាល់ដល់សុខុមាលភាពរបស់អ្នក។ ការប្រឈមមុខនឹងវា អាចដោះលែងថាមពលដែលអ្នកអាចចំណាយលើការមើលថែខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Staying stuck between options could keep you tense. Gather the information you need, including professional advice, and decide.",
+        "km": "ការជាប់គាំងរវាងជម្រើស អាចធ្វើឱ្យអ្នកតានតឹង។ សូមប្រមូលព័ត៌មានដែលអ្នកត្រូវការ រួមទាំងដំបូន្មានពីអ្នកជំនាញ ហើយសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Making a clear choice could bring relief and renewed focus on your health. You may feel lighter and more able to look after yourself once it is settled.",
+        "km": "ការធ្វើជម្រើសច្បាស់លាស់ អាចនាំមកនូវការធូរស្រាល និងការផ្តោតថ្មីលើសុខភាពរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ស្រាល និងអាចមើលថែខ្លួនឯងបានល្អជាងមុន នៅពេលវាត្រូវបានដោះស្រាយ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Tending to emotional pain may be an important part of caring for yourself. Acknowledging hurt could be the first step toward healing.",
+        "km": "ការយកចិត្តទុកដាក់លើការឈឺចាប់ផ្លូវចិត្ត អាចជាផ្នែកសំខាន់នៃការមើលថែខ្លួនឯង។ ការទទួលស្គាល់ការឈឺចាប់ អាចជាជំហានដំបូងឆ្ពោះទៅរកការជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Ignoring heartache could let it affect your health and sleep. Express your feelings safely, and seek a counsellor if the pain feels overwhelming.",
+        "km": "ការមិនអើពើនឹងការខូចចិត្ត អាចធ្វើឱ្យវាប៉ះពាល់ដល់សុខភាព និងការគេងរបស់អ្នក។ សូមបង្ហាញអារម្មណ៍របស់អ្នកដោយសុវត្ថិភាព ហើយស្វែងរកអ្នកប្រឹក្សា ប្រសិនបើការឈឺចាប់ខ្លាំងពេក។"
+      },
+      "outcome": {
+        "en": "Allowing healing could restore your emotional and physical wellbeing. Your heart may mend as you treat yourself gently.",
+        "km": "ការអនុញ្ញាតឱ្យមានការជាសះស្បើយ អាចស្តារសុខុមាលភាពផ្លូវចិត្ត និងរាងកាយរបស់អ្នកឡើងវិញ។ ចិត្តរបស់អ្នកអាចជាសះស្បើយ នៅពេលអ្នកប្រព្រឹត្តចំពោះខ្លួនឯងដោយទន់ភ្លន់។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Proper rest may be the single most important thing you can do for yourself. Sleep and quiet recovery could restore your body and mind.",
+        "km": "ការសម្រាកឱ្យបានត្រឹមត្រូវ អាចជារឿងសំខាន់បំផុតតែមួយដែលអ្នកអាចធ្វើសម្រាប់ខ្លួនឯង។ ការគេង និងការងើបឡើងវិញស្ងាត់ៗ អាចស្តាររាងកាយ និងចិត្តរបស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Feeling guilty about resting could stop you from recovering properly. Treat rest as a necessity, not a luxury you must earn.",
+        "km": "ការមានអារម្មណ៍ទោសកំហុសអំពីការសម្រាក អាចរារាំងអ្នកពីការងើបឡើងវិញឱ្យបានត្រឹមត្រូវ។ សូមចាត់ទុកការសម្រាកជាតម្រូវការចាំបាច់ មិនមែនជាភាពប្រណីតដែលអ្នកត្រូវខិតខំរកនោះទេ។"
+      },
+      "outcome": {
+        "en": "Regular, deep rest could bring renewed energy and clarity. You may feel more resilient and better able to cope with demands.",
+        "km": "ការសម្រាកជ្រៅ និងទៀងទាត់ អាចនាំមកនូវថាមពល និងភាពច្បាស់លាស់ថ្មី។ អ្នកអាចមានអារម្មណ៍ធន់ និងអាចទប់ទល់នឹងការទាមទារបានល្អជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Stepping back from draining conflicts may be a form of self-care. Choosing peace over winning could protect your health, sleep and good humour.",
+        "km": "ការថយក្រោយពីជម្លោះដែលធ្វើឱ្យអស់កម្លាំង អាចជាទម្រង់មួយនៃការថែរក្សាខ្លួនឯង។ ការជ្រើសសន្តិភាពជាងការឈ្នះ អាចការពារសុខភាព ការគេង និងអារម្មណ៍ល្អរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding onto grudges could keep your body tense and your mind restless. Let go of battles that cost more than they are worth.",
+        "km": "ការប្រកាន់ការចងគំនុំ អាចធ្វើឱ្យរាងកាយរបស់អ្នកតានតឹង និងគំនិតរបស់អ្នកមិនស្ងប់។ សូមលែងប្រកាន់ការតស៊ូដែលខាតច្រើនជាងតម្លៃរបស់វា។"
+      },
+      "outcome": {
+        "en": "Letting go of conflict could bring calm and better rest. You may feel lighter and more at peace with yourself.",
+        "km": "ការលែងប្រកាន់ជម្លោះ អាចនាំមកនូវភាពស្ងប់ និងការសម្រាកល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍ស្រាល និងស្ងប់ជាមួយខ្លួនឯងជាងមុន។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Moving away from stress toward calmer waters may be part of caring for yourself. Small changes, made one by one, could help your body and mind recover.",
+        "km": "ការផ្លាស់ចេញពីភាពតានតឹង ឆ្ពោះទៅរកទឹកដែលស្ងប់ជាងមុន អាចជាផ្នែកមួយនៃការមើលថែខ្លួនឯង។ ការផ្លាស់ប្តូរតូចៗ ដែលធ្វើម្តងមួយៗ អាចជួយរាងកាយ និងចិត្តរបស់អ្នកងើបឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Bringing old stress into new routines could slow your healing. Notice the worries you still carry, and set at least one of them down.",
+        "km": "ការនាំភាពតានតឹងចាស់ៗចូលក្នុងទម្លាប់ថ្មី អាចបន្ថយការជាសះស្បើយរបស់អ្នក។ សូមកត់សម្គាល់ការព្រួយបារម្ភដែលអ្នកនៅតែកាន់ ហើយដាក់យ៉ាងហោចណាស់មួយចុះ។"
+      },
+      "outcome": {
+        "en": "Steady progress away from stress could bring deep relief. You may feel calmer and more rested with each step.",
+        "km": "វឌ្ឍនភាពនឹងនរឆ្ងាយពីភាពតានតឹង អាចនាំមកនូវការធូរស្រាលដ៏រឹងមាំ។ អ្នកអាចមានអារម្មណ៍ស្ងប់ និងបានសម្រាកជាងមុន ជាមួយជំហាននីមួយៗ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Taking an honest look at habits you would rather not examine may be real self-care. A symptom or pattern you keep ignoring could need attention.",
+        "km": "ការមើលដោយស្មោះត្រង់លើទម្លាប់ដែលអ្នកមិនចង់ពិនិត្យ អាចជាការថែរក្សាខ្លួនឯងពិតប្រាកដ។ រោគសញ្ញា ឬគំរូដែលអ្នកចេះតែមិនអើពើ អាចត្រូវការការយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Avoiding a health check or difficult truth could let problems grow. Face what you have been avoiding, including seeing a doctor if you have concerns.",
+        "km": "ការគេចពីការពិនិត្យសុខភាព ឬការពិតដ៏លំបាក អាចធ្វើឱ្យបញ្ហារីកធំ។ សូមប្រឈមមុខនឹងអ្វីដែលអ្នកបានគេចវេស រួមទាំងការជួបវេជ្ជបណ្ឌិត ប្រសិនបើអ្នកមានការព្រួយបារម្ភ។"
+      },
+      "outcome": {
+        "en": "Honesty with yourself could bring relief and better choices. You may feel more in control once nothing about your health is hidden from you.",
+        "km": "ភាពស្មោះត្រង់ជាមួយខ្លួនឯង អាចនាំមកនូវការធូរស្រាល និងជម្រើសល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងបានច្រើនជាងមុន នៅពេលគ្មានអ្វីអំពីសុខភាពរបស់អ្នកត្រូវបានលាក់ពីអ្នក។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Questioning the limits you place on yourself may open new ways to care for yourself. You may have more choices about rest, food and movement than you think.",
+        "km": "ការចោទសួរដែនកំណត់ដែលអ្នកដាក់លើខ្លួនឯង អាចបើកវិធីថ្មីៗក្នុងការមើលថែខ្លួនឯង។ អ្នកប្រហែលជាមានជម្រើសអំពីការសម្រាក អាហារ និងចលនា ច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "Believing you have no room or right to care for yourself could keep you stuck. Challenge that thought, and seek support if you feel trapped or hopeless.",
+        "km": "ការជឿថាអ្នកគ្មានឱកាស ឬសិទ្ធិក្នុងការមើលថែខ្លួនឯង អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមចោទសួរគំនិតនោះ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍ជាប់អន្ទាក់ ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Recognising your freedom could open up real possibilities for self-care. Small acts of kindness may loosen the sense of being trapped.",
+        "km": "ការទទួលស្គាល់សេរីភាពរបស់អ្នក អាចបើកលទ្ធភាពពិតប្រាកដសម្រាប់ការថែរក្សាខ្លួនឯង។ សកម្មភាពតូចៗនៃសេចក្តីសប្បុរស អាចបន្ធូរអារម្មណ៍ជាប់អន្ទាក់។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Caring for your mind may be as important as caring for your body. Racing thoughts and worries could be affecting your sleep, appetite and health.",
+        "km": "ការមើលថែគំនិតរបស់អ្នក អាចសំខាន់ដូចការមើលថែរាងកាយរបស់អ្នក។ គំនិតរត់លឿន និងការព្រួយបារម្ភ អាចកំពុងប៉ះពាល់ដល់ការគេង ចំណង់អាហារ និងសុខភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting anxiety go unchecked could wear down your wellbeing. Talk to someone you trust, and seek professional help if worry affects your sleep or health.",
+        "km": "ការទុកឱ្យការថប់បារម្ភមិនត្រូវបានពិនិត្យ អាចធ្វើឱ្យសុខុមាលភាពរបស់អ្នកចុះខ្សោយ។ សូមនិយាយជាមួយអ្នកដែលអ្នកទុកចិត្ត ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការព្រួយបារម្ភប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Calming an anxious mind could do as much for your health as any diet or workout. You may feel lighter and sleep more soundly as worries lose their grip.",
+        "km": "ការធ្វើឱ្យគំនិតថប់បារម្ភស្ងប់ អាចជួយសុខភាពរបស់អ្នកបានច្រើនដូចរបបអាហារ ឬការហាត់ប្រាណណាមួយ។ អ្នកអាចមានអារម្មណ៍ស្រាល និងគេងលក់ស្កប់ជាងមុន នៅពេលការព្រួយបារម្ភបាត់បង់ការក្តាប់របស់វា។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Reaching a point of exhaustion may be a clear signal that you need care. Admitting you cannot go on as before could be the first step.",
+        "km": "ការឈានដល់ចំណុចនៃការអស់កម្លាំង អាចជាសញ្ញាច្បាស់លាស់ថាអ្នកត្រូវការការថែរក្សា។ ការទទួលស្គាល់ថាអ្នកមិនអាចបន្តដូចមុនបាន អាចជាជំហានដំបូង។"
+      },
+      "challenge": {
+        "en": "Treating collapse as something to push through could put your health at serious risk. Stop, ask for help, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ការចាត់ទុកការដួលរលំជាអ្វីដែលត្រូវរុញឆ្លងកាត់ អាចធ្វើឱ្យសុខភាពរបស់អ្នកប្រឈមនឹងហានិភ័យធ្ងន់ធ្ងរ។ សូមឈប់ សុំជំនួយ ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Hitting bottom could become the turning point toward real self-care. With support, you may rebuild your health on a stronger footing.",
+        "km": "ការធ្លាក់ដល់បាត អាចក្លាយជាចំណុចបត់ឆ្ពោះទៅរកការថែរក្សាខ្លួនឯងពិតប្រាកដ។ ដោយមានការគាំទ្រ អ្នកអាចកសាងសុខភាពរបស់អ្នកឡើងវិញលើមូលដ្ឋានដែលរឹងមាំជាងមុន។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Curiosity about how your body and mind work may guide better self-care. Noticing when you feel best and worst could reveal changes that would really help.",
+        "km": "ចិត្តចង់ដឹងអំពីរបៀបដែលរាងកាយ និងចិត្តរបស់អ្នកដំណើរការ អាចណែនាំការថែរក្សាខ្លួនឯងល្អជាងមុន។ ការកត់សម្គាល់ថានៅពេលណាអ្នកមានអារម្មណ៍ល្អបំផុត និងអាក្រក់បំផុត អាចបង្ហាញការផ្លាស់ប្តូរដែលពិតជាជួយ។"
+      },
+      "challenge": {
+        "en": "Information overload about health could make you anxious. Rely on trusted sources and a professional for advice that fits you.",
+        "km": "ព័ត៌មានច្រើនពេកអំពីសុខភាព អាចធ្វើឱ្យអ្នកថប់បារម្ភ។ សូមពឹងផ្អែកលើប្រភពដែលគួរទុកចិត្ត និងអ្នកជំនាញ សម្រាប់ដំបូន្មានដែលសមនឹងអ្នក។"
+      },
+      "outcome": {
+        "en": "Thoughtful learning could help you build self-care that truly fits. Understanding your own needs may make healthy choices easier and more natural.",
+        "km": "ការរៀនសូត្រដោយគិតគូរ អាចជួយអ្នកកសាងការថែរក្សាខ្លួនឯងដែលពិតជាសមស្រប។ ការយល់ពីតម្រូវការរបស់ខ្លួនឯង អាចធ្វើឱ្យជម្រើសល្អៗងាយស្រួល និងធម្មជាតិជាងមុន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Acting decisively on a health goal may help you get started. Energy and determination could carry you through the first steps.",
+        "km": "ការធ្វើសកម្មភាពដោយម៉ឺងម៉ាត់លើគោលដៅសុខភាព អាចជួយអ្នកចាប់ផ្តើម។ ថាមពល និងការតាំងចិត្ត អាចនាំអ្នកឆ្លងកាត់ជំហានដំបូង។"
+      },
+      "challenge": {
+        "en": "Rushing into drastic changes could backfire. Take steady steps instead, and listen carefully to how your body responds.",
+        "km": "ការប្រញាប់ធ្វើការផ្លាស់ប្តូរធំៗ អាចមានផលផ្ទុយ។ សូមបោះជំហាននឹងនរជំនួសវិញ ហើយស្តាប់ដោយយកចិត្តទុកដាក់ថារាងកាយរបស់អ្នកឆ្លើយតបយ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Focused action could bring noticeable improvements in your health. First small wins may build momentum that helps you keep going when motivation dips.",
+        "km": "សកម្មភាពដែលផ្តោត អាចនាំមកនូវការកែលម្អគួរឱ្យកត់សម្គាល់ក្នុងសុខភាពរបស់អ្នក។ ជ័យជំនះដំបូងៗ អាចកសាងសន្ទុះដែលជួយអ្នកបន្តទៅមុខ នៅពេលការលើកទឹកចិត្តធ្លាក់ចុះ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Knowing your limits and stating them may be a sharp, practical form of self-care. Saying plainly what you can and cannot take on could protect your health.",
+        "km": "ការដឹងពីដែនកំណត់របស់អ្នក និងការប្រាប់វា អាចជាទម្រង់ការថែរក្សាខ្លួនឯងដ៏មុតស្រួច និងជាក់ស្តែង។ ការនិយាយឱ្យត្រង់ពីអ្វីដែលអ្នកអាចទទួល និងមិនអាចទទួល អាចការពារសុខភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Being overly critical of yourself could undermine self-care. Speak to yourself with honesty balanced by kindness, as a good coach would.",
+        "km": "ការរិះគន់ខ្លួនឯងខ្លាំងពេក អាចធ្វើឱ្យការថែរក្សាខ្លួនឯងចុះខ្សោយ។ សូមនិយាយជាមួយខ្លួនឯង ដោយភាពស្មោះត្រង់ដែលថ្លឹងជាមួយសេចក្តីសប្បុរស ដូចគ្រូបង្វឹកល្អម្នាក់។"
+      },
+      "outcome": {
+        "en": "Clear, kind self-respect could bring a strong, steady sense of wellbeing. You may feel protected, respected and calmly in control of your own care.",
+        "km": "ការគោរពខ្លួនឯងដោយច្បាស់លាស់ និងសប្បុរស អាចនាំមកនូវអារម្មណ៍រឹងមាំ និងនឹងនរនៃសុខុមាលភាព។ អ្នកអាចមានអារម្មណ៍ត្រូវបានការពារ គោរព និងគ្រប់គ្រងការថែរក្សាខ្លួនឯងបានដោយស្ងប់។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "A rational, organised approach to your health may serve you well. Planning your self-care thoughtfully could help you stay consistent.",
+        "km": "វិធីដែលសមហេតុផល និងមានរបៀបចំពោះសុខភាពរបស់អ្នក អាចបម្រើអ្នកបានល្អ។ ការរៀបចំផែនការថែរក្សាខ្លួនឯងដោយគិតគូរ អាចជួយអ្នករក្សាភាពជាប់លាប់។"
+      },
+      "challenge": {
+        "en": "Treating self-care purely as a task could drain the joy from it. Balance structure with pleasure and rest, so the routine stays something you want.",
+        "km": "ការចាត់ទុកការថែរក្សាខ្លួនឯងសុទ្ធតែជាកិច្ចការ អាចដកសេចក្តីរីករាយចេញពីវា។ សូមថ្លឹងរចនាសម្ព័ន្ធជាមួយសេចក្តីរីករាយ និងការសម្រាក ដើម្បីឱ្យទម្លាប់នៅតែជាអ្វីដែលអ្នកចង់បាន។"
+      },
+      "outcome": {
+        "en": "Wise, steady self-management could bring reliable health and calm. You may feel confident and steady in how you look after yourself.",
+        "km": "ការគ្រប់គ្រងខ្លួនឯងដោយឈ្លាសវៃ និងនឹងនរ អាចនាំមកនូវសុខភាព និងភាពស្ងប់ដែលគួរទុកចិត្ត។ អ្នកអាចមានទំនុកចិត្ត និងនឹងនរលើរបៀបដែលអ្នកមើលថែខ្លួនឯង។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A simple new healthy habit may be the seed of better self-care. Starting with one practical change could build a strong foundation.",
+        "km": "ទម្លាប់ល្អថ្មីសាមញ្ញមួយ អាចជាគ្រាប់ពូជនៃការថែរក្សាខ្លួនឯងល្អជាងមុន។ ការចាប់ផ្តើមជាមួយការផ្លាស់ប្តូរជាក់ស្តែងមួយ អាចកសាងមូលដ្ឋានរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Overlooking the basics could undermine everything else. Make sure you are eating, sleeping and moving well before adding anything new.",
+        "km": "ការមើលរំលងមូលដ្ឋានគ្រឹះ អាចធ្វើឱ្យអ្វីៗផ្សេងទៀតចុះខ្សោយ។ សូមប្រាកដថាអ្នកកំពុងញ៉ាំ គេង និងផ្លាស់ទីបានល្អ មុនពេលបន្ថែមអ្វីថ្មី។"
+      },
+      "outcome": {
+        "en": "A grounded new habit could grow into steady health and stability. Small, steady investments in your body may pay off well in energy and mood.",
+        "km": "ទម្លាប់ថ្មីដែលនឹងនរ អាចរីកចម្រើនទៅជាសុខភាព និងស្ថិរភាពដ៏រឹងមាំ។ ការវិនិយោគតូចៗ និងនឹងនរលើរាងកាយរបស់អ្នក អាចទទួលបានផលល្អក្នុងថាមពល និងអារម្មណ៍។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Balancing self-care with your many responsibilities may take some flexibility. Fitting small habits into a busy routine could make them sustainable.",
+        "km": "ការថ្លឹងការថែរក្សាខ្លួនឯងជាមួយការទទួលខុសត្រូវជាច្រើន អាចត្រូវការភាពបត់បែនខ្លះ។ ការបញ្ចូលទម្លាប់តូចៗក្នុងទម្លាប់មមាញឹក អាចធ្វើឱ្យវាអាចទ្រទ្រង់បាន។"
+      },
+      "challenge": {
+        "en": "Letting self-care slip whenever life gets busy could leave you depleted. Protect a few non-negotiable habits, even in hectic stretches.",
+        "km": "ការទុកឱ្យការថែរក្សាខ្លួនឯងធ្លាក់ចុះ រាល់ពេលជីវិតមមាញឹក អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមការពារទម្លាប់មួយចំនួនដែលមិនអាចចរចាបាន ទោះបីក្នុងដំណាក់កាលមមាញឹកក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Flexible self-care could help you stay well through changing demands. You may find a rhythm that works for your life.",
+        "km": "ការថែរក្សាខ្លួនឯងដែលបត់បែន អាចជួយអ្នករក្សាសុខភាពល្អ ឆ្លងកាត់ការទាមទារដែលប្រែប្រួល។ អ្នកអាចរកឃើញចង្វាក់ដែលសមនឹងជីវិតរបស់អ្នក។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Getting support from others may help you care for yourself better. A friend, coach or group could keep you motivated.",
+        "km": "ការទទួលការគាំទ្រពីអ្នកដទៃ អាចជួយអ្នកមើលថែខ្លួនឯងបានល្អជាងមុន។ មិត្តភក្តិ គ្រូបង្វឹក ឬក្រុម អាចរក្សាការលើកទឹកចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Trying to manage everything alone could make self-care harder. Ask for help with chores or childcare, and share responsibilities more fairly.",
+        "km": "ការព្យាយាមគ្រប់គ្រងអ្វីៗទាំងអស់តែម្នាក់ឯង អាចធ្វើឱ្យការថែរក្សាខ្លួនឯងពិបាកជាងមុន។ សូមសុំជំនួយលើការងារផ្ទះ ឬការមើលថែកូន ហើយចែករំលែកការទទួលខុសត្រូវឱ្យបានយុត្តិធម៌ជាងមុន។"
+      },
+      "outcome": {
+        "en": "Teamwork could make healthy habits easier and more enjoyable. Shared goals with a friend or group may keep you on track when motivation dips.",
+        "km": "ការងារជាក្រុម អាចធ្វើឱ្យទម្លាប់ល្អៗងាយស្រួល និងរីករាយជាងមុន។ គោលដៅរួមជាមួយមិត្តភក្តិ ឬក្រុម អាចរក្សាអ្នកឱ្យនៅលើផ្លូវត្រូវ នៅពេលការលើកទឹកចិត្តធ្លាក់ចុះ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Protecting your resources may be a form of self-care. Feeling financially and physically secure could ease your mind and help you rest.",
+        "km": "ការការពារធនធានរបស់អ្នក អាចជាទម្រង់មួយនៃការថែរក្សាខ្លួនឯង។ ការមានអារម្មណ៍សុវត្ថិភាពផ្នែកហិរញ្ញវត្ថុ និងរាងកាយ អាចធ្វើឱ្យចិត្តរបស់អ្នកស្រួល និងជួយអ្នកសម្រាក។"
+      },
+      "challenge": {
+        "en": "Holding back on spending anything on yourself could leave needs unmet. Invest reasonably in your health and comfort, and seek financial advice if money is tight.",
+        "km": "ការមិនព្រមចំណាយអ្វីសម្រាប់ខ្លួនឯង អាចធ្វើឱ្យតម្រូវការមិនត្រូវបានបំពេញ។ សូមវិនិយោគដោយសមហេតុផលលើសុខភាព និងភាពសុខស្រួលរបស់អ្នក ហើយស្វែងរកដំបូន្មានហិរញ្ញវត្ថុ ប្រសិនបើប្រាក់តឹងតែង។"
+      },
+      "outcome": {
+        "en": "A balanced approach to security could free you to enjoy self-care. You may feel safe and well supported, without denying yourself what you need.",
+        "km": "វិធីដែលមានតុល្យភាពចំពោះសុវត្ថិភាព អាចដោះលែងអ្នកឱ្យរីករាយនឹងការថែរក្សាខ្លួនឯង។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាព និងត្រូវបានគាំទ្របានល្អ ដោយមិនបដិសេធខ្លួនឯងពីអ្វីដែលអ្នកត្រូវការ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Reaching out for support during hard times may be essential self-care. Hardship or illness could be making it difficult to cope alone.",
+        "km": "ការស្វែងរកការគាំទ្រក្នុងគ្រាលំបាក អាចជាការថែរក្សាខ្លួនឯងចាំបាច់។ ភាពលំបាក ឬជំងឺ អាចកំពុងធ្វើឱ្យពិបាកទប់ទល់តែម្នាក់ឯង។"
+      },
+      "challenge": {
+        "en": "Struggling silently could make things harder than they need to be. Contact friends, community services or a doctor for the help you need.",
+        "km": "ការតស៊ូដោយស្ងាត់ៗ អាចធ្វើឱ្យអ្វីៗពិបាកជាងអ្វីដែលវាគួរតែជា។ សូមទាក់ទងមិត្តភក្តិ សេវាសហគមន៍ ឬវេជ្ជបណ្ឌិត ដើម្បីទទួលបានជំនួយដែលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Accepting help could ease your burden and support your recovery. You may find warmth and care in unexpected places.",
+        "km": "ការទទួលយកជំនួយ អាចបន្ធូរបន្ទុករបស់អ្នក និងគាំទ្រការងើបឡើងវិញរបស់អ្នក។ អ្នកអាចរកឃើញភាពកក់ក្តៅ និងការយកចិត្តទុកដាក់នៅកន្លែងដែលមិនបានរំពឹងទុក។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Balancing giving and receiving may be key to good self-care. Allowing others to help you could be as important as helping them.",
+        "km": "ការថ្លឹងការផ្តល់ និងការទទួល អាចជាគន្លឹះនៃការថែរក្សាខ្លួនឯងល្អ។ ការអនុញ្ញាតឱ្យអ្នកដទៃជួយអ្នក អាចសំខាន់ដូចការជួយពួកគេ។"
+      },
+      "challenge": {
+        "en": "Giving more than you can afford could leave you depleted. Set limits on what you offer, and accept help in return.",
+        "km": "ការផ្តល់ច្រើនជាងអ្វីដែលអ្នកអាចផ្តល់បាន អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមកំណត់ដែនកំណត់លើអ្វីដែលអ្នកផ្តល់ ហើយទទួលយកជំនួយមកវិញ។"
+      },
+      "outcome": {
+        "en": "A fair exchange of care could restore your energy and goodwill. You may feel supported and appreciated, rather than quietly used up.",
+        "km": "ការផ្លាស់ប្តូរការថែរក្សាដោយយុត្តិធម៌ អាចស្តារថាមពល និងឆន្ទៈល្អរបស់អ្នកឡើងវិញ។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានគាំទ្រ និងកោតសរសើរ ជាជាងត្រូវបានប្រើប្រាស់ដោយស្ងាត់ៗ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Patience with your progress may be an important part of self-care. Healthy changes could need patience before they show clear results.",
+        "km": "ការអត់ធ្មត់ចំពោះវឌ្ឍនភាពរបស់អ្នក អាចជាផ្នែកសំខាន់នៃការថែរក្សាខ្លួនឯង។ ការផ្លាស់ប្តូរល្អៗ អាចត្រូវការការអត់ធ្មត់មុនពេលបង្ហាញលទ្ធផល។"
+      },
+      "challenge": {
+        "en": "Giving up because results are hard to see could undo your efforts. Trust that steady habits are working beneath the surface.",
+        "km": "ការបោះបង់ព្រោះលទ្ធផលពិបាកមើលឃើញ អាចបំផ្លាញកិច្ចខិតខំរបស់អ្នក។ សូមទុកចិត្តថាទម្លាប់នឹងនរកំពុងធ្វើការនៅក្រោមផ្ទៃ។"
+      },
+      "outcome": {
+        "en": "Patient self-care could bring real, steady improvements. Better sleep, steadier energy and a brighter mood may reward your persistence.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយអត់ធ្មត់ អាចនាំមកនូវការកែលម្អពិតប្រាកដ។ ការគេងល្អជាងមុន ថាមពលនឹងនរជាងមុន និងអារម្មណ៍ភ្លឺស្វាងជាងមុន អាចជារង្វាន់សម្រាប់ការតស៊ូរបស់អ្នក។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Practising self-care steadily, like any skill, may help you get better at it. Small, regular efforts, like stretching or preparing healthy meals, could build habits that stick.",
+        "km": "ការអនុវត្តការថែរក្សាខ្លួនឯងជាប្រចាំ ដូចជំនាញណាមួយ អាចជួយអ្នកឱ្យកាន់តែពូកែ។ កិច្ចខិតខំតូចៗ និងទៀងទាត់ ដូចជាការលាតសន្ធឹងខ្លួន ឬការរៀបចំអាហារមានសុខភាពល្អ អាចកសាងទម្លាប់ដែលនៅជាប់។"
+      },
+      "challenge": {
+        "en": "Perfectionism about your routine could make you give up when you slip. Aim for consistency, not perfection, and simply start again after a missed step.",
+        "km": "ការចង់បានភាពល្អឥតខ្ចោះក្នុងទម្លាប់របស់អ្នក អាចធ្វើឱ្យអ្នកបោះបង់នៅពេលអ្នករំលង។ សូមតម្រង់ទៅរកភាពជាប់លាប់ មិនមែនភាពល្អឥតខ្ចោះទេ ហើយគ្រាន់តែចាប់ផ្តើមម្តងទៀតក្រោយពីរំលងជំហាន។"
+      },
+      "outcome": {
+        "en": "Dedicated practice could turn self-care into a natural part of your life. You may notice real improvements in health and mood.",
+        "km": "ការអនុវត្តដោយលះបង់ អាចប្រែការថែរក្សាខ្លួនឯងទៅជាផ្នែកធម្មជាតិនៃជីវិតរបស់អ្នក។ អ្នកអាចកត់សម្គាល់ការកែលម្អពិតប្រាកដក្នុងសុខភាព និងអារម្មណ៍។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Spending a little on your own comfort and health may be well worth it. Good shoes, a quiet room or a healthy meal could make a real difference.",
+        "km": "ការចំណាយបន្តិចលើភាពសុខស្រួល និងសុខភាពរបស់អ្នក អាចសមនឹងតម្លៃ។ ស្បែកជើងល្អ បន្ទប់ស្ងាត់ ឬអាហារមានសុខភាពល្អ អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Being too self-reliant could leave you without support when you need it. Let trusted people share in your wellbeing, and lean on them when needed.",
+        "km": "ការពឹងផ្អែកលើខ្លួនឯងច្រើនពេក អាចធ្វើឱ្យអ្នកគ្មានការគាំទ្រ នៅពេលអ្នកត្រូវការ។ សូមឱ្យមនុស្សដែលអ្នកទុកចិត្តចូលរួមក្នុងសុខុមាលភាពរបស់អ្នក ហើយពឹងផ្អែកលើពួកគេនៅពេលចាំបាច់។"
+      },
+      "outcome": {
+        "en": "A comfortable, well-cared-for life could bring deep contentment. You may enjoy the fruits of looking after yourself with a quiet sense of pride.",
+        "km": "ជីវិតដ៏សុខស្រួល និងត្រូវបានថែរក្សាបានល្អ អាចនាំមកនូវសេចក្តីពេញចិត្តដ៏ជ្រាលជ្រៅ។ អ្នកអាចរីករាយនឹងផលនៃការមើលថែខ្លួនឯង ជាមួយអារម្មណ៍មោទនភាពស្ងាត់ៗ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "A secure home and family may support your wellbeing. Drawing on that stability could help you carve out room to care for yourself.",
+        "km": "ផ្ទះ និងគ្រួសារដែលមានសុវត្ថិភាព អាចគាំទ្រសុខុមាលភាពរបស់អ្នក។ ការទាញយកស្ថិរភាពនោះ អាចជួយអ្នកឆ្លៀតលំហដើម្បីមើលថែខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Family obligations could crowd out your own needs. Make space for personal care within your responsibilities, and ask relatives to share the load.",
+        "km": "កាតព្វកិច្ចគ្រួសារ អាចច្រានតម្រូវការរបស់អ្នកចេញ។ សូមទុកលំហសម្រាប់ការថែរក្សាផ្ទាល់ខ្លួន ក្នុងចំណោមការទទួលខុសត្រូវរបស់អ្នក ហើយស្នើឱ្យសាច់ញាតិចែករំលែកបន្ទុក។"
+      },
+      "outcome": {
+        "en": "A stable, supportive home could bring deep security and wellbeing. You may feel rooted, cared for and free to look after yourself too.",
+        "km": "ផ្ទះដែលមានស្ថិរភាព និងគាំទ្រ អាចនាំមកនូវសុវត្ថិភាព និងសុខុមាលភាពដ៏រឹងមាំ។ អ្នកអាចមានអារម្មណ៍ចាក់ឫស ត្រូវបានថែរក្សា និងមានសេរីភាពក្នុងការមើលថែខ្លួនឯងផងដែរ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learning about health and wellbeing may help you care for yourself better. Curiosity could lead you to practical new habits, like trying a new vegetable or stretch.",
+        "km": "ការរៀនអំពីសុខភាព និងសុខុមាលភាព អាចជួយអ្នកមើលថែខ្លួនឯងបានល្អជាងមុន។ ចិត្តចង់ដឹង អាចនាំអ្នកទៅរកទម្លាប់ថ្មីៗដែលជាក់ស្តែង ដូចជាការសាកល្បងបន្លែថ្មី ឬការលាតសន្ធឹងខ្លួនថ្មី។"
+      },
+      "challenge": {
+        "en": "Reading about self-care without practising it could leave things unchanged. Pick one idea, such as drinking more water, and try it consistently.",
+        "km": "ការអានអំពីការថែរក្សាខ្លួនឯង ដោយមិនអនុវត្ត អាចទុកអ្វីៗឱ្យនៅដដែល។ សូមជ្រើសគំនិតមួយ ដូចជាការផឹកទឹកឱ្យបានច្រើនជាងមុន ហើយសាកល្បងវាជាប្រចាំ។"
+      },
+      "outcome": {
+        "en": "Steady learning and practice could build a strong foundation of health. New habits, practised patiently, may grow into strengths you can rely on.",
+        "km": "ការរៀន និងការអនុវត្តនឹងនរ អាចកសាងមូលដ្ឋានរឹងមាំនៃសុខភាព។ ទម្លាប់ថ្មីៗ ដែលអនុវត្តដោយអត់ធ្មត់ អាចរីកចម្រើនទៅជាចំណុចខ្លាំងដែលអ្នកអាចពឹងផ្អែកបាន។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "A steady, reliable routine may be the backbone of your self-care. Doing the basics consistently, like sleep, meals and movement, could keep you healthy.",
+        "km": "ទម្លាប់នឹងនរ និងគួរទុកចិត្ត អាចជាឆ្អឹងខ្នងនៃការថែរក្សាខ្លួនឯងរបស់អ្នក។ ការធ្វើមូលដ្ឋានគ្រឹះជាប្រចាំ ដូចជាការគេង អាហារ និងចលនា អាចរក្សាអ្នកឱ្យមានសុខភាពល្អ។"
+      },
+      "challenge": {
+        "en": "A rigid routine could become boring and easy to abandon. Add a little variety, like a new recipe or route, to keep self-care enjoyable.",
+        "km": "ទម្លាប់តឹងរ៉ឹង អាចក្លាយជាគួរឱ្យធុញ និងងាយបោះបង់។ សូមបន្ថែមភាពចម្រុះបន្តិច ដូចជាម្ហូប ឬផ្លូវដើរថ្មី ដើម្បីរក្សាការថែរក្សាខ្លួនឯងឱ្យរីករាយ។"
+      },
+      "outcome": {
+        "en": "Consistent care could bring dependable health and energy. Your steady habits may carry you well through busy and difficult stretches alike.",
+        "km": "ការថែរក្សាជាប់លាប់ អាចនាំមកនូវសុខភាព និងថាមពលដែលគួរទុកចិត្ត។ ទម្លាប់នឹងនររបស់អ្នក អាចនាំអ្នកឆ្លងកាត់ដំណាក់កាលមមាញឹក និងលំបាកបានល្អ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Nurturing your body and home may be your natural path to self-care. Cooking well, resting and creating comfort could restore you.",
+        "km": "ការថែរក្សារាងកាយ និងផ្ទះរបស់អ្នក អាចជាផ្លូវធម្មជាតិរបស់អ្នកឆ្ពោះទៅរកការថែរក្សាខ្លួនឯង។ ការចម្អិនម្ហូបល្អ ការសម្រាក និងការបង្កើតភាពសុខស្រួល អាចស្តារកម្លាំងអ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Caring for everyone else could leave you last on the list. Put yourself on your own care list, somewhere near the top.",
+        "km": "ការមើលថែអ្នកដទៃទាំងអស់ អាចធ្វើឱ្យអ្នកនៅចុងក្រោយនៃបញ្ជី។ សូមដាក់ខ្លួនឯងក្នុងបញ្ជីថែរក្សារបស់អ្នក នៅកន្លែងណាមួយជិតកំពូល។"
+      },
+      "outcome": {
+        "en": "Grounded, nurturing self-care could bring warmth and steady health. Your home may become a true place of rest and restoration for you as well.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយនឹងនរ និងយកចិត្តទុកដាក់ អាចនាំមកនូវភាពកក់ក្តៅ និងសុខភាពនឹងនរ។ ផ្ទះរបស់អ្នកអាចក្លាយជាកន្លែងសម្រាក និងស្តារកម្លាំងពិតប្រាកដសម្រាប់អ្នកផងដែរ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Security and a well-managed life may give you a strong base for self-care. Using your resources wisely for your wellbeing could pay off.",
+        "km": "សុវត្ថិភាព និងជីវិតដែលគ្រប់គ្រងបានល្អ អាចផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានរឹងមាំសម្រាប់ការថែរក្សាខ្លួនឯង។ ការប្រើធនធានរបស់អ្នកដោយឈ្លាសវៃសម្រាប់សុខុមាលភាព អាចទទួលបានផល។"
+      },
+      "challenge": {
+        "en": "Focusing only on achievement could leave your health neglected. Balance success with rest, leisure, check-ups and the company of people you love.",
+        "km": "ការផ្តោតតែលើសមិទ្ធផល អាចធ្វើឱ្យសុខភាពរបស់អ្នកត្រូវបានមិនអើពើ។ សូមថ្លឹងជោគជ័យជាមួយការសម្រាក ការកម្សាន្ត ការពិនិត្យសុខភាព និងការនៅជាមួយមនុស្សដែលអ្នកស្រឡាញ់។"
+      },
+      "outcome": {
+        "en": "Wise investment in your wellbeing could bring steady health and satisfaction. You may enjoy a stable, fulfilling life with the energy to make the most of it.",
+        "km": "ការវិនិយោគដោយឈ្លាសវៃលើសុខុមាលភាពរបស់អ្នក អាចនាំមកនូវសុខភាព និងសេចក្តីពេញចិត្តដ៏រឹងមាំ។ អ្នកអាចរីករាយនឹងជីវិតដែលមានស្ថិរភាព និងពេញចិត្ត ជាមួយថាមពលដើម្បីប្រើវាឱ្យអស់លទ្ធភាព។"
+      }
+    }
+  }
+}
