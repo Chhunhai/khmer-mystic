@@ -1,0 +1,1097 @@
+{
+  "questionId": "FF-07",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A fresh, open-hearted approach may be the best way to reach your friend again. Letting go of who was right could make a new start possible.",
+        "km": "វិធីសាស្ត្រថ្មី និងចិត្តបើកចំហ ប្រហែលជាវិធីល្អបំផុតក្នុងការឈោងទៅរកមិត្តរបស់អ្នកម្តងទៀត។ ការបោះបង់ការគិតថាអ្នកណាត្រូវ អាចធ្វើឱ្យការចាប់ផ្តើមថ្មីអាចទៅរួច។"
+      },
+      "challenge": {
+        "en": "Acting as if nothing happened could leave the hurt unspoken between you. Acknowledge the rift lightly but honestly when you reconnect.",
+        "km": "ការធ្វើដូចជាគ្មានអ្វីកើតឡើង អាចទុកការឈឺចាប់មិនបាននិយាយរវាងអ្នក។ សូមទទួលស្គាល់ការបែកបាក់ដោយស្រាល ប៉ុន្តែស្មោះត្រង់ នៅពេលអ្នកភ្ជាប់ទំនាក់ទំនងឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "A light, sincere first message could reopen the door to friendship. Your friend may be relieved that someone made the first move.",
+        "km": "សារដំបូងស្រាល និងស្មោះត្រង់ អាចបើកទ្វារមិត្តភាពឡើងវិញ។ មិត្តរបស់អ្នកអាចធូរស្បើយ ដែលមាននរណាម្នាក់ធ្វើចលនាដំបូង។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may have the words and the will to begin mending this friendship. Thinking through what you want to say could help you reach out with confidence.",
+        "km": "អ្នកប្រហែលជាមានពាក្យសម្តី និងឆន្ទៈដើម្បីចាប់ផ្តើមជួសជុលមិត្តភាពនេះ។ ការគិតឱ្យល្អិតល្អន់ពីអ្វីដែលអ្នកចង់និយាយ អាចជួយអ្នកឈោងទៅរកដោយទំនុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Trying to talk your way out of responsibility could make your friend wary. Speak plainly about your part in what went wrong.",
+        "km": "ការព្យាយាមនិយាយដើម្បីគេចពីការទទួលខុសត្រូវ អាចធ្វើឱ្យមិត្តរបស់អ្នកប្រុងប្រយ័ត្ន។ សូមនិយាយត្រង់ៗអំពីផ្នែករបស់អ្នកក្នុងអ្វីដែលខុស។"
+      },
+      "outcome": {
+        "en": "A thoughtful, well-chosen apology could start to rebuild what was broken. Your friend may respond to sincerity more than to clever words.",
+        "km": "ការសុំទោសដែលគិតគូរ និងជ្រើសរើសបានល្អ អាចចាប់ផ្តើមកសាងឡើងវិញនូវអ្វីដែលបានបែកបាក់។ មិត្តរបស់អ្នក អាចឆ្លើយតបនឹងភាពស្មោះត្រង់ ច្រើនជាងពាក្យសម្តីឆ្លាតវៃ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "There may be feelings beneath this rift that neither of you has said aloud. Reflecting quietly on what really hurt could guide your first step.",
+        "km": "ប្រហែលជាមានអារម្មណ៍នៅពីក្រោមការបែកបាក់នេះ ដែលគ្មាននរណាម្នាក់ក្នុងចំណោមអ្នកបាននិយាយចេញ។ ការពិចារណាស្ងាត់ៗពីអ្វីដែលពិតជាធ្វើឱ្យឈឺចាប់ អាចណែនាំជំហានដំបូងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Assuming you know why your friend pulled away could lead you astray. Ask gently what happened from their side.",
+        "km": "ការសន្មតថាអ្នកដឹងពីមូលហេតុដែលមិត្តរបស់អ្នកដកខ្លួន អាចនាំអ្នកឱ្យវង្វេង។ សូមសួរដោយទន់ភ្លន់ពីអ្វីដែលបានកើតឡើងពីភាគីរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Understanding the hidden hurt could open the way to real reconciliation. A quiet, honest talk may say what silence between you never could.",
+        "km": "ការយល់ពីការឈឺចាប់លាក់កំបាំង អាចបើកផ្លូវទៅរកការផ្សះផ្សាពិតប្រាកដ។ ការនិយាយស្ងាត់ៗ និងស្មោះត្រង់ អាចនិយាយអ្វីដែលភាពស្ងៀមស្ងាត់រវាងអ្នកមិនដែលអាចនិយាយបាន។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Warmth and care may be what reopens this friendship. A kind gesture, like a small gift or remembering a special day, could soften the distance.",
+        "km": "ភាពកក់ក្តៅ និងការយកចិត្តទុកដាក់ ប្រហែលជាអ្វីដែលបើកមិត្តភាពនេះឡើងវិញ។ កាយវិការសប្បុរស ដូចជាអំណោយតូចមួយ ឬការចងចាំថ្ងៃពិសេស អាចបន្ទន់ចម្ងាយ។"
+      },
+      "challenge": {
+        "en": "Smothering your friend with attention could feel like pressure. Offer warmth, then give them room to respond.",
+        "km": "ការផ្តល់ការយកចិត្តទុកដាក់ច្រើនពេកដល់មិត្តរបស់អ្នក អាចមានអារម្មណ៍ដូចជាសម្ពាធ។ សូមផ្តល់ភាពកក់ក្តៅ បន្ទាប់មកផ្តល់លំហឱ្យពួកគេឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "Gentle, caring contact could help the friendship grow again. Kindness offered without expecting anything back may well be returned.",
+        "km": "ការទាក់ទងដោយទន់ភ្លន់ និងយកចិត្តទុកដាក់ អាចជួយមិត្តភាពឱ្យរីកចម្រើនម្តងទៀត។ ភាពសប្បុរសដែលផ្តល់ដោយមិនរំពឹងអ្វីត្រឡប់មកវិញ អាចត្រូវបានតបវិញ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "A clear, steady approach may help you rebuild trust with your friend. Being reliable in small things, like replying and keeping plans, could show you are serious.",
+        "km": "វិធីសាស្ត្រច្បាស់លាស់ និងនឹងនរ អាចជួយអ្នកកសាងការទុកចិត្តឡើងវិញជាមួយមិត្តរបស់អ្នក។ ការអាចទុកចិត្តបានក្នុងរឿងតូចៗ ដូចជាការឆ្លើយតប និងការរក្សាផែនការ អាចបង្ហាញថាអ្នកយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Setting conditions for the reconciliation could make your friend feel controlled. Agree together on how you both want to move forward.",
+        "km": "ការកំណត់លក្ខខណ្ឌសម្រាប់ការផ្សះផ្សា អាចធ្វើឱ្យមិត្តរបស់អ្នកមានអារម្មណ៍ថាត្រូវបានគ្រប់គ្រង។ សូមព្រមព្រៀងគ្នាអំពីរបៀបដែលអ្នកទាំងពីរចង់ទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Consistent, dependable effort could restore a solid foundation of trust. Your friend may come to rely on you again once they see you follow through.",
+        "km": "ការខិតខំស៊ីសង្វាក់ និងអាចទុកចិត្តបាន អាចស្តារមូលដ្ឋានរឹងមាំនៃការទុកចិត្ត។ មិត្តរបស់អ្នក អាចត្រឡប់មកពឹងផ្អែកលើអ្នកម្តងទៀត នៅពេលពួកគេឃើញអ្នកអនុវត្តតាម។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Shared values and history may give you common ground to rebuild on. Reminding your friend of what you have always believed in together could help.",
+        "km": "គុណតម្លៃ និងប្រវត្តិរួម អាចផ្តល់ឱ្យអ្នកនូវចំណុចរួមដើម្បីកសាងឡើងវិញ។ ការរំលឹកមិត្តរបស់អ្នកពីអ្វីដែលអ្នកតែងតែជឿជាមួយគ្នា អាចជួយបាន។"
+      },
+      "challenge": {
+        "en": "Expecting the friendship to go back exactly as it was could make repair harder. Be open to it taking a new, perhaps gentler, shape.",
+        "km": "ការរំពឹងថាមិត្តភាពនឹងត្រឡប់ទៅដូចមុនទាំងស្រុង អាចធ្វើឱ្យការជួសជុលពិបាកជាងមុន។ សូមបើកចិត្តចំពោះការដែលវាយករូបរាងថ្មី ប្រហែលជាទន់ភ្លន់ជាងមុន។"
+      },
+      "outcome": {
+        "en": "A trusted mutual friend or mentor could help bring you back together. Remembering the values you share may make it easier to forgive.",
+        "km": "មិត្តរួម ឬអ្នកណែនាំដែលទុកចិត្ត អាចជួយនាំអ្នកមកជួបគ្នាវិញ។ ការនឹកឃើញពីគុណតម្លៃដែលអ្នកចែករំលែក អាចធ្វើឱ្យការអភ័យទោសងាយស្រួលជាងមុន។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Choosing to value this friendship over your pride may be the turning point. Deciding it matters to you could give you courage to reach out.",
+        "km": "ការជ្រើសរើសឱ្យតម្លៃលើមិត្តភាពនេះ ជាជាងមោទនភាពរបស់អ្នក ប្រហែលជាចំណុចបង្វែរ។ ការសម្រេចថាវាសំខាន់សម្រាប់អ្នក អាចផ្តល់ភាពក្លាហានដល់អ្នកដើម្បីឈោងទៅរក។"
+      },
+      "challenge": {
+        "en": "Letting others take sides or carry messages could complicate repair. Speak to your friend directly, in your own words.",
+        "km": "ការឱ្យអ្នកដទៃកាន់ជើង ឬផ្ញើសារជំនួស អាចធ្វើឱ្យការជួសជុលស្មុគស្មាញ។ សូមនិយាយជាមួយមិត្តរបស់អ្នកដោយផ្ទាល់ ជាពាក្យសម្តីរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Choosing reconciliation from the heart could restore a cherished bond. A friendship that survives a rift may hold even stronger respect than before.",
+        "km": "ការជ្រើសរើសការផ្សះផ្សាចេញពីចិត្ត អាចស្តារចំណងដ៏មានតម្លៃ។ មិត្តភាពដែលរស់រានពីការបែកបាក់ អាចមានការគោរពរឹងមាំជាងមុនទៅទៀត។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Determination to make things right may help you take the first step. Deciding clearly that you want this friendship back could keep you going.",
+        "km": "ការតាំងចិត្តធ្វើឱ្យអ្វីៗត្រឹមត្រូវ អាចជួយអ្នកបោះជំហានដំបូង។ ការសម្រេចចិត្តយ៉ាងច្បាស់ថាអ្នកចង់បានមិត្តភាពនេះមកវិញ អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Pushing too hard for an immediate reconciliation could make your friend retreat. Steer gently and let them set some of the pace.",
+        "km": "ការជំរុញខ្លាំងពេកសម្រាប់ការផ្សះផ្សាភ្លាមៗ អាចធ្វើឱ្យមិត្តរបស់អ្នកថយក្រោយ។ សូមដឹកនាំដោយទន់ភ្លន់ ហើយឱ្យពួកគេកំណត់ល្បឿនខ្លះ។"
+      },
+      "outcome": {
+        "en": "Steady, respectful persistence could bring the friendship back on track. Making peace after a rift may feel like a shared victory for you both.",
+        "km": "ការតស៊ូទៀងទាត់ និងគោរព អាចនាំមិត្តភាពត្រឡប់មកលើផ្លូវវិញ។ ការផ្សះផ្សាបន្ទាប់ពីការបែកបាក់ អាចមានអារម្មណ៍ដូចជាជ័យជម្នះរួមសម្រាប់អ្នកទាំងពីរ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Gentle courage may be what you need to reach out after a rift. Swallowing your pride with grace could open the door.",
+        "km": "ភាពក្លាហានទន់ភ្លន់ ប្រហែលជាអ្វីដែលអ្នកត្រូវការដើម្បីឈោងទៅរក បន្ទាប់ពីការបែកបាក់។ ការលេបមោទនភាពរបស់អ្នកដោយសុភាព អាចបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Reacting angrily if your friend is cool at first could set you back. Stay patient and kind, and give them room to warm up again.",
+        "km": "ការប្រតិកម្មដោយខឹង ប្រសិនបើមិត្តរបស់អ្នកត្រជាក់ដំបូង អាចធ្វើឱ្យអ្នកថយក្រោយ។ សូមនៅអត់ធ្មត់ និងសប្បុរស ហើយផ្តល់លំហឱ្យពួកគេកក់ក្តៅឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Patient, gentle strength could win back your friend's trust. Showing that you can stay calm and kind may heal the rift between you.",
+        "km": "កម្លាំងទន់ភ្លន់ និងអត់ធ្មត់ អាចទទួលបានការទុកចិត្តរបស់មិត្តរបស់អ្នកមកវិញ។ ការបង្ហាញថាអ្នកអាចនៅស្ងប់ និងសប្បុរស អាចជួសជុលការបែកបាក់រវាងអ្នក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Some quiet reflection on what happened may help you approach your friend wisely. Understanding your own part could make the conversation more honest.",
+        "km": "ការពិចារណាស្ងាត់ៗខ្លះពីអ្វីដែលបានកើតឡើង អាចជួយអ្នកចូលទៅរកមិត្តរបស់អ្នកដោយប្រាជ្ញា។ ការយល់ពីផ្នែករបស់អ្នក អាចធ្វើឱ្យការសន្ទនាកាន់តែស្មោះត្រង់។"
+      },
+      "challenge": {
+        "en": "Reflecting endlessly without reaching out could let the distance grow. Once you understand what happened, make contact.",
+        "km": "ការពិចារណាគ្មានទីបញ្ចប់ ដោយមិនឈោងទៅរក អាចបណ្តោយឱ្យចម្ងាយកើនឡើង។ នៅពេលអ្នកយល់ពីអ្វីដែលបានកើតឡើង សូមទាក់ទង។"
+      },
+      "outcome": {
+        "en": "Thoughtful, wise words could help mend the friendship. What you have understood about yourself may make the bond stronger than before.",
+        "km": "ពាក្យសម្តីគិតគូរ និងមានប្រាជ្ញា អាចជួយជួសជុលមិត្តភាព។ អ្វីដែលអ្នកបានយល់អំពីខ្លួនឯង អាចធ្វើឱ្យចំណងរឹងមាំជាងមុន។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Circumstances may be shifting in a way that makes reconciliation possible. A chance meeting or change in your friend's life could open a door.",
+        "km": "កាលៈទេសៈប្រហែលជាកំពុងប្រែប្រួល តាមរបៀបដែលធ្វើឱ្យការផ្សះផ្សាអាចទៅរួច។ ការជួបគ្នាដោយចៃដន្យ ឬការផ្លាស់ប្តូរក្នុងជីវិតរបស់មិត្តរបស់អ្នក អាចបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Waiting for fate to fix the friendship could mean missing your chance. Be ready to send a message when an opening appears.",
+        "km": "ការរង់ចាំឱ្យវាសនាជួសជុលមិត្តភាព អាចមានន័យថាខកខានឱកាសរបស់អ្នក។ សូមត្រៀមខ្លួនផ្ញើសារ នៅពេលឱកាសលេចឡើង។"
+      },
+      "outcome": {
+        "en": "A turn of events could bring you and your friend back together. Being open to it may let reconciliation happen naturally.",
+        "km": "ការប្រែប្រួលនៃព្រឹត្តិការណ៍ អាចនាំអ្នក និងមិត្តរបស់អ្នកមកជួបគ្នាវិញ។ ការបើកចិត្តចំពោះវា អាចឱ្យការផ្សះផ្សាកើតឡើងដោយធម្មជាតិ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Being fair and honest about what went wrong may be the foundation for repair. Owning your mistakes while expressing your hurt could balance the conversation.",
+        "km": "ការយុត្តិធម៌ និងស្មោះត្រង់អំពីអ្វីដែលខុស អាចជាមូលដ្ឋានសម្រាប់ការជួសជុល។ ការទទួលស្គាល់កំហុសរបស់អ្នក ខណៈបញ្ចេញការឈឺចាប់របស់អ្នក អាចធ្វើឱ្យការសន្ទនាមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Insisting the fault lies only with your friend could block reconciliation. Look honestly at what each of you contributed to the rift.",
+        "km": "ការទទូចថាកំហុសស្ថិតនៅតែលើមិត្តរបស់អ្នក អាចរារាំងការផ្សះផ្សា។ សូមមើលដោយស្មោះត្រង់ពីអ្វីដែលអ្នកម្នាក់ៗបានរួមចំណែកដល់ការបែកបាក់។"
+      },
+      "outcome": {
+        "en": "A fair, honest conversation could restore balance and trust. When both of you own your part, the friendship may come back stronger.",
+        "km": "ការសន្ទនាយុត្តិធម៌ និងស្មោះត្រង់ អាចស្តារតុល្យភាព និងការទុកចិត្ត។ នៅពេលអ្នកទាំងពីរទទួលស្គាល់ផ្នែករបស់ខ្លួន មិត្តភាពអាចត្រឡប់មកវិញកាន់តែរឹងមាំ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Pausing to picture the fallout through your friend's eyes may change how you see it. Their hurt could be different from the one you imagined.",
+        "km": "ការផ្អាកដើម្បីស្រមៃពីការបែកបាក់តាមរយៈភ្នែករបស់មិត្តរបស់អ្នក អាចផ្លាស់ប្តូររបៀបដែលអ្នកមើលវា។ ការឈឺចាប់របស់ពួកគេ អាចខុសពីអ្វីដែលអ្នកបានស្រមៃ។"
+      },
+      "challenge": {
+        "en": "Holding out for an apology before you say anything could keep the silence going. A small first gesture from you might break the stalemate.",
+        "km": "ការរង់ចាំការសុំទោស មុនពេលអ្នកនិយាយអ្វី អាចរក្សាភាពស្ងៀមស្ងាត់ឱ្យបន្ត។ កាយវិការដំបូងតូចមួយពីអ្នក អាចបំបែកភាពជាប់គាំង។"
+      },
+      "outcome": {
+        "en": "A new way of seeing the quarrel could dissolve old resentment. Understanding why your friend reacted as they did may bring you closer than before.",
+        "km": "របៀបថ្មីក្នុងការមើលការឈ្លោះប្រកែក អាចរំលាយការអាក់អន់ចិត្តចាស់។ ការយល់ពីមូលហេតុដែលមិត្តរបស់អ្នកប្រតិកម្មដូច្នោះ អាចនាំអ្នកឱ្យខិតជិតគ្នាជាងមុន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "The friendship may have ended in its old form, and something new could grow if you both want it. Accepting the change could be your first step.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានបញ្ចប់ក្នុងទម្រង់ចាស់របស់វា ហើយអ្វីថ្មីអាចរីកចម្រើន ប្រសិនបើអ្នកទាំងពីរចង់បាន។ ការទទួលយកការផ្លាស់ប្តូរ អាចជាជំហានដំបូងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Trying to restore exactly what you had could make repair impossible. Let the friendship become something new that fits who you both are.",
+        "km": "ការព្យាយាមស្តារអ្វីដែលអ្នកធ្លាប់មានទាំងស្រុង អាចធ្វើឱ្យការជួសជុលមិនអាចទៅរួច។ សូមឱ្យមិត្តភាពក្លាយជាអ្វីថ្មី ដែលសមនឹងអ្វីដែលអ្នកទាំងពីរជា។"
+      },
+      "outcome": {
+        "en": "A transformed friendship could emerge, wiser and more honest than before. The end of the old way may become the beginning of a better one.",
+        "km": "មិត្តភាពដែលបានប្រែក្លាយ អាចលេចចេញមក ដោយមានប្រាជ្ញា និងស្មោះត្រង់ជាងមុន។ ទីបញ្ចប់នៃរបៀបចាស់ អាចក្លាយជាការចាប់ផ្តើមនៃរបៀបល្អជាង។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Patience and a gentle, balanced approach may help mend this friendship. Taking small steps rather than forcing a big talk could work well.",
+        "km": "ការអត់ធ្មត់ និងវិធីសាស្ត្រទន់ភ្លន់ និងមានតុល្យភាព អាចជួយជួសជុលមិត្តភាពនេះ។ ការបោះជំហានតូចៗ ជាជាងការបង្ខំការនិយាយធំ អាចដំណើរការបានល្អ។"
+      },
+      "challenge": {
+        "en": "Swinging between eager contact and sudden silence could confuse your friend. Keep a steady, warm approach they can learn to trust.",
+        "km": "ការប្តូរទៅមករវាងការទាក់ទងដោយចង់ខ្លាំង និងភាពស្ងៀមស្ងាត់ភ្លាមៗ អាចធ្វើឱ្យមិត្តរបស់អ្នកច្របូកច្របល់។ សូមរក្សាវិធីសាស្ត្រនឹងនរ និងកក់ក្តៅ ដែលពួកគេអាចរៀនទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Gradual, patient reconnection could restore harmony between you. A coffee here and a message there may let trust return without pressure.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងឡើងវិញបន្តិចម្តងៗ និងដោយអត់ធ្មត់ អាចស្តារភាពសុខដុមរវាងអ្នក។ ការផឹកកាហ្វេម្តង និងការផ្ញើសារម្តង អាចឱ្យការទុកចិត្តត្រឡប់មកវិញដោយគ្មានសម្ពាធ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "The friendship may have broken over an unhealthy pattern, such as jealousy, control or dishonesty. Recognising it could help you decide what to repair.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានបែកបាក់ដោយសារគំរូមិនល្អ ដូចជាការច្រណែន ការគ្រប់គ្រង ឬភាពមិនស្មោះត្រង់។ ការទទួលស្គាល់វា អាចជួយអ្នកសម្រេចថាត្រូវជួសជុលអ្វី។"
+      },
+      "challenge": {
+        "en": "Rushing back into a friendship that harmed you could repeat the pain. Make sure any reconciliation includes healthier boundaries.",
+        "km": "ការប្រញាប់ត្រឡប់ចូលក្នុងមិត្តភាពដែលបានធ្វើបាបអ្នក អាចធ្វើឱ្យការឈឺចាប់កើតឡើងម្តងទៀត។ សូមប្រាកដថាការផ្សះផ្សាណាមួយ រួមបញ្ចូលព្រំដែនដែលមានសុខភាពល្អជាង។"
+      },
+      "outcome": {
+        "en": "Rebuilding on healthier terms could create a freer, more respectful friendship. If that is not possible, recognising it may free you to move on.",
+        "km": "ការកសាងឡើងវិញលើលក្ខខណ្ឌដែលមានសុខភាពល្អជាង អាចបង្កើតមិត្តភាពដែលមានសេរីភាព និងគោរពជាងមុន។ ប្រសិនបើវាមិនអាចទៅរួច ការទទួលស្គាល់វាអាចរំដោះអ្នកឱ្យបន្តទៅមុខ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "The friendship may have broken suddenly, perhaps after a revelation or explosive argument. The shock could still be raw for you both.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានបែកបាក់ភ្លាមៗ ប្រហែលជាបន្ទាប់ពីការលាតត្រដាង ឬការឈ្លោះប្រកែកខ្លាំង។ ការភ្ញាក់ផ្អើលនោះ អាចនៅតែស្រស់ៗសម្រាប់អ្នកទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Trying to fix things while emotions are still heated could make the break worse. Let the first anger settle before you reach out.",
+        "km": "ការព្យាយាមជួសជុលអ្វីៗ ខណៈអារម្មណ៍នៅតែក្តៅ អាចធ្វើឱ្យការបែកបាក់កាន់តែអាក្រក់។ សូមឱ្យកំហឹងដំបូងស្ងប់ មុនពេលអ្នកឈោងទៅរក។"
+      },
+      "outcome": {
+        "en": "A friendship that survives a blow-up could come back more honest than it was. The things you finally said aloud may become the ground you rebuild on.",
+        "km": "មិត្តភាពដែលរស់រានពីការផ្ទុះឡើង អាចត្រឡប់មកវិញស្មោះត្រង់ជាងមុន។ រឿងដែលអ្នកបាននិយាយចេញឮៗ អាចក្លាយជាដីដែលអ្នកកសាងឡើងវិញ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope for reconciliation may still be alive in your heart. Holding on to that hope could give you courage to reach out.",
+        "km": "ក្តីសង្ឃឹមសម្រាប់ការផ្សះផ្សា ប្រហែលជានៅតែរស់ក្នុងចិត្តរបស់អ្នក។ ការប្រកាន់ខ្ជាប់ក្តីសង្ឃឹមនោះ អាចផ្តល់ភាពក្លាហានដល់អ្នកដើម្បីឈោងទៅរក។"
+      },
+      "challenge": {
+        "en": "Expecting your friend to feel the same way straight away could lead to disappointment. Let trust rebuild gradually, one friendly exchange at a time.",
+        "km": "ការរំពឹងឱ្យមិត្តរបស់អ្នកមានអារម្មណ៍ដូចគ្នាភ្លាមៗ អាចនាំឱ្យខកចិត្ត។ សូមឱ្យការទុកចិត្តកសាងឡើងវិញបន្តិចម្តងៗ ម្តងមួយការផ្លាស់ប្តូររួសរាយ។"
+      },
+      "outcome": {
+        "en": "Hope kept alive could carry you both toward a fresh start as friends. A message recalling a shared joke or favourite place may be warmly received.",
+        "km": "ក្តីសង្ឃឹមដែលរក្សាឱ្យរស់ អាចនាំអ្នកទាំងពីរឆ្ពោះទៅរកការចាប់ផ្តើមថ្មីក្នុងនាមជាមិត្ត។ សារដែលរំលឹកពីការលេងសើចរួម ឬកន្លែងដែលចូលចិត្ត អាចត្រូវបានទទួលយកដោយកក់ក្តៅ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "A misunderstanding, perhaps a message read the wrong way, may lie at the root of this rift. Finding out what each of you actually meant could be your first step.",
+        "km": "ការយល់ច្រឡំ ប្រហែលជាសារដែលត្រូវបានអានខុស ប្រហែលជាស្ថិតនៅឫសគល់នៃការបែកបាក់នេះ។ ការស្វែងយល់ពីអ្វីដែលអ្នកម្នាក់ៗពិតជាចង់មានន័យ អាចជាជំហានដំបូងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Believing rumours or second-hand accounts could deepen the rift. Hear your friend's side directly, from them alone.",
+        "km": "ការជឿពាក្យចចាមអារ៉ាម ឬរឿងរ៉ាវដែលឮពីអ្នកដទៃ អាចធ្វើឱ្យការបែកបាក់កាន់តែជ្រៅ។ សូមស្តាប់ភាគីរបស់មិត្តរបស់អ្នកដោយផ្ទាល់ ពីពួកគេតែម្នាក់គត់។"
+      },
+      "outcome": {
+        "en": "Clearing up a misunderstanding could restore the friendship surprisingly easily. What your friend meant may turn out gentler than you feared.",
+        "km": "ការជម្រះការយល់ច្រឡំ អាចស្តារមិត្តភាពបានងាយស្រួលគួរឱ្យភ្ញាក់ផ្អើល។ អ្វីដែលមិត្តរបស់អ្នកចង់មានន័យ អាចបង្ហាញថាទន់ភ្លន់ជាងអ្វីដែលអ្នកបានភ័យខ្លាច។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Warmth and openness may be your best tools for mending this friendship. Reaching out with a friendly, upbeat message could break the ice.",
+        "km": "ភាពកក់ក្តៅ និងភាពបើកចំហ ប្រហែលជាឧបករណ៍ល្អបំផុតរបស់អ្នកសម្រាប់ការជួសជុលមិត្តភាពនេះ។ ការឈោងទៅរកដោយសាររួសរាយ និងរីករាយ អាចបំបែកទឹកកក។"
+      },
+      "challenge": {
+        "en": "Glossing over the hurt with cheerfulness could leave things unresolved. Acknowledge what happened before suggesting you both move on.",
+        "km": "ការលុបលាងការឈឺចាប់ដោយភាពរីករាយ អាចទុកអ្វីៗមិនទាន់ដោះស្រាយ។ សូមទទួលស្គាល់អ្វីដែលបានកើតឡើង មុនពេលស្នើឱ្យអ្នកទាំងពីរបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A warm, honest reconnection could bring joy back into the friendship. The jokes and laughter you used to share may return more easily than you expect.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងឡើងវិញដោយកក់ក្តៅ និងស្មោះត្រង់ អាចនាំសេចក្តីរីករាយត្រឡប់មកមិត្តភាពវិញ។ ការលេងសើច និងសំណើចដែលអ្នកធ្លាប់ចែករំលែក អាចត្រឡប់មកវិញងាយជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Reflecting honestly on the friendship and what went wrong may help you decide how to act. A willingness to forgive, and ask forgiveness, could be key.",
+        "km": "ការពិចារណាដោយស្មោះត្រង់ពីមិត្តភាព និងអ្វីដែលខុស អាចជួយអ្នកសម្រេចពីរបៀបធ្វើសកម្មភាព។ ឆន្ទៈក្នុងការអភ័យទោស និងសុំការអភ័យទោស អាចជាគន្លឹះ។"
+      },
+      "challenge": {
+        "en": "Raking over every past grievance could reopen wounds you are trying to heal. Focus on the friendship you want to rebuild.",
+        "km": "ការរំលឹករាល់ការអាក់អន់ចិត្តកន្លងមក អាចបើករបួសដែលអ្នកកំពុងព្យាយាមព្យាបាលឡើងវិញ។ សូមផ្តោតលើមិត្តភាពដែលអ្នកចង់កសាងឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Forgiving each other could let the friendship start a new chapter. Saying sorry plainly, and meaning it, may be what your friend has been waiting to hear.",
+        "km": "ការអភ័យទោសគ្នាទៅវិញទៅមក អាចឱ្យមិត្តភាពចាប់ផ្តើមជំពូកថ្មី។ ការសុំទោសត្រង់ៗ និងដោយស្មោះ អាចជាអ្វីដែលមិត្តរបស់អ្នកបានរង់ចាំស្តាប់។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "The friendship may be almost mended, with the hardest conversations already behind you. Meeting up in person, as you used to, could complete the healing.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាស្ទើរតែត្រូវបានជួសជុល ដោយការសន្ទនាលំបាកបំផុតបានកន្លងផុតហើយ។ ការជួបគ្នាផ្ទាល់ ដូចដែលអ្នកធ្លាប់ធ្វើ អាចបញ្ចប់ការជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Stopping at polite messages could leave the friendship feeling distant. Make sure you spend real moments together again, not just keep a truce.",
+        "km": "ការឈប់ត្រឹមសារគួរសម អាចធ្វើឱ្យមិត្តភាពមានអារម្មណ៍ឆ្ងាយ។ សូមប្រាកដថាអ្នកមានពេលពិតប្រាកដជាមួយគ្នាម្តងទៀត មិនមែនត្រឹមតែរក្សាបទឈប់បាញ់ទេ។"
+      },
+      "outcome": {
+        "en": "A complete reconciliation could bring the friendship full circle. Having come through a rift together, it may feel richer than before.",
+        "km": "ការផ្សះផ្សាពេញលេញ អាចនាំមិត្តភាពវិលជុំ។ ដោយបានឆ្លងកាត់ការបែកបាក់ជាមួយគ្នា វាអាចមានអារម្មណ៍សម្បូរបែបជាងមុន។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A fresh spark of courage may be what you need to reach out. Sending a simple, friendly message could be the first step toward repair.",
+        "km": "ភាពក្លាហានថ្មីមួយ ប្រហែលជាអ្វីដែលអ្នកត្រូវការដើម្បីឈោងទៅរក។ ការផ្ញើសាររួសរាយសាមញ្ញមួយ អាចជាជំហានដំបូងឆ្ពោះទៅរកការជួសជុល។"
+      },
+      "challenge": {
+        "en": "Reaching out on impulse without thinking it through could misfire. Consider what you want to say, and how your friend might hear it, first.",
+        "km": "ការឈោងទៅរកតាមចិត្តភ្លាមៗ ដោយមិនគិតឱ្យល្អិតល្អន់ អាចខុសគោលដៅ។ សូមពិចារណាពីអ្វីដែលអ្នកចង់និយាយ និងរបៀបដែលមិត្តរបស់អ្នកអាចស្តាប់វា ជាមុន។"
+      },
+      "outcome": {
+        "en": "A bold first move could spark a new beginning for the friendship. Your friend may welcome the chance to put the quarrel behind you both.",
+        "km": "ចលនាដំបូងដ៏ក្លាហាន អាចបញ្ឆេះការចាប់ផ្តើមថ្មីសម្រាប់មិត្តភាព។ មិត្តរបស់អ្នក អាចស្វាគមន៍ឱកាសដើម្បីទុកការឈ្លោះប្រកែកនៅពីក្រោយអ្នកទាំងពីរ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Planning how to approach your friend may help the reconciliation go well. Choosing the right setting and words could make a difference.",
+        "km": "ការរៀបចំផែនការពីរបៀបចូលទៅរកមិត្តរបស់អ្នក អាចជួយឱ្យការផ្សះផ្សាដំណើរការល្អ។ ការជ្រើសរើសកន្លែង និងពាក្យសម្តីត្រឹមត្រូវ អាចធ្វើឱ្យមានភាពខុសគ្នា។"
+      },
+      "challenge": {
+        "en": "Overplanning every word could stop you from ever making contact. Prepare the main thing you want to say, then reach out.",
+        "km": "ការរៀបចំផែនការរាល់ពាក្យហួសហេតុ អាចរារាំងអ្នកពីការទាក់ទងទាំងស្រុង។ សូមរៀបចំរឿងសំខាន់ដែលអ្នកចង់និយាយ បន្ទាប់មកឈោងទៅរក។"
+      },
+      "outcome": {
+        "en": "A well-planned approach could lead to a constructive conversation. You may both leave the meeting feeling hopeful about the friendship.",
+        "km": "វិធីសាស្ត្រដែលរៀបចំផែនការបានល្អ អាចនាំទៅរកការសន្ទនាដែលមានប្រយោជន៍។ អ្នកទាំងពីរអាចចាកចេញពីការជួបគ្នាដោយមានក្តីសង្ឃឹមអំពីមិត្តភាព។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Looking at the bigger picture of your friendship may help you see past the rift. Remembering all you have shared could give you reason to try.",
+        "km": "ការមើលរូបភាពធំនៃមិត្តភាពរបស់អ្នក អាចជួយអ្នកមើលហួសពីការបែកបាក់។ ការនឹកឃើញពីអ្វីៗទាំងអស់ដែលអ្នកបានចែករំលែក អាចផ្តល់ហេតុផលឱ្យអ្នកព្យាយាម។"
+      },
+      "challenge": {
+        "en": "Distance, whether physical or emotional, could make reconnecting feel daunting. Bridge it with a simple, regular message rather than one grand gesture.",
+        "km": "ចម្ងាយ ទោះជាផ្លូវកាយ ឬផ្លូវចិត្ត អាចធ្វើឱ្យការភ្ជាប់ទំនាក់ទំនងឡើងវិញមានអារម្មណ៍គួរឱ្យខ្លាច។ សូមភ្ជាប់វាដោយសារសាមញ្ញ និងទៀងទាត់ ជាជាងកាយវិការធំមួយ។"
+      },
+      "outcome": {
+        "en": "Keeping the long view could help the friendship recover and grow. Patience across distance may bring you back together in a way that lasts.",
+        "km": "ការរក្សាការមើលឆ្ងាយ អាចជួយមិត្តភាពឱ្យងើបឡើងវិញ និងរីកចម្រើន។ ការអត់ធ្មត់ឆ្លងចម្ងាយ អាចនាំអ្នកមកជួបគ្នាវិញតាមរបៀបដែលស្ថិតស្ថេរ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A relaxed, friendly setting may help you reconnect. Inviting your friend to something you used to enjoy together could ease the tension.",
+        "km": "បរិយាកាសធូរស្រាល និងរួសរាយ អាចជួយអ្នកភ្ជាប់ទំនាក់ទំនងឡើងវិញ។ ការអញ្ជើញមិត្តរបស់អ្នកទៅកាន់អ្វីមួយដែលអ្នកធ្លាប់រីករាយជាមួយគ្នា អាចបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Expecting a celebration to fix everything could leave the real hurt untouched. Make space for an honest talk as well as the fun.",
+        "km": "ការរំពឹងថាការអបអរនឹងជួសជុលអ្វីៗទាំងអស់ អាចទុកការឈឺចាប់ពិតមិនបានប៉ះពាល់។ សូមទុកលំហសម្រាប់ការនិយាយដោយស្មោះត្រង់ ក៏ដូចជាភាពសប្បាយដែរ។"
+      },
+      "outcome": {
+        "en": "Sharing a happy occasion could help seal the reconciliation. Celebrating the friendship together may remind you both why it matters.",
+        "km": "ការចែករំលែកឱកាសរីករាយ អាចជួយបិទត្រាការផ្សះផ្សា។ ការអបអរមិត្តភាពជាមួយគ្នា អាចរំលឹកអ្នកទាំងពីរពីមូលហេតុដែលវាសំខាន់។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "The friendship may have broken over competition or clashing opinions. Recognising that both of you wanted to be heard could open the way to repair.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានបែកបាក់ដោយសារការប្រកួតប្រជែង ឬមតិប៉ះទង្គិចគ្នា។ ការទទួលស្គាល់ថាអ្នកទាំងពីរចង់ឱ្យគេស្តាប់ អាចបើកផ្លូវទៅរកការជួសជុល។"
+      },
+      "challenge": {
+        "en": "Restarting the argument when you reconnect could undo your efforts. Agree to disagree on what no longer matters.",
+        "km": "ការចាប់ផ្តើមការឈ្លោះប្រកែកឡើងវិញនៅពេលអ្នកភ្ជាប់ទំនាក់ទំនង អាចបំផ្លាញការខិតខំរបស់អ្នក។ សូមព្រមព្រៀងថាខ្វែងគំនិតលើអ្វីដែលលែងសំខាន់។"
+      },
+      "outcome": {
+        "en": "Putting rivalry aside could let the friendship breathe again. Respecting each other's views may bring you closer than winning ever could.",
+        "km": "ការដាក់ការប្រជែងមួយឡែក អាចឱ្យមិត្តភាពដកដង្ហើមបានម្តងទៀត។ ការគោរពទស្សនៈរបស់គ្នាទៅវិញទៅមក អាចនាំអ្នកឱ្យខិតជិតគ្នាជាងការឈ្នះណាមួយ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Acknowledging your friend's good qualities may soften the path back to each other. Telling them what you have missed about them could mean a lot.",
+        "km": "ការទទួលស្គាល់គុណសម្បត្តិល្អរបស់មិត្តរបស់អ្នក អាចបន្ទន់ផ្លូវត្រឡប់ទៅរកគ្នាវិញ។ ការប្រាប់ពួកគេពីអ្វីដែលអ្នកបាននឹករលឹកអំពីពួកគេ អាចមានន័យច្រើន។"
+      },
+      "challenge": {
+        "en": "Treating the reconciliation as a win for your side could reopen the wound. Let peace be something you both achieved together.",
+        "km": "ការចាត់ទុកការផ្សះផ្សាជាជ័យជម្នះសម្រាប់ភាគីរបស់អ្នក អាចបើករបួសឡើងវិញ។ សូមឱ្យសន្តិភាពជាអ្វីដែលអ្នកទាំងពីរបានសម្រេចជាមួយគ្នា។"
+      },
+      "outcome": {
+        "en": "Showing respect and appreciation could restore your friend's trust in you. A friendship rebuilt with grace may feel like a shared achievement.",
+        "km": "ការបង្ហាញការគោរព និងការកោតសរសើរ អាចស្តារការទុកចិត្តរបស់មិត្តរបស់អ្នកលើអ្នក។ មិត្តភាពដែលកសាងឡើងវិញដោយសុភាព អាចមានអារម្មណ៍ដូចជាសមិទ្ធផលរួម។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may feel you need to defend yourself over what happened. Standing by your truth while staying open to your friend's could balance things.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវការពារខ្លួនឯងអំពីអ្វីដែលបានកើតឡើង។ ការប្រកាន់ខ្ជាប់ការពិតរបស់អ្នក ខណៈនៅបើកចិត្តចំពោះការពិតរបស់មិត្តរបស់អ្នក អាចធ្វើឱ្យអ្វីៗមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Being too defensive could keep your friend at a distance. Listen to their hurt before explaining your side of the story.",
+        "km": "ការការពារខ្លួនខ្លាំងពេក អាចរក្សាមិត្តរបស់អ្នកឱ្យនៅឆ្ងាយ។ សូមស្តាប់ការឈឺចាប់របស់ពួកគេ មុនពេលពន្យល់ភាគីរបស់អ្នកនៃរឿងរ៉ាវ។"
+      },
+      "outcome": {
+        "en": "Holding your ground kindly could earn respect and pave the way to reconciliation. Clear, gentle honesty may help you meet in the middle.",
+        "km": "ការរក្សាជំហររបស់អ្នកដោយសប្បុរស អាចទទួលបានការគោរព និងត្រួសត្រាយផ្លូវទៅរកការផ្សះផ្សា។ ភាពស្មោះត្រង់ច្បាស់លាស់ និងទន់ភ្លន់ អាចជួយអ្នកជួបគ្នានៅកណ្តាល។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Quick, sincere contact may help before the distance grows any wider. A short message saying you are thinking of them could reopen communication.",
+        "km": "ការទាក់ទងរហ័ស និងស្មោះត្រង់ អាចជួយ មុនពេលចម្ងាយកាន់តែធំ។ សារខ្លីមួយដែលនិយាយថាអ្នកកំពុងគិតពីពួកគេ អាចបើកការទំនាក់ទំនងឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Firing off messages in the heat of emotion could make things worse. Write calmly, and read it again before sending.",
+        "km": "ការផ្ញើសារក្នុងពេលអារម្មណ៍ក្តៅ អាចធ្វើឱ្យអ្វីៗកាន់តែអាក្រក់។ សូមសរសេរដោយស្ងប់ស្ងាត់ ហើយអានវាម្តងទៀតមុនពេលផ្ញើ។"
+      },
+      "outcome": {
+        "en": "Prompt, thoughtful contact could get the friendship moving again. Once messages start flowing both ways, closeness may follow naturally.",
+        "km": "ការទាក់ទងរហ័ស និងគិតគូរ អាចធ្វើឱ្យមិត្តភាពចាប់ផ្តើមផ្លាស់ទីម្តងទៀត។ នៅពេលសារចាប់ផ្តើមហូរទាំងសងខាង ភាពស្និទ្ធស្នាលអាចកើតឡើងដោយធម្មជាតិ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may be weary of this rift, still caring but tired of the strain. Recognising that weariness in yourself could help you approach your friend gently.",
+        "km": "អ្នកប្រហែលជានឿយណាយនឹងការបែកបាក់នេះ នៅតែយកចិត្តទុកដាក់ ប៉ុន្តែហត់នឿយនឹងភាពតានតឹង។ ការទទួលស្គាល់ភាពនឿយណាយនោះក្នុងខ្លួនឯង អាចជួយអ្នកចូលទៅរកមិត្តរបស់អ្នកដោយទន់ភ្លន់។"
+      },
+      "challenge": {
+        "en": "Expecting your friend to be hostile could make you guarded before you even begin. Give them the benefit of the doubt in your first message.",
+        "km": "ការរំពឹងថាមិត្តរបស់អ្នកនឹងប្រឆាំង អាចធ្វើឱ្យអ្នកប្រុងប្រយ័ត្ន មុនពេលអ្នកចាប់ផ្តើម។ សូមសន្មតល្អចំពោះពួកគេក្នុងសារដំបូងរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "One more patient effort could bring the long rift to an end. Your friend may be just as tired of the distance and glad you tried again.",
+        "km": "ការខិតខំដោយអត់ធ្មត់មួយទៀត អាចនាំការបែកបាក់ដ៏យូរនេះទៅរកទីបញ្ចប់។ មិត្តរបស់អ្នក អាចនឿយណាយនឹងចម្ងាយដូចគ្នា ហើយរីករាយដែលអ្នកបានព្យាយាមម្តងទៀត។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may be carrying the weight of this broken friendship alone. Recognising that repair takes two could ease the pressure you feel.",
+        "km": "អ្នកប្រហែលជាកំពុងទទួលបន្ទុកនៃមិត្តភាពដែលបែកបាក់នេះតែម្នាក់ឯង។ ការទទួលស្គាល់ថាការជួសជុលត្រូវការមនុស្សពីរនាក់ អាចបន្ធូរសម្ពាធដែលអ្នកមានអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Taking all the blame to smooth things over could leave you quietly resentful. Own your part fairly, without carrying more than is yours.",
+        "km": "ការទទួលយកការបន្ទោសទាំងអស់ ដើម្បីលុបលាងអ្វីៗ អាចធ្វើឱ្យអ្នកអាក់អន់ចិត្តស្ងាត់ៗ។ សូមទទួលស្គាល់ផ្នែករបស់អ្នកដោយយុត្តិធម៌ ដោយមិនទទួលបន្ទុកច្រើនជាងអ្វីដែលជារបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Sharing responsibility for repair could make the friendship lighter and more balanced. Both of you putting in effort may help it last.",
+        "km": "ការចែករំលែកការទទួលខុសត្រូវសម្រាប់ការជួសជុល អាចធ្វើឱ្យមិត្តភាពស្រាល និងមានតុល្យភាពជាងមុន។ ការដែលអ្នកទាំងពីរដាក់ការខិតខំ អាចជួយឱ្យវាស្ថិតស្ថេរ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity about how your friend has been may be a gentle way back in. Asking about their life could show you care without reopening the quarrel.",
+        "km": "ការចង់ដឹងអំពីស្ថានភាពរបស់មិត្តរបស់អ្នក អាចជាផ្លូវទន់ភ្លន់ត្រឡប់ចូលវិញ។ ការសួរអំពីជីវិតរបស់ពួកគេ អាចបង្ហាញថាអ្នកយកចិត្តទុកដាក់ ដោយមិនបើកការឈ្លោះប្រកែកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Jumping to conclusions about why your friend went quiet could keep you apart. Ask rather than assume, and be ready to hear the answer.",
+        "km": "ការសន្និដ្ឋានភ្លាមៗអំពីមូលហេតុដែលមិត្តរបស់អ្នកស្ងាត់ អាចរក្សាអ្នកឱ្យនៅឆ្ងាយពីគ្នា។ សូមសួរ ជាជាងសន្មត ហើយត្រៀមខ្លួនស្តាប់ចម្លើយ។"
+      },
+      "outcome": {
+        "en": "Light, curious contact could slowly rebuild the friendship. Discovering what is new in each other's lives may spark fresh connection.",
+        "km": "ការទាក់ទងស្រាល និងចង់ដឹង អាចកសាងមិត្តភាពឡើងវិញបន្តិចម្តងៗ។ ការរកឃើញអ្វីដែលថ្មីក្នុងជីវិតរបស់គ្នាទៅវិញទៅមក អាចបញ្ឆេះការភ្ជាប់ទំនាក់ទំនងថ្មី។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold, direct action may help break a long silence. Calling or visiting your friend rather than waiting could show you mean it.",
+        "km": "សកម្មភាពក្លាហាន និងផ្ទាល់ អាចជួយបំបែកភាពស្ងៀមស្ងាត់ដ៏យូរ។ ការហៅទូរស័ព្ទ ឬការទៅលេងមិត្តរបស់អ្នក ជាជាងការរង់ចាំ អាចបង្ហាញថាអ្នកពិតជាចង់បាន។"
+      },
+      "challenge": {
+        "en": "Charging in with accusations or demands could push your friend further away. Approach them calmly, ready to listen first.",
+        "km": "ការប្រញាប់ចូលជាមួយការចោទប្រកាន់ ឬការទាមទារ អាចរុញមិត្តរបស់អ្នកឱ្យកាន់តែឆ្ងាយ។ សូមចូលទៅរកពួកគេដោយស្ងប់ស្ងាត់ ត្រៀមខ្លួនស្តាប់ជាមុន។"
+      },
+      "outcome": {
+        "en": "Decisive, warm action could end the stalemate and bring you back together. Your courage to reach out may be the turning point.",
+        "km": "សកម្មភាពម៉ឺងម៉ាត់ និងកក់ក្តៅ អាចបញ្ចប់ភាពជាប់គាំង និងនាំអ្នកមកជួបគ្នាវិញ។ ភាពក្លាហានរបស់អ្នកក្នុងការឈោងទៅរក អាចជាចំណុចបង្វែរ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your warmth and good humour may help ease the awkwardness of reconnecting. Being your genuine, friendly self could reassure your friend.",
+        "km": "ភាពកក់ក្តៅ និងភាពកំប្លុកកំប្លែងល្អរបស់អ្នក អាចជួយបន្ធូរភាពឆ្គងនៃការភ្ជាប់ទំនាក់ទំនងឡើងវិញ។ ការជាខ្លួនឯងដ៏រួសរាយពិតប្រាកដ អាចធានាដល់មិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Using charm to skip past the hurt could leave it festering. Address what happened, even briefly, before moving on.",
+        "km": "ការប្រើភាពទាក់ទាញដើម្បីរំលងការឈឺចាប់ អាចទុកវាឱ្យរលួយ។ សូមដោះស្រាយអ្វីដែលបានកើតឡើង ទោះបីខ្លីក៏ដោយ មុនពេលបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A confident, warm approach could bring the friendship back to life. Your generosity of spirit may make it easy for your friend to forgive.",
+        "km": "វិធីសាស្ត្រមានទំនុកចិត្ត និងកក់ក្តៅ អាចធ្វើឱ្យមិត្តភាពរស់ឡើងវិញ។ ចិត្តទូលាយរបស់អ្នក អាចធ្វើឱ្យមិត្តរបស់អ្នកងាយស្រួលអភ័យទោស។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Taking the lead in healing the rift may be the role you are suited to. Offering a clear way forward could give your friend confidence.",
+        "km": "ការនាំមុខក្នុងការជួសជុលការបែកបាក់ ប្រហែលជាតួនាទីដែលសមនឹងអ្នក។ ការផ្តល់ផ្លូវទៅមុខច្បាស់លាស់ អាចផ្តល់ទំនុកចិត្តដល់មិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Deciding how the friendship should be without asking could feel controlling. Invite your friend's ideas about how to move on.",
+        "km": "ការសម្រេចថាមិត្តភាពគួរតែយ៉ាងណា ដោយមិនសួរ អាចមានអារម្មណ៍ដូចជាការគ្រប់គ្រង។ សូមអញ្ជើញគំនិតរបស់មិត្តរបស់អ្នកអំពីរបៀបបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Inspiring, respectful leadership could help you both rebuild the friendship. A shared vision of what you want together may guide you.",
+        "km": "ការដឹកនាំដែលបំផុសគំនិត និងគោរព អាចជួយអ្នកទាំងពីរកសាងមិត្តភាពឡើងវិញ។ ចក្ខុវិស័យរួមនៃអ្វីដែលអ្នកចង់បានជាមួយគ្នា អាចណែនាំអ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "An open heart may be the key to mending this friendship. Telling your friend honestly that you miss them could be a powerful first step.",
+        "km": "ចិត្តបើកចំហ ប្រហែលជាគន្លឹះក្នុងការជួសជុលមិត្តភាពនេះ។ ការប្រាប់មិត្តរបស់អ្នកដោយស្មោះត្រង់ថាអ្នកនឹករលឹកពួកគេ អាចជាជំហានដំបូងដ៏មានឥទ្ធិពល។"
+      },
+      "challenge": {
+        "en": "Hiding your hurt behind pride could keep the rift open. Let your friend see that the friendship matters to you.",
+        "km": "ការលាក់ការឈឺចាប់របស់អ្នកនៅពីក្រោយមោទនភាព អាចរក្សាការបែកបាក់ឱ្យបើកចំហ។ សូមឱ្យមិត្តរបស់អ្នកឃើញថាមិត្តភាពនេះសំខាន់សម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Heartfelt honesty could open the way to a renewed, deeper friendship. Your vulnerability may invite theirs in return.",
+        "km": "ភាពស្មោះត្រង់ចេញពីចិត្ត អាចបើកផ្លូវទៅរកមិត្តភាពថ្មី និងជ្រៅជាងមុន។ ភាពងាយរងគ្រោះរបស់អ្នក អាចអញ្ជើញភាពងាយរងគ្រោះរបស់ពួកគេត្រឡប់មកវិញ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Meeting your friend one to one, as equals, may be the best way to begin repairing things. A quiet coffee or walk could give you both space to talk.",
+        "km": "ការជួបមិត្តរបស់អ្នកម្នាក់ទល់ម្នាក់ ក្នុងនាមជាមនុស្សស្មើគ្នា ប្រហែលជាវិធីល្អបំផុតក្នុងការចាប់ផ្តើមជួសជុលអ្វីៗ។ ការផឹកកាហ្វេ ឬការដើរលេងស្ងាត់ៗ អាចផ្តល់លំហដល់អ្នកទាំងពីរដើម្បីនិយាយ។"
+      },
+      "challenge": {
+        "en": "Discussing the rift in a group could embarrass your friend and keep them guarded. Choose a private, comfortable setting.",
+        "km": "ការពិភាក្សាពីការបែកបាក់ក្នុងក្រុម អាចធ្វើឱ្យមិត្តរបស់អ្នកខ្មាសអៀន ហើយរក្សាពួកគេឱ្យប្រុងប្រយ័ត្ន។ សូមជ្រើសរើសកន្លែងឯកជន និងស្រួល។"
+      },
+      "outcome": {
+        "en": "A sincere one-to-one conversation could restore the bond between you. Mutual understanding may make the friendship feel even closer than before.",
+        "km": "ការសន្ទនាម្នាក់ទល់ម្នាក់ដោយស្មោះត្រង់ អាចស្តារចំណងរវាងអ្នក។ ការយល់ដឹងគ្នាទៅវិញទៅមក អាចធ្វើឱ្យមិត្តភាពមានអារម្មណ៍ជិតស្និទ្ធជាងមុនទៅទៀត។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Mutual friends or a shared social circle may help bring you back together. A group gathering could offer a relaxed way to reconnect.",
+        "km": "មិត្តរួម ឬរង្វង់សង្គមរួម អាចជួយនាំអ្នកមកជួបគ្នាវិញ។ ការជួបជុំជាក្រុម អាចផ្តល់វិធីធូរស្រាលក្នុងការភ្ជាប់ទំនាក់ទំនងឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Asking friends to take sides could make the rift worse and harder to mend. Keep others out of the dispute itself.",
+        "km": "ការសុំឱ្យមិត្តភក្តិកាន់ជើង អាចធ្វើឱ្យការបែកបាក់កាន់តែអាក្រក់ និងពិបាកជួសជុល។ សូមរក្សាអ្នកដទៃឱ្យនៅក្រៅជម្លោះខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Reconnecting through shared friends could bring warmth and laughter back. Celebrating together may help the friendship heal naturally.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងឡើងវិញតាមរយៈមិត្តរួម អាចនាំភាពកក់ក្តៅ និងសំណើចត្រឡប់មកវិញ។ ការអបអរជាមួយគ្នា អាចជួយមិត្តភាពឱ្យជាសះស្បើយដោយធម្មជាតិ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel unsure whether this friendship is worth the effort to repair. Noticing any small signal of goodwill from your friend could help you decide.",
+        "km": "អ្នកប្រហែលជាមិនប្រាកដថាមិត្តភាពនេះសមនឹងការខិតខំជួសជុលឬអត់។ ការកត់សម្គាល់សញ្ញាតូចៗនៃឆន្ទៈល្អពីមិត្តរបស់អ្នក អាចជួយអ្នកសម្រេចចិត្ត។"
+      },
+      "challenge": {
+        "en": "Ignoring your friend's attempts to reach out could deepen the distance. Respond to their gestures, even with a brief reply.",
+        "km": "ការមិនអើពើនឹងការព្យាយាមឈោងមករករបស់មិត្តរបស់អ្នក អាចធ្វើឱ្យចម្ងាយកាន់តែជ្រៅ។ សូមឆ្លើយតបនឹងកាយវិការរបស់ពួកគេ ទោះបីជាចម្លើយខ្លីក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Accepting a peace offering could revive a friendship you thought was lost. Interest and warmth may return once the first awkwardness has passed.",
+        "km": "ការទទួលយកការផ្តល់សន្តិភាព អាចធ្វើឱ្យមិត្តភាពដែលអ្នកគិតថាបាត់បង់រស់ឡើងវិញ។ ចំណាប់អារម្មណ៍ និងភាពកក់ក្តៅអាចត្រឡប់មកវិញ នៅពេលភាពឆ្គងដំបូងបានកន្លងផុត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Grief over what was lost in this friendship may still weigh on you. Acknowledging that sadness could help you approach your friend with honesty.",
+        "km": "ការសោកសៅចំពោះអ្វីដែលបានបាត់បង់ក្នុងមិត្តភាពនេះ ប្រហែលជានៅតែសង្កត់លើអ្នក។ ការទទួលស្គាល់ភាពសោកសៅនោះ អាចជួយអ្នកចូលទៅរកមិត្តរបស់អ្នកដោយស្មោះត្រង់។"
+      },
+      "challenge": {
+        "en": "Dwelling only on the hurt could keep you from seeing what can still be saved. Look at the good that remains between you.",
+        "km": "ការគិតតែពីការឈឺចាប់ អាចរារាំងអ្នកពីការមើលឃើញអ្វីដែលនៅតែអាចសង្គ្រោះបាន។ សូមមើលអ្វីដែលល្អដែលនៅសល់រវាងអ្នក។"
+      },
+      "outcome": {
+        "en": "Healing the hurt together could bring a new depth to the friendship. What survived may prove stronger than what was lost.",
+        "km": "ការព្យាបាលការឈឺចាប់ជាមួយគ្នា អាចនាំមកនូវភាពជ្រៅថ្មីដល់មិត្តភាព។ អ្វីដែលនៅរស់រានមានជីវិត អាចបង្ហាញថារឹងមាំជាងអ្វីដែលបានបាត់បង់។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Shared memories may be a gentle bridge back to your friend. Reminding them of a happy moment you shared could warm the conversation.",
+        "km": "អនុស្សាវរីយ៍រួម អាចជាស្ពានទន់ភ្លន់ត្រឡប់ទៅរកមិត្តរបស់អ្នកវិញ។ ការរំលឹកពួកគេពីពេលរីករាយដែលអ្នកបានចែករំលែក អាចធ្វើឱ្យការសន្ទនាកក់ក្តៅ។"
+      },
+      "challenge": {
+        "en": "Longing for how the friendship used to be could make the present feel disappointing. Accept that you have both changed.",
+        "km": "ការនឹករលឹកពីរបៀបដែលមិត្តភាពធ្លាប់មាន អាចធ្វើឱ្យបច្ចុប្បន្នមានអារម្មណ៍គួរឱ្យខកចិត្ត។ សូមទទួលយកថាអ្នកទាំងពីរបានផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "A nostalgic, kind gesture could rekindle goodwill and open the door to repair. Old affection may still be there beneath the hurt.",
+        "km": "កាយវិការរំលឹកអនុស្សាវរីយ៍ និងសប្បុរស អាចបញ្ឆេះឆន្ទៈល្អឡើងវិញ និងបើកទ្វារទៅរកការជួសជុល។ ក្តីស្រលាញ់ចាស់ អាចនៅតែមាននៅពីក្រោមការឈឺចាប់។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "There may be several ways to approach this, and not all of them realistic. Thinking through which approach suits your friend best could help.",
+        "km": "ប្រហែលជាមានវិធីជាច្រើនដើម្បីចូលទៅរករឿងនេះ ហើយមិនមែនទាំងអស់សុទ្ធតែជាក់ស្តែងនោះទេ។ ការគិតឱ្យល្អិតល្អន់ថាវិធីសាស្ត្រណាដែលសមនឹងមិត្តរបស់អ្នកបំផុត អាចជួយបាន។"
+      },
+      "challenge": {
+        "en": "Imagining a perfect reunion could set you up for disappointment. Hope for honesty and goodwill rather than a flawless moment.",
+        "km": "ការស្រមៃពីការជួបជុំឡើងវិញដ៏ល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមសង្ឃឹមលើភាពស្មោះត្រង់ និងឆន្ទៈល្អ ជាជាងពេលវេលាគ្មានកំហុស។"
+      },
+      "outcome": {
+        "en": "Choosing a realistic, sincere approach could lead to genuine repair. Clear intentions may help you both move forward.",
+        "km": "ការជ្រើសរើសវិធីសាស្ត្រជាក់ស្តែង និងស្មោះត្រង់ អាចនាំទៅរកការជួសជុលពិតប្រាកដ។ ចេតនាច្បាស់លាស់ អាចជួយអ្នកទាំងពីរទៅមុខ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be wondering whether to try again or let this friendship go. Being honest with yourself about what you want could guide your choice.",
+        "km": "អ្នកប្រហែលជាកំពុងឆ្ងល់ថាគួរព្យាយាមម្តងទៀត ឬបោះបង់មិត្តភាពនេះ។ ការស្មោះត្រង់ជាមួយខ្លួនឯងអំពីអ្វីដែលអ្នកចង់បាន អាចណែនាំជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Walking away without a word could leave you both with unfinished feelings. If you decide to step back, say so kindly.",
+        "km": "ការចាកចេញដោយគ្មានពាក្យសម្តី អាចទុកអ្នកទាំងពីរជាមួយអារម្មណ៍មិនទាន់បញ្ចប់។ ប្រសិនបើអ្នកសម្រេចចិត្តដកខ្លួន សូមនិយាយវាដោយសប្បុរស។"
+      },
+      "outcome": {
+        "en": "Making a clear choice, whether to repair or release, could bring peace. Either path, taken with care, may leave you both at ease.",
+        "km": "ការធ្វើជម្រើសច្បាស់លាស់ ទោះជាការជួសជុល ឬការដោះលែង អាចនាំមកនូវសន្តិភាព។ ផ្លូវណាមួយ ដែលដើរដោយការយកចិត្តទុកដាក់ អាចទុកអ្នកទាំងពីរឱ្យស្រួលចិត្ត។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Remembering the contentment this friendship once brought may motivate you to repair it. Focusing on what you both enjoyed could guide your approach.",
+        "km": "ការនឹកឃើញពីការពេញចិត្តដែលមិត្តភាពនេះធ្លាប់នាំមក អាចជំរុញអ្នកឱ្យជួសជុលវា។ ការផ្តោតលើអ្វីដែលអ្នកទាំងពីរបានរីករាយ អាចណែនាំវិធីសាស្ត្ររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Pretending you are fine without the friendship could keep you from reaching out. Be honest with yourself about what you miss.",
+        "km": "ការធ្វើពុតថាអ្នកមិនអីទេដោយគ្មានមិត្តភាពនេះ អាចរារាំងអ្នកពីការឈោងទៅរក។ សូមស្មោះត្រង់ជាមួយខ្លួនឯងអំពីអ្វីដែលអ្នកនឹករលឹក។"
+      },
+      "outcome": {
+        "en": "Restoring the friendship could bring back the ease and joy you shared. Simple pleasures together may feel even sweeter after the rift.",
+        "km": "ការស្តារមិត្តភាព អាចនាំភាពងាយស្រួល និងសេចក្តីរីករាយដែលអ្នកបានចែករំលែកត្រឡប់មកវិញ។ ភាពរីករាយសាមញ្ញៗជាមួយគ្នា អាចមានអារម្មណ៍ផ្អែមជាងមុន បន្ទាប់ពីការបែកបាក់។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "This friend may feel like family, which makes the rift all the more painful. Remembering that bond could give you strength to reach out.",
+        "km": "មិត្តនេះ ប្រហែលជាមានអារម្មណ៍ដូចគ្រួសារ ដែលធ្វើឱ្យការបែកបាក់កាន់តែឈឺចាប់។ ការនឹកឃើញពីចំណងនោះ អាចផ្តល់កម្លាំងដល់អ្នកដើម្បីឈោងទៅរក។"
+      },
+      "challenge": {
+        "en": "Avoiding the issue to protect a shared circle could leave it unresolved. Speak to your friend privately and honestly.",
+        "km": "ការជៀសវាងបញ្ហា ដើម្បីការពាររង្វង់រួម អាចទុកវាមិនទាន់ដោះស្រាយ។ សូមនិយាយជាមួយមិត្តរបស់អ្នកដោយឯកជន និងស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Mending this friendship could restore a deep sense of belonging. The circle of people you think of as chosen family may feel whole again.",
+        "km": "ការជួសជុលមិត្តភាពនេះ អាចស្តារអារម្មណ៍ជ្រៅនៃការជាផ្នែកមួយ។ រង្វង់មនុស្សដែលអ្នកចាត់ទុកជាគ្រួសារដែលអ្នកជ្រើសរើស អាចមានអារម្មណ៍ពេញលេញម្តងទៀត។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A small creative gesture may say sorry more gently than words. Sharing a song, photo or drawing that means something to you both could reopen the door.",
+        "km": "កាយវិការច្នៃប្រឌិតតូចមួយ អាចសុំទោសដោយទន់ភ្លន់ជាងពាក្យសម្តី។ ការចែករំលែកបទចម្រៀង រូបថត ឬគំនូរដែលមានន័យសម្រាប់អ្នកទាំងពីរ អាចបើកទ្វារឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Being overly sensitive to your friend's first response could make you give up. Give them room to react in their own way.",
+        "km": "ការរសើបពេកចំពោះការឆ្លើយតបដំបូងរបស់មិត្តរបស់អ្នក អាចធ្វើឱ្យអ្នកបោះបង់។ សូមផ្តល់លំហឱ្យពួកគេប្រតិកម្មតាមរបៀបរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "A tender gesture could reopen your friend's heart. Small, sincere kindnesses may rebuild what words alone could not.",
+        "km": "កាយវិការទន់ភ្លន់ អាចបើកចិត្តរបស់មិត្តរបស់អ្នកឡើងវិញ។ ភាពសប្បុរសតូចៗ និងស្មោះត្រង់ អាចកសាងឡើងវិញនូវអ្វីដែលពាក្យសម្តីតែម្យ៉ាងមិនអាចធ្វើបាន។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "A sincere, heartfelt invitation may be the gentle start this friendship needs. Offering to meet on neutral, friendly ground could feel welcoming.",
+        "km": "ការអញ្ជើញដោយស្មោះ និងចេញពីចិត្ត អាចជាការចាប់ផ្តើមទន់ភ្លន់ដែលមិត្តភាពនេះត្រូវការ។ ការស្នើឱ្យជួបគ្នានៅកន្លែងអព្យាក្រឹត និងរួសរាយ អាចមានអារម្មណ៍ស្វាគមន៍។"
+      },
+      "challenge": {
+        "en": "Promising that everything will be perfect between you could put pressure on you both. Offer honesty and steady effort rather than grand promises.",
+        "km": "ការសន្យាថាអ្វីៗទាំងអស់នឹងល្អឥតខ្ចោះរវាងអ្នក អាចដាក់សម្ពាធលើអ្នកទាំងពីរ។ សូមផ្តល់ភាពស្មោះត្រង់ និងការខិតខំទៀងទាត់ ជាជាងការសន្យាធំៗ។"
+      },
+      "outcome": {
+        "en": "A heartfelt gesture could melt the distance between you. Your friend may respond warmly to sincerity offered with no conditions.",
+        "km": "កាយវិការចេញពីចិត្ត អាចរំលាយចម្ងាយរវាងអ្នក។ មិត្តរបស់អ្នក អាចឆ្លើយតបយ៉ាងកក់ក្តៅចំពោះភាពស្មោះត្រង់ដែលផ្តល់ដោយគ្មានលក្ខខណ្ឌ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your empathy may help you understand why your friend was hurt. Sensing their feelings could guide you toward the right words.",
+        "km": "ការយល់ចិត្តរបស់អ្នក អាចជួយអ្នកយល់ពីមូលហេតុដែលមិត្តរបស់អ្នកឈឺចាប់។ ការដឹងពីអារម្មណ៍របស់ពួកគេ អាចណែនាំអ្នកឆ្ពោះទៅរកពាក្យសម្តីត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Taking on all your friend's pain as your fault could leave you overwhelmed. Care deeply, but keep a fair view of what happened.",
+        "km": "ការទទួលយកការឈឺចាប់ទាំងអស់របស់មិត្តរបស់អ្នកជាកំហុសរបស់អ្នក អាចធ្វើឱ្យអ្នកលើសកម្លាំង។ សូមយកចិត្តទុកដាក់យ៉ាងជ្រៅ ប៉ុន្តែរក្សាទស្សនៈយុត្តិធម៌អំពីអ្វីដែលបានកើតឡើង។"
+      },
+      "outcome": {
+        "en": "Compassionate understanding could help your friend feel ready to reconcile. Empathy may bridge the gap that hurt created.",
+        "km": "ការយល់ដឹងដោយមេត្តាករុណា អាចជួយមិត្តរបស់អ្នកឱ្យមានអារម្មណ៍ត្រៀមខ្លួនផ្សះផ្សា។ ការយល់ចិត្ត អាចភ្ជាប់ចន្លោះដែលការឈឺចាប់បានបង្កើត។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Staying calm and emotionally steady may help you guide the reconciliation. Your composure could reassure your friend that it is safe to talk.",
+        "km": "ការនៅស្ងប់ និងនឹងនរផ្នែកអារម្មណ៍ អាចជួយអ្នកដឹកនាំការផ្សះផ្សា។ ភាពស្ងប់ស្ងាត់របស់អ្នក អាចធានាដល់មិត្តរបស់អ្នកថាវាមានសុវត្ថិភាពក្នុងការនិយាយ។"
+      },
+      "challenge": {
+        "en": "Seeming too detached could make your friend think you do not care. Let them see that the friendship matters to you.",
+        "km": "ការហាក់ដូចជាដាច់ឆ្ងាយពេក អាចធ្វើឱ្យមិត្តរបស់អ្នកគិតថាអ្នកមិនយកចិត្តទុកដាក់។ សូមឱ្យពួកគេឃើញថាមិត្តភាពនេះសំខាន់សម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Calm, caring guidance could help you both find your way back to friendship. Your balance may set a peaceful tone for what comes next.",
+        "km": "ការណែនាំដោយស្ងប់ស្ងាត់ និងយកចិត្តទុកដាក់ អាចជួយអ្នកទាំងពីររកផ្លូវត្រឡប់មកមិត្តភាពវិញ។ តុល្យភាពរបស់អ្នក អាចកំណត់បរិយាកាសសន្តិភាពសម្រាប់អ្វីដែលកើតឡើងបន្ទាប់។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Clear, honest words may be what this friendship needs to heal. Saying plainly what went wrong and what you regret could clear the air.",
+        "km": "ពាក្យសម្តីច្បាស់លាស់ និងស្មោះត្រង់ ប្រហែលជាអ្វីដែលមិត្តភាពនេះត្រូវការដើម្បីជាសះស្បើយ។ ការនិយាយឱ្យច្បាស់ពីអ្វីដែលខុស និងអ្វីដែលអ្នកសោកស្តាយ អាចជម្រះបរិយាកាស។"
+      },
+      "challenge": {
+        "en": "Using honesty as a weapon could wound your friend further. Be truthful, but speak with care for their feelings.",
+        "km": "ការប្រើភាពស្មោះត្រង់ជាអាវុធ អាចធ្វើឱ្យមិត្តរបស់អ្នកឈឺចាប់កាន់តែខ្លាំង។ សូមនិយាយការពិត ប៉ុន្តែនិយាយដោយយកចិត្តទុកដាក់ចំពោះអារម្មណ៍របស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "A frank, kind conversation could cut through the misunderstanding between you. Knowing where you both stand may let the friendship start fresh.",
+        "km": "ការសន្ទនាត្រង់ៗ និងសប្បុរស អាចកាត់តាមការយល់ច្រឡំរវាងអ្នក។ ការដឹងថាអ្នកទាំងពីរឈរនៅត្រង់ណា អាចឱ្យមិត្តភាពចាប់ផ្តើមឡើងវិញ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You and your friend may be stuck in a stalemate, each waiting for the other. Acknowledging the standoff could be the first step to ending it.",
+        "km": "អ្នក និងមិត្តរបស់អ្នក ប្រហែលជាជាប់គាំង ដោយម្នាក់ៗរង់ចាំម្នាក់ទៀត។ ការទទួលស្គាល់ភាពប្រឆាំងគ្នានោះ អាចជាជំហានដំបូងក្នុងការបញ្ចប់វា។"
+      },
+      "challenge": {
+        "en": "Refusing to engage until your friend apologises could keep you both apart. Consider being the one to make the first gentle move.",
+        "km": "ការបដិសេធមិនចូលរួម រហូតដល់មិត្តរបស់អ្នកសុំទោស អាចរក្សាអ្នកទាំងពីរឱ្យនៅឆ្ងាយពីគ្នា។ សូមពិចារណាធ្វើជាអ្នកធ្វើចលនាទន់ភ្លន់ដំបូង។"
+      },
+      "outcome": {
+        "en": "Breaking the silence could release the tension that has kept you apart. A small, honest step may lead to a full reconciliation.",
+        "km": "ការបំបែកភាពស្ងៀមស្ងាត់ អាចបញ្ចេញភាពតានតឹងដែលបានរក្សាអ្នកឱ្យនៅឆ្ងាយពីគ្នា។ ជំហានតូច និងស្មោះត្រង់មួយ អាចនាំទៅរកការផ្សះផ្សាពេញលេញ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Real hurt may lie at the heart of this broken friendship, perhaps a betrayal or harsh words. Acknowledging the pain on both sides could start the healing.",
+        "km": "ការឈឺចាប់ពិតប្រាកដ ប្រហែលជាស្ថិតនៅចំកណ្តាលនៃមិត្តភាពដែលបែកបាក់នេះ ប្រហែលជាការក្បត់ ឬពាក្យសម្តីធ្ងន់។ ការទទួលស្គាល់ការឈឺចាប់ទាំងសងខាង អាចចាប់ផ្តើមការជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Brushing past the hurt to rush reconciliation could leave wounds open. Give each other room to say what hurt before moving on.",
+        "km": "ការរំលងការឈឺចាប់ ដើម្បីប្រញាប់ផ្សះផ្សា អាចទុករបួសឱ្យបើកចំហ។ សូមផ្តល់លំហដល់គ្នាទៅវិញទៅមក ដើម្បីនិយាយពីអ្វីដែលធ្វើឱ្យឈឺចាប់ មុនពេលបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A sincere apology and patient listening could begin to heal the wound. Facing the pain together may leave the friendship more honest than before.",
+        "km": "ការសុំទោសដោយស្មោះ និងការស្តាប់ដោយអត់ធ្មត់ អាចចាប់ផ្តើមព្យាបាលរបួស។ ការប្រឈមមុខនឹងការឈឺចាប់ជាមួយគ្នា អាចធ្វើឱ្យមិត្តភាពស្មោះត្រង់ជាងមុន។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "A pause may be helping both of you cool down after the rift. Using this quiet stretch to reflect could prepare you for a calmer conversation.",
+        "km": "ការផ្អាកមួយ ប្រហែលជាកំពុងជួយអ្នកទាំងពីរឱ្យស្ងប់ចិត្ត បន្ទាប់ពីការបែកបាក់។ ការប្រើដំណាក់កាលស្ងាត់នេះដើម្បីពិចារណា អាចរៀបចំអ្នកសម្រាប់ការសន្ទនាស្ងប់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Letting the pause drift on with no end could turn a rift into a lasting break. Decide what first small step you will take to reach out.",
+        "km": "ការបណ្តោយឱ្យការផ្អាករសាត់ទៅដោយគ្មានទីបញ្ចប់ អាចប្តូរការបែកបាក់ទៅជាការបែកគ្នាជាប់លាប់។ សូមសម្រេចថាជំហានតូចដំបូងណាដែលអ្នកនឹងបោះ ដើម្បីឈោងទៅរក។"
+      },
+      "outcome": {
+        "en": "Coming back after a calm pause could make repair easier. Rested and clearer, you may both find the words you could not find before.",
+        "km": "ការត្រឡប់មកវិញបន្ទាប់ពីការផ្អាកដ៏ស្ងប់ អាចធ្វើឱ្យការជួសជុលងាយស្រួលជាងមុន។ ដោយបានសម្រាក និងច្បាស់ជាងមុន អ្នកទាំងពីរអាចរកឃើញពាក្យដែលអ្នកមិនអាចរកឃើញពីមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "The friendship may have broken in a fight where someone felt they lost. Recognising the bruised pride on both sides could help you approach gently.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាបានបែកបាក់ក្នុងការឈ្លោះប្រកែក ដែលនរណាម្នាក់មានអារម្មណ៍ថាខ្លួនចាញ់។ ការទទួលស្គាល់មោទនភាពដែលរងរបួសទាំងសងខាង អាចជួយអ្នកចូលទៅរកដោយទន់ភ្លន់។"
+      },
+      "challenge": {
+        "en": "Trying to win the argument again could end the friendship completely. Let go of being right and focus on what you both want.",
+        "km": "ការព្យាយាមឈ្នះការឈ្លោះប្រកែកម្តងទៀត អាចបញ្ចប់មិត្តភាពទាំងស្រុង។ សូមបោះបង់ការចង់ត្រូវ ហើយផ្តោតលើអ្វីដែលអ្នកទាំងពីរចង់បាន។"
+      },
+      "outcome": {
+        "en": "Choosing peace over pride could restore the friendship and your self-respect. A humble first step may earn more than winning ever did.",
+        "km": "ការជ្រើសរើសសន្តិភាពជាជាងមោទនភាព អាចស្តារមិត្តភាព និងការគោរពខ្លួនឯងរបស់អ្នក។ ជំហានដំបូងដោយរាបទាប អាចទទួលបានច្រើនជាងការឈ្នះណាមួយ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Both of you may be ready to move past the quarrel, even if neither has said so. Suggesting a fresh start could be the step that frees you both.",
+        "km": "អ្នកទាំងពីរប្រហែលជាត្រៀមខ្លួនឆ្លងកាត់ការឈ្លោះប្រកែក ទោះបីជាគ្មាននរណាបាននិយាយក៏ដោយ។ ការស្នើការចាប់ផ្តើមថ្មី អាចជាជំហានដែលរំដោះអ្នកទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Bringing up the old fight every time you meet could pull the friendship back into it. Agree that the quarrel is closed, and keep to it.",
+        "km": "ការលើកការឈ្លោះប្រកែកចាស់ឡើងរាល់ពេលអ្នកជួបគ្នា អាចទាញមិត្តភាពត្រឡប់ចូលក្នុងវាវិញ។ សូមព្រមព្រៀងថាការឈ្លោះប្រកែកត្រូវបានបិទ ហើយរក្សាវា។"
+      },
+      "outcome": {
+        "en": "A gentle transition could carry the friendship to calmer waters. Starting fresh together may feel like a relief to you both.",
+        "km": "ការផ្លាស់ប្តូរដោយទន់ភ្លន់ អាចនាំមិត្តភាពទៅរកទឹកស្ងប់ជាងមុន។ ការចាប់ផ្តើមថ្មីជាមួយគ្នា អាចមានអារម្មណ៍ធូរស្បើយសម្រាប់អ្នកទាំងពីរ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Something hidden, such as a secret, a half-truth or a misunderstanding, may lie behind this rift. Bringing it gently into the open could help.",
+        "km": "អ្វីមួយលាក់កំបាំង ដូចជាអាថ៌កំបាំង ការពិតពាក់កណ្តាល ឬការយល់ច្រឡំ ប្រហែលជាស្ថិតនៅពីក្រោយការបែកបាក់នេះ។ ការនាំវាមកបើកចំហដោយទន់ភ្លន់ អាចជួយបាន។"
+      },
+      "challenge": {
+        "en": "Trying to repair things through hints or go-betweens could breed more mistrust. Speak to your friend openly and directly.",
+        "km": "ការព្យាយាមជួសជុលអ្វីៗតាមរយៈការណែនាំដោយប្រយោល ឬអ្នកកណ្តាល អាចបង្កការមិនទុកចិត្តកាន់តែច្រើន។ សូមនិយាយជាមួយមិត្តរបស់អ្នកដោយចំហ និងផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Honesty about what really happened could rebuild trust between you. A friendship cleared of secrets may feel lighter and stronger.",
+        "km": "ភាពស្មោះត្រង់អំពីអ្វីដែលពិតជាបានកើតឡើង អាចកសាងការទុកចិត្តរវាងអ្នកឡើងវិញ។ មិត្តភាពដែលបានជម្រះអាថ៌កំបាំង អាចមានអារម្មណ៍ស្រាល និងរឹងមាំជាងមុន។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel stuck, believing the friendship cannot be saved. Questioning that belief could reveal more options than you think.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់គាំង ដោយជឿថាមិត្តភាពនេះមិនអាចសង្គ្រោះបាន។ ការសួរពីជំនឿនោះ អាចបង្ហាញជម្រើសច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "Feeling trapped by guilt or fear could stop you from reaching out. A gentle message is a small risk that could change a great deal.",
+        "km": "ការមានអារម្មណ៍ជាប់អន្ទាក់ដោយកំហុស ឬការភ័យខ្លាច អាចរារាំងអ្នកពីការឈោងទៅរក។ សារទន់ភ្លន់មួយ គឺជាការប្រថុយតូចមួយដែលអាចផ្លាស់ប្តូរបានច្រើន។"
+      },
+      "outcome": {
+        "en": "Finding the courage to take one step could free you both from the deadlock. A mutual friend or calm conversation may open a way through.",
+        "km": "ការរកភាពក្លាហានដើម្បីបោះជំហានមួយ អាចរំដោះអ្នកទាំងពីរពីភាពជាប់គាំង។ មិត្តរួម ឬការសន្ទនាស្ងប់ស្ងាត់ អាចបើកផ្លូវឆ្លងកាត់។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Fear of rejection may be stopping you from contacting your friend. Asking yourself what is the worst that could realistically happen might ease it.",
+        "km": "ការភ័យខ្លាចការបដិសេធ ប្រហែលជាកំពុងរារាំងអ្នកពីការទាក់ទងមិត្តរបស់អ្នក។ ការសួរខ្លួនឯងថាអ្វីអាក្រក់បំផុតដែលអាចកើតឡើងពិតប្រាកដ អាចបន្ធូរវា។"
+      },
+      "challenge": {
+        "en": "Replaying the falling-out over and over could feed anxiety and regret. Talk it through with someone you trust, and seek support if worry becomes overwhelming.",
+        "km": "ការរំលឹកការបែកបាក់ម្តងហើយម្តងទៀត អាចបញ្ចូលការថប់បារម្ភ និងការសោកស្តាយ។ សូមពិភាក្សាវាជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ហើយស្វែងរកការគាំទ្រ ប្រសិនបើការព្រួយបារម្ភហួសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Facing your fears and reaching out could bring real relief. Your friend's response may be kinder than the one you have been dreading.",
+        "km": "ការប្រឈមមុខនឹងការភ័យខ្លាចរបស់អ្នក ហើយឈោងទៅរក អាចនាំមកនូវការធូរស្បើយពិតប្រាកដ។ ការឆ្លើយតបរបស់មិត្តរបស់អ្នក អាចសប្បុរសជាងអ្វីដែលអ្នកបានភ័យខ្លាច។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "The friendship may feel completely broken, as if it has hit rock bottom. Accepting how bad things got could be a starting point for change.",
+        "km": "មិត្តភាពនេះ ប្រហែលជាមានអារម្មណ៍បែកបាក់ទាំងស្រុង ដូចជាបានធ្លាក់ដល់បាត។ ការទទួលយកថាអ្វីៗបានអាក្រក់ប៉ុណ្ណា អាចជាចំណុចចាប់ផ្តើមសម្រាប់ការផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Clinging to a friendship that keeps causing deep pain could harm you. Consider whether repair is possible, or whether peace means letting go.",
+        "km": "ការប្រកាន់ខ្ជាប់មិត្តភាពដែលបន្តបង្កការឈឺចាប់យ៉ាងជ្រៅ អាចធ្វើឱ្យអ្នករងគ្រោះ។ សូមពិចារណាថាតើការជួសជុលអាចទៅរួច ឬសន្តិភាពមានន័យថាការបោះបង់។"
+      },
+      "outcome": {
+        "en": "From the lowest point, the friendship could be rebuilt on honest ground, or ended with grace. Either way, healing may begin.",
+        "km": "ពីចំណុចទាបបំផុត មិត្តភាពអាចត្រូវបានកសាងឡើងវិញលើដីស្មោះត្រង់ ឬបញ្ចប់ដោយសុភាព។ ទោះយ៉ាងណាក៏ដោយ ការជាសះស្បើយអាចចាប់ផ្តើម។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Asking careful questions may help you understand what went wrong from your friend's side. Gathering the facts gently could reveal a path to repair.",
+        "km": "ការសួរសំណួរដោយប្រុងប្រយ័ត្ន អាចជួយអ្នកយល់ពីអ្វីដែលខុសពីភាគីរបស់មិត្តរបស់អ្នក។ ការប្រមូលការពិតដោយទន់ភ្លន់ អាចបង្ហាញផ្លូវទៅរកការជួសជុល។"
+      },
+      "challenge": {
+        "en": "Listening to gossip about your friend could harden your view and deepen the rift. Get their side of the story from them directly.",
+        "km": "ការស្តាប់ការនិយាយដើមអំពីមិត្តរបស់អ្នក អាចធ្វើឱ្យទស្សនៈរបស់អ្នករឹង និងធ្វើឱ្យការបែកបាក់កាន់តែជ្រៅ។ សូមទទួលរឿងរ៉ាវពីភាគីរបស់ពួកគេដោយផ្ទាល់ពីពួកគេ។"
+      },
+      "outcome": {
+        "en": "Asking rather than assuming could clear up what drove you apart. Listening to your friend's account with an open mind may bring the warmth back.",
+        "km": "ការសួរ ជាជាងការសន្មត អាចជម្រះអ្វីដែលបានបំបែកអ្នក។ ការស្តាប់ការរៀបរាប់របស់មិត្តរបស់អ្នកដោយចិត្តបើកចំហ អាចនាំភាពកក់ក្តៅត្រឡប់មកវិញ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Swift, direct action may be needed before the rift hardens. Reaching out clearly and honestly could stop the distance from growing.",
+        "km": "សកម្មភាពរហ័ស និងផ្ទាល់ ប្រហែលជាចាំបាច់ មុនពេលការបែកបាក់រឹង។ ការឈោងទៅរកដោយច្បាស់លាស់ និងស្មោះត្រង់ អាចបញ្ឈប់ចម្ងាយពីការកើនឡើង។"
+      },
+      "challenge": {
+        "en": "Rushing in with blunt words could make your friend defensive. Take a breath and lead with what you value about them.",
+        "km": "ការប្រញាប់ចូលជាមួយពាក្យសម្តីត្រង់ៗ អាចធ្វើឱ្យមិត្តរបស់អ្នកការពារខ្លួន។ សូមដកដង្ហើម ហើយចាប់ផ្តើមដោយអ្វីដែលអ្នកឱ្យតម្លៃអំពីពួកគេ។"
+      },
+      "outcome": {
+        "en": "Prompt, considerate action could bring the friendship back from the brink. Your willingness to speak up may earn your friend's respect.",
+        "km": "សកម្មភាពរហ័ស និងគិតគូរ អាចនាំមិត្តភាពត្រឡប់មកពីមាត់ជ្រោះវិញ។ ឆន្ទៈរបស់អ្នកក្នុងការនិយាយចេញ អាចទទួលបានការគោរពពីមិត្តរបស់អ្នក។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "A clear, fair view of what happened may help you approach your friend wisely. Seeing both sides honestly could guide what you say.",
+        "km": "ទស្សនៈច្បាស់លាស់ និងយុត្តិធម៌អំពីអ្វីដែលបានកើតឡើង អាចជួយអ្នកចូលទៅរកមិត្តរបស់អ្នកដោយប្រាជ្ញា។ ការមើលភាគីទាំងពីរដោយស្មោះត្រង់ អាចណែនាំអ្វីដែលអ្នកនិយាយ។"
+      },
+      "challenge": {
+        "en": "Coming across as cold or critical could make your friend feel judged. Balance honesty with warmth so they can hear you.",
+        "km": "ការមើលទៅត្រជាក់ ឬរិះគន់ អាចធ្វើឱ្យមិត្តរបស់អ្នកមានអារម្មណ៍ថាត្រូវបានវិនិច្ឆ័យ។ សូមថ្លឹងថ្លែងភាពស្មោះត្រង់ជាមួយភាពកក់ក្តៅ ដើម្បីឱ្យពួកគេអាចស្តាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Fair, honest boundaries could help the friendship restart on healthier terms. Clarity about what you both need may prevent the same rift recurring.",
+        "km": "ព្រំដែនយុត្តិធម៌ និងស្មោះត្រង់ អាចជួយមិត្តភាពចាប់ផ្តើមឡើងវិញលើលក្ខខណ្ឌដែលមានសុខភាពល្អជាង។ ភាពច្បាស់លាស់អំពីអ្វីដែលអ្នកទាំងពីរត្រូវការ អាចការពារការបែកបាក់ដដែលពីការកើតឡើងម្តងទៀត។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Calm, logical thinking may help you work out how to mend things. Separating facts from feelings could guide a sensible approach.",
+        "km": "ការគិតស្ងប់ស្ងាត់ និងមានតក្កវិជ្ជា អាចជួយអ្នករកវិធីជួសជុលអ្វីៗ។ ការបែងចែកការពិតចេញពីអារម្មណ៍ អាចណែនាំវិធីសាស្ត្រសមហេតុផល។"
+      },
+      "challenge": {
+        "en": "Treating the rift as a problem to solve rather than a hurt to heal could feel cold. Make room for your friend's feelings as well as the facts.",
+        "km": "ការចាត់ទុកការបែកបាក់ជាបញ្ហាដែលត្រូវដោះស្រាយ ជាជាងការឈឺចាប់ដែលត្រូវព្យាបាល អាចមានអារម្មណ៍ត្រជាក់។ សូមទុកកន្លែងសម្រាប់អារម្មណ៍របស់មិត្តរបស់អ្នក ក៏ដូចជាការពិតដែរ។"
+      },
+      "outcome": {
+        "en": "Wise, fair-minded words could help you both find a way back. Clear thinking combined with care may make the repair last.",
+        "km": "ពាក្យសម្តីមានប្រាជ្ញា និងយុត្តិធម៌ អាចជួយអ្នកទាំងពីររកផ្លូវត្រឡប់មកវិញ។ ការគិតច្បាស់លាស់ រួមជាមួយការយកចិត្តទុកដាក់ អាចធ្វើឱ្យការជួសជុលស្ថិតស្ថេរ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical, concrete gesture may be a good way to begin repairing things. Offering help with something your friend needs could show you care.",
+        "km": "កាយវិការជាក់ស្តែង និងរូបី អាចជាវិធីល្អក្នុងការចាប់ផ្តើមជួសជុលអ្វីៗ។ ការផ្តល់ជំនួយលើអ្វីមួយដែលមិត្តរបស់អ្នកត្រូវការ អាចបង្ហាញថាអ្នកយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Trying to buy back the friendship with gifts could feel hollow. Let your actions show genuine care rather than payment.",
+        "km": "ការព្យាយាមទិញមិត្តភាពមកវិញដោយអំណោយ អាចមានអារម្មណ៍ទទេ។ សូមឱ្យសកម្មភាពរបស់អ្នកបង្ហាញការយកចិត្តទុកដាក់ពិតប្រាកដ ជាជាងការបង់ថ្លៃ។"
+      },
+      "outcome": {
+        "en": "A small, sincere practical step could lay the foundation for a renewed friendship. Steady acts of kindness may help it grow again.",
+        "km": "ជំហានជាក់ស្តែងតូច និងស្មោះត្រង់មួយ អាចដាក់មូលដ្ឋានសម្រាប់មិត្តភាពថ្មី។ ទង្វើសប្បុរសទៀងទាត់ អាចជួយវាឱ្យរីកចម្រើនម្តងទៀត។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Busy lives may have let this friendship slip rather than any single quarrel. Finding a little room for your friend again could start the repair.",
+        "km": "ជីវិតមមាញឹក ប្រហែលជាបានធ្វើឱ្យមិត្តភាពនេះរអិលបាត់ ជាជាងការឈ្លោះប្រកែកណាមួយ។ ការរកកន្លែងបន្តិចសម្រាប់មិត្តរបស់អ្នកម្តងទៀត អាចចាប់ផ្តើមការជួសជុល។"
+      },
+      "challenge": {
+        "en": "Promising to meet up and then cancelling could deepen your friend's disappointment. Commit only to the plans you can truly keep.",
+        "km": "ការសន្យាថានឹងជួបគ្នា ហើយបន្ទាប់មកលុបចោល អាចធ្វើឱ្យការខកចិត្តរបស់មិត្តរបស់អ្នកកាន់តែជ្រៅ។ សូមប្តេជ្ញាតែផែនការដែលអ្នកអាចរក្សាបានពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Fitting your friend back into your life in small, steady ways could rebuild closeness. Regular, easy contact may keep the friendship balanced.",
+        "km": "ការបញ្ចូលមិត្តរបស់អ្នកត្រឡប់មកក្នុងជីវិតរបស់អ្នកវិញ តាមរបៀបតូចៗ និងទៀងទាត់ អាចកសាងភាពស្និទ្ធស្នាលឡើងវិញ។ ការទាក់ទងទៀងទាត់ និងងាយស្រួល អាចរក្សាមិត្តភាពឱ្យមានតុល្យភាព។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Doing something together, such as a shared project or activity, may help rebuild the friendship. Working side by side could ease tension naturally.",
+        "km": "ការធ្វើអ្វីមួយជាមួយគ្នា ដូចជាគម្រោង ឬសកម្មភាពរួម អាចជួយកសាងមិត្តភាពឡើងវិញ។ ការធ្វើការក្បែរគ្នា អាចបន្ធូរភាពតានតឹងដោយធម្មជាតិ។"
+      },
+      "challenge": {
+        "en": "Expecting your friend to do all the work of repair could leave things uneven. Share the effort of rebuilding, from making contact to making plans.",
+        "km": "ការរំពឹងឱ្យមិត្តរបស់អ្នកធ្វើការងារជួសជុលទាំងអស់ អាចធ្វើឱ្យអ្វីៗមិនស្មើគ្នា។ សូមចែករំលែកការខិតខំនៃការកសាងឡើងវិញ ចាប់ពីការទាក់ទង រហូតដល់ការរៀបចំផែនការ។"
+      },
+      "outcome": {
+        "en": "Building something together could restore trust and teamwork. Shared effort may remind you both why the friendship matters.",
+        "km": "ការកសាងអ្វីមួយជាមួយគ្នា អាចស្តារការទុកចិត្ត និងការងារជាក្រុម។ ការខិតខំរួមគ្នា អាចរំលឹកអ្នកទាំងពីរពីមូលហេតុដែលមិត្តភាពសំខាន់។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Holding on tightly to your hurt or pride may be keeping the friendship broken. Loosening your grip a little could open the way.",
+        "km": "ការកាន់ការឈឺចាប់ ឬមោទនភាពរបស់អ្នកយ៉ាងតឹង ប្រហែលជាកំពុងរក្សាមិត្តភាពឱ្យបែកបាក់។ ការបន្ធូរការក្តាប់បន្តិច អាចបើកផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Insisting your friend make amends before you do anything could keep you both stuck. Consider what you are willing to let go of.",
+        "km": "ការទទូចឱ្យមិត្តរបស់អ្នកកែតម្រូវ មុនពេលអ្នកធ្វើអ្វី អាចធ្វើឱ្យអ្នកទាំងពីរជាប់គាំង។ សូមពិចារណាពីអ្វីដែលអ្នកមានឆន្ទៈបោះបង់។"
+      },
+      "outcome": {
+        "en": "Letting go of resentment could free the friendship to grow again. The generosity you show in forgiving may well be returned to you.",
+        "km": "ការបោះបង់ការអាក់អន់ចិត្ត អាចរំដោះមិត្តភាពឱ្យរីកចម្រើនម្តងទៀត។ ចិត្តទូលាយដែលអ្នកបង្ហាញក្នុងការអភ័យទោស អាចត្រូវបានតបវិញដល់អ្នក។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Hard circumstances, such as stress, money worries or illness, may have strained this friendship. Recognising those pressures could help you both be gentler.",
+        "km": "កាលៈទេសៈលំបាក ដូចជាភាពតានតឹង ការព្រួយបារម្ភអំពីប្រាក់ ឬជំងឺ ប្រហែលជាបានធ្វើឱ្យមិត្តភាពនេះតានតឹង។ ការទទួលស្គាល់សម្ពាធទាំងនោះ អាចជួយអ្នកទាំងពីរឱ្យទន់ភ្លន់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Blaming your friend for pulling away during hardship could miss what they were facing. Ask how they have been before raising your hurt.",
+        "km": "ការបន្ទោសមិត្តរបស់អ្នកចំពោះការដកខ្លួនក្នុងពេលលំបាក អាចខកខានអ្វីដែលពួកគេកំពុងប្រឈម។ សូមសួរថាពួកគេសុខសប្បាយយ៉ាងណា មុនពេលលើកការឈឺចាប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Showing understanding for what your friend went through could bring you closer than before. Having faced hard things, even apart, may deepen the bond.",
+        "km": "ការបង្ហាញការយល់ដឹងចំពោះអ្វីដែលមិត្តរបស់អ្នកបានឆ្លងកាត់ អាចនាំអ្នកឱ្យខិតជិតគ្នាជាងមុន។ ការបានប្រឈមនឹងរឿងលំបាក សូម្បីតែដាច់ពីគ្នា អាចពង្រឹងចំណង។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "A fair exchange of apology and forgiveness may be the heart of repair. Offering yours first could invite your friend to do the same.",
+        "km": "ការផ្លាស់ប្តូរការសុំទោស និងការអភ័យទោសដោយយុត្តិធម៌ ប្រហែលជាបេះដូងនៃការជួសជុល។ ការផ្តល់របស់អ្នកមុន អាចអញ្ជើញមិត្តរបស់អ្នកឱ្យធ្វើដូចគ្នា។"
+      },
+      "challenge": {
+        "en": "Keeping score of who owes whom an apology could keep the friendship frozen. Let go of the tally and simply say what you are sorry for.",
+        "km": "ការរាប់ពិន្ទុថាអ្នកណាជំពាក់ការសុំទោសអ្នកណា អាចធ្វើឱ្យមិត្តភាពកកជាប់។ សូមបោះបង់ការរាប់នោះ ហើយគ្រាន់តែនិយាយពីអ្វីដែលអ្នកសោកស្តាយ។"
+      },
+      "outcome": {
+        "en": "Generous, balanced give and take could restore the friendship's warmth. Kindness flowing in both directions may keep it steady and strong.",
+        "km": "ការផ្តល់ និងទទួលដោយចិត្តទូលាយ និងមានតុល្យភាព អាចស្តារភាពកក់ក្តៅរបស់មិត្តភាព។ ភាពសប្បុរសដែលហូរទាំងសងខាង អាចរក្សាវាឱ្យនឹងនរ និងរឹងមាំ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Repairing this friendship may take patience rather than a single conversation. Small, steady gestures, repeated again and again, could rebuild trust.",
+        "km": "ការជួសជុលមិត្តភាពនេះ ប្រហែលជាត្រូវការការអត់ធ្មត់ ជាជាងការសន្ទនាតែមួយ។ កាយវិការតូចៗ និងទៀងទាត់ ដែលធ្វើម្តងហើយម្តងទៀត អាចកសាងការទុកចិត្តឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Giving up after one awkward exchange could end the repair before it starts. Keep making small, patient efforts, even if the first ones feel stiff.",
+        "km": "ការបោះបង់បន្ទាប់ពីការផ្លាស់ប្តូរឆ្គងមួយ អាចបញ្ចប់ការជួសជុល មុនពេលវាចាប់ផ្តើម។ សូមបន្តធ្វើការខិតខំតូចៗ និងអត់ធ្មត់ ទោះបីជាការខិតខំដំបូងមានអារម្មណ៍រឹងក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Patient, consistent effort could gradually restore the friendship. Trust rebuilt one small step at a time may prove the most lasting kind.",
+        "km": "ការខិតខំដោយអត់ធ្មត់ និងស៊ីសង្វាក់ អាចស្តារមិត្តភាពបន្តិចម្តងៗ។ ការទុកចិត្តដែលកសាងឡើងវិញម្តងមួយជំហានតូច អាចបង្ហាញថាជាប្រភេទស្ថិតស្ថេរបំផុត។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Showing through steady, reliable actions that you value your friend may rebuild trust. Keeping promises, however small, could make a real difference.",
+        "km": "ការបង្ហាញតាមរយៈសកម្មភាពទៀងទាត់ និងអាចទុកចិត្តបានថាអ្នកឱ្យតម្លៃមិត្តរបស់អ្នក អាចកសាងការទុកចិត្តឡើងវិញ។ ការរក្សាការសន្យា ទោះតូចយ៉ាងណា អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Arguing over the exact words of an old message could keep you going in circles. Focus on the friendship you want, not the record of the quarrel.",
+        "km": "ការឈ្លោះប្រកែកលើពាក្យពិតប្រាកដនៃសារចាស់មួយ អាចធ្វើឱ្យអ្នកវិលវល់។ សូមផ្តោតលើមិត្តភាពដែលអ្នកចង់បាន មិនមែនកំណត់ត្រានៃការឈ្លោះប្រកែកទេ។"
+      },
+      "outcome": {
+        "en": "Consistent, sincere effort could restore the friendship bit by bit. Turning up when you say you will may speak louder than any apology.",
+        "km": "ការខិតខំស៊ីសង្វាក់ និងស្មោះត្រង់ អាចស្តារមិត្តភាពបន្តិចម្តងៗ។ ការមកដល់នៅពេលអ្នកនិយាយថានឹងមក អាចនិយាយខ្លាំងជាងការសុំទោសណាមួយ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Feeling settled in your own life may help you reach out without neediness. Contacting your friend because you value them, not because you need them, could feel lighter.",
+        "km": "ការមានអារម្មណ៍នឹងនរក្នុងជីវិតរបស់អ្នក អាចជួយអ្នកឈោងទៅរក ដោយមិនត្រូវការខ្លាំង។ ការទាក់ទងមិត្តរបស់អ្នក ដោយសារអ្នកឱ្យតម្លៃពួកគេ មិនមែនដោយសារអ្នកត្រូវការពួកគេ អាចមានអារម្មណ៍ស្រាលជាង។"
+      },
+      "challenge": {
+        "en": "Telling yourself you are fine alone could stop you from trying to repair things. Be honest about whether you miss your friend.",
+        "km": "ការប្រាប់ខ្លួនឯងថាអ្នកមិនអីទេតែម្នាក់ឯង អាចរារាំងអ្នកពីការព្យាយាមជួសជុលអ្វីៗ។ សូមស្មោះត្រង់ថាតើអ្នកនឹករលឹកមិត្តរបស់អ្នកឬអត់។"
+      },
+      "outcome": {
+        "en": "A relaxed, confident approach could make it easy for your friend to say yes. Friends who choose each other freely may stay close more easily.",
+        "km": "វិធីសាស្ត្រធូរស្រាល និងមានទំនុកចិត្ត អាចធ្វើឱ្យមិត្តរបស់អ្នកងាយស្រួលយល់ព្រម។ មិត្តដែលជ្រើសរើសគ្នាដោយសេរី អាចនៅជិតស្និទ្ធបានងាយជាង។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "A long shared history may give you a strong reason to repair this friendship. Remembering all you have been through together could soften the rift.",
+        "km": "ប្រវត្តិរួមដ៏យូរ អាចផ្តល់ហេតុផលរឹងមាំឱ្យអ្នកជួសជុលមិត្តភាពនេះ។ ការនឹកឃើញពីអ្វីៗទាំងអស់ដែលអ្នកបានឆ្លងកាត់ជាមួយគ្នា អាចបន្ទន់ការបែកបាក់។"
+      },
+      "challenge": {
+        "en": "Letting one disagreement erase a long friendship could be a loss you regret. Weigh the rift against everything you share.",
+        "km": "ការបណ្តោយឱ្យការខ្វែងគំនិតមួយលុបមិត្តភាពដ៏យូរ អាចជាការបាត់បង់ដែលអ្នកសោកស្តាយ។ សូមថ្លឹងថ្លែងការបែកបាក់ជាមួយអ្វីៗទាំងអស់ដែលអ្នកចែករំលែក។"
+      },
+      "outcome": {
+        "en": "Honouring your shared history could help the friendship endure. Bonds with roots this deep may be strong enough to survive one painful quarrel.",
+        "km": "ការគោរពប្រវត្តិរួមរបស់អ្នក អាចជួយមិត្តភាពឱ្យស្ថិតស្ថេរ។ ចំណងដែលមានឫសជ្រៅបែបនេះ អាចរឹងមាំគ្រប់គ្រាន់ដើម្បីរស់រានពីការឈ្លោះប្រកែកដ៏ឈឺចាប់មួយ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Thinking about how you each handle hurt may help you mend this friendship. Noticing whether you go quiet or get sharp could change how you reach out.",
+        "km": "ការគិតអំពីរបៀបដែលអ្នកម្នាក់ៗដោះស្រាយការឈឺចាប់ អាចជួយអ្នកជួសជុលមិត្តភាពនេះ។ ការកត់សម្គាល់ថាតើអ្នកនៅស្ងៀម ឬនិយាយមុតស្រួច អាចផ្លាស់ប្តូររបៀបដែលអ្នកឈោងទៅរក។"
+      },
+      "challenge": {
+        "en": "Waiting for your friend to learn their lesson first could keep you apart. Show them what a better way of talking looks like yourself.",
+        "km": "ការរង់ចាំឱ្យមិត្តរបស់អ្នករៀនមេរៀនរបស់ពួកគេមុន អាចរក្សាអ្នកឱ្យនៅឆ្ងាយពីគ្នា។ សូមបង្ហាញពួកគេពីរបៀបនិយាយល្អជាងមុនដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Practising a kinder way of disagreeing could help the friendship come back stronger. Both of you may handle the next misunderstanding far better.",
+        "km": "ការអនុវត្តរបៀបខ្វែងគំនិតសប្បុរសជាងមុន អាចជួយមិត្តភាពត្រឡប់មកវិញកាន់តែរឹងមាំ។ អ្នកទាំងពីរ អាចដោះស្រាយការយល់ច្រឡំបន្ទាប់បានល្អជាងមុនឆ្ងាយ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "A steady, dependable approach may help you rebuild trust. Keeping in touch regularly, without pressure, could show your friend you are serious.",
+        "km": "វិធីសាស្ត្រនឹងនរ និងអាចទុកចិត្តបាន អាចជួយអ្នកកសាងការទុកចិត្តឡើងវិញ។ ការរក្សាទំនាក់ទំនងជាប្រចាំ ដោយគ្មានសម្ពាធ អាចបង្ហាញមិត្តរបស់អ្នកថាអ្នកពិតជាចង់បាន។"
+      },
+      "challenge": {
+        "en": "Waiting until the moment feels perfect could let the silence settle into habit. Send a simple message, even if the moment is not ideal.",
+        "km": "ការរង់ចាំរហូតដល់ពេលមានអារម្មណ៍ល្អឥតខ្ចោះ អាចបណ្តោយឱ្យភាពស្ងៀមស្ងាត់ក្លាយជាទម្លាប់។ សូមផ្ញើសារសាមញ្ញមួយ ទោះបីជាឱកាសមិនល្អបំផុតក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Reliable, patient effort could restore a friendship that lasts. Your friend may come to trust you again as they see you follow through.",
+        "km": "ការខិតខំដែលអាចទុកចិត្តបាន និងអត់ធ្មត់ អាចស្តារមិត្តភាពដែលស្ថិតស្ថេរ។ មិត្តរបស់អ្នក អាចត្រឡប់មកទុកចិត្តអ្នកវិញ ខណៈពួកគេឃើញអ្នកអនុវត្តតាម។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Practical kindness may help soften the rift. Offering to help with something your friend is dealing with could open the door.",
+        "km": "ភាពសប្បុរសជាក់ស្តែង អាចជួយបន្ទន់ការបែកបាក់។ ការផ្តល់ជំនួយលើអ្វីមួយដែលមិត្តរបស់អ្នកកំពុងដោះស្រាយ អាចបើកទ្វារ។"
+      },
+      "challenge": {
+        "en": "Caring for your friend while ignoring your own hurt could leave things unresolved. Make sure your feelings are heard too.",
+        "km": "ការយកចិត្តទុកដាក់មិត្តរបស់អ្នក ខណៈមិនអើពើនឹងការឈឺចាប់របស់អ្នកផ្ទាល់ អាចទុកអ្វីៗមិនទាន់ដោះស្រាយ។ សូមប្រាកដថាអារម្មណ៍របស់អ្នកក៏ត្រូវបានស្តាប់ដែរ។"
+      },
+      "outcome": {
+        "en": "Warm, practical care could rebuild closeness between you. A helpful gesture may say what words cannot.",
+        "km": "ការយកចិត្តទុកដាក់កក់ក្តៅ និងជាក់ស្តែង អាចកសាងភាពស្និទ្ធស្នាលរវាងអ្នកឡើងវិញ។ កាយវិការជួយមួយ អាចនិយាយអ្វីដែលពាក្យសម្តីមិនអាចនិយាយបាន។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Reaching out with steady generosity may help your friend feel safe to come back. Offering an easy, no-pressure invitation could make the first step simple.",
+        "km": "ការឈោងទៅរកដោយចិត្តទូលាយនឹងនរ អាចជួយមិត្តរបស់អ្នកឱ្យមានអារម្មណ៍សុវត្ថិភាពក្នុងការត្រឡប់មកវិញ។ ការផ្តល់ការអញ្ជើញងាយស្រួល និងគ្មានសម្ពាធ អាចធ្វើឱ្យជំហានដំបូងសាមញ្ញ។"
+      },
+      "challenge": {
+        "en": "Reminding your friend of favours you have done could make them feel indebted rather than welcome. Let your kindness come without strings.",
+        "km": "ការរំលឹកមិត្តរបស់អ្នកពីការអនុគ្រោះដែលអ្នកបានធ្វើ អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ជំពាក់ ជាជាងត្រូវបានស្វាគមន៍។ សូមឱ្យភាពសប្បុរសរបស់អ្នកមកដោយគ្មានលក្ខខណ្ឌ។"
+      },
+      "outcome": {
+        "en": "Steady, generous goodwill could restore a lasting friendship. Your friend may respect the grace with which you let the quarrel go.",
+        "km": "ឆន្ទៈល្អនឹងនរ និងចិត្តទូលាយ អាចស្តារមិត្តភាពស្ថិតស្ថេរ។ មិត្តរបស់អ្នក អាចគោរពសុភាពរាបសារដែលអ្នកបោះបង់ការឈ្លោះប្រកែក។"
+      }
+    }
+  }
+}

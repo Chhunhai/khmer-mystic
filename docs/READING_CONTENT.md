@@ -60,6 +60,7 @@
 | `src/content/readings/FF-04.json` | How can I support a family member? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/FF-05.json` | What does this friendship mean for me? | 78 cards × 3 positions, English and Khmer (lesson) |
 | `src/content/readings/FF-06.json` | How can I make new friends? | 78 cards × 3 positions, English and Khmer (how) |
+| `src/content/readings/FF-07.json` | How can I repair a broken friendship? | 78 cards × 3 positions, English and Khmer (how) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
