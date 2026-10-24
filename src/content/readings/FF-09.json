@@ -1,0 +1,1097 @@
+{
+  "questionId": "FF-09",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A fresh, honest look at what you will and will not accept may be your starting point. Noticing where you feel drained or resentful could show where a boundary is needed.",
+        "km": "ការមើលថ្មី និងស្មោះត្រង់ពីអ្វីដែលអ្នកនឹងទទួលយក និងមិនទទួលយក ប្រហែលជាចំណុចចាប់ផ្តើមរបស់អ្នក។ ការកត់សម្គាល់កន្លែងដែលអ្នកមានអារម្មណ៍អស់កម្លាំង ឬអាក់អន់ចិត្ត អាចបង្ហាញកន្លែងដែលត្រូវការព្រំដែន។"
+      },
+      "challenge": {
+        "en": "Saying yes to everything to keep people happy could leave you with nothing for yourself. Practise a light, friendly no on something small.",
+        "km": "ការយល់ព្រមចំពោះអ្វីៗទាំងអស់ ដើម្បីរក្សាមនុស្សឱ្យសប្បាយ អាចទុកអ្នកដោយគ្មានអ្វីសម្រាប់ខ្លួនឯង។ សូមហាត់ការបដិសេធដោយស្រាល និងរួសរាយលើរឿងតូចមួយ។"
+      },
+      "outcome": {
+        "en": "Trying out a new limit could feel freeing rather than unkind. People who care about you may adjust more easily than you expect.",
+        "km": "ការសាកល្បងដែនកំណត់ថ្មីមួយ អាចមានអារម្មណ៍ថាបានរំដោះ ជាជាងមិនសប្បុរស។ មនុស្សដែលយកចិត្តទុកដាក់អ្នក អាចសម្របខ្លួនបានងាយជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may already have the words and confidence to state what you need. Deciding clearly on one boundary could help you say it with ease.",
+        "km": "អ្នកប្រហែលជាមានពាក្យសម្តី និងទំនុកចិត្តរួចហើយ ដើម្បីបញ្ជាក់អ្វីដែលអ្នកត្រូវការ។ ការសម្រេចយ៉ាងច្បាស់លើព្រំដែនមួយ អាចជួយអ្នកនិយាយវាដោយងាយស្រួល។"
+      },
+      "challenge": {
+        "en": "Hinting at your limits instead of saying them could leave others confused. Use simple, direct words that say what you can do and what you cannot.",
+        "km": "ការណែនាំដោយប្រយោលពីដែនកំណត់របស់អ្នក ជាជាងនិយាយវា អាចធ្វើឱ្យអ្នកដទៃច្របូកច្របល់។ សូមប្រើពាក្យសម្តីសាមញ្ញ និងត្រង់ៗ ដែលប្រាប់ពីអ្វីដែលអ្នកអាចធ្វើ និងអ្វីដែលអ្នកមិនអាចធ្វើ។"
+      },
+      "outcome": {
+        "en": "Clear, confident limits could make your relationships easier to manage. People may respect you more when they know exactly where you stand.",
+        "km": "ដែនកំណត់ច្បាស់លាស់ និងមានទំនុកចិត្ត អាចធ្វើឱ្យទំនាក់ទំនងរបស់អ្នកងាយគ្រប់គ្រងជាងមុន។ មនុស្សអាចគោរពអ្នកកាន់តែច្រើន នៅពេលពួកគេដឹងយ៉ាងច្បាស់ថាអ្នកឈរនៅត្រង់ណា។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Your intuition may already know where your limits are. Paying attention to the quiet discomfort you feel around certain requests could guide you.",
+        "km": "វិចារណញាណរបស់អ្នក ប្រហែលជាដឹងរួចហើយថាដែនកំណត់របស់អ្នកនៅត្រង់ណា។ ការយកចិត្តទុកដាក់លើភាពមិនស្រួលស្ងាត់ៗដែលអ្នកមានជុំវិញសំណើខ្លះ អាចណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Keeping your needs secret and hoping others will guess could breed resentment. Say out loud what you need, calmly and kindly.",
+        "km": "ការរក្សាតម្រូវការរបស់អ្នកជាសម្ងាត់ ហើយសង្ឃឹមថាអ្នកដទៃនឹងទាយ អាចបង្កការអាក់អន់ចិត្ត។ សូមនិយាយចេញឮៗពីអ្វីដែលអ្នកត្រូវការ ដោយស្ងប់ស្ងាត់ និងសប្បុរស។"
+      },
+      "outcome": {
+        "en": "Trusting your inner sense of what is right for you could lead to calmer relationships. Quiet, firm limits may protect your energy without fuss.",
+        "km": "ការទុកចិត្តលើអារម្មណ៍ខាងក្នុងរបស់អ្នកអំពីអ្វីដែលត្រឹមត្រូវសម្រាប់អ្នក អាចនាំទៅរកទំនាក់ទំនងស្ងប់ជាងមុន។ ដែនកំណត់ស្ងាត់ៗ និងម៉ឺងម៉ាត់ អាចការពារថាមពលរបស់អ្នកដោយគ្មានភាពច្របូកច្របល់។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "You may be a natural carer, often putting others' needs before your own. Recognising that caring for yourself is also caring for them could be a good start.",
+        "km": "អ្នកប្រហែលជាអ្នកមើលថែពីធម្មជាតិ ដែលច្រើនតែដាក់តម្រូវការរបស់អ្នកដទៃមុនតម្រូវការរបស់អ្នក។ ការទទួលស្គាល់ថាការមើលថែខ្លួនឯង ក៏ជាការមើលថែពួកគេដែរ អាចជាការចាប់ផ្តើមល្អ។"
+      },
+      "challenge": {
+        "en": "Looking after everyone without limits could leave you exhausted and resentful. Decide how much help you can give gladly, and stop there.",
+        "km": "ការមើលថែអ្នករាល់គ្នាដោយគ្មានដែនកំណត់ អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងអាក់អន់ចិត្ត។ សូមសម្រេចថាអ្នកអាចផ្តល់ជំនួយប៉ុណ្ណាដោយរីករាយ ហើយឈប់ត្រឹមនោះ។"
+      },
+      "outcome": {
+        "en": "Caring for yourself as well as others could make your kindness last. Relationships may become warmer when your giving comes from a full cup.",
+        "km": "ការមើលថែខ្លួនឯង ក៏ដូចជាអ្នកដទៃ អាចធ្វើឱ្យភាពសប្បុរសរបស់អ្នកស្ថិតស្ថេរ។ ទំនាក់ទំនងអាចកាន់តែកក់ក្តៅ នៅពេលការផ្តល់របស់អ្នកមកពីពែងដែលពេញ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Structure and clear rules may come naturally to you. Putting a simple boundary in place, like agreed limits on calls or drop-in visits, could protect your peace.",
+        "km": "រចនាសម្ព័ន្ធ និងច្បាប់ច្បាស់លាស់ ប្រហែលជាមកដល់អ្នកដោយធម្មជាតិ។ ការដាក់ព្រំដែនសាមញ្ញមួយ ដូចជាដែនកំណត់ដែលព្រមព្រៀងគ្នាលើការហៅទូរស័ព្ទ ឬការមកលេងដោយមិនប្រាប់ អាចការពារសន្តិភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Laying down rigid rules could make loved ones feel shut out. Explain the reason behind each limit so it feels fair, not cold.",
+        "km": "ការដាក់ច្បាប់តឹងរ៉ឹង អាចធ្វើឱ្យមនុស្សជាទីស្រលាញ់មានអារម្មណ៍ថាត្រូវបានបិទទ្វារ។ សូមពន្យល់ហេតុផលនៅពីក្រោយដែនកំណត់នីមួយៗ ដើម្បីឱ្យវាមានអារម្មណ៍យុត្តិធម៌ មិនមែនត្រជាក់ទេ។"
+      },
+      "outcome": {
+        "en": "Fair, well-explained limits could bring order and calm to your relationships. Others may find it easier to respect boundaries they understand.",
+        "km": "ដែនកំណត់យុត្តិធម៌ និងពន្យល់បានល្អ អាចនាំសណ្តាប់ធ្នាប់ និងភាពស្ងប់ដល់ទំនាក់ទំនងរបស់អ្នក។ អ្នកដទៃអាចងាយស្រួលគោរពព្រំដែនដែលពួកគេយល់។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Family customs or expectations may shape what feels allowed to you. Separating the traditions you value from the ones that weigh on you could be a start.",
+        "km": "ទំនៀមទម្លាប់ ឬការរំពឹងទុករបស់គ្រួសារ ប្រហែលជាកំណត់អ្វីដែលមានអារម្មណ៍ថាត្រូវបានអនុញ្ញាតសម្រាប់អ្នក។ ការបែងចែកប្រពៃណីដែលអ្នកឱ្យតម្លៃ ពីប្រពៃណីដែលសង្កត់លើអ្នក អាចជាការចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Feeling you must do what has always been expected could make limits seem disloyal. Respect tradition while keeping room for your own needs.",
+        "km": "ការមានអារម្មណ៍ថាអ្នកត្រូវតែធ្វើអ្វីដែលតែងតែត្រូវបានរំពឹង អាចធ្វើឱ្យដែនកំណត់ហាក់ដូចជាមិនស្មោះត្រង់។ សូមគោរពប្រពៃណី ខណៈរក្សាកន្លែងសម្រាប់តម្រូវការរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Honouring family values in a way that also respects you could ease guilt. A trusted elder or counsellor may help you find a balance everyone can accept.",
+        "km": "ការគោរពគុណតម្លៃគ្រួសារតាមរបៀបដែលគោរពអ្នកផងដែរ អាចបន្ធូរអារម្មណ៍កំហុស។ មនុស្សចាស់ ឬអ្នកប្រឹក្សាដែលទុកចិត្ត អាចជួយអ្នករកតុល្យភាពដែលអ្នករាល់គ្នាអាចទទួលយកបាន។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Choosing what matters most to you may be at the heart of setting boundaries. Being clear about your values could make it easier to say no to what does not fit.",
+        "km": "ការជ្រើសរើសអ្វីដែលសំខាន់បំផុតសម្រាប់អ្នក ប្រហែលជាស្ថិតនៅចំកណ្តាលនៃការកំណត់ព្រំដែន។ ការច្បាស់លាស់អំពីគុណតម្លៃរបស់អ្នក អាចធ្វើឱ្យងាយស្រួលបដិសេធអ្វីដែលមិនសម។"
+      },
+      "challenge": {
+        "en": "Being pulled between two people's demands could leave you torn. Decide what you can offer each, and say it plainly to both.",
+        "km": "ការត្រូវបានទាញរវាងការទាមទាររបស់មនុស្សពីរនាក់ អាចធ្វើឱ្យអ្នកបែកចិត្ត។ សូមសម្រេចថាអ្នកអាចផ្តល់អ្វីដល់ម្នាក់ៗ ហើយនិយាយវាឱ្យច្បាស់ទៅកាន់ទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "Limits that reflect your true values could make your closest relationships healthier. Loved ones may come to see your boundaries as a sign of respect.",
+        "km": "ដែនកំណត់ដែលឆ្លុះបញ្ចាំងពីគុណតម្លៃពិតរបស់អ្នក អាចធ្វើឱ្យទំនាក់ទំនងជិតស្និទ្ធបំផុតរបស់អ្នកមានសុខភាពល្អជាងមុន។ មនុស្សជាទីស្រលាញ់ អាចមើលឃើញព្រំដែនរបស់អ្នកជាសញ្ញានៃការគោរព។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Firm determination may help you hold a boundary once you set it. Planning how you will respond if someone pushes back could keep you steady.",
+        "km": "ការតាំងចិត្តម៉ឺងម៉ាត់ អាចជួយអ្នករក្សាព្រំដែន នៅពេលអ្នកកំណត់វា។ ការរៀបចំផែនការពីរបៀបដែលអ្នកនឹងឆ្លើយតប ប្រសិនបើនរណាម្នាក់ជំទាស់ អាចរក្សាអ្នកឱ្យនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Pushing your limits on others too forcefully could spark conflict. Hold your line calmly, repeating it if needed, rather than fighting over it.",
+        "km": "ការជំរុញដែនកំណត់របស់អ្នកលើអ្នកដទៃខ្លាំងពេក អាចបញ្ឆេះជម្លោះ។ សូមរក្សាបន្ទាត់របស់អ្នកដោយស្ងប់ស្ងាត់ និយាយវាម្តងទៀតប្រសិនបើចាំបាច់ ជាជាងឈ្លោះប្រកែកលើវា។"
+      },
+      "outcome": {
+        "en": "Steady, consistent limits could earn you respect and more control over your own life. Holding firm a few times may teach others that you mean it.",
+        "km": "ដែនកំណត់នឹងនរ និងស៊ីសង្វាក់ អាចផ្តល់ឱ្យអ្នកនូវការគោរព និងការគ្រប់គ្រងកាន់តែច្រើនលើជីវិតរបស់អ្នក។ ការរក្សាជំហររឹងមាំពីរបីដង អាចបង្រៀនអ្នកដទៃថាអ្នកពិតជានិយាយមែន។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Gentle inner strength may be your best tool for setting boundaries. Saying no kindly but firmly could protect you without hurting others.",
+        "km": "កម្លាំងខាងក្នុងទន់ភ្លន់ ប្រហែលជាឧបករណ៍ល្អបំផុតរបស់អ្នកសម្រាប់ការកំណត់ព្រំដែន។ ការបដិសេធដោយសប្បុរស ប៉ុន្តែម៉ឺងម៉ាត់ អាចការពារអ្នកដោយមិនធ្វើឱ្យអ្នកដទៃឈឺចាប់។"
+      },
+      "challenge": {
+        "en": "Swallowing your frustration until it bursts out could damage relationships. State your limit calmly while it is still a small matter.",
+        "km": "ការលេបការខកចិត្តរបស់អ្នករហូតដល់វាផ្ទុះចេញ អាចធ្វើឱ្យខូចទំនាក់ទំនង។ សូមបញ្ជាក់ដែនកំណត់របស់អ្នកដោយស្ងប់ស្ងាត់ ខណៈវានៅជារឿងតូច។"
+      },
+      "outcome": {
+        "en": "Calm, kind firmness could help others accept your boundaries without resentment. Your quiet strength may become something they respect.",
+        "km": "ភាពម៉ឺងម៉ាត់ដោយស្ងប់ស្ងាត់ និងសប្បុរស អាចជួយអ្នកដទៃទទួលយកព្រំដែនរបស់អ្នក ដោយគ្មានការអាក់អន់ចិត្ត។ កម្លាំងស្ងាត់ៗរបស់អ្នក អាចក្លាយជាអ្វីដែលពួកគេគោរព។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Some quiet reflection may help you understand what you truly need from others. A little solitude could show you which relationships drain you and which nourish you.",
+        "km": "ការពិចារណាស្ងាត់ៗខ្លះ អាចជួយអ្នកយល់ពីអ្វីដែលអ្នកពិតជាត្រូវការពីអ្នកដទៃ។ ភាពឯកោបន្តិច អាចបង្ហាញអ្នកថាទំនាក់ទំនងណាដែលធ្វើឱ្យអ្នកអស់កម្លាំង និងមួយណាដែលចិញ្ចឹមអ្នក។"
+      },
+      "challenge": {
+        "en": "Withdrawing completely instead of stating a limit could leave others confused or hurt. Tell people what you need rather than simply disappearing.",
+        "km": "ការដកខ្លួនទាំងស្រុង ជាជាងបញ្ជាក់ដែនកំណត់ អាចធ្វើឱ្យអ្នកដទៃច្របូកច្របល់ ឬឈឺចាប់។ សូមប្រាប់មនុស្សពីអ្វីដែលអ្នកត្រូវការ ជាជាងគ្រាន់តែបាត់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Boundaries chosen with care could give you space to recharge and return refreshed. Wise limits may make you a better friend and family member.",
+        "km": "ព្រំដែនដែលជ្រើសរើសដោយប្រុងប្រយ័ត្ន អាចផ្តល់លំហឱ្យអ្នកបញ្ចូលថាមពលឡើងវិញ និងត្រឡប់មកវិញដោយស្រស់ថ្លា។ ដែនកំណត់ដ៏ឆ្លាតវៃ អាចធ្វើឱ្យអ្នកក្លាយជាមិត្ត និងសមាជិកគ្រួសារដែលល្អជាងមុន។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Changes in your life, such as a new job, move or relationship, may call for new boundaries. Adjusting your limits as circumstances shift could keep you balanced.",
+        "km": "ការផ្លាស់ប្តូរក្នុងជីវិតរបស់អ្នក ដូចជាការងារថ្មី ការផ្លាស់ទីលំនៅ ឬទំនាក់ទំនងថ្មី អាចទាមទារព្រំដែនថ្មី។ ការកែសម្រួលដែនកំណត់របស់អ្នក ខណៈកាលៈទេសៈប្រែប្រួល អាចរក្សាអ្នកឱ្យមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Holding on to old arrangements that no longer fit could leave you stretched thin. Review what you agreed to whenever your circumstances change.",
+        "km": "ការប្រកាន់ខ្ជាប់ការរៀបចំចាស់ៗដែលលែងសម អាចធ្វើឱ្យអ្នកតឹងតែងពេក។ សូមពិនិត្យឡើងវិញនូវអ្វីដែលអ្នកបានយល់ព្រម រាល់ពេលកាលៈទេសៈរបស់អ្នកផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Flexible, sensible boundaries could help you ride life's changes with less strain. People around you may adapt more readily when you explain what has changed.",
+        "km": "ព្រំដែនបត់បែន និងសមហេតុផល អាចជួយអ្នកឆ្លងកាត់ការផ្លាស់ប្តូរនៃជីវិតដោយមិនសូវតានតឹង។ មនុស្សជុំវិញអ្នក អាចសម្របខ្លួនបានងាយជាងមុន នៅពេលអ្នកពន្យល់ពីអ្វីដែលបានផ្លាស់ប្តូរ។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A sense of fairness may guide where your limits belong. Asking whether give and take in a relationship feels balanced could point to what needs to change.",
+        "km": "អារម្មណ៍នៃយុត្តិធម៌ អាចណែនាំកន្លែងដែលដែនកំណត់របស់អ្នកគួរនៅ។ ការសួរថាតើការផ្តល់ និងទទួលក្នុងទំនាក់ទំនងមួយមានតុល្យភាពឬអត់ អាចចង្អុលទៅរកអ្វីដែលត្រូវផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Setting different rules for different people could feel unfair to those affected. Apply your boundaries consistently, even with people you find it hard to refuse.",
+        "km": "ការកំណត់ច្បាប់ខុសៗគ្នាសម្រាប់មនុស្សផ្សេងៗ អាចមានអារម្មណ៍មិនយុត្តិធម៌ចំពោះអ្នកដែលរងផលប៉ះពាល់។ សូមអនុវត្តព្រំដែនរបស់អ្នកឱ្យស៊ីសង្វាក់ សូម្បីតែជាមួយមនុស្សដែលអ្នកពិបាកបដិសេធ។"
+      },
+      "outcome": {
+        "en": "Fair, balanced boundaries could bring more honesty and respect to your relationships. When everyone knows where they stand, there may be fewer quarrels.",
+        "km": "ព្រំដែនយុត្តិធម៌ និងមានតុល្យភាព អាចនាំភាពស្មោះត្រង់ និងការគោរពកាន់តែច្រើនដល់ទំនាក់ទំនងរបស់អ្នក។ នៅពេលអ្នករាល់គ្នាដឹងពីជំហររបស់ខ្លួន អាចមានការឈ្លោះប្រកែកតិចជាងមុន។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "You may have been setting your own needs aside for others again and again. Seeing that pattern clearly could be the first step to changing it.",
+        "km": "អ្នកប្រហែលជាបានទុកតម្រូវការផ្ទាល់ខ្លួនមួយឡែកសម្រាប់អ្នកដទៃម្តងហើយម្តងទៀត។ ការមើលឃើញគំរូនោះយ៉ាងច្បាស់ អាចជាជំហានដំបូងក្នុងការផ្លាស់ប្តូរវា។"
+      },
+      "challenge": {
+        "en": "Believing that a good person never says no could keep you stuck. Remember that limits can be an act of care, not selfishness.",
+        "km": "ការជឿថាមនុស្សល្អមិនដែលបដិសេធ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមចងចាំថាដែនកំណត់ អាចជាទង្វើនៃការយកចិត្តទុកដាក់ មិនមែនភាពអាត្មានិយមទេ។"
+      },
+      "outcome": {
+        "en": "Looking at your role differently could free you from constant self-sacrifice. A new view of kindness may include kindness to yourself.",
+        "km": "ការមើលតួនាទីរបស់អ្នកខុសពីមុន អាចរំដោះអ្នកពីការលះបង់ខ្លួនឯងជាប្រចាំ។ ទស្សនៈថ្មីនៃភាពសប្បុរស អាចរួមបញ្ចូលភាពសប្បុរសចំពោះខ្លួនឯង។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "An old pattern of giving too much may be ready to end. Letting go of the role you have always played could make room for healthier relationships.",
+        "km": "គំរូចាស់នៃការផ្តល់ច្រើនពេក ប្រហែលជាត្រៀមខ្លួនបញ្ចប់។ ការបោះបង់តួនាទីដែលអ្នកតែងតែដើរតួ អាចបើកកន្លែងសម្រាប់ទំនាក់ទំនងដែលមានសុខភាពល្អជាងមុន។"
+      },
+      "challenge": {
+        "en": "Fearing that changing your role will end relationships could keep you stuck. Some bonds may change, but the healthy ones can adapt.",
+        "km": "ការភ័យខ្លាចថាការផ្លាស់ប្តូរតួនាទីរបស់អ្នកនឹងបញ្ចប់ទំនាក់ទំនង អាចធ្វើឱ្យអ្នកជាប់គាំង។ ចំណងខ្លះអាចផ្លាស់ប្តូរ ប៉ុន្តែចំណងដែលមានសុខភាពល្អអាចសម្របខ្លួន។"
+      },
+      "outcome": {
+        "en": "Ending an unhealthy pattern could transform how others treat you. Relationships that survive the change may become stronger and more equal.",
+        "km": "ការបញ្ចប់គំរូមិនល្អ អាចប្រែក្លាយរបៀបដែលអ្នកដទៃប្រព្រឹត្តចំពោះអ្នក។ ទំនាក់ទំនងដែលរស់រានពីការផ្លាស់ប្តូរ អាចកាន់តែរឹងមាំ និងស្មើគ្នាជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Moderation may help you find boundaries that feel neither harsh nor too loose. Looking for a middle way could suit both you and those you love.",
+        "km": "ភាពសមរម្យ អាចជួយអ្នករកព្រំដែនដែលមានអារម្មណ៍មិនឃោរឃៅ និងមិនធូរពេក។ ការស្វែងរកផ្លូវកណ្តាល អាចសមនឹងទាំងអ្នក និងអ្នកដែលអ្នកស្រលាញ់។"
+      },
+      "challenge": {
+        "en": "Swinging between giving everything and cutting people off could confuse those around you. Aim for steady, moderate limits you can keep.",
+        "km": "ការប្តូរទៅមករវាងការផ្តល់អ្វីៗទាំងអស់ និងការកាត់ផ្តាច់មនុស្ស អាចធ្វើឱ្យមនុស្សជុំវិញអ្នកច្របូកច្របល់។ សូមផ្តោតលើដែនកំណត់នឹងនរ និងមធ្យម ដែលអ្នកអាចរក្សាបាន។"
+      },
+      "outcome": {
+        "en": "Balanced limits could bring a calmer rhythm to your relationships. Small, steady adjustments may feel kinder than sudden changes.",
+        "km": "ដែនកំណត់ដែលមានតុល្យភាព អាចនាំចង្វាក់ស្ងប់ជាងមុនដល់ទំនាក់ទំនងរបស់អ្នក។ ការកែសម្រួលតូចៗ និងទៀងទាត់ អាចមានអារម្មណ៍សប្បុរសជាងការផ្លាស់ប្តូរភ្លាមៗ។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Guilt, obligation or control may be making it hard to set limits. Recognising when someone uses these to get their way could help you stand firm.",
+        "km": "កំហុស កាតព្វកិច្ច ឬការគ្រប់គ្រង ប្រហែលជាកំពុងធ្វើឱ្យពិបាកកំណត់ដែនកំណត់។ ការទទួលស្គាល់នៅពេលនរណាម្នាក់ប្រើរបស់ទាំងនេះដើម្បីបានតាមចិត្ត អាចជួយអ្នកឈររឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Giving in to pressure or manipulation could keep you trapped in an unhealthy pattern. If anyone threatens or controls you, reach out to a trusted person or support service.",
+        "km": "ការចុះចាញ់សម្ពាធ ឬការបោកបញ្ឆោត អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់ក្នុងគំរូមិនល្អ។ ប្រសិនបើនរណាម្នាក់គំរាមកំហែង ឬគ្រប់គ្រងអ្នក សូមទាក់ទងមនុស្សដែលទុកចិត្ត ឬសេវាគាំទ្រ។"
+      },
+      "outcome": {
+        "en": "Breaking free from guilt-driven patterns could bring real relief. Firm, healthy boundaries may help you feel safe and in charge of your own life.",
+        "km": "ការរំដោះខ្លួនពីគំរូដែលជំរុញដោយកំហុស អាចនាំមកនូវការធូរស្បើយពិតប្រាកដ។ ព្រំដែនរឹងមាំ និងមានសុខភាពល្អ អាចជួយអ្នកឱ្យមានអារម្មណ៍សុវត្ថិភាព និងគ្រប់គ្រងជីវិតរបស់អ្នក។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A sudden event, such as a crisis or argument, may have shown you where your limits are. That shock could be the push to set clearer boundaries.",
+        "km": "ព្រឹត្តិការណ៍ភ្លាមៗ ដូចជាវិបត្តិ ឬការឈ្លោះប្រកែក ប្រហែលជាបានបង្ហាញអ្នកពីកន្លែងដែលដែនកំណត់របស់អ្នកស្ថិតនៅ។ ការភ្ញាក់ផ្អើលនោះ អាចជាការជំរុញឱ្យកំណត់ព្រំដែនកាន់តែច្បាស់។"
+      },
+      "challenge": {
+        "en": "Setting boundaries in the heat of anger could make them harsher than you intend. Let emotions settle, then state your limits clearly.",
+        "km": "ការកំណត់ព្រំដែនក្នុងពេលកំហឹងក្តៅ អាចធ្វើឱ្យវាឃោរឃៅជាងអ្វីដែលអ្នកមានបំណង។ សូមឱ្យអារម្មណ៍ស្ងប់ បន្ទាប់មកបញ្ជាក់ដែនកំណត់របស់អ្នកឱ្យច្បាស់។"
+      },
+      "outcome": {
+        "en": "Rebuilding with healthier limits after an upheaval could protect you from the same strain. What broke may make way for something sturdier.",
+        "km": "ការកសាងឡើងវិញជាមួយដែនកំណត់ដែលមានសុខភាពល្អជាង បន្ទាប់ពីភាពចលាចល អាចការពារអ្នកពីសម្ពាធដដែល។ អ្វីដែលបាក់ អាចបើកផ្លូវសម្រាប់អ្វីដែលរឹងមាំជាង។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope for healthier relationships may give you the courage to set limits. Picturing how much lighter life could feel might motivate you.",
+        "km": "ក្តីសង្ឃឹមសម្រាប់ទំនាក់ទំនងដែលមានសុខភាពល្អជាងមុន អាចផ្តល់ភាពក្លាហានដល់អ្នកដើម្បីកំណត់ដែនកំណត់។ ការស្រមៃពីរបៀបដែលជីវិតអាចមានអារម្មណ៍ស្រាលជាងមុន អាចជំរុញអ្នក។"
+      },
+      "challenge": {
+        "en": "Expecting others to welcome your boundaries straight away could lead to disappointment. Give them room to adjust, and hold steady.",
+        "km": "ការរំពឹងឱ្យអ្នកដទៃស្វាគមន៍ព្រំដែនរបស់អ្នកភ្លាមៗ អាចនាំឱ្យខកចិត្ត។ សូមផ្តល់លំហឱ្យពួកគេសម្របខ្លួន ហើយនៅនឹងនរ។"
+      },
+      "outcome": {
+        "en": "Healthy limits could bring renewed peace and optimism into your relationships. You may find more energy for the people who matter most.",
+        "km": "ដែនកំណត់ដែលមានសុខភាពល្អ អាចនាំសន្តិភាព និងសុទិដ្ឋិនិយមថ្មីចូលក្នុងទំនាក់ទំនងរបស់អ្នក។ អ្នកអាចរកឃើញថាមពលកាន់តែច្រើនសម្រាប់មនុស្សដែលសំខាន់បំផុត។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Confusion about what you owe others may be blurring your limits. Sorting out real obligations from imagined ones could bring clarity.",
+        "km": "ភាពច្របូកច្របល់អំពីអ្វីដែលអ្នកជំពាក់អ្នកដទៃ ប្រហែលជាកំពុងធ្វើឱ្យដែនកំណត់របស់អ្នកស្រអាប់។ ការបែងចែកកាតព្វកិច្ចពិតប្រាកដ ពីកាតព្វកិច្ចស្រមៃ អាចនាំមកនូវភាពច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Fear of others' reactions could make you give in before they even object. Check what people actually expect before assuming the worst.",
+        "km": "ការភ័យខ្លាចប្រតិកម្មរបស់អ្នកដទៃ អាចធ្វើឱ្យអ្នកចុះចាញ់ មុនពេលពួកគេជំទាស់។ សូមពិនិត្យថាមនុស្សពិតជារំពឹងអ្វី មុនពេលសន្មតរឿងអាក្រក់បំផុត។"
+      },
+      "outcome": {
+        "en": "Seeing your situation clearly could make it easier to set fair limits. Clarity may ease the anxiety that has kept you saying yes.",
+        "km": "ការមើលឃើញស្ថានភាពរបស់អ្នកយ៉ាងច្បាស់ អាចធ្វើឱ្យការកំណត់ដែនកំណត់យុត្តិធម៌ងាយស្រួលជាងមុន។ ភាពច្បាស់លាស់ អាចបន្ធូរការថប់បារម្ភដែលបានធ្វើឱ្យអ្នកបន្តយល់ព្រម។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Confidence and a positive outlook may make it easier to say what you need. Speaking openly and cheerfully about your limits could keep things light.",
+        "km": "ទំនុកចិត្ត និងទស្សនៈវិជ្ជមាន អាចធ្វើឱ្យងាយស្រួលនិយាយពីអ្វីដែលអ្នកត្រូវការ។ ការនិយាយដោយចំហ និងរីករាយអំពីដែនកំណត់របស់អ្នក អាចរក្សាអ្វីៗឱ្យស្រាល។"
+      },
+      "challenge": {
+        "en": "Joking your way around a limit could make others think you do not mean it. Be warm, but clear that your boundary is real.",
+        "km": "ការលេងសើចដើម្បីរំលងដែនកំណត់ អាចធ្វើឱ្យអ្នកដទៃគិតថាអ្នកមិននិយាយមែន។ សូមកក់ក្តៅ ប៉ុន្តែច្បាស់ថាព្រំដែនរបស់អ្នកជារឿងពិត។"
+      },
+      "outcome": {
+        "en": "Clear, friendly limits could leave you feeling free and joyful in your relationships. Others may enjoy your company more when you are not stretched thin.",
+        "km": "ដែនកំណត់ច្បាស់លាស់ និងរួសរាយ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍សេរី និងរីករាយក្នុងទំនាក់ទំនងរបស់អ្នក។ អ្នកដទៃអាចរីករាយនឹងវត្តមានរបស់អ្នកកាន់តែច្រើន នៅពេលអ្នកមិនតឹងតែងពេក។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Looking back honestly at where your limits were ignored may help you set better ones. Lessons from those moments could guide what you ask for from here.",
+        "km": "ការមើលទៅក្រោយដោយស្មោះត្រង់ពីកន្លែងដែលដែនកំណត់របស់អ្នកត្រូវបានមិនអើពើ អាចជួយអ្នកកំណត់ដែនកំណត់ល្អជាងមុន។ មេរៀនពីគ្រាទាំងនោះ អាចណែនាំអ្វីដែលអ្នកស្នើសុំពីទីនេះ។"
+      },
+      "challenge": {
+        "en": "Blaming yourself for past boundaries crossed could keep you stuck in guilt. Learn from what happened and focus on what you choose next.",
+        "km": "ការបន្ទោសខ្លួនឯងចំពោះព្រំដែនកន្លងមកដែលត្រូវបានឆ្លងកាត់ អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងអារម្មណ៍កំហុស។ សូមរៀនពីអ្វីដែលបានកើតឡើង ហើយផ្តោតលើអ្វីដែលអ្នកជ្រើសរើសបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A clear decision to protect your wellbeing could mark a fresh start in your relationships. You may feel renewed once old patterns are behind you.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់ដើម្បីការពារសុខុមាលភាពរបស់អ្នក អាចជាសញ្ញានៃការចាប់ផ្តើមថ្មីក្នុងទំនាក់ទំនងរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ស្រស់ថ្លាឡើងវិញ នៅពេលគំរូចាស់ៗនៅពីក្រោយអ្នក។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You may be close to a healthy balance between caring for others and caring for yourself. One small adjustment to how you share your energy could complete the picture.",
+        "km": "អ្នកប្រហែលជាជិតដល់តុល្យភាពដែលមានសុខភាពល្អ រវាងការមើលថែអ្នកដទៃ និងការមើលថែខ្លួនឯង។ ការកែសម្រួលតូចមួយលើរបៀបដែលអ្នកចែករំលែកថាមពល អាចបំពេញរូបភាពនោះ។"
+      },
+      "challenge": {
+        "en": "Relaxing your limits once things improve could let old patterns creep back. Keep the boundaries that brought you peace, even when everyone seems content.",
+        "km": "ការបន្ធូរដែនកំណត់របស់អ្នក នៅពេលអ្វីៗប្រសើរឡើង អាចបណ្តោយឱ្យគំរូចាស់ៗត្រឡប់មកវិញ។ សូមរក្សាព្រំដែនដែលបាននាំសន្តិភាពមកអ្នក ទោះបីគ្រប់គ្នាហាក់ពេញចិត្តក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Well-kept boundaries could bring a sense of wholeness and ease to your life. Your relationships may feel more balanced and fulfilling.",
+        "km": "ព្រំដែនដែលរក្សាបានល្អ អាចនាំអារម្មណ៍នៃភាពពេញលេញ និងភាពងាយស្រួលដល់ជីវិតរបស់អ្នក។ ទំនាក់ទំនងរបស់អ្នក អាចមានអារម្មណ៍មានតុល្យភាព និងពេញចិត្តជាងមុន។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A burst of energy and self-belief may help you set a new boundary. Deciding to start with one clear limit could spark confidence for more.",
+        "km": "ថាមពល និងជំនឿលើខ្លួនឯងភ្លាមៗ អាចជួយអ្នកកំណត់ព្រំដែនថ្មីមួយ។ ការសម្រេចចិត្តចាប់ផ្តើមជាមួយដែនកំណត់ច្បាស់លាស់មួយ អាចបញ្ឆេះទំនុកចិត្តសម្រាប់ដែនកំណត់បន្ថែម។"
+      },
+      "challenge": {
+        "en": "Announcing many new rules at once could overwhelm people around you. Introduce one change and let others get used to it.",
+        "km": "ការប្រកាសច្បាប់ថ្មីជាច្រើនក្នុងពេលតែមួយ អាចធ្វើឱ្យមនុស្សជុំវិញអ្នកលើសកម្លាំង។ សូមណែនាំការផ្លាស់ប្តូរមួយ ហើយឱ្យអ្នកដទៃស៊ាំនឹងវា។"
+      },
+      "outcome": {
+        "en": "A fresh start with clearer limits could bring new energy to your relationships. Feeling less drained may leave you more to give.",
+        "km": "ការចាប់ផ្តើមថ្មីជាមួយដែនកំណត់កាន់តែច្បាស់ អាចនាំថាមពលថ្មីដល់ទំនាក់ទំនងរបស់អ្នក។ ការមានអារម្មណ៍មិនសូវអស់កម្លាំង អាចទុកឱ្យអ្នកមានអ្វីច្រើនជាងមុនដើម្បីផ្តល់។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Planning which boundaries matter most may help you act with confidence. Writing down what you need from key relationships could clarify your choices.",
+        "km": "ការរៀបចំផែនការថាព្រំដែនណាដែលសំខាន់បំផុត អាចជួយអ្នកធ្វើសកម្មភាពដោយទំនុកចិត្ត។ ការសរសេរពីអ្វីដែលអ្នកត្រូវការពីទំនាក់ទំនងសំខាន់ៗ អាចបញ្ជាក់ជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Planning boundaries but never voicing them could leave things exactly as they are. Choose one conversation that matters and have it kindly.",
+        "km": "ការរៀបចំផែនការព្រំដែន ប៉ុន្តែមិនដែលនិយាយវាចេញ អាចទុកអ្វីៗដូចដែលវាជា។ សូមជ្រើសរើសការសន្ទនាមួយដែលសំខាន់ ហើយធ្វើវាដោយសប្បុរស។"
+      },
+      "outcome": {
+        "en": "A thought-through plan could help your boundaries hold under pressure. Knowing what you will say if someone pushes back may keep you from giving in.",
+        "km": "ផែនការដែលគិតល្អិតល្អន់ អាចជួយព្រំដែនរបស់អ្នកឱ្យស្ថិតស្ថេរក្រោមសម្ពាធ។ ការដឹងពីអ្វីដែលអ្នកនឹងនិយាយ ប្រសិនបើនរណាម្នាក់ជំទាស់ អាចការពារអ្នកពីការចុះចាញ់។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Thinking about the life you want may help you see which boundaries would support it. Looking ahead could make it easier to protect your energy.",
+        "km": "ការគិតអំពីជីវិតដែលអ្នកចង់បាន អាចជួយអ្នកមើលឃើញថាព្រំដែនណាដែលនឹងគាំទ្រវា។ ការមើលទៅមុខ អាចធ្វើឱ្យការការពារថាមពលរបស់អ្នកងាយស្រួលជាងមុន។"
+      },
+      "challenge": {
+        "en": "Feeling guilty about putting your own goals first could hold you back. Remember that your studies, work and rest deserve space too.",
+        "km": "ការមានអារម្មណ៍កំហុសចំពោះការដាក់គោលដៅរបស់អ្នកមុន អាចរារាំងអ្នក។ សូមចងចាំថាការសិក្សា ការងារ និងការសម្រាករបស់អ្នក ក៏សមនឹងទទួលបានលំហដែរ។"
+      },
+      "outcome": {
+        "en": "Boundaries that protect your goals could help you grow while staying close to others. Clear limits may make room for both your plans and your people.",
+        "km": "ព្រំដែនដែលការពារគោលដៅរបស់អ្នក អាចជួយអ្នករីកចម្រើន ខណៈនៅជិតស្និទ្ធជាមួយអ្នកដទៃ។ ដែនកំណត់ច្បាស់លាស់ អាចបើកកន្លែងសម្រាប់ទាំងផែនការ និងមនុស្សរបស់អ្នក។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A stable, happy home life may give you a secure base for setting limits. Feeling settled could help you ask for what you need calmly.",
+        "km": "ជីវិតនៅផ្ទះដែលមានស្ថិរភាព និងរីករាយ អាចផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានមានសុវត្ថិភាពសម្រាប់ការកំណត់ដែនកំណត់។ ការមានអារម្មណ៍នឹងនរ អាចជួយអ្នកស្នើសុំអ្វីដែលអ្នកត្រូវការដោយស្ងប់ស្ងាត់។"
+      },
+      "challenge": {
+        "en": "Over-committing to gatherings and events could leave you drained. It is all right to skip some invitations so you can rest and recover.",
+        "km": "ការប្តេជ្ញាចិត្តហួសហេតុចំពោះការជួបជុំ និងព្រឹត្តិការណ៍ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ វាមិនអីទេក្នុងការរំលងការអញ្ជើញខ្លះ ដើម្បីឱ្យអ្នកអាចសម្រាក និងស្តារកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Healthy limits could make the moments you share with loved ones more joyful. Celebrations may feel better when they are a choice, not an obligation.",
+        "km": "ដែនកំណត់ដែលមានសុខភាពល្អ អាចធ្វើឱ្យពេលដែលអ្នកចែករំលែកជាមួយមនុស្សជាទីស្រលាញ់កាន់តែរីករាយ។ ការអបអរអាចមានអារម្មណ៍ល្អជាងមុន នៅពេលវាជាជម្រើស មិនមែនជាកាតព្វកិច្ច។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Frequent clashes or competing demands may show where boundaries are needed. Noticing what sparks the most friction could guide you.",
+        "km": "ការប៉ះទង្គិចញឹកញាប់ ឬការទាមទារប្រកួតប្រជែងគ្នា អាចបង្ហាញកន្លែងដែលត្រូវការព្រំដែន។ ការកត់សម្គាល់ពីអ្វីដែលបញ្ឆេះការកកិតច្រើនបំផុត អាចណែនាំអ្នក។"
+      },
+      "challenge": {
+        "en": "Arguing every time someone oversteps could wear you out. State your limit once, clearly, and avoid getting drawn into debate.",
+        "km": "ការឈ្លោះប្រកែករាល់ពេលដែលនរណាម្នាក់ឆ្លងហួសដែនកំណត់ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមបញ្ជាក់ដែនកំណត់របស់អ្នកម្តង ឱ្យច្បាស់ ហើយជៀសវាងការត្រូវបានទាញចូលក្នុងការជជែកវែកញែក។"
+      },
+      "outcome": {
+        "en": "Calm, clear limits could reduce constant friction in your relationships. With fewer battles to fight, there may be more room for goodwill and fun.",
+        "km": "ដែនកំណត់ស្ងប់ស្ងាត់ និងច្បាស់លាស់ អាចកាត់បន្ថយការកកិតជាប្រចាំក្នុងទំនាក់ទំនងរបស់អ្នក។ ដោយមានការប្រយុទ្ធតិចជាងមុន អាចមានកន្លែងច្រើនសម្រាប់ឆន្ទៈល្អ និងភាពសប្បាយ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Confidence from past successes may help you speak up for yourself. Remembering times you held your ground could strengthen you.",
+        "km": "ទំនុកចិត្តពីភាពជោគជ័យកន្លងមក អាចជួយអ្នកនិយាយការពារខ្លួនឯង។ ការនឹកឃើញពីគ្រាដែលអ្នកបានរក្សាជំហររបស់អ្នក អាចពង្រឹងអ្នក។"
+      },
+      "challenge": {
+        "en": "Seeking approval for every boundary could weaken it. Your needs are valid even if others do not applaud them.",
+        "km": "ការស្វែងរកការយល់ព្រមសម្រាប់ព្រំដែននីមួយៗ អាចធ្វើឱ្យវាចុះខ្សោយ។ តម្រូវការរបស់អ្នកមានសុពលភាព ទោះបីជាអ្នកដទៃមិនសរសើរវាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Standing up for yourself could earn quiet respect from those around you. Each boundary you hold kindly may add to your sense of self-worth.",
+        "km": "ការក្រោកឈរការពារខ្លួនឯង អាចទទួលបានការគោរពស្ងាត់ៗពីមនុស្សជុំវិញអ្នក។ ព្រំដែននីមួយៗដែលអ្នករក្សាដោយសប្បុរស អាចបន្ថែមអារម្មណ៍នៃតម្លៃខ្លួនឯងរបស់អ្នក។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may already be defending your space against constant demands. Recognising that you have a right to do so could steady you.",
+        "km": "អ្នកប្រហែលជាកំពុងការពារលំហរបស់អ្នករួចហើយ ពីការទាមទារជាប្រចាំ។ ការទទួលស្គាល់ថាអ្នកមានសិទ្ធិធ្វើដូច្នេះ អាចធ្វើឱ្យអ្នកនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Feeling you must justify every limit could wear you down. A short, polite explanation is usually enough, and you need not argue it.",
+        "km": "ការមានអារម្មណ៍ថាអ្នកត្រូវតែពន្យល់រាល់ដែនកំណត់ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ ការពន្យល់ខ្លី និងគួរសម ជាធម្មតាគឺគ្រប់គ្រាន់ ហើយអ្នកមិនចាំបាច់ជជែកវែកញែកវាទេ។"
+      },
+      "outcome": {
+        "en": "Holding your ground with calm confidence could protect your wellbeing. People may stop testing limits that stay firm and friendly.",
+        "km": "ការរក្សាជំហររបស់អ្នកដោយទំនុកចិត្តស្ងប់ស្ងាត់ អាចការពារសុខុមាលភាពរបស់អ្នក។ មនុស្សអាចឈប់សាកល្បងដែនកំណត់ដែលនៅតែរឹងមាំ និងរួសរាយ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Messages and requests may be arriving faster than you can handle. Setting limits on how quickly you reply could ease the pressure.",
+        "km": "សារ និងសំណើ ប្រហែលជាកំពុងមកដល់លឿនជាងអ្វីដែលអ្នកអាចដោះស្រាយបាន។ ការកំណត់ដែនកំណត់លើល្បឿនដែលអ្នកឆ្លើយតប អាចបន្ធូរសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Feeling you must answer every message at once could keep you constantly on edge. Let people know you will reply when you can.",
+        "km": "ការមានអារម្មណ៍ថាអ្នកត្រូវតែឆ្លើយរាល់សារភ្លាមៗ អាចធ្វើឱ្យអ្នកតានតឹងជានិច្ច។ សូមប្រាប់មនុស្សថាអ្នកនឹងឆ្លើយតបនៅពេលអ្នកអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Clear limits on how reachable you are could bring calm back into your life. Others may adjust quickly once they know what to expect from you.",
+        "km": "ដែនកំណត់ច្បាស់លាស់លើកម្រិតដែលអ្នកអាចទាក់ទងបាន អាចនាំភាពស្ងប់ត្រឡប់មកជីវិតរបស់អ្នកវិញ។ អ្នកដទៃអាចសម្របខ្លួនយ៉ាងរហ័ស នៅពេលពួកគេដឹងថាត្រូវរំពឹងអ្វីពីអ្នក។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may be worn down from giving too much, still holding on but tired. That weariness could be a clear sign that a boundary is needed.",
+        "km": "អ្នកប្រហែលជាអស់កម្លាំងពីការផ្តល់ច្រើនពេក នៅតែតស៊ូ ប៉ុន្តែហត់នឿយ។ ភាពនឿយហត់នោះ អាចជាសញ្ញាច្បាស់ថាត្រូវការព្រំដែន។"
+      },
+      "challenge": {
+        "en": "Becoming defensive or prickly could push people away rather than set clear limits. State what you need calmly instead of building walls.",
+        "km": "ការក្លាយជាការពារខ្លួន ឬងាយខឹង អាចរុញមនុស្សឱ្យឆ្ងាយ ជាជាងកំណត់ដែនកំណត់ច្បាស់លាស់។ សូមបញ្ជាក់ពីអ្វីដែលអ្នកត្រូវការដោយស្ងប់ស្ងាត់ ជំនួសឱ្យការសង់ជញ្ជាំង។"
+      },
+      "outcome": {
+        "en": "Drawing a clear line could help you recover your strength. Protecting your energy may let you keep showing up for the people you love.",
+        "km": "ការគូសបន្ទាត់ច្បាស់លាស់ អាចជួយអ្នកស្តារកម្លាំងរបស់អ្នកឡើងវិញ។ ការការពារថាមពលរបស់អ្នក អាចឱ្យអ្នកបន្តនៅក្បែរមនុស្សដែលអ្នកស្រលាញ់។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "You may be carrying more than your share, perhaps caring for others or covering their tasks. Recognising the load could help you decide what to hand back.",
+        "km": "អ្នកប្រហែលជាកំពុងទទួលបន្ទុកច្រើនជាងចំណែករបស់អ្នក ប្រហែលជាការមើលថែអ្នកដទៃ ឬធ្វើកិច្ចការរបស់ពួកគេជំនួស។ ការទទួលស្គាល់បន្ទុកនោះ អាចជួយអ្នកសម្រេចថាត្រូវប្រគល់អ្វីត្រឡប់វិញ។"
+      },
+      "challenge": {
+        "en": "Taking on every request could leave you overwhelmed and resentful. Say no to at least one thing you do not have room for.",
+        "km": "ការទទួលយករាល់សំណើ អាចធ្វើឱ្យអ្នកលើសកម្លាំង និងអាក់អន់ចិត្ត។ សូមបដិសេធយ៉ាងហោចណាស់រឿងមួយដែលអ្នកគ្មានកន្លែងសម្រាប់។"
+      },
+      "outcome": {
+        "en": "Handing back responsibilities that are not yours could lighten your load. Relatives and friends may step up more readily once you step back.",
+        "km": "ការប្រគល់ការទទួលខុសត្រូវដែលមិនមែនជារបស់អ្នកត្រឡប់វិញ អាចបន្ធូរបន្ទុករបស់អ្នក។ សាច់ញាតិ និងមិត្តភក្តិ អាចបោះជំហានឡើងបានងាយជាងមុន នៅពេលអ្នកថយក្រោយ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "A curious, open approach may help you discover what kind of boundaries suit you. Experimenting with small limits could show what feels right.",
+        "km": "វិធីសាស្ត្របើកចំហ និងចង់ដឹង អាចជួយអ្នករកឃើញប្រភេទព្រំដែនដែលសមនឹងអ្នក។ ការសាកល្បងជាមួយដែនកំណត់តូចៗ អាចបង្ហាញពីអ្វីដែលមានអារម្មណ៍ត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Worrying about getting boundaries perfect could stop you from trying. Treat it as learning, and adjust as you go.",
+        "km": "ការព្រួយបារម្ភអំពីការកំណត់ព្រំដែនឱ្យល្អឥតខ្ចោះ អាចរារាំងអ្នកពីការព្យាយាម។ សូមចាត់ទុកវាជាការរៀន ហើយកែសម្រួលនៅពេលអ្នកទៅ។"
+      },
+      "outcome": {
+        "en": "Testing new limits with curiosity could help you find a comfortable balance. Each small step may teach you something useful.",
+        "km": "ការសាកល្បងដែនកំណត់ថ្មីដោយចង់ដឹង អាចជួយអ្នករកតុល្យភាពស្រួល។ ជំហានតូចៗនីមួយៗ អាចបង្រៀនអ្នកពីអ្វីមួយដែលមានប្រយោជន៍។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold energy may help you speak up about something that has bothered you. Acting decisively could break an old habit of staying silent.",
+        "km": "ថាមពលក្លាហាន អាចជួយអ្នកនិយាយចេញអំពីអ្វីមួយដែលបានរំខានអ្នក។ ការធ្វើសកម្មភាពម៉ឺងម៉ាត់ អាចបំបែកទម្លាប់ចាស់នៃការនៅស្ងៀម។"
+      },
+      "challenge": {
+        "en": "Setting a boundary in an angry rush could make it sound like an attack. Speak firmly but without heat, once you have cooled down.",
+        "km": "ការកំណត់ព្រំដែនក្នុងពេលខឹងប្រញាប់ប្រញាល់ អាចធ្វើឱ្យវាស្តាប់ទៅដូចជាការវាយប្រហារ។ សូមនិយាយដោយម៉ឺងម៉ាត់ ប៉ុន្តែគ្មានកំហឹង នៅពេលអ្នកស្ងប់ចិត្តហើយ។"
+      },
+      "outcome": {
+        "en": "Decisive, respectful action could change how others treat you. A boundary stated with confidence may be accepted more easily than you think.",
+        "km": "សកម្មភាពម៉ឺងម៉ាត់ និងគោរព អាចផ្លាស់ប្តូររបៀបដែលអ្នកដទៃប្រព្រឹត្តចំពោះអ្នក។ ព្រំដែនដែលបញ្ជាក់ដោយទំនុកចិត្ត អាចត្រូវបានទទួលយកងាយជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your warmth and self-assurance may make it easier for others to accept your limits. Saying no with a smile could keep relationships friendly.",
+        "km": "ភាពកក់ក្តៅ និងការជឿជាក់លើខ្លួនឯងរបស់អ្នក អាចធ្វើឱ្យអ្នកដទៃងាយស្រួលទទួលយកដែនកំណត់របស់អ្នក។ ការបដិសេធដោយស្នាមញញឹម អាចរក្សាទំនាក់ទំនងឱ្យរួសរាយ។"
+      },
+      "challenge": {
+        "en": "Being everyone's go-to helper could leave you with nothing left. Share the role and keep some energy for yourself.",
+        "km": "ការធ្វើជាអ្នកជួយដែលអ្នករាល់គ្នាងាកទៅរក អាចទុកអ្នកដោយគ្មានអ្វីនៅសល់។ សូមចែករំលែកតួនាទីនោះ ហើយរក្សាថាមពលខ្លះសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Confident, warm limits could let you stay generous without burning out. Your example may help others respect themselves too.",
+        "km": "ដែនកំណត់កក់ក្តៅ និងមានទំនុកចិត្ត អាចឱ្យអ្នកនៅតែចិត្តទូលាយ ដោយមិនអស់កម្លាំង។ គំរូរបស់អ្នក អាចជួយអ្នកដទៃឱ្យគោរពខ្លួនឯងផងដែរ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Clear vision about the life you want may help you decide where to draw lines. Leading your own life, rather than reacting to others, could feel empowering.",
+        "km": "ចក្ខុវិស័យច្បាស់លាស់អំពីជីវិតដែលអ្នកចង់បាន អាចជួយអ្នកសម្រេចថាត្រូវគូសបន្ទាត់នៅត្រង់ណា។ ការដឹកនាំជីវិតរបស់អ្នក ជាជាងប្រតិកម្មចំពោះអ្នកដទៃ អាចមានអារម្មណ៍ផ្តល់អំណាច។"
+      },
+      "challenge": {
+        "en": "Imposing your boundaries in a way that controls others could create resentment. Set limits on your own actions, not theirs.",
+        "km": "ការដាក់ព្រំដែនរបស់អ្នកតាមរបៀបដែលគ្រប់គ្រងអ្នកដទៃ អាចបង្កការអាក់អន់ចិត្ត។ សូមកំណត់ដែនកំណត់លើសកម្មភាពរបស់អ្នក មិនមែនរបស់ពួកគេទេ។"
+      },
+      "outcome": {
+        "en": "Leading your life with clear values could inspire healthier relationships around you. Friends and relatives may feel freer to set limits of their own.",
+        "km": "ការដឹកនាំជីវិតរបស់អ្នកដោយគុណតម្លៃច្បាស់លាស់ អាចបំផុសទំនាក់ទំនងដែលមានសុខភាពល្អជាងមុនជុំវិញអ្នក។ មិត្តភក្តិ និងសាច់ញាតិ អាចមានអារម្មណ៍សេរីជាងមុនក្នុងការកំណត់ដែនកំណត់ផ្ទាល់ខ្លួន។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Kindness toward yourself may be the foundation of healthy boundaries. Treating your own needs with the same care you give others could be a gentle start.",
+        "km": "ភាពសប្បុរសចំពោះខ្លួនឯង ប្រហែលជាមូលដ្ឋាននៃព្រំដែនដែលមានសុខភាពល្អ។ ការប្រព្រឹត្តចំពោះតម្រូវការរបស់អ្នក ដោយការយកចិត្តទុកដាក់ដូចដែលអ្នកផ្តល់ដល់អ្នកដទៃ អាចជាការចាប់ផ្តើមទន់ភ្លន់។"
+      },
+      "challenge": {
+        "en": "Fearing that limits will make you seem unloving could keep you saying yes. Remember that honest boundaries can deepen love rather than end it.",
+        "km": "ការភ័យខ្លាចថាដែនកំណត់នឹងធ្វើឱ្យអ្នកហាក់ដូចជាគ្មានក្តីស្រលាញ់ អាចធ្វើឱ្យអ្នកបន្តយល់ព្រម។ សូមចងចាំថាព្រំដែនស្មោះត្រង់ អាចពង្រឹងក្តីស្រលាញ់ ជាជាងបញ្ចប់វា។"
+      },
+      "outcome": {
+        "en": "Limits set with love could make your relationships more genuine and less strained. Others may feel safer knowing you will tell them the truth.",
+        "km": "ដែនកំណត់ដែលកំណត់ដោយក្តីស្រលាញ់ អាចធ្វើឱ្យទំនាក់ទំនងរបស់អ្នកពិតប្រាកដ និងមិនសូវតានតឹងជាងមុន។ អ្នកដទៃអាចមានអារម្មណ៍សុវត្ថិភាពជាងមុន ដោយដឹងថាអ្នកនឹងប្រាប់ពួកគេពីការពិត។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A close relationship may be where a boundary is most needed, and most delicate. Talking one to one, as equals, could make it easier.",
+        "km": "ទំនាក់ទំនងជិតស្និទ្ធមួយ ប្រហែលជាកន្លែងដែលត្រូវការព្រំដែនបំផុត និងប្រុងប្រយ័ត្នបំផុត។ ការនិយាយម្នាក់ទល់ម្នាក់ ក្នុងនាមជាមនុស្សស្មើគ្នា អាចធ្វើឱ្យវាងាយស្រួលជាងមុន។"
+      },
+      "challenge": {
+        "en": "Avoiding the conversation to protect the bond could slowly harm it. Speak honestly about what you need from this person.",
+        "km": "ការជៀសវាងការសន្ទនា ដើម្បីការពារចំណង អាចធ្វើឱ្យវារងគ្រោះបន្តិចម្តងៗ។ សូមនិយាយដោយស្មោះត្រង់អំពីអ្វីដែលអ្នកត្រូវការពីមនុស្សនេះ។"
+      },
+      "outcome": {
+        "en": "A mutual agreement on limits could make the relationship feel more balanced. Respect flowing both ways may deepen your connection.",
+        "km": "កិច្ចព្រមព្រៀងគ្នាទៅវិញទៅមកលើដែនកំណត់ អាចធ្វើឱ្យទំនាក់ទំនងមានអារម្មណ៍មានតុល្យភាពជាងមុន។ ការគោរពដែលហូរទាំងសងខាង អាចពង្រឹងការភ្ជាប់ទំនាក់ទំនងរបស់អ្នក។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friends and social groups may be where your energy gets stretched. Choosing which gatherings truly matter could protect your wellbeing.",
+        "km": "មិត្តភក្តិ និងក្រុមសង្គម ប្រហែលជាកន្លែងដែលថាមពលរបស់អ្នកត្រូវបានលាតសន្ធឹង។ ការជ្រើសរើសការជួបជុំណាដែលពិតជាសំខាន់ អាចការពារសុខុមាលភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Fearing you will miss out could keep you saying yes to every invitation. It is fine to decline some gatherings so you can rest and recharge.",
+        "km": "ការភ័យខ្លាចថាអ្នកនឹងខកខាន អាចធ្វើឱ្យអ្នកបន្តយល់ព្រមចំពោះរាល់ការអញ្ជើញ។ វាមិនអីទេក្នុងការបដិសេធការជួបជុំខ្លះ ដើម្បីឱ្យអ្នកអាចសម្រាក និងបញ្ចូលថាមពលឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Balancing social life with rest could make your friendships more enjoyable. A few gatherings you truly look forward to may suit you better than many.",
+        "km": "ការថ្លឹងថ្លែងជីវិតសង្គមជាមួយការសម្រាក អាចធ្វើឱ្យមិត្តភាពរបស់អ្នកកាន់តែរីករាយ។ ការជួបជុំពីរបីដែលអ្នកពិតជាទន្ទឹងរង់ចាំ អាចសមនឹងអ្នកជាងការជួបជុំជាច្រើន។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Feeling flat or uninterested in certain people may be a sign that you need space. Honouring that feeling could help you decide where to step back.",
+        "km": "ការមានអារម្មណ៍ស្ងាត់ស្ងៀម ឬមិនចាប់អារម្មណ៍លើមនុស្សខ្លះ អាចជាសញ្ញាថាអ្នកត្រូវការលំហ។ ការគោរពអារម្មណ៍នោះ អាចជួយអ្នកសម្រេចថាត្រូវថយក្រោយនៅត្រង់ណា។"
+      },
+      "challenge": {
+        "en": "Withdrawing without explanation could hurt people who care about you. Let them know kindly that you need some space.",
+        "km": "ការដកខ្លួនដោយគ្មានការពន្យល់ អាចធ្វើឱ្យមនុស្សដែលយកចិត្តទុកដាក់អ្នកឈឺចាប់។ សូមប្រាប់ពួកគេដោយសប្បុរសថាអ្នកត្រូវការលំហខ្លះ។"
+      },
+      "outcome": {
+        "en": "Taking space where you need it could restore your interest in the relationships that matter. Rested, you may return to family gatherings with fresh warmth and patience.",
+        "km": "ការយកលំហនៅកន្លែងដែលអ្នកត្រូវការ អាចស្តារចំណាប់អារម្មណ៍របស់អ្នកលើទំនាក់ទំនងដែលសំខាន់។ ពេលបានសម្រាក អ្នកអាចត្រឡប់ទៅការជួបជុំគ្រួសារវិញ ជាមួយភាពកក់ក្តៅ និងការអត់ធ្មត់ថ្មី។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Past hurt from having your limits ignored may still affect you. Acknowledging that pain could strengthen your resolve to protect yourself.",
+        "km": "ការឈឺចាប់កន្លងមកពីការដែលដែនកំណត់របស់អ្នកត្រូវបានមិនអើពើ អាចនៅតែប៉ះពាល់ដល់អ្នក។ ការទទួលស្គាល់ការឈឺចាប់នោះ អាចពង្រឹងការតាំងចិត្តរបស់អ្នកក្នុងការការពារខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Dwelling on past hurts could make you build walls rather than healthy boundaries. Focus on what you need from here, and seek support if the hurt runs deep.",
+        "km": "ការគិតច្រើនពីការឈឺចាប់កន្លងមក អាចធ្វើឱ្យអ្នកសង់ជញ្ជាំង ជាជាងព្រំដែនដែលមានសុខភាពល្អ។ សូមផ្តោតលើអ្វីដែលអ្នកត្រូវការពីទីនេះ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើការឈឺចាប់ជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Healing from past hurt could help you set limits from a place of strength, not fear. What remains may be relationships where your needs are heard and respected.",
+        "km": "ការជាសះស្បើយពីការឈឺចាប់កន្លងមក អាចជួយអ្នកកំណត់ដែនកំណត់ដោយកម្លាំង មិនមែនដោយការភ័យខ្លាចទេ។ អ្វីដែលនៅសល់ អាចជាទំនាក់ទំនងដែលតម្រូវការរបស់អ្នកត្រូវបានស្តាប់ និងគោរព។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Old family roles from childhood may still shape how much you give. Noticing which roles you have outgrown could help you set new limits.",
+        "km": "តួនាទីគ្រួសារចាស់ៗតាំងពីកុមារភាព អាចនៅតែកំណត់ថាអ្នកផ្តល់ប៉ុណ្ណា។ ការកត់សម្គាល់ថាតួនាទីណាដែលអ្នកបានរីកចម្រើនហួស អាចជួយអ្នកកំណត់ដែនកំណត់ថ្មី។"
+      },
+      "challenge": {
+        "en": "Slipping back into old patterns with family could undo your progress. Remind yourself, and gently remind others, that you have grown.",
+        "km": "ការរអិលត្រឡប់ទៅគំរូចាស់ៗជាមួយគ្រួសារ អាចបំផ្លាញវឌ្ឍនភាពរបស់អ្នក។ សូមរំលឹកខ្លួនឯង និងរំលឹកអ្នកដទៃដោយទន់ភ្លន់ថាអ្នកបានរីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "Updating old roles could bring a kinder, more adult connection with family. Familiar warmth may remain while the pressure eases.",
+        "km": "ការកែប្រែតួនាទីចាស់ៗ អាចនាំមកនូវការភ្ជាប់ទំនាក់ទំនងជាមួយគ្រួសារដែលសប្បុរស និងចាស់ទុំជាងមុន។ ភាពកក់ក្តៅដែលស៊ាំ អាចនៅដដែល ខណៈសម្ពាធធូរស្រាល។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "You may be weighing many ways to protect your energy without settling on one. Picking the single limit that matters most could make the rest clearer.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងវិធីជាច្រើនដើម្បីការពារថាមពលរបស់អ្នក ដោយមិនទាន់ជ្រើសមួយ។ ការជ្រើសដែនកំណត់តែមួយដែលសំខាន់បំផុត អាចធ្វើឱ្យអ្វីៗផ្សេងទៀតច្បាស់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Imagining how others might react could keep you from ever stating a limit. Test one boundary in real life instead of rehearsing every outcome in your head.",
+        "km": "ការស្រមៃថាអ្នកដទៃអាចមានប្រតិកម្មយ៉ាងណា អាចរារាំងអ្នកពីការប្រាប់ដែនកំណត់ណាមួយ។ សូមសាកល្បងព្រំដែនមួយក្នុងជីវិតពិត ជំនួសឱ្យការហាត់គិតពីលទ្ធផលគ្រប់យ៉ាងក្នុងក្បាល។"
+      },
+      "outcome": {
+        "en": "Choosing one clear limit over many vague wishes could bring real relief. People may respond better to a simple request than to hints they must guess.",
+        "km": "ការជ្រើសដែនកំណត់ច្បាស់មួយ ជាជាងបំណងមិនច្បាស់ជាច្រើន អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។ មនុស្សអាចឆ្លើយតបល្អជាងចំពោះសំណើសាមញ្ញ ជាងការណែនាំដោយប្រយោលដែលពួកគេត្រូវទាយ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be ready to step away from a pattern of giving that leaves you empty. Walking back from that role could feel sad yet deeply right.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនរួចហើយ ដើម្បីដើរចេញពីគំរូនៃការផ្តល់ ដែលធ្វើឱ្យអ្នកអស់កម្លាំង។ ការដកខ្លួនពីតួនាទីនោះ អាចមានអារម្មណ៍សោកសៅ ប៉ុន្តែត្រឹមត្រូវយ៉ាងជ្រាលជ្រៅ។"
+      },
+      "challenge": {
+        "en": "Pulling away completely could feel easier than explaining what you need. Before you leave a relationship behind, try saying plainly which part has to change.",
+        "km": "ការដកខ្លួនទាំងស្រុង អាចហាក់ងាយស្រួលជាងការពន្យល់ពីអ្វីដែលអ្នកត្រូវការ។ មុនពេលអ្នកបោះបង់ទំនាក់ទំនងណាមួយ សូមសាកល្បងនិយាយឱ្យត្រង់ថាផ្នែកណាដែលត្រូវតែផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Leaving behind an exhausting role could open room for relationships that give back. You may discover which bonds still matter once the pressure is gone.",
+        "km": "ការបោះបង់តួនាទីដែលធ្វើឱ្យហត់នឿយ អាចបើកលំហសម្រាប់ទំនាក់ទំនងដែលផ្តល់ត្រឡប់មកវិញ។ អ្នកអាចរកឃើញថាចំណងណាដែលនៅតែសំខាន់ នៅពេលសម្ពាធបាត់ទៅ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "You may already know what makes you feel content and at ease with others. Guarding those simple pleasures could be a gentle way to set limits.",
+        "km": "អ្នកប្រហែលជាដឹងរួចហើយថាអ្វីធ្វើឱ្យអ្នកពេញចិត្ត និងស្រួលនៅជាមួយអ្នកដទៃ។ ការការពារសេចក្តីរីករាយសាមញ្ញទាំងនោះ អាចជាវិធីទន់ភ្លន់ក្នុងការកំណត់ដែនកំណត់។"
+      },
+      "challenge": {
+        "en": "Wanting everyone to stay happy with you could make limits feel selfish. Your own contentment counts too, and protecting it is not a betrayal of anyone.",
+        "km": "ការចង់ឱ្យគ្រប់គ្នាពេញចិត្តនឹងអ្នកជានិច្ច អាចធ្វើឱ្យដែនកំណត់ហាក់ដូចជាអាត្មានិយម។ សេចក្តីពេញចិត្តរបស់អ្នកក៏សំខាន់ដែរ ហើយការការពារវាមិនមែនជាការក្បត់នរណាម្នាក់ទេ។"
+      },
+      "outcome": {
+        "en": "Clear limits could leave you more satisfied with the people closest to you. Shared meals and visits may feel like a pleasure rather than a duty.",
+        "km": "ដែនកំណត់ច្បាស់លាស់ អាចធ្វើឱ្យអ្នកពេញចិត្តជាងមុនជាមួយមនុស្សជិតស្និទ្ធបំផុត។ ការញ៉ាំបាយរួមគ្នា និងការទៅលេងគ្នា អាចក្លាយជាសេចក្តីរីករាយ ជាជាងកាតព្វកិច្ច។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "A loving home may give you a safe base for saying what you need. Families who care for each other can usually make room for honest limits.",
+        "km": "ផ្ទះដែលពោរពេញដោយក្តីស្រឡាញ់ អាចផ្តល់មូលដ្ឋានសុវត្ថិភាពសម្រាប់អ្នកនិយាយពីអ្វីដែលអ្នកត្រូវការ។ គ្រួសារដែលយកចិត្តទុកដាក់គ្នាទៅវិញទៅមក ជាធម្មតាអាចផ្តល់កន្លែងសម្រាប់ដែនកំណត់ដ៏ស្មោះត្រង់។"
+      },
+      "challenge": {
+        "en": "Fear of disturbing family peace could keep you silent about what bothers you. A calm, honest word may protect harmony better than quiet resentment.",
+        "km": "ការភ័យខ្លាចរំខានដល់សន្តិភាពក្នុងគ្រួសារ អាចធ្វើឱ្យអ្នកនៅស្ងៀមពីអ្វីដែលរំខានអ្នក។ ពាក្យស្ងប់ និងស្មោះត្រង់មួយ អាចការពារភាពសុខដុមបានល្អជាងការអាក់អន់ចិត្តស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Respected limits could make your home feel warmer and more relaxed for everyone. Each person may feel free to be themselves within the family circle.",
+        "km": "ដែនកំណត់ដែលត្រូវបានគោរព អាចធ្វើឱ្យផ្ទះរបស់អ្នកកក់ក្តៅ និងស្រួលជាងមុនសម្រាប់គ្រប់គ្នា។ មនុស្សម្នាក់ៗអាចមានសេរីភាពក្នុងការធ្វើជាខ្លួនឯង ក្នុងរង្វង់គ្រួសារ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A tender feeling may be telling you that something in a relationship needs to change. Listening to that quiet signal could guide your first limit.",
+        "km": "អារម្មណ៍ទន់ភ្លន់មួយ ប្រហែលជាកំពុងប្រាប់អ្នកថា មានអ្វីមួយក្នុងទំនាក់ទំនងត្រូវតែផ្លាស់ប្តូរ។ ការស្តាប់សញ្ញាស្ងាត់នោះ អាចណែនាំដែនកំណត់ដំបូងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Being easily hurt could make you react before you have explained your needs. Try sharing your feelings gently before small hurts turn into distance.",
+        "km": "ការងាយឈឺចិត្ត អាចធ្វើឱ្យអ្នកមានប្រតិកម្ម មុនពេលបានពន្យល់ពីតម្រូវការរបស់អ្នក។ សូមសាកល្បងចែករំលែកអារម្មណ៍ដោយទន់ភ្លន់ មុនពេលការឈឺចិត្តតូចៗក្លាយជាភាពឃ្លាតឆ្ងាយ។"
+      },
+      "outcome": {
+        "en": "Speaking openly about your feelings could invite a sincere response from loved ones. A sweet, honest exchange may make the next limit easier to set.",
+        "km": "ការនិយាយដោយបើកចំហពីអារម្មណ៍របស់អ្នក អាចទាក់ទាញការឆ្លើយតបដោយស្មោះពីមនុស្សជាទីស្រឡាញ់។ ការសន្ទនាដ៏ផ្អែមល្ហែម និងស្មោះត្រង់ អាចធ្វើឱ្យដែនកំណត់បន្ទាប់ងាយស្រួលកំណត់ជាងមុន។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "You may be ready to offer a kind, heartfelt request instead of a stern rule. Framing a limit as care could help others accept it.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនដើម្បីផ្តល់សំណើដ៏សប្បុរស និងចេញពីចិត្ត ជំនួសឱ្យច្បាប់តឹងរ៉ឹង។ ការបង្ហាញដែនកំណត់ជាការយកចិត្តទុកដាក់ អាចជួយអ្នកដទៃទទួលយកវា។"
+      },
+      "challenge": {
+        "en": "Charming your way around a hard conversation could leave the real issue untouched. Kindness is welcome, but make sure your actual limit is heard.",
+        "km": "ការប្រើភាពទាក់ទាញដើម្បីគេចពីការសន្ទនាពិបាក អាចទុកបញ្ហាពិតឱ្យនៅដដែល។ សេចក្តីសប្បុរសគឺល្អ ប៉ុន្តែត្រូវប្រាកដថាដែនកំណត់ពិតរបស់អ្នកត្រូវបានគេស្តាប់។"
+      },
+      "outcome": {
+        "en": "A gentle, sincere approach could win cooperation instead of resistance. Loved ones may honour your limits because they feel your affection behind them.",
+        "km": "វិធីទន់ភ្លន់ និងស្មោះត្រង់ អាចទទួលបានកិច្ចសហការ ជំនួសឱ្យការប្រឆាំង។ មនុស្សជាទីស្រឡាញ់អាចគោរពដែនកំណត់របស់អ្នក ព្រោះពួកគេមានអារម្មណ៍ពីក្តីស្រឡាញ់នៅពីក្រោយវា។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Your deep compassion may be the very thing that makes limits hard for you. Caring for yourself with the same tenderness could be your starting point.",
+        "km": "ចិត្តមេត្តាដ៏ជ្រាលជ្រៅរបស់អ្នក អាចជាហេតុដែលធ្វើឱ្យដែនកំណត់ពិបាកសម្រាប់អ្នក។ ការមើលថែខ្លួនឯងដោយភាពទន់ភ្លន់ដូចគ្នា អាចជាចំណុចចាប់ផ្តើមរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Absorbing everyone's moods could leave you drained and unsure what you feel yourself. Notice where their emotions end and yours begin before you respond.",
+        "km": "ការស្រូបយកអារម្មណ៍របស់គ្រប់គ្នា អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងមិនច្បាស់ថាខ្លួនឯងមានអារម្មណ៍អ្វី។ សូមកត់សម្គាល់ថាអារម្មណ៍របស់ពួកគេបញ្ចប់ត្រង់ណា ហើយរបស់អ្នកចាប់ផ្តើមត្រង់ណា មុនពេលឆ្លើយតប។"
+      },
+      "outcome": {
+        "en": "Compassion with clear edges could let you support loved ones without losing yourself. You may become a calm, steady presence rather than an exhausted one.",
+        "km": "មេត្តាធម៌ដែលមានព្រំដែនច្បាស់ អាចអនុញ្ញាតឱ្យអ្នកគាំទ្រមនុស្សជាទីស្រឡាញ់ ដោយមិនបាត់បង់ខ្លួនឯង។ អ្នកអាចក្លាយជាវត្តមានស្ងប់ និងនឹងនរ ជាជាងវត្តមានដែលហត់នឿយ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "You may be learning to stay calm when someone pushes against your limits. That steady composure could help you hold a boundary without a fight.",
+        "km": "អ្នកប្រហែលជាកំពុងរៀនរក្សាភាពស្ងប់ នៅពេលនរណាម្នាក់រុញច្រានដែនកំណត់របស់អ្នក។ ភាពនឹងនរនោះ អាចជួយអ្នករក្សាព្រំដែន ដោយមិនចាំបាច់ឈ្លោះគ្នា។"
+      },
+      "challenge": {
+        "en": "Keeping your feelings tightly controlled could hide how much a situation hurts you. Calm is useful, but people may need to hear that something truly matters.",
+        "km": "ការគ្រប់គ្រងអារម្មណ៍តឹងពេក អាចលាក់បាំងថាស្ថានការណ៍មួយធ្វើឱ្យអ្នកឈឺចាប់ប៉ុណ្ណា។ ភាពស្ងប់មានប្រយោជន៍ ប៉ុន្តែមនុស្សប្រហែលជាត្រូវឮថា មានរឿងមួយសំខាន់ពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Balanced, steady boundaries could earn quiet respect within your family. Others may learn to approach you calmly because you respond with patience and clarity.",
+        "km": "ព្រំដែនដែលមានតុល្យភាព និងនឹងនរ អាចទទួលបានការគោរពស្ងាត់ៗក្នុងគ្រួសាររបស់អ្នក។ អ្នកដទៃអាចរៀនមករកអ្នកដោយស្ងប់ ព្រោះអ្នកឆ្លើយតបដោយការអត់ធ្មត់ និងភាពច្បាស់លាស់។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A clear understanding of what you will and will not accept may be forming. Putting that insight into simple words could be your strongest first step.",
+        "km": "ការយល់ច្បាស់ពីអ្វីដែលអ្នកនឹងទទួលយក និងមិនទទួលយក ប្រហែលជាកំពុងកើតឡើង។ ការដាក់ការយល់ដឹងនោះជាពាក្យសាមញ្ញ អាចជាជំហានដំបូងដ៏រឹងមាំបំផុតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Sharp honesty without warmth could wound the people you are trying to reach. Say exactly what you mean, but choose words that leave the door open.",
+        "km": "ភាពស្មោះត្រង់ដ៏មុតស្រួចដោយគ្មានភាពកក់ក្តៅ អាចធ្វើឱ្យមនុស្សដែលអ្នកចង់ទាក់ទងឈឺចាប់។ សូមនិយាយឱ្យចំអ្វីដែលអ្នកចង់មានន័យ ប៉ុន្តែជ្រើសពាក្យដែលនៅតែបើកទ្វារ។"
+      },
+      "outcome": {
+        "en": "A clearly stated limit could cut through confusion that has built up in the family. Everyone may understand where they stand, which can bring surprising calm.",
+        "km": "ដែនកំណត់ដែលបានប្រាប់យ៉ាងច្បាស់ អាចកាត់ផ្តាច់ភាពច្របូកច្របល់ដែលបានកកកុញក្នុងគ្រួសារ។ គ្រប់គ្នាអាចយល់ពីជំហររបស់ខ្លួន ដែលអាចនាំមកនូវភាពស្ងប់គួរឱ្យភ្ញាក់ផ្អើល។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "You may be avoiding a choice between keeping the peace and protecting yourself. Admitting that you are stuck could be the first honest step.",
+        "km": "អ្នកប្រហែលជាកំពុងគេចពីការជ្រើសរើស រវាងការរក្សាសន្តិភាព និងការការពារខ្លួនឯង។ ការទទួលស្គាល់ថាអ្នកកំពុងជាប់គាំង អាចជាជំហានស្មោះត្រង់ដំបូង។"
+      },
+      "challenge": {
+        "en": "Refusing to decide could leave others deciding for you by default. Pick the limit you can live with, even if it feels uncomfortable to say aloud.",
+        "km": "ការបដិសេធមិនសម្រេចចិត្ត អាចទុកឱ្យអ្នកដទៃសម្រេចជំនួសអ្នកដោយស្វ័យប្រវត្តិ។ សូមជ្រើសដែនកំណត់ដែលអ្នកអាចរស់នៅជាមួយបាន ទោះបីវាពិបាកនិយាយឮៗក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Making the choice you have been avoiding could end a tiring inner tug of war. Relief may follow once your loyalty to yourself is no longer in question.",
+        "km": "ការធ្វើការជ្រើសរើសដែលអ្នកបានគេចវេស អាចបញ្ចប់ការតស៊ូក្នុងចិត្តដែលហត់នឿយ។ ការធូរស្រាលអាចកើតមាន នៅពេលភាពស្មោះត្រង់ចំពោះខ្លួនឯងលែងជាសំណួរ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "A painful word or betrayal may have shown you exactly where a limit is needed. That hurt, though sharp, could point to what you must protect.",
+        "km": "ពាក្យឈឺចាប់ ឬការក្បត់មួយ ប្រហែលជាបានបង្ហាញអ្នកយ៉ាងច្បាស់ថាត្រូវការដែនកំណត់នៅត្រង់ណា។ ការឈឺចាប់នោះ ទោះបីមុតស្រួច អាចចង្អុលទៅអ្វីដែលអ្នកត្រូវតែការពារ។"
+      },
+      "challenge": {
+        "en": "Beware of setting limits while the wound is still raw and angry. Let the first sting settle, and talk to someone you trust if the pain feels heavy.",
+        "km": "សូមប្រយ័ត្នក្នុងការកំណត់ដែនកំណត់ ខណៈដែលរបួសនៅស្រស់ និងពោរពេញដោយកំហឹង។ សូមឱ្យការឈឺចាប់ដំបូងស្ងប់សិន ហើយនិយាយជាមួយអ្នកដែលអ្នកទុកចិត្ត ប្រសិនបើការឈឺចាប់ធ្ងន់។"
+      },
+      "outcome": {
+        "en": "A limit born from hurt could keep the same pain from happening again. Healing may come more easily once you feel protected and heard.",
+        "km": "ដែនកំណត់ដែលកើតចេញពីការឈឺចាប់ អាចការពារការឈឺចាប់ដដែលមិនឱ្យកើតឡើងម្តងទៀត។ ការជាសះស្បើយអាចមកដល់ងាយជាងមុន នៅពេលអ្នកមានអារម្មណ៍ថាត្រូវបានការពារ និងស្តាប់។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may need quiet rest before you can decide what limits to set. Stepping back from family demands briefly could help you think clearly.",
+        "km": "អ្នកប្រហែលជាត្រូវការការសម្រាកស្ងាត់ៗ មុនពេលអាចសម្រេចថាត្រូវកំណត់ដែនកំណត់អ្វីខ្លះ។ ការដកខ្លួនពីការទាមទាររបស់គ្រួសារបន្តិច អាចជួយអ្នកគិតបានច្បាស់។"
+      },
+      "challenge": {
+        "en": "Exhaustion could make every request feel like an attack on your peace. Rest first, then decide which demands truly need a firm answer.",
+        "km": "ភាពអស់កម្លាំង អាចធ្វើឱ្យសំណើនីមួយៗហាក់ដូចជាការវាយប្រហារលើសន្តិភាពរបស់អ្នក។ សូមសម្រាកជាមុនសិន បន្ទាប់មកសម្រេចថាការទាមទារណាដែលពិតជាត្រូវការចម្លើយម៉ឺងម៉ាត់។"
+      },
+      "outcome": {
+        "en": "Protecting regular rest could become a boundary in itself, and a healthy one. Returning refreshed, you may handle family needs with far more patience.",
+        "km": "ការការពារការសម្រាកជាប្រចាំ អាចក្លាយជាព្រំដែនមួយដោយខ្លួនវា ហើយជាព្រំដែនដែលមានសុខភាពល្អ។ ពេលត្រឡប់មកវិញដោយស្រស់ស្រាយ អ្នកអាចដោះស្រាយតម្រូវការគ្រួសារដោយការអត់ធ្មត់ច្រើនជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Heated arguments may have left you feeling that someone always has to lose. Setting limits could be a way out of that win-or-lose pattern.",
+        "km": "ការឈ្លោះប្រកែកដ៏ក្តៅគគុក ប្រហែលជាធ្វើឱ្យអ្នកមានអារម្មណ៍ថា ត្រូវតែមាននរណាម្នាក់ចាញ់ជានិច្ច។ ការកំណត់ដែនកំណត់ អាចជាផ្លូវចេញពីគំរូឈ្នះ ឬចាញ់នោះ។"
+      },
+      "challenge": {
+        "en": "Watch out for using limits as a weapon to win an argument. A boundary protects you; it is not meant to punish anyone else.",
+        "km": "សូមប្រយ័ត្នក្នុងការប្រើដែនកំណត់ជាអាវុធ ដើម្បីឈ្នះការឈ្លោះប្រកែក។ ព្រំដែនការពារអ្នក វាមិនមែនសម្រាប់ដាក់ទោសអ្នកដទៃទេ។"
+      },
+      "outcome": {
+        "en": "Calm limits could replace repeated quarrels with fewer, clearer conversations. Nobody may need to lose for you to feel respected.",
+        "km": "ដែនកំណត់ដ៏ស្ងប់ អាចជំនួសការឈ្លោះប្រកែកម្តងហើយម្តងទៀត ដោយការសន្ទនាតិចជាង និងច្បាស់ជាង។ គ្មាននរណាម្នាក់ចាំបាច់ចាញ់ ដើម្បីឱ្យអ្នកមានអារម្មណ៍ថាត្រូវបានគោរពនោះទេ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You may be moving away from a tense pattern toward calmer ways of relating. Carrying only what helps into that calmer place could be your guide.",
+        "km": "អ្នកប្រហែលជាកំពុងចាកចេញពីគំរូតានតឹង ឆ្ពោះទៅរករបៀបទាក់ទងគ្នាដែលស្ងប់ជាងមុន។ ការយកតែអ្វីដែលជួយ ទៅកាន់កន្លែងស្ងប់នោះ អាចជាការណែនាំរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Bringing old resentments along could weigh down your fresh start with family. Decide which grudges you are ready to set down before moving on.",
+        "km": "ការនាំយកការអាក់អន់ចិត្តចាស់ៗទៅជាមួយ អាចធ្វើឱ្យការចាប់ផ្តើមថ្មីជាមួយគ្រួសារធ្ងន់។ សូមសម្រេចថាការចងគំនុំណាដែលអ្នកត្រៀមដាក់ចុះ មុនពេលបន្តទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Step-by-step change could lead you to calmer, more respectful family relationships. The distance you travel may feel quiet but bring deep relief.",
+        "km": "ការផ្លាស់ប្តូរមួយជំហានម្តងៗ អាចនាំអ្នកទៅរកទំនាក់ទំនងគ្រួសារដែលស្ងប់ និងគោរពគ្នាជាងមុន។ ចម្ងាយដែលអ្នកធ្វើដំណើរ អាចហាក់ស្ងាត់ ប៉ុន្តែនាំមកនូវការធូរស្រាលយ៉ាងជ្រៅ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "You may be tempted to protect your limits through quiet avoidance rather than honesty. Noticing those small evasions could show where a direct word is needed.",
+        "km": "អ្នកប្រហែលជាត្រូវបានល្បួងឱ្យការពារដែនកំណត់ តាមរយៈការគេចវេសស្ងាត់ៗ ជាជាងភាពស្មោះត្រង់។ ការកត់សម្គាល់ការគេចវេសតូចៗទាំងនោះ អាចបង្ហាញថាត្រូវការពាក្យត្រង់ៗនៅត្រង់ណា។"
+      },
+      "challenge": {
+        "en": "Making excuses instead of stating your limit could breed mistrust within the family. A truthful no often costs less than a convenient story.",
+        "km": "ការដោះសារ ជំនួសឱ្យការប្រាប់ដែនកំណត់របស់អ្នក អាចបង្កើតការមិនទុកចិត្តក្នុងគ្រួសារ។ ការបដិសេធដោយស្មោះ ជាញឹកញាប់ខាតតិចជាងរឿងប្រឌិតដែលងាយស្រួល។"
+      },
+      "outcome": {
+        "en": "Being open about your limits could earn more trust than quietly working around people. Honest refusals may make your yes mean more as well.",
+        "km": "ការបើកចំហពីដែនកំណត់របស់អ្នក អាចទទួលបានការទុកចិត្តច្រើនជាងការគេចពីមនុស្សស្ងាត់ៗ។ ការបដិសេធដោយស្មោះ អាចធ្វើឱ្យការយល់ព្រមរបស់អ្នកមានន័យច្រើនជាងមុនផងដែរ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "You may feel trapped by expectations, as if saying no were impossible. Those restrictions may be looser than they seem from where you stand.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ជាប់អន្ទាក់ដោយការរំពឹងទុក ហាក់ដូចជាការបដិសេធមិនអាចធ្វើទៅបាន។ ការរឹតត្បិតទាំងនោះ អាចធូរជាងអ្វីដែលអ្នកមើលឃើញពីជំហររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Believing you have no right to refuse could keep you stuck in draining obligations. Question the rule in your head that says your needs come last.",
+        "km": "ការជឿថាអ្នកគ្មានសិទ្ធិបដិសេធ អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងកាតព្វកិច្ចដែលធ្វើឱ្យអស់កម្លាំង។ សូមចោទសួរច្បាប់ក្នុងក្បាលដែលថា តម្រូវការរបស់អ្នកមកក្រោយគេ។"
+      },
+      "outcome": {
+        "en": "Seeing that you can say no could free you from obligations that never fit. Small refusals may show you how much choice you really have.",
+        "km": "ការមើលឃើញថាអ្នកអាចបដិសេធបាន អាចរំដោះអ្នកពីកាតព្វកិច្ចដែលមិនដែលសមនឹងអ្នក។ ការបដិសេធតូចៗ អាចបង្ហាញអ្នកថាអ្នកមានជម្រើសប៉ុណ្ណាពិតប្រាកដ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about upsetting loved ones may be keeping you awake or on edge. Naming the fear plainly could shrink it enough for you to act.",
+        "km": "ការព្រួយបារម្ភពីការធ្វើឱ្យមនុស្សជាទីស្រឡាញ់មិនសប្បាយចិត្ត ប្រហែលជាកំពុងធ្វើឱ្យអ្នកដេកមិនលក់ ឬតានតឹង។ ការដាក់ឈ្មោះការភ័យខ្លាចនោះឱ្យច្បាស់ អាចធ្វើឱ្យវាតូចល្មមសម្រាប់អ្នកចាត់វិធានការ។"
+      },
+      "challenge": {
+        "en": "Imagining the worst reaction could make a simple request feel terrifying. Share your fears with someone you trust, and seek support if anxiety feels overwhelming.",
+        "km": "ការស្រមៃពីប្រតិកម្មអាក្រក់បំផុត អាចធ្វើឱ្យសំណើសាមញ្ញមួយហាក់គួរឱ្យភ័យខ្លាច។ សូមចែករំលែកការភ័យខ្លាចជាមួយអ្នកដែលអ្នកទុកចិត្ត ហើយស្វែងរកជំនួយ ប្រសិនបើការថប់បារម្ភខ្លាំងពេក។"
+      },
+      "outcome": {
+        "en": "Facing the conversation you dread could ease the worry that has been weighing on you. The reaction may be far milder than the one you pictured.",
+        "km": "ការប្រឈមមុខនឹងការសន្ទនាដែលអ្នកខ្លាច អាចបន្ធូរការព្រួយបារម្ភដែលកំពុងសង្កត់លើអ្នក។ ប្រតិកម្មអាចស្រាលជាងអ្វីដែលអ្នកបានស្រមៃទៅទៀត។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "You may have reached the point where giving more is simply no longer possible. That painful limit could mark the place where change has to begin.",
+        "km": "អ្នកប្រហែលជាបានមកដល់ចំណុចដែលការផ្តល់បន្ថែមលែងអាចធ្វើទៅបានទៀតហើយ។ ដែនកំណត់ដ៏ឈឺចាប់នោះ អាចសម្គាល់កន្លែងដែលការផ្លាស់ប្តូរត្រូវតែចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Waiting until you collapse before drawing a line could cost you your health and peace. Reach out for help, and contact a support service if you feel unsafe or hopeless.",
+        "km": "ការរង់ចាំរហូតដល់អ្នកដួលរលំ មុននឹងគូសបន្ទាត់ អាចធ្វើឱ្យអ្នកបាត់បង់សុខភាព និងសន្តិភាព។ សូមស្វែងរកជំនួយ ហើយទាក់ទងសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Hitting your limit could force a reset that leads to much healthier ways of relating. What follows the hardest moment may be real relief and a fresh balance.",
+        "km": "ការឈានដល់ដែនកំណត់ អាចបង្ខំឱ្យមានការចាប់ផ្តើមឡើងវិញ ដែលនាំទៅរករបៀបទាក់ទងគ្នាដែលមានសុខភាពល្អជាងមុនច្រើន។ អ្វីដែលកើតឡើងបន្ទាប់ពីគ្រាលំបាកបំផុត អាចជាការធូរស្រាលពិតប្រាកដ និងតុល្យភាពថ្មី។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You may be watching closely to see how others respond when you push back. Gathering those observations could help you choose your words wisely.",
+        "km": "អ្នកប្រហែលជាកំពុងសង្កេតយ៉ាងដិតដល់ថា អ្នកដទៃឆ្លើយតបយ៉ាងណានៅពេលអ្នកតបតវិញ។ ការប្រមូលការសង្កេតទាំងនោះ អាចជួយអ្នកជ្រើសពាក្យបានយ៉ាងឈ្លាសវៃ។"
+      },
+      "challenge": {
+        "en": "Being too guarded or suspicious could make loved ones feel shut out. Ask honest questions about what they need before assuming the worst.",
+        "km": "ការប្រុងប្រយ័ត្ន ឬសង្ស័យពេក អាចធ្វើឱ្យមនុស្សជាទីស្រឡាញ់មានអារម្មណ៍ថាត្រូវបានបិទទ្វារ។ សូមសួរសំណួរដោយស្មោះពីអ្វីដែលពួកគេត្រូវការ មុនពេលសន្មតរឿងអាក្រក់បំផុត។"
+      },
+      "outcome": {
+        "en": "Curious, honest questions could reveal what each person truly expects from you. Clearer understanding may make your limits easier to explain and accept.",
+        "km": "សំណួរដោយចង់ដឹង និងស្មោះត្រង់ អាចបង្ហាញថាមនុស្សម្នាក់ៗពិតជារំពឹងអ្វីពីអ្នក។ ការយល់ដឹងច្បាស់ជាងមុន អាចធ្វើឱ្យដែនកំណត់របស់អ្នកងាយពន្យល់ និងទទួលយកជាងមុន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "You may feel a strong urge to declare your limits all at once. That energy could help you speak up, if you aim it carefully.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ចង់ប្រកាសដែនកំណត់ទាំងអស់ក្នុងពេលតែមួយ។ ថាមពលនោះ អាចជួយអ្នកហ៊ាននិយាយ ប្រសិនបើអ្នកតម្រង់វាដោយប្រុងប្រយ័ត្ន។"
+      },
+      "challenge": {
+        "en": "Charging in with blunt demands could turn a needed talk into a family fight. Slow down enough to listen, even while you stand firm.",
+        "km": "ការចូលទៅជាមួយការទាមទារត្រង់ៗខ្លាំងៗ អាចប្រែការសន្ទនាដែលចាំបាច់ ទៅជាការឈ្លោះគ្នាក្នុងគ្រួសារ។ សូមបន្ថយល្បឿនល្មមដើម្បីស្តាប់ ទោះបីអ្នកកំពុងឈរយ៉ាងរឹងមាំក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Speaking up with courage and care could bring noticeable change in how people treat you. Momentum may build as each limit is respected.",
+        "km": "ការហ៊ាននិយាយដោយភាពក្លាហាន និងការយកចិត្តទុកដាក់ អាចនាំមកនូវការផ្លាស់ប្តូរដែលគួរឱ្យកត់សម្គាល់ ក្នុងរបៀបដែលមនុស្សប្រព្រឹត្តចំពោះអ្នក។ សន្ទុះអាចកើនឡើង នៅពេលដែនកំណត់នីមួយៗត្រូវបានគោរព។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Your experience may have taught you to see clearly where others overstep. That sharp insight could help you name limits honestly and fairly.",
+        "km": "បទពិសោធន៍របស់អ្នក ប្រហែលជាបានបង្រៀនអ្នកឱ្យមើលឃើញយ៉ាងច្បាស់ថា អ្នកដទៃឈានហួសព្រំដែននៅត្រង់ណា។ ការយល់ដឹងដ៏មុតស្រួចនោះ អាចជួយអ្នកកំណត់ដែនកំណត់ដោយស្មោះត្រង់ និងយុត្តិធម៌។"
+      },
+      "challenge": {
+        "en": "Cool detachment could make your limits sound cold or unforgiving. Let loved ones see that your clarity comes from care, not judgment.",
+        "km": "ភាពព្រងើយកន្តើយដ៏ត្រជាក់ អាចធ្វើឱ្យដែនកំណត់របស់អ្នកស្តាប់ទៅត្រជាក់ ឬមិនអភ័យទោស។ សូមឱ្យមនុស្សជាទីស្រឡាញ់មើលឃើញថា ភាពច្បាស់លាស់របស់អ្នកកើតចេញពីការយកចិត្តទុកដាក់ មិនមែនការវិនិច្ឆ័យទេ។"
+      },
+      "outcome": {
+        "en": "Clear, fair limits could earn you respect as someone who means what they say. Others may come to rely on your honesty rather than resist it.",
+        "km": "ដែនកំណត់ដែលច្បាស់ និងយុត្តិធម៌ អាចធ្វើឱ្យអ្នកទទួលបានការគោរព ជាមនុស្សដែលនិយាយហើយធ្វើមែន។ អ្នកដទៃអាចពឹងផ្អែកលើភាពស្មោះត្រង់របស់អ្នក ជាជាងប្រឆាំងនឹងវា។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "You may be ready to set limits based on fairness rather than guilt. Thinking through what is reasonable for everyone could anchor your decisions.",
+        "km": "អ្នកប្រហែលជាត្រៀមខ្លួនដើម្បីកំណត់ដែនកំណត់ ដោយផ្អែកលើយុត្តិធម៌ ជាជាងអារម្មណ៍ទោសកំហុស។ ការគិតពិចារណាពីអ្វីដែលសមហេតុផលសម្រាប់គ្រប់គ្នា អាចធ្វើជាគោលនៃការសម្រេចចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Laying down rules like a judge could make family members feel lectured. Explain your reasons calmly, and stay open to a fair compromise.",
+        "km": "ការដាក់ច្បាប់ដូចចៅក្រម អាចធ្វើឱ្យសមាជិកគ្រួសារមានអារម្មណ៍ថាត្រូវបានទូន្មាន។ សូមពន្យល់ហេតុផលរបស់អ្នកដោយស្ងប់ ហើយនៅតែបើកចំហចំពោះការសម្របសម្រួលដ៏យុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "Consistent, reasoned limits could make you a trusted and steady figure in the family. People may know what to expect from you, which builds solid respect.",
+        "km": "ដែនកំណត់ដែលស្ថិតស្ថេរ និងមានហេតុផល អាចធ្វើឱ្យអ្នកក្លាយជាមនុស្សគួរទុកចិត្ត និងនឹងនរក្នុងគ្រួសារ។ មនុស្សអាចដឹងថាត្រូវរំពឹងអ្វីពីអ្នក ដែលកសាងការគោរពយ៉ាងរឹងមាំ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A fresh chance to set practical limits may be within reach. One concrete rule, such as fixed visiting hours, could be a solid place to start.",
+        "km": "ឱកាសថ្មីដើម្បីកំណត់ដែនកំណត់ជាក់ស្តែង ប្រហែលជានៅក្បែរដៃ។ ច្បាប់ជាក់ស្តែងមួយ ដូចជាម៉ោងទៅលេងដែលកំណត់ច្បាស់ អាចជាកន្លែងចាប់ផ្តើមដ៏រឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Overlooking a simple, practical fix could leave you struggling with the same demands. Look for one small change in routine that would protect your energy.",
+        "km": "ការមើលរំលងដំណោះស្រាយសាមញ្ញ និងជាក់ស្តែង អាចធ្វើឱ្យអ្នកនៅតែតស៊ូជាមួយការទាមទារដដែល។ សូមរកការផ្លាស់ប្តូរតូចមួយក្នុងទម្លាប់ ដែលអាចការពារថាមពលរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A practical limit could grow into a steady routine that suits everyone. That small foundation may bring more comfort to family life than you expect.",
+        "km": "ដែនកំណត់ជាក់ស្តែងមួយ អាចរីកចម្រើនទៅជាទម្លាប់នឹងនរដែលសមនឹងគ្រប់គ្នា។ មូលដ្ឋានតូចនោះ អាចនាំភាពសុខស្រួលដល់ជីវិតគ្រួសារច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "You may be juggling family duties, work and your own needs all at once. Deciding which demands can bend could help you keep your balance.",
+        "km": "អ្នកប្រហែលជាកំពុងបំពេញកាតព្វកិច្ចគ្រួសារ ការងារ និងតម្រូវការផ្ទាល់ខ្លួនក្នុងពេលតែមួយ។ ការសម្រេចថាការទាមទារណាអាចបត់បែនបាន អាចជួយអ្នករក្សាតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Trying to keep every request in the air could leave you dropping what matters most. Tell people openly which favours you can take on and which you must set aside.",
+        "km": "ការព្យាយាមបំពេញគ្រប់សំណើទាំងអស់ អាចធ្វើឱ្យអ្នកធ្លាក់ចោលអ្វីដែលសំខាន់បំផុត។ សូមប្រាប់មនុស្សដោយបើកចំហថា ការជួយណាដែលអ្នកអាចទទួលធ្វើ និងណាដែលអ្នកត្រូវទុកមួយឡែក។"
+      },
+      "outcome": {
+        "en": "Flexible limits could help you adapt to changing needs without losing yourself. Balancing family and your own life may begin to feel manageable.",
+        "km": "ដែនកំណត់ដែលបត់បែនបាន អាចជួយអ្នកសម្របខ្លួនទៅនឹងតម្រូវការដែលប្រែប្រួល ដោយមិនបាត់បង់ខ្លួនឯង។ ការថ្លឹងថ្លែងរវាងគ្រួសារ និងជីវិតផ្ទាល់ខ្លួន អាចចាប់ផ្តើមហាក់អាចគ្រប់គ្រងបាន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Working out limits together with family may be more possible than you think. Sharing chores or plans openly could make fairness everyone's job.",
+        "km": "ការរួមគ្នាកំណត់ដែនកំណត់ជាមួយគ្រួសារ អាចធ្វើទៅបានច្រើនជាងអ្វីដែលអ្នកគិត។ ការចែករំលែកការងារផ្ទះ ឬផែនការដោយបើកចំហ អាចធ្វើឱ្យយុត្តិធម៌ក្លាយជាការងាររបស់គ្រប់គ្នា។"
+      },
+      "challenge": {
+        "en": "Carrying every family task alone could hide how much you need others to step in. Ask for a fair share of the load instead of quietly doing it all.",
+        "km": "ការទទួលបន្ទុកការងារគ្រួសារទាំងអស់តែម្នាក់ឯង អាចលាក់បាំងថាអ្នកត្រូវការឱ្យអ្នកដទៃជួយប៉ុណ្ណា។ សូមស្នើសុំការចែករំលែកបន្ទុកដោយយុត្តិធម៌ ជំនួសឱ្យការធ្វើទាំងអស់ដោយស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Shared responsibilities could ease the pressure and build respect within the household. Each person may value the part the others play.",
+        "km": "ការចែករំលែកការទទួលខុសត្រូវ អាចបន្ធូរសម្ពាធ និងកសាងការគោរពក្នុងគ្រួសារ។ មនុស្សម្នាក់ៗអាចឱ្យតម្លៃលើតួនាទីដែលអ្នកដទៃបំពេញ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may already be holding tightly to your energy, privacy or resources. Checking whether those limits protect you or isolate you could be your starting point.",
+        "km": "អ្នកប្រហែលជាកំពុងកាន់យ៉ាងតឹងលើថាមពល ឯកជនភាព ឬធនធានរបស់អ្នក។ ការពិនិត្យថាដែនកំណត់ទាំងនោះការពារអ្នក ឬធ្វើឱ្យអ្នកឯកោ អាចជាចំណុចចាប់ផ្តើមរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Guarding yourself too rigidly could push away people who mean well. A healthy limit has a gate in it, not just a wall.",
+        "km": "ការការពារខ្លួនតឹងរ៉ឹងពេក អាចរុញច្រានមនុស្សដែលមានចេតនាល្អឱ្យឆ្ងាយ។ ដែនកំណត់ដែលមានសុខភាពល្អ មានទ្វារនៅក្នុងវា មិនមែនគ្រាន់តែជាជញ្ជាំងនោះទេ។"
+      },
+      "outcome": {
+        "en": "Loosening an overly tight grip could let warmth back in without losing your security. You may find you can share more while still feeling safe.",
+        "km": "ការបន្ធូរការក្តាប់ដែលតឹងពេក អាចឱ្យភាពកក់ក្តៅត្រឡប់មកវិញ ដោយមិនបាត់បង់សុវត្ថិភាពរបស់អ្នក។ អ្នកអាចរកឃើញថាអ្នកអាចចែករំលែកបានច្រើនជាងមុន ខណៈនៅតែមានអារម្មណ៍សុវត្ថិភាព។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "You may feel left out or unsupported by those who should be closest. Recognising that hurt could show you which relationships need firmer limits.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានគេទុកចោល ឬមិនទទួលបានការគាំទ្រពីអ្នកដែលគួរតែនៅជិតបំផុត។ ការទទួលស្គាល់ការឈឺចាប់នោះ អាចបង្ហាញអ្នកថាទំនាក់ទំនងណាដែលត្រូវការដែនកំណត់រឹងមាំជាងមុន។"
+      },
+      "challenge": {
+        "en": "Feeling you must earn your place could make you accept poor treatment. You deserve care without paying for it, and help is there if you feel alone.",
+        "km": "ការមានអារម្មណ៍ថាអ្នកត្រូវតែខិតខំដើម្បីមានកន្លែង អាចធ្វើឱ្យអ្នកទទួលយកការប្រព្រឹត្តមិនល្អ។ អ្នកសមនឹងទទួលបានការយកចិត្តទុកដាក់ ដោយមិនចាំបាច់តបស្នង ហើយមានជំនួយសម្រាប់អ្នក ប្រសិនបើអ្នកមានអារម្មណ៍ឯកោ។"
+      },
+      "outcome": {
+        "en": "Turning toward people who welcome you could ease the sting of feeling shut out. Support may come from friends or relatives you had not counted on.",
+        "km": "ការងាកទៅរកមនុស្សដែលស្វាគមន៍អ្នក អាចបន្ធូរការឈឺចាប់នៃការត្រូវបានគេបិទទ្វារ។ ការគាំទ្រអាចមកពីមិត្តភក្តិ ឬសាច់ញាតិដែលអ្នកមិនបានរំពឹងទុក។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "The balance between what you give and what you receive may be ready for review. Noticing who always asks and who gives back could guide your limits.",
+        "km": "តុល្យភាពរវាងអ្វីដែលអ្នកផ្តល់ និងអ្វីដែលអ្នកទទួល ប្រហែលជាត្រៀមរួចសម្រាប់ការពិនិត្យឡើងវិញ។ ការកត់សម្គាល់ថានរណាស្នើសុំជានិច្ច និងនរណាតបស្នងវិញ អាចណែនាំដែនកំណត់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Lending money, time or favours without limits could leave you resentful. Decide what you can give freely, and seek advice before risking your own security.",
+        "km": "ការផ្តល់ប្រាក់ ពេលវេលា ឬការជួយដោយគ្មានដែនកំណត់ អាចធ្វើឱ្យអ្នកអាក់អន់ចិត្ត។ សូមសម្រេចថាអ្នកអាចផ្តល់អ្វីដោយសេរី ហើយស្វែងរកការណែនាំ មុនពេលប្រថុយសុវត្ថិភាពផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "A fairer give-and-take could make generosity feel joyful again rather than draining. Relationships may grow warmer when kindness flows both ways.",
+        "km": "ការផ្តល់ និងទទួលដែលយុត្តិធម៌ជាងមុន អាចធ្វើឱ្យភាពសប្បុរសរីករាយម្តងទៀត ជាជាងធ្វើឱ្យអស់កម្លាំង។ ទំនាក់ទំនងអាចកក់ក្តៅជាងមុន នៅពេលសេចក្តីសប្បុរសហូរទាំងសងខាង។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may be looking back at the effort you have put into others and wondering if it pays off. That honest review could show where to give less.",
+        "km": "អ្នកប្រហែលជាកំពុងក្រឡេកមើលកម្លាំងដែលអ្នកបានចំណាយលើអ្នកដទៃ ហើយឆ្ងល់ថាតើវាមានផលឬអត់។ ការពិនិត្យដោយស្មោះនោះ អាចបង្ហាញថាត្រូវផ្តល់តិចជាងមុននៅត្រង់ណា។"
+      },
+      "challenge": {
+        "en": "Expecting one request to change everyone's habits could leave you discouraged. Keep repeating your request patiently while others adjust.",
+        "km": "ការរំពឹងថាសំណើតែមួយនឹងផ្លាស់ប្តូរទម្លាប់របស់គ្រប់គ្នា អាចធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។ សូមបន្តនិយាយសំណើរបស់អ្នកដោយអត់ធ្មត់ ខណៈអ្នកដទៃកំពុងសម្របខ្លួន។"
+      },
+      "outcome": {
+        "en": "Steady, patient limits could gradually reshape how family members treat you. The effort may pay off in more balanced and respectful relationships.",
+        "km": "ដែនកំណត់ដែលនឹងនរ និងអត់ធ្មត់ អាចកែប្រែបន្តិចម្តងៗនូវរបៀបដែលសមាជិកគ្រួសារប្រព្រឹត្តចំពោះអ្នក។ កិច្ចខិតខំប្រឹងប្រែងអាចទទួលបានផល ជាទំនាក់ទំនងដែលមានតុល្យភាព និងគោរពគ្នាជាងមុន។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Setting boundaries may be a skill you are practising one conversation at a time. Each careful attempt could make the next one feel more natural.",
+        "km": "ការកំណត់ព្រំដែន អាចជាជំនាញដែលអ្នកកំពុងហាត់រៀន មួយការសន្ទនាម្តងៗ។ ការព្យាយាមដោយប្រុងប្រយ័ត្ននីមួយៗ អាចធ្វើឱ្យការព្យាយាមបន្ទាប់មានភាពធម្មជាតិជាងមុន។"
+      },
+      "challenge": {
+        "en": "Expecting yourself to handle every limit perfectly could make you give up after one awkward talk. Treat each attempt as practice and refine your words as you go.",
+        "km": "ការរំពឹងឱ្យខ្លួនឯងដោះស្រាយដែនកំណត់នីមួយៗយ៉ាងល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកបោះបង់ក្រោយការសន្ទនាឆ្គងមួយ។ សូមចាត់ទុកការព្យាយាមនីមួយៗជាការហាត់ ហើយកែលម្អពាក្យរបស់អ្នកបន្តិចម្តងៗ។"
+      },
+      "outcome": {
+        "en": "Practice could turn saying no into a calm, confident habit. You may handle tricky requests with ease once the skill feels familiar.",
+        "km": "ការហាត់រៀន អាចប្រែការបដិសេធទៅជាទម្លាប់ស្ងប់ និងមានទំនុកចិត្ត។ អ្នកអាចដោះស្រាយសំណើពិបាកៗបានយ៉ាងងាយ នៅពេលជំនាញនោះក្លាយជារឿងធម្មតា។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You may have built a life that is comfortable and largely your own. Protecting that independence could be the heart of the limits you set.",
+        "km": "អ្នកប្រហែលជាបានកសាងជីវិតដែលសុខស្រួល និងភាគច្រើនជារបស់អ្នកផ្ទាល់។ ការការពារឯករាជ្យភាពនោះ អាចជាស្នូលនៃដែនកំណត់ដែលអ្នកកំណត់។"
+      },
+      "challenge": {
+        "en": "Feeling guilty for enjoying your own space could make you give it away too easily. Your independence is worth keeping, even when others want more of you.",
+        "km": "ការមានអារម្មណ៍ទោសកំហុសដែលរីករាយនឹងលំហផ្ទាល់ខ្លួន អាចធ្វើឱ្យអ្នកផ្តល់វាចេញងាយពេក។ ឯករាជ្យភាពរបស់អ្នកសមនឹងរក្សាទុក ទោះបីអ្នកដទៃចង់បានអ្នកច្រើនជាងនេះក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Respected independence could let you enjoy family and friends on your own terms. Your home and routines may feel like a source of calm and pride.",
+        "km": "ឯករាជ្យភាពដែលត្រូវបានគោរព អាចអនុញ្ញាតឱ្យអ្នករីករាយជាមួយគ្រួសារ និងមិត្តភក្តិតាមលក្ខខណ្ឌរបស់អ្នក។ ផ្ទះ និងទម្លាប់របស់អ្នក អាចក្លាយជាប្រភពនៃភាពស្ងប់ និងមោទនភាព។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family traditions and expectations may shape what feels allowed to say. Seeing which customs still serve everyone could guide where you draw lines.",
+        "km": "ប្រពៃណី និងការរំពឹងទុករបស់គ្រួសារ អាចកំណត់ថាអ្វីដែលហាក់ដូចជាអាចនិយាយបាន។ ការមើលឃើញថាទំនៀមទម្លាប់ណាដែលនៅតែមានប្រយោជន៍ដល់គ្រប់គ្នា អាចណែនាំកន្លែងដែលអ្នកគូសបន្ទាត់។"
+      },
+      "challenge": {
+        "en": "Duty to the wider family could pressure you into saying yes to everything. Honour your roots, but remember that a healthy family has room for personal limits.",
+        "km": "កាតព្វកិច្ចចំពោះគ្រួសារធំ អាចសង្កត់អ្នកឱ្យយល់ព្រមលើគ្រប់យ៉ាង។ សូមគោរពប្រភពដើមរបស់អ្នក ប៉ុន្តែចងចាំថាគ្រួសារដែលមានសុខភាពល្អ មានកន្លែងសម្រាប់ដែនកំណត់ផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Limits that respect tradition and your own needs could strengthen the whole family. Gatherings may feel more relaxed when everyone knows what is expected.",
+        "km": "ដែនកំណត់ដែលគោរពប្រពៃណី និងតម្រូវការរបស់អ្នក អាចពង្រឹងគ្រួសារទាំងមូល។ ការជួបជុំអាចមានភាពស្រួលជាងមុន នៅពេលគ្រប់គ្នាដឹងថាអ្វីដែលត្រូវរំពឹង។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You may be open to learning practical ways to protect your energy and space. Reading, observing or asking a wise friend could give you useful ideas.",
+        "km": "អ្នកប្រហែលជាបើកចំហក្នុងការរៀនវិធីជាក់ស្តែងដើម្បីការពារថាមពល និងលំហរបស់អ្នក។ ការអាន ការសង្កេត ឬការសួរមិត្តដែលឈ្លាសវៃ អាចផ្តល់គំនិតមានប្រយោជន៍ដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Planning limits endlessly without trying them could keep things exactly as they are. Choose one small rule and put it into practice.",
+        "km": "ការរៀបចំផែនការដែនកំណត់ដោយមិនចេះចប់ ដោយមិនសាកល្បងវា អាចធ្វើឱ្យអ្វីៗនៅដដែល។ សូមជ្រើសច្បាប់តូចមួយ ហើយយកវាទៅអនុវត្ត។"
+      },
+      "outcome": {
+        "en": "Small, practical steps could build confidence in protecting what matters to you. Each success may plant the seed for a healthier family routine.",
+        "km": "ជំហានតូចៗ និងជាក់ស្តែង អាចកសាងទំនុកចិត្តក្នុងការការពារអ្វីដែលសំខាន់សម្រាប់អ្នក។ ជោគជ័យនីមួយៗ អាចដាំគ្រាប់ពូជសម្រាប់ទម្លាប់គ្រួសារដែលមានសុខភាពល្អជាងមុន។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Calm, steady consistency may be your most reliable tool for setting boundaries. Repeating the same quiet limit could show others you mean it.",
+        "km": "ភាពស្ថិតស្ថេរដ៏ស្ងប់ និងនឹងនរ អាចជាឧបករណ៍ដែលគួរទុកចិត្តបំផុតរបស់អ្នក ក្នុងការកំណត់ព្រំដែន។ ការនិយាយដែនកំណត់ស្ងប់ដដែលម្តងហើយម្តងទៀត អាចបង្ហាញអ្នកដទៃថាអ្នកនិយាយពិត។"
+      },
+      "challenge": {
+        "en": "Sticking to routine out of habit could keep limits that no longer fit. Ask yourself whether each rule still protects what you value most.",
+        "km": "ការប្រកាន់ទម្លាប់ដោយសារតែជាប់ចិត្ត អាចរក្សាដែនកំណត់ដែលលែងសមស្រប។ សូមសួរខ្លួនឯងថា ច្បាប់នីមួយៗនៅតែការពារអ្វីដែលអ្នកឱ្យតម្លៃបំផុតឬអត់។"
+      },
+      "outcome": {
+        "en": "Patient consistency could turn your limits into accepted family habits. Through many small, repeated moments, others may adjust without argument.",
+        "km": "ភាពស្ថិតស្ថេរដោយអត់ធ្មត់ អាចប្រែដែនកំណត់របស់អ្នក ទៅជាទម្លាប់គ្រួសារដែលគ្រប់គ្នាទទួលយក។ តាមរយៈការធ្វើតូចៗម្តងហើយម្តងទៀត អ្នកដទៃអាចសម្របខ្លួនដោយគ្មានការប្រកែក។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Your nurturing nature may make you the one everyone turns to for help. Caring for your own needs as faithfully as theirs could be the place to begin.",
+        "km": "ធម្មជាតិនៃការថែរក្សារបស់អ្នក អាចធ្វើឱ្យអ្នកក្លាយជាមនុស្សដែលគ្រប់គ្នាងាកមករកជំនួយ។ ការមើលថែតម្រូវការរបស់ខ្លួនឯងដោយស្មោះត្រង់ដូចតម្រូវការរបស់ពួកគេ អាចជាកន្លែងចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Looking after everyone at home could leave nothing for your own rest and health. Let others take a turn with the cooking, caring or errands.",
+        "km": "ការមើលថែគ្រប់គ្នានៅផ្ទះ អាចមិនទុកអ្វីសម្រាប់ការសម្រាក និងសុខភាពរបស់អ្នក។ សូមឱ្យអ្នកដទៃផ្លាស់វេនគ្នាធ្វើម្ហូប មើលថែ ឬរត់ការ។"
+      },
+      "outcome": {
+        "en": "Caring with healthy limits could keep your warmth flowing without burning out. Your home may feel nurturing for you as well as for everyone else.",
+        "km": "ការមើលថែដោយមានដែនកំណត់ដែលមានសុខភាពល្អ អាចរក្សាភាពកក់ក្តៅរបស់អ្នកឱ្យហូរ ដោយមិនអស់កម្លាំង។ ផ្ទះរបស់អ្នកអាចផ្តល់ការថែរក្សាសម្រាប់អ្នក ក៏ដូចជាសម្រាប់អ្នកដទៃទាំងអស់។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You may be in a strong position to set firm, sensible limits with family. Your reliability could give your words weight when you say what you will and will not do.",
+        "km": "អ្នកប្រហែលជាស្ថិតក្នុងជំហររឹងមាំ ដើម្បីកំណត់ដែនកំណត់ម៉ឺងម៉ាត់ និងសមហេតុផលជាមួយគ្រួសារ។ ភាពគួរទុកចិត្តរបស់អ្នក អាចផ្តល់ទម្ងន់ដល់ពាក្យរបស់អ្នក នៅពេលអ្នកប្រាប់ពីអ្វីដែលអ្នកនឹងធ្វើ និងមិនធ្វើ។"
+      },
+      "challenge": {
+        "en": "Being the family provider could make others treat your help as unlimited. Make clear which support you offer by choice and which you cannot keep giving.",
+        "km": "ការធ្វើជាអ្នកផ្គត់ផ្គង់គ្រួសារ អាចធ្វើឱ្យអ្នកដទៃចាត់ទុកជំនួយរបស់អ្នកថាគ្មានដែនកំណត់។ សូមបញ្ជាក់ឱ្យច្បាស់ថា ការគាំទ្រណាដែលអ្នកផ្តល់ដោយជម្រើស និងណាដែលអ្នកមិនអាចបន្តផ្តល់។"
+      },
+      "outcome": {
+        "en": "Steady, generous limits could make you a respected and secure anchor for the family. Others may learn to stand on their own while still valuing your support.",
+        "km": "ដែនកំណត់ដែលនឹងនរ និងសប្បុរស អាចធ្វើឱ្យអ្នកក្លាយជាសសរស្តម្ភដែលគេគោរព និងមានសុវត្ថិភាពសម្រាប់គ្រួសារ។ អ្នកដទៃអាចរៀនឈរលើជើងខ្លួនឯង ខណៈនៅតែឱ្យតម្លៃលើការគាំទ្ររបស់អ្នក។"
+      }
+    }
+  }
+}
