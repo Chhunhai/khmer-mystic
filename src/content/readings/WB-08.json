@@ -1,0 +1,1097 @@
+{
+  "questionId": "WB-08",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A willingness to try new things may be the seed of your confidence. Stepping into the unknown, even in small ways, could show you how capable you are.",
+        "km": "ឆន្ទៈក្នុងការសាកល្បងរឿងថ្មីៗ អាចជាគ្រាប់ពូជនៃទំនុកចិត្តរបស់អ្នក។ ការបោះជំហានចូលទៅក្នុងអ្វីដែលមិនស្គាល់ ទោះបីក្នុងរបៀបតូចៗ អាចបង្ហាញអ្នកថាអ្នកមានសមត្ថភាពប៉ុណ្ណា។"
+      },
+      "challenge": {
+        "en": "Waiting until you feel ready could keep you from ever starting. Take one small leap before the doubts talk you out of it.",
+        "km": "ការរង់ចាំរហូតដល់អ្នកមានអារម្មណ៍ត្រៀមខ្លួន អាចរារាំងអ្នកពីការចាប់ផ្តើម។ សូមលោតតូចមួយ មុនពេលការសង្ស័យនិយាយបញ្ចុះបញ្ចូលអ្នកឱ្យឈប់។"
+      },
+      "outcome": {
+        "en": "Brave first steps could build a lightness and self-trust that grows with each try. You may surprise yourself with what you can handle.",
+        "km": "ជំហានដំបូងដ៏ក្លាហាន អាចកសាងភាពស្រាល និងការទុកចិត្តខ្លួនឯង ដែលកើនឡើងជាមួយការសាកល្បងនីមួយៗ។ អ្នកអាចធ្វើឱ្យខ្លួនឯងភ្ញាក់ផ្អើលជាមួយអ្វីដែលអ្នកអាចដោះស្រាយបាន។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Recognising the skills you already have may be the foundation of confidence. Listing what you do well could remind you of your real abilities.",
+        "km": "ការទទួលស្គាល់ជំនាញដែលអ្នកមានរួចហើយ អាចជាមូលដ្ឋាននៃទំនុកចិត្ត។ ការរាយបញ្ជីអ្វីដែលអ្នកធ្វើបានល្អ អាចរំលឹកអ្នកពីសមត្ថភាពពិតប្រាកដរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Overlooking your own talents could leave you feeling smaller than you are. Put one skill to work in a way others can see.",
+        "km": "ការមើលរំលងទេពកោសល្យរបស់ខ្លួនឯង អាចធ្វើឱ្យអ្នកមានអារម្មណ៍តូចជាងអ្វីដែលអ្នកជា។ សូមប្រើជំនាញមួយក្នុងរបៀបដែលអ្នកដទៃអាចមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Using your abilities with intention could build real, earned confidence. Each small success may strengthen your belief in yourself a little more.",
+        "km": "ការប្រើសមត្ថភាពរបស់អ្នកដោយចេតនា អាចកសាងទំនុកចិត្តពិតប្រាកដដែលទទួលបានដោយការខិតខំ។ ជោគជ័យតូចនីមួយៗ អាចពង្រឹងជំនឿរបស់អ្នកលើខ្លួនឯងបន្តិចម្តងៗ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Trusting your inner voice may be a quiet path to confidence. Listening to your instincts, and acting on them, could help you feel more sure of yourself.",
+        "km": "ការទុកចិត្តលើសំឡេងក្នុងចិត្ត អាចជាផ្លូវស្ងាត់ៗឆ្ពោះទៅរកទំនុកចិត្ត។ ការស្តាប់សភាវគតិរបស់អ្នក ហើយធ្វើតាមវា អាចជួយអ្នកឱ្យមានអារម្មណ៍ប្រាកដលើខ្លួនឯងជាងមុន។"
+      },
+      "challenge": {
+        "en": "Seeking constant reassurance from others could weaken your self-trust. Practise making small decisions on your own judgement, without asking around first.",
+        "km": "ការស្វែងរកការធានាពីអ្នកដទៃជានិច្ច អាចធ្វើឱ្យការទុកចិត្តខ្លួនឯងចុះខ្សោយ។ សូមហាត់ធ្វើការសម្រេចចិត្តតូចៗ ដោយផ្អែកលើការវិនិច្ឆ័យរបស់ខ្លួនឯង ដោយមិនសួរអ្នកដទៃជាមុន។"
+      },
+      "outcome": {
+        "en": "Trusting your intuition could bring calm, steady confidence. You may feel more at ease making choices without outside approval.",
+        "km": "ការទុកចិត្តលើវិចារណញាណរបស់អ្នក អាចនាំមកនូវទំនុកចិត្តស្ងប់ និងនឹងនរ។ អ្នកអាចមានអារម្មណ៍ស្រួលជាងមុនក្នុងការធ្វើជម្រើស ដោយគ្មានការយល់ព្រមពីខាងក្រៅ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Treating yourself with warmth may help your confidence grow. Caring for your body and surroundings could make you feel more worthy.",
+        "km": "ការប្រព្រឹត្តចំពោះខ្លួនឯងដោយភាពកក់ក្តៅ អាចជួយទំនុកចិត្តរបស់អ្នករីកចម្រើន។ ការមើលថែរាងកាយ និងបរិយាកាសជុំវិញរបស់អ្នក អាចធ្វើឱ្យអ្នកមានអារម្មណ៍មានតម្លៃជាងមុន។"
+      },
+      "challenge": {
+        "en": "Neglecting yourself while caring for others could send a message that you matter less. Give yourself the same care and praise you give others.",
+        "km": "ការមិនអើពើខ្លួនឯង ខណៈមើលថែអ្នកដទៃ អាចផ្ញើសារថាអ្នកមិនសូវសំខាន់។ សូមផ្តល់ការថែរក្សា និងការសរសើរដូចគ្នាដល់ខ្លួនឯង ដូចដែលអ្នកផ្តល់ដល់អ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Self-nurturing could build a warm, grounded confidence. You may carry yourself with more ease, grace and quiet self-respect.",
+        "km": "ការថែរក្សាខ្លួនឯង អាចកសាងទំនុកចិត្តដ៏កក់ក្តៅ និងនឹងនរ។ អ្នកអាចបង្ហាញខ្លួនដោយភាពស្រួល ភាពថ្លៃថ្នូ និងការគោរពខ្លួនឯងស្ងាត់ៗជាងមុន។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Setting clear goals and keeping commitments to yourself may build confidence. Following through on small promises could prove you are reliable.",
+        "km": "ការកំណត់គោលដៅច្បាស់លាស់ និងការរក្សាការប្តេជ្ញាចំពោះខ្លួនឯង អាចកសាងទំនុកចិត្ត។ ការធ្វើតាមការសន្យាតូចៗ អាចបញ្ជាក់ថាអ្នកគួរទុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Being too strict with yourself could turn every slip into proof of failure. Keep your standards, but treat setbacks as part of learning.",
+        "km": "ការតឹងរ៉ឹងពេកជាមួយខ្លួនឯង អាចប្រែការរអិលនីមួយៗទៅជាភស្តុតាងនៃការបរាជ័យ។ សូមរក្សាស្តង់ដាររបស់អ្នក ប៉ុន្តែចាត់ទុកឧបសគ្គជាផ្នែកមួយនៃការរៀន។"
+      },
+      "outcome": {
+        "en": "Steady self-discipline could build solid, dependable confidence. You may feel more in control of your life, and more willing to aim higher.",
+        "km": "ការប្រកាន់វិន័យខ្លួនឯងដោយនឹងនរ អាចកសាងទំនុកចិត្តរឹងមាំ។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងជីវិតរបស់អ្នកបានច្រើនជាងមុន ហើយចង់តម្រង់គោលដៅខ្ពស់ជាងមុន។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Learning from a mentor or trusted guide may help your confidence grow. Wise, honest encouragement could help you believe in yourself more fully.",
+        "km": "ការរៀនពីអ្នកណែនាំ ឬអ្នកដឹកនាំដែលគួរទុកចិត្ត អាចជួយទំនុកចិត្តរបស់អ្នករីកចម្រើន។ ការលើកទឹកចិត្តដ៏ឈ្លាសវៃ និងស្មោះត្រង់ អាចជួយអ្នកឱ្យជឿលើខ្លួនឯងបានពេញលេញជាងមុន។"
+      },
+      "challenge": {
+        "en": "Relying only on others' opinions of you could keep confidence fragile. Learn from guidance, but form your own view of your worth.",
+        "km": "ការពឹងផ្អែកតែលើមតិរបស់អ្នកដទៃចំពោះអ្នក អាចធ្វើឱ្យទំនុកចិត្តផុយស្រួយ។ សូមរៀនពីការណែនាំ ប៉ុន្តែបង្កើតទស្សនៈផ្ទាល់ខ្លួនអំពីតម្លៃរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Supportive guidance could help you build steady self-belief. You may find a teacher or community that sees your worth clearly.",
+        "km": "ការណែនាំដែលគាំទ្រ អាចជួយអ្នកកសាងជំនឿលើខ្លួនឯងដោយនឹងនរ។ អ្នកអាចរកឃើញគ្រូ ឬសហគមន៍ដែលមើលឃើញតម្លៃរបស់អ្នកយ៉ាងច្បាស់។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Making choices that reflect your values may build deep confidence. Standing by what you believe could strengthen your sense of self.",
+        "km": "ការធ្វើជម្រើសដែលឆ្លុះបញ្ចាំងពីគុណតម្លៃរបស់អ្នក អាចកសាងទំនុកចិត្តដ៏ជ្រាលជ្រៅ។ ការឈរលើអ្វីដែលអ្នកជឿ អាចពង្រឹងអារម្មណ៍នៃខ្លួនឯងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Changing your choices to please others could leave you unsure who you are. Make one decision based purely on what matters to you.",
+        "km": "ការផ្លាស់ប្តូរជម្រើសរបស់អ្នកដើម្បីផ្គាប់ចិត្តអ្នកដទៃ អាចធ្វើឱ្យអ្នកមិនប្រាកដថាអ្នកជានរណា។ សូមធ្វើការសម្រេចចិត្តមួយ ដោយផ្អែកតែលើអ្វីដែលសំខាន់សម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Living by your values could bring a strong, authentic confidence. Relationships may feel more honest as you show who you really are.",
+        "km": "ការរស់នៅតាមគុណតម្លៃរបស់អ្នក អាចនាំមកនូវទំនុកចិត្តរឹងមាំ និងពិតប្រាកដ។ ទំនាក់ទំនងអាចមានអារម្មណ៍ស្មោះត្រង់ជាងមុន នៅពេលអ្នកបង្ហាញថាអ្នកពិតជានរណា។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Taking determined action toward a goal may build your confidence more than waiting would. Proving to yourself that you can push through could be powerful.",
+        "km": "ការធ្វើសកម្មភាពដោយតាំងចិត្តឆ្ពោះទៅរកគោលដៅ អាចកសាងទំនុកចិត្តរបស់អ្នកច្រើនជាងការរង់ចាំ។ ការបញ្ជាក់ដល់ខ្លួនឯងថាអ្នកអាចឆ្លងកាត់បាន អាចមានឥទ្ធិពលខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Pushing too hard to prove yourself could lead to burnout or bravado. Aim for steady, real progress rather than dramatic wins to show off.",
+        "km": "ការរុញខ្លាំងពេកដើម្បីបញ្ជាក់ខ្លួនឯង អាចនាំឱ្យអស់កម្លាំង ឬការអួតអាង។ សូមតម្រង់ទៅរកវឌ្ឍនភាពពិតប្រាកដ និងនឹងនរ ជាជាងជ័យជំនះធំៗដើម្បីបង្ហាញ។"
+      },
+      "outcome": {
+        "en": "Focused effort could bring a hard-won, solid confidence. Overcoming obstacles, one by one, may show you the strength you really have.",
+        "km": "កិច្ចខិតខំដែលផ្តោត អាចនាំមកនូវទំនុកចិត្តដែលទទួលបានដោយការតស៊ូ។ ការយកឈ្នះឧបសគ្គ ម្តងមួយៗ អាចបង្ហាញអ្នកពីកម្លាំងដែលអ្នកពិតជាមាន។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Quiet inner strength may be the truest form of confidence for you. Facing challenges with patience could show you how resilient you are.",
+        "km": "កម្លាំងក្នុងចិត្តស្ងាត់ៗ អាចជាទម្រង់ទំនុកចិត្តពិតបំផុតសម្រាប់អ្នក។ ការប្រឈមមុខនឹងបញ្ហាប្រឈមដោយការអត់ធ្មត់ អាចបង្ហាញអ្នកថាអ្នកធន់ប៉ុណ្ណា។"
+      },
+      "challenge": {
+        "en": "Believing confidence must be loud could make you overlook your gentle strength. Value your calm courage, even if no one applauds it.",
+        "km": "ការជឿថាទំនុកចិត្តត្រូវតែខ្លាំងឮ អាចធ្វើឱ្យអ្នកមើលរំលងកម្លាំងទន់ភ្លន់របស់អ្នក។ សូមឱ្យតម្លៃភាពក្លាហានស្ងប់ៗរបស់អ្នក ទោះបីគ្មាននរណាម្នាក់អបអរក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Gentle courage could grow into deep, steady self-belief. You may handle difficulties with grace, composure and a quiet sense of worth.",
+        "km": "ភាពក្លាហានទន់ភ្លន់ អាចរីកចម្រើនទៅជាជំនឿលើខ្លួនឯងដ៏ជ្រាលជ្រៅ និងនឹងនរ។ អ្នកអាចដោះស្រាយការលំបាកដោយភាពថ្លៃថ្នូ ភាពស្ងប់ និងអារម្មណ៍ស្ងាត់ៗនៃតម្លៃខ្លួនឯង។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Getting to know yourself may be the quiet root of confidence. Reflection could help you understand your strengths and values.",
+        "km": "ការស្គាល់ខ្លួនឯង អាចជាឫសគល់ស្ងាត់ៗនៃទំនុកចិត្ត។ ការពិចារណា អាចជួយអ្នកយល់ពីចំណុចខ្លាំង និងគុណតម្លៃរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Withdrawing to avoid judgement could keep you from testing your abilities. Balance reflection with stepping out, trying things and letting others see you.",
+        "km": "ការដកខ្លួនដើម្បីគេចពីការវិនិច្ឆ័យ អាចរារាំងអ្នកពីការសាកល្បងសមត្ថភាពរបស់អ្នក។ សូមថ្លឹងការពិចារណាជាមួយការចេញទៅខាងក្រៅ ការសាកល្បងអ្វីៗ និងការឱ្យអ្នកដទៃមើលឃើញអ្នក។"
+      },
+      "outcome": {
+        "en": "Self-knowledge could bring a calm, unshakeable confidence. You may need less approval because you know yourself well.",
+        "km": "ការស្គាល់ខ្លួនឯង អាចនាំមកនូវទំនុកចិត្តស្ងប់ និងមិនរង្គោះរង្គើ។ អ្នកអាចត្រូវការការយល់ព្រមតិចជាងមុន ព្រោះអ្នកស្គាល់ខ្លួនឯងបានល្អ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Accepting that life has ups and downs may steady your confidence. Knowing that setbacks pass could help you keep going.",
+        "km": "ការទទួលយកថាជីវិតមានការឡើងចុះ អាចធ្វើឱ្យទំនុកចិត្តរបស់អ្នកនឹងនរ។ ការដឹងថាឧបសគ្គមិនស្ថិតស្ថេរ អាចជួយអ្នកបន្តទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Letting one setback define you could shake your confidence. Remember that circumstances change and so can your results.",
+        "km": "ការឱ្យឧបសគ្គមួយកំណត់ថាអ្នកជានរណា អាចរង្គោះរង្គើទំនុកចិត្តរបស់អ្នក។ សូមចងចាំថាកាលៈទេសៈផ្លាស់ប្តូរ ហើយលទ្ធផលរបស់អ្នកក៏អាចផ្លាស់ប្តូរដែរ។"
+      },
+      "outcome": {
+        "en": "Adaptable confidence could carry you through changing fortunes. A positive turn may boost your self-belief, but you may stay steady either way.",
+        "km": "ទំនុកចិត្តដែលបត់បែន អាចនាំអ្នកឆ្លងកាត់វាសនាដែលប្រែប្រួល។ ការផ្លាស់ប្តូរវិជ្ជមាន អាចបង្កើនជំនឿលើខ្លួនឯងរបស់អ្នក ប៉ុន្តែអ្នកអាចនៅតែនឹងនរមិនថាយ៉ាងណា។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Seeing yourself fairly, neither too harshly nor too kindly, may build real confidence. An honest assessment of your strengths could steady you.",
+        "km": "ការមើលខ្លួនឯងដោយយុត្តិធម៌ មិនតឹងរ៉ឹងពេក ឬទន់ពេក អាចកសាងទំនុកចិត្តពិតប្រាកដ។ ការវាយតម្លៃដោយស្មោះត្រង់លើចំណុចខ្លាំងរបស់អ្នក អាចធ្វើឱ្យអ្នកនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Judging yourself more harshly than you judge others could erode your confidence. Apply the same fairness to yourself that you give friends.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងធ្ងន់ធ្ងរជាងអ្វីដែលអ្នកវិនិច្ឆ័យអ្នកដទៃ អាចធ្វើឱ្យទំនុកចិត្តរបស់អ្នកចុះខ្សោយ។ សូមអនុវត្តយុត្តិធម៌ដូចគ្នាចំពោះខ្លួនឯង ដូចដែលអ្នកផ្តល់ដល់មិត្តភក្តិ។"
+      },
+      "outcome": {
+        "en": "Fair self-assessment could bring balanced, honest confidence. You may accept both your strengths and your limits calmly.",
+        "km": "ការវាយតម្លៃខ្លួនឯងដោយយុត្តិធម៌ អាចនាំមកនូវទំនុកចិត្តដែលមានតុល្យភាព និងស្មោះត្រង់។ អ្នកអាចទទួលយកទាំងចំណុចខ្លាំង និងដែនកំណត់របស់អ្នកដោយស្ងប់។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Seeing yourself from a new angle may unlock hidden confidence. Letting go of old self-images could reveal strengths you have overlooked.",
+        "km": "ការមើលខ្លួនឯងពីមុំថ្មី អាចដោះសោទំនុកចិត្តដែលលាក់កំបាំង។ ការលែងប្រកាន់រូបភាពខ្លួនឯងចាស់ៗ អាចបង្ហាញចំណុចខ្លាំងដែលអ្នកបានមើលរំលង។"
+      },
+      "challenge": {
+        "en": "Feeling stuck in an old view of yourself could hold you back. Ask how someone who admires you would describe you, and listen to the answer.",
+        "km": "ការមានអារម្មណ៍ជាប់គាំងក្នុងទស្សនៈចាស់ចំពោះខ្លួនឯង អាចរារាំងអ្នក។ សូមសួរថានរណាម្នាក់ដែលកោតសរសើរអ្នក នឹងពិពណ៌នាអ្នកយ៉ាងណា ហើយស្តាប់ចម្លើយនោះ។"
+      },
+      "outcome": {
+        "en": "A fresh perspective could transform how you see yourself. You may find confidence you did not know you had.",
+        "km": "ទស្សនៈថ្មី អាចផ្លាស់ប្តូររបៀបដែលអ្នកមើលខ្លួនឯង។ អ្នកអាចរកឃើញទំនុកចិត្តដែលអ្នកមិនដឹងថាអ្នកមាន។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Letting go of an old, limiting identity may make room for confidence. Ending a pattern of self-doubt could open a new chapter.",
+        "km": "ការលែងប្រកាន់អត្តសញ្ញាណចាស់ដែលកំណត់ព្រំដែន អាចទុកលំហសម្រាប់ទំនុកចិត្ត។ ការបញ្ចប់គំរូនៃការសង្ស័យខ្លួនឯង អាចបើកជំពូកថ្មី។"
+      },
+      "challenge": {
+        "en": "Holding on to labels from the past could keep you small. Let old stories about who you are, and what you cannot do, fall away.",
+        "km": "ការប្រកាន់ខ្ជាប់ស្លាកពីអតីតកាល អាចធ្វើឱ្យអ្នកតូច។ សូមឱ្យរឿងរ៉ាវចាស់ៗអំពីថាអ្នកជានរណា និងអ្វីដែលអ្នកមិនអាចធ្វើ រលាយបាត់។"
+      },
+      "outcome": {
+        "en": "Transformation could bring a renewed, more confident sense of self. You may step into a stronger version of yourself.",
+        "km": "ការផ្លាស់ប្តូរ អាចនាំមកនូវអារម្មណ៍ខ្លួនឯងថ្មី និងមានទំនុកចិត្តជាងមុន។ អ្នកអាចបោះជំហានចូលទៅក្នុងកំណែខ្លួនឯងដែលរឹងមាំជាងមុន។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Balance and patience may help your confidence grow steadily. Small, consistent steps could build self-belief that holds up under pressure.",
+        "km": "តុល្យភាព និងការអត់ធ្មត់ អាចជួយទំនុកចិត្តរបស់អ្នករីកចម្រើនដោយនឹងនរ។ ជំហានតូចៗ និងជាប់លាប់ អាចកសាងជំនឿលើខ្លួនឯងដែលនៅរឹងមាំក្រោមសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Swinging between overconfidence and self-doubt could leave you unsettled. Aim for a calm middle ground in how you see yourself.",
+        "km": "ការយោលរវាងទំនុកចិត្តហួសហេតុ និងការសង្ស័យខ្លួនឯង អាចធ្វើឱ្យអ្នកមិនស្ងប់។ សូមតម្រង់ទៅរកចំណុចកណ្តាលស្ងប់ ក្នុងរបៀបដែលអ្នកមើលខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Balanced self-belief could bring calm, steady confidence. You may feel secure in yourself without needing to prove anything to anyone.",
+        "km": "ជំនឿលើខ្លួនឯងដែលមានតុល្យភាព អាចនាំមកនូវទំនុកចិត្តស្ងប់ និងនឹងនរ។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពក្នុងខ្លួនឯង ដោយមិនចាំបាច់បញ្ជាក់អ្វីដល់នរណាម្នាក់។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Recognising what holds your confidence hostage may be the first step. A habit, relationship or belief could be keeping you small.",
+        "km": "ការទទួលស្គាល់អ្វីដែលចាប់ទំនុកចិត្តរបស់អ្នកជាចំណាប់ខ្មាំង អាចជាជំហានដំបូង។ ទម្លាប់ ទំនាក់ទំនង ឬជំនឿមួយ អាចកំពុងធ្វើឱ្យអ្នកតូច។"
+      },
+      "challenge": {
+        "en": "Staying tied to people who put you down could erode your self-worth. Limit contact with those who belittle you, and seek support if you feel controlled.",
+        "km": "ការនៅជាប់នឹងមនុស្សដែលមើលងាយអ្នក អាចធ្វើឱ្យតម្លៃខ្លួនឯងរបស់អ្នកចុះខ្សោយ។ សូមកំណត់ការទាក់ទងជាមួយអ្នកដែលមើលងាយអ្នក ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍ត្រូវបានគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "Breaking free from what diminishes you could release real confidence. You may feel stronger, freer and more fully yourself.",
+        "km": "ការរួចផុតពីអ្វីដែលធ្វើឱ្យអ្នកតូច អាចបញ្ចេញទំនុកចិត្តពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍ខ្លាំង សេរី និងជាខ្លួនឯងពេញលេញជាងមុន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A shake-up may be revealing your true strength. Surviving a difficult change could show you that you are tougher than you thought.",
+        "km": "ការរង្គោះរង្គើមួយ អាចកំពុងបង្ហាញកម្លាំងពិតរបស់អ្នក។ ការរស់រានពីការផ្លាស់ប្តូរដ៏លំបាក អាចបង្ហាញអ្នកថាអ្នករឹងមាំជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "A setback could shake your self-belief. Remember that falling does not define you, and reach out for support if you feel overwhelmed.",
+        "km": "ឧបសគ្គមួយ អាចរង្គោះរង្គើជំនឿលើខ្លួនឯងរបស់អ្នក។ សូមចងចាំថាការដួលមិនកំណត់ថាអ្នកជានរណា ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍លើសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Rebuilding through upheaval could bring a deeper, tested confidence. You may know your strength because you have used it.",
+        "km": "ការកសាងឡើងវិញតាមរយៈការរង្គោះរង្គើ អាចនាំមកនូវទំនុកចិត្តដែលជ្រៅជាងមុន និងត្រូវបានសាកល្បង។ អ្នកអាចដឹងពីកម្លាំងរបស់អ្នក ព្រោះអ្នកបានប្រើវា។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and gentle self-belief may be quietly returning. Remembering your worth, and the good you have done, could help your confidence heal.",
+        "km": "ក្តីសង្ឃឹម និងជំនឿលើខ្លួនឯងដោយទន់ភ្លន់ អាចកំពុងត្រឡប់មកវិញដោយស្ងាត់ៗ។ ការចងចាំតម្លៃរបស់អ្នក និងអំពើល្អដែលអ្នកបានធ្វើ អាចជួយទំនុកចិត្តរបស់អ្នកជាសះស្បើយ។"
+      },
+      "challenge": {
+        "en": "Losing faith in yourself through a hard stretch could dim your light. Hold on to evidence of your strengths, however small.",
+        "km": "ការបាត់បង់ជំនឿលើខ្លួនឯង ក្នុងដំណាក់កាលលំបាក អាចធ្វើឱ្យពន្លឺរបស់អ្នកស្រអាប់។ សូមកាន់ខ្ជាប់ភស្តុតាងនៃចំណុចខ្លាំងរបស់អ្នក ទោះតូចយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Renewed hope could bring a gentle, glowing confidence. You may feel inspired to shine again, gently and in your own way.",
+        "km": "ក្តីសង្ឃឹមថ្មី អាចនាំមកនូវទំនុកចិត្តដ៏ទន់ភ្លន់ និងភ្លឺចែងចាំង។ អ្នកអាចមានអារម្មណ៍មានការបំផុសគំនិតឱ្យភ្លឺចែងចាំងម្តងទៀត ដោយទន់ភ្លន់ និងតាមរបៀបរបស់អ្នក។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Hidden fears and self-doubt may be clouding how you see yourself. Questioning those worries could reveal that many are not true.",
+        "km": "ការភ័យខ្លាច និងការសង្ស័យខ្លួនឯងដែលលាក់កំបាំង អាចកំពុងធ្វើឱ្យរបៀបដែលអ្នកមើលខ្លួនឯងស្រអាប់។ ការចោទសួរការព្រួយបារម្ភទាំងនោះ អាចបង្ហាញថាភាគច្រើនមិនពិត។"
+      },
+      "challenge": {
+        "en": "Believing anxious thoughts about yourself could keep confidence low. Check them against evidence, and talk to a professional if anxiety holds you back.",
+        "km": "ការជឿលើគំនិតថប់បារម្ភអំពីខ្លួនឯង អាចធ្វើឱ្យទំនុកចិត្តទាប។ សូមពិនិត្យវាជាមួយភស្តុតាង ហើយនិយាយជាមួយអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភរារាំងអ្នក។"
+      },
+      "outcome": {
+        "en": "Clearing away false fears could reveal a more confident you. You may trust yourself more as the fog of doubt lifts.",
+        "km": "ការសម្អាតការភ័យខ្លាចមិនពិតចេញ អាចបង្ហាញអ្នកដែលមានទំនុកចិត្តជាងមុន។ អ្នកអាចទុកចិត្តខ្លួនឯងច្រើនជាងមុន នៅពេលអ័ព្ទនៃការសង្ស័យរសាយ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Letting your natural warmth and joy shine may be the easiest path to confidence. Doing what makes you happy could make you feel more yourself.",
+        "km": "ការឱ្យភាពកក់ក្តៅ និងសេចក្តីរីករាយធម្មជាតិរបស់អ្នកភ្លឺចែងចាំង អាចជាផ្លូវងាយបំផុតឆ្ពោះទៅរកទំនុកចិត្ត។ ការធ្វើអ្វីដែលធ្វើឱ្យអ្នកសប្បាយ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ជាខ្លួនឯងជាងមុន។"
+      },
+      "challenge": {
+        "en": "Hiding your light to avoid standing out could keep you small. Let yourself be seen, even if it feels uncomfortable to begin with.",
+        "km": "ការលាក់ពន្លឺរបស់អ្នក ដើម្បីជៀសវាងការលេចធ្លោ អាចធ្វើឱ្យអ្នកតូច។ សូមអនុញ្ញាតឱ្យខ្លួនឯងត្រូវបានមើលឃើញ ទោះបីវាមានអារម្មណ៍មិនស្រួលនៅពេលចាប់ផ្តើមក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Shining openly could bring radiant, natural confidence. You may attract warmth and appreciation from others simply by being yourself.",
+        "km": "ការភ្លឺចែងចាំងដោយបើកចំហ អាចនាំមកនូវទំនុកចិត្តដ៏ភ្លឺស្វាង និងធម្មជាតិ។ អ្នកអាចទាក់ទាញភាពកក់ក្តៅ និងការកោតសរសើរពីអ្នកដទៃ គ្រាន់តែដោយការធ្វើជាខ្លួនឯង។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "An honest look at how far you have come may boost your confidence. Recognising your growth could inspire you to keep going.",
+        "km": "ការមើលដោយស្មោះត្រង់ថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា អាចបង្កើនទំនុកចិត្តរបស់អ្នក។ ការទទួលស្គាល់ការរីកចម្រើនរបស់អ្នក អាចបំផុសគំនិតអ្នកឱ្យបន្តទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Judging yourself by old mistakes could hold you back. Forgive what you have outgrown and focus on who you are becoming.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងតាមកំហុសចាស់ៗ អាចរារាំងអ្នក។ សូមអភ័យទោសអ្វីដែលអ្នកបានរីកចម្រើនហួស ហើយផ្តោតលើមនុស្សដែលអ្នកកំពុងក្លាយជា។"
+      },
+      "outcome": {
+        "en": "Answering a call to step up could bring renewed confidence. You may feel ready to claim a bigger role in your own life.",
+        "km": "ការឆ្លើយតបនឹងការហៅឱ្យក្រោកឈរ អាចនាំមកនូវទំនុកចិត្តថ្មី។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនទាមទារតួនាទីធំជាងមុនក្នុងជីវិតរបស់ខ្លួនឯង។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Recognising your accomplishments may give your confidence a solid foundation. You may have achieved more than you give yourself credit for.",
+        "km": "ការទទួលស្គាល់សមិទ្ធផលរបស់អ្នក អាចផ្តល់មូលដ្ឋានរឹងមាំដល់ទំនុកចិត្តរបស់អ្នក។ អ្នកប្រហែលជាបានសម្រេចច្រើនជាងអ្វីដែលអ្នកទទួលស្គាល់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Rushing on without acknowledging success could leave you feeling you have done nothing. Pause to celebrate what you have completed before reaching for the next goal.",
+        "km": "ការប្រញាប់ទៅមុខដោយមិនទទួលស្គាល់ជោគជ័យ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាអ្នកមិនបានធ្វើអ្វីសោះ។ សូមផ្អាកដើម្បីអបអរអ្វីដែលអ្នកបានបញ្ចប់ មុនពេលលូកដៃទៅរកគោលដៅបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "A sense of completion could bring deep, quiet confidence. You may feel whole, capable and ready for whatever you choose next.",
+        "km": "អារម្មណ៍នៃការបញ្ចប់ អាចនាំមកនូវទំនុកចិត្តស្ងាត់ៗ និងជ្រាលជ្រៅ។ អ្នកអាចមានអារម្មណ៍ពេញលេញ មានសមត្ថភាព និងត្រៀមខ្លួនសម្រាប់អ្វីក៏ដោយដែលអ្នកជ្រើសបន្ទាប់។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Starting something new that excites you may spark your confidence. A fresh project or challenge could show you what you are capable of.",
+        "km": "ការចាប់ផ្តើមអ្វីថ្មីដែលធ្វើឱ្យអ្នករំភើប អាចបំភ្លឺទំនុកចិត្តរបស់អ្នក។ គម្រោង ឬបញ្ហាប្រឈមថ្មីមួយ អាចបង្ហាញអ្នកពីអ្វីដែលអ្នកមានសមត្ថភាព។"
+      },
+      "challenge": {
+        "en": "Letting fear of failure stop you from starting could keep confidence low. Begin with something small enough that you are likely to succeed.",
+        "km": "ការឱ្យការភ័យខ្លាចបរាជ័យរារាំងអ្នកពីការចាប់ផ្តើម អាចធ្វើឱ្យទំនុកចិត្តទាប។ សូមចាប់ផ្តើមជាមួយអ្វីមួយដែលតូចល្មមដែលអ្នកទំនងជាជោគជ័យ។"
+      },
+      "outcome": {
+        "en": "Acting on inspiration could build energetic, growing confidence. Each new start may make the next one easier.",
+        "km": "ការធ្វើតាមការបំផុសគំនិត អាចកសាងទំនុកចិត្តដែលពោរពេញដោយថាមពល និងកំពុងកើនឡើង។ ការចាប់ផ្តើមថ្មីនីមួយៗ អាចធ្វើឱ្យការចាប់ផ្តើមបន្ទាប់ងាយស្រួលជាងមុន។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Making a clear plan for what you want may strengthen your confidence. Seeing a path forward could make your goals feel achievable.",
+        "km": "ការធ្វើផែនការច្បាស់លាស់សម្រាប់អ្វីដែលអ្នកចង់បាន អាចពង្រឹងទំនុកចិត្តរបស់អ្នក។ ការមើលឃើញផ្លូវទៅមុខ អាចធ្វើឱ្យគោលដៅរបស់អ្នកមានអារម្មណ៍អាចសម្រេចបាន។"
+      },
+      "challenge": {
+        "en": "Planning without acting could leave doubts unchallenged. Take the first step in your plan, simply to prove to yourself that you can.",
+        "km": "ការរៀបចំផែនការដោយមិនធ្វើសកម្មភាព អាចទុកការសង្ស័យឱ្យនៅដោយមិនត្រូវបានប្រឈម។ សូមបោះជំហានដំបូងក្នុងផែនការរបស់អ្នក គ្រាន់តែដើម្បីបញ្ជាក់ដល់ខ្លួនឯងថាអ្នកអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Following through on plans could bring growing self-belief. You may feel more capable of shaping your own life.",
+        "km": "ការធ្វើតាមផែនការ អាចនាំមកនូវជំនឿលើខ្លួនឯងដែលកំពុងកើនឡើង។ អ្នកអាចមានអារម្មណ៍មានសមត្ថភាពជាងមុនក្នុងការកំណត់ទិសដៅជីវិតរបស់អ្នក។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Looking beyond your comfort zone may help your confidence grow. New experiences could show you a bigger picture of yourself.",
+        "km": "ការមើលហួសពីតំបន់សុខស្រួលរបស់អ្នក អាចជួយទំនុកចិត្តរបស់អ្នករីកចម្រើន។ បទពិសោធន៍ថ្មីៗ អាចបង្ហាញអ្នកពីរូបភាពធំជាងមុនអំពីខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Staying in familiar territory could keep your confidence limited. Stretch a little further than feels comfortable, like speaking up in a group.",
+        "km": "ការនៅក្នុងទឹកដីដែលធ្លាប់ស្គាល់ អាចធ្វើឱ្យទំនុកចិត្តរបស់អ្នកមានកម្រិត។ សូមលាតសន្ធឹងឆ្ងាយជាងអ្វីដែលមានអារម្មណ៍ស្រួលបន្តិច ដូចជាការនិយាយក្នុងក្រុម។"
+      },
+      "outcome": {
+        "en": "Expanding your horizons could bring a broader, braver confidence. You may discover strengths you did not know you had.",
+        "km": "ការពង្រីកផ្តេករបស់អ្នក អាចនាំមកនូវទំនុកចិត្តដែលទូលាយ និងក្លាហានជាងមុន។ អ្នកអាចរកឃើញចំណុចខ្លាំងដែលអ្នកមិនដឹងថាអ្នកមាន។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Celebrating your achievements with people who care may boost your confidence. Being appreciated at home could help you feel secure in yourself.",
+        "km": "ការអបអរសមិទ្ធផលរបស់អ្នកជាមួយមនុស្សដែលយកចិត្តទុកដាក់ អាចបង្កើនទំនុកចិត្តរបស់អ្នក។ ការត្រូវបានកោតសរសើរនៅផ្ទះ អាចជួយអ្នកឱ្យមានអារម្មណ៍សុវត្ថិភាពក្នុងខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Downplaying your successes could keep you from feeling proud. Let yourself enjoy recognition from people who love you.",
+        "km": "ការបន្ទាបសារៈសំខាន់នៃជោគជ័យរបស់អ្នក អាចរារាំងអ្នកពីការមានមោទនភាព។ សូមអនុញ្ញាតឱ្យខ្លួនឯងរីករាយនឹងការទទួលស្គាល់ពីមនុស្សដែលស្រឡាញ់អ្នក។"
+      },
+      "outcome": {
+        "en": "Shared celebration could bring warm, secure confidence. You may feel proud of yourself and supported by others.",
+        "km": "ការប្រារព្ធរួមគ្នា អាចនាំមកនូវទំនុកចិត្តដ៏កក់ក្តៅ និងមានសុវត្ថិភាព។ អ្នកអាចមានមោទនភាពចំពោះខ្លួនឯង និងត្រូវបានគាំទ្រដោយអ្នកដទៃ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Facing friendly competition or challenges may build your confidence. Testing yourself against others could show you your strengths.",
+        "km": "ការប្រឈមមុខនឹងការប្រកួតប្រជែងដោយរាក់ទាក់ ឬបញ្ហាប្រឈម អាចកសាងទំនុកចិត្តរបស់អ្នក។ ការសាកល្បងខ្លួនឯងជាមួយអ្នកដទៃ អាចបង្ហាញអ្នកពីចំណុចខ្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Comparing yourself constantly with others could erode your self-belief. Measure progress against your own past, not someone else's best.",
+        "km": "ការប្រៀបធៀបខ្លួនឯងជាមួយអ្នកដទៃជានិច្ច អាចធ្វើឱ្យជំនឿលើខ្លួនឯងរបស់អ្នកចុះខ្សោយ។ សូមវាស់វឌ្ឍនភាពធៀបនឹងអតីតកាលរបស់ខ្លួនឯង មិនមែនធៀបនឹងល្អបំផុតរបស់អ្នកដទៃទេ។"
+      },
+      "outcome": {
+        "en": "Rising to healthy challenges could bring tested, resilient confidence. You may grow stronger, and kinder to yourself, through friendly competition.",
+        "km": "ការក្រោកឈរឆ្លើយតបនឹងបញ្ហាប្រឈមដែលមានសុខភាពល្អ អាចនាំមកនូវទំនុកចិត្តដែលបានសាកល្បង និងធន់។ អ្នកអាចរឹងមាំជាងមុន និងសប្បុរសចំពោះខ្លួនឯងជាងមុន តាមរយៈការប្រកួតប្រជែងដោយរាក់ទាក់។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Recognition of your efforts may give your confidence a welcome boost. Accepting praise graciously could help you believe in yourself.",
+        "km": "ការទទួលស្គាល់កិច្ចខិតខំរបស់អ្នក អាចផ្តល់ការជំរុញដែលគួរឱ្យស្វាគមន៍ដល់ទំនុកចិត្តរបស់អ្នក។ ការទទួលយកការសរសើរដោយសុភាព អាចជួយអ្នកឱ្យជឿលើខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Brushing off compliments could keep your confidence from growing. Practise simply saying thank you, without explaining the praise away.",
+        "km": "ការច្រានចោលពាក្យសរសើរ អាចរារាំងទំនុកចិត្តរបស់អ្នកមិនឱ្យរីកចម្រើន។ សូមហាត់គ្រាន់តែនិយាយថាអរគុណ ដោយមិនពន្យល់ដើម្បីបដិសេធពាក្យសរសើរ។"
+      },
+      "outcome": {
+        "en": "Accepting recognition could bring a steady sense of worth. You may feel proud, motivated and more willing to take on new things.",
+        "km": "ការទទួលយកការទទួលស្គាល់ អាចនាំមកនូវអារម្មណ៍នឹងនរនៃតម្លៃខ្លួនឯង។ អ្នកអាចមានអារម្មណ៍មានមោទនភាព មានការលើកទឹកចិត្ត និងចង់ទទួលយករឿងថ្មីៗជាងមុន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Standing up for yourself may be a powerful way to build confidence. Holding your ground respectfully could show you your own strength.",
+        "km": "ការក្រោកឈរការពារខ្លួនឯង អាចជាវិធីដ៏មានឥទ្ធិពលក្នុងការកសាងទំនុកចិត្ត។ ការឈររឹងមាំដោយគោរព អាចបង្ហាញអ្នកពីកម្លាំងរបស់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Backing down to avoid conflict could leave you feeling small. Practise stating your view calmly, even if others disagree.",
+        "km": "ការថយក្រោយដើម្បីជៀសវាងជម្លោះ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍តូច។ សូមហាត់ប្រាប់ទស្សនៈរបស់អ្នកដោយស្ងប់ ទោះបីអ្នកដទៃមិនយល់ស្របក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Holding your ground could build firm, self-respecting confidence. Others may come to respect you more, and you may respect yourself more too.",
+        "km": "ការឈររឹងមាំ អាចកសាងទំនុកចិត្តដ៏រឹងមាំ ដែលគោរពខ្លួនឯង។ អ្នកដទៃអាចមកគោរពអ្នកច្រើនជាងមុន ហើយអ្នកក៏អាចគោរពខ្លួនឯងច្រើនជាងមុនដែរ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Acting without hesitation on opportunities may give your confidence momentum. Saying yes before doubt takes over could show you what you can do.",
+        "km": "ការធ្វើសកម្មភាពដោយមិនស្ទាក់ស្ទើរលើឱកាស អាចផ្តល់សន្ទុះដល់ទំនុកចិត្តរបស់អ្នក។ ការយល់ព្រមមុនពេលការសង្ស័យចូលមក អាចបង្ហាញអ្នកពីអ្វីដែលអ្នកអាចធ្វើ។"
+      },
+      "challenge": {
+        "en": "Overthinking every opportunity could let doubt win. Act on small chances while your enthusiasm is still warm.",
+        "km": "ការគិតច្រើនពេកលើឱកាសនីមួយៗ អាចឱ្យការសង្ស័យឈ្នះ។ សូមធ្វើសកម្មភាពលើឱកាសតូចៗ ខណៈដែលភាពរំភើបរបស់អ្នកនៅស្រស់។"
+      },
+      "outcome": {
+        "en": "Momentum could build confidence that carries you forward. Small first wins may encourage you to take bigger steps.",
+        "km": "សន្ទុះ អាចកសាងទំនុកចិត្តដែលនាំអ្នកទៅមុខ។ ជ័យជំនះតូចៗដំបូង អាចលើកទឹកចិត្តអ្នកឱ្យបោះជំហានធំជាងមុន។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Remembering what you have survived may strengthen your confidence. Your resilience through hard stretches could be the clearest proof of your strength.",
+        "km": "ការចងចាំអ្វីដែលអ្នកបានរស់រានឆ្លងកាត់ អាចពង្រឹងទំនុកចិត្តរបស់អ្នក។ ភាពធន់របស់អ្នកឆ្លងកាត់ដំណាក់កាលលំបាក អាចជាភស្តុតាងច្បាស់បំផុតនៃកម្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Feeling worn down could make you doubt yourself. Rest, then remind yourself of everything you have already overcome.",
+        "km": "ការមានអារម្មណ៍អស់កម្លាំង អាចធ្វើឱ្យអ្នកសង្ស័យខ្លួនឯង។ សូមសម្រាក បន្ទាប់មករំលឹកខ្លួនឯងពីអ្វីៗទាំងអស់ដែលអ្នកបានយកឈ្នះរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Recognising your resilience could bring tough, grounded confidence. You may face whatever comes with steady courage and quiet self-trust.",
+        "km": "ការទទួលស្គាល់ភាពធន់របស់អ្នក អាចនាំមកនូវទំនុកចិត្តដ៏រឹងមាំ និងនឹងនរ។ អ្នកអាចប្រឈមមុខនឹងអ្វីក៏ដោយដែលកើតឡើង ដោយភាពក្លាហាននឹងនរ និងការទុកចិត្តខ្លួនឯងស្ងាត់ៗ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Taking on too much to prove yourself may be weighing down your confidence. Feeling you must do everything could be leaving you exhausted rather than proud.",
+        "km": "ការទទួលយកច្រើនពេកដើម្បីបញ្ជាក់ខ្លួនឯង អាចកំពុងសង្កត់ទំនុកចិត្តរបស់អ្នក។ ការមានអារម្មណ៍ថាអ្នកត្រូវតែធ្វើអ្វីៗទាំងអស់ អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ ជាជាងមានមោទនភាព។"
+      },
+      "challenge": {
+        "en": "Linking your worth to how much you carry could wear you out. Do fewer things well, and let that be enough.",
+        "km": "ការភ្ជាប់តម្លៃរបស់អ្នកជាមួយបន្ទុកដែលអ្នកកាន់ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមធ្វើរឿងតិចជាងមុនឱ្យបានល្អ ហើយឱ្យវាគ្រប់គ្រាន់។"
+      },
+      "outcome": {
+        "en": "Lightening your load could make room for genuine pride in your work. You may feel more capable with less on your plate.",
+        "km": "ការសម្រាលបន្ទុករបស់អ្នក អាចទុកលំហសម្រាប់មោទនភាពពិតប្រាកដចំពោះការងាររបស់អ្នក។ អ្នកអាចមានអារម្មណ៍មានសមត្ថភាពជាងមុន ជាមួយបន្ទុកតិចជាងមុន។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity and a willingness to learn may help your confidence grow. Trying new skills playfully could show you how much you can improve.",
+        "km": "ចិត្តចង់ដឹង និងឆន្ទៈក្នុងការរៀន អាចជួយទំនុកចិត្តរបស់អ្នករីកចម្រើន។ ការសាកល្បងជំនាញថ្មីៗដោយលេងសើច អាចបង្ហាញអ្នកថាអ្នករីកចម្រើនបានយ៉ាងណា។"
+      },
+      "challenge": {
+        "en": "Fear of looking foolish could stop you from trying. Allow yourself to be a beginner, clumsy and all, without shame.",
+        "km": "ការភ័យខ្លាចមើលទៅល្ងង់ អាចរារាំងអ្នកពីការសាកល្បង។ សូមអនុញ្ញាតឱ្យខ្លួនឯងធ្វើជាអ្នកចាប់ផ្តើមដំបូង ទោះឆ្គងក៏ដោយ ដោយគ្មានការខ្មាស់អៀន។"
+      },
+      "outcome": {
+        "en": "Playful learning could build fresh, growing confidence. Small improvements may delight you and encourage you to keep going.",
+        "km": "ការរៀនដោយលេងសើច អាចកសាងទំនុកចិត្តថ្មី និងកំពុងកើនឡើង។ ការកែលម្អតូចៗ អាចធ្វើឱ្យអ្នករីករាយ និងលើកទឹកចិត្តអ្នកឱ្យបន្តទៅមុខ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold action may be a direct route to confidence for you. Taking a risk that excites you could prove your courage.",
+        "km": "សកម្មភាពក្លាហាន អាចជាផ្លូវមួយឆ្ពោះទៅរកទំនុកចិត្តសម្រាប់អ្នក។ ការប្រថុយដែលធ្វើឱ្យអ្នករំភើប អាចបញ្ជាក់ពីភាពក្លាហានរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Rushing into risks to prove yourself could backfire. Balance boldness with preparation, and choose risks you can recover from.",
+        "km": "ការប្រញាប់ចូលទៅក្នុងហានិភ័យ ដើម្បីបញ្ជាក់ខ្លួនឯង អាចមានផលផ្ទុយ។ សូមថ្លឹងភាពក្លាហានជាមួយការត្រៀមខ្លួន ហើយជ្រើសហានិភ័យដែលអ្នកអាចងើបឡើងវិញបាន។"
+      },
+      "outcome": {
+        "en": "Courageous action could bring an exciting, energised confidence. You may feel a little braver with each step you take.",
+        "km": "សកម្មភាពក្លាហាន អាចនាំមកនូវទំនុកចិត្តដែលរំភើប និងពោរពេញដោយថាមពល។ អ្នកអាចមានអារម្មណ៍ក្លាហានជាងមុនបន្តិច ជាមួយជំហាននីមួយៗដែលអ្នកបោះ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Your natural warmth and charisma may be stronger than you think. Letting your personality shine could build confidence from the inside out.",
+        "km": "ភាពកក់ក្តៅ និងភាពទាក់ទាញធម្មជាតិរបស់អ្នក អាចខ្លាំងជាងអ្វីដែលអ្នកគិត។ ការឱ្យបុគ្គលិកលក្ខណៈរបស់អ្នកភ្លឺចែងចាំង អាចកសាងទំនុកចិត្តពីខាងក្នុងចេញមកក្រៅ។"
+      },
+      "challenge": {
+        "en": "Performing confidence without feeling it could leave you exhausted. Let your confidence grow from real strengths rather than a show.",
+        "km": "ការសម្តែងទំនុកចិត្ត ដោយមិនមានអារម្មណ៍វា អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមឱ្យទំនុកចិត្តរបស់អ្នករីកចម្រើនពីចំណុចខ្លាំងពិតប្រាកដ ជាជាងការសម្តែង។"
+      },
+      "outcome": {
+        "en": "Authentic warmth could bring natural, magnetic confidence. Others may be drawn to the real you, not to a performance.",
+        "km": "ភាពកក់ក្តៅពិតប្រាកដ អាចនាំមកនូវទំនុកចិត្តធម្មជាតិ និងទាក់ទាញ។ អ្នកដទៃអាចត្រូវបានទាក់ទាញមករកអ្នកពិតប្រាកដ មិនមែនការសម្តែងនោះទេ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Taking the lead in your own life may build strong confidence. Setting a clear direction and following it could show you your capability.",
+        "km": "ការដឹកនាំជីវិតរបស់ខ្លួនឯង អាចកសាងទំនុកចិត្តរឹងមាំ។ ការកំណត់ទិសដៅច្បាស់លាស់ ហើយធ្វើតាមវា អាចបង្ហាញអ្នកពីសមត្ថភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Needing to control everything to feel confident could make your self-belief fragile. Trust yourself even when things are uncertain and outside your control.",
+        "km": "ការត្រូវការគ្រប់គ្រងអ្វីៗទាំងអស់ ដើម្បីមានអារម្មណ៍មានទំនុកចិត្ត អាចធ្វើឱ្យជំនឿលើខ្លួនឯងរបស់អ្នកផុយស្រួយ។ សូមទុកចិត្តខ្លួនឯង ទោះបីអ្វីៗមិនប្រាកដ និងនៅក្រៅការគ្រប់គ្រងរបស់អ្នកក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Leading with vision could bring bold, inspiring confidence. You may find that others look to you for direction and steadiness.",
+        "km": "ការដឹកនាំដោយចក្ខុវិស័យ អាចនាំមកនូវទំនុកចិត្តដ៏ក្លាហាន និងបំផុសគំនិត។ អ្នកអាចរកឃើញថាអ្នកដទៃមើលមកអ្នកដើម្បីទិសដៅ និងភាពនឹងនរ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Opening your heart to yourself may be the root of confidence. Feeling loved and lovable could change how you carry yourself.",
+        "km": "ការបើកចិត្តចំពោះខ្លួនឯង អាចជាឫសគល់នៃទំនុកចិត្ត។ ការមានអារម្មណ៍ថាត្រូវបានស្រឡាញ់ និងគួរឱ្យស្រឡាញ់ អាចផ្លាស់ប្តូររបៀបដែលអ្នកបង្ហាញខ្លួន។"
+      },
+      "challenge": {
+        "en": "Feeling unworthy of love could undermine every other strength. Practise speaking to yourself with the kindness you would show a friend.",
+        "km": "ការមានអារម្មណ៍មិនសមនឹងទទួលក្តីស្រឡាញ់ អាចធ្វើឱ្យចំណុចខ្លាំងផ្សេងទៀតចុះខ្សោយ។ សូមហាត់និយាយជាមួយខ្លួនឯង ដោយសេចក្តីសប្បុរសដែលអ្នកនឹងបង្ហាញដល់មិត្តភក្តិ។"
+      },
+      "outcome": {
+        "en": "Self-love could bring a warm, open confidence. You may feel at ease being yourself with others, flaws and all.",
+        "km": "ក្តីស្រឡាញ់ខ្លួនឯង អាចនាំមកនូវទំនុកចិត្តកក់ក្តៅ និងបើកចំហ។ អ្នកអាចមានអារម្មណ៍ស្រួលក្នុងការធ្វើជាខ្លួនឯងជាមួយអ្នកដទៃ រួមទាំងកំហុសផង។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A supportive relationship may help your confidence grow. Being seen and valued by someone close could strengthen your self-worth.",
+        "km": "ទំនាក់ទំនងដែលគាំទ្រ អាចជួយទំនុកចិត្តរបស់អ្នករីកចម្រើន។ ការត្រូវបានមើលឃើញ និងឱ្យតម្លៃដោយនរណាម្នាក់ជិតស្និទ្ធ អាចពង្រឹងតម្លៃខ្លួនឯងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Depending on one person's approval for your confidence could leave it fragile. Value their support, but build belief in yourself too.",
+        "km": "ការពឹងផ្អែកលើការយល់ព្រមរបស់មនុស្សម្នាក់ សម្រាប់ទំនុកចិត្តរបស់អ្នក អាចធ្វើឱ្យវាផុយស្រួយ។ សូមឱ្យតម្លៃការគាំទ្ររបស់ពួកគេ ប៉ុន្តែកសាងជំនឿលើខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "Mutual respect could bring secure, shared confidence. You may feel stronger with someone in your corner.",
+        "km": "ការគោរពគ្នាទៅវិញទៅមក អាចនាំមកនូវទំនុកចិត្តដែលមានសុវត្ថិភាព និងចែករំលែក។ អ្នកអាចមានអារម្មណ៍ខ្លាំងជាងមុន នៅពេលមាននរណាម្នាក់នៅខាងអ្នក។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friends who celebrate you may be a powerful source of confidence. Being around people who bring out your best could lift you.",
+        "km": "មិត្តភក្តិដែលអបអរអ្នក អាចជាប្រភពដ៏មានឥទ្ធិពលនៃទំនុកចិត្ត។ ការនៅជាមួយមនុស្សដែលនាំចេញនូវល្អបំផុតរបស់អ្នក អាចលើកទឹកចិត្តអ្នក។"
+      },
+      "challenge": {
+        "en": "Being around people who put you down could chip away at your confidence. Choose company that encourages you and laughs with you, not at you.",
+        "km": "ការនៅជាមួយមនុស្សដែលមើលងាយអ្នក អាចធ្វើឱ្យទំនុកចិត្តរបស់អ្នករលាយបន្តិចម្តងៗ។ សូមជ្រើសមិត្តដែលលើកទឹកចិត្តអ្នក និងសើចជាមួយអ្នក មិនមែនសើចចំអកអ្នកទេ។"
+      },
+      "outcome": {
+        "en": "A supportive circle could bring joyful, shared confidence. You may feel more fully yourself among friends who are glad you are there.",
+        "km": "រង្វង់មិត្តដែលគាំទ្រ អាចនាំមកនូវទំនុកចិត្តដ៏រីករាយ និងចែករំលែក។ អ្នកអាចមានអារម្មណ៍ជាខ្លួនឯងពេញលេញជាងមុន ក្នុងចំណោមមិត្តដែលរីករាយដែលអ្នកនៅទីនោះ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Noticing what you take for granted about yourself may build confidence. Overlooked qualities could be real strengths waiting to be recognised.",
+        "km": "ការកត់សម្គាល់អ្វីដែលអ្នកចាត់ទុកជារឿងធម្មតាអំពីខ្លួនឯង អាចកសាងទំនុកចិត្ត។ គុណសម្បត្តិដែលត្រូវបានមើលរំលង អាចជាចំណុចខ្លាំងពិតប្រាកដដែលកំពុងរង់ចាំការទទួលស្គាល់។"
+      },
+      "challenge": {
+        "en": "Withdrawing and dismissing opportunities could keep confidence stuck. Say yes to one invitation you would normally turn down.",
+        "km": "ការដកខ្លួន និងការច្រានចោលឱកាស អាចធ្វើឱ្យទំនុកចិត្តជាប់គាំង។ សូមយល់ព្រមលើការអញ្ជើញមួយ ដែលអ្នកតែងបដិសេធ។"
+      },
+      "outcome": {
+        "en": "Re-engaging with life could bring renewed self-belief. You may rediscover gifts in yourself that you had stopped noticing.",
+        "km": "ការចូលរួមជាមួយជីវិតម្តងទៀត អាចនាំមកនូវជំនឿលើខ្លួនឯងថ្មី។ អ្នកអាចរកឃើញឡើងវិញនូវអំណោយទានក្នុងខ្លួនឯង ដែលអ្នកលែងកត់សម្គាល់។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Past disappointments may be shaping how you see yourself. Acknowledging the hurt could help you separate it from your worth.",
+        "km": "ការខកចិត្តកន្លងមក អាចកំពុងកំណត់របៀបដែលអ្នកមើលខ្លួនឯង។ ការទទួលស្គាល់ការឈឺចាប់ អាចជួយអ្នកបំបែកវាចេញពីតម្លៃរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Dwelling on failures could convince you that you are not good enough. Grieve what went wrong, then notice what you still have to offer.",
+        "km": "ការគិតច្រើនពីការបរាជ័យ អាចបញ្ចុះបញ្ចូលអ្នកថាអ្នកមិនល្អគ្រប់គ្រាន់។ សូមកាន់ទុក្ខចំពោះអ្វីដែលខុស បន្ទាប់មកកត់សម្គាល់អ្វីដែលអ្នកនៅតែអាចផ្តល់។"
+      },
+      "outcome": {
+        "en": "Healing from disappointment could bring a wiser, kinder confidence. You may see your worth as separate from any single loss.",
+        "km": "ការជាសះស្បើយពីការខកចិត្ត អាចនាំមកនូវទំនុកចិត្តដែលឈ្លាសវៃ និងសប្បុរសជាងមុន។ អ្នកអាចមើលឃើញតម្លៃរបស់អ្នកដាច់ដោយឡែកពីការបាត់បង់ណាមួយ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Remembering your younger self's courage and joy may help rebuild confidence. The strengths you had as a child could still be very much a part of you.",
+        "km": "ការចងចាំភាពក្លាហាន និងសេចក្តីរីករាយរបស់អ្នកកាលនៅក្មេង អាចជួយកសាងទំនុកចិត្តឡើងវិញ។ ចំណុចខ្លាំងដែលអ្នកមានកាលនៅក្មេង អាចនៅតែជាផ្នែកមួយដ៏សំខាន់នៃអ្នក។"
+      },
+      "challenge": {
+        "en": "Old criticism from childhood could still echo in your mind. Notice those voices, and choose not to believe them.",
+        "km": "ការរិះគន់ចាស់ៗតាំងពីកុមារភាព អាចនៅតែបន្លឺក្នុងគំនិតរបស់អ្នក។ សូមកត់សម្គាល់សំឡេងទាំងនោះ ហើយជ្រើសមិនជឿវា។"
+      },
+      "outcome": {
+        "en": "Reconnecting with your playful self could bring natural, joyful confidence. You may feel freer to be who you are.",
+        "km": "ការភ្ជាប់ឡើងវិញជាមួយខ្លួនឯងដែលលេងសើច អាចនាំមកនូវទំនុកចិត្តធម្មជាតិ និងរីករាយ។ អ្នកអាចមានអារម្មណ៍សេរីជាងមុនក្នុងការធ្វើជាខ្លួនឯង។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Choosing one realistic goal from many dreams may build confidence. Focusing on one aim could help you achieve something real and visible.",
+        "km": "ការជ្រើសគោលដៅប្រាកដនិយមមួយ ពីក្តីសុបិនជាច្រើន អាចកសាងទំនុកចិត្ត។ ការផ្តោតលើគោលបំណងមួយ អាចជួយអ្នកសម្រេចបានអ្វីមួយពិតប្រាកដ និងមើលឃើញ។"
+      },
+      "challenge": {
+        "en": "Daydreaming about who you could be without taking steps could leave you frustrated. Turn one dream into a small action you can take right where you are.",
+        "km": "ការស្រមៃអំពីអ្នកដែលអ្នកអាចក្លាយជា ដោយមិនបោះជំហាន អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមប្រែក្តីសុបិនមួយ ទៅជាសកម្មភាពតូចមួយដែលអ្នកអាចធ្វើនៅកន្លែងដែលអ្នកនៅ។"
+      },
+      "outcome": {
+        "en": "Focused action could turn dreams into real confidence. You may feel proud of real progress that you can see and touch.",
+        "km": "សកម្មភាពដែលផ្តោត អាចប្រែក្តីសុបិនទៅជាទំនុកចិត្តពិតប្រាកដ។ អ្នកអាចមានមោទនភាពចំពោះវឌ្ឍនភាពពិតប្រាកដដែលអ្នកអាចមើលឃើញ និងប៉ះបាន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Walking away from situations that diminish you may build confidence. Choosing what is right for you, even when it is hard, could show your strength.",
+        "km": "ការដើរចេញពីស្ថានការណ៍ដែលធ្វើឱ្យអ្នកតូច អាចកសាងទំនុកចិត្ត។ ការជ្រើសអ្វីដែលត្រឹមត្រូវសម្រាប់អ្នក ទោះបីវាលំបាកក៏ដោយ អាចបង្ហាញពីកម្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Staying where you feel undervalued could wear down your self-worth. Have the courage to seek places and people who appreciate you.",
+        "km": "ការនៅកន្លែងដែលអ្នកមានអារម្មណ៍ថាត្រូវបានមើលស្រាល អាចធ្វើឱ្យតម្លៃខ្លួនឯងរបស់អ្នកចុះខ្សោយ។ សូមមានភាពក្លាហានស្វែងរកកន្លែង និងមនុស្សដែលកោតសរសើរអ្នក។"
+      },
+      "outcome": {
+        "en": "Choosing what nourishes you could bring a deeper sense of self-respect. You may feel more confident in your own path.",
+        "km": "ការជ្រើសអ្វីដែលចិញ្ចឹមចិត្តអ្នក អាចនាំមកនូវអារម្មណ៍នៃការគោរពខ្លួនឯងកាន់តែជ្រៅ។ អ្នកអាចមានទំនុកចិត្តជាងមុនលើផ្លូវរបស់ខ្លួនឯង។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Appreciating what you have achieved may boost your confidence. Feeling satisfied with yourself could be a healthy foundation.",
+        "km": "ការកោតសរសើរអ្វីដែលអ្នកបានសម្រេច អាចបង្កើនទំនុកចិត្តរបស់អ្នក។ ការមានអារម្មណ៍ពេញចិត្តនឹងខ្លួនឯង អាចជាមូលដ្ឋានដែលមានសុខភាពល្អ។"
+      },
+      "challenge": {
+        "en": "Seeking satisfaction only through external rewards could leave confidence shallow. Find pride in who you are, not only in what you own or earn.",
+        "km": "ការស្វែងរកសេចក្តីពេញចិត្តតែតាមរយៈរង្វាន់ខាងក្រៅ អាចធ្វើឱ្យទំនុកចិត្តរាក់។ សូមរកមោទនភាពក្នុងអ្វីដែលអ្នកជា មិនត្រឹមតែក្នុងអ្វីដែលអ្នកមាន ឬរកបាននោះទេ។"
+      },
+      "outcome": {
+        "en": "Contentment with yourself could bring warm, secure confidence. You may feel genuinely happy in your own skin.",
+        "km": "សេចក្តីពេញចិត្តនឹងខ្លួនឯង អាចនាំមកនូវទំនុកចិត្តកក់ក្តៅ និងមានសុវត្ថិភាព។ អ្នកអាចមានអារម្មណ៍សប្បាយពិតប្រាកដក្នុងខ្លួនឯង។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "A loving, supportive home may be the foundation of your confidence. Feeling accepted by family could help you believe in yourself.",
+        "km": "ផ្ទះដែលពោរពេញដោយក្តីស្រឡាញ់ និងគាំទ្រ អាចជាមូលដ្ឋាននៃទំនុកចិត្តរបស់អ្នក។ ការមានអារម្មណ៍ថាត្រូវបានគ្រួសារទទួលយក អាចជួយអ្នកឱ្យជឿលើខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Seeking family approval for every choice could keep confidence dependent. Trust your own judgement on your choices while still valuing their love.",
+        "km": "ការស្វែងរកការយល់ព្រមពីគ្រួសារសម្រាប់គ្រប់ជម្រើស អាចធ្វើឱ្យទំនុកចិត្តពឹងផ្អែក។ សូមទុកចិត្តលើការវិនិច្ឆ័យរបស់ខ្លួនឯងលើជម្រើសរបស់អ្នក ខណៈនៅតែឱ្យតម្លៃក្តីស្រឡាញ់របស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Feeling loved and secure could bring deep, steady confidence. You may feel free to be yourself, at home and beyond it.",
+        "km": "ការមានអារម្មណ៍ថាត្រូវបានស្រឡាញ់ និងមានសុវត្ថិភាព អាចនាំមកនូវទំនុកចិត្តដ៏ជ្រាលជ្រៅ និងនឹងនរ។ អ្នកអាចមានអារម្មណ៍សេរីក្នុងការធ្វើជាខ្លួនឯង ទាំងនៅផ្ទះ និងនៅខាងក្រៅ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Gentle self-expression may help your confidence bloom. Sharing your creativity or feelings could show you your unique gifts.",
+        "km": "ការបង្ហាញខ្លួនឯងដោយទន់ភ្លន់ អាចជួយទំនុកចិត្តរបស់អ្នករីកដុះដាល។ ការចែករំលែកការច្នៃប្រឌិត ឬអារម្មណ៍របស់អ្នក អាចបង្ហាញអ្នកពីអំណោយទានពិសេសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Hiding your sensitive side for fear of judgement could keep you small. Share something you have made or feel with someone safe.",
+        "km": "ការលាក់ផ្នែករសើបរបស់អ្នក ដោយសារការភ័យខ្លាចការវិនិច្ឆ័យ អាចធ្វើឱ្យអ្នកតូច។ សូមចែករំលែកអ្វីមួយដែលអ្នកបានបង្កើត ឬមានអារម្មណ៍ ជាមួយនរណាម្នាក់ដែលមានសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Expressing yourself could bring a gentle, growing confidence. You may feel proud of your own voice and the gifts it carries.",
+        "km": "ការបង្ហាញខ្លួនឯង អាចនាំមកនូវទំនុកចិត្តទន់ភ្លន់ និងកំពុងកើនឡើង។ អ្នកអាចមានមោទនភាពចំពោះសំឡេងរបស់ខ្លួនឯង និងអំណោយទានដែលវាផ្ទុក។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Following your heart toward what you love may build confidence. Pursuing a passion could help you feel more alive and capable.",
+        "km": "ការធ្វើតាមចិត្តរបស់អ្នកឆ្ពោះទៅរកអ្វីដែលអ្នកស្រឡាញ់ អាចកសាងទំនុកចិត្ត។ ការស្វែងរកចំណង់ចំណូលចិត្តមួយ អាចជួយអ្នកឱ្យមានអារម្មណ៍រស់រវើក និងមានសមត្ថភាពជាងមុន។"
+      },
+      "challenge": {
+        "en": "Waiting to feel confident before acting could mean never acting. Let action come first, however small, and confidence may follow in its wake.",
+        "km": "ការរង់ចាំឱ្យមានអារម្មណ៍មានទំនុកចិត្ត មុនពេលធ្វើសកម្មភាព អាចមានន័យថាមិនដែលធ្វើសកម្មភាព។ សូមឱ្យសកម្មភាពមកមុន ទោះតូចយ៉ាងណាក៏ដោយ ហើយទំនុកចិត្តអាចតាមក្រោយ។"
+      },
+      "outcome": {
+        "en": "Heart-led action could bring graceful, genuine confidence. You may feel proud to follow your own path.",
+        "km": "សកម្មភាពដែលដឹកនាំដោយចិត្ត អាចនាំមកនូវទំនុកចិត្តដ៏ថ្លៃថ្នូ និងពិតប្រាកដ។ អ្នកអាចមានមោទនភាពក្នុងការដើរតាមផ្លូវរបស់ខ្លួនឯង។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Compassion toward yourself may be the gentlest path to confidence. Treating your mistakes kindly could help you feel secure.",
+        "km": "មេត្តាធម៌ចំពោះខ្លួនឯង អាចជាផ្លូវទន់ភ្លន់បំផុតឆ្ពោះទៅរកទំនុកចិត្ត។ ការប្រព្រឹត្តចំពោះកំហុសរបស់អ្នកដោយសប្បុរស អាចជួយអ្នកឱ្យមានអារម្មណ៍សុវត្ថិភាព។"
+      },
+      "challenge": {
+        "en": "Giving compassion to everyone but yourself could undermine your confidence. Extend to yourself the same patience and understanding you give others.",
+        "km": "ការផ្តល់មេត្តាធម៌ដល់គ្រប់គ្នា លើកលែងតែខ្លួនឯង អាចធ្វើឱ្យទំនុកចិត្តរបស់អ្នកចុះខ្សោយ។ សូមផ្តល់ការអត់ធ្មត់ និងការយល់ចិត្តដូចគ្នាដល់ខ្លួនឯង ដូចដែលអ្នកផ្តល់ដល់អ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Self-compassion could bring a calm, emotionally secure confidence. You may feel steady even when things go wrong.",
+        "km": "មេត្តាធម៌ចំពោះខ្លួនឯង អាចនាំមកនូវទំនុកចិត្តស្ងប់ និងមានសុវត្ថិភាពផ្លូវចិត្ត។ អ្នកអាចមានអារម្មណ៍នឹងនរ ទោះបីអ្វីៗខុសក៏ដោយ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Emotional steadiness may give your confidence a calm foundation. Staying composed under pressure could show you your strength.",
+        "km": "ភាពនឹងនរផ្លូវចិត្ត អាចផ្តល់មូលដ្ឋានស្ងប់ដល់ទំនុកចិត្តរបស់អ្នក។ ការរក្សាភាពស្ងប់ក្រោមសម្ពាធ អាចបង្ហាញអ្នកពីកម្លាំងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Hiding feelings to appear confident could leave you uneasy inside. Real confidence can include honest emotion, shared with people you trust.",
+        "km": "ការលាក់អារម្មណ៍ដើម្បីហាក់មានទំនុកចិត្ត អាចធ្វើឱ្យអ្នកមិនស្រួលក្នុងចិត្ត។ ទំនុកចិត្តពិតប្រាកដ អាចរួមបញ្ចូលអារម្មណ៍ស្មោះត្រង់ ដែលចែករំលែកជាមួយមនុស្សដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Balanced emotions could bring a mature, quiet confidence. Others may trust your steadiness, and you may trust it too.",
+        "km": "អារម្មណ៍ដែលមានតុល្យភាព អាចនាំមកនូវទំនុកចិត្តដ៏ចាស់ទុំ និងស្ងាត់ៗ។ អ្នកដទៃអាចទុកចិត្តលើភាពនឹងនររបស់អ្នក ហើយអ្នកក៏អាចទុកចិត្តលើវាដែរ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Clear, honest thinking about yourself may build real confidence. Seeing your strengths and weaknesses plainly could free you from vague doubt.",
+        "km": "ការគិតច្បាស់លាស់ និងស្មោះត្រង់អំពីខ្លួនឯង អាចកសាងទំនុកចិត្តពិតប្រាកដ។ ការមើលឃើញចំណុចខ្លាំង និងចំណុចខ្សោយរបស់អ្នកឱ្យច្បាស់ អាចរំដោះអ្នកពីការសង្ស័យមិនច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Overanalysing every flaw could cut your confidence down. Balance critical thinking with recognition of what you do well.",
+        "km": "ការវិភាគហួសហេតុលើកំហុសនីមួយៗ អាចកាត់ទំនុកចិត្តរបស់អ្នកចុះ។ សូមថ្លឹងការគិតរិះគន់ ជាមួយការទទួលស្គាល់អ្វីដែលអ្នកធ្វើបានល្អ។"
+      },
+      "outcome": {
+        "en": "Clear self-understanding could bring sharp, grounded confidence. You may know clearly what you offer, and say so without apology.",
+        "km": "ការយល់ពីខ្លួនឯងយ៉ាងច្បាស់ អាចនាំមកនូវទំនុកចិត្តមុតស្រួច និងនឹងនរ។ អ្នកអាចដឹងច្បាស់ពីអ្វីដែលអ្នកផ្តល់ ហើយនិយាយវាដោយមិនចាំបាច់សុំទោស។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Making a decision you have avoided may give your confidence a boost. Committing to a choice could show you that you can trust yourself.",
+        "km": "ការធ្វើការសម្រេចចិត្តដែលអ្នកបានគេចវេស អាចជំរុញទំនុកចិត្តរបស់អ្នក។ ការប្តេជ្ញាចិត្តលើជម្រើសមួយ អាចបង្ហាញអ្នកថាអ្នកអាចទុកចិត្តខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Endless indecision could erode your faith in your own judgement. Make a choice, even an imperfect one, and stand by it.",
+        "km": "ការមិនសម្រេចចិត្តមិនចេះចប់ អាចធ្វើឱ្យជំនឿរបស់អ្នកលើការវិនិច្ឆ័យផ្ទាល់ខ្លួនចុះខ្សោយ។ សូមធ្វើជម្រើសមួយ ទោះបីមិនល្អឥតខ្ចោះក៏ដោយ ហើយឈរលើវា។"
+      },
+      "outcome": {
+        "en": "Decisiveness could bring a growing sense of self-trust. You may feel more capable of handling the choices that come your way.",
+        "km": "ភាពម៉ឺងម៉ាត់ក្នុងការសម្រេចចិត្ត អាចនាំមកនូវអារម្មណ៍ទុកចិត្តខ្លួនឯងដែលកំពុងកើនឡើង។ អ្នកអាចមានអារម្មណ៍មានសមត្ថភាពជាងមុន ក្នុងការដោះស្រាយជម្រើសដែលកើតឡើងចំពោះអ្នក។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Healing from past hurt may be part of rebuilding confidence. Acknowledging what wounded your self-esteem could help you move forward.",
+        "km": "ការជាសះស្បើយពីការឈឺចាប់កន្លងមក អាចជាផ្នែកមួយនៃការកសាងទំនុកចិត្តឡើងវិញ។ ការទទួលស្គាល់អ្វីដែលបានធ្វើឱ្យការគោរពខ្លួនឯងរបស់អ្នករងរបួស អាចជួយអ្នកទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Believing hurtful words said about you could keep confidence low. Recognise that others' cruelty says more about them, and seek a counsellor if the hurt runs deep.",
+        "km": "ការជឿលើពាក្យឈឺចាប់ដែលគេនិយាយអំពីអ្នក អាចធ្វើឱ្យទំនុកចិត្តទាប។ សូមទទួលស្គាល់ថាភាពឃោរឃៅរបស់អ្នកដទៃ និយាយពីពួកគេច្រើនជាង ហើយស្វែងរកអ្នកប្រឹក្សា ប្រសិនបើការឈឺចាប់ជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Healing old wounds could bring a stronger, kinder confidence. You may no longer let past words define you.",
+        "km": "ការព្យាបាលរបួសចាស់ៗ អាចនាំមកនូវទំនុកចិត្តដែលរឹងមាំ និងសប្បុរសជាងមុន។ អ្នកអាចលែងឱ្យពាក្យចាស់ៗកំណត់ថាអ្នកជានរណា។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest and recovery may be quietly rebuilding your confidence. Taking a break from pressure could help you see yourself more kindly.",
+        "km": "ការសម្រាក និងការងើបឡើងវិញ អាចកំពុងកសាងទំនុកចិត្តរបស់អ្នកឡើងវិញដោយស្ងាត់ៗ។ ការសម្រាកពីសម្ពាធ អាចជួយអ្នកមើលខ្លួនឯងដោយសប្បុរសជាងមុន។"
+      },
+      "challenge": {
+        "en": "Exhaustion could make everything, including you, look worse. Rest before judging your abilities harshly, since tiredness distorts the picture.",
+        "km": "ភាពអស់កម្លាំង អាចធ្វើឱ្យអ្វីៗទាំងអស់ រួមទាំងខ្លួនអ្នក មើលទៅអាក្រក់ជាងមុន។ សូមសម្រាក មុនពេលវិនិច្ឆ័យសមត្ថភាពរបស់អ្នកយ៉ាងធ្ងន់ធ្ងរ ព្រោះភាពហត់នឿយបង្ខូចរូបភាព។"
+      },
+      "outcome": {
+        "en": "Restoring your energy could bring renewed, clear-headed confidence. You may return to challenges feeling more capable and less easily shaken.",
+        "km": "ការស្តារថាមពលរបស់អ្នក អាចនាំមកនូវទំនុកចិត្តថ្មី និងគំនិតច្បាស់។ អ្នកអាចត្រឡប់ទៅរកបញ្ហាប្រឈមវិញ ដោយមានអារម្មណ៍មានសមត្ថភាព និងមិនងាយរង្គោះរង្គើជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Stepping back from conflicts that make you feel small may restore confidence. Choosing your battles carefully could protect your self-worth and your energy.",
+        "km": "ការថយក្រោយពីជម្លោះដែលធ្វើឱ្យអ្នកមានអារម្មណ៍តូច អាចស្តារទំនុកចិត្តឡើងវិញ។ ការជ្រើសការតស៊ូរបស់អ្នកដោយប្រុងប្រយ័ត្ន អាចការពារតម្លៃខ្លួនឯង និងថាមពលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Needing to win every argument could make confidence brittle. Let go of fights that cost your dignity more than they could give back.",
+        "km": "ការត្រូវការឈ្នះគ្រប់ការឈ្លោះប្រកែក អាចធ្វើឱ្យទំនុកចិត្តផុយ។ សូមលែងប្រកាន់ការតស៊ូដែលធ្វើឱ្យអ្នកបាត់បង់សេចក្តីថ្លៃថ្នូ ច្រើនជាងអ្វីដែលវាអាចផ្តល់មកវិញ។"
+      },
+      "outcome": {
+        "en": "Walking away from pointless battles could bring calm, dignified confidence. You may feel stronger without needing to win or to have the final word.",
+        "km": "ការដើរចេញពីការតស៊ូដែលគ្មានន័យ អាចនាំមកនូវទំនុកចិត្តស្ងប់ និងថ្លៃថ្នូ។ អ្នកអាចមានអារម្មណ៍ខ្លាំងជាងមុន ដោយមិនចាំបាច់ឈ្នះ ឬនិយាយពាក្យចុងក្រោយ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Moving away from situations that undermined you may be rebuilding your confidence. Each step toward calmer ground could restore your self-belief.",
+        "km": "ការផ្លាស់ចេញពីស្ថានការណ៍ដែលធ្វើឱ្យអ្នកចុះខ្សោយ អាចកំពុងកសាងទំនុកចិត្តរបស់អ្នកឡើងវិញ។ ជំហាននីមួយៗឆ្ពោះទៅរកដីស្ងប់ជាងមុន អាចស្តារជំនឿលើខ្លួនឯងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Bringing old insecurities into new situations could hold you back. Notice old doubts and choose not to carry them forward.",
+        "km": "ការនាំភាពមិនមានសុវត្ថិភាពចាស់ៗចូលក្នុងស្ថានការណ៍ថ្មី អាចរារាំងអ្នក។ សូមកត់សម្គាល់ការសង្ស័យចាស់ៗ ហើយជ្រើសមិនកាន់វាទៅមុខ។"
+      },
+      "outcome": {
+        "en": "A fresh start could bring renewed confidence and calm. You may feel more like yourself in new surroundings and among new people.",
+        "km": "ការចាប់ផ្តើមថ្មី អាចនាំមកនូវទំនុកចិត្ត និងភាពស្ងប់ថ្មី។ អ្នកអាចមានអារម្មណ៍ជាខ្លួនឯងជាងមុន ក្នុងបរិយាកាសថ្មី និងក្នុងចំណោមមនុស្សថ្មី។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Being honest with yourself about your doubts may help you overcome them. Facing what you have been avoiding could boost your self-respect.",
+        "km": "ការស្មោះត្រង់ជាមួយខ្លួនឯងអំពីការសង្ស័យរបស់អ្នក អាចជួយអ្នកយកឈ្នះវា។ ការប្រឈមមុខនឹងអ្វីដែលអ្នកបានគេចវេស អាចបង្កើនការគោរពខ្លួនឯងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Pretending to be someone else could leave you insecure. Be honest about who you are, imperfections included, and let that be enough.",
+        "km": "ការធ្វើពុតជាមនុស្សផ្សេង អាចធ្វើឱ្យអ្នកមិនមានសុវត្ថិភាព។ សូមស្មោះត្រង់អំពីអ្នកជានរណា រួមទាំងភាពមិនល្អឥតខ្ចោះផង ហើយឱ្យវាគ្រប់គ្រាន់។"
+      },
+      "outcome": {
+        "en": "Authenticity could bring a quiet, honest confidence. You may feel lighter, and more at ease, without any pretence to keep up.",
+        "km": "ភាពពិតប្រាកដ អាចនាំមកនូវទំនុកចិត្តស្ងាត់ៗ និងស្មោះត្រង់។ អ្នកអាចមានអារម្មណ៍ស្រាល និងស្រួលជាងមុន ដោយគ្មានការធ្វើពុតណាមួយត្រូវរក្សា។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Questioning the beliefs that limit you may unlock your confidence. Thoughts like \"I'm not good enough\" could be holding you back more than reality.",
+        "km": "ការចោទសួរជំនឿដែលកំណត់ព្រំដែនអ្នក អាចដោះសោទំនុកចិត្តរបស់អ្នក។ គំនិតដូចជា «ខ្ញុំមិនល្អគ្រប់គ្រាន់» អាចកំពុងរារាំងអ្នកច្រើនជាងការពិត។"
+      },
+      "challenge": {
+        "en": "Accepting self-doubt as truth could keep you trapped. Write down one limiting belief and find evidence against it, and seek support if you feel hopeless.",
+        "km": "ការទទួលយកការសង្ស័យខ្លួនឯងជាការពិត អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់។ សូមសរសេរជំនឿកំណត់ព្រំដែនមួយចុះ ហើយរកភស្តុតាងប្រឆាំងនឹងវា ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍អស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Challenging limiting beliefs could bring a liberating confidence. You may find you are freer and more capable than you thought.",
+        "km": "ការចោទសួរជំនឿដែលកំណត់ព្រំដែន អាចនាំមកនូវទំនុកចិត្តដែលរំដោះ។ អ្នកអាចរកឃើញថាអ្នកមានសេរីភាព និងសមត្ថភាពច្រើនជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Anxious thoughts about yourself may be draining your confidence. Worrying about what others think could be keeping you awake.",
+        "km": "គំនិតថប់បារម្ភអំពីខ្លួនឯង អាចកំពុងបង្ហូរទំនុកចិត្តរបស់អ្នក។ ការព្រួយបារម្ភអំពីអ្វីដែលអ្នកដទៃគិត អាចកំពុងធ្វើឱ្យអ្នកដេកមិនលក់។"
+      },
+      "challenge": {
+        "en": "Replaying embarrassing moments could undermine your self-belief. Remind yourself that others notice far less than you fear, and seek help if anxiety affects your sleep or health.",
+        "km": "ការរំលឹកគ្រាដែលគួរឱ្យខ្មាស់ឡើងវិញ អាចធ្វើឱ្យជំនឿលើខ្លួនឯងរបស់អ្នកចុះខ្សោយ។ សូមរំលឹកខ្លួនឯងថាអ្នកដទៃកត់សម្គាល់តិចជាងអ្វីដែលអ្នកខ្លាចទៅទៀត ហើយស្វែងរកជំនួយ ប្រសិនបើការថប់បារម្ភប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Quieting self-critical thoughts could bring calm, steady confidence. You may feel more at ease in your own company.",
+        "km": "ការធ្វើឱ្យគំនិតរិះគន់ខ្លួនឯងស្ងប់ អាចនាំមកនូវទំនុកចិត្តស្ងប់ និងនឹងនរ។ អ្នកអាចមានអារម្មណ៍ស្រួលជាងមុន នៅពេលនៅម្នាក់ឯង។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A painful setback may have knocked your confidence badly. Admitting how hard it has been could be the first step to rebuilding.",
+        "km": "ឧបសគ្គដ៏ឈឺចាប់មួយ អាចបានធ្វើឱ្យទំនុកចិត្តរបស់អ្នកធ្លាក់ចុះខ្លាំង។ ការទទួលស្គាល់ថាវាលំបាកប៉ុណ្ណា អាចជាជំហានដំបូងឆ្ពោះទៅរកការកសាងឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Watch for the thought that one failure says everything about you. Talk to people who know your worth, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "សូមប្រយ័ត្ននឹងគំនិតថាការបរាជ័យមួយ និយាយពីអ្វីៗទាំងអស់អំពីអ្នក។ សូមនិយាយជាមួយមនុស្សដែលដឹងពីតម្លៃរបស់អ្នក ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Rising from a low point could bring a deep, tested confidence. You may discover a strength in yourself that you did not know was there.",
+        "km": "ការក្រោកឡើងពីចំណុចទាប អាចនាំមកនូវទំនុកចិត្តដ៏ជ្រាលជ្រៅ និងត្រូវបានសាកល្បង។ អ្នកអាចរកឃើញកម្លាំងក្នុងខ្លួនឯង ដែលអ្នកមិនដឹងថាមាននៅទីនោះ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Learning about yourself with curiosity may build confidence. Asking for honest feedback could help you see your strengths clearly.",
+        "km": "ការរៀនអំពីខ្លួនឯងដោយចិត្តចង់ដឹង អាចកសាងទំនុកចិត្ត។ ការស្នើសុំមតិកែលម្អដោយស្មោះត្រង់ អាចជួយអ្នកមើលឃើញចំណុចខ្លាំងរបស់អ្នកយ៉ាងច្បាស់។"
+      },
+      "challenge": {
+        "en": "Taking every criticism to heart could shake your confidence. Listen for the useful points in criticism, and let the rest go.",
+        "km": "ការយកការរិះគន់នីមួយៗមកដាក់ក្នុងចិត្ត អាចរង្គោះរង្គើទំនុកចិត្តរបស់អ្នក។ សូមស្តាប់ចំណុចដែលមានប្រយោជន៍ក្នុងការរិះគន់ ហើយលែងប្រកាន់អ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Curious self-reflection could bring an informed, growing confidence. You may understand yourself better and trust yourself more.",
+        "km": "ការពិចារណាខ្លួនឯងដោយចិត្តចង់ដឹង អាចនាំមកនូវទំនុកចិត្តដែលមានព័ត៌មាន និងកំពុងកើនឡើង។ អ្នកអាចយល់ពីខ្លួនឯងកាន់តែច្បាស់ ហើយទុកចិត្តខ្លួនឯងកាន់តែច្រើន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Speaking up boldly may give your confidence a boost. Voicing your ideas could show you that your opinions matter.",
+        "km": "ការនិយាយដោយក្លាហាន អាចជំរុញទំនុកចិត្តរបស់អ្នក។ ការបញ្ចេញគំនិតរបស់អ្នក អាចបង្ហាញអ្នកថាមតិរបស់អ្នកសំខាន់។"
+      },
+      "challenge": {
+        "en": "Charging in without thinking could backfire and dent your confidence. Prepare a little before you speak or act, so your courage lands well.",
+        "km": "ការចូលទៅដោយមិនគិត អាចមានផលផ្ទុយ និងធ្វើឱ្យទំនុកចិត្តរបស់អ្នករងរបួស។ សូមត្រៀមខ្លួនបន្តិច មុនពេលអ្នកនិយាយ ឬធ្វើសកម្មភាព ដើម្បីឱ្យភាពក្លាហានរបស់អ្នកមានប្រសិទ្ធភាព។"
+      },
+      "outcome": {
+        "en": "Confident, considered action could bring strong self-belief. You may feel more willing to take your place and be heard.",
+        "km": "សកម្មភាពដែលមានទំនុកចិត្ត និងបានគិតគូរ អាចនាំមកនូវជំនឿលើខ្លួនឯងរឹងមាំ។ អ្នកអាចមានឆន្ទៈជាងមុនក្នុងការកាន់កន្លែងរបស់អ្នក និងត្រូវបានស្តាប់។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Setting clear boundaries may strengthen your confidence. Knowing and stating what you will accept could show you your own worth.",
+        "km": "ការកំណត់ព្រំដែនច្បាស់លាស់ អាចពង្រឹងទំនុកចិត្តរបស់អ្នក។ ការដឹង និងការប្រាប់ពីអ្វីដែលអ្នកនឹងទទួលយក អាចបង្ហាញអ្នកពីតម្លៃរបស់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "A harsh inner voice could chip away at your belief in yourself. Answer each unfair judgement with one thing you know you do well.",
+        "km": "សំឡេងក្នុងចិត្តដ៏ឃោរឃៅ អាចបំផ្លាញជំនឿលើខ្លួនឯងរបស់អ្នកបន្តិចម្តងៗ។ សូមឆ្លើយតបការវិនិច្ឆ័យមិនយុត្តិធម៌នីមួយៗ ដោយរឿងមួយដែលអ្នកដឹងថាអ្នកធ្វើបានល្អ។"
+      },
+      "outcome": {
+        "en": "Clear self-respect could bring a calm, dignified confidence. Others may respect your boundaries once you hold them with calm conviction.",
+        "km": "ការគោរពខ្លួនឯងយ៉ាងច្បាស់ អាចនាំមកនូវទំនុកចិត្តស្ងប់ និងថ្លៃថ្នូ។ អ្នកដទៃអាចគោរពព្រំដែនរបស់អ្នក នៅពេលអ្នករក្សាវាដោយការជឿជាក់ដ៏ស្ងប់។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Thinking clearly about your abilities may build steady confidence. Making decisions based on reason could help you trust yourself.",
+        "km": "ការគិតច្បាស់លាស់អំពីសមត្ថភាពរបស់អ្នក អាចកសាងទំនុកចិត្តនឹងនរ។ ការធ្វើការសម្រេចចិត្តដោយផ្អែកលើហេតុផល អាចជួយអ្នកទុកចិត្តខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Relying on logic alone could make you dismiss your feelings. Trust both your head and your heart when you weigh what you can do.",
+        "km": "ការពឹងផ្អែកតែលើតក្កវិជ្ជា អាចធ្វើឱ្យអ្នកមើលរំលងអារម្មណ៍របស់អ្នក។ សូមទុកចិត្តទាំងក្បាល និងចិត្តរបស់អ្នក នៅពេលអ្នកថ្លឹងថ្លែងអ្វីដែលអ្នកអាចធ្វើ។"
+      },
+      "outcome": {
+        "en": "Balanced reasoning could bring authoritative, calm confidence. Others may come to you for guidance, and you may trust your own advice.",
+        "km": "ការវែកញែកដែលមានតុល្យភាព អាចនាំមកនូវទំនុកចិត្តដែលមានសិទ្ធិអំណាច និងស្ងប់។ អ្នកដទៃអាចមករកអ្នកដើម្បីសុំការណែនាំ ហើយអ្នកអាចទុកចិត្តលើដំបូន្មានរបស់ខ្លួនឯង។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A fresh chance to prove something to yourself may be within reach. Taking one practical first step could plant a real seed of self-belief.",
+        "km": "ឱកាសថ្មីមួយដើម្បីបង្ហាញអ្វីមួយដល់ខ្លួនឯង អាចនៅជិតដៃ។ ការបោះជំហានជាក់ស្តែងដំបូងមួយ អាចដាំគ្រាប់ពូជពិតនៃជំនឿលើខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Waiting for the perfect moment could let a good opening slip by. Start with what you have, and let confidence grow from doing rather than planning.",
+        "km": "ការរង់ចាំគ្រាដ៏ល្អឥតខ្ចោះ អាចធ្វើឱ្យឱកាសល្អរបូតចេញ។ សូមចាប់ផ្តើមជាមួយអ្វីដែលអ្នកមាន ហើយទុកឱ្យទំនុកចិត្តដុះចេញពីការធ្វើ ជាជាងការគ្រោង។"
+      },
+      "outcome": {
+        "en": "A small, grounded start could grow into solid self-trust. You may find that each real result gives you firmer footing for the next.",
+        "km": "ការចាប់ផ្តើមតូច និងជាក់ស្តែង អាចរីកដុះទៅជាការទុកចិត្តខ្លួនឯងដ៏រឹងមាំ។ អ្នកអាចឃើញថាលទ្ធផលពិតនីមួយៗ ផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានរឹងជាងមុនសម្រាប់ជំហានបន្ទាប់។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Keeping several things in balance may already show what you can handle. Noticing how well you adapt could remind you that you are more capable than you think.",
+        "km": "ការរក្សាតុល្យភាពរឿងជាច្រើន អាចបង្ហាញរួចហើយពីអ្វីដែលអ្នកអាចទប់ទល់បាន។ ការកត់សម្គាល់ថាអ្នកសម្របខ្លួនបានល្អប៉ុណ្ណា អាចរំលឹកអ្នកថាអ្នកមានសមត្ថភាពជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "Watch that juggling too much does not leave you feeling you do nothing well. Pick a few things to do properly, and let the rest wait its turn.",
+        "km": "សូមប្រយ័ត្នកុំឱ្យការទទួលរឿងច្រើនពេក ធ្វើឱ្យអ្នកមានអារម្មណ៍ថាមិនបានធ្វើអ្វីល្អសោះ។ សូមជ្រើសរើសរឿងពីរបីដើម្បីធ្វើឱ្យបានត្រឹមត្រូវ ហើយទុកឱ្យរឿងផ្សេងទៀតរង់ចាំវេនរបស់វា។"
+      },
+      "outcome": {
+        "en": "Steady juggling could bring a light, flexible kind of confidence. You may trust yourself to stay upright even when life shifts around you.",
+        "km": "ការរក្សាតុល្យភាពយ៉ាងនឹងនរ អាចនាំមកនូវទំនុកចិត្តដែលស្រាល និងបត់បែន។ អ្នកអាចទុកចិត្តខ្លួនឯងថានឹងឈរបានត្រង់ ទោះបីជីវិតផ្លាស់ប្តូរនៅជុំវិញអ្នកក៏ដោយ។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Working alongside others may show you the value of your skills. Seeing your part in a shared effort could help you respect what you bring.",
+        "km": "ការធ្វើការជាមួយអ្នកដទៃ អាចបង្ហាញអ្នកពីតម្លៃនៃជំនាញរបស់អ្នក។ ការឃើញចំណែករបស់អ្នកក្នុងកិច្ចខិតខំរួមគ្នា អាចជួយអ្នកគោរពអ្វីដែលអ្នកនាំមក។"
+      },
+      "challenge": {
+        "en": "Downplaying your contribution in a group could hide your strengths from you too. Accept honest praise for good work instead of brushing it aside.",
+        "km": "ការបន្ទាបចំណែករបស់អ្នកក្នុងក្រុម អាចលាក់ចំណុចខ្លាំងរបស់អ្នក សូម្បីតែពីខ្លួនអ្នកផ្ទាល់។ សូមទទួលយកការសរសើរដោយស្មោះចំពោះការងារល្អ ជំនួសឱ្យការច្រានវាចោល។"
+      },
+      "outcome": {
+        "en": "Good teamwork could bring confidence rooted in real skill. You may feel recognised for what you do well and keen to build on it.",
+        "km": "ការធ្វើការជាក្រុមល្អ អាចនាំមកនូវទំនុកចិត្តដែលចាក់ឫសក្នុងជំនាញពិត។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានទទួលស្គាល់ចំពោះអ្វីដែលអ្នកធ្វើបានល្អ ហើយចង់កសាងបន្តលើវា។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Guarding yourself closely may feel like the safest place to start. Knowing what you want to protect could show you what truly matters to you.",
+        "km": "ការការពារខ្លួនយ៉ាងតឹងរ៉ឹង អាចមានអារម្មណ៍ថាជាកន្លែងសុវត្ថិភាពបំផុតដើម្បីចាប់ផ្តើម។ ការដឹងពីអ្វីដែលអ្នកចង់ការពារ អាចបង្ហាញអ្នកពីអ្វីដែលពិតជាសំខាន់ចំពោះអ្នក។"
+      },
+      "challenge": {
+        "en": "Gripping control too tightly could keep you from trying anything that might fail. Loosen your hold a little, and let yourself risk a small mistake.",
+        "km": "ការកាន់ការគ្រប់គ្រងតឹងពេក អាចរារាំងអ្នកពីការសាកល្បងអ្វីដែលអាចបរាជ័យ។ សូមបន្ធូរការកាន់របស់អ្នកបន្តិច ហើយអនុញ្ញាតឱ្យខ្លួនឯងប្រថុយនឹងកំហុសតូចមួយ។"
+      },
+      "outcome": {
+        "en": "A secure base could become the ground your confidence stands on. You may feel safe enough to open up and reach a little further.",
+        "km": "មូលដ្ឋានដែលមានសុវត្ថិភាព អាចក្លាយជាដីដែលទំនុកចិត្តរបស់អ្នកឈរលើ។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពគ្រប់គ្រាន់ ដើម្បីបើកចិត្ត និងលាតដៃទៅឆ្ងាយបន្តិចទៀត។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Feeling left out or short of what others have may be shaking your self-worth. Remembering that hard times do not measure your value could steady you.",
+        "km": "អារម្មណ៍ថាត្រូវបានទុកចោល ឬខ្វះអ្វីដែលអ្នកដទៃមាន អាចកំពុងរង្គើតម្លៃខ្លួនរបស់អ្នក។ ការចងចាំថាពេលលំបាកមិនមែនជារង្វាស់នៃតម្លៃរបស់អ្នក អាចធ្វើឱ្យអ្នកនឹងនរវិញ។"
+      },
+      "challenge": {
+        "en": "Believing you are on the outside could stop you from reaching for support. Notice the help that is near, and let someone you trust lend a hand.",
+        "km": "ការជឿថាអ្នកនៅខាងក្រៅ អាចរារាំងអ្នកពីការស្វែងរកការគាំទ្រ។ សូមកត់សម្គាល់ជំនួយដែលនៅជិត ហើយអនុញ្ញាតឱ្យនរណាម្នាក់ដែលអ្នកទុកចិត្តជួយ។"
+      },
+      "outcome": {
+        "en": "Coming through hardship could bring a quiet, hard-won confidence. You may know that you can face difficulty and still find your way.",
+        "km": "ការឆ្លងកាត់ការលំបាក អាចនាំមកនូវទំនុកចិត្តស្ងប់ស្ងាត់ដែលទទួលបានដោយការតស៊ូ។ អ្នកអាចដឹងថាអ្នកអាចប្រឈមនឹងការលំបាក ហើយនៅតែរកឃើញផ្លូវរបស់អ្នក។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Giving and receiving support may be shaping how you see yourself. Noticing what you have to offer others could remind you of your worth.",
+        "km": "ការផ្តល់ និងការទទួលការគាំទ្រ អាចកំពុងបង្កើតរបៀបដែលអ្នកមើលឃើញខ្លួនឯង។ ការកត់សម្គាល់អ្វីដែលអ្នកមានសម្រាប់ផ្តល់ឱ្យអ្នកដទៃ អាចរំលឹកអ្នកពីតម្លៃរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Feeling you must always be the giver, or always the one in need, could tip your self-image. Let help flow both ways, as an equal among equals.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែជាអ្នកផ្តល់ជានិច្ច ឬជាអ្នកត្រូវការជានិច្ច អាចធ្វើឱ្យរូបភាពខ្លួនឯងរបស់អ្នកលំអៀង។ សូមឱ្យជំនួយហូរទាំងសងខាង ក្នុងនាមជាមនុស្សស្មើគ្នា។"
+      },
+      "outcome": {
+        "en": "A fair exchange could bring confidence based on mutual respect. You may feel both useful to others and worthy of their care.",
+        "km": "ការផ្លាស់ប្តូរដោយយុត្តិធម៌ អាចនាំមកនូវទំនុកចិត្តដែលផ្អែកលើការគោរពគ្នាទៅវិញទៅមក។ អ្នកអាចមានអារម្មណ៍ថាមានប្រយោជន៍ដល់អ្នកដទៃ និងសមនឹងទទួលការយកចិត្តទុកដាក់ពីពួកគេ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Looking back at how far you have come may be a good place to start. Taking stock of steady progress could show you more growth than you expected.",
+        "km": "ការក្រឡេកមើលថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា អាចជាចំណុចល្អដើម្បីចាប់ផ្តើម។ ការពិនិត្យមើលការរីកចម្រើនដ៏នឹងនរ អាចបង្ហាញអ្នកពីការលូតលាស់ច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      },
+      "challenge": {
+        "en": "Impatience with slow progress could make you doubt yourself. Measure your growth fairly, and give your efforts the time they need to ripen.",
+        "km": "ការអត់ធ្មត់មិនបានចំពោះការរីកចម្រើនយឺត អាចធ្វើឱ្យអ្នកសង្ស័យលើខ្លួនឯង។ សូមវាស់ការលូតលាស់របស់អ្នកដោយយុត្តិធម៌ ហើយផ្តល់ពេលដែលការខិតខំរបស់អ្នកត្រូវការដើម្បីទុំ។"
+      },
+      "outcome": {
+        "en": "Patient effort could bring confidence that has grown slowly and holds firm. You may trust that what you tend with care will bear fruit.",
+        "km": "ការខិតខំដោយអត់ធ្មត់ អាចនាំមកនូវទំនុកចិត្តដែលបានដុះយឺតៗ និងរឹងមាំ។ អ្នកអាចទុកចិត្តថាអ្វីដែលអ្នកថែទាំដោយយកចិត្តទុកដាក់ នឹងបង្កើតផល។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Practising a skill with care may be where your confidence begins. Each careful attempt could show you that ability grows with steady work.",
+        "km": "ការហ្វឹកហាត់ជំនាញមួយដោយយកចិត្តទុកដាក់ អាចជាកន្លែងដែលទំនុកចិត្តរបស់អ្នកចាប់ផ្តើម។ ការព្យាយាមដោយប្រុងប្រយ័ត្ននីមួយៗ អាចបង្ហាញអ្នកថាសមត្ថភាពរីកលូតលាស់តាមរយៈការងារនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Fussing over every flaw could make you feel you are never good enough. Value improvement over perfection, and count each skill you sharpen.",
+        "km": "ការព្រួយបារម្ភពីកំហុសតូចៗនីមួយៗ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាមិនដែលល្អគ្រប់គ្រាន់។ សូមឱ្យតម្លៃលើការកែលម្អលើសពីភាពល្អឥតខ្ចោះ ហើយរាប់ជំនាញនីមួយៗដែលអ្នកធ្វើឱ្យមុតស្រួច។"
+      },
+      "outcome": {
+        "en": "Dedicated practice could bring the confidence of real competence. You may feel sure of your hands and your judgement in the work you love.",
+        "km": "ការហ្វឹកហាត់ដោយលះបង់ អាចនាំមកនូវទំនុកចិត្តនៃសមត្ថភាពពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍ប្រាកដលើដៃ និងការវិនិច្ឆ័យរបស់អ្នក ក្នុងការងារដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Standing on your own feet may already be giving you a sense of worth. Enjoying what you have built yourself could show you how capable you are.",
+        "km": "ការឈរលើជើងខ្លួនឯង អាចកំពុងផ្តល់ឱ្យអ្នករួចហើយនូវអារម្មណ៍នៃតម្លៃ។ ការរីករាយនឹងអ្វីដែលអ្នកបានកសាងដោយខ្លួនឯង អាចបង្ហាញអ្នកថាអ្នកមានសមត្ថភាពប៉ុណ្ណា។"
+      },
+      "challenge": {
+        "en": "Tying your worth only to what you own or achieve could leave it fragile. Value who you are, not just what you have to show.",
+        "km": "ការភ្ជាប់តម្លៃខ្លួនតែទៅនឹងអ្វីដែលអ្នកមាន ឬសម្រេចបាន អាចធ្វើឱ្យវាងាយបាក់បែក។ សូមឱ្យតម្លៃលើអ្នកជានរណា មិនមែនត្រឹមតែអ្វីដែលអ្នកមានសម្រាប់បង្ហាញនោះទេ។"
+      },
+      "outcome": {
+        "en": "Self-reliance could bring a graceful, settled confidence. You may feel at ease in your own company and proud of your independence.",
+        "km": "ការពឹងផ្អែកលើខ្លួនឯង អាចនាំមកនូវទំនុកចិត្តដែលថ្លៃថ្នូ និងស្ងប់ស្ងាត់។ អ្នកអាចមានអារម្មណ៍ស្រួលពេលនៅម្នាក់ឯង និងមោទនភាពចំពោះឯករាជ្យភាពរបស់អ្នក។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "The roots you come from may be part of your confidence. Drawing on family, tradition or a solid home base could remind you that you are supported.",
+        "km": "ឫសគល់ដែលអ្នកមកពី អាចជាផ្នែកមួយនៃទំនុកចិត្តរបស់អ្នក។ ការទាញកម្លាំងពីគ្រួសារ ប្រពៃណី ឬផ្ទះដ៏រឹងមាំ អាចរំលឹកអ្នកថាអ្នកមានការគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Measuring yourself against family expectations could crowd out your own voice. Honour where you come from, while choosing what success means to you.",
+        "km": "ការវាស់ខ្លួនឯងធៀបនឹងការរំពឹងទុករបស់គ្រួសារ អាចបិទបាំងសំឡេងរបស់អ្នកផ្ទាល់។ សូមគោរពកន្លែងដែលអ្នកមកពី ខណៈពេលជ្រើសរើសថាតើភាពជោគជ័យមានន័យយ៉ាងណាចំពោះអ្នក។"
+      },
+      "outcome": {
+        "en": "A strong foundation could bring deep, rooted confidence. You may feel secure in who you are and what you can pass on to others.",
+        "km": "មូលដ្ឋានរឹងមាំ អាចនាំមកនូវទំនុកចិត្តជ្រៅ និងចាក់ឫស។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពចំពោះអ្នកជានរណា និងអ្វីដែលអ្នកអាចបន្តឱ្យអ្នកដទៃ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learning something new and practical may be a good starting point. Being a curious beginner could build confidence one lesson at a time.",
+        "km": "ការរៀនអ្វីថ្មី និងជាក់ស្តែង អាចជាចំណុចចាប់ផ្តើមល្អ។ ការក្លាយជាអ្នកចាប់ផ្តើមដែលចង់ដឹងចង់ឃើញ អាចកសាងទំនុកចិត្តម្តងមួយមេរៀន។"
+      },
+      "challenge": {
+        "en": "Feeling you should already know it all could stop you from asking questions. Let yourself be a learner, and treat each mistake as a lesson.",
+        "km": "អារម្មណ៍ថាអ្នកគួរតែដឹងអ្វីៗទាំងអស់រួចហើយ អាចរារាំងអ្នកពីការសួរសំណួរ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងជាអ្នករៀន ហើយចាត់ទុកកំហុសនីមួយៗជាមេរៀន។"
+      },
+      "outcome": {
+        "en": "Steady study could bring confidence based on growing knowledge. You may enjoy seeing a new skill take shape in your hands.",
+        "km": "ការសិក្សាដោយនឹងនរ អាចនាំមកនូវទំនុកចិត្តដែលផ្អែកលើចំណេះដឹងដែលកំពុងកើនឡើង។ អ្នកអាចរីករាយក្នុងការឃើញជំនាញថ្មីមួយកើតជារូបរាងនៅក្នុងដៃរបស់អ្នក។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Being dependable may be a quiet source of your confidence. Following through on what you promise could show you that you can rely on yourself.",
+        "km": "ការជាមនុស្សដែលគេអាចពឹងបាន អាចជាប្រភពស្ងប់ស្ងាត់នៃទំនុកចិត្តរបស់អ្នក។ ការធ្វើតាមអ្វីដែលអ្នកសន្យា អាចបង្ហាញអ្នកថាអ្នកអាចពឹងលើខ្លួនឯងបាន។"
+      },
+      "challenge": {
+        "en": "Plodding along without noticing your progress could leave you feeling stuck. Pause to see how much ground your steady effort has already covered.",
+        "km": "ការដើរទៅមុខយឺតៗដោយមិនកត់សម្គាល់ការរីកចម្រើនរបស់អ្នក អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ជាប់គាំង។ សូមឈប់មួយភ្លែតដើម្បីមើលថាការខិតខំនឹងនររបស់អ្នក បានដើរផ្លូវឆ្ងាយប៉ុណ្ណារួចហើយ។"
+      },
+      "outcome": {
+        "en": "Reliable effort could bring a solid, unshowy confidence. You may know that you finish what you start, and others may know it too.",
+        "km": "ការខិតខំដែលអាចទុកចិត្តបាន អាចនាំមកនូវទំនុកចិត្តដ៏រឹងមាំ និងមិនអួតអាង។ អ្នកអាចដឹងថាអ្នកបញ្ចប់អ្វីដែលអ្នកចាប់ផ្តើម ហើយអ្នកដទៃក៏អាចដឹងដែរ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Caring for yourself in practical ways may help your confidence take root. Looking after your body, home and needs could show you that you deserve care.",
+        "km": "ការថែទាំខ្លួនឯងតាមរបៀបជាក់ស្តែង អាចជួយឱ្យទំនុកចិត្តរបស់អ្នកចាក់ឫស។ ការថែរក្សារាងកាយ ផ្ទះ និងតម្រូវការរបស់អ្នក អាចបង្ហាញអ្នកថាអ្នកសមនឹងទទួលការថែទាំ។"
+      },
+      "challenge": {
+        "en": "Putting everyone else's needs first could leave little room for your own worth. Give yourself the same steady care you give to others.",
+        "km": "ការដាក់តម្រូវការរបស់អ្នកដទៃមុនគេ អាចទុកកន្លែងតិចតួចសម្រាប់តម្លៃរបស់អ្នកផ្ទាល់។ សូមផ្តល់ឱ្យខ្លួនឯងនូវការថែទាំនឹងនរដូចគ្នា ដែលអ្នកផ្តល់ឱ្យអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Grounded self-care could bring a warm, down-to-earth confidence. You may feel comfortable in your own skin and generous without draining yourself.",
+        "km": "ការថែទាំខ្លួនឯងដោយជាក់ស្តែង អាចនាំមកនូវទំនុកចិត្តដ៏កក់ក្តៅ និងសាមញ្ញ។ អ្នកអាចមានអារម្មណ៍ស្រួលក្នុងខ្លួនឯង និងចិត្តទូលាយដោយមិនធ្វើឱ្យខ្លួនឯងអស់កម្លាំង។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "What you have already built may be a strong base for confidence. Recognising your own discipline and results could help you stand tall.",
+        "km": "អ្វីដែលអ្នកបានកសាងរួចហើយ អាចជាមូលដ្ឋានរឹងមាំសម្រាប់ទំនុកចិត្ត។ ការទទួលស្គាល់វិន័យ និងលទ្ធផលរបស់អ្នកផ្ទាល់ អាចជួយឱ្យអ្នកឈរដោយមោទនភាព។"
+      },
+      "challenge": {
+        "en": "Linking confidence only to status or success could make it rigid. Let your sense of worth rest on your character as well as your achievements.",
+        "km": "ការភ្ជាប់ទំនុកចិត្តតែទៅនឹងឋានៈ ឬភាពជោគជ័យ អាចធ្វើឱ្យវារឹងតឹង។ សូមឱ្យអារម្មណ៍នៃតម្លៃរបស់អ្នក ផ្អែកលើចរិតលក្ខណៈ ក៏ដូចជាសមិទ្ធផលរបស់អ្នកដែរ។"
+      },
+      "outcome": {
+        "en": "Steady mastery could bring a calm, assured confidence. You may feel secure enough in yourself to lead and to support others well.",
+        "km": "ភាពស្ទាត់ជំនាញដ៏នឹងនរ អាចនាំមកនូវទំនុកចិត្តដ៏ស្ងប់ និងប្រាកដប្រជា។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពគ្រប់គ្រាន់ក្នុងខ្លួនឯង ដើម្បីដឹកនាំ និងគាំទ្រអ្នកដទៃបានល្អ។"
+      }
+    }
+  }
+}
