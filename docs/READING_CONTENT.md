@@ -77,6 +77,7 @@
 | `src/content/readings/EG-02.json` | How can I study more effectively? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/EG-03.json` | What can I expect from an upcoming exam? | 78 cards × 3 positions, English and Khmer (heading) |
 | `src/content/readings/EG-04.json` | Which skill should I learn next? | 78 cards × 3 positions, English and Khmer (how) |
+| `src/content/readings/EG-05.json` | What is holding back my growth? | 78 cards × 3 positions, English and Khmer (obstacle) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.

@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 73 of 100 questions (17,082 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 74 of 100 questions (17,316 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-24: Drafted EG-05 (“What is holding back my growth?”, obstacle): 78 cards × 3 positions in English and Khmer, src/content/readings/EG-05.json. EG-05 growth-obstacle readings AI-drafted; English and native Khmer review pending. Saved coverage 74/100 questions; checks, typecheck and lint pass
 - 2026-10-24: Drafted EG-04 (“Which skill should I learn next?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/EG-04.json. EG-04 next-skill readings AI-drafted; English and native Khmer review pending. Saved coverage 73/100 questions; checks, typecheck and lint pass
 - 2026-10-24: Drafted EG-03 (“What can I expect from an upcoming exam?”, heading): 78 cards × 3 positions in English and Khmer, src/content/readings/EG-03.json. EG-03 upcoming-exam readings AI-drafted; English and native Khmer review pending. Saved coverage 72/100 questions; checks, typecheck and lint pass
 - 2026-10-24: Drafted EG-02 (“How can I study more effectively?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/EG-02.json. EG-02 study-effectiveness readings AI-drafted; English and native Khmer review pending. Saved coverage 71/100 questions; checks, typecheck and lint pass

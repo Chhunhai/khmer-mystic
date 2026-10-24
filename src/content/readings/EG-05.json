@@ -1,0 +1,1097 @@
+{
+  "questionId": "EG-05",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Plenty of curiosity may be driving your interest in growth. New ideas could be exciting you, even if they rarely turn into steady habits.",
+        "km": "ការចង់ដឹងចង់ឃើញច្រើន អាចកំពុងជំរុញចំណាប់អារម្មណ៍របស់អ្នកលើការលូតលាស់។ គំនិតថ្មីៗ អាចកំពុងធ្វើឱ្យអ្នករំភើប ទោះបីវាកម្រប្រែក្លាយទៅជាទម្លាប់នឹងនរក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Starting things and dropping them could be holding back your growth. Pick one path and give it enough steady effort to see where it goes.",
+        "km": "ការចាប់ផ្តើមរឿងរ៉ាវ ហើយបោះបង់វា អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមជ្រើសរើសផ្លូវមួយ ហើយផ្តល់ការខិតខំនឹងនរគ្រប់គ្រាន់ ដើម្បីមើលថាវានាំទៅណា។"
+      },
+      "outcome": {
+        "en": "Adding commitment to your curiosity could turn scattered starts into real progress. You may find one path that rewards your openness richly.",
+        "km": "ការបន្ថែមការប្តេជ្ញាទៅលើការចង់ដឹងរបស់អ្នក អាចប្រែក្លាយការចាប់ផ្តើមរាយប៉ាយទៅជាការរីកចម្រើនពិតប្រាកដ។ អ្នកអាចរកឃើញផ្លូវមួយ ដែលផ្តល់រង្វាន់ដល់ភាពបើកចំហរបស់អ្នកយ៉ាងសម្បូរ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Talent and resources may be well within your reach. You could have more ability than you are putting to use.",
+        "km": "ទេពកោសល្យ និងធនធាន អាចស្ថិតនៅក្នុងដៃរបស់អ្នក។ អ្នកអាចមានសមត្ថភាពច្រើនជាងអ្វីដែលអ្នកកំពុងប្រើ។"
+      },
+      "challenge": {
+        "en": "Scattering your skills across too many projects could be holding back your growth. Focus your energy on one goal where your talents can really show.",
+        "km": "ការចែកជំនាញរបស់អ្នកទៅគម្រោងច្រើនពេក អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមផ្តោតថាមពលរបស់អ្នកលើគោលដៅមួយ ដែលទេពកោសល្យរបស់អ្នកអាចបង្ហាញពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Concentrating your abilities could turn potential into visible results. You may surprise yourself with what you can create when focused.",
+        "km": "ការប្រមូលផ្តុំសមត្ថភាពរបស់អ្នក អាចប្រែក្លាយសក្តានុពលទៅជាលទ្ធផលដែលអាចមើលឃើញ។ អ្នកអាចធ្វើឱ្យខ្លួនឯងភ្ញាក់ផ្អើលចំពោះអ្វីដែលអ្នកអាចបង្កើត នៅពេលផ្តោត។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Deep inner knowledge may be quietly guiding you. Your intuition about what you need to learn could be stronger than you admit.",
+        "km": "ចំណេះដឹងខាងក្នុងជ្រៅ អាចកំពុងដឹកនាំអ្នកដោយស្ងាត់ៗ។ វិចារណញាណរបស់អ្នកអំពីអ្វីដែលអ្នកត្រូវរៀន អាចខ្លាំងជាងអ្វីដែលអ្នកទទួលស្គាល់។"
+      },
+      "challenge": {
+        "en": "Keeping your ideas and questions to yourself could be holding back your growth. Share what you are thinking with a teacher, mentor or peer.",
+        "km": "ការរក្សាគំនិត និងសំណួររបស់អ្នកសម្រាប់តែខ្លួនឯង អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមចែករំលែកអ្វីដែលអ្នកកំពុងគិតជាមួយគ្រូ អ្នកណែនាំ ឬមិត្តភក្តិ។"
+      },
+      "outcome": {
+        "en": "Voicing your quiet insight could open doors to deeper learning. You may find others value what you have been keeping inside.",
+        "km": "ការបញ្ចេញការយល់ដឹងស្ងាត់ៗរបស់អ្នក អាចបើកទ្វារទៅរកការរៀនជ្រៅជាង។ អ្នកអាចឃើញថាអ្នកដទៃឱ្យតម្លៃលើអ្វីដែលអ្នកបានរក្សាទុកក្នុងចិត្ត។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Comfort and care may be surrounding your learning. Life could feel pleasant, which is good, though it may not be stretching you much.",
+        "km": "ភាពស្រួល និងការថែទាំ អាចកំពុងព័ទ្ធជុំវិញការរៀនរបស់អ្នក។ ជីវិតអាចមានអារម្មណ៍រីករាយ ដែលល្អ ទោះបីវាប្រហែលជាមិនសូវពង្រីកសមត្ថភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Too much comfort could be holding back your growth. Choose one challenge that gently pushes you beyond what feels easy.",
+        "km": "ភាពស្រួលច្រើនពេក អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមជ្រើសរើសការប្រកួតមួយ ដែលរុញអ្នកដោយទន់ភ្លន់ហួសពីអ្វីដែលមានអារម្មណ៍ងាយស្រួល។"
+      },
+      "outcome": {
+        "en": "Pairing comfort with challenge could let your growth flourish. You may find that you blossom when given both care and stretch.",
+        "km": "ការផ្គូផ្គងភាពស្រួលជាមួយការប្រកួត អាចអនុញ្ញាតឱ្យការលូតលាស់របស់អ្នករីកចម្រើន។ អ្នកអាចឃើញថាអ្នករីកដុះដាល នៅពេលទទួលបានទាំងការថែទាំ និងការពង្រីក។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Structure and routine may be shaping how you learn. You could be well organised, perhaps more tightly than you need to be.",
+        "km": "រចនាសម្ព័ន្ធ និងទម្លាប់ អាចកំពុងបង្កើតរបៀបដែលអ្នករៀន។ អ្នកអាចមានរបៀបល្អ ប្រហែលជាតឹងជាងអ្វីដែលអ្នកត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Rigid rules or fear of losing control could be holding back your growth. Allow some room for experiment, surprise and learning from mistakes.",
+        "km": "ច្បាប់តឹងរ៉ឹង ឬការខ្លាចបាត់បង់ការគ្រប់គ្រង អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមទុកលំហខ្លះសម្រាប់ការពិសោធ ការភ្ញាក់ផ្អើល និងការរៀនពីកំហុស។"
+      },
+      "outcome": {
+        "en": "Loosening control could bring more creative, flexible growth. You may find that structure works best as a support, not a cage.",
+        "km": "ការបន្ធូរការគ្រប់គ្រង អាចនាំមកនូវការលូតលាស់ដែលច្នៃប្រឌិត និងបត់បែនជាង។ អ្នកអាចឃើញថារចនាសម្ព័ន្ធដំណើរការល្អបំផុតជាការគាំទ្រ មិនមែនជាទ្រុងនោះទេ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Traditional paths and expectations may be guiding your learning. You could be following a route others set out for you.",
+        "km": "ផ្លូវប្រពៃណី និងការរំពឹងទុក អាចកំពុងដឹកនាំការរៀនរបស់អ្នក។ អ្នកអាចកំពុងធ្វើតាមផ្លូវដែលអ្នកដទៃបានរៀបចំសម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Sticking to what is expected rather than what interests you could be holding back your growth. Question which of those rules truly serve the person you want to become.",
+        "km": "ការប្រកាន់អ្វីដែលគេរំពឹង ជាជាងអ្វីដែលចាប់អារម្មណ៍អ្នក អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមសួរសំណួរថាច្បាប់ណាខ្លះពិតជាបម្រើមនុស្សដែលអ្នកចង់ក្លាយជា។"
+      },
+      "outcome": {
+        "en": "Finding your own way within or beyond tradition could unlock real growth. You may keep the wisdom you value and add what is truly yours.",
+        "km": "ការរកផ្លូវរបស់អ្នកផ្ទាល់ ក្នុង ឬហួសពីប្រពៃណី អាចដោះសោការលូតលាស់ពិតប្រាកដ។ អ្នកអាចរក្សាប្រាជ្ញាដែលអ្នកឱ្យតម្លៃ ហើយបន្ថែមអ្វីដែលពិតជារបស់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Important choices about your path may be in front of you. Several directions could appeal, each with something to offer.",
+        "km": "ជម្រើសសំខាន់ៗអំពីផ្លូវរបស់អ្នក អាចនៅចំពោះមុខអ្នក។ ទិសដៅជាច្រើនអាចទាក់ទាញ ដែលនីមួយៗមានអ្វីមួយសម្រាប់ផ្តល់ជូន។"
+      },
+      "challenge": {
+        "en": "Avoiding a decision, or choosing to please others, could be holding back your growth. Make the choice that honestly fits your values, even if some people disagree.",
+        "km": "ការជៀសវាងការសម្រេចចិត្ត ឬការជ្រើសរើសដើម្បីផ្គាប់ចិត្តអ្នកដទៃ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមធ្វើជម្រើសដែលសមដោយស្មោះត្រង់នឹងគុណតម្លៃរបស់អ្នក ទោះបីមនុស្សខ្លះមិនយល់ស្របក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A clear, heartfelt choice could set your growth moving again. You may feel more aligned and motivated once your direction matches who you are.",
+        "km": "ជម្រើសច្បាស់ និងចេញពីចិត្ត អាចធ្វើឱ្យការលូតលាស់របស់អ្នកដំណើរការម្តងទៀត។ អ្នកអាចមានអារម្មណ៍ស្រប និងមានកម្លាំងចិត្តជាងមុន នៅពេលទិសដៅរបស់អ្នកត្រូវនឹងអ្នកជានរណា។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Strong ambition may be pushing you forward. You could be eager to make progress, perhaps in several directions together.",
+        "km": "មហិច្ឆតាខ្លាំង អាចកំពុងរុញអ្នកទៅមុខ។ អ្នកអាចចង់រីកចម្រើន ប្រហែលជាក្នុងទិសដៅច្រើនជាមួយគ្នា។"
+      },
+      "challenge": {
+        "en": "Pulling in conflicting directions could be holding back your growth. Decide which goal matters most, and steer your energy towards it.",
+        "km": "ការទាញទៅទិសដៅផ្ទុយគ្នា អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមសម្រេចថាគោលដៅណាសំខាន់បំផុត ហើយដឹកនាំថាមពលរបស់អ្នកទៅរកវា។"
+      },
+      "outcome": {
+        "en": "Focused determination could carry you past what has been holding you back. You may achieve a clear win that builds momentum for more.",
+        "km": "ការប្តេជ្ញាដែលផ្តោត អាចនាំអ្នកឆ្លងកាត់អ្វីដែលបានរារាំងអ្នក។ អ្នកអាចសម្រេចជ័យជម្នះច្បាស់មួយ ដែលកសាងសន្ទុះសម្រាប់ច្រើនទៀត។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Inner strength and patience may be among your gifts. You could be gentler with others than you are with yourself.",
+        "km": "កម្លាំងខាងក្នុង និងការអត់ធ្មត់ អាចស្ថិតក្នុងចំណោមអំណោយរបស់អ្នក។ អ្នកអាចទន់ភ្លន់ជាមួយអ្នកដទៃ ច្រើនជាងជាមួយខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Harsh self-criticism could be holding back your growth. Treat your own mistakes with the same patience you offer other people.",
+        "km": "ការរិះគន់ខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមចាត់ទុកកំហុសរបស់អ្នកដោយការអត់ធ្មត់ដូចគ្នា ដែលអ្នកផ្តល់ឱ្យមនុស្សដទៃ។"
+      },
+      "outcome": {
+        "en": "Self-compassion could free you to try, fail and grow. You may find that kindness towards yourself builds real resilience.",
+        "km": "ក្តីមេត្តាចំពោះខ្លួនឯង អាចដោះលែងអ្នកឱ្យព្យាយាម បរាជ័យ និងលូតលាស់។ អ្នកអាចឃើញថាសេចក្តីសប្បុរសចំពោះខ្លួនឯង កសាងភាពធន់ពិតប្រាកដ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Solitude and reflection may be a comfortable place for you. You could be learning a lot alone, with little outside input.",
+        "km": "ភាពឯកោ និងការឆ្លុះបញ្ចាំង អាចជាកន្លែងស្រួលសម្រាប់អ្នក។ អ្នកអាចកំពុងរៀនច្រើនតែម្នាក់ឯង ដោយមានការចូលរួមពីខាងក្រៅតិចតួច។"
+      },
+      "challenge": {
+        "en": "Isolating yourself could be holding back your growth. Seek out a mentor, class or community to test and widen your understanding.",
+        "km": "ការធ្វើឱ្យខ្លួនឯងឯកោ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមស្វែងរកអ្នកណែនាំ ថ្នាក់ ឬសហគមន៍ ដើម្បីសាកល្បង និងពង្រីកការយល់ដឹងរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Opening up to others could deepen what you have learned alone. You may find that sharing your wisdom helps it grow.",
+        "km": "ការបើកចិត្តចំពោះអ្នកដទៃ អាចធ្វើឱ្យអ្វីដែលអ្នកបានរៀនតែម្នាក់ឯងកាន់តែជ្រៅ។ អ្នកអាចឃើញថាការចែករំលែកប្រាជ្ញារបស់អ្នក ជួយឱ្យវាលូតលាស់។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Circumstances may be shifting around you. Changes outside your control could be affecting your plans to learn and grow.",
+        "km": "កាលៈទេសៈ អាចកំពុងផ្លាស់ប្តូរនៅជុំវិញអ្នក។ ការផ្លាស់ប្តូរនៅក្រៅការគ្រប់គ្រងរបស់អ្នក អាចកំពុងប៉ះពាល់ផែនការរៀន និងលូតលាស់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Waiting for the right moment could be holding back your growth. Work with what is changing rather than waiting for things to settle.",
+        "km": "ការរង់ចាំគ្រាដែលត្រឹមត្រូវ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមធ្វើការជាមួយអ្វីដែលកំពុងផ្លាស់ប្តូរ ជាជាងរង់ចាំឱ្យអ្វីៗស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "Adapting to change could open unexpected opportunities. You may find that a shift you resisted becomes a turning point.",
+        "km": "ការសម្របខ្លួនទៅនឹងការផ្លាស់ប្តូរ អាចបើកឱកាសដែលមិនរំពឹងទុក។ អ្នកអាចឃើញថាការផ្លាស់ប្តូរដែលអ្នកបានប្រឆាំង ក្លាយជាចំណុចបត់។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Fairness and honesty may matter deeply to you. You could be weighing your progress against high standards.",
+        "km": "យុត្តិធម៌ និងភាពស្មោះត្រង់ អាចសំខាន់ជ្រៅចំពោះអ្នក។ អ្នកអាចកំពុងថ្លឹងការរីកចម្រើនរបស់អ្នក ធៀបនឹងស្តង់ដារខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Avoiding an honest look at your weak spots could be holding back your growth. Assess yourself fairly, without excuses and without harshness either.",
+        "km": "ការជៀសវាងការមើលដោយស្មោះត្រង់ពីចំណុចខ្សោយរបស់អ្នក អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមវាយតម្លៃខ្លួនឯងដោយយុត្តិធម៌ ដោយគ្មានការដោះសា និងគ្មានភាពធ្ងន់ធ្ងរផងដែរ។"
+      },
+      "outcome": {
+        "en": "Honest self-assessment could show you exactly where to grow. You may make steady, fair progress once you know what needs work.",
+        "km": "ការវាយតម្លៃខ្លួនឯងដោយស្មោះត្រង់ អាចបង្ហាញអ្នកយ៉ាងច្បាស់ពីកន្លែងដែលត្រូវលូតលាស់។ អ្នកអាចរីកចម្រើនដោយនឹងនរ និងយុត្តិធម៌ នៅពេលអ្នកដឹងពីអ្វីដែលត្រូវការការងារ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "A pause or sense of being stuck may be part of your situation. Progress could feel suspended, as if waiting for something to shift.",
+        "km": "ការផ្អាក ឬអារម្មណ៍ជាប់គាំង អាចជាផ្នែកមួយនៃស្ថានភាពរបស់អ្នក។ ការរីកចម្រើនអាចមានអារម្មណ៍ថាត្រូវបានផ្អាក ហាក់ដូចជារង់ចាំអ្វីមួយផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Seeing things only one way could be holding back your growth. Try viewing your situation from a completely different angle.",
+        "km": "ការមើលអ្វីៗតែម្យ៉ាង អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមសាកល្បងមើលស្ថានភាពរបស់អ្នក ពីមុំខុសគ្នាទាំងស្រុង។"
+      },
+      "outcome": {
+        "en": "A new perspective could release you from feeling stuck. You may see an opportunity that was hidden by your old viewpoint.",
+        "km": "ទស្សនៈថ្មី អាចដោះលែងអ្នកពីអារម្មណ៍ជាប់គាំង។ អ្នកអាចមើលឃើញឱកាសមួយ ដែលត្រូវបានលាក់ដោយទស្សនៈចាស់របស់អ្នក។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Something in your life may be coming to an end. An old role, habit or identity could be falling away.",
+        "km": "អ្វីមួយក្នុងជីវិតរបស់អ្នក អាចកំពុងខិតជិតបញ្ចប់។ តួនាទី ទម្លាប់ ឬអត្តសញ្ញាណចាស់ អាចកំពុងរលុះចេញ។"
+      },
+      "challenge": {
+        "en": "Holding on to an old version of yourself could be holding back your growth. Let go of what you have outgrown, with gratitude for what it gave you.",
+        "km": "ការប្រកាន់ខ្ជាប់កំណែចាស់នៃខ្លួនឯង អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមលែងប្រកាន់អ្វីដែលអ្នកបានលូតលាស់ហួស ដោយការដឹងគុណចំពោះអ្វីដែលវាបានផ្តល់ឱ្យអ្នក។"
+      },
+      "outcome": {
+        "en": "Accepting the ending could open space for real transformation. You may grow into a version of yourself that fits better.",
+        "km": "ការទទួលយកការបញ្ចប់ អាចបើកលំហសម្រាប់ការផ្លាស់ប្តូរពិតប្រាកដ។ អ្នកអាចលូតលាស់ទៅជាកំណែនៃខ្លួនឯងដែលសមជាង។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Balance and moderation may be important to you. You could be trying to keep everything steady and calm.",
+        "km": "តុល្យភាព និងភាពល្មមល្មើយ អាចសំខាន់ចំពោះអ្នក។ អ្នកអាចកំពុងព្យាយាមរក្សាអ្វីៗទាំងអស់ឱ្យនឹងនរ និងស្ងប់។"
+      },
+      "challenge": {
+        "en": "Playing it too safe in the name of balance could be holding back your growth. Allow yourself one bold step, even if it feels unsettling.",
+        "km": "ការលេងសុវត្ថិភាពពេកក្នុងនាមតុល្យភាព អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងបោះជំហានក្លាហានមួយ ទោះបីវាមានអារម្មណ៍មិនស្ងប់ក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Blending steadiness with daring could bring well-rounded growth. You may find that a little risk adds energy to your balanced life.",
+        "km": "ការលាយភាពនឹងនរជាមួយភាពក្លាហាន អាចនាំមកនូវការលូតលាស់គ្រប់ជ្រុងជ្រោយ។ អ្នកអាចឃើញថាហានិភ័យបន្តិច បន្ថែមថាមពលដល់ជីវិតដែលមានតុល្យភាពរបស់អ្នក។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Habits or attachments may be taking up a lot of your energy. Something could be pulling at your attention more than you would like.",
+        "km": "ទម្លាប់ ឬការជាប់ជំពាក់ អាចកំពុងចំណាយថាមពលរបស់អ្នកច្រើន។ អ្វីមួយអាចកំពុងទាញការយកចិត្តទុកដាក់របស់អ្នក ច្រើនជាងអ្វីដែលអ្នកចង់បាន។"
+      },
+      "challenge": {
+        "en": "An unhealthy habit or dependence could be holding back your growth. Name it honestly, and seek support or professional help if it feels out of control.",
+        "km": "ទម្លាប់មិនល្អ ឬការពឹងផ្អែក អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមដាក់ឈ្មោះវាដោយស្មោះត្រង់ ហើយស្វែងរកការគាំទ្រ ឬជំនួយពីអ្នកជំនាញ ប្រសិនបើវាហាក់ហួសការគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "Loosening that grip could free energy for real growth. You may feel lighter and more in charge of your own direction.",
+        "km": "ការបន្ធូរការក្តាប់នោះ អាចដោះលែងថាមពលសម្រាប់ការលូតលាស់ពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍ស្រាលជាង និងគ្រប់គ្រងទិសដៅរបស់អ្នកផ្ទាល់កាន់តែច្រើន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Change or disruption may have shaken your plans. Something you relied on could have fallen away unexpectedly.",
+        "km": "ការផ្លាស់ប្តូរ ឬការរំខាន អាចបានរង្គើផែនការរបស់អ្នក។ អ្វីមួយដែលអ្នកពឹងផ្អែក អាចបានរលំដោយមិនរំពឹងទុក។"
+      },
+      "challenge": {
+        "en": "Clinging to plans that have already collapsed could be holding back your growth. Accept what has changed, and seek support if it feels overwhelming.",
+        "km": "ការប្រកាន់ខ្ជាប់ផែនការដែលបានដួលរលំរួចហើយ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមទទួលយកអ្វីដែលបានផ្លាស់ប្តូរ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើវាហាក់លើសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Rebuilding on new ground could lead to stronger growth. You may find the upheaval cleared the way for something better suited to you.",
+        "km": "ការកសាងឡើងវិញលើដីថ្មី អាចនាំទៅរកការលូតលាស់រឹងមាំជាង។ អ្នកអាចឃើញថាការរង្គើនោះបានបើកផ្លូវសម្រាប់អ្វីមួយដែលសមនឹងអ្នកជាង។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and quiet inspiration may be with you. You could have a gentle sense that better things are possible.",
+        "km": "ក្តីសង្ឃឹម និងការបំផុសគំនិតស្ងាត់ៗ អាចនៅជាមួយអ្នក។ អ្នកអាចមានអារម្មណ៍ទន់ភ្លន់ថារឿងល្អជាងនេះអាចទៅរួច។"
+      },
+      "challenge": {
+        "en": "Dreaming without acting could be holding back your growth. Turn one hope into a small, concrete step you can take.",
+        "km": "ការស្រមៃដោយមិនធ្វើសកម្មភាព អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមប្រែក្លាយក្តីសង្ឃឹមមួយ ទៅជាជំហានតូច និងជាក់ស្តែងដែលអ្នកអាចបោះ។"
+      },
+      "outcome": {
+        "en": "Acting on your hopes could bring steady, inspiring progress. You may see your quiet dreams begin to take real shape.",
+        "km": "ការធ្វើសកម្មភាពតាមក្តីសង្ឃឹមរបស់អ្នក អាចនាំមកនូវការរីកចម្រើនដែលនឹងនរ និងបំផុសគំនិត។ អ្នកអាចឃើញក្តីស្រមៃស្ងាត់ៗរបស់អ្នក ចាប់ផ្តើមមានរូបរាងពិតប្រាកដ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Confusion or uncertainty may be clouding your path. You could be unsure what you really want to learn or become.",
+        "km": "ភាពច្របូកច្របល់ ឬភាពមិនប្រាកដ អាចកំពុងធ្វើឱ្យផ្លូវរបស់អ្នកស្រអាប់។ អ្នកអាចមិនប្រាកដថាអ្នកពិតជាចង់រៀន ឬក្លាយជាអ្វី។"
+      },
+      "challenge": {
+        "en": "Fear of the unknown could be holding back your growth. Gather real information, and take one small step to test what you imagine.",
+        "km": "ការភ័យខ្លាចចំពោះអ្វីដែលមិនស្គាល់ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមប្រមូលព័ត៌មានពិត ហើយបោះជំហានតូចមួយដើម្បីសាកល្បងអ្វីដែលអ្នកស្រមៃ។"
+      },
+      "outcome": {
+        "en": "Moving through uncertainty could bring clearer understanding. You may find your path becomes visible as you walk it.",
+        "km": "ការធ្វើដំណើរឆ្លងកាត់ភាពមិនប្រាកដ អាចនាំមកនូវការយល់ដឹងច្បាស់ជាង។ អ្នកអាចឃើញថាផ្លូវរបស់អ្នកក្លាយជាអាចមើលឃើញ នៅពេលអ្នកដើរវា។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Confidence and optimism may be strong in you. Things could be going well, and you may feel capable.",
+        "km": "ទំនុកចិត្ត និងសុទិដ្ឋិនិយម អាចខ្លាំងក្នុងខ្លួនអ្នក។ អ្វីៗអាចកំពុងដំណើរការល្អ ហើយអ្នកអាចមានអារម្មណ៍មានសមត្ថភាព។"
+      },
+      "challenge": {
+        "en": "Overconfidence could be holding back your growth. Keep asking where you can improve, even when things feel easy.",
+        "km": "ការជឿជាក់ហួសហេតុ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមបន្តសួរថាតើអ្នកអាចកែលម្អនៅកន្លែងណា សូម្បីតែនៅពេលអ្វីៗហាក់ងាយស្រួល។"
+      },
+      "outcome": {
+        "en": "Pairing confidence with humility could bring bright, steady growth. You may achieve more because you keep learning and stay open.",
+        "km": "ការផ្គូផ្គងទំនុកចិត្តជាមួយភាពរាបទាប អាចនាំមកនូវការលូតលាស់ភ្លឺស្វាង និងនឹងនរ។ អ្នកអាចសម្រេចបានច្រើនជាង ព្រោះអ្នកបន្តរៀន និងនៅតែបើកចិត្ត។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "A moment of reckoning may be calling you. You could be reviewing your life and wondering what you are meant to do.",
+        "km": "គ្រានៃការពិនិត្យខ្លួនឯង អាចកំពុងហៅអ្នក។ អ្នកអាចកំពុងពិនិត្យជីវិតរបស់អ្នក ហើយឆ្ងល់ថាតើអ្នកត្រូវធ្វើអ្វី។"
+      },
+      "challenge": {
+        "en": "Harsh judgement of old mistakes could be holding back your growth. Forgive yourself, and answer the call to grow with one meaningful step.",
+        "km": "ការវិនិច្ឆ័យយ៉ាងធ្ងន់ធ្ងរលើកំហុសចាស់ៗ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមអភ័យទោសខ្លួនឯង ហើយឆ្លើយតបនឹងការហៅឱ្យលូតលាស់ ដោយជំហានដ៏មានអត្ថន័យមួយ។"
+      },
+      "outcome": {
+        "en": "Answering that call could bring a sense of renewal. You may step into a more purposeful version of yourself.",
+        "km": "ការឆ្លើយតបនឹងការហៅនោះ អាចនាំមកនូវអារម្មណ៍នៃការកើតជាថ្មី។ អ្នកអាចដើរចូលទៅក្នុងកំណែនៃខ្លួនឯងដែលមានគោលបំណងជាង។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "A sense of completion may be near. One stage of your growth could be wrapping up.",
+        "km": "អារម្មណ៍នៃការបញ្ចប់ អាចនៅជិត។ ដំណាក់កាលមួយនៃការលូតលាស់របស់អ្នក អាចកំពុងបញ្ចប់។"
+      },
+      "challenge": {
+        "en": "Not finishing what you started could be holding back your growth. Complete one important goal properly before you take on another.",
+        "km": "ការមិនបញ្ចប់អ្វីដែលអ្នកបានចាប់ផ្តើម អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមបញ្ចប់គោលដៅសំខាន់មួយឱ្យបានត្រឹមត្រូវ មុនពេលអ្នកទទួលយកគោលដៅមួយទៀត។"
+      },
+      "outcome": {
+        "en": "Completing what matters could bring a strong sense of wholeness. You may feel ready for a new and wider chapter.",
+        "km": "ការបញ្ចប់អ្វីដែលសំខាន់ អាចនាំមកនូវអារម្មណ៍ខ្លាំងនៃភាពពេញលេញ។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនសម្រាប់ជំពូកថ្មី និងទូលាយជាង។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Fresh enthusiasm for growth may be bubbling up. New ideas and goals could be giving you a burst of energy.",
+        "km": "ភាពរំភើបថ្មីចំពោះការលូតលាស់ អាចកំពុងពុះឡើង។ គំនិត និងគោលដៅថ្មីៗ អាចកំពុងផ្តល់ឱ្យអ្នកនូវថាមពលខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Letting that spark fade before acting could be slowing your growth. Turn your enthusiasm into one concrete step while the energy is there.",
+        "km": "ការទុកឱ្យផ្កាភ្លើងនោះរសាត់ មុនពេលធ្វើសកម្មភាព អាចកំពុងធ្វើឱ្យការលូតលាស់របស់អ្នកយឺត។ សូមប្រែក្លាយភាពរំភើបរបស់អ្នក ទៅជាជំហានជាក់ស្តែងមួយ ខណៈពេលថាមពលនៅមាន។"
+      },
+      "outcome": {
+        "en": "Acting on inspiration could launch a vibrant stage of growth. You may find momentum builds as each small step leads to the next.",
+        "km": "ការធ្វើសកម្មភាពតាមការបំផុសគំនិត អាចចាប់ផ្តើមដំណាក់កាលលូតលាស់ដ៏រស់រវើក។ អ្នកអាចឃើញសន្ទុះកើនឡើង នៅពេលជំហានតូចនីមួយៗនាំទៅរកជំហានមួយទៀត។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Big plans for your future may be on your mind. You could be weighing up a wider path without having committed to it.",
+        "km": "ផែនការធំៗសម្រាប់អនាគតរបស់អ្នក អាចកំពុងនៅក្នុងគំនិតរបស់អ្នក។ អ្នកអាចកំពុងថ្លឹងថ្លែងផ្លូវទូលាយជាង ដោយមិនទាន់បានប្តេជ្ញាចំពោះវា។"
+      },
+      "challenge": {
+        "en": "Planning without stepping out of your comfort zone could be keeping you where you are. Take one real step towards the horizon you are imagining.",
+        "km": "ការគ្រោងដោយមិនចេញពីតំបន់ស្រួលរបស់អ្នក អាចកំពុងរក្សាអ្នកនៅកន្លែងដែលអ្នកនៅ។ សូមបោះជំហានពិតមួយ ឆ្ពោះទៅរកជើងមេឃដែលអ្នកកំពុងស្រមៃ។"
+      },
+      "outcome": {
+        "en": "Stepping out could open a wider world for your growth. You may find opportunities that were invisible from where you stood.",
+        "km": "ការចេញដំណើរ អាចបើកពិភពលោកទូលាយជាងសម្រាប់ការលូតលាស់របស់អ្នក។ អ្នកអាចរកឃើញឱកាសដែលមើលមិនឃើញពីកន្លែងដែលអ្នកធ្លាប់ឈរ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Signs of progress may be appearing. Things you started could be beginning to show real promise.",
+        "km": "សញ្ញានៃការរីកចម្រើន អាចកំពុងលេចឡើង។ អ្វីដែលអ្នកបានចាប់ផ្តើម អាចកំពុងចាប់ផ្តើមបង្ហាញក្តីសង្ឃឹមពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Impatience for results could be what stops you short. Trust the process, and keep going even when growth is hard to see.",
+        "km": "ការមិនអត់ធ្មត់ចំពោះលទ្ធផល អាចជាអ្វីដែលបញ្ឈប់អ្នកពាក់កណ្តាលផ្លូវ។ សូមទុកចិត្តលើដំណើរការ ហើយបន្តទៅមុខ សូម្បីតែនៅពេលការលូតលាស់ពិបាកមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Steady patience could let your efforts expand into real growth. You may see opportunities widen as your foundations strengthen.",
+        "km": "ការអត់ធ្មត់ដោយនឹងនរ អាចអនុញ្ញាតឱ្យការខិតខំរបស់អ្នកពង្រីកទៅជាការលូតលាស់ពិតប្រាកដ។ អ្នកអាចឃើញឱកាសពង្រីក នៅពេលមូលដ្ឋានរបស់អ្នករឹងមាំ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A comfortable, settled stage may describe your life. You could be enjoying stability and the support of people around you.",
+        "km": "ដំណាក់កាលស្រួល និងស្ថិតស្ថេរ អាចពិពណ៌នាពីជីវិតរបស់អ្នក។ អ្នកអាចកំពុងរីករាយនឹងស្ថិរភាព និងការគាំទ្រពីមនុស្សនៅជុំវិញអ្នក។"
+      },
+      "challenge": {
+        "en": "Settling too comfortably could be stalling your growth. Celebrate what you have, then set one new challenge for yourself.",
+        "km": "ការស្ថិតស្ថេរយ៉ាងស្រួលពេក អាចកំពុងធ្វើឱ្យការលូតលាស់របស់អ្នកជាប់គាំង។ សូមអបអរអ្វីដែលអ្នកមាន រួចកំណត់ការប្រកួតថ្មីមួយសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Building on stability could bring joyful growth. You may find a solid base makes it easier to take bold steps.",
+        "km": "ការកសាងលើស្ថិរភាព អាចនាំមកនូវការលូតលាស់ដ៏រីករាយ។ អ្នកអាចឃើញថាមូលដ្ឋានរឹងមាំ ធ្វើឱ្យងាយស្រួលក្នុងការបោះជំហានក្លាហាន។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Competition or conflict may be around you. Rivalry or disagreement could be taking up your attention.",
+        "km": "ការប្រកួតប្រជែង ឬជម្លោះ អាចនៅជុំវិញអ្នក។ ការប្រជែងគ្នា ឬការមិនយល់ស្រប អាចកំពុងចំណាយការយកចិត្តទុកដាក់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Getting caught up in pointless struggles could be draining energy meant for growth. Choose which battles are worth your time and step back from the rest.",
+        "km": "ការជាប់ក្នុងការតស៊ូគ្មានន័យ អាចកំពុងបង្ហូរថាមពលដែលបម្រុងសម្រាប់ការលូតលាស់។ សូមជ្រើសរើសថាការតស៊ូណាសមនឹងពេលវេលារបស់អ្នក ហើយដកខ្លួនពីការតស៊ូផ្សេងទៀត។"
+      },
+      "outcome": {
+        "en": "Redirecting your energy could turn conflict into fuel for growth. You may find healthy challenge sharpens you rather than wears you down.",
+        "km": "ការដឹកនាំថាមពលរបស់អ្នកឡើងវិញ អាចប្រែជម្លោះទៅជាឥន្ធនៈសម្រាប់ការលូតលាស់។ អ្នកអាចឃើញថាការប្រកួតដែលមានសុខភាពល្អ ធ្វើឱ្យអ្នកមុតស្រួច ជាជាងធ្វើឱ្យអ្នកអស់កម្លាំង។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Recognition or success may have come your way. You could be enjoying praise for something you have done well.",
+        "km": "ការទទួលស្គាល់ ឬភាពជោគជ័យ អាចបានមករកអ្នក។ អ្នកអាចកំពុងរីករាយនឹងការសរសើរ ចំពោះអ្វីមួយដែលអ្នកបានធ្វើបានល្អ។"
+      },
+      "challenge": {
+        "en": "Resting on success could be keeping you from growing further. Use your confidence to tackle something new and harder.",
+        "km": "ការសម្រាកលើភាពជោគជ័យ អាចកំពុងរារាំងអ្នកពីការលូតលាស់បន្ថែម។ សូមប្រើទំនុកចិត្តរបស់អ្នក ដើម្បីដោះស្រាយអ្វីមួយថ្មី និងពិបាកជាង។"
+      },
+      "outcome": {
+        "en": "Building on success could lead to even greater achievement. You may find recognition grows as you keep stretching yourself.",
+        "km": "ការកសាងលើភាពជោគជ័យ អាចនាំទៅរកសមិទ្ធផលធំជាងនេះទៀត។ អ្នកអាចឃើញការទទួលស្គាល់កើនឡើង នៅពេលអ្នកបន្តពង្រីកខ្លួនឯង។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may be defending your position or beliefs. Standing your ground could be taking a lot of energy.",
+        "km": "អ្នកអាចកំពុងការពារជំហរ ឬជំនឿរបស់អ្នក។ ការឈររឹងមាំ អាចកំពុងចំណាយថាមពលច្រើន។"
+      },
+      "challenge": {
+        "en": "Being too defensive could keep you from learning from others. Stay open to feedback, even while you hold firm on what matters.",
+        "km": "ការការពារខ្លួនខ្លាំងពេក អាចរារាំងអ្នកពីការរៀនពីអ្នកដទៃ។ សូមរក្សាការបើកចិត្តចំពោះមតិយោបល់ ទោះបីអ្នកឈររឹងមាំលើអ្វីដែលសំខាន់ក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Balancing firmness with openness could let you grow without losing yourself. You may find strength and humility work well together.",
+        "km": "ការថ្លឹងភាពរឹងមាំជាមួយការបើកចិត្ត អាចអនុញ្ញាតឱ្យអ្នកលូតលាស់ដោយមិនបាត់បង់ខ្លួនឯង។ អ្នកអាចឃើញថាកម្លាំង និងភាពរាបទាប ដំណើរការល្អជាមួយគ្នា។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Events may be moving briskly around you. Demands and openings could be arriving one after another, leaving little room to breathe.",
+        "km": "ព្រឹត្តិការណ៍ អាចកំពុងផ្លាស់ទីយ៉ាងរស់រវើកនៅជុំវិញអ្នក។ តម្រូវការ និងឱកាស អាចកំពុងមកដល់មួយបន្ទាប់ពីមួយ ដោយទុកលំហតិចតួចសម្រាប់ដកដង្ហើម។"
+      },
+      "challenge": {
+        "en": "Rushing from one thing to another could leave little room for real growth. Pause to reflect on what you are learning along the way.",
+        "km": "ការប្រញាប់ពីរឿងមួយទៅរឿងមួយទៀត អាចទុកលំហតិចតួចសម្រាប់ការលូតលាស់ពិតប្រាកដ។ សូមផ្អាកដើម្បីឆ្លុះបញ្ចាំងពីអ្វីដែលអ្នកកំពុងរៀនតាមផ្លូវ។"
+      },
+      "outcome": {
+        "en": "Slowing down enough to absorb could turn activity into growth. You may notice how much you have learned when you take stock.",
+        "km": "ការបន្ថយល្បឿនគ្រប់គ្រាន់ដើម្បីស្រូបយក អាចប្រែក្លាយសកម្មភាពទៅជាការលូតលាស់។ អ្នកអាចកត់សម្គាល់ថាអ្នកបានរៀនប៉ុណ្ណា នៅពេលអ្នកពិនិត្យមើល។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Weariness from hard struggles may be with you. You could be guarded and cautious after setbacks, expecting another blow.",
+        "km": "ភាពនឿយហត់ពីការតស៊ូលំបាក អាចនៅជាមួយអ្នក។ អ្នកអាចប្រុងប្រយ័ត្ន និងការពារខ្លួន ក្រោយឧបសគ្គ ដោយរំពឹងការវាយប្រហារមួយទៀត។"
+      },
+      "challenge": {
+        "en": "Expecting more setbacks could be keeping you from trying again. Rest, recover, and then take one hopeful step forward.",
+        "km": "ការរំពឹងឧបសគ្គបន្ថែម អាចកំពុងរារាំងអ្នកពីការព្យាយាមម្តងទៀត។ សូមសម្រាក ស្តារឡើងវិញ ហើយបោះជំហានដ៏មានក្តីសង្ឃឹមមួយទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Rest and renewed courage could carry you past this hurdle. You may find your resilience is stronger than you thought.",
+        "km": "ការសម្រាក និងភាពក្លាហានថ្មី អាចនាំអ្នកឆ្លងកាត់ឧបសគ្គនេះ។ អ្នកអាចឃើញថាភាពធន់របស់អ្នករឹងមាំជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Heavy responsibilities may be weighing on you. You could be carrying more than your fair share.",
+        "km": "ទំនួលខុសត្រូវធ្ងន់ អាចកំពុងសង្កត់លើអ្នក។ អ្នកអាចកំពុងលីច្រើនជាងចំណែកសមរម្យរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Overload could be leaving no energy for your own growth. Let go of or share one burden to make room for learning.",
+        "km": "ការលើសបន្ទុក អាចមិនទុកថាមពលសម្រាប់ការលូតលាស់របស់អ្នកផ្ទាល់។ សូមលែង ឬចែករំលែកបន្ទុកមួយ ដើម្បីបង្កើតលំហសម្រាប់ការរៀន។"
+      },
+      "outcome": {
+        "en": "Lightening your load could free you to grow again. You may find new energy once some weight is lifted.",
+        "km": "ការបន្ធូរបន្ទុករបស់អ្នក អាចដោះលែងអ្នកឱ្យលូតលាស់ម្តងទៀត។ អ្នកអាចរកឃើញថាមពលថ្មី នៅពេលទម្ងន់ខ្លះត្រូវបានលើកចេញ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity and eagerness may be strong in you. You could be excited by many new things, all pulling your attention.",
+        "km": "ការចង់ដឹងចង់ឃើញ និងភាពចង់រៀន អាចខ្លាំងក្នុងខ្លួនអ្នក។ អ្នកអាចរំភើបនឹងរឿងថ្មីៗជាច្រើន ដែលសុទ្ធតែទាញការយកចិត្តទុកដាក់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Chasing too many interests could be keeping you from going deep. Choose one passion and give it steady, sustained attention.",
+        "km": "ការដេញតាមចំណាប់អារម្មណ៍ច្រើនពេក អាចកំពុងរារាំងអ្នកពីការចូលជ្រៅ។ សូមជ្រើសរើសចំណង់ចំណូលចិត្តមួយ ហើយផ្តល់ការយកចិត្តទុកដាក់នឹងនរ និងជាប់លាប់ដល់វា។"
+      },
+      "outcome": {
+        "en": "Focused curiosity could bring deeper, more satisfying growth. You may discover real mastery in one area you love.",
+        "km": "ការចង់ដឹងដែលផ្តោត អាចនាំមកនូវការលូតលាស់ជ្រៅ និងពេញចិត្តជាង។ អ្នកអាចរកឃើញភាពស្ទាត់ជំនាញពិតប្រាកដ ក្នុងផ្នែកមួយដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold energy may be driving you forward. You could be eager to make big changes all in one go.",
+        "km": "ថាមពលក្លាហាន អាចកំពុងជំរុញអ្នកទៅមុខ។ អ្នកអាចចង់ធ្វើការផ្លាស់ប្តូរធំៗក្នុងពេលតែមួយ។"
+      },
+      "challenge": {
+        "en": "Rushing ahead without a plan could be undermining your growth. Channel your energy into steady, well-aimed effort you can sustain.",
+        "km": "ការប្រញាប់ទៅមុខដោយគ្មានផែនការ អាចកំពុងបំផ្លាញការលូតលាស់របស់អ្នក។ សូមដឹកនាំថាមពលរបស់អ្នកទៅកាន់ការខិតខំនឹងនរ និងមានគោលដៅល្អ ដែលអ្នកអាចរក្សាបាន។"
+      },
+      "outcome": {
+        "en": "Directed energy could bring exciting progress. You may achieve more by pacing yourself wisely and choosing your moments.",
+        "km": "ថាមពលដែលមានទិសដៅ អាចនាំមកនូវការរីកចម្រើនគួរឱ្យរំភើប។ អ្នកអាចសម្រេចបានច្រើនជាង ដោយការគ្រប់គ្រងល្បឿនខ្លួនឯងដោយប្រាជ្ញា និងការជ្រើសរើសឱកាស។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Confidence and warmth may be your strengths. You could be well liked and comfortable in the spotlight.",
+        "km": "ទំនុកចិត្ត និងភាពកក់ក្តៅ អាចជាចំណុចខ្លាំងរបស់អ្នក។ អ្នកអាចត្រូវបានគេចូលចិត្ត និងស្រួលនៅកណ្តាលចំណាប់អារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Relying on charm rather than effort could be limiting your growth. Back up your confidence with steady work on your skills.",
+        "km": "ការពឹងលើភាពទាក់ទាញ ជាជាងការខិតខំ អាចកំពុងកំណត់ការលូតលាស់របស់អ្នក។ សូមគាំទ្រទំនុកចិត្តរបស់អ្នក ដោយការងារនឹងនរលើជំនាញរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Pairing confidence with effort could bring impressive growth. You may inspire others through the example you quietly set.",
+        "km": "ការផ្គូផ្គងទំនុកចិត្តជាមួយការខិតខំ អាចនាំមកនូវការលូតលាស់គួរឱ្យចាប់អារម្មណ៍។ អ្នកអាចបំផុសគំនិតអ្នកដទៃ តាមរយៈគំរូដែលអ្នកបង្ហាញដោយស្ងាត់ៗ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Leadership and vision may be among your strengths. You could be used to directing yourself and others.",
+        "km": "ការដឹកនាំ និងចក្ខុវិស័យ អាចស្ថិតក្នុងចំណោមចំណុចខ្លាំងរបស់អ្នក។ អ្នកអាចធ្លាប់ដឹកនាំខ្លួនឯង និងអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Assuming you have all the answers could be blocking your growth. Stay open to learning from people with different experience.",
+        "km": "ការសន្មតថាអ្នកមានចម្លើយទាំងអស់ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមរក្សាការបើកចិត្តក្នុងការរៀនពីមនុស្សដែលមានបទពិសោធន៍ខុសគ្នា។"
+      },
+      "outcome": {
+        "en": "Humble leadership could bring growth for you and those you guide. You may find that learning from others strengthens your vision.",
+        "km": "ការដឹកនាំដោយរាបទាប អាចនាំមកនូវការលូតលាស់សម្រាប់អ្នក និងអ្នកដែលអ្នកណែនាំ។ អ្នកអាចឃើញថាការរៀនពីអ្នកដទៃ ពង្រឹងចក្ខុវិស័យរបស់អ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "An open heart and new feelings may be stirring in you. You could be emotionally ready for growth without having named it.",
+        "km": "ចិត្តបើកចំហ និងអារម្មណ៍ថ្មីៗ អាចកំពុងកើតឡើងក្នុងខ្លួនអ្នក។ អ្នកអាចត្រៀមខ្លួនផ្លូវអារម្មណ៍សម្រាប់ការលូតលាស់ ដោយមិនទាន់ដាក់ឈ្មោះវា។"
+      },
+      "challenge": {
+        "en": "Holding back your feelings could be keeping your growth shallow. Let yourself care deeply about what you learn, even if it makes you vulnerable.",
+        "km": "ការទប់អារម្មណ៍របស់អ្នក អាចកំពុងធ្វើឱ្យការលូតលាស់របស់អ្នករាក់។ សូមអនុញ្ញាតឱ្យខ្លួនឯងយកចិត្តទុកដាក់យ៉ាងជ្រៅចំពោះអ្វីដែលអ្នករៀន ទោះបីវាធ្វើឱ្យអ្នកងាយរងគ្រោះក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Letting your heart lead could bring richer, more meaningful growth. You may find that emotional openness fuels learning in surprising ways.",
+        "km": "ការអនុញ្ញាតឱ្យចិត្តរបស់អ្នកដឹកនាំ អាចនាំមកនូវការលូតលាស់សម្បូរ និងមានអត្ថន័យជាង។ អ្នកអាចឃើញថាការបើកចិត្តផ្លូវអារម្មណ៍ ផ្តល់កម្លាំងដល់ការរៀនតាមរបៀបគួរឱ្យភ្ញាក់ផ្អើល។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A close relationship may be shaping your growth. Someone near you could be a strong influence on your choices.",
+        "km": "ទំនាក់ទំនងជិតស្និទ្ធមួយ អាចកំពុងបង្កើតការលូតលាស់របស់អ្នក។ នរណាម្នាក់នៅជិតអ្នក អាចជាឥទ្ធិពលខ្លាំងលើជម្រើសរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Depending too much on one person's approval could be limiting your growth. Make sure your path reflects your own goals as well as theirs.",
+        "km": "ការពឹងផ្អែកលើការយល់ព្រមរបស់មនុស្សម្នាក់ច្រើនពេក អាចកំពុងកំណត់ការលូតលាស់របស់អ្នក។ សូមធ្វើឱ្យប្រាកដថាផ្លូវរបស់អ្នក ឆ្លុះបញ្ចាំងពីគោលដៅរបស់អ្នកផ្ទាល់ ក៏ដូចជារបស់ពួកគេដែរ។"
+      },
+      "outcome": {
+        "en": "Growing alongside someone, not through them, could bring balanced progress. You may find mutual support helps both of you flourish.",
+        "km": "ការលូតលាស់ជាមួយនរណាម្នាក់ មិនមែនតាមរយៈពួកគេ អាចនាំមកនូវការរីកចម្រើនដែលមានតុល្យភាព។ អ្នកអាចឃើញថាការគាំទ្រគ្នាទៅវិញទៅមក ជួយអ្នកទាំងពីររីកចម្រើន។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A lively social life may be part of your world. Friends and fun could be filling a lot of your energy and attention.",
+        "km": "ជីវិតសង្គមដ៏រស់រវើក អាចជាផ្នែកមួយនៃពិភពលោករបស់អ្នក។ មិត្តភក្តិ និងភាពសប្បាយ អាចកំពុងបំពេញថាមពល និងការយកចិត្តទុកដាក់របស់អ្នកច្រើន។"
+      },
+      "challenge": {
+        "en": "Too much socialising could be crowding out space for growth. Keep your friendships, but protect some quiet time for learning.",
+        "km": "ការជួបជុំសង្គមច្រើនពេក អាចកំពុងច្រានលំហសម្រាប់ការលូតលាស់ចេញ។ សូមរក្សាមិត្តភាពរបស់អ្នក ប៉ុន្តែការពារពេលស្ងាត់ខ្លះសម្រាប់ការរៀន។"
+      },
+      "outcome": {
+        "en": "Balancing friendship and focus could bring joyful, shared growth. You may find friends who support your goals as well as your fun.",
+        "km": "ការថ្លឹងមិត្តភាព និងការផ្តោត អាចនាំមកនូវការលូតលាស់រួមគ្នាដ៏រីករាយ។ អ្នកអាចរកឃើញមិត្តភក្តិដែលគាំទ្រគោលដៅរបស់អ្នក ក៏ដូចជាភាពសប្បាយរបស់អ្នកដែរ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Boredom or apathy may be settling in. Nothing could feel very exciting, and motivation may be low.",
+        "km": "ភាពធុញទ្រាន់ ឬភាពព្រងើយកន្តើយ អាចកំពុងចូលមក។ គ្មានអ្វីអាចមានអារម្មណ៍គួរឱ្យរំភើបខ្លាំង ហើយកម្លាំងចិត្តអាចទាប។"
+      },
+      "challenge": {
+        "en": "Ignoring opportunities out of disinterest could be keeping you stuck. Look again at what is being offered, and say yes to one thing.",
+        "km": "ការមិនអើពើនឹងឱកាសដោយសារគ្មានចំណាប់អារម្មណ៍ អាចកំពុងធ្វើឱ្យអ្នកជាប់គាំង។ សូមមើលម្តងទៀតពីអ្វីដែលកំពុងត្រូវបានផ្តល់ជូន ហើយយល់ព្រមចំពោះរឿងមួយ។"
+      },
+      "outcome": {
+        "en": "Accepting a fresh offer could reignite your desire to grow. You may find a new interest waiting just beyond your boredom.",
+        "km": "ការទទួលយកការផ្តល់ជូនថ្មី អាចដុតឡើងវិញនូវបំណងចង់លូតលាស់របស់អ្នក។ អ្នកអាចរកឃើញចំណាប់អារម្មណ៍ថ្មី ដែលកំពុងរង់ចាំហួសពីភាពធុញទ្រាន់របស់អ្នក។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Regret over what did not work out may be weighing on you. That setback could be making you hesitant to try again.",
+        "km": "ការសោកស្តាយចំពោះអ្វីដែលមិនបានសម្រេច អាចកំពុងសង្កត់លើអ្នក។ ឧបសគ្គនោះ អាចកំពុងធ្វើឱ្យអ្នកស្ទាក់ស្ទើរក្នុងការព្យាយាមម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Dwelling on what went wrong could be blocking your growth. Acknowledge the loss, then turn towards what you still have and can build on.",
+        "km": "ការគិតច្រើនពីអ្វីដែលខុស អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមទទួលស្គាល់ការបាត់បង់ រួចបែរទៅរកអ្វីដែលអ្នកនៅតែមាន និងអាចកសាងបន្ត។"
+      },
+      "outcome": {
+        "en": "Turning towards what remains could bring renewed hope and growth. You may find lessons in disappointment that guide your next steps.",
+        "km": "ការបែរទៅរកអ្វីដែលនៅសល់ អាចនាំមកនូវក្តីសង្ឃឹម និងការលូតលាស់ថ្មី។ អ្នកអាចរកឃើញមេរៀនក្នុងការខកចិត្ត ដែលដឹកនាំជំហានរបស់អ្នក។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Comfort in the familiar may be a strong pull. You could find yourself returning to old patterns and memories.",
+        "km": "ភាពស្រួលក្នុងអ្វីដែលធ្លាប់ស្គាល់ អាចជាការទាញខ្លាំង។ អ្នកអាចឃើញខ្លួនឯងត្រឡប់ទៅរកលំនាំ និងអនុស្សាវរីយ៍ចាស់ៗ។"
+      },
+      "challenge": {
+        "en": "Living in old memories could be keeping you from growing. Honour your history, but take one step into something new.",
+        "km": "ការរស់នៅក្នុងអនុស្សាវរីយ៍ចាស់ អាចកំពុងរារាំងអ្នកពីការលូតលាស់។ សូមគោរពប្រវត្តិរបស់អ្នក ប៉ុន្តែបោះជំហានមួយចូលទៅក្នុងអ្វីមួយថ្មី។"
+      },
+      "outcome": {
+        "en": "Bringing old strengths into new places could bring gentle growth. You may find that what you loved as a child still has something to teach you.",
+        "km": "ការនាំចំណុចខ្លាំងចាស់ៗទៅកន្លែងថ្មី អាចនាំមកនូវការលូតលាស់ទន់ភ្លន់។ អ្នកអាចឃើញថាអ្វីដែលអ្នកស្រឡាញ់កាលនៅក្មេង នៅតែមានអ្វីមួយដើម្បីបង្រៀនអ្នក។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Many dreams and options may be filling your mind. You could be imagining lots of possibilities without settling on one.",
+        "km": "ក្តីស្រមៃ និងជម្រើសជាច្រើន អាចកំពុងបំពេញគំនិតរបស់អ្នក។ អ្នកអាចកំពុងស្រមៃពីលទ្ធភាពជាច្រើន ដោយមិនសម្រេចលើមួយណា។"
+      },
+      "challenge": {
+        "en": "Endless daydreaming could be standing between you and real growth. Choose one option and test it in the real world.",
+        "km": "ការស្រមៃឥតឈប់ អាចកំពុងឈររវាងអ្នក និងការលូតលាស់ពិតប្រាកដ។ សូមជ្រើសរើសជម្រើសមួយ ហើយសាកល្បងវាក្នុងពិភពពិត។"
+      },
+      "outcome": {
+        "en": "Turning one dream into action could bring tangible growth. You may find clarity comes from doing rather than imagining.",
+        "km": "ការប្រែក្លាយក្តីស្រមៃមួយទៅជាសកម្មភាព អាចនាំមកនូវការលូតលាស់ជាក់ស្តែង។ អ្នកអាចឃើញថាភាពច្បាស់លាស់មកពីការធ្វើ ជាជាងការស្រមៃ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "A sense that something is missing may be growing. You could be ready to leave behind what no longer satisfies you.",
+        "km": "អារម្មណ៍ថាមានអ្វីមួយបាត់ អាចកំពុងកើនឡើង។ អ្នកអាចត្រៀមខ្លួនទុកចោលអ្វីដែលលែងបំពេញចិត្តអ្នក។"
+      },
+      "challenge": {
+        "en": "Staying where you feel empty out of fear could be holding you back. Trust your sense that you need more, and take a step towards it.",
+        "km": "ការនៅកន្លែងដែលអ្នកមានអារម្មណ៍ទទេដោយសារការភ័យខ្លាច អាចកំពុងរារាំងអ្នក។ សូមទុកចិត្តលើអារម្មណ៍របស់អ្នកថាអ្នកត្រូវការច្រើនជាងនេះ ហើយបោះជំហានឆ្ពោះទៅរកវា។"
+      },
+      "outcome": {
+        "en": "Following your need for meaning could bring deeper growth. You may find what you were looking for once you dare to move on.",
+        "km": "ការធ្វើតាមតម្រូវការអត្ថន័យរបស់អ្នក អាចនាំមកនូវការលូតលាស់ជ្រៅជាង។ អ្នកអាចរកឃើញអ្វីដែលអ្នកកំពុងស្វែងរក នៅពេលអ្នកហ៊ានបន្តទៅមុខ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Contentment and satisfaction may be strong. Life could feel good, and you may feel you have enough.",
+        "km": "ភាពពេញចិត្ត និងការពេញចិត្ត អាចខ្លាំង។ ជីវិតអាចមានអារម្មណ៍ល្អ ហើយអ្នកអាចមានអារម្មណ៍ថាអ្នកមានគ្រប់គ្រាន់។"
+      },
+      "challenge": {
+        "en": "Complacency could be quietly stalling your growth. Enjoy what you have, and still set one goal that stretches you a little.",
+        "km": "ការពេញចិត្តហួសហេតុ អាចកំពុងធ្វើឱ្យការលូតលាស់របស់អ្នកជាប់គាំងដោយស្ងាត់ៗ។ សូមរីករាយនឹងអ្វីដែលអ្នកមាន ហើយនៅតែកំណត់គោលដៅមួយដែលពង្រីកអ្នកបន្តិច។"
+      },
+      "outcome": {
+        "en": "Combining contentment with curiosity could bring fulfilling growth. You may find there is joy in reaching a little further.",
+        "km": "ការរួមបញ្ចូលភាពពេញចិត្តជាមួយការចង់ដឹង អាចនាំមកនូវការលូតលាស់ដែលបំពេញចិត្ត។ អ្នកអាចឃើញថាមានសេចក្តីរីករាយក្នុងការលាតដៃទៅឆ្ងាយបន្តិចទៀត។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Family and home may be at the centre of your life. You could be focused on caring for people you love.",
+        "km": "គ្រួសារ និងផ្ទះ អាចស្ថិតនៅចំណុចកណ្តាលនៃជីវិតរបស់អ្នក។ អ្នកអាចកំពុងផ្តោតលើការថែទាំមនុស្សដែលអ្នកស្រឡាញ់។"
+      },
+      "challenge": {
+        "en": "Putting everyone else's needs first could be leaving no room for your own growth. Claim a little space for yourself, without guilt, and protect it.",
+        "km": "ការដាក់តម្រូវការរបស់អ្នកផ្សេងទាំងអស់មុន អាចកំពុងមិនទុកលំហសម្រាប់ការលូតលាស់របស់អ្នក។ សូមទាមទារលំហតិចតួចសម្រាប់ខ្លួនឯង ដោយគ្មានអារម្មណ៍មានកំហុស ហើយការពារវា។"
+      },
+      "outcome": {
+        "en": "Making room for yourself could bring growth that benefits everyone. You may find your family supports your goals more than you expected.",
+        "km": "ការបង្កើតលំហសម្រាប់ខ្លួនឯង អាចនាំមកនូវការលូតលាស់ដែលផ្តល់ប្រយោជន៍ដល់មនុស្សគ្រប់គ្នា។ អ្នកអាចឃើញថាគ្រួសាររបស់អ្នកគាំទ្រគោលដៅរបស់អ្នក ច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Gentle creativity and sensitivity may be part of who you are. You could have imaginative ideas that you rarely share with anyone.",
+        "km": "ការច្នៃប្រឌិតទន់ភ្លន់ និងភាពរសើប អាចជាផ្នែកមួយនៃអ្នកជានរណា។ អ្នកអាចមានគំនិតប្រកបដោយការស្រមៃ ដែលអ្នកកម្រចែករំលែកជាមួយនរណាម្នាក់។"
+      },
+      "challenge": {
+        "en": "Hiding your sensitive or creative side could be limiting your growth. Let your imagination show, even if it feels risky.",
+        "km": "ការលាក់ផ្នែករសើប ឬច្នៃប្រឌិតរបស់អ្នក អាចកំពុងកំណត់ការលូតលាស់របស់អ្នក។ សូមអនុញ្ញាតឱ្យការស្រមៃរបស់អ្នកបង្ហាញ ទោះបីវាមានអារម្មណ៍ប្រថុយក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Sharing your creativity could open new paths of growth. You may find others value the very qualities you were hiding.",
+        "km": "ការចែករំលែកការច្នៃប្រឌិតរបស់អ្នក អាចបើកផ្លូវថ្មីនៃការលូតលាស់។ អ្នកអាចឃើញថាអ្នកដទៃឱ្យតម្លៃលើគុណសម្បត្តិដែលអ្នកបានលាក់។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Romantic ideals and passion may be guiding you. You could be drawn to dreams that feel beautiful but distant.",
+        "km": "ឧត្តមគតិមនោសញ្ចេតនា និងចំណង់ចំណូលចិត្ត អាចកំពុងដឹកនាំអ្នក។ អ្នកអាចត្រូវបានទាញទៅរកក្តីស្រមៃដែលមានអារម្មណ៍ស្រស់ស្អាត ប៉ុន្តែឆ្ងាយ។"
+      },
+      "challenge": {
+        "en": "Waiting for inspiration instead of acting could be holding back your growth. Pair your passion with practical, steady steps you can keep up.",
+        "km": "ការរង់ចាំការបំផុសគំនិត ជំនួសឱ្យការធ្វើសកម្មភាព អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមផ្គូផ្គងចំណង់ចំណូលចិត្តរបស់អ្នក ជាមួយជំហានជាក់ស្តែង និងនឹងនរដែលអ្នកអាចរក្សាបាន។"
+      },
+      "outcome": {
+        "en": "Grounding your dreams could bring inspiring, real growth. You may see your ideals take shape in the world.",
+        "km": "ការធ្វើឱ្យក្តីស្រមៃរបស់អ្នកនឹងធឹង អាចនាំមកនូវការលូតលាស់ពិតប្រាកដ និងបំផុសគំនិត។ អ្នកអាចឃើញឧត្តមគតិរបស់អ្នកមានរូបរាងក្នុងពិភពលោក។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Deep empathy and care for others may define you. You could be giving a lot of emotional energy away.",
+        "km": "ការយល់ចិត្តជ្រៅ និងការយកចិត្តទុកដាក់ចំពោះអ្នកដទៃ អាចកំណត់អ្នក។ អ្នកអាចកំពុងផ្តល់ថាមពលផ្លូវអារម្មណ៍ច្រើនទៅអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Absorbing others' problems could be draining energy meant for your growth. Set gentle boundaries so you can care without losing yourself.",
+        "km": "ការស្រូបយកបញ្ហារបស់អ្នកដទៃ អាចកំពុងបង្ហូរថាមពលដែលបម្រុងសម្រាប់ការលូតលាស់របស់អ្នក។ សូមកំណត់ព្រំដែនទន់ភ្លន់ ដើម្បីឱ្យអ្នកអាចថែទាំដោយមិនបាត់បង់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Caring for yourself as well as others could bring balanced growth. You may find more energy and wisdom to share.",
+        "km": "ការថែទាំខ្លួនឯង ក៏ដូចជាអ្នកដទៃ អាចនាំមកនូវការលូតលាស់ដែលមានតុល្យភាព។ អ្នកអាចរកឃើញថាមពល និងប្រាជ្ញាកាន់តែច្រើនដើម្បីចែករំលែក។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm and emotional control may be your strengths. You could be steady and composed in most situations.",
+        "km": "ភាពស្ងប់ និងការគ្រប់គ្រងអារម្មណ៍ អាចជាចំណុចខ្លាំងរបស់អ្នក។ អ្នកអាចនឹងនរ និងស្ងប់ក្នុងស្ថានភាពភាគច្រើន។"
+      },
+      "challenge": {
+        "en": "Never letting your feelings show could be keeping your growth on the surface. Let others see what moves you, and notice what you learn from it.",
+        "km": "ការមិនដែលបង្ហាញអារម្មណ៍របស់អ្នក អាចកំពុងរក្សាការលូតលាស់របស់អ្នកនៅលើផ្ទៃ។ សូមឱ្យអ្នកដទៃឃើញអ្វីដែលរំជួលចិត្តអ្នក ហើយកត់សម្គាល់អ្វីដែលអ្នករៀនពីវា។"
+      },
+      "outcome": {
+        "en": "Balancing calm with openness could bring mature, heartfelt growth. You may connect more deeply with yourself and others.",
+        "km": "ការថ្លឹងភាពស្ងប់ជាមួយការបើកចិត្ត អាចនាំមកនូវការលូតលាស់ចាស់ទុំ និងចេញពីចិត្ត។ អ្នកអាចភ្ជាប់ទំនាក់ទំនងកាន់តែជ្រៅជាមួយខ្លួនឯង និងអ្នកដទៃ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A sharp mind and clear thinking may be among your gifts. You could spot problems readily and have strong views about solutions.",
+        "km": "គំនិតមុតស្រួច និងការគិតច្បាស់ អាចស្ថិតក្នុងចំណោមអំណោយរបស់អ្នក។ អ្នកអាចមើលឃើញបញ្ហាយ៉ាងងាយ ហើយមានទស្សនៈខ្លាំងអំពីដំណោះស្រាយ។"
+      },
+      "challenge": {
+        "en": "Overthinking instead of acting could be stalling your growth. Turn one clear insight into action, rather than analysing it further.",
+        "km": "ការគិតច្រើនពេក ជំនួសឱ្យការធ្វើសកម្មភាព អាចកំពុងធ្វើឱ្យការលូតលាស់របស់អ្នកជាប់គាំង។ សូមប្រែក្លាយការយល់ដឹងច្បាស់មួយទៅជាសកម្មភាព ជាជាងវិភាគវាបន្ថែម។"
+      },
+      "outcome": {
+        "en": "Acting on your clarity could cut through what has held you back. You may make a breakthrough that surprises you with its simplicity.",
+        "km": "ការធ្វើសកម្មភាពតាមភាពច្បាស់លាស់របស់អ្នក អាចកាត់ផ្តាច់អ្វីដែលបានរារាំងអ្នក។ អ្នកអាចធ្វើការទម្លុះមួយ ដែលធ្វើឱ្យអ្នកភ្ញាក់ផ្អើលដោយភាពសាមញ្ញរបស់វា។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "A difficult decision may be hanging over you. You could be avoiding it, hoping it will resolve itself.",
+        "km": "ការសម្រេចចិត្តដ៏លំបាកមួយ អាចកំពុងព្យួរលើអ្នក។ អ្នកអាចកំពុងជៀសវាងវា ដោយសង្ឃឹមថាវានឹងដោះស្រាយដោយខ្លួនវា។"
+      },
+      "challenge": {
+        "en": "Refusing to face a choice could be keeping your growth frozen. Look honestly at your options, and decide even if it feels uncomfortable.",
+        "km": "ការបដិសេធមិនប្រឈមនឹងជម្រើស អាចកំពុងធ្វើឱ្យការលូតលាស់របស់អ្នកកក។ សូមមើលជម្រើសរបស់អ្នកដោយស្មោះត្រង់ ហើយសម្រេចចិត្ត ទោះបីវាមានអារម្មណ៍មិនស្រួលក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Making the decision could release energy for growth. You may feel relief and a renewed sense of direction.",
+        "km": "ការធ្វើការសម្រេចចិត្ត អាចដោះលែងថាមពលសម្រាប់ការលូតលាស់។ អ្នកអាចមានអារម្មណ៍ធូរស្រាល និងអារម្មណ៍ថ្មីនៃទិសដៅ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Hurt or heartbreak may still be affecting you. A painful experience could be weighing on your confidence.",
+        "km": "ការឈឺចាប់ ឬការខូចចិត្ត អាចនៅតែប៉ះពាល់អ្នក។ បទពិសោធន៍ដ៏ឈឺចាប់មួយ អាចកំពុងសង្កត់លើទំនុកចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Unhealed pain could be holding back your growth. Give yourself time to grieve, and talk to someone you trust or a counsellor if it feels heavy.",
+        "km": "ការឈឺចាប់ដែលមិនទាន់ជាសះស្បើយ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមផ្តល់លំហដល់ខ្លួនឯងដើម្បីកាន់ទុក្ខ ហើយនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ឬអ្នកប្រឹក្សា ប្រសិនបើវាធ្ងន់។"
+      },
+      "outcome": {
+        "en": "Healing could free you to grow with greater wisdom. You may find that what hurt you also taught you something valuable.",
+        "km": "ការជាសះស្បើយ អាចដោះលែងអ្នកឱ្យលូតលាស់ដោយប្រាជ្ញាកាន់តែច្រើន។ អ្នកអាចឃើញថាអ្វីដែលធ្វើឱ្យអ្នកឈឺចាប់ ក៏បានបង្រៀនអ្នកនូវអ្វីមួយដែលមានតម្លៃ។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Exhaustion or a need for rest may be present. You could be running low on the energy that growth requires.",
+        "km": "ការអស់កម្លាំង ឬតម្រូវការសម្រាក អាចមាន។ អ្នកអាចកំពុងខ្វះថាមពលដែលការលូតលាស់ត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Pushing on without rest could be blocking your growth. Take a proper break so your mind and body can recover.",
+        "km": "ការរុញទៅមុខដោយគ្មានការសម្រាក អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមសម្រាកឱ្យបានត្រឹមត្រូវ ដើម្បីឱ្យគំនិត និងរាងកាយរបស់អ្នកអាចស្តារឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Rest could restore the energy you need to grow. You may return to your goals with fresh clarity.",
+        "km": "ការសម្រាក អាចស្តារថាមពលដែលអ្នកត្រូវការដើម្បីលូតលាស់។ អ្នកអាចត្រឡប់ទៅរកគោលដៅរបស់អ្នកវិញ ដោយភាពច្បាស់លាស់ថ្មី។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Conflict or a sense of defeat may be in the air. A disagreement could have left you feeling bruised and less sure of yourself.",
+        "km": "ជម្លោះ ឬអារម្មណ៍នៃការចាញ់ អាចកំពុងមាននៅជុំវិញ។ ការមិនយល់ស្របមួយ អាចបានធ្វើឱ្យអ្នកមានអារម្មណ៍រងរបួស និងមិនសូវប្រាកដលើខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Needing to win every argument could be holding back your growth. Let go of battles that do not help you learn or move forward.",
+        "km": "ការចង់ឈ្នះរាល់ការប្រកែក អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមលែងប្រកាន់ការតស៊ូដែលមិនជួយអ្នករៀន ឬទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Choosing peace over victory could free energy for real growth. You may find that walking away is sometimes the wiser step.",
+        "km": "ការជ្រើសរើសសន្តិភាពជាជាងជ័យជម្នះ អាចដោះលែងថាមពលសម្រាប់ការលូតលាស់ពិតប្រាកដ។ អ្នកអាចឃើញថាការដើរចេញ ជួនកាលជាជំហានឈ្លាសវៃជាង។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "A transition away from difficulty may be under way. You could be moving towards calmer circumstances, slowly finding your feet.",
+        "km": "ការផ្លាស់ប្តូរចេញពីការលំបាក អាចកំពុងកើតឡើង។ អ្នកអាចកំពុងឆ្ពោះទៅរកកាលៈទេសៈដែលស្ងប់ជាង ដោយរកឃើញជំហររបស់អ្នកបន្តិចម្តងៗ។"
+      },
+      "challenge": {
+        "en": "Carrying old baggage into a new phase could slow your growth. Leave behind what no longer belongs to you, and travel light.",
+        "km": "ការយកបន្ទុកចាស់ចូលដំណាក់កាលថ្មី អាចធ្វើឱ្យការលូតលាស់របស់អ្នកយឺត។ សូមទុកអ្វីដែលលែងជារបស់អ្នកនៅពីក្រោយ ហើយធ្វើដំណើរស្រាល។"
+      },
+      "outcome": {
+        "en": "Moving on lightly could bring smoother, steadier growth. You may find new ground where you can flourish.",
+        "km": "ការបន្តទៅមុខដោយស្រាល អាចនាំមកនូវការលូតលាស់រលូន និងនឹងនរជាង។ អ្នកអាចរកឃើញដីថ្មីដែលអ្នកអាចរីកចម្រើន។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Clever strategies or shortcuts may appeal to you. You could be looking for ways to get ahead with less effort.",
+        "km": "យុទ្ធសាស្ត្រឆ្លាតវៃ ឬផ្លូវកាត់ អាចទាក់ទាញអ្នក។ អ្នកអាចកំពុងរកវិធីដើម្បីទៅមុខ ដោយការខិតខំតិចជាង។"
+      },
+      "challenge": {
+        "en": "Avoiding honest effort or difficult truths could be undermining your growth. Face what needs to be done directly and openly.",
+        "km": "ការជៀសវាងការខិតខំដោយស្មោះត្រង់ ឬការពិតដ៏លំបាក អាចកំពុងបំផ្លាញការលូតលាស់របស់អ្នក។ សូមប្រឈមនឹងអ្វីដែលត្រូវធ្វើដោយផ្ទាល់ និងបើកចំហ។"
+      },
+      "outcome": {
+        "en": "Honest effort could bring growth you can truly trust. You may find integrity makes your progress more solid.",
+        "km": "ការខិតខំដោយស្មោះត្រង់ អាចនាំមកនូវការលូតលាស់ដែលអ្នកអាចទុកចិត្តពិតប្រាកដ។ អ្នកអាចឃើញថាភាពស្មោះត្រង់ធ្វើឱ្យការរីកចម្រើនរបស់អ្នករឹងមាំជាង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Feeling trapped or limited may describe your situation. You could believe you have fewer options than you really do.",
+        "km": "ការមានអារម្មណ៍ជាប់អន្ទាក់ ឬមានកំណត់ អាចពិពណ៌នាពីស្ថានភាពរបស់អ្នក។ អ្នកអាចជឿថាអ្នកមានជម្រើសតិចជាងអ្វីដែលអ្នកពិតជាមាន។"
+      },
+      "challenge": {
+        "en": "Limiting beliefs about yourself could be the main thing holding back your growth. Question one thought that says you cannot, and test it.",
+        "km": "ជំនឿដែលកំណត់ព្រំដែនអំពីខ្លួនឯង អាចជារឿងចម្បងដែលរារាំងការលូតលាស់របស់អ្នក។ សូមសួរសំណួរពីគំនិតមួយដែលនិយាយថាអ្នកមិនអាច ហើយសាកល្បងវា។"
+      },
+      "outcome": {
+        "en": "Freeing your mind could open doors you thought were locked. You may discover more choices and abilities than you imagined.",
+        "km": "ការដោះលែងគំនិតរបស់អ្នក អាចបើកទ្វារដែលអ្នកគិតថាត្រូវបានចាក់សោ។ អ្នកអាចរកឃើញជម្រើស និងសមត្ថភាពច្រើនជាងអ្វីដែលអ្នកស្រមៃ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry and anxiety may be taking up a lot of space. You could be lying awake over fears about what lies ahead.",
+        "km": "ការព្រួយបារម្ភ និងការថប់បារម្ភ អាចកំពុងចំណាយលំហច្រើន។ អ្នកអាចកំពុងដេកមិនលក់ ដោយសារការភ័យខ្លាចអំពីអ្វីដែលនៅខាងមុខ។"
+      },
+      "challenge": {
+        "en": "Anxiety could be the main brake on your growth. Name what you fear out loud to someone, and seek professional help if anxiety affects your sleep or health.",
+        "km": "ការថប់បារម្ភ អាចជាហ្វ្រាំងចម្បងលើការលូតលាស់របស់អ្នក។ សូមនិយាយអ្វីដែលអ្នកខ្លាចឱ្យឮទៅកាន់នរណាម្នាក់ ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Easing anxiety could free you to grow with more confidence. You may find fears shrink once you face them with support.",
+        "km": "ការបន្ធូរការថប់បារម្ភ អាចដោះលែងអ្នកឱ្យលូតលាស់ដោយទំនុកចិត្តកាន់តែច្រើន។ អ្នកអាចឃើញថាការភ័យខ្លាចរួមតូច នៅពេលអ្នកប្រឈមនឹងវាដោយមានការគាំទ្រ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Something that mattered may have collapsed around you. A hard ending could have drained your will to keep growing.",
+        "km": "អ្វីមួយដែលសំខាន់ អាចបានដួលរលំនៅជុំវិញអ្នក។ ការបញ្ចប់ដ៏លំបាក អាចបានបង្ហូរឆន្ទៈរបស់អ្នកក្នុងការបន្តលូតលាស់។"
+      },
+      "challenge": {
+        "en": "Hopelessness after a hard fall could be what holds you down. Rest, keep close to people who care, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ភាពអស់សង្ឃឹមក្រោយការដួលដ៏លំបាក អាចជាអ្វីដែលសង្កត់អ្នក។ សូមសម្រាក នៅជិតមនុស្សដែលយកចិត្តទុកដាក់ ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Rising from this low could become a turning point. You may grow stronger and wiser through what you survive.",
+        "km": "ការក្រោកឡើងពីចំណុចទាបនេះ អាចក្លាយជាចំណុចបត់។ អ្នកអាចលូតលាស់រឹងមាំ និងឈ្លាសវៃជាងមុន តាមរយៈអ្វីដែលអ្នកឆ្លងកាត់។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Curiosity and a quick mind may be your strengths. You could be full of questions and eager to learn.",
+        "km": "ការចង់ដឹងចង់ឃើញ និងគំនិតរហ័ស អាចជាចំណុចខ្លាំងរបស់អ្នក។ អ្នកអាចពោរពេញដោយសំណួរ និងចង់រៀន។"
+      },
+      "challenge": {
+        "en": "Talking or thinking more than doing could be stalling your growth. Put one idea into practice before you go looking for more.",
+        "km": "ការនិយាយ ឬការគិតច្រើនជាងការធ្វើ អាចកំពុងធ្វើឱ្យការលូតលាស់របស់អ្នកជាប់គាំង។ សូមអនុវត្តគំនិតមួយ មុនពេលអ្នកទៅរកគំនិតបន្ថែម។"
+      },
+      "outcome": {
+        "en": "Acting on ideas could bring visible growth. You may find that doing teaches you more than reading.",
+        "km": "ការធ្វើសកម្មភាពតាមគំនិត អាចនាំមកនូវការលូតលាស់ដែលអាចមើលឃើញ។ អ្នកអាចឃើញថាការធ្វើបង្រៀនអ្នកច្រើនជាងការអាន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Drive and ambition may be pushing you hard. You could be charging towards your goals at full speed, barely pausing.",
+        "km": "កម្លាំងជំរុញ និងមហិច្ឆតា អាចកំពុងរុញអ្នកយ៉ាងខ្លាំង។ អ្នកអាចកំពុងរុញឆ្ពោះទៅរកគោលដៅរបស់អ្នកពេញកម្លាំង ដោយស្ទើរតែមិនផ្អាក។"
+      },
+      "challenge": {
+        "en": "Rushing ahead carelessly could be undermining your growth. Slow down enough to learn something from each step you take.",
+        "km": "ការប្រញាប់ទៅមុខដោយធ្វេសប្រហែស អាចកំពុងបំផ្លាញការលូតលាស់របស់អ្នក។ សូមបន្ថយល្បឿនគ្រប់គ្រាន់ ដើម្បីរៀនអ្វីមួយពីជំហាននីមួយៗដែលអ្នកបោះ។"
+      },
+      "outcome": {
+        "en": "Pacing your drive could bring stronger, deeper growth. You may achieve more by moving thoughtfully rather than in a rush.",
+        "km": "ការគ្រប់គ្រងល្បឿនកម្លាំងជំរុញរបស់អ្នក អាចនាំមកនូវការលូតលាស់រឹងមាំ និងជ្រៅជាង។ អ្នកអាចសម្រេចបានច្រើនជាង ដោយការផ្លាស់ទីដោយការគិតគូរ ជាជាងប្រញាប់។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear judgement and independence may be your strengths. You could be honest and direct with yourself and others.",
+        "km": "ការវិនិច្ឆ័យច្បាស់ និងឯករាជ្យភាព អាចជាចំណុចខ្លាំងរបស់អ្នក។ អ្នកអាចស្មោះត្រង់ និងត្រង់ៗជាមួយខ្លួនឯង និងអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Being too critical, of yourself or others, could be blocking your growth. Balance honesty with warmth and a word of encouragement.",
+        "km": "ការរិះគន់ខ្លាំងពេក ទាំងខ្លួនឯង ឬអ្នកដទៃ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមថ្លឹងភាពស្មោះត្រង់ ជាមួយភាពកក់ក្តៅ និងពាក្យលើកទឹកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Kind honesty could bring growth that feels supported. You may find people respond better when you lead with care.",
+        "km": "ភាពស្មោះត្រង់ដោយសប្បុរស អាចនាំមកនូវការលូតលាស់ដែលមានអារម្មណ៍ថាត្រូវបានគាំទ្រ។ អ្នកអាចឃើញថាមនុស្សឆ្លើយតបបានល្អជាង នៅពេលអ្នកដឹកនាំដោយការយកចិត្តទុកដាក់។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Logic and authority may guide your choices. You could rely heavily on reason and rules to decide what is worth learning.",
+        "km": "តក្កវិជ្ជា និងសិទ្ធិអំណាច អាចដឹកនាំជម្រើសរបស់អ្នក។ អ្នកអាចពឹងផ្អែកខ្លាំងលើហេតុផល និងច្បាប់ ដើម្បីសម្រេចថាអ្វីដែលសមនឹងរៀន។"
+      },
+      "challenge": {
+        "en": "Relying only on logic could be limiting your growth. Make room for intuition, creativity and feeling in how you learn.",
+        "km": "ការពឹងតែលើតក្កវិជ្ជា អាចកំពុងកំណត់ការលូតលាស់របស់អ្នក។ សូមបង្កើតកន្លែងសម្រាប់វិចារណញាណ ការច្នៃប្រឌិត និងអារម្មណ៍ ក្នុងរបៀបដែលអ្នករៀន។"
+      },
+      "outcome": {
+        "en": "Balancing reason with intuition could bring wiser growth. You may make better decisions with both head and heart.",
+        "km": "ការថ្លឹងហេតុផលជាមួយវិចារណញាណ អាចនាំមកនូវការលូតលាស់ដែលឈ្លាសវៃជាង។ អ្នកអាចធ្វើការសម្រេចចិត្តល្អជាង ដោយទាំងក្បាល និងចិត្ត។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical opportunity for growth may be within reach. A course, role or resource could be available, waiting for you to take it up.",
+        "km": "ឱកាសជាក់ស្តែងសម្រាប់ការលូតលាស់ អាចនៅក្បែរដៃ។ វគ្គសិក្សា តួនាទី ឬធនធានមួយ អាចមាន ដោយរង់ចាំឱ្យអ្នកយកវា។"
+      },
+      "challenge": {
+        "en": "Overlooking practical opportunities could be holding back your growth. Look closely at what is already available, and take the first concrete step.",
+        "km": "ការមើលរំលងឱកាសជាក់ស្តែង អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមមើលយ៉ាងជិតពីអ្វីដែលមានរួចហើយ ហើយបោះជំហានជាក់ស្តែងដំបូង។"
+      },
+      "outcome": {
+        "en": "Seizing a practical chance could plant seeds for steady growth. You may build something solid from a small, grounded start.",
+        "km": "ការចាប់យកឱកាសជាក់ស្តែង អាចដាំគ្រាប់ពូជសម្រាប់ការលូតលាស់នឹងនរ។ អ្នកអាចកសាងអ្វីមួយរឹងមាំ ពីការចាប់ផ្តើមតូច និងនឹងធឹង។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Juggling many responsibilities may be your reality. You could be keeping several things going, with little left over for yourself.",
+        "km": "ការរក្សាតុល្យភាពទំនួលខុសត្រូវជាច្រើន អាចជាការពិតរបស់អ្នក។ អ្នកអាចកំពុងរក្សារឿងជាច្រើនឱ្យដំណើរការ ដោយនៅសល់តិចតួចសម្រាប់ខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Spreading yourself too thin could be holding back your growth. Drop or delegate one task to make room for learning.",
+        "km": "ការចែកខ្លួនឯងស្តើងពេក អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមទម្លាក់ ឬប្រគល់កិច្ចការមួយ ដើម្បីបង្កើតលំហសម្រាប់ការរៀន។"
+      },
+      "outcome": {
+        "en": "Simplifying could free you to grow with more focus. You may find that doing less, well, opens room for what matters.",
+        "km": "ការធ្វើឱ្យសាមញ្ញ អាចដោះលែងអ្នកឱ្យលូតលាស់ដោយការផ្តោតកាន់តែច្រើន។ អ្នកអាចឃើញថាការធ្វើតិចជាង ប៉ុន្តែល្អ បើកលំហសម្រាប់អ្វីដែលសំខាន់។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Skill and teamwork may be part of your working life. You could be contributing well, though perhaps without much recognition.",
+        "km": "ជំនាញ និងការធ្វើការជាក្រុម អាចជាផ្នែកមួយនៃជីវិតការងាររបស់អ្នក។ អ្នកអាចកំពុងចូលរួមបានល្អ ទោះបីប្រហែលជាគ្មានការទទួលស្គាល់ច្រើនក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Not asking for feedback or support could be slowing your growth. Seek honest input from people with more experience than you.",
+        "km": "ការមិនសុំមតិយោបល់ ឬការគាំទ្រ អាចកំពុងធ្វើឱ្យការលូតលាស់របស់អ្នកយឺត។ សូមស្វែងរកការណែនាំដោយស្មោះត្រង់ ពីមនុស្សដែលមានបទពិសោធន៍ច្រើនជាងអ្នក។"
+      },
+      "outcome": {
+        "en": "Learning from others could bring skilled, recognised growth. You may become valued for the quality and care in your work.",
+        "km": "ការរៀនពីអ្នកដទៃ អាចនាំមកនូវការលូតលាស់ដែលមានជំនាញ និងត្រូវបានទទួលស្គាល់។ អ្នកអាចត្រូវបានឱ្យតម្លៃចំពោះគុណភាព និងការយកចិត្តទុកដាក់ក្នុងការងាររបស់អ្នក។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Security and stability may matter a lot to you. You could be holding tightly to what you have built.",
+        "km": "សុវត្ថិភាព និងស្ថិរភាព អាចសំខាន់ខ្លាំងចំពោះអ្នក។ អ្នកអាចកំពុងកាន់ខ្ជាប់នូវអ្វីដែលអ្នកបានកសាង។"
+      },
+      "challenge": {
+        "en": "Fear of losing what you have could be holding back your growth. Loosen your grip enough to try something that stretches you.",
+        "km": "ការខ្លាចបាត់បង់អ្វីដែលអ្នកមាន អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមបន្ធូរការកាន់របស់អ្នកគ្រប់គ្រាន់ ដើម្បីសាកល្បងអ្វីមួយដែលពង្រីកអ្នក។"
+      },
+      "outcome": {
+        "en": "Taking a measured risk could bring growth without losing security. You may find that your foundation can support more than you thought.",
+        "km": "ការប្រថុយដោយគិតគូរ អាចនាំមកនូវការលូតលាស់ដោយមិនបាត់បង់សុវត្ថិភាព។ អ្នកអាចឃើញថាមូលដ្ឋានរបស់អ្នកអាចទ្រទ្រង់បានច្រើនជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Hardship or a sense of lack may be affecting you. Limited money, support or opportunity could be making growth feel out of reach.",
+        "km": "ការលំបាក ឬអារម្មណ៍នៃការខ្វះខាត អាចកំពុងប៉ះពាល់អ្នក។ ប្រាក់ ការគាំទ្រ ឬឱកាសមានកំណត់ អាចកំពុងធ្វើឱ្យការលូតលាស់មានអារម្មណ៍ហួសដៃ។"
+      },
+      "challenge": {
+        "en": "Feeling shut out could stop you from seeking help that exists. Look for free resources, mentors or community support near you.",
+        "km": "ការមានអារម្មណ៍ថាត្រូវបានបិទទ្វារ អាចរារាំងអ្នកពីការស្វែងរកជំនួយដែលមាន។ សូមស្វែងរកធនធានឥតគិតថ្លៃ អ្នកណែនាំ ឬការគាំទ្រពីសហគមន៍នៅជិតអ្នក។"
+      },
+      "outcome": {
+        "en": "Asking around could uncover more help than you expect. You may find a teacher, group or scheme willing to back your growth.",
+        "km": "ការសាកសួរ អាចបង្ហាញជំនួយច្រើនជាងអ្វីដែលអ្នករំពឹង។ អ្នកអាចរកឃើញគ្រូ ក្រុម ឬកម្មវិធីមួយ ដែលមានឆន្ទៈគាំទ្រការលូតលាស់របស់អ្នក។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Giving and receiving help may be part of your life. You could be generous with others, or relying on someone's support.",
+        "km": "ការផ្តល់ និងការទទួលជំនួយ អាចជាផ្នែកមួយនៃជីវិតរបស់អ្នក។ អ្នកអាចសប្បុរសចំពោះអ្នកដទៃ ឬពឹងផ្អែកលើការគាំទ្ររបស់នរណាម្នាក់។"
+      },
+      "challenge": {
+        "en": "An imbalance between giving and receiving could be holding back your growth. Accept help when offered, and share what you can in return.",
+        "km": "អតុល្យភាពរវាងការផ្តល់ និងការទទួល អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមទទួលយកជំនួយនៅពេលត្រូវបានផ្តល់ ហើយចែករំលែកអ្វីដែលអ្នកអាចវិញ។"
+      },
+      "outcome": {
+        "en": "A healthy exchange could bring growth for you and others. You may find that generosity flows both ways once you allow it.",
+        "km": "ការផ្លាស់ប្តូរដែលមានសុខភាពល្អ អាចនាំមកនូវការលូតលាស់សម្រាប់អ្នក និងអ្នកដទៃ។ អ្នកអាចឃើញថាចិត្តសប្បុរសហូរទាំងសងខាង នៅពេលអ្នកអនុញ្ញាតឱ្យវា។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Patient effort may be building slowly. You could be waiting to see whether your hard work will pay off.",
+        "km": "ការខិតខំដោយអត់ធ្មត់ អាចកំពុងកសាងបន្តិចម្តងៗ។ អ្នកអាចកំពុងរង់ចាំមើលថាតើការខិតខំរបស់អ្នកនឹងបង្កើតផលឬអត់។"
+      },
+      "challenge": {
+        "en": "Impatience or doubt could be holding back your growth. Trust the slow work of building, and keep tending what you have started.",
+        "km": "ការមិនអត់ធ្មត់ ឬការសង្ស័យ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមទុកចិត្តលើការងារយឺតៗនៃការកសាង ហើយបន្តថែទាំអ្វីដែលអ្នកបានចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Steady patience could bring a rewarding harvest. You may see the results of your effort grow clearer.",
+        "km": "ការអត់ធ្មត់ដោយនឹងនរ អាចនាំមកនូវការប្រមូលផលដ៏មានតម្លៃ។ អ្នកអាចឃើញលទ្ធផលនៃការខិតខំរបស់អ្នកកាន់តែច្បាស់។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Hard work and dedication may define your approach. You could be focused on mastering your craft, one detail after another.",
+        "km": "ការខិតខំ និងការលះបង់ អាចកំណត់វិធីសាស្ត្ររបស់អ្នក។ អ្នកអាចកំពុងផ្តោតលើការស្ទាត់សិប្បកម្មរបស់អ្នក ម្តងមួយព័ត៌មានលម្អិត។"
+      },
+      "challenge": {
+        "en": "Getting lost in routine work could be keeping you from bigger growth. Step back sometimes to see where your skills could take you.",
+        "km": "ការវង្វេងក្នុងការងារជាទម្លាប់ អាចកំពុងរារាំងអ្នកពីការលូតលាស់ធំជាង។ សូមដកខ្លួនថយក្រោយម្តងម្កាល ដើម្បីមើលថាជំនាញរបស់អ្នកអាចនាំអ្នកទៅណា។"
+      },
+      "outcome": {
+        "en": "Seeing the bigger picture could turn diligence into growth. You may find new opportunities for your hard-won skills.",
+        "km": "ការមើលឃើញរូបភាពធំ អាចប្រែក្លាយភាពឧស្សាហ៍ទៅជាការលូតលាស់។ អ្នកអាចរកឃើញឱកាសថ្មីសម្រាប់ជំនាញដែលអ្នកទទួលបានដោយលំបាក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Independence and self-reliance may be strong in you. You could be comfortable managing life on your own.",
+        "km": "ឯករាជ្យភាព និងការពឹងលើខ្លួនឯង អាចខ្លាំងក្នុងខ្លួនអ្នក។ អ្នកអាចស្រួលក្នុងការគ្រប់គ្រងជីវិតដោយខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Doing everything alone could be limiting your growth. Let others in, and learn from people who see things differently.",
+        "km": "ការធ្វើអ្វីៗទាំងអស់តែម្នាក់ឯង អាចកំពុងកំណត់ការលូតលាស់របស់អ្នក។ សូមអនុញ្ញាតឱ្យអ្នកដទៃចូលមក ហើយរៀនពីមនុស្សដែលមើលអ្វីៗខុសគ្នា។"
+      },
+      "outcome": {
+        "en": "Opening up could add new dimensions to your growth. You may find that connection enriches your independence rather than weakening it.",
+        "km": "ការបើកចិត្ត អាចបន្ថែមវិមាត្រថ្មីដល់ការលូតលាស់របស់អ្នក។ អ្នកអាចឃើញថាការភ្ជាប់ទំនាក់ទំនងធ្វើឱ្យឯករាជ្យភាពរបស់អ្នកសម្បូរ ជាជាងធ្វើឱ្យវាខ្សោយ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family expectations or tradition may be shaping your path. You could feel a strong sense of duty to the people who raised you.",
+        "km": "ការរំពឹងទុករបស់គ្រួសារ ឬប្រពៃណី អាចកំពុងបង្កើតផ្លូវរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ខ្លាំងនៃកាតព្វកិច្ចចំពោះមនុស្សដែលបានចិញ្ចឹមអ្នក។"
+      },
+      "challenge": {
+        "en": "Following a path set by others could be holding back your growth. Balance family hopes with your own interests and dreams.",
+        "km": "ការដើរតាមផ្លូវដែលអ្នកដទៃកំណត់ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមថ្លឹងក្តីសង្ឃឹមរបស់គ្រួសារ ជាមួយចំណាប់អារម្មណ៍ និងក្តីស្រមៃរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Honouring both duty and desire could bring meaningful growth. You may build something that serves your family and yourself.",
+        "km": "ការគោរពទាំងកាតព្វកិច្ច និងបំណងប្រាថ្នា អាចនាំមកនូវការលូតលាស់ដែលមានអត្ថន័យ។ អ្នកអាចកសាងអ្វីមួយដែលបម្រើគ្រួសាររបស់អ្នក និងខ្លួនឯង។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A studious, careful nature may be part of you. You could be eager to learn but cautious about acting.",
+        "km": "ធម្មជាតិដែលចូលចិត្តសិក្សា និងប្រុងប្រយ័ត្ន អាចជាផ្នែកមួយនៃខ្លួនអ្នក។ អ្នកអាចចង់រៀន ប៉ុន្តែប្រុងប្រយ័ត្នក្នុងការធ្វើសកម្មភាព។"
+      },
+      "challenge": {
+        "en": "Endless preparation without action could be holding back your growth. Apply what you know, even if you feel not quite ready.",
+        "km": "ការត្រៀមខ្លួនឥតឈប់ដោយគ្មានសកម្មភាព អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមអនុវត្តអ្វីដែលអ្នកដឹង ទោះបីអ្នកមានអារម្មណ៍មិនទាន់ត្រៀមខ្លួនពេញលេញក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Putting learning into practice could bring real progress. You may find that confidence grows through doing, not just preparing.",
+        "km": "ការដាក់ការរៀនឱ្យអនុវត្ត អាចនាំមកនូវការរីកចម្រើនពិតប្រាកដ។ អ្នកអាចឃើញថាទំនុកចិត្តកើនឡើងតាមរយៈការធ្វើ មិនមែនត្រឹមតែការត្រៀមខ្លួននោះទេ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Steady, reliable effort may be your style. You could be making slow but sure progress that is easy to overlook.",
+        "km": "ការខិតខំនឹងនរ និងអាចទុកចិត្តបាន អាចជារបៀបរបស់អ្នក។ អ្នកអាចកំពុងរីកចម្រើនយឺតៗ ប៉ុន្តែប្រាកដ ដែលងាយនឹងមើលរំលង។"
+      },
+      "challenge": {
+        "en": "Sticking to routine out of caution could be limiting your growth. Add one new challenge to your steady approach and see what it teaches you.",
+        "km": "ការប្រកាន់ទម្លាប់ដោយសារការប្រុងប្រយ័ត្ន អាចកំពុងកំណត់ការលូតលាស់របស់អ្នក។ សូមបន្ថែមការប្រកួតថ្មីមួយ ទៅលើវិធីសាស្ត្រនឹងនររបស់អ្នក ហើយមើលថាវាបង្រៀនអ្នកអ្វី។"
+      },
+      "outcome": {
+        "en": "Adding challenge to consistency could bring steady, expanding growth. You may surprise yourself with how far you can go.",
+        "km": "ការបន្ថែមការប្រកួតទៅលើភាពជាប់លាប់ អាចនាំមកនូវការលូតលាស់ដែលនឹងនរ និងពង្រីក។ អ្នកអាចធ្វើឱ្យខ្លួនឯងភ្ញាក់ផ្អើលថាអ្នកអាចទៅបានឆ្ងាយប៉ុណ្ណា។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Caring for others and your home may take much of your energy. You could be the one everyone relies on, with little left for you.",
+        "km": "ការថែទាំអ្នកដទៃ និងផ្ទះរបស់អ្នក អាចចំណាយថាមពលរបស់អ្នកច្រើន។ អ្នកអាចជាមនុស្សដែលគ្រប់គ្នាពឹងផ្អែក ដោយនៅសល់តិចតួចសម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Neglecting your own needs could be holding back your growth. Set aside regular time and energy that belong only to you.",
+        "km": "ការមើលរំលងតម្រូវការរបស់អ្នកផ្ទាល់ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមទុកពេល និងថាមពលទៀងទាត់ ដែលជារបស់អ្នកតែម្នាក់។"
+      },
+      "outcome": {
+        "en": "Nurturing yourself could bring balanced, healthy growth. You may find you have more to give when you also receive.",
+        "km": "ការថែទាំខ្លួនឯង អាចនាំមកនូវការលូតលាស់ដែលមានតុល្យភាព និងសុខភាពល្អ។ អ្នកអាចឃើញថាអ្នកមានច្រើនជាងដើម្បីផ្តល់ នៅពេលអ្នកក៏ទទួលដែរ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Success and stability may already be yours. You could be comfortable and well established, with little pushing you to change.",
+        "km": "ភាពជោគជ័យ និងស្ថិរភាព អាចជារបស់អ្នករួចហើយ។ អ្នកអាចស្រួល និងបានបង្កើតខ្លួនល្អ ដោយមានតិចតួចដែលជំរុញអ្នកឱ្យផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Feeling you have arrived could be holding back your growth. Keep learning, even from a position of strength and comfort.",
+        "km": "ការមានអារម្មណ៍ថាអ្នកបានទៅដល់ហើយ អាចកំពុងរារាំងការលូតលាស់របស់អ្នក។ សូមបន្តរៀន សូម្បីតែពីទីតាំងនៃកម្លាំង និងភាពស្រួល។"
+      },
+      "outcome": {
+        "en": "Continued learning could bring abundance and wisdom. You may become a guide for others on paths like your own.",
+        "km": "ការរៀនបន្ត អាចនាំមកនូវភាពបរិបូរណ៍ និងប្រាជ្ញា។ អ្នកអាចក្លាយជាអ្នកណែនាំសម្រាប់អ្នកដទៃ លើផ្លូវស្រដៀងនឹងផ្លូវរបស់អ្នក។"
+      }
+    }
+  }
+}
