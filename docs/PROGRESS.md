@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 76 of 100 questions (17,784 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 77 of 100 questions (18,018 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-24: Drafted EG-08 (“What talent should I develop?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/EG-08.json. EG-08 talent readings AI-drafted; English and native Khmer review pending. Saved coverage 77/100 questions; checks, typecheck and lint pass
 - 2026-10-24: Drafted EG-07 (“Is this a good time to start a new course?”, yesno): 78 cards × 3 positions in English and Khmer, src/content/readings/EG-07.json. EG-07 new-course readings AI-drafted; English and native Khmer review pending. Saved coverage 76/100 questions; checks, typecheck and lint pass
 - 2026-10-24: Drafted EG-06 (“How can I stay motivated?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/EG-06.json. EG-06 motivation readings AI-drafted; English and native Khmer review pending. Saved coverage 75/100 questions; checks, typecheck and lint pass
 - 2026-10-24: Drafted EG-05 (“What is holding back my growth?”, obstacle): 78 cards × 3 positions in English and Khmer, src/content/readings/EG-05.json. EG-05 growth-obstacle readings AI-drafted; English and native Khmer review pending. Saved coverage 74/100 questions; checks, typecheck and lint pass

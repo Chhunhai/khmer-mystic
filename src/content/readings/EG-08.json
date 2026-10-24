@@ -1,0 +1,1097 @@
+{
+  "questionId": "EG-08",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A gift for improvising and trying new things may be one of your natural talents. You could be at your best when you are free to explore without a script.",
+        "km": "អំណោយក្នុងការច្នៃភ្លាមៗ និងការសាកល្បងរឿងថ្មី អាចជាទេពកោសល្យធម្មជាតិមួយរបស់អ្នក។ អ្នកអាចល្អបំផុត នៅពេលអ្នកមានសេរីភាពរុករកដោយគ្មានស្គ្រីប។"
+      },
+      "challenge": {
+        "en": "Treating spontaneity as a quirk rather than a strength could leave it undeveloped. Channel it into something like drama, design or travel writing, where freshness counts.",
+        "km": "ការចាត់ទុកភាពឯកឯងជាចរិតចម្លែក ជាជាងចំណុចខ្លាំង អាចទុកវាមិនត្រូវបានអភិវឌ្ឍ។ សូមដឹកនាំវាទៅកាន់អ្វីមួយដូចជាល្ខោន ការរចនា ឬការសរសេរអំពីការធ្វើដំណើរ ដែលភាពស្រស់មានតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Nurturing your adventurous side could turn it into a real asset. You may find people value the fresh energy you bring to any project.",
+        "km": "ការថែទាំផ្នែកផ្សងព្រេងរបស់អ្នក អាចប្រែក្លាយវាទៅជាទ្រព្យសម្បត្តិពិតប្រាកដ។ អ្នកអាចឃើញថាមនុស្សឱ្យតម្លៃលើថាមពលស្រស់ដែលអ្នកនាំមកដល់គម្រោងណាមួយ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Making ideas real may be one of your strongest gifts. You could have a knack for turning plans into action with whatever tools are at hand.",
+        "km": "ការធ្វើឱ្យគំនិតក្លាយជាការពិត អាចជាអំណោយខ្លាំងបំផុតមួយរបស់អ្នក។ អ្នកអាចមានជំនាញពិសេសក្នុងការប្រែក្លាយផែនការទៅជាសកម្មភាព ដោយឧបករណ៍អ្វីក៏ដោយដែលមាននៅក្បែរ។"
+      },
+      "challenge": {
+        "en": "Spreading that gift across too many projects could stop it reaching its potential. Choose one area, such as building, coding or presenting, and go deep.",
+        "km": "ការចែកអំណោយនោះទៅគម្រោងច្រើនពេក អាចរារាំងវាពីការទៅដល់សក្តានុពលរបស់វា។ សូមជ្រើសរើសផ្នែកមួយ ដូចជាការសាងសង់ ការសរសេរកូដ ឬការធ្វើបទបង្ហាញ ហើយចូលជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Focused practice could make your practical talent remarkable. You may become known as someone who gets things done with skill and flair.",
+        "km": "ការហ្វឹកហាត់ដោយផ្តោត អាចធ្វើឱ្យទេពកោសល្យជាក់ស្តែងរបស់អ្នកគួរឱ្យកត់សម្គាល់។ អ្នកអាចត្រូវបានគេស្គាល់ជាមនុស្សដែលធ្វើការងារបានសម្រេចដោយជំនាញ និងស្ទីល។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Intuition and deep listening may be among your quiet talents. You could sense what others feel or need before they say it.",
+        "km": "វិចារណញាណ និងការស្តាប់យ៉ាងជ្រៅ អាចស្ថិតក្នុងចំណោមទេពកោសល្យស្ងាត់ៗរបស់អ្នក។ អ្នកអាចដឹងពីអ្វីដែលអ្នកដទៃមានអារម្មណ៍ ឬត្រូវការ មុនពេលពួកគេនិយាយ។"
+      },
+      "challenge": {
+        "en": "Dismissing intuition as unscientific could keep you from using it. Develop it through practices like counselling skills, research or reflective writing.",
+        "km": "ការបដិសេធវិចារណញាណថាមិនមែនវិទ្យាសាស្ត្រ អាចរារាំងអ្នកពីការប្រើវា។ សូមអភិវឌ្ឍវាតាមរយៈការអនុវត្តដូចជាជំនាញប្រឹក្សា ការស្រាវជ្រាវ ឬការសរសេរឆ្លុះបញ្ចាំង។"
+      },
+      "outcome": {
+        "en": "Trusting your intuition could make it a guiding strength. You may become the person others turn to for insight they cannot find elsewhere.",
+        "km": "ការទុកចិត្តលើវិចារណញាណរបស់អ្នក អាចធ្វើឱ្យវាក្លាយជាចំណុចខ្លាំងដែលដឹកនាំ។ អ្នកអាចក្លាយជាមនុស្សដែលអ្នកដទៃងាកមករកសម្រាប់ការយល់ដឹង ដែលពួកគេមិនអាចរកឃើញនៅកន្លែងផ្សេង។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Creativity and a nurturing touch may be natural gifts for you. You could have an eye for beauty and a talent for helping things grow.",
+        "km": "ការច្នៃប្រឌិត និងការថែទាំ អាចជាអំណោយធម្មជាតិសម្រាប់អ្នក។ អ្នកអាចមានភ្នែកសម្រាប់សម្រស់ និងទេពកោសល្យក្នុងការជួយឱ្យរបស់លូតលាស់។"
+      },
+      "challenge": {
+        "en": "Seeing these gifts as hobbies could keep you from taking them seriously. Give art, cooking, gardening or design proper time and training.",
+        "km": "ការមើលអំណោយទាំងនេះជាចំណង់ចំណូលចិត្ត អាចរារាំងអ្នកពីការយកវាមកពិចារណាឱ្យបានម៉ឺងម៉ាត់។ សូមផ្តល់ពេលវេលា និងការបណ្តុះបណ្តាលត្រឹមត្រូវ ដល់សិល្បៈ ការធ្វើម្ហូប ការដាំដុះ ឬការរចនា។"
+      },
+      "outcome": {
+        "en": "Nurtured creativity could flourish into something abundant. You may create beauty that brings real joy to you and those around you.",
+        "km": "ការច្នៃប្រឌិតដែលត្រូវបានថែទាំ អាចរីកដុះដាលទៅជាអ្វីមួយដ៏បរិបូរណ៍។ អ្នកអាចបង្កើតសម្រស់ ដែលនាំមកនូវសេចក្តីរីករាយពិតប្រាកដដល់អ្នក និងអ្នកនៅជុំវិញ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Organising and leading may come naturally to you. You could be good at creating order where others see chaos.",
+        "km": "ការរៀបចំ និងការដឹកនាំ អាចកើតឡើងដោយធម្មជាតិចំពោះអ្នក។ អ្នកអាចពូកែក្នុងការបង្កើតសណ្តាប់ធ្នាប់ នៅកន្លែងដែលអ្នកដទៃឃើញភាពច្របូកច្របល់។"
+      },
+      "challenge": {
+        "en": "Using this gift too rigidly could make others resist your lead. Develop the softer side of leadership, like listening and delegating, alongside structure.",
+        "km": "ការប្រើអំណោយនេះតឹងរ៉ឹងពេក អាចធ្វើឱ្យអ្នកដទៃប្រឆាំងនឹងការដឹកនាំរបស់អ្នក។ សូមអភិវឌ្ឍផ្នែកទន់ភ្លន់នៃការដឹកនាំ ដូចជាការស្តាប់ និងការប្រគល់ភារកិច្ច រួមជាមួយរចនាសម្ព័ន្ធ។"
+      },
+      "outcome": {
+        "en": "Refined leadership could bring authority and respect. You may be trusted to run projects or teams that rely on your steady hand.",
+        "km": "ការដឹកនាំដែលបានកែលម្អ អាចនាំមកនូវសិទ្ធិអំណាច និងការគោរព។ អ្នកអាចត្រូវបានទុកចិត្តឱ្យដំណើរការគម្រោង ឬក្រុម ដែលពឹងលើដៃនឹងនររបស់អ្នក។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "A gift for teaching and passing on knowledge may be part of you. You could explain things clearly and patiently in a way others understand.",
+        "km": "អំណោយក្នុងការបង្រៀន និងបន្តចំណេះដឹង អាចជាផ្នែកមួយនៃខ្លួនអ្នក។ អ្នកអាចពន្យល់អ្វីៗយ៉ាងច្បាស់ និងអត់ធ្មត់ តាមរបៀបដែលអ្នកដទៃយល់។"
+      },
+      "challenge": {
+        "en": "Assuming you must be an expert before you can teach could hold you back. Start sharing what you know, and develop your teaching as you go.",
+        "km": "ការសន្មតថាអ្នកត្រូវតែជាអ្នកជំនាញ មុនពេលអ្នកអាចបង្រៀន អាចរារាំងអ្នក។ សូមចាប់ផ្តើមចែករំលែកអ្វីដែលអ្នកដឹង ហើយអភិវឌ្ឍការបង្រៀនរបស់អ្នកតាមផ្លូវ។"
+      },
+      "outcome": {
+        "en": "Developing this gift could make you a valued mentor or guide. You may find deep satisfaction in watching others grow through what you share.",
+        "km": "ការអភិវឌ្ឍអំណោយនេះ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកណែនាំដ៏មានតម្លៃ។ អ្នកអាចរកឃើញការពេញចិត្តជ្រៅ ក្នុងការមើលអ្នកដទៃលូតលាស់តាមរយៈអ្វីដែលអ្នកចែករំលែក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Bringing people together may be something you do beautifully. You could be skilled at building harmony and helping others connect.",
+        "km": "ការនាំមនុស្សមកជួបគ្នា អាចជាអ្វីមួយដែលអ្នកធ្វើបានយ៉ាងស្រស់ស្អាត។ អ្នកអាចមានជំនាញក្នុងការកសាងភាពចុះសម្រុង និងជួយអ្នកដទៃភ្ជាប់ទំនាក់ទំនង។"
+      },
+      "challenge": {
+        "en": "Using this gift only to please everyone could leave you stretched thin. Develop it with boundaries, through mediation, events or partnership work.",
+        "km": "ការប្រើអំណោយនេះតែដើម្បីផ្គាប់ចិត្តមនុស្សគ្រប់គ្នា អាចធ្វើឱ្យអ្នកស្តើង។ សូមអភិវឌ្ឍវាដោយមានព្រំដែន តាមរយៈការសម្រុះសម្រួល ព្រឹត្តិការណ៍ ឬការងារភាពជាដៃគូ។"
+      },
+      "outcome": {
+        "en": "A developed gift for connection could open many doors. You may find yourself at the heart of teams and communities that thrive because of you.",
+        "km": "អំណោយក្នុងការភ្ជាប់ទំនាក់ទំនងដែលត្រូវបានអភិវឌ្ឍ អាចបើកទ្វារជាច្រើន។ អ្នកអាចឃើញខ្លួនឯងនៅចំកណ្តាលក្រុម និងសហគមន៍ ដែលរីកចម្រើនដោយសារអ្នក។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Drive and the ability to see things through may be among your talents. You could be the kind of person who reaches goals others give up on.",
+        "km": "កម្លាំងជំរុញ និងសមត្ថភាពក្នុងការធ្វើរហូតដល់ចប់ អាចស្ថិតក្នុងចំណោមទេពកោសល្យរបស់អ្នក។ អ្នកអាចជាមនុស្សប្រភេទដែលទៅដល់គោលដៅដែលអ្នកដទៃបោះបង់។"
+      },
+      "challenge": {
+        "en": "Pushing too hard could turn determination into stubbornness. Develop flexibility alongside your drive, so you can change course when needed.",
+        "km": "ការរុញខ្លាំងពេក អាចប្រែការប្តេជ្ញាទៅជាភាពរឹងរូស។ សូមអភិវឌ្ឍភាពបត់បែនរួមជាមួយកម្លាំងជំរុញរបស់អ្នក ដើម្បីឱ្យអ្នកអាចប្តូរទិសដៅនៅពេលត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Channelled determination could take you far in sport, business or any demanding field. You may achieve goals that inspire people around you.",
+        "km": "ការប្តេជ្ញាដែលត្រូវបានដឹកនាំ អាចនាំអ្នកទៅឆ្ងាយក្នុងកីឡា អាជីវកម្ម ឬវិស័យដ៏ទាមទារណាមួយ។ អ្នកអាចសម្រេចគោលដៅដែលបំផុសគំនិតមនុស្សនៅជុំវិញអ្នក។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience and a calming presence may be quiet talents of yours. You could have a gift for soothing tense situations and steadying people.",
+        "km": "ការអត់ធ្មត់ និងវត្តមានដែលធ្វើឱ្យស្ងប់ អាចជាទេពកោសល្យស្ងាត់ៗរបស់អ្នក។ អ្នកអាចមានអំណោយក្នុងការបន្ធូរស្ថានភាពតានតឹង និងធ្វើឱ្យមនុស្សនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Undervaluing gentle strength could keep you from developing it. Train it through coaching, care work or conflict resolution, where calm is prized.",
+        "km": "ការឱ្យតម្លៃទាបលើកម្លាំងទន់ភ្លន់ អាចរារាំងអ្នកពីការអភិវឌ្ឍវា។ សូមហ្វឹកហាត់វាតាមរយៈការបង្វឹក ការងារថែទាំ ឬការដោះស្រាយជម្លោះ ដែលភាពស្ងប់ត្រូវបានឱ្យតម្លៃ។"
+      },
+      "outcome": {
+        "en": "Developed calm could make you a trusted presence in hard moments. You may find people seek you out when they need steadiness.",
+        "km": "ភាពស្ងប់ដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាវត្តមានដែលគួរឱ្យទុកចិត្តក្នុងគ្រាលំបាក។ អ្នកអាចឃើញថាមនុស្សស្វែងរកអ្នក នៅពេលពួកគេត្រូវការភាពនឹងនរ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Deep thinking and focused study may be your natural gifts. You could be at your best working alone on something that needs real depth.",
+        "km": "ការគិតជ្រៅ និងការសិក្សាដោយផ្តោត អាចជាអំណោយធម្មជាតិរបស់អ្នក។ អ្នកអាចល្អបំផុត នៅពេលធ្វើការតែម្នាក់ឯងលើអ្វីមួយដែលត្រូវការជម្រៅពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Keeping your insights entirely to yourself could limit their value. Develop ways to share them, through writing, research or teaching.",
+        "km": "ការរក្សាការយល់ដឹងរបស់អ្នកទុកសម្រាប់តែខ្លួនឯងទាំងស្រុង អាចកំណត់តម្លៃរបស់វា។ សូមអភិវឌ្ឍវិធីចែករំលែកវា តាមរយៈការសរសេរ ការស្រាវជ្រាវ ឬការបង្រៀន។"
+      },
+      "outcome": {
+        "en": "Developed wisdom could make you a respected specialist. You may become a guide for others seeking the knowledge you have gathered.",
+        "km": "ប្រាជ្ញាដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកឯកទេសដែលគេគោរព។ អ្នកអាចក្លាយជាអ្នកណែនាំសម្រាប់អ្នកដទៃ ដែលស្វែងរកចំណេះដឹងដែលអ្នកបានប្រមូល។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Adaptability may be one of your underrated talents. You could be good at spotting opportunities and adjusting when things change.",
+        "km": "ភាពបត់បែន អាចជាទេពកោសល្យមួយរបស់អ្នក ដែលគេឱ្យតម្លៃទាប។ អ្នកអាចពូកែក្នុងការមើលឃើញឱកាស និងការកែសម្រួល នៅពេលអ្វីៗផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Changing direction too often could stop any talent from deepening. Develop your adaptability within one field, rather than jumping between many.",
+        "km": "ការប្តូរទិសដៅញឹកញាប់ពេក អាចរារាំងទេពកោសល្យណាមួយពីការជ្រៅ។ សូមអភិវឌ្ឍភាពបត់បែនរបស់អ្នក ក្នុងវិស័យមួយ ជាជាងលោតរវាងវិស័យជាច្រើន។"
+      },
+      "outcome": {
+        "en": "Focused adaptability could make you valuable wherever change is constant. You may thrive in roles that reward quick thinking and openness.",
+        "km": "ភាពបត់បែនដែលផ្តោត អាចធ្វើឱ្យអ្នកមានតម្លៃនៅកន្លែងណាដែលការផ្លាស់ប្តូរកើតឡើងជានិច្ច។ អ្នកអាចរីកចម្រើនក្នុងតួនាទី ដែលផ្តល់រង្វាន់ដល់ការគិតរហ័ស និងការបើកចិត្ត។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A sense of fairness and clear judgement may be talents of yours. You could be good at weighing evidence and seeing all sides.",
+        "km": "អារម្មណ៍នៃយុត្តិធម៌ និងការវិនិច្ឆ័យច្បាស់ អាចជាទេពកោសល្យរបស់អ្នក។ អ្នកអាចពូកែក្នុងការថ្លឹងថ្លែងភស្តុតាង និងការមើលឃើញគ្រប់ភាគី។"
+      },
+      "challenge": {
+        "en": "Using judgement only to criticise could make it feel harsh. Develop it towards analysis, mediation or advocacy that helps others.",
+        "km": "ការប្រើការវិនិច្ឆ័យតែដើម្បីរិះគន់ អាចធ្វើឱ្យវាមានអារម្មណ៍ធ្ងន់ធ្ងរ។ សូមអភិវឌ្ឍវាឆ្ពោះទៅរកការវិភាគ ការសម្រុះសម្រួល ឬការតស៊ូមតិ ដែលជួយអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Developed judgement could make you a trusted voice in decisions. You may find work where fairness and clear thinking are truly valued.",
+        "km": "ការវិនិច្ឆ័យដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាសំឡេងដែលគួរឱ្យទុកចិត្តក្នុងការសម្រេចចិត្ត។ អ្នកអាចរកឃើញការងារ ដែលយុត្តិធម៌ និងការគិតច្បាស់ត្រូវបានឱ្យតម្លៃពិតប្រាកដ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Seeing things from unusual angles may be a hidden talent. You could notice solutions others miss because you think differently.",
+        "km": "ការមើលអ្វីៗពីមុំមិនធម្មតា អាចជាទេពកោសល្យដែលលាក់កំបាំង។ អ្នកអាចកត់សម្គាល់ដំណោះស្រាយដែលអ្នកដទៃខកខាន ព្រោះអ្នកគិតខុសគ្នា។"
+      },
+      "challenge": {
+        "en": "Feeling odd for thinking differently could make you hide this gift. Develop it through creative problem-solving, art or innovation work.",
+        "km": "ការមានអារម្មណ៍ចម្លែកដោយសារការគិតខុសគ្នា អាចធ្វើឱ្យអ្នកលាក់អំណោយនេះ។ សូមអភិវឌ្ឍវាតាមរយៈការដោះស្រាយបញ្ហាច្នៃប្រឌិត សិល្បៈ ឬការងារនវានុវត្តន៍។"
+      },
+      "outcome": {
+        "en": "Embracing your unusual perspective could make it a real strength. You may become known for fresh ideas that shift how others see things.",
+        "km": "ការទទួលយកទស្សនៈមិនធម្មតារបស់អ្នក អាចធ្វើឱ្យវាក្លាយជាចំណុចខ្លាំងពិតប្រាកដ។ អ្នកអាចត្រូវបានគេស្គាល់ដោយគំនិតស្រស់ៗ ដែលផ្លាស់ប្តូររបៀបដែលអ្នកដទៃមើលអ្វីៗ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Helping others through change may be one of your quieter strengths. You could be good at letting go and guiding people into new beginnings.",
+        "km": "ការជួយអ្នកដទៃឆ្លងកាត់ការផ្លាស់ប្តូរ អាចជាចំណុចខ្លាំងស្ងាត់ៗមួយរបស់អ្នក។ អ្នកអាចពូកែក្នុងការលែងប្រកាន់ និងការដឹកនាំមនុស្សចូលទៅក្នុងការចាប់ផ្តើមថ្មី។"
+      },
+      "challenge": {
+        "en": "Avoiding endings in your own life could block this gift. Practise clearing out what no longer serves, so you can help others do the same.",
+        "km": "ការជៀសវាងការបញ្ចប់ក្នុងជីវិតរបស់អ្នកផ្ទាល់ អាចរារាំងអំណោយនេះ។ សូមហ្វឹកហាត់សម្អាតអ្វីដែលលែងបម្រើ ដើម្បីឱ្យអ្នកអាចជួយអ្នកដទៃធ្វើដូចគ្នា។"
+      },
+      "outcome": {
+        "en": "Developing this gift could make you a guide through transition. You may find meaningful work in coaching, editing or supporting people in change.",
+        "km": "ការអភិវឌ្ឍអំណោយនេះ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកណែនាំឆ្លងកាត់ការផ្លាស់ប្តូរ។ អ្នកអាចរកឃើញការងារដែលមានអត្ថន័យ ក្នុងការបង្វឹក ការកែសម្រួល ឬការគាំទ្រមនុស្សក្នុងការផ្លាស់ប្តូរ។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Balancing and blending different elements may come easily to you. You could be good at combining different elements into something harmonious.",
+        "km": "ការថ្លឹង និងការលាយធាតុផ្សេងៗ អាចមកដល់អ្នកយ៉ាងងាយ។ អ្នកអាចពូកែក្នុងការរួមបញ្ចូលធាតុផ្សេងៗ ទៅជាអ្វីមួយដែលចុះសម្រុង។"
+      },
+      "challenge": {
+        "en": "Spreading this talent too thin could keep it from deepening. Choose one area, such as cooking, design or mediation, to refine it.",
+        "km": "ការចែកទេពកោសល្យនេះស្តើងពេក អាចរារាំងវាពីការជ្រៅ។ សូមជ្រើសរើសផ្នែកមួយ ដូចជាការធ្វើម្ហូប ការរចនា ឬការសម្រុះសម្រួល ដើម្បីកែលម្អវា។"
+      },
+      "outcome": {
+        "en": "A refined gift for harmony could make you a valued blender of ideas and people. You may create work that brings different worlds together beautifully.",
+        "km": "អំណោយក្នុងភាពចុះសម្រុងដែលបានកែលម្អ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកលាយបញ្ចូលគំនិត និងមនុស្សដ៏មានតម្លៃ។ អ្នកអាចបង្កើតការងារដែលនាំពិភពផ្សេងៗមកជួបគ្នាយ៉ាងស្រស់ស្អាត។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "An intense, magnetic energy may be one of your talents. You could have a strong ability to persuade, motivate or hold attention.",
+        "km": "ថាមពលខ្លាំង និងទាក់ទាញ អាចជាទេពកោសល្យមួយរបស់អ្នក។ អ្នកអាចមានសមត្ថភាពខ្លាំងក្នុងការបញ្ចុះបញ្ចូល ជំរុញ ឬទាក់ទាញការយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Using that intensity carelessly could lead to unhealthy patterns or influence. Develop it ethically, and seek support if any habit starts to control you.",
+        "km": "ការប្រើភាពខ្លាំងនោះដោយធ្វេសប្រហែស អាចនាំទៅរកលំនាំ ឬឥទ្ធិពលមិនល្អ។ សូមអភិវឌ្ឍវាដោយមានក្រមសីលធម៌ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើទម្លាប់ណាមួយចាប់ផ្តើមគ្រប់គ្រងអ្នក។"
+      },
+      "outcome": {
+        "en": "Channelling intensity wisely could make it a powerful gift. You may inspire and move people through performance, sales or leadership.",
+        "km": "ការដឹកនាំភាពខ្លាំងដោយប្រាជ្ញា អាចធ្វើឱ្យវាក្លាយជាអំណោយដ៏មានឥទ្ធិពល។ អ្នកអាចបំផុសគំនិត និងរំជួលចិត្តមនុស្ស តាមរយៈការសម្តែង ការលក់ ឬការដឹកនាំ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Keeping your head in a crisis may be a gift you rarely notice. You could stay clear-headed when things fall apart around you.",
+        "km": "ការរក្សាគំនិតឱ្យនឹងក្នុងវិបត្តិ អាចជាអំណោយដែលអ្នកកម្រកត់សម្គាល់។ អ្នកអាចរក្សាគំនិតច្បាស់ នៅពេលអ្វីៗដួលរលំនៅជុំវិញអ្នក។"
+      },
+      "challenge": {
+        "en": "Living on crisis energy could wear you out. Develop this gift through structured roles, like emergency response or problem-solving, with proper rest between.",
+        "km": "ការរស់នៅលើថាមពលវិបត្តិ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមអភិវឌ្ឍអំណោយនេះតាមរយៈតួនាទីដែលមានរចនាសម្ព័ន្ធ ដូចជាការឆ្លើយតបគ្រាអាសន្ន ឬការដោះស្រាយបញ្ហា ជាមួយការសម្រាកត្រឹមត្រូវ។"
+      },
+      "outcome": {
+        "en": "A developed gift for crisis could make you invaluable when things go wrong. You may help rebuild what others thought was lost.",
+        "km": "អំណោយក្នុងវិបត្តិដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកមានតម្លៃមិនអាចកាត់ថ្លៃបាន នៅពេលអ្វីៗខុស។ អ្នកអាចជួយកសាងឡើងវិញនូវអ្វីដែលអ្នកដទៃគិតថាបានបាត់បង់។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Inspiring hope in others may be one of your gifts. You could lift people's spirits through art, words or simple kindness.",
+        "km": "ការបំផុសក្តីសង្ឃឹមក្នុងអ្នកដទៃ អាចជាអំណោយមួយរបស់អ្នក។ អ្នកអាចលើកស្មារតីមនុស្ស តាមរយៈសិល្បៈ ពាក្យសម្តី ឬសេចក្តីសប្បុរសសាមញ្ញ។"
+      },
+      "challenge": {
+        "en": "Doubting that this gift is practical could keep you from developing it. Explore art, design, writing or healing work as real paths.",
+        "km": "ការសង្ស័យថាអំណោយនេះជាក់ស្តែងឬអត់ អាចរារាំងអ្នកពីការអភិវឌ្ឍវា។ សូមរុករកសិល្បៈ ការរចនា ការសរសេរ ឬការងារព្យាបាល ជាផ្លូវពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Developed inspiration could become a source of hope for many. You may create work that heals or uplifts people you will never meet.",
+        "km": "ការបំផុសគំនិតដែលត្រូវបានអភិវឌ្ឍ អាចក្លាយជាប្រភពក្តីសង្ឃឹមសម្រាប់មនុស្សជាច្រើន។ អ្នកអាចបង្កើតការងារដែលព្យាបាល ឬលើកស្មារតីមនុស្ស ដែលអ្នកនឹងមិនដែលជួប។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Imagination and intuition may be strong gifts. You could have a rich inner world full of images, stories and feelings.",
+        "km": "ការស្រមៃ និងវិចារណញាណ អាចជាអំណោយខ្លាំង។ អ្នកអាចមានពិភពខាងក្នុងដ៏សម្បូរ ពោរពេញដោយរូបភាព រឿងរ៉ាវ និងអារម្មណ៍។"
+      },
+      "challenge": {
+        "en": "Keeping your imagination hidden could leave this gift unused. Give it form through storytelling, art, music or the study of the mind.",
+        "km": "ការលាក់ការស្រមៃរបស់អ្នក អាចទុកអំណោយនេះមិនត្រូវបានប្រើ។ សូមផ្តល់រូបរាងដល់វា តាមរយៈការនិទានរឿង សិល្បៈ តន្ត្រី ឬការសិក្សាអំពីចិត្ត។"
+      },
+      "outcome": {
+        "en": "Expressing your inner world could reveal a remarkable talent. You may create work that speaks to people on a deep level.",
+        "km": "ការបញ្ចេញពិភពខាងក្នុងរបស់អ្នក អាចបង្ហាញទេពកោសល្យគួរឱ្យកត់សម្គាល់។ អ្នកអាចបង្កើតការងារដែលនិយាយទៅកាន់មនុស្សក្នុងកម្រិតជ្រៅ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Warmth, joy and a natural ease with people may be your gifts. You could brighten any room and put others at ease.",
+        "km": "ភាពកក់ក្តៅ សេចក្តីរីករាយ និងភាពស្រួលធម្មជាតិជាមួយមនុស្ស អាចជាអំណោយរបស់អ្នក។ អ្នកអាចធ្វើឱ្យបន្ទប់ណាមួយភ្លឺស្វាង និងធ្វើឱ្យអ្នកដទៃស្រួល។"
+      },
+      "challenge": {
+        "en": "Taking this gift for granted could keep it from growing. Develop it through performing, teaching or working with children and groups.",
+        "km": "ការចាត់ទុកអំណោយនេះជារឿងធម្មតា អាចរារាំងវាពីការលូតលាស់។ សូមអភិវឌ្ឍវាតាមរយៈការសម្តែង ការបង្រៀន ឬការធ្វើការជាមួយកុមារ និងក្រុម។"
+      },
+      "outcome": {
+        "en": "Developed warmth could make you a natural leader and performer. You may find success in roles where your joy lifts everyone around you.",
+        "km": "ភាពកក់ក្តៅដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកដឹកនាំ និងអ្នកសម្តែងធម្មជាតិ។ អ្នកអាចរកឃើញភាពជោគជ័យក្នុងតួនាទី ដែលសេចក្តីរីករាយរបស់អ្នកលើកមនុស្សគ្រប់គ្នានៅជុំវិញអ្នក។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "An old ability may be stirring back to life. A gift you let rest could be ready for you to pick up and develop properly.",
+        "km": "សមត្ថភាពចាស់មួយ អាចកំពុងភ្ញាក់ឡើងវិញ។ អំណោយដែលអ្នកបានទុកឱ្យសម្រាក អាចត្រៀមរួចសម្រាប់អ្នកយកមកអភិវឌ្ឍឱ្យបានត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Feeling embarrassed that you let it slide could keep you from picking it up. Begin again gently, as a returning learner rather than a lapsed expert.",
+        "km": "ការខ្មាស់ដែលអ្នកបានទុកឱ្យវារសាត់ អាចរារាំងអ្នកពីការយកវាមកវិញ។ សូមចាប់ផ្តើមម្តងទៀតដោយទន់ភ្លន់ ក្នុងនាមជាអ្នករៀនដែលត្រឡប់មកវិញ ជាជាងអ្នកជំនាញដែលធ្លាក់ចុះ។"
+      },
+      "outcome": {
+        "en": "A revived gift could feel richer for the gap. You may bring maturity to it that makes the ability more truly your own.",
+        "km": "អំណោយដែលរស់ឡើងវិញ អាចមានអារម្មណ៍សម្បូរជាងដោយសារចន្លោះនោះ។ អ្នកអាចនាំភាពចាស់ទុំមកក្នុងវា ដែលធ្វើឱ្យសមត្ថភាពនោះកាន់តែជារបស់អ្នកពិតប្រាកដ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Seeing the whole and completing big things may be your gift. You could be good at seeing the whole picture and completing big projects.",
+        "km": "ការមើលឃើញទាំងមូល និងការបញ្ចប់រឿងធំៗ អាចជាអំណោយរបស់អ្នក។ អ្នកអាចពូកែក្នុងការមើលឃើញរូបភាពទាំងមូល និងការបញ្ចប់គម្រោងធំៗ។"
+      },
+      "challenge": {
+        "en": "Leaving projects unfinished could hide this gift. Develop it by seeing one significant piece of work all the way through.",
+        "km": "ការទុកគម្រោងមិនបានបញ្ចប់ អាចលាក់អំណោយនេះ។ សូមអភិវឌ្ឍវាដោយការធ្វើការងារសំខាន់មួយរហូតដល់ចប់។"
+      },
+      "outcome": {
+        "en": "A developed gift for integration could open wide opportunities. You may thrive in roles that bridge cultures, teams or ideas.",
+        "km": "អំណោយក្នុងការរួមបញ្ចូលដែលត្រូវបានអភិវឌ្ឍ អាចបើកឱកាសទូលាយ។ អ្នកអាចរីកចម្រើនក្នុងតួនាទី ដែលភ្ជាប់វប្បធម៌ ក្រុម ឬគំនិត។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A spark of creative energy may be one of your talents. You could be full of ideas and quick to get excited about new projects.",
+        "km": "ផ្កាភ្លើងនៃថាមពលច្នៃប្រឌិត អាចជាទេពកោសល្យមួយរបស់អ្នក។ អ្នកអាចពោរពេញដោយគំនិត ហើយរំភើបយ៉ាងងាយចំពោះគម្រោងថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Letting ideas fizzle before they take shape could waste this gift. Pick one idea and develop it far enough to see what it could become.",
+        "km": "ការទុកឱ្យគំនិតរលត់ មុនពេលវាមានរូបរាង អាចខ្ជះខ្ជាយអំណោយនេះ។ សូមជ្រើសរើសគំនិតមួយ ហើយអភិវឌ្ឍវាឱ្យបានឆ្ងាយគ្រប់គ្រាន់ ដើម្បីមើលថាវាអាចក្លាយជាអ្វី។"
+      },
+      "outcome": {
+        "en": "Developing your creative spark could turn ideas into real achievements. You may become known for starting things others are glad to join.",
+        "km": "ការអភិវឌ្ឍផ្កាភ្លើងច្នៃប្រឌិតរបស់អ្នក អាចប្រែក្លាយគំនិតទៅជាសមិទ្ធផលពិតប្រាកដ។ អ្នកអាចត្រូវបានគេស្គាល់ដោយការចាប់ផ្តើមរឿងរ៉ាវ ដែលអ្នកដទៃរីករាយចូលរួម។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Vision and forward planning may be talents of yours. You could be good at seeing where things could go and mapping a route there.",
+        "km": "ចក្ខុវិស័យ និងការគ្រោងទុកជាមុន អាចជាទេពកោសល្យរបស់អ្នក។ អ្នកអាចពូកែក្នុងការមើលឃើញថាអ្វីៗអាចទៅណា និងការគូសផែនទីផ្លូវទៅទីនោះ។"
+      },
+      "challenge": {
+        "en": "Planning without acting could leave this gift on paper. Develop it by turning one plan into reality, step by step.",
+        "km": "ការគ្រោងដោយមិនធ្វើសកម្មភាព អាចទុកអំណោយនេះនៅលើក្រដាស។ សូមអភិវឌ្ឍវាដោយការប្រែក្លាយផែនការមួយទៅជាការពិត ម្តងមួយជំហាន។"
+      },
+      "outcome": {
+        "en": "Developed vision could open wider horizons for you and others. You may thrive in strategy, travel or roles that shape the bigger picture.",
+        "km": "ចក្ខុវិស័យដែលត្រូវបានអភិវឌ្ឍ អាចបើកជើងមេឃទូលាយជាងសម្រាប់អ្នក និងអ្នកដទៃ។ អ្នកអាចរីកចម្រើនក្នុងយុទ្ធសាស្ត្រ ការធ្វើដំណើរ ឬតួនាទីដែលបង្កើតរូបភាពធំ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Growing things, from projects to networks, may be a strength of yours. You could be good at expanding on a promising start.",
+        "km": "ការធ្វើឱ្យរបស់លូតលាស់ ចាប់ពីគម្រោងរហូតដល់បណ្តាញ អាចជាចំណុចខ្លាំងរបស់អ្នក។ អ្នកអាចពូកែក្នុងការពង្រីកលើការចាប់ផ្តើមដែលមានសង្ឃឹម។"
+      },
+      "challenge": {
+        "en": "Waiting impatiently for results could make you abandon this gift. Develop it with patience, letting each stage of growth settle.",
+        "km": "ការរង់ចាំលទ្ធផលដោយមិនអត់ធ្មត់ អាចធ្វើឱ្យអ្នកបោះបង់អំណោយនេះ។ សូមអភិវឌ្ឍវាដោយការអត់ធ្មត់ ដោយទុកឱ្យដំណាក់កាលនីមួយៗនៃការលូតលាស់ស្ថិតស្ថេរ។"
+      },
+      "outcome": {
+        "en": "A developed gift for expansion could open wide opportunities. You may build something that reaches far beyond where it began.",
+        "km": "អំណោយក្នុងការពង្រីកដែលត្រូវបានអភិវឌ្ឍ អាចបើកឱកាសទូលាយ។ អ្នកអាចកសាងអ្វីមួយ ដែលទៅដល់ឆ្ងាយហួសពីកន្លែងដែលវាបានចាប់ផ្តើម។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Hosting and celebration may be something you are naturally good at. You could be good at making people feel welcome and bringing them together.",
+        "km": "ការទទួលភ្ញៀវ និងការអបអរ អាចជាអ្វីមួយដែលអ្នកពូកែដោយធម្មជាតិ។ អ្នកអាចពូកែក្នុងការធ្វើឱ្យមនុស្សមានអារម្មណ៍ស្វាគមន៍ និងនាំពួកគេមកជួបគ្នា។"
+      },
+      "challenge": {
+        "en": "Seeing this as just social skill could undervalue it. Develop it through event planning, community work or hospitality.",
+        "km": "ការមើលរឿងនេះថាគ្រាន់តែជាជំនាញសង្គម អាចឱ្យតម្លៃទាបលើវា។ សូមអភិវឌ្ឍវាតាមរយៈការរៀបចំព្រឹត្តិការណ៍ ការងារសហគមន៍ ឬបដិសណ្ឋារកិច្ច។"
+      },
+      "outcome": {
+        "en": "Developing this gift could bring joy to many. You may create spaces and events where people feel they truly belong.",
+        "km": "ការអភិវឌ្ឍអំណោយនេះ អាចនាំមកនូវសេចក្តីរីករាយដល់មនុស្សជាច្រើន។ អ្នកអាចបង្កើតលំហ និងព្រឹត្តិការណ៍ ដែលមនុស្សមានអារម្មណ៍ថាពួកគេពិតជាជាផ្នែកមួយ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Competitive spirit and quick thinking may be among your talents. You could thrive in debate, sport or any arena that tests you.",
+        "km": "ស្មារតីប្រកួតប្រជែង និងការគិតរហ័ស អាចស្ថិតក្នុងចំណោមទេពកោសល្យរបស់អ្នក។ អ្នកអាចរីកចម្រើនក្នុងការជជែកដេញដោល កីឡា ឬវិស័យណាមួយដែលសាកល្បងអ្នក។"
+      },
+      "challenge": {
+        "en": "Competing for its own sake could turn this gift into conflict. Develop it in structured settings where rivalry is healthy and fair.",
+        "km": "ការប្រកួតប្រជែងដើម្បីតែខ្លួនវា អាចប្រែអំណោយនេះទៅជាជម្លោះ។ សូមអភិវឌ្ឍវាក្នុងបរិយាកាសដែលមានរចនាសម្ព័ន្ធ ដែលការប្រជែងគ្នាមានសុខភាពល្អ និងយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "Channelled competitiveness could make you formidable in your field. You may excel where sharp thinking and resilience under pressure count.",
+        "km": "ការប្រកួតប្រជែងដែលត្រូវបានដឹកនាំ អាចធ្វើឱ្យអ្នកខ្លាំងក្នុងវិស័យរបស់អ្នក។ អ្នកអាចពូកែលើស នៅកន្លែងដែលការគិតមុតស្រួច និងភាពធន់ក្រោមសម្ពាធមានតម្លៃ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Leading from the front may come easily to you. You could inspire confidence in others and naturally take centre stage.",
+        "km": "ការដឹកនាំពីខាងមុខ អាចមកដល់អ្នកយ៉ាងងាយ។ អ្នកអាចបំផុសទំនុកចិត្តក្នុងអ្នកដទៃ ហើយឈរនៅកណ្តាលដោយធម្មជាតិ។"
+      },
+      "challenge": {
+        "en": "Relying on recognition could make this gift feel hollow. Develop it by leading in ways that lift others as well as yourself.",
+        "km": "ការពឹងលើការទទួលស្គាល់ អាចធ្វើឱ្យអំណោយនេះមានអារម្មណ៍ទទេ។ សូមអភិវឌ្ឍវាដោយការដឹកនាំតាមរបៀបដែលលើកអ្នកដទៃ ក៏ដូចជាខ្លួនឯងដែរ។"
+      },
+      "outcome": {
+        "en": "Developed leadership could bring well-earned recognition. You may find yourself leading projects that make a visible difference.",
+        "km": "ការដឹកនាំដែលត្រូវបានអភិវឌ្ឍ អាចនាំមកនូវការទទួលស្គាល់ដែលសមនឹងទទួល។ អ្នកអាចឃើញខ្លួនឯងដឹកនាំគម្រោង ដែលធ្វើឱ្យមានភាពខុសគ្នាដែលអាចមើលឃើញ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Courage to stand up for what is right may be a gift of yours. You could be good at defending ideas and people who need a voice.",
+        "km": "ភាពក្លាហានក្នុងការក្រោកឈរការពារអ្វីដែលត្រឹមត្រូវ អាចជាអំណោយរបស់អ្នក។ អ្នកអាចពូកែក្នុងការការពារគំនិត និងមនុស្សដែលត្រូវការសំឡេង។"
+      },
+      "challenge": {
+        "en": "Fighting every battle could exhaust this gift. Develop it through advocacy, debate or campaigning, choosing causes that matter most.",
+        "km": "ការតស៊ូគ្រប់ការតស៊ូ អាចធ្វើឱ្យអំណោយនេះអស់កម្លាំង។ សូមអភិវឌ្ឍវាតាមរយៈការតស៊ូមតិ ការជជែកដេញដោល ឬយុទ្ធនាការ ដោយជ្រើសរើសបុព្វហេតុដែលសំខាន់បំផុត។"
+      },
+      "outcome": {
+        "en": "Developed courage could make you a strong voice for others. You may find purpose in standing up for what you believe.",
+        "km": "ភាពក្លាហានដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាសំឡេងខ្លាំងសម្រាប់អ្នកដទៃ។ អ្នកអាចរកឃើញគោលបំណងក្នុងការក្រោកឈរការពារអ្វីដែលអ្នកជឿ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Speed and energy may be among your natural talents. You could be quick to learn, quick to act and good at keeping things moving.",
+        "km": "ល្បឿន និងថាមពល អាចស្ថិតក្នុងចំណោមទេពកោសល្យធម្មជាតិរបស់អ្នក។ អ្នកអាចរៀនបានរហ័ស ធ្វើសកម្មភាពរហ័ស និងពូកែក្នុងការរក្សាអ្វីៗឱ្យដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Rushing could leave this gift shallow. Develop it by pairing your speed with care and attention to detail.",
+        "km": "ការប្រញាប់ អាចធ្វើឱ្យអំណោយនេះរាក់។ សូមអភិវឌ្ឍវាដោយការផ្គូផ្គងល្បឿនរបស់អ្នក ជាមួយការយកចិត្តទុកដាក់ និងការប្រុងប្រយ័ត្នលើព័ត៌មានលម្អិត។"
+      },
+      "outcome": {
+        "en": "Disciplined energy could make you highly effective. You may thrive in lively roles where momentum is everything.",
+        "km": "ថាមពលដែលមានវិន័យ អាចធ្វើឱ្យអ្នកមានប្រសិទ្ធភាពខ្ពស់។ អ្នកអាចរីកចម្រើនក្នុងតួនាទីដ៏រស់រវើក ដែលសន្ទុះគឺជាអ្វីៗទាំងអស់។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Resilience may be one of your strongest talents. You could keep going through difficulties that would stop others.",
+        "km": "ភាពធន់ អាចជាទេពកោសល្យខ្លាំងបំផុតមួយរបស់អ្នក។ អ្នកអាចបន្តទៅមុខឆ្លងកាត់ការលំបាក ដែលនឹងបញ្ឈប់អ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Pushing through without rest could wear this gift down. Develop it by learning when to pause, so your stamina lasts.",
+        "km": "ការរុញឆ្លងកាត់ដោយគ្មានការសម្រាក អាចធ្វើឱ្យអំណោយនេះស្រុតចុះ។ សូមអភិវឌ្ឍវាដោយការរៀនពីពេលដែលត្រូវផ្អាក ដើម្បីឱ្យកម្លាំងតស៊ូរបស់អ្នកនៅបាន។"
+      },
+      "outcome": {
+        "en": "Developed resilience could make you someone others rely on in hard times. You may find strength to support people through their struggles too.",
+        "km": "ភាពធន់ដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាមនុស្សដែលអ្នកដទៃពឹងផ្អែកក្នុងពេលលំបាក។ អ្នកអាចរកឃើញកម្លាំងដើម្បីគាំទ្រមនុស្សឆ្លងកាត់ការតស៊ូរបស់ពួកគេផងដែរ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Taking on responsibility may be something you do naturally well. You could be the one others count on to carry important tasks.",
+        "km": "ការទទួលយកទំនួលខុសត្រូវ អាចជាអ្វីដែលអ្នកធ្វើបានល្អដោយធម្មជាតិ។ អ្នកអាចជាមនុស្សដែលអ្នកដទៃពឹងផ្អែកដើម្បីលីកិច្ចការសំខាន់ៗ។"
+      },
+      "challenge": {
+        "en": "Carrying too much could bury this gift under exhaustion. Develop it by learning to delegate and share the load wisely.",
+        "km": "ការលីច្រើនពេក អាចកប់អំណោយនេះក្រោមការអស់កម្លាំង។ សូមអភិវឌ្ឍវាដោយការរៀនប្រគល់ភារកិច្ច និងចែករំលែកបន្ទុកដោយប្រាជ្ញា។"
+      },
+      "outcome": {
+        "en": "Balanced responsibility could make you a trusted manager or organiser. You may lead well by knowing what to carry and what to hand on.",
+        "km": "ទំនួលខុសត្រូវដែលមានតុល្យភាព អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកគ្រប់គ្រង ឬអ្នករៀបចំដែលគួរឱ្យទុកចិត្ត។ អ្នកអាចដឹកនាំបានល្អ ដោយដឹងថាត្រូវលីអ្វី និងត្រូវប្រគល់អ្វី។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity and enthusiasm may be talents in themselves. You could have a gift for exploring and sparking interest in others.",
+        "km": "ការចង់ដឹងចង់ឃើញ និងភាពរំភើប អាចជាទេពកោសល្យដោយខ្លួនវា។ អ្នកអាចមានអំណោយក្នុងការរុករក និងការដាស់ចំណាប់អារម្មណ៍ក្នុងអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Chasing every new interest could leave this gift scattered. Develop it by following one curiosity deeply enough to build real skill.",
+        "km": "ការដេញតាមចំណាប់អារម្មណ៍ថ្មីនីមួយៗ អាចធ្វើឱ្យអំណោយនេះរាយប៉ាយ។ សូមអភិវឌ្ឍវាដោយការធ្វើតាមការចង់ដឹងមួយឱ្យបានជ្រៅគ្រប់គ្រាន់ ដើម្បីកសាងជំនាញពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Focused curiosity could become a lifelong source of growth. You may inspire others with your fresh, eager way of learning.",
+        "km": "ការចង់ដឹងដែលផ្តោត អាចក្លាយជាប្រភពនៃការលូតលាស់ពេញមួយជីវិត។ អ្នកអាចបំផុសគំនិតអ្នកដទៃ ដោយរបៀបរៀនដ៏ស្រស់ និងចង់ដឹងរបស់អ្នក។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold, adventurous energy may be your gift. You could be at your best taking risks and diving into new challenges.",
+        "km": "ថាមពលក្លាហាន និងផ្សងព្រេង អាចជាអំណោយរបស់អ្នក។ អ្នកអាចល្អបំផុត នៅពេលប្រថុយ និងលោតចូលការប្រកួតថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Acting without thinking could make this gift reckless. Pair boldness with careful preparation, so your daring lands where you aim it.",
+        "km": "ការធ្វើសកម្មភាពដោយមិនគិត អាចធ្វើឱ្យអំណោយនេះធ្វេសប្រហែស។ សូមផ្គូផ្គងភាពក្លាហាន ជាមួយការត្រៀមខ្លួនដោយប្រុងប្រយ័ត្ន ដើម្បីឱ្យភាពហ៊ានរបស់អ្នកទៅដល់កន្លែងដែលអ្នកតម្រង់។"
+      },
+      "outcome": {
+        "en": "Channelled boldness could take you to exciting places. You may thrive in adventure, entrepreneurship or roles that reward courage.",
+        "km": "ភាពក្លាហានដែលត្រូវបានដឹកនាំ អាចនាំអ្នកទៅកន្លែងគួរឱ្យរំភើប។ អ្នកអាចរីកចម្រើនក្នុងការផ្សងព្រេង សហគ្រិនភាព ឬតួនាទីដែលផ្តល់រង្វាន់ដល់ភាពក្លាហាន។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Charisma and confidence may be natural talents. You could draw people in and make them feel energised.",
+        "km": "ភាពទាក់ទាញ និងទំនុកចិត្ត អាចជាទេពកោសល្យធម្មជាតិ។ អ្នកអាចទាក់ទាញមនុស្ស និងធ្វើឱ្យពួកគេមានអារម្មណ៍មានថាមពល។"
+      },
+      "challenge": {
+        "en": "Relying on charm alone could keep this gift shallow. Training in speaking, presenting or leading could give your natural presence real depth.",
+        "km": "ការពឹងតែលើភាពទាក់ទាញ អាចធ្វើឱ្យអំណោយនេះរាក់។ ការបណ្តុះបណ្តាលក្នុងការនិយាយ ការធ្វើបទបង្ហាញ ឬការដឹកនាំ អាចផ្តល់ជម្រៅពិតប្រាកដដល់វត្តមានធម្មជាតិរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Developed charisma could make you an inspiring presence. You may find success in roles where connecting with people is key.",
+        "km": "ភាពទាក់ទាញដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាវត្តមានដែលបំផុសគំនិត។ អ្នកអាចរកឃើញភាពជោគជ័យក្នុងតួនាទី ដែលការភ្ជាប់ទំនាក់ទំនងជាមួយមនុស្សគឺជាគន្លឹះ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Visionary leadership may be a talent of yours. You could see possibilities others miss and rally people around them.",
+        "km": "ការដឹកនាំដែលមានចក្ខុវិស័យ អាចជាទេពកោសល្យរបស់អ្នក។ អ្នកអាចមើលឃើញលទ្ធភាពដែលអ្នកដទៃខកខាន ហើយប្រមូលមនុស្សនៅជុំវិញវា។"
+      },
+      "challenge": {
+        "en": "Trying to control everything could stifle this gift. Develop it by trusting others and sharing the vision.",
+        "km": "ការព្យាយាមគ្រប់គ្រងអ្វីៗទាំងអស់ អាចបង្ក្រាបអំណោយនេះ។ សូមអភិវឌ្ឍវាដោយការទុកចិត្តលើអ្នកដទៃ និងការចែករំលែកចក្ខុវិស័យ។"
+      },
+      "outcome": {
+        "en": "Developed vision could make you a leader people want to follow. You may build something meaningful that outlives your own effort.",
+        "km": "ចក្ខុវិស័យដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកដឹកនាំដែលមនុស្សចង់ធ្វើតាម។ អ្នកអាចកសាងអ្វីមួយដែលមានអត្ថន័យ ដែលនៅបានយូរជាងការខិតខំរបស់អ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Emotional depth and compassion may be among your greatest talents. You could have a gift for understanding feelings, your own and other people's.",
+        "km": "ជម្រៅផ្លូវអារម្មណ៍ និងក្តីមេត្តា អាចស្ថិតក្នុងចំណោមទេពកោសល្យដ៏ធំបំផុតរបស់អ្នក។ អ្នកអាចមានអំណោយក្នុងការយល់ពីអារម្មណ៍ ទាំងរបស់អ្នក និងរបស់មនុស្សដទៃ។"
+      },
+      "challenge": {
+        "en": "Hiding sensitivity as a weakness could keep this gift buried. Let it grow through music, poetry, counselling or care work.",
+        "km": "ការលាក់ភាពរសើបជាចំណុចខ្សោយ អាចកប់អំណោយនេះ។ សូមឱ្យវាលូតលាស់តាមរយៈតន្ត្រី កំណាព្យ ការប្រឹក្សា ឬការងារថែទាំ។"
+      },
+      "outcome": {
+        "en": "Nurtured empathy could make you a deeply valued presence. You may help people feel understood in ways that change their lives.",
+        "km": "ការយល់ចិត្តដែលត្រូវបានថែទាំ អាចធ្វើឱ្យអ្នកក្លាយជាវត្តមានដែលមានតម្លៃយ៉ាងជ្រៅ។ អ្នកអាចជួយមនុស្សឱ្យមានអារម្មណ៍ថាត្រូវបានយល់ តាមរបៀបដែលផ្លាស់ប្តូរជីវិតរបស់ពួកគេ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "Close, trusting partnership may bring out your best abilities. You could work at your best alongside one other person you click with.",
+        "km": "ភាពជាដៃគូជិតស្និទ្ធ និងទុកចិត្តគ្នា អាចទាញចេញនូវសមត្ថភាពល្អបំផុតរបស់អ្នក។ អ្នកអាចធ្វើការបានល្អបំផុត ជាមួយមនុស្សម្នាក់ទៀតដែលអ្នកចុះសម្រុង។"
+      },
+      "challenge": {
+        "en": "Relying on one partner for everything could limit this gift. Practise collaborating with different people to widen your range.",
+        "km": "ការពឹងលើដៃគូម្នាក់សម្រាប់អ្វីៗទាំងអស់ អាចកំណត់អំណោយនេះ។ សូមហ្វឹកហាត់សហការជាមួយមនុស្សផ្សេងៗ ដើម្បីពង្រីកវិសាលភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Developed partnership skills could lead to rewarding collaborations. You may create something with a partner that neither of you could alone.",
+        "km": "ជំនាញភាពជាដៃគូដែលត្រូវបានអភិវឌ្ឍ អាចនាំទៅរកការសហការដ៏មានតម្លៃ។ អ្នកអាចបង្កើតអ្វីមួយជាមួយដៃគូ ដែលអ្នកទាំងពីរមិនអាចធ្វើតែម្នាក់ឯងបាន។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A talent for friendship and teamwork may be strong in you. You could bring people together and make group work enjoyable.",
+        "km": "ទេពកោសល្យក្នុងមិត្តភាព និងការធ្វើការជាក្រុម អាចខ្លាំងក្នុងខ្លួនអ្នក។ អ្នកអាចនាំមនុស្សមកជួបគ្នា និងធ្វើឱ្យការងារជាក្រុមរីករាយ។"
+      },
+      "challenge": {
+        "en": "Seeing sociability as just fun could undervalue it. Grow it through team leadership, event work or community roles.",
+        "km": "ការមើលភាពរួសរាយរាក់ទាក់ថាគ្រាន់តែជាភាពសប្បាយ អាចឱ្យតម្លៃទាបលើវា។ សូមពង្រីកវាតាមរយៈការដឹកនាំក្រុម ការងារព្រឹត្តិការណ៍ ឬតួនាទីសហគមន៍។"
+      },
+      "outcome": {
+        "en": "Developed team spirit could make you the heart of any group. You may help teams achieve more, and enjoy themselves more, because you are there.",
+        "km": "ស្មារតីក្រុមដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាបេះដូងនៃក្រុមណាមួយ។ អ្នកអាចជួយក្រុមសម្រេចបានច្រើនជាង និងរីករាយជាង ដោយសារអ្នកនៅទីនោះ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "A quiet, reflective nature may hold a talent you have not noticed. You could be good at stepping back and seeing what is really missing.",
+        "km": "ធម្មជាតិស្ងាត់ និងឆ្លុះបញ្ចាំង អាចផ្ទុកទេពកោសល្យដែលអ្នកមិនទាន់កត់សម្គាល់។ អ្នកអាចពូកែក្នុងការដកខ្លួនថយក្រោយ និងការមើលឃើញអ្វីដែលពិតជាបាត់។"
+      },
+      "challenge": {
+        "en": "Dismissing every opportunity out of boredom could leave your gifts untested. Say yes to one invitation to try something different.",
+        "km": "ការបដិសេធរាល់ឱកាសដោយសារភាពធុញទ្រាន់ អាចទុកអំណោយរបស់អ្នកមិនត្រូវបានសាកល្បង។ សូមយល់ព្រមចំពោះការអញ្ជើញមួយ ដើម្បីសាកល្បងអ្វីមួយខុសគ្នា។"
+      },
+      "outcome": {
+        "en": "Opening up to new options could reveal a talent you did not know you had. You may surprise yourself with what you discover once you try.",
+        "km": "ការបើកចិត្តចំពោះជម្រើសថ្មី អាចបង្ហាញទេពកោសល្យដែលអ្នកមិនដឹងថាអ្នកមាន។ អ្នកអាចធ្វើឱ្យខ្លួនឯងភ្ញាក់ផ្អើលចំពោះអ្វីដែលអ្នករកឃើញ នៅពេលអ្នកសាកល្បង។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Hard experience may have given you a gift for understanding loss. You could be good at supporting others through grief and disappointment.",
+        "km": "បទពិសោធន៍លំបាក អាចបានផ្តល់ឱ្យអ្នកនូវអំណោយក្នុងការយល់ពីការបាត់បង់។ អ្នកអាចពូកែក្នុងការគាំទ្រអ្នកដទៃឆ្លងកាត់ទុក្ខព្រួយ និងការខកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Staying focused on your own losses could block this gift. Let healing come first, then explore how your experience could help others.",
+        "km": "ការផ្តោតលើការបាត់បង់របស់អ្នកផ្ទាល់ អាចរារាំងអំណោយនេះ។ សូមឱ្យការជាសះស្បើយមកមុន រួចរុករកថាបទពិសោធន៍របស់អ្នកអាចជួយអ្នកដទៃយ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Turning pain into compassion could become a meaningful gift. You may find purpose in counselling, support work or writing about recovery.",
+        "km": "ការប្រែក្លាយការឈឺចាប់ទៅជាក្តីមេត្តា អាចក្លាយជាអំណោយដែលមានអត្ថន័យ។ អ្នកអាចរកឃើញគោលបំណងក្នុងការប្រឹក្សា ការងារគាំទ្រ ឬការសរសេរអំពីការស្តារឡើងវិញ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Something you showed as a child may still be in you, waiting. Something you loved doing when young could hold a gift worth reviving.",
+        "km": "អ្វីមួយដែលអ្នកបានបង្ហាញកាលនៅក្មេង អាចនៅតែមានក្នុងខ្លួនអ្នក ដោយរង់ចាំ។ អ្វីមួយដែលអ្នកស្រឡាញ់ធ្វើកាលនៅក្មេង អាចផ្ទុកអំណោយដែលសមនឹងការធ្វើឱ្យរស់ឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Dismissing childhood interests as silly could make you overlook a real gift. Revisit what you used to love with an adult's patience.",
+        "km": "ការមើលរំលងចំណាប់អារម្មណ៍កាលពីកុមារភាពថាជារឿងល្ងង់ អាចធ្វើឱ្យអ្នកមើលរំលងអំណោយពិតប្រាកដ។ សូមត្រឡប់ទៅរកអ្វីដែលអ្នកធ្លាប់ស្រឡាញ់ ដោយការអត់ធ្មត់របស់មនុស្សពេញវ័យ។"
+      },
+      "outcome": {
+        "en": "Reviving an early talent could bring joy and surprising skill. You may find it was quietly waiting for you to come back to it.",
+        "km": "ការធ្វើឱ្យទេពកោសល្យកាលពីក្មេងរស់ឡើងវិញ អាចនាំមកនូវសេចក្តីរីករាយ និងជំនាញគួរឱ្យភ្ញាក់ផ្អើល។ អ្នកអាចឃើញថាវាកំពុងរង់ចាំអ្នកដោយស្ងាត់ៗ ឱ្យត្រឡប់មករកវាវិញ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Imagination and the ability to dream big may be your gifts. You could see possibilities that others simply cannot picture.",
+        "km": "ការស្រមៃ និងសមត្ថភាពក្នុងការស្រមៃធំ អាចជាអំណោយរបស់អ្នក។ អ្នកអាចមើលឃើញលទ្ធភាព ដែលអ្នកដទៃមិនអាចស្រមៃបាន។"
+      },
+      "challenge": {
+        "en": "Getting lost in daydreams could keep this gift from becoming real. Anchor your imagination in one concrete creative project you can finish.",
+        "km": "ការវង្វេងក្នុងការស្រមៃ អាចរារាំងអំណោយនេះពីការក្លាយជាការពិត។ សូមបោះយុថ្កាការស្រមៃរបស់អ្នក ក្នុងគម្រោងច្នៃប្រឌិតជាក់ស្តែងមួយ ដែលអ្នកអាចបញ្ចប់។"
+      },
+      "outcome": {
+        "en": "Grounded imagination could produce remarkable work. You may turn visions into designs, stories or plans that others can enjoy.",
+        "km": "ការស្រមៃដែលនឹងធឹង អាចបង្កើតការងារគួរឱ្យកត់សម្គាល់។ អ្នកអាចប្រែក្លាយចក្ខុវិស័យទៅជាការរចនា រឿងរ៉ាវ ឬផែនការ ដែលអ្នកដទៃអាចរីករាយ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Seeking deeper meaning may be one of your quiet gifts. You could be good at knowing when something no longer fits and moving on.",
+        "km": "ការស្វែងរកអត្ថន័យជ្រៅជាង អាចជាអំណោយស្ងាត់ៗមួយរបស់អ្នក។ អ្នកអាចពូកែក្នុងការដឹងថាពេលណាអ្វីមួយលែងសម ហើយបន្តទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Leaving things too readily could stop any talent from maturing. Stay with one pursuit long enough to discover its deeper rewards.",
+        "km": "ការចាកចេញពីរឿងរ៉ាវងាយពេក អាចរារាំងទេពកោសល្យណាមួយពីការចាស់ទុំ។ សូមនៅជាមួយការស្វែងរកមួយ ឱ្យបានយូរគ្រប់គ្រាន់ ដើម្បីរកឃើញរង្វាន់ជ្រៅជាងរបស់វា។"
+      },
+      "outcome": {
+        "en": "A developed search for meaning could lead to a calling. You may find work or study that feels truly worth your devotion.",
+        "km": "ការស្វែងរកអត្ថន័យដែលត្រូវបានអភិវឌ្ឍ អាចនាំទៅរកការហៅមួយ។ អ្នកអាចរកឃើញការងារ ឬការសិក្សា ដែលមានអារម្មណ៍ពិតជាសមនឹងការលះបង់របស់អ្នក។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "A talent for enjoying life and making others comfortable may be yours. You could have a gift for hospitality, food or creating pleasant spaces.",
+        "km": "ទេពកោសល្យក្នុងការរីករាយនឹងជីវិត និងធ្វើឱ្យអ្នកដទៃស្រួល អាចជារបស់អ្នក។ អ្នកអាចមានអំណោយក្នុងបដិសណ្ឋារកិច្ច អាហារ ឬការបង្កើតលំហដ៏រីករាយ។"
+      },
+      "challenge": {
+        "en": "Seeing this only as a pleasure could leave it undeveloped. Turn it into a skill through cooking, interior design or event hosting.",
+        "km": "ការមើលរឿងនេះតែជាភាពរីករាយ អាចទុកវាមិនត្រូវបានអភិវឌ្ឍ។ សូមប្រែក្លាយវាទៅជាជំនាញ តាមរយៈការធ្វើម្ហូប ការរចនាផ្ទៃក្នុង ឬការរៀបចំព្រឹត្តិការណ៍។"
+      },
+      "outcome": {
+        "en": "A developed gift for comfort could bring satisfaction to you and many others. You may build something that makes people feel cared for.",
+        "km": "អំណោយក្នុងការផ្តល់ភាពស្រួលដែលត្រូវបានអភិវឌ្ឍ អាចនាំមកនូវការពេញចិត្តដល់អ្នក និងមនុស្សជាច្រើនទៀត។ អ្នកអាចកសាងអ្វីមួយ ដែលធ្វើឱ្យមនុស្សមានអារម្មណ៍ថាត្រូវបានថែទាំ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Creating harmony at home may be something you do especially well. You could be good at building warm, close relationships and a happy household.",
+        "km": "ការបង្កើតភាពចុះសម្រុងនៅផ្ទះ អាចជាអ្វីមួយដែលអ្នកធ្វើបានល្អជាពិសេស។ អ្នកអាចពូកែក្នុងការកសាងទំនាក់ទំនងកក់ក្តៅ និងជិតស្និទ្ធ និងគ្រួសារដែលរីករាយ។"
+      },
+      "challenge": {
+        "en": "Undervaluing family skills could keep you from seeing their wider worth. Bring them into community work, care roles or family support services.",
+        "km": "ការឱ្យតម្លៃទាបលើជំនាញគ្រួសារ អាចរារាំងអ្នកពីការមើលឃើញតម្លៃទូលាយរបស់វា។ សូមនាំវាទៅក្នុងការងារសហគមន៍ តួនាទីថែទាំ ឬសេវាគាំទ្រគ្រួសារ។"
+      },
+      "outcome": {
+        "en": "Developed warmth could strengthen many families and communities. You may find meaningful work helping others build happy homes.",
+        "km": "ភាពកក់ក្តៅដែលត្រូវបានអភិវឌ្ឍ អាចពង្រឹងគ្រួសារ និងសហគមន៍ជាច្រើន។ អ្នកអាចរកឃើញការងារដែលមានអត្ថន័យ ក្នុងការជួយអ្នកដទៃកសាងផ្ទះដ៏រីករាយ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A gentle, artistic sensitivity may be your gift. You could notice beauty and feeling in small things others pass by.",
+        "km": "ភាពរសើបខាងសិល្បៈដ៏ទន់ភ្លន់ អាចជាអំណោយរបស់អ្នក។ អ្នកអាចកត់សម្គាល់សម្រស់ និងអារម្មណ៍ក្នុងរឿងតូចៗ ដែលអ្នកដទៃដើរកាត់។"
+      },
+      "challenge": {
+        "en": "Keeping this sensitivity private could leave it unexpressed. Give it a channel through drawing, writing, photography or music.",
+        "km": "ការរក្សាភាពរសើបនេះជាឯកជន អាចទុកវាមិនត្រូវបានបញ្ចេញ។ សូមផ្តល់ផ្លូវឱ្យវា តាមរយៈការគូរ ការសរសេរ ការថតរូប ឬតន្ត្រី។"
+      },
+      "outcome": {
+        "en": "Expressed sensitivity could become a delicate, distinctive talent. You may create work that touches people quietly and deeply.",
+        "km": "ភាពរសើបដែលត្រូវបានបញ្ចេញ អាចក្លាយជាទេពកោសល្យដ៏ល្អិតល្អន់ និងប្លែក។ អ្នកអាចបង្កើតការងារដែលប៉ះពាល់មនុស្សដោយស្ងាត់ៗ និងជ្រៅ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Passion and romance may be at the heart of your talents. You could bring heartfelt feeling to whatever you create.",
+        "km": "ចំណង់ចំណូលចិត្ត និងមនោសញ្ចេតនា អាចស្ថិតនៅចំណុចកណ្តាលនៃទេពកោសល្យរបស់អ្នក។ អ្នកអាចនាំអារម្មណ៍ចេញពីចិត្ត ទៅក្នុងអ្វីក៏ដោយដែលអ្នកបង្កើត។"
+      },
+      "challenge": {
+        "en": "Relying on mood and inspiration alone could make this gift inconsistent. Back it with regular practice so it grows steadily.",
+        "km": "ការពឹងតែលើអារម្មណ៍ និងការបំផុសគំនិត អាចធ្វើឱ្យអំណោយនេះមិនជាប់លាប់។ សូមគាំទ្រវាដោយការហ្វឹកហាត់ទៀងទាត់ ដើម្បីឱ្យវាលូតលាស់ដោយនឹងនរ។"
+      },
+      "outcome": {
+        "en": "Disciplined passion could produce moving, memorable work. You may find your heart is your greatest creative asset.",
+        "km": "ចំណង់ចំណូលចិត្តដែលមានវិន័យ អាចបង្កើតការងារដែលរំជួលចិត្ត និងគួរឱ្យចងចាំ។ អ្នកអាចឃើញថាចិត្តរបស់អ្នក គឺជាទ្រព្យសម្បត្តិច្នៃប្រឌិតដ៏ធំបំផុតរបស់អ្នក។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "A gift for caring and emotional insight may be yours. You could be someone others naturally confide in and trust.",
+        "km": "អំណោយក្នុងការថែទាំ និងការយល់ដឹងផ្លូវអារម្មណ៍ អាចជារបស់អ្នក។ អ្នកអាចជាមនុស្សដែលអ្នកដទៃប្រាប់រឿងរ៉ាវ និងទុកចិត្តដោយធម្មជាតិ។"
+      },
+      "challenge": {
+        "en": "Absorbing too much of others' pain could exhaust this gift. Learning healthy boundaries is part of developing it well.",
+        "km": "ការស្រូបយកការឈឺចាប់របស់អ្នកដទៃច្រើនពេក អាចធ្វើឱ្យអំណោយនេះអស់កម្លាំង។ ការរៀនព្រំដែនដែលមានសុខភាពល្អ គឺជាផ្នែកមួយនៃការអភិវឌ្ឍវាឱ្យបានល្អ។"
+      },
+      "outcome": {
+        "en": "Developed empathy could lead to meaningful work in care or counselling. You may become a source of comfort and wisdom for many.",
+        "km": "ការយល់ចិត្តដែលត្រូវបានអភិវឌ្ឍ អាចនាំទៅរកការងារដែលមានអត្ថន័យក្នុងការថែទាំ ឬការប្រឹក្សា។ អ្នកអាចក្លាយជាប្រភពនៃការលួងលោម និងប្រាជ្ញាសម្រាប់មនុស្សជាច្រើន។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Emotional maturity and calm may be talents of yours. You could stay steady and kind when others are upset.",
+        "km": "ភាពចាស់ទុំផ្លូវអារម្មណ៍ និងភាពស្ងប់ អាចជាទេពកោសល្យរបស់អ្នក។ អ្នកអាចរក្សាភាពនឹងនរ និងសប្បុរស នៅពេលអ្នកដទៃខកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Hiding your own feelings to stay composed could limit this gift. Allow yourself to be human, too, as you support others.",
+        "km": "ការលាក់អារម្មណ៍របស់អ្នកដើម្បីរក្សាភាពស្ងប់ អាចកំណត់អំណោយនេះ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងជាមនុស្សផងដែរ នៅពេលអ្នកគាំទ្រអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Developed composure could make you a wise mentor or leader. You may guide others through emotional challenges with grace.",
+        "km": "ភាពស្ងប់ស្ងាត់ដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកណែនាំ ឬអ្នកដឹកនាំដែលឈ្លាសវៃ។ អ្នកអាចដឹកនាំអ្នកដទៃឆ្លងកាត់ការលំបាកផ្លូវអារម្មណ៍ ដោយភាពថ្លៃថ្នូ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A sharp, analytical mind may be one of your strongest talents. You could cut through confusion and get to the heart of a problem with ease.",
+        "km": "គំនិតមុតស្រួច និងវិភាគ អាចជាទេពកោសល្យខ្លាំងបំផុតមួយរបស់អ្នក។ អ្នកអាចកាត់ផ្តាច់ភាពច្របូកច្របល់ និងទៅដល់ស្នូលនៃបញ្ហាយ៉ាងងាយ។"
+      },
+      "challenge": {
+        "en": "Using sharpness only to criticise could make others wary of this gift. Point it towards problem-solving, writing or research that builds something.",
+        "km": "ការប្រើភាពមុតស្រួចតែដើម្បីរិះគន់ អាចធ្វើឱ្យអ្នកដទៃប្រុងប្រយ័ត្នចំពោះអំណោយនេះ។ សូមតម្រង់វាទៅរកការដោះស្រាយបញ្ហា ការសរសេរ ឬការស្រាវជ្រាវ ដែលកសាងអ្វីមួយ។"
+      },
+      "outcome": {
+        "en": "A trained analytical mind could open many doors. You may excel in fields where clear thinking and precise expression are valued.",
+        "km": "គំនិតវិភាគដែលបានហ្វឹកហាត់ អាចបើកទ្វារជាច្រើន។ អ្នកអាចពូកែលើសក្នុងវិស័យ ដែលការគិតច្បាស់ និងការបញ្ចេញមតិច្បាស់លាស់ត្រូវបានឱ្យតម្លៃ។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Weighing options calmly may be a gift of yours. You could see both sides of a question more clearly than most.",
+        "km": "ការថ្លឹងថ្លែងជម្រើសដោយស្ងប់ អាចជាអំណោយរបស់អ្នក។ អ្នកអាចមើលឃើញភាគីទាំងពីរនៃសំណួរមួយ ច្បាស់ជាងមនុស្សភាគច្រើន។"
+      },
+      "challenge": {
+        "en": "Seeing every side could leave you unable to choose. Practise turning balanced thinking into clear decisions, in mediation or advisory roles.",
+        "km": "ការមើលឃើញគ្រប់ភាគី អាចធ្វើឱ្យអ្នកមិនអាចជ្រើសរើស។ សូមហ្វឹកហាត់ប្រែក្លាយការគិតដែលមានតុល្យភាព ទៅជាការសម្រេចចិត្តច្បាស់ ក្នុងតួនាទីសម្រុះសម្រួល ឬផ្តល់ប្រឹក្សា។"
+      },
+      "outcome": {
+        "en": "Developed judgement could make you a calm, trusted adviser. You may help others make difficult choices with clarity.",
+        "km": "ការវិនិច្ឆ័យដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកផ្តល់ប្រឹក្សាដែលស្ងប់ និងគួរឱ្យទុកចិត្ត។ អ្នកអាចជួយអ្នកដទៃធ្វើជម្រើសលំបាកដោយភាពច្បាស់លាស់។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Hard experience may have given you a way with honest words. You could have a gift for putting difficult feelings into words.",
+        "km": "បទពិសោធន៍លំបាក អាចបានផ្តល់ឱ្យអ្នកនូវជំនាញក្នុងពាក្យសម្តីស្មោះត្រង់។ អ្នកអាចមានអំណោយក្នុងការដាក់អារម្មណ៍ពិបាកទៅជាពាក្យ។"
+      },
+      "challenge": {
+        "en": "Keeping that pain bottled up could block this gift. Let writing, music or art carry it, and talk to someone you trust if it feels heavy.",
+        "km": "ការទប់ការឈឺចាប់នោះទុកក្នុងចិត្ត អាចរារាំងអំណោយនេះ។ សូមឱ្យការសរសេរ តន្ត្រី ឬសិល្បៈលីវា ហើយនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ប្រសិនបើវាធ្ងន់។"
+      },
+      "outcome": {
+        "en": "Turning hurt into honest expression could create powerful work. You may help others feel less alone through what you share.",
+        "km": "ការប្រែក្លាយការឈឺចាប់ទៅជាការបញ្ចេញមតិដោយស្មោះត្រង់ អាចបង្កើតការងារដ៏មានឥទ្ធិពល។ អ្នកអាចជួយអ្នកដទៃឱ្យមានអារម្មណ៍មិនសូវឯកោ តាមរយៈអ្វីដែលអ្នកចែករំលែក។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Calm and stillness may be quiet strengths of yours. You could have a gift for helping yourself and others find rest.",
+        "km": "ភាពស្ងប់ និងភាពស្ងៀមស្ងាត់ អាចជាចំណុចខ្លាំងស្ងាត់ៗរបស់អ្នក។ អ្នកអាចមានអំណោយក្នុងការជួយខ្លួនឯង និងអ្នកដទៃរកឃើញការសម្រាក។"
+      },
+      "challenge": {
+        "en": "Seeing quietness as a lack of ambition could undervalue this gift. Explore it through meditation, yoga teaching or wellbeing work.",
+        "km": "ការមើលភាពស្ងាត់ថាជាការខ្វះមហិច្ឆតា អាចឱ្យតម្លៃទាបលើអំណោយនេះ។ សូមរុករកវាតាមរយៈសមាធិ ការបង្រៀនយូហ្គា ឬការងារសុខុមាលភាព។"
+      },
+      "outcome": {
+        "en": "Developed calm could become a healing gift for others. You may help people find peace in a busy, stressful world.",
+        "km": "ភាពស្ងប់ដែលត្រូវបានអភិវឌ្ឍ អាចក្លាយជាអំណោយព្យាបាលសម្រាប់អ្នកដទៃ។ អ្នកអាចជួយមនុស្សរកឃើញសន្តិភាព ក្នុងពិភពលោកដ៏រវល់ និងតានតឹង។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "A talent for strategy and winning arguments may be yours. You could be quick to spot weaknesses and find an edge.",
+        "km": "ទេពកោសល្យក្នុងយុទ្ធសាស្ត្រ និងការឈ្នះការប្រកែក អាចជារបស់អ្នក។ អ្នកអាចរហ័សក្នុងការមើលឃើញចំណុចខ្សោយ និងរកអត្ថប្រយោជន៍។"
+      },
+      "challenge": {
+        "en": "Using this gift to win at any cost could damage relationships. Develop it ethically, through debate, law-related study or negotiation.",
+        "km": "ការប្រើអំណោយនេះដើម្បីឈ្នះដោយមិនគិតពីតម្លៃ អាចបំផ្លាញទំនាក់ទំនង។ សូមអភិវឌ្ឍវាដោយមានក្រមសីលធម៌ តាមរយៈការជជែកដេញដោល ការសិក្សាទាក់ទងនឹងច្បាប់ ឬការចរចា។"
+      },
+      "outcome": {
+        "en": "Ethical strategy could make you a respected negotiator or advocate. You may win outcomes that are fair as well as effective.",
+        "km": "យុទ្ធសាស្ត្រដែលមានក្រមសីលធម៌ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកចរចា ឬអ្នកតស៊ូមតិដែលគេគោរព។ អ្នកអាចឈ្នះលទ្ធផលដែលយុត្តិធម៌ ក៏ដូចជាមានប្រសិទ្ធភាព។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Guiding people through transition may come naturally to you. You could help others move from hard times to calmer ones.",
+        "km": "ការដឹកនាំមនុស្សឆ្លងកាត់ការផ្លាស់ប្តូរ អាចកើតឡើងដោយធម្មជាតិចំពោះអ្នក។ អ្នកអាចជួយអ្នកដទៃផ្លាស់ពីពេលលំបាក ទៅរកពេលស្ងប់ជាង។"
+      },
+      "challenge": {
+        "en": "Carrying your own unresolved troubles could weigh down this gift. Tend to your own healing as you develop the ability to help others.",
+        "km": "ការលីបញ្ហាដែលមិនទាន់ដោះស្រាយរបស់អ្នកផ្ទាល់ អាចធ្វើឱ្យអំណោយនេះធ្ងន់។ សូមថែទាំការជាសះស្បើយរបស់អ្នកផ្ទាល់ នៅពេលអ្នកអភិវឌ្ឍសមត្ថភាពជួយអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Developed guidance could make you a steady companion for others in change. You may find meaningful work in support, travel or coaching.",
+        "km": "ការណែនាំដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាដៃគូនឹងនរសម្រាប់អ្នកដទៃក្នុងការផ្លាស់ប្តូរ។ អ្នកអាចរកឃើញការងារដែលមានអត្ថន័យ ក្នុងការគាំទ្រ ការធ្វើដំណើរ ឬការបង្វឹក។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Clever, resourceful thinking may be a talent of yours. You could find inventive solutions others would never think of.",
+        "km": "ការគិតឆ្លាតវៃ និងប៉ិនប្រសប់ អាចជាទេពកោសល្យរបស់អ្នក។ អ្នកអាចរកឃើញដំណោះស្រាយច្នៃប្រឌិត ដែលអ្នកដទៃមិនដែលគិតដល់។"
+      },
+      "challenge": {
+        "en": "Using cleverness to cut corners could undermine this gift. Put it to honest use in problem-solving, strategy or design.",
+        "km": "ការប្រើភាពឆ្លាតវៃដើម្បីដើរផ្លូវកាត់ អាចបំផ្លាញអំណោយនេះ។ សូមដាក់វាឱ្យប្រើប្រាស់ដោយស្មោះត្រង់ ក្នុងការដោះស្រាយបញ្ហា យុទ្ធសាស្ត្រ ឬការរចនា។"
+      },
+      "outcome": {
+        "en": "Honest ingenuity could make you a valued problem-solver. You may become known for clever ideas that actually work.",
+        "km": "ភាពប៉ិនប្រសប់ដោយស្មោះត្រង់ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកដោះស្រាយបញ្ហាដ៏មានតម្លៃ។ អ្នកអាចត្រូវបានគេស្គាល់ដោយគំនិតឆ្លាតវៃ ដែលពិតជាដំណើរការ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "A talent may be hidden behind self-doubt. You could be capable of far more than you allow yourself to try.",
+        "km": "ទេពកោសល្យមួយ អាចត្រូវបានលាក់នៅពីក្រោយការសង្ស័យលើខ្លួនឯង។ អ្នកអាចមានសមត្ថភាពច្រើនជាងអ្វីដែលអ្នកអនុញ្ញាតឱ្យខ្លួនឯងសាកល្បង។"
+      },
+      "challenge": {
+        "en": "Believing you have no special gifts could keep you from looking. Try one activity you have always told yourself you could not do.",
+        "km": "ការជឿថាអ្នកគ្មានអំណោយពិសេស អាចរារាំងអ្នកពីការរកមើល។ សូមសាកល្បងសកម្មភាពមួយ ដែលអ្នកតែងប្រាប់ខ្លួនឯងថាអ្នកមិនអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Breaking through self-doubt could reveal an unexpected talent. You may discover an ability that changes how you see yourself.",
+        "km": "ការទម្លុះការសង្ស័យលើខ្លួនឯង អាចបង្ហាញទេពកោសល្យដែលមិនរំពឹងទុក។ អ្នកអាចរកឃើញសមត្ថភាពមួយ ដែលផ្លាស់ប្តូររបៀបដែលអ្នកមើលខ្លួនឯង។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry may be hiding your talents from you. Anxiety about not being good enough could be stopping you from exploring them.",
+        "km": "ការព្រួយបារម្ភ អាចកំពុងលាក់ទេពកោសល្យរបស់អ្នកពីអ្នក។ ការថប់បារម្ភអំពីការមិនល្អគ្រប់គ្រាន់ អាចកំពុងរារាំងអ្នកពីការរុករកវា។"
+      },
+      "challenge": {
+        "en": "Fear of not being good enough could keep your abilities hidden. Try something new where mistakes cost nothing, and seek professional help if anxiety affects your sleep or health.",
+        "km": "ការខ្លាចមិនល្អគ្រប់គ្រាន់ អាចលាក់សមត្ថភាពរបស់អ្នក។ សូមសាកល្បងអ្វីមួយថ្មី ដែលកំហុសមិនខាតអ្វី ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Easing worry could free you to discover what you are good at. You may find talents that were there, quietly waiting for calm.",
+        "km": "ការបន្ធូរការព្រួយបារម្ភ អាចដោះលែងអ្នកឱ្យរកឃើញអ្វីដែលអ្នកពូកែ។ អ្នកអាចរកឃើញទេពកោសល្យដែលមាន ដោយរង់ចាំភាពស្ងប់ដោយស្ងាត់ៗ។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A painful setback may have left you doubting your gifts. You could feel that whatever talent you had has been lost.",
+        "km": "ឧបសគ្គដ៏ឈឺចាប់មួយ អាចបានធ្វើឱ្យអ្នកសង្ស័យលើអំណោយរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ថាទេពកោសល្យណាក៏ដោយដែលអ្នកមាន បានបាត់បង់។"
+      },
+      "challenge": {
+        "en": "A crushing setback could make you think you had no gift at all. Give yourself gentle company and rest, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ឧបសគ្គដ៏កំទេចមួយ អាចធ្វើឱ្យអ្នកគិតថាអ្នកគ្មានអំណោយសោះ។ សូមផ្តល់ឱ្យខ្លួនឯងនូវការនៅជាមួយដ៏ទន់ភ្លន់ និងការសម្រាក ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Rising from this low could reveal resilience as one of your gifts. You may find strength you can use to help others in time of need.",
+        "km": "ការក្រោកឡើងពីចំណុចទាបនេះ អាចបង្ហាញភាពធន់ជាអំណោយមួយរបស់អ្នក។ អ្នកអាចរកឃើញកម្លាំង ដែលអ្នកអាចប្រើដើម្បីជួយអ្នកដទៃនៅពេលត្រូវការ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Curiosity and a quick mind may be natural talents. You could learn languages, facts or new skills with ease.",
+        "km": "ការចង់ដឹងចង់ឃើញ និងគំនិតរហ័ស អាចជាទេពកោសល្យធម្មជាតិ។ អ្នកអាចរៀនភាសា ការពិត ឬជំនាញថ្មីៗយ៉ាងងាយ។"
+      },
+      "challenge": {
+        "en": "Flitting between interests could keep this gift shallow. Choose one area, such as writing, research or languages, to go deep in.",
+        "km": "ការលោតរវាងចំណាប់អារម្មណ៍ អាចធ្វើឱ្យអំណោយនេះរាក់។ សូមជ្រើសរើសផ្នែកមួយ ដូចជាការសរសេរ ការស្រាវជ្រាវ ឬភាសា ដើម្បីចូលជ្រៅ។"
+      },
+      "outcome": {
+        "en": "A focused, curious mind could make you an excellent communicator or researcher. You may become a source of knowledge others appreciate.",
+        "km": "គំនិតដែលចង់ដឹង និងផ្តោត អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកទំនាក់ទំនង ឬអ្នកស្រាវជ្រាវដ៏ល្អ។ អ្នកអាចក្លាយជាប្រភពចំណេះដឹងដែលអ្នកដទៃឱ្យតម្លៃ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Drive and decisiveness may be among your talents. You could act readily and lead the charge when others hesitate.",
+        "km": "កម្លាំងជំរុញ និងភាពម៉ឺងម៉ាត់ អាចស្ថិតក្នុងចំណោមទេពកោសល្យរបស់អ្នក។ អ្នកអាចធ្វើសកម្មភាពរហ័ស និងដឹកនាំការវាយលុក នៅពេលអ្នកដទៃស្ទាក់ស្ទើរ។"
+      },
+      "challenge": {
+        "en": "Acting before thinking could make this gift reckless. Develop it by pairing decisiveness with careful planning and listening.",
+        "km": "ការធ្វើសកម្មភាពមុនពេលគិត អាចធ្វើឱ្យអំណោយនេះធ្វេសប្រហែស។ សូមអភិវឌ្ឍវាដោយការផ្គូផ្គងភាពម៉ឺងម៉ាត់ ជាមួយការគ្រោងដោយប្រុងប្រយ័ត្ន និងការស្តាប់។"
+      },
+      "outcome": {
+        "en": "Channelled drive could make you effective in demanding roles. You may lead projects or teams that need quick, clear decisions.",
+        "km": "កម្លាំងជំរុញដែលត្រូវបានដឹកនាំ អាចធ្វើឱ្យអ្នកមានប្រសិទ្ធភាពក្នុងតួនាទីដ៏ទាមទារ។ អ្នកអាចដឹកនាំគម្រោង ឬក្រុម ដែលត្រូវការការសម្រេចចិត្តរហ័ស និងច្បាស់លាស់។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear, honest perception may be your gift. You could see through pretence and speak truth with precision.",
+        "km": "ការយល់ឃើញច្បាស់ និងស្មោះត្រង់ អាចជាអំណោយរបស់អ្នក។ អ្នកអាចមើលធ្លុះការក្លែងបន្លំ ហើយនិយាយការពិតដោយច្បាស់លាស់។"
+      },
+      "challenge": {
+        "en": "Delivering truth too sharply could make others defensive. Develop the gift with tact, through editing, analysis or mentoring.",
+        "km": "ការប្រាប់ការពិតមុតស្រួចពេក អាចធ្វើឱ្យអ្នកដទៃការពារខ្លួន។ សូមអភិវឌ្ឍអំណោយនេះដោយមានបច្ចេកទេស តាមរយៈការកែសម្រួល ការវិភាគ ឬការណែនាំ។"
+      },
+      "outcome": {
+        "en": "Tactful honesty could make you a trusted critic or mentor. You may help others improve through feedback they can actually use.",
+        "km": "ភាពស្មោះត្រង់ដោយមានបច្ចេកទេស អាចធ្វើឱ្យអ្នកក្លាយជាអ្នករិះគន់ ឬអ្នកណែនាំដែលគួរឱ្យទុកចិត្ត។ អ្នកអាចជួយអ្នកដទៃកែលម្អ តាមរយៈមតិយោបល់ដែលពួកគេអាចប្រើបានពិតប្រាកដ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Logic and principled thinking may be your strengths. You could reason clearly and make fair, well-considered decisions.",
+        "km": "តក្កវិជ្ជា និងការគិតដែលមានគោលការណ៍ អាចជាចំណុចខ្លាំងរបស់អ្នក។ អ្នកអាចវែកញែកយ៉ាងច្បាស់ និងធ្វើការសម្រេចចិត្តដែលយុត្តិធម៌ និងបានពិចារណាល្អ។"
+      },
+      "challenge": {
+        "en": "Relying only on logic could leave out the human side. Develop this gift alongside empathy, so your judgement serves people well.",
+        "km": "ការពឹងតែលើតក្កវិជ្ជា អាចទុកចោលផ្នែកមនុស្ស។ សូមអភិវឌ្ឍអំណោយនេះរួមជាមួយការយល់ចិត្ត ដើម្បីឱ្យការវិនិច្ឆ័យរបស់អ្នកបម្រើមនុស្សបានល្អ។"
+      },
+      "outcome": {
+        "en": "Balanced reasoning could make you an authority in your field. You may be trusted with decisions that need both clarity and fairness.",
+        "km": "ការវែកញែកដែលមានតុល្យភាព អាចធ្វើឱ្យអ្នកក្លាយជាសិទ្ធិអំណាចក្នុងវិស័យរបស់អ្នក។ អ្នកអាចត្រូវបានទុកចិត្តជាមួយការសម្រេចចិត្ត ដែលត្រូវការទាំងភាពច្បាស់លាស់ និងយុត្តិធម៌។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical, hands-on talent may be waiting to be developed. You could have a natural feel for working with materials, money or physical tasks.",
+        "km": "ទេពកោសល្យជាក់ស្តែង និងអនុវត្តផ្ទាល់ អាចកំពុងរង់ចាំការអភិវឌ្ឍ។ អ្នកអាចមានអារម្មណ៍ធម្មជាតិក្នុងការធ្វើការជាមួយសម្ភារៈ ប្រាក់ ឬកិច្ចការរាងកាយ។"
+      },
+      "challenge": {
+        "en": "Seeing practical skill as less valuable than academic talent could hold you back. Give your hands-on ability a real place, through a trade, craft or enterprise.",
+        "km": "ការមើលជំនាញជាក់ស្តែងថាមានតម្លៃតិចជាងទេពកោសល្យសិក្សា អាចរារាំងអ្នក។ សូមផ្តល់កន្លែងពិតប្រាកដដល់សមត្ថភាពអនុវត្តផ្ទាល់របស់អ្នក តាមរយៈវិជ្ជាជីវៈ សិប្បកម្ម ឬសហគ្រាស។"
+      },
+      "outcome": {
+        "en": "A developed practical talent could grow into a solid source of pride and security. You may build something real that stands and supports you.",
+        "km": "ទេពកោសល្យជាក់ស្តែងដែលត្រូវបានអភិវឌ្ឍ អាចលូតលាស់ទៅជាប្រភពមោទនភាព និងសុវត្ថិភាពរឹងមាំ។ អ្នកអាចកសាងអ្វីមួយពិតប្រាកដ ដែលឈររឹងមាំ និងគាំទ្រអ្នក។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Juggling and adapting may be skills you were born with. You could manage many things together with surprising ease and good humour.",
+        "km": "ការរក្សាតុល្យភាព និងការសម្របខ្លួន អាចជាជំនាញដែលអ្នកមានតាំងពីកំណើត។ អ្នកអាចគ្រប់គ្រងរឿងជាច្រើនជាមួយគ្នា ដោយភាពងាយស្រួលគួរឱ្យភ្ញាក់ផ្អើល និងភាពកំប្លែងល្អ។"
+      },
+      "challenge": {
+        "en": "Spreading yourself too thin could keep this gift from deepening. Develop it through roles like coordination or project management, with clear priorities.",
+        "km": "ការចែកខ្លួនឯងស្តើងពេក អាចរារាំងអំណោយនេះពីការជ្រៅ។ សូមអភិវឌ្ឍវាតាមរយៈតួនាទីដូចជាការសម្របសម្រួល ឬការគ្រប់គ្រងគម្រោង ជាមួយអាទិភាពច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "A refined gift for balance could make you invaluable in busy settings. You may become the person who keeps everything running smoothly.",
+        "km": "អំណោយក្នុងតុល្យភាពដែលបានកែលម្អ អាចធ្វើឱ្យអ្នកមានតម្លៃមិនអាចកាត់ថ្លៃបានក្នុងបរិយាកាសរវល់។ អ្នកអាចក្លាយជាមនុស្សដែលរក្សាអ្វីៗទាំងអស់ឱ្យដំណើរការរលូន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Craftsmanship and teamwork may be talents of yours. You could take pride in quality work and collaborate well with others.",
+        "km": "សិប្បកម្ម និងការធ្វើការជាក្រុម អាចជាទេពកោសល្យរបស់អ្នក។ អ្នកអាចមានមោទនភាពចំពោះការងារមានគុណភាព ហើយសហការបានល្អជាមួយអ្នកដទៃ។"
+      },
+      "challenge": {
+        "en": "Working without feedback could slow this gift's growth. Seek out mentors or groups who can help you refine your craft.",
+        "km": "ការធ្វើការដោយគ្មានមតិយោបល់ អាចធ្វើឱ្យការលូតលាស់នៃអំណោយនេះយឺត។ សូមស្វែងរកអ្នកណែនាំ ឬក្រុមដែលអាចជួយអ្នកកែលម្អសិប្បកម្មរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Developed craftsmanship could bring recognition and satisfying work. You may become known for the quality and care you bring to every project.",
+        "km": "សិប្បកម្មដែលត្រូវបានអភិវឌ្ឍ អាចនាំមកនូវការទទួលស្គាល់ និងការងារដែលពេញចិត្ត។ អ្នកអាចត្រូវបានគេស្គាល់ដោយគុណភាព និងការយកចិត្តទុកដាក់ ដែលអ្នកនាំមកដល់គម្រោងនីមួយៗ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "A talent for managing resources carefully may be yours. You could be good at saving, protecting and building steadily.",
+        "km": "ទេពកោសល្យក្នុងការគ្រប់គ្រងធនធានដោយប្រុងប្រយ័ត្ន អាចជារបស់អ្នក។ អ្នកអាចពូកែក្នុងការសន្សំ ការការពារ និងការកសាងដោយនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly could keep this gift from growing. Develop it by learning when to invest your effort, as well as when to hold back.",
+        "km": "ការកាន់តឹងពេក អាចរារាំងអំណោយនេះពីការលូតលាស់។ សូមអភិវឌ្ឍវាដោយការរៀនពីពេលដែលត្រូវវិនិយោគការខិតខំរបស់អ្នក ក៏ដូចជាពេលដែលត្រូវទប់ដែរ។"
+      },
+      "outcome": {
+        "en": "A developed gift for stewardship could make you trusted with important resources. You may build stability for yourself and the people who rely on you.",
+        "km": "អំណោយក្នុងការថែរក្សាដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកត្រូវបានទុកចិត្តជាមួយធនធានសំខាន់ៗ។ អ្នកអាចកសាងស្ថិរភាពសម្រាប់ខ្លួនឯង និងមនុស្សដែលពឹងលើអ្នក។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Resilience in hard times may be a talent you have developed. You could be resourceful in finding ways through scarcity.",
+        "km": "ភាពធន់ក្នុងពេលលំបាក អាចជាទេពកោសល្យដែលអ្នកបានអភិវឌ្ឍ។ អ្នកអាចប៉ិនប្រសប់ក្នុងការរកផ្លូវឆ្លងកាត់ការខ្វះខាត។"
+      },
+      "challenge": {
+        "en": "Feeling defined by hardship could hide your other gifts. Look beyond survival skills to what else you are good at.",
+        "km": "ការមានអារម្មណ៍ថាត្រូវបានកំណត់ដោយការលំបាក អាចលាក់អំណោយផ្សេងទៀតរបស់អ្នក។ សូមមើលហួសពីជំនាញរស់រានមានជីវិត ទៅរកអ្វីផ្សេងទៀតដែលអ្នកពូកែ។"
+      },
+      "outcome": {
+        "en": "Turning resilience into a gift for others could bring meaning. You may help people facing similar struggles find their way.",
+        "km": "ការប្រែក្លាយភាពធន់ទៅជាអំណោយសម្រាប់អ្នកដទៃ អាចនាំមកនូវអត្ថន័យ។ អ្នកអាចជួយមនុស្សដែលប្រឈមនឹងការតស៊ូស្រដៀងគ្នា រកផ្លូវរបស់ពួកគេ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Generosity and fairness may be talents of yours. You could be good at sharing resources and helping others get a fair chance.",
+        "km": "ចិត្តសប្បុរស និងយុត្តិធម៌ អាចជាទេពកោសល្យរបស់អ្នក។ អ្នកអាចពូកែក្នុងការចែករំលែកធនធាន និងជួយអ្នកដទៃទទួលបានឱកាសយុត្តិធម៌។"
+      },
+      "challenge": {
+        "en": "Giving without limits could exhaust this gift. Develop it through structured roles, like mentoring, charity work or community support.",
+        "km": "ការផ្តល់ដោយគ្មានដែនកំណត់ អាចធ្វើឱ្យអំណោយនេះអស់កម្លាំង។ សូមអភិវឌ្ឍវាតាមរយៈតួនាទីដែលមានរចនាសម្ព័ន្ធ ដូចជាការណែនាំ ការងារសប្បុរសធម៌ ឬការគាំទ្រសហគមន៍។"
+      },
+      "outcome": {
+        "en": "Developed generosity could make a real difference to many people. You may find deep fulfilment in helping others thrive.",
+        "km": "ចិត្តសប្បុរសដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដដល់មនុស្សជាច្រើន។ អ្នកអាចរកឃើញការបំពេញចិត្តជ្រៅ ក្នុងការជួយអ្នកដទៃរីកចម្រើន។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Patience and a long view may be talents of yours. You could be good at tending projects that take steady effort to bear fruit.",
+        "km": "ការអត់ធ្មត់ និងការមើលឆ្ងាយ អាចជាទេពកោសល្យរបស់អ្នក។ អ្នកអាចពូកែក្នុងការថែទាំគម្រោង ដែលត្រូវការការខិតខំនឹងនរ ដើម្បីបង្កើតផល។"
+      },
+      "challenge": {
+        "en": "Doubting slow progress could make you abandon this gift. Trust your patience, and choose work where steady growth is rewarded.",
+        "km": "ការសង្ស័យលើការរីកចម្រើនយឺត អាចធ្វើឱ្យអ្នកបោះបង់អំណោយនេះ។ សូមទុកចិត្តលើការអត់ធ្មត់របស់អ្នក ហើយជ្រើសរើសការងារដែលការលូតលាស់នឹងនរត្រូវបានផ្តល់រង្វាន់។"
+      },
+      "outcome": {
+        "en": "Developed patience could bring a rich harvest. You may thrive in gardening, investment of effort or any field that rewards persistence.",
+        "km": "ការអត់ធ្មត់ដែលត្រូវបានអភិវឌ្ឍ អាចនាំមកនូវការប្រមូលផលដ៏សម្បូរ។ អ្នកអាចរីកចម្រើនក្នុងការដាំដុះ ការវិនិយោគការខិតខំ ឬវិស័យណាមួយដែលផ្តល់រង្វាន់ដល់ការតស៊ូ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Diligence and attention to detail may be among your strongest talents. You could be someone who keeps practising until the work is truly good.",
+        "km": "ភាពឧស្សាហ៍ និងការយកចិត្តទុកដាក់លើព័ត៌មានលម្អិត អាចស្ថិតក្នុងចំណោមទេពកោសល្យខ្លាំងបំផុតរបស់អ្នក។ អ្នកអាចជាមនុស្សដែលបន្តហ្វឹកហាត់ រហូតដល់ការងារពិតជាល្អ។"
+      },
+      "challenge": {
+        "en": "Perfectionism could stop you from sharing your work. Develop this gift by finishing pieces and letting others see them.",
+        "km": "ភាពល្អឥតខ្ចោះនិយម អាចរារាំងអ្នកពីការចែករំលែកការងាររបស់អ្នក។ សូមអភិវឌ្ឍអំណោយនេះ ដោយការបញ្ចប់ស្នាដៃ ហើយឱ្យអ្នកដទៃមើលឃើញវា។"
+      },
+      "outcome": {
+        "en": "Developed craftsmanship could make you a true master of your field. You may produce work that others admire for its quality and care.",
+        "km": "សិប្បកម្មដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកក្លាយជាអ្នកជំនាញពិតប្រាកដក្នុងវិស័យរបស់អ្នក។ អ្នកអាចផលិតការងារ ដែលអ្នកដទៃកោតសរសើរចំពោះគុណភាព និងការយកចិត្តទុកដាក់។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Self-reliance and refined taste may be talents of yours. You could create a comfortable, beautiful life through your own effort.",
+        "km": "ការពឹងលើខ្លួនឯង និងរសនិយមល្អិតល្អន់ អាចជាទេពកោសល្យរបស់អ្នក។ អ្នកអាចបង្កើតជីវិតដែលស្រួល និងស្រស់ស្អាត តាមរយៈការខិតខំរបស់អ្នកផ្ទាល់។"
+      },
+      "challenge": {
+        "en": "Developing this gift only for yourself could limit its reach. Consider how your skills in design, gardening or independent work could serve others.",
+        "km": "ការអភិវឌ្ឍអំណោយនេះតែសម្រាប់ខ្លួនឯង អាចកំណត់វិសាលភាពរបស់វា។ សូមពិចារណាថាជំនាញរបស់អ្នកក្នុងការរចនា ការដាំដុះ ឬការងារឯករាជ្យ អាចបម្រើអ្នកដទៃយ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Shared self-reliance could make you an inspiring example. You may help others build independence and comfort of their own.",
+        "km": "ការពឹងលើខ្លួនឯងដែលចែករំលែក អាចធ្វើឱ្យអ្នកក្លាយជាគំរូដែលបំផុសគំនិត។ អ្នកអាចជួយអ្នកដទៃកសាងឯករាជ្យភាព និងភាពស្រួលរបស់ពួកគេ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Building solid foundations may be a strength of yours. You could be good at creating security for family and community.",
+        "km": "ការកសាងមូលដ្ឋានរឹងមាំ អាចជាចំណុចខ្លាំងរបស់អ្នក។ អ្នកអាចពូកែក្នុងការបង្កើតសុវត្ថិភាពសម្រាប់គ្រួសារ និងសហគមន៍។"
+      },
+      "challenge": {
+        "en": "Following only family expectations could hide your personal gifts. Develop talents that are truly yours alongside your duties.",
+        "km": "ការធ្វើតាមតែការរំពឹងទុករបស់គ្រួសារ អាចលាក់អំណោយផ្ទាល់ខ្លួនរបស់អ្នក។ សូមអភិវឌ្ឍទេពកោសល្យដែលពិតជារបស់អ្នក រួមជាមួយកាតព្វកិច្ចរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Developed gifts for building could create a legacy. You may leave something solid that benefits people beyond your own life.",
+        "km": "អំណោយក្នុងការកសាងដែលត្រូវបានអភិវឌ្ឍ អាចបង្កើតកេរដំណែល។ អ្នកអាចទុកអ្វីមួយរឹងមាំ ដែលផ្តល់ប្រយោជន៍ដល់មនុស្សហួសពីជីវិតរបស់អ្នកផ្ទាល់។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A studious, practical mind may be your gift. You could learn useful skills carefully and apply them reliably.",
+        "km": "គំនិតដែលចូលចិត្តសិក្សា និងជាក់ស្តែង អាចជាអំណោយរបស់អ្នក។ អ្នកអាចរៀនជំនាញដែលមានប្រយោជន៍ដោយប្រុងប្រយ័ត្ន ហើយអនុវត្តវាដោយអាចទុកចិត្តបាន។"
+      },
+      "challenge": {
+        "en": "Endless study without action could keep this gift theoretical. Put what you learn into real projects to develop it.",
+        "km": "ការសិក្សាឥតឈប់ដោយគ្មានសកម្មភាព អាចធ្វើឱ្យអំណោយនេះនៅជាទ្រឹស្តី។ សូមដាក់អ្វីដែលអ្នករៀនចូលក្នុងគម្រោងពិត ដើម្បីអភិវឌ្ឍវា។"
+      },
+      "outcome": {
+        "en": "Applied study could make you highly competent in a practical field. You may become a reliable expert others turn to for real results.",
+        "km": "ការសិក្សាដែលបានអនុវត្ត អាចធ្វើឱ្យអ្នកមានសមត្ថភាពខ្ពស់ក្នុងវិស័យជាក់ស្តែងមួយ។ អ្នកអាចក្លាយជាអ្នកជំនាញដែលអាចទុកចិត្តបាន ដែលអ្នកដទៃងាកមករកសម្រាប់លទ្ធផលពិត។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Reliability and steady effort may be your quiet talents. You could be the person who finishes what others start.",
+        "km": "ភាពអាចទុកចិត្តបាន និងការខិតខំនឹងនរ អាចជាទេពកោសល្យស្ងាត់ៗរបស់អ្នក។ អ្នកអាចជាមនុស្សដែលបញ្ចប់អ្វីដែលអ្នកដទៃចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Undervaluing steadiness could keep you from seeing it as a gift. Notice how rare and valuable dependable people truly are.",
+        "km": "ការឱ្យតម្លៃទាបលើភាពនឹងនរ អាចរារាំងអ្នកពីការមើលឃើញវាជាអំណោយ។ សូមកត់សម្គាល់ថាមនុស្សដែលអាចពឹងបានពិតជាកម្រ និងមានតម្លៃប៉ុណ្ណា។"
+      },
+      "outcome": {
+        "en": "Developed reliability could make you indispensable. You may be trusted with important work because people know you will deliver.",
+        "km": "ភាពអាចទុកចិត្តបានដែលត្រូវបានអភិវឌ្ឍ អាចធ្វើឱ្យអ្នកមិនអាចខ្វះបាន។ អ្នកអាចត្រូវបានទុកចិត្តជាមួយការងារសំខាន់ ព្រោះមនុស្សដឹងថាអ្នកនឹងធ្វើវាបានសម្រេច។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Practical nurturing may be one of your talents. You could be good at caring for people, homes and growing things.",
+        "km": "ការថែទាំជាក់ស្តែង អាចជាទេពកោសល្យមួយរបស់អ្នក។ អ្នកអាចពូកែក្នុងការថែទាំមនុស្ស ផ្ទះ និងរបស់ដែលកំពុងលូតលាស់។"
+      },
+      "challenge": {
+        "en": "Giving all your care to others could leave your own talents neglected. Make time to develop a gift that is just for you.",
+        "km": "ការផ្តល់ការថែទាំទាំងអស់របស់អ្នកដល់អ្នកដទៃ អាចទុកទេពកោសល្យរបស់អ្នកផ្ទាល់មិនត្រូវបានយកចិត្តទុកដាក់។ សូមបង្កើតពេលដើម្បីអភិវឌ្ឍអំណោយមួយ ដែលសម្រាប់តែអ្នក។"
+      },
+      "outcome": {
+        "en": "Developed nurturing skills could bring meaningful, grounded work. You may thrive in care, cooking, gardening or home-based enterprise.",
+        "km": "ជំនាញថែទាំដែលត្រូវបានអភិវឌ្ឍ អាចនាំមកនូវការងារដែលមានអត្ថន័យ និងនឹងធឹង។ អ្នកអាចរីកចម្រើនក្នុងការថែទាំ ការធ្វើម្ហូប ការដាំដុះ ឬសហគ្រាសនៅផ្ទះ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Mastery and the ability to build solid success may be your gifts. You could have a talent for turning effort into real, durable results.",
+        "km": "ភាពស្ទាត់ជំនាញ និងសមត្ថភាពកសាងភាពជោគជ័យរឹងមាំ អាចជាអំណោយរបស់អ្នក។ អ្នកអាចមានទេពកោសល្យក្នុងការប្រែក្លាយការខិតខំទៅជាលទ្ធផលពិត និងរឹងមាំ។"
+      },
+      "challenge": {
+        "en": "Resting on established skills could stop you discovering new gifts. Keep exploring, even from a position of strength and success.",
+        "km": "ការសម្រាកលើជំនាញដែលបានបង្កើតរួច អាចរារាំងអ្នកពីការរកឃើញអំណោយថ្មី។ សូមបន្តរុករក សូម្បីតែពីទីតាំងនៃកម្លាំង និងភាពជោគជ័យ។"
+      },
+      "outcome": {
+        "en": "Developed mastery could bring authority and the chance to mentor others. You may share your gifts in ways that help others build too.",
+        "km": "ភាពស្ទាត់ជំនាញដែលត្រូវបានអភិវឌ្ឍ អាចនាំមកនូវសិទ្ធិអំណាច និងឱកាសដើម្បីណែនាំអ្នកដទៃ។ អ្នកអាចចែករំលែកអំណោយរបស់អ្នក តាមរបៀបដែលជួយអ្នកដទៃកសាងផងដែរ។"
+      }
+    }
+  }
+}

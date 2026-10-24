@@ -80,6 +80,7 @@ import EG04 from './readings/EG-04.json';
 import EG05 from './readings/EG-05.json';
 import EG06 from './readings/EG-06.json';
 import EG07 from './readings/EG-07.json';
+import EG08 from './readings/EG-08.json';
 import zodiacReadingText from './zodiac-readings.json';
 import type { Content, QuestionReading, ZodiacReading } from '../engine/types.ts';
 
@@ -160,6 +161,7 @@ const questionReadings = {
   'EG-05': EG05,
   'EG-06': EG06,
   'EG-07': EG07,
+  'EG-08': EG08,
 } satisfies Record<string, QuestionReading>;
 const zodiacReadings = zodiacReadingText satisfies Record<string, ZodiacReading>;
 export const content = { cards, zodiac, topics, templates, questionReadings, zodiacReadings } as unknown as Content;
