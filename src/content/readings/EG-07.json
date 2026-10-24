@@ -1,0 +1,1097 @@
+{
+  "questionId": "EG-07",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Your appetite for something new may be strong. Feeling free and curious could make starting a course appealing, even without every detail planned.",
+        "km": "ចំណង់ចង់បានអ្វីមួយថ្មី អាចខ្លាំង។ ការមានអារម្មណ៍សេរី និងចង់ដឹង អាចធ្វើឱ្យការចាប់ផ្តើមវគ្គសិក្សាគួរឱ្យទាក់ទាញ ទោះបីមិនទាន់គ្រោងគ្រប់ព័ត៌មានលម្អិតក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Signing up on impulse could leave you unprepared for the workload. Check the cost, schedule and commitment before you enrol.",
+        "km": "ការចុះឈ្មោះតាមអារម្មណ៍ភ្លាមៗ អាចធ្វើឱ្យអ្នកមិនបានត្រៀមខ្លួនសម្រាប់បន្ទុកការងារ។ សូមពិនិត្យថ្លៃ កាលវិភាគ និងការប្តេជ្ញា មុនពេលអ្នកចុះឈ្មោះ។"
+      },
+      "outcome": {
+        "en": "A fresh start could open an exciting new path. You may discover interests and abilities you did not know you had.",
+        "km": "ការចាប់ផ្តើមថ្មី អាចបើកផ្លូវថ្មីដ៏គួរឱ្យរំភើប។ អ្នកអាចរកឃើញចំណាប់អារម្មណ៍ និងសមត្ថភាពដែលអ្នកមិនដឹងថាអ្នកមាន។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "The skills and resources to begin may already be in your hands. You could be well placed to make the most of a new course.",
+        "km": "ជំនាញ និងធនធានដើម្បីចាប់ផ្តើម អាចនៅក្នុងដៃរបស់អ្នករួចហើយ។ អ្នកអាចស្ថិតក្នុងទីតាំងល្អ ដើម្បីទាញយកប្រយោជន៍ច្រើនបំផុតពីវគ្គសិក្សាថ្មី។"
+      },
+      "challenge": {
+        "en": "Taking on a course alongside too many other projects could scatter your focus. Clear some room in your schedule before you commit, so the course gets real attention.",
+        "km": "ការទទួលយកវគ្គសិក្សា រួមជាមួយគម្រោងផ្សេងទៀតច្រើនពេក អាចធ្វើឱ្យការផ្តោតរបស់អ្នករាយប៉ាយ។ សូមសម្អាតលំហខ្លះក្នុងកាលវិភាគរបស់អ្នក មុនពេលអ្នកប្តេជ្ញា ដើម្បីឱ្យវគ្គសិក្សាទទួលបានការយកចិត្តទុកដាក់ពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "A focused start could turn learning into real, usable skill. You may find the course gives you tools you can put to work in your daily life.",
+        "km": "ការចាប់ផ្តើមដែលផ្តោត អាចប្រែក្លាយការរៀនទៅជាជំនាញពិតដែលអាចប្រើបាន។ អ្នកអាចឃើញថាវគ្គសិក្សានោះ ផ្តល់ឱ្យអ្នកនូវឧបករណ៍ដែលអ្នកអាចដាក់ឱ្យប្រើក្នុងជីវិត។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "A quiet inner sense may be telling you whether to begin. Your intuition about this course could be worth listening to.",
+        "km": "អារម្មណ៍ស្ងាត់ៗខាងក្នុង អាចកំពុងប្រាប់អ្នកថាតើត្រូវចាប់ផ្តើមឬអត់។ វិចារណញាណរបស់អ្នកអំពីវគ្គសិក្សានេះ អាចសមនឹងការស្តាប់។"
+      },
+      "challenge": {
+        "en": "Ignoring a nagging doubt could lead you into the wrong course. Look into what is behind the feeling before you decide.",
+        "km": "ការមិនអើពើនឹងការសង្ស័យដែលរំខាន អាចនាំអ្នកចូលទៅក្នុងវគ្គសិក្សាខុស។ សូមពិនិត្យមើលអ្វីដែលនៅពីក្រោយអារម្មណ៍នោះ មុនពេលអ្នកសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Trusting your inner guidance could lead you to a course that fits deeply. You may find learning that speaks to who you really are.",
+        "km": "ការទុកចិត្តលើការណែនាំខាងក្នុងរបស់អ្នក អាចនាំអ្នកទៅរកវគ្គសិក្សាដែលសមយ៉ាងជ្រៅ។ អ្នកអាចរកឃើញការរៀនដែលនិយាយទៅកាន់អ្នកជានរណាពិតប្រាកដ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Conditions for growth may be warm and supportive. You could be in a good place, emotionally and practically, to nurture a new interest.",
+        "km": "លក្ខខណ្ឌសម្រាប់ការលូតលាស់ អាចកក់ក្តៅ និងគាំទ្រ។ អ្នកអាចស្ថិតក្នុងទីតាំងល្អ ទាំងផ្លូវអារម្មណ៍ និងជាក់ស្តែង ដើម្បីថែទាំចំណាប់អារម្មណ៍ថ្មី។"
+      },
+      "challenge": {
+        "en": "Overcommitting your care to others could leave little energy for study. Make sure you can give the course the attention it needs.",
+        "km": "ការប្តេជ្ញាការថែទាំរបស់អ្នកទៅអ្នកដទៃច្រើនពេក អាចទុកថាមពលតិចតួចសម្រាប់ការសិក្សា។ សូមធ្វើឱ្យប្រាកដថាអ្នកអាចផ្តល់ការយកចិត្តទុកដាក់ដែលវគ្គសិក្សាត្រូវការ។"
+      },
+      "outcome": {
+        "en": "A nurturing start could let new learning grow and flourish. You may enjoy a rich, creative experience that feeds you well.",
+        "km": "ការចាប់ផ្តើមដែលថែទាំ អាចអនុញ្ញាតឱ្យការរៀនថ្មីលូតលាស់ និងរីកចម្រើន។ អ្នកអាចរីករាយនឹងបទពិសោធន៍សម្បូរ និងច្នៃប្រឌិត ដែលចិញ្ចឹមអ្នកបានល្អ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Structure and stability may be in place for a new commitment. Having routines and goals sorted could make starting a course easier.",
+        "km": "រចនាសម្ព័ន្ធ និងស្ថិរភាព អាចមានរួចហើយសម្រាប់ការប្តេជ្ញាថ្មី។ ការមានទម្លាប់ និងគោលដៅដែលបានរៀបចំ អាចធ្វើឱ្យការចាប់ផ្តើមវគ្គសិក្សាងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Expecting perfect conditions could keep you waiting without end. Plan carefully, but accept that some things will need adjusting as you go.",
+        "km": "ការរំពឹងលក្ខខណ្ឌល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នករង់ចាំដោយគ្មានទីបញ្ចប់។ សូមគ្រោងដោយប្រុងប្រយ័ត្ន ប៉ុន្តែទទួលយកថារឿងខ្លះនឹងត្រូវការកែសម្រួលតាមផ្លូវ។"
+      },
+      "outcome": {
+        "en": "A well-planned start could lead to steady, solid progress. You may reach the qualification or level you are aiming for.",
+        "km": "ការចាប់ផ្តើមដែលបានគ្រោងល្អ អាចនាំទៅរកការរីកចម្រើននឹងនរ និងរឹងមាំ។ អ្នកអាចទៅដល់សញ្ញាបត្រ ឬកម្រិតដែលអ្នកកំពុងតម្រង់ទៅរក។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "A formal, established course may suit you well. Learning within a recognised structure, with clear standards, could feel reassuring to you.",
+        "km": "វគ្គសិក្សាផ្លូវការ និងបានបង្កើតឡើង អាចសមនឹងអ្នកល្អ។ ការរៀនក្នុងរចនាសម្ព័ន្ធដែលទទួលស្គាល់ ជាមួយស្តង់ដារច្បាស់ អាចមានអារម្មណ៍ធានាសម្រាប់អ្នក។"
+      },
+      "challenge": {
+        "en": "Choosing a course only because it is expected could leave you uninspired. Make sure it matches your own goals as well as tradition.",
+        "km": "ការជ្រើសរើសវគ្គសិក្សាតែដោយសារគេរំពឹង អាចធ្វើឱ្យអ្នកគ្មានការបំផុសគំនិត។ សូមធ្វើឱ្យប្រាកដថាវាត្រូវនឹងគោលដៅរបស់អ្នកផ្ទាល់ ក៏ដូចជាប្រពៃណីដែរ។"
+      },
+      "outcome": {
+        "en": "Formal learning could bring credentials and a respected foundation. You may gain a qualification that opens doors further along your path.",
+        "km": "ការរៀនផ្លូវការ អាចនាំមកនូវលិខិតបញ្ជាក់ និងមូលដ្ឋានដែលគេគោរព។ អ្នកអាចទទួលបានសញ្ញាបត្រមួយ ដែលបើកទ្វារតាមផ្លូវរបស់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "A choice about which course to take may be in front of you. Your heart could be drawn towards one option more than others.",
+        "km": "ជម្រើសអំពីវគ្គសិក្សាណាដែលត្រូវយក អាចនៅចំពោះមុខអ្នក។ ចិត្តរបស់អ្នកអាចត្រូវបានទាញទៅរកជម្រើសមួយ ច្រើនជាងជម្រើសផ្សេងទៀត។"
+      },
+      "challenge": {
+        "en": "Letting others choose for you could lead to a course you do not enjoy. Weigh your own interests honestly, and give them a real say in the decision.",
+        "km": "ការទុកឱ្យអ្នកដទៃជ្រើសរើសសម្រាប់អ្នក អាចនាំទៅរកវគ្គសិក្សាដែលអ្នកមិនរីករាយ។ សូមថ្លឹងថ្លែងចំណាប់អារម្មណ៍របស់អ្នកផ្ទាល់ដោយស្មោះត្រង់ ហើយផ្តល់ឱ្យវានូវសំឡេងពិតក្នុងការសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Choosing with your heart could lead to learning you genuinely love. You may also meet people on the course who share your values.",
+        "km": "ការជ្រើសរើសដោយចិត្តរបស់អ្នក អាចនាំទៅរកការរៀនដែលអ្នកពិតជាស្រឡាញ់។ អ្នកក៏អាចជួបមនុស្សក្នុងវគ្គសិក្សា ដែលចែករំលែកគុណតម្លៃដូចអ្នក។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Drive and determination may be strong. You could feel ready to take on a challenge and push yourself forward.",
+        "km": "កម្លាំងជំរុញ និងការប្តេជ្ញា អាចខ្លាំង។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនទទួលយកការប្រកួត និងរុញខ្លួនឯងទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Conflicting priorities could pull you in different directions once you start. Decide how the course fits with your other commitments.",
+        "km": "អាទិភាពផ្ទុយគ្នា អាចទាញអ្នកទៅទិសផ្សេងៗ នៅពេលអ្នកចាប់ផ្តើម។ សូមសម្រេចថាវគ្គសិក្សានោះសមនឹងការប្តេជ្ញាផ្សេងទៀតរបស់អ្នកយ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Committed effort could carry you through the course successfully. You may feel proud of the progress your determination brings.",
+        "km": "ការខិតខំដោយប្តេជ្ញា អាចនាំអ្នកឆ្លងកាត់វគ្គសិក្សាដោយជោគជ័យ។ អ្នកអាចមានមោទនភាពចំពោះការរីកចម្រើនដែលការប្តេជ្ញារបស់អ្នកនាំមក។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience and inner strength may be on your side. You could have the steady resolve a demanding course requires.",
+        "km": "ការអត់ធ្មត់ និងកម្លាំងខាងក្នុង អាចនៅខាងអ្នក។ អ្នកអាចមានការតាំងចិត្តនឹងនរ ដែលវគ្គសិក្សាដ៏ទាមទារត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Doubting your ability could hold you back from starting. Treat the opening part of a course as practice, not a test of your worth.",
+        "km": "ការសង្ស័យលើសមត្ថភាពរបស់អ្នក អាចរារាំងអ្នកពីការចាប់ផ្តើម។ សូមចាត់ទុកផ្នែកដំបូងនៃវគ្គសិក្សាជាការហ្វឹកហាត់ មិនមែនជាការសាកល្បងតម្លៃរបស់អ្នកនោះទេ។"
+      },
+      "outcome": {
+        "en": "Quiet persistence could see you through to a satisfying finish. You may surprise yourself with how much of the course you come to master.",
+        "km": "ការតស៊ូស្ងាត់ៗ អាចនាំអ្នកឆ្លងកាត់ដល់ការបញ្ចប់ដែលពេញចិត្ត។ អ្នកអាចធ្វើឱ្យខ្លួនឯងភ្ញាក់ផ្អើលចំពោះថាតើអ្នកស្ទាត់វគ្គសិក្សាបានប៉ុណ្ណា។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Reflection may be needed before you decide. You could be weighing up whether this course truly fits your path.",
+        "km": "ការឆ្លុះបញ្ចាំង អាចត្រូវការមុនពេលអ្នកសម្រេចចិត្ត។ អ្នកអាចកំពុងថ្លឹងថ្លែងថាតើវគ្គសិក្សានេះពិតជាសមនឹងផ្លូវរបស់អ្នកឬអត់។"
+      },
+      "challenge": {
+        "en": "Thinking it over alone without end could stall your decision. Talk to people who have taken the course to get real insight.",
+        "km": "ការគិតពិចារណាតែម្នាក់ឯងដោយគ្មានទីបញ្ចប់ អាចធ្វើឱ្យការសម្រេចចិត្តរបស់អ្នកជាប់គាំង។ សូមនិយាយជាមួយមនុស្សដែលបានរៀនវគ្គសិក្សានោះ ដើម្បីទទួលបានការយល់ដឹងពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Thoughtful choice could lead to deep, meaningful learning. You may find a course that rewards careful study with real wisdom.",
+        "km": "ជម្រើសដែលមានការគិតគូរ អាចនាំទៅរកការរៀនជ្រៅ និងមានអត្ថន័យ។ អ្នកអាចរកឃើញវគ្គសិក្សាមួយ ដែលផ្តល់រង្វាន់ដល់ការសិក្សាប្រុងប្រយ័ត្នដោយប្រាជ្ញាពិតប្រាកដ។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Circumstances may be shifting in your favour. An opportunity to learn could be appearing at a good turn of events.",
+        "km": "កាលៈទេសៈ អាចកំពុងផ្លាស់ប្តូរជាប្រយោជន៍ដល់អ្នក។ ឱកាសដើម្បីរៀន អាចកំពុងលេចឡើងក្នុងវេនល្អនៃព្រឹត្តិការណ៍។"
+      },
+      "challenge": {
+        "en": "Hesitating could let a good opening pass. If the conditions feel right, consider acting rather than waiting for a sign.",
+        "km": "ការស្ទាក់ស្ទើរ អាចធ្វើឱ្យឱកាសល្អឆ្លងកាត់។ ប្រសិនបើលក្ខខណ្ឌមានអារម្មណ៍ត្រឹមត្រូវ សូមពិចារណាធ្វើសកម្មភាព ជាជាងរង់ចាំសញ្ញា។"
+      },
+      "outcome": {
+        "en": "Seizing the turn could bring a welcome change in direction. You may find the course leads somewhere you did not expect.",
+        "km": "ការចាប់យកវេននេះ អាចនាំមកនូវការផ្លាស់ប្តូរទិសដៅដែលគួរឱ្យស្វាគមន៍។ អ្នកអាចឃើញថាវគ្គសិក្សានោះនាំទៅកន្លែងដែលអ្នកមិនរំពឹង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A fair, balanced view of your situation may be needed. Weighing costs and benefits honestly could show whether this course makes sense.",
+        "km": "ទស្សនៈយុត្តិធម៌ និងមានតុល្យភាពអំពីស្ថានភាពរបស់អ្នក អាចត្រូវការ។ ការថ្លឹងថ្លែងថ្លៃ និងអត្ថប្រយោជន៍ដោយស្មោះត្រង់ អាចបង្ហាញថាតើវគ្គសិក្សានេះសមហេតុផលឬអត់។"
+      },
+      "challenge": {
+        "en": "Ignoring practical costs could lead to difficulties along the way. Check fees, schedule and workload carefully, and be sure you can carry them, before committing.",
+        "km": "ការមិនអើពើនឹងថ្លៃជាក់ស្តែង អាចនាំទៅរកការលំបាកតាមផ្លូវ។ សូមពិនិត្យថ្លៃសិក្សា កាលវិភាគ និងបន្ទុកការងារដោយប្រុងប្រយ័ត្ន ហើយប្រាកដថាអ្នកអាចទទួលវាបាន មុនពេលប្តេជ្ញា។"
+      },
+      "outcome": {
+        "en": "An honest decision could lead to a fair and rewarding experience. You may get out of the course what you put in.",
+        "km": "ការសម្រេចចិត្តដោយស្មោះត្រង់ អាចនាំទៅរកបទពិសោធន៍ដែលយុត្តិធម៌ និងមានតម្លៃ។ អ្នកអាចទទួលបានពីវគ្គសិក្សា នូវអ្វីដែលអ្នកដាក់ចូល។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "A pause may be part of your situation. You could be waiting, uncertain whether to move forward.",
+        "km": "ការផ្អាក អាចជាផ្នែកមួយនៃស្ថានភាពរបស់អ្នក។ អ្នកអាចកំពុងរង់ចាំ ដោយមិនប្រាកដថាតើត្រូវទៅមុខឬអត់។"
+      },
+      "challenge": {
+        "en": "Feeling stuck could make any decision seem impossible. Look at the course from a different angle, such as what you would gain from waiting.",
+        "km": "ការមានអារម្មណ៍ជាប់គាំង អាចធ្វើឱ្យការសម្រេចចិត្តណាមួយហាក់មិនអាចទៅរួច។ សូមមើលវគ្គសិក្សាពីមុំផ្សេង ដូចជាអ្វីដែលអ្នកនឹងទទួលបានពីការរង់ចាំ។"
+      },
+      "outcome": {
+        "en": "A fresh perspective could make the right choice clearer. You may find that patience leads to a better-suited opportunity.",
+        "km": "ទស្សនៈថ្មី អាចធ្វើឱ្យជម្រើសត្រឹមត្រូវកាន់តែច្បាស់។ អ្នកអាចឃើញថាការអត់ធ្មត់ នាំទៅរកឱកាសដែលសមជាង។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "An ending may be making room for something new. Finishing one chapter could leave you free to begin learning again.",
+        "km": "ការបញ្ចប់មួយ អាចកំពុងបង្កើតកន្លែងសម្រាប់អ្វីមួយថ្មី។ ការបញ្ចប់ជំពូកមួយ អាចទុកឱ្យអ្នកមានសេរីភាពចាប់ផ្តើមរៀនម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Holding on to an old commitment could leave no space for new learning. Let go of what has run its course before you start.",
+        "km": "ការប្រកាន់ខ្ជាប់ការប្តេជ្ញាចាស់ អាចមិនទុកលំហសម្រាប់ការរៀនថ្មី។ សូមលែងប្រកាន់អ្វីដែលបានបំពេញតួនាទីរបស់វារួចហើយ មុនពេលអ្នកចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "A clean start could bring real transformation. You may find this course marks the beginning of a new stage in your life.",
+        "km": "ការចាប់ផ្តើមស្អាត អាចនាំមកនូវការផ្លាស់ប្តូរពិតប្រាកដ។ អ្នកអាចឃើញថាវគ្គសិក្សានេះ សម្គាល់ការចាប់ផ្តើមនៃដំណាក់កាលថ្មីក្នុងជីវិតរបស់អ្នក។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Balance may be important in your decision. Fitting a course into your life without overloading it could be the key question.",
+        "km": "តុល្យភាព អាចសំខាន់ក្នុងការសម្រេចចិត្តរបស់អ្នក។ ការដាក់វគ្គសិក្សាចូលក្នុងជីវិតរបស់អ្នក ដោយមិនធ្វើឱ្យវាលើសបន្ទុក អាចជាសំណួរគន្លឹះ។"
+      },
+      "challenge": {
+        "en": "Taking on too much could tip you into stress. Consider a part-time or smaller course if your life is already full.",
+        "km": "ការទទួលយកច្រើនពេក អាចរុញអ្នកទៅរកភាពតានតឹង។ សូមពិចារណាវគ្គសិក្សាក្រៅម៉ោង ឬតូចជាង ប្រសិនបើជីវិតរបស់អ្នកពេញរួចហើយ។"
+      },
+      "outcome": {
+        "en": "A balanced approach could make learning sustainable and enjoyable. You may find a pace that lets you grow without strain.",
+        "km": "វិធីសាស្ត្រដែលមានតុល្យភាព អាចធ្វើឱ្យការរៀនអាចរក្សាបាន និងរីករាយ។ អ្នកអាចរកឃើញល្បឿនមួយ ដែលអនុញ្ញាតឱ្យអ្នកលូតលាស់ដោយមិនតានតឹង។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Habits or commitments may be limiting your freedom to start. Something could be tying up your energy or resources.",
+        "km": "ទម្លាប់ ឬការប្តេជ្ញា អាចកំពុងកំណត់សេរីភាពរបស់អ្នកក្នុងការចាប់ផ្តើម។ អ្វីមួយអាចកំពុងចងថាមពល ឬធនធានរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Starting a course to escape a problem could add to the strain. Address what is holding you back, and seek support if a habit feels out of control.",
+        "km": "ការចាប់ផ្តើមវគ្គសិក្សាដើម្បីគេចពីបញ្ហា អាចបន្ថែមភាពតានតឹង។ សូមដោះស្រាយអ្វីដែលកំពុងរារាំងអ្នក ហើយស្វែងរកការគាំទ្រ ប្រសិនបើទម្លាប់មួយហាក់ហួសការគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "Freeing yourself first could make new learning more rewarding. You may find you can commit fully as old ties loosen.",
+        "km": "ការដោះលែងខ្លួនឯងជាមុន អាចធ្វើឱ្យការរៀនថ្មីមានតម្លៃជាង។ អ្នកអាចឃើញថាអ្នកអាចប្តេជ្ញាបានពេញលេញ នៅពេលចំណងចាស់ធូររលុង។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Disruption may be shaking up your plans. A change in circumstances could be prompting you to rethink your direction.",
+        "km": "ការរំខាន អាចកំពុងរង្គើផែនការរបស់អ្នក។ ការផ្លាស់ប្តូរកាលៈទេសៈ អាចកំពុងជំរុញអ្នកឱ្យគិតឡើងវិញពីទិសដៅរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Deciding in the middle of upheaval could lead to a hasty choice. Let things settle a little, and seek support if you feel overwhelmed.",
+        "km": "ការសម្រេចចិត្តក្នុងចំណោមការរង្គើ អាចនាំទៅរកជម្រើសប្រញាប់។ សូមទុកឱ្យអ្វីៗស្ថិតស្ថេរបន្តិច ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍លើសកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Rebuilding through learning could help you find firmer ground. You may discover a path better suited to you than the old one.",
+        "km": "ការកសាងឡើងវិញតាមរយៈការរៀន អាចជួយអ្នករកឃើញដីដែលរឹងមាំជាង។ អ្នកអាចរកឃើញផ្លូវមួយដែលសមនឹងអ្នកជាងផ្លូវចាស់។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and inspiration may be drawing you towards learning. A course could feel like a fresh start full of possibility.",
+        "km": "ក្តីសង្ឃឹម និងការបំផុសគំនិត អាចកំពុងទាញអ្នកទៅរកការរៀន។ វគ្គសិក្សាមួយ អាចមានអារម្មណ៍ដូចជាការចាប់ផ្តើមថ្មីដែលពោរពេញដោយលទ្ធភាព។"
+      },
+      "challenge": {
+        "en": "Expecting the course to fix everything could lead to disappointment. Keep your hopes high but your expectations realistic about what one course can do.",
+        "km": "ការរំពឹងថាវគ្គសិក្សានឹងដោះស្រាយអ្វីៗទាំងអស់ អាចនាំទៅរកការខកចិត្ត។ សូមរក្សាក្តីសង្ឃឹមឱ្យខ្ពស់ ប៉ុន្តែការរំពឹងទុកឱ្យជាក់ស្តែង អំពីអ្វីដែលវគ្គសិក្សាមួយអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Starting with hope could bring renewal and inspiration. You may find the course lifts your spirits and opens new possibilities.",
+        "km": "ការចាប់ផ្តើមដោយក្តីសង្ឃឹម អាចនាំមកនូវការកើតជាថ្មី និងការបំផុសគំនិត។ អ្នកអាចឃើញថាវគ្គសិក្សានោះលើកស្មារតីរបស់អ្នក និងបើកលទ្ធភាពថ្មី។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Uncertainty may surround this decision. You could be unsure what the course involves or whether it suits you.",
+        "km": "ភាពមិនប្រាកដ អាចព័ទ្ធជុំវិញការសម្រេចចិត្តនេះ។ អ្នកអាចមិនប្រាកដថាវគ្គសិក្សានោះពាក់ព័ន្ធអ្វី ឬថាតើវាសមនឹងអ្នកឬអត់។"
+      },
+      "challenge": {
+        "en": "Deciding without clear information could lead to regret. Ask questions, read reviews and gather facts before enrolling.",
+        "km": "ការសម្រេចចិត្តដោយគ្មានព័ត៌មានច្បាស់ អាចនាំទៅរកការសោកស្តាយ។ សូមសួរសំណួរ អានការវាយតម្លៃ និងប្រមូលការពិត មុនពេលចុះឈ្មោះ។"
+      },
+      "outcome": {
+        "en": "Clearing up uncertainty could reveal whether this is right for you. You may feel more confident when you understand what the course involves.",
+        "km": "ការជម្រះភាពមិនប្រាកដ អាចបង្ហាញថាតើរឿងនេះត្រឹមត្រូវសម្រាប់អ្នកឬអត់។ អ្នកអាចមានទំនុកចិត្តជាងមុន នៅពេលអ្នកយល់ពីអ្វីដែលវគ្គសិក្សាពាក់ព័ន្ធ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Energy and optimism may be high. You could feel confident and ready to take on something new.",
+        "km": "ថាមពល និងសុទិដ្ឋិនិយម អាចខ្ពស់។ អ្នកអាចមានអារម្មណ៍មានទំនុកចិត្ត និងត្រៀមខ្លួនទទួលយកអ្វីមួយថ្មី។"
+      },
+      "challenge": {
+        "en": "Overconfidence could lead you to underestimate the workload. Look at what the course really demands before you commit.",
+        "km": "ការជឿជាក់ហួសហេតុ អាចនាំអ្នកឱ្យប៉ាន់ស្មានបន្ទុកការងារទាប។ សូមមើលពីអ្វីដែលវគ្គសិក្សាពិតជាទាមទារ មុនពេលអ្នកប្តេជ្ញា។"
+      },
+      "outcome": {
+        "en": "A confident start could bring a bright, rewarding experience. You may enjoy success and recognition through the course.",
+        "km": "ការចាប់ផ្តើមដោយទំនុកចិត្ត អាចនាំមកនូវបទពិសោធន៍ភ្លឺស្វាង និងមានតម្លៃ។ អ្នកអាចរីករាយនឹងភាពជោគជ័យ និងការទទួលស្គាល់តាមរយៈវគ្គសិក្សា។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "A sense of calling may be urging you to learn. You could feel that this course is part of a bigger purpose.",
+        "km": "អារម្មណ៍នៃការហៅ អាចកំពុងជំរុញអ្នកឱ្យរៀន។ អ្នកអាចមានអារម្មណ៍ថាវគ្គសិក្សានេះ ជាផ្នែកមួយនៃគោលបំណងធំជាង។"
+      },
+      "challenge": {
+        "en": "Doubting yourself because of old setbacks could hold you back. Forgive what went before, and judge this opportunity on its own merits.",
+        "km": "ការសង្ស័យលើខ្លួនឯងដោយសារឧបសគ្គចាស់ៗ អាចរារាំងអ្នក។ សូមអភ័យទោសចំពោះអ្វីដែលបានកើតឡើង ហើយវិនិច្ឆ័យឱកាសនេះតាមគុណសម្បត្តិរបស់វា។"
+      },
+      "outcome": {
+        "en": "Answering the call could bring a sense of renewal and purpose. You may feel that this learning is exactly what you needed.",
+        "km": "ការឆ្លើយតបនឹងការហៅ អាចនាំមកនូវអារម្មណ៍នៃការកើតជាថ្មី និងគោលបំណង។ អ្នកអាចមានអារម្មណ៍ថាការរៀននេះ គឺជាអ្វីដែលអ្នកត្រូវការ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "One chapter of learning may be closing. Finishing something you started could leave you free, and curious, about what to study after it.",
+        "km": "ជំពូកមួយនៃការរៀន អាចកំពុងបិទ។ ការបញ្ចប់អ្វីមួយដែលអ្នកបានចាប់ផ្តើម អាចទុកឱ្យអ្នកមានសេរីភាព និងចង់ដឹងអំពីអ្វីដែលត្រូវសិក្សាបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Rushing into a new course before finishing the one in hand could leave both half done. Complete what you have started before you sign up again.",
+        "km": "ការប្រញាប់ចូលវគ្គសិក្សាថ្មី មុនពេលបញ្ចប់វគ្គដែលកំពុងរៀន អាចទុកទាំងពីរធ្វើពាក់កណ្តាល។ សូមបញ្ចប់អ្វីដែលអ្នកបានចាប់ផ្តើម មុនពេលអ្នកចុះឈ្មោះម្តងទៀត។"
+      },
+      "outcome": {
+        "en": "A new course after completion could open a wider world. You may feel ready for a fresh and bigger challenge.",
+        "km": "វគ្គសិក្សាថ្មីក្រោយការបញ្ចប់ អាចបើកពិភពលោកទូលាយជាង។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនសម្រាប់ការប្រកួតថ្មី និងធំជាង។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A burst of fresh enthusiasm may be pushing you to begin. Excitement about a new subject could be giving you strong energy to start.",
+        "km": "ភាពរំភើបថ្មីដ៏ខ្លាំង អាចកំពុងរុញអ្នកឱ្យចាប់ផ្តើម។ ភាពរំភើបអំពីមុខវិជ្ជាថ្មី អាចកំពុងផ្តល់ថាមពលខ្លាំងឱ្យអ្នកចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Enthusiasm that burns out could leave you with a course you abandon. Make sure the interest is deeper than a passing spark.",
+        "km": "ភាពរំភើបដែលរលត់ អាចទុកឱ្យអ្នកមានវគ្គសិក្សាដែលអ្នកបោះបង់។ សូមធ្វើឱ្យប្រាកដថាចំណាប់អារម្មណ៍នោះជ្រៅជាងផ្កាភ្លើងដែលឆ្លងកាត់។"
+      },
+      "outcome": {
+        "en": "Acting on fresh inspiration could launch a lively new chapter. You may find the energy you start with carries you a long way.",
+        "km": "ការធ្វើសកម្មភាពតាមការបំផុសគំនិតថ្មី អាចចាប់ផ្តើមជំពូកថ្មីដ៏រស់រវើក។ អ្នកអាចឃើញថាថាមពលដែលអ្នកចាប់ផ្តើមជាមួយ នាំអ្នកទៅឆ្ងាយ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Plans for further learning may be taking shape. You could be looking ahead and weighing whether this course fits your bigger goals.",
+        "km": "ផែនការសម្រាប់ការរៀនបន្ថែម អាចកំពុងកើតជារូបរាង។ អ្នកអាចកំពុងមើលទៅមុខ ហើយថ្លឹងថ្លែងថាតើវគ្គសិក្សានេះសមនឹងគោលដៅធំរបស់អ្នកឬអត់។"
+      },
+      "challenge": {
+        "en": "Planning without end could let the opportunity slip away. Set yourself a clear point by which you will make the decision.",
+        "km": "ការគ្រោងដោយគ្មានទីបញ្ចប់ អាចធ្វើឱ្យឱកាសរបូតចេញ។ សូមកំណត់ចំណុចច្បាស់មួយសម្រាប់ខ្លួនឯង ដែលអ្នកនឹងធ្វើការសម្រេចចិត្ត។"
+      },
+      "outcome": {
+        "en": "Following through on your plans could widen your horizons. You may find the course opens doors to places and people beyond your usual world.",
+        "km": "ការធ្វើតាមផែនការរបស់អ្នករហូតដល់ចប់ អាចពង្រីកជើងមេឃរបស់អ្នក។ អ្នកអាចឃើញថាវគ្គសិក្សាបើកទ្វារទៅកាន់កន្លែង និងមនុស្សហួសពីពិភពធម្មតារបស់អ្នក។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Groundwork you have already laid may be starting to pay off. You could be in a good position to build on what you know.",
+        "km": "មូលដ្ឋានដែលអ្នកបានដាក់រួចហើយ អាចកំពុងចាប់ផ្តើមបង្កើតផល។ អ្នកអាចស្ថិតក្នុងទីតាំងល្អ ដើម្បីកសាងបន្តលើអ្វីដែលអ្នកដឹង។"
+      },
+      "challenge": {
+        "en": "Expecting results straight away could make you doubt the course. Give it enough room, and enough of your effort, to show its value.",
+        "km": "ការរំពឹងលទ្ធផលភ្លាមៗ អាចធ្វើឱ្យអ្នកសង្ស័យលើវគ្គសិក្សា។ សូមផ្តល់ឱ្យវានូវលំហ និងការខិតខំរបស់អ្នកគ្រប់គ្រាន់ ដើម្បីបង្ហាញតម្លៃរបស់វា។"
+      },
+      "outcome": {
+        "en": "Building on groundwork already laid could make this course a natural step. You may find it leads smoothly into further growth you have been hoping for.",
+        "km": "ការកសាងលើមូលដ្ឋានដែលបានដាក់រួច អាចធ្វើឱ្យវគ្គសិក្សានេះជាជំហានធម្មជាតិ។ អ្នកអាចឃើញថាវានាំទៅរកការលូតលាស់បន្ថែមដែលអ្នកបានសង្ឃឹម ដោយរលូន។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A stable, happy base may support new learning. Feeling settled at home could make it easier to take on a course.",
+        "km": "មូលដ្ឋានស្ថិរភាព និងរីករាយ អាចគាំទ្រការរៀនថ្មី។ ការមានអារម្មណ៍ស្ថិតស្ថេរនៅផ្ទះ អាចធ្វើឱ្យការទទួលយកវគ្គសិក្សាងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Worrying about disrupting a good balance could hold you back. Talk with the people at home about how the course would fit in.",
+        "km": "ការព្រួយបារម្ភអំពីការរំខានតុល្យភាពល្អ អាចរារាំងអ្នក។ សូមនិយាយជាមួយមនុស្សនៅផ្ទះ អំពីរបៀបដែលវគ្គសិក្សានឹងសមក្នុងជីវិត។"
+      },
+      "outcome": {
+        "en": "A supported start could lead to celebration and shared pride. You may mark a happy milestone with the people who back you.",
+        "km": "ការចាប់ផ្តើមដែលមានការគាំទ្រ អាចនាំទៅរកការអបអរ និងមោទនភាពរួមគ្នា។ អ្នកអាចកត់សម្គាល់ចំណុចសំខាន់ដ៏រីករាយ ជាមួយមនុស្សដែលគាំទ្រអ្នក។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Competing demands may be making the decision harder. Different commitments could be pulling at your attention and your free hours.",
+        "km": "តម្រូវការដែលប្រកួតប្រជែងគ្នា អាចកំពុងធ្វើឱ្យការសម្រេចចិត្តពិបាកជាង។ ការប្តេជ្ញាផ្សេងៗ អាចកំពុងទាញការយកចិត្តទុកដាក់ និងពេលទំនេររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Starting a course amid conflict or chaos could add stress. Sort out the competing demands first, so you can study with a clear head.",
+        "km": "ការចាប់ផ្តើមវគ្គសិក្សាក្នុងចំណោមជម្លោះ ឬភាពច្របូកច្របល់ អាចបន្ថែមភាពតានតឹង។ សូមដោះស្រាយតម្រូវការដែលប្រកួតប្រជែងគ្នាជាមុន ដើម្បីឱ្យអ្នកអាចសិក្សាដោយគំនិតច្បាស់។"
+      },
+      "outcome": {
+        "en": "Finding your footing amid competing demands could make learning possible. You may find that a little order makes room for growth.",
+        "km": "ការរកជំហររបស់អ្នក ក្នុងចំណោមតម្រូវការដែលប្រកួតប្រជែងគ្នា អាចធ្វើឱ្យការរៀនអាចទៅរួច។ អ្នកអាចឃើញថាសណ្តាប់ធ្នាប់បន្តិច បង្កើតលំហសម្រាប់ការលូតលាស់។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Confidence from a win may be high. You could feel ready to build on success with further learning.",
+        "km": "ទំនុកចិត្តពីជ័យជម្នះមួយ អាចខ្ពស់។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនកសាងបន្តលើភាពជោគជ័យ ដោយការរៀនបន្ថែម។"
+      },
+      "challenge": {
+        "en": "Choosing a course mainly for status could leave it feeling empty. Make sure the learning itself matters to you, beyond the certificate.",
+        "km": "ការជ្រើសរើសវគ្គសិក្សាជាចម្បងដើម្បីឋានៈ អាចធ្វើឱ្យវាមានអារម្មណ៍ទទេ។ សូមធ្វើឱ្យប្រាកដថាការរៀនខ្លួនឯងសំខាន់ចំពោះអ្នក ហួសពីវិញ្ញាបនបត្រ។"
+      },
+      "outcome": {
+        "en": "Building on success could bring further recognition and achievement. You may complete the course with pride and new credentials.",
+        "km": "ការកសាងលើភាពជោគជ័យ អាចនាំមកនូវការទទួលស្គាល់ និងសមិទ្ធផលបន្ថែម។ អ្នកអាចបញ្ចប់វគ្គសិក្សាដោយមោទនភាព និងលិខិតបញ្ជាក់ថ្មី។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may need to defend your choice to learn. Others could question whether this course is wise for someone in your position.",
+        "km": "អ្នកអាចត្រូវការពារជម្រើសរបស់អ្នកក្នុងការរៀន។ អ្នកដទៃអាចសួរថាតើវគ្គសិក្សានេះឈ្លាសវៃសម្រាប់មនុស្សក្នុងស្ថានភាពរបស់អ្នកឬអត់។"
+      },
+      "challenge": {
+        "en": "Letting doubters decide for you could mean missing a good opportunity. Stand by your choice if you have thought it through.",
+        "km": "ការទុកឱ្យអ្នកសង្ស័យសម្រេចសម្រាប់អ្នក អាចមានន័យថាខកខានឱកាសល្អ។ សូមឈរជាមួយជម្រើសរបស់អ្នក ប្រសិនបើអ្នកបានគិតពិចារណាវាហើយ។"
+      },
+      "outcome": {
+        "en": "Holding firm could lead to proving your decision right. You may complete the course with a strong sense of conviction.",
+        "km": "ការឈររឹងមាំ អាចនាំទៅរកការបង្ហាញថាការសម្រេចចិត្តរបស់អ្នកត្រឹមត្រូវ។ អ្នកអាចបញ្ចប់វគ្គសិក្សាដោយអារម្មណ៍ខ្លាំងនៃការជឿជាក់។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Things may be moving at a lively pace. An opportunity to learn could be arriving with little warning.",
+        "km": "អ្វីៗ អាចកំពុងផ្លាស់ទីយ៉ាងរស់រវើក។ ឱកាសដើម្បីរៀន អាចកំពុងមកដល់ ដោយគ្មានការព្រមានច្រើន។"
+      },
+      "challenge": {
+        "en": "Rushing into a decision could leave you unprepared. Take enough care to check the details before saying yes.",
+        "km": "ការប្រញាប់ចូលការសម្រេចចិត្ត អាចធ្វើឱ្យអ្នកមិនបានត្រៀមខ្លួន។ សូមយកចិត្តទុកដាក់គ្រប់គ្រាន់ ដើម្បីពិនិត្យព័ត៌មានលម្អិត មុនពេលយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "Acting promptly on a good opportunity could bring brisk progress. You may move through the course with energy and momentum.",
+        "km": "ការធ្វើសកម្មភាពភ្លាមៗលើឱកាសល្អ អាចនាំមកនូវការរីកចម្រើនយ៉ាងរស់រវើក។ អ្នកអាចឆ្លងកាត់វគ្គសិក្សាដោយថាមពល និងសន្ទុះ។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Tiredness or caution may be affecting your readiness. Hard experiences could be making you wary of new commitments.",
+        "km": "ភាពនឿយហត់ ឬការប្រុងប្រយ័ត្ន អាចកំពុងប៉ះពាល់ការត្រៀមខ្លួនរបស់អ្នក។ បទពិសោធន៍លំបាក អាចកំពុងធ្វើឱ្យអ្នកប្រុងប្រយ័ត្នចំពោះការប្តេជ្ញាថ្មី។"
+      },
+      "challenge": {
+        "en": "Starting while depleted could make the course feel like another burden. Rest first if you need to, and begin when you have energy.",
+        "km": "ការចាប់ផ្តើមខណៈពេលអស់កម្លាំង អាចធ្វើឱ្យវគ្គសិក្សាមានអារម្មណ៍ដូចជាបន្ទុកមួយទៀត។ សូមសម្រាកជាមុន ប្រសិនបើអ្នកត្រូវការ ហើយចាប់ផ្តើមនៅពេលអ្នកមានថាមពល។"
+      },
+      "outcome": {
+        "en": "Starting when you are ready could bring a steady, resilient experience. You may find your persistence carries you through the harder modules.",
+        "km": "ការចាប់ផ្តើមនៅពេលអ្នកត្រៀមខ្លួន អាចនាំមកនូវបទពិសោធន៍នឹងនរ និងធន់។ អ្នកអាចឃើញថាការតស៊ូរបស់អ្នក នាំអ្នកឆ្លងកាត់មេរៀនពិបាកជាង។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Heavy responsibilities may be filling your life. Adding a course could feel like one burden too many.",
+        "km": "ទំនួលខុសត្រូវធ្ងន់ អាចកំពុងបំពេញជីវិតរបស់អ្នក។ ការបន្ថែមវគ្គសិក្សា អាចមានអារម្មណ៍ដូចជាបន្ទុកមួយច្រើនពេក។"
+      },
+      "challenge": {
+        "en": "Overloading yourself could lead to burnout. Free up some space before you take on new study.",
+        "km": "ការធ្វើឱ្យខ្លួនឯងលើសបន្ទុក អាចនាំទៅរកការអស់កម្លាំង។ សូមដោះលែងលំហខ្លះ មុនពេលអ្នកទទួលយកការសិក្សាថ្មី។"
+      },
+      "outcome": {
+        "en": "Lightening your load first could make the course enjoyable. You may find learning feels lighter when other burdens are shared.",
+        "km": "ការបន្ធូរបន្ទុករបស់អ្នកជាមុន អាចធ្វើឱ្យវគ្គសិក្សារីករាយ។ អ្នកអាចឃើញថាការរៀនមានអារម្មណ៍ស្រាលជាង នៅពេលបន្ទុកផ្សេងទៀតត្រូវបានចែករំលែក។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Eager curiosity may be pulling you towards something new. A subject that fascinates you could be calling you to sign up.",
+        "km": "ការចង់ដឹងចង់ឃើញ អាចកំពុងទាញអ្នកទៅរកអ្វីមួយថ្មី។ មុខវិជ្ជាដែលធ្វើឱ្យអ្នកចាប់អារម្មណ៍ អាចកំពុងហៅអ្នកឱ្យចុះឈ្មោះ។"
+      },
+      "challenge": {
+        "en": "Jumping in without considering the commitment could leave you dropping out. Check that you can stick with it when the novelty fades.",
+        "km": "ការលោតចូលដោយមិនពិចារណាការប្តេជ្ញា អាចធ្វើឱ្យអ្នកឈប់ពាក់កណ្តាលផ្លូវ។ សូមពិនិត្យថាអ្នកអាចប្រកាន់ខ្ជាប់វា នៅពេលភាពថ្មីរសាត់។"
+      },
+      "outcome": {
+        "en": "Curious exploration could lead to an exciting discovery. You may find a passion that grows deeper with study.",
+        "km": "ការរុករកដោយចង់ដឹង អាចនាំទៅរកការរកឃើញដ៏គួរឱ្យរំភើប។ អ្នកអាចរកឃើញចំណង់ចំណូលចិត្តមួយ ដែលកាន់តែជ្រៅជាមួយការសិក្សា។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold energy may be urging you to dive in. You could feel ready for an adventurous course that stretches you in new directions.",
+        "km": "ថាមពលក្លាហាន អាចកំពុងជំរុញអ្នកឱ្យលោតចូល។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនសម្រាប់វគ្គសិក្សាផ្សងព្រេង ដែលពង្រីកអ្នកក្នុងទិសដៅថ្មី។"
+      },
+      "challenge": {
+        "en": "Charging in without a plan could lead to frustration. Read what the course requires, and picture an ordinary study routine, before you leap.",
+        "km": "ការចូលទៅដោយគ្មានផែនការ អាចនាំទៅរកការខកចិត្ត។ សូមអានពីអ្វីដែលវគ្គសិក្សាទាមទារ ហើយស្រមៃពីទម្លាប់សិក្សាធម្មតា មុនពេលអ្នកលោត។"
+      },
+      "outcome": {
+        "en": "Bold commitment could bring exciting growth. You may thrive in a course that challenges you and keeps your energy high.",
+        "km": "ការប្តេជ្ញាដោយក្លាហាន អាចនាំមកនូវការលូតលាស់គួរឱ្យរំភើប។ អ្នកអាចរីកចម្រើនក្នុងវគ្គសិក្សា ដែលប្រកួតអ្នក និងរក្សាថាមពលរបស់អ្នកឱ្យខ្ពស់។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Confidence and warmth may be strong. You could feel ready to walk into a new classroom and make yourself at home.",
+        "km": "ទំនុកចិត្ត និងភាពកក់ក្តៅ អាចខ្លាំង។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនដើរចូលថ្នាក់រៀនថ្មី ហើយធ្វើខ្លួនឱ្យស្រួល។"
+      },
+      "challenge": {
+        "en": "Signing up on a wave of good feeling could skip the practical questions. Check the schedule, cost and workload before you say yes.",
+        "km": "ការចុះឈ្មោះតាមរលកនៃអារម្មណ៍ល្អ អាចរំលងសំណួរជាក់ស្តែង។ សូមពិនិត្យកាលវិភាគ ថ្លៃ និងបន្ទុកការងារ មុនពេលអ្នកយល់ព្រម។"
+      },
+      "outcome": {
+        "en": "A confident start could help you shine on the course. You may make friends easily and leave a strong impression on your teachers.",
+        "km": "ការចាប់ផ្តើមដោយទំនុកចិត្ត អាចជួយអ្នកភ្លឺចែងចាំងក្នុងវគ្គសិក្សា។ អ្នកអាចបង្កើតមិត្តភាពយ៉ាងងាយ និងទុកចំណាប់អារម្មណ៍ខ្លាំងលើគ្រូរបស់អ្នក។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Vision and leadership may guide your choice. You could see clearly how this course fits into a larger plan for your life.",
+        "km": "ចក្ខុវិស័យ និងការដឹកនាំ អាចដឹកនាំជម្រើសរបស់អ្នក។ អ្នកអាចមើលឃើញយ៉ាងច្បាស់ថាវគ្គសិក្សានេះ សមនឹងផែនការធំសម្រាប់ជីវិតរបស់អ្នកយ៉ាងណា។"
+      },
+      "challenge": {
+        "en": "Waiting until every detail is certain could stall you. Accept a little uncertainty, and decide on the strength of the bigger picture.",
+        "km": "ការរង់ចាំរហូតដល់ព័ត៌មានលម្អិតនីមួយៗប្រាកដ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមទទួលយកភាពមិនប្រាកដបន្តិច ហើយសម្រេចចិត្តដោយផ្អែកលើរូបភាពធំ។"
+      },
+      "outcome": {
+        "en": "A step taken with vision could open leadership opportunities. You may use what you learn to guide a team or project of your own.",
+        "km": "ជំហានដែលបោះដោយចក្ខុវិស័យ អាចបើកឱកាសដឹកនាំ។ អ្នកអាចប្រើអ្វីដែលអ្នករៀន ដើម្បីដឹកនាំក្រុម ឬគម្រោងផ្ទាល់ខ្លួន។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Your heart may be opening to a new subject. Feeling emotionally drawn to a course could be a good sign that it suits you well.",
+        "km": "ចិត្តរបស់អ្នក អាចកំពុងបើកទៅរកមុខវិជ្ជាថ្មី។ ការមានអារម្មណ៍ត្រូវបានទាញផ្លូវអារម្មណ៍ទៅរកវគ្គសិក្សាមួយ អាចជាសញ្ញាល្អថាវាសមនឹងអ្នក។"
+      },
+      "challenge": {
+        "en": "Ignoring what your heart wants could lead you to a course that feels empty. Let genuine interest count as much as practical reasons in your choice.",
+        "km": "ការមិនអើពើនឹងអ្វីដែលចិត្តរបស់អ្នកចង់បាន អាចនាំអ្នកទៅរកវគ្គសិក្សាដែលមានអារម្មណ៍ទទេ។ សូមឱ្យចំណាប់អារម្មណ៍ពិតប្រាកដ មានតម្លៃដូចហេតុផលជាក់ស្តែងក្នុងជម្រើសរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Following your heart into learning could bring deep fulfilment. You may find the course feeds your spirit as well as your mind.",
+        "km": "ការធ្វើតាមចិត្តរបស់អ្នកចូលក្នុងការរៀន អាចនាំមកនូវការបំពេញចិត្តជ្រៅ។ អ្នកអាចឃើញថាវគ្គសិក្សាចិញ្ចឹមស្មារតីរបស់អ្នក ក៏ដូចជាគំនិតរបស់អ្នកដែរ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A friend or partner may be part of this decision. Learning alongside someone you trust could make starting a course feel easier.",
+        "km": "មិត្ត ឬដៃគូ អាចជាផ្នែកមួយនៃការសម្រេចចិត្តនេះ។ ការរៀនជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត អាចធ្វើឱ្យការចាប់ផ្តើមវគ្គសិក្សាមានអារម្មណ៍ងាយស្រួលជាង។"
+      },
+      "challenge": {
+        "en": "Choosing a course only because someone else is taking it could leave you unmotivated. Make sure it suits your own goals as well.",
+        "km": "ការជ្រើសរើសវគ្គសិក្សាតែដោយសារនរណាម្នាក់ផ្សេងកំពុងរៀនវា អាចធ្វើឱ្យអ្នកគ្មានកម្លាំងចិត្ត។ សូមធ្វើឱ្យប្រាកដថាវាសមនឹងគោលដៅរបស់អ្នកផ្ទាល់ផងដែរ។"
+      },
+      "outcome": {
+        "en": "Learning together could bring mutual support and shared success. You may grow closer while you both develop new skills.",
+        "km": "ការរៀនជាមួយគ្នា អាចនាំមកនូវការគាំទ្រគ្នាទៅវិញទៅមក និងភាពជោគជ័យរួម។ អ្នកអាចកាន់តែជិតស្និទ្ធ ខណៈពេលអ្នកទាំងពីរអភិវឌ្ឍជំនាញថ្មី។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "A group or community may be inviting you to learn. Friends taking a course together could make the idea appealing.",
+        "km": "ក្រុម ឬសហគមន៍ អាចកំពុងអញ្ជើញអ្នកឱ្យរៀន។ មិត្តភក្តិដែលរៀនវគ្គសិក្សាជាមួយគ្នា អាចធ្វើឱ្យគំនិតនេះគួរឱ្យទាក់ទាញ។"
+      },
+      "challenge": {
+        "en": "Joining mainly for the social side could leave the learning shallow. Check that the course content genuinely interests you as well.",
+        "km": "ការចូលរួមជាចម្បងសម្រាប់ផ្នែកសង្គម អាចធ្វើឱ្យការរៀនរាក់។ សូមពិនិត្យថាខ្លឹមសារវគ្គសិក្សាពិតជាចាប់អារម្មណ៍អ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Group learning could bring joy, friendship and shared achievement. You may celebrate finishing the course with people you enjoy.",
+        "km": "ការរៀនជាក្រុម អាចនាំមកនូវសេចក្តីរីករាយ មិត្តភាព និងសមិទ្ធផលរួម។ អ្នកអាចអបអរការបញ្ចប់វគ្គសិក្សា ជាមួយមនុស្សដែលអ្នករីករាយ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Your enthusiasm may be low. Feeling unmotivated could make it hard to tell whether a course is worth it.",
+        "km": "ភាពរំភើបរបស់អ្នក អាចទាប។ ការមានអារម្មណ៍គ្មានកម្លាំងចិត្ត អាចធ្វើឱ្យពិបាកដឹងថាតើវគ្គសិក្សាមួយសមនឹងតម្លៃឬអត់។"
+      },
+      "challenge": {
+        "en": "Dismissing every option out of boredom could keep you stuck. Look again at what is on offer, with fresh eyes.",
+        "km": "ការបដិសេធរាល់ជម្រើសដោយសារភាពធុញទ្រាន់ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមមើលម្តងទៀតពីអ្វីដែលកំពុងត្រូវបានផ្តល់ជូន ដោយភ្នែកស្រស់។"
+      },
+      "outcome": {
+        "en": "Saying yes to something new could rekindle your interest. You may find a course that sparks enthusiasm you thought was gone.",
+        "km": "ការយល់ព្រមចំពោះអ្វីមួយថ្មី អាចដុតចំណាប់អារម្មណ៍របស់អ្នកឡើងវិញ។ អ្នកអាចរកឃើញវគ្គសិក្សាមួយ ដែលដាស់ភាពរំភើបដែលអ្នកគិតថាបានបាត់។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Disappointment from an earlier attempt may be making you hesitant. A course that did not work out could be colouring this decision.",
+        "km": "ការខកចិត្តពីការប៉ុនប៉ងមុន អាចកំពុងធ្វើឱ្យអ្នកស្ទាក់ស្ទើរ។ វគ្គសិក្សាដែលមិនបានសម្រេច អាចកំពុងប៉ះពាល់ការសម្រេចចិត្តនេះ។"
+      },
+      "challenge": {
+        "en": "Letting one bad experience rule out all learning could hold you back. Think about what would be different this time, in the course or in you.",
+        "km": "ការទុកឱ្យបទពិសោធន៍អាក្រក់មួយបដិសេធការរៀនទាំងអស់ អាចរារាំងអ្នក។ សូមគិតពីអ្វីដែលនឹងខុសគ្នាលើកនេះ ទាំងក្នុងវគ្គសិក្សា ឬក្នុងខ្លួនអ្នក។"
+      },
+      "outcome": {
+        "en": "Learning from disappointment could lead to a better-suited course. You may find success where the attempt that went wrong fell short.",
+        "km": "ការរៀនពីការខកចិត្ត អាចនាំទៅរកវគ្គសិក្សាដែលសមជាង។ អ្នកអាចរកឃើញភាពជោគជ័យ នៅកន្លែងដែលការប៉ុនប៉ងមុនមិនបានសម្រេច។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "A subject you loved when younger may be calling you back. Signing up for it again could feel comforting and right.",
+        "km": "មុខវិជ្ជាដែលអ្នកស្រឡាញ់កាលនៅក្មេង អាចកំពុងហៅអ្នកត្រឡប់មកវិញ។ ការចុះឈ្មោះរៀនវាម្តងទៀត អាចមានអារម្មណ៍ស្រួល និងត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Hoping a course will bring back a lost feeling could set you up for a letdown. Sign up for what the subject offers you as an adult.",
+        "km": "ការសង្ឃឹមថាវគ្គសិក្សានឹងនាំអារម្មណ៍ដែលបាត់ត្រឡប់មកវិញ អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមចុះឈ្មោះសម្រាប់អ្វីដែលមុខវិជ្ជានោះផ្តល់ឱ្យអ្នកជាមនុស្សពេញវ័យ។"
+      },
+      "outcome": {
+        "en": "Going back to a familiar subject could feel like coming home. A course in it may give you both comfort and a fresh sense of progress.",
+        "km": "ការត្រឡប់ទៅរកមុខវិជ្ជាដែលធ្លាប់ស្គាល់ អាចមានអារម្មណ៍ដូចជាការត្រឡប់មកផ្ទះ។ វគ្គសិក្សាក្នុងមុខវិជ្ជានោះ អាចផ្តល់ឱ្យអ្នកទាំងភាពស្រួល និងអារម្មណ៍ថ្មីនៃការរីកចម្រើន។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Several courses may look equally tempting. Comparing brochures and websites could be leaving you more confused than decided.",
+        "km": "វគ្គសិក្សាជាច្រើន អាចមើលទៅគួរឱ្យល្បួងស្មើគ្នា។ ការប្រៀបធៀបខិត្តប័ណ្ណ និងគេហទំព័រ អាចកំពុងធ្វើឱ្យអ្នកច្របូកច្របល់ ច្រើនជាងសម្រេចចិត្ត។"
+      },
+      "challenge": {
+        "en": "Dreaming about every option could leave you choosing none. Narrow your list to two, compare them honestly, and pick one.",
+        "km": "ការស្រមៃអំពីជម្រើសនីមួយៗ អាចធ្វើឱ្យអ្នកមិនជ្រើសរើសណាមួយ។ សូមបង្រួមបញ្ជីរបស់អ្នកមកនៅពីរ ប្រៀបធៀបវាដោយស្មោះត្រង់ ហើយជ្រើសរើសមួយ។"
+      },
+      "outcome": {
+        "en": "Committing to one course could end the swirl of options. You may feel a surge of energy when your choice is finally made.",
+        "km": "ការប្តេជ្ញាចំពោះវគ្គសិក្សាមួយ អាចបញ្ចប់ការវិលនៃជម្រើស។ អ្នកអាចមានអារម្មណ៍ថាមពលកើនឡើង នៅពេលជម្រើសរបស់អ្នកត្រូវបានធ្វើ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may be ready to leave something behind and seek new learning. A sense that something is missing could be pushing you towards a course.",
+        "km": "អ្នកអាចត្រៀមខ្លួនទុកអ្វីមួយនៅពីក្រោយ ហើយស្វែងរកការរៀនថ្មី។ អារម្មណ៍ថាមានអ្វីមួយបាត់ អាចកំពុងរុញអ្នកទៅរកវគ្គសិក្សាមួយ។"
+      },
+      "challenge": {
+        "en": "Leaving without a clear direction could leave you adrift. Make sure the new course truly offers what you are seeking.",
+        "km": "ការចាកចេញដោយគ្មានទិសដៅច្បាស់ អាចធ្វើឱ្យអ្នករសាត់។ សូមធ្វើឱ្យប្រាកដថាវគ្គសិក្សាថ្មីពិតជាផ្តល់អ្វីដែលអ្នកកំពុងស្វែងរក។"
+      },
+      "outcome": {
+        "en": "Moving towards meaning could bring deeper satisfaction. You may find a course that fills what was missing.",
+        "km": "ការឆ្ពោះទៅរកអត្ថន័យ អាចនាំមកនូវការពេញចិត្តជ្រៅជាង។ អ្នកអាចរកឃើញវគ្គសិក្សាមួយ ដែលបំពេញអ្វីដែលបាត់។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Contentment may make this a comfortable moment to add something new. Feeling settled could give you space to learn for pleasure.",
+        "km": "ភាពពេញចិត្ត អាចធ្វើឱ្យស្ថានភាពនេះស្រួលសម្រាប់ការបន្ថែមអ្វីមួយថ្មី។ ការមានអារម្មណ៍ស្ថិតស្ថេរ អាចផ្តល់លំហឱ្យអ្នករៀនដើម្បីភាពរីករាយ។"
+      },
+      "challenge": {
+        "en": "Feeling too comfortable could make you put off starting. Decide whether you truly want this, or are content as you are.",
+        "km": "ការមានអារម្មណ៍ស្រួលពេក អាចធ្វើឱ្យអ្នកពន្យារការចាប់ផ្តើម។ សូមសម្រេចថាតើអ្នកពិតជាចង់បានរឿងនេះ ឬពេញចិត្តដូចដែលអ្នកមាន។"
+      },
+      "outcome": {
+        "en": "Learning for pleasure could bring satisfying enrichment. You may enjoy the course as a treat as well as a challenge.",
+        "km": "ការរៀនដើម្បីភាពរីករាយ អាចនាំមកនូវភាពសម្បូរដែលពេញចិត្ត។ អ្នកអាចរីករាយនឹងវគ្គសិក្សាជារង្វាន់ ក៏ដូចជាការប្រកួតដែរ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Family life and loved ones may be part of this decision. You could be considering how a course would affect people at home.",
+        "km": "ជីវិតគ្រួសារ និងមនុស្សជាទីស្រឡាញ់ អាចជាផ្នែកមួយនៃការសម្រេចចិត្តនេះ។ អ្នកអាចកំពុងពិចារណាថាវគ្គសិក្សានឹងប៉ះពាល់មនុស្សនៅផ្ទះយ៉ាងណា។"
+      },
+      "challenge": {
+        "en": "Putting off your own growth for others' sake could leave you unfulfilled. Talk openly with family about what you need, and how they could help.",
+        "km": "ការពន្យារការលូតលាស់របស់អ្នកដើម្បីអ្នកដទៃ អាចធ្វើឱ្យអ្នកមិនពេញចិត្ត។ សូមនិយាយដោយបើកចំហជាមួយគ្រួសារ អំពីអ្វីដែលអ្នកត្រូវការ និងរបៀបដែលពួកគេអាចជួយ។"
+      },
+      "outcome": {
+        "en": "A course supported by family could bring shared pride and harmony. You may find your learning benefits everyone at home.",
+        "km": "វគ្គសិក្សាដែលមានការគាំទ្រពីគ្រួសារ អាចនាំមកនូវមោទនភាព និងភាពចុះសម្រុងរួម។ អ្នកអាចឃើញថាការរៀនរបស់អ្នក ផ្តល់ប្រយោជន៍ដល់មនុស្សគ្រប់គ្នានៅផ្ទះ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "A gentle, creative interest may be calling you. A course in art, writing or music could appeal to your imagination.",
+        "km": "ចំណាប់អារម្មណ៍ច្នៃប្រឌិតទន់ភ្លន់ អាចកំពុងហៅអ្នក។ វគ្គសិក្សាសិល្បៈ ការសរសេរ ឬតន្ត្រី អាចទាក់ទាញការស្រមៃរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Doubting whether a creative course is worthwhile could hold you back. Give your imaginative side a fair chance, even if only with a short class.",
+        "km": "ការសង្ស័យថាតើវគ្គសិក្សាច្នៃប្រឌិតសមនឹងតម្លៃឬអត់ អាចរារាំងអ្នក។ សូមផ្តល់ឱកាសសមរម្យដល់ផ្នែកស្រមើស្រមៃរបស់អ្នក ទោះបីត្រឹមតែថ្នាក់ខ្លីមួយក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A creative course could bring delight and unexpected growth. You may produce work that surprises and pleases you.",
+        "km": "វគ្គសិក្សាច្នៃប្រឌិត អាចនាំមកនូវភាពរីករាយ និងការលូតលាស់ដែលមិនរំពឹងទុក។ អ្នកអាចបង្កើតការងារដែលធ្វើឱ្យអ្នកភ្ញាក់ផ្អើល និងពេញចិត្ត។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Passion for a subject may be pulling you strongly. You could feel inspired to follow your heart into learning.",
+        "km": "ចំណង់ចំណូលចិត្តចំពោះមុខវិជ្ជាមួយ អាចកំពុងទាញអ្នកយ៉ាងខ្លាំង។ អ្នកអាចមានអារម្មណ៍ត្រូវបានបំផុសគំនិតឱ្យធ្វើតាមចិត្តចូលក្នុងការរៀន។"
+      },
+      "challenge": {
+        "en": "Idealising the course could lead to disappointment with the ordinary parts. Expect some routine work alongside the inspiring moments, and plan for both.",
+        "km": "ការធ្វើឱ្យវគ្គសិក្សាល្អឥតខ្ចោះក្នុងគំនិត អាចនាំទៅរកការខកចិត្តជាមួយផ្នែកធម្មតា។ សូមរំពឹងការងារជាទម្លាប់ខ្លះ រួមជាមួយគ្រាដែលបំផុសគំនិត ហើយគ្រោងសម្រាប់ទាំងពីរ។"
+      },
+      "outcome": {
+        "en": "Following your passion could bring inspired, heartfelt learning. You may create or achieve something that reflects who you are.",
+        "km": "ការធ្វើតាមចំណង់ចំណូលចិត្តរបស់អ្នក អាចនាំមកនូវការរៀនដែលបំផុសគំនិត និងចេញពីចិត្ត។ អ្នកអាចបង្កើត ឬសម្រេចអ្វីមួយដែលឆ្លុះបញ្ចាំងពីអ្នកជានរណា។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Care for others may be guiding your choice. A course that helps you support people could feel meaningful.",
+        "km": "ការយកចិត្តទុកដាក់ចំពោះអ្នកដទៃ អាចកំពុងដឹកនាំជម្រើសរបស់អ្នក។ វគ្គសិក្សាដែលជួយអ្នកគាំទ្រមនុស្ស អាចមានអារម្មណ៍មានអត្ថន័យ។"
+      },
+      "challenge": {
+        "en": "Taking on study while caring for many others could stretch you thin. Make sure you have the energy to look after yourself too.",
+        "km": "ការទទួលយកការសិក្សា ខណៈពេលថែទាំអ្នកដទៃជាច្រើន អាចធ្វើឱ្យអ្នកស្តើង។ សូមធ្វើឱ្យប្រាកដថាអ្នកមានថាមពលដើម្បីថែរក្សាខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "A course in caring skills could prepare you to support people well. You may find deep satisfaction in turning compassion into practical help.",
+        "km": "វគ្គសិក្សាជំនាញថែទាំ អាចត្រៀមអ្នកឱ្យគាំទ្រមនុស្សបានល្អ។ អ្នកអាចរកឃើញការពេញចិត្តជ្រៅ ក្នុងការប្រែក្លាយក្តីមេត្តាទៅជាជំនួយជាក់ស្តែង។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm maturity may help you make this decision. You could be weighing it up steadily and sensibly.",
+        "km": "ភាពចាស់ទុំស្ងប់ អាចជួយអ្នកធ្វើការសម្រេចចិត្តនេះ។ អ្នកអាចកំពុងថ្លឹងថ្លែងវាដោយនឹងនរ និងសមហេតុផល។"
+      },
+      "challenge": {
+        "en": "Holding back your true feelings could lead to a choice that does not fit. Ask yourself plainly whether you want this course, and listen to the answer.",
+        "km": "ការទប់អារម្មណ៍ពិតរបស់អ្នក អាចនាំទៅរកជម្រើសដែលមិនសម។ សូមសួរខ្លួនឯងដោយត្រង់ៗថាតើអ្នកចង់បានវគ្គសិក្សានេះឬអត់ ហើយស្តាប់ចម្លើយ។"
+      },
+      "outcome": {
+        "en": "A balanced decision could bring a steady, rewarding course. You may approach your studies with calm confidence and good judgement.",
+        "km": "ការសម្រេចចិត្តដែលមានតុល្យភាព អាចនាំមកនូវវគ្គសិក្សាដែលនឹងនរ និងមានតម្លៃ។ អ្នកអាចចូលទៅរកការសិក្សារបស់អ្នក ដោយទំនុកចិត្តស្ងប់ និងការវិនិច្ឆ័យល្អ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Clear thinking may be guiding your decision. You could see the pros and cons of starting a course quite sharply.",
+        "km": "ការគិតច្បាស់ អាចកំពុងដឹកនាំការសម្រេចចិត្តរបស់អ្នក។ អ្នកអាចមើលឃើញគុណសម្បត្តិ និងគុណវិបត្តិនៃការចាប់ផ្តើមវគ្គសិក្សាយ៉ាងច្បាស់។"
+      },
+      "challenge": {
+        "en": "Overanalysing every detail could keep you from ever deciding. Gather the key facts, then make a clear choice and act on it.",
+        "km": "ការវិភាគហួសហេតុលើព័ត៌មានលម្អិតនីមួយៗ អាចរារាំងអ្នកពីការសម្រេចចិត្ត។ សូមប្រមូលការពិតសំខាន់ៗ រួចធ្វើជម្រើសច្បាស់ ហើយធ្វើសកម្មភាពតាមវា។"
+      },
+      "outcome": {
+        "en": "A clear-headed choice could bring a focused, productive course. You may cut straight to what you need to learn and make sharp progress.",
+        "km": "ជម្រើសដោយគំនិតច្បាស់ អាចនាំមកនូវវគ្គសិក្សាដែលផ្តោត និងមានផលិតភាព។ អ្នកអាចកាត់ត្រង់ទៅរកអ្វីដែលអ្នកត្រូវរៀន ហើយរីកចម្រើនយ៉ាងមុតស្រួច។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Indecision may be holding you back. You could be torn between starting and waiting, unable to settle either way.",
+        "km": "ការមិនអាចសម្រេចចិត្ត អាចកំពុងរារាំងអ្នក។ អ្នកអាចកំពុងស្ទាក់ស្ទើររវាងការចាប់ផ្តើម និងការរង់ចាំ ដោយមិនអាចសម្រេចទិសណាមួយ។"
+      },
+      "challenge": {
+        "en": "Avoiding the decision could mean missing the chance altogether. Look honestly at what you are afraid of, and choose.",
+        "km": "ការជៀសវាងការសម្រេចចិត្ត អាចមានន័យថាខកខានឱកាសទាំងស្រុង។ សូមមើលដោយស្មោះត្រង់ពីអ្វីដែលអ្នកខ្លាច ហើយជ្រើសរើស។"
+      },
+      "outcome": {
+        "en": "Making a decision could bring relief and clarity. You may feel lighter once you commit, whichever way you go.",
+        "km": "ការធ្វើការសម្រេចចិត្ត អាចនាំមកនូវការធូរស្រាល និងភាពច្បាស់លាស់។ អ្នកអាចមានអារម្មណ៍ស្រាលជាង នៅពេលអ្នកប្តេជ្ញា ទោះអ្នកទៅទិសណាក៏ដោយ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Hurt or heartache may be affecting your readiness. A painful experience could be making new commitments feel daunting.",
+        "km": "ការឈឺចាប់ ឬការខូចចិត្ត អាចកំពុងប៉ះពាល់ការត្រៀមខ្លួនរបស់អ្នក។ បទពិសោធន៍ដ៏ឈឺចាប់មួយ អាចកំពុងធ្វើឱ្យការប្តេជ្ញាថ្មីមានអារម្មណ៍គួរឱ្យខ្លាច។"
+      },
+      "challenge": {
+        "en": "Starting a course to distract from pain could leave the hurt unresolved. Give yourself space to heal, and talk to someone you trust if it feels heavy.",
+        "km": "ការចាប់ផ្តើមវគ្គសិក្សាដើម្បីបង្វែរពីការឈឺចាប់ អាចទុកការឈឺចាប់មិនត្រូវបានដោះស្រាយ។ សូមផ្តល់លំហដល់ខ្លួនឯងដើម្បីជាសះស្បើយ ហើយនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ប្រសិនបើវាធ្ងន់។"
+      },
+      "outcome": {
+        "en": "Learning could become part of healing when you are ready. You may find study gives you purpose and steadiness through a hard stretch.",
+        "km": "ការរៀន អាចក្លាយជាផ្នែកមួយនៃការជាសះស្បើយ នៅពេលអ្នកត្រៀមខ្លួន។ អ្នកអាចឃើញថាការសិក្សាផ្តល់ឱ្យអ្នកនូវគោលបំណង និងភាពនឹងនរ ឆ្លងកាត់ដំណាក់កាលលំបាក។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Rest may be what you need more than a new course. You could be tired and in need of recovery before taking anything on.",
+        "km": "ការសម្រាក អាចជាអ្វីដែលអ្នកត្រូវការច្រើនជាងវគ្គសិក្សាថ្មី។ អ្នកអាចនឿយហត់ ហើយត្រូវការការស្តារឡើងវិញ មុនពេលទទួលយកអ្វីទាំងអស់។"
+      },
+      "challenge": {
+        "en": "Pushing into new study while exhausted could backfire. Allow yourself proper rest, and let the decision wait until you feel more like yourself.",
+        "km": "ការរុញចូលការសិក្សាថ្មីខណៈពេលអស់កម្លាំង អាចមានផលផ្ទុយ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងសម្រាកឱ្យបានត្រឹមត្រូវ ហើយទុកឱ្យការសម្រេចចិត្តរង់ចាំ រហូតដល់អ្នកមានអារម្មណ៍ជាខ្លួនឯងវិញ។"
+      },
+      "outcome": {
+        "en": "Starting after a good rest could make learning more enjoyable. You may come to the course with a fresh mind and real energy.",
+        "km": "ការចាប់ផ្តើមក្រោយការសម្រាកល្អ អាចធ្វើឱ្យការរៀនរីករាយជាង។ អ្នកអាចមកដល់វគ្គសិក្សា ដោយគំនិតស្រស់ និងថាមពលពិតប្រាកដ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Tension in the background may be colouring this decision. Arguments at home or work could be making it hard to think clearly about learning.",
+        "km": "ភាពតានតឹងនៅពីក្រោយ អាចកំពុងប៉ះពាល់ការសម្រេចចិត្តនេះ។ ការឈ្លោះប្រកែកនៅផ្ទះ ឬកន្លែងការងារ អាចកំពុងធ្វើឱ្យពិបាកគិតច្បាស់អំពីការរៀន។"
+      },
+      "challenge": {
+        "en": "Enrolling mainly to make a point to someone could leave you stuck in a course you resent. Ask whether you would still sign up if no one else knew.",
+        "km": "ការចុះឈ្មោះជាចម្បងដើម្បីបង្ហាញចំណុចមួយដល់នរណាម្នាក់ អាចទុកឱ្យអ្នកជាប់ក្នុងវគ្គសិក្សាដែលអ្នកមិនពេញចិត្ត។ សូមសួរថាតើអ្នកនឹងនៅតែចុះឈ្មោះឬអត់ ប្រសិនបើគ្មាននរណាម្នាក់ផ្សេងដឹង។"
+      },
+      "outcome": {
+        "en": "Choosing for yourself could bring a more peaceful learning experience. You may feel freer when the decision is truly your own.",
+        "km": "ការជ្រើសរើសសម្រាប់ខ្លួនឯង អាចនាំមកនូវបទពិសោធន៍រៀនដែលសុខសាន្តជាង។ អ្នកអាចមានអារម្មណ៍សេរីជាង នៅពេលការសម្រេចចិត្តពិតជារបស់អ្នក។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You may be moving towards calmer circumstances. A transition could be creating a good opening for new learning.",
+        "km": "អ្នកអាចកំពុងឆ្ពោះទៅរកកាលៈទេសៈដែលស្ងប់ជាង។ ការផ្លាស់ប្តូរមួយ អាចកំពុងបង្កើតឱកាសល្អសម្រាប់ការរៀនថ្មី។"
+      },
+      "challenge": {
+        "en": "Bringing old worries about failing into a new class could hold you back. Treat this course as a fresh page rather than a repeat of hard times.",
+        "km": "ការនាំការព្រួយបារម្ភចាស់ៗអំពីការបរាជ័យចូលថ្នាក់ថ្មី អាចរារាំងអ្នក។ សូមចាត់ទុកវគ្គសិក្សានេះជាទំព័រស្អាត ជាជាងការកើតឡើងម្តងទៀតនៃពេលលំបាក។"
+      },
+      "outcome": {
+        "en": "A new course could help you settle into a calmer chapter. You may find that learning brings stability, routine and quiet hope.",
+        "km": "វគ្គសិក្សាថ្មី អាចជួយអ្នកស្ថិតស្ថេរក្នុងជំពូកស្ងប់ជាង។ អ្នកអាចឃើញថាការរៀននាំមកនូវស្ថិរភាព ទម្លាប់ និងក្តីសង្ឃឹមស្ងាត់ៗ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Strategic thinking may be shaping your decision. You could be looking for the smartest way to fit learning into your life.",
+        "km": "ការគិតជាយុទ្ធសាស្ត្រ អាចកំពុងបង្កើតការសម្រេចចិត្តរបស់អ្នក។ អ្នកអាចកំពុងរកវិធីឆ្លាតវៃបំផុត ដើម្បីដាក់ការរៀនចូលក្នុងជីវិតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Looking for shortcuts could lead to a course that lacks substance. Choose quality learning over the cheapest or easiest option on offer.",
+        "km": "ការរកផ្លូវកាត់ អាចនាំទៅរកវគ្គសិក្សាដែលខ្វះខ្លឹមសារ។ សូមជ្រើសរើសការរៀនដែលមានគុណភាព ជាជាងជម្រើសថោក ឬងាយស្រួលបំផុតដែលមាន។"
+      },
+      "outcome": {
+        "en": "A smart, honest choice could bring efficient, worthwhile learning. You may find a course that fits your life well.",
+        "km": "ជម្រើសឆ្លាតវៃ និងស្មោះត្រង់ អាចនាំមកនូវការរៀនដែលមានប្រសិទ្ធភាព និងសមនឹងតម្លៃ។ អ្នកអាចរកឃើញវគ្គសិក្សាមួយ ដែលសមនឹងជីវិតរបស់អ្នកល្អ។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Feeling trapped may be affecting your decision. You could believe you cannot start because of circumstances or self-doubt.",
+        "km": "ការមានអារម្មណ៍ជាប់អន្ទាក់ អាចកំពុងប៉ះពាល់ការសម្រេចចិត្តរបស់អ្នក។ អ្នកអាចជឿថាអ្នកមិនអាចចាប់ផ្តើម ដោយសារកាលៈទេសៈ ឬការសង្ស័យលើខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Limiting beliefs could be making the choice seem harder than it is. Question whether the obstacles are as fixed as they feel.",
+        "km": "ជំនឿដែលកំណត់ព្រំដែន អាចកំពុងធ្វើឱ្យជម្រើសហាក់ពិបាកជាងការពិត។ សូមសួរសំណួរថាតើឧបសគ្គថេរដូចដែលវាមានអារម្មណ៍ឬអត់។"
+      },
+      "outcome": {
+        "en": "Seeing past self-doubt could make room to enrol. You may find the barriers you imagined were less solid than they looked.",
+        "km": "ការមើលហួសពីការសង្ស័យលើខ្លួនឯង អាចបង្កើតលំហដើម្បីចុះឈ្មោះ។ អ្នកអាចឃើញថាឧបសគ្គដែលអ្នកស្រមៃ មិនរឹងមាំដូចដែលវាមើលទៅ។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry may be clouding this decision. Anxiety about whether you could cope with the workload could be making you hesitant.",
+        "km": "ការព្រួយបារម្ភ អាចកំពុងធ្វើឱ្យការសម្រេចចិត្តនេះស្រអាប់។ ការថប់បារម្ភថាតើអ្នកអាចទប់ទល់នឹងបន្ទុកការងារឬអត់ អាចកំពុងធ្វើឱ្យអ្នកស្ទាក់ស្ទើរ។"
+      },
+      "challenge": {
+        "en": "Letting fear of not coping make the choice could rule out a course you would manage. Ask what support it offers, and seek professional help if anxiety affects your sleep or health.",
+        "km": "ការទុកឱ្យការខ្លាចមិនអាចទប់ទល់ធ្វើជម្រើស អាចបដិសេធវគ្គសិក្សាដែលអ្នកអាចគ្រប់គ្រងបាន។ សូមសួរថាវាផ្តល់ការគាំទ្រអ្វីខ្លះ ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Facing your worries could make the decision clearer. You may find the course less daunting than you feared.",
+        "km": "ការប្រឈមនឹងការព្រួយបារម្ភរបស់អ្នក អាចធ្វើឱ្យការសម្រេចចិត្តកាន់តែច្បាស់។ អ្នកអាចឃើញថាវគ្គសិក្សាមិនសូវគួរឱ្យខ្លាចដូចអ្វីដែលអ្នកខ្លាច។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A painful ending may have left you depleted. You could still be recovering from a hard blow and unsure what you have left to give.",
+        "km": "ការបញ្ចប់ដ៏ឈឺចាប់មួយ អាចបានធ្វើឱ្យអ្នកអស់កម្លាំង។ អ្នកអាចនៅតែកំពុងស្តារឡើងវិញពីការវាយប្រហារដ៏លំបាក ហើយមិនប្រាកដថាអ្នកនៅសល់អ្វីដើម្បីផ្តល់។"
+      },
+      "challenge": {
+        "en": "Signing up for something new just to outrun pain could add strain. Give yourself room to recover first, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ការចុះឈ្មោះសម្រាប់អ្វីមួយថ្មី គ្រាន់តែដើម្បីរត់គេចពីការឈឺចាប់ អាចបន្ថែមភាពតានតឹង។ សូមផ្តល់លំហដល់ខ្លួនឯងដើម្បីស្តារឡើងវិញជាមុន ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Starting fresh when you are ready could help you rebuild. You may find that a course gives shape and direction to a new beginning.",
+        "km": "ការចាប់ផ្តើមថ្មីនៅពេលអ្នកត្រៀមខ្លួន អាចជួយអ្នកកសាងឡើងវិញ។ អ្នកអាចឃើញថាវគ្គសិក្សាមួយ ផ្តល់រូបរាង និងទិសដៅដល់ការចាប់ផ្តើមថ្មី។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Curiosity may be pulling you towards a new course. You could be eager to learn, ask questions and explore fresh ideas.",
+        "km": "ការចង់ដឹងចង់ឃើញ អាចកំពុងទាញអ្នកទៅរកវគ្គសិក្សាថ្មី។ អ្នកអាចចង់រៀន សួរសំណួរ និងរុករកគំនិតស្រស់ៗ។"
+      },
+      "challenge": {
+        "en": "Reading endlessly about courses without deciding could stall you. Pick a point by which you will make your choice, and keep to it.",
+        "km": "ការអានឥតឈប់អំពីវគ្គសិក្សាដោយមិនសម្រេចចិត្ត អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមជ្រើសរើសចំណុចមួយ ដែលអ្នកនឹងធ្វើជម្រើសរបស់អ្នក ហើយរក្សាវា។"
+      },
+      "outcome": {
+        "en": "A curious start could bring stimulating, lively learning. You may enjoy discovering ideas and skills that keep your mind sharp.",
+        "km": "ការចាប់ផ្តើមដោយចង់ដឹង អាចនាំមកនូវការរៀនដែលជំរុញ និងរស់រវើក។ អ្នកអាចរីករាយក្នុងការរកឃើញគំនិត និងជំនាញ ដែលរក្សាគំនិតរបស់អ្នកឱ្យមុតស្រួច។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Eagerness to act may be strong. You could feel ready to dive into a course without spending long on the details.",
+        "km": "ភាពចង់ធ្វើសកម្មភាព អាចខ្លាំង។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនលោតចូលវគ្គសិក្សា ដោយមិនចំណាយពេលច្រើនលើព័ត៌មានលម្អិត។"
+      },
+      "challenge": {
+        "en": "Enrolling in a hurry could mean paying for something that does not suit you. Read the terms and course outline carefully before you sign anything.",
+        "km": "ការចុះឈ្មោះដោយប្រញាប់ អាចមានន័យថាការបង់ប្រាក់សម្រាប់អ្វីមួយដែលមិនសមនឹងអ្នក។ សូមអានលក្ខខណ្ឌ និងគម្រោងវគ្គសិក្សាដោយប្រុងប្រយ័ត្ន មុនពេលអ្នកចុះហត្ថលេខាលើអ្វីទាំងអស់។"
+      },
+      "outcome": {
+        "en": "Energetic commitment could bring strong progress. You may move through the course with drive and enjoy pushing yourself.",
+        "km": "ការប្តេជ្ញាដោយថាមពល អាចនាំមកនូវការរីកចម្រើនខ្លាំង។ អ្នកអាចឆ្លងកាត់វគ្គសិក្សាដោយកម្លាំងជំរុញ ហើយរីករាយនឹងការរុញខ្លួនឯង។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear judgement may guide this choice. You could be weighing it up honestly, without being swayed by what others think.",
+        "km": "ការវិនិច្ឆ័យច្បាស់ អាចដឹកនាំជម្រើសនេះ។ អ្នកអាចកំពុងថ្លឹងថ្លែងវាដោយស្មោះត្រង់ ដោយមិនត្រូវបានរង្គើដោយអ្វីដែលអ្នកដទៃគិត។"
+      },
+      "challenge": {
+        "en": "Finding fault with every option could leave you choosing nothing. Accept that no course is perfect, and choose the one that fits best.",
+        "km": "ការរកកំហុសក្នុងជម្រើសនីមួយៗ អាចធ្វើឱ្យអ្នកមិនជ្រើសរើសអ្វីទាំងអស់។ សូមទទួលយកថាគ្មានវគ្គសិក្សាណាល្អឥតខ្ចោះទេ ហើយជ្រើសរើសវគ្គដែលសមបំផុត។"
+      },
+      "outcome": {
+        "en": "A clear, fair decision could bring a well-suited course. You may feel quietly confident that you chose for the right reasons.",
+        "km": "ការសម្រេចចិត្តច្បាស់ និងយុត្តិធម៌ អាចនាំមកនូវវគ្គសិក្សាដែលសមល្អ។ អ្នកអាចមានទំនុកចិត្តស្ងាត់ៗ ថាអ្នកបានជ្រើសរើសដោយហេតុផលត្រឹមត្រូវ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Logic and reason may be guiding your decision. You could be weighing costs, benefits and career value with real care.",
+        "km": "តក្កវិជ្ជា និងហេតុផល អាចកំពុងដឹកនាំការសម្រេចចិត្តរបស់អ្នក។ អ្នកអាចកំពុងថ្លឹងថ្លែងថ្លៃ អត្ថប្រយោជន៍ និងតម្លៃអាជីព ដោយការយកចិត្តទុកដាក់ពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Deciding on numbers alone could leave out what you actually enjoy. Weigh your interest in the subject as seriously as its practical value.",
+        "km": "ការសម្រេចចិត្តតែលើតួលេខ អាចទុកចោលអ្វីដែលអ្នកពិតជារីករាយ។ សូមថ្លឹងថ្លែងចំណាប់អារម្មណ៍របស់អ្នកលើមុខវិជ្ជា ឱ្យបានម៉ឺងម៉ាត់ដូចតម្លៃជាក់ស្តែងរបស់វា។"
+      },
+      "outcome": {
+        "en": "A well-reasoned choice could bring solid, useful learning. You may gain expertise that serves you well and earns you respect.",
+        "km": "ជម្រើសដែលមានហេតុផលល្អ អាចនាំមកនូវការរៀនរឹងមាំ និងមានប្រយោជន៍។ អ្នកអាចទទួលបានជំនាញ ដែលបម្រើអ្នកបានល្អ និងធ្វើឱ្យអ្នកទទួលបានការគោរព។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical chance to enrol may be within reach. A place, grant or flexible timetable could be lining up with your circumstances.",
+        "km": "ឱកាសជាក់ស្តែងដើម្បីចុះឈ្មោះ អាចនៅក្បែរដៃ។ កន្លែង ជំនួយឧបត្ថម្ភ ឬកាលវិភាគបត់បែន អាចកំពុងស្របនឹងកាលៈទេសៈរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting a workable offer go by could mean waiting for another that may not come. Ask for the details in writing, and work out whether it truly fits.",
+        "km": "ការទុកឱ្យការផ្តល់ជូនដែលអាចធ្វើបានឆ្លងកាត់ អាចមានន័យថាការរង់ចាំការផ្តល់ជូនមួយទៀត ដែលប្រហែលជាមិនមក។ សូមស្នើសុំព័ត៌មានលម្អិតជាលាយលក្ខណ៍អក្សរ ហើយគណនាថាតើវាពិតជាសមឬអត់។"
+      },
+      "outcome": {
+        "en": "A grounded start could grow into valuable skills and qualifications. You may look back on this course as the seed of something lasting.",
+        "km": "ការចាប់ផ្តើមនឹងធឹង អាចលូតលាស់ទៅជាជំនាញ និងលិខិតបញ្ជាក់ដ៏មានតម្លៃ។ អ្នកអាចមើលវគ្គសិក្សានេះ ជាគ្រាប់ពូជនៃអ្វីមួយដ៏រឹងមាំ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "A busy life may be the main question here. Juggling work, family and other duties could make fitting in a course a real challenge.",
+        "km": "ជីវិតរវល់ អាចជាសំណួរចម្បងនៅទីនេះ។ ការរក្សាតុល្យភាពការងារ គ្រួសារ និងកាតព្វកិច្ចផ្សេងទៀត អាចធ្វើឱ្យការដាក់វគ្គសិក្សាចូលជាការប្រកួតពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Adding a course without adjusting anything else could overload you. Look for a flexible or part-time option that fits around your existing commitments.",
+        "km": "ការបន្ថែមវគ្គសិក្សាដោយមិនកែសម្រួលអ្វីផ្សេងទៀត អាចធ្វើឱ្យអ្នកលើសបន្ទុក។ សូមរកជម្រើសបត់បែន ឬក្រៅម៉ោង ដែលសមជុំវិញការប្តេជ្ញាដែលមានស្រាប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A flexible approach could let you learn without dropping everything else. You may find a rhythm that keeps study and life in balance.",
+        "km": "វិធីសាស្ត្របត់បែន អាចអនុញ្ញាតឱ្យអ្នករៀន ដោយមិនទម្លាក់អ្វីៗផ្សេងទៀត។ អ្នកអាចរកឃើញចង្វាក់មួយ ដែលរក្សាការសិក្សា និងជីវិតឱ្យមានតុល្យភាព។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Practical, hands-on learning may suit you well. A course with real projects and teamwork could match the way you learn best.",
+        "km": "ការរៀនជាក់ស្តែង និងអនុវត្តផ្ទាល់ អាចសមនឹងអ្នកល្អ។ វគ្គសិក្សាដែលមានគម្រោងពិត និងការធ្វើការជាក្រុម អាចត្រូវនឹងរបៀបដែលអ្នករៀនបានល្អបំផុត។"
+      },
+      "challenge": {
+        "en": "Choosing a course without checking its quality could disappoint you. Ask past students and teachers about what the course really offers.",
+        "km": "ការជ្រើសរើសវគ្គសិក្សាដោយមិនពិនិត្យគុណភាពរបស់វា អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមសួរអតីតសិស្ស និងគ្រូ អំពីអ្វីដែលវគ្គសិក្សាពិតជាផ្តល់ជូន។"
+      },
+      "outcome": {
+        "en": "Skilled, collaborative learning could bring work you are proud of. You may finish the course with practical skills others recognise.",
+        "km": "ការរៀនដែលមានជំនាញ និងសហការ អាចនាំមកនូវការងារដែលអ្នកមានមោទនភាព។ អ្នកអាចបញ្ចប់វគ្គសិក្សា ជាមួយជំនាញជាក់ស្តែងដែលអ្នកដទៃទទួលស្គាល់។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Caution about money or security may be shaping your decision. You could be weighing whether the cost of a course feels safe.",
+        "km": "ការប្រុងប្រយ័ត្នអំពីប្រាក់ ឬសុវត្ថិភាព អាចកំពុងបង្កើតការសម្រេចចិត្តរបស់អ្នក។ អ្នកអាចកំពុងថ្លឹងថ្លែងថាតើថ្លៃវគ្គសិក្សាមានអារម្មណ៍សុវត្ថិភាពឬអត់។"
+      },
+      "challenge": {
+        "en": "Holding back out of fear of spending could keep you from growth that pays off. Look for affordable or free options, and seek independent advice if the cost is large.",
+        "km": "ការទប់ខ្លួនដោយសារការខ្លាចចំណាយ អាចរារាំងអ្នកពីការលូតលាស់ដែលបង្កើតផល។ សូមរកជម្រើសដែលមានតម្លៃសមរម្យ ឬឥតគិតថ្លៃ ហើយស្វែងរកដំបូន្មានឯករាជ្យ ប្រសិនបើថ្លៃធំ។"
+      },
+      "outcome": {
+        "en": "A careful investment in learning could strengthen your security. You may find the course adds stability to your future options.",
+        "km": "ការវិនិយោគដោយប្រុងប្រយ័ត្នក្នុងការរៀន អាចពង្រឹងសុវត្ថិភាពរបស់អ្នក។ អ្នកអាចឃើញថាវគ្គសិក្សាបន្ថែមស្ថិរភាពដល់ជម្រើសរបស់អ្នក។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Limited resources may be making the decision hard. Money, time or support could feel too scarce to start a course.",
+        "km": "ធនធានមានកំណត់ អាចកំពុងធ្វើឱ្យការសម្រេចចិត្តពិបាក។ ប្រាក់ ពេលវេលា ឬការគាំទ្រ អាចមានអារម្មណ៍ខ្វះខាតពេកដើម្បីចាប់ផ្តើមវគ្គសិក្សា។"
+      },
+      "challenge": {
+        "en": "Assuming learning is out of reach could close doors that are actually open. Look into scholarships, free courses or community programmes near you.",
+        "km": "ការសន្មតថាការរៀននៅហួសដៃ អាចបិទទ្វារដែលតាមពិតបើក។ សូមពិនិត្យមើលអាហារូបករណ៍ វគ្គសិក្សាឥតគិតថ្លៃ ឬកម្មវិធីសហគមន៍នៅជិតអ្នក។"
+      },
+      "outcome": {
+        "en": "Finding support could make learning possible despite hardship. You may discover help that opens a path you thought was closed.",
+        "km": "ការរកឃើញការគាំទ្រ អាចធ្វើឱ្យការរៀនអាចទៅរួច ទោះបីមានការលំបាកក៏ដោយ។ អ្នកអាចរកឃើញជំនួយដែលបើកផ្លូវដែលអ្នកគិតថាត្រូវបានបិទ។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Support for your learning may be available. A sponsor, employer or generous helper could make a course possible.",
+        "km": "ការគាំទ្រសម្រាប់ការរៀនរបស់អ្នក អាចមាន។ អ្នកឧបត្ថម្ភ និយោជក ឬអ្នកជួយដ៏សប្បុរស អាចធ្វើឱ្យវគ្គសិក្សាអាចទៅរួច។"
+      },
+      "challenge": {
+        "en": "Hesitating to accept help could mean missing a good chance. Accept support gratefully, and plan how you might pay it forward.",
+        "km": "ការស្ទាក់ស្ទើរក្នុងការទទួលយកជំនួយ អាចមានន័យថាខកខានឱកាសល្អ។ សូមទទួលយកការគាំទ្រដោយដឹងគុណ ហើយគ្រោងពីរបៀបដែលអ្នកអាចតបស្នងទៅអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Accepting support could open doors to rewarding learning. You may later share what you gain with others who need it.",
+        "km": "ការទទួលយកការគាំទ្រ អាចបើកទ្វារទៅរកការរៀនដ៏មានតម្លៃ។ អ្នកអាចចែករំលែកអ្វីដែលអ្នកទទួលបាន ជាមួយអ្នកដទៃដែលត្រូវការវា។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Patience and careful assessment may be needed. You could be weighing whether a course will be worth the long effort.",
+        "km": "ការអត់ធ្មត់ និងការវាយតម្លៃដោយប្រុងប្រយ័ត្ន អាចត្រូវការ។ អ្នកអាចកំពុងថ្លឹងថ្លែងថាតើវគ្គសិក្សាមួយនឹងសមនឹងការខិតខំដ៏វែងឬអត់។"
+      },
+      "challenge": {
+        "en": "Expecting quick returns could make the course feel disappointing. Consider whether you are ready for a steady, patient commitment.",
+        "km": "ការរំពឹងផលលឿន អាចធ្វើឱ្យវគ្គសិក្សាមានអារម្មណ៍គួរឱ្យខកចិត្ត។ សូមពិចារណាថាតើអ្នកត្រៀមខ្លួនសម្រាប់ការប្តេជ្ញានឹងនរ និងអត់ធ្មត់ឬអត់។"
+      },
+      "outcome": {
+        "en": "Patient commitment could bring a rich harvest of learning. You may find the rewards grow steadily as you keep going.",
+        "km": "ការប្តេជ្ញាដោយអត់ធ្មត់ អាចនាំមកនូវការប្រមូលផលនៃការរៀនដ៏សម្បូរ។ អ្នកអាចឃើញថារង្វាន់កើនឡើងដោយនឹងនរ នៅពេលអ្នកបន្តទៅមុខ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "A wish to master a practical skill may be driving you. A course that offers steady, hands-on practice could suit your dedication.",
+        "km": "បំណងចង់ស្ទាត់ជំនាញជាក់ស្តែងមួយ អាចកំពុងជំរុញអ្នក។ វគ្គសិក្សាដែលផ្តល់ការហ្វឹកហាត់អនុវត្តផ្ទាល់ដោយនឹងនរ អាចសមនឹងការលះបង់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Choosing a course that is mostly theory could frustrate a hands-on learner. Check how much real practice the course actually includes.",
+        "km": "ការជ្រើសរើសវគ្គសិក្សាដែលភាគច្រើនជាទ្រឹស្តី អាចធ្វើឱ្យអ្នករៀនបែបអនុវត្តផ្ទាល់ខកចិត្ត។ សូមពិនិត្យថាវគ្គសិក្សាពិតជារួមបញ្ចូលការអនុវត្តពិតប៉ុណ្ណា។"
+      },
+      "outcome": {
+        "en": "Hands-on practice could leave you able to do something new with confidence. You may finish the course with a skill you can use straight away in real life.",
+        "km": "ការហ្វឹកហាត់អនុវត្តផ្ទាល់ អាចធ្វើឱ្យអ្នកអាចធ្វើអ្វីមួយថ្មីដោយទំនុកចិត្ត។ អ្នកអាចបញ្ចប់វគ្គសិក្សា ជាមួយជំនាញមួយដែលអ្នកអាចប្រើបានភ្លាមក្នុងជីវិតពិត។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Independence and self-sufficiency may be strong for you. A self-paced or online course could suit your way of learning.",
+        "km": "ឯករាជ្យភាព និងការពឹងលើខ្លួនឯង អាចខ្លាំងសម្រាប់អ្នក។ វគ្គសិក្សាតាមល្បឿនខ្លួនឯង ឬតាមអនឡាញ អាចសមនឹងរបៀបរៀនរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Studying entirely alone could make it easy to drift. Build in some contact with teachers or other learners to stay on track.",
+        "km": "ការសិក្សាតែម្នាក់ឯងទាំងស្រុង អាចធ្វើឱ្យងាយរសាត់។ សូមរៀបចំការទំនាក់ទំនងខ្លះជាមួយគ្រូ ឬអ្នករៀនផ្សេងទៀត ដើម្បីនៅលើផ្លូវ។"
+      },
+      "outcome": {
+        "en": "Self-directed learning could bring a rewarding sense of independence. You may enjoy achieving a goal entirely through your own discipline.",
+        "km": "ការរៀនដែលដឹកនាំដោយខ្លួនឯង អាចនាំមកនូវអារម្មណ៍ដ៏មានតម្លៃនៃឯករាជ្យភាព។ អ្នកអាចរីករាយនឹងការសម្រេចគោលដៅ ទាំងស្រុងតាមរយៈវិន័យរបស់អ្នកផ្ទាល់។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family considerations may be central to this decision. A course could affect household plans, finances or shared goals.",
+        "km": "ការពិចារណាអំពីគ្រួសារ អាចជាចំណុចកណ្តាលនៃការសម្រេចចិត្តនេះ។ វគ្គសិក្សាមួយ អាចប៉ះពាល់ផែនការគ្រួសារ ហិរញ្ញវត្ថុ ឬគោលដៅរួម។"
+      },
+      "challenge": {
+        "en": "Deciding without talking to the people affected could cause friction. Discuss your plans openly with family, and agree how the course will fit in.",
+        "km": "ការសម្រេចចិត្តដោយមិននិយាយជាមួយមនុស្សដែលរងផលប៉ះពាល់ អាចបង្កការកកិត។ សូមពិភាក្សាផែនការរបស់អ្នកដោយបើកចំហជាមួយគ្រួសារ ហើយព្រមព្រៀងគ្នាពីរបៀបដែលវគ្គសិក្សានឹងសម។"
+      },
+      "outcome": {
+        "en": "A family-backed course could bring benefits that reach everyone at home. You may build qualifications that strengthen your family's security.",
+        "km": "វគ្គសិក្សាដែលគ្រួសារគាំទ្រ អាចនាំមកនូវអត្ថប្រយោជន៍ដែលទៅដល់មនុស្សគ្រប់គ្នានៅផ្ទះ។ អ្នកអាចកសាងលិខិតបញ្ជាក់ ដែលពង្រឹងសុវត្ថិភាពគ្រួសាររបស់អ្នក។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A studious, careful nature may make you a good learner. You could be ready to commit to steady study and practical goals.",
+        "km": "ធម្មជាតិដែលចូលចិត្តសិក្សា និងប្រុងប្រយ័ត្ន អាចធ្វើឱ្យអ្នកជាអ្នករៀនល្អ។ អ្នកអាចត្រៀមខ្លួនប្តេជ្ញាចំពោះការសិក្សានឹងនរ និងគោលដៅជាក់ស្តែង។"
+      },
+      "challenge": {
+        "en": "Over-researching your options could delay a good decision. Once you have the key facts, trust yourself to choose and begin.",
+        "km": "ការស្រាវជ្រាវជម្រើសរបស់អ្នកហួសហេតុ អាចពន្យារការសម្រេចចិត្តល្អ។ នៅពេលអ្នកមានការពិតសំខាន់ៗ សូមទុកចិត្តខ្លួនឯងឱ្យជ្រើសរើស និងចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Careful study could bring solid, useful results. You may complete the course with skills and knowledge you can build on.",
+        "km": "ការសិក្សាដោយប្រុងប្រយ័ត្ន អាចនាំមកនូវលទ្ធផលរឹងមាំ និងមានប្រយោជន៍។ អ្នកអាចបញ្ចប់វគ្គសិក្សា ជាមួយជំនាញ និងចំណេះដឹងដែលអ្នកអាចកសាងបន្ត។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Steady reliability may be one of your strengths. You could be the kind of learner who sees a course through to the end.",
+        "km": "ភាពអាចទុកចិត្តបានដោយនឹងនរ អាចជាចំណុចខ្លាំងមួយរបស់អ្នក។ អ្នកអាចជាអ្នករៀនប្រភេទដែលបញ្ចប់វគ្គសិក្សារហូតដល់ចប់។"
+      },
+      "challenge": {
+        "en": "Choosing a course that is too slow or routine could bore you. Look for one with enough challenge to keep you engaged throughout.",
+        "km": "ការជ្រើសរើសវគ្គសិក្សាដែលយឺត ឬជាទម្លាប់ពេក អាចធ្វើឱ្យអ្នកធុញ។ សូមរកវគ្គសិក្សាដែលមានការប្រកួតគ្រប់គ្រាន់ ដើម្បីរក្សាអ្នកឱ្យចូលរួមពេញមួយវគ្គ។"
+      },
+      "outcome": {
+        "en": "Consistent effort could carry you to a solid finish. You may complete the course with dependable results you can be proud of.",
+        "km": "ការខិតខំជាប់លាប់ អាចនាំអ្នកទៅដល់ការបញ្ចប់រឹងមាំ។ អ្នកអាចបញ្ចប់វគ្គសិក្សា ជាមួយលទ្ធផលដែលអាចទុកចិត្តបាន ដែលអ្នកអាចមានមោទនភាព។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Caring for others may leave limited space for yourself. Starting a course could feel like a gift to yourself, or one more demand.",
+        "km": "ការថែទាំអ្នកដទៃ អាចទុកលំហមានកំណត់សម្រាប់ខ្លួនឯង។ ការចាប់ផ្តើមវគ្គសិក្សា អាចមានអារម្មណ៍ដូចជាអំណោយដល់ខ្លួនឯង ឬជាតម្រូវការមួយទៀត។"
+      },
+      "challenge": {
+        "en": "Putting everyone else first could mean never making time to learn. Arrange practical support at home so you can study.",
+        "km": "ការដាក់អ្នកផ្សេងទាំងអស់មុន អាចមានន័យថាមិនដែលបង្កើតពេលដើម្បីរៀន។ សូមរៀបចំការគាំទ្រជាក់ស្តែងនៅផ្ទះ ដើម្បីឱ្យអ្នកអាចសិក្សាបាន។"
+      },
+      "outcome": {
+        "en": "A course chosen for yourself could bring nourishing growth. You may find learning refreshes you and enriches how you care for others.",
+        "km": "វគ្គសិក្សាដែលជ្រើសរើសសម្រាប់ខ្លួនឯង អាចនាំមកនូវការលូតលាស់ដែលចិញ្ចឹម។ អ្នកអាចឃើញថាការរៀនធ្វើឱ្យអ្នកស្រស់ស្រាយ និងធ្វើឱ្យរបៀបដែលអ្នកថែទាំអ្នកដទៃសម្បូរ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Experience and stability may give you a strong base for further learning. You could be well placed to take on an advanced course.",
+        "km": "បទពិសោធន៍ និងស្ថិរភាព អាចផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានរឹងមាំសម្រាប់ការរៀនបន្ថែម។ អ្នកអាចស្ថិតក្នុងទីតាំងល្អ ដើម្បីទទួលយកវគ្គសិក្សាកម្រិតខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Assuming you already know enough could stop you from growing. Stay open to learning, even from a position of expertise.",
+        "km": "ការសន្មតថាអ្នកដឹងគ្រប់គ្រាន់រួចហើយ អាចរារាំងអ្នកពីការលូតលាស់។ សូមរក្សាការបើកចិត្តចំពោះការរៀន សូម្បីតែពីទីតាំងនៃអ្នកជំនាញ។"
+      },
+      "outcome": {
+        "en": "Advanced learning could bring authority and new opportunities. You may step into a role where your expertise is valued and shared.",
+        "km": "ការរៀនកម្រិតខ្ពស់ អាចនាំមកនូវសិទ្ធិអំណាច និងឱកាសថ្មី។ អ្នកអាចដើរចូលតួនាទីមួយ ដែលជំនាញរបស់អ្នកត្រូវបានឱ្យតម្លៃ និងចែករំលែក។"
+      }
+    }
+  }
+}
