@@ -1,0 +1,1097 @@
+{
+  "questionId": "WB-06",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "A lighter, more playful attitude toward work may be your starting point. Treating rest as an adventure rather than wasted effort could change how you recharge.",
+        "km": "អាកប្បកិរិយាស្រាល និងលេងសើចជាងមុនចំពោះការងារ អាចជាចំណុចចាប់ផ្តើមរបស់អ្នក។ ការចាត់ទុកការសម្រាកជាដំណើរផ្សងព្រេង ជាជាងការខ្ជះខ្ជាយកិច្ចខិតខំ អាចផ្លាស់ប្តូររបៀបដែលអ្នកបញ្ចូលថាមពល។"
+      },
+      "challenge": {
+        "en": "Taking on every new project that excites you could leave no room for rest. Say yes only to what you can carry without giving up your rest.",
+        "km": "ការទទួលយកគម្រោងថ្មីគ្រប់យ៉ាងដែលធ្វើឱ្យអ្នករំភើប អាចមិនទុកលំហសម្រាប់ការសម្រាក។ សូមយល់ព្រមតែលើអ្វីដែលអ្នកអាចទទួលបាន ដោយមិនបោះបង់ពេលសម្រាករបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A fresh approach could bring more freedom and fun into both work and rest. You may find that rest sparks new ideas for your work.",
+        "km": "វិធីថ្មីមួយ អាចនាំសេរីភាព និងភាពសប្បាយបន្ថែមចូលក្នុងទាំងការងារ និងការសម្រាក។ អ្នកអាចរកឃើញថាការសម្រាកបំភ្លឺគំនិតថ្មីៗសម្រាប់ការងាររបស់អ្នក។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Your skill at getting things done may help you work smarter rather than harder. Focusing your energy on the tasks that matter most could free up room to rest.",
+        "km": "ជំនាញរបស់អ្នកក្នុងការធ្វើអ្វីៗឱ្យសម្រេច អាចជួយអ្នកធ្វើការឱ្យឆ្លាតជាងមុន ជាជាងខ្លាំងជាងមុន។ ការផ្តោតថាមពលរបស់អ្នកលើកិច្ចការដែលសំខាន់បំផុត អាចដោះលែងលំហសម្រាប់ការសម្រាក។"
+      },
+      "challenge": {
+        "en": "Believing you must handle every task yourself could leave you overworked. Decide which jobs truly need your touch, and let the rest go to others.",
+        "km": "ការជឿថាអ្នកត្រូវតែដោះស្រាយកិច្ចការគ្រប់យ៉ាងដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកធ្វើការហួសកម្លាំង។ សូមសម្រេចថាការងារណាដែលពិតជាត្រូវការដៃរបស់អ្នក ហើយទុកការងារផ្សេងទៀតឱ្យអ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Purposeful, focused work could leave you with energy to spare for rest and pleasure. You may achieve more while feeling far less drained.",
+        "km": "ការងារដែលមានគោលបំណង និងផ្តោត អាចទុកឱ្យអ្នកមានថាមពលសល់សម្រាប់ការសម្រាក និងសេចក្តីរីករាយ។ អ្នកអាចសម្រេចបានច្រើនជាងមុន ខណៈមានអារម្មណ៍អស់កម្លាំងតិចជាងមុនច្រើន។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Listening to your inner signals may be your best guide to balance. Your body and mood could tell you when you need to stop.",
+        "km": "ការស្តាប់សញ្ញាក្នុងខ្លួនរបស់អ្នក អាចជាការណែនាំល្អបំផុតរបស់អ្នកឆ្ពោះទៅរកតុល្យភាព។ រាងកាយ និងអារម្មណ៍របស់អ្នក អាចប្រាប់អ្នកនៅពេលដែលអ្នកត្រូវឈប់។"
+      },
+      "challenge": {
+        "en": "Ignoring signs of fatigue to keep working could lead to exhaustion. Pause when you notice tension, a short temper or a wandering mind.",
+        "km": "ការមិនអើពើនឹងសញ្ញានៃភាពហត់នឿយ ដើម្បីបន្តធ្វើការ អាចនាំឱ្យអស់កម្លាំង។ សូមផ្អាកនៅពេលអ្នកកត់សម្គាល់ភាពតានតឹង ការឆាប់ខឹង ឬគំនិតដែលវង្វេង។"
+      },
+      "outcome": {
+        "en": "Trusting your instincts about rest could bring a more natural, sustainable rhythm. You may know when to push and when to pause.",
+        "km": "ការទុកចិត្តលើសភាវគតិរបស់អ្នកអំពីការសម្រាក អាចនាំមកនូវចង្វាក់ដែលធម្មជាតិ និងអាចទ្រទ្រង់បានជាងមុន។ អ្នកអាចដឹងថានៅពេលណាត្រូវខិតខំ និងនៅពេលណាត្រូវផ្អាក។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Nurturing yourself as carefully as you nurture your work may restore balance. Comfort, good food and nature could help you recover from effort.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយយកចិត្តទុកដាក់ ដូចដែលអ្នកថែរក្សាការងាររបស់អ្នក អាចស្តារតុល្យភាពឡើងវិញ។ ភាពសុខស្រួល អាហារល្អ និងធម្មជាតិ អាចជួយអ្នកងើបពីការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Pouring all your care into work or others could leave nothing for yourself. Treat rest as part of your productivity, not a reward for it.",
+        "km": "ការចាក់ការយកចិត្តទុកដាក់ទាំងអស់ទៅក្នុងការងារ ឬអ្នកដទៃ អាចមិនទុកអ្វីសម្រាប់ខ្លួនឯង។ សូមចាត់ទុកការសម្រាកជាផ្នែកមួយនៃផលិតភាពរបស់អ្នក មិនមែនជារង្វាន់សម្រាប់វានោះទេ។"
+      },
+      "outcome": {
+        "en": "Balanced self-care could bring abundance in both energy and output. Your work may flourish as you allow yourself proper rest.",
+        "km": "ការថែរក្សាខ្លួនឯងដែលមានតុល្យភាព អាចនាំមកនូវភាពបរិបូរណ៍ទាំងថាមពល និងលទ្ធផល។ ការងាររបស់អ្នកអាចរីកចម្រើន នៅពេលអ្នកអនុញ្ញាតឱ្យខ្លួនឯងសម្រាកឱ្យបានត្រឹមត្រូវ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Clear structure may be the key to separating work from rest. Setting firm start and stop points could protect your rest.",
+        "km": "រចនាសម្ព័ន្ធច្បាស់លាស់ អាចជាគន្លឹះនៃការបំបែកការងារពីការសម្រាក។ ការកំណត់ចំណុចចាប់ផ្តើម និងចំណុចឈប់ឱ្យម៉ឺងម៉ាត់ អាចការពារពេលសម្រាករបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting work spill into every corner of life could wear you down. Set boundaries, such as no work messages during meals or at home.",
+        "km": "ការទុកឱ្យការងារហៀរចូលគ្រប់ជ្រុងនៃជីវិត អាចធ្វើឱ្យអ្នកចុះខ្សោយ។ សូមកំណត់ព្រំដែន ដូចជាគ្មានសារការងារពេលញ៉ាំអាហារ ឬនៅផ្ទះ។"
+      },
+      "outcome": {
+        "en": "A well-structured routine could bring stability and steady energy. Rest may feel earned and guilt-free when work has clear limits.",
+        "km": "ទម្លាប់ដែលមានរចនាសម្ព័ន្ធល្អ អាចនាំមកនូវស្ថិរភាព និងថាមពលនឹងនរ។ ការសម្រាកអាចមានអារម្មណ៍សមនឹងទទួល និងគ្មានទោសកំហុស នៅពេលការងារមានដែនកំណត់ច្បាស់លាស់។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Traditions of rest, such as worship or family gatherings, may help you find balance. Honouring those pauses, rather than working through them, could protect your wellbeing.",
+        "km": "ប្រពៃណីនៃការសម្រាក ដូចជាការគោរពបូជា ឬការជួបជុំគ្រួសារ អាចជួយអ្នករកតុល្យភាព។ ការគោរពការផ្អាកទាំងនោះ ជាជាងធ្វើការឆ្លងកាត់វា អាចការពារសុខុមាលភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Following workplace norms that glorify overwork could wear you down. Question expectations that leave no room for rest, even if colleagues seem to accept them.",
+        "km": "ការធ្វើតាមបទដ្ឋានកន្លែងធ្វើការដែលលើកតម្កើងការធ្វើការហួសកម្លាំង អាចធ្វើឱ្យអ្នកចុះខ្សោយ។ សូមចោទសួរការរំពឹងទុកដែលមិនទុកលំហសម្រាប់ការសម្រាក ទោះបីសហការីហាក់ទទួលយកវាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Meaningful rituals of rest could bring renewal and connection. Shared pauses may strengthen both your wellbeing and your relationships.",
+        "km": "ពិធីនៃការសម្រាកដែលមានអត្ថន័យ អាចនាំមកនូវការកកើតឡើងវិញ និងការភ្ជាប់ទំនាក់ទំនង។ ការផ្អាករួមគ្នា អាចពង្រឹងទាំងសុខុមាលភាព និងទំនាក់ទំនងរបស់អ្នក។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Choosing what matters most to you may guide how you divide work and rest. Aligning your schedule with your values could bring a sense of rightness.",
+        "km": "ការជ្រើសរើសអ្វីដែលសំខាន់បំផុតសម្រាប់អ្នក អាចណែនាំរបៀបដែលអ្នកបែងចែកការងារ និងការសម្រាក។ ការតម្រឹមកាលវិភាគរបស់អ្នកជាមួយគុណតម្លៃ អាចនាំមកនូវអារម្មណ៍ត្រឹមត្រូវ។"
+      },
+      "challenge": {
+        "en": "Saying yes to work that conflicts with your values could leave you drained. Choose commitments that you can feel good about when you look back on them.",
+        "km": "ការយល់ព្រមលើការងារដែលផ្ទុយនឹងគុណតម្លៃរបស់អ្នក អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមជ្រើសការប្តេជ្ញាដែលអ្នកអាចពេញចិត្ត នៅពេលអ្នកក្រឡេកមើលវាវិញ។"
+      },
+      "outcome": {
+        "en": "A values-led balance could bring deep satisfaction and harmony. Work and rest may both feel more meaningful, and less like a constant tug of war.",
+        "km": "តុល្យភាពដែលដឹកនាំដោយគុណតម្លៃ អាចនាំមកនូវសេចក្តីពេញចិត្ត និងភាពសុខដុមដ៏ជ្រាលជ្រៅ។ ទាំងការងារ និងការសម្រាក អាចមានអារម្មណ៍មានអត្ថន័យជាងមុន ហើយមិនសូវដូចការទាញព្រ័ត្រជានិច្ច។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Determination may help you work hard, but it could also help you rest firmly. Treating rest as part of your plan could keep you going further.",
+        "km": "ការតាំងចិត្ត អាចជួយអ្នកធ្វើការខ្លាំង ប៉ុន្តែវាក៏អាចជួយអ្នកសម្រាកឱ្យបានម៉ឺងម៉ាត់ផងដែរ។ ការចាត់ទុកការសម្រាកជាផ្នែកមួយនៃផែនការរបស់អ្នក អាចរក្សាឱ្យអ្នកទៅបានឆ្ងាយជាងមុន។"
+      },
+      "challenge": {
+        "en": "Pushing relentlessly toward goals could burn you out. Build rest into your plan as deliberately as you build in work.",
+        "km": "ការរុញឥតឈប់ឈរឆ្ពោះទៅរកគោលដៅ អាចធ្វើឱ្យអ្នកអស់កម្លាំងខ្លាំង។ សូមបញ្ចូលការសម្រាកក្នុងផែនការរបស់អ្នកដោយចេតនា ដូចដែលអ្នកបញ្ចូលការងារ។"
+      },
+      "outcome": {
+        "en": "Balanced drive could carry you toward your goals without exhaustion. You may reach the finish line strong rather than depleted.",
+        "km": "កម្លាំងជំរុញដែលមានតុល្យភាព អាចនាំអ្នកឆ្ពោះទៅរកគោលដៅ ដោយមិនអស់កម្លាំង។ អ្នកអាចឈានដល់ទីបញ្ចប់ដោយកម្លាំង ជាជាងអស់កម្លាំង។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Patience with yourself may help you accept that you cannot do everything. Gentle self-control could help you stop when enough is enough.",
+        "km": "ការអត់ធ្មត់ចំពោះខ្លួនឯង អាចជួយអ្នកទទួលយកថាអ្នកមិនអាចធ្វើអ្វីៗទាំងអស់បាន។ ការគ្រប់គ្រងខ្លួនឯងដោយទន់ភ្លន់ អាចជួយអ្នកឈប់ នៅពេលគ្រប់គ្រាន់ហើយ។"
+      },
+      "challenge": {
+        "en": "Forcing yourself through fatigue could backfire. Respond to tiredness with kindness, and a proper break, rather than willpower.",
+        "km": "ការបង្ខំខ្លួនឯងឆ្លងកាត់ភាពហត់នឿយ អាចមានផលផ្ទុយ។ សូមឆ្លើយតបនឹងភាពហត់នឿយដោយសេចក្តីសប្បុរស និងការសម្រាកឱ្យបានត្រឹមត្រូវ ជាជាងឆន្ទៈ។"
+      },
+      "outcome": {
+        "en": "Gentle strength could help you sustain effort without burning out. You may feel calmer and more resilient, even through demanding stretches.",
+        "km": "កម្លាំងទន់ភ្លន់ អាចជួយអ្នករក្សាកិច្ចខិតខំ ដោយមិនអស់កម្លាំង។ អ្នកអាចមានអារម្មណ៍ស្ងប់ និងធន់ជាងមុន ទោះបីឆ្លងកាត់ដំណាក់កាលដែលទាមទារខ្លាំងក៏ដោយ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Regular solitude may help you rest more deeply than busy leisure. Quiet moments alone could restore you after demanding work.",
+        "km": "ការនៅម្នាក់ឯងជាប្រចាំ អាចជួយអ្នកសម្រាកបានជ្រៅជាងការកម្សាន្តមមាញឹក។ គ្រាស្ងាត់ៗតែម្នាក់ឯង អាចស្តារកម្លាំងអ្នក ក្រោយការងារដែលទាមទារខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Filling all your free moments with activity could leave you more tired. Protect some genuinely quiet, unstructured rest, with no plans and no screens.",
+        "km": "ការបំពេញគ្រាទំនេរទាំងអស់ដោយសកម្មភាព អាចធ្វើឱ្យអ្នកហត់នឿយជាងមុន។ សូមការពារការសម្រាកដែលស្ងាត់ពិតប្រាកដ និងគ្មានការរៀបចំខ្លះ ដោយគ្មានផែនការ និងគ្មានអេក្រង់។"
+      },
+      "outcome": {
+        "en": "Quiet rest could bring clarity and renewed energy for work. You may return to your tasks refreshed, focused and less easily rattled.",
+        "km": "ការសម្រាកស្ងាត់ៗ អាចនាំមកនូវភាពច្បាស់លាស់ និងថាមពលថ្មីសម្រាប់ការងារ។ អ្នកអាចត្រឡប់ទៅរកកិច្ចការរបស់អ្នកវិញ ដោយស្រស់ស្រាយ ផ្តោតអារម្មណ៍ និងមិនងាយរំខានជាងមុន។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Accepting that work and rest go in cycles may help you find balance. A busy stretch could be balanced by a deliberate stretch of recovery.",
+        "km": "ការទទួលយកថាការងារ និងការសម្រាកដើរតាមវដ្ត អាចជួយអ្នករកតុល្យភាព។ ដំណាក់កាលមមាញឹកមួយ អាចត្រូវបានថ្លឹងដោយដំណាក់កាលនៃការងើបឡើងវិញដោយចេតនា។"
+      },
+      "challenge": {
+        "en": "Expecting yourself to keep the same pace without a break could leave you frustrated. Plan extra rest after a demanding stretch of work.",
+        "km": "ការរំពឹងឱ្យខ្លួនឯងរក្សាល្បឿនដដែលដោយគ្មានការសម្រាក អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមគ្រោងការសម្រាកបន្ថែម ក្រោយដំណាក់កាលការងារដែលទាមទារខ្លាំង។"
+      },
+      "outcome": {
+        "en": "Riding the natural rhythm of effort and rest could bring sustainable energy. You may adapt more easily to changing demands without feeling worn out.",
+        "km": "ការធ្វើតាមចង្វាក់ធម្មជាតិនៃការខិតខំ និងការសម្រាក អាចនាំមកនូវថាមពលដែលអាចទ្រទ្រង់បាន។ អ្នកអាចសម្របខ្លួនបានងាយជាងមុន ទៅនឹងការទាមទារដែលប្រែប្រួល ដោយមិនមានអារម្មណ៍អស់កម្លាំង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "Weighing your workload fairly may show where balance has slipped. An honest look at how you spend your energy could guide change.",
+        "km": "ការថ្លឹងបន្ទុកការងាររបស់អ្នកដោយយុត្តិធម៌ អាចបង្ហាញថាតុល្យភាពបានរអិលនៅត្រង់ណា។ ការមើលដោយស្មោះត្រង់ពីរបៀបដែលអ្នកចំណាយថាមពល អាចណែនាំការផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Taking on more than your fair share at work could leave no room for rest. Speak up calmly about workload imbalances, with examples of what you carry.",
+        "km": "ការទទួលយកច្រើនជាងចំណែកដ៏យុត្តិធម៌របស់អ្នកនៅកន្លែងធ្វើការ អាចមិនទុកលំហសម្រាប់ការសម្រាក។ សូមនិយាយដោយស្ងប់អំពីភាពមិនស្មើគ្នានៃបន្ទុកការងារ ជាមួយឧទាហរណ៍នៃអ្វីដែលអ្នកកំពុងទទួលបន្ទុក។"
+      },
+      "outcome": {
+        "en": "A fairer balance could restore energy and peace of mind. You may feel more in control of your life, and less resentful at work.",
+        "km": "តុល្យភាពដែលយុត្តិធម៌ជាងមុន អាចស្តារថាមពល និងសេចក្តីសុខក្នុងចិត្តឡើងវិញ។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងជីវិតរបស់អ្នកបានច្រើនជាងមុន ហើយមិនសូវអាក់អន់ចិត្តនៅកន្លែងធ្វើការ។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Pausing to see your work from a new angle may reveal where balance is possible. Stepping back could show that some tasks can wait or be dropped.",
+        "km": "ការផ្អាកដើម្បីមើលការងាររបស់អ្នកពីមុំថ្មី អាចបង្ហាញថាតុល្យភាពអាចធ្វើទៅបាននៅត្រង់ណា។ ការថយក្រោយ អាចបង្ហាញថាកិច្ចការខ្លះអាចទុកសិន ឬទម្លាក់ចោលបាន។"
+      },
+      "challenge": {
+        "en": "Giving up your breaks to cover for others could leave you running on empty. Ask what the job would gain if you stepped back and came back rested.",
+        "km": "ការបោះបង់ការសម្រាករបស់អ្នក ដើម្បីជួយអ្នកដទៃ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមសួរថាការងារនឹងទទួលបានអ្វី ប្រសិនបើអ្នកថយក្រោយ ហើយត្រឡប់មកវិញដោយបានសម្រាក។"
+      },
+      "outcome": {
+        "en": "A fresh perspective could bring surprising relief and better balance. Rest may become something you allow yourself freely, without needing to earn it.",
+        "km": "ទស្សនៈថ្មី អាចនាំមកនូវការធូរស្រាលគួរឱ្យភ្ញាក់ផ្អើល និងតុល្យភាពល្អជាងមុន។ ការសម្រាកអាចក្លាយជាអ្វីដែលអ្នកអនុញ្ញាតឱ្យខ្លួនឯងដោយសេរី ដោយមិនចាំបាច់ខិតខំរកវា។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Ending an unsustainable way of working may be the change you need. Letting go of an old pattern could make room for healthier balance.",
+        "km": "ការបញ្ចប់របៀបធ្វើការដែលមិនអាចទ្រទ្រង់បាន អាចជាការផ្លាស់ប្តូរដែលអ្នកត្រូវការ។ ការលែងប្រកាន់គំរូចាស់មួយ អាចទុកលំហសម្រាប់តុល្យភាពដែលមានសុខភាពល្អជាងមុន។"
+      },
+      "challenge": {
+        "en": "Holding on to an exhausting work style could block real change. Let go of habits like being reachable at every moment or skipping breaks.",
+        "km": "ការប្រកាន់ខ្ជាប់របៀបធ្វើការដែលធ្វើឱ្យហត់នឿយ អាចរារាំងការផ្លាស់ប្តូរពិតប្រាកដ។ សូមលែងប្រកាន់ទម្លាប់ដូចជាការត្រៀមឆ្លើយតបគ្រប់ពេល ឬការរំលងការសម្រាក។"
+      },
+      "outcome": {
+        "en": "A meaningful change could renew your energy and outlook. A healthier rhythm, with real breaks built in, may take root.",
+        "km": "ការផ្លាស់ប្តូរដ៏មានអត្ថន័យ អាចធ្វើឱ្យថាមពល និងទស្សនៈរបស់អ្នកថ្មីឡើងវិញ។ ចង្វាក់ដែលមានសុខភាពល្អជាងមុន ដែលមានការសម្រាកពិតប្រាកដបញ្ចូល អាចចាក់ឫស។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Steady pacing may be your natural way of balancing work and rest. Mixing focused work with regular pauses could keep you well through a busy schedule.",
+        "km": "ការគ្រប់គ្រងល្បឿនដោយនឹងនរ អាចជាវិធីធម្មជាតិរបស់អ្នកក្នុងការថ្លឹងការងារ និងការសម្រាក។ ការលាយការងារដែលផ្តោតជាមួយការផ្អាកជាប្រចាំ អាចរក្សាអ្នកឱ្យមានសុខភាពល្អ ឆ្លងកាត់កាលវិភាគមមាញឹក។"
+      },
+      "challenge": {
+        "en": "Swinging between overwork and collapse could unsettle you. Aim for a steady, sustainable pace you could keep up without strain.",
+        "km": "ការយោលរវាងការធ្វើការហួសកម្លាំង និងការដួលរលំ អាចធ្វើឱ្យអ្នកមិនស្ងប់។ សូមតម្រង់ទៅរកល្បឿនដែលនឹងនរ និងអាចទ្រទ្រង់បាន ដែលអ្នកអាចរក្សាដោយមិនតានតឹង។"
+      },
+      "outcome": {
+        "en": "Steady balance could bring steady energy and calm. Work and rest may flow together more naturally, without a fight between them.",
+        "km": "តុល្យភាពនឹងនរ អាចនាំមកនូវថាមពល និងភាពស្ងប់ដ៏រឹងមាំ។ ការងារ និងការសម្រាក អាចហូរជាមួយគ្នាដោយធម្មជាតិជាងមុន ដោយគ្មានការប្រជែងរវាងវា។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Recognising an unhealthy attachment to work may be the first step to balance. Constantly checking messages or feeling guilty when resting could be telling signs.",
+        "km": "ការទទួលស្គាល់ការជាប់ចិត្តមិនល្អនឹងការងារ អាចជាជំហានដំបូងឆ្ពោះទៅរកតុល្យភាព។ ការពិនិត្យសារជានិច្ច ឬការមានអារម្មណ៍ទោសកំហុសពេលសម្រាក អាចជាសញ្ញាដែលប្រាប់អ្វីៗច្រើន។"
+      },
+      "challenge": {
+        "en": "Feeling unable to switch off could leave you drained and on edge. Set clear limits on work contact, and seek support if work stress feels out of control.",
+        "km": "ការមានអារម្មណ៍ថាមិនអាចបិទការងារបាន អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងតានតឹង។ សូមកំណត់ដែនកំណត់ច្បាស់លាស់លើការទាក់ទងការងារ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើភាពតានតឹងការងារហាក់ហួសពីការគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "Breaking free from overwork could bring relief and a renewed sense of self. You may enjoy rest without the constant pull of work.",
+        "km": "ការរួចផុតពីការធ្វើការហួសកម្លាំង អាចនាំមកនូវការធូរស្រាល និងអារម្មណ៍ខ្លួនឯងថ្មី។ អ្នកអាចរីករាយនឹងការសម្រាក ដោយគ្មានការទាញពីការងារជានិច្ច។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "An overload or crisis may be showing that your balance is not sustainable. A disruption could force a rethink of how you work.",
+        "km": "បន្ទុកលើស ឬវិបត្តិមួយ ប្រហែលជាកំពុងបង្ហាញថាតុល្យភាពរបស់អ្នកមិនអាចទ្រទ្រង់បាន។ ការរំខានមួយ អាចបង្ខំឱ្យគិតឡើងវិញពីរបៀបដែលអ្នកធ្វើការ។"
+      },
+      "challenge": {
+        "en": "Ignoring warning signs of burnout could lead to a collapse. Take them seriously, and seek professional support if stress feels overwhelming.",
+        "km": "ការមិនអើពើនឹងសញ្ញាព្រមាននៃការអស់កម្លាំងខ្លាំង អាចនាំឱ្យដួលរលំ។ សូមយកវាមកពិចារណាឱ្យធ្ងន់ធ្ងរ ហើយស្វែងរកការគាំទ្រពីអ្នកជំនាញ ប្រសិនបើភាពតានតឹងខ្លាំងពេក។"
+      },
+      "outcome": {
+        "en": "Rebuilding through upheaval could lead to a healthier, more honest balance. You may emerge with clearer priorities and firmer limits on your work.",
+        "km": "ការកសាងឡើងវិញតាមរយៈការរង្គោះរង្គើ អាចនាំទៅរកតុល្យភាពដែលមានសុខភាពល្អ និងស្មោះត្រង់ជាងមុន។ អ្នកអាចលេចចេញមកជាមួយអាទិភាពច្បាស់ជាងមុន និងដែនកំណត់លើការងាររបស់អ្នកដែលម៉ឺងម៉ាត់ជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and gentle renewal may guide you toward better balance. Small moments of rest could restore your spirit after hard work.",
+        "km": "ក្តីសង្ឃឹម និងការកកើតឡើងវិញដោយទន់ភ្លន់ អាចណែនាំអ្នកឆ្ពោះទៅរកតុល្យភាពល្អជាងមុន។ គ្រាតូចៗនៃការសម្រាក អាចស្តារស្មារតីរបស់អ្នក ក្រោយការងារលំបាក។"
+      },
+      "challenge": {
+        "en": "Losing hope that balance is possible could keep you stuck in overwork. Trust that small changes can make a real difference.",
+        "km": "ការបាត់បង់ក្តីសង្ឃឹមថាតុល្យភាពអាចធ្វើទៅបាន អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងការធ្វើការហួសកម្លាំង។ សូមទុកចិត្តថាការផ្លាស់ប្តូរតូចៗ អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Hopeful changes could bring renewal and a calmer rhythm. You may feel refreshed and inspired, at work and away from it.",
+        "km": "ការផ្លាស់ប្តូរដែលមានក្តីសង្ឃឹម អាចនាំមកនូវការកកើតឡើងវិញ និងចង្វាក់ដែលស្ងប់ជាងមុន។ អ្នកអាចមានអារម្មណ៍ស្រស់ស្រាយ និងមានការបំផុសគំនិត ទាំងនៅកន្លែងធ្វើការ និងនៅឆ្ងាយពីវា។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Unclear boundaries between work and rest may be blurring your balance. Worry about work could be following you into your free moments.",
+        "km": "ព្រំដែនមិនច្បាស់រវាងការងារ និងការសម្រាក អាចកំពុងធ្វើឱ្យតុល្យភាពរបស់អ្នកស្រពិចស្រពិល។ ការព្រួយបារម្ភអំពីការងារ អាចកំពុងតាមអ្នកចូលក្នុងគ្រាទំនេររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Anxiety about work could keep you from truly resting. Jot down unfinished worries before you stop work, and seek help if anxiety will not ease.",
+        "km": "ការថប់បារម្ភអំពីការងារ អាចរារាំងអ្នកពីការសម្រាកពិតប្រាកដ។ សូមកត់ការព្រួយបារម្ភដែលមិនទាន់ចប់ចុះ មុនពេលអ្នកឈប់ធ្វើការ ហើយស្វែងរកជំនួយ ប្រសិនបើការថប់បារម្ភមិនព្រមធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "Clearer boundaries could bring deeper rest and calmer thinking. You may switch off more easily and feel fully at home when you are there.",
+        "km": "ព្រំដែនច្បាស់ជាងមុន អាចនាំមកនូវការសម្រាកជ្រៅជាងមុន និងការគិតស្ងប់ជាងមុន។ អ្នកអាចបិទការងារពីគំនិតបានងាយជាងមុន ហើយមានអារម្មណ៍ពេញលេញនៅផ្ទះ នៅពេលអ្នកនៅទីនោះ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Joy and play may be as important as productivity in finding balance. Making space for fun, games and laughter could recharge you more than you expect.",
+        "km": "សេចក្តីរីករាយ និងការលេង អាចសំខាន់ដូចផលិតភាព ក្នុងការរកតុល្យភាព។ ការទុកលំហសម្រាប់ភាពសប្បាយ ល្បែង និងសំណើច អាចបញ្ចូលថាមពលអ្នកឡើងវិញច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      },
+      "challenge": {
+        "en": "Treating rest as unproductive could rob you of joy. Allow yourself to play without needing to justify or earn it.",
+        "km": "ការចាត់ទុកការសម្រាកថាគ្មានផលិតភាព អាចដកហូតសេចក្តីរីករាយរបស់អ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងលេង ដោយមិនចាំបាច់ផ្តល់ហេតុផល ឬខិតខំរកវា។"
+      },
+      "outcome": {
+        "en": "A joyful balance could bring vitality to both work and rest. You may feel brighter and more energised, and your work may benefit too.",
+        "km": "តុល្យភាពដ៏រីករាយ អាចនាំភាពរស់រវើកដល់ទាំងការងារ និងការសម្រាក។ អ្នកអាចមានអារម្មណ៍ភ្លឺស្វាង និងមានថាមពលជាងមុន ហើយការងាររបស់អ្នកក៏អាចទទួលបានប្រយោជន៍ដែរ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "Reflecting honestly on how you spend your energy may be a turning point. A wake-up call could prompt you to change your approach.",
+        "km": "ការពិចារណាដោយស្មោះត្រង់ពីរបៀបដែលអ្នកចំណាយថាមពល អាចជាចំណុចបត់។ ការដាស់តឿនមួយ អាចជំរុញឱ្យអ្នកផ្លាស់ប្តូរវិធីសាស្ត្ររបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Regret about how hard you have pushed yourself could become another burden. Focus on the changes you can make from here, however small they seem.",
+        "km": "ការសោកស្តាយចំពោះរបៀបដែលអ្នកបានរុញខ្លួនឯងខ្លាំងពេក អាចក្លាយជាបន្ទុកមួយទៀត។ សូមផ្តោតលើការផ្លាស់ប្តូរដែលអ្នកអាចធ្វើពីទីនេះ ទោះបីវាហាក់តូចយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Answering an inner call could bring renewal and better balance. You may feel as if you are starting afresh, with clearer limits and priorities.",
+        "km": "ការឆ្លើយតបនឹងការហៅក្នុងចិត្ត អាចនាំមកនូវការកកើតឡើងវិញ និងតុល្យភាពល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍ដូចជាកំពុងចាប់ផ្តើមថ្មី ជាមួយដែនកំណត់ និងអាទិភាពច្បាស់ជាងមុន។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You may be close to a healthy balance between work and rest. One more adjustment, such as protecting a break you tend to skip, could complete the picture.",
+        "km": "អ្នកប្រហែលជាជិតដល់តុល្យភាពដែលមានសុខភាពល្អរវាងការងារ និងការសម្រាក។ ការកែសម្រួលមួយទៀត ដូចជាការការពារការសម្រាកដែលអ្នកតែងរំលង អាចបំពេញរូបភាពនោះ។"
+      },
+      "challenge": {
+        "en": "Neglecting one area of life could leave balance incomplete. Look at work, rest, relationships and health together, and tend the weakest one.",
+        "km": "ការមិនអើពើលើផ្នែកមួយនៃជីវិត អាចធ្វើឱ្យតុល្យភាពមិនពេញលេញ។ សូមមើលការងារ ការសម្រាក ទំនាក់ទំនង និងសុខភាពរួមគ្នា ហើយថែរក្សាផ្នែកដែលខ្សោយបំផុត។"
+      },
+      "outcome": {
+        "en": "A well-rounded balance could bring fulfilment and peace. You may feel whole, at ease and proud of the balance you have built.",
+        "km": "តុល្យភាពគ្រប់ជ្រុងជ្រោយ អាចនាំមកនូវការបំពេញចិត្ត និងសន្តិភាព។ អ្នកអាចមានអារម្មណ៍ពេញលេញ ស្រួល និងមានមោទនភាពចំពោះតុល្យភាពដែលអ្នកបានកសាង។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Fresh enthusiasm may help you approach work and rest differently. Starting a new restful hobby could give your mind a break from work.",
+        "km": "ភាពរំភើបថ្មី អាចជួយអ្នកចូលទៅរកការងារ និងការសម្រាកខុសពីមុន។ ការចាប់ផ្តើមចំណូលចិត្តថ្មីដែលធ្វើឱ្យសម្រាក អាចផ្តល់ការសម្រាកដល់គំនិតរបស់អ្នកពីការងារ។"
+      },
+      "challenge": {
+        "en": "Throwing all your new energy into work could tip you into overwork. Channel some of that spark into something purely for pleasure.",
+        "km": "ការបោះថាមពលថ្មីទាំងអស់របស់អ្នកទៅក្នុងការងារ អាចធ្វើឱ្យអ្នកធ្លាក់ចូលក្នុងការធ្វើការហួសកម្លាំង។ សូមតម្រង់ភាពរំភើបនោះខ្លះទៅក្នុងអ្វីមួយដែលសុទ្ធតែសម្រាប់សេចក្តីរីករាយ។"
+      },
+      "outcome": {
+        "en": "A new passion outside work could restore balance and joy. You may return to work with fresh ideas and energy.",
+        "km": "ចំណង់ចំណូលចិត្តថ្មីនៅក្រៅការងារ អាចស្តារតុល្យភាព និងសេចក្តីរីករាយឡើងវិញ។ អ្នកអាចត្រឡប់ទៅការងារវិញជាមួយគំនិត និងថាមពលថ្មី។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Planning your schedule with rest in mind may help you find balance. Mapping out work and breaks together could prevent overload.",
+        "km": "ការរៀបចំកាលវិភាគរបស់អ្នកដោយគិតដល់ការសម្រាក អាចជួយអ្នករកតុល្យភាព។ ការគូសផែនការការងារ និងការសម្រាករួមគ្នា អាចការពារការលើសបន្ទុក។"
+      },
+      "challenge": {
+        "en": "Planning only for work could leave rest as an afterthought. Put rest into your plans first, then fit the work around it.",
+        "km": "ការរៀបចំផែនការតែសម្រាប់ការងារ អាចធ្វើឱ្យការសម្រាកក្លាយជាអ្វីដែលគិតដល់ចុងក្រោយ។ សូមដាក់ការសម្រាកក្នុងផែនការរបស់អ្នកមុនគេ បន្ទាប់មករៀបចំការងារជុំវិញវា។"
+      },
+      "outcome": {
+        "en": "Balanced planning could bring a sense of control and calm. You may feel ready for both effort and rest, without one crowding out the other.",
+        "km": "ការរៀបចំផែនការដែលមានតុល្យភាព អាចនាំមកនូវអារម្មណ៍នៃការគ្រប់គ្រង និងភាពស្ងប់។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនសម្រាប់ទាំងការខិតខំ និងការសម្រាក ដោយគ្មានមួយច្រានមួយទៀតចេញ។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Looking beyond the workload in front of you may help you see the bigger picture. A broader view could show that rest supports success as much as effort does.",
+        "km": "ការមើលហួសពីបន្ទុកការងារនៅចំពោះមុខអ្នក អាចជួយអ្នកមើលឃើញរូបភាពធំ។ ទស្សនៈទូលាយជាងមុន អាចបង្ហាញថាការសម្រាកគាំទ្រជោគជ័យ ដូចការខិតខំដែរ។"
+      },
+      "challenge": {
+        "en": "Focusing only on the next target could keep you running without pause. Look up from your tasks and plan some recovery.",
+        "km": "ការផ្តោតតែលើគោលដៅបន្ទាប់ អាចធ្វើឱ្យអ្នករត់ដោយមិនផ្អាក។ សូមងើបមុខពីកិច្ចការរបស់អ្នក ហើយគ្រោងការងើបឡើងវិញខ្លះ។"
+      },
+      "outcome": {
+        "en": "A wider perspective could bring patience and better balance. A break or a trip somewhere new may refresh your outlook on work.",
+        "km": "ទស្សនៈទូលាយជាងមុន អាចនាំមកនូវការអត់ធ្មត់ និងតុល្យភាពល្អជាងមុន។ ការសម្រាក ឬដំណើរកម្សាន្តទៅកន្លែងថ្មី អាចធ្វើឱ្យទស្សនៈរបស់អ្នកលើការងារស្រស់ស្រាយ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Home and celebration may be the counterweight your work needs. Making space for gatherings and rest at home could restore balance.",
+        "km": "ផ្ទះ និងការប្រារព្ធ អាចជាទម្ងន់ថ្លឹងដែលការងាររបស់អ្នកត្រូវការ។ ការទុកលំហសម្រាប់ការជួបជុំ និងការសម្រាកនៅផ្ទះ អាចស្តារតុល្យភាពឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Bringing work home could erode your chance to rest. Keep your home a work-free zone as much as you can, laptop and messages included.",
+        "km": "ការនាំការងារមកផ្ទះ អាចបំផ្លាញឱកាសសម្រាករបស់អ្នក។ សូមរក្សាផ្ទះរបស់អ្នកជាតំបន់គ្មានការងារ តាមដែលអ្នកអាចធ្វើបាន រួមទាំងកុំព្យូទ័រ និងសារផង។"
+      },
+      "outcome": {
+        "en": "A clear separation between work and home could bring deeper rest. Celebrating small successes may make rest feel well deserved.",
+        "km": "ការបំបែកច្បាស់លាស់រវាងការងារ និងផ្ទះ អាចនាំមកនូវការសម្រាកជ្រៅជាងមុន។ ការអបអរជោគជ័យតូចៗ អាចធ្វើឱ្យការសម្រាកមានអារម្មណ៍សមនឹងទទួល។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Recognising where competition or conflict at work drains you may help you find balance. Physical activity once work is done could release tension.",
+        "km": "ការទទួលស្គាល់កន្លែងដែលការប្រកួតប្រជែង ឬជម្លោះនៅកន្លែងធ្វើការបង្ហូរថាមពលរបស់អ្នក អាចជួយអ្នករកតុល្យភាព។ សកម្មភាពរាងកាយ នៅពេលការងាររួចរាល់ អាចបញ្ចេញភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Carrying workplace battles into your rest could keep you on edge. Leave work conflicts at work when you can, and talk them through with someone you trust.",
+        "km": "ការនាំការតស៊ូនៅកន្លែងធ្វើការចូលក្នុងការសម្រាករបស់អ្នក អាចធ្វើឱ្យអ្នកតានតឹង។ សូមទុកជម្លោះការងារនៅកន្លែងធ្វើការ នៅពេលអ្នកអាចធ្វើបាន ហើយពិភាក្សាវាជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Releasing work stress through movement could bring calm and better rest. You may sleep and recover more easily once tension has somewhere to go.",
+        "km": "ការបញ្ចេញភាពតានតឹងការងារតាមរយៈចលនា អាចនាំមកនូវភាពស្ងប់ និងការសម្រាកល្អជាងមុន។ អ្នកអាចគេង និងងើបឡើងវិញបានងាយជាងមុន នៅពេលភាពតានតឹងមានកន្លែងដើម្បីទៅ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Acknowledging your achievements may help you feel you have earned rest. Recognising what you have done could ease the urge to keep pushing.",
+        "km": "ការទទួលស្គាល់សមិទ្ធផលរបស់អ្នក អាចជួយអ្នកឱ្យមានអារម្មណ៍ថាអ្នកសមនឹងទទួលការសម្រាក។ ការទទួលស្គាល់អ្វីដែលអ្នកបានធ្វើ អាចបន្ធូរបំណងចង់បន្តរុញទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Chasing recognition could keep you working beyond your limits. Value rest as much as achievement, and stop before you prove you can go further.",
+        "km": "ការដេញតាមការទទួលស្គាល់ អាចធ្វើឱ្យអ្នកធ្វើការហួសពីដែនកំណត់របស់អ្នក។ សូមឱ្យតម្លៃការសម្រាកដូចសមិទ្ធផល ហើយឈប់មុនពេលអ្នកព្យាយាមបញ្ជាក់ថាអ្នកអាចទៅបានឆ្ងាយជាងនេះ។"
+      },
+      "outcome": {
+        "en": "Celebrating progress could bring satisfaction and permission to rest. You may enjoy both success and rest without one spoiling the other.",
+        "km": "ការអបអរវឌ្ឍនភាព អាចនាំមកនូវសេចក្តីពេញចិត្ត និងការអនុញ្ញាតឱ្យសម្រាក។ អ្នកអាចរីករាយនឹងទាំងជោគជ័យ និងការសម្រាក ដោយគ្មានមួយធ្វើឱ្យមួយទៀតខូច។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Defending your rest may be the key to better balance. Holding firm against extra demands could protect your energy and personal life.",
+        "km": "ការការពារការសម្រាករបស់អ្នក អាចជាគន្លឹះនៃតុល្យភាពល្អជាងមុន។ ការឈររឹងមាំប្រឆាំងនឹងការទាមទារបន្ថែម អាចការពារថាមពល និងជីវិតផ្ទាល់ខ្លួនរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Feeling you must constantly prove your commitment could lead to overwork. Decline extra tasks politely when your plate is full.",
+        "km": "ការមានអារម្មណ៍ថាអ្នកត្រូវតែបញ្ជាក់ការប្តេជ្ញាចិត្តរបស់អ្នកជានិច្ច អាចនាំឱ្យធ្វើការហួសកម្លាំង។ សូមបដិសេធកិច្ចការបន្ថែមដោយគួរសម នៅពេលចានរបស់អ្នកពេញ។"
+      },
+      "outcome": {
+        "en": "Firm limits around your work could leave real room for rest and family. Colleagues may adjust their expectations once you hold the line.",
+        "km": "ដែនកំណត់រឹងមាំជុំវិញការងាររបស់អ្នក អាចទុកលំហពិតប្រាកដសម្រាប់ការសម្រាក និងគ្រួសារ។ សហការីអាចកែសម្រួលការរំពឹងទុករបស់ពួកគេ នៅពេលអ្នករក្សាបន្ទាត់នោះ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Working efficiently, with full focus, may free up room for rest. Handling small tasks as they arrive could stop them piling up and spilling into rest.",
+        "km": "ការធ្វើការប្រកបដោយប្រសិទ្ធភាព និងការផ្តោតពេញលេញ អាចដោះលែងលំហសម្រាប់ការសម្រាក។ ការដោះស្រាយកិច្ចការតូចៗនៅពេលវាមកដល់ អាចការពារវាមិនឱ្យគរឡើង ហើយហៀរចូលក្នុងការសម្រាក។"
+      },
+      "challenge": {
+        "en": "A constant rush of tasks could leave no space to breathe. Build regular pauses into a fast routine, even just to stand up and stretch.",
+        "km": "ការប្រញាប់ប្រញាល់នៃកិច្ចការជានិច្ច អាចមិនទុកលំហដើម្បីដកដង្ហើម។ សូមបញ្ចូលការផ្អាកជាប្រចាំក្នុងទម្លាប់ដែលលឿន ទោះបីគ្រាន់តែក្រោកឈរ និងលាតសន្ធឹងខ្លួនក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Efficient work could leave more energy for rest and pleasure. Momentum may carry you through tasks with less strain.",
+        "km": "ការងារដែលមានប្រសិទ្ធភាព អាចទុកថាមពលបន្ថែមសម្រាប់ការសម្រាក និងសេចក្តីរីករាយ។ សន្ទុះអាចនាំអ្នកឆ្លងកាត់កិច្ចការដោយកម្លាំងតិចជាងមុន។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Recognising how tired you are may be the first step toward balance. Your resilience could be stretched thinner than you are willing to admit.",
+        "km": "ការទទួលស្គាល់ថាអ្នកហត់នឿយប៉ុណ្ណា អាចជាជំហានដំបូងឆ្ពោះទៅរកតុល្យភាព។ ភាពធន់របស់អ្នក អាចកំពុងត្រូវបានលាតសន្ធឹងស្តើងជាងអ្វីដែលអ្នកចង់ទទួលស្គាល់។"
+      },
+      "challenge": {
+        "en": "Pushing through exhaustion could lead to burnout. Plan a proper break when you notice your patience or focus wearing thin.",
+        "km": "ការរុញឆ្លងកាត់ភាពអស់កម្លាំង អាចនាំឱ្យអស់កម្លាំងខ្លាំង។ សូមគ្រោងការសម្រាកឱ្យបានត្រឹមត្រូវ នៅពេលអ្នកកត់សម្គាល់ថាការអត់ធ្មត់ ឬការផ្តោតអារម្មណ៍របស់អ្នកកំពុងស្តើង។"
+      },
+      "outcome": {
+        "en": "Pairing your stamina with proper breaks could carry you through a demanding project. You may finish it standing, with energy left for home.",
+        "km": "ការផ្គូផ្គងកម្លាំងស៊ូទ្រាំរបស់អ្នកជាមួយការសម្រាកឱ្យបានត្រឹមត្រូវ អាចនាំអ្នកឆ្លងកាត់គម្រោងដែលទាមទារខ្លាំង។ អ្នកអាចបញ្ចប់វាដោយនៅតែឈរ ជាមួយថាមពលសល់សម្រាប់ផ្ទះ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "An overloaded job may be the clearest thing tipping your balance. Too many projects or roles at work could be squeezing out rest entirely.",
+        "km": "ការងារដែលលើសបន្ទុក អាចជាអ្វីដែលច្បាស់បំផុតដែលធ្វើឱ្យតុល្យភាពរបស់អ្នកទ្រេត។ គម្រោង ឬតួនាទីច្រើនពេកនៅកន្លែងធ្វើការ អាចកំពុងច្របាច់ការសម្រាកចេញទាំងស្រុង។"
+      },
+      "challenge": {
+        "en": "Taking on everything yourself could lead to burnout. Delegate, drop or pause what is not essential, and ask for help.",
+        "km": "ការទទួលយកអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចនាំឱ្យអស់កម្លាំងខ្លាំង។ សូមប្រគល់ ទម្លាក់ ឬផ្អាកអ្វីដែលមិនចាំបាច់ ហើយសុំជំនួយ។"
+      },
+      "outcome": {
+        "en": "A lighter load could bring relief and room for real rest. You may feel freer, more energetic and kinder to yourself and others.",
+        "km": "បន្ទុកដែលស្រាលជាងមុន អាចនាំមកនូវការធូរស្រាល និងលំហសម្រាប់ការសម្រាកពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍សេរី មានថាមពល និងសប្បុរសចំពោះខ្លួនឯង និងអ្នកដទៃជាងមុន។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Bringing curiosity and play into your free moments may restore balance. A fun hobby could give your mind a refreshing break from work.",
+        "km": "ការនាំចិត្តចង់ដឹង និងការលេងចូលក្នុងគ្រាទំនេររបស់អ្នក អាចស្តារតុល្យភាពឡើងវិញ។ ចំណូលចិត្តសប្បាយមួយ អាចផ្តល់ការសម្រាកដ៏ស្រស់ស្រាយដល់គំនិតរបស់អ្នកពីការងារ។"
+      },
+      "challenge": {
+        "en": "Letting work crowd out all play could leave you dull and tired. Make room for something purely enjoyable, with no goal or target attached.",
+        "km": "ការទុកឱ្យការងារច្រានការលេងចេញទាំងអស់ អាចធ្វើឱ្យអ្នកស្ពឹក និងហត់នឿយ។ សូមទុកលំហសម្រាប់អ្វីមួយដែលរីករាយសុទ្ធសាធ ដោយគ្មានគោលដៅ ឬចំណុចសម្រេចភ្ជាប់។"
+      },
+      "outcome": {
+        "en": "Playful rest could bring fresh energy and creativity to your work. You may return to your tasks with renewed enthusiasm and fresh ideas.",
+        "km": "ការសម្រាកដោយលេងសើច អាចនាំថាមពល និងការច្នៃប្រឌិតថ្មីដល់ការងាររបស់អ្នក។ អ្នកអាចត្រឡប់ទៅរកកិច្ចការរបស់អ្នកវិញ ជាមួយភាពរំភើប និងគំនិតថ្មីៗ។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Channelling your energy wisely may help you balance work and rest. Short bursts of intense effort followed by real breaks could suit you.",
+        "km": "ការតម្រង់ថាមពលរបស់អ្នកដោយឈ្លាសវៃ អាចជួយអ្នកថ្លឹងការងារ និងការសម្រាក។ ការខិតខំយ៉ាងខ្លាំងមួយដំណាក់ ហើយបន្តដោយការសម្រាកពិតប្រាកដ អាចសមនឹងអ្នក។"
+      },
+      "challenge": {
+        "en": "Rushing from task to task without pause could lead to exhaustion. Slow down between efforts, and let your body settle before the next push.",
+        "km": "ការប្រញាប់ពីកិច្ចការមួយទៅកិច្ចការមួយដោយមិនផ្អាក អាចនាំឱ្យអស់កម្លាំង។ សូមបន្ថយល្បឿនរវាងកិច្ចខិតខំ ហើយឱ្យរាងកាយរបស់អ្នកស្ងប់ មុនពេលខិតខំម្តងទៀត។"
+      },
+      "outcome": {
+        "en": "Directed energy with planned breaks could boost both productivity and wellbeing. You may feel energised rather than drained at the end of your work.",
+        "km": "ថាមពលដែលតម្រង់ទិស ជាមួយការសម្រាកដែលបានគ្រោងទុក អាចបង្កើនទាំងផលិតភាព និងសុខុមាលភាព។ អ្នកអាចមានអារម្មណ៍មានថាមពល ជាជាងអស់កម្លាំង នៅចុងបញ្ចប់នៃការងាររបស់អ្នក។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Confidence in your worth beyond work may help you rest without guilt. Knowing you are more than your output could restore balance.",
+        "km": "ទំនុកចិត្តលើតម្លៃរបស់អ្នក ហួសពីការងារ អាចជួយអ្នកសម្រាកដោយគ្មានអារម្មណ៍ទោសកំហុស។ ការដឹងថាអ្នកមានតម្លៃលើសពីលទ្ធផលការងារ អាចស្តារតុល្យភាពឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Tying your identity to work could make rest feel uncomfortable. Nurture parts of yourself that have nothing to do with your job.",
+        "km": "ការភ្ជាប់អត្តសញ្ញាណរបស់អ្នកជាមួយការងារ អាចធ្វើឱ្យការសម្រាកមានអារម្មណ៍មិនស្រួល។ សូមថែរក្សាផ្នែកនៃខ្លួនឯងដែលមិនពាក់ព័ន្ធនឹងការងាររបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A confident balance could bring warmth and vitality to all areas of life. You may shine at work and at rest, without needing one to prove the other.",
+        "km": "តុល្យភាពដែលមានទំនុកចិត្ត អាចនាំភាពកក់ក្តៅ និងភាពរស់រវើកដល់គ្រប់ផ្នែកនៃជីវិត។ អ្នកអាចភ្លឺចែងចាំងទាំងពេលធ្វើការ និងពេលសម្រាក ដោយមិនចាំបាច់ឱ្យមួយបញ្ជាក់មួយទៀត។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Taking charge of your schedule may be the key to balance. Setting clear priorities could leave room for both work and rest.",
+        "km": "ការគ្រប់គ្រងកាលវិភាគរបស់អ្នក អាចជាគន្លឹះនៃតុល្យភាព។ ការកំណត់អាទិភាពច្បាស់លាស់ អាចទុកលំហសម្រាប់ទាំងការងារ និងការសម្រាក។"
+      },
+      "challenge": {
+        "en": "Insisting on approving every decision at work could leave you no room to switch off. Hand some authority to others and let them carry it.",
+        "km": "ការទទូចឱ្យខ្លួនឯងអនុម័តរាល់ការសម្រេចចិត្តនៅកន្លែងធ្វើការ អាចមិនទុកលំហឱ្យអ្នកបិទការងារពីគំនិត។ សូមប្រគល់អំណាចខ្លះដល់អ្នកដទៃ ហើយឱ្យពួកគេទទួលបន្ទុកវា។"
+      },
+      "outcome": {
+        "en": "Clear leadership of your own schedule could bring balance and confidence. You may lead better precisely because you are well rested.",
+        "km": "ការដឹកនាំខ្លួនឯងដោយច្បាស់លាស់ អាចនាំមកនូវតុល្យភាព និងទំនុកចិត្ត។ អ្នកអាចដឹកនាំបានល្អជាងមុន ពិតប្រាកដដោយសារតែអ្នកបានសម្រាកគ្រប់គ្រាន់។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Opening your heart to rest and enjoyment may restore balance. Letting yourself feel pleasure without guilt could refill your energy.",
+        "km": "ការបើកចិត្តចំពោះការសម្រាក និងសេចក្តីរីករាយ អាចស្តារតុល្យភាពឡើងវិញ។ ការអនុញ្ញាតឱ្យខ្លួនឯងរីករាយ ដោយគ្មានអារម្មណ៍ទោសកំហុស អាចបំពេញថាមពលរបស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Shutting down your feelings to keep working could leave you emotionally drained. Make space for what you feel, not just what you do.",
+        "km": "ការបិទអារម្មណ៍របស់អ្នក ដើម្បីបន្តធ្វើការ អាចធ្វើឱ្យអ្នកអស់កម្លាំងផ្លូវចិត្ត។ សូមទុកលំហសម្រាប់អ្វីដែលអ្នកមានអារម្មណ៍ មិនមែនត្រឹមតែអ្វីដែលអ្នកធ្វើទេ។"
+      },
+      "outcome": {
+        "en": "Emotional renewal could bring warmth and balance to your life. Rest may feel nourishing and well deserved, rather than idle or wasted.",
+        "km": "ការកកើតឡើងវិញផ្លូវចិត្ត អាចនាំភាពកក់ក្តៅ និងតុល្យភាពដល់ជីវិតរបស់អ្នក។ ការសម្រាកអាចមានអារម្មណ៍ចិញ្ចឹមចិត្ត និងសមនឹងទទួល ជាជាងការនៅទំនេរ ឬខ្ជះខ្ជាយ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A supportive relationship may help you balance work and rest. A partner or friend could remind you to slow down when you forget.",
+        "km": "ទំនាក់ទំនងដែលគាំទ្រ អាចជួយអ្នកថ្លឹងការងារ និងការសម្រាក។ ដៃគូ ឬមិត្តភក្តិ អាចរំលឹកអ្នកឱ្យបន្ថយល្បឿន នៅពេលអ្នកភ្លេច។"
+      },
+      "challenge": {
+        "en": "Neglecting close relationships for work could leave you lonely. Protect shared moments with the people who matter, even in busy stretches.",
+        "km": "ការមិនអើពើទំនាក់ទំនងជិតស្និទ្ធដើម្បីការងារ អាចធ្វើឱ្យអ្នកឯកា។ សូមការពារគ្រារួមគ្នាជាមួយមនុស្សដែលសំខាន់ ទោះបីក្នុងដំណាក់កាលមមាញឹកក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Balanced connection could bring support and joy. Rest shared with loved ones may feel especially restoring.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងដែលមានតុល្យភាព អាចនាំមកនូវការគាំទ្រ និងសេចក្តីរីករាយ។ ការសម្រាកដែលចែករំលែកជាមួយមនុស្សជាទីស្រឡាញ់ អាចស្តារកម្លាំងជាពិសេស។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friendship and fun may be the counterweight your work needs. Relaxed gatherings with friends could help you unwind and set work aside.",
+        "km": "មិត្តភាព និងភាពសប្បាយ អាចជាទម្ងន់ថ្លឹងដែលការងាររបស់អ្នកត្រូវការ។ ការជួបជុំដោយសម្រាកជាមួយមិត្តភក្តិ អាចជួយអ្នកសម្រាកចិត្ត និងដាក់ការងារមួយឡែក។"
+      },
+      "challenge": {
+        "en": "Swinging from overwork to overindulgence could leave you just as drained. Choose relaxing social activities, like a walk or a game, over heavy drinking or rich food.",
+        "km": "ការយោលពីការធ្វើការហួសកម្លាំង ទៅការបណ្តោយចិត្តហួសហេតុ អាចធ្វើឱ្យអ្នកអស់កម្លាំងដូចគ្នា។ សូមជ្រើសសកម្មភាពសង្គមដែលធ្វើឱ្យសម្រាក ដូចជាការដើរ ឬល្បែង ជាជាងការផឹកច្រើន ឬអាហារធ្ងន់ៗ។"
+      },
+      "outcome": {
+        "en": "Joyful connection could bring lightness and balance. Laughter with friends may help you recover from demanding work more fully.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងដ៏រីករាយ អាចនាំមកនូវភាពស្រាល និងតុល្យភាព។ សំណើចជាមួយមិត្តភក្តិ អាចជួយអ្នកងើបពីការងារដែលទាមទារខ្លាំងបានពេញលេញជាងមុន។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Feeling flat or bored may be a sign that work and rest are out of balance. Too much of one could be draining your interest in both.",
+        "km": "ការមានអារម្មណ៍ស្ងាត់ស្ងៀម ឬធុញទ្រាន់ អាចជាសញ្ញាថាការងារ និងការសម្រាកមិនមានតុល្យភាព។ ការមានរឿងមួយច្រើនពេក អាចកំពុងបង្ហូរចំណាប់អារម្មណ៍របស់អ្នកលើទាំងពីរ។"
+      },
+      "challenge": {
+        "en": "Withdrawing into passive rest, like endless screens, could leave you unrefreshed. Choose rest that genuinely restores you, such as nature, movement or good company.",
+        "km": "ការដកខ្លួនចូលក្នុងការសម្រាកអកម្ម ដូចជាអេក្រង់មិនចេះចប់ អាចធ្វើឱ្យអ្នកមិនស្រស់ស្រាយ។ សូមជ្រើសការសម្រាកដែលពិតជាស្តារកម្លាំងអ្នក ដូចជាធម្មជាតិ ចលនា ឬមិត្តល្អ។"
+      },
+      "outcome": {
+        "en": "Active, meaningful rest could rekindle your interest in work and life alike. A fresh routine may make both feel more rewarding.",
+        "km": "ការសម្រាកសកម្ម និងមានអត្ថន័យ អាចដុតចំណាប់អារម្មណ៍របស់អ្នកលើការងារ និងជីវិតឡើងវិញ។ ទម្លាប់ថ្មីមួយ អាចធ្វើឱ្យទាំងពីរមានអារម្មណ៍មានតម្លៃជាងមុន។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Disappointment at work may be affecting how well you rest. Allowing yourself to feel it, rather than working harder, could help.",
+        "km": "ការខកចិត្តនៅកន្លែងធ្វើការ អាចកំពុងប៉ះពាល់ដល់របៀបដែលអ្នកសម្រាក។ ការអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍វា ជាជាងធ្វើការខ្លាំងជាងមុន អាចជួយបាន។"
+      },
+      "challenge": {
+        "en": "Burying sadness in more work could leave you exhausted. Give yourself permission to rest and grieve, and seek a counsellor if the weight feels too heavy.",
+        "km": "ការកប់ទុក្ខព្រួយក្នុងការងារបន្ថែម អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងសម្រាក និងកាន់ទុក្ខ ហើយស្វែងរកអ្នកប្រឹក្សា ប្រសិនបើទម្ងន់នោះធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Allowing rest and healing could bring renewed energy for work. You may find balance returning as the sadness eases.",
+        "km": "ការអនុញ្ញាតឱ្យមានការសម្រាក និងការជាសះស្បើយ អាចនាំមកនូវថាមពលថ្មីសម្រាប់ការងារ។ អ្នកអាចរកឃើញថាតុល្យភាពកំពុងត្រឡប់មកវិញ នៅពេលទុក្ខព្រួយធូរស្រាល។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Simple, playful pleasures may be your best way to rest. Activities you enjoyed as a child could help you unwind from work.",
+        "km": "សេចក្តីរីករាយសាមញ្ញ និងលេងសើច អាចជាវិធីល្អបំផុតរបស់អ្នកក្នុងការសម្រាក។ សកម្មភាពដែលអ្នកធ្លាប់រីករាយកាលនៅក្មេង អាចជួយអ្នកសម្រាកចិត្តពីការងារ។"
+      },
+      "challenge": {
+        "en": "Treating play as childish could keep you stuck in work mode. Allow yourself simple fun, like drawing or a ball game, without needing a purpose.",
+        "km": "ការចាត់ទុកការលេងថាជារឿងក្មេង អាចធ្វើឱ្យអ្នកជាប់ក្នុងរបៀបការងារ។ សូមអនុញ្ញាតឱ្យខ្លួនឯងសប្បាយសាមញ្ញៗ ដូចជាការគូររូប ឬល្បែងបាល់ ដោយមិនចាំបាច់មានគោលបំណង។"
+      },
+      "outcome": {
+        "en": "Playful rest could bring warmth, lightness and a fresh perspective. You may return to work with a lighter heart and clearer head.",
+        "km": "ការសម្រាកដោយលេងសើច អាចនាំមកនូវភាពកក់ក្តៅ ភាពស្រាល និងទស្សនៈថ្មី។ អ្នកអាចត្រឡប់ទៅការងារវិញ ជាមួយចិត្តស្រាល និងក្បាលច្បាស់ជាងមុន។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Too many options for how to spend your free moments may leave you resting poorly. Choosing one restful activity could help more than scrolling.",
+        "km": "ជម្រើសច្រើនពេកសម្រាប់របៀបចំណាយគ្រាទំនេររបស់អ្នក អាចធ្វើឱ្យអ្នកសម្រាកមិនបានល្អ។ ការជ្រើសសកម្មភាពសម្រាកតែមួយ អាចជួយបានច្រើនជាងការអូសមើលទូរស័ព្ទ។"
+      },
+      "challenge": {
+        "en": "Daydreaming about rest without taking it could keep you running. Turn one restful wish, such as a quiet trip, into an actual plan.",
+        "km": "ការស្រមៃអំពីការសម្រាក ដោយមិនបានសម្រាក អាចធ្វើឱ្យអ្នកបន្តរត់។ សូមប្រែបំណងសម្រាកមួយ ដូចជាដំណើរកម្សាន្តស្ងាត់ៗ ទៅជាផែនការពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Clear choices about rest could bring real recovery. You may feel more refreshed, focused and in control of your free moments.",
+        "km": "ជម្រើសច្បាស់លាស់អំពីការសម្រាក អាចនាំមកនូវការងើបឡើងវិញពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍ស្រស់ស្រាយ ផ្តោតអារម្មណ៍ និងគ្រប់គ្រងគ្រាទំនេររបស់អ្នកបានច្រើនជាងមុន។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Stepping away from work that no longer fulfils you may restore balance. Recognising when effort has stopped paying off could free you to rest.",
+        "km": "ការដើរចេញពីការងារដែលលែងបំពេញចិត្តអ្នក អាចស្តារតុល្យភាពឡើងវិញ។ ការទទួលស្គាល់នៅពេលការខិតខំលែងទទួលបានផល អាចដោះលែងអ្នកឱ្យសម្រាក។"
+      },
+      "challenge": {
+        "en": "Staying in an exhausting pattern out of habit could drain your spirit. Be willing to walk away from tasks or roles that cost too much.",
+        "km": "ការនៅក្នុងគំរូដែលធ្វើឱ្យហត់នឿយដោយសារទម្លាប់ អាចបង្ហូរស្មារតីរបស់អ្នក។ សូមមានឆន្ទៈដើរចេញពីកិច្ចការ ឬតួនាទីដែលធ្វើឱ្យអ្នកខាតច្រើនពេក។"
+      },
+      "outcome": {
+        "en": "Letting go of draining work could open space for deeper rest and meaning. A more fulfilling balance between effort and rest may follow naturally.",
+        "km": "ការលែងប្រកាន់ការងារដែលបង្ហូរថាមពល អាចបើកលំហសម្រាប់ការសម្រាក និងអត្ថន័យកាន់តែជ្រៅ។ តុល្យភាពដែលបំពេញចិត្តជាងមុនរវាងការខិតខំ និងការសម្រាក អាចកើតមានតាមក្រោយដោយធម្មជាតិ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Enjoying the rewards of your work may help you feel balanced. Pausing to savour what you have achieved could make rest feel earned.",
+        "km": "ការរីករាយនឹងរង្វាន់នៃការងាររបស់អ្នក អាចជួយអ្នកឱ្យមានអារម្មណ៍មានតុល្យភាព។ ការផ្អាកដើម្បីភ្លក់រសជាតិអ្វីដែលអ្នកបានសម្រេច អាចធ្វើឱ្យការសម្រាកមានអារម្មណ៍សមនឹងទទួល។"
+      },
+      "challenge": {
+        "en": "Rushing past your successes into more work could leave you unsatisfied. Stop to enjoy what you have built before setting the next target.",
+        "km": "ការប្រញាប់ដើរកាត់ជោគជ័យរបស់អ្នក ចូលទៅក្នុងការងារបន្ថែម អាចធ្វើឱ្យអ្នកមិនពេញចិត្ត។ សូមឈប់ដើម្បីរីករាយនឹងអ្វីដែលអ្នកបានកសាង មុនពេលកំណត់គោលដៅបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Savouring rewards could bring contentment and a healthy pause. You may feel genuinely satisfied with your efforts, and free to rest.",
+        "km": "ការភ្លក់រសជាតិរង្វាន់ អាចនាំមកនូវសេចក្តីពេញចិត្ត និងការផ្អាកដែលមានសុខភាពល្អ។ អ្នកអាចមានអារម្មណ៍ពេញចិត្តពិតប្រាកដនឹងកិច្ចខិតខំរបស់អ្នក ហើយមានសេរីភាពក្នុងការសម្រាក។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Family and home life may be the most important counterweight to work. Protecting shared moments with loved ones could restore your balance.",
+        "km": "ជីវិតគ្រួសារ និងផ្ទះ អាចជាទម្ងន់ថ្លឹងដ៏សំខាន់បំផុតចំពោះការងារ។ ការការពារគ្រារួមគ្នាជាមួយមនុស្សជាទីស្រឡាញ់ អាចស្តារតុល្យភាពរបស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Letting work crowd out family could leave everyone feeling the strain. Set clear limits so loved ones get your attention.",
+        "km": "ការទុកឱ្យការងារច្រានគ្រួសារចេញ អាចធ្វើឱ្យគ្រប់គ្នាមានអារម្មណ៍តានតឹង។ សូមកំណត់ដែនកំណត់ច្បាស់លាស់ ដើម្បីឱ្យមនុស្សជាទីស្រឡាញ់ទទួលបានការយកចិត្តទុកដាក់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A balanced home life could bring deep happiness and renewal. You may feel truly at rest with the people you love.",
+        "km": "ជីវិតនៅផ្ទះដែលមានតុល្យភាព អាចនាំមកនូវសុភមង្គល និងការកកើតឡើងវិញដ៏ជ្រាលជ្រៅ។ អ្នកអាចមានអារម្មណ៍សម្រាកពិតប្រាកដជាមួយមនុស្សដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Gentle, creative rest may help you recover from work. Music, art or simply daydreaming could soothe a mind tired from work.",
+        "km": "ការសម្រាកដ៏ទន់ភ្លន់ និងច្នៃប្រឌិត អាចជួយអ្នកងើបពីការងារ។ តន្ត្រី សិល្បៈ ឬគ្រាន់តែការស្រមៃ អាចលួងលោមគំនិតដែលហត់នឿយពីការងារ។"
+      },
+      "challenge": {
+        "en": "Dismissing your need for gentle rest could leave you depleted. Honour your sensitivity and make space for soft, quiet activities.",
+        "km": "ការមើលរំលងតម្រូវការសម្រាកដ៏ទន់ភ្លន់របស់អ្នក អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមគោរពភាពរសើបរបស់អ្នក ហើយទុកលំហសម្រាប់សកម្មភាពទន់ៗ និងស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "Creative rest could bring renewal and inspiration. You may return to work with fresh ideas and a softer, calmer mood.",
+        "km": "ការសម្រាកដោយច្នៃប្រឌិត អាចនាំមកនូវការកកើតឡើងវិញ និងការបំផុសគំនិត។ អ្នកអាចត្រឡប់ទៅការងារវិញ ជាមួយគំនិតថ្មីៗ និងអារម្មណ៍ទន់ភ្លន់ និងស្ងប់ជាងមុន។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Following your heart toward what brings you joy may balance a heavy workload. Romance, beauty or creative pursuits could refresh you in ways work never can.",
+        "km": "ការធ្វើតាមចិត្តរបស់អ្នកឆ្ពោះទៅរកអ្វីដែលនាំសេចក្តីរីករាយ អាចថ្លឹងបន្ទុកការងារធ្ងន់។ ក្តីស្នេហា ភាពស្រស់ស្អាត ឬការស្វែងរកច្នៃប្រឌិត អាចធ្វើឱ្យអ្នកស្រស់ស្រាយ ក្នុងរបៀបដែលការងារមិនអាចធ្វើបាន។"
+      },
+      "challenge": {
+        "en": "Waiting for the perfect moment to rest could mean never resting. Take small, imperfect breaks wherever you can, even a few deep breaths.",
+        "km": "ការរង់ចាំគ្រាដ៏ល្អឥតខ្ចោះដើម្បីសម្រាក អាចមានន័យថាមិនដែលសម្រាក។ សូមសម្រាកតូចៗ និងមិនល្អឥតខ្ចោះ នៅកន្លែងណាដែលអ្នកអាចធ្វើបាន ទោះបីគ្រាន់តែដកដង្ហើមជ្រៅៗពីរបីដងក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Heart-led rest could bring joy and renewal. Work may feel lighter when your life outside it is rich.",
+        "km": "ការសម្រាកដែលដឹកនាំដោយចិត្ត អាចនាំមកនូវសេចក្តីរីករាយ និងការកកើតឡើងវិញ។ ការងារអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលជីវិតនៅក្រៅការងាររបស់អ្នកសម្បូរបែប។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Caring for yourself as you care for others may restore balance. Listening to your own needs could tell you when to rest.",
+        "km": "ការមើលថែខ្លួនឯង ដូចដែលអ្នកមើលថែអ្នកដទៃ អាចស្តារតុល្យភាពឡើងវិញ។ ការស្តាប់តម្រូវការរបស់ខ្លួនឯង អាចប្រាប់អ្នកថានៅពេលណាត្រូវសម្រាក។"
+      },
+      "challenge": {
+        "en": "Caring for everyone at work and home could leave you exhausted. Give yourself the same compassion and rest you offer others.",
+        "km": "ការមើលថែគ្រប់គ្នានៅកន្លែងធ្វើការ និងនៅផ្ទះ អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមផ្តល់មេត្តាធម៌ និងការសម្រាកដូចគ្នាដល់ខ្លួនឯង ដូចដែលអ្នកផ្តល់ដល់អ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Compassionate self-care could bring emotional balance. You may feel calmer, more restored and better able to keep caring for others.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយមេត្តាធម៌ អាចនាំមកនូវតុល្យភាពផ្លូវចិត្ត។ អ្នកអាចមានអារម្មណ៍ស្ងប់ បានស្តារកម្លាំង និងអាចបន្តមើលថែអ្នកដទៃបានល្អជាងមុន។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm emotional balance may help you manage work stress without being overwhelmed. Staying steady under pressure could protect the rest you need away from work.",
+        "km": "តុល្យភាពផ្លូវចិត្តដ៏ស្ងប់ អាចជួយអ្នកគ្រប់គ្រងភាពតានតឹងការងារ ដោយមិនលើសកម្លាំង។ ការរក្សាភាពនឹងនរក្រោមសម្ពាធ អាចការពារការសម្រាកដែលអ្នកត្រូវការនៅឆ្ងាយពីការងារ។"
+      },
+      "challenge": {
+        "en": "Holding in work stress to appear composed could build hidden tension. Find healthy ways to release it once work is done, such as a walk or a talk.",
+        "km": "ការទប់ភាពតានតឹងការងារ ដើម្បីហាក់ស្ងប់ អាចបង្កើតភាពតានតឹងលាក់កំបាំង។ សូមរកវិធីល្អដើម្បីបញ្ចេញវា នៅពេលការងាររួចរាល់ ដូចជាការដើរ ឬការនិយាយ។"
+      },
+      "outcome": {
+        "en": "Emotional steadiness could bring calm to both work and rest. You may handle pressure gracefully and leave it at work when you go home.",
+        "km": "ភាពនឹងនរផ្លូវចិត្ត អាចនាំភាពស្ងប់ដល់ទាំងការងារ និងការសម្រាក។ អ្នកអាចដោះស្រាយសម្ពាធដោយភាពថ្លៃថ្នូ ហើយទុកវានៅកន្លែងធ្វើការ នៅពេលអ្នកទៅផ្ទះ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Clear thinking about your priorities may show you where balance is possible. Seeing your schedule honestly could reveal what to cut.",
+        "km": "ការគិតច្បាស់លាស់អំពីអាទិភាពរបស់អ្នក អាចបង្ហាញអ្នកថាតុល្យភាពអាចធ្វើទៅបាននៅត្រង់ណា។ ការមើលកាលវិភាគរបស់អ្នកដោយស្មោះត្រង់ អាចបង្ហាញថាត្រូវកាត់អ្វីចោល។"
+      },
+      "challenge": {
+        "en": "Overthinking work could keep your mind busy even when you are resting. Write down open tasks so you can set them aside while you rest.",
+        "km": "ការគិតច្រើនពេកអំពីការងារ អាចធ្វើឱ្យគំនិតរបស់អ្នករវល់ ទោះបីពេលអ្នកកំពុងសម្រាកក៏ដោយ។ សូមសរសេរកិច្ចការដែលមិនទាន់ចប់ចុះ ដើម្បីឱ្យអ្នកអាចដាក់វាមួយឡែក ខណៈដែលអ្នកសម្រាក។"
+      },
+      "outcome": {
+        "en": "A clear decision about limits could bring relief and better rest. Your mind may feel calmer once boundaries are set.",
+        "km": "ការសម្រេចចិត្តច្បាស់លាស់អំពីដែនកំណត់ អាចនាំមកនូវការធូរស្រាល និងការសម្រាកល្អជាងមុន។ គំនិតរបស់អ្នកអាចមានអារម្មណ៍ស្ងប់ជាងមុន នៅពេលព្រំដែនត្រូវបានកំណត់។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "A difficult choice about work and rest may be weighing on you. Deciding clearly where your limits lie could bring real relief.",
+        "km": "ជម្រើសលំបាកមួយអំពីការងារ និងការសម្រាក ប្រហែលជាកំពុងសង្កត់លើអ្នក។ ការសម្រេចឱ្យច្បាស់ថាដែនកំណត់របស់អ្នកនៅត្រង់ណា អាចនាំមកនូវការធូរស្រាលពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Avoiding a decision about your workload could keep you stuck. Face the choice, make it as best you can, and act on it.",
+        "km": "ការគេចពីការសម្រេចចិត្តអំពីបន្ទុកការងាររបស់អ្នក អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមប្រឈមមុខនឹងជម្រើសនោះ ធ្វើវាឱ្យបានល្អតាមដែលអ្នកអាចធ្វើបាន ហើយធ្វើតាមវា។"
+      },
+      "outcome": {
+        "en": "Making a clear decision could free up energy and restore balance. You may feel lighter once it is made, with energy freed for rest.",
+        "km": "ការធ្វើការសម្រេចចិត្តច្បាស់លាស់ អាចដោះលែងថាមពល និងស្តារតុល្យភាពឡើងវិញ។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលវាត្រូវបានធ្វើ ដោយមានថាមពលដែលត្រូវបានដោះលែងសម្រាប់ការសម្រាក។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Hurt or disappointment at work may be affecting your ability to rest. Acknowledging the pain could help you let it go.",
+        "km": "ការឈឺចាប់ ឬការខកចិត្តនៅកន្លែងធ្វើការ អាចកំពុងប៉ះពាល់ដល់សមត្ថភាពសម្រាករបស់អ្នក។ ការទទួលស្គាល់ការឈឺចាប់ អាចជួយអ្នកលែងប្រកាន់វា។"
+      },
+      "challenge": {
+        "en": "Carrying hurt from work into your rest could keep you from recovering. Talk it through with someone, and seek a counsellor if it feels too heavy.",
+        "km": "ការនាំការឈឺចាប់ពីការងារចូលក្នុងការសម្រាករបស់អ្នក អាចរារាំងអ្នកពីការងើបឡើងវិញ។ សូមពិភាក្សាវាជាមួយនរណាម្នាក់ ហើយស្វែងរកអ្នកប្រឹក្សា ប្រសិនបើវាធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Releasing hurt could bring deeper rest and renewed energy. You may return to work with a lighter heart.",
+        "km": "ការបញ្ចេញការឈឺចាប់ អាចនាំមកនូវការសម្រាកជ្រៅជាងមុន និងថាមពលថ្មី។ អ្នកអាចត្រឡប់ទៅការងារវិញ ជាមួយចិត្តស្រាលជាងមុន។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Real, deliberate rest may be exactly what your balance needs. Scheduling recovery as seriously as work could restore your energy.",
+        "km": "ការសម្រាកពិតប្រាកដ និងដោយចេតនា អាចជាអ្វីដែលតុល្យភាពរបស់អ្នកត្រូវការពិតប្រាកដ។ ការរៀបចំការងើបឡើងវិញឱ្យធ្ងន់ធ្ងរដូចការងារ អាចស្តារថាមពលរបស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Feeling guilty about rest could keep you working past your limits. Remind yourself that recovery is part of doing good work.",
+        "km": "ការមានអារម្មណ៍ទោសកំហុសអំពីការសម្រាក អាចធ្វើឱ្យអ្នកធ្វើការហួសពីដែនកំណត់។ សូមរំលឹកខ្លួនឯងថាការងើបឡើងវិញ គឺជាផ្នែកមួយនៃការធ្វើការងារល្អ។"
+      },
+      "outcome": {
+        "en": "Proper rest could bring clarity, energy and better work. You may feel restored and ready to engage fully again.",
+        "km": "ការសម្រាកឱ្យបានត្រឹមត្រូវ អាចនាំមកនូវភាពច្បាស់លាស់ ថាមពល និងការងារល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍បានស្តារកម្លាំង និងត្រៀមខ្លួនចូលរួមពេញលេញម្តងទៀត។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Stepping back from workplace conflicts may help you find balance. Choosing which battles to fight could save your energy for rest.",
+        "km": "ការថយក្រោយពីជម្លោះនៅកន្លែងធ្វើការ អាចជួយអ្នករកតុល្យភាព។ ការជ្រើសថាការតស៊ូណាដែលត្រូវតស៊ូ អាចសន្សំថាមពលរបស់អ្នកសម្រាប់ការសម្រាក។"
+      },
+      "challenge": {
+        "en": "Carrying workplace rivalries home could keep you from switching off. Let go of contests that cost more than they are worth.",
+        "km": "ការនាំការប្រជែងនៅកន្លែងធ្វើការមកផ្ទះ អាចរារាំងអ្នកពីការបិទការងារពីគំនិត។ សូមលែងប្រកាន់ការប្រកួតដែលធ្វើឱ្យខាតច្រើនជាងតម្លៃរបស់វា។"
+      },
+      "outcome": {
+        "en": "Letting go of conflict could bring calm and deeper rest. You may enjoy your free moments more fully, without old arguments intruding.",
+        "km": "ការលែងប្រកាន់ជម្លោះ អាចនាំមកនូវភាពស្ងប់ និងការសម្រាកជ្រៅជាងមុន។ អ្នកអាចរីករាយនឹងគ្រាទំនេររបស់អ្នកបានពេញលេញជាងមុន ដោយគ្មានការឈ្លោះប្រកែកចាស់ៗរំខាន។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Moving step by step toward a calmer routine may help you find balance. Small changes, like leaving work at a set point, could carry you away from overwork.",
+        "km": "ការផ្លាស់ទីមួយជំហានម្តងៗឆ្ពោះទៅរកទម្លាប់ដែលស្ងប់ជាងមុន អាចជួយអ្នករកតុល្យភាព។ ការផ្លាស់ប្តូរតូចៗ ដូចជាការចាកចេញពីការងារនៅចំណុចកំណត់ អាចនាំអ្នកចេញពីការធ្វើការហួសកម្លាំង។"
+      },
+      "challenge": {
+        "en": "Bringing old overwork habits into a new phase could slow your progress. Leave behind patterns like skipping lunch or answering messages in bed.",
+        "km": "ការនាំទម្លាប់ធ្វើការហួសកម្លាំងចាស់ៗចូលក្នុងដំណាក់កាលថ្មី អាចបន្ថយវឌ្ឍនភាពរបស់អ្នក។ សូមទុកនៅពីក្រោយនូវគំរូដូចជាការរំលងអាហារ ឬការឆ្លើយសារនៅលើគ្រែ។"
+      },
+      "outcome": {
+        "en": "A steadier working pattern could bring calmer, more sustainable balance. Each habit you change may give you back a little more of your life.",
+        "km": "គំរូការងារដែលនឹងនរជាងមុន អាចនាំមកនូវតុល្យភាពដែលស្ងប់ និងអាចទ្រទ្រង់បានជាងមុន។ ទម្លាប់នីមួយៗដែលអ្នកផ្លាស់ប្តូរ អាចផ្តល់ជីវិតរបស់អ្នកត្រឡប់មកវិញបន្តិចម្តងៗ។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Being honest about how much you are working may be the first step. Overwork you hide even from yourself could be eroding your balance.",
+        "km": "ការស្មោះត្រង់អំពីថាអ្នកកំពុងធ្វើការច្រើនប៉ុណ្ណា អាចជាជំហានដំបូង។ ការធ្វើការហួសកម្លាំង ដែលអ្នកលាក់សូម្បីតែពីខ្លួនឯង អាចកំពុងបំផ្លាញតុល្យភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Sneaking in extra work during rest could undermine your recovery. Be honest with yourself about whether you are truly off.",
+        "km": "ការលួចធ្វើការបន្ថែមពេលសម្រាក អាចធ្វើឱ្យការងើបឡើងវិញរបស់អ្នកចុះខ្សោយ។ សូមស្មោះត្រង់ជាមួយខ្លួនឯងអំពីថាតើអ្នកពិតជាឈប់ធ្វើការឬអត់។"
+      },
+      "outcome": {
+        "en": "Honesty about your habits could bring real rest and better balance. You may feel more at ease with yourself, and rest more deeply.",
+        "km": "ភាពស្មោះត្រង់អំពីទម្លាប់របស់អ្នក អាចនាំមកនូវការសម្រាកពិតប្រាកដ និងតុល្យភាពល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍ស្រួលជាមួយខ្លួនឯងជាងមុន ហើយសម្រាកបានជ្រៅជាងមុន។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Questioning the belief that you cannot rest may open new possibilities. You may have more freedom to step away than you think.",
+        "km": "ការចោទសួរជំនឿថាអ្នកមិនអាចសម្រាកបាន អាចបើកលទ្ធភាពថ្មីៗ។ អ្នកប្រហែលជាមានសេរីភាពក្នុងការដើរចេញ ច្រើនជាងអ្វីដែលអ្នកគិត។"
+      },
+      "challenge": {
+        "en": "Believing work will collapse without you could keep you trapped. Test that belief with one small break, and seek support if you feel stuck or hopeless.",
+        "km": "ការជឿថាការងារនឹងដួលរលំបើគ្មានអ្នក អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់។ សូមសាកល្បងជំនឿនោះជាមួយការសម្រាកតូចមួយ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍ជាប់គាំង ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Recognising your freedom to rest could bring relief and better balance. You may find work continues fine when you pause.",
+        "km": "ការទទួលស្គាល់សេរីភាពរបស់អ្នកក្នុងការសម្រាក អាចនាំមកនូវការធូរស្រាល និងតុល្យភាពល្អជាងមុន។ អ្នកអាចរកឃើញថាការងារនៅតែដំណើរការល្អ នៅពេលអ្នកផ្អាក។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry about work may be keeping you from resting properly. Anxious thoughts about tasks could follow you all the way into bed.",
+        "km": "ការព្រួយបារម្ភអំពីការងារ អាចកំពុងរារាំងអ្នកពីការសម្រាកឱ្យបានត្រឹមត្រូវ។ គំនិតថប់បារម្ភអំពីកិច្ចការ អាចតាមអ្នករហូតដល់គ្រែ។"
+      },
+      "challenge": {
+        "en": "Rehearsing upcoming meetings in bed could rob you of sleep. Close off work on paper, listing what is left, and seek help if sleeplessness will not ease.",
+        "km": "ការហាត់គិតពីការប្រជុំនៅលើគ្រែ អាចលួចដំណេករបស់អ្នក។ សូមបិទការងារនៅលើក្រដាស ដោយរាយបញ្ជីអ្វីដែលនៅសល់ ហើយស្វែងរកជំនួយ ប្រសិនបើការដេកមិនលក់មិនព្រមធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "Easing work worries could bring better sleep and clearer thinking. You may wake refreshed and approach work with a clearer head.",
+        "km": "ការបន្ធូរការព្រួយបារម្ភអំពីការងារ អាចនាំមកនូវការគេងល្អជាងមុន និងការគិតច្បាស់ជាងមុន។ អ្នកអាចភ្ញាក់ពីដំណេកដោយស្រស់ស្រាយ ហើយចូលទៅរកការងារជាមួយក្បាលច្បាស់ជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "Burnout from work may be telling you that this pace cannot continue. Admitting that the job, as it stands, is too much could be the first step.",
+        "km": "ការអស់កម្លាំងខ្លាំងពីការងារ អាចកំពុងប្រាប់អ្នកថាល្បឿននេះមិនអាចបន្តបានទៀតទេ។ ការទទួលស្គាល់ថាការងារដូចដែលវាជា គឺច្រើនពេក អាចជាជំហានដំបូង។"
+      },
+      "challenge": {
+        "en": "Treating burnout as a test of loyalty to your job could seriously harm your health. Talk to your manager or a doctor, and contact a crisis service if you feel unsafe.",
+        "km": "ការចាត់ទុកការអស់កម្លាំងខ្លាំងជាការសាកល្បងភាពស្មោះត្រង់ចំពោះការងារ អាចប៉ះពាល់យ៉ាងធ្ងន់ធ្ងរដល់សុខភាពរបស់អ្នក។ សូមនិយាយជាមួយអ្នកគ្រប់គ្រង ឬវេជ្ជបណ្ឌិត ហើយទាក់ទងសេវាអាសន្ន ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Reaching your limit at work could force a much-needed change in how you work. With support, you may build a job that leaves room to live.",
+        "km": "ការឈានដល់ដែនកំណត់នៅកន្លែងធ្វើការ អាចបង្ខំឱ្យមានការផ្លាស់ប្តូរដែលចាំបាច់ខ្លាំង ក្នុងរបៀបដែលអ្នកធ្វើការ។ ដោយមានការគាំទ្រ អ្នកអាចកសាងការងារដែលទុកលំហសម្រាប់ការរស់នៅ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Curiosity about your own work habits may reveal where balance slips. Noticing when you work best and when you tire could guide your schedule.",
+        "km": "ចិត្តចង់ដឹងអំពីទម្លាប់ការងាររបស់អ្នក អាចបង្ហាញថាតុល្យភាពរអិលនៅត្រង់ណា។ ការកត់សម្គាល់ថានៅពេលណាអ្នកធ្វើការល្អបំផុត និងនៅពេលណាអ្នកហត់ អាចណែនាំកាលវិភាគរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Constantly checking messages could keep you mentally at work. Set clear limits on when you are reachable, and let colleagues know them.",
+        "km": "ការពិនិត្យសារជានិច្ច អាចធ្វើឱ្យអ្នកនៅកន្លែងធ្វើការក្នុងគំនិត។ សូមកំណត់ដែនកំណត់ច្បាស់លាស់លើពេលដែលគេអាចទាក់ទងអ្នកបាន ហើយប្រាប់សហការីឱ្យដឹង។"
+      },
+      "outcome": {
+        "en": "Understanding your rhythms could bring a smarter balance. You may work and rest more effectively, each in its proper place in your life.",
+        "km": "ការយល់ពីចង្វាក់របស់អ្នក អាចនាំមកនូវតុល្យភាពដែលឆ្លាតជាងមុន។ អ្នកអាចធ្វើការ និងសម្រាកបានប្រកបដោយប្រសិទ្ធភាពជាងមុន ដោយនីមួយៗនៅកន្លែងត្រឹមត្រូវរបស់វាក្នុងជីវិតអ្នក។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Working with focus and then stopping completely may suit you. Clear bursts of effort followed by real rest could restore balance.",
+        "km": "ការធ្វើការដោយផ្តោត ហើយបន្ទាប់មកឈប់ទាំងស្រុង អាចសមនឹងអ្នក។ ការខិតខំច្បាស់លាស់មួយដំណាក់ ហើយបន្តដោយការសម្រាកពិតប្រាកដ អាចស្តារតុល្យភាពឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Rushing constantly from one task to the next could lead to burnout. Slow down, and build small, regular pauses into your working routine.",
+        "km": "ការប្រញាប់ជានិច្ចពីកិច្ចការមួយទៅកិច្ចការមួយ អាចនាំឱ្យអស់កម្លាំងខ្លាំង។ សូមបន្ថយល្បឿន ហើយបញ្ចូលការផ្អាកតូចៗជាប្រចាំក្នុងទម្លាប់ការងាររបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Focused effort and real rest could bring productivity without exhaustion. You may finish your work energised rather than drained, with something left for home.",
+        "km": "កិច្ចខិតខំដែលផ្តោត និងការសម្រាកពិតប្រាកដ អាចនាំមកនូវផលិតភាពដោយមិនអស់កម្លាំង។ អ្នកអាចបញ្ចប់ការងាររបស់អ្នកដោយមានថាមពល ជាជាងអស់កម្លាំង ដោយមានអ្វីខ្លះសល់សម្រាប់ផ្ទះ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Setting clear, honest boundaries at work may protect your rest. Knowing your limits, and stating them plainly to colleagues, could prevent overload.",
+        "km": "ការកំណត់ព្រំដែនច្បាស់លាស់ និងស្មោះត្រង់នៅកន្លែងធ្វើការ អាចការពារការសម្រាករបស់អ្នក។ ការដឹងពីដែនកំណត់របស់អ្នក ហើយប្រាប់វាដោយត្រង់ៗដល់សហការី អាចការពារការលើសបន្ទុក។"
+      },
+      "challenge": {
+        "en": "Being too hard on yourself about performance could keep you working too much. Set realistic standards, and accept good enough when the task allows it.",
+        "km": "ការតឹងរ៉ឹងពេកជាមួយខ្លួនឯងអំពីលទ្ធផលការងារ អាចធ្វើឱ្យអ្នកធ្វើការច្រើនពេក។ សូមកំណត់ស្តង់ដារដែលប្រាកដនិយម ហើយទទួលយកកម្រិតល្អគ្រប់គ្រាន់ នៅពេលកិច្ចការអនុញ្ញាត។"
+      },
+      "outcome": {
+        "en": "Clear limits could bring respect and better balance. You may feel calmer, more respected and more in control of your workload.",
+        "km": "ដែនកំណត់ច្បាស់លាស់ អាចនាំមកនូវការគោរព និងតុល្យភាពល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍ស្ងប់ ត្រូវបានគោរព និងគ្រប់គ្រងបន្ទុកការងាររបស់អ្នកបានច្រើនជាងមុន។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "A rational, organised approach may help you structure work and rest well. Planning your workload carefully could leave room for recovery.",
+        "km": "វិធីដែលសមហេតុផល និងមានរបៀប អាចជួយអ្នករៀបចំការងារ និងការសម្រាកបានល្អ។ ការរៀបចំផែនការបន្ទុកការងារដោយប្រុងប្រយ័ត្ន អាចទុកលំហសម្រាប់ការងើបឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Treating rest as optional in your plans could lead to overload. Make rest a fixed part of your schedule, not whatever is left over.",
+        "km": "ការចាត់ទុកការសម្រាកជាជម្រើសក្នុងផែនការរបស់អ្នក អាចនាំឱ្យលើសបន្ទុក។ សូមធ្វើឱ្យការសម្រាកជាផ្នែកថេរនៃកាលវិភាគរបស់អ្នក មិនមែនជាអ្វីដែលនៅសល់នោះទេ។"
+      },
+      "outcome": {
+        "en": "Wise planning could bring steady productivity and real rest. You may feel in command of your schedule rather than ruled by it.",
+        "km": "ការរៀបចំផែនការដ៏ឈ្លាសវៃ អាចនាំមកនូវផលិតភាពនឹងនរ និងការសម្រាកពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងកាលវិភាគរបស់អ្នក ជាជាងត្រូវបានវាគ្រប់គ្រង។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A small, practical change to your routine may be the seed of better balance. Taking a proper meal break or leaving work at a set point could make a difference.",
+        "km": "ការផ្លាស់ប្តូរតូច និងជាក់ស្តែងមួយក្នុងទម្លាប់របស់អ្នក អាចជាគ្រាប់ពូជនៃតុល្យភាពល្អជាងមុន។ ការសម្រាកញ៉ាំអាហារឱ្យបានត្រឹមត្រូវ ឬការចាកចេញពីការងារនៅចំណុចកំណត់ អាចធ្វើឱ្យមានភាពខុសគ្នា។"
+      },
+      "challenge": {
+        "en": "Overlooking simple breaks could wear you down bit by bit. Start with one small habit that protects rest, and keep it going.",
+        "km": "ការមើលរំលងការសម្រាកសាមញ្ញៗ អាចធ្វើឱ្យអ្នកចុះខ្សោយបន្តិចម្តងៗ។ សូមចាប់ផ្តើមជាមួយទម្លាប់តូចមួយដែលការពារការសម្រាក ហើយរក្សាវាឱ្យជាប់។"
+      },
+      "outcome": {
+        "en": "A grounded new habit could grow into steady balance. Small changes, kept up patiently, may bring solid and noticeable results.",
+        "km": "ទម្លាប់ថ្មីដែលនឹងនរ អាចរីកចម្រើនទៅជាតុល្យភាពនឹងនរ។ ការផ្លាស់ប្តូរតូចៗ ដែលរក្សាដោយអត់ធ្មត់ អាចនាំមកនូវលទ្ធផលរឹងមាំ និងគួរឱ្យកត់សម្គាល់។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Juggling work and personal life with flexibility may help you find balance. Adapting your schedule as demands change could keep you steady.",
+        "km": "ការបំពេញការងារ និងជីវិតផ្ទាល់ខ្លួនដោយភាពបត់បែន អាចជួយអ្នករកតុល្យភាព។ ការសម្របកាលវិភាគរបស់អ្នក នៅពេលការទាមទារផ្លាស់ប្តូរ អាចរក្សាអ្នកឱ្យនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Trying to keep every ball in the air could leave you exhausted. Decide which commitments can be dropped or paused without real harm.",
+        "km": "ការព្យាយាមរក្សាបាល់គ្រប់គ្រាប់ឱ្យនៅលើអាកាស អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមសម្រេចថាការប្តេជ្ញាណាដែលអាចទម្លាក់ ឬផ្អាកបាន ដោយគ្មានការខូចខាតពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Flexible arrangements could help you meet work demands without losing your rest. You may settle into a pattern that fits your job and your home.",
+        "km": "ការរៀបចំដែលបត់បែន អាចជួយអ្នកបំពេញការទាមទារការងារ ដោយមិនបាត់បង់ការសម្រាករបស់អ្នក។ អ្នកអាចតាំងលំនៅក្នុងគំរូមួយដែលសមនឹងការងារ និងផ្ទះរបស់អ្នក។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Teamwork may help you share the load and find more room for rest. Collaborating well with colleagues could take real pressure off your shoulders.",
+        "km": "ការងារជាក្រុម អាចជួយអ្នកចែករំលែកបន្ទុក និងរកលំហបន្ថែមសម្រាប់ការសម្រាក។ ការសហការបានល្អជាមួយសហការី អាចដកសម្ពាធពិតប្រាកដចេញពីស្មារបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Doing everything yourself could leave no room for rest. Ask for help, and trust others to handle tasks in their own way.",
+        "km": "ការធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចមិនទុកលំហសម្រាប់ការសម្រាក។ សូមសុំជំនួយ ហើយទុកចិត្តឱ្យអ្នកដទៃដោះស្រាយកិច្ចការតាមរបៀបរបស់ពួកគេ។"
+      },
+      "outcome": {
+        "en": "Shared effort could bring better balance and less stress. You may enjoy work more and rest more fully.",
+        "km": "កិច្ចខិតខំរួមគ្នា អាចនាំមកនូវតុល្យភាពល្អជាងមុន និងភាពតានតឹងតិចជាងមុន។ អ្នកអាចរីករាយនឹងការងារច្រើនជាងមុន និងសម្រាកបានពេញលេញជាងមុន។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Worry about money or security may be keeping you working too hard. Feeling you must always earn more could crowd out rest.",
+        "km": "ការព្រួយបារម្ភអំពីប្រាក់ ឬសុវត្ថិភាព អាចកំពុងធ្វើឱ្យអ្នកធ្វើការខ្លាំងពេក។ ការមានអារម្មណ៍ថាអ្នកត្រូវតែរកបានច្រើនជានិច្ច អាចច្រានការសម្រាកចេញ។"
+      },
+      "challenge": {
+        "en": "Clinging to work for security could leave your health neglected. Make a clear plan with a qualified adviser so worry does not drive every choice.",
+        "km": "ការប្រកាន់ខ្ជាប់ការងារដើម្បីសុវត្ថិភាព អាចធ្វើឱ្យសុខភាពរបស់អ្នកត្រូវបានមិនអើពើ។ សូមធ្វើផែនការច្បាស់លាស់ជាមួយទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ដើម្បីកុំឱ្យការព្រួយបារម្ភដឹកនាំគ្រប់ជម្រើស។"
+      },
+      "outcome": {
+        "en": "Feeling secure enough could free you to rest without guilt. You may enjoy both work and life more when fear is not setting the pace.",
+        "km": "ការមានអារម្មណ៍សុវត្ថិភាពគ្រប់គ្រាន់ អាចដោះលែងអ្នកឱ្យសម្រាកដោយគ្មានអារម្មណ៍ទោសកំហុស។ អ្នកអាចរីករាយនឹងទាំងការងារ និងជីវិតច្រើនជាងមុន នៅពេលការភ័យខ្លាចមិនកំណត់ល្បឿន។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Hardship may be forcing you to work more than is healthy. Recognising the strain could be the first step to finding support.",
+        "km": "ភាពលំបាក អាចកំពុងបង្ខំឱ្យអ្នកធ្វើការច្រើនជាងអ្វីដែលមានសុខភាពល្អ។ ការទទួលស្គាល់សម្ពាធ អាចជាជំហានដំបូងឆ្ពោះទៅរកការគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Struggling alone could make balance feel impossible. Reach out to community services, family or an adviser for practical help.",
+        "km": "ការតស៊ូតែម្នាក់ឯង អាចធ្វើឱ្យតុល្យភាពហាក់មិនអាចទៅរួច។ សូមទាក់ទងសេវាសហគមន៍ គ្រួសារ ឬទីប្រឹក្សា សម្រាប់ជំនួយជាក់ស្តែង។"
+      },
+      "outcome": {
+        "en": "Accepting support could ease the pressure and create room for rest. You may find help you did not expect, and a little more room to breathe.",
+        "km": "ការទទួលយកការគាំទ្រ អាចបន្ធូរសម្ពាធ និងបង្កើតលំហសម្រាប់ការសម្រាក។ អ្នកអាចរកឃើញជំនួយដែលអ្នកមិនបានរំពឹងទុក និងលំហបន្តិចបន្ថែមដើម្បីដកដង្ហើម។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "A fair exchange of effort and reward may help you find balance. Making sure you are paid and recognised fairly could ease pressure.",
+        "km": "ការផ្លាស់ប្តូរដោយយុត្តិធម៌រវាងការខិតខំ និងរង្វាន់ អាចជួយអ្នករកតុល្យភាព។ ការធ្វើឱ្យប្រាកដថាអ្នកទទួលបានប្រាក់ និងការទទួលស្គាល់ដោយយុត្តិធម៌ អាចបន្ធូរសម្ពាធ។"
+      },
+      "challenge": {
+        "en": "Giving more effort than you are rewarded for could drain you. Speak up calmly about a fair workload and the recognition you deserve.",
+        "km": "ការផ្តល់កិច្ចខិតខំច្រើនជាងរង្វាន់ដែលអ្នកទទួលបាន អាចបង្ហូរថាមពលរបស់អ្នក។ សូមនិយាយដោយស្ងប់អំពីបន្ទុកការងារដែលយុត្តិធម៌ និងការទទួលស្គាល់ដែលអ្នកសមនឹងទទួល។"
+      },
+      "outcome": {
+        "en": "A fairer balance could bring satisfaction and room to rest. You may feel valued and less driven to overwork.",
+        "km": "តុល្យភាពដែលយុត្តិធម៌ជាងមុន អាចនាំមកនូវសេចក្តីពេញចិត្ត និងលំហដើម្បីសម្រាក។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានឱ្យតម្លៃ និងមិនសូវត្រូវបានជំរុញឱ្យធ្វើការហួសកម្លាំង។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Pausing to assess your progress may help you decide when to rest. Stepping back could show that you have done enough to deserve a pause.",
+        "km": "ការផ្អាកដើម្បីវាយតម្លៃវឌ្ឍនភាពរបស់អ្នក អាចជួយអ្នកសម្រេចថានៅពេលណាត្រូវសម្រាក។ ការថយក្រោយ អាចបង្ហាញថាអ្នកបានធ្វើគ្រប់គ្រាន់ ដើម្បីសមនឹងទទួលការផ្អាក។"
+      },
+      "challenge": {
+        "en": "Working harder because results are hard to see could lead to exhaustion. Trust that steady effort, with rest, will pay off.",
+        "km": "ការធ្វើការខ្លាំងជាងមុន ព្រោះលទ្ធផលពិបាកមើលឃើញ អាចនាំឱ្យអស់កម្លាំង។ សូមទុកចិត្តថាការខិតខំនឹងនរ រួមជាមួយការសម្រាក នឹងទទួលបានផល។"
+      },
+      "outcome": {
+        "en": "Patient balance could bring sustainable success. You may reap the rewards of your effort without burning out along the way.",
+        "km": "តុល្យភាពដោយអត់ធ្មត់ អាចនាំមកនូវជោគជ័យដែលអាចទ្រទ្រង់បាន។ អ្នកអាចប្រមូលផលរង្វាន់នៃកិច្ចខិតខំរបស់អ្នក ដោយមិនអស់កម្លាំងខ្លាំងតាមផ្លូវ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Focused, skilful work may help you finish tasks efficiently and leave room for rest. Doing one thing well could prevent tasks from spilling over.",
+        "km": "ការងារដែលផ្តោត និងប៉ិនប្រសប់ អាចជួយអ្នកបញ្ចប់កិច្ចការប្រកបដោយប្រសិទ្ធភាព និងទុកលំហសម្រាប់ការសម្រាក។ ការធ្វើរឿងមួយឱ្យបានល្អ អាចការពារកិច្ចការមិនឱ្យហៀរចេញ។"
+      },
+      "challenge": {
+        "en": "Perfectionism could keep you working well past good enough. Know when to stop, call the work done and move on to rest.",
+        "km": "ការចង់បានភាពល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកបន្តធ្វើការហួសពីកម្រិតល្អគ្រប់គ្រាន់។ សូមដឹងថានៅពេលណាត្រូវឈប់ ចាត់ទុកការងារថាបានរួចរាល់ ហើយបន្តទៅការសម្រាក។"
+      },
+      "outcome": {
+        "en": "Diligent work balanced with rest could bring quality and wellbeing. You may take pride in your work without overdoing it.",
+        "km": "ការងារឧស្សាហ៍ព្យាយាមដែលថ្លឹងជាមួយការសម្រាក អាចនាំមកនូវគុណភាព និងសុខុមាលភាព។ អ្នកអាចមានមោទនភាពចំពោះការងាររបស់អ្នក ដោយមិនធ្វើហួសហេតុ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Enjoying the comforts you have earned may be a natural way to rest. Taking quiet pleasure in your home and achievements could restore you.",
+        "km": "ការរីករាយនឹងភាពសុខស្រួលដែលអ្នកបានខិតខំរកបាន អាចជាវិធីធម្មជាតិក្នុងការសម្រាក។ ការរីករាយស្ងាត់ៗជាមួយផ្ទះ និងសមិទ្ធផលរបស់អ្នក អាចស្តារកម្លាំងអ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Working so hard that you never enjoy the rewards could leave you unfulfilled. Pause to appreciate what you have built, and let yourself enjoy it.",
+        "km": "ការធ្វើការខ្លាំងពេក រហូតមិនដែលរីករាយនឹងរង្វាន់ អាចធ្វើឱ្យអ្នកមិនពេញចិត្ត។ សូមផ្អាកដើម្បីកោតសរសើរអ្វីដែលអ្នកបានកសាង ហើយអនុញ្ញាតឱ្យខ្លួនឯងរីករាយនឹងវា។"
+      },
+      "outcome": {
+        "en": "Balanced independence could bring contentment and ease. You may enjoy both your success and your rest, without guilt about either.",
+        "km": "ឯករាជ្យភាពដែលមានតុល្យភាព អាចនាំមកនូវសេចក្តីពេញចិត្ត និងភាពស្រួល។ អ្នកអាចរីករាយនឹងទាំងជោគជ័យ និងការសម្រាករបស់អ្នក ដោយគ្មានអារម្មណ៍ទោសកំហុសលើមួយណាសោះ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family and security may be motivating your hard work. Remembering who you work for could remind you to rest with them too.",
+        "km": "គ្រួសារ និងសុវត្ថិភាព អាចកំពុងជំរុញការខិតខំរបស់អ្នក។ ការចងចាំថាអ្នកធ្វើការសម្រាប់នរណា អាចរំលឹកអ្នកឱ្យសម្រាកជាមួយពួកគេផងដែរ។"
+      },
+      "challenge": {
+        "en": "Working so hard for family that you miss family life could defeat the purpose. Protect shared family moments as carefully as you protect your income.",
+        "km": "ការធ្វើការខ្លាំងពេកសម្រាប់គ្រួសារ រហូតដល់អ្នកខកខានជីវិតគ្រួសារ អាចធ្វើឱ្យខុសគោលបំណង។ សូមការពារគ្រារួមគ្នាជាមួយគ្រួសារ ដោយយកចិត្តទុកដាក់ដូចដែលអ្នកការពារប្រាក់ចំណូល។"
+      },
+      "outcome": {
+        "en": "A balanced approach could bring security and togetherness. You may enjoy what you have built with the people you love.",
+        "km": "វិធីដែលមានតុល្យភាព អាចនាំមកនូវសុវត្ថិភាព និងការនៅជាមួយគ្នា។ អ្នកអាចរីករាយនឹងអ្វីដែលអ្នកបានកសាង ជាមួយមនុស្សដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "Learning to manage your energy may be a practical path to balance. Small experiments with your schedule could show what works.",
+        "km": "ការរៀនគ្រប់គ្រងថាមពលរបស់អ្នក អាចជាផ្លូវជាក់ស្តែងឆ្ពោះទៅរកតុល្យភាព។ ការសាកល្បងតូចៗជាមួយកាលវិភាគរបស់អ្នក អាចបង្ហាញថាអ្វីដែលមានប្រសិទ្ធភាព។"
+      },
+      "challenge": {
+        "en": "Studying productivity tips without resting could miss the point. Try one change that adds rest to your routine, rather than more work.",
+        "km": "ការសិក្សាគន្លឹះផលិតភាពដោយមិនសម្រាក អាចខកចំណុចសំខាន់។ សូមសាកល្បងការផ្លាស់ប្តូរមួយដែលបន្ថែមការសម្រាកក្នុងទម្លាប់របស់អ្នក ជាជាងការងារបន្ថែម។"
+      },
+      "outcome": {
+        "en": "Steady learning could build a balance that suits you. Small adjustments, tested and kept, may lead to real and steady improvement.",
+        "km": "ការរៀនសូត្រនឹងនរ អាចកសាងតុល្យភាពដែលសមនឹងអ្នក។ ការកែសម្រួលតូចៗ ដែលបានសាកល្បង និងរក្សាទុក អាចនាំទៅរកការកែលម្អពិតប្រាកដ និងនឹងនរ។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "A steady, reliable routine may be your natural path to balance. Consistent work paired with regular, protected rest could keep you well.",
+        "km": "ទម្លាប់ដែលនឹងនរ និងគួរទុកចិត្ត អាចជាផ្លូវធម្មជាតិរបស់អ្នកឆ្ពោះទៅរកតុល្យភាព។ ការងារជាប់លាប់ ដែលផ្គូផ្គងជាមួយការសម្រាកទៀងទាត់ និងត្រូវបានការពារ អាចរក្សាអ្នកឱ្យមានសុខភាពល្អ។"
+      },
+      "challenge": {
+        "en": "Sticking rigidly to work routines could leave no flexibility for rest. Build regular breaks into your steady rhythm, and treat them as fixed.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ការងារយ៉ាងតឹងរ៉ឹង អាចមិនទុកភាពបត់បែនសម្រាប់ការសម្រាក។ សូមបញ្ចូលការសម្រាកជាប្រចាំក្នុងចង្វាក់នឹងនររបស់អ្នក ហើយចាត់ទុកវាជារឿងថេរ។"
+      },
+      "outcome": {
+        "en": "Reliable habits could bring sustainable balance. You may find that work and rest both feel manageable and even enjoyable.",
+        "km": "ទម្លាប់ដែលគួរទុកចិត្ត អាចនាំមកនូវតុល្យភាពដែលអាចទ្រទ្រង់បាន។ អ្នកអាចរកឃើញថាទាំងការងារ និងការសម្រាក មានអារម្មណ៍អាចគ្រប់គ្រងបាន និងថែមទាំងរីករាយទៀតផង។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Nurturing your home and body may be the counterweight to busy work. Comfort, good food and rest at home could restore you.",
+        "km": "ការថែរក្សាផ្ទះ និងរាងកាយរបស់អ្នក អាចជាទម្ងន់ថ្លឹងចំពោះការងារមមាញឹក។ ភាពសុខស្រួល អាហារល្អ និងការសម្រាកនៅផ្ទះ អាចស្តារកម្លាំងអ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Caring for everyone at work and home could leave you depleted. Make sure your own rest is part of the plan, not an afterthought.",
+        "km": "ការមើលថែគ្រប់គ្នានៅកន្លែងធ្វើការ និងនៅផ្ទះ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមប្រាកដថាការសម្រាករបស់អ្នកជាផ្នែកមួយនៃផែនការ មិនមែនជាអ្វីដែលគិតដល់ចុងក្រោយទេ។"
+      },
+      "outcome": {
+        "en": "A nurturing home could become your place of real rest. You may feel restored, grounded and glad to come home.",
+        "km": "ផ្ទះដែលថែរក្សាចិត្ត អាចក្លាយជាកន្លែងសម្រាកពិតប្រាកដរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍បានស្តារកម្លាំង នឹងនរ និងរីករាយក្នុងការត្រឡប់មកផ្ទះ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Security and success may allow you to choose more rest. Using your resources wisely could buy you room to recover.",
+        "km": "សុវត្ថិភាព និងជោគជ័យ អាចអនុញ្ញាតឱ្យអ្នកជ្រើសការសម្រាកបន្ថែម។ ការប្រើធនធានរបស់អ្នកដោយឈ្លាសវៃ អាចទិញលំហឱ្យអ្នកងើបឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Chasing ever more success could leave no room for rest. Decide what is enough for you, and protect your rest once you reach it.",
+        "km": "ការដេញតាមជោគជ័យកាន់តែច្រើនឡើងៗ អាចមិនទុកលំហសម្រាប់ការសម្រាក។ សូមសម្រេចថាអ្វីដែលគ្រប់គ្រាន់សម្រាប់អ្នក ហើយការពារការសម្រាករបស់អ្នក នៅពេលអ្នកឈានដល់វា។"
+      },
+      "outcome": {
+        "en": "Wise balance could bring prosperity and wellbeing together. You may enjoy the fruits of your work with the energy to appreciate them.",
+        "km": "តុល្យភាពដ៏ឈ្លាសវៃ អាចនាំមកនូវភាពរុងរឿង និងសុខុមាលភាពរួមគ្នា។ អ្នកអាចរីករាយនឹងផលនៃការងាររបស់អ្នក ជាមួយថាមពលដើម្បីកោតសរសើរវា។"
+      }
+    }
+  }
+}
