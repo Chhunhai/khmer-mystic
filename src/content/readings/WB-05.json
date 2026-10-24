@@ -1,0 +1,1097 @@
+{
+  "questionId": "WB-05",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Trying one small new thing regularly may suit your curious spirit. Taking a different route, tasting a new dish or exploring a park could lift your mood.",
+        "km": "ការសាកល្បងរឿងថ្មីតូចមួយជាប្រចាំ អាចសមនឹងស្មារតីចង់ដឹងរបស់អ្នក។ ការដើរតាមផ្លូវផ្សេង ការភ្លក់ម្ហូបថ្មី ឬការស្វែងរកសួនច្បារ អាចលើកអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Chasing novelty without any anchor could leave you restless rather than refreshed. Pair your spontaneity with one steady habit you keep no matter what.",
+        "km": "ការដេញតាមរឿងថ្មីដោយគ្មានយុថ្កា អាចធ្វើឱ្យអ្នកមិនស្ងប់ ជាជាងស្រស់ស្រាយ។ សូមផ្គូផ្គងភាពដោយឯកឯងរបស់អ្នក ជាមួយទម្លាប់នឹងនរមួយដែលអ្នករក្សាមិនថាមានអ្វីកើតឡើង។"
+      },
+      "outcome": {
+        "en": "A regular dose of novelty could keep your spirit light and curious. Small adventures may become something you look forward to.",
+        "km": "ភាពថ្មីថ្មោងជាប្រចាំ អាចរក្សាស្មារតីរបស់អ្នកឱ្យស្រាល និងចង់ដឹង។ ដំណើរផ្សងព្រេងតូចៗ អាចក្លាយជាអ្វីដែលអ្នកទន្ទឹងរង់ចាំ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "A habit of setting one clear intention for your tasks may suit you well. Writing down a single priority could focus your energy and lift your sense of control.",
+        "km": "ទម្លាប់នៃការកំណត់ចេតនាច្បាស់មួយសម្រាប់កិច្ចការ អាចសមនឹងអ្នក។ ការសរសេរអាទិភាពតែមួយ អាចផ្តោតថាមពលរបស់អ្នក និងលើកអារម្មណ៍នៃការគ្រប់គ្រង។"
+      },
+      "challenge": {
+        "en": "Filling every moment with tasks could turn productivity into pressure. Make room in your routine for one activity that has no goal at all.",
+        "km": "ការបំពេញគ្រប់គ្រាដោយកិច្ចការ អាចប្រែផលិតភាពទៅជាសម្ពាធ។ សូមទុកលំហក្នុងទម្លាប់របស់អ្នក សម្រាប់សកម្មភាពមួយដែលគ្មានគោលដៅអ្វីសោះ។"
+      },
+      "outcome": {
+        "en": "Small, intentional actions could build a strong sense of capability. Ticking off one meaningful thing may leave you feeling satisfied and calm.",
+        "km": "សកម្មភាពតូចៗដែលមានចេតនា អាចកសាងអារម្មណ៍រឹងមាំនៃសមត្ថភាព។ ការបញ្ចប់រឿងមួយដែលមានអត្ថន័យ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ពេញចិត្ត និងស្ងប់។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "Quiet reflection, practised often, may help you feel more centred. Sitting in silence for a few breaths, or writing a few lines, could reconnect you with yourself.",
+        "km": "ការពិចារណាស្ងាត់ៗ ដែលអនុវត្តញឹកញាប់ អាចជួយអ្នកឱ្យមានអារម្មណ៍នឹងនរជាងមុន។ ការអង្គុយស្ងៀមពីរបីដង្ហើម ឬការសរសេរពីរបីបន្ទាត់ អាចភ្ជាប់អ្នកឡើងវិញជាមួយខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Filling every quiet moment with noise could drown out what you need to hear. Put your phone in another room and simply notice how you feel.",
+        "km": "ការបំពេញគ្រាស្ងាត់នីមួយៗដោយសំឡេង អាចលង់លើអ្វីដែលអ្នកត្រូវស្តាប់។ សូមដាក់ទូរស័ព្ទនៅបន្ទប់ផ្សេង ហើយគ្រាន់តែកត់សម្គាល់ថាអ្នកមានអារម្មណ៍យ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Regular stillness could sharpen your intuition and calm your mind. Small quiet rituals may become a reliable source of insight.",
+        "km": "ភាពស្ងប់ស្ងាត់ជាប្រចាំ អាចធ្វើឱ្យវិចារណញាណរបស់អ្នកមុតស្រួច និងធ្វើឱ្យគំនិតរបស់អ្នកស្ងប់។ ពិធីស្ងាត់ៗតូចៗ អាចក្លាយជាប្រភពនៃការយល់ដឹងដែលគួរទុកចិត្ត។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "A habit of nourishing yourself with good food and nature may suit you well. Cooking a simple, fresh meal or tending a plant could lift your spirits.",
+        "km": "ទម្លាប់នៃការចិញ្ចឹមខ្លួនឯងដោយអាហារល្អ និងធម្មជាតិ អាចសមនឹងអ្នក។ ការចម្អិនម្ហូបស្រស់សាមញ្ញ ឬការថែរក្សារុក្ខជាតិ អាចលើកស្មារតីរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Feeding everyone else while skipping your own meals could leave you depleted. Sit down and eat properly, even when you are busy caring for others.",
+        "km": "ការផ្តល់អាហារដល់អ្នកដទៃ ខណៈរំលងអាហាររបស់ខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមអង្គុយញ៉ាំឱ្យបានត្រឹមត្រូវ ទោះបីអ្នករវល់មើលថែអ្នកដទៃក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Regular contact with nature and wholesome food could bring abundance and calm. Your body may respond with steadier energy and a brighter mood.",
+        "km": "ការទាក់ទងជាប្រចាំជាមួយធម្មជាតិ និងអាហារមានជីវជាតិ អាចនាំមកនូវភាពបរិបូរណ៍ និងភាពស្ងប់។ រាងកាយរបស់អ្នកអាចឆ្លើយតបដោយថាមពលនឹងនរ និងអារម្មណ៍ភ្លឺស្វាងជាងមុន។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Keeping regular sleep and meal routines may help you feel better. Steady structure could give your body and mind something reliable to rest on.",
+        "km": "ការរក្សាទម្លាប់គេង និងញ៉ាំអាហារឱ្យទៀងទាត់ អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ រចនាសម្ព័ន្ធនឹងនរ អាចផ្តល់ឱ្យរាងកាយ និងចិត្តរបស់អ្នកនូវអ្វីដែលគួរទុកចិត្តដើម្បីផ្អែកលើ។"
+      },
+      "challenge": {
+        "en": "Turning routine into rigid rules could make you feel worse when you slip. Keep the structure, but forgive yourself without fuss when a step is missed.",
+        "km": "ការប្រែទម្លាប់ទៅជាច្បាប់តឹងរ៉ឹង អាចធ្វើឱ្យអ្នកមានអារម្មណ៍អាក្រក់ជាងមុន នៅពេលអ្នករំលង។ សូមរក្សារចនាសម្ព័ន្ធ ប៉ុន្តែអភ័យទោសខ្លួនឯងដោយមិនបន្ទោស នៅពេលរំលងជំហានណាមួយ។"
+      },
+      "outcome": {
+        "en": "A dependable routine could bring stability, clearer thinking and steady energy. Feeling grounded may make other healthy habits easier to add.",
+        "km": "ទម្លាប់ដែលគួរទុកចិត្ត អាចនាំមកនូវស្ថិរភាព ការគិតច្បាស់ជាងមុន និងថាមពលនឹងនរ។ ការមានអារម្មណ៍នឹងនរ អាចធ្វើឱ្យទម្លាប់ល្អៗផ្សេងទៀតងាយបន្ថែមជាងមុន។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "A habit rooted in prayer, meditation or a cultural ritual may suit you well. Repeating it regularly, in the same quiet place, could bring comfort and belonging.",
+        "km": "ទម្លាប់ដែលចាក់ឫសក្នុងការបន់ស្រន់ សមាធិ ឬពិធីវប្បធម៌ អាចសមនឹងអ្នក។ ការធ្វើវាជាប្រចាំ នៅកន្លែងស្ងាត់ដដែល អាចនាំមកនូវការលួងលោម និងអារម្មណ៍ជាប់ចំណង។"
+      },
+      "challenge": {
+        "en": "Keeping a ritual out of duty alone could make it feel empty. Choose the practices that genuinely calm you, and let go of those that only add pressure.",
+        "km": "ការរក្សាពិធីដោយកាតព្វកិច្ចតែប៉ុណ្ណោះ អាចធ្វើឱ្យវាមានអារម្មណ៍ទទេ។ សូមជ្រើសការអនុវត្តដែលពិតជាធ្វើឱ្យអ្នកស្ងប់ ហើយលែងប្រកាន់ការអនុវត្តដែលគ្រាន់តែបន្ថែមសម្ពាធ។"
+      },
+      "outcome": {
+        "en": "A meaningful ritual could become an anchor that steadies you through change. Sharing it with others may deepen your sense of connection.",
+        "km": "ពិធីដែលមានអត្ថន័យ អាចក្លាយជាយុថ្កាដែលធ្វើឱ្យអ្នកនឹងនរ ឆ្លងកាត់ការផ្លាស់ប្តូរ។ ការចែករំលែកវាជាមួយអ្នកដទៃ អាចធ្វើឱ្យអារម្មណ៍នៃការភ្ជាប់ទំនាក់ទំនងរបស់អ្នកកាន់តែជ្រៅ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "A habit of making one choice that matches your values may help you feel better. Choosing what truly nourishes you, even in small ways, could build self-respect.",
+        "km": "ទម្លាប់នៃការធ្វើជម្រើសមួយដែលស្របនឹងគុណតម្លៃរបស់អ្នក អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ ការជ្រើសរើសអ្វីដែលពិតជាចិញ្ចឹមចិត្តអ្នក ទោះបីក្នុងរបៀបតូចៗក៏ដោយ អាចកសាងការគោរពខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Saying yes out of habit to things that drain you could undermine your mood. Practise pausing before you agree, and ask whether it fits your values.",
+        "km": "ការយល់ព្រមដោយទម្លាប់លើរឿងដែលបង្ហូរថាមពលរបស់អ្នក អាចធ្វើឱ្យអារម្មណ៍របស់អ្នកចុះខ្សោយ។ សូមហាត់ផ្អាកមុនពេលអ្នកយល់ព្រម ហើយសួរថាតើវាសមនឹងគុណតម្លៃរបស់អ្នកឬអត់។"
+      },
+      "outcome": {
+        "en": "Values-led habits could bring a deep sense of alignment. Your relationships may feel more honest and supportive as a result.",
+        "km": "ទម្លាប់ដែលដឹកនាំដោយគុណតម្លៃ អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅនៃការស្របគ្នា។ ទំនាក់ទំនងរបស់អ្នកអាចមានអារម្មណ៍ស្មោះត្រង់ និងគាំទ្រជាងមុន ជាលទ្ធផល។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "Regular physical activity may help you feel stronger and clearer. A brisk walk, a run or a workout could channel your drive in a healthy way.",
+        "km": "សកម្មភាពរាងកាយជាប្រចាំ អាចជួយអ្នកឱ្យមានអារម្មណ៍ខ្លាំង និងច្បាស់ជាងមុន។ ការដើរលឿនៗ ការរត់ ឬការហាត់ប្រាណ អាចតម្រង់កម្លាំងជំរុញរបស់អ្នកក្នុងរបៀបដែលមានសុខភាពល្អ។"
+      },
+      "challenge": {
+        "en": "Pushing too hard in workouts could lead to injury or burnout. Build up step by step, and leave room for rest between harder sessions.",
+        "km": "ការរុញខ្លាំងពេកក្នុងការហាត់ប្រាណ អាចនាំឱ្យមានរបួស ឬការអស់កម្លាំងខ្លាំង។ សូមកសាងមួយជំហានម្តងៗ ហើយទុកលំហសម្រាប់ការសម្រាករវាងការហាត់ដែលខ្លាំង។"
+      },
+      "outcome": {
+        "en": "Regular exercise could boost your energy, mood and confidence. Steady progress, like walking a little further, may give you a strong sense of achievement.",
+        "km": "ការហាត់ប្រាណជាប្រចាំ អាចបង្កើនថាមពល អារម្មណ៍ និងទំនុកចិត្តរបស់អ្នក។ វឌ្ឍនភាពនឹងនរ ដូចជាការដើរបានឆ្ងាយជាងមុនបន្តិច អាចផ្តល់ឱ្យអ្នកនូវអារម្មណ៍រឹងមាំនៃសមិទ្ធផល។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Gentle self-talk may be the habit that helps you most. Speaking to yourself with patience and kindness could steady you in hard moments.",
+        "km": "ការនិយាយជាមួយខ្លួនឯងដោយទន់ភ្លន់ អាចជាទម្លាប់ដែលជួយអ្នកបានច្រើនបំផុត។ ការនិយាយជាមួយខ្លួនឯងដោយការអត់ធ្មត់ និងសេចក្តីសប្បុរស អាចធ្វើឱ្យអ្នកនឹងនរក្នុងគ្រាលំបាក។"
+      },
+      "challenge": {
+        "en": "A habit of harsh inner criticism could wear down your confidence. Notice when you are hard on yourself and soften the words you use.",
+        "km": "ទម្លាប់នៃការរិះគន់ខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចធ្វើឱ្យទំនុកចិត្តរបស់អ្នកចុះខ្សោយ។ សូមកត់សម្គាល់នៅពេលអ្នកតឹងរ៉ឹងជាមួយខ្លួនឯង ហើយបន្ទន់ពាក្យដែលអ្នកប្រើ។"
+      },
+      "outcome": {
+        "en": "Kind inner dialogue could build quiet strength and resilience. You may face challenges with more courage and calm, and bounce back from setbacks more easily.",
+        "km": "ការសន្ទនាក្នុងចិត្តដោយសប្បុរស អាចកសាងកម្លាំងស្ងាត់ៗ និងភាពធន់។ អ្នកអាចប្រឈមមុខនឹងបញ្ហាប្រឈម ដោយភាពក្លាហាន និងភាពស្ងប់ច្រើនជាងមុន ហើយងើបពីឧបសគ្គបានងាយជាងមុន។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Regular solitude may help you recharge. A quiet walk alone or a little reflection could restore your clarity.",
+        "km": "ការនៅម្នាក់ឯងជាប្រចាំ អាចជួយអ្នកបញ្ចូលថាមពលឡើងវិញ។ ការដើរស្ងាត់ៗតែម្នាក់ឯង ឬការពិចារណាបន្តិច អាចស្តារភាពច្បាស់លាស់របស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Withdrawing too much could slide into isolation. Balance solitude with regular contact with people who care about you.",
+        "km": "ការដកខ្លួនច្រើនពេក អាចធ្លាក់ចូលក្នុងភាពឯកោ។ សូមថ្លឹងការនៅម្នាក់ឯង ជាមួយការទាក់ទងជាប្រចាំជាមួយមនុស្សដែលយកចិត្តទុកដាក់អ្នក។"
+      },
+      "outcome": {
+        "en": "Regular reflection could bring wisdom and inner calm. You may understand yourself better and make wiser choices.",
+        "km": "ការពិចារណាជាប្រចាំ អាចនាំមកនូវប្រាជ្ញា និងភាពស្ងប់ក្នុងចិត្ត។ អ្នកអាចយល់ពីខ្លួនឯងកាន់តែច្បាស់ ហើយធ្វើជម្រើសដែលឈ្លាសវៃជាងមុន។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "A habit of adapting gently to change may help you feel better. Accepting ups and downs with a flexible attitude could ease stress.",
+        "km": "ទម្លាប់នៃការសម្របខ្លួនដោយទន់ភ្លន់ទៅនឹងការផ្លាស់ប្តូរ អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ ការទទួលយកការឡើងចុះដោយអាកប្បកិរិយាបត់បែន អាចបន្ធូរភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Resisting change could keep you stressed and stuck. Practise noticing what you can control and letting go of what you cannot.",
+        "km": "ការទប់ទល់នឹងការផ្លាស់ប្តូរ អាចធ្វើឱ្យអ្នកតានតឹង និងជាប់គាំង។ សូមហាត់កត់សម្គាល់អ្វីដែលអ្នកអាចគ្រប់គ្រង ហើយលែងប្រកាន់អ្វីដែលអ្នកមិនអាចគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "Flexibility could bring lighter moods and better resilience. You may ride life's changes with more ease and less worry about what comes next.",
+        "km": "ភាពបត់បែន អាចនាំមកនូវអារម្មណ៍ស្រាលជាងមុន និងភាពធន់ល្អជាងមុន។ អ្នកអាចឆ្លងកាត់ការផ្លាស់ប្តូរនៃជីវិតដោយភាពស្រួលជាងមុន និងព្រួយបារម្ភតិចជាងមុនអំពីអ្វីដែលនឹងកើតឡើង។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A habit of honest self-review may help you feel better. Checking in with yourself regularly could show what is working and what is not.",
+        "km": "ទម្លាប់នៃការពិនិត្យខ្លួនឯងដោយស្មោះត្រង់ អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ ការពិនិត្យខ្លួនឯងជាប្រចាំ អាចបង្ហាញថាអ្វីដែលដំណើរការ និងអ្វីដែលមិនដំណើរការ។"
+      },
+      "challenge": {
+        "en": "Judging yourself harshly during that review could discourage you. Look at your habits fairly, as a kind observer would.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ ពេលពិនិត្យនោះ អាចធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។ សូមមើលទម្លាប់របស់អ្នកដោយយុត្តិធម៌ ដូចអ្នកសង្កេតដែលសប្បុរស។"
+      },
+      "outcome": {
+        "en": "Regular, fair self-reflection could bring balance and clarity. You may make better, calmer choices for your wellbeing as a result.",
+        "km": "ការពិចារណាខ្លួនឯងជាប្រចាំ និងដោយយុត្តិធម៌ អាចនាំមកនូវតុល្យភាព និងភាពច្បាស់លាស់។ អ្នកអាចធ្វើជម្រើសល្អ និងស្ងប់ជាងមុនសម្រាប់សុខុមាលភាពរបស់អ្នក ជាលទ្ធផល។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Pausing before you react may help you feel calmer. Taking a breath and looking at things from another angle could change your mood.",
+        "km": "ការផ្អាកមុនពេលអ្នកមានប្រតិកម្ម អាចជួយអ្នកឱ្យមានអារម្មណ៍ស្ងប់ជាងមុន។ ការដកដង្ហើម និងការមើលអ្វីៗពីមុំផ្សេង អាចផ្លាស់ប្តូរអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Staying stuck in old patterns could keep you feeling the same. Try one habit you have resisted, and notice how it feels.",
+        "km": "ការជាប់គាំងក្នុងគំរូចាស់ៗ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ដដែល។ សូមសាកល្បងទម្លាប់មួយដែលអ្នកបានទប់ទល់ ហើយកត់សម្គាល់ថាវាមានអារម្មណ៍យ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "A pause-and-reflect habit could bring fresh perspective and calm. Small shifts in how you see things may ease stress more than you expect.",
+        "km": "ទម្លាប់នៃការផ្អាក និងពិចារណា អាចនាំមកនូវទស្សនៈថ្មី និងភាពស្ងប់។ ការផ្លាស់ប្តូរតូចៗក្នុងរបៀបដែលអ្នកមើលអ្វីៗ អាចបន្ធូរភាពតានតឹងច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Letting go of an old habit may be the change that helps you most. Ending something that drains you could make room for something better.",
+        "km": "ការលែងប្រកាន់ទម្លាប់ចាស់មួយ អាចជាការផ្លាស់ប្តូរដែលជួយអ្នកច្រើនបំផុត។ ការបញ្ចប់អ្វីមួយដែលបង្ហូរថាមពលរបស់អ្នក អាចទុកលំហសម្រាប់អ្វីដែលល្អជាងមុន។"
+      },
+      "challenge": {
+        "en": "Holding on to a familiar but unhealthy habit could block your progress. Replace it with a gentler alternative, and seek support if it is hard to change.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ដែលធ្លាប់ស្គាល់ ប៉ុន្តែមិនល្អ អាចរារាំងវឌ្ឍនភាពរបស់អ្នក។ សូមជំនួសវាដោយជម្រើសដែលទន់ភ្លន់ជាងមុន ហើយស្វែងរកការគាំទ្រ ប្រសិនបើវាពិបាកផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Clearing out an old habit could bring renewal and fresh energy. A healthier pattern may take its place naturally once there is room for it.",
+        "km": "ការសម្អាតទម្លាប់ចាស់មួយចេញ អាចនាំមកនូវការកកើតឡើងវិញ និងថាមពលថ្មី។ គំរូដែលមានសុខភាពល្អជាងមុន អាចជំនួសកន្លែងរបស់វាដោយធម្មជាតិ នៅពេលមានលំហសម្រាប់វា។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Moderation in small things may help you feel more balanced. Finding the middle way in food, work and rest could steady you.",
+        "km": "ភាពល្មមល្មើយក្នុងរឿងតូចៗ អាចជួយអ្នកឱ្យមានអារម្មណ៍មានតុល្យភាពជាងមុន។ ការរកផ្លូវកណ្តាលក្នុងអាហារ ការងារ និងការសម្រាក អាចធ្វើឱ្យអ្នកនឹងនរ។"
+      },
+      "challenge": {
+        "en": "All-or-nothing habits could leave you swinging between extremes. Aim for small, sustainable changes, such as one extra vegetable or one lighter workload.",
+        "km": "ទម្លាប់ទាំងអស់ ឬគ្មានអ្វីសោះ អាចធ្វើឱ្យអ្នកយោលរវាងភាពហួសហេតុ។ សូមតម្រង់ទៅរកការផ្លាស់ប្តូរតូចៗ និងអាចទ្រទ្រង់បាន ដូចជាបន្លែបន្ថែមមួយមុខ ឬបន្ទុកការងារដែលស្រាលជាងមុន។"
+      },
+      "outcome": {
+        "en": "Balanced habits could bring steady energy and calm. Body and mind may feel more in harmony, with fewer highs and crashes.",
+        "km": "ទម្លាប់ដែលមានតុល្យភាព អាចនាំមកនូវថាមពលនឹងនរ និងភាពស្ងប់។ រាងកាយ និងចិត្ត អាចមានអារម្មណ៍ចុះសម្រុងគ្នាជាងមុន ដោយមានការឡើងខ្ពស់ និងធ្លាក់ចុះតិចជាងមុន។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Breaking a habit that has a hold on you may be what would help most. Noticing what you reach for when stressed could be revealing.",
+        "km": "ការបំបែកទម្លាប់ដែលក្តាប់អ្នក អាចជាអ្វីដែលជួយបានច្រើនបំផុត។ ការកត់សម្គាល់ថាអ្នកងាកទៅរកអ្វីនៅពេលតានតឹង អាចបង្ហាញអ្វីៗច្រើន។"
+      },
+      "challenge": {
+        "en": "Reaching for the same comfort habit whenever you are stressed could keep your mood low. Swap it for a healthier option, and see a professional if you cannot manage alone.",
+        "km": "ការងាកទៅរកទម្លាប់លួងលោមចិត្តដដែល រាល់ពេលអ្នកតានតឹង អាចធ្វើឱ្យអារម្មណ៍របស់អ្នកទាប។ សូមប្តូរវាទៅជាជម្រើសល្អជាងមុន ហើយជួបអ្នកជំនាញ ប្រសិនបើអ្នកមិនអាចគ្រប់គ្រងតែម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "Freeing yourself from an unhealthy habit could bring relief and self-respect. You may feel more in control of your choices, and lighter in body and mind.",
+        "km": "ការរំដោះខ្លួនពីទម្លាប់មិនល្អ អាចនាំមកនូវការធូរស្រាល និងការគោរពខ្លួនឯង។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងជម្រើសរបស់អ្នកបានច្រើនជាងមុន ហើយស្រាលទាំងរាងកាយ និងចិត្ត។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Building a simple, steady habit after upheaval may help you regain your footing. One reliable routine could give you something solid to hold on to.",
+        "km": "ការកសាងទម្លាប់សាមញ្ញ និងនឹងនរ ក្រោយការរង្គោះរង្គើ អាចជួយអ្នករកជំហររបស់អ្នកឡើងវិញ។ ទម្លាប់ដែលគួរទុកចិត្តមួយ អាចផ្តល់ឱ្យអ្នកនូវអ្វីដែលរឹងមាំដើម្បីកាន់។"
+      },
+      "challenge": {
+        "en": "Disruption could throw all your routines out of balance. Start again with the simplest habit you can manage, and seek support if stress feels overwhelming.",
+        "km": "ការរំខាន អាចធ្វើឱ្យទម្លាប់ទាំងអស់របស់អ្នកបាត់តុល្យភាព។ សូមចាប់ផ្តើមម្តងទៀតជាមួយទម្លាប់សាមញ្ញបំផុតដែលអ្នកអាចធ្វើបាន ហើយស្វែងរកការគាំទ្រ ប្រសិនបើភាពតានតឹងខ្លាំងពេក។"
+      },
+      "outcome": {
+        "en": "Rebuilding with healthier habits could leave you stronger and steadier. A fresh routine, however simple, may bring stability and quiet hope.",
+        "km": "ការកសាងឡើងវិញជាមួយទម្លាប់ល្អជាងមុន អាចធ្វើឱ្យអ្នករឹងមាំជាងមុន។ ទម្លាប់ថ្មីមួយ ទោះសាមញ្ញយ៉ាងណាក៏ដោយ អាចនាំមកនូវស្ថិរភាព និងក្តីសង្ឃឹមស្ងាត់ៗ។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Noticing small good things as they happen may lift your spirits. Writing down one hopeful moment could gently renew your outlook.",
+        "km": "ការកត់សម្គាល់រឿងល្អតូចៗ រាល់ពេលវាកើតឡើង អាចលើកស្មារតីរបស់អ្នក។ ការសរសេរគ្រាដែលមានក្តីសង្ឃឹមមួយ អាចធ្វើឱ្យទស្សនៈរបស់អ្នកថ្មីឡើងវិញដោយទន់ភ្លន់។"
+      },
+      "challenge": {
+        "en": "Focusing only on problems could dim your hope. Practise looking for one thing that went well, however small.",
+        "km": "ការផ្តោតតែលើបញ្ហា អាចធ្វើឱ្យក្តីសង្ឃឹមរបស់អ្នកស្រអាប់។ សូមហាត់រកមើលរឿងមួយដែលបានដំណើរការល្អ ទោះតូចយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A gratitude habit could bring renewed optimism and calm. You may feel more hopeful and resilient, even when things are hard.",
+        "km": "ទម្លាប់នៃការដឹងគុណ អាចនាំមកនូវសុទិដ្ឋិនិយម និងភាពស្ងប់ថ្មី។ អ្នកអាចមានអារម្មណ៍មានក្តីសង្ឃឹម និងធន់ជាងមុន ទោះបីអ្វីៗពិបាកក៏ដោយ។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "A simple grounding habit may help when your mind feels foggy or uneasy. Pressing your feet to the floor and naming what you see could bring you back to where you are.",
+        "km": "ទម្លាប់ធ្វើឱ្យខ្លួននឹងនរសាមញ្ញមួយ អាចជួយបាន នៅពេលគំនិតរបស់អ្នកមានអារម្មណ៍ស្រពិចស្រពិល ឬមិនស្រួល។ ការសង្កត់ជើងលើឥដ្ឋ និងការដាក់ឈ្មោះអ្វីដែលអ្នកមើលឃើញ អាចនាំអ្នកត្រឡប់មកកន្លែងដែលអ្នកនៅវិញ។"
+      },
+      "challenge": {
+        "en": "Letting vague fears run unchecked could cloud your mood. Ground yourself in what is real around you, and talk to a professional if anxiety will not ease.",
+        "km": "ការទុកឱ្យការភ័យខ្លាចមិនច្បាស់ដំណើរការដោយគ្មានការពិនិត្យ អាចធ្វើឱ្យអារម្មណ៍របស់អ្នកស្រអាប់។ សូមធ្វើឱ្យខ្លួននឹងនរនៅក្នុងអ្វីដែលពិតនៅជុំវិញអ្នក ហើយនិយាយជាមួយអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភមិនព្រមធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "Regular grounding could bring clarity when things feel uncertain. You may trust your instincts more once the fog of worry clears.",
+        "km": "ការធ្វើឱ្យខ្លួននឹងនរជាប្រចាំ អាចនាំមកនូវភាពច្បាស់លាស់ នៅពេលអ្វីៗមិនប្រាកដប្រជា។ អ្នកអាចទុកចិត្តលើសភាវគតិរបស់អ្នកច្រើនជាងមុន នៅពេលអ័ព្ទនៃការព្រួយបារម្ភរសាយ។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Getting sunlight and play into your routine may lift your mood. Stepping outdoors or doing something fun could brighten you.",
+        "km": "ការទទួលពន្លឺថ្ងៃ និងការលេងក្នុងទម្លាប់របស់អ្នក អាចលើកអារម្មណ៍របស់អ្នក។ ការចេញទៅខាងក្រៅ ឬការធ្វើអ្វីមួយសប្បាយ អាចធ្វើឱ្យអ្នកភ្លឺស្វាង។"
+      },
+      "challenge": {
+        "en": "Overloading your schedule with activity could tire you out. Balance fun and energy with real rest, and leave some gaps unplanned.",
+        "km": "ការផ្ទុកកាលវិភាគរបស់អ្នកដោយសកម្មភាពច្រើនពេក អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមថ្លឹងភាពសប្បាយ និងថាមពល ជាមួយការសម្រាកពិតប្រាកដ ហើយទុកចន្លោះខ្លះឱ្យនៅទំនេរ។"
+      },
+      "outcome": {
+        "en": "A joyful habit could bring vitality and warmth. You may feel happier, warmer and more energised in everything you do.",
+        "km": "ទម្លាប់ដ៏រីករាយ អាចនាំមកនូវភាពរស់រវើក និងភាពកក់ក្តៅ។ អ្នកអាចមានអារម្មណ៍សប្បាយ កក់ក្តៅ និងមានថាមពលជាងមុន ក្នុងអ្វីៗដែលអ្នកធ្វើ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "A habit of honest reflection on your life may help you feel better. Regularly asking what you want to change could guide growth.",
+        "km": "ទម្លាប់នៃការពិចារណាដោយស្មោះត្រង់អំពីជីវិតរបស់អ្នក អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ ការសួរជាប្រចាំថាអ្នកចង់ផ្លាស់ប្តូរអ្វី អាចណែនាំការរីកចម្រើន។"
+      },
+      "challenge": {
+        "en": "Dwelling on regrets could drain your motivation. Practise forgiving yourself, and focus on the next small step you can take.",
+        "km": "ការគិតច្រើនពីការសោកស្តាយ អាចបង្ហូរការលើកទឹកចិត្តរបស់អ្នក។ សូមហាត់អភ័យទោសខ្លួនឯង ហើយផ្តោតលើជំហានតូចបន្ទាប់ដែលអ្នកអាចបោះ។"
+      },
+      "outcome": {
+        "en": "Purposeful reflection could bring renewal and direction. You may feel more alive and motivated, with a clearer sense of direction.",
+        "km": "ការពិចារណាដែលមានគោលបំណង អាចនាំមកនូវការកកើតឡើងវិញ និងទិសដៅ។ អ្នកអាចមានអារម្មណ៍រស់រវើក និងមានការលើកទឹកចិត្តជាងមុន ជាមួយអារម្មណ៍ទិសដៅដែលច្បាស់ជាងមុន។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "Finishing what you start may help you feel more complete. Bringing small tasks to a close could give you a sense of satisfaction.",
+        "km": "ការបញ្ចប់អ្វីដែលអ្នកចាប់ផ្តើម អាចជួយអ្នកឱ្យមានអារម្មណ៍ពេញលេញជាងមុន។ ការបញ្ចប់កិច្ចការតូចៗ អាចផ្តល់ឱ្យអ្នកនូវអារម្មណ៍ពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "Leaving things half-done could create a nagging sense of unease. Finish or consciously drop what you have started, so it stops weighing on you.",
+        "km": "ការទុកអ្វីៗធ្វើពាក់កណ្តាល អាចបង្កើតអារម្មណ៍មិនស្រួលដែលរំខានជានិច្ច។ សូមបញ្ចប់ ឬទម្លាក់អ្វីដែលអ្នកបានចាប់ផ្តើមដោយដឹងខ្លួន ដើម្បីកុំឱ្យវាសង្កត់លើអ្នកទៀត។"
+      },
+      "outcome": {
+        "en": "Completing things could bring a deep sense of wholeness and peace. You may feel lighter and more accomplished, with fewer loose ends on your mind.",
+        "km": "ការបញ្ចប់អ្វីៗ អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅនៃភាពពេញលេញ និងសន្តិភាព។ អ្នកអាចមានអារម្មណ៍ស្រាល និងសម្រេចបានច្រើនជាងមុន ដោយមានរឿងមិនទាន់ចប់តិចជាងមុនក្នុងគំនិត។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Starting a new, energising activity may be the habit that lifts you. A class, sport or creative project could spark fresh enthusiasm.",
+        "km": "ការចាប់ផ្តើមសកម្មភាពថ្មីដែលផ្តល់ថាមពល អាចជាទម្លាប់ដែលលើកទឹកចិត្តអ្នក។ ថ្នាក់រៀន កីឡា ឬគម្រោងច្នៃប្រឌិត អាចបំភ្លឺភាពរំភើបថ្មី។"
+      },
+      "challenge": {
+        "en": "Starting with too much enthusiasm could make the habit hard to keep up. Begin small enough that you can repeat it easily.",
+        "km": "ការចាប់ផ្តើមដោយភាពរំភើបច្រើនពេក អាចធ្វើឱ្យទម្លាប់ពិបាករក្សា។ សូមចាប់ផ្តើមឱ្យតូចល្មមដែលអ្នកអាចធ្វើម្តងទៀតបានយ៉ាងងាយ។"
+      },
+      "outcome": {
+        "en": "A new passion could bring energy and joy into your routine. Inspiration may grow the more you practise, until the habit feels like your own.",
+        "km": "ចំណង់ចំណូលចិត្តថ្មី អាចនាំថាមពល និងសេចក្តីរីករាយចូលក្នុងទម្លាប់របស់អ្នក។ ការបំផុសគំនិតអាចកើនឡើង កាន់តែអ្នកហាត់ រហូតដល់ទម្លាប់នោះមានអារម្មណ៍ជារបស់អ្នកផ្ទាល់។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "A habit of planning with your wellbeing in mind may help. Sketching out room for rest and activity could reduce stress.",
+        "km": "ទម្លាប់នៃការរៀបចំផែនការដោយគិតដល់សុខុមាលភាពរបស់អ្នក អាចជួយបាន។ ការគូសទុកលំហសម្រាប់ការសម្រាក និងសកម្មភាព អាចកាត់បន្ថយភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Planning without following through could leave you frustrated. Choose one planned habit, write it down and commit to it.",
+        "km": "ការរៀបចំផែនការដោយមិនធ្វើតាម អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមជ្រើសទម្លាប់មួយដែលបានគ្រោងទុក សរសេរវាចុះ ហើយប្តេជ្ញាធ្វើវា។"
+      },
+      "outcome": {
+        "en": "Thoughtful planning could bring a sense of direction and calm. You may feel more prepared, less overwhelmed and better rested as a result.",
+        "km": "ការរៀបចំផែនការដោយគិតគូរ អាចនាំមកនូវអារម្មណ៍នៃទិសដៅ និងភាពស្ងប់។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនបានល្អ មិនសូវលើសកម្លាំង និងបានសម្រាកល្អជាងមុន ជាលទ្ធផល។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Getting out and exploring may refresh you. Walks in new places or small outings could broaden your outlook.",
+        "km": "ការចេញទៅខាងក្រៅ និងការស្វែងរក អាចធ្វើឱ្យអ្នកស្រស់ស្រាយ។ ការដើរនៅកន្លែងថ្មីៗ ឬការដើរលេងតូចៗ អាចពង្រីកទស្សនៈរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Staying in the same small routine could leave you feeling stuck. Step outside your usual space, even if it is just a different street near home.",
+        "km": "ការនៅក្នុងទម្លាប់តូចដដែល អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ជាប់គាំង។ សូមចេញពីកន្លែងធម្មតារបស់អ្នក ទោះបីគ្រាន់តែជាផ្លូវផ្សេងមួយនៅជិតផ្ទះក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Regular exploration could bring fresh perspective and energy. New sights and sounds may lift your mood and loosen old worries.",
+        "km": "ការស្វែងរកជាប្រចាំ អាចនាំមកនូវទស្សនៈ និងថាមពលថ្មី។ ទេសភាព និងសំឡេងថ្មីៗ អាចលើកអារម្មណ៍របស់អ្នក និងបន្ធូរការព្រួយបារម្ភចាស់ៗ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "A habit of celebrating small joys at home may help you feel better. Sharing a meal or marking a small win could brighten your routine.",
+        "km": "ទម្លាប់នៃការអបអរសេចក្តីរីករាយតូចៗនៅផ្ទះ អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ ការចែករំលែកអាហារ ឬការសម្គាល់ជ័យជំនះតូចមួយ អាចធ្វើឱ្យទម្លាប់របស់អ្នកភ្លឺស្វាង។"
+      },
+      "challenge": {
+        "en": "Waiting for big occasions to feel happy could leave ordinary routines dull. Find something to appreciate regularly, like a good cup of tea or a kind word.",
+        "km": "ការរង់ចាំឱកាសធំៗដើម្បីមានអារម្មណ៍សប្បាយ អាចធ្វើឱ្យទម្លាប់ធម្មតាគួរឱ្យធុញ។ សូមរកអ្វីមួយដើម្បីកោតសរសើរជាប្រចាំ ដូចជាតែមួយពែងឆ្ងាញ់ ឬពាក្យសប្បុរស។"
+      },
+      "outcome": {
+        "en": "Regular small celebrations could bring warmth and contentment. Home may feel like a happier, warmer place to return to.",
+        "km": "ការប្រារព្ធតូចៗជាប្រចាំ អាចនាំមកនូវភាពកក់ក្តៅ និងសេចក្តីពេញចិត្ត។ ផ្ទះអាចមានអារម្មណ៍ជាកន្លែងដែលសប្បាយ និងកក់ក្តៅជាងមុនដើម្បីត្រឡប់មកវិញ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Active movement may help you release tension and stress. Team sports, dancing or a vigorous walk could channel restless energy into something healthy.",
+        "km": "ចលនាសកម្ម អាចជួយអ្នកបញ្ចេញភាពតានតឹង។ កីឡាជាក្រុម ការរាំ ឬការដើរយ៉ាងខ្លាំង អាចតម្រង់ថាមពលមិនស្ងប់ទៅក្នុងអ្វីដែលមានសុខភាពល្អ។"
+      },
+      "challenge": {
+        "en": "Letting frustration build without an outlet could make you irritable and tense. Find a physical way to let off steam that does not involve conflict.",
+        "km": "ការទុកឱ្យការខកចិត្តកកកុញដោយគ្មានច្រកចេញ អាចធ្វើឱ្យអ្នកឆាប់ខឹង និងតានតឹង។ សូមរកវិធីរាងកាយមួយដើម្បីបញ្ចេញកំហឹង ដែលមិនពាក់ព័ន្ធនឹងជម្លោះ។"
+      },
+      "outcome": {
+        "en": "Regular active release could bring calm and better sleep. You may feel lighter and less reactive in daily life.",
+        "km": "ការបញ្ចេញថាមពលសកម្មជាប្រចាំ អាចនាំមកនូវភាពស្ងប់ និងការគេងល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍ស្រាល និងមិនសូវមានប្រតិកម្មខ្លាំងក្នុងជីវិតប្រចាំថ្ងៃ។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "A habit of acknowledging your progress may boost your mood. Noting three things you did well, however small, could build confidence.",
+        "km": "ទម្លាប់នៃការទទួលស្គាល់វឌ្ឍនភាពរបស់អ្នក អាចបង្កើនអារម្មណ៍របស់អ្នក។ ការកត់សម្គាល់រឿងបីដែលអ្នកបានធ្វើបានល្អ ទោះតូចយ៉ាងណាក៏ដោយ អាចកសាងទំនុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Depending on praise from others to feel good could leave you unsettled. Practise recognising your own achievements before anyone else does.",
+        "km": "ការពឹងផ្អែកលើការសរសើរពីអ្នកដទៃដើម្បីមានអារម្មណ៍ល្អ អាចធ្វើឱ្យអ្នកមិនស្ងប់។ សូមហាត់ទទួលស្គាល់សមិទ្ធផលរបស់ខ្លួនឯង មុនពេលនរណាម្នាក់ផ្សេងទទួលស្គាល់វា។"
+      },
+      "outcome": {
+        "en": "Celebrating small wins could bring a steady sense of pride and motivation. You may feel more confident, capable and willing to try new things.",
+        "km": "ការអបអរជ័យជំនះតូចៗ អាចនាំមកនូវអារម្មណ៍នឹងនរនៃមោទនភាព និងការលើកទឹកចិត្ត។ អ្នកអាចមានអារម្មណ៍មានទំនុកចិត្ត មានសមត្ថភាព និងចង់សាកល្បងរឿងថ្មីៗជាងមុន។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Setting clear boundaries may be the habit that helps you most. Saying no to one thing that drains you, kindly but clearly, could protect your energy.",
+        "km": "ការកំណត់ព្រំដែនច្បាស់លាស់ អាចជាទម្លាប់ដែលជួយអ្នកបានច្រើនបំផុត។ ការបដិសេធរឿងមួយដែលបង្ហូរថាមពលរបស់អ្នក ដោយសប្បុរស ប៉ុន្តែច្បាស់លាស់ អាចការពារថាមពលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Constantly defending yourself could leave you tense. Practise saying no calmly, in one short sentence, without long explanations.",
+        "km": "ការការពារខ្លួនជានិច្ច អាចធ្វើឱ្យអ្នកតានតឹង។ សូមហាត់បដិសេធដោយស្ងប់ ក្នុងប្រយោគខ្លីមួយ ដោយមិនចាំបាច់ពន្យល់វែងឆ្ងាយ។"
+      },
+      "outcome": {
+        "en": "Firm, calm boundaries could bring more energy and peace. You may feel stronger, more respected and less worn down by others' demands.",
+        "km": "ព្រំដែនរឹងមាំ និងស្ងប់ អាចនាំមកនូវថាមពល និងសន្តិភាពបន្ថែម។ អ្នកអាចមានអារម្មណ៍ខ្លាំង ត្រូវបានគោរព និងមិនសូវអស់កម្លាំងដោយការទាមទាររបស់អ្នកដទៃ។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "A habit of handling small tasks as they come up may lighten your mind. Replying, tidying or deciding promptly could stop clutter from building.",
+        "km": "ទម្លាប់នៃការដោះស្រាយកិច្ចការតូចៗនៅពេលវាកើតឡើង អាចធ្វើឱ្យគំនិតរបស់អ្នកស្រាល។ ការឆ្លើយតប ការរៀបចំ ឬការសម្រេចចិត្តដោយមិនពន្យារ អាចការពារភាពរញ៉េរញ៉ៃមិនឱ្យកកកុញ។"
+      },
+      "challenge": {
+        "en": "Rushing from one thing to the next could leave you frazzled. Build short pauses between tasks so your mind can reset.",
+        "km": "ការប្រញាប់ពីរឿងមួយទៅរឿងមួយ អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមបង្កើតការផ្អាកតូចៗរវាងកិច្ចការ ដើម្បីឱ្យគំនិតរបស់អ្នកកំណត់ឡើងវិញ។"
+      },
+      "outcome": {
+        "en": "Keeping things moving could bring a lighter, clearer state of mind. Fewer loose ends may leave you more relaxed when you do stop to rest.",
+        "km": "ការរក្សាអ្វីៗឱ្យដំណើរការ អាចនាំមកនូវស្ថានភាពគំនិតដែលស្រាល និងច្បាស់ជាងមុន។ រឿងមិនទាន់ចប់តិចជាងមុន អាចធ្វើឱ្យអ្នកសម្រាកបានច្រើនជាងមុន នៅពេលអ្នកឈប់សម្រាក។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Resting before you are exhausted may help you most. Taking regular breaks, even small ones, could protect your strength and resilience.",
+        "km": "ការសម្រាក មុនពេលអ្នកអស់កម្លាំង អាចជួយអ្នកបានច្រើនបំផុត។ ការសម្រាកជាប្រចាំ ទោះបីតូចក៏ដោយ អាចការពារកម្លាំង និងភាពធន់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Pushing on until you collapse could become a draining pattern. Schedule rest as firmly as you schedule work, and keep those appointments.",
+        "km": "ការបន្តរុញទៅមុខរហូតដល់អ្នកដួលរលំ អាចក្លាយជាគំរូដែលបង្ហូរថាមពល។ សូមរៀបចំការសម្រាកឱ្យបានម៉ឺងម៉ាត់ ដូចដែលអ្នករៀបចំការងារ ហើយរក្សាការណាត់ជួបទាំងនោះ។"
+      },
+      "outcome": {
+        "en": "Regular rest could keep your strength steady through challenges. You may feel more capable, less worn out and kinder to the people around you.",
+        "km": "ការសម្រាកជាប្រចាំ អាចរក្សាកម្លាំងរបស់អ្នកឱ្យនឹងនរ ឆ្លងកាត់បញ្ហាប្រឈម។ អ្នកអាចមានអារម្មណ៍មានសមត្ថភាព មិនសូវអស់កម្លាំង និងសប្បុរសចំពោះមនុស្សនៅជុំវិញអ្នកជាងមុន។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "A habit of reviewing and reducing your commitments may help you feel lighter. Regularly dropping one unnecessary task could make a real difference.",
+        "km": "ទម្លាប់នៃការពិនិត្យ និងកាត់បន្ថយការប្តេជ្ញារបស់អ្នក អាចជួយអ្នកឱ្យមានអារម្មណ៍ស្រាលជាងមុន។ ការទម្លាក់កិច្ចការមិនចាំបាច់មួយជាប្រចាំ អាចធ្វើឱ្យមានភាពខុសគ្នាពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Taking on more and more could leave you overwhelmed. Practise saying no, and hand some tasks to others who can carry them.",
+        "km": "ការទទួលយកកាន់តែច្រើនឡើងៗ អាចធ្វើឱ្យអ្នកលើសកម្លាំង។ សូមហាត់បដិសេធ ហើយប្រគល់កិច្ចការខ្លះទៅអ្នកដទៃដែលអាចទទួលវាបាន។"
+      },
+      "outcome": {
+        "en": "A lighter load could bring relief and renewed energy. You may enjoy life more, with room left over for rest and people you love.",
+        "km": "បន្ទុកដែលស្រាលជាងមុន អាចនាំមកនូវការធូរស្រាល និងថាមពលថ្មី។ អ្នកអាចរីករាយនឹងជីវិតច្រើនជាងមុន ដោយមានលំហសល់សម្រាប់ការសម្រាក និងមនុស្សដែលអ្នកស្រឡាញ់។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Learning something new just for fun may lift your spirits. A language app, an instrument or a craft could spark curiosity and joy.",
+        "km": "ការរៀនអ្វីមួយថ្មីគ្រាន់តែដើម្បីភាពសប្បាយ អាចលើកស្មារតីរបស់អ្នក។ កម្មវិធីរៀនភាសា ឧបករណ៍តន្ត្រី ឬសិប្បកម្ម អាចបំភ្លឺចិត្តចង់ដឹង និងសេចក្តីរីករាយ។"
+      },
+      "challenge": {
+        "en": "Starting many hobbies and finishing none could leave you scattered and discouraged. Pick one interest and enjoy getting a little better at it.",
+        "km": "ការចាប់ផ្តើមចំណូលចិត្តជាច្រើន ហើយមិនបញ្ចប់មួយណាសោះ អាចធ្វើឱ្យអ្នករាយប៉ាយ និងបាក់ទឹកចិត្ត។ សូមជ្រើសចំណាប់អារម្មណ៍មួយ ហើយរីករាយនឹងការពូកែជាងមុនបន្តិចម្តងៗ។"
+      },
+      "outcome": {
+        "en": "Playful learning could bring fresh energy and a youthful spirit to your routine. Small progress in a hobby may become a reliable source of delight.",
+        "km": "ការរៀនដោយលេងសើច អាចនាំថាមពលថ្មី និងស្មារតីក្មេងខ្ចីដល់ទម្លាប់របស់អ្នក។ វឌ្ឍនភាពតូចៗក្នុងចំណូលចិត្តមួយ អាចក្លាយជាប្រភពនៃសេចក្តីរីករាយដែលគួរទុកចិត្ត។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Energetic movement may help you burn off restlessness. A run, a cycle or a dance session could leave you feeling alive and clear-headed.",
+        "km": "ចលនាដែលពោរពេញដោយថាមពល អាចជួយអ្នកដុតភាពមិនស្ងប់។ ការរត់ ការជិះកង់ ឬការរាំ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍រស់រវើក និងគំនិតច្បាស់។"
+      },
+      "challenge": {
+        "en": "Jumping into intense exercise without preparation could lead to strain or injury. Warm up, build up gently and listen to your body's signals.",
+        "km": "ការលោតចូលក្នុងការហាត់ប្រាណខ្លាំងដោយគ្មានការត្រៀម អាចនាំឱ្យមានការតានតឹងសាច់ដុំ ឬរបួស។ សូមកម្តៅខ្លួន កសាងដោយទន់ភ្លន់ ហើយស្តាប់សញ្ញារបស់រាងកាយ។"
+      },
+      "outcome": {
+        "en": "Regular vigorous activity could boost your mood, sleep and confidence. You may feel stronger and more able to handle stress.",
+        "km": "សកម្មភាពខ្លាំងជាប្រចាំ អាចបង្កើនអារម្មណ៍ ការគេង និងទំនុកចិត្តរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ខ្លាំង និងអាចដោះស្រាយភាពតានតឹងបានល្អជាងមុន។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "A habit of doing one thing that makes you feel confident may help. Dressing in a way you like or doing something you are good at could lift your mood.",
+        "km": "ទម្លាប់នៃការធ្វើរឿងមួយដែលធ្វើឱ្យអ្នកមានទំនុកចិត្ត អាចជួយបាន។ ការស្លៀកពាក់តាមរបៀបដែលអ្នកចូលចិត្ត ឬការធ្វើអ្វីដែលអ្នកពូកែ អាចលើកអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Keeping up a cheerful front for others could drain your own reserves. Make space for honest rest, even if it means being less social.",
+        "km": "ការរក្សាមុខមាត់រីករាយសម្រាប់អ្នកដទៃ អាចបង្ហូរកម្លាំងបម្រុងរបស់អ្នក។ សូមទុកលំហសម្រាប់ការសម្រាកដោយស្មោះត្រង់ ទោះបីវាមានន័យថាត្រូវជួបមនុស្សតិចជាងមុនក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "A confidence-building habit could bring warmth and vitality. You may shine more naturally when you feel good about yourself.",
+        "km": "ទម្លាប់ដែលកសាងទំនុកចិត្ត អាចនាំមកនូវភាពកក់ក្តៅ និងភាពរស់រវើក។ អ្នកអាចភ្លឺចែងចាំងដោយធម្មជាតិជាងមុន នៅពេលអ្នកមានអារម្មណ៍ល្អចំពោះខ្លួនឯង។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Setting one personal goal for your wellbeing may help you feel more in charge. A clear aim, like walking further or sleeping better, could motivate you.",
+        "km": "ការកំណត់គោលដៅផ្ទាល់ខ្លួនមួយសម្រាប់សុខុមាលភាពរបស់អ្នក អាចជួយអ្នកឱ្យមានអារម្មណ៍គ្រប់គ្រងបានជាងមុន។ គោលដៅច្បាស់លាស់ ដូចជាការដើរបានឆ្ងាយជាងមុន ឬការគេងល្អជាងមុន អាចលើកទឹកចិត្តអ្នក។"
+      },
+      "challenge": {
+        "en": "Setting too many goals could leave you overwhelmed. Focus on one or two goals that truly matter, and set the others aside.",
+        "km": "ការកំណត់គោលដៅច្រើនពេក អាចធ្វើឱ្យអ្នកលើសកម្លាំង។ សូមផ្តោតលើគោលដៅមួយ ឬពីរដែលពិតជាសំខាន់ ហើយទុកគោលដៅផ្សេងទៀតមួយឡែក។"
+      },
+      "outcome": {
+        "en": "Purposeful habits could bring a strong sense of direction and achievement. You may feel inspired, in control and proud of the steady progress you make.",
+        "km": "ទម្លាប់ដែលមានគោលបំណង អាចនាំមកនូវអារម្មណ៍រឹងមាំនៃទិសដៅ និងសមិទ្ធផល។ អ្នកអាចមានអារម្មណ៍មានការបំផុសគំនិត គ្រប់គ្រងបាន និងមានមោទនភាពចំពោះវឌ្ឍនភាពនឹងនរដែលអ្នកធ្វើ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Expressing your feelings regularly may help you feel lighter. Writing in a journal or talking openly with someone could release what you hold inside.",
+        "km": "ការបង្ហាញអារម្មណ៍របស់អ្នកជាប្រចាំ អាចជួយអ្នកឱ្យមានអារម្មណ៍ស្រាលជាងមុន។ ការសរសេរកំណត់ហេតុ ឬការនិយាយដោយបើកចំហជាមួយនរណាម្នាក់ អាចបញ្ចេញអ្វីដែលអ្នកទប់ទុកក្នុងចិត្ត។"
+      },
+      "challenge": {
+        "en": "Bottling up emotions could leave you heavy and tense. Give your feelings a regular outlet, even a few honest sentences on paper.",
+        "km": "ការទប់អារម្មណ៍ទុក អាចធ្វើឱ្យអ្នកធ្ងន់ និងតានតឹង។ សូមផ្តល់ច្រកចេញជាប្រចាំដល់អារម្មណ៍របស់អ្នក ទោះបីគ្រាន់តែជាប្រយោគស្មោះត្រង់ពីរបីនៅលើក្រដាសក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Regular emotional expression could bring relief and renewed warmth. Your heart may feel fuller and more at peace once feelings have somewhere to go.",
+        "km": "ការបង្ហាញអារម្មណ៍ជាប្រចាំ អាចនាំមកនូវការធូរស្រាល និងភាពកក់ក្តៅថ្មី។ ចិត្តរបស់អ្នកអាចមានអារម្មណ៍ពេញលេញ និងស្ងប់ជាងមុន នៅពេលអារម្មណ៍មានកន្លែងដើម្បីទៅ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A habit of regular, meaningful connection with someone close may help you feel better. A regular call or shared meal could strengthen your bond and mood.",
+        "km": "ទម្លាប់នៃការភ្ជាប់ទំនាក់ទំនងដែលមានអត្ថន័យជាប្រចាំជាមួយមនុស្សជិតស្និទ្ធ អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ ការហៅទូរស័ព្ទ ឬអាហាររួមគ្នាជាប្រចាំ អាចពង្រឹងចំណង និងអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Letting close relationships drift could leave you feeling lonely. Make a habit of reaching out, even with a short message to say you care.",
+        "km": "ការទុកឱ្យទំនាក់ទំនងជិតស្និទ្ធរសាត់ទៅ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ឯកា។ សូមធ្វើជាទម្លាប់ក្នុងការទាក់ទង ទោះបីគ្រាន់តែជាសារខ្លីមួយ ដើម្បីប្រាប់ថាអ្នកយកចិត្តទុកដាក់ក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Nurtured relationships could bring emotional support and joy. You may feel more connected, secure and understood in daily life.",
+        "km": "ទំនាក់ទំនងដែលត្រូវបានថែរក្សា អាចនាំមកនូវការគាំទ្រផ្លូវចិត្ត និងសេចក្តីរីករាយ។ អ្នកអាចមានអារម្មណ៍ភ្ជាប់ទំនាក់ទំនង មានសុវត្ថិភាព និងត្រូវបានយល់ចិត្តជាងមុនក្នុងជីវិតប្រចាំថ្ងៃ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Seeing friends regularly may lift your mood. Laughing and sharing stories with others could be very good medicine for your mood.",
+        "km": "ការជួបមិត្តភក្តិជាប្រចាំ អាចលើកអារម្មណ៍របស់អ្នក។ ការសើច និងការចែករំលែករឿងរ៉ាវជាមួយអ្នកដទៃ អាចជាថ្នាំល្អណាស់សម្រាប់អារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Socialising mainly around food or drink could undermine your wellbeing. Try gatherings built around walks, games or shared activities.",
+        "km": "ការជួបជុំសង្គមដែលផ្តោតសំខាន់លើអាហារ ឬភេសជ្ជៈ អាចធ្វើឱ្យសុខុមាលភាពរបស់អ្នកចុះខ្សោយ។ សូមសាកល្បងការជួបជុំជុំវិញការដើរ ល្បែង ឬសកម្មភាពរួមគ្នា។"
+      },
+      "outcome": {
+        "en": "Joyful friendship could bring deep happiness and support. Regular laughter may become one of your healthiest habits.",
+        "km": "មិត្តភាពដ៏រីករាយ អាចនាំមកនូវសុភមង្គល និងការគាំទ្រដ៏រឹងមាំ។ សំណើចជាប្រចាំ អាចក្លាយជាទម្លាប់ដែលមានសុខភាពល្អបំផុតមួយរបស់អ្នក។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "A habit of trying something different when you feel flat may help. Changing your scenery or routine could rekindle your interest in life.",
+        "km": "ទម្លាប់នៃការសាកល្បងអ្វីមួយខុសពីមុន នៅពេលអ្នកមានអារម្មណ៍ស្ងាត់ស្ងៀម អាចជួយបាន។ ការប្តូរទេសភាព ឬទម្លាប់ អាចដុតចំណាប់អារម្មណ៍របស់អ្នកលើជីវិតឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Withdrawing when bored or low could deepen the feeling. Accept small invitations, and talk to someone if low mood will not lift.",
+        "km": "ការដកខ្លួននៅពេលធុញទ្រាន់ ឬអារម្មណ៍ធ្លាក់ចុះ អាចធ្វើឱ្យអារម្មណ៍នោះកាន់តែជ្រៅ។ សូមទទួលយកការអញ្ជើញតូចៗ ហើយនិយាយជាមួយនរណាម្នាក់ ប្រសិនបើអារម្មណ៍ធ្លាក់ចុះមិនព្រមធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "Fresh experiences could bring renewed energy and interest. You may rediscover what makes you feel alive and eager again.",
+        "km": "បទពិសោធន៍ថ្មីៗ អាចនាំមកនូវថាមពល និងចំណាប់អារម្មណ៍ថ្មី។ អ្នកអាចរកឃើញឡើងវិញនូវអ្វីដែលធ្វើឱ្យអ្នកមានអារម្មណ៍រស់រវើក និងរំភើបម្តងទៀត។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Gently acknowledging sadness may help you feel better. Allowing yourself to feel rather than push it away could ease the weight.",
+        "km": "ការទទួលស្គាល់ទុក្ខព្រួយដោយទន់ភ្លន់ អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ ការអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ ជាជាងរុញវាចោល អាចបន្ធូរបន្ទុក។"
+      },
+      "challenge": {
+        "en": "Dwelling only on loss could keep you stuck in sadness. Pair grief with small acts of comfort, and seek a counsellor if the sadness feels too heavy.",
+        "km": "ការគិតតែពីការបាត់បង់ អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងទុក្ខព្រួយ។ សូមផ្គូផ្គងទុក្ខសោកជាមួយសកម្មភាពលួងលោមតូចៗ ហើយស្វែងរកអ្នកប្រឹក្សា ប្រសិនបើទុក្ខព្រួយធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Gentle acceptance could bring healing and renewed hope. You may notice the good that remains, and feel steadier for having grieved.",
+        "km": "ការទទួលយកដោយទន់ភ្លន់ អាចនាំមកនូវការជាសះស្បើយ និងក្តីសង្ឃឹមថ្មី។ អ្នកអាចកត់សម្គាល់ភាពល្អដែលនៅសល់ ហើយមានអារម្មណ៍នឹងនរជាងមុន ដោយសារបានកាន់ទុក្ខ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Revisiting simple joys from childhood may lift your mood. Playing a game, drawing or listening to old favourite songs could bring comfort.",
+        "km": "ការត្រឡប់ទៅរកសេចក្តីរីករាយសាមញ្ញៗតាំងពីកុមារភាព អាចលើកអារម្មណ៍របស់អ្នក។ ការលេងល្បែង ការគូររូប ឬការស្តាប់បទចម្រៀងចាស់ដែលចូលចិត្ត អាចនាំមកនូវការលួងលោម។"
+      },
+      "challenge": {
+        "en": "Escaping into nostalgia could keep you from enjoying your life as it is. Use old comforts to recharge, then turn back to what is in front of you.",
+        "km": "ការគេចចូលក្នុងការនឹកដល់អតីតកាល អាចរារាំងអ្នកពីការរីករាយនឹងជីវិតរបស់អ្នកដូចដែលវាជា។ សូមប្រើភាពសុខស្រួលចាស់ៗដើម្បីបញ្ចូលថាមពល បន្ទាប់មកងាកមករកអ្វីដែលនៅចំពោះមុខអ្នកវិញ។"
+      },
+      "outcome": {
+        "en": "Playful, nostalgic habits could bring warmth and lightness. You may feel more joyful, relaxed and connected to your younger self.",
+        "km": "ទម្លាប់ដែលលេងសើច និងនឹកដល់អតីតកាល អាចនាំមកនូវភាពកក់ក្តៅ និងភាពស្រាល។ អ្នកអាចមានអារម្មណ៍រីករាយ សម្រាក និងភ្ជាប់ទំនាក់ទំនងជាមួយខ្លួនឯងកាលនៅក្មេងបានច្រើនជាងមុន។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "A habit of choosing one priority from many options may help you feel clearer. Choosing one focus, rather than juggling many, could reduce overwhelm noticeably.",
+        "km": "ទម្លាប់នៃការជ្រើសអាទិភាពមួយពីជម្រើសជាច្រើន អាចជួយអ្នកឱ្យមានអារម្មណ៍ច្បាស់ជាងមុន។ ការជ្រើសការផ្តោតតែមួយ ជាជាងការបំពេញច្រើន អាចកាត់បន្ថយការលើសកម្លាំងគួរឱ្យកត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Daydreaming or scrolling instead of acting could leave you feeling stuck. Replace one round of scrolling with a short walk or chat.",
+        "km": "ការស្រមៃ ឬការអូសមើលទូរស័ព្ទ ជំនួសឱ្យការធ្វើសកម្មភាព អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ជាប់គាំង។ សូមជំនួសការអូសមើលទូរស័ព្ទមួយដង ដោយការដើរខ្លី ឬការជជែក។"
+      },
+      "outcome": {
+        "en": "Focused choices could bring clarity and calm. Fewer distractions may leave more room for the people and activities that matter.",
+        "km": "ជម្រើសដែលផ្តោត អាចនាំមកនូវភាពច្បាស់លាស់ និងភាពស្ងប់។ ការរំខានតិចជាងមុន អាចទុកលំហបន្ថែមសម្រាប់មនុស្ស និងសកម្មភាពដែលសំខាន់។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Letting go of what no longer nourishes you may be the habit you need. Regularly reviewing your commitments could keep your life aligned.",
+        "km": "ការលែងប្រកាន់អ្វីដែលលែងចិញ្ចឹមចិត្តអ្នក អាចជាទម្លាប់ដែលអ្នកត្រូវការ។ ការពិនិត្យការប្តេជ្ញារបស់អ្នកជាប្រចាំ អាចរក្សាជីវិតរបស់អ្នកឱ្យស្របគ្នា។"
+      },
+      "challenge": {
+        "en": "Staying in routines that drain you out of habit could wear you down. Be brave enough to step away from what no longer fits.",
+        "km": "ការនៅក្នុងទម្លាប់ដែលបង្ហូរថាមពលរបស់អ្នកដោយសារទម្លាប់ អាចធ្វើឱ្យអ្នកចុះខ្សោយ។ សូមក្លាហានល្មមដើម្បីដើរចេញពីអ្វីដែលលែងសម។"
+      },
+      "outcome": {
+        "en": "Moving on from draining patterns could bring renewed purpose. A more meaningful routine, built around what you value, may lift your spirit.",
+        "km": "ការបន្តទៅមុខពីគំរូដែលបង្ហូរថាមពល អាចនាំមកនូវគោលបំណងថ្មី។ ទម្លាប់ដែលមានអត្ថន័យជាងមុន ដែលកសាងជុំវិញអ្វីដែលអ្នកឱ្យតម្លៃ អាចលើកស្មារតីរបស់អ្នក។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Savouring simple pleasures may lift your mood. Taking a moment to truly enjoy a meal or a view could bring contentment.",
+        "km": "ការភ្លក់រសជាតិសេចក្តីរីករាយសាមញ្ញៗ អាចលើកអារម្មណ៍របស់អ្នក។ ការផ្អាកបន្តិចដើម្បីរីករាយពិតប្រាកដជាមួយអាហារ ឬទេសភាព អាចនាំមកនូវសេចក្តីពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "Seeking more pleasure rather than enjoying what you have could leave you unsatisfied. Practise gratitude for small comforts by naming one before you sleep.",
+        "km": "ការស្វែងរកសេចក្តីរីករាយបន្ថែម ជាជាងរីករាយនឹងអ្វីដែលអ្នកមាន អាចធ្វើឱ្យអ្នកមិនពេញចិត្ត។ សូមហាត់ដឹងគុណចំពោះភាពសុខស្រួលតូចៗ ដោយដាក់ឈ្មោះមួយមុនពេលអ្នកគេង។"
+      },
+      "outcome": {
+        "en": "Mindful enjoyment could bring deep contentment. Gratitude may become a natural, steadying part of your daily life.",
+        "km": "ការរីករាយដោយដឹងខ្លួន អាចនាំមកនូវសេចក្តីពេញចិត្តដ៏ជ្រាលជ្រៅ។ ការដឹងគុណអាចក្លាយជាផ្នែកធម្មជាតិ និងនឹងនរនៃជីវិតប្រចាំថ្ងៃរបស់អ្នក។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "A habit of spending relaxed moments with family may help you feel better. Shared meals or simple activities at home could strengthen your sense of belonging.",
+        "km": "ទម្លាប់នៃការចំណាយគ្រាដ៏សម្រាកជាមួយគ្រួសារ អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ អាហាររួមគ្នា ឬសកម្មភាពសាមញ្ញៗនៅផ្ទះ អាចពង្រឹងអារម្មណ៍ជាប់ចំណងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Expecting family moments to be perfect could create stress. Enjoy imperfect, ordinary moments together, noise and mess included.",
+        "km": "ការរំពឹងឱ្យគ្រាគ្រួសារល្អឥតខ្ចោះ អាចបង្កើតភាពតានតឹង។ សូមរីករាយនឹងគ្រាធម្មតា និងមិនល្អឥតខ្ចោះជាមួយគ្នា រួមទាំងសំឡេងរំខាន និងភាពរញ៉េរញ៉ៃផង។"
+      },
+      "outcome": {
+        "en": "Regular family connection could bring warmth and emotional security. You may feel loved, supported and more relaxed in your own home.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងគ្រួសារជាប្រចាំ អាចនាំមកនូវភាពកក់ក្តៅ និងសុវត្ថិភាពផ្លូវចិត្ត។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានស្រឡាញ់ គាំទ្រ និងសម្រាកបានច្រើនជាងមុននៅក្នុងផ្ទះរបស់អ្នក។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Creative self-expression may lift your mood. Drawing, music or writing could give your feelings a gentle, private outlet.",
+        "km": "ការបង្ហាញខ្លួនឯងដោយច្នៃប្រឌិត អាចលើកអារម្មណ៍របស់អ្នក។ ការគូររូប តន្ត្រី ឬការសរសេរ អាចផ្តល់ច្រកចេញដ៏ទន់ភ្លន់ និងឯកជនដល់អារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Dismissing your sensitivity could leave feelings unexpressed. Make room for gentle creativity regularly, without judging the results.",
+        "km": "ការមើលរំលងភាពរសើបរបស់អ្នក អាចធ្វើឱ្យអារម្មណ៍មិនត្រូវបានបង្ហាញ។ សូមទុកលំហសម្រាប់ការច្នៃប្រឌិតដ៏ទន់ភ្លន់ជាប្រចាំ ដោយមិនវិនិច្ឆ័យលទ្ធផល។"
+      },
+      "outcome": {
+        "en": "Creative habits could bring joy and emotional balance. You may feel more in touch with yourself and lighter in your heart.",
+        "km": "ទម្លាប់ច្នៃប្រឌិត អាចនាំមកនូវសេចក្តីរីករាយ និងតុល្យភាពផ្លូវចិត្ត។ អ្នកអាចមានអារម្មណ៍ភ្ជាប់ជាមួយខ្លួនឯងកាន់តែច្បាស់ ហើយចិត្តស្រាលជាងមុន។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Bringing a little beauty into your routine may lift your spirits. Fresh flowers, soft music or a tidy, pleasant corner could soothe you.",
+        "km": "ការនាំភាពស្រស់ស្អាតបន្តិចចូលក្នុងទម្លាប់របស់អ្នក អាចលើកស្មារតីរបស់អ្នក។ ផ្កាស្រស់ តន្ត្រីទន់ៗ ឬជ្រុងដែលស្អាត និងរីករាយ អាចលួងលោមអ្នក។"
+      },
+      "challenge": {
+        "en": "Waiting for inspiration before doing anything could leave habits unformed. Build small, gentle routines that do not depend on mood.",
+        "km": "ការរង់ចាំការបំផុសគំនិត មុនពេលធ្វើអ្វីមួយ អាចធ្វើឱ្យទម្លាប់មិនត្រូវបានបង្កើត។ សូមកសាងទម្លាប់តូចៗ និងទន់ភ្លន់ ដែលមិនពឹងផ្អែកលើអារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "Small touches of beauty could bring grace and calm. Your surroundings may feel more uplifting, and so may your mood.",
+        "km": "ការប៉ះតូចៗនៃភាពស្រស់ស្អាត អាចនាំមកនូវភាពថ្លៃថ្នូ និងភាពស្ងប់។ បរិយាកាសជុំវិញអ្នក អាចមានអារម្មណ៍លើកទឹកចិត្តជាងមុន ហើយអារម្មណ៍របស់អ្នកក៏ដូចគ្នាដែរ។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "A habit of checking in with your own feelings may help you feel better. Asking yourself gently what you need could guide your self-care.",
+        "km": "ទម្លាប់នៃការពិនិត្យអារម្មណ៍របស់ខ្លួនឯង អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ ការសួរខ្លួនឯងដោយទន់ភ្លន់ថាអ្នកត្រូវការអ្វី អាចណែនាំការថែរក្សាខ្លួនឯងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Tending to everyone else's emotions first could leave yours ignored. Give yourself the same caring attention you offer others, even for a few quiet breaths.",
+        "km": "ការយកចិត្តទុកដាក់លើអារម្មណ៍របស់អ្នកដទៃមុនគេ អាចធ្វើឱ្យអារម្មណ៍របស់អ្នកត្រូវបានមិនអើពើ។ សូមផ្តល់ការយកចិត្តទុកដាក់ដូចគ្នាដល់ខ្លួនឯង ដូចដែលអ្នកផ្តល់ដល់អ្នកដទៃ ទោះបីគ្រាន់តែពីរបីដង្ហើមស្ងាត់ៗក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Regular emotional check-ins could bring calm and self-understanding. You may notice and meet your needs before stress builds up.",
+        "km": "ការពិនិត្យអារម្មណ៍ជាប្រចាំ អាចនាំមកនូវភាពស្ងប់ និងការយល់ពីខ្លួនឯង។ អ្នកអាចកត់សម្គាល់ និងបំពេញតម្រូវការរបស់អ្នក មុនពេលភាពតានតឹងកើនឡើង។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm reflection before responding may help you feel steadier. Pausing to breathe when emotions run high could keep you balanced.",
+        "km": "ការពិចារណាដោយស្ងប់ មុនពេលឆ្លើយតប អាចជួយអ្នកឱ្យមានអារម្មណ៍នឹងនរជាងមុន។ ការផ្អាកដើម្បីដកដង្ហើម នៅពេលអារម្មណ៍ឡើងខ្ពស់ អាចរក្សាអ្នកឱ្យមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Suppressing feelings to stay composed could build hidden tension. Find a regular, healthy outlet such as writing, talking or exercise.",
+        "km": "ការទប់អារម្មណ៍ដើម្បីរក្សាភាពស្ងប់ អាចបង្កើតភាពតានតឹងលាក់កំបាំង។ សូមរកច្រកចេញល្អជាប្រចាំ ដូចជាការសរសេរ ការនិយាយ ឬការហាត់ប្រាណ។"
+      },
+      "outcome": {
+        "en": "Steady emotional habits could help you respond to stress rather than react to it. People around you may find you calmer and easier to talk to.",
+        "km": "ទម្លាប់ផ្លូវចិត្តដែលនឹងនរ អាចជួយអ្នកឆ្លើយតបនឹងភាពតានតឹងដោយគិត ជាជាងមានប្រតិកម្មភ្លាមៗ។ មនុស្សនៅជុំវិញអ្នក អាចរកឃើញថាអ្នកស្ងប់ និងងាយនិយាយជាមួយជាងមុន។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "Writing down your thoughts may help clear your mind. Putting worries on paper could make them easier to sort and solve.",
+        "km": "ការសរសេរគំនិតរបស់អ្នកចុះ អាចជួយធ្វើឱ្យគំនិតរបស់អ្នកច្បាស់។ ការដាក់ការព្រួយបារម្ភនៅលើក្រដាស អាចធ្វើឱ្យវាងាយស្រួលតម្រៀប និងដោះស្រាយជាងមុន។"
+      },
+      "challenge": {
+        "en": "Overthinking without action could keep your mind racing. Turn one clear thought into a small, practical step you can take.",
+        "km": "ការគិតច្រើនពេកដោយគ្មានសកម្មភាព អាចធ្វើឱ្យគំនិតរបស់អ្នករត់លឿនជានិច្ច។ សូមប្រែគំនិតច្បាស់មួយ ទៅជាជំហានតូច និងជាក់ស្តែងដែលអ្នកអាចបោះ។"
+      },
+      "outcome": {
+        "en": "Regular journaling could bring clarity and calm to a busy mind. Decisions may feel easier once your thoughts are laid out in front of you.",
+        "km": "ការសរសេរកំណត់ហេតុជាប្រចាំ អាចនាំភាពច្បាស់លាស់ និងភាពស្ងប់ដល់គំនិតមមាញឹក។ ការសម្រេចចិត្តអាចមានអារម្មណ៍ងាយស្រួលជាងមុន នៅពេលគំនិតរបស់អ្នកត្រូវបានដាក់នៅចំពោះមុខអ្នក។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "A habit of making small decisions without delay may lighten your mind. Settling minor choices without fuss could free up energy for bigger ones.",
+        "km": "ទម្លាប់នៃការធ្វើការសម្រេចចិត្តតូចៗដោយមិនពន្យារ អាចធ្វើឱ្យគំនិតរបស់អ្នកស្រាល។ ការដោះស្រាយជម្រើសតូចៗដោយមិនរវល់ច្រើន អាចដោះលែងថាមពលសម្រាប់ជម្រើសធំៗ។"
+      },
+      "challenge": {
+        "en": "Avoiding decisions could leave you feeling stuck and tense. Practise choosing, even when the options seem equal, and then let the choice rest.",
+        "km": "ការគេចពីការសម្រេចចិត្ត អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ជាប់គាំង និងតានតឹង។ សូមហាត់ជ្រើសរើស ទោះបីជម្រើសហាក់ស្មើគ្នាក៏ដោយ ហើយបន្ទាប់មកឱ្យជម្រើសនោះនៅស្ងៀម។"
+      },
+      "outcome": {
+        "en": "Decisiveness could bring relief and a clearer mind. You may feel lighter as fewer choices hang over you.",
+        "km": "ភាពម៉ឺងម៉ាត់ក្នុងការសម្រេចចិត្ត អាចនាំមកនូវការធូរស្រាល និងគំនិតច្បាស់ជាងមុន។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលជម្រើសតិចជាងមុនព្យួរពីលើអ្នក។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Gently processing hurt may help you heal. Talking or writing about painful feelings could ease their hold on you.",
+        "km": "ការដោះស្រាយការឈឺចាប់ដោយទន់ភ្លន់ អាចជួយអ្នកជាសះស្បើយ។ ការនិយាយ ឬការសរសេរអំពីអារម្មណ៍ឈឺចាប់ អាចបន្ធូរការក្តាប់របស់វាលើអ្នក។"
+      },
+      "challenge": {
+        "en": "Ignoring emotional pain could let it affect your health. Find a safe way to express it, and seek a counsellor if it feels too heavy.",
+        "km": "ការមិនអើពើនឹងការឈឺចាប់ផ្លូវចិត្ត អាចធ្វើឱ្យវាប៉ះពាល់ដល់សុខភាពរបស់អ្នក។ សូមរកវិធីដែលមានសុវត្ថិភាពដើម្បីបង្ហាញវា ហើយស្វែងរកអ្នកប្រឹក្សា ប្រសិនបើវាធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Processing hurt regularly could bring healing and lightness. Your heart may mend more easily, and old wounds may sting less often.",
+        "km": "ការដោះស្រាយការឈឺចាប់ជាប្រចាំ អាចនាំមកនូវការជាសះស្បើយ និងភាពស្រាល។ ចិត្តរបស់អ្នកអាចជាសះស្បើយបានងាយជាងមុន ហើយរបួសចាស់ៗអាចឈឺតិចជាងមុន។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "A habit of regular, restful breaks may be what helps you most. Small pauses and good sleep could restore your energy.",
+        "km": "ទម្លាប់នៃការសម្រាកជាប្រចាំ អាចជាអ្វីដែលជួយអ្នកបានច្រើនបំផុត។ ការផ្អាកតូចៗ និងការគេងល្អ អាចស្តារថាមពលរបស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Skipping rest to get more done could leave you depleted. Treat rest as a non-negotiable habit, as important as eating or working.",
+        "km": "ការរំលងការសម្រាក ដើម្បីធ្វើការបានច្រើន អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមចាត់ទុកការសម្រាកជាទម្លាប់ដែលមិនអាចចរចាបាន សំខាន់ដូចការញ៉ាំ ឬការធ្វើការ។"
+      },
+      "outcome": {
+        "en": "A rest habit could bring renewed energy and calm. You may feel clearer, calmer and more resilient when demands pile up.",
+        "km": "ទម្លាប់នៃការសម្រាក អាចនាំមកនូវថាមពល និងភាពស្ងប់ថ្មី។ អ្នកអាចមានអារម្មណ៍ច្បាស់ ស្ងប់ និងធន់ជាងមុន នៅពេលការទាមទារកើនឡើង។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Letting small disagreements go may help you feel calmer. Choosing peace over winning could protect your energy and mood.",
+        "km": "ការលែងប្រកាន់ការខ្វែងគំនិតតូចៗ អាចជួយអ្នកឱ្យមានអារម្មណ៍ស្ងប់ជាងមុន។ ការជ្រើសសន្តិភាពជាងការឈ្នះ អាចការពារថាមពល និងអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Replaying arguments in your head could keep stress alive even when they are over. Practise noticing the replay and gently turning your attention elsewhere.",
+        "km": "ការរំលឹកការឈ្លោះប្រកែកឡើងវិញក្នុងក្បាល អាចរក្សាភាពតានតឹងឱ្យនៅរស់ ទោះបីវាបានបញ្ចប់ហើយក៏ដោយ។ សូមហាត់កត់សម្គាល់ការរំលឹកនោះ ហើយបង្វែរការយកចិត្តទុកដាក់របស់អ្នកទៅកន្លែងផ្សេងដោយទន់ភ្លន់។"
+      },
+      "outcome": {
+        "en": "Letting go of conflict could bring a calmer, lighter mood. You may find more energy for the things and people you enjoy.",
+        "km": "ការលែងប្រកាន់ជម្លោះ អាចនាំមកនូវអារម្មណ៍ស្ងប់ និងស្រាលជាងមុន។ អ្នកអាចរកឃើញថាមពលបន្ថែមសម្រាប់រឿង និងមនុស្សដែលអ្នករីករាយ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "A habit of stepping away from stressful patterns, one by one, may help. Small, steady changes could carry you toward a calmer life.",
+        "km": "ទម្លាប់នៃការដើរចេញពីគំរូតានតឹង ម្តងមួយៗ អាចជួយបាន។ ការផ្លាស់ប្តូរតូចៗ និងនឹងនរ អាចនាំអ្នកឆ្ពោះទៅរកជីវិតដែលស្ងប់ជាងមុន។"
+      },
+      "challenge": {
+        "en": "Carrying old stress habits into new situations could slow your progress. Notice which old patterns you repeat and swap one for something gentler.",
+        "km": "ការនាំទម្លាប់តានតឹងចាស់ៗចូលក្នុងស្ថានការណ៍ថ្មី អាចបន្ថយវឌ្ឍនភាពរបស់អ្នក។ សូមកត់សម្គាល់ថាគំរូចាស់ណាដែលអ្នកធ្វើម្តងទៀត ហើយប្តូរមួយទៅជាអ្វីដែលទន់ភ្លន់ជាងមុន។"
+      },
+      "outcome": {
+        "en": "Steady change could bring deep calm and relief. Each step away from stress may feel lighter than the one before.",
+        "km": "ការផ្លាស់ប្តូរនឹងនរ អាចនាំមកនូវភាពស្ងប់ និងការធូរស្រាល។ ជំហាននីមួយៗដែលឆ្ងាយពីភាពតានតឹង អាចមានអារម្មណ៍ស្រាលជាងជំហានមុន។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "A habit of being honest with yourself about what is not working may help. Facing small truths regularly, like a missed bill or a sore back, could prevent bigger problems.",
+        "km": "ទម្លាប់នៃការស្មោះត្រង់ជាមួយខ្លួនឯងអំពីអ្វីដែលមិនដំណើរការ អាចជួយបាន។ ការប្រឈមមុខនឹងការពិតតូចៗជាប្រចាំ ដូចជាវិក្កយបត្រដែលភ្លេចបង់ ឬការឈឺខ្នង អាចការពារបញ្ហាធំៗ។"
+      },
+      "challenge": {
+        "en": "Putting off a small but unpleasant task could keep it nagging at you. Do the one you dread first, and enjoy the lightness that follows.",
+        "km": "ការពន្យារកិច្ចការតូច ប៉ុន្តែមិនរីករាយមួយ អាចធ្វើឱ្យវារំខានអ្នកជានិច្ច។ សូមធ្វើកិច្ចការដែលអ្នកខ្លាចបំផុតមុនគេ ហើយរីករាយនឹងភាពស្រាលដែលកើតឡើង។"
+      },
+      "outcome": {
+        "en": "Honest habits could bring clarity and peace of mind. You may feel lighter without hidden worries nagging at the back of your mind.",
+        "km": "ទម្លាប់ស្មោះត្រង់ អាចនាំមកនូវភាពច្បាស់លាស់ និងសេចក្តីសុខក្នុងចិត្ត។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន ដោយគ្មានការព្រួយបារម្ភលាក់កំបាំងរំខាននៅខាងក្រោយគំនិតរបស់អ្នក។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Questioning negative thoughts may help you feel freer. Asking whether a limiting belief is really true could open new options.",
+        "km": "ការចោទសួរគំនិតអវិជ្ជមាន អាចជួយអ្នកឱ្យមានអារម្មណ៍សេរីជាងមុន។ ការសួរថាតើជំនឿដែលកំណត់ព្រំដែនពិតជាត្រឹមត្រូវឬអត់ អាចបើកជម្រើសថ្មីៗ។"
+      },
+      "challenge": {
+        "en": "Believing every anxious thought could keep you feeling trapped. Write down one fearful thought and look for a kinder, more realistic version, and seek support if you feel hopeless.",
+        "km": "ការជឿលើគំនិតថប់បារម្ភគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ជាប់អន្ទាក់។ សូមសរសេរគំនិតភ័យខ្លាចមួយចុះ ហើយរកកំណែដែលសប្បុរស និងប្រាកដនិយមជាងមុន ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍អស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Challenging limiting beliefs could bring a sense of freedom and possibility. You may discover you have more choices than you thought.",
+        "km": "ការចោទសួរជំនឿដែលកំណត់ព្រំដែន អាចនាំមកនូវអារម្មណ៍នៃសេរីភាព និងលទ្ធភាព។ អ្នកអាចរកឃើញថាអ្នកមានជម្រើសច្រើនជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Calming your mind before sleep may help you feel much better. A gentle wind-down routine could ease worry and improve rest.",
+        "km": "ការធ្វើឱ្យគំនិតស្ងប់មុនពេលគេង អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរច្រើន។ ទម្លាប់ត្រៀមខ្លួនចូលគេងដោយទន់ភ្លន់ អាចបន្ធូរការព្រួយបារម្ភ និងកែលម្អការសម្រាក។"
+      },
+      "challenge": {
+        "en": "Lying awake worrying could become an exhausting pattern. Try setting worries aside on paper as you wind down, and seek professional help if sleeplessness will not ease.",
+        "km": "ការដេកមិនលក់ដោយព្រួយបារម្ភ អាចក្លាយជាគំរូដែលធ្វើឱ្យហត់នឿយ។ សូមសាកល្បងដាក់ការព្រួយបារម្ភមួយឡែកនៅលើក្រដាស នៅពេលត្រៀមចូលគេង ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការដេកមិនលក់មិនព្រមធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "Better sleep habits could bring clearer thinking and calmer moods. You may wake feeling more rested, hopeful and ready to face what comes.",
+        "km": "ទម្លាប់គេងល្អជាងមុន អាចនាំមកនូវការគិតច្បាស់ជាងមុន និងអារម្មណ៍ស្ងប់ជាងមុន។ អ្នកអាចភ្ញាក់ពីដំណេកដោយមានអារម្មណ៍បានសម្រាក មានក្តីសង្ឃឹម និងត្រៀមខ្លួនប្រឈមមុខនឹងអ្វីដែលកើតឡើង។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A habit of asking for help in good time may protect you from reaching breaking point. Reaching out when things begin to feel heavy could prevent burnout.",
+        "km": "ទម្លាប់នៃការសុំជំនួយឱ្យទាន់ពេល អាចការពារអ្នកពីការឈានដល់ចំណុចបាក់បែក។ ការទាក់ទងនរណាម្នាក់ នៅពេលអ្វីៗចាប់ផ្តើមធ្ងន់ អាចការពារការអស់កម្លាំងខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Waiting until you collapse could make recovery much harder. Seek support, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ការរង់ចាំរហូតដល់អ្នកដួលរលំ អាចធ្វើឱ្យការងើបឡើងវិញពិបាកជាងមុនច្រើន។ សូមស្វែងរកការគាំទ្រ ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "A habit of reaching out could turn a low point into a turning point. With support around you, you may rebuild your strength on firmer ground.",
+        "km": "ទម្លាប់នៃការទាក់ទងសុំជំនួយ អាចប្រែចំណុចទាបទៅជាចំណុចបត់។ ដោយមានការគាំទ្រនៅជុំវិញអ្នក អ្នកអាចកសាងកម្លាំងរបស់អ្នកឡើងវិញលើដីដែលរឹងមាំជាងមុន។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Limiting news and screen use may help you feel calmer. Choosing what information you take in could protect your peace.",
+        "km": "ការកំណត់ព័ត៌មាន និងការប្រើអេក្រង់ អាចជួយអ្នកឱ្យមានអារម្មណ៍ស្ងប់ជាងមុន។ ការជ្រើសរើសព័ត៌មានដែលអ្នកទទួលយក អាចការពារសន្តិភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Constant checking of messages and news could keep you on edge. Set specific moments to check, and leave the rest of your routine screen-free.",
+        "km": "ការពិនិត្យសារ និងព័ត៌មានជានិច្ច អាចធ្វើឱ្យអ្នកតានតឹង។ សូមកំណត់គ្រាជាក់លាក់ដើម្បីពិនិត្យ ហើយទុកផ្នែកផ្សេងទៀតនៃទម្លាប់របស់អ្នកឱ្យគ្មានអេក្រង់។"
+      },
+      "outcome": {
+        "en": "Less screen use could bring calmer moods and better focus. You may notice more of the world, and the people, right around you.",
+        "km": "ការប្រើអេក្រង់តិចជាងមុន អាចនាំមកនូវអារម្មណ៍ស្ងប់ និងការផ្តោតល្អជាងមុន។ អ្នកអាចកត់សម្គាល់ពិភពលោក និងមនុស្សដែលនៅជុំវិញអ្នកបានច្រើនជាងមុន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Slowing down before acting may help you feel steadier. A few deep breaths before replying or deciding could prevent stress and mistakes.",
+        "km": "ការបន្ថយល្បឿនមុនពេលធ្វើសកម្មភាព អាចជួយអ្នកឱ្យមានអារម្មណ៍នឹងនរជាងមុន។ ការដកដង្ហើមជ្រៅៗពីរបីដង មុនពេលឆ្លើយតប ឬសម្រេចចិត្ត អាចការពារភាពតានតឹង និងកំហុស។"
+      },
+      "challenge": {
+        "en": "Rushing through your routine could keep your body in a state of alarm. Practise doing one thing slowly and fully, such as eating a meal without distractions.",
+        "km": "ការប្រញាប់ឆ្លងកាត់ទម្លាប់របស់អ្នក អាចធ្វើឱ្យរាងកាយរបស់អ្នកស្ថិតក្នុងស្ថានភាពប្រុងប្រយ័ត្ន។ សូមហាត់ធ្វើរឿងមួយដោយយឺតៗ និងពេញលេញ ដូចជាការញ៉ាំអាហារដោយគ្មានការរំខាន។"
+      },
+      "outcome": {
+        "en": "A slower pace could bring calm, clarity and better choices. You may feel more in control and less frazzled by everyday demands.",
+        "km": "ល្បឿនដែលយឺតជាងមុន អាចនាំមកនូវភាពស្ងប់ ភាពច្បាស់លាស់ និងជម្រើសល្អជាងមុន។ អ្នកអាចមានអារម្មណ៍គ្រប់គ្រងបានច្រើនជាងមុន និងមិនសូវច្របូកច្របល់ដោយការទាមទារប្រចាំថ្ងៃ។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "A habit of clear, honest self-talk may help you feel stronger. Naming what you need without apology could protect your wellbeing.",
+        "km": "ទម្លាប់នៃការនិយាយជាមួយខ្លួនឯងដោយច្បាស់លាស់ និងស្មោះត្រង់ អាចជួយអ្នកឱ្យមានអារម្មណ៍ខ្លាំងជាងមុន។ ការដាក់ឈ្មោះអ្វីដែលអ្នកត្រូវការ ដោយមិនចាំបាច់សុំទោស អាចការពារសុខុមាលភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Harsh inner criticism could wear down your confidence. Notice critical thoughts, and replace one with a fairer, kinder statement.",
+        "km": "ការរិះគន់ខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចធ្វើឱ្យទំនុកចិត្តរបស់អ្នកចុះខ្សោយ។ សូមកត់សម្គាល់គំនិតរិះគន់ ហើយជំនួសមួយដោយសេចក្តីថ្លែងដែលយុត្តិធម៌ និងសប្បុរសជាងមុន។"
+      },
+      "outcome": {
+        "en": "Honest, kind self-talk could bring clarity and self-respect. You may feel more confident in setting boundaries and asking for what you need.",
+        "km": "ការនិយាយជាមួយខ្លួនឯងដោយស្មោះត្រង់ និងសប្បុរស អាចនាំមកនូវភាពច្បាស់លាស់ និងការគោរពខ្លួនឯង។ អ្នកអាចមានទំនុកចិត្តជាងមុនក្នុងការកំណត់ព្រំដែន និងការស្នើសុំអ្វីដែលអ្នកត្រូវការ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "A habit of organising your routine with care may help you feel in control. A simple, well-planned routine with room for rest could reduce stress noticeably.",
+        "km": "ទម្លាប់នៃការរៀបចំទម្លាប់របស់អ្នកដោយយកចិត្តទុកដាក់ អាចជួយអ្នកឱ្យមានអារម្មណ៍គ្រប់គ្រងបាន។ ទម្លាប់សាមញ្ញ និងរៀបចំបានល្អ ដែលមានលំហសម្រាប់ការសម្រាក អាចកាត់បន្ថយភាពតានតឹងគួរឱ្យកត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Scheduling every moment could squeeze out rest and spontaneity. Leave some blank space in your plans, and protect it as carefully as any appointment.",
+        "km": "ការកំណត់កាលវិភាគគ្រប់គ្រា អាចច្របាច់ការសម្រាក និងភាពដោយឯកឯងចេញ។ សូមទុកលំហទទេខ្លះក្នុងផែនការរបស់អ្នក ហើយការពារវាដោយយកចិត្តទុកដាក់ដូចការណាត់ជួបណាមួយ។"
+      },
+      "outcome": {
+        "en": "Thoughtful organisation could bring calm and confidence. You may feel steady, well prepared and calmer about whatever comes up.",
+        "km": "ការរៀបចំដោយគិតគូរ អាចនាំមកនូវភាពស្ងប់ និងទំនុកចិត្ត។ អ្នកអាចមានអារម្មណ៍នឹងនរ ត្រៀមខ្លួនបានល្អ និងស្ងប់ជាងមុនចំពោះអ្វីក៏ដោយដែលកើតឡើង។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A small, practical health habit may be the best place to start. Drinking more water or eating one extra serving of vegetables could make a noticeable difference.",
+        "km": "ទម្លាប់សុខភាពតូច និងជាក់ស្តែងមួយ អាចជាកន្លែងល្អបំផុតដើម្បីចាប់ផ្តើម។ ការផឹកទឹកឱ្យបានច្រើនជាងមុន ឬការញ៉ាំបន្លែបន្ថែមមួយចាន អាចធ្វើឱ្យមានភាពខុសគ្នាគួរឱ្យកត់សម្គាល់។"
+      },
+      "challenge": {
+        "en": "Overlooking simple basics in favour of complicated plans could hold you back. Start with the easiest healthy change you can repeat.",
+        "km": "ការមើលរំលងមូលដ្ឋានសាមញ្ញៗ ដើម្បីផែនការស្មុគស្មាញ អាចរារាំងអ្នក។ សូមចាប់ផ្តើមជាមួយការផ្លាស់ប្តូរល្អដែលងាយបំផុត ដែលអ្នកអាចធ្វើម្តងទៀតបាន។"
+      },
+      "outcome": {
+        "en": "A grounded new habit could grow into a solid foundation for health. Small gains, repeated patiently, may add up to steady wellbeing.",
+        "km": "ទម្លាប់ថ្មីដែលនឹងនរ អាចរីកចម្រើនទៅជាមូលដ្ឋានរឹងមាំសម្រាប់សុខភាព។ ផលចំណេញតូចៗ ដែលធ្វើម្តងហើយម្តងទៀតដោយអត់ធ្មត់ អាចបូកបញ្ចូលគ្នាទៅជាសុខុមាលភាពនឹងនរ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "A habit of fitting small healthy actions into a busy routine may help. Stretching between tasks or walking during calls could keep you balanced.",
+        "km": "ទម្លាប់នៃការបញ្ចូលសកម្មភាពល្អតូចៗក្នុងទម្លាប់មមាញឹក អាចជួយបាន។ ការលាតសន្ធឹងខ្លួនរវាងកិច្ចការ ឬការដើរពេលនិយាយទូរស័ព្ទ អាចរក្សាអ្នកឱ្យមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Dropping good habits whenever your schedule fills up could leave you running on empty. Shrink the habit rather than skipping it, like a short stretch instead of a full workout.",
+        "km": "ការទម្លាក់ទម្លាប់ល្អៗ រាល់ពេលកាលវិភាគរបស់អ្នកពេញ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមបង្រួមទម្លាប់នោះ ជាជាងរំលងវា ដូចជាការលាតសន្ធឹងខ្លួនបន្តិច ជំនួសឱ្យការហាត់ប្រាណពេញលេញ។"
+      },
+      "outcome": {
+        "en": "Flexible habits could help you stay well through changing demands. Balance may feel easier to keep when good habits fit around your life.",
+        "km": "ទម្លាប់ដែលបត់បែន អាចជួយអ្នករក្សាសុខភាពល្អ ឆ្លងកាត់ការទាមទារដែលប្រែប្រួល។ តុល្យភាពអាចមានអារម្មណ៍ងាយរក្សាជាងមុន នៅពេលទម្លាប់ល្អៗសមនឹងជីវិតរបស់អ្នក។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Exercising or cooking with others may help you stick with good habits. Shared activities, like a walking group or cooking together, could make healthy habits more enjoyable.",
+        "km": "ការហាត់ប្រាណ ឬការចម្អិនម្ហូបជាមួយអ្នកដទៃ អាចជួយអ្នករក្សាទម្លាប់ល្អៗបាន។ សកម្មភាពរួមគ្នា ដូចជាក្រុមដើរ ឬការចម្អិនម្ហូបជាមួយគ្នា អាចធ្វើឱ្យទម្លាប់ល្អៗរីករាយជាងមុន។"
+      },
+      "challenge": {
+        "en": "Trying to change everything alone could make it harder. Find a partner or group who will cheer you on and notice if you slip.",
+        "km": "ការព្យាយាមផ្លាស់ប្តូរអ្វីៗទាំងអស់តែម្នាក់ឯង អាចធ្វើឱ្យវាពិបាកជាងមុន។ សូមរកដៃគូ ឬក្រុមដែលនឹងលើកទឹកចិត្តអ្នក និងកត់សម្គាល់ប្រសិនបើអ្នករំលង។"
+      },
+      "outcome": {
+        "en": "Teamwork could make healthy habits easier to keep. You may enjoy the process more with company, and keep going more easily.",
+        "km": "ការងារជាក្រុម អាចធ្វើឱ្យទម្លាប់ល្អៗងាយរក្សាជាងមុន។ អ្នកអាចរីករាយនឹងដំណើរការច្រើនជាងមុន នៅពេលមានមិត្តរួមដំណើរ ហើយបន្តទៅមុខបានងាយជាងមុន។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "A habit of knowing where you stand with money may ease a hidden source of worry. Glancing over your spending regularly could give you more peace of mind.",
+        "km": "ទម្លាប់នៃការដឹងពីស្ថានភាពប្រាក់របស់អ្នក អាចបន្ធូរប្រភពលាក់កំបាំងនៃការព្រួយបារម្ភ។ ការពិនិត្យការចំណាយរបស់អ្នកជាប្រចាំ អាចផ្តល់សេចក្តីសុខក្នុងចិត្តកាន់តែច្រើន។"
+      },
+      "challenge": {
+        "en": "Avoiding your accounts could let money worry grow in the background. Look at the figures calmly, and talk to a qualified adviser if they feel overwhelming.",
+        "km": "ការគេចពីគណនីរបស់អ្នក អាចធ្វើឱ្យការព្រួយបារម្ភអំពីប្រាក់កើនឡើងនៅពីក្រោយ។ សូមមើលតួលេខដោយស្ងប់ ហើយនិយាយជាមួយទីប្រឹក្សាដែលមានលក្ខណៈសម្បត្តិ ប្រសិនបើវាហាក់ធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "A sense of financial order could bring calm and security. You may relax more and sleep better as money worries ease.",
+        "km": "អារម្មណ៍នៃសណ្តាប់ធ្នាប់ផ្នែកហិរញ្ញវត្ថុ អាចនាំមកនូវភាពស្ងប់ និងសុវត្ថិភាព។ អ្នកអាចសម្រាកបានច្រើនជាងមុន និងគេងល្អជាងមុន នៅពេលការព្រួយបារម្ភអំពីប្រាក់ធូរស្រាល។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "A habit of reaching out for support during hard times may help most. Regularly connecting with friends or community could ease hardship.",
+        "km": "ទម្លាប់នៃការស្វែងរកការគាំទ្រក្នុងគ្រាលំបាក អាចជួយបានច្រើនបំផុត។ ការភ្ជាប់ទំនាក់ទំនងជាមួយមិត្តភក្តិ ឬសហគមន៍ជាប្រចាំ អាចបន្ធូរភាពលំបាក។"
+      },
+      "challenge": {
+        "en": "Struggling alone could deepen stress and isolation. Accept help, and contact a doctor or support services when you need them.",
+        "km": "ការតស៊ូតែម្នាក់ឯង អាចធ្វើឱ្យភាពតានតឹង និងភាពឯកោកាន់តែជ្រៅ។ សូមទទួលយកជំនួយ ហើយទាក់ទងវេជ្ជបណ្ឌិត ឬសេវាគាំទ្រ នៅពេលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Regular support could ease hardship and bring warmth. You may feel less alone, more resilient and better able to cope.",
+        "km": "ការគាំទ្រជាប្រចាំ អាចបន្ធូរភាពលំបាក និងនាំមកនូវភាពកក់ក្តៅ។ អ្នកអាចមានអារម្មណ៍មិនសូវឯកោ ធន់ជាងមុន និងអាចទប់ទល់បានល្អជាងមុន។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Small acts of kindness may lift your mood. Helping someone in a modest way could bring a sense of purpose and joy.",
+        "km": "សកម្មភាពសប្បុរសតូចៗ អាចលើកអារម្មណ៍របស់អ្នក។ ការជួយនរណាម្នាក់ក្នុងរបៀបសាមញ្ញ អាចនាំមកនូវអារម្មណ៍នៃគោលបំណង និងសេចក្តីរីករាយ។"
+      },
+      "challenge": {
+        "en": "Giving beyond your means could leave you drained. Keep your generosity within healthy limits, so kindness never costs your own wellbeing.",
+        "km": "ការផ្តល់ហួសពីលទ្ធភាពរបស់អ្នក អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមរក្សាភាពសប្បុរសរបស់អ្នកក្នុងដែនកំណត់ដែលមានសុខភាពល្អ ដើម្បីកុំឱ្យសេចក្តីសប្បុរសធ្វើឱ្យសុខុមាលភាពរបស់អ្នកខាតបង់។"
+      },
+      "outcome": {
+        "en": "Balanced kindness could bring warmth and connection. You may feel happier, more connected and more fulfilled in ordinary life.",
+        "km": "សេចក្តីសប្បុរសដែលមានតុល្យភាព អាចនាំមកនូវភាពកក់ក្តៅ និងការភ្ជាប់ទំនាក់ទំនង។ អ្នកអាចមានអារម្មណ៍សប្បាយ ភ្ជាប់ទំនាក់ទំនង និងពេញចិត្តជាងមុន ក្នុងជីវិតធម្មតា។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Tracking small improvements may keep you motivated. Noting how you feel could show progress you might otherwise miss.",
+        "km": "ការតាមដានការកែលម្អតូចៗ អាចរក្សាការលើកទឹកចិត្តរបស់អ្នក។ ការកត់ត្រាថាអ្នកមានអារម្មណ៍យ៉ាងណា អាចបង្ហាញវឌ្ឍនភាពដែលអ្នកប្រហែលជាមើលរំលង។"
+      },
+      "challenge": {
+        "en": "Expecting dramatic changes could make you give up before the habit takes hold. Trust that small, steady habits do their work quietly, step by step.",
+        "km": "ការរំពឹងការផ្លាស់ប្តូរធំៗ អាចធ្វើឱ្យអ្នកបោះបង់ មុនពេលទម្លាប់នោះចាក់ឫស។ សូមទុកចិត្តថាទម្លាប់តូចៗ និងនឹងនរ ធ្វើការរបស់វាដោយស្ងាត់ៗ មួយជំហានម្តងៗ។"
+      },
+      "outcome": {
+        "en": "Patient effort could bring real, visible results. More energy, better sleep or a brighter mood may reward you for sticking with it.",
+        "km": "កិច្ចខិតខំដោយអត់ធ្មត់ អាចនាំមកនូវលទ្ធផលពិតប្រាកដ និងមើលឃើញ។ ថាមពលច្រើនជាងមុន ការគេងល្អជាងមុន ឬអារម្មណ៍ភ្លឺស្វាងជាងមុន អាចជារង្វាន់សម្រាប់ការប្រកាន់ខ្ជាប់វា។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Focused, hands-on activity may help you feel better. Crafting, cooking or fixing something with your hands could calm a busy mind.",
+        "km": "សកម្មភាពផ្តោត និងប្រើដៃ អាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។ សិប្បកម្ម ការចម្អិនម្ហូប ឬការជួសជុលអ្វីមួយដោយដៃរបស់អ្នក អាចធ្វើឱ្យគំនិតមមាញឹកស្ងប់។"
+      },
+      "challenge": {
+        "en": "Perfectionism could turn a relaxing hobby into stress. Enjoy the process, mistakes included, rather than chasing perfect results.",
+        "km": "ការចង់បានភាពល្អឥតខ្ចោះ អាចប្រែចំណូលចិត្តដែលធ្វើឱ្យសម្រាក ទៅជាភាពតានតឹង។ សូមរីករាយនឹងដំណើរការ រួមទាំងកំហុសផង ជាជាងដេញតាមលទ្ធផលល្អឥតខ្ចោះ។"
+      },
+      "outcome": {
+        "en": "Absorbing practical work could bring calm and satisfaction. Your skills may grow along with your sense of wellbeing.",
+        "km": "ការងារជាក់ស្តែងដែលទាក់ទាញចិត្ត អាចនាំមកនូវភាពស្ងប់ និងសេចក្តីពេញចិត្ត។ ជំនាញរបស់អ្នកអាចរីកចម្រើន រួមជាមួយអារម្មណ៍សុខុមាលភាពរបស់អ្នក។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "A habit of enjoying quiet moments in your own space may lift your mood. Reading, gardening or resting at home could restore your sense of ease.",
+        "km": "ទម្លាប់នៃការរីករាយនឹងភាពស្ងប់ស្ងាត់ក្នុងកន្លែងផ្ទាល់ខ្លួន អាចលើកអារម្មណ៍របស់អ្នក។ ការអាន ការថែសួន ឬការសម្រាកនៅផ្ទះ អាចស្តារអារម្មណ៍ស្រួលរបស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Keeping so busy that you never enjoy your home could leave you drained. Make space to relax in the comfort you have created for yourself.",
+        "km": "ការរវល់ពេករហូតមិនដែលរីករាយនឹងផ្ទះរបស់អ្នក អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមទុកលំហដើម្បីសម្រាកក្នុងភាពសុខស្រួលដែលអ្នកបានបង្កើតសម្រាប់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Enjoying your own comforts could bring deep contentment and calm. Your home may become a place that truly restores you.",
+        "km": "ការរីករាយនឹងភាពសុខស្រួលរបស់អ្នក អាចនាំមកនូវសេចក្តីពេញចិត្ត និងភាពស្ងប់ដ៏ជ្រាលជ្រៅ។ ផ្ទះរបស់អ្នកអាចក្លាយជាកន្លែងដែលពិតជាស្តារកម្លាំងអ្នក។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "A habit of regular family rituals may help you feel grounded. A shared meal or regular gathering could strengthen your sense of belonging.",
+        "km": "ទម្លាប់នៃពិធីគ្រួសារជាប្រចាំ អាចជួយអ្នកឱ្យមានអារម្មណ៍នឹងនរ។ អាហាររួមគ្នា ឬការជួបជុំជាប្រចាំ អាចពង្រឹងអារម្មណ៍ជាប់ចំណងរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Family duties could leave no space for your own needs. Build a small personal habit, like a quiet cup of tea, into your family routine.",
+        "km": "កាតព្វកិច្ចគ្រួសារ អាចមិនទុកលំហសម្រាប់តម្រូវការរបស់អ្នក។ សូមបញ្ចូលទម្លាប់ផ្ទាល់ខ្លួនតូចមួយ ដូចជាតែមួយពែងដោយស្ងប់ ក្នុងទម្លាប់គ្រួសាររបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Shared rituals could bring stability and warmth. You may feel rooted, supported and glad to come home.",
+        "km": "ពិធីរួមគ្នា អាចនាំមកនូវស្ថិរភាព និងភាពកក់ក្តៅ។ អ្នកអាចមានអារម្មណ៍ចាក់ឫស ត្រូវបានគាំទ្រ និងរីករាយក្នុងការត្រឡប់មកផ្ទះ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A habit of learning about health in small, practical steps may help. Trying one new healthy recipe or exercise could build knowledge and confidence.",
+        "km": "ទម្លាប់នៃការរៀនអំពីសុខភាព ជាជំហានតូចៗ និងជាក់ស្តែង អាចជួយបាន។ ការសាកល្បងម្ហូបមានសុខភាពល្អ ឬលំហាត់ប្រាណថ្មីមួយ អាចកសាងចំណេះដឹង និងទំនុកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Reading about health without trying anything could keep things unchanged. Put one idea into practice, and notice how your body responds to it.",
+        "km": "ការអានអំពីសុខភាពដោយមិនសាកល្បងអ្វីសោះ អាចរក្សាអ្វីៗឱ្យនៅដដែល។ សូមយកគំនិតមួយទៅអនុវត្ត ហើយកត់សម្គាល់ថារាងកាយរបស់អ្នកឆ្លើយតបនឹងវាយ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Steady learning could build habits that last. Small successes in the kitchen or on a walk may grow your confidence.",
+        "km": "ការរៀនសូត្រនឹងនរ អាចកសាងទម្លាប់ដែលនៅជាប់។ ជោគជ័យតូចៗក្នុងផ្ទះបាយ ឬក្នុងការដើរ អាចបង្កើនទំនុកចិត្តរបស់អ្នក។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "A habit of doing the same healthy thing at the same point in your routine may suit you. Consistency, like a walk after meals, could make good habits automatic.",
+        "km": "ទម្លាប់នៃការធ្វើរឿងល្អដដែលនៅចំណុចដដែលក្នុងទម្លាប់របស់អ្នក អាចសមនឹងអ្នក។ ភាពជាប់លាប់ ដូចជាការដើរក្រោយអាហារ អាចធ្វើឱ្យទម្លាប់ល្អៗក្លាយជាស្វ័យប្រវត្តិ។"
+      },
+      "challenge": {
+        "en": "A rigid routine could become boring and easy to drop. Vary the details, like the route or the music, while keeping the habit itself steady.",
+        "km": "ទម្លាប់តឹងរ៉ឹង អាចក្លាយជាគួរឱ្យធុញ និងងាយបោះបង់។ សូមប្តូរព័ត៌មានលម្អិត ដូចជាផ្លូវ ឬតន្ត្រី ខណៈរក្សាទម្លាប់ខ្លួនវាឱ្យនឹងនរ។"
+      },
+      "outcome": {
+        "en": "Consistent habits could bring dependable energy and calm. You may find good choices becoming second nature, needing little willpower at all.",
+        "km": "ទម្លាប់ជាប់លាប់ អាចនាំមកនូវថាមពល និងភាពស្ងប់ដែលគួរទុកចិត្ត។ អ្នកអាចរកឃើញថាជម្រើសល្អៗកំពុងក្លាយជាធម្មជាតិទីពីរ ដែលស្ទើរតែមិនត្រូវការឆន្ទៈអ្វីសោះ។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Preparing nourishing food may be the habit that helps you most. Cooking simple, wholesome meals could support your energy and mood.",
+        "km": "ការរៀបចំអាហារមានជីវជាតិ អាចជាទម្លាប់ដែលជួយអ្នកបានច្រើនបំផុត។ ការចម្អិនអាហារសាមញ្ញ និងមានជីវជាតិ អាចគាំទ្រថាមពល និងអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Feeding everyone else while skipping meals yourself could leave you depleted. Sit down and eat properly too, rather than finishing leftovers on your feet.",
+        "km": "ការផ្តល់អាហារដល់អ្នកដទៃ ខណៈរំលងអាហាររបស់ខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមអង្គុយញ៉ាំឱ្យបានត្រឹមត្រូវផងដែរ ជាជាងញ៉ាំអាហារសល់ពីអ្នកដទៃខណៈកំពុងឈរ។"
+      },
+      "outcome": {
+        "en": "Nourishing habits could bring steady energy and warmth. Your home may feel more comforting, and your body better cared for.",
+        "km": "ទម្លាប់ចិញ្ចឹមខ្លួន អាចនាំមកនូវថាមពលនឹងនរ និងភាពកក់ក្តៅ។ ផ្ទះរបស់អ្នកអាចមានអារម្មណ៍លួងលោមជាងមុន ហើយរាងកាយរបស់អ្នកត្រូវបានថែរក្សាបានល្អជាងមុន។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "A habit of looking after the practical side of life may ease your mind. Keeping your home and paperwork in order could reduce stress.",
+        "km": "ទម្លាប់នៃការមើលថែផ្នែកជាក់ស្តែងនៃជីវិត អាចធ្វើឱ្យចិត្តរបស់អ្នកស្រួល។ ការរក្សាផ្ទះ និងឯកសាររបស់អ្នកឱ្យមានរបៀប អាចកាត់បន្ថយភាពតានតឹង។"
+      },
+      "challenge": {
+        "en": "Letting paperwork and chores pile up could become a quiet source of stress. Spend a little effort on them regularly so they never become a mountain.",
+        "km": "ការទុកឱ្យឯកសារ និងការងារផ្ទះគរឡើង អាចក្លាយជាប្រភពស្ងាត់ៗនៃភាពតានតឹង។ សូមចំណាយកិច្ចខិតខំបន្តិចលើវាជាប្រចាំ ដើម្បីកុំឱ្យវាក្លាយជាភ្នំ។"
+      },
+      "outcome": {
+        "en": "Practical order could bring calm and security. You may enjoy a more settled, comfortable life with fewer nagging worries.",
+        "km": "សណ្តាប់ធ្នាប់ជាក់ស្តែង អាចនាំមកនូវភាពស្ងប់ និងសុវត្ថិភាព។ អ្នកអាចរីករាយនឹងជីវិតដែលនឹងនរ និងសុខស្រួលជាងមុន ជាមួយការព្រួយបារម្ភដែលរំខានតិចជាងមុន។"
+      }
+    }
+  }
+}

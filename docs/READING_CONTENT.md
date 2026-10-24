@@ -67,6 +67,7 @@
 | `src/content/readings/WB-02.json` | How can I find more peace in my daily life? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/WB-03.json` | What is draining my energy? | 78 cards × 3 positions, English and Khmer (obstacle) |
 | `src/content/readings/WB-04.json` | How can I take better care of myself? | 78 cards × 3 positions, English and Khmer (how) |
+| `src/content/readings/WB-05.json` | What habit would help me feel better? | 78 cards × 3 positions, English and Khmer (how) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.
