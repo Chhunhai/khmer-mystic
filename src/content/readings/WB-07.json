@@ -1,0 +1,1097 @@
+{
+  "questionId": "WB-07",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "You may be clinging to the need to know exactly where everything leads. That desire for certainty could be holding you back from a fresh start.",
+        "km": "អ្នកប្រហែលជាកំពុងប្រកាន់ខ្ជាប់តម្រូវការចង់ដឹងឱ្យច្បាស់ថាអ្វីៗនាំទៅណា។ បំណងចង់បានភាពប្រាកដប្រជានោះ អាចកំពុងរារាំងអ្នកពីការចាប់ផ្តើមថ្មី។"
+      },
+      "challenge": {
+        "en": "The need for a guaranteed outcome could keep you frozen. Let go of certainty, and allow yourself to take one step without the full map.",
+        "km": "តម្រូវការចង់បានលទ្ធផលដែលធានា អាចធ្វើឱ្យអ្នកកកស្ទះ។ សូមលែងប្រកាន់ភាពប្រាកដប្រជា ហើយអនុញ្ញាតឱ្យខ្លួនឯងបោះជំហានមួយដោយគ្មានផែនទីពេញលេញ។"
+      },
+      "outcome": {
+        "en": "Releasing the need for certainty could open the door to new experiences. Life may feel lighter and more full of possibility.",
+        "km": "ការលែងប្រកាន់តម្រូវការចង់បានភាពប្រាកដប្រជា អាចបើកទ្វារទៅរកបទពិសោធន៍ថ្មីៗ។ ជីវិតអាចមានអារម្មណ៍ស្រាល និងពោរពេញដោយលទ្ធភាពជាងមុន។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may be holding tightly to the idea that everything depends on you. Believing you must make every outcome happen could be exhausting you.",
+        "km": "អ្នកប្រហែលជាកំពុងកាន់យ៉ាងតឹងនូវគំនិតថាអ្វីៗទាំងអស់ពឹងផ្អែកលើអ្នក។ ការជឿថាអ្នកត្រូវតែធ្វើឱ្យលទ្ធផលនីមួយៗកើតឡើង អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Clinging to control over every detail could wear you down. Let go of the belief that you must manage everything yourself.",
+        "km": "ការប្រកាន់ខ្ជាប់ការគ្រប់គ្រងលើគ្រប់ព័ត៌មានលម្អិត អាចធ្វើឱ្យអ្នកចុះខ្សោយ។ សូមលែងប្រកាន់ជំនឿថាអ្នកត្រូវតែគ្រប់គ្រងអ្វីៗទាំងអស់ដោយខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Releasing the need to control could free your energy for what truly matters. You may find others step up when you step back.",
+        "km": "ការលែងប្រកាន់តម្រូវការចង់គ្រប់គ្រង អាចដោះលែងថាមពលរបស់អ្នកសម្រាប់អ្វីដែលពិតជាសំខាន់។ អ្នកអាចរកឃើញថាអ្នកដទៃក្រោកឈរទទួលខុសត្រូវ នៅពេលអ្នកថយក្រោយ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "You may be holding on to doubts about your own intuition. Second-guessing what you sense could be keeping you uneasy.",
+        "km": "អ្នកប្រហែលជាកំពុងប្រកាន់ខ្ជាប់ការសង្ស័យលើវិចារណញាណរបស់ខ្លួនឯង។ ការសង្ស័យម្តងហើយម្តងទៀតលើអ្វីដែលអ្នកដឹង អាចកំពុងធ្វើឱ្យអ្នកមិនស្រួលចិត្ត។"
+      },
+      "challenge": {
+        "en": "Ignoring your inner voice in favour of outside opinions could leave you confused. Let go of the need for others to confirm what you already know.",
+        "km": "ការមិនអើពើនឹងសំឡេងក្នុងចិត្ត ដើម្បីមតិពីខាងក្រៅ អាចធ្វើឱ្យអ្នកច្របូកច្របល់។ សូមលែងប្រកាន់តម្រូវការឱ្យអ្នកដទៃបញ្ជាក់នូវអ្វីដែលអ្នកដឹងរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Trusting yourself could bring calm and clarity. Your inner knowing may guide you more reliably than the noise of other people's opinions.",
+        "km": "ការទុកចិត្តលើខ្លួនឯង អាចនាំមកនូវភាពស្ងប់ និងភាពច្បាស់លាស់។ ការដឹងពីខាងក្នុងរបស់អ្នក អាចណែនាំអ្នកបានគួរទុកចិត្តជាងសំឡេងនៃមតិរបស់អ្នកដទៃ។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "You may be holding on to the role of caretaker for everyone. Always being the one who gives could be leaving your own needs unmet.",
+        "km": "អ្នកប្រហែលជាកំពុងប្រកាន់ខ្ជាប់តួនាទីជាអ្នកមើលថែសម្រាប់គ្រប់គ្នា។ ការធ្វើជាអ្នកផ្តល់ជានិច្ច អាចកំពុងធ្វើឱ្យតម្រូវការរបស់អ្នកមិនត្រូវបានបំពេញ។"
+      },
+      "challenge": {
+        "en": "The need to be needed could leave you depleted. Let go of guilt about receiving care, and allow others to nurture you too.",
+        "km": "តម្រូវការចង់ឱ្យគេត្រូវការ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមលែងប្រកាន់អារម្មណ៍ទោសកំហុសអំពីការទទួលការថែរក្សា ហើយអនុញ្ញាតឱ្យអ្នកដទៃថែរក្សាអ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Letting others care for you could bring a new sense of abundance. You may feel nourished, supported and less alone in carrying the load.",
+        "km": "ការអនុញ្ញាតឱ្យអ្នកដទៃមើលថែអ្នក អាចនាំមកនូវអារម្មណ៍ថ្មីនៃភាពបរិបូរណ៍។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានចិញ្ចឹមចិត្ត គាំទ្រ និងមិនសូវឯកោក្នុងការទទួលបន្ទុក។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Rigid rules about how things should be done may be weighing on you. A need for order could have tipped into strictness with yourself.",
+        "km": "ច្បាប់តឹងរ៉ឹងអំពីរបៀបដែលអ្វីៗគួរត្រូវបានធ្វើ អាចកំពុងសង្កត់លើអ្នក។ តម្រូវការសណ្តាប់ធ្នាប់ អាចបានប្រែទៅជាភាពតឹងរ៉ឹងចំពោះខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Strict standards could leave you tense and unforgiving. Let go of rules that no longer serve your wellbeing.",
+        "km": "ស្តង់ដារតឹងរ៉ឹង អាចធ្វើឱ្យអ្នកតានតឹង និងមិនអភ័យទោស។ សូមលែងប្រកាន់ច្បាប់ដែលលែងបម្រើសុខុមាលភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Loosening rigid rules could bring ease and flexibility. You may find a kind of structure that supports rather than confines you.",
+        "km": "ការបន្ធូរច្បាប់តឹងរ៉ឹង អាចនាំមកនូវភាពស្រួល និងភាពបត់បែន។ អ្នកអាចរកឃើញរចនាសម្ព័ន្ធមួយប្រភេទដែលគាំទ្រ ជាជាងចងអ្នក។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "Rules you inherited about how a good person should live may be pressing on you. Doing things only because you were taught to could be costing you peace.",
+        "km": "ច្បាប់ដែលអ្នកទទួលបន្តអំពីរបៀបដែលមនុស្សល្អគួររស់នៅ អាចកំពុងសង្កត់លើអ្នក។ ការធ្វើអ្វីៗគ្រាន់តែព្រោះអ្នកត្រូវបានបង្រៀនឱ្យធ្វើ អាចកំពុងធ្វើឱ្យអ្នកបាត់បង់សន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Beliefs that no longer fit could keep you from growing. Let go of obligations you have outgrown, while keeping the values that still nourish you.",
+        "km": "ជំនឿដែលលែងសម អាចរារាំងអ្នកពីការរីកចម្រើន។ សូមលែងប្រកាន់កាតព្វកិច្ចដែលអ្នកបានរីកចម្រើនហួស ខណៈរក្សាគុណតម្លៃដែលនៅតែចិញ្ចឹមចិត្តអ្នក។"
+      },
+      "outcome": {
+        "en": "Choosing your own path could bring a sense of freedom and authenticity. You may keep what is meaningful and release the rest.",
+        "km": "ការជ្រើសផ្លូវផ្ទាល់ខ្លួន អាចនាំមកនូវអារម្មណ៍នៃសេរីភាព និងភាពពិតប្រាកដ។ អ្នកអាចរក្សាអ្វីដែលមានអត្ថន័យ ហើយលែងប្រកាន់អ្វីដែលនៅសល់។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "A relationship or choice that no longer feels right may be weighing on you. Uncertainty about what you truly want could be holding you in place.",
+        "km": "ទំនាក់ទំនង ឬជម្រើសមួយដែលលែងមានអារម្មណ៍ត្រឹមត្រូវ អាចកំពុងសង្កត់លើអ្នក។ ភាពមិនប្រាកដអំពីអ្វីដែលអ្នកពិតជាចង់បាន អាចកំពុងរក្សាអ្នកឱ្យនៅនឹងកន្លែង។"
+      },
+      "challenge": {
+        "en": "Holding on to something out of fear of being alone could block your happiness. Let go of what no longer aligns with your values.",
+        "km": "ការប្រកាន់ខ្ជាប់អ្វីមួយដោយសារការភ័យខ្លាចនៅម្នាក់ឯង អាចរារាំងសុភមង្គលរបស់អ្នក។ សូមលែងប្រកាន់អ្វីដែលលែងស្របនឹងគុណតម្លៃរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Releasing what does not fit could make room for truer connection. Choices made from the heart may bring a deep and settled peace.",
+        "km": "ការលែងប្រកាន់អ្វីដែលមិនសម អាចទុកលំហសម្រាប់ការភ្ជាប់ទំនាក់ទំនងដែលពិតជាងមុន។ ជម្រើសដែលធ្វើចេញពីចិត្ត អាចនាំមកនូវសន្តិភាពដ៏ជ្រាលជ្រៅ និងនឹងនរ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "A need to push forward at all costs may be driving you too hard. Holding on to a goal too tightly could be exhausting you.",
+        "km": "តម្រូវការចង់រុញទៅមុខមិនថាតម្លៃប៉ុណ្ណា អាចកំពុងជំរុញអ្នកខ្លាំងពេក។ ការកាន់គោលដៅមួយតឹងពេក អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Refusing to adjust your course could lead to burnout. Let go of the need to win every battle, and rest when you need to.",
+        "km": "ការបដិសេធមិនកែសម្រួលទិសដៅរបស់អ្នក អាចនាំឱ្យអស់កម្លាំងខ្លាំង។ សូមលែងប្រកាន់តម្រូវការចង់ឈ្នះគ្រប់ការតស៊ូ ហើយសម្រាកនៅពេលអ្នកត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Releasing the need to force things could bring calmer, steadier progress. You may still reach your goals, with far less strain and more joy along the way.",
+        "km": "ការលែងប្រកាន់តម្រូវការចង់បង្ខំអ្វីៗ អាចនាំមកនូវវឌ្ឍនភាពដែលស្ងប់ និងនឹងនរជាងមុន។ អ្នកនៅតែអាចឈានដល់គោលដៅរបស់អ្នក ដោយកម្លាំងតិចជាងមុនច្រើន និងសេចក្តីរីករាយច្រើនជាងមុនតាមផ្លូវ។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Suppressed anger or frustration may be quietly weighing on you. Trying to stay strong by holding everything in could be costing you.",
+        "km": "កំហឹង ឬការខកចិត្តដែលត្រូវបានទប់ អាចកំពុងសង្កត់លើអ្នកដោយស្ងាត់ៗ។ ការព្យាយាមរក្សាភាពរឹងមាំដោយការទប់អ្វីៗទាំងអស់ អាចកំពុងធ្វើឱ្យអ្នកខាត។"
+      },
+      "challenge": {
+        "en": "The need to appear strong could keep pain locked inside. Let go of the idea that showing feelings is weakness.",
+        "km": "តម្រូវការចង់ហាក់រឹងមាំ អាចចាក់សោការឈឺចាប់ទុកក្នុងចិត្ត។ សូមលែងប្រកាន់គំនិតថាការបង្ហាញអារម្មណ៍គឺជាភាពទន់ខ្សោយ។"
+      },
+      "outcome": {
+        "en": "Gently releasing what you have held in could bring relief and real strength. You may feel lighter, more at ease and more truly yourself.",
+        "km": "ការបញ្ចេញដោយទន់ភ្លន់នូវអ្វីដែលអ្នកបានទប់ អាចនាំមកនូវការធូរស្រាល និងកម្លាំងពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍ស្រាល ស្រួល និងជាខ្លួនឯងពិតប្រាកដជាងមុន។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Being alone with your thoughts too much may be keeping you stuck. Isolation that once felt safe could be quietly holding you back from support.",
+        "km": "ការនៅម្នាក់ឯងជាមួយគំនិតរបស់អ្នកច្រើនពេក អាចកំពុងធ្វើឱ្យអ្នកជាប់គាំង។ ភាពឯកោដែលធ្លាប់មានអារម្មណ៍សុវត្ថិភាព អាចកំពុងរារាំងអ្នកដោយស្ងាត់ៗពីការគាំទ្រ។"
+      },
+      "challenge": {
+        "en": "Holding on to solitude out of fear of others could leave you lonely. Let go of the walls you have built, with one small connection after another.",
+        "km": "ការប្រកាន់ខ្ជាប់ភាពឯកោដោយសារការភ័យខ្លាចអ្នកដទៃ អាចធ្វើឱ្យអ្នកឯកា។ សូមលែងប្រកាន់ជញ្ជាំងដែលអ្នកបានសង់ ដោយការភ្ជាប់ទំនាក់ទំនងតូចៗម្តងមួយៗ។"
+      },
+      "outcome": {
+        "en": "Opening up gently could bring warmth and fresh perspective. You may find support and friendship you had stopped expecting.",
+        "km": "ការបើកចិត្តដោយទន់ភ្លន់ អាចនាំមកនូវភាពកក់ក្តៅ និងទស្សនៈថ្មី។ អ្នកអាចរកឃើញការគាំទ្រ និងមិត្តភាពដែលអ្នកលែងរំពឹងទុក។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Resisting changes you cannot control may be weighing on you. Wishing things would stay the same could be causing frustration.",
+        "km": "ការទប់ទល់នឹងការផ្លាស់ប្តូរដែលអ្នកមិនអាចគ្រប់គ្រង អាចកំពុងសង្កត់លើអ្នក។ ការប្រាថ្នាឱ្យអ្វីៗនៅដដែល អាចកំពុងបង្កការខកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Clinging to how things used to be could keep you stuck. Let go of the past and accept the turn that life has taken.",
+        "km": "ការប្រកាន់ខ្ជាប់របៀបដែលអ្វីៗធ្លាប់មាន អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមលែងប្រកាន់អតីតកាល ហើយទទួលយកការបត់ដែលជីវិតបានយក។"
+      },
+      "outcome": {
+        "en": "Accepting change could bring a lighter, more flexible outlook. A new opportunity may appear once you stop resisting.",
+        "km": "ការទទួលយកការផ្លាស់ប្តូរ អាចនាំមកនូវទស្សនៈស្រាល និងបត់បែនជាងមុន។ ឱកាសថ្មីអាចលេចឡើង នៅពេលអ្នកឈប់ទប់ទល់។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A sense of unfairness or blame may be weighing on your mind. Keeping score of who wronged whom could be draining your peace.",
+        "km": "អារម្មណ៍នៃភាពអយុត្តិធម៌ ឬការបន្ទោស អាចកំពុងសង្កត់លើគំនិតរបស់អ្នក។ ការរាប់ថានរណាធ្វើខុសចំពោះនរណា អាចកំពុងបង្ហូរសន្តិភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding on to blame, of yourself or others, could keep you stuck in the past. Let go of keeping score, and focus on what you can change.",
+        "km": "ការប្រកាន់ខ្ជាប់ការបន្ទោស ទាំងខ្លួនឯង ឬអ្នកដទៃ អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងអតីតកាល។ សូមលែងប្រកាន់ការរាប់ពិន្ទុ ហើយផ្តោតលើអ្វីដែលអ្នកអាចផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Releasing blame could bring balance and inner calm. You may feel lighter and more at peace with what happened.",
+        "km": "ការលែងប្រកាន់ការបន្ទោស អាចនាំមកនូវតុល្យភាព និងភាពស្ងប់ក្នុងចិត្ត។ អ្នកអាចមានអារម្មណ៍ស្រាល និងស្ងប់ជាមួយអ្វីដែលបានកើតឡើងជាងមុន។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Waiting for something to change before you move on may be keeping you stuck. A sense of being on hold could be weighing on you.",
+        "km": "ការរង់ចាំឱ្យអ្វីមួយផ្លាស់ប្តូរ មុនពេលអ្នកបន្តទៅមុខ អាចកំពុងធ្វើឱ្យអ្នកជាប់គាំង។ អារម្មណ៍ថាត្រូវបានផ្អាក អាចកំពុងសង្កត់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "Clinging to a situation in the hope it will improve by itself could cost you dearly. Let go of waiting, and make one small choice of your own.",
+        "km": "ការប្រកាន់ខ្ជាប់ស្ថានភាពមួយ ដោយសង្ឃឹមថាវានឹងប្រសើរឡើងដោយខ្លួនឯង អាចធ្វើឱ្យអ្នកខាតច្រើន។ សូមលែងប្រកាន់ការរង់ចាំ ហើយធ្វើជម្រើសតូចមួយរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Releasing the wait could bring fresh perspective and momentum. You may see your situation in a new, freeing light.",
+        "km": "ការលែងប្រកាន់ការរង់ចាំ អាចនាំមកនូវទស្សនៈថ្មី និងសន្ទុះ។ អ្នកអាចមើលឃើញស្ថានភាពរបស់អ្នកក្នុងពន្លឺថ្មីដែលរំដោះ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Something in your life may have run its course. Holding on to an ending you have not accepted could be weighing on you.",
+        "km": "អ្វីមួយក្នុងជីវិតរបស់អ្នក ប្រហែលជាបានដល់ទីបញ្ចប់របស់វា។ ការប្រកាន់ខ្ជាប់ការបញ្ចប់ដែលអ្នកមិនទាន់ទទួលយក អាចកំពុងសង្កត់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "Refusing to let an ending happen could keep an old door open that only lets in cold air. Close it gently, and lean on friends or a counsellor if the loss hurts.",
+        "km": "ការបដិសេធមិនឱ្យការបញ្ចប់កើតឡើង អាចទុកទ្វារចាស់មួយឱ្យបើក ដែលគ្រាន់តែឱ្យខ្យល់ត្រជាក់ចូល។ សូមបិទវាដោយទន់ភ្លន់ ហើយពឹងផ្អែកលើមិត្តភក្តិ ឬអ្នកប្រឹក្សា ប្រសិនបើការបាត់បង់ធ្វើឱ្យឈឺចាប់។"
+      },
+      "outcome": {
+        "en": "Accepting an ending could make room for renewal. Something new and better suited to you may grow in its place.",
+        "km": "ការទទួលយកការបញ្ចប់ អាចទុកលំហសម្រាប់ការកកើតឡើងវិញ។ អ្វីមួយថ្មី និងសមនឹងអ្នកជាងមុន អាចដុះនៅកន្លែងរបស់វា។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Extremes in your habits or moods may be weighing on you. An all-or-nothing approach could be throwing you off balance.",
+        "km": "ភាពហួសហេតុក្នុងទម្លាប់ ឬអារម្មណ៍របស់អ្នក អាចកំពុងសង្កត់លើអ្នក។ វិធីទាំងអស់ ឬគ្មានអ្វីសោះ អាចកំពុងធ្វើឱ្យអ្នកបាត់តុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Perfectionism could leave you swinging between effort and collapse. Let go of all-or-nothing thinking, and accept steady progress.",
+        "km": "ការចង់បានភាពល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកយោលរវាងការខិតខំ និងការដួលរលំ។ សូមលែងប្រកាន់ការគិតបែបទាំងអស់ ឬគ្មានអ្វីសោះ ហើយទទួលយកវឌ្ឍនភាពនឹងនរ។"
+      },
+      "outcome": {
+        "en": "Releasing extremes could bring a gentle, steady balance. You may feel calmer and more in harmony with your body and mind.",
+        "km": "ការលែងប្រកាន់ភាពហួសហេតុ អាចនាំមកនូវតុល្យភាពទន់ភ្លន់ និងនឹងនរ។ អ្នកអាចមានអារម្មណ៍ស្ងប់ និងចុះសម្រុងជាមួយរាងកាយ និងចិត្តរបស់អ្នកជាងមុន។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "An unhealthy attachment, habit or relationship may have a strong hold on you. Something you depend on could be limiting your freedom.",
+        "km": "ការជាប់ចិត្ត ទម្លាប់ ឬទំនាក់ទំនងមិនល្អ អាចមានការក្តាប់ខ្លាំងលើអ្នក។ អ្វីមួយដែលអ្នកពឹងផ្អែក អាចកំពុងកំណត់សេរីភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Staying tied to something that harms you could keep you trapped. Name it honestly, and contact a professional or support service if you cannot break free alone.",
+        "km": "ការនៅជាប់នឹងអ្វីមួយដែលធ្វើឱ្យអ្នកឈឺចាប់ អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់។ សូមដាក់ឈ្មោះវាដោយស្មោះត្រង់ ហើយទាក់ទងអ្នកជំនាញ ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមិនអាចរួចខ្លួនតែម្នាក់ឯង។"
+      },
+      "outcome": {
+        "en": "Breaking free could bring a powerful sense of relief and self-respect. You may reclaim energy and choices you had lost.",
+        "km": "ការរួចខ្លួន អាចនាំមកនូវអារម្មណ៍ដ៏ខ្លាំងនៃការធូរស្រាល និងការគោរពខ្លួនឯង។ អ្នកអាចទាមទារថាមពល និងជម្រើសដែលអ្នកបានបាត់បង់មកវិញ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "Old structures in your life may be crumbling, whether you want them to or not. Holding on to what is falling apart could be exhausting.",
+        "km": "រចនាសម្ព័ន្ធចាស់ៗក្នុងជីវិតរបស់អ្នក អាចកំពុងរលំ មិនថាអ្នកចង់ ឬមិនចង់។ ការប្រកាន់ខ្ជាប់អ្វីដែលកំពុងបាក់បែក អាចធ្វើឱ្យហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Fighting to keep something that is breaking could cause more pain. Let go of what cannot be saved, and lean on support if the upheaval feels overwhelming.",
+        "km": "ការតស៊ូដើម្បីរក្សាអ្វីដែលកំពុងបាក់បែក អាចបង្កការឈឺចាប់បន្ថែម។ សូមលែងប្រកាន់អ្វីដែលមិនអាចសង្គ្រោះបាន ហើយពឹងផ្អែកលើការគាំទ្រ ប្រសិនបើការរង្គោះរង្គើខ្លាំងពេក។"
+      },
+      "outcome": {
+        "en": "Releasing what has collapsed could clear the ground for something truer. You may rebuild your life on firmer, more honest foundations.",
+        "km": "ការលែងប្រកាន់អ្វីដែលបានដួលរលំ អាចសម្អាតដីសម្រាប់អ្វីដែលពិតជាងមុន។ អ្នកអាចកសាងជីវិតរបស់អ្នកឡើងវិញលើមូលដ្ឋានដែលរឹងមាំ និងស្មោះត្រង់ជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Discouragement or a sense of hopelessness may be weighing on you. Old disappointments could be quietly dimming how you see your own life.",
+        "km": "ការបាក់ទឹកចិត្ត ឬអារម្មណ៍អស់សង្ឃឹម អាចកំពុងសង្កត់លើអ្នក។ ការខកចិត្តចាស់ៗ អាចកំពុងធ្វើឱ្យរបៀបដែលអ្នកមើលជីវិតរបស់ខ្លួនឯងស្រអាប់ដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Past disappointments could stop you from hoping again. Let go of old letdowns, and allow yourself to believe things can improve.",
+        "km": "ការខកចិត្តកន្លងមក អាចរារាំងអ្នកពីការសង្ឃឹមម្តងទៀត។ សូមលែងប្រកាន់ការខកចិត្តចាស់ៗ ហើយអនុញ្ញាតឱ្យខ្លួនឯងជឿថាអ្វីៗអាចប្រសើរឡើង។"
+      },
+      "outcome": {
+        "en": "Releasing old disappointments could bring renewed hope and healing. You may feel lighter and more open to good things.",
+        "km": "ការលែងប្រកាន់ការខកចិត្តចាស់ៗ អាចនាំមកនូវក្តីសង្ឃឹម និងការជាសះស្បើយថ្មី។ អ្នកអាចមានអារម្មណ៍ស្រាល និងបើកចំហចំពោះរឿងល្អៗជាងមុន។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Fears and worries that may not be based on fact could be weighing on you. Imagined outcomes, rather than real events, might be clouding your judgement.",
+        "km": "ការភ័យខ្លាច និងការព្រួយបារម្ភដែលប្រហែលជាមិនផ្អែកលើការពិត អាចកំពុងសង្កត់លើអ្នក។ លទ្ធផលដែលស្រមៃ ជាជាងព្រឹត្តិការណ៍ពិត អាចកំពុងធ្វើឱ្យការវិនិច្ឆ័យរបស់អ្នកស្រអាប់។"
+      },
+      "challenge": {
+        "en": "Anxious stories about what might happen could keep you uneasy. Let go of worst-case thinking, and talk to a professional if anxiety will not ease.",
+        "km": "រឿងរ៉ាវថប់បារម្ភអំពីអ្វីដែលអាចកើតឡើង អាចធ្វើឱ្យអ្នកមិនស្រួលចិត្ត។ សូមលែងប្រកាន់ការគិតពីករណីអាក្រក់បំផុត ហើយនិយាយជាមួយអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភមិនព្រមធូរស្រាល។"
+      },
+      "outcome": {
+        "en": "Releasing imagined fears could bring clarity and calm. You may see your situation more truthfully and with less dread.",
+        "km": "ការលែងប្រកាន់ការភ័យខ្លាចដែលស្រមៃ អាចនាំមកនូវភាពច្បាស់លាស់ និងភាពស្ងប់។ អ្នកអាចមើលឃើញស្ថានភាពរបស់អ្នកឱ្យពិតជាងមុន និងដោយការភ័យខ្លាចតិចជាងមុន។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "A need to appear happy or successful at every turn may be weighing on you. Keeping up a bright, flawless image could be far more tiring than it looks.",
+        "km": "តម្រូវការចង់ហាក់សប្បាយ ឬជោគជ័យគ្រប់ពេល អាចកំពុងសង្កត់លើអ្នក។ ការរក្សារូបភាពភ្លឺស្វាង និងល្អឥតខ្ចោះ អាចធ្វើឱ្យហត់នឿយច្រើនជាងអ្វីដែលវាមើលទៅ។"
+      },
+      "challenge": {
+        "en": "The need to look fine could hide what you really feel. Let go of appearances, and allow yourself to be honest about hard moments.",
+        "km": "តម្រូវការចង់មើលទៅហាក់ល្អ អាចលាក់បាំងអ្វីដែលអ្នកពិតជាមានអារម្មណ៍។ សូមលែងប្រកាន់រូបរាងខាងក្រៅ ហើយអនុញ្ញាតឱ្យខ្លួនឯងស្មោះត្រង់អំពីគ្រាលំបាក។"
+      },
+      "outcome": {
+        "en": "Releasing the pressure to shine could bring genuine joy. You may feel lighter, more authentic and closer to the people who see the real you.",
+        "km": "ការលែងប្រកាន់សម្ពាធចង់ភ្លឺចែងចាំង អាចនាំមកនូវសេចក្តីរីករាយពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍ស្រាល ពិតប្រាកដ និងជិតស្និទ្ធជាមួយមនុស្សដែលមើលឃើញអ្នកពិតប្រាកដជាងមុន។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "An old mistake you have never forgiven yourself for may still be weighing on you. Judging yourself for it again and again could be keeping you from moving on.",
+        "km": "កំហុសចាស់មួយដែលអ្នកមិនដែលអភ័យទោសខ្លួនឯង អាចនៅតែសង្កត់លើអ្នក។ ការវិនិច្ឆ័យខ្លួនឯងចំពោះវាម្តងហើយម្តងទៀត អាចកំពុងរារាំងអ្នកពីការបន្តទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Unresolved guilt could keep you trapped in the past. Let go of old mistakes, learn what you can, and forgive yourself.",
+        "km": "អារម្មណ៍ទោសកំហុស អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់ក្នុងអតីតកាល។ សូមលែងប្រកាន់កំហុសចាស់ៗ រៀនអ្វីដែលអ្នកអាចរៀន ហើយអភ័យទោសខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Self-forgiveness could bring a sense of renewal and freedom. You may feel ready for a fresh chapter, carrying lessons rather than guilt.",
+        "km": "ការអភ័យទោសខ្លួនឯង អាចនាំមកនូវអារម្មណ៍នៃការកកើតឡើងវិញ និងសេរីភាព។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនសម្រាប់ជំពូកថ្មី ដោយកាន់មេរៀន ជាជាងអារម្មណ៍ទោសកំហុស។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "A chapter of your life may be complete, yet you may still be holding on to it. An attachment to what is over could be keeping you from the next stage.",
+        "km": "ជំពូកមួយនៃជីវិតរបស់អ្នក ប្រហែលជាបានបញ្ចប់ ប៉ុន្តែអ្នកប្រហែលជានៅតែប្រកាន់ខ្ជាប់វា។ ការជាប់ចិត្តនឹងអ្វីដែលបានចប់ អាចកំពុងរារាំងអ្នកពីដំណាក់កាលបន្ទាប់។"
+      },
+      "challenge": {
+        "en": "Refusing to close a finished chapter could keep you from moving forward. Let it go with gratitude for everything it gave and taught you.",
+        "km": "ការបដិសេធមិនបិទជំពូកដែលបានបញ្ចប់ អាចរារាំងអ្នកពីការទៅមុខ។ សូមលែងប្រកាន់វាដោយការដឹងគុណចំពោះអ្វីៗទាំងអស់ដែលវាបានផ្តល់ និងបង្រៀនអ្នក។"
+      },
+      "outcome": {
+        "en": "Closing a chapter could bring a deep sense of completion and peace. You may feel ready to welcome what comes next.",
+        "km": "ការបិទជំពូកមួយ អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅនៃការបញ្ចប់ និងសន្តិភាព។ អ្នកអាចមានអារម្មណ៍ត្រៀមខ្លួនស្វាគមន៍អ្វីដែលនឹងមកដល់។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "Excitement about too many new ideas may be scattering your energy. Clinging to every possibility could be leaving you unable to choose.",
+        "km": "ភាពរំភើបអំពីគំនិតថ្មីៗច្រើនពេក អាចកំពុងធ្វើឱ្យថាមពលរបស់អ្នករាយប៉ាយ។ ការប្រកាន់ខ្ជាប់លទ្ធភាពនីមួយៗ អាចកំពុងធ្វើឱ្យអ្នកមិនអាចជ្រើសរើសបាន។"
+      },
+      "challenge": {
+        "en": "Holding on to every new idea could leave none of them finished. Let go of the projects that excite you least, so the best one can grow.",
+        "km": "ការប្រកាន់ខ្ជាប់គំនិតថ្មីនីមួយៗ អាចធ្វើឱ្យគ្មានគំនិតណាមួយត្រូវបានបញ្ចប់។ សូមលែងប្រកាន់គម្រោងដែលធ្វើឱ្យអ្នករំភើបតិចបំផុត ដើម្បីឱ្យគម្រោងល្អបំផុតអាចរីកចម្រើន។"
+      },
+      "outcome": {
+        "en": "Focusing on one passion could bring real energy and progress. You may feel more inspired, and more satisfied, with fewer distractions pulling at you.",
+        "km": "ការផ្តោតលើចំណង់ចំណូលចិត្តមួយ អាចនាំមកនូវថាមពល និងវឌ្ឍនភាពពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍មានការបំផុសគំនិត និងពេញចិត្តជាងមុន ជាមួយការរំខានតិចជាងមុនដែលទាញអ្នក។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Endless planning or fear of choosing wrongly may be holding you back. Staying in the comfort of possibilities could be keeping you stuck.",
+        "km": "ការរៀបចំផែនការមិនចេះចប់ ឬការភ័យខ្លាចជ្រើសខុស អាចកំពុងរារាំងអ្នក។ ការនៅក្នុងភាពស្រួលនៃលទ្ធភាព អាចកំពុងធ្វើឱ្យអ្នកជាប់គាំង។"
+      },
+      "challenge": {
+        "en": "Clinging to the perfect plan could stop you from ever starting. Let go of the need to know every step before you move.",
+        "km": "ការប្រកាន់ខ្ជាប់ផែនការដ៏ល្អឥតខ្ចោះ អាចរារាំងអ្នកពីការចាប់ផ្តើម។ សូមលែងប្រកាន់តម្រូវការចង់ដឹងគ្រប់ជំហាន មុនពេលអ្នកផ្លាស់ទី។"
+      },
+      "outcome": {
+        "en": "Releasing overplanning could bring momentum and confidence. You may discover the path simply by beginning to walk it.",
+        "km": "ការលែងប្រកាន់ការរៀបចំផែនការហួសហេតុ អាចនាំមកនូវសន្ទុះ និងទំនុកចិត្ត។ អ្នកអាចរកឃើញផ្លូវ គ្រាន់តែដោយការចាប់ផ្តើមដើរលើវា។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Waiting for something outside to change before you feel at peace may be holding you back. Hoping someone else will make the first move could be draining you.",
+        "km": "ការរង់ចាំឱ្យអ្វីមួយនៅខាងក្រៅផ្លាស់ប្តូរ មុនពេលអ្នកមានអារម្មណ៍ស្ងប់ អាចកំពុងរារាំងអ្នក។ ការសង្ឃឹមថានរណាម្នាក់ផ្សេងនឹងចាប់ផ្តើមមុន អាចកំពុងបង្ហូរថាមពលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding on to waiting could keep your life on pause. Let go of the idea that happiness depends on outside events.",
+        "km": "ការប្រកាន់ខ្ជាប់ការរង់ចាំ អាចធ្វើឱ្យជីវិតរបស់អ្នកស្ថិតក្នុងការផ្អាក។ សូមលែងប្រកាន់គំនិតថាសុភមង្គលពឹងផ្អែកលើព្រឹត្តិការណ៍ខាងក្រៅ។"
+      },
+      "outcome": {
+        "en": "Releasing the wait could bring a sense of freedom and possibility. You may find more peace where you are than you thought possible.",
+        "km": "ការលែងប្រកាន់ការរង់ចាំ អាចនាំមកនូវអារម្មណ៍នៃសេរីភាព និងលទ្ធភាព។ អ្នកអាចរកឃើញសន្តិភាពនៅកន្លែងដែលអ្នកនៅ ច្រើនជាងអ្វីដែលអ្នកគិតថាអាចធ្វើទៅបាន។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "An attachment to how things should look at home may be weighing on you. Wanting every gathering or room to be perfect could be stealing your joy.",
+        "km": "ការជាប់ចិត្តនឹងរបៀបដែលអ្វីៗនៅផ្ទះគួរតែមើលទៅ អាចកំពុងសង្កត់លើអ្នក។ ការចង់ឱ្យការជួបជុំ ឬបន្ទប់នីមួយៗល្អឥតខ្ចោះ អាចកំពុងលួចសេចក្តីរីករាយរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Clinging to the picture-perfect version of home life could make ordinary moments feel disappointing. Let go of the ideal, and enjoy the warmth that is really there.",
+        "km": "ការប្រកាន់ខ្ជាប់រូបភាពដ៏ល្អឥតខ្ចោះនៃជីវិតនៅផ្ទះ អាចធ្វើឱ្យគ្រាធម្មតាហាក់គួរឱ្យខកចិត្ត។ សូមលែងប្រកាន់ឧត្តមគតិនោះ ហើយរីករាយនឹងភាពកក់ក្តៅដែលពិតជាមាន។"
+      },
+      "outcome": {
+        "en": "Releasing perfect pictures could let real celebration back in. Home may feel more relaxed and welcoming for everyone.",
+        "km": "ការលែងប្រកាន់រូបភាពល្អឥតខ្ចោះ អាចឱ្យការប្រារព្ធពិតប្រាកដត្រឡប់មកវិញ។ ផ្ទះអាចមានអារម្មណ៍ស្រួល និងស្វាគមន៍ជាងមុនសម្រាប់គ្រប់គ្នា។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "A habit of arguing or competing may be weighing on your peace. Needing to prove your point in every exchange could be tiring you out.",
+        "km": "ទម្លាប់នៃការឈ្លោះប្រកែក ឬការប្រកួតប្រជែង អាចកំពុងសង្កត់លើសន្តិភាពរបស់អ្នក។ ការត្រូវការបញ្ជាក់ចំណុចរបស់អ្នកក្នុងការសន្ទនានីមួយៗ អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "The need to win could keep you in constant conflict. Let go of small battles, and save your energy for what truly matters.",
+        "km": "តម្រូវការចង់ឈ្នះ អាចធ្វើឱ្យអ្នកស្ថិតក្នុងជម្លោះជានិច្ច។ សូមលែងប្រកាន់ការតស៊ូតូចៗ ហើយសន្សំថាមពលសម្រាប់អ្វីដែលពិតជាសំខាន់។"
+      },
+      "outcome": {
+        "en": "Releasing the urge to compete could bring calm to your relationships. You may find more cooperation and less friction around you.",
+        "km": "ការលែងប្រកាន់បំណងចង់ប្រកួតប្រជែង អាចនាំភាពស្ងប់ដល់ទំនាក់ទំនងរបស់អ្នក។ អ្នកអាចរកឃើញកិច្ចសហការច្រើនជាងមុន និងការប៉ះទង្គិចតិចជាងមុននៅជុំវិញអ្នក។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "A strong need for approval or praise may be weighing on you. Measuring your worth by others' reactions could be leaving you anxious.",
+        "km": "តម្រូវការខ្លាំងចង់បានការយល់ព្រម ឬការសរសើរ អាចកំពុងសង្កត់លើអ្នក។ ការវាស់តម្លៃរបស់អ្នកតាមប្រតិកម្មរបស់អ្នកដទៃ អាចកំពុងធ្វើឱ្យអ្នកថប់បារម្ភ។"
+      },
+      "challenge": {
+        "en": "Outside validation could leave your confidence fragile. Let go of the need for applause, and value your efforts for their own sake.",
+        "km": "ការទទួលស្គាល់ពីខាងក្រៅ អាចធ្វើឱ្យទំនុកចិត្តរបស់អ្នកផុយស្រួយ។ សូមលែងប្រកាន់តម្រូវការចង់បានការអបអរ ហើយឱ្យតម្លៃកិច្ចខិតខំរបស់អ្នកសម្រាប់ខ្លួនវាផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Releasing the need for praise could bring steady, quiet self-respect. You may feel proud of yourself whether or not anyone notices.",
+        "km": "ការលែងប្រកាន់តម្រូវការចង់បានការសរសើរ អាចនាំមកនូវការគោរពខ្លួនឯងដ៏នឹងនរ និងស្ងាត់ៗ។ អ្នកអាចមានមោទនភាពចំពោះខ្លួនឯង ទោះបីមាននរណាម្នាក់កត់សម្គាល់ឬអត់ក៏ដោយ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Constant defensiveness may be weighing on you. Feeling you must guard yourself against everyone could be leaving you tense and tired.",
+        "km": "ការការពារខ្លួនជានិច្ច អាចកំពុងសង្កត់លើអ្នក។ ការមានអារម្មណ៍ថាអ្នកត្រូវតែការពារខ្លួនពីគ្រប់គ្នា អាចកំពុងធ្វើឱ្យអ្នកតានតឹង និងហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Old grudges or suspicions could keep your guard permanently up. Let go of battles that are over, and lower your defences with people who are safe.",
+        "km": "ការចងគំនុំ ឬការសង្ស័យចាស់ៗ អាចធ្វើឱ្យការការពារខ្លួនរបស់អ្នកនៅខ្ពស់ជានិច្ច។ សូមលែងប្រកាន់ការតស៊ូដែលបានបញ្ចប់ ហើយបន្ថយការការពារជាមួយមនុស្សដែលមានសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Releasing defensiveness could bring relaxation and trust. You may feel safe enough to let others closer.",
+        "km": "ការលែងប្រកាន់ការការពារខ្លួន អាចនាំមកនូវការសម្រាក និងការទុកចិត្ត។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពល្មមដើម្បីឱ្យអ្នកដទៃខិតមកជិត។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "A rush of tasks and messages may be pulling you in many directions. Feeling you must respond to everything together could be overwhelming you.",
+        "km": "ការហូរចូលនៃកិច្ចការ និងសារ អាចកំពុងទាញអ្នកទៅទិសផ្សេងៗ។ ការមានអារម្មណ៍ថាអ្នកត្រូវតែឆ្លើយតបនឹងអ្វីៗទាំងអស់ព្រមគ្នា អាចកំពុងធ្វើឱ្យអ្នកលើសកម្លាំង។"
+      },
+      "challenge": {
+        "en": "Clinging to the habit of replying to everything could keep your mind racing. Let go of the urge to answer each message the moment it arrives.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ឆ្លើយតបនឹងអ្វីៗទាំងអស់ អាចធ្វើឱ្យគំនិតរបស់អ្នករត់លឿនជានិច្ច។ សូមលែងប្រកាន់បំណងចង់ឆ្លើយសារនីមួយៗ ពេលវាមកដល់។"
+      },
+      "outcome": {
+        "en": "Slowing your response could bring calm and better focus. You may find that very few messages are as urgent as they feel.",
+        "km": "ការបន្ថយការឆ្លើយតបរបស់អ្នក អាចនាំមកនូវភាពស្ងប់ និងការផ្តោតល្អជាងមុន។ អ្នកអាចរកឃើញថាសារតិចតួចណាស់ដែលបន្ទាន់ដូចដែលវាហាក់។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Old wounds may be keeping you braced for the next blow. Expecting trouble around every corner could be wearing down your resilience.",
+        "km": "របួសចាស់ៗ អាចកំពុងធ្វើឱ្យអ្នកត្រៀមខ្លួនរង់ចាំការវាយប្រហារបន្ទាប់។ ការរំពឹងបញ្ហានៅគ្រប់ជ្រុង អាចកំពុងធ្វើឱ្យភាពធន់របស់អ្នកចុះខ្សោយ។"
+      },
+      "challenge": {
+        "en": "Clinging to suspicion born from past hurts could keep you exhausted and alone. Let go of the belief that you must stay on guard, and allow yourself to rest.",
+        "km": "ការប្រកាន់ខ្ជាប់ការសង្ស័យដែលកើតចេញពីការឈឺចាប់កន្លងមក អាចធ្វើឱ្យអ្នកហត់នឿយ និងឯកោ។ សូមលែងប្រកាន់ជំនឿថាអ្នកត្រូវតែប្រុងប្រយ័ត្នជានិច្ច ហើយអនុញ្ញាតឱ្យខ្លួនឯងសម្រាក។"
+      },
+      "outcome": {
+        "en": "Lowering your guard could bring real rest and renewed trust. You may discover that not every challenge needs a fight.",
+        "km": "ការបន្ថយការការពារខ្លួន អាចនាំមកនូវការសម្រាកពិតប្រាកដ និងការទុកចិត្តថ្មី។ អ្នកអាចរកឃើញថាមិនមែនគ្រប់បញ្ហាប្រឈមសុទ្ធតែត្រូវការការតស៊ូនោះទេ។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Responsibilities that are not truly yours may be weighing you down. Carrying burdens out of duty or guilt could be exhausting you.",
+        "km": "ការទទួលខុសត្រូវដែលមិនមែនជារបស់អ្នកពិតប្រាកដ អាចកំពុងសង្កត់អ្នក។ ការទទួលបន្ទុកដោយកាតព្វកិច្ច ឬអារម្មណ៍ទោសកំហុស អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Holding on to tasks others could do could leave you crushed. Let go of at least one burden, and hand it back to the person it belongs to.",
+        "km": "ការប្រកាន់ខ្ជាប់កិច្ចការដែលអ្នកដទៃអាចធ្វើបាន អាចធ្វើឱ្យអ្នកធ្ងន់ពេក។ សូមលែងប្រកាន់បន្ទុកយ៉ាងហោចណាស់មួយ ហើយប្រគល់វាត្រឡប់ទៅមនុស្សដែលវាជារបស់។"
+      },
+      "outcome": {
+        "en": "Putting down what is not yours could bring welcome relief. You may stand taller, breathe more freely and feel less resentful.",
+        "km": "ការដាក់ចុះនូវអ្វីដែលមិនមែនជារបស់អ្នក អាចនាំមកនូវការធូរស្រាល។ អ្នកអាចឈរត្រង់ជាងមុន ដកដង្ហើមបានសេរីជាងមុន និងមិនសូវអាក់អន់ចិត្ត។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "A restless urge to keep starting something new may be distracting you. Chasing the next exciting thing could be keeping you from settling.",
+        "km": "បំណងមិនស្ងប់ចង់ចាប់ផ្តើមអ្វីថ្មីជានិច្ច អាចកំពុងរំខានអ្នក។ ការដេញតាមរឿងរំភើបបន្ទាប់ អាចកំពុងរារាំងអ្នកពីការតាំងលំនៅ។"
+      },
+      "challenge": {
+        "en": "Clinging to novelty could leave you scattered and unsatisfied. Let go of a few new interests so one can grow deeper.",
+        "km": "ការប្រកាន់ខ្ជាប់ភាពថ្មីថ្មោង អាចធ្វើឱ្យអ្នករាយប៉ាយ និងមិនពេញចិត្ត។ សូមលែងប្រកាន់ចំណាប់អារម្មណ៍ថ្មីខ្លះ ដើម្បីឱ្យមួយអាចរីកចម្រើនកាន់តែជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Focusing your curiosity could bring deeper satisfaction and calm. A single passion may give you more joy than many half-started ones.",
+        "km": "ការផ្តោតចិត្តចង់ដឹងរបស់អ្នក អាចនាំមកនូវសេចក្តីពេញចិត្ត និងភាពស្ងប់កាន់តែជ្រៅ។ ចំណង់ចំណូលចិត្តតែមួយ អាចផ្តល់សេចក្តីរីករាយដល់អ្នកច្រើនជាងចំណង់ជាច្រើនដែលចាប់ផ្តើមពាក់កណ្តាល។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Impatience or a need to rush may be weighing on you. Pushing to make things happen at full speed could be leaving you frazzled.",
+        "km": "ការមិនអត់ធ្មត់ ឬតម្រូវការប្រញាប់ អាចកំពុងសង្កត់លើអ្នក។ ការរុញឱ្យអ្វីៗកើតឡើងដោយពេញល្បឿន អាចកំពុងធ្វើឱ្យអ្នកច្របូកច្របល់។"
+      },
+      "challenge": {
+        "en": "Urgency could keep you stressed and reactive. Let go of the need to have everything settled the moment you want it.",
+        "km": "ភាពបន្ទាន់ អាចធ្វើឱ្យអ្នកតានតឹង និងមានប្រតិកម្មភ្លាមៗ។ សូមលែងប្រកាន់តម្រូវការចង់ឱ្យអ្វីៗទាំងអស់ត្រូវបានដោះស្រាយតាមពេលដែលអ្នកចង់។"
+      },
+      "outcome": {
+        "en": "Releasing impatience could bring calmer, wiser action. You may find things unfold well at their own pace.",
+        "km": "ការលែងប្រកាន់ការមិនអត់ធ្មត់ អាចនាំមកនូវសកម្មភាពដែលស្ងប់ និងឈ្លាសវៃជាងមុន។ អ្នកអាចរកឃើញថាអ្វីៗកើតឡើងបានល្អតាមល្បឿនរបស់វា។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "A need to be the confident, capable one in every situation may be weighing on you. Keeping up a strong image for everyone could be more draining than you realise.",
+        "km": "តម្រូវការចង់ធ្វើជាមនុស្សមានទំនុកចិត្ត និងមានសមត្ថភាពគ្រប់ស្ថានការណ៍ អាចកំពុងសង្កត់លើអ្នក។ ការរក្សារូបភាពរឹងមាំសម្រាប់គ្រប់គ្នា អាចបង្ហូរថាមពលច្រើនជាងអ្វីដែលអ្នកដឹង។"
+      },
+      "challenge": {
+        "en": "An image of strength could stop you asking for help. Let go of the need to be admired, and allow yourself to be ordinary.",
+        "km": "រូបភាពនៃភាពរឹងមាំ អាចរារាំងអ្នកពីការសុំជំនួយ។ សូមលែងប្រកាន់តម្រូវការចង់ឱ្យគេកោតសរសើរ ហើយអនុញ្ញាតឱ្យខ្លួនឯងធម្មតា។"
+      },
+      "outcome": {
+        "en": "Releasing that pressure could bring warmth and authenticity. People may connect with the real you more easily.",
+        "km": "ការលែងប្រកាន់សម្ពាធនោះ អាចនាំមកនូវភាពកក់ក្តៅ និងភាពពិតប្រាកដ។ មនុស្សអាចភ្ជាប់ទំនាក់ទំនងជាមួយអ្នកពិតប្រាកដបានងាយជាងមុន។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "A need to lead and decide everything may be weighing on you. Feeling responsible for the whole picture could be exhausting.",
+        "km": "តម្រូវការចង់ដឹកនាំ និងសម្រេចចិត្តលើអ្វីៗទាំងអស់ អាចកំពុងសង្កត់លើអ្នក។ ការមានអារម្មណ៍ទទួលខុសត្រូវចំពោះរូបភាពទាំងមូល អាចធ្វើឱ្យហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Holding on to control of every decision could leave you isolated and overloaded. Let go of being the only one in charge, and share authority with people you trust.",
+        "km": "ការប្រកាន់ខ្ជាប់ការគ្រប់គ្រងលើគ្រប់ការសម្រេចចិត្ត អាចធ្វើឱ្យអ្នកឯកោ និងលើសបន្ទុក។ សូមលែងប្រកាន់ការធ្វើជាមនុស្សតែម្នាក់ដែលទទួលខុសត្រូវ ហើយចែករំលែកអំណាចជាមួយមនុស្សដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Sharing leadership could bring relief and a stronger team around you. You may lead better, and rest more easily, with a lighter grip.",
+        "km": "ការចែករំលែកភាពដឹកនាំ អាចនាំមកនូវការធូរស្រាល និងក្រុមដែលរឹងមាំជាងមុននៅជុំវិញអ្នក។ អ្នកអាចដឹកនាំបានល្អជាងមុន ហើយសម្រាកបានងាយជាងមុន ជាមួយការក្តាប់ដែលស្រាលជាងមុន។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Feelings you have not allowed yourself to express may be weighing on you. A closed heart could be keeping comfort at a distance.",
+        "km": "អារម្មណ៍ដែលអ្នកមិនបានអនុញ្ញាតឱ្យខ្លួនឯងបង្ហាញ អាចកំពុងសង្កត់លើអ្នក។ ចិត្តដែលបិទ អាចកំពុងរក្សាការលួងលោមឱ្យនៅឆ្ងាយ។"
+      },
+      "challenge": {
+        "en": "Holding back love or tears to protect yourself could leave you numb. Let go of the fear of feeling, and allow your emotions to move through you.",
+        "km": "ការទប់ក្តីស្រឡាញ់ ឬទឹកភ្នែកដើម្បីការពារខ្លួន អាចធ្វើឱ្យអ្នកស្ពឹក។ សូមលែងប្រកាន់ការភ័យខ្លាចក្នុងការមានអារម្មណ៍ ហើយអនុញ្ញាតឱ្យអារម្មណ៍ហូរឆ្លងកាត់អ្នក។"
+      },
+      "outcome": {
+        "en": "Opening your heart could bring renewed warmth and connection. You may feel more alive once feelings are allowed to flow.",
+        "km": "ការបើកចិត្តរបស់អ្នក អាចនាំមកនូវភាពកក់ក្តៅ និងការភ្ជាប់ទំនាក់ទំនងថ្មី។ អ្នកអាចមានអារម្មណ៍រស់រវើកជាងមុន នៅពេលអារម្មណ៍ត្រូវបានអនុញ្ញាតឱ្យហូរ។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A relationship that no longer feels balanced may be weighing on you. Holding on out of habit or loyalty could be draining your heart.",
+        "km": "ទំនាក់ទំនងដែលលែងមានអារម្មណ៍មានតុល្យភាព អាចកំពុងសង្កត់លើអ្នក។ ការប្រកាន់ខ្ជាប់ដោយសារទម្លាប់ ឬភាពស្មោះត្រង់ អាចកំពុងបង្ហូរចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Clinging to a one-sided bond could leave you giving without receiving. Let go of the hope that the other person will change without honest talk.",
+        "km": "ការប្រកាន់ខ្ជាប់ចំណងដែលមានតែម្ខាង អាចធ្វើឱ្យអ្នកផ្តល់ដោយមិនទទួល។ សូមលែងប្រកាន់ក្តីសង្ឃឹមថាមនុស្សម្នាក់ទៀតនឹងផ្លាស់ប្តូរ ដោយគ្មានការនិយាយដោយស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Releasing an unbalanced pattern could make room for mutual care. Your relationships may feel more equal, honest and nourishing as a result.",
+        "km": "ការលែងប្រកាន់គំរូដែលមិនមានតុល្យភាព អាចទុកលំហសម្រាប់ការយកចិត្តទុកដាក់គ្នាទៅវិញទៅមក។ ទំនាក់ទំនងរបស់អ្នកអាចមានអារម្មណ៍ស្មើគ្នា ស្មោះត្រង់ និងចិញ្ចឹមចិត្តជាងមុន ជាលទ្ធផល។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Social habits that no longer suit you may be weighing on you. Keeping up with a crowd could be costing more than it gives.",
+        "km": "ទម្លាប់សង្គមដែលលែងសមនឹងអ្នក អាចកំពុងសង្កត់លើអ្នក។ ការតាមទាន់ក្រុមមនុស្ស អាចកំពុងធ្វើឱ្យអ្នកខាតច្រើនជាងអ្វីដែលវាផ្តល់។"
+      },
+      "challenge": {
+        "en": "Holding on to friendships built mainly on drinking, gossip or habit could drain you. Let go of company that leaves you worse off, and keep the friends who lift you.",
+        "km": "ការប្រកាន់ខ្ជាប់មិត្តភាពដែលកសាងលើការផឹក ការនិយាយដើមគេ ឬទម្លាប់ អាចបង្ហូរថាមពលរបស់អ្នក។ សូមលែងប្រកាន់មិត្តដែលធ្វើឱ្យអ្នកអាក្រក់ជាងមុន ហើយរក្សាមិត្តដែលលើកទឹកចិត្តអ្នក។"
+      },
+      "outcome": {
+        "en": "A smaller, truer circle could bring more joy than a busy social life. You may feel genuinely supported by people who want the best for you.",
+        "km": "រង្វង់មិត្តតូចជាង និងពិតជាងមុន អាចនាំសេចក្តីរីករាយច្រើនជាងជីវិតសង្គមមមាញឹក។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានគាំទ្រពិតប្រាកដ ដោយមនុស្សដែលចង់បានអ្វីល្អបំផុតសម្រាប់អ្នក។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Dissatisfaction or boredom may be weighing on you. Dwelling on what is missing could be blinding you to what is offered.",
+        "km": "ការមិនពេញចិត្ត ឬភាពធុញទ្រាន់ អាចកំពុងសង្កត់លើអ្នក។ ការគិតច្រើនពីអ្វីដែលខ្វះ អាចកំពុងធ្វើឱ្យអ្នកមើលមិនឃើញអ្វីដែលត្រូវបានផ្តល់ជូន។"
+      },
+      "challenge": {
+        "en": "A sense that nothing is good enough could keep you stuck. Let go of comparison, and look again at the small gifts already in front of you.",
+        "km": "អារម្មណ៍ថាគ្មានអ្វីល្អគ្រប់គ្រាន់ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមលែងប្រកាន់ការប្រៀបធៀប ហើយមើលម្តងទៀតនូវអំណោយតូចៗដែលនៅចំពោះមុខអ្នករួចហើយ។"
+      },
+      "outcome": {
+        "en": "Releasing discontent could open your eyes to fresh possibilities. Gratitude for small things may rekindle your interest in life and people.",
+        "km": "ការលែងប្រកាន់ការមិនពេញចិត្ត អាចបើកភ្នែករបស់អ្នកឱ្យឃើញលទ្ធភាពថ្មីៗ។ ការដឹងគុណចំពោះរឿងតូចៗ អាចដុតចំណាប់អារម្មណ៍របស់អ្នកលើជីវិត និងមនុស្សឡើងវិញ។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Grief or regret over a loss may be weighing heavily on you. Focusing on what is gone could be keeping you from what remains.",
+        "km": "ទុក្ខសោក ឬការសោកស្តាយចំពោះការបាត់បង់ អាចកំពុងសង្កត់យ៉ាងធ្ងន់លើអ្នក។ ការផ្តោតលើអ្វីដែលបានបាត់ អាចកំពុងរារាំងអ្នកពីអ្វីដែលនៅសល់។"
+      },
+      "challenge": {
+        "en": "Regret could keep the wound open. Let go of what cannot be changed, gently and in your own way, and seek a counsellor if grief feels too heavy.",
+        "km": "ការសោកស្តាយ អាចធ្វើឱ្យរបួសនៅបើក។ សូមលែងប្រកាន់អ្វីដែលមិនអាចផ្លាស់ប្តូរបាន ដោយទន់ភ្លន់ និងតាមរបៀបរបស់អ្នក ហើយស្វែងរកអ្នកប្រឹក្សា ប្រសិនបើទុក្ខសោកធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Gently releasing regret could make room for healing and hope. You may notice the love and support still around you.",
+        "km": "ការលែងប្រកាន់ការសោកស្តាយដោយទន់ភ្លន់ អាចទុកលំហសម្រាប់ការជាសះស្បើយ និងក្តីសង្ឃឹម។ អ្នកអាចកត់សម្គាល់ក្តីស្រឡាញ់ និងការគាំទ្រដែលនៅតែមាននៅជុំវិញអ្នក។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Nostalgia for how things were may be holding you back. Longing for a simpler stage of life could make your life as it is feel dull.",
+        "km": "ការនឹកដល់របៀបដែលអ្វីៗធ្លាប់មាន អាចកំពុងរារាំងអ្នក។ ការនឹករលឹកដំណាក់កាលជីវិតដែលសាមញ្ញជាងនេះ អាចធ្វើឱ្យជីវិតដូចដែលវាជាហាក់គួរឱ្យធុញ។"
+      },
+      "challenge": {
+        "en": "Clinging to old memories could keep you from enjoying your life as it is. Let go of endless comparisons, and keep the joys you can bring forward.",
+        "km": "ការប្រកាន់ខ្ជាប់ការចងចាំចាស់ៗ អាចរារាំងអ្នកពីការរីករាយនឹងជីវិតរបស់អ្នកដូចដែលវាជា។ សូមលែងប្រកាន់ការប្រៀបធៀបមិនចេះចប់ ហើយរក្សាសេចក្តីរីករាយដែលអ្នកអាចនាំមកជាមួយ។"
+      },
+      "outcome": {
+        "en": "Releasing nostalgia could let you enjoy life as it really is. Fond memories may become a comfort rather than a cage.",
+        "km": "ការលែងប្រកាន់ការនឹកដល់អតីតកាល អាចឱ្យអ្នករីករាយនឹងជីវិតដូចដែលវាពិតជាមាន។ ការចងចាំដ៏ផ្អែមល្ហែម អាចក្លាយជាការលួងលោម ជាជាងទ្រុង។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Daydreams and unrealistic hopes may be weighing on you. Waiting for an ideal outcome could be keeping you from real choices.",
+        "km": "ការស្រមៃ និងក្តីសង្ឃឹមដែលមិនប្រាកដនិយម អាចកំពុងសង្កត់លើអ្នក។ ការរង់ចាំលទ្ធផលដ៏ល្អឥតខ្ចោះ អាចកំពុងរារាំងអ្នកពីជម្រើសពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Fantasies could leave real needs unmet. Let go of the perfect version in your head, and choose one real step.",
+        "km": "ការស្រមៃ អាចធ្វើឱ្យតម្រូវការពិតមិនត្រូវបានបំពេញ។ សូមលែងប្រកាន់កំណែដ៏ល្អឥតខ្ចោះក្នុងក្បាលរបស់អ្នក ហើយជ្រើសជំហានពិតប្រាកដមួយ។"
+      },
+      "outcome": {
+        "en": "Releasing illusions could bring clarity and calm. You may find real satisfaction in what is possible and within reach.",
+        "km": "ការលែងប្រកាន់ការបំភាន់ អាចនាំមកនូវភាពច្បាស់លាស់ និងភាពស្ងប់។ អ្នកអាចរកឃើញសេចក្តីពេញចិត្តពិតប្រាកដក្នុងអ្វីដែលអាចធ្វើទៅបាន និងនៅក្បែរដៃ។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "Something that used to fulfil you may no longer feel right. Staying out of habit could be keeping you from what you truly need.",
+        "km": "អ្វីមួយដែលធ្លាប់បំពេញចិត្តអ្នក ប្រហែលជាលែងមានអារម្មណ៍ត្រឹមត្រូវ។ ការនៅដោយសារទម្លាប់ អាចកំពុងរារាំងអ្នកពីអ្វីដែលអ្នកពិតជាត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Holding on to what you have outgrown could leave you empty. Let it go with courage, even if walking away feels sad.",
+        "km": "ការប្រកាន់ខ្ជាប់អ្វីដែលអ្នកបានរីកចម្រើនហួស អាចធ្វើឱ្យអ្នកទទេ។ សូមលែងប្រកាន់វាដោយភាពក្លាហាន ទោះបីការដើរចេញមានអារម្មណ៍សោកសៅក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Moving on could open the way to deeper meaning and fulfilment. A truer path may reveal itself once you step away.",
+        "km": "ការបន្តទៅមុខ អាចបើកផ្លូវទៅរកអត្ថន័យ និងការបំពេញចិត្តកាន់តែជ្រៅ។ ផ្លូវដែលពិតជាងមុន អាចបង្ហាញខ្លួន នៅពេលអ្នកដើរចេញ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Chasing more comfort or pleasure may be leaving you less content. Believing the next purchase or treat will satisfy you could be weighing on you.",
+        "km": "ការដេញតាមភាពសុខស្រួល ឬសេចក្តីរីករាយបន្ថែម អាចកំពុងធ្វើឱ្យអ្នកពេញចិត្តតិចជាងមុន។ ការជឿថារបស់ទិញ ឬរបស់ល្អបន្ទាប់នឹងធ្វើឱ្យអ្នកពេញចិត្ត អាចកំពុងសង្កត់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "The idea that more will make you happy could keep you restless. Let go of wanting more, and savour the comforts you already have.",
+        "km": "គំនិតថាច្រើនជាងនេះនឹងធ្វើឱ្យអ្នកសប្បាយ អាចធ្វើឱ្យអ្នកមិនស្ងប់។ សូមលែងប្រកាន់ការចង់បានបន្ថែម ហើយភ្លក់រសជាតិភាពសុខស្រួលដែលអ្នកមានរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Releasing the chase could bring genuine contentment. You may realise that you have plenty to enjoy.",
+        "km": "ការលែងប្រកាន់ការដេញតាម អាចនាំមកនូវសេចក្តីពេញចិត្តពិតប្រាកដ។ អ្នកអាចដឹងថាអ្នកមានអ្វីៗជាច្រើនដើម្បីរីករាយ។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Expectations of a perfect family or home life may be weighing on you. Comparing your life with an ideal could be stealing your happiness.",
+        "km": "ការរំពឹងគ្រួសារ ឬជីវិតនៅផ្ទះដ៏ល្អឥតខ្ចោះ អាចកំពុងសង្កត់លើអ្នក។ ការប្រៀបធៀបជីវិតរបស់អ្នកជាមួយឧត្តមគតិ អាចកំពុងលួចសុភមង្គលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding on to an ideal image of family could leave you disappointed. Let go of perfection, and embrace the real people you love.",
+        "km": "ការប្រកាន់ខ្ជាប់រូបភាពឧត្តមគតិនៃគ្រួសារ អាចធ្វើឱ្យអ្នកខកចិត្ត។ សូមលែងប្រកាន់ភាពល្អឥតខ្ចោះ ហើយឱបក្រសោបមនុស្សពិតដែលអ្នកស្រឡាញ់។"
+      },
+      "outcome": {
+        "en": "Releasing ideals could bring real warmth and belonging. You may enjoy your family as it is, flaws and all.",
+        "km": "ការលែងប្រកាន់ឧត្តមគតិ អាចនាំមកនូវភាពកក់ក្តៅ និងការជាប់ចំណងពិតប្រាកដ។ អ្នកអាចរីករាយនឹងគ្រួសាររបស់អ្នកដូចដែលវាជា រួមទាំងកំហុសរបស់វាផង។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Oversensitivity to small hurts may be weighing on you. Taking every remark to heart could be leaving you easily wounded.",
+        "km": "ការរសើបពេកចំពោះការឈឺចិត្តតូចៗ អាចកំពុងសង្កត់លើអ្នក។ ការយកមតិនីមួយៗមកដាក់ក្នុងចិត្ត អាចកំពុងធ្វើឱ្យអ្នកងាយរងរបួស។"
+      },
+      "challenge": {
+        "en": "Clinging to minor slights could keep you hurting. Let go of small offences, and protect your tender heart with gentle boundaries.",
+        "km": "ការប្រកាន់ខ្ជាប់ការមើលងាយតូចៗ អាចធ្វើឱ្យអ្នកបន្តឈឺចាប់។ សូមលែងប្រកាន់ការប្រមាថតូចៗ ហើយការពារចិត្តទន់ភ្លន់របស់អ្នកដោយព្រំដែនទន់ភ្លន់។"
+      },
+      "outcome": {
+        "en": "Releasing small hurts could bring lightness and creative freedom. You may feel more open and less easily wounded.",
+        "km": "ការលែងប្រកាន់ការឈឺចិត្តតូចៗ អាចនាំមកនូវភាពស្រាល និងសេរីភាពច្នៃប្រឌិត។ អ្នកអាចមានអារម្មណ៍បើកចំហជាងមុន និងមិនងាយរងរបួស។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Romantic ideals or a longing for perfect feelings may be weighing on you. Waiting for life to feel magical could be making ordinary life seem empty.",
+        "km": "ឧត្តមគតិរ៉ូមែនទិក ឬការប្រាថ្នាអារម្មណ៍ល្អឥតខ្ចោះ អាចកំពុងសង្កត់លើអ្នក។ ការរង់ចាំឱ្យជីវិតមានអារម្មណ៍វិសេសវិសាល អាចកំពុងធ្វើឱ្យជីវិតធម្មតាហាក់ទទេ។"
+      },
+      "challenge": {
+        "en": "Clinging to fantasy could keep you from appreciating what is real. Let go of the dream version, and find beauty in ordinary moments.",
+        "km": "ការប្រកាន់ខ្ជាប់ការស្រមៃ អាចរារាំងអ្នកពីការកោតសរសើរអ្វីដែលពិត។ សូមលែងប្រកាន់កំណែក្នុងក្តីសុបិន ហើយរកភាពស្រស់ស្អាតក្នុងគ្រាធម្មតា។"
+      },
+      "outcome": {
+        "en": "Releasing ideals could bring real contentment and grounded joy. You may find romance and wonder in everyday life, just as it is.",
+        "km": "ការលែងប្រកាន់ឧត្តមគតិ អាចនាំមកនូវសេចក្តីពេញចិត្តពិតប្រាកដ និងសេចក្តីរីករាយដែលនឹងនរ។ អ្នកអាចរកឃើញភាពរ៉ូមែនទិក និងភាពអស្ចារ្យក្នុងជីវិតប្រចាំថ្ងៃ ដូចដែលវាជា។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "A sense that you must fix everyone's problems may be weighing on you. Your kindness could have turned into a burden you were never meant to carry.",
+        "km": "អារម្មណ៍ថាអ្នកត្រូវតែដោះស្រាយបញ្ហារបស់គ្រប់គ្នា អាចកំពុងសង្កត់លើអ្នក។ សេចក្តីសប្បុរសរបស់អ្នក អាចបានប្រែទៅជាបន្ទុកដែលអ្នកមិនដែលត្រូវទទួល។"
+      },
+      "challenge": {
+        "en": "Holding on to responsibility for others' feelings could exhaust you. Let go of the need to fix everyone, and care for your own heart.",
+        "km": "ការប្រកាន់ខ្ជាប់ការទទួលខុសត្រូវចំពោះអារម្មណ៍របស់អ្នកដទៃ អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមលែងប្រកាន់តម្រូវការចង់ជួសជុលគ្រប់គ្នា ហើយមើលថែចិត្តរបស់ខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Releasing others' burdens could bring emotional calm. You may support people fully without losing yourself in their troubles.",
+        "km": "ការលែងប្រកាន់បន្ទុករបស់អ្នកដទៃ អាចនាំមកនូវភាពស្ងប់ផ្លូវចិត្ត។ អ្នកអាចគាំទ្រមនុស្សបានពេញលេញ ដោយមិនបាត់បង់ខ្លួនឯងក្នុងបញ្ហារបស់ពួកគេ។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "A habit of hiding your feelings to stay composed may be weighing on you. Being the calm one for everyone could be costing you more than you admit.",
+        "km": "ទម្លាប់នៃការលាក់អារម្មណ៍ ដើម្បីរក្សាភាពស្ងប់ អាចកំពុងសង្កត់លើអ្នក។ ការធ្វើជាមនុស្សស្ងប់សម្រាប់គ្រប់គ្នា អាចកំពុងធ្វើឱ្យអ្នកខាតច្រើនជាងអ្វីដែលអ្នកទទួលស្គាល់។"
+      },
+      "challenge": {
+        "en": "Clinging to the need to appear in control could leave feelings unexpressed. Let go of the mask, and share honestly with someone you trust.",
+        "km": "ការប្រកាន់ខ្ជាប់តម្រូវការចង់ហាក់គ្រប់គ្រងបាន អាចធ្វើឱ្យអារម្មណ៍មិនត្រូវបានបង្ហាញ។ សូមលែងប្រកាន់របាំងមុខ ហើយចែករំលែកដោយស្មោះត្រង់ជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Releasing the need to seem calm could bring real emotional balance. You may feel lighter, more genuine and closer to the people you trust.",
+        "km": "ការលែងប្រកាន់តម្រូវការចង់ហាក់ស្ងប់ អាចនាំមកនូវតុល្យភាពផ្លូវចិត្តពិតប្រាកដ។ អ្នកអាចមានអារម្មណ៍ស្រាល ពិតប្រាកដ និងជិតស្និទ្ធជាមួយមនុស្សដែលអ្នកទុកចិត្តជាងមុន។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A fixed opinion or rigid way of thinking may be weighing on you. Being certain you are right could be keeping you from peace.",
+        "km": "មតិដែលមិនផ្លាស់ប្តូរ ឬរបៀបគិតតឹងរ៉ឹង អាចកំពុងសង្កត់លើអ្នក។ ការប្រាកដថាអ្នកត្រូវ អាចកំពុងរារាំងអ្នកពីសន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Holding on to one way of seeing things could cut you off from others. Let go of the need to be right, and stay curious about other views.",
+        "km": "ការប្រកាន់ខ្ជាប់របៀបមើលអ្វីៗតែមួយ អាចកាត់ផ្តាច់អ្នកពីអ្នកដទៃ។ សូមលែងប្រកាន់តម្រូវការចង់ត្រូវ ហើយនៅតែចង់ដឹងអំពីទស្សនៈផ្សេងៗ។"
+      },
+      "outcome": {
+        "en": "An open mind could bring clarity and calmer relationships. You may see your situation, and other people, more truthfully.",
+        "km": "គំនិតបើកចំហ អាចនាំមកនូវភាពច្បាស់លាស់ និងទំនាក់ទំនងដែលស្ងប់ជាងមុន។ អ្នកអាចមើលឃើញស្ថានភាពរបស់អ្នក និងអ្នកដទៃ ពិតជាងមុន។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Avoiding a difficult decision may be weighing on you. Staying on the fence could be costing you peace of mind.",
+        "km": "ការគេចពីការសម្រេចចិត្តដ៏លំបាក អាចកំពុងសង្កត់លើអ្នក។ ការឈរនៅកណ្តាលផ្លូវ អាចកំពុងធ្វើឱ្យអ្នកបាត់បង់សេចក្តីសុខក្នុងចិត្ត។"
+      },
+      "challenge": {
+        "en": "Clinging to the option you are afraid to give up could keep you stuck. Let go of one path so you can fully commit to another.",
+        "km": "ការប្រកាន់ខ្ជាប់ជម្រើសដែលអ្នកខ្លាចបោះបង់ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមលែងប្រកាន់ផ្លូវមួយ ដើម្បីឱ្យអ្នកអាចប្តេជ្ញាចិត្តពេញលេញលើផ្លូវមួយទៀត។"
+      },
+      "outcome": {
+        "en": "Letting go of indecision could bring relief and forward movement. You may feel lighter once a choice is made.",
+        "km": "ការលែងប្រកាន់ការមិនសម្រេចចិត្ត អាចនាំមកនូវការធូរស្រាល និងចលនាទៅមុខ។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលជម្រើសមួយត្រូវបានធ្វើ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "A painful memory or betrayal may still be weighing on your heart. Replaying the hurt could be keeping the wound fresh.",
+        "km": "ការចងចាំដ៏ឈឺចាប់ ឬការក្បត់មួយ អាចនៅតែសង្កត់លើចិត្តរបស់អ្នក។ ការរំលឹកការឈឺចាប់ឡើងវិញ អាចកំពុងធ្វើឱ្យរបួសនៅស្រស់។"
+      },
+      "challenge": {
+        "en": "Old hurt could keep you from healing. Let go of the need for the other person to make it right, and seek a counsellor if the pain feels heavy.",
+        "km": "ការឈឺចាប់ចាស់ អាចរារាំងអ្នកពីការជាសះស្បើយ។ សូមលែងប្រកាន់តម្រូវការឱ្យមនុស្សម្នាក់ទៀតកែតម្រូវវា ហើយស្វែងរកអ្នកប្រឹក្សា ប្រសិនបើការឈឺចាប់ធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Releasing old pain could allow your heart to mend. You may find peace without needing an apology from anyone.",
+        "km": "ការលែងប្រកាន់ការឈឺចាប់ចាស់ អាចអនុញ្ញាតឱ្យចិត្តរបស់អ្នកជាសះស្បើយ។ អ្នកអាចរកឃើញសន្តិភាព ដោយមិនចាំបាច់ត្រូវការការសុំទោសពីនរណាម្នាក់។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Guilt about resting may be weighing on you. Feeling that you must be productive every moment could be keeping you exhausted.",
+        "km": "អារម្មណ៍ទោសកំហុសអំពីការសម្រាក អាចកំពុងសង្កត់លើអ្នក។ ការមានអារម្មណ៍ថាអ្នកត្រូវតែមានផលិតភាពគ្រប់ពេល អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Clinging to busyness could stop you from recovering. Let go of the belief that rest must be earned through exhaustion.",
+        "km": "ការប្រកាន់ខ្ជាប់ភាពមមាញឹក អាចរារាំងអ្នកពីការងើបឡើងវិញ។ សូមលែងប្រកាន់ជំនឿថាការសម្រាកត្រូវតែខិតខំរកបានតាមរយៈភាពអស់កម្លាំង។"
+      },
+      "outcome": {
+        "en": "Releasing guilt about rest could bring deep renewal. You may return to your life refreshed, clear-headed and kinder to yourself.",
+        "km": "ការលែងប្រកាន់អារម្មណ៍ទោសកំហុសអំពីការសម្រាក អាចនាំមកនូវការកកើតឡើងវិញយ៉ាងជ្រាលជ្រៅ។ អ្នកអាចត្រឡប់មករកជីវិតរបស់អ្នកវិញ ដោយស្រស់ស្រាយ គំនិតច្បាស់ និងសប្បុរសចំពោះខ្លួនឯងជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "A conflict you are still fighting in your head may be weighing on you. Needing to have the final word could be costing you peace.",
+        "km": "ជម្លោះដែលអ្នកនៅតែតស៊ូក្នុងក្បាល អាចកំពុងសង្កត់លើអ្នក។ ការត្រូវការនិយាយពាក្យចុងក្រោយ អាចកំពុងធ្វើឱ្យអ្នកបាត់បង់សន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Holding on to resentment after a quarrel could keep it alive. Let go of the need to win, even without an apology.",
+        "km": "ការប្រកាន់ខ្ជាប់ការអាក់អន់ចិត្តក្រោយការឈ្លោះប្រកែក អាចធ្វើឱ្យវានៅរស់។ សូមលែងប្រកាន់តម្រូវការចង់ឈ្នះ ទោះបីគ្មានការសុំទោសក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Releasing resentment could bring calm and a lighter heart. You may feel free of a fight that no longer matters.",
+        "km": "ការលែងប្រកាន់ការអាក់អន់ចិត្ត អាចនាំមកនូវភាពស្ងប់ និងចិត្តស្រាលជាងមុន។ អ្នកអាចមានអារម្មណ៍រួចផុតពីការតស៊ូដែលលែងសំខាន់។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "Old baggage may be coming with you into a new phase of life. Habits or memories from a hard stretch could be weighing you down.",
+        "km": "បន្ទុកចាស់ៗ អាចកំពុងមកជាមួយអ្នកចូលក្នុងដំណាក់កាលថ្មីនៃជីវិត។ ទម្លាប់ ឬការចងចាំពីដំណាក់កាលលំបាក អាចកំពុងសង្កត់អ្នក។"
+      },
+      "challenge": {
+        "en": "Carrying everything from the past along with you could slow your recovery. Let go of what you no longer need to bring along.",
+        "km": "ការនាំអ្វីៗទាំងអស់ពីអតីតកាលទៅជាមួយ អាចបន្ថយការងើបឡើងវិញរបស់អ្នក។ សូមលែងប្រកាន់អ្វីដែលអ្នកលែងត្រូវការនាំទៅជាមួយ។"
+      },
+      "outcome": {
+        "en": "Travelling lighter could bring a calmer, freer phase of life. Each thing you set down may make the way ahead easier.",
+        "km": "ការធ្វើដំណើរស្រាលជាងមុន អាចនាំមកនូវដំណាក់កាលជីវិតដែលស្ងប់ និងសេរីជាងមុន។ រឿងនីមួយៗដែលអ្នកដាក់ចុះ អាចធ្វើឱ្យផ្លូវខាងមុខងាយស្រួលជាងមុន។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "A secret, an avoided truth or a habit of self-deception may be weighing on you. Pretending something is fine could be costing you energy.",
+        "km": "អាថ៌កំបាំង ការពិតដែលត្រូវបានគេចវេស ឬទម្លាប់បោកខ្លួនឯង អាចកំពុងសង្កត់លើអ្នក។ ការធ្វើពុតថាអ្វីមួយល្អ អាចកំពុងធ្វើឱ្យអ្នកខាតថាមពល។"
+      },
+      "challenge": {
+        "en": "Clinging to an excuse or a cover story could keep you from real change. Let go of the pretence, and be honest with yourself first.",
+        "km": "ការប្រកាន់ខ្ជាប់ការដោះសារ ឬរឿងបិទបាំង អាចរារាំងអ្នកពីការផ្លាស់ប្តូរពិតប្រាកដ។ សូមលែងប្រកាន់ការធ្វើពុត ហើយស្មោះត្រង់ជាមួយខ្លួនឯងជាមុនសិន។"
+      },
+      "outcome": {
+        "en": "Releasing pretence could bring relief and integrity. You may feel lighter, and more at ease with yourself, with nothing left to hide.",
+        "km": "ការលែងប្រកាន់ការធ្វើពុត អាចនាំមកនូវការធូរស្រាល និងភាពស្មោះត្រង់។ អ្នកអាចមានអារម្មណ៍ស្រាល និងស្រួលជាមួយខ្លួនឯងជាងមុន ដោយគ្មានអ្វីនៅសល់ដើម្បីលាក់។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Beliefs that you are stuck or powerless may be weighing on you. Thoughts like \"I can't\" could be holding you back more than reality.",
+        "km": "ជំនឿថាអ្នកជាប់គាំង ឬគ្មានអំណាច អាចកំពុងសង្កត់លើអ្នក។ គំនិតដូចជា «ខ្ញុំមិនអាច» អាចកំពុងរារាំងអ្នកច្រើនជាងការពិត។"
+      },
+      "challenge": {
+        "en": "Limiting beliefs could keep you trapped. Let go of one \"I can't\", test it gently, and seek support if you feel hopeless.",
+        "km": "ជំនឿដែលកំណត់ព្រំដែន អាចធ្វើឱ្យអ្នកជាប់អន្ទាក់។ សូមលែងប្រកាន់ «ខ្ញុំមិនអាច» មួយ សាកល្បងវាដោយទន់ភ្លន់ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍អស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Releasing limiting beliefs could open up surprising freedom. You may discover choices you did not know you had.",
+        "km": "ការលែងប្រកាន់ជំនឿដែលកំណត់ព្រំដែន អាចបើកសេរីភាពគួរឱ្យភ្ញាក់ផ្អើល។ អ្នកអាចរកឃើញជម្រើសដែលអ្នកមិនដឹងថាអ្នកមាន។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worries that replay in your mind may be weighing on you. Anxious thoughts could be keeping you awake and tense.",
+        "km": "ការព្រួយបារម្ភដែលរំលឹកឡើងវិញក្នុងគំនិតរបស់អ្នក អាចកំពុងសង្កត់លើអ្នក។ គំនិតថប់បារម្ភ អាចកំពុងធ្វើឱ្យអ្នកដេកមិនលក់ និងតានតឹង។"
+      },
+      "challenge": {
+        "en": "Clinging to worry as if it could prevent bad things could exhaust you. Let go of what is outside your control, and seek professional help if anxiety affects your sleep or health.",
+        "km": "ការប្រកាន់ខ្ជាប់ការព្រួយបារម្ភ ហាក់ដូចជាវាអាចការពាររឿងអាក្រក់ អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមលែងប្រកាន់អ្វីដែលនៅក្រៅការគ្រប់គ្រងរបស់អ្នក ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Setting worry down could feel like putting down a heavy bag you forgot you were carrying. Sleep may come more easily once your mind stops keeping watch.",
+        "km": "ការដាក់ការព្រួយបារម្ភចុះ អាចមានអារម្មណ៍ដូចជាការដាក់កាបូបធ្ងន់ដែលអ្នកភ្លេចថាកំពុងកាន់។ ដំណេកអាចមកដល់ងាយជាងមុន នៅពេលគំនិតរបស់អ្នកឈប់យាមល្បាត។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A painful ending may have left you feeling defeated. Holding on to what has collapsed could be keeping you down.",
+        "km": "ការបញ្ចប់ដ៏ឈឺចាប់មួយ អាចបានធ្វើឱ្យអ្នកមានអារម្មណ៍បរាជ័យ។ ការប្រកាន់ខ្ជាប់អ្វីដែលបានដួលរលំរួចហើយ អាចកំពុងសង្កត់អ្នកឱ្យនៅទាប។"
+      },
+      "challenge": {
+        "en": "Refusing to accept that something is over could prolong your pain. Let go of what has ended, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ការបដិសេធមិនទទួលយកថាអ្វីមួយបានចប់ អាចពន្យារការឈឺចាប់របស់អ្នក។ សូមលែងប្រកាន់អ្វីដែលបានបញ្ចប់ ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Accepting the end could mark the beginning of real healing. With support, you may rise again, steadier and wiser for what you have been through.",
+        "km": "ការទទួលយកការបញ្ចប់ អាចសម្គាល់ការចាប់ផ្តើមនៃការជាសះស្បើយពិតប្រាកដ។ ដោយមានការគាំទ្រ អ្នកអាចក្រោកឡើងវិញ ដោយនឹងនរ និងឈ្លាសវៃជាងមុន ដោយសារអ្វីដែលអ្នកបានឆ្លងកាត់។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Overthinking and constant analysis may be weighing on your mind. Needing to understand everything could be keeping you restless.",
+        "km": "ការគិតច្រើនពេក និងការវិភាគជានិច្ច អាចកំពុងសង្កត់លើគំនិតរបស់អ្នក។ ការត្រូវការយល់ពីអ្វីៗទាំងអស់ អាចកំពុងធ្វើឱ្យអ្នកមិនស្ងប់។"
+      },
+      "challenge": {
+        "en": "Clinging to the need for every answer could keep you stuck in your head. Let go of questions that have no clear answer, and rest your mind.",
+        "km": "ការប្រកាន់ខ្ជាប់តម្រូវការចង់បានចម្លើយគ្រប់យ៉ាង អាចធ្វើឱ្យអ្នកជាប់គាំងក្នុងក្បាល។ សូមលែងប្រកាន់សំណួរដែលគ្មានចម្លើយច្បាស់ ហើយឱ្យគំនិតរបស់អ្នកសម្រាក។"
+      },
+      "outcome": {
+        "en": "Releasing the need to know everything could bring mental calm. You may find real peace even with some questions left unanswered.",
+        "km": "ការលែងប្រកាន់តម្រូវការចង់ដឹងអ្វីៗទាំងអស់ អាចនាំមកនូវភាពស្ងប់ផ្លូវចិត្ត។ អ្នកអាចរកឃើញសន្តិភាពពិតប្រាកដ ទោះបីសំណួរខ្លះនៅមិនទាន់មានចម្លើយក៏ដោយ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Impatience and a tendency to rush may be weighing on you. Charging ahead without pause could be leaving a trail of stress.",
+        "km": "ការមិនអត់ធ្មត់ និងទំនោរប្រញាប់ អាចកំពុងសង្កត់លើអ្នក។ ការប្រញាប់ទៅមុខដោយមិនផ្អាក អាចកំពុងបន្សល់ភាពតានតឹងតាមផ្លូវ។"
+      },
+      "challenge": {
+        "en": "Holding on to urgency could make every situation feel like an emergency. Let go of rushing, and give decisions the space they need.",
+        "km": "ការប្រកាន់ខ្ជាប់ភាពបន្ទាន់ អាចធ្វើឱ្យស្ថានការណ៍នីមួយៗមានអារម្មណ៍ដូចជាអាសន្ន។ សូមលែងប្រកាន់ការប្រញាប់ ហើយផ្តល់លំហដល់ការសម្រេចចិត្តតាមដែលវាត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Slowing down could bring wiser choices and a calmer life. You may achieve as much, or more, with far less stress.",
+        "km": "ការបន្ថយល្បឿន អាចនាំមកនូវជម្រើសឈ្លាសវៃជាងមុន និងជីវិតស្ងប់ជាងមុន។ អ្នកអាចសម្រេចបានច្រើនដូចគ្នា ឬច្រើនជាងនេះ ដោយភាពតានតឹងតិចជាងមុនច្រើន។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Harsh judgement of yourself or others may be weighing on you. High standards could be leaving little room for forgiveness.",
+        "km": "ការវិនិច្ឆ័យយ៉ាងធ្ងន់ធ្ងរចំពោះខ្លួនឯង ឬអ្នកដទៃ អាចកំពុងសង្កត់លើអ្នក។ ស្តង់ដារខ្ពស់ អាចកំពុងទុកលំហតិចតួចសម្រាប់ការអភ័យទោស។"
+      },
+      "challenge": {
+        "en": "Clinging to criticism could keep you cold and isolated. Let go of perfection, and allow yourself and others to make mistakes.",
+        "km": "ការប្រកាន់ខ្ជាប់ការរិះគន់ អាចធ្វើឱ្យអ្នកត្រជាក់ និងឯកោ។ សូមលែងប្រកាន់ភាពល្អឥតខ្ចោះ ហើយអនុញ្ញាតឱ្យខ្លួនឯង និងអ្នកដទៃធ្វើខុសបាន។"
+      },
+      "outcome": {
+        "en": "Releasing harsh judgement could bring warmth and clarity. You may feel kinder, calmer and more at peace with people as they are.",
+        "km": "ការលែងប្រកាន់ការវិនិច្ឆ័យយ៉ាងធ្ងន់ធ្ងរ អាចនាំមកនូវភាពកក់ក្តៅ និងភាពច្បាស់លាស់។ អ្នកអាចមានអារម្មណ៍សប្បុរស ស្ងប់ និងស្ងប់ជាមួយមនុស្សដូចដែលពួកគេជាជាងមុន។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "A need to control everything through logic may be weighing on you. Weighing every decision over and over could be keeping you tense.",
+        "km": "តម្រូវការចង់គ្រប់គ្រងអ្វីៗទាំងអស់តាមរយៈតក្កវិជ្ជា អាចកំពុងសង្កត់លើអ្នក។ ការថ្លឹងថ្លែងការសម្រេចចិត្តនីមួយៗម្តងហើយម្តងទៀត អាចកំពុងធ្វើឱ្យអ្នកតានតឹង។"
+      },
+      "challenge": {
+        "en": "Rigid rules could leave no room for feelings. Let go of the belief that everything must be reasoned out before you feel it.",
+        "km": "ច្បាប់តឹងរ៉ឹង អាចមិនទុកលំហសម្រាប់អារម្មណ៍។ សូមលែងប្រកាន់ជំនឿថាអ្វីៗទាំងអស់ត្រូវតែវែកញែក មុនពេលអ្នកមានអារម្មណ៍វា។"
+      },
+      "outcome": {
+        "en": "Balancing reason with feeling could bring calmer, wiser choices. You may feel more whole, trusting both your head and your heart.",
+        "km": "ការថ្លឹងហេតុផលជាមួយអារម្មណ៍ អាចនាំមកនូវជម្រើសដែលស្ងប់ និងឈ្លាសវៃជាងមុន។ អ្នកអាចមានអារម្មណ៍ពេញលេញជាងមុន ដោយទុកចិត្តទាំងក្បាល និងចិត្តរបស់អ្នក។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "Fear of starting something new may be weighing on you. Holding on to what feels safe could be keeping you from a promising opportunity.",
+        "km": "ការភ័យខ្លាចចាប់ផ្តើមអ្វីថ្មី អាចកំពុងសង្កត់លើអ្នក។ ការប្រកាន់ខ្ជាប់អ្វីដែលមានអារម្មណ៍សុវត្ថិភាព អាចកំពុងរារាំងអ្នកពីឱកាសដ៏មានសង្ឃឹម។"
+      },
+      "challenge": {
+        "en": "Clinging to familiar routines out of fear could stop healthy growth. Let go of the need for guarantees, and plant one small seed of change.",
+        "km": "ការប្រកាន់ខ្ជាប់ទម្លាប់ដែលធ្លាប់ស្គាល់ដោយសារការភ័យខ្លាច អាចរារាំងការរីកចម្រើនដែលមានសុខភាពល្អ។ សូមលែងប្រកាន់តម្រូវការចង់បានការធានា ហើយដាំគ្រាប់ពូជតូចមួយនៃការផ្លាស់ប្តូរ។"
+      },
+      "outcome": {
+        "en": "Releasing fear could open the way to a solid new beginning. A small step may grow into something stable and rewarding.",
+        "km": "ការលែងប្រកាន់ការភ័យខ្លាច អាចបើកផ្លូវទៅរកការចាប់ផ្តើមថ្មីដ៏រឹងមាំ។ ជំហានតូចមួយ អាចរីកចម្រើនទៅជាអ្វីដែលមានស្ថិរភាព និងមានតម្លៃ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Trying to keep too many commitments going may be weighing on you. Juggling everything could be leaving you stretched thin and short of rest.",
+        "km": "ការព្យាយាមរក្សាការប្តេជ្ញាច្រើនពេកឱ្យដំណើរការ អាចកំពុងសង្កត់លើអ្នក។ ការបំពេញអ្វីៗទាំងអស់ អាចកំពុងធ្វើឱ្យអ្នកស្តើងពេក និងខ្វះការសម្រាក។"
+      },
+      "challenge": {
+        "en": "Holding on to every obligation could leave you exhausted. Let go of at least one commitment that no longer fits your life.",
+        "km": "ការប្រកាន់ខ្ជាប់កាតព្វកិច្ចនីមួយៗ អាចធ្វើឱ្យអ្នកហត់នឿយ។ សូមលែងប្រកាន់ការប្តេជ្ញាយ៉ាងហោចណាស់មួយ ដែលលែងសមនឹងជីវិតរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Simplifying could bring balance and breathing space. You may handle what remains with more ease, care and attention.",
+        "km": "ការធ្វើឱ្យសាមញ្ញ អាចនាំមកនូវតុល្យភាព និងលំហដកដង្ហើម។ អ្នកអាចដោះស្រាយអ្វីដែលនៅសល់ដោយភាពស្រួល ការយកចិត្តទុកដាក់ និងការផ្តោតជាងមុន។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Doing everything yourself may be weighing on you. Not trusting others to help could be leaving you overloaded.",
+        "km": "ការធ្វើអ្វីៗទាំងអស់ដោយខ្លួនឯង អាចកំពុងសង្កត់លើអ្នក។ ការមិនទុកចិត្តឱ្យអ្នកដទៃជួយ អាចកំពុងធ្វើឱ្យអ្នកលើសបន្ទុក។"
+      },
+      "challenge": {
+        "en": "Clinging to the belief that no one else can do it right could isolate you. Let go of doing it all, and accept help in its imperfect form.",
+        "km": "ការប្រកាន់ខ្ជាប់ជំនឿថាគ្មាននរណាម្នាក់ផ្សេងអាចធ្វើវាបានត្រឹមត្រូវ អាចធ្វើឱ្យអ្នកឯកោ។ សូមលែងប្រកាន់ការធ្វើអ្វីៗទាំងអស់ ហើយទទួលយកជំនួយក្នុងទម្រង់មិនល្អឥតខ្ចោះរបស់វា។"
+      },
+      "outcome": {
+        "en": "Sharing the load could bring relief and connection. You may discover that others are glad to help when they are asked.",
+        "km": "ការចែករំលែកបន្ទុក អាចនាំមកនូវការធូរស្រាល និងការភ្ជាប់ទំនាក់ទំនង។ អ្នកអាចរកឃើញថាអ្នកដទៃរីករាយក្នុងការជួយ នៅពេលពួកគេត្រូវបានស្នើសុំ។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Holding tightly to money, possessions or security may be weighing on you. Fear of loss could be keeping you tense and closed off.",
+        "km": "ការកាន់យ៉ាងតឹងលើប្រាក់ ទ្រព្យសម្បត្តិ ឬសុវត្ថិភាព អាចកំពុងសង្កត់លើអ្នក។ ការភ័យខ្លាចការបាត់បង់ អាចកំពុងធ្វើឱ្យអ្នកតានតឹង និងបិទខ្លួន។"
+      },
+      "challenge": {
+        "en": "Clinging to things out of fear could leave little room for joy or generosity. Let go of possessions you no longer need, and seek an adviser if money worry is overwhelming.",
+        "km": "ការប្រកាន់ខ្ជាប់របស់របរដោយសារការភ័យខ្លាច អាចទុកលំហតិចតួចសម្រាប់សេចក្តីរីករាយ ឬភាពសប្បុរស។ សូមលែងប្រកាន់ទ្រព្យសម្បត្តិដែលអ្នកលែងត្រូវការ ហើយស្វែងរកទីប្រឹក្សា ប្រសិនបើការព្រួយបារម្ភអំពីប្រាក់ខ្លាំងពេក។"
+      },
+      "outcome": {
+        "en": "Loosening your grip could bring a lighter, freer feeling. You may enjoy what you have more fully, and share it more freely.",
+        "km": "ការបន្ធូរការក្តាប់របស់អ្នក អាចនាំមកនូវអារម្មណ៍ស្រាល និងសេរីជាងមុន។ អ្នកអាចរីករាយនឹងអ្វីដែលអ្នកមានបានពេញលេញជាងមុន ហើយចែករំលែកវាដោយសេរីជាងមុន។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "A sense of lack or exclusion may be weighing on you. Feeling left out in the cold could be colouring how you see yourself.",
+        "km": "អារម្មណ៍នៃការខ្វះខាត ឬការត្រូវបានគេដកចេញ អាចកំពុងសង្កត់លើអ្នក។ ការមានអារម្មណ៍ថាត្រូវបានទុកចោលក្នុងភាពត្រជាក់ អាចកំពុងប៉ះពាល់ដល់របៀបដែលអ្នកមើលខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Holding on to the belief that you must struggle alone could keep help away. Let go of pride, and reach out to friends, community or services.",
+        "km": "ការប្រកាន់ខ្ជាប់ជំនឿថាអ្នកត្រូវតែតស៊ូតែម្នាក់ឯង អាចរក្សាជំនួយឱ្យនៅឆ្ងាយ។ សូមលែងប្រកាន់មោទនភាព ហើយទាក់ទងមិត្តភក្តិ សហគមន៍ ឬសេវានានា។"
+      },
+      "outcome": {
+        "en": "Accepting support could bring warmth and relief. You may find doors open to you that you had not noticed.",
+        "km": "ការទទួលយកការគាំទ្រ អាចនាំមកនូវភាពកក់ក្តៅ និងការធូរស្រាល។ អ្នកអាចរកឃើញទ្វារបើកសម្រាប់អ្នក ដែលអ្នកមិនបានកត់សម្គាល់។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "An imbalance in giving and receiving may be weighing on you. Feeling that you owe, or are owed, could be straining your peace of mind.",
+        "km": "ភាពមិនស្មើគ្នាក្នុងការផ្តល់ និងការទទួល អាចកំពុងសង្កត់លើអ្នក។ អារម្មណ៍ថាអ្នកជំពាក់ ឬមានគេជំពាក់អ្នក អាចកំពុងធ្វើឱ្យសេចក្តីសុខក្នុងចិត្តរបស់អ្នកតានតឹង។"
+      },
+      "challenge": {
+        "en": "Keeping score of favours could breed resentment. Let go of tallying, and give only what you can offer freely.",
+        "km": "ការរាប់ចំនួននៃការជួយគ្នា អាចបង្កើតការអាក់អន់ចិត្ត។ សូមលែងប្រកាន់ការរាប់ ហើយផ្តល់តែអ្វីដែលអ្នកអាចផ្តល់ដោយសេរី។"
+      },
+      "outcome": {
+        "en": "Releasing the ledger could bring lighter, warmer relationships. Generosity may feel joyful again, rather than like a debt to collect.",
+        "km": "ការលែងប្រកាន់បញ្ជីគណនី អាចនាំមកនូវទំនាក់ទំនងដែលស្រាល និងកក់ក្តៅជាងមុន។ ភាពសប្បុរសអាចមានអារម្មណ៍រីករាយម្តងទៀត ជាជាងដូចជាបំណុលដែលត្រូវប្រមូល។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Impatience with your progress may be weighing on you. Constantly checking for results could be draining your motivation.",
+        "km": "ការមិនអត់ធ្មត់ជាមួយវឌ្ឍនភាពរបស់អ្នក អាចកំពុងសង្កត់លើអ្នក។ ការពិនិត្យលទ្ធផលជានិច្ច អាចកំពុងបង្ហូរការលើកទឹកចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Clinging to a fixed idea of how things should grow could discourage you. Let go of that picture, and keep tending what you have planted.",
+        "km": "ការប្រកាន់ខ្ជាប់គំនិតថេរអំពីរបៀបដែលអ្វីៗគួររីកចម្រើន អាចធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។ សូមលែងប្រកាន់រូបភាពនោះ ហើយបន្តថែរក្សាអ្វីដែលអ្នកបានដាំ។"
+      },
+      "outcome": {
+        "en": "Releasing impatience could bring calm and steady growth. Your efforts may bear fruit in their own way, at their own pace.",
+        "km": "ការលែងប្រកាន់ការមិនអត់ធ្មត់ អាចនាំមកនូវភាពស្ងប់ និងការរីកចម្រើននឹងនរ។ កិច្ចខិតខំរបស់អ្នក អាចបង្កើតផលតាមរបៀប និងល្បឿនរបស់វា។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Perfectionism in your work or routines may be weighing on you. Needing every detail to be right could be tiring you out.",
+        "km": "ការចង់បានភាពល្អឥតខ្ចោះក្នុងការងារ ឬទម្លាប់របស់អ្នក អាចកំពុងសង្កត់លើអ្នក។ ការត្រូវការឱ្យព័ត៌មានលម្អិតនីមួយៗត្រឹមត្រូវ អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Impossibly high standards could steal your satisfaction. Let go of flawless, and accept good work done with care.",
+        "km": "ស្តង់ដារខ្ពស់ដែលមិនអាចសម្រេចបាន អាចលួចសេចក្តីពេញចិត្តរបស់អ្នក។ សូមលែងប្រកាន់ភាពគ្មានកំហុស ហើយទទួលយកការងារល្អដែលធ្វើដោយយកចិត្តទុកដាក់។"
+      },
+      "outcome": {
+        "en": "Releasing perfectionism could bring calm pride in your efforts. You may enjoy your craft more and stress about it less.",
+        "km": "ការលែងប្រកាន់ការចង់បានភាពល្អឥតខ្ចោះ អាចនាំមកនូវមោទនភាពស្ងប់ៗចំពោះកិច្ចខិតខំរបស់អ្នក។ អ្នកអាចរីករាយនឹងជំនាញរបស់អ្នកច្រើនជាងមុន ហើយតានតឹងអំពីវាតិចជាងមុន។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "A fierce need to manage alone may be weighing on you. Independence that protected you could be quietly isolating you from others.",
+        "km": "តម្រូវការខ្លាំងចង់គ្រប់គ្រងតែម្នាក់ឯង អាចកំពុងសង្កត់លើអ្នក។ ឯករាជ្យភាពដែលធ្លាប់ការពារអ្នក អាចកំពុងធ្វើឱ្យអ្នកឯកោពីអ្នកដទៃដោយស្ងាត់ៗ។"
+      },
+      "challenge": {
+        "en": "Clinging to self-sufficiency could keep you from sharing your life. Let go of the need to prove you need no one, and let people in.",
+        "km": "ការប្រកាន់ខ្ជាប់ការពឹងផ្អែកលើខ្លួនឯង អាចរារាំងអ្នកពីការចែករំលែកជីវិតរបស់អ្នក។ សូមលែងប្រកាន់តម្រូវការចង់បញ្ជាក់ថាអ្នកមិនត្រូវការនរណាម្នាក់ ហើយឱ្យមនុស្សចូលមក។"
+      },
+      "outcome": {
+        "en": "Opening your life to others could bring warmth to the comfort you have built. You may enjoy your achievements more when they are shared.",
+        "km": "ការបើកជីវិតរបស់អ្នកឱ្យអ្នកដទៃ អាចនាំភាពកក់ក្តៅដល់ភាពសុខស្រួលដែលអ្នកបានកសាង។ អ្នកអាចរីករាយនឹងសមិទ្ធផលរបស់អ្នកច្រើនជាងមុន នៅពេលវាត្រូវបានចែករំលែក។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family expectations or inherited duties may be weighing on you. Living up to what others planned for you could be costing you peace.",
+        "km": "ការរំពឹងទុករបស់គ្រួសារ ឬកាតព្វកិច្ចដែលទទួលបន្តពីគេ អាចកំពុងសង្កត់លើអ្នក។ ការរស់នៅតាមអ្វីដែលអ្នកដទៃបានគ្រោងសម្រាប់អ្នក អាចកំពុងធ្វើឱ្យអ្នកបាត់បង់សន្តិភាព។"
+      },
+      "challenge": {
+        "en": "Roles you never chose could leave you resentful. Let go of the expectations that do not fit, while honouring the love behind them.",
+        "km": "តួនាទីដែលអ្នកមិនដែលជ្រើសរើស អាចធ្វើឱ្យអ្នកអាក់អន់ចិត្ត។ សូមលែងប្រកាន់ការរំពឹងទុកដែលមិនសម ខណៈគោរពក្តីស្រឡាញ់នៅពីក្រោយវា។"
+      },
+      "outcome": {
+        "en": "Choosing your own role could bring peace and stronger family bonds. You may belong to your family more fully by being honestly yourself.",
+        "km": "ការជ្រើសតួនាទីផ្ទាល់ខ្លួន អាចនាំមកនូវសន្តិភាព និងចំណងគ្រួសារដែលរឹងមាំជាងមុន។ អ្នកអាចជាប់ចំណងជាមួយគ្រួសាររបស់អ្នកបានពេញលេញជាងមុន ដោយការធ្វើជាខ្លួនឯងដោយស្មោះត្រង់។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A belief that you are not good enough to try may be weighing on you. Fear of being a beginner could be holding you back from things you would enjoy.",
+        "km": "ជំនឿថាអ្នកមិនល្អគ្រប់គ្រាន់ដើម្បីសាកល្បង អាចកំពុងសង្កត់លើអ្នក។ ការភ័យខ្លាចធ្វើជាអ្នកចាប់ផ្តើមដំបូង អាចកំពុងរារាំងអ្នកពីរឿងដែលអ្នកនឹងរីករាយ។"
+      },
+      "challenge": {
+        "en": "The need to be skilled before starting could keep you stuck. Let go of the fear of looking clumsy, and allow yourself to learn.",
+        "km": "តម្រូវការចង់មានជំនាញ មុនពេលចាប់ផ្តើម អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមលែងប្រកាន់ការភ័យខ្លាចមើលទៅឆ្គង ហើយអនុញ្ញាតឱ្យខ្លួនឯងរៀន។"
+      },
+      "outcome": {
+        "en": "Embracing beginnings could bring growth and quiet confidence. You may enjoy learning, mistakes and all, more than you expected.",
+        "km": "ការទទួលយកការចាប់ផ្តើម អាចនាំមកនូវការរីកចម្រើន និងទំនុកចិត្តស្ងាត់ៗ។ អ្នកអាចរីករាយនឹងការរៀន រួមទាំងកំហុសផង ច្រើនជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "A rigid routine you no longer enjoy may be weighing on you. Sticking to habits out of duty could be making life feel dull.",
+        "km": "ទម្លាប់តឹងរ៉ឹងដែលអ្នកលែងរីករាយ អាចកំពុងសង្កត់លើអ្នក។ ការប្រកាន់ខ្ជាប់ទម្លាប់ដោយកាតព្វកិច្ច អាចកំពុងធ្វើឱ្យជីវិតគួរឱ្យធុញ។"
+      },
+      "challenge": {
+        "en": "Clinging to sameness for safety could keep you from growth and fun. Let go of one routine that no longer serves you, and try something fresh.",
+        "km": "ការប្រកាន់ខ្ជាប់ភាពដដែលៗដើម្បីសុវត្ថិភាព អាចរារាំងអ្នកពីការរីកចម្រើន និងភាពសប្បាយ។ សូមលែងប្រកាន់ទម្លាប់មួយដែលលែងបម្រើអ្នក ហើយសាកល្បងអ្វីមួយថ្មី។"
+      },
+      "outcome": {
+        "en": "Letting a stale routine go could make room for something that feels alive again. Even a small new habit may bring fresh energy into your life.",
+        "km": "ការលែងប្រកាន់ទម្លាប់ដែលគួរឱ្យធុញ អាចទុកលំហសម្រាប់អ្វីមួយដែលមានអារម្មណ៍រស់រវើកម្តងទៀត។ ទោះបីទម្លាប់ថ្មីតូចមួយក៏ដោយ អាចនាំថាមពលថ្មីចូលក្នុងជីវិតរបស់អ្នក។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Caring for everyone and everything at home may be weighing on you. Feeling you must keep the household running alone could be exhausting.",
+        "km": "ការមើលថែគ្រប់គ្នា និងអ្វីៗទាំងអស់នៅផ្ទះ អាចកំពុងសង្កត់លើអ្នក។ ការមានអារម្មណ៍ថាអ្នកត្រូវតែរក្សាគ្រួសារឱ្យដំណើរការតែម្នាក់ឯង អាចធ្វើឱ្យហត់នឿយ។"
+      },
+      "challenge": {
+        "en": "Holding on to the role of sole caretaker could leave you depleted. Let go of doing it all, and share household tasks fairly.",
+        "km": "ការប្រកាន់ខ្ជាប់តួនាទីជាអ្នកមើលថែតែម្នាក់ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមលែងប្រកាន់ការធ្វើអ្វីៗទាំងអស់ ហើយចែករំលែកការងារផ្ទះដោយយុត្តិធម៌។"
+      },
+      "outcome": {
+        "en": "Sharing care could bring warmth and rest back into your home life. You may feel cared for as well as caring, and far less alone at home.",
+        "km": "ការចែករំលែកការថែរក្សា អាចនាំភាពកក់ក្តៅ និងការសម្រាកត្រឡប់មកក្នុងជីវិតនៅផ្ទះរបស់អ្នកវិញ។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានថែរក្សា ក៏ដូចជាជាអ្នកថែរក្សា ហើយមិនសូវឯកោនៅផ្ទះ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "A drive for status or material success may be weighing on you. Measuring your worth by what you own could be leaving you unsatisfied.",
+        "km": "កម្លាំងជំរុញចង់បានឋានៈ ឬជោគជ័យផ្នែកសម្ភារៈ អាចកំពុងសង្កត់លើអ្នក។ ការវាស់តម្លៃរបស់អ្នកតាមអ្វីដែលអ្នកមាន អាចកំពុងធ្វើឱ្យអ្នកមិនពេញចិត្ត។"
+      },
+      "challenge": {
+        "en": "The need for more could keep you from enjoying enough. Let go of comparison, and decide what is truly sufficient for you.",
+        "km": "តម្រូវការចង់បានច្រើនជាងនេះ អាចរារាំងអ្នកពីការរីករាយនឹងអ្វីដែលគ្រប់គ្រាន់។ សូមលែងប្រកាន់ការប្រៀបធៀប ហើយសម្រេចថាអ្វីដែលពិតជាគ្រប់គ្រាន់សម្រាប់អ្នក។"
+      },
+      "outcome": {
+        "en": "Releasing the chase could bring contentment and calm security. You may enjoy what you have built with a lighter heart.",
+        "km": "ការលែងប្រកាន់ការដេញតាម អាចនាំមកនូវសេចក្តីពេញចិត្ត និងសុវត្ថិភាពស្ងប់ៗ។ អ្នកអាចរីករាយនឹងអ្វីដែលអ្នកបានកសាង ជាមួយចិត្តស្រាលជាងមុន។"
+      }
+    }
+  }
+}
