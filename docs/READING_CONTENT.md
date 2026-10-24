@@ -63,6 +63,7 @@
 | `src/content/readings/FF-07.json` | How can I repair a broken friendship? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/FF-09.json` | How can I set healthy boundaries? | 78 cards × 3 positions, English and Khmer (how) |
 | `src/content/readings/FF-10.json` | Where are my family relationships heading? | 78 cards × 3 positions, English and Khmer (heading) |
+| `src/content/readings/WB-01.json` | What does my inner balance look like now? | 78 cards × 3 positions, English and Khmer (state) |
 
 - Each file has 234 bilingual interpretations (468 individual language texts); combined coverage is 702 bilingual interpretations across 3 of 100 questions.
 - Authored with AI during development on 2026-10-23, using the existing card meanings as the starting point.

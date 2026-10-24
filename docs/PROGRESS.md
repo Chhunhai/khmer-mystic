@@ -6,7 +6,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 ## Current status
 
 ### Done
-- Saved question-specific readings: 59 of 100 questions (13,806 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
+- Saved question-specific readings: 60 of 100 questions (14,040 bilingual entries) in src/content/readings/, listed in docs/READING_CONTENT.md. AI-drafted; English and native Khmer review pending.
 - Offline LF-02 batch: “What should I focus on right now?” has 234 bilingual interpretations covering all 78 cards × 3 positions in `src/content/readings/LF-02.json`, registered for the full reading and card captions. Total saved coverage: 2 of 100 questions, 468 bilingual interpretations. English editorial/Khmer review pending.
 - Offline question-specific reading pilot: LF-01 has all 78 cards × 3 positions in English and Khmer in `src/content/readings/LF-01.json`; the engine uses these in the full reading and overall answer, with generic fallback for other questions. AI-authored draft; editorial/Khmer review pending.
 - Web entrance motion: home reveal, staggered feature medallions and result cards, and reading panel reveal; skips animation with Reduce Motion.
@@ -40,6 +40,7 @@ Keep "Current status" accurate and add one line to "Log" per task (newest first)
 - Decisions: reversed cards, monetisation (a paid unlock would need a server-backed limit; the daily limit is device-only)
 
 ## Log
+- 2026-10-24: Drafted WB-01 (“What does my inner balance look like now?”, state): 78 cards × 3 positions in English and Khmer, src/content/readings/WB-01.json. WB-01 inner-balance readings AI-drafted; English and native Khmer review pending. Saved coverage 60/100 questions; checks, typecheck and lint pass
 - 2026-10-24: Drafted FF-10 (“Where are my family relationships heading?”, heading): 78 cards × 3 positions in English and Khmer, src/content/readings/FF-10.json. FF-10 family-direction readings AI-drafted; English and native Khmer review pending. Saved coverage 59/100 questions; checks, typecheck and lint pass
 - 2026-10-24: Drafted FF-09 (“How can I set healthy boundaries?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/FF-09.json. FF-09 healthy-boundaries readings AI-drafted; English and native Khmer review pending. Saved coverage 58/100 questions; checks, typecheck and lint pass
 - 2026-10-24: Drafted FF-07 (“How can I repair a broken friendship?”, how): 78 cards × 3 positions in English and Khmer, src/content/readings/FF-07.json. FF-07 repair-a-friendship readings AI-drafted; English and native Khmer review pending. Saved coverage 57/100 questions; checks, typecheck and lint pass

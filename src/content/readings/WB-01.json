@@ -1,0 +1,1097 @@
+{
+  "questionId": "WB-01",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Inside, there may be a light, curious openness, as if you stood at the edge of something new. That carefree mood could be a healthy sign of inner freedom.",
+        "km": "ក្នុងចិត្ត ប្រហែលជាមានភាពបើកចំហ ស្រាល និងចង់ដឹង ហាក់ដូចជាអ្នកកំពុងឈរនៅមាត់អ្វីមួយថ្មី។ អារម្មណ៍គ្មានកង្វល់នោះ អាចជាសញ្ញាល្អនៃសេរីភាពក្នុងចិត្ត។"
+      },
+      "challenge": {
+        "en": "Restlessness could keep you jumping between ideas without feeling grounded. Give yourself one steady anchor, such as a regular walk or quiet meal.",
+        "km": "ភាពមិនស្ងប់ អាចធ្វើឱ្យអ្នកលោតពីគំនិតមួយទៅគំនិតមួយ ដោយមិនមានអារម្មណ៍នឹងនរ។ សូមផ្តល់ឱ្យខ្លួនឯងនូវយុថ្កានឹងនរមួយ ដូចជាការដើរជាប្រចាំ ឬអាហារស្ងាត់ៗ។"
+      },
+      "outcome": {
+        "en": "An open, trusting attitude could keep your spirit light and hopeful. Fresh experiences may refresh your sense of wonder and ease.",
+        "km": "អាកប្បកិរិយាបើកចំហ និងទុកចិត្ត អាចរក្សាស្មារតីរបស់អ្នកឱ្យស្រាល និងពោរពេញដោយក្តីសង្ឃឹម។ បទពិសោធន៍ថ្មីៗ អាចធ្វើឱ្យអារម្មណ៍ងឿងឆ្ងល់ និងភាពស្រួលរបស់អ្នកស្រស់ឡើងវិញ។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "You may feel capable and focused, with your energy pulling in one clear direction. That sense of being able to act could steady you inside.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាមានសមត្ថភាព និងផ្តោតអារម្មណ៍ ដោយថាមពលរបស់អ្នកទាញទៅទិសដៅច្បាស់មួយ។ អារម្មណ៍ថាអាចធ្វើសកម្មភាពបាននោះ អាចធ្វើឱ្យអ្នកនឹងនរក្នុងចិត្ត។"
+      },
+      "challenge": {
+        "en": "Pushing yourself to make everything happen could leave little room for rest. Use your skills wisely, and let some things unfold without effort.",
+        "km": "ការរុញខ្លួនឯងឱ្យធ្វើអ្វីៗគ្រប់យ៉ាងឱ្យកើតឡើង អាចទុកលំហតិចតួចសម្រាប់ការសម្រាក។ សូមប្រើជំនាញរបស់អ្នកដោយឈ្លាសវៃ ហើយឱ្យអ្វីខ្លះកើតឡើងដោយមិនចាំបាច់ខិតខំ។"
+      },
+      "outcome": {
+        "en": "Directing your energy with purpose could bring a satisfying sense of control over your wellbeing. Small, deliberate choices may add up to real calm.",
+        "km": "ការតម្រង់ថាមពលរបស់អ្នកដោយមានគោលបំណង អាចនាំអារម្មណ៍ពេញចិត្តនៃការគ្រប់គ្រងសុខុមាលភាពរបស់អ្នក។ ជម្រើសតូចៗដែលបានគិតគូរ អាចបូកបញ្ចូលគ្នាទៅជាភាពស្ងប់ពិតប្រាកដ។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "A quiet, inward mood may be leading you, more tuned to intuition than to outside noise. That stillness could be telling you what you need.",
+        "km": "អារម្មណ៍ស្ងាត់ និងងាកចូលក្នុងខ្លួន ប្រហែលជាកំពុងដឹកនាំអ្នក ដោយស្តាប់វិចារណញាណច្រើនជាងសំឡេងខាងក្រៅ។ ភាពស្ងប់ស្ងាត់នោះ អាចកំពុងប្រាប់អ្នកពីអ្វីដែលអ្នកត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Ignoring the quiet signals of your body and mind could let small troubles grow. Notice subtle signs of tiredness or unease before they build.",
+        "km": "ការមិនអើពើនឹងសញ្ញាស្ងាត់ៗនៃរាងកាយ និងចិត្តរបស់អ្នក អាចធ្វើឱ្យបញ្ហាតូចៗរីកធំ។ សូមកត់សម្គាល់សញ្ញាតូចៗនៃភាពហត់នឿយ ឬភាពមិនស្រួល មុនពេលវាកើនឡើង។"
+      },
+      "outcome": {
+        "en": "Trusting your inner voice could guide you toward deeper calm and self-understanding. Quiet reflection may become a reliable source of balance.",
+        "km": "ការទុកចិត្តលើសំឡេងក្នុងចិត្តរបស់អ្នក អាចណែនាំអ្នកឆ្ពោះទៅរកភាពស្ងប់ និងការយល់ពីខ្លួនឯងកាន់តែជ្រៅ។ ការពិចារណាស្ងាត់ៗ អាចក្លាយជាប្រភពនៃតុល្យភាពដែលគួរទុកចិត្ត។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "You may feel nurtured and at home in yourself, with comfort close at hand. Simple pleasures like good food and nature could be feeding your calm.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាត្រូវបានថែរក្សា និងស្រួលក្នុងខ្លួនឯង ដោយភាពសុខស្រួលនៅក្បែរដៃ។ សេចក្តីរីករាយសាមញ្ញៗ ដូចជាអាហារឆ្ងាញ់ និងធម្មជាតិ អាចកំពុងចិញ្ចឹមភាពស្ងប់របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Giving so much care to others could leave your own needs unmet. Turn some of that warmth toward yourself, without guilt.",
+        "km": "ការផ្តល់ការយកចិត្តទុកដាក់ច្រើនដល់អ្នកដទៃ អាចធ្វើឱ្យតម្រូវការរបស់អ្នកមិនត្រូវបានបំពេញ។ សូមបង្វែរភាពកក់ក្តៅនោះខ្លះមកខ្លួនឯង ដោយគ្មានអារម្មណ៍ទោសកំហុស។"
+      },
+      "outcome": {
+        "en": "Gentle self-care could help you feel more rested, abundant and content. Your surroundings may become a soothing source of comfort.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយទន់ភ្លន់ អាចជួយអ្នកឱ្យមានអារម្មណ៍សម្រាក បរិបូរណ៍ និងពេញចិត្តជាងមុន។ បរិយាកាសជុំវិញអ្នក អាចក្លាយជាប្រភពនៃភាពសុខស្រួលដែលធ្វើឱ្យស្ងប់ចិត្ត។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Steady routines and a sense of order may be holding you up. That structure could be giving you a solid sense of control.",
+        "km": "ទម្លាប់នឹងនរ និងអារម្មណ៍នៃសណ្តាប់ធ្នាប់ ប្រហែលជាកំពុងទ្រទ្រង់អ្នក។ រចនាសម្ព័ន្ធនោះ អាចកំពុងផ្តល់ឱ្យអ្នកនូវអារម្មណ៍រឹងមាំនៃការគ្រប់គ្រង។"
+      },
+      "challenge": {
+        "en": "Being too strict with yourself could turn healthy habits into pressure. Allow some flexibility, and be kind when plans slip.",
+        "km": "ការតឹងរ៉ឹងពេកជាមួយខ្លួនឯង អាចប្រែទម្លាប់ល្អៗទៅជាសម្ពាធ។ សូមអនុញ្ញាតឱ្យមានភាពបត់បែនខ្លះ ហើយសប្បុរសចំពោះខ្លួនឯង នៅពេលផែនការមិនដូចបំណង។"
+      },
+      "outcome": {
+        "en": "Steady routines could give you a reliable foundation for peace and energy. Feeling in charge of your daily life may ease worry and help you sleep more soundly.",
+        "km": "ទម្លាប់នឹងនរ អាចផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានគួរទុកចិត្តសម្រាប់ភាពស្ងប់ និងថាមពល។ អារម្មណ៍ថាអ្នកគ្រប់គ្រងជីវិតប្រចាំថ្ងៃរបស់អ្នក អាចបន្ធូរការព្រួយបារម្ភ និងជួយឱ្យអ្នកដេកលក់ស្កប់ជាងមុន។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "You may find comfort in familiar practices, beliefs or wise guidance. Traditions that ground you could be supporting your inner steadiness.",
+        "km": "អ្នកប្រហែលជារកឃើញភាពកក់ក្តៅក្នុងការអនុវត្តដែលធ្លាប់ស្គាល់ ជំនឿ ឬការណែនាំដ៏ឈ្លាសវៃ។ ប្រពៃណីដែលធ្វើឱ្យអ្នកនឹងនរ អាចកំពុងគាំទ្រភាពនឹងនរក្នុងចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Following rules about how you should feel could make you ignore what you actually need. Honour your own experience alongside the advice and customs of others.",
+        "km": "ការធ្វើតាមច្បាប់អំពីរបៀបដែលអ្នកគួរមានអារម្មណ៍ អាចធ្វើឱ្យអ្នកមិនអើពើនឹងអ្វីដែលអ្នកពិតជាត្រូវការ។ សូមគោរពបទពិសោធន៍ផ្ទាល់ខ្លួន រួមជាមួយដំបូន្មាន និងទំនៀមទម្លាប់របស់អ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Meaningful rituals could deepen your sense of peace and belonging. A trusted mentor or community may offer steady support.",
+        "km": "ពិធីដែលមានអត្ថន័យ អាចធ្វើឱ្យអារម្មណ៍នៃភាពស្ងប់ និងការជាប់ចំណងរបស់អ្នកកាន់តែជ្រៅ។ អ្នកណែនាំដែលគួរទុកចិត្ត ឬសហគមន៍ អាចផ្តល់ការគាំទ្រនឹងនរ។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Heart and head may be pulling you in different directions. Finding harmony between what you want and what you value could be central to your balance.",
+        "km": "ចិត្ត និងក្បាល ប្រហែលជាកំពុងទាញអ្នកទៅទិសផ្សេងគ្នា។ ការរកភាពសុខដុមរវាងអ្វីដែលអ្នកចង់បាន និងអ្វីដែលអ្នកឱ្យតម្លៃ អាចជាស្នូលនៃតុល្យភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Choices that go against your values could leave you feeling unsettled inside. Make decisions that you can feel at peace with.",
+        "km": "ជម្រើសដែលផ្ទុយនឹងគុណតម្លៃរបស់អ្នក អាចធ្វើឱ្យអ្នកមានអារម្មណ៍មិនស្ងប់ក្នុងចិត្ត។ សូមធ្វើការសម្រេចចិត្តដែលអ្នកអាចមានអារម្មណ៍ស្ងប់ជាមួយ។"
+      },
+      "outcome": {
+        "en": "Aligning your choices with your heart could bring a deep sense of wholeness. Relationships that respect who you are may strengthen your inner calm.",
+        "km": "ការតម្រឹមជម្រើសរបស់អ្នកជាមួយចិត្តរបស់អ្នក អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅនៃភាពពេញលេញ។ ទំនាក់ទំនងដែលគោរពអ្វីដែលអ្នកជា អាចពង្រឹងភាពស្ងប់ក្នុងចិត្តរបស់អ្នក។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "You may feel driven and determined, pushing ahead with strong willpower. That momentum could be keeping you focused but also stretched.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាមានកម្លាំងជំរុញ និងការតាំងចិត្ត ដោយរុញទៅមុខជាមួយឆន្ទៈដ៏ខ្លាំង។ សន្ទុះនោះ អាចកំពុងរក្សាអ្នកឱ្យផ្តោតអារម្មណ៍ ប៉ុន្តែក៏ធ្វើឱ្យអ្នកតានតឹងផងដែរ។"
+      },
+      "challenge": {
+        "en": "Forcing your way forward could leave you tense and worn out. Balance effort with rest so your drive does not exhaust you.",
+        "km": "ការបង្ខំខ្លួនឯងឱ្យទៅមុខ អាចធ្វើឱ្យអ្នកតានតឹង និងអស់កម្លាំង។ សូមថ្លឹងការខិតខំជាមួយការសម្រាក ដើម្បីកុំឱ្យកម្លាំងជំរុញរបស់អ្នកធ្វើឱ្យអ្នកហត់នឿយ។"
+      },
+      "outcome": {
+        "en": "Channelled determination could carry you past obstacles toward a calmer state. A sense of progress may lift your mood and confidence.",
+        "km": "ការតាំងចិត្តដែលតម្រង់ទិសបានល្អ អាចនាំអ្នកឆ្លងកាត់ឧបសគ្គ ឆ្ពោះទៅរកស្ថានភាពស្ងប់ជាងមុន។ អារម្មណ៍នៃវឌ្ឍនភាព អាចលើកអារម្មណ៍ និងទំនុកចិត្តរបស់អ្នក។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "You may be drawing on quiet inner strength to stay calm under pressure. Patience with your own feelings could be holding you steady.",
+        "km": "អ្នកប្រហែលជាកំពុងប្រើកម្លាំងក្នុងចិត្តស្ងាត់ៗ ដើម្បីរក្សាភាពស្ងប់ក្រោមសម្ពាធ។ ការអត់ធ្មត់ចំពោះអារម្មណ៍របស់ខ្លួនឯង អាចកំពុងរក្សាអ្នកឱ្យនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Trying to suppress difficult emotions could make them push back harder. Meet anger or fear with gentleness rather than force.",
+        "km": "ការព្យាយាមទប់អារម្មណ៍លំបាកៗ អាចធ្វើឱ្យវាច្រានត្រឡប់មកវិញខ្លាំងជាងមុន។ សូមឆ្លើយតបនឹងកំហឹង ឬការភ័យខ្លាចដោយភាពទន់ភ្លន់ ជាជាងការប្រើកម្លាំង។"
+      },
+      "outcome": {
+        "en": "Gentle self-mastery could help you feel calm, brave and at ease with yourself. Inner confidence may grow as you trust your resilience.",
+        "km": "ការគ្រប់គ្រងខ្លួនឯងដោយទន់ភ្លន់ អាចជួយអ្នកឱ្យមានអារម្មណ៍ស្ងប់ ក្លាហាន និងស្រួលជាមួយខ្លួនឯង។ ទំនុកចិត្តក្នុងចិត្តអាចកើនឡើង នៅពេលអ្នកទុកចិត្តលើភាពធន់របស់អ្នក។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "You may be craving solitude and space to think. Withdrawing a little could be helping you reconnect with what matters inside.",
+        "km": "អ្នកប្រហែលជាកំពុងចង់បានភាពឯកកោ និងលំហដើម្បីគិត។ ការដកខ្លួនបន្តិច អាចកំពុងជួយអ្នកភ្ជាប់ទំនាក់ទំនងឡើងវិញជាមួយអ្វីដែលសំខាន់ក្នុងចិត្ត។"
+      },
+      "challenge": {
+        "en": "Too much isolation could turn reflection into loneliness. Balance solitude with contact from people who lift your spirits.",
+        "km": "ភាពឯកោច្រើនពេក អាចប្រែការពិចារណាទៅជាភាពឯកា។ សូមថ្លឹងភាពឯកកោ ជាមួយការទាក់ទងមនុស្សដែលលើកស្មារតីរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Thoughtful reflection could lead you to deeper self-knowledge and peace. You may emerge clearer about what truly nourishes you.",
+        "km": "ការពិចារណាដោយយកចិត្តទុកដាក់ អាចនាំអ្នកទៅរកការស្គាល់ខ្លួនឯង និងភាពស្ងប់កាន់តែជ្រៅ។ អ្នកអាចលេចចេញមកដោយច្បាស់ជាងមុន អំពីអ្វីដែលពិតជាចិញ្ចឹមចិត្តអ្នក។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Your mood and energy may be shifting, with ups and downs that feel beyond your control. Recognising this natural cycle could help you ride the changes.",
+        "km": "អារម្មណ៍ និងថាមពលរបស់អ្នក ប្រហែលជាកំពុងប្រែប្រួល ដោយមានការឡើងចុះដែលហាក់ហួសពីការគ្រប់គ្រងរបស់អ្នក។ ការទទួលស្គាល់វដ្តធម្មជាតិនេះ អាចជួយអ្នកឆ្លងកាត់ការផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Resisting natural ups and downs could add stress to an already changing situation. Accept that low points pass, and look after yourself through them.",
+        "km": "ការទប់ទល់នឹងការឡើងចុះធម្មជាតិ អាចបន្ថែមភាពតានតឹងលើស្ថានភាពដែលកំពុងផ្លាស់ប្តូររួចហើយ។ សូមទទួលយកថាចំណុចទាបនឹងកន្លងផុត ហើយមើលថែខ្លួនឯងឆ្លងកាត់វា។"
+      },
+      "outcome": {
+        "en": "Going with the flow could bring a lighter, more adaptable sense of balance. A positive turn may lift your spirits unexpectedly.",
+        "km": "ការបណ្តែតតាមលំហូរ អាចនាំមកនូវអារម្មណ៍តុល្យភាពដែលស្រាល និងបត់បែនជាងមុន។ ការផ្លាស់ប្តូរវិជ្ជមានមួយ អាចលើកស្មារតីរបស់អ្នកដោយមិនបានរំពឹងទុក។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "You may be weighing what is fair to yourself and to others. An honest look at how you spend your energy could be shaping your balance.",
+        "km": "អ្នកប្រហែលជាកំពុងថ្លឹងថ្លែងពីអ្វីដែលយុត្តិធម៌ចំពោះខ្លួនឯង និងអ្នកដទៃ។ ការមើលដោយស្មោះត្រង់ពីរបៀបដែលអ្នកចំណាយថាមពល អាចកំពុងកំណត់តុល្យភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Judging yourself harshly could upset your inner peace. Treat yourself with the same fairness you would offer a friend.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចរំខានដល់សន្តិភាពក្នុងចិត្តរបស់អ្នក។ សូមប្រព្រឹត្តចំពោះខ្លួនឯងដោយយុត្តិធម៌ ដូចដែលអ្នកនឹងផ្តល់ឱ្យមិត្តភក្តិ។"
+      },
+      "outcome": {
+        "en": "Honest, balanced choices could restore a sense of fairness and calm within. Accepting responsibility without blame may lighten your heart.",
+        "km": "ជម្រើសដ៏ស្មោះត្រង់ និងមានតុល្យភាព អាចស្តារអារម្មណ៍នៃយុត្តិធម៌ និងភាពស្ងប់ក្នុងចិត្តឡើងវិញ។ ការទទួលខុសត្រូវដោយមិនបន្ទោស អាចធ្វើឱ្យចិត្តរបស់អ្នកស្រាល។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "Life inside may seem on hold, as if waiting for something to shift. This pause could be offering a new way of seeing your situation.",
+        "km": "ជីវិតក្នុងចិត្ត ប្រហែលជាហាក់ដូចជាត្រូវបានផ្អាក ហាក់ដូចជាកំពុងរង់ចាំអ្វីមួយផ្លាស់ប្តូរ។ ការផ្អាកនេះ អាចកំពុងផ្តល់វិធីថ្មីក្នុងការមើលស្ថានភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Feeling stuck could make you sacrifice your needs without noticing. Ask yourself what you might gain by letting go of control.",
+        "km": "ការមានអារម្មណ៍ជាប់គាំង អាចធ្វើឱ្យអ្នកលះបង់តម្រូវការរបស់អ្នកដោយមិនដឹងខ្លួន។ សូមសួរខ្លួនឯងថា តើអ្នកអាចទទួលបានអ្វីខ្លះដោយលែងប្រកាន់ការគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "A fresh perspective could free you from a pattern that has kept you tense. Surrendering the need to control everything may bring unexpected relief and insight.",
+        "km": "ទស្សនៈថ្មី អាចរំដោះអ្នកពីគំរូដែលបានធ្វើឱ្យអ្នកតានតឹង។ ការលែងប្រកាន់តម្រូវការចង់គ្រប់គ្រងអ្វីៗទាំងអស់ អាចនាំមកនូវការធូរស្រាល និងការយល់ដឹងដែលមិនបានរំពឹងទុក។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Something within you may be ending, making space for a new way of being. You could be shedding old habits or beliefs that no longer fit.",
+        "km": "អ្វីមួយក្នុងខ្លួនអ្នក ប្រហែលជាកំពុងបញ្ចប់ ដើម្បីទុកលំហសម្រាប់របៀបរស់នៅថ្មី។ អ្នកអាចកំពុងបោះបង់ទម្លាប់ ឬជំនឿចាស់ៗដែលលែងសម។"
+      },
+      "challenge": {
+        "en": "Clinging to an old version of yourself could keep you from growing. Allow change, and seek support if a loss feels overwhelming.",
+        "km": "ការប្រកាន់ខ្ជាប់នូវខ្លួនឯងកំណែចាស់ អាចរារាំងអ្នកពីការរីកចម្រើន។ សូមអនុញ្ញាតឱ្យមានការផ្លាស់ប្តូរ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើការបាត់បង់ធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Letting go could open room for renewal and a refreshed sense of self. What grows from this change may feel more true to who you are.",
+        "km": "ការលែងប្រកាន់ អាចបើកលំហសម្រាប់ការកកើតឡើងវិញ និងអារម្មណ៍ខ្លួនឯងដែលស្រស់ស្រាយ។ អ្វីដែលដុះចេញពីការផ្លាស់ប្តូរនេះ អាចមានអារម្មណ៍ពិតចំពោះអ្វីដែលអ្នកជា។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "You may be finding a gentle middle ground in how you live and feel. Moderation and patience could be keeping you calm and centred.",
+        "km": "អ្នកប្រហែលជាកំពុងរកឃើញចំណុចកណ្តាលដ៏ទន់ភ្លន់ ក្នុងរបៀបដែលអ្នករស់នៅ និងមានអារម្មណ៍។ ភាពល្មមល្មើយ និងការអត់ធ្មត់ អាចកំពុងរក្សាអ្នកឱ្យស្ងប់ និងនៅកណ្តាល។"
+      },
+      "challenge": {
+        "en": "Swinging between extremes could unsettle your mood and energy. Look for small adjustments rather than dramatic changes.",
+        "km": "ការយោលរវាងភាពហួសហេតុទាំងពីរ អាចរំខានអារម្មណ៍ និងថាមពលរបស់អ្នក។ សូមរកការកែសម្រួលតូចៗ ជាជាងការផ្លាស់ប្តូរធំៗ។"
+      },
+      "outcome": {
+        "en": "Patient balance could bring a deep, steady sense of harmony. Body and mind may feel more in tune with each other.",
+        "km": "តុល្យភាពដោយអត់ធ្មត់ អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅ និងនឹងនរនៃភាពសុខដុម។ រាងកាយ និងចិត្ត អាចមានអារម្មណ៍ចុះសម្រុងគ្នាជាងមុន។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "A habit or pattern may be pulling you off balance more than you admit. Something you rely on for comfort could be costing you more than it gives.",
+        "km": "ទម្លាប់ ឬគំរូមួយ ប្រហែលជាកំពុងទាញអ្នកចេញពីតុល្យភាព ច្រើនជាងអ្វីដែលអ្នកទទួលស្គាល់។ អ្វីមួយដែលអ្នកពឹងផ្អែកដើម្បីភាពសុខស្រួល អាចកំពុងធ្វើឱ្យអ្នកខាតច្រើនជាងអ្វីដែលវាផ្តល់។"
+      },
+      "challenge": {
+        "en": "Unhealthy habits or dependencies could tighten their grip if left unchecked. Be honest with yourself, and reach out to a professional if a habit feels out of control.",
+        "km": "ទម្លាប់មិនល្អ ឬការពឹងផ្អែក អាចក្តាប់កាន់តែតឹង ប្រសិនបើមិនត្រូវបានពិនិត្យ។ សូមស្មោះត្រង់ជាមួយខ្លួនឯង ហើយទាក់ទងអ្នកជំនាញ ប្រសិនបើទម្លាប់មួយហាក់ហួសពីការគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "Breaking free from a draining pattern could restore a sense of freedom and self-respect. Honest awareness may loosen chains you thought could never break.",
+        "km": "ការរួចផុតពីគំរូដែលធ្វើឱ្យអស់កម្លាំង អាចស្តារអារម្មណ៍នៃសេរីភាព និងការគោរពខ្លួនឯងឡើងវិញ។ ការដឹងខ្លួនដោយស្មោះត្រង់ អាចបន្ធូរច្រវាក់ដែលអ្នកគិតថាមិនអាចដោះបាន។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "You may be feeling shaken, as if something you relied on has given way. Your sense of stability could be under real strain.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍រង្គោះរង្គើ ហាក់ដូចជាអ្វីមួយដែលអ្នកពឹងផ្អែកបានដួលរលំ។ អារម្មណ៍នៃស្ថិរភាពរបស់អ្នក អាចកំពុងរងសម្ពាធពិតប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Upheaval could leave you overwhelmed and anxious. Lean on people you trust, and seek professional support if the strain becomes too much.",
+        "km": "ការរង្គោះរង្គើ អាចធ្វើឱ្យអ្នកលើសកម្លាំង និងថប់បារម្ភ។ សូមពឹងផ្អែកលើមនុស្សដែលអ្នកទុកចិត្ត ហើយស្វែងរកការគាំទ្រពីអ្នកជំនាញ ប្រសិនបើសម្ពាធខ្លាំងពេក។"
+      },
+      "outcome": {
+        "en": "Through disruption, you could rebuild your balance on firmer, more honest ground. What falls away may make room for a healthier way of living.",
+        "km": "តាមរយៈការរំខាន អ្នកអាចកសាងតុល្យភាពរបស់អ្នកឡើងវិញ លើដីដែលរឹងមាំ និងស្មោះត្រង់ជាងមុន។ អ្វីដែលរលំបាត់ អាចទុកលំហសម្រាប់របៀបរស់នៅដែលមានសុខភាពល្អជាងមុន។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "You may be feeling hopeful and gently renewed, like someone coming through a hard stretch. A quiet sense of healing could be settling in.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មានក្តីសង្ឃឹម និងស្រស់ស្រាយឡើងវិញដោយទន់ភ្លន់ ដូចជាមនុស្សដែលកំពុងឆ្លងផុតដំណាក់កាលលំបាក។ អារម្មណ៍ស្ងាត់ៗនៃការជាសះស្បើយ អាចកំពុងតាំងលំនៅ។"
+      },
+      "challenge": {
+        "en": "Doubting that things can improve could dim your natural optimism. Hold on to small signs of progress, however modest.",
+        "km": "ការសង្ស័យថាអ្វីៗអាចប្រសើរឡើង អាចធ្វើឱ្យសុទិដ្ឋិនិយមធម្មជាតិរបស់អ្នកស្រអាប់។ សូមកាន់ខ្ជាប់សញ្ញាតូចៗនៃវឌ្ឍនភាព ទោះតិចតួចយ៉ាងណាក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Hope and gentle care could bring deep renewal and peace. You may feel more inspired, rested and at one with yourself.",
+        "km": "ក្តីសង្ឃឹម និងការថែរក្សាដោយទន់ភ្លន់ អាចនាំមកនូវការកកើតឡើងវិញ និងសន្តិភាពដ៏ជ្រាលជ្រៅ។ អ្នកអាចមានអារម្មណ៍មានការបំផុសគំនិត សម្រាក និងរួមតែមួយជាមួយខ្លួនឯងកាន់តែច្រើន។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Uncertainty and unease may be stirring, with emotions that are hard to name. Shadowy worries could be clouding how you see yourself.",
+        "km": "ភាពមិនប្រាកដ និងភាពមិនស្រួល ប្រហែលជាកំពុងកម្រើក ដោយមានអារម្មណ៍ដែលពិបាកដាក់ឈ្មោះ។ ការព្រួយបារម្ភដែលមិនច្បាស់ អាចកំពុងធ្វើឱ្យការមើលឃើញខ្លួនឯងរបស់អ្នកស្រអាប់។"
+      },
+      "challenge": {
+        "en": "Anxious thoughts could make fears seem larger than they are. Ground yourself in simple facts, and talk to a professional if anxiety keeps returning.",
+        "km": "គំនិតថប់បារម្ភ អាចធ្វើឱ្យការភ័យខ្លាចហាក់ធំជាងការពិត។ សូមធ្វើឱ្យខ្លួនឯងនឹងនរដោយការពិតសាមញ្ញ ហើយនិយាយជាមួយអ្នកជំនាញ ប្រសិនបើការថប់បារម្ភចេះតែត្រឡប់មកវិញ។"
+      },
+      "outcome": {
+        "en": "Clarity could emerge as confusion lifts, revealing a calmer inner landscape. Trusting your intuition may help you find your way.",
+        "km": "ភាពច្បាស់លាស់អាចលេចចេញមក នៅពេលភាពច្របូកច្របល់រសាយ ដោយបង្ហាញទេសភាពក្នុងចិត្តដែលស្ងប់ជាងមុន។ ការទុកចិត្តលើវិចារណញាណ អាចជួយអ្នករកផ្លូវរបស់អ្នក។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Brightness, energy and genuine happiness may be filling you up. Warmth and positivity could be filling your life with ease.",
+        "km": "ភាពភ្លឺស្វាង ថាមពល និងសុភមង្គលពិតប្រាកដ ប្រហែលជាកំពុងបំពេញអ្នក។ ភាពកក់ក្តៅ និងភាពវិជ្ជមាន អាចកំពុងបំពេញជីវិតរបស់អ្នកដោយភាពស្រួល។"
+      },
+      "challenge": {
+        "en": "Overextending yourself while you feel good could lead to burnout. Enjoy the energy, but keep rest in your routine.",
+        "km": "ការធ្វើហួសកម្លាំង ខណៈដែលអ្នកមានអារម្មណ៍ល្អ អាចនាំឱ្យអស់កម្លាំងខ្លាំង។ សូមរីករាយនឹងថាមពលនោះ ប៉ុន្តែរក្សាការសម្រាកក្នុងទម្លាប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Joy and vitality could radiate through every part of your life. You may feel confident, healthy and full of light.",
+        "km": "សេចក្តីរីករាយ និងភាពរស់រវើក អាចភ្លឺចែងចាំងពេញគ្រប់ផ្នែកនៃជីវិតរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍មានទំនុកចិត្ត មានសុខភាពល្អ និងពោរពេញដោយពន្លឺ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "You may be taking an honest look at your life and how you want to feel. A sense of awakening could be calling you toward change.",
+        "km": "អ្នកប្រហែលជាកំពុងមើលជីវិតរបស់អ្នកដោយស្មោះត្រង់ និងរបៀបដែលអ្នកចង់មានអារម្មណ៍។ អារម្មណ៍នៃការភ្ញាក់ដឹងខ្លួន អាចកំពុងហៅអ្នកឆ្ពោះទៅរកការផ្លាស់ប្តូរ។"
+      },
+      "challenge": {
+        "en": "Harsh self-judgment could block the renewal you are seeking. Forgive old mistakes and focus on what you can do differently.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងយ៉ាងធ្ងន់ធ្ងរ អាចរារាំងការកកើតឡើងវិញដែលអ្នកកំពុងស្វែងរក។ សូមអភ័យទោសកំហុសចាស់ៗ ហើយផ្តោតលើអ្វីដែលអ្នកអាចធ្វើខុសពីមុន។"
+      },
+      "outcome": {
+        "en": "A clear inner call could lead to a refreshed, more purposeful way of living. You may feel lighter for letting go of old regrets.",
+        "km": "ការហៅក្នុងចិត្តដ៏ច្បាស់លាស់ អាចនាំទៅរករបៀបរស់នៅដែលស្រស់ស្រាយ និងមានគោលបំណងជាងមុន។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន ដោយសារការលែងប្រកាន់ការសោកស្តាយចាស់ៗ។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "You may feel whole and complete, as if many parts of your life have come together. A sense of fulfilment could be grounding you.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ពេញលេញ ហាក់ដូចជាផ្នែកជាច្រើននៃជីវិតរបស់អ្នកបានរួមបញ្ចូលគ្នា។ អារម្មណ៍នៃការបំពេញបាន អាចកំពុងធ្វើឱ្យអ្នកនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Losing momentum after reaching a goal could leave you feeling flat. Celebrate what you have achieved and choose a gentle next step.",
+        "km": "ការបាត់បង់សន្ទុះក្រោយពីសម្រេចគោលដៅ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ស្ងាត់ស្ងៀម។ សូមអបអរអ្វីដែលអ្នកបានសម្រេច ហើយជ្រើសជំហានបន្ទាប់ដ៏ទន់ភ្លន់។"
+      },
+      "outcome": {
+        "en": "A deep sense of wholeness could bring deep contentment. You may feel at peace with yourself and the world around you.",
+        "km": "អារម្មណ៍ដ៏ជ្រាលជ្រៅនៃភាពពេញលេញ អាចនាំមកនូវសេចក្តីពេញចិត្តយ៉ាងជ្រៅ។ អ្នកអាចមានអារម្មណ៍ស្ងប់ជាមួយខ្លួនឯង និងពិភពលោកជុំវិញអ្នក។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A spark of fresh energy and enthusiasm may be rising inside you. A new interest or idea could be lifting your spirits.",
+        "km": "ភាពរំភើប និងថាមពលថ្មី ប្រហែលជាកំពុងកើនឡើងក្នុងខ្លួនអ្នក។ ចំណាប់អារម្មណ៍ ឬគំនិតថ្មីមួយ អាចកំពុងលើកស្មារតីរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Burning bright without pacing yourself could leave you depleted. Channel the spark into one activity that truly energises you.",
+        "km": "ការឆេះភ្លឺដោយមិនគ្រប់គ្រងល្បឿនខ្លួនឯង អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមតម្រង់ភាពរំភើបនោះទៅកាន់សកម្មភាពមួយដែលពិតជាផ្តល់ថាមពលដល់អ្នក។"
+      },
+      "outcome": {
+        "en": "Fresh motivation could bring vitality and excitement back into your life. A creative outlet may become a source of joy.",
+        "km": "ការលើកទឹកចិត្តថ្មី អាចនាំភាពរស់រវើក និងភាពរំភើបត្រឡប់មកក្នុងជីវិតរបស់អ្នកវិញ។ ច្រកច្នៃប្រឌិតមួយ អាចក្លាយជាប្រភពនៃសេចក្តីរីករាយ។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "Restlessness may be stirring, a sense that you want more from life than you have. Thinking about your next steps could be stirring both hope and unease.",
+        "km": "ភាពមិនស្ងប់ ប្រហែលជាកំពុងកម្រើក ជាអារម្មណ៍ថាអ្នកចង់បានពីជីវិតច្រើនជាងអ្វីដែលអ្នកមាន។ ការគិតពីជំហានបន្ទាប់ អាចកំពុងកូរទាំងក្តីសង្ឃឹម និងភាពមិនស្រួល។"
+      },
+      "challenge": {
+        "en": "Overthinking possibilities could keep you from enjoying where you are. Make a simple plan, then let yourself relax into it.",
+        "km": "ការគិតច្រើនពេកពីលទ្ធភាព អាចរារាំងអ្នកពីការរីករាយនឹងកន្លែងដែលអ្នកនៅ។ សូមធ្វើផែនការសាមញ្ញមួយ បន្ទាប់មកអនុញ្ញាតឱ្យខ្លួនឯងសម្រាកជាមួយវា។"
+      },
+      "outcome": {
+        "en": "Clear intentions could give you a sense of direction and calm. Planning with purpose may ease restlessness and build confidence.",
+        "km": "ចេតនាច្បាស់លាស់ អាចផ្តល់ឱ្យអ្នកនូវអារម្មណ៍នៃទិសដៅ និងភាពស្ងប់។ ការរៀបចំផែនការដោយមានគោលបំណង អាចបន្ធូរភាពមិនស្ងប់ និងកសាងទំនុកចិត្ត។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "You may feel expansive, looking beyond your usual horizons with optimism. A wider view could be lifting your mood.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ទូលាយ ដោយមើលហួសផ្តេកធម្មតារបស់អ្នកដោយសុទិដ្ឋិនិយម។ ទស្សនៈទូលាយជាងមុន អាចកំពុងលើកអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Waiting for something outside to change could keep your balance on hold. Take one step toward what you are hoping for.",
+        "km": "ការរង់ចាំឱ្យអ្វីមួយនៅខាងក្រៅផ្លាស់ប្តូរ អាចធ្វើឱ្យតុល្យភាពរបស់អ្នកនៅស្ងៀម។ សូមបោះជំហានមួយឆ្ពោះទៅរកអ្វីដែលអ្នកកំពុងសង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Broadening your horizons could refresh your outlook and bring new energy. Travel, learning or new company may restore your sense of possibility.",
+        "km": "ការពង្រីកផ្តេករបស់អ្នក អាចធ្វើឱ្យទស្សនៈរបស់អ្នកស្រស់ស្រាយ និងនាំមកនូវថាមពលថ្មី។ ការធ្វើដំណើរ ការរៀន ឬមិត្តថ្មី អាចស្តារអារម្មណ៍នៃលទ្ធភាពរបស់អ្នកឡើងវិញ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Contentment and a sense of having something to celebrate may be settling in. A sense of home and belonging could be supporting your balance.",
+        "km": "សេចក្តីពេញចិត្ត និងអារម្មណ៍ថាមានអ្វីមួយដើម្បីប្រារព្ធ ប្រហែលជាកំពុងតាំងលំនៅ។ អារម្មណ៍នៃផ្ទះ និងការជាប់ចំណង អាចកំពុងគាំទ្រតុល្យភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Relying on special occasions for happiness could leave you flat once the party is over. Build small moments of joy into ordinary routines as well.",
+        "km": "ការពឹងផ្អែកលើឱកាសពិសេសដើម្បីសុភមង្គល អាចធ្វើឱ្យអ្នកស្ងាត់ស្ងៀម នៅពេលពិធីជប់លៀងបញ្ចប់។ សូមកសាងគ្រាតូចៗនៃសេចក្តីរីករាយ ក្នុងទម្លាប់ធម្មតាៗផងដែរ។"
+      },
+      "outcome": {
+        "en": "Stability and celebration could bring a warm, secure feeling. You may enjoy a sense of achievement and peace at home.",
+        "km": "ស្ថិរភាព និងការប្រារព្ធ អាចនាំមកនូវអារម្មណ៍កក់ក្តៅ និងសុវត្ថិភាព។ អ្នកអាចរីករាយនឹងអារម្មណ៍នៃសមិទ្ធផល និងសន្តិភាពនៅផ្ទះ។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Inner tension may be building, with competing demands pulling at you. Restless energy could be making it hard to relax.",
+        "km": "ភាពតានតឹងក្នុងចិត្ត ប្រហែលជាកំពុងកើនឡើង ដោយការទាមទារផ្សេងៗទាញអ្នក។ ថាមពលមិនស្ងប់ អាចកំពុងធ្វើឱ្យពិបាកសម្រាក។"
+      },
+      "challenge": {
+        "en": "Inner conflict could wear you out if you fight every battle that comes along. Let go of struggles that are not worth your energy.",
+        "km": "ជម្លោះក្នុងចិត្ត អាចធ្វើឱ្យអ្នកអស់កម្លាំង ប្រសិនបើអ្នកតស៊ូគ្រប់ការតស៊ូក្នុងពេលតែមួយ។ សូមលែងប្រកាន់ការតស៊ូដែលមិនសមនឹងថាមពលរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Working through tension could release pent-up energy and bring relief. Physical activity may help you feel calmer and clearer.",
+        "km": "ការដោះស្រាយភាពតានតឹង អាចបញ្ចេញថាមពលដែលកកស្ទះ និងនាំមកនូវការធូរស្រាល។ សកម្មភាពរាងកាយ អាចជួយអ្នកឱ្យមានអារម្មណ៍ស្ងប់ និងច្បាស់ជាងមុន។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "You may feel proud and uplifted, perhaps thanks to a real success. Recognition could be boosting your confidence and mood.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មានមោទនភាព និងលើកទឹកចិត្ត ប្រហែលជាដោយសារជោគជ័យមួយ។ ការទទួលស្គាល់ អាចកំពុងបង្កើនទំនុកចិត្ត និងអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Depending on praise to feel good could leave you vulnerable when it fades. Value yourself for who you are, not only for what you achieve.",
+        "km": "ការពឹងផ្អែកលើការសរសើរដើម្បីមានអារម្មណ៍ល្អ អាចធ្វើឱ្យអ្នកងាយរងគ្រោះ នៅពេលវារសាត់បាត់។ សូមឱ្យតម្លៃខ្លួនឯងសម្រាប់អ្វីដែលអ្នកជា មិនត្រឹមតែសម្រាប់អ្វីដែលអ្នកសម្រេចបានទេ។"
+      },
+      "outcome": {
+        "en": "Celebrating your progress could strengthen self-esteem and joy. You may feel encouraged to keep caring for yourself.",
+        "km": "ការអបអរវឌ្ឍនភាពរបស់អ្នក អាចពង្រឹងការគោរពខ្លួនឯង និងសេចក្តីរីករាយ។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានលើកទឹកចិត្តឱ្យបន្តថែរក្សាខ្លួនឯង។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "You may feel on guard, defending your space and energy from outside pressure. Holding your ground in this way could be taking more effort than you realise.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ប្រុងប្រយ័ត្ន ដោយការពារលំហ និងថាមពលរបស់អ្នកពីសម្ពាធខាងក្រៅ។ ការឈររឹងមាំបែបនេះ អាចកំពុងត្រូវការការខិតខំច្រើនជាងអ្វីដែលអ្នកដឹង។"
+      },
+      "challenge": {
+        "en": "Constant defensiveness could leave you tense and tired. Choose which pressures truly need resisting and let others pass.",
+        "km": "ការការពារខ្លួនជានិច្ច អាចធ្វើឱ្យអ្នកតានតឹង និងហត់នឿយ។ សូមជ្រើសថាសម្ពាធណាដែលពិតជាត្រូវទប់ទល់ ហើយឱ្យសម្ពាធផ្សេងទៀតឆ្លងផុត។"
+      },
+      "outcome": {
+        "en": "Firm boundaries could protect your peace and build inner strength. You may feel more confident standing up for your needs.",
+        "km": "ព្រំដែនរឹងមាំ អាចការពារសន្តិភាពរបស់អ្នក និងកសាងកម្លាំងក្នុងចិត្ត។ អ្នកអាចមានទំនុកចិត្តជាងមុនក្នុងការក្រោកឈរការពារតម្រូវការរបស់អ្នក។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Life may be moving fast, with a rush of activity and ideas. That momentum could feel exciting but a little overwhelming.",
+        "km": "ជីវិតប្រហែលជាកំពុងផ្លាស់ទីលឿន ដោយមានសកម្មភាព និងគំនិតជាច្រើន។ សន្ទុះនោះ អាចហាក់គួរឱ្យរំភើប ប៉ុន្តែលើសកម្លាំងបន្តិច។"
+      },
+      "challenge": {
+        "en": "Racing between tasks and messages could leave no room to check in with yourself. Stop between activities long enough to notice how your body feels.",
+        "km": "ការប្រញាប់ប្រញាល់រវាងកិច្ចការ និងសារ អាចមិនទុកលំហឱ្យអ្នកពិនិត្យខ្លួនឯង។ សូមផ្អាករវាងសកម្មភាពនីមួយៗ ល្មមដើម្បីកត់សម្គាល់ថារាងកាយរបស់អ្នកមានអារម្មណ៍យ៉ាងណា។"
+      },
+      "outcome": {
+        "en": "Positive momentum could carry you toward a lighter, more energised state. Good news or a lively change of scene may lift your spirits and clear your head.",
+        "km": "សន្ទុះវិជ្ជមាន អាចនាំអ្នកឆ្ពោះទៅរកស្ថានភាពស្រាល និងពោរពេញដោយថាមពលជាងមុន។ ដំណឹងល្អ ឬការប្តូរបរិយាកាសដ៏រស់រវើក អាចលើកស្មារតី និងធ្វើឱ្យក្បាលរបស់អ្នកច្បាស់។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "You may feel weary but resilient, having pushed through many challenges. A cautious alertness could be keeping you going.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ហត់នឿយ ប៉ុន្តែធន់ ដោយបានឆ្លងកាត់បញ្ហាប្រឈមជាច្រើន។ ការប្រុងប្រយ័ត្នដោយយកចិត្តទុកដាក់ អាចកំពុងរក្សាឱ្យអ្នកបន្តទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Staying on high alert could drain your reserves. Allow yourself proper rest, even if you feel you must stay ready.",
+        "km": "ការប្រុងប្រយ័ត្នខ្ពស់ជានិច្ច អាចបង្ហូរកម្លាំងបម្រុងរបស់អ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងសម្រាកឱ្យបានគ្រប់គ្រាន់ ទោះបីអ្នកមានអារម្មណ៍ថាត្រូវតែត្រៀមខ្លួនក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Resilience could carry you through to a calmer, more restful place. Your persistence may be rewarded with relief, deeper sleep and a lighter heart.",
+        "km": "ភាពធន់ អាចនាំអ្នកឆ្លងកាត់ទៅកាន់កន្លែងដែលស្ងប់ និងសម្រាកបានជាងមុន។ ការតស៊ូរបស់អ្នក អាចទទួលបានរង្វាន់ជាការធូរស្រាល ការគេងលក់ស្កប់ និងចិត្តដែលស្រាលជាងមុន។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Responsibilities may be piling up beyond what feels manageable. Exhaustion could be affecting your mood and energy.",
+        "km": "ការទទួលខុសត្រូវ ប្រហែលជាកំពុងកើនឡើង ហួសពីអ្វីដែលហាក់អាចគ្រប់គ្រងបាន។ ភាពអស់កម្លាំង អាចកំពុងប៉ះពាល់ដល់អារម្មណ៍ និងថាមពលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Taking on too much could lead to burnout. Put down what you can, and ask for help with the rest.",
+        "km": "ការទទួលយកច្រើនពេក អាចនាំឱ្យអស់កម្លាំងខ្លាំង។ សូមដាក់ចុះនូវអ្វីដែលអ្នកអាចដាក់ ហើយសុំជំនួយសម្រាប់អ្វីដែលនៅសល់។"
+      },
+      "outcome": {
+        "en": "Lightening your load could bring welcome relief and renewed energy. You may feel freer to enjoy hobbies, friends and peaceful moments at home.",
+        "km": "ការសម្រាលបន្ទុករបស់អ្នក អាចនាំមកនូវការធូរស្រាល និងថាមពលថ្មីដែលគួរឱ្យស្វាគមន៍។ អ្នកអាចមានអារម្មណ៍សេរីជាងមុនក្នុងការរីករាយនឹងចំណូលចិត្ត មិត្តភក្តិ និងភាពស្ងប់ស្ងាត់នៅផ្ទះ។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "You may feel curious and playful, eager to explore new interests. A youthful spirit could be refreshing your outlook.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ចង់ដឹង និងលេងសើច ដោយចង់ស្វែងរកចំណាប់អារម្មណ៍ថ្មីៗ។ ស្មារតីក្មេងខ្ចី អាចកំពុងធ្វើឱ្យទស្សនៈរបស់អ្នកស្រស់ស្រាយ។"
+      },
+      "challenge": {
+        "en": "Scattering your energy across many new interests could leave you unfocused. Pick the one that excites you most and explore it more deeply.",
+        "km": "ការបែងចែកថាមពលរបស់អ្នកទៅលើចំណាប់អារម្មណ៍ថ្មីៗជាច្រើន អាចធ្វើឱ្យអ្នកមិនផ្តោតអារម្មណ៍។ សូមជ្រើសរើសមួយដែលធ្វើឱ្យអ្នករំភើបបំផុត ហើយស្វែងយល់វាឱ្យកាន់តែជ្រៅ។"
+      },
+      "outcome": {
+        "en": "Playful exploration could bring delight and fresh energy. Learning a new craft, sport or song may lift your spirits in surprising ways.",
+        "km": "ការស្វែងរកដោយលេងសើច អាចនាំមកនូវសេចក្តីរីករាយ និងថាមពលថ្មី។ ការរៀនសិប្បកម្ម កីឡា ឬបទចម្រៀងថ្មីមួយ អាចលើកស្មារតីរបស់អ្នកក្នុងរបៀបគួរឱ្យភ្ញាក់ផ្អើល។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Restless energy may be running high, eager for action and change. That drive could be exciting but hard to settle.",
+        "km": "ថាមពលមិនស្ងប់ ប្រហែលជាកំពុងខ្ពស់ ដោយចង់ធ្វើសកម្មភាព និងការផ្លាស់ប្តូរ។ កម្លាំងជំរុញនោះ អាចគួរឱ្យរំភើប ប៉ុន្តែពិបាកធ្វើឱ្យស្ងប់។"
+      },
+      "challenge": {
+        "en": "Acting on impulse could leave you scattered and stressed. Pause before jumping into the next big thing.",
+        "km": "ការធ្វើសកម្មភាពតាមចិត្តភ្លាមៗ អាចធ្វើឱ្យអ្នករាយប៉ាយ និងតានតឹង។ សូមផ្អាកមុនពេលលោតចូលរឿងធំបន្ទាប់។"
+      },
+      "outcome": {
+        "en": "Directed energy could bring excitement and a strong sense of aliveness. An adventure, even a small local one, may refresh your spirit and body.",
+        "km": "ថាមពលដែលតម្រង់ទិសបានល្អ អាចនាំមកនូវភាពរំភើប និងអារម្មណ៍ខ្លាំងនៃការរស់រវើក។ ការផ្សងព្រេងមួយ ទោះបីតូចហើយនៅក្បែរផ្ទះក៏ដោយ អាចធ្វើឱ្យស្មារតី និងរាងកាយរបស់អ្នកស្រស់ស្រាយ។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "You may feel confident, warm and comfortable in your own skin. That self-assurance could be radiating outward and drawing good company to you.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មានទំនុកចិត្ត កក់ក្តៅ និងស្រួលក្នុងខ្លួនឯង។ ភាពជឿជាក់លើខ្លួនឯងនោះ អាចកំពុងភ្លឺចែងចាំងទៅខាងក្រៅ ហើយទាក់ទាញមិត្តល្អមករកអ្នក។"
+      },
+      "challenge": {
+        "en": "Keeping up a confident front could hide your own need for rest. Let yourself be honest about tiredness or doubt with people you trust.",
+        "km": "ការរក្សាមុខមាត់ដែលមានទំនុកចិត្ត អាចលាក់បាំងតម្រូវការសម្រាករបស់អ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងស្មោះត្រង់អំពីភាពហត់នឿយ ឬការសង្ស័យ ជាមួយមនុស្សដែលអ្នកទុកចិត្ត។"
+      },
+      "outcome": {
+        "en": "Warm self-confidence could bring vitality and joy. You may feel creative and at ease, sharing your energy without draining it.",
+        "km": "ទំនុកចិត្តលើខ្លួនឯងដ៏កក់ក្តៅ អាចនាំមកនូវភាពរស់រវើក និងសេចក្តីរីករាយ។ អ្នកអាចមានអារម្មណ៍ច្នៃប្រឌិត និងស្រួល ដោយចែករំលែកថាមពលរបស់អ្នក ដោយមិនធ្វើឱ្យវាអស់។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "A clear vision of what you want may be putting you in charge of your life. That sense of direction could be a source of strength.",
+        "km": "ចក្ខុវិស័យច្បាស់ពីអ្វីដែលអ្នកចង់បាន ប្រហែលជាកំពុងធ្វើឱ្យអ្នកគ្រប់គ្រងជីវិតរបស់អ្នក។ អារម្មណ៍នៃទិសដៅនោះ អាចជាប្រភពនៃកម្លាំង។"
+      },
+      "challenge": {
+        "en": "Taking control of everything could leave little room for rest. Delegate where you can and trust others to help.",
+        "km": "ការគ្រប់គ្រងអ្វីៗទាំងអស់ អាចទុកលំហតិចតួចសម្រាប់ការសម្រាក។ សូមប្រគល់ការងារនៅកន្លែងដែលអ្នកអាចធ្វើបាន ហើយទុកចិត្តឱ្យអ្នកដទៃជួយ។"
+      },
+      "outcome": {
+        "en": "Inspired leadership of your own life could bring a strong sense of purpose and balance. You may feel steady enough to make choices that truly serve your wellbeing.",
+        "km": "ការដឹកនាំជីវិតរបស់អ្នកដោយមានការបំផុសគំនិត អាចនាំមកនូវអារម្មណ៍ខ្លាំងនៃគោលបំណង និងតុល្យភាព។ អ្នកអាចមានអារម្មណ៍នឹងនរល្មមដើម្បីធ្វើជម្រើសដែលពិតជាបម្រើសុខុមាលភាពរបស់អ្នក។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "You may feel emotionally open, with a fresh flow of tenderness and hope. Your heart could be ready to receive kindness, including your own.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍បើកចំហផ្លូវចិត្ត ដោយមានលំហូរថ្មីនៃភាពទន់ភ្លន់ និងក្តីសង្ឃឹម។ ចិត្តរបស់អ្នក អាចត្រៀមខ្លួនទទួលសេចក្តីសប្បុរស រួមទាំងសេចក្តីសប្បុរសពីខ្លួនឯងផង។"
+      },
+      "challenge": {
+        "en": "Closing off your feelings could block the comfort that is available to you. Let yourself feel and share what is in your heart with someone safe.",
+        "km": "ការបិទអារម្មណ៍របស់អ្នក អាចរារាំងភាពកក់ក្តៅដែលមានសម្រាប់អ្នក។ សូមអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ ហើយចែករំលែកអ្វីដែលនៅក្នុងចិត្តជាមួយនរណាម្នាក់ដែលមានសុវត្ថិភាព។"
+      },
+      "outcome": {
+        "en": "Emotional openness could bring a deep sense of renewal and comfort. Love and compassion may fill you up from the inside, like water in a cup.",
+        "km": "ភាពបើកចំហផ្លូវចិត្ត អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅនៃការកកើតឡើងវិញ និងភាពកក់ក្តៅ។ ក្តីស្រឡាញ់ និងមេត្តាធម៌ អាចបំពេញអ្នកពីខាងក្នុង ដូចទឹកក្នុងពែង។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A close, supportive connection may be keeping you balanced. Being understood by someone could be steadying your heart and mood.",
+        "km": "ទំនាក់ទំនងជិតស្និទ្ធ និងគាំទ្រ ប្រហែលជាកំពុងរក្សាអ្នកឱ្យមានតុល្យភាព។ ការត្រូវបាននរណាម្នាក់យល់ចិត្ត អាចកំពុងធ្វើឱ្យចិត្ត និងអារម្មណ៍របស់អ្នកនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Relying on one person for all your emotional balance could leave you vulnerable. Build steadiness within yourself and across several relationships.",
+        "km": "ការពឹងផ្អែកលើមនុស្សម្នាក់សម្រាប់តុល្យភាពផ្លូវចិត្តទាំងអស់ អាចធ្វើឱ្យអ្នកងាយរងគ្រោះ។ សូមកសាងភាពនឹងនរក្នុងខ្លួនឯង និងតាមរយៈទំនាក់ទំនងជាច្រើន។"
+      },
+      "outcome": {
+        "en": "Harmonious relationships could bring calm and emotional security. Mutual care may help you feel whole and supported in everyday life.",
+        "km": "ទំនាក់ទំនងដែលសុខដុម អាចនាំមកនូវភាពស្ងប់ និងសុវត្ថិភាពផ្លូវចិត្ត។ ការយកចិត្តទុកដាក់គ្នាទៅវិញទៅមក អាចជួយអ្នកឱ្យមានអារម្មណ៍ពេញលេញ និងត្រូវបានគាំទ្រក្នុងជីវិតប្រចាំថ្ងៃ។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friendship, laughter and shared fun may be lifting you up. Being with people who make you smile could be the main thing boosting your mood.",
+        "km": "មិត្តភាព សំណើច និងភាពសប្បាយរួមគ្នា ប្រហែលជាកំពុងលើកទឹកចិត្តអ្នក។ ការនៅជាមួយមនុស្សដែលធ្វើឱ្យអ្នកញញឹម អាចជាកត្តាចម្បងដែលបង្កើនអារម្មណ៍របស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Overdoing parties and social plans could leave you drained and short of sleep. Enjoy good company, but protect your rest and health as well.",
+        "km": "ការជប់លៀង និងការណាត់ជួបសង្គមហួសហេតុ អាចធ្វើឱ្យអ្នកអស់កម្លាំង និងខ្វះដំណេក។ សូមរីករាយជាមួយមិត្តល្អ ប៉ុន្តែការពារការសម្រាក និងសុខភាពរបស់អ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Joyful connection could lift your spirits and bring a sense of belonging. Gatherings with friends may become a regular source of light and laughter.",
+        "km": "ការភ្ជាប់ទំនាក់ទំនងដ៏រីករាយ អាចលើកស្មារតីរបស់អ្នក និងនាំមកនូវអារម្មណ៍ជាប់ចំណង។ ការជួបជុំជាមួយមិត្តភក្តិ អាចក្លាយជាប្រភពនៃពន្លឺ និងសំណើចជាប្រចាំ។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "You may feel flat, bored or disconnected, with little enthusiasm for what is around you. Your inner world could be asking for attention.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ស្ងាត់ស្ងៀម ធុញទ្រាន់ ឬដាច់ទំនាក់ទំនង ដោយមានភាពរំភើបតិចតួចចំពោះអ្វីដែលនៅជុំវិញអ្នក។ ពិភពក្នុងចិត្តរបស់អ្នក អាចកំពុងស្នើសុំការយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Withdrawing into apathy could let low mood settle in. Notice small offers of comfort, and talk to someone if the flatness will not lift.",
+        "km": "ការដកខ្លួនចូលក្នុងភាពព្រងើយកន្តើយ អាចធ្វើឱ្យអារម្មណ៍ធ្លាក់ចុះតាំងលំនៅ។ សូមកត់សម្គាល់ការផ្តល់ជូនតូចៗនៃភាពកក់ក្តៅ ហើយនិយាយជាមួយនរណាម្នាក់ ប្រសិនបើភាពស្ងាត់ស្ងៀមនៅតែមាន។"
+      },
+      "outcome": {
+        "en": "Turning inward thoughtfully could lead to fresh insight and renewed interest in life. A new source of meaning may appear when you look for it.",
+        "km": "ការងាកចូលក្នុងខ្លួនដោយយកចិត្តទុកដាក់ អាចនាំទៅរកការយល់ដឹងថ្មី និងចំណាប់អារម្មណ៍លើជីវិតឡើងវិញ។ ប្រភពថ្មីនៃអត្ថន័យ អាចលេចឡើងនៅពេលអ្នកស្វែងរកវា។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "You may be feeling sad or disappointed, focused on something that did not go as hoped. Grief or regret could be weighing on your heart.",
+        "km": "អ្នកប្រហែលជាកំពុងមានអារម្មណ៍សោកសៅ ឬខកចិត្ត ដោយផ្តោតលើអ្វីមួយដែលមិនបានដូចការរំពឹង។ ទុក្ខសោក ឬការសោកស្តាយ អាចកំពុងសង្កត់លើចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Dwelling only on loss could keep you from noticing what remains. Allow your sadness, and consider speaking with a counsellor if it feels heavy.",
+        "km": "ការគិតតែពីការបាត់បង់ អាចរារាំងអ្នកពីការកត់សម្គាល់អ្វីដែលនៅសល់។ សូមអនុញ្ញាតឱ្យខ្លួនឯងសោកសៅ ហើយពិចារណានិយាយជាមួយអ្នកប្រឹក្សា ប្រសិនបើវាធ្ងន់។"
+      },
+      "outcome": {
+        "en": "Gentle acceptance could help you heal and turn toward what is still good. Hope may return as you allow yourself to grieve.",
+        "km": "ការទទួលយកដោយទន់ភ្លន់ អាចជួយអ្នកឱ្យជាសះស្បើយ និងងាកទៅរកអ្វីដែលនៅតែល្អ។ ក្តីសង្ឃឹមអាចត្រឡប់មកវិញ នៅពេលអ្នកអនុញ្ញាតឱ្យខ្លួនឯងកាន់ទុក្ខ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Memories and familiar things may be offering you comfort. Simple pleasures from childhood could be soothing you.",
+        "km": "ការចងចាំ និងរបស់ដែលធ្លាប់ស្គាល់ ប្រហែលជាកំពុងផ្តល់ភាពកក់ក្តៅដល់អ្នក។ សេចក្តីរីករាយសាមញ្ញៗតាំងពីកុមារភាព អាចកំពុងលួងលោមអ្នក។"
+      },
+      "challenge": {
+        "en": "Longing for the past could make your life as it is feel lacking. Bring the joys you remember, such as a favourite game or food, into your routine.",
+        "km": "ការនឹករលឹកអតីតកាល អាចធ្វើឱ្យជីវិតដូចដែលវាជាហាក់ដូចជាខ្វះខាត។ សូមនាំសេចក្តីរីករាយដែលអ្នកចងចាំ ដូចជាល្បែង ឬម្ហូបដែលចូលចិត្ត ចូលមកក្នុងទម្លាប់របស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Reconnecting with innocent joys could bring warmth and playfulness. Revisiting a beloved place or hobby may restore your sense of ease.",
+        "km": "ការភ្ជាប់ឡើងវិញជាមួយសេចក្តីរីករាយដ៏ស្លូតត្រង់ អាចនាំមកនូវភាពកក់ក្តៅ និងភាពលេងសើច។ ការត្រឡប់ទៅកាន់កន្លែង ឬចំណូលចិត្តដែលអ្នកស្រឡាញ់ អាចស្តារអារម្មណ៍នៃភាពស្រួលរបស់អ្នកឡើងវិញ។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Many wishes and worries may be competing for your attention. Daydreams could be pulling you away from what you need.",
+        "km": "បំណង និងការព្រួយបារម្ភជាច្រើន ប្រហែលជាកំពុងប្រកួតប្រជែងដើម្បីការយកចិត្តទុកដាក់របស់អ្នក។ ការស្រមៃ អាចកំពុងទាញអ្នកចេញពីអ្វីដែលអ្នកត្រូវការ។"
+      },
+      "challenge": {
+        "en": "Escaping into fantasies could leave real needs unmet. Choose one practical step that would truly help you feel better.",
+        "km": "ការគេចចូលក្នុងការស្រមៃ អាចធ្វើឱ្យតម្រូវការពិតមិនត្រូវបានបំពេញ។ សូមជ្រើសជំហានជាក់ស្តែងមួយ ដែលពិតជាអាចជួយអ្នកឱ្យមានអារម្មណ៍ល្អប្រសើរ។"
+      },
+      "outcome": {
+        "en": "Focusing on what is real could bring clarity and calm. Clearer priorities may help you feel more grounded and less overwhelmed.",
+        "km": "ការផ្តោតលើអ្វីដែលពិត អាចនាំមកនូវភាពច្បាស់លាស់ និងភាពស្ងប់។ អាទិភាពដែលច្បាស់ជាងមុន អាចជួយអ្នកឱ្យមានអារម្មណ៍នឹងនរ និងមិនសូវលើសកម្លាំង។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "You may feel ready to walk away from something that no longer nourishes you. A quiet longing for deeper meaning could be stirring inside.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ត្រៀមខ្លួនដើរចេញពីអ្វីមួយដែលលែងចិញ្ចឹមចិត្តអ្នក។ ការចង់បានអត្ថន័យកាន់តែជ្រៅដោយស្ងាត់ៗ អាចកំពុងកម្រើកក្នុងចិត្ត។"
+      },
+      "challenge": {
+        "en": "Staying in a draining situation out of habit could wear down your spirit. Ask honestly whether this situation still gives you anything worth keeping.",
+        "km": "ការនៅក្នុងស្ថានភាពដែលធ្វើឱ្យអស់កម្លាំងដោយសារទម្លាប់ អាចធ្វើឱ្យស្មារតីរបស់អ្នកចុះខ្សោយ។ សូមសួរដោយស្មោះថា តើស្ថានភាពនេះនៅតែផ្តល់អ្វីដែលសមនឹងរក្សាទុកឬអត់។"
+      },
+      "outcome": {
+        "en": "Moving on from what drains you could open space for real fulfilment. A search for meaning may lead you somewhere more peaceful and true.",
+        "km": "ការបន្តទៅមុខពីអ្វីដែលធ្វើឱ្យអ្នកអស់កម្លាំង អាចបើកលំហសម្រាប់ការបំពេញចិត្តពិតប្រាកដ។ ការស្វែងរកអត្ថន័យ អាចនាំអ្នកទៅកាន់កន្លែងដែលស្ងប់ និងពិតជាងមុន។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Satisfaction may be settling in as you enjoy the comforts you have created. A sense of wishes fulfilled could be warming your heart.",
+        "km": "សេចក្តីពេញចិត្ត ប្រហែលជាកំពុងតាំងលំនៅ នៅពេលអ្នករីករាយនឹងភាពសុខស្រួលដែលអ្នកបានបង្កើត។ អារម្មណ៍នៃបំណងដែលបានសម្រេច អាចកំពុងធ្វើឱ្យចិត្តរបស់អ្នកកក់ក្តៅ។"
+      },
+      "challenge": {
+        "en": "Seeking contentment only through pleasures could leave a deeper need unmet. Balance enjoyment with what truly feeds your spirit, such as purpose or connection.",
+        "km": "ការស្វែងរកសេចក្តីពេញចិត្តតែតាមរយៈសេចក្តីរីករាយ អាចធ្វើឱ្យតម្រូវការជ្រៅជាងនេះមិនត្រូវបានបំពេញ។ សូមថ្លឹងការរីករាយជាមួយអ្វីដែលពិតជាចិញ្ចឹមស្មារតីរបស់អ្នក ដូចជាគោលបំណង ឬទំនាក់ទំនង។"
+      },
+      "outcome": {
+        "en": "Gratitude for what you have could deepen your sense of wellbeing. Contentment may become a steady part of your inner life.",
+        "km": "ការដឹងគុណចំពោះអ្វីដែលអ្នកមាន អាចធ្វើឱ្យអារម្មណ៍សុខុមាលភាពរបស់អ្នកកាន់តែជ្រៅ។ សេចក្តីពេញចិត្ត អាចក្លាយជាផ្នែកនឹងនរនៃជីវិតក្នុងចិត្តរបស់អ្នក។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Love and emotional security may be all around you. A happy home life could be the foundation of your peace.",
+        "km": "ក្តីស្រឡាញ់ និងសុវត្ថិភាពផ្លូវចិត្ត ប្រហែលជាកំពុងហ៊ុំព័ទ្ធអ្នក។ ជីវិតគ្រួសារដ៏រីករាយ អាចជាមូលដ្ឋាននៃសន្តិភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Expecting everything to feel perfect could make ordinary bumps feel upsetting. Accept that true harmony includes some rough patches along the way.",
+        "km": "ការរំពឹងថាអ្វីៗនឹងល្អឥតខ្ចោះ អាចធ្វើឱ្យការប៉ះទង្គិចធម្មតាហាក់គួរឱ្យខកចិត្ត។ សូមទទួលយកថា ភាពសុខដុមពិតរួមបញ្ចូលទាំងភាពលំបាកម្តងម្កាលផង។"
+      },
+      "outcome": {
+        "en": "Deep emotional fulfilment could fill your life with warmth and joy. Loving bonds may give you a solid sense of belonging and home.",
+        "km": "ការបំពេញចិត្តផ្លូវអារម្មណ៍ដ៏ជ្រាលជ្រៅ អាចបំពេញជីវិតរបស់អ្នកដោយភាពកក់ក្តៅ និងសេចក្តីរីករាយ។ ចំណងនៃក្តីស្រឡាញ់ អាចផ្តល់ឱ្យអ្នកនូវអារម្មណ៍ជាប់ចំណង និងផ្ទះដ៏រឹងមាំ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "You may feel tender and sensitive, more open to gentle emotions than you might expect. A sweet surprise or creative urge could be stirring.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ទន់ភ្លន់ និងរសើប បើកចំហចំពោះអារម្មណ៍ទន់ៗ ច្រើនជាងអ្វីដែលអ្នករំពឹង។ ការភ្ញាក់ផ្អើលដ៏ផ្អែមល្ហែម ឬបំណងច្នៃប្រឌិត អាចកំពុងកម្រើក។"
+      },
+      "challenge": {
+        "en": "Being overly sensitive could leave you easily hurt by small things. Treat your feelings kindly, but do not let every one of them steer you.",
+        "km": "ការរសើបពេក អាចធ្វើឱ្យអ្នកងាយឈឺចិត្តដោយរឿងតូចៗ។ សូមប្រព្រឹត្តចំពោះអារម្មណ៍របស់អ្នកដោយសប្បុរស ប៉ុន្តែកុំឱ្យអារម្មណ៍នីមួយៗដឹកនាំអ្នក។"
+      },
+      "outcome": {
+        "en": "Openness to tender feelings could bring creativity and gentle joy. Expressing yourself through art or writing may soothe your heart.",
+        "km": "ការបើកចំហចំពោះអារម្មណ៍ទន់ភ្លន់ អាចនាំមកនូវការច្នៃប្រឌិត និងសេចក្តីរីករាយដ៏ទន់ភ្លន់។ ការបង្ហាញខ្លួនឯងតាមរយៈសិល្បៈ ឬការសរសេរ អាចលួងលោមចិត្តរបស់អ្នក។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "A dreamy, romantic mood may be guiding you more than any plan. Following your feelings could be bringing a gentle sense of flow.",
+        "km": "អារម្មណ៍ស្រមៃ និងរ៉ូមែនទិក ប្រហែលជាកំពុងដឹកនាំអ្នក ច្រើនជាងផែនការណាមួយ។ ការធ្វើតាមអារម្មណ៍របស់អ្នក អាចកំពុងនាំមកនូវអារម្មណ៍ហូររលូនដ៏ទន់ភ្លន់។"
+      },
+      "challenge": {
+        "en": "Chasing ideal feelings could leave you disappointed when ordinary life returns. Ground your dreams in small, practical acts of self-care.",
+        "km": "ការដេញតាមអារម្មណ៍ដ៏ល្អឥតខ្ចោះ អាចធ្វើឱ្យអ្នកខកចិត្ត នៅពេលជីវិតធម្មតាត្រឡប់មកវិញ។ សូមធ្វើឱ្យក្តីសុបិនរបស់អ្នកមានមូលដ្ឋាន ក្នុងសកម្មភាពតូចៗ និងជាក់ស្តែងនៃការថែរក្សាខ្លួនឯង។"
+      },
+      "outcome": {
+        "en": "Heart-led choices could bring beauty and grace into your inner life. Music, art or kindness may fill you with a soft, uplifting calm.",
+        "km": "ជម្រើសដែលដឹកនាំដោយចិត្ត អាចនាំភាពស្រស់ស្អាត និងភាពថ្លៃថ្នូចូលក្នុងជីវិតក្នុងចិត្តរបស់អ្នក។ តន្ត្រី សិល្បៈ ឬសេចក្តីសប្បុរស អាចបំពេញអ្នកដោយភាពស្ងប់ដ៏ទន់ភ្លន់ និងលើកទឹកចិត្ត។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "You may feel deeply empathetic, tuned in to your own and others' emotions. That intuitive awareness could be guiding how you care for yourself.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍យល់ចិត្តយ៉ាងជ្រាលជ្រៅ ដោយស្តាប់អារម្មណ៍របស់ខ្លួនឯង និងអ្នកដទៃ។ ការដឹងខ្លួនដោយវិចារណញាណនោះ អាចកំពុងណែនាំរបៀបដែលអ្នកថែរក្សាខ្លួនឯង។"
+      },
+      "challenge": {
+        "en": "Absorbing others' feelings could leave you emotionally exhausted. Create quiet space to recharge after caring for people.",
+        "km": "ការស្រូបយកអារម្មណ៍របស់អ្នកដទៃ អាចធ្វើឱ្យអ្នកអស់កម្លាំងផ្លូវចិត្ត។ សូមបង្កើតលំហស្ងាត់ៗដើម្បីបញ្ចូលថាមពលឡើងវិញ ក្រោយពីមើលថែមនុស្ស។"
+      },
+      "outcome": {
+        "en": "Compassionate self-care could bring a deep sense of emotional security. You may feel calm, intuitive and gently in tune with yourself.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយមេត្តាធម៌ អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅនៃសុវត្ថិភាពផ្លូវចិត្ត។ អ្នកអាចមានអារម្មណ៍ស្ងប់ មានវិចារណញាណ និងចុះសម្រុងជាមួយខ្លួនឯងដោយទន់ភ្លន់។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Emotional steadiness may be letting you stay calm when things get stirred up. That composure could be a real strength, letting you respond rather than react.",
+        "km": "ភាពនឹងនរផ្លូវចិត្ត ប្រហែលជាកំពុងអនុញ្ញាតឱ្យអ្នករក្សាភាពស្ងប់ នៅពេលអ្វីៗច្របូកច្របល់។ ភាពស្ងប់ស្ងាត់នោះ អាចជាកម្លាំងពិតប្រាកដ ដែលអនុញ្ញាតឱ្យអ្នកឆ្លើយតបដោយគិត ជាជាងមានប្រតិកម្មភ្លាមៗ។"
+      },
+      "challenge": {
+        "en": "Holding everything in to appear calm could build hidden pressure. Make sure your feelings have a healthy outlet, such as talking or writing.",
+        "km": "ការទប់អ្វីៗទាំងអស់ទុកក្នុងចិត្តដើម្បីហាក់ស្ងប់ អាចបង្កើតសម្ពាធលាក់កំបាំង។ សូមប្រាកដថាអារម្មណ៍របស់អ្នកមានច្រកចេញល្អ ដូចជាការនិយាយ ឬការសរសេរ។"
+      },
+      "outcome": {
+        "en": "Emotional balance could bring wisdom and peace to everything you do. You may handle stress with calm and clarity.",
+        "km": "តុល្យភាពផ្លូវចិត្ត អាចនាំប្រាជ្ញា និងសន្តិភាពដល់អ្វីៗដែលអ្នកធ្វើ។ អ្នកអាចដោះស្រាយភាពតានតឹងដោយភាពស្ងប់ និងភាពច្បាស់លាស់។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A clear mind and a sharp sense of what is true for you may be guiding you. That clarity could be helping you make healthier choices.",
+        "km": "គំនិតច្បាស់លាស់ និងអារម្មណ៍មុតស្រួចពីអ្វីដែលពិតសម្រាប់អ្នក ប្រហែលជាកំពុងដឹកនាំអ្នក។ ភាពច្បាស់លាស់នោះ អាចកំពុងជួយអ្នកធ្វើជម្រើសដែលមានសុខភាពល្អជាងមុន។"
+      },
+      "challenge": {
+        "en": "Overthinking could cut you off from your feelings and your body. Balance clear thinking with moments of simply being.",
+        "km": "ការគិតច្រើនពេក អាចកាត់ផ្តាច់អ្នកពីអារម្មណ៍ និងរាងកាយរបស់អ្នក។ សូមថ្លឹងការគិតច្បាស់លាស់ ជាមួយគ្រាដែលអ្នកគ្រាន់តែនៅស្ងៀម។"
+      },
+      "outcome": {
+        "en": "Clear insight could cut through confusion and bring peace of mind. A breakthrough in understanding may lighten your mood.",
+        "km": "ការយល់ដឹងច្បាស់លាស់ អាចកាត់ផ្តាច់ភាពច្របូកច្របល់ និងនាំមកនូវសេចក្តីសុខក្នុងចិត្ត។ ការយល់ដឹងថ្មីមួយ អាចធ្វើឱ្យអារម្មណ៍របស់អ្នកស្រាល។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "A decision you keep avoiding may be weighing on your mind. Inner conflict could be making it hard to relax.",
+        "km": "ការសម្រេចចិត្តដែលអ្នកចេះតែគេចវេស ប្រហែលជាកំពុងសង្កត់លើគំនិតរបស់អ្នក។ ជម្លោះក្នុងចិត្ត អាចកំពុងធ្វើឱ្យពិបាកសម្រាក។"
+      },
+      "challenge": {
+        "en": "Avoiding a hard choice could keep tension simmering inside. Face the decision gently, one step at a time.",
+        "km": "ការគេចពីជម្រើសលំបាក អាចធ្វើឱ្យភាពតានតឹងពុះក្នុងចិត្ត។ សូមប្រឈមមុខនឹងការសម្រេចចិត្តដោយទន់ភ្លន់ មួយជំហានម្តងៗ។"
+      },
+      "outcome": {
+        "en": "Making a decision could release tension and bring welcome calm. Peace may follow as you stop carrying two options around in your mind.",
+        "km": "ការធ្វើការសម្រេចចិត្ត អាចបញ្ចេញភាពតានតឹង និងនាំមកនូវភាពស្ងប់ដែលគួរឱ្យស្វាគមន៍។ សន្តិភាពអាចកើតមាន នៅពេលអ្នកឈប់កាន់ជម្រើសពីរក្នុងគំនិត។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "You may be carrying emotional pain, such as heartbreak or a sharp disappointment. That hurt could be affecting your sense of balance.",
+        "km": "អ្នកប្រហែលជាកំពុងទទួលការឈឺចាប់ផ្លូវចិត្ត ដូចជាការខូចចិត្ត ឬការខកចិត្តដ៏ធ្ងន់។ ការឈឺចាប់នោះ អាចកំពុងប៉ះពាល់ដល់អារម្មណ៍នៃតុល្យភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding pain inside could let it settle deeper. Express it in a safe way, and reach out to a counsellor if the hurt feels overwhelming.",
+        "km": "ការទប់ការឈឺចាប់ទុកក្នុងចិត្ត អាចធ្វើឱ្យវាចូលកាន់តែជ្រៅ។ សូមបង្ហាញវាតាមរបៀបដែលមានសុវត្ថិភាព ហើយទាក់ទងអ្នកប្រឹក្សា ប្រសិនបើការឈឺចាប់ធ្ងន់ពេក។"
+      },
+      "outcome": {
+        "en": "Acknowledging your hurt could begin a real process of healing. Your heart may mend gently as you allow yourself to feel what happened.",
+        "km": "ការទទួលស្គាល់ការឈឺចាប់របស់អ្នក អាចចាប់ផ្តើមដំណើរការនៃការជាសះស្បើយពិតប្រាកដ។ ចិត្តរបស់អ្នកអាចជាសះស្បើយដោយទន់ភ្លន់ នៅពេលអ្នកអនុញ្ញាតឱ្យខ្លួនឯងមានអារម្មណ៍ពីអ្វីដែលបានកើតឡើង។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "You may be in need of rest, with your mind and body asking for a pause. Quiet recovery could be exactly what supports your balance.",
+        "km": "អ្នកប្រហែលជាត្រូវការការសម្រាក ដោយគំនិត និងរាងកាយរបស់អ្នកកំពុងស្នើសុំការផ្អាក។ ការងើបឡើងវិញស្ងាត់ៗ អាចជាអ្វីដែលពិតជាគាំទ្រតុល្យភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Pushing on without rest could deepen exhaustion. Give yourself permission to stop, sleep and recover without guilt.",
+        "km": "ការបន្តរុញទៅមុខដោយគ្មានការសម្រាក អាចធ្វើឱ្យភាពអស់កម្លាំងកាន់តែធ្ងន់។ សូមអនុញ្ញាតឱ្យខ្លួនឯងឈប់ គេង និងងើបឡើងវិញ ដោយគ្មានអារម្មណ៍ទោសកំហុស។"
+      },
+      "outcome": {
+        "en": "Deep rest could restore your energy and clarity. You may return to daily life refreshed, calmer and better able to cope.",
+        "km": "ការសម្រាកយ៉ាងជ្រាលជ្រៅ អាចស្តារថាមពល និងភាពច្បាស់លាស់របស់អ្នកឡើងវិញ។ អ្នកអាចត្រឡប់ទៅជីវិតប្រចាំថ្ងៃវិញ ដោយស្រស់ស្រាយ ស្ងប់ និងអាចទប់ទល់បានល្អជាងមុន។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Conflict may have left you unsettled, perhaps winning a point but losing your peace. Tension from arguments could still be sitting in your chest and thoughts.",
+        "km": "ជម្លោះ ប្រហែលជាធ្វើឱ្យអ្នកមិនស្ងប់ ប្រហែលជាឈ្នះចំណុចមួយ ប៉ុន្តែបាត់បង់សន្តិភាពរបស់អ្នក។ ភាពតានតឹងពីការឈ្លោះប្រកែក អាចនៅតែស្ថិតក្នុងទ្រូង និងគំនិតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Holding on to resentment could keep your mind restless. Ask whether being right is worth the cost to your peace.",
+        "km": "ការប្រកាន់ខ្ជាប់ការអាក់អន់ចិត្ត អាចធ្វើឱ្យគំនិតរបស់អ្នកមិនស្ងប់។ សូមសួរថា តើការត្រូវ សមនឹងតម្លៃដែលអ្នកបង់ពីសន្តិភាពរបស់អ្នកឬទេ។"
+      },
+      "outcome": {
+        "en": "Letting go of a battle could restore calm and self-respect. You may feel lighter as you choose peace over winning.",
+        "km": "ការលែងប្រកាន់ការតស៊ូមួយ អាចស្តារភាពស្ងប់ និងការគោរពខ្លួនឯងឡើងវិញ។ អ្នកអាចមានអារម្មណ៍ស្រាលជាងមុន នៅពេលអ្នកជ្រើសសន្តិភាព ជាងការឈ្នះ។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You may feel yourself moving out of a hard stretch toward calmer waters. Relief could be quietly taking the place of stress, one small step after another.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ថាខ្លួនកំពុងចាកចេញពីដំណាក់កាលលំបាក ឆ្ពោះទៅរកទឹកដែលស្ងប់ជាងមុន។ ការធូរស្រាលអាចកំពុងជំនួសភាពតានតឹងដោយស្ងាត់ៗ មួយជំហានតូចបន្ទាប់ពីមួយជំហានទៀត។"
+      },
+      "challenge": {
+        "en": "Carrying old worries into a calmer phase could slow your recovery. Decide what you are ready to leave behind.",
+        "km": "ការនាំយកការព្រួយបារម្ភចាស់ៗចូលក្នុងដំណាក់កាលស្ងប់ជាងមុន អាចបន្ថយការងើបឡើងវិញរបស់អ្នក។ សូមសម្រេចថាអ្វីដែលអ្នកត្រៀមទុកនៅពីក្រោយ។"
+      },
+      "outcome": {
+        "en": "Gradual healing could carry you to a more peaceful state of mind. Each step away from stress may bring more ease.",
+        "km": "ការជាសះស្បើយបន្តិចម្តងៗ អាចនាំអ្នកទៅកាន់ស្ថានភាពចិត្តដែលសុខសាន្តជាងមុន។ ជំហាននីមួយៗដែលឆ្ងាយពីភាពតានតឹង អាចនាំមកនូវភាពស្រួលកាន់តែច្រើន។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "You may be avoiding something you know affects your wellbeing. Quietly sidestepping a problem could be draining more energy than facing it.",
+        "km": "អ្នកប្រហែលជាកំពុងគេចពីអ្វីមួយដែលអ្នកដឹងថាប៉ះពាល់ដល់សុខុមាលភាពរបស់អ្នក។ ការគេចពីបញ្ហាដោយស្ងាត់ៗ អាចកំពុងបង្ហូរថាមពលច្រើនជាងការប្រឈមមុខនឹងវា។"
+      },
+      "challenge": {
+        "en": "Fooling yourself about a habit or situation could undermine your balance. Be honest with yourself about what is really going on beneath the surface.",
+        "km": "ការបោកខ្លួនឯងអំពីទម្លាប់ ឬស្ថានភាពមួយ អាចធ្វើឱ្យតុល្យភាពរបស់អ្នកចុះខ្សោយ។ សូមស្មោះត្រង់ជាមួយខ្លួនឯង អំពីអ្វីដែលពិតជាកំពុងកើតឡើងនៅក្រោមផ្ទៃ។"
+      },
+      "outcome": {
+        "en": "Facing what you have avoided could bring relief and restored integrity. Honesty with yourself may free up energy you had been spending on hiding.",
+        "km": "ការប្រឈមមុខនឹងអ្វីដែលអ្នកបានគេចវេស អាចនាំមកនូវការធូរស្រាល និងភាពស្មោះត្រង់ដែលបានស្តារឡើងវិញ។ ភាពស្មោះត្រង់ជាមួយខ្លួនឯង អាចដោះលែងថាមពលដែលអ្នកបានចំណាយលើការលាក់បាំង។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Your own thoughts may be closing in, as if there were no way out. Limiting beliefs could be making things seem more restricted than they are.",
+        "km": "គំនិតរបស់អ្នកផ្ទាល់ ប្រហែលជាកំពុងរួមតូចមកលើអ្នក ហាក់ដូចជាគ្មានផ្លូវចេញ។ ជំនឿដែលកំណត់ព្រំដែន អាចកំពុងធ្វើឱ្យអ្វីៗហាក់តឹងរ៉ឹងជាងការពិត។"
+      },
+      "challenge": {
+        "en": "Believing you are stuck could keep you from noticing real options. Challenge one fearful thought, and seek support if you feel overwhelmed or hopeless.",
+        "km": "ការជឿថាអ្នកជាប់គាំង អាចរារាំងអ្នកពីការកត់សម្គាល់ជម្រើសពិតប្រាកដ។ សូមចោទសួរគំនិតភ័យខ្លាចមួយ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍លើសកម្លាំង ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Questioning your limits could open up a sense of freedom and possibility. You may discover the way out was closer than it seemed.",
+        "km": "ការចោទសួរដែនកំណត់របស់អ្នក អាចបើកអារម្មណ៍នៃសេរីភាព និងលទ្ធភាព។ អ្នកអាចរកឃើញថាផ្លូវចេញនៅជិតជាងអ្វីដែលវាហាក់ដូចជា។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "You may be troubled by worry or anxious thoughts, perhaps losing sleep over them. Your mind could be circling the same fears again and again.",
+        "km": "អ្នកប្រហែលជាត្រូវបានរំខានដោយការព្រួយបារម្ភ ឬគំនិតថប់បារម្ភ ប្រហែលជាដេកមិនលក់ដោយសារវា។ គំនិតរបស់អ្នក អាចកំពុងវិលជុំវិញការភ័យខ្លាចដដែលៗម្តងហើយម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Anxiety could make every problem seem bigger in the dark. Talk to someone you trust, and seek professional help if worry is affecting your sleep or health.",
+        "km": "ការថប់បារម្ភ អាចធ្វើឱ្យបញ្ហានីមួយៗហាក់ធំជាងការពិតក្នុងភាពងងឹត។ សូមនិយាយជាមួយអ្នកដែលអ្នកទុកចិត្ត ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការព្រួយបារម្ភប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Sharing your worries could ease their grip and bring relief. With support, your mind may settle and let rest come more easily.",
+        "km": "ការចែករំលែកការព្រួយបារម្ភរបស់អ្នក អាចបន្ធូរការក្តាប់របស់វា និងនាំមកនូវការធូរស្រាល។ ដោយមានការគាំទ្រ គំនិតរបស់អ្នកអាចស្ងប់ ហើយការសម្រាកអាចមកដល់ងាយជាងមុន។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "You may feel at a low point, as if you have reached the end of your strength. A painful situation could be leaving you exhausted and drained.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ស្ថិតនៅចំណុចទាបបំផុត ហាក់ដូចជាអ្នកបានអស់កម្លាំងទាំងស្រុង។ ស្ថានភាពដ៏ឈឺចាប់មួយ អាចកំពុងធ្វើឱ្យអ្នកហត់នឿយ និងអស់កម្លាំង។"
+      },
+      "challenge": {
+        "en": "Feeling overwhelmed could make you believe things cannot improve. Reach out to someone you trust, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ការមានអារម្មណ៍លើសកម្លាំង អាចធ្វើឱ្យអ្នកជឿថាអ្វីៗនឹងមិនប្រសើរឡើងវិញ។ សូមទាក់ទងនរណាម្នាក់ដែលអ្នកទុកចិត្ត ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Reaching the bottom could mark the turning point toward recovery. With support, strength may return one small step after another.",
+        "km": "ការធ្លាក់ដល់បាត អាចសម្គាល់ចំណុចបត់ឆ្ពោះទៅរកការងើបឡើងវិញ។ ដោយមានការគាំទ្រ កម្លាំងអាចត្រឡប់មកវិញបន្តិចម្តងៗ។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "You may feel mentally alert and curious, watching your own thoughts closely. A desire to understand yourself could be sharpening your focus.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ភ្ញាក់រលឹក និងចង់ដឹងក្នុងគំនិត ដោយសង្កេតគំនិតរបស់ខ្លួនឯងយ៉ាងដិតដល់។ បំណងចង់យល់ពីខ្លួនឯង អាចកំពុងធ្វើឱ្យការផ្តោតអារម្មណ៍របស់អ្នកមុតស្រួច។"
+      },
+      "challenge": {
+        "en": "Constant mental alertness could leave you edgy and unable to switch off. Give your mind regular breaks from news, screens and analysis.",
+        "km": "ការភ្ញាក់រលឹកក្នុងគំនិតជានិច្ច អាចធ្វើឱ្យអ្នកតានតឹង និងមិនអាចសម្រាកបាន។ សូមផ្តល់ការសម្រាកជាប្រចាំដល់គំនិតរបស់អ្នក ពីព័ត៌មាន អេក្រង់ និងការវិភាគ។"
+      },
+      "outcome": {
+        "en": "Curious self-reflection could bring fresh insight and clarity. Learning about your patterns may help you feel more in control.",
+        "km": "ការពិចារណាខ្លួនឯងដោយចិត្តចង់ដឹង អាចនាំមកនូវការយល់ដឹងថ្មី និងភាពច្បាស់លាស់។ ការរៀនពីគំរូរបស់អ្នក អាចជួយអ្នកឱ្យមានអារម្មណ៍គ្រប់គ្រងបានច្រើនជាងមុន។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Racing thoughts and an urge to act at full speed may be driving you. Mental energy could be running ahead of your body's need for rest.",
+        "km": "គំនិតរត់លឿន និងបំណងចង់ធ្វើសកម្មភាពយ៉ាងពេញល្បឿន ប្រហែលជាកំពុងជំរុញអ្នក។ ថាមពលក្នុងគំនិត អាចកំពុងរត់មុនតម្រូវការសម្រាករបស់រាងកាយអ្នក។"
+      },
+      "challenge": {
+        "en": "Rushing ahead without pause could lead to stress and mistakes. Slow your breathing and think before charging forward.",
+        "km": "ការប្រញាប់ទៅមុខដោយមិនផ្អាក អាចនាំឱ្យមានភាពតានតឹង និងកំហុស។ សូមបន្ថយការដកដង្ហើម ហើយគិតមុនពេលរុញទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Focused energy could help you tackle what has been troubling you. Clear, decisive action may bring relief from mental clutter.",
+        "km": "ថាមពលដែលផ្តោត អាចជួយអ្នកដោះស្រាយអ្វីដែលកំពុងរំខានអ្នក។ សកម្មភាពច្បាស់លាស់ និងម៉ឺងម៉ាត់ អាចនាំមកនូវការធូរស្រាលពីភាពរញ៉េរញ៉ៃក្នុងគំនិត។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "You may feel clear-headed and independent, seeing your situation without illusions. Honest self-awareness, free of wishful thinking, could be keeping you grounded.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មានគំនិតច្បាស់លាស់ និងឯករាជ្យ ដោយមើលឃើញស្ថានភាពរបស់អ្នកដោយគ្មានការបំភាន់។ ការដឹងខ្លួនដោយស្មោះត្រង់ ដោយគ្មានការគិតតាមបំណង អាចកំពុងរក្សាអ្នកឱ្យនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Being too hard on yourself could turn clarity into harsh self-criticism. Speak to yourself with the honesty and kindness you would offer a friend.",
+        "km": "ការតឹងរ៉ឹងពេកជាមួយខ្លួនឯង អាចប្រែភាពច្បាស់លាស់ទៅជាការរិះគន់ខ្លួនឯងដ៏ធ្ងន់ធ្ងរ។ សូមនិយាយជាមួយខ្លួនឯង ដោយភាពស្មោះត្រង់ និងសេចក្តីសប្បុរសដែលអ្នកនឹងផ្តល់ឱ្យមិត្តភក្តិ។"
+      },
+      "outcome": {
+        "en": "Clear, compassionate self-understanding could bring dignity and calm. You may feel strong enough to set healthy limits.",
+        "km": "ការយល់ពីខ្លួនឯងដោយច្បាស់លាស់ និងមេត្តាធម៌ អាចនាំមកនូវសេចក្តីថ្លៃថ្នូ និងភាពស្ងប់។ អ្នកអាចមានអារម្មណ៍ខ្លាំងល្មមដើម្បីកំណត់ដែនកំណត់ដែលមានសុខភាពល្អ។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Logic and a sense of control may be how you are managing your life. That steady mind could be a source of stability.",
+        "km": "តក្កវិជ្ជា និងអារម្មណ៍នៃការគ្រប់គ្រង ប្រហែលជារបៀបដែលអ្នកកំពុងគ្រប់គ្រងជីវិតរបស់អ្នក។ គំនិតនឹងនរនោះ អាចជាប្រភពនៃស្ថិរភាព។"
+      },
+      "challenge": {
+        "en": "Relying only on logic could leave emotions unacknowledged. Make room for feelings, such as sadness or worry, alongside clear thinking.",
+        "km": "ការពឹងផ្អែកតែលើតក្កវិជ្ជា អាចធ្វើឱ្យអារម្មណ៍មិនត្រូវបានទទួលស្គាល់។ សូមផ្តល់កន្លែងសម្រាប់អារម្មណ៍ ដូចជាទុក្ខព្រួយ ឬការព្រួយបារម្ភ រួមជាមួយការគិតច្បាស់លាស់។"
+      },
+      "outcome": {
+        "en": "Balanced reasoning could bring calm authority over your own wellbeing. Wise decisions may support a healthier, steadier life.",
+        "km": "ការវែកញែកដែលមានតុល្យភាព អាចនាំមកនូវសិទ្ធិអំណាចដ៏ស្ងប់លើសុខុមាលភាពរបស់អ្នក។ ការសម្រេចចិត្តដ៏ឈ្លាសវៃ អាចគាំទ្រជីវិតដែលមានសុខភាពល្អ និងនឹងនរជាងមុន។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A fresh, grounded start may be showing in how you care for your body and life. A new healthy routine could be taking root.",
+        "km": "ការចាប់ផ្តើមថ្មី និងនឹងនរ ប្រហែលជាកំពុងលេចឡើងក្នុងរបៀបដែលអ្នកថែរក្សារាងកាយ និងជីវិតរបស់អ្នក។ ទម្លាប់ល្អថ្មីមួយ អាចកំពុងចាក់ឫស។"
+      },
+      "challenge": {
+        "en": "Overlooking simple physical needs could undermine your balance. Pay attention to basics like food, water, movement and sleep.",
+        "km": "ការមើលរំលងតម្រូវការរាងកាយសាមញ្ញៗ អាចធ្វើឱ្យតុល្យភាពរបស់អ្នកចុះខ្សោយ។ សូមយកចិត្តទុកដាក់លើមូលដ្ឋានដូចជាអាហារ ទឹក ចលនា និងការគេង។"
+      },
+      "outcome": {
+        "en": "Practical self-care could build a solid foundation for wellbeing. Small healthy habits, kept up patiently, may grow into real stability and strength.",
+        "km": "ការថែរក្សាខ្លួនឯងជាក់ស្តែង អាចកសាងមូលដ្ឋានរឹងមាំសម្រាប់សុខុមាលភាព។ ទម្លាប់ល្អតូចៗ ដែលរក្សាដោយអត់ធ្មត់ អាចរីកចម្រើនទៅជាស្ថិរភាព និងកម្លាំងពិតប្រាកដ។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Many demands may be keeping you busy just to keep everything going. Staying flexible could be helping you cope, though it may be tiring.",
+        "km": "ការទាមទារជាច្រើន ប្រហែលជាកំពុងធ្វើឱ្យអ្នករវល់ ត្រឹមតែដើម្បីរក្សាអ្វីៗឱ្យដំណើរការ។ ការរក្សាភាពបត់បែន អាចកំពុងជួយអ្នកទប់ទល់ ទោះបីវាអាចធ្វើឱ្យហត់នឿយក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Constant juggling could leave you scattered and stressed. Drop or set aside whatever is not essential so you have room to breathe.",
+        "km": "ការបំពេញការងារច្រើនជានិច្ច អាចធ្វើឱ្យអ្នករាយប៉ាយ និងតានតឹង។ សូមទម្លាក់ ឬទុកមួយឡែកនូវអ្វីដែលមិនចាំបាច់ ដើម្បីឱ្យអ្នកមានលំហដកដង្ហើម។"
+      },
+      "outcome": {
+        "en": "Finding a workable rhythm could bring ease to your busy life. Balance may come from small, smart adjustments to your routine and commitments.",
+        "km": "ការរកចង្វាក់ដែលអាចធ្វើបាន អាចនាំភាពស្រួលដល់ជីវិតមមាញឹករបស់អ្នក។ តុល្យភាពអាចមកពីការកែសម្រួលតូចៗ និងឆ្លាតវៃ លើទម្លាប់ និងការប្តេជ្ញារបស់អ្នក។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "You may feel productive and supported, working well with others. Being part of a team could be giving you a sense of purpose.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍មានផលិតភាព និងត្រូវបានគាំទ្រ ដោយធ្វើការបានល្អជាមួយអ្នកដទៃ។ ការជាផ្នែកមួយនៃក្រុម អាចកំពុងផ្តល់ឱ្យអ្នកនូវអារម្មណ៍នៃគោលបំណង។"
+      },
+      "challenge": {
+        "en": "Taking on everyone's tasks could stretch you thin. Ask for help, and share the load fairly with the people around you.",
+        "km": "ការទទួលយកកិច្ចការរបស់គ្រប់គ្នា អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមសុំជំនួយ ហើយចែករំលែកបន្ទុកដោយយុត្តិធម៌ជាមួយមនុស្សនៅជុំវិញអ្នក។"
+      },
+      "outcome": {
+        "en": "Collaboration could bring satisfaction and a healthy sense of belonging. Shared effort may lighten your load and leave more energy for rest.",
+        "km": "កិច្ចសហការ អាចនាំមកនូវសេចក្តីពេញចិត្ត និងអារម្មណ៍ជាប់ចំណងដែលមានសុខភាពល្អ។ កិច្ចខិតខំរួមគ្នា អាចសម្រាលបន្ទុករបស់អ្នក ហើយទុកថាមពលបន្ថែមសម្រាប់ការសម្រាក។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "You may feel the need to hold on tightly, protecting your energy and resources. Feeling safe and steady could matter more to you than anything else.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ត្រូវការកាន់ឱ្យតឹង ដោយការពារថាមពល និងធនធានរបស់អ្នក។ អារម្មណ៍សុវត្ថិភាព និងនឹងនរ អាចសំខាន់សម្រាប់អ្នកជាងអ្វីៗផ្សេងទៀត។"
+      },
+      "challenge": {
+        "en": "Holding on too tightly could leave you tense and closed off. Loosen your grip a little and allow yourself to receive as well as keep.",
+        "km": "ការកាន់តឹងពេក អាចធ្វើឱ្យអ្នកតានតឹង និងបិទខ្លួន។ សូមបន្ធូរការក្តាប់បន្តិច ហើយអនុញ្ញាតឱ្យខ្លួនឯងទទួល ក៏ដូចជារក្សាទុកផងដែរ។"
+      },
+      "outcome": {
+        "en": "Balanced security could bring peace of mind without rigidity. You may feel safe enough to relax and enjoy what you have.",
+        "km": "សុវត្ថិភាពដែលមានតុល្យភាព អាចនាំមកនូវសេចក្តីសុខក្នុងចិត្ត ដោយគ្មានភាពតឹងរ៉ឹង។ អ្នកអាចមានអារម្មណ៍សុវត្ថិភាពល្មមដើម្បីសម្រាក និងរីករាយនឹងអ្វីដែលអ្នកមាន។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Struggle or a lack of support may be leaving you out in the cold. Worries about money or health could be weighing on you.",
+        "km": "ការតស៊ូ ឬការខ្វះការគាំទ្រ ប្រហែលជាកំពុងទុកអ្នកចោលក្នុងភាពត្រជាក់។ ការព្រួយបារម្ភអំពីប្រាក់ ឬសុខភាព អាចកំពុងសង្កត់លើអ្នក។"
+      },
+      "challenge": {
+        "en": "Feeling alone in hardship could keep you from seeking help. Reach out to people or services who can support you, including a doctor or adviser where needed.",
+        "km": "ការមានអារម្មណ៍ឯកោក្នុងភាពលំបាក អាចរារាំងអ្នកពីការស្វែងរកជំនួយ។ សូមទាក់ទងមនុស្ស ឬសេវាដែលអាចគាំទ្រអ្នក រួមទាំងវេជ្ជបណ្ឌិត ឬទីប្រឹក្សា នៅពេលចាំបាច់។"
+      },
+      "outcome": {
+        "en": "Accepting help could ease hardship and bring warmth back into your life. Support from friends, family or community may be closer than you expect.",
+        "km": "ការទទួលយកជំនួយ អាចបន្ធូរភាពលំបាក និងនាំភាពកក់ក្តៅត្រឡប់មកក្នុងជីវិតរបស់អ្នក។ ការគាំទ្រពីមិត្តភក្តិ គ្រួសារ ឬសហគមន៍ អាចនៅជិតជាងអ្វីដែលអ្នករំពឹង។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "The balance of giving and receiving in your life may be shifting. Generosity, either yours or others', could be affecting your wellbeing.",
+        "km": "តុល្យភាពនៃការផ្តល់ និងការទទួលក្នុងជីវិតរបស់អ្នក ប្រហែលជាកំពុងផ្លាស់ប្តូរ។ ភាពសប្បុរស ទាំងរបស់អ្នក ឬរបស់អ្នកដទៃ អាចកំពុងប៉ះពាល់ដល់សុខុមាលភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Pouring out energy and money for others could leave your own reserves empty. Keep enough for yourself to stay well and steady.",
+        "km": "ការចំណាយថាមពល និងប្រាក់សម្រាប់អ្នកដទៃ អាចធ្វើឱ្យកម្លាំងបម្រុងរបស់អ្នកទទេ។ សូមរក្សាទុកឱ្យគ្រប់គ្រាន់សម្រាប់ខ្លួនឯង ដើម្បីនៅតែមានសុខភាពល្អ និងនឹងនរ។"
+      },
+      "outcome": {
+        "en": "A fairer flow of giving and receiving could bring satisfaction and ease. Kindness may come back to you when you need it.",
+        "km": "លំហូរនៃការផ្តល់ និងការទទួលដែលយុត្តិធម៌ជាងមុន អាចនាំមកនូវសេចក្តីពេញចិត្ត និងភាពស្រួល។ សេចក្តីសប្បុរសអាចត្រឡប់មករកអ្នកវិញ នៅពេលអ្នកត្រូវការ។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "You may feel patient but uncertain, watching to see whether your efforts are paying off. Taking stock of your wellbeing could be on your mind.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍អត់ធ្មត់ ប៉ុន្តែមិនប្រាកដ ដោយសង្កេតមើលថាតើកិច្ចខិតខំរបស់អ្នកទទួលបានផលឬអត់។ ការពិនិត្យសុខុមាលភាពរបស់អ្នក អាចកំពុងស្ថិតក្នុងគំនិត។"
+      },
+      "challenge": {
+        "en": "Expecting dramatic results could leave you discouraged. Trust that steady habits work quietly beneath the surface, like roots under soil.",
+        "km": "ការរំពឹងលទ្ធផលធំៗ អាចធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។ សូមទុកចិត្តថាទម្លាប់នឹងនរ ធ្វើការដោយស្ងាត់ៗនៅក្រោមផ្ទៃ ដូចឫសនៅក្រោមដី។"
+      },
+      "outcome": {
+        "en": "Patient effort could bring a rewarding sense of growth and wellbeing. What you have nurtured may begin to show clear benefits.",
+        "km": "កិច្ចខិតខំដោយអត់ធ្មត់ អាចនាំមកនូវអារម្មណ៍ដ៏មានតម្លៃនៃការរីកចម្រើន និងសុខុមាលភាព។ អ្វីដែលអ្នកបានថែរក្សា អាចចាប់ផ្តើមបង្ហាញអត្ថប្រយោជន៍ច្បាស់លាស់។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "Steady practice and self-improvement may be holding your focus. Working on a skill or healthy habit could be grounding you.",
+        "km": "ការហាត់នឹងនរ និងការកែលម្អខ្លួនឯង ប្រហែលជាកំពុងទាក់ទាញការផ្តោតអារម្មណ៍របស់អ្នក។ ការធ្វើការលើជំនាញ ឬទម្លាប់ល្អមួយ អាចកំពុងធ្វើឱ្យអ្នកនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Working too hard on self-improvement could turn into pressure. Remember to rest and appreciate how far you have come.",
+        "km": "ការខិតខំខ្លាំងពេកលើការកែលម្អខ្លួនឯង អាចប្រែទៅជាសម្ពាធ។ សូមចងចាំឱ្យសម្រាក និងកោតសរសើរថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា។"
+      },
+      "outcome": {
+        "en": "Dedicated practice could build confidence, health and calm. Your efforts may become a source of quiet pride.",
+        "km": "ការហាត់ដោយលះបង់ អាចកសាងទំនុកចិត្ត សុខភាព និងភាពស្ងប់។ កិច្ចខិតខំរបស់អ្នក អាចក្លាយជាប្រភពនៃមោទនភាពស្ងាត់ៗ។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "You may feel self-sufficient and comfortable, enjoying the life you have built. A sense of independence could be supporting your peace.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ពឹងផ្អែកលើខ្លួនឯងបាន និងសុខស្រួល ដោយរីករាយនឹងជីវិតដែលអ្នកបានកសាង។ អារម្មណ៍នៃឯករាជ្យភាព អាចកំពុងគាំទ្រសន្តិភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Too much self-reliance could leave you isolated. Share your comforts and let others support you too.",
+        "km": "ការពឹងផ្អែកលើខ្លួនឯងច្រើនពេក អាចធ្វើឱ្យអ្នកឯកោ។ សូមចែករំលែកភាពសុខស្រួលរបស់អ្នក ហើយឱ្យអ្នកដទៃគាំទ្រអ្នកផងដែរ។"
+      },
+      "outcome": {
+        "en": "A secure, balanced life could bring deep contentment and ease. You may enjoy the fruits of your efforts with gratitude.",
+        "km": "ជីវិតដែលមានសុវត្ថិភាព និងតុល្យភាព អាចនាំមកនូវសេចក្តីពេញចិត្ត និងភាពស្រួលយ៉ាងជ្រាលជ្រៅ។ អ្នកអាចរីករាយនឹងផលនៃកិច្ចខិតខំរបស់អ្នកដោយការដឹងគុណ។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Family, home or tradition may be giving you a secure, rooted feeling. A stable base could be underpinning your wellbeing.",
+        "km": "គ្រួសារ ផ្ទះ ឬប្រពៃណី ប្រហែលជាកំពុងផ្តល់អារម្មណ៍សុវត្ថិភាព និងចាក់ឫសដល់អ្នក។ មូលដ្ឋានដែលមានស្ថិរភាព អាចកំពុងទ្រទ្រង់សុខុមាលភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Family obligations could leave little room for your own needs. Make space for yourself within your wider responsibilities.",
+        "km": "កាតព្វកិច្ចគ្រួសារ អាចទុកលំហតិចតួចសម្រាប់តម្រូវការរបស់អ្នក។ សូមផ្តល់លំហសម្រាប់ខ្លួនឯង ក្នុងចំណោមការទទួលខុសត្រូវធំៗរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Strong roots could bring a deep sense of safety and belonging. You may feel part of something larger and steadier than any one worry.",
+        "km": "ឫសរឹងមាំ អាចនាំមកនូវអារម្មណ៍ដ៏ជ្រាលជ្រៅនៃសុវត្ថិភាព និងការជាប់ចំណង។ អ្នកអាចមានអារម្មណ៍ជាផ្នែកមួយនៃអ្វីដែលធំជាង និងនឹងនរជាងការព្រួយបារម្ភណាមួយ។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "You may feel eager to learn new ways of looking after yourself. Curiosity about health, nutrition or routine could be motivating you.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ចង់រៀនវិធីថ្មីៗក្នុងការមើលថែខ្លួនឯង។ ចិត្តចង់ដឹងអំពីសុខភាព អាហារូបត្ថម្ភ ឬទម្លាប់ អាចកំពុងជំរុញអ្នក។"
+      },
+      "challenge": {
+        "en": "Collecting ideas without applying them could leave you where you started. Choose one practical change and try it consistently.",
+        "km": "ការប្រមូលគំនិតដោយមិនអនុវត្ត អាចទុកអ្នកនៅកន្លែងដែលអ្នកបានចាប់ផ្តើម។ សូមជ្រើសការផ្លាស់ប្តូរជាក់ស្តែងមួយ ហើយសាកល្បងវាជាប្រចាំ។"
+      },
+      "outcome": {
+        "en": "Steady learning could build healthy habits that support you well. A new practice may become a reliable part of your routine.",
+        "km": "ការរៀនសូត្រនឹងនរ អាចកសាងទម្លាប់ល្អដែលគាំទ្រអ្នកបានល្អ។ ការអនុវត្តថ្មីមួយ អាចក្លាយជាផ្នែកដែលគួរទុកចិត្តនៃទម្លាប់របស់អ្នក។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Steady, methodical routines that work may be keeping you on track. Reliability in your habits could be keeping you balanced.",
+        "km": "ទម្លាប់នឹងនរ និងមានរបៀបដែលមានប្រសិទ្ធភាព ប្រហែលជាកំពុងរក្សាអ្នកឱ្យនៅលើផ្លូវត្រូវ។ ភាពគួរទុកចិត្តក្នុងទម្លាប់របស់អ្នក អាចកំពុងរក្សាអ្នកឱ្យមានតុល្យភាព។"
+      },
+      "challenge": {
+        "en": "Rigid routines could leave you feeling stuck or uninspired. Add a little variety to keep your energy fresh.",
+        "km": "ទម្លាប់តឹងរ៉ឹង អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ជាប់គាំង ឬគ្មានការបំផុសគំនិត។ សូមបន្ថែមភាពចម្រុះបន្តិច ដើម្បីរក្សាថាមពលរបស់អ្នកឱ្យស្រស់ស្រាយ។"
+      },
+      "outcome": {
+        "en": "Consistent care could bring dependable health and calm. Your steady habits may become a quiet source of strength.",
+        "km": "ការថែរក្សាជាប់លាប់ អាចនាំមកនូវសុខភាព និងភាពស្ងប់ដែលគួរទុកចិត្ត។ ទម្លាប់នឹងនររបស់អ្នក អាចក្លាយជាប្រភពស្ងាត់ៗនៃកម្លាំង។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "You may feel nurturing and grounded, caring well for your body and home. Practical comforts, such as good meals and a tidy space, could be supporting your balance.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍ចេះថែរក្សា និងនឹងនរ ដោយមើលថែរាងកាយ និងផ្ទះរបស់អ្នកបានល្អ។ ភាពសុខស្រួលជាក់ស្តែង ដូចជាអាហារល្អ និងកន្លែងស្អាតរៀបរយ អាចកំពុងគាំទ្រតុល្យភាពរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Caring for everyone else could leave your own needs neglected. Give yourself the same practical care you offer others.",
+        "km": "ការមើលថែអ្នកដទៃទាំងអស់ អាចធ្វើឱ្យតម្រូវការរបស់អ្នកត្រូវបានបោះបង់ចោល។ សូមផ្តល់ការថែរក្សាជាក់ស្តែងដល់ខ្លួនឯង ដូចដែលអ្នកផ្តល់ដល់អ្នកដទៃ។"
+      },
+      "outcome": {
+        "en": "Grounded self-care could bring warmth, comfort and steady energy. Your home may become a true sanctuary where you can rest and recharge.",
+        "km": "ការថែរក្សាខ្លួនឯងដោយនឹងនរ អាចនាំមកនូវភាពកក់ក្តៅ ភាពសុខស្រួល និងថាមពលនឹងនរ។ ផ្ទះរបស់អ្នក អាចក្លាយជាជម្រកពិតប្រាកដ ដែលអ្នកអាចសម្រាក និងបញ្ចូលថាមពលឡើងវិញ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "You may feel secure, capable and in control of your practical life. Stability could be giving you a strong sense of wellbeing.",
+        "km": "អ្នកប្រហែលជាមានអារម្មណ៍សុវត្ថិភាព មានសមត្ថភាព និងគ្រប់គ្រងជីវិតជាក់ស្តែងរបស់អ្នកបាន។ ស្ថិរភាព អាចកំពុងផ្តល់ឱ្យអ្នកនូវអារម្មណ៍ខ្លាំងនៃសុខុមាលភាព។"
+      },
+      "challenge": {
+        "en": "Focusing on material security could overlook emotional or physical needs. Balance achievement with rest, play and the company of people you love.",
+        "km": "ការផ្តោតលើសុវត្ថិភាពសម្ភារៈ អាចមើលរំលងតម្រូវការផ្លូវចិត្ត ឬរាងកាយ។ សូមថ្លឹងសមិទ្ធផលជាមួយការសម្រាក ការលេងកម្សាន្ត និងការនៅជាមួយមនុស្សដែលអ្នកស្រឡាញ់។"
+      },
+      "outcome": {
+        "en": "Abundant stability could bring peace and confidence. You may enjoy a grounded way of life that leaves room for both work and pleasure.",
+        "km": "ស្ថិរភាពដ៏បរិបូរណ៍ អាចនាំមកនូវសន្តិភាព និងទំនុកចិត្ត។ អ្នកអាចរីករាយនឹងរបៀបរស់នៅដែលនឹងនរ ដែលទុកលំហសម្រាប់ទាំងការងារ និងសេចក្តីរីករាយ។"
+      }
+    }
+  }
+}
