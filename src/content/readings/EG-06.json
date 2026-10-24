@@ -1,0 +1,1097 @@
+{
+  "questionId": "EG-06",
+  "cards": {
+    "MAJ-00": {
+      "present": {
+        "en": "Novelty may be your strongest source of motivation. Trying something fresh could give you a burst of energy that routine never does.",
+        "km": "ភាពថ្មីថ្មោង អាចជាប្រភពកម្លាំងចិត្តខ្លាំងបំផុតរបស់អ្នក។ ការសាកល្បងអ្វីមួយស្រស់ អាចផ្តល់ឱ្យអ្នកនូវថាមពលខ្លាំង ដែលទម្លាប់មិនដែលផ្តល់។"
+      },
+      "challenge": {
+        "en": "Losing interest when the newness wears off could stall you. Build small surprises into your learning, like a new place, method or challenge, to keep it fresh.",
+        "km": "ការបាត់បង់ចំណាប់អារម្មណ៍នៅពេលភាពថ្មីរសាត់ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមបង្កើតការភ្ញាក់ផ្អើលតូចៗក្នុងការរៀនរបស់អ្នក ដូចជាកន្លែង វិធីសាស្ត្រ ឬការប្រកួតថ្មី ដើម្បីរក្សាវាឱ្យស្រស់។"
+      },
+      "outcome": {
+        "en": "Keeping a sense of adventure could make motivation feel natural rather than forced. You may find that curiosity carries you further than willpower alone.",
+        "km": "ការរក្សាស្មារតីផ្សងព្រេង អាចធ្វើឱ្យកម្លាំងចិត្តមានអារម្មណ៍ធម្មជាតិ ជាជាងបង្ខំ។ អ្នកអាចឃើញថាការចង់ដឹងនាំអ្នកទៅឆ្ងាយជាងឆន្ទៈតែម្យ៉ាង។"
+      }
+    },
+    "MAJ-01": {
+      "present": {
+        "en": "Seeing your skills make something real may be what drives you. Turning ideas into visible results could keep your energy high.",
+        "km": "ការឃើញជំនាញរបស់អ្នកបង្កើតអ្វីមួយពិតប្រាកដ អាចជាអ្វីដែលជំរុញអ្នក។ ការប្រែក្លាយគំនិតទៅជាលទ្ធផលដែលអាចមើលឃើញ អាចរក្សាថាមពលរបស់អ្នកឱ្យខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Working on too many things together could leave nothing finished and drain your drive. Choose one project and bring it to a visible result.",
+        "km": "ការធ្វើការលើរឿងច្រើនជាមួយគ្នា អាចធ្វើឱ្យគ្មានអ្វីបានបញ្ចប់ និងបង្ហូរកម្លាំងជំរុញរបស់អ្នក។ សូមជ្រើសរើសគម្រោងមួយ ហើយនាំវាទៅដល់លទ្ធផលដែលអាចមើលឃើញ។"
+      },
+      "outcome": {
+        "en": "Focused creation could keep your motivation renewing itself. You may find each finished piece of work gives you energy for the following one.",
+        "km": "ការបង្កើតដោយផ្តោត អាចរក្សាកម្លាំងចិត្តរបស់អ្នកឱ្យស្រស់ឡើងវិញដោយខ្លួនឯង។ អ្នកអាចឃើញថាការងារនីមួយៗដែលបានបញ្ចប់ ផ្តល់ថាមពលដល់អ្នកសម្រាប់ការងារបន្ទាប់។"
+      }
+    },
+    "MAJ-02": {
+      "present": {
+        "en": "A quiet inner sense of purpose may be your deepest motivation. Knowing why something matters to you could sustain you better than outside rewards.",
+        "km": "អារម្មណ៍ស្ងាត់ៗនៃគោលបំណងខាងក្នុង អាចជាកម្លាំងចិត្តជ្រៅបំផុតរបស់អ្នក។ ការដឹងថាហេតុអ្វីអ្វីមួយសំខាន់ចំពោះអ្នក អាចទ្រទ្រង់អ្នកបានល្អជាងរង្វាន់ពីខាងក្រៅ។"
+      },
+      "challenge": {
+        "en": "Losing touch with your reasons could leave you going through the motions. Spend a few quiet moments reconnecting with why you started.",
+        "km": "ការបាត់បង់ទំនាក់ទំនងជាមួយហេតុផលរបស់អ្នក អាចធ្វើឱ្យអ្នកគ្រាន់តែធ្វើតាមទម្លាប់។ សូមចំណាយគ្រាស្ងាត់ៗខ្លះ ដើម្បីភ្ជាប់ឡើងវិញជាមួយមូលហេតុដែលអ្នកបានចាប់ផ្តើម។"
+      },
+      "outcome": {
+        "en": "Staying close to your inner purpose could bring steady, quiet motivation. You may find that meaning keeps you going when excitement fades.",
+        "km": "ការនៅជិតគោលបំណងខាងក្នុងរបស់អ្នក អាចនាំមកនូវកម្លាំងចិត្តនឹងនរ និងស្ងាត់ៗ។ អ្នកអាចឃើញថាអត្ថន័យរក្សាអ្នកឱ្យបន្ត នៅពេលភាពរំភើបរសាត់។"
+      }
+    },
+    "MAJ-03": {
+      "present": {
+        "en": "Comfort and pleasure may help you stay motivated. A pleasant space and small treats could make effort feel more enjoyable.",
+        "km": "ភាពស្រួល និងភាពរីករាយ អាចជួយអ្នករក្សាកម្លាំងចិត្ត។ កន្លែងរីករាយ និងរង្វាន់តូចៗ អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍រីករាយជាង។"
+      },
+      "challenge": {
+        "en": "Neglecting your body's needs could quietly drain your motivation. Eat well, sleep enough and move a little, so your energy has a base.",
+        "km": "ការមើលរំលងតម្រូវការរាងកាយរបស់អ្នក អាចបង្ហូរកម្លាំងចិត្តរបស់អ្នកដោយស្ងាត់ៗ។ សូមញ៉ាំល្អ គេងគ្រប់គ្រាន់ និងធ្វើចលនាបន្តិច ដើម្បីឱ្យថាមពលរបស់អ្នកមានមូលដ្ឋាន។"
+      },
+      "outcome": {
+        "en": "Nurturing yourself could make motivation grow naturally. You may find that you want to work hard when you feel well cared for.",
+        "km": "ការថែទាំខ្លួនឯង អាចធ្វើឱ្យកម្លាំងចិត្តលូតលាស់ដោយធម្មជាតិ។ អ្នកអាចឃើញថាអ្នកចង់ខិតខំ នៅពេលអ្នកមានអារម្មណ៍ថាត្រូវបានថែទាំល្អ។"
+      }
+    },
+    "MAJ-04": {
+      "present": {
+        "en": "Clear goals and structure may be what keep you going. A plan with milestones could give you a strong sense of direction.",
+        "km": "គោលដៅច្បាស់ និងរចនាសម្ព័ន្ធ អាចជាអ្វីដែលរក្សាអ្នកឱ្យបន្ត។ ផែនការដែលមានចំណុចសំខាន់ៗ អាចផ្តល់ឱ្យអ្នកនូវអារម្មណ៍ខ្លាំងនៃទិសដៅ។"
+      },
+      "challenge": {
+        "en": "A plan that is too strict could make you feel like a failure after one slip. Allow some flexibility, and restart without guilt if you miss a step.",
+        "km": "ផែនការដែលតឹងរ៉ឹងពេក អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ដូចជាបរាជ័យក្រោយការរអិលមួយ។ សូមអនុញ្ញាតឱ្យមានភាពបត់បែនខ្លះ ហើយចាប់ផ្តើមឡើងវិញដោយគ្មានអារម្មណ៍មានកំហុស ប្រសិនបើអ្នកខកខានជំហានមួយ។"
+      },
+      "outcome": {
+        "en": "Steady structure could turn motivation into reliable habit. You may find you keep going even when you do not feel like it.",
+        "km": "រចនាសម្ព័ន្ធនឹងនរ អាចប្រែក្លាយកម្លាំងចិត្តទៅជាទម្លាប់ដែលអាចទុកចិត្តបាន។ អ្នកអាចឃើញថាអ្នកបន្តទៅមុខ សូម្បីតែនៅពេលអ្នកមិនមានអារម្មណ៍ចង់ធ្វើ។"
+      }
+    },
+    "MAJ-05": {
+      "present": {
+        "en": "A teacher, mentor or community may help keep you on track. Being part of a group with shared goals could give you steady encouragement.",
+        "km": "គ្រូ អ្នកណែនាំ ឬសហគមន៍ អាចជួយរក្សាអ្នកឱ្យនៅលើផ្លូវ។ ការជាផ្នែកមួយនៃក្រុមដែលមានគោលដៅរួម អាចផ្តល់ឱ្យអ្នកនូវការលើកទឹកចិត្តនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Following routines that feel meaningless could sap your drive. Ask your teacher or mentor to explain why each step matters.",
+        "km": "ការធ្វើតាមទម្លាប់ដែលមានអារម្មណ៍គ្មានន័យ អាចបង្ហូរកម្លាំងជំរុញរបស់អ្នក។ សូមសុំឱ្យគ្រូ ឬអ្នកណែនាំរបស់អ្នកពន្យល់ថាហេតុអ្វីជំហាននីមួយៗសំខាន់។"
+      },
+      "outcome": {
+        "en": "Learning within a supportive tradition could bring steady motivation. You may feel carried along by people who believe in the same path.",
+        "km": "ការរៀនក្នុងប្រពៃណីដែលគាំទ្រ អាចនាំមកនូវកម្លាំងចិត្តនឹងនរ។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបាននាំទៅមុខ ដោយមនុស្សដែលជឿលើផ្លូវដូចគ្នា។"
+      }
+    },
+    "MAJ-06": {
+      "present": {
+        "en": "Working towards something you genuinely care about may be your key. Goals that match your values could feel worth the effort.",
+        "km": "ការខិតខំឆ្ពោះទៅរកអ្វីមួយដែលអ្នកពិតជាយកចិត្តទុកដាក់ អាចជាគន្លឹះរបស់អ្នក។ គោលដៅដែលត្រូវនឹងគុណតម្លៃរបស់អ្នក អាចមានអារម្មណ៍សមនឹងការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Chasing goals that belong to someone else could leave you unmotivated. Check that what you are working towards is truly your own choice.",
+        "km": "ការដេញតាមគោលដៅដែលជារបស់អ្នកផ្សេង អាចធ្វើឱ្យអ្នកគ្មានកម្លាំងចិត្ត។ សូមពិនិត្យថាអ្វីដែលអ្នកកំពុងខិតខំឆ្ពោះទៅរក ពិតជាជម្រើសរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Aligning effort with your heart could make motivation feel effortless. You may also find a study partner who makes the journey more enjoyable.",
+        "km": "ការធ្វើឱ្យការខិតខំស្របនឹងចិត្តរបស់អ្នក អាចធ្វើឱ្យកម្លាំងចិត្តមានអារម្មណ៍ងាយស្រួល។ អ្នកក៏អាចរកឃើញដៃគូសិក្សា ដែលធ្វើឱ្យដំណើរកាន់តែរីករាយ។"
+      }
+    },
+    "MAJ-07": {
+      "present": {
+        "en": "A clear target may be the fuel that keeps you going. Knowing exactly what you want to win could keep you pushing forward through effort.",
+        "km": "គោលដៅច្បាស់ អាចជាឥន្ធនៈដែលរក្សាអ្នកឱ្យបន្ត។ ការដឹងច្បាស់ថាអ្នកចង់ឈ្នះអ្វី អាចរក្សាអ្នកឱ្យរុញទៅមុខតាមរយៈការខិតខំ។"
+      },
+      "challenge": {
+        "en": "Mixed desires pulling you in different directions could weaken your drive. Choose one main goal for this stretch, and let others wait.",
+        "km": "បំណងប្រាថ្នាលាយឡំដែលទាញអ្នកទៅទិសផ្សេងៗ អាចធ្វើឱ្យកម្លាំងជំរុញរបស់អ្នកខ្សោយ។ សូមជ្រើសរើសគោលដៅចម្បងមួយសម្រាប់ដំណាក់កាលនេះ ហើយទុកឱ្យគោលដៅផ្សេងទៀតរង់ចាំ។"
+      },
+      "outcome": {
+        "en": "Focused willpower could carry you through difficult stretches. You may feel the satisfaction of pushing through and reaching what you aimed for.",
+        "km": "ឆន្ទៈដែលផ្តោត អាចនាំអ្នកឆ្លងកាត់ដំណាក់កាលលំបាក។ អ្នកអាចមានអារម្មណ៍ពេញចិត្តនៃការរុញឆ្លងកាត់ និងការទៅដល់អ្វីដែលអ្នកបានតម្រង់។"
+      }
+    },
+    "MAJ-08": {
+      "present": {
+        "en": "Gentle, patient persistence may serve you better than bursts of effort. Treating yourself kindly could keep you going for the whole journey.",
+        "km": "ការតស៊ូដោយទន់ភ្លន់ និងអត់ធ្មត់ អាចបម្រើអ្នកបានល្អជាងការខិតខំម្តងម្កាល។ ការប្រព្រឹត្តចំពោះខ្លួនឯងដោយសប្បុរស អាចរក្សាអ្នកឱ្យបន្តពេញមួយដំណើរ។"
+      },
+      "challenge": {
+        "en": "Forcing yourself with harsh self-talk could burn your motivation out. Encourage yourself as you would a friend who is trying hard.",
+        "km": "ការបង្ខំខ្លួនឯងដោយពាក្យសម្តីធ្ងន់ធ្ងរ អាចដុតកម្លាំងចិត្តរបស់អ្នកឱ្យអស់។ សូមលើកទឹកចិត្តខ្លួនឯង ដូចដែលអ្នកលើកទឹកចិត្តមិត្តម្នាក់ដែលកំពុងខិតខំ។"
+      },
+      "outcome": {
+        "en": "Kind persistence could make motivation sustainable. You may find quiet strength carries you further than pressure ever could.",
+        "km": "ការតស៊ូដោយសប្បុរស អាចធ្វើឱ្យកម្លាំងចិត្តអាចរក្សាបាន។ អ្នកអាចឃើញថាកម្លាំងស្ងាត់ៗនាំអ្នកទៅឆ្ងាយជាងសម្ពាធ។"
+      }
+    },
+    "MAJ-09": {
+      "present": {
+        "en": "Quiet, self-directed time may be where you find your drive. Working alone on something meaningful could keep you focused.",
+        "km": "ពេលវេលាស្ងាត់ៗ និងដឹកនាំដោយខ្លួនឯង អាចជាកន្លែងដែលអ្នករកឃើញកម្លាំងជំរុញ។ ការធ្វើការតែម្នាក់ឯងលើអ្វីមួយដែលមានអត្ថន័យ អាចរក្សាការផ្តោតរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Too much isolation could let motivation quietly fade. Check in with someone regularly to share progress and stay accountable.",
+        "km": "ភាពឯកោច្រើនពេក អាចធ្វើឱ្យកម្លាំងចិត្តរសាត់ដោយស្ងាត់ៗ។ សូមទាក់ទងនរណាម្នាក់ជាទៀងទាត់ ដើម្បីចែករំលែកការរីកចម្រើន និងរក្សាទំនួលខុសត្រូវ។"
+      },
+      "outcome": {
+        "en": "Balancing solitude with connection could bring deep, steady motivation. You may find reflection keeps you on course while others keep you honest.",
+        "km": "ការថ្លឹងភាពឯកោជាមួយការភ្ជាប់ទំនាក់ទំនង អាចនាំមកនូវកម្លាំងចិត្តជ្រៅ និងនឹងនរ។ អ្នកអាចឃើញថាការឆ្លុះបញ្ចាំងរក្សាអ្នកនៅលើផ្លូវ ខណៈពេលអ្នកដទៃរក្សាអ្នកឱ្យស្មោះត្រង់។"
+      }
+    },
+    "MAJ-10": {
+      "present": {
+        "en": "Change and variety may keep your motivation alive. A new phase or opportunity could give you fresh energy.",
+        "km": "ការផ្លាស់ប្តូរ និងភាពចម្រុះ អាចរក្សាកម្លាំងចិត្តរបស់អ្នកឱ្យរស់។ ដំណាក់កាល ឬឱកាសថ្មី អាចផ្តល់ថាមពលស្រស់ដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Ups and downs in motivation could make you doubt yourself. Accept that energy comes in cycles, and keep a minimum routine when it is low.",
+        "km": "ការឡើងចុះនៃកម្លាំងចិត្ត អាចធ្វើឱ្យអ្នកសង្ស័យលើខ្លួនឯង។ សូមទទួលយកថាថាមពលមកជាវដ្ត ហើយរក្សាទម្លាប់អប្បបរមា នៅពេលវាទាប។"
+      },
+      "outcome": {
+        "en": "Riding the cycles wisely could keep you moving forward overall. You may find that low points pass more easily when you expect them.",
+        "km": "ការជិះលើវដ្តដោយប្រាជ្ញា អាចរក្សាអ្នកឱ្យផ្លាស់ទីទៅមុខជាទូទៅ។ អ្នកអាចឃើញថាចំណុចទាបឆ្លងកាត់បានងាយជាង នៅពេលអ្នករំពឹងវា។"
+      }
+    },
+    "MAJ-11": {
+      "present": {
+        "en": "A sense of fairness and earned reward may motivate you. Seeing a clear link between effort and result could keep you going.",
+        "km": "អារម្មណ៍នៃយុត្តិធម៌ និងរង្វាន់ដែលទទួលបានដោយការខិតខំ អាចជំរុញអ្នក។ ការឃើញការភ្ជាប់ច្បាស់រវាងការខិតខំ និងលទ្ធផល អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Feeling that effort goes unrewarded could drain your drive. Track your own progress, so you can see what your work is achieving.",
+        "km": "ការមានអារម្មណ៍ថាការខិតខំមិនត្រូវបានផ្តល់រង្វាន់ អាចបង្ហូរកម្លាំងជំរុញរបស់អ្នក។ សូមតាមដានការរីកចម្រើនរបស់អ្នកផ្ទាល់ ដើម្បីឱ្យអ្នកអាចឃើញអ្វីដែលការងាររបស់អ្នកកំពុងសម្រេច។"
+      },
+      "outcome": {
+        "en": "Honest tracking could keep motivation grounded in reality. You may feel steady satisfaction as effort and results line up.",
+        "km": "ការតាមដានដោយស្មោះត្រង់ អាចរក្សាកម្លាំងចិត្តឱ្យផ្អែកលើការពិត។ អ្នកអាចមានអារម្មណ៍ពេញចិត្តនឹងនរ នៅពេលការខិតខំ និងលទ្ធផលស្របគ្នា។"
+      }
+    },
+    "MAJ-12": {
+      "present": {
+        "en": "A pause or change of perspective may renew your motivation. Stepping back could help you see your goals in a fresh light.",
+        "km": "ការផ្អាក ឬការផ្លាស់ប្តូរទស្សនៈ អាចធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកស្រស់ឡើងវិញ។ ការដកខ្លួនថយក្រោយ អាចជួយអ្នកមើលឃើញគោលដៅរបស់អ្នកក្នុងពន្លឺថ្មី។"
+      },
+      "challenge": {
+        "en": "Pushing on while feeling stuck could deepen frustration. Allow a short, deliberate pause, then return with a different approach.",
+        "km": "ការរុញទៅមុខខណៈពេលមានអារម្មណ៍ជាប់គាំង អាចធ្វើឱ្យការខកចិត្តកាន់តែជ្រៅ។ សូមអនុញ្ញាតឱ្យមានការផ្អាកខ្លីដោយចេតនា រួចត្រឡប់មកវិញជាមួយវិធីសាស្ត្រផ្សេង។"
+      },
+      "outcome": {
+        "en": "A fresh perspective could restore your sense of purpose. You may see why your goal matters in a way that reignites your drive.",
+        "km": "ទស្សនៈថ្មី អាចស្តារអារម្មណ៍នៃគោលបំណងរបស់អ្នក។ អ្នកអាចមើលឃើញថាហេតុអ្វីគោលដៅរបស់អ្នកសំខាន់ តាមរបៀបដែលដុតកម្លាំងជំរុញរបស់អ្នកឡើងវិញ។"
+      }
+    },
+    "MAJ-13": {
+      "present": {
+        "en": "Letting go of an old goal may free your energy. Ending something that no longer inspires you could make room for fresh motivation.",
+        "km": "ការលែងប្រកាន់គោលដៅចាស់ អាចដោះលែងថាមពលរបស់អ្នក។ ការបញ្ចប់អ្វីមួយដែលលែងបំផុសគំនិតអ្នក អាចបង្កើតកន្លែងសម្រាប់កម្លាំងចិត្តថ្មី។"
+      },
+      "challenge": {
+        "en": "Clinging to goals you have outgrown could leave you feeling flat. Release what no longer fits, and choose something that excites you.",
+        "km": "ការប្រកាន់ខ្ជាប់គោលដៅដែលអ្នកបានលូតលាស់ហួស អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ស្ងួត។ សូមដោះលែងអ្វីដែលលែងសម ហើយជ្រើសរើសអ្វីមួយដែលធ្វើឱ្យអ្នករំភើប។"
+      },
+      "outcome": {
+        "en": "A fresh start could bring a wave of new motivation. You may find energy returns when you are working towards something that fits you.",
+        "km": "ការចាប់ផ្តើមថ្មី អាចនាំមកនូវរលកនៃកម្លាំងចិត្តថ្មី។ អ្នកអាចឃើញថាថាមពលត្រឡប់មកវិញ នៅពេលអ្នកកំពុងខិតខំឆ្ពោះទៅរកអ្វីមួយដែលសមនឹងអ្នក។"
+      }
+    },
+    "MAJ-14": {
+      "present": {
+        "en": "Balance and steady pacing may keep you motivated. Mixing effort with rest could stop you burning out.",
+        "km": "តុល្យភាព និងល្បឿននឹងនរ អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។ ការលាយការខិតខំជាមួយការសម្រាក អាចការពារអ្នកពីការអស់កម្លាំង។"
+      },
+      "challenge": {
+        "en": "Swinging between overwork and giving up could exhaust your drive. Aim for moderate, regular effort rather than big bursts.",
+        "km": "ការយោលរវាងការធ្វើការហួសកម្រិត និងការបោះបង់ អាចធ្វើឱ្យកម្លាំងជំរុញរបស់អ្នកអស់។ សូមតម្រង់ទៅរកការខិតខំល្មម និងទៀងទាត់ ជាជាងការខិតខំខ្លាំងម្តងម្កាល។"
+      },
+      "outcome": {
+        "en": "Moderation could make motivation last. You may find a calm rhythm that keeps you moving forward without strain.",
+        "km": "ភាពល្មមល្មើយ អាចធ្វើឱ្យកម្លាំងចិត្តនៅបានយូរ។ អ្នកអាចរកឃើញចង្វាក់ស្ងប់មួយ ដែលរក្សាអ្នកឱ្យផ្លាស់ទីទៅមុខដោយមិនតានតឹង។"
+      }
+    },
+    "MAJ-15": {
+      "present": {
+        "en": "Habits may be shaping your motivation more than you realise. Some routines could be helping you, while others pull you away.",
+        "km": "ទម្លាប់ អាចកំពុងបង្កើតកម្លាំងចិត្តរបស់អ្នក ច្រើនជាងអ្វីដែលអ្នកដឹង។ ទម្លាប់ខ្លះអាចកំពុងជួយអ្នក ខណៈពេលទម្លាប់ផ្សេងទៀតទាញអ្នកចេញ។"
+      },
+      "challenge": {
+        "en": "Distracting habits could be stealing the energy you need. Reduce one distraction, and seek support if a habit feels out of control.",
+        "km": "ទម្លាប់ដែលរំខាន អាចកំពុងលួចថាមពលដែលអ្នកត្រូវការ។ សូមកាត់បន្ថយការរំខានមួយ ហើយស្វែងរកការគាំទ្រ ប្រសិនបើទម្លាប់មួយហាក់ហួសការគ្រប់គ្រង។"
+      },
+      "outcome": {
+        "en": "Breaking an unhelpful pattern could free a surprising amount of drive. You may find motivation returns as the pull of distraction weakens.",
+        "km": "ការបំបែកលំនាំដែលមិនជួយ អាចដោះលែងកម្លាំងជំរុញច្រើនគួរឱ្យភ្ញាក់ផ្អើល។ អ្នកអាចឃើញថាកម្លាំងចិត្តត្រឡប់មកវិញ នៅពេលការទាញនៃការរំខានចុះខ្សោយ។"
+      }
+    },
+    "MAJ-16": {
+      "present": {
+        "en": "A shake-up may have knocked your motivation. A change or setback could have left you feeling unsettled and unsure.",
+        "km": "ការរង្គើមួយ អាចបានធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកធ្លាក់។ ការផ្លាស់ប្តូរ ឬឧបសគ្គមួយ អាចបានធ្វើឱ្យអ្នកមានអារម្មណ៍មិនស្ងប់ និងមិនប្រាកដ។"
+      },
+      "challenge": {
+        "en": "Expecting to bounce back in an instant could add pressure. Rebuild your routine one small piece after another, and ask for support if needed.",
+        "km": "ការរំពឹងថានឹងក្រោកឡើងភ្លាមៗ អាចបន្ថែមសម្ពាធ។ សូមកសាងទម្លាប់របស់អ្នកឡើងវិញម្តងមួយផ្នែកតូចៗ ហើយសុំការគាំទ្រប្រសិនបើត្រូវការ។"
+      },
+      "outcome": {
+        "en": "Rebuilding after disruption could give you stronger, more honest motivation. You may find you know more clearly what truly drives you.",
+        "km": "ការកសាងឡើងវិញក្រោយការរំខាន អាចផ្តល់ឱ្យអ្នកនូវកម្លាំងចិត្តរឹងមាំ និងស្មោះត្រង់ជាង។ អ្នកអាចដឹងកាន់តែច្បាស់ពីអ្វីដែលពិតជាជំរុញអ្នក។"
+      }
+    },
+    "MAJ-17": {
+      "present": {
+        "en": "Hope and inspiration may be your best motivators. A vision of what is possible could lift your spirits.",
+        "km": "ក្តីសង្ឃឹម និងការបំផុសគំនិត អាចជាកម្លាំងជំរុញល្អបំផុតរបស់អ្នក។ ចក្ខុវិស័យនៃអ្វីដែលអាចទៅរួច អាចលើកស្មារតីរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Forgetting the dream behind your effort could leave work feeling grey. Picture what success would look like, and return to that picture often.",
+        "km": "ការភ្លេចក្តីស្រមៃនៅពីក្រោយការខិតខំរបស់អ្នក អាចធ្វើឱ្យការងារមានអារម្មណ៍ស្រអាប់។ សូមស្រមៃពីរូបរាងនៃភាពជោគជ័យ ហើយត្រឡប់ទៅរករូបភាពនោះញឹកញាប់។"
+      },
+      "outcome": {
+        "en": "Staying inspired could keep your motivation glowing steadily. You may find hope renews itself as you see progress.",
+        "km": "ការរក្សាការបំផុសគំនិត អាចរក្សាកម្លាំងចិត្តរបស់អ្នកឱ្យភ្លឺនឹងនរ។ អ្នកអាចឃើញថាក្តីសង្ឃឹមស្រស់ឡើងវិញដោយខ្លួនឯង នៅពេលអ្នកឃើញការរីកចម្រើន។"
+      }
+    },
+    "MAJ-18": {
+      "present": {
+        "en": "Uncertainty may be clouding your motivation. Not knowing exactly where you are heading could make effort feel aimless.",
+        "km": "ភាពមិនប្រាកដ អាចកំពុងធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកស្រអាប់។ ការមិនដឹងច្បាស់ថាអ្នកកំពុងឆ្ពោះទៅណា អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍គ្មានគោលដៅ។"
+      },
+      "challenge": {
+        "en": "Vague goals could leave you drifting. Write down one clear, specific aim, so your effort has a direction.",
+        "km": "គោលដៅមិនច្បាស់ អាចធ្វើឱ្យអ្នករសាត់។ សូមសរសេរគោលដៅច្បាស់ និងជាក់លាក់មួយ ដើម្បីឱ្យការខិតខំរបស់អ្នកមានទិសដៅ។"
+      },
+      "outcome": {
+        "en": "Clarifying your aim could bring renewed motivation. You may find the fog lifts when you know what you are working towards.",
+        "km": "ការបញ្ជាក់គោលដៅរបស់អ្នក អាចនាំមកនូវកម្លាំងចិត្តថ្មី។ អ្នកអាចឃើញថាអ័ព្ទរសាត់បាត់ នៅពេលអ្នកដឹងថាអ្នកកំពុងខិតខំឆ្ពោះទៅរកអ្វី។"
+      }
+    },
+    "MAJ-19": {
+      "present": {
+        "en": "Joy and enthusiasm may be your natural motivators. Enjoying what you do could make effort feel easy.",
+        "km": "សេចក្តីរីករាយ និងភាពរំភើប អាចជាកម្លាំងជំរុញធម្មជាតិរបស់អ្នក។ ការរីករាយនឹងអ្វីដែលអ្នកធ្វើ អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍ងាយស្រួល។"
+      },
+      "challenge": {
+        "en": "Relying only on good moods could leave you stuck when things are harder. Build a simple routine that carries you when enthusiasm dips.",
+        "km": "ការពឹងតែលើអារម្មណ៍ល្អ អាចធ្វើឱ្យអ្នកជាប់គាំង នៅពេលអ្វីៗពិបាកជាង។ សូមបង្កើតទម្លាប់សាមញ្ញមួយ ដែលនាំអ្នកទៅមុខនៅពេលភាពរំភើបធ្លាក់ចុះ។"
+      },
+      "outcome": {
+        "en": "Pairing joy with routine could keep motivation shining. You may find success feeds your enthusiasm in a happy cycle.",
+        "km": "ការផ្គូផ្គងសេចក្តីរីករាយជាមួយទម្លាប់ អាចរក្សាកម្លាំងចិត្តឱ្យភ្លឺចែងចាំង។ អ្នកអាចឃើញថាភាពជោគជ័យចិញ្ចឹមភាពរំភើបរបស់អ្នក ក្នុងវដ្តរីករាយមួយ។"
+      }
+    },
+    "MAJ-20": {
+      "present": {
+        "en": "A renewed sense of purpose may be stirring. Reflecting on how far you have come could reignite your drive.",
+        "km": "អារម្មណ៍ថ្មីនៃគោលបំណង អាចកំពុងកើតឡើង។ ការឆ្លុះបញ្ចាំងពីថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា អាចដុតកម្លាំងជំរុញរបស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Judging yourself for losing momentum could keep you stuck. Forgive the lapse, and recommit with one meaningful step.",
+        "km": "ការវិនិច្ឆ័យខ្លួនឯងចំពោះការបាត់បង់សន្ទុះ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមអភ័យទោសចំពោះការធ្លាក់ចុះ ហើយប្តេជ្ញាឡើងវិញដោយជំហានដ៏មានអត្ថន័យមួយ។"
+      },
+      "outcome": {
+        "en": "Recommitting could bring a strong wave of renewed motivation. You may feel called to your goals with fresh clarity and purpose.",
+        "km": "ការប្តេជ្ញាឡើងវិញ អាចនាំមកនូវរលកខ្លាំងនៃកម្លាំងចិត្តថ្មី។ អ្នកអាចមានអារម្មណ៍ថាត្រូវបានហៅទៅរកគោលដៅរបស់អ្នក ដោយភាពច្បាស់លាស់ និងគោលបំណងថ្មី។"
+      }
+    },
+    "MAJ-21": {
+      "present": {
+        "en": "The satisfaction of completing things may be your strongest motivator. Seeing goals through to the end could keep you going.",
+        "km": "ការពេញចិត្តនៃការបញ្ចប់រឿងរ៉ាវ អាចជាកម្លាំងជំរុញខ្លាំងបំផុតរបស់អ្នក។ ការឃើញគោលដៅដល់ទីបញ្ចប់ អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Losing steam near the end could leave goals unfinished. Break the closing stretch into small steps, and celebrate each one.",
+        "km": "ការបាត់បង់កម្លាំងនៅជិតចុងបញ្ចប់ អាចទុកគោលដៅមិនបានបញ្ចប់។ សូមបំបែកផ្នែកបញ្ចប់ទៅជាជំហានតូចៗ ហើយអបអរនីមួយៗ។"
+      },
+      "outcome": {
+        "en": "Finishing well could bring a deep sense of accomplishment. You may feel motivated to take on a new, bigger goal.",
+        "km": "ការបញ្ចប់បានល្អ អាចនាំមកនូវអារម្មណ៍ជ្រៅនៃសមិទ្ធផល។ អ្នកអាចមានកម្លាំងចិត្តទទួលយកគោលដៅថ្មី និងធំជាង។"
+      }
+    },
+    "WAN-01": {
+      "present": {
+        "en": "A spark of excitement may be your best motivator. Starting something new and energising could give you a strong push.",
+        "km": "ផ្កាភ្លើងនៃភាពរំភើប អាចជាកម្លាំងជំរុញល្អបំផុតរបស់អ្នក។ ការចាប់ផ្តើមអ្វីមួយថ្មី និងផ្តល់ថាមពល អាចផ្តល់ឱ្យអ្នកនូវការជំរុញខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Letting the spark burn out before you build momentum could leave you flat. Act on your enthusiasm with a small, specific first step.",
+        "km": "ការទុកឱ្យផ្កាភ្លើងរលត់ មុនពេលអ្នកកសាងសន្ទុះ អាចធ្វើឱ្យអ្នកអស់កម្លាំងចិត្ត។ សូមធ្វើសកម្មភាពតាមភាពរំភើបរបស់អ្នក ដោយជំហានដំបូងតូច និងជាក់លាក់មួយ។"
+      },
+      "outcome": {
+        "en": "Acting while inspired could build momentum that keeps you going. You may find small wins fuel your motivation for the harder parts.",
+        "km": "ការធ្វើសកម្មភាពខណៈពេលមានការបំផុសគំនិត អាចកសាងសន្ទុះដែលរក្សាអ្នកឱ្យបន្ត។ អ្នកអាចឃើញថាជ័យជម្នះតូចៗ ផ្តល់កម្លាំងដល់កម្លាំងចិត្តរបស់អ្នកសម្រាប់ផ្នែកពិបាកជាង។"
+      }
+    },
+    "WAN-02": {
+      "present": {
+        "en": "A bigger vision may keep you motivated. Picturing where your effort could lead could give you a sense of purpose.",
+        "km": "ចក្ខុវិស័យធំជាង អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។ ការស្រមៃពីកន្លែងដែលការខិតខំរបស់អ្នកអាចនាំទៅ អាចផ្តល់ឱ្យអ្នកនូវអារម្មណ៍នៃគោលបំណង។"
+      },
+      "challenge": {
+        "en": "Staying in planning mode could leave motivation untested. Turn your vision into one concrete action you can take straight away.",
+        "km": "ការនៅក្នុងរបៀបគ្រោង អាចទុកកម្លាំងចិត្តមិនត្រូវបានសាកល្បង។ សូមប្រែក្លាយចក្ខុវិស័យរបស់អ្នក ទៅជាសកម្មភាពជាក់ស្តែងមួយដែលអ្នកអាចធ្វើបានភ្លាមៗ។"
+      },
+      "outcome": {
+        "en": "Linking everyday effort to your bigger vision could keep motivation strong. You may feel each step bringing your wider goal closer.",
+        "km": "ការភ្ជាប់ការខិតខំប្រចាំទៅនឹងចក្ខុវិស័យធំរបស់អ្នក អាចរក្សាកម្លាំងចិត្តឱ្យខ្លាំង។ អ្នកអាចមានអារម្មណ៍ថាជំហាននីមួយៗនាំគោលដៅទូលាយរបស់អ្នកឱ្យកាន់តែជិត។"
+      }
+    },
+    "WAN-03": {
+      "present": {
+        "en": "Seeing early progress may be your motivation. Results starting to show could encourage you to keep going.",
+        "km": "ការឃើញការរីកចម្រើន អាចជាកម្លាំងចិត្តរបស់អ្នក។ លទ្ធផលដែលចាប់ផ្តើមបង្ហាញ អាចលើកទឹកចិត្តអ្នកឱ្យបន្តទៅមុខ។"
+      },
+      "challenge": {
+        "en": "Waiting impatiently for bigger results could make you lose heart. Celebrate the small signs of progress you already see.",
+        "km": "ការរង់ចាំលទ្ធផលធំជាងដោយមិនអត់ធ្មត់ អាចធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។ សូមអបអរសញ្ញាតូចៗនៃការរីកចម្រើនដែលអ្នកមើលឃើញរួចហើយ។"
+      },
+      "outcome": {
+        "en": "Building on progress could expand your motivation. You may find opportunities widen as you keep moving forward.",
+        "km": "ការកសាងលើការរីកចម្រើន អាចពង្រីកកម្លាំងចិត្តរបស់អ្នក។ អ្នកអាចឃើញឱកាសពង្រីក នៅពេលអ្នកបន្តផ្លាស់ទីទៅមុខ។"
+      }
+    },
+    "WAN-04": {
+      "present": {
+        "en": "Celebration and reward may keep you motivated. Marking milestones with people you care about could make effort feel worthwhile.",
+        "km": "ការអបអរ និងរង្វាន់ អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។ ការកត់សម្គាល់ចំណុចសំខាន់ៗជាមួយមនុស្សដែលអ្នកយកចិត្តទុកដាក់ អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍សមនឹងតម្លៃ។"
+      },
+      "challenge": {
+        "en": "Skipping celebrations could make effort feel endless. Plan a small reward for each step you complete, and actually enjoy it.",
+        "km": "ការរំលងការអបអរ អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍គ្មានទីបញ្ចប់។ សូមគ្រោងរង្វាន់តូចមួយសម្រាប់ជំហាននីមួយៗដែលអ្នកបញ្ចប់ ហើយរីករាយនឹងវាពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Regular celebration could keep motivation joyful and steady. You may look forward to each milestone and the people who share it.",
+        "km": "ការអបអរជាទៀងទាត់ អាចរក្សាកម្លាំងចិត្តឱ្យរីករាយ និងនឹងនរ។ អ្នកអាចទន្ទឹងរង់ចាំចំណុចសំខាន់នីមួយៗ និងមនុស្សដែលចែករំលែកវា។"
+      }
+    },
+    "WAN-05": {
+      "present": {
+        "en": "Friendly competition may keep your energy up. A challenge or rival could push you to do your best.",
+        "km": "ការប្រកួតប្រជែងដោយមិត្តភាព អាចរក្សាថាមពលរបស់អ្នកឱ្យខ្ពស់។ ការប្រកួត ឬគូប្រជែង អាចជំរុញអ្នកឱ្យធ្វើបានល្អបំផុត។"
+      },
+      "challenge": {
+        "en": "Comparing yourself to others could drain your motivation. Compete with your own best results rather than with other people.",
+        "km": "ការប្រៀបធៀបខ្លួនឯងជាមួយអ្នកដទៃ អាចបង្ហូរកម្លាំងចិត្តរបស់អ្នក។ សូមប្រកួតជាមួយលទ្ធផលល្អបំផុតរបស់អ្នកផ្ទាល់ ជាជាងជាមួយមនុស្សផ្សេង។"
+      },
+      "outcome": {
+        "en": "Healthy challenge could keep you sharp and engaged. You may enjoy the push of competition without being worn down by it.",
+        "km": "ការប្រកួតដែលមានសុខភាពល្អ អាចរក្សាអ្នកឱ្យមុតស្រួច និងចូលរួម។ អ្នកអាចរីករាយនឹងការជំរុញនៃការប្រកួតប្រជែង ដោយមិនត្រូវបានវាធ្វើឱ្យអស់កម្លាំង។"
+      }
+    },
+    "WAN-06": {
+      "present": {
+        "en": "Recognition and praise may boost your motivation. Knowing others see your efforts could keep you going.",
+        "km": "ការទទួលស្គាល់ និងការសរសើរ អាចជំរុញកម្លាំងចិត្តរបស់អ្នក។ ការដឹងថាអ្នកដទៃមើលឃើញការខិតខំរបស់អ្នក អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Depending on praise could leave you unmotivated when it is missing. Learn to recognise and reward your own progress too.",
+        "km": "ការពឹងផ្អែកលើការសរសើរ អាចធ្វើឱ្យអ្នកគ្មានកម្លាំងចិត្ត នៅពេលវាខ្វះ។ សូមរៀនទទួលស្គាល់ និងផ្តល់រង្វាន់ដល់ការរីកចម្រើនរបស់អ្នកផ្ទាល់ផងដែរ។"
+      },
+      "outcome": {
+        "en": "Combining outer and inner recognition could keep you steady. You may feel proud of your work whether or not anyone is watching.",
+        "km": "ការរួមបញ្ចូលការទទួលស្គាល់ពីខាងក្រៅ និងខាងក្នុង អាចរក្សាអ្នកឱ្យនឹងនរ។ អ្នកអាចមានមោទនភាពចំពោះការងាររបស់អ្នក ទោះមាននរណាមើលឬអត់ក៏ដោយ។"
+      }
+    },
+    "WAN-07": {
+      "present": {
+        "en": "Determination in the face of resistance may drive you. Proving that you can do something could be a strong motivator.",
+        "km": "ការប្តេជ្ញាក្នុងការប្រឈមនឹងការប្រឆាំង អាចជំរុញអ្នក។ ការបង្ហាញថាអ្នកអាចធ្វើអ្វីមួយបាន អាចជាកម្លាំងជំរុញខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Constantly fighting for your goals could leave you exhausted. Pick your battles, and save energy for what matters most.",
+        "km": "ការតស៊ូជានិច្ចដើម្បីគោលដៅរបស់អ្នក អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមជ្រើសរើសការតស៊ូរបស់អ្នក ហើយសន្សំថាមពលសម្រាប់អ្វីដែលសំខាន់បំផុត។"
+      },
+      "outcome": {
+        "en": "Holding firm on what matters could keep motivation strong. You may feel proud of standing up for your goals.",
+        "km": "ការឈររឹងមាំលើអ្វីដែលសំខាន់ អាចរក្សាកម្លាំងចិត្តឱ្យខ្លាំង។ អ្នកអាចមានមោទនភាពចំពោះការក្រោកឈរការពារគោលដៅរបស់អ្នក។"
+      }
+    },
+    "WAN-08": {
+      "present": {
+        "en": "Momentum may be your friend. Things moving along could keep your energy and enthusiasm up.",
+        "km": "សន្ទុះ អាចជាមិត្តរបស់អ្នក។ អ្វីៗដែលកំពុងដំណើរការទៅមុខ អាចរក្សាថាមពល និងភាពរំភើបរបស់អ្នកឱ្យខ្ពស់។"
+      },
+      "challenge": {
+        "en": "Losing momentum through long gaps could make it hard to restart. Keep one small habit going, even in busy stretches, so the thread is never cut.",
+        "km": "ការបាត់បង់សន្ទុះតាមរយៈចន្លោះវែង អាចធ្វើឱ្យពិបាកចាប់ផ្តើមឡើងវិញ។ សូមរក្សាទម្លាប់តូចមួយឱ្យដំណើរការ សូម្បីតែក្នុងដំណាក់កាលរវល់ ដើម្បីកុំឱ្យខ្សែត្រូវបានកាត់។"
+      },
+      "outcome": {
+        "en": "Steady momentum could carry you through to your goal. You may find progress builds on itself as long as you keep moving.",
+        "km": "សន្ទុះនឹងនរ អាចនាំអ្នកឆ្លងកាត់រហូតដល់គោលដៅរបស់អ្នក។ អ្នកអាចឃើញថាការរីកចម្រើនកសាងលើខ្លួនវា ដរាបណាអ្នកបន្តផ្លាស់ទី។"
+      }
+    },
+    "WAN-09": {
+      "present": {
+        "en": "Resilience may be keeping you going. Even when tired, you could still find a reason to continue.",
+        "km": "ភាពធន់ អាចកំពុងរក្សាអ្នកឱ្យបន្ត។ សូម្បីតែនៅពេលនឿយហត់ អ្នកនៅតែអាចរកហេតុផលដើម្បីបន្ត។"
+      },
+      "challenge": {
+        "en": "Pushing on while exhausted could burn out your motivation. Rest when you need to, and come back with fresh energy.",
+        "km": "ការរុញទៅមុខខណៈពេលអស់កម្លាំង អាចដុតកម្លាំងចិត្តរបស់អ្នកឱ្យអស់។ សូមសម្រាកនៅពេលអ្នកត្រូវការ ហើយត្រឡប់មកវិញដោយថាមពលស្រស់។"
+      },
+      "outcome": {
+        "en": "Resting and persisting in balance could keep you going to the end. You may find your staying power is greater than you thought.",
+        "km": "ការសម្រាក និងការតស៊ូក្នុងតុល្យភាព អាចរក្សាអ្នកឱ្យបន្តរហូតដល់ចប់។ អ្នកអាចឃើញថាកម្លាំងតស៊ូរបស់អ្នកធំជាងអ្វីដែលអ្នកគិត។"
+      }
+    },
+    "WAN-10": {
+      "present": {
+        "en": "Heavy responsibilities may be weighing on your motivation. Carrying more than your share could leave little energy for the goals you care about.",
+        "km": "ទំនួលខុសត្រូវធ្ងន់ អាចកំពុងសង្កត់លើកម្លាំងចិត្តរបស់អ្នក។ ការលីច្រើនជាងចំណែករបស់អ្នក អាចទុកថាមពលតិចតួចសម្រាប់គោលដៅដែលអ្នកយកចិត្តទុកដាក់។"
+      },
+      "challenge": {
+        "en": "Trying to carry everything could crush your drive. Hand over or set down one task, so you have energy left for what matters to you.",
+        "km": "ការព្យាយាមលីអ្វីៗទាំងអស់ អាចកំទេចកម្លាំងជំរុញរបស់អ្នក។ សូមប្រគល់ ឬដាក់កិច្ចការមួយចុះ ដើម្បីឱ្យអ្នកនៅមានថាមពលសម្រាប់អ្វីដែលសំខាន់ចំពោះអ្នក។"
+      },
+      "outcome": {
+        "en": "A lighter load could bring your enthusiasm back. You may find that sharing the weight makes room for goals you had put aside.",
+        "km": "បន្ទុកស្រាលជាង អាចនាំភាពរំភើបរបស់អ្នកត្រឡប់មកវិញ។ អ្នកអាចឃើញថាការចែករំលែកទម្ងន់ បង្កើតលំហសម្រាប់គោលដៅដែលអ្នកបានទុកមួយឡែក។"
+      }
+    },
+    "WAN-11": {
+      "present": {
+        "en": "Curiosity and play may be your best motivators. Exploring something just for the fun of it could keep you engaged and eager.",
+        "km": "ការចង់ដឹងចង់ឃើញ និងការលេង អាចជាកម្លាំងជំរុញល្អបំផុតរបស់អ្នក។ ការរុករកអ្វីមួយគ្រាន់តែដើម្បីភាពសប្បាយ អាចរក្សាអ្នកឱ្យចូលរួម និងចង់រៀន។"
+      },
+      "challenge": {
+        "en": "Getting bored when things turn serious could stall you. Find small ways to keep an element of play in the harder parts of learning.",
+        "km": "ការធុញទ្រាន់នៅពេលអ្វីៗក្លាយជាម៉ឺងម៉ាត់ អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមរកវិធីតូចៗ ដើម្បីរក្សាធាតុនៃការលេងក្នុងផ្នែកពិបាកនៃការរៀន។"
+      },
+      "outcome": {
+        "en": "Playful learning could keep motivation light and lively. You may find that the joy of discovery keeps drawing you back for more.",
+        "km": "ការរៀនបែបលេងសើច អាចរក្សាកម្លាំងចិត្តឱ្យស្រាល និងរស់រវើក។ អ្នកអាចឃើញថាសេចក្តីរីករាយនៃការរកឃើញ បន្តទាញអ្នកត្រឡប់មកវិញដើម្បីច្រើនទៀត។"
+      }
+    },
+    "WAN-12": {
+      "present": {
+        "en": "Bold action may be what fires you up. Taking on an exciting challenge could give you the push that routine tasks never do.",
+        "km": "សកម្មភាពក្លាហាន អាចជាអ្វីដែលដុតអ្នកឡើង។ ការទទួលយកការប្រកួតគួរឱ្យរំភើប អាចផ្តល់ឱ្យអ្នកនូវការជំរុញ ដែលកិច្ចការជាទម្លាប់មិនដែលផ្តល់។"
+      },
+      "challenge": {
+        "en": "Burning through your energy all at once could leave you drained. Pace yourself, and plan your effort as a journey rather than a sprint.",
+        "km": "ការដុតថាមពលរបស់អ្នកទាំងអស់ក្នុងពេលតែមួយ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមគ្រប់គ្រងល្បឿនខ្លួនឯង ហើយគ្រោងការខិតខំរបស់អ្នកជាដំណើរ ជាជាងការរត់ប្រណាំង។"
+      },
+      "outcome": {
+        "en": "Directed energy could carry you a long way. You may reach ambitious goals by keeping your drive steady instead of explosive.",
+        "km": "ថាមពលដែលមានទិសដៅ អាចនាំអ្នកទៅឆ្ងាយ។ អ្នកអាចទៅដល់គោលដៅដ៏មានមហិច្ឆតា ដោយរក្សាកម្លាំងជំរុញរបស់អ្នកឱ្យនឹងនរ ជាជាងផ្ទុះឡើង។"
+      }
+    },
+    "WAN-13": {
+      "present": {
+        "en": "Confidence and social energy may keep you motivated. Telling others about your goals could give you a boost and a sense of accountability.",
+        "km": "ទំនុកចិត្ត និងថាមពលសង្គម អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។ ការប្រាប់អ្នកដទៃអំពីគោលដៅរបស់អ្នក អាចផ្តល់ការជំរុញ និងអារម្មណ៍នៃទំនួលខុសត្រូវដល់អ្នក។"
+      },
+      "challenge": {
+        "en": "Relying on other people's energy could leave you flat when you are alone. Build a few habits that keep you going on your own as well.",
+        "km": "ការពឹងលើថាមពលរបស់អ្នកដទៃ អាចធ្វើឱ្យអ្នកស្ងួតនៅពេលនៅម្នាក់ឯង។ សូមកសាងទម្លាប់ពីរបីដែលរក្សាអ្នកឱ្យបន្តដោយខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "Confident self-motivation could inspire people around you too. You may become a source of energy for friends who are working on their own goals.",
+        "km": "កម្លាំងចិត្តដោយខ្លួនឯងប្រកបដោយទំនុកចិត្ត អាចបំផុសគំនិតមនុស្សនៅជុំវិញអ្នកផងដែរ។ អ្នកអាចក្លាយជាប្រភពថាមពលសម្រាប់មិត្តភក្តិ ដែលកំពុងខិតខំលើគោលដៅរបស់ពួកគេ។"
+      }
+    },
+    "WAN-14": {
+      "present": {
+        "en": "Vision and leadership may drive you. Having a clear goal, and a plan you designed yourself, could keep your motivation strong.",
+        "km": "ចក្ខុវិស័យ និងការដឹកនាំ អាចជំរុញអ្នក។ ការមានគោលដៅច្បាស់ និងផែនការដែលអ្នករចនាដោយខ្លួនឯង អាចរក្សាកម្លាំងចិត្តរបស់អ្នកឱ្យខ្លាំង។"
+      },
+      "challenge": {
+        "en": "Trying to control every detail could drain your energy. Keep your eye on the big picture, and let small imperfections go.",
+        "km": "ការព្យាយាមគ្រប់គ្រងព័ត៌មានលម្អិតនីមួយៗ អាចបង្ហូរថាមពលរបស់អ្នក។ សូមរក្សាភ្នែកលើរូបភាពធំ ហើយលែងប្រកាន់ភាពមិនល្អឥតខ្ចោះតូចៗ។"
+      },
+      "outcome": {
+        "en": "Visionary focus could keep you motivated across a big goal. You may inspire others as they watch you pursue what you believe in.",
+        "km": "ការផ្តោតដោយចក្ខុវិស័យ អាចរក្សាកម្លាំងចិត្តរបស់អ្នកពេញមួយគោលដៅធំ។ អ្នកអាចបំផុសគំនិតអ្នកដទៃ នៅពេលពួកគេមើលអ្នកស្វែងរកអ្វីដែលអ្នកជឿ។"
+      }
+    },
+    "CUP-01": {
+      "present": {
+        "en": "Emotional connection to your goal may be your deepest motivator. Caring about the people or cause behind your effort could keep you going.",
+        "km": "ការភ្ជាប់ផ្លូវអារម្មណ៍ទៅនឹងគោលដៅរបស់អ្នក អាចជាកម្លាំងជំរុញជ្រៅបំផុតរបស់អ្នក។ ការយកចិត្តទុកដាក់ចំពោះមនុស្ស ឬបុព្វហេតុនៅពីក្រោយការខិតខំរបស់អ្នក អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Losing touch with why you care could leave effort feeling empty. Remind yourself of the people or feelings that first drew you in.",
+        "km": "ការបាត់បង់ទំនាក់ទំនងជាមួយមូលហេតុដែលអ្នកយកចិត្តទុកដាក់ អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍ទទេ។ សូមរំលឹកខ្លួនឯងពីមនុស្ស ឬអារម្មណ៍ដែលបានទាញអ្នកចូលដំបូង។"
+      },
+      "outcome": {
+        "en": "Staying connected to your heart could keep motivation warm and steady. You may find love for what you do carries you through hard parts.",
+        "km": "ការរក្សាការភ្ជាប់ទៅនឹងចិត្តរបស់អ្នក អាចរក្សាកម្លាំងចិត្តឱ្យកក់ក្តៅ និងនឹងនរ។ អ្នកអាចឃើញថាក្តីស្រឡាញ់ចំពោះអ្វីដែលអ្នកធ្វើ នាំអ្នកឆ្លងកាត់ផ្នែកពិបាក។"
+      }
+    },
+    "CUP-02": {
+      "present": {
+        "en": "A supportive partner or friend may help keep you motivated. Working towards goals together could make effort feel lighter.",
+        "km": "ដៃគូ ឬមិត្តដែលគាំទ្រ អាចជួយរក្សាកម្លាំងចិត្តរបស់អ្នក។ ការខិតខំឆ្ពោះទៅរកគោលដៅជាមួយគ្នា អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍ស្រាលជាង។"
+      },
+      "challenge": {
+        "en": "Relying on someone else to keep you going could leave you stuck if they step back. Make sure your motivation has roots of its own.",
+        "km": "ការពឹងលើនរណាម្នាក់ផ្សេងដើម្បីរក្សាអ្នកឱ្យបន្ត អាចធ្វើឱ្យអ្នកជាប់គាំង ប្រសិនបើពួកគេដកខ្លួន។ សូមធ្វើឱ្យប្រាកដថាកម្លាំងចិត្តរបស់អ្នកមានឫសផ្ទាល់ខ្លួន។"
+      },
+      "outcome": {
+        "en": "Mutual encouragement could keep both of you motivated. You may find accountability with a friend makes progress easier and more fun.",
+        "km": "ការលើកទឹកចិត្តគ្នាទៅវិញទៅមក អាចរក្សាកម្លាំងចិត្តរបស់អ្នកទាំងពីរ។ អ្នកអាចឃើញថាទំនួលខុសត្រូវជាមួយមិត្តម្នាក់ ធ្វើឱ្យការរីកចម្រើនងាយស្រួល និងសប្បាយជាង។"
+      }
+    },
+    "CUP-03": {
+      "present": {
+        "en": "Friends and a supportive group may lift your motivation. Sharing goals with others could make effort feel more enjoyable.",
+        "km": "មិត្តភក្តិ និងក្រុមដែលគាំទ្រ អាចលើកកម្លាំងចិត្តរបស់អ្នក។ ការចែករំលែកគោលដៅជាមួយអ្នកដទៃ អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍រីករាយជាង។"
+      },
+      "challenge": {
+        "en": "Social plans could distract you from your goals. Keep fun and focus in balance, so both can feed your motivation.",
+        "km": "ផែនការសង្គម អាចរំខានអ្នកពីគោលដៅរបស់អ្នក។ សូមរក្សាភាពសប្បាយ និងការផ្តោតឱ្យមានតុល្យភាព ដើម្បីឱ្យទាំងពីរអាចចិញ្ចឹមកម្លាំងចិត្តរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "A supportive circle could keep your motivation joyful. You may celebrate progress together and spur each other on.",
+        "km": "រង្វង់ដែលគាំទ្រ អាចរក្សាកម្លាំងចិត្តរបស់អ្នកឱ្យរីករាយ។ អ្នកអាចអបអរការរីកចម្រើនជាមួយគ្នា ហើយជំរុញគ្នាទៅវិញទៅមក។"
+      }
+    },
+    "CUP-04": {
+      "present": {
+        "en": "Motivation may be running low. Feeling bored or uninspired could be making it hard to start.",
+        "km": "កម្លាំងចិត្ត អាចកំពុងធ្លាក់ចុះ។ ការមានអារម្មណ៍ធុញ ឬគ្មានការបំផុសគំនិត អាចកំពុងធ្វើឱ្យពិបាកចាប់ផ្តើម។"
+      },
+      "challenge": {
+        "en": "Ignoring new ideas or offers could keep you stuck in a rut. Say yes to one fresh approach, even if you feel lukewarm.",
+        "km": "ការមិនអើពើនឹងគំនិត ឬការផ្តល់ជូនថ្មី អាចធ្វើឱ្យអ្នកជាប់ក្នុងភាពជាប់គាំង។ សូមយល់ព្រមចំពោះវិធីសាស្ត្រថ្មីមួយ ទោះបីអ្នកមានអារម្មណ៍មិនសូវចាប់អារម្មណ៍ក៏ដោយ។"
+      },
+      "outcome": {
+        "en": "Trying something new could rekindle your motivation. You may find a spark of interest where you least expected it.",
+        "km": "ការសាកល្បងអ្វីមួយថ្មី អាចដុតកម្លាំងចិត្តរបស់អ្នកឡើងវិញ។ អ្នកអាចរកឃើញផ្កាភ្លើងនៃចំណាប់អារម្មណ៍ នៅកន្លែងដែលអ្នកមិននឹកស្មានដល់។"
+      }
+    },
+    "CUP-05": {
+      "present": {
+        "en": "Disappointment may have dampened your motivation. A setback could be making it hard to find your energy again.",
+        "km": "ការខកចិត្ត អាចបានធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកស្រអាប់។ ឧបសគ្គមួយ អាចកំពុងធ្វើឱ្យពិបាករកថាមពលរបស់អ្នកម្តងទៀត។"
+      },
+      "challenge": {
+        "en": "Dwelling on what went wrong could keep you stuck. Acknowledge the disappointment, then focus on what you can still do.",
+        "km": "ការគិតច្រើនពីអ្វីដែលខុស អាចធ្វើឱ្យអ្នកជាប់គាំង។ សូមទទួលស្គាល់ការខកចិត្ត រួចផ្តោតលើអ្វីដែលអ្នកនៅតែអាចធ្វើបាន។"
+      },
+      "outcome": {
+        "en": "Turning towards what remains could restore your motivation. You may find renewed hope as you take small steps forward.",
+        "km": "ការបែរទៅរកអ្វីដែលនៅសល់ អាចស្តារកម្លាំងចិត្តរបស់អ្នក។ អ្នកអាចរកឃើញក្តីសង្ឃឹមថ្មី នៅពេលអ្នកបោះជំហានតូចៗទៅមុខ។"
+      }
+    },
+    "CUP-06": {
+      "present": {
+        "en": "Happy memories may help motivate you. Remembering what you loved learning as a child could reignite your interest.",
+        "km": "អនុស្សាវរីយ៍រីករាយ អាចជួយជំរុញអ្នក។ ការចងចាំអ្វីដែលអ្នកស្រឡាញ់រៀនកាលនៅក្មេង អាចដុតចំណាប់អារម្មណ៍របស់អ្នកឡើងវិញ។"
+      },
+      "challenge": {
+        "en": "Comparing the present to a rosier past could sap your drive. Use old joys as inspiration, not as a standard you must meet.",
+        "km": "ការប្រៀបធៀបបច្ចុប្បន្នជាមួយអតីតកាលដែលស្រស់ស្អាតជាង អាចបង្ហូរកម្លាំងជំរុញរបស់អ្នក។ សូមប្រើសេចក្តីរីករាយចាស់ៗជាការបំផុសគំនិត មិនមែនជាស្តង់ដារដែលអ្នកត្រូវតែទៅដល់នោះទេ។"
+      },
+      "outcome": {
+        "en": "Reconnecting with simple joy could make motivation feel natural. You may rediscover the playful spirit that first drew you to learning.",
+        "km": "ការភ្ជាប់ឡើងវិញជាមួយសេចក្តីរីករាយសាមញ្ញ អាចធ្វើឱ្យកម្លាំងចិត្តមានអារម្មណ៍ធម្មជាតិ។ អ្នកអាចរកឃើញឡើងវិញនូវស្មារតីលេងសើច ដែលបានទាញអ្នកទៅរកការរៀនដំបូង។"
+      }
+    },
+    "CUP-07": {
+      "present": {
+        "en": "Too many options may be scattering your motivation. Dreaming of many goals could make it hard to commit to one.",
+        "km": "ជម្រើសច្រើនពេក អាចកំពុងធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នករាយប៉ាយ។ ការស្រមៃពីគោលដៅជាច្រើន អាចធ្វើឱ្យពិបាកប្តេជ្ញាចំពោះមួយ។"
+      },
+      "challenge": {
+        "en": "Chasing every attractive idea could leave you with nothing finished. Choose one goal, and set the others aside on a list for later review.",
+        "km": "ការដេញតាមគំនិតគួរឱ្យទាក់ទាញនីមួយៗ អាចធ្វើឱ្យអ្នកគ្មានអ្វីបានបញ្ចប់។ សូមជ្រើសរើសគោលដៅមួយ ហើយកត់គោលដៅផ្សេងទៀតទុកក្នុងបញ្ជីមួយឡែក។"
+      },
+      "outcome": {
+        "en": "Focusing on one dream could make motivation stronger. You may find energy comes more easily when it is not divided.",
+        "km": "ការផ្តោតលើក្តីស្រមៃមួយ អាចធ្វើឱ្យកម្លាំងចិត្តខ្លាំងជាង។ អ្នកអាចឃើញថាថាមពលមកងាយជាង នៅពេលវាមិនត្រូវបានបែងចែក។"
+      }
+    },
+    "CUP-08": {
+      "present": {
+        "en": "A sense that something is missing may be affecting your drive. You could be ready to seek something more meaningful.",
+        "km": "អារម្មណ៍ថាមានអ្វីមួយបាត់ អាចកំពុងប៉ះពាល់កម្លាំងជំរុញរបស់អ្នក។ អ្នកអាចត្រៀមខ្លួនស្វែងរកអ្វីមួយដែលមានអត្ថន័យជាង។"
+      },
+      "challenge": {
+        "en": "Forcing yourself to continue with something empty could drain you. Be honest about whether this goal still matters to you.",
+        "km": "ការបង្ខំខ្លួនឯងឱ្យបន្តជាមួយអ្វីមួយដែលទទេ អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមស្មោះត្រង់ថាតើគោលដៅនេះនៅតែសំខាន់ចំពោះអ្នកឬអត់។"
+      },
+      "outcome": {
+        "en": "Following what truly matters could bring deeper motivation. You may find new energy in a goal that feels meaningful.",
+        "km": "ការធ្វើតាមអ្វីដែលពិតជាសំខាន់ អាចនាំមកនូវកម្លាំងចិត្តជ្រៅជាង។ អ្នកអាចរកឃើញថាមពលថ្មីក្នុងគោលដៅមួយ ដែលមានអារម្មណ៍មានអត្ថន័យ។"
+      }
+    },
+    "CUP-09": {
+      "present": {
+        "en": "Contentment with what you have achieved may give you a calm base. Feeling satisfied could help you work at a steady, relaxed pace.",
+        "km": "ភាពពេញចិត្តនឹងអ្វីដែលអ្នកបានសម្រេច អាចផ្តល់ឱ្យអ្នកនូវមូលដ្ឋានស្ងប់។ ការមានអារម្មណ៍ពេញចិត្ត អាចជួយអ្នកធ្វើការក្នុងល្បឿននឹងនរ និងស្រួល។"
+      },
+      "challenge": {
+        "en": "Becoming too comfortable could slow your drive. Set a new small goal to keep yourself engaged.",
+        "km": "ការក្លាយជាស្រួលពេក អាចធ្វើឱ្យកម្លាំងជំរុញរបស់អ្នកយឺត។ សូមកំណត់គោលដៅតូចថ្មីមួយ ដើម្បីរក្សាខ្លួនឯងឱ្យចូលរួម។"
+      },
+      "outcome": {
+        "en": "Balancing contentment with fresh goals could keep motivation alive. You may enjoy both what you have and what you are reaching for.",
+        "km": "ការថ្លឹងភាពពេញចិត្តជាមួយគោលដៅថ្មី អាចរក្សាកម្លាំងចិត្តឱ្យរស់។ អ្នកអាចរីករាយនឹងទាំងអ្វីដែលអ្នកមាន និងអ្វីដែលអ្នកកំពុងលាតដៃទៅរក។"
+      }
+    },
+    "CUP-10": {
+      "present": {
+        "en": "Family and loved ones may be your strongest motivation. Working towards something that benefits them could keep you going.",
+        "km": "គ្រួសារ និងមនុស្សជាទីស្រឡាញ់ អាចជាកម្លាំងចិត្តខ្លាំងបំផុតរបស់អ្នក។ ការខិតខំឆ្ពោះទៅរកអ្វីមួយដែលផ្តល់ប្រយោជន៍ដល់ពួកគេ អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Working only for others could leave your own needs unmet. Make sure your goals also include something for yourself.",
+        "km": "ការធ្វើការតែសម្រាប់អ្នកដទៃ អាចទុកតម្រូវការរបស់អ្នកផ្ទាល់មិនបានបំពេញ។ សូមធ្វើឱ្យប្រាកដថាគោលដៅរបស់អ្នក ក៏រួមបញ្ចូលអ្វីមួយសម្រាប់ខ្លួនឯងផងដែរ។"
+      },
+      "outcome": {
+        "en": "Sharing your goals with loved ones could keep motivation warm. You may find their support makes effort feel worthwhile.",
+        "km": "ការចែករំលែកគោលដៅរបស់អ្នកជាមួយមនុស្សជាទីស្រឡាញ់ អាចរក្សាកម្លាំងចិត្តឱ្យកក់ក្តៅ។ អ្នកអាចឃើញថាការគាំទ្ររបស់ពួកគេ ធ្វើឱ្យការខិតខំមានអារម្មណ៍សមនឹងតម្លៃ។"
+      }
+    },
+    "CUP-11": {
+      "present": {
+        "en": "Creative inspiration may be what moves you. Ideas, dreams and a playful imagination could fuel your drive more than rules do.",
+        "km": "ការបំផុសគំនិតច្នៃប្រឌិត អាចជាអ្វីដែលរំជួលអ្នក។ គំនិត ក្តីស្រមៃ និងការស្រមៃបែបលេងសើច អាចផ្តល់កម្លាំងដល់កម្លាំងជំរុញរបស់អ្នក ច្រើនជាងច្បាប់។"
+      },
+      "challenge": {
+        "en": "Waiting for inspiration to strike could leave you idle. Start working anyway, and let inspiration catch up with you as you go.",
+        "km": "ការរង់ចាំការបំផុសគំនិតមកដល់ អាចធ្វើឱ្យអ្នកនៅទំនេរ។ សូមចាប់ផ្តើមធ្វើការ ហើយទុកឱ្យការបំផុសគំនិតតាមទាន់អ្នកតាមផ្លូវ។"
+      },
+      "outcome": {
+        "en": "Creative work could keep your motivation flowing. You may find that simply starting sparks more ideas than waiting ever did.",
+        "km": "ការងារច្នៃប្រឌិត អាចរក្សាកម្លាំងចិត្តរបស់អ្នកឱ្យហូរ។ អ្នកអាចឃើញថាការចាប់ផ្តើមសាមញ្ញ បង្កើតគំនិតច្រើនជាងការរង់ចាំ។"
+      }
+    },
+    "CUP-12": {
+      "present": {
+        "en": "Passion may be what drives you. Following your heart towards something you love could keep you inspired and eager.",
+        "km": "ចំណង់ចំណូលចិត្ត អាចជាអ្វីដែលជំរុញអ្នក។ ការធ្វើតាមចិត្តរបស់អ្នកឆ្ពោះទៅរកអ្វីមួយដែលអ្នកស្រឡាញ់ អាចរក្សាអ្នកឱ្យមានការបំផុសគំនិត និងចង់ធ្វើ។"
+      },
+      "challenge": {
+        "en": "Passion that flares and fades could leave you inconsistent. Pair your enthusiasm with a simple routine that holds when the feeling dips.",
+        "km": "ចំណង់ចំណូលចិត្តដែលឆេះ និងរសាត់ អាចធ្វើឱ្យអ្នកមិនជាប់លាប់។ សូមផ្គូផ្គងភាពរំភើបរបស់អ្នក ជាមួយទម្លាប់សាមញ្ញមួយដែលនៅរឹងមាំ នៅពេលអារម្មណ៍ធ្លាក់ចុះ។"
+      },
+      "outcome": {
+        "en": "Grounded passion could keep you motivated well beyond the first spark. You may create something beautiful through steady, loving devotion.",
+        "km": "ចំណង់ចំណូលចិត្តដែលនឹងធឹង អាចរក្សាកម្លាំងចិត្តរបស់អ្នកហួសពីផ្កាភ្លើងដំបូង។ អ្នកអាចបង្កើតអ្វីមួយដ៏ស្រស់ស្អាត តាមរយៈការលះបង់ដោយនឹងនរ និងក្តីស្រឡាញ់។"
+      }
+    },
+    "CUP-13": {
+      "present": {
+        "en": "Caring for others may be a deep source of motivation. Knowing your effort helps someone you care about could keep you going.",
+        "km": "ការថែទាំអ្នកដទៃ អាចជាប្រភពកម្លាំងចិត្តដ៏ជ្រៅ។ ការដឹងថាការខិតខំរបស់អ្នកជួយនរណាម្នាក់ដែលអ្នកយកចិត្តទុកដាក់ អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Giving too much to others could leave nothing for your own goals. Protect some of your energy, so you can keep helping without burning out.",
+        "km": "ការផ្តល់ច្រើនពេកដល់អ្នកដទៃ អាចមិនទុកអ្វីសម្រាប់គោលដៅរបស់អ្នកផ្ទាល់។ សូមការពារថាមពលរបស់អ្នកខ្លះ ដើម្បីឱ្យអ្នកអាចបន្តជួយដោយមិនអស់កម្លាំង។"
+      },
+      "outcome": {
+        "en": "Balanced caring could keep your motivation warm and steady. You may find meaning in helping others while still looking after yourself.",
+        "km": "ការថែទាំដែលមានតុល្យភាព អាចរក្សាកម្លាំងចិត្តរបស់អ្នកឱ្យកក់ក្តៅ និងនឹងនរ។ អ្នកអាចរកឃើញអត្ថន័យក្នុងការជួយអ្នកដទៃ ខណៈពេលនៅតែថែរក្សាខ្លួនឯង។"
+      }
+    },
+    "CUP-14": {
+      "present": {
+        "en": "Calm composure may help you stay motivated. Keeping your emotions steady could help you persist when others give up.",
+        "km": "ភាពស្ងប់ស្ងាត់ អាចជួយអ្នករក្សាកម្លាំងចិត្ត។ ការរក្សាអារម្មណ៍របស់អ្នកឱ្យនឹងនរ អាចជួយអ្នកតស៊ូ នៅពេលអ្នកដទៃបោះបង់។"
+      },
+      "challenge": {
+        "en": "Bottling up frustration could quietly sap your drive. Talk about what is bothering you with someone who listens well.",
+        "km": "ការទប់ការខកចិត្តទុកក្នុងចិត្ត អាចបង្ហូរកម្លាំងជំរុញរបស់អ្នកដោយស្ងាត់ៗ។ សូមនិយាយអំពីអ្វីដែលកំពុងរំខានអ្នក ជាមួយនរណាម្នាក់ដែលស្តាប់បានល្អ។"
+      },
+      "outcome": {
+        "en": "Emotional balance could keep your motivation steady through ups and downs. You may handle setbacks calmly and carry on with grace.",
+        "km": "តុល្យភាពផ្លូវអារម្មណ៍ អាចរក្សាកម្លាំងចិត្តរបស់អ្នកឱ្យនឹងនរ ឆ្លងកាត់ការឡើងចុះ។ អ្នកអាចដោះស្រាយឧបសគ្គដោយស្ងប់ ហើយបន្តទៅមុខដោយភាពថ្លៃថ្នូ។"
+      }
+    },
+    "SWO-01": {
+      "present": {
+        "en": "A clear goal and a sharp mind may be your best motivators. Knowing exactly what you are aiming for could cut through hesitation.",
+        "km": "គោលដៅច្បាស់ និងគំនិតមុតស្រួច អាចជាកម្លាំងជំរុញល្អបំផុតរបស់អ្នក។ ការដឹងច្បាស់ថាអ្នកកំពុងតម្រង់ទៅរកអ្វី អាចកាត់ផ្តាច់ភាពស្ទាក់ស្ទើរ។"
+      },
+      "challenge": {
+        "en": "Overthinking could talk you out of starting. Decide on one clear action, and do it before doubt has time to grow.",
+        "km": "ការគិតច្រើនពេក អាចបញ្ចុះបញ្ចូលអ្នកមិនឱ្យចាប់ផ្តើម។ សូមសម្រេចលើសកម្មភាពច្បាស់មួយ ហើយធ្វើវាមុនពេលការសង្ស័យមានឱកាសកើនឡើង។"
+      },
+      "outcome": {
+        "en": "Clear thinking could keep your motivation sharp and focused. You may find that a simple, well-defined goal pulls you forward on its own.",
+        "km": "ការគិតច្បាស់ អាចរក្សាកម្លាំងចិត្តរបស់អ្នកឱ្យមុតស្រួច និងផ្តោត។ អ្នកអាចឃើញថាគោលដៅសាមញ្ញ និងកំណត់ច្បាស់ ទាញអ្នកទៅមុខដោយខ្លួនវា។"
+      }
+    },
+    "SWO-02": {
+      "present": {
+        "en": "Indecision may be draining your motivation. Being stuck between options could leave you unable to commit to either one.",
+        "km": "ការមិនអាចសម្រេចចិត្ត អាចកំពុងបង្ហូរកម្លាំងចិត្តរបស់អ្នក។ ការជាប់គាំងរវាងជម្រើស អាចធ្វើឱ្យអ្នកមិនអាចប្តេជ្ញាចំពោះមួយណាបាន។"
+      },
+      "challenge": {
+        "en": "Avoiding a decision could keep your energy frozen. Choose one path, even imperfectly, so your effort has somewhere to go.",
+        "km": "ការជៀសវាងការសម្រេចចិត្ត អាចធ្វើឱ្យថាមពលរបស់អ្នកកក។ សូមជ្រើសរើសផ្លូវមួយ ទោះបីមិនល្អឥតខ្ចោះក៏ដោយ ដើម្បីឱ្យការខិតខំរបស់អ្នកមានកន្លែងទៅ។"
+      },
+      "outcome": {
+        "en": "Making a choice could release a surge of motivation. You may feel lighter and more energised when you stop sitting on the fence.",
+        "km": "ការធ្វើជម្រើស អាចដោះលែងរលកនៃកម្លាំងចិត្ត។ អ្នកអាចមានអារម្មណ៍ស្រាល និងមានថាមពលជាង នៅពេលអ្នកឈប់ស្ទាក់ស្ទើរ។"
+      }
+    },
+    "SWO-03": {
+      "present": {
+        "en": "Hurt or disappointment may have dented your motivation. A painful experience could be making it hard to care as much.",
+        "km": "ការឈឺចាប់ ឬការខកចិត្ត អាចបានធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកធ្លាក់។ បទពិសោធន៍ដ៏ឈឺចាប់មួយ អាចកំពុងធ្វើឱ្យពិបាកយកចិត្តទុកដាក់ដូចមុន។"
+      },
+      "challenge": {
+        "en": "Pushing through pain without acknowledging it could leave you running on empty. Give yourself space to heal, and talk to someone you trust if it weighs on you.",
+        "km": "ការរុញឆ្លងកាត់ការឈឺចាប់ដោយមិនទទួលស្គាល់វា អាចធ្វើឱ្យអ្នកដំណើរការដោយគ្មានថាមពល។ សូមផ្តល់លំហដល់ខ្លួនឯងដើម្បីជាសះស្បើយ ហើយនិយាយជាមួយនរណាម្នាក់ដែលអ្នកទុកចិត្ត ប្រសិនបើវាសង្កត់លើអ្នក។"
+      },
+      "outcome": {
+        "en": "Healing could let motivation return naturally. You may find your drive comes back gently once the hurt has been honoured.",
+        "km": "ការជាសះស្បើយ អាចអនុញ្ញាតឱ្យកម្លាំងចិត្តត្រឡប់មកវិញដោយធម្មជាតិ។ អ្នកអាចឃើញថាកម្លាំងជំរុញរបស់អ្នកត្រឡប់មកវិញដោយទន់ភ្លន់ នៅពេលការឈឺចាប់ត្រូវបានគោរព។"
+      }
+    },
+    "SWO-04": {
+      "present": {
+        "en": "Plain tiredness may be what is draining your motivation. Your mind and body could be asking for proper rest rather than more pushing.",
+        "km": "ភាពនឿយហត់ធម្មតា អាចជាអ្វីដែលកំពុងបង្ហូរកម្លាំងចិត្តរបស់អ្នក។ គំនិត និងរាងកាយរបស់អ្នក អាចកំពុងស្នើសុំការសម្រាកឱ្យបានត្រឹមត្រូវ ជាជាងការរុញបន្ថែម។"
+      },
+      "challenge": {
+        "en": "Mistaking exhaustion for laziness could make you push harder when you need rest. Take a genuine break, and come back to your goals refreshed.",
+        "km": "ការយល់ច្រឡំការអស់កម្លាំងថាជាភាពខ្ជិល អាចធ្វើឱ្យអ្នករុញខ្លាំងជាងមុន នៅពេលអ្នកត្រូវការសម្រាក។ សូមសម្រាកពិតប្រាកដ ហើយត្រឡប់ទៅរកគោលដៅរបស់អ្នកវិញដោយស្រស់ស្រាយ។"
+      },
+      "outcome": {
+        "en": "Proper rest could restore motivation better than any pep talk. You may find energy and interest return once you have recharged.",
+        "km": "ការសម្រាកឱ្យបានត្រឹមត្រូវ អាចស្តារកម្លាំងចិត្តបានល្អជាងការលើកទឹកចិត្តណាមួយ។ អ្នកអាចឃើញថាថាមពល និងចំណាប់អារម្មណ៍ត្រឡប់មកវិញ នៅពេលអ្នកបានបញ្ចូលថាមពលឡើងវិញ។"
+      }
+    },
+    "SWO-05": {
+      "present": {
+        "en": "Conflict or competition may be souring your motivation. A clash with someone could be leaving you discouraged.",
+        "km": "ជម្លោះ ឬការប្រកួតប្រជែង អាចកំពុងធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកជូរចត់។ ការប៉ះទង្គិចជាមួយនរណាម្នាក់ អាចកំពុងធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Letting a dispute take over your thoughts could drain energy for your goals. Step back from arguments that do not serve you.",
+        "km": "ការទុកឱ្យជម្លោះមួយគ្របដណ្តប់គំនិតរបស់អ្នក អាចបង្ហូរថាមពលសម្រាប់គោលដៅរបស់អ្នក។ សូមដកខ្លួនចេញពីការឈ្លោះប្រកែកដែលមិនបម្រើអ្នក។"
+      },
+      "outcome": {
+        "en": "Letting go of conflict could free your motivation. You may feel lighter and more focused once the tension is behind you.",
+        "km": "ការលែងប្រកាន់ជម្លោះ អាចដោះលែងកម្លាំងចិត្តរបស់អ្នក។ អ្នកអាចមានអារម្មណ៍ស្រាល និងផ្តោតជាង នៅពេលភាពតានតឹងនៅពីក្រោយអ្នក។"
+      }
+    },
+    "SWO-06": {
+      "present": {
+        "en": "You may be moving out of a hard stretch towards calmer waters. Relief from stress could be slowly restoring your energy.",
+        "km": "អ្នកអាចកំពុងចេញពីដំណាក់កាលលំបាក ឆ្ពោះទៅរកទឹកស្ងប់ជាង។ ការធូរស្រាលពីភាពតានតឹង អាចកំពុងស្តារថាមពលរបស់អ្នកបន្តិចម្តងៗ។"
+      },
+      "challenge": {
+        "en": "Carrying old discouragement forward could weigh down a fresh start. Leave old struggles behind, and set a small goal for this new chapter.",
+        "km": "ការយកការបាក់ទឹកចិត្តចាស់ទៅមុខ អាចធ្វើឱ្យការចាប់ផ្តើមថ្មីធ្ងន់។ សូមទុកការតស៊ូចាស់ៗនៅពីក្រោយ ហើយកំណត់គោលដៅតូចមួយសម្រាប់ជំពូកថ្មីនេះ។"
+      },
+      "outcome": {
+        "en": "Moving on could bring steadier, calmer motivation. You may find it easier to keep going in a more peaceful setting.",
+        "km": "ការបន្តទៅមុខ អាចនាំមកនូវកម្លាំងចិត្តនឹងនរ និងស្ងប់ជាង។ អ្នកអាចឃើញថាវាងាយស្រួលជាងក្នុងការបន្តទៅមុខ ក្នុងបរិយាកាសដែលសុខសាន្តជាង។"
+      }
+    },
+    "SWO-07": {
+      "present": {
+        "en": "Clever strategies may help you stay on track. Finding smart ways to make effort easier could keep you motivated.",
+        "km": "យុទ្ធសាស្ត្រឆ្លាតវៃ អាចជួយអ្នកនៅលើផ្លូវ។ ការរកវិធីឆ្លាតវៃដើម្បីធ្វើឱ្យការខិតខំងាយស្រួលជាង អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Tricking yourself with shortcuts that skip real work could backfire. Use smart tactics, like timers or rewards, but keep the effort honest.",
+        "km": "ការបញ្ឆោតខ្លួនឯងដោយផ្លូវកាត់ដែលរំលងការងារពិត អាចមានផលផ្ទុយ។ សូមប្រើយុទ្ធវិធីឆ្លាតវៃ ដូចជាម៉ោងកំណត់ ឬរង្វាន់ ប៉ុន្តែរក្សាការខិតខំឱ្យស្មោះត្រង់។"
+      },
+      "outcome": {
+        "en": "Smart, honest strategies could keep motivation working for you. You may find small tricks make a big difference to how much you get done.",
+        "km": "យុទ្ធសាស្ត្រឆ្លាតវៃ និងស្មោះត្រង់ អាចរក្សាកម្លាំងចិត្តឱ្យធ្វើការសម្រាប់អ្នក។ អ្នកអាចឃើញថាល្បិចតូចៗ ធ្វើឱ្យមានភាពខុសគ្នាធំចំពោះថាតើអ្នកធ្វើបានប៉ុណ្ណា។"
+      }
+    },
+    "SWO-08": {
+      "present": {
+        "en": "Feeling trapped may be sapping your motivation. Believing you have no good options could leave you feeling stuck.",
+        "km": "ការមានអារម្មណ៍ជាប់អន្ទាក់ អាចកំពុងបង្ហូរកម្លាំងចិត្តរបស់អ្នក។ ការជឿថាអ្នកគ្មានជម្រើសល្អ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ជាប់គាំង។"
+      },
+      "challenge": {
+        "en": "Limiting beliefs could be the real brake on your drive. Question the thought that you cannot change things, and try one small step.",
+        "km": "ជំនឿដែលកំណត់ព្រំដែន អាចជាហ្វ្រាំងពិតលើកម្លាំងជំរុញរបស់អ្នក។ សូមសួរសំណួរពីគំនិតថាអ្នកមិនអាចផ្លាស់ប្តូរអ្វីៗ ហើយសាកល្បងជំហានតូចមួយ។"
+      },
+      "outcome": {
+        "en": "Breaking free of limiting thoughts could unleash new motivation. You may discover more freedom and choice than you believed you had.",
+        "km": "ការដោះលែងខ្លួនពីគំនិតដែលកំណត់ព្រំដែន អាចបញ្ចេញកម្លាំងចិត្តថ្មី។ អ្នកអាចរកឃើញសេរីភាព និងជម្រើសច្រើនជាងអ្វីដែលអ្នកជឿថាអ្នកមាន។"
+      }
+    },
+    "SWO-09": {
+      "present": {
+        "en": "Worry may be crowding out your motivation. Anxious thoughts could be making it hard to focus on your goals.",
+        "km": "ការព្រួយបារម្ភ អាចកំពុងច្រានកម្លាំងចិត្តរបស់អ្នកចេញ។ គំនិតថប់បារម្ភ អាចកំពុងធ្វើឱ្យពិបាកផ្តោតលើគោលដៅរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Anxiety could drain the energy you need to keep going. Break tasks into tiny steps, and seek professional help if worry affects your sleep or health.",
+        "km": "ការថប់បារម្ភ អាចបង្ហូរថាមពលដែលអ្នកត្រូវការដើម្បីបន្តទៅមុខ។ សូមបំបែកកិច្ចការទៅជាជំហានតូចៗ ហើយស្វែងរកជំនួយពីអ្នកជំនាញ ប្រសិនបើការព្រួយបារម្ភប៉ះពាល់ដល់ការគេង ឬសុខភាពរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Managing worry could let motivation grow again. You may find small wins quiet anxious thoughts and build confidence.",
+        "km": "ការគ្រប់គ្រងការព្រួយបារម្ភ អាចអនុញ្ញាតឱ្យកម្លាំងចិត្តលូតលាស់ម្តងទៀត។ អ្នកអាចឃើញថាជ័យជម្នះតូចៗ ធ្វើឱ្យគំនិតថប់បារម្ភស្ងប់ និងកសាងទំនុកចិត្ត។"
+      }
+    },
+    "SWO-10": {
+      "present": {
+        "en": "A painful setback may have knocked your motivation flat. You could feel that there is little point in trying.",
+        "km": "ឧបសគ្គដ៏ឈឺចាប់មួយ អាចបានធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកធ្លាក់ទាំងស្រុង។ អ្នកអាចមានអារម្មណ៍ថាគ្មានន័យអ្វីក្នុងការព្យាយាម។"
+      },
+      "challenge": {
+        "en": "Despair could convince you that effort is useless. Lean on people who care, and contact a crisis or support service if you feel unsafe or hopeless.",
+        "km": "ភាពអស់សង្ឃឹម អាចធ្វើឱ្យអ្នកជឿថាការខិតខំគ្មានប្រយោជន៍។ សូមពឹងផ្អែកលើមនុស្សដែលយកចិត្តទុកដាក់ ហើយទាក់ទងសេវាអាសន្ន ឬសេវាគាំទ្រ ប្រសិនបើអ្នកមានអារម្មណ៍មិនមានសុវត្ថិភាព ឬអស់សង្ឃឹម។"
+      },
+      "outcome": {
+        "en": "Rising from this low point could bring a quieter, deeper kind of motivation. You may find a reason to keep going that feels more honest.",
+        "km": "ការក្រោកឡើងពីចំណុចទាបនេះ អាចនាំមកនូវកម្លាំងចិត្តប្រភេទស្ងាត់ និងជ្រៅជាង។ អ្នកអាចរកឃើញហេតុផលដើម្បីបន្តទៅមុខ ដែលមានអារម្មណ៍ស្មោះត្រង់ជាង។"
+      }
+    },
+    "SWO-11": {
+      "present": {
+        "en": "Curiosity may be what keeps you going. Asking questions and learning new things could fuel your energy.",
+        "km": "ការចង់ដឹងចង់ឃើញ អាចជាអ្វីដែលរក្សាអ្នកឱ្យបន្ត។ ការសួរសំណួរ និងការរៀនរឿងថ្មីៗ អាចផ្តល់កម្លាំងដល់ថាមពលរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Jumping between interests could scatter your drive. Channel your curiosity into one project long enough to see results.",
+        "km": "ការលោតរវាងចំណាប់អារម្មណ៍ អាចធ្វើឱ្យកម្លាំងជំរុញរបស់អ្នករាយប៉ាយ។ សូមដឹកនាំការចង់ដឹងរបស់អ្នកទៅកាន់គម្រោងមួយ ឱ្យបានគ្រប់គ្រាន់ដើម្បីឃើញលទ្ធផល។"
+      },
+      "outcome": {
+        "en": "Focused curiosity could keep motivation lively and productive. You may enjoy learning more when it leads somewhere concrete.",
+        "km": "ការចង់ដឹងដែលផ្តោត អាចរក្សាកម្លាំងចិត្តឱ្យរស់រវើក និងមានផលិតភាព។ អ្នកអាចរីករាយនឹងការរៀនកាន់តែច្រើន នៅពេលវានាំទៅកន្លែងជាក់ស្តែងមួយ។"
+      }
+    },
+    "SWO-12": {
+      "present": {
+        "en": "Ambition may be pushing you to work flat out. A strong desire to achieve could keep you charging ahead with energy.",
+        "km": "មហិច្ឆតា អាចកំពុងរុញអ្នកឱ្យធ្វើការពេញកម្លាំង។ បំណងប្រាថ្នាខ្លាំងចង់សម្រេច អាចរក្សាអ្នកឱ្យរុញទៅមុខដោយថាមពល។"
+      },
+      "challenge": {
+        "en": "Going too hard could burn you out before you reach your goal. Pace yourself, and build recovery into the plan from the start.",
+        "km": "ការខិតខំខ្លាំងពេក អាចធ្វើឱ្យអ្នកអស់កម្លាំង មុនពេលអ្នកទៅដល់គោលដៅ។ សូមគ្រប់គ្រងល្បឿនខ្លួនឯង ហើយរៀបចំការស្តារឡើងវិញក្នុងផែនការតាំងពីដំបូង។"
+      },
+      "outcome": {
+        "en": "Paced ambition could carry you all the way to your goal. You may achieve more by pushing steadily rather than sprinting.",
+        "km": "មហិច្ឆតាដែលគ្រប់គ្រងល្បឿន អាចនាំអ្នករហូតដល់គោលដៅរបស់អ្នក។ អ្នកអាចសម្រេចបានច្រើនជាង ដោយការរុញដោយនឹងនរ ជាជាងរត់ប្រណាំង។"
+      }
+    },
+    "SWO-13": {
+      "present": {
+        "en": "Clear standards may keep you motivated. Knowing what good work looks like could push you to meet it.",
+        "km": "ស្តង់ដារច្បាស់លាស់ អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។ ការដឹងថាការងារល្អមើលទៅយ៉ាងណា អាចជំរុញអ្នកឱ្យទៅដល់វា។"
+      },
+      "challenge": {
+        "en": "Setting standards too high could leave you discouraged. Judge your progress fairly, and give yourself credit for steps forward.",
+        "km": "ការកំណត់ស្តង់ដារខ្ពស់ពេក អាចធ្វើឱ្យអ្នកបាក់ទឹកចិត្ត។ សូមវិនិច្ឆ័យការរីកចម្រើនរបស់អ្នកដោយយុត្តិធម៌ ហើយផ្តល់កិត្តិយសដល់ខ្លួនឯងចំពោះជំហានទៅមុខ។"
+      },
+      "outcome": {
+        "en": "Fair self-assessment could keep motivation realistic and strong. You may feel proud of progress that you have measured honestly.",
+        "km": "ការវាយតម្លៃខ្លួនឯងដោយយុត្តិធម៌ អាចរក្សាកម្លាំងចិត្តឱ្យជាក់ស្តែង និងខ្លាំង។ អ្នកអាចមានមោទនភាពចំពោះការរីកចម្រើន ដែលអ្នកបានវាស់ដោយស្មោះត្រង់។"
+      }
+    },
+    "SWO-14": {
+      "present": {
+        "en": "Logic and discipline may keep you going. A clear, reasoned plan could give you steady motivation.",
+        "km": "តក្កវិជ្ជា និងវិន័យ អាចរក្សាអ្នកឱ្យបន្ត។ ផែនការច្បាស់ និងមានហេតុផល អាចផ្តល់ឱ្យអ្នកនូវកម្លាំងចិត្តនឹងនរ។"
+      },
+      "challenge": {
+        "en": "Relying only on discipline could make effort feel dry. Remind yourself of the feelings and hopes behind your goal.",
+        "km": "ការពឹងតែលើវិន័យ អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍ស្ងួត។ សូមរំលឹកខ្លួនឯងពីអារម្មណ៍ និងក្តីសង្ឃឹមនៅពីក្រោយគោលដៅរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Balancing reason with heart could keep motivation strong. You may achieve your goals with both clarity and meaning.",
+        "km": "ការថ្លឹងហេតុផលជាមួយចិត្ត អាចរក្សាកម្លាំងចិត្តឱ្យខ្លាំង។ អ្នកអាចសម្រេចគោលដៅរបស់អ្នក ដោយទាំងភាពច្បាស់លាស់ និងអត្ថន័យ។"
+      }
+    },
+    "PEN-01": {
+      "present": {
+        "en": "A practical, achievable goal may be your best motivator. Seeing a clear, tangible result ahead could give you reason to keep working.",
+        "km": "គោលដៅជាក់ស្តែងដែលអាចសម្រេចបាន អាចជាកម្លាំងជំរុញល្អបំផុតរបស់អ្នក។ ការឃើញលទ្ធផលច្បាស់ និងជាក់ស្តែងនៅខាងមុខ អាចផ្តល់ហេតុផលឱ្យអ្នកបន្តធ្វើការ។"
+      },
+      "challenge": {
+        "en": "Goals that feel too vague or distant could fail to motivate you. Set one concrete, short-range target you can actually reach.",
+        "km": "គោលដៅដែលមានអារម្មណ៍មិនច្បាស់ ឬឆ្ងាយពេក អាចមិនជំរុញអ្នក។ សូមកំណត់គោលដៅជាក់ស្តែងមួយ ដែលអ្នកអាចទៅដល់បានពិតប្រាកដ។"
+      },
+      "outcome": {
+        "en": "Practical goals could keep motivation grounded and steady. You may find each small achievement plants a seed for the following one.",
+        "km": "គោលដៅជាក់ស្តែង អាចរក្សាកម្លាំងចិត្តឱ្យនឹងធឹង និងនឹងនរ។ អ្នកអាចឃើញថាសមិទ្ធផលតូចនីមួយៗ ដាំគ្រាប់ពូជសម្រាប់សមិទ្ធផលបន្ទាប់។"
+      }
+    },
+    "PEN-02": {
+      "present": {
+        "en": "Juggling many demands may be testing your motivation. Keeping several things going could leave you stretched but still moving.",
+        "km": "ការទទួលតម្រូវការច្រើន អាចកំពុងសាកល្បងកម្លាំងចិត្តរបស់អ្នក។ ការរក្សារឿងជាច្រើនឱ្យដំណើរការ អាចធ្វើឱ្យអ្នកស្តើង ប៉ុន្តែនៅតែផ្លាស់ទី។"
+      },
+      "challenge": {
+        "en": "Spreading yourself too thin could drain your drive. Prioritise what matters most, and let less important tasks wait.",
+        "km": "ការចែកខ្លួនឯងស្តើងពេក អាចបង្ហូរកម្លាំងជំរុញរបស់អ្នក។ សូមផ្តល់អាទិភាពដល់អ្វីដែលសំខាន់បំផុត ហើយទុកឱ្យកិច្ចការដែលមិនសូវសំខាន់រង់ចាំ។"
+      },
+      "outcome": {
+        "en": "Learning to juggle with a lighter touch could keep your drive steady. You may settle into a rhythm where several commitments sit together without crushing you.",
+        "km": "ការរៀនរក្សាតុល្យភាពដោយស្រាលៗ អាចរក្សាកម្លាំងជំរុញរបស់អ្នកឱ្យនឹងនរ។ អ្នកអាចស្ថិតស្ថេរក្នុងចង្វាក់មួយ ដែលការប្តេជ្ញាជាច្រើនអាចនៅជាមួយគ្នា ដោយមិនកំទេចអ្នក។"
+      }
+    },
+    "PEN-03": {
+      "present": {
+        "en": "Working with others on something practical may keep you motivated. Shared projects could make effort feel more rewarding and less lonely.",
+        "km": "ការធ្វើការជាមួយអ្នកដទៃលើអ្វីមួយជាក់ស្តែង អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។ គម្រោងរួម អាចធ្វើឱ្យការខិតខំមានអារម្មណ៍មានតម្លៃជាង និងមិនសូវឯកោ។"
+      },
+      "challenge": {
+        "en": "Working without feedback could leave you unsure if you are improving. Ask for input, and let others see your progress.",
+        "km": "ការធ្វើការដោយគ្មានមតិយោបល់ អាចធ្វើឱ្យអ្នកមិនប្រាកដថាអ្នកកំពុងប្រសើរឡើងឬអត់។ សូមសុំការណែនាំ ហើយឱ្យអ្នកដទៃឃើញការរីកចម្រើនរបស់អ្នក។"
+      },
+      "outcome": {
+        "en": "Collaboration could keep motivation strong through shared goals. You may feel proud of what you build together.",
+        "km": "ការសហការ អាចរក្សាកម្លាំងចិត្តឱ្យខ្លាំង តាមរយៈគោលដៅរួម។ អ្នកអាចមានមោទនភាពចំពោះអ្វីដែលអ្នកកសាងរួមគ្នា។"
+      }
+    },
+    "PEN-04": {
+      "present": {
+        "en": "Security and stability may underpin your motivation. Knowing your efforts protect what you value could keep you going.",
+        "km": "សុវត្ថិភាព និងស្ថិរភាព អាចជាមូលដ្ឋាននៃកម្លាំងចិត្តរបស់អ្នក។ ការដឹងថាការខិតខំរបស់អ្នកការពារអ្វីដែលអ្នកឱ្យតម្លៃ អាចរក្សាអ្នកឱ្យបន្ត។"
+      },
+      "challenge": {
+        "en": "Playing it too safe could dull your drive. Add one goal that excites you, not just one that protects you.",
+        "km": "ការលេងសុវត្ថិភាពពេក អាចធ្វើឱ្យកម្លាំងជំរុញរបស់អ្នកស្រអាប់។ សូមបន្ថែមគោលដៅមួយដែលធ្វើឱ្យអ្នករំភើប មិនមែនត្រឹមតែគោលដៅដែលការពារអ្នកនោះទេ។"
+      },
+      "outcome": {
+        "en": "Balancing security with ambition could keep motivation alive. You may build steadily while still reaching for more.",
+        "km": "ការថ្លឹងសុវត្ថិភាពជាមួយមហិច្ឆតា អាចរក្សាកម្លាំងចិត្តឱ្យរស់។ អ្នកអាចកសាងដោយនឹងនរ ខណៈពេលនៅតែលាតដៃទៅរកច្រើនជាងនេះ។"
+      }
+    },
+    "PEN-05": {
+      "present": {
+        "en": "Hardship may be making motivation difficult. Limited resources or support could leave you feeling discouraged.",
+        "km": "ការលំបាក អាចកំពុងធ្វើឱ្យកម្លាំងចិត្តពិបាក។ ធនធាន ឬការគាំទ្រមានកំណត់ អាចធ្វើឱ្យអ្នកមានអារម្មណ៍បាក់ទឹកចិត្ត។"
+      },
+      "challenge": {
+        "en": "Feeling alone in your struggle could sap your drive. Reach out for help, and look for free resources or community support.",
+        "km": "ការមានអារម្មណ៍ឯកោក្នុងការតស៊ូរបស់អ្នក អាចបង្ហូរកម្លាំងជំរុញរបស់អ្នក។ សូមស្វែងរកជំនួយ ហើយរកមើលធនធានឥតគិតថ្លៃ ឬការគាំទ្រពីសហគមន៍។"
+      },
+      "outcome": {
+        "en": "Finding support could rekindle your motivation. You may discover that help nearby makes your goals feel possible again.",
+        "km": "ការរកឃើញការគាំទ្រ អាចដុតកម្លាំងចិត្តរបស់អ្នកឡើងវិញ។ អ្នកអាចរកឃើញថាជំនួយនៅជិត ធ្វើឱ្យគោលដៅរបស់អ្នកមានអារម្មណ៍អាចទៅរួចម្តងទៀត។"
+      }
+    },
+    "PEN-06": {
+      "present": {
+        "en": "Generosity may motivate you. Helping others or receiving support could give you energy to continue.",
+        "km": "ចិត្តសប្បុរស អាចជំរុញអ្នក។ ការជួយអ្នកដទៃ ឬការទទួលការគាំទ្រ អាចផ្តល់ថាមពលឱ្យអ្នកបន្ត។"
+      },
+      "challenge": {
+        "en": "Giving without receiving could leave you depleted. Accept help when it is offered, and let support flow both ways.",
+        "km": "ការផ្តល់ដោយមិនទទួល អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមទទួលយកជំនួយនៅពេលវាត្រូវបានផ្តល់ ហើយឱ្យការគាំទ្រហូរទាំងសងខាង។"
+      },
+      "outcome": {
+        "en": "A balanced exchange could keep motivation flowing. You may find that giving and receiving both strengthen your drive.",
+        "km": "ការផ្លាស់ប្តូរដែលមានតុល្យភាព អាចរក្សាកម្លាំងចិត្តឱ្យហូរ។ អ្នកអាចឃើញថាការផ្តល់ និងការទទួល សុទ្ធតែពង្រឹងកម្លាំងជំរុញរបស់អ្នក។"
+      }
+    },
+    "PEN-07": {
+      "present": {
+        "en": "Progress that comes gradually may be what you are living with. Seeing small gains could keep you motivated, even if results feel slow.",
+        "km": "ការរីកចម្រើនដែលមកបន្តិចម្តងៗ អាចជាអ្វីដែលអ្នកកំពុងរស់នៅជាមួយ។ ការឃើញការរីកចម្រើនតូចៗ អាចរក្សាកម្លាំងចិត្តរបស់អ្នក ទោះបីលទ្ធផលមានអារម្មណ៍យឺតក៏ដោយ។"
+      },
+      "challenge": {
+        "en": "Doubting whether effort is worthwhile could make you quit. Look back at how far you have come to remind yourself it is working.",
+        "km": "ការសង្ស័យថាតើការខិតខំសមនឹងតម្លៃឬអត់ អាចធ្វើឱ្យអ្នកឈប់។ សូមមើលក្រោយថាអ្នកបានមកដល់ឆ្ងាយប៉ុណ្ណា ដើម្បីរំលឹកខ្លួនឯងថាវាកំពុងដំណើរការ។"
+      },
+      "outcome": {
+        "en": "Patience could bring a rewarding harvest. You may find your steady effort pays off in ways that renew your motivation.",
+        "km": "ការអត់ធ្មត់ អាចនាំមកនូវការប្រមូលផលដ៏មានតម្លៃ។ អ្នកអាចឃើញថាការខិតខំនឹងនររបស់អ្នក បង្កើតផលតាមរបៀបដែលធ្វើឱ្យកម្លាំងចិត្តរបស់អ្នកស្រស់ឡើងវិញ។"
+      }
+    },
+    "PEN-08": {
+      "present": {
+        "en": "The satisfaction of getting better may be your motivation. Practising and seeing clear improvement could keep you coming back to the work.",
+        "km": "ការពេញចិត្តនៃការកាន់តែពូកែ អាចជាកម្លាំងចិត្តរបស់អ្នក។ ការហ្វឹកហាត់ និងការឃើញការកែលម្អច្បាស់ អាចរក្សាអ្នកឱ្យត្រឡប់មករកការងារវិញ។"
+      },
+      "challenge": {
+        "en": "Repetitive practice without variety could become tedious. Set specific goals for each session to keep your work interesting.",
+        "km": "ការហ្វឹកហាត់ដដែលៗដោយគ្មានភាពចម្រុះ អាចក្លាយជាការធុញទ្រាន់។ សូមកំណត់គោលដៅជាក់លាក់សម្រាប់វគ្គនីមួយៗ ដើម្បីរក្សាការងាររបស់អ្នកឱ្យគួរឱ្យចាប់អារម្មណ៍។"
+      },
+      "outcome": {
+        "en": "Dedicated practice could keep motivation strong as you see results. You may take real pride in the skill you are building.",
+        "km": "ការហ្វឹកហាត់ដោយលះបង់ អាចរក្សាកម្លាំងចិត្តឱ្យខ្លាំង នៅពេលអ្នកឃើញលទ្ធផល។ អ្នកអាចមានមោទនភាពពិតប្រាកដចំពោះជំនាញដែលអ្នកកំពុងកសាង។"
+      }
+    },
+    "PEN-09": {
+      "present": {
+        "en": "Independence and self-reliance may drive you. Enjoying the freedom your effort brings could keep you motivated.",
+        "km": "ឯករាជ្យភាព និងការពឹងលើខ្លួនឯង អាចជំរុញអ្នក។ ការរីករាយនឹងសេរីភាពដែលការខិតខំរបស់អ្នកនាំមក អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។"
+      },
+      "challenge": {
+        "en": "Working entirely alone could make motivation harder to sustain. Share your goals with someone who can cheer you on.",
+        "km": "ការធ្វើការតែម្នាក់ឯងទាំងស្រុង អាចធ្វើឱ្យកម្លាំងចិត្តពិបាករក្សាជាង។ សូមចែករំលែកគោលដៅរបស់អ្នក ជាមួយនរណាម្នាក់ដែលអាចលើកទឹកចិត្តអ្នក។"
+      },
+      "outcome": {
+        "en": "Self-reliance balanced with support could keep you going strong. You may take quiet pride in goals you reached through your own steady effort.",
+        "km": "ការពឹងលើខ្លួនឯងដែលមានតុល្យភាពជាមួយការគាំទ្រ អាចរក្សាអ្នកឱ្យបន្តយ៉ាងរឹងមាំ។ អ្នកអាចមានមោទនភាពស្ងាត់ៗ ចំពោះគោលដៅដែលអ្នកបានទៅដល់តាមរយៈការខិតខំនឹងនររបស់អ្នក។"
+      }
+    },
+    "PEN-10": {
+      "present": {
+        "en": "Building something for the people you love may motivate you. Your effort could be part of a bigger family story.",
+        "km": "ការកសាងអ្វីមួយសម្រាប់មនុស្សដែលអ្នកស្រឡាញ់ អាចជំរុញអ្នក។ ការខិតខំរបស់អ្នក អាចជាផ្នែកមួយនៃរឿងរ៉ាវគ្រួសារដ៏ធំជាង។"
+      },
+      "challenge": {
+        "en": "Feeling pressure to live up to expectations could weigh on your drive. Make sure your goals also feel like your own.",
+        "km": "ការមានអារម្មណ៍សម្ពាធដើម្បីបំពេញការរំពឹងទុក អាចសង្កត់លើកម្លាំងជំរុញរបស់អ្នក។ សូមធ្វើឱ្យប្រាកដថាគោលដៅរបស់អ្នក ក៏មានអារម្មណ៍ជារបស់អ្នកផ្ទាល់ផងដែរ។"
+      },
+      "outcome": {
+        "en": "Working for something meaningful could keep motivation deep and steady. You may build something that benefits your family well beyond yourself.",
+        "km": "ការធ្វើការសម្រាប់អ្វីមួយដែលមានអត្ថន័យ អាចរក្សាកម្លាំងចិត្តឱ្យជ្រៅ និងនឹងនរ។ អ្នកអាចកសាងអ្វីមួយ ដែលផ្តល់ប្រយោជន៍ដល់គ្រួសាររបស់អ្នក ហួសពីខ្លួនអ្នក។"
+      }
+    },
+    "PEN-11": {
+      "present": {
+        "en": "A love of learning practical things may motivate you. Studying something you can actually use could keep you engaged and curious.",
+        "km": "ក្តីស្រឡាញ់ក្នុងការរៀនរឿងជាក់ស្តែង អាចជំរុញអ្នក។ ការសិក្សាអ្វីមួយដែលអ្នកអាចប្រើបានពិតប្រាកដ អាចរក្សាអ្នកឱ្យចូលរួម និងចង់ដឹង។"
+      },
+      "challenge": {
+        "en": "Studying without applying it could slowly drain your drive. Put what you learn into practice in a small, real task.",
+        "km": "ការសិក្សាដោយមិនអនុវត្តវា អាចបង្ហូរកម្លាំងជំរុញរបស់អ្នក។ សូមអនុវត្តអ្វីដែលអ្នករៀន ក្នុងកិច្ចការតូច និងពិតប្រាកដមួយ។"
+      },
+      "outcome": {
+        "en": "Applying what you learn could keep motivation alive. You may see your knowledge turn into real skill that others notice.",
+        "km": "ការអនុវត្តអ្វីដែលអ្នករៀន អាចរក្សាកម្លាំងចិត្តឱ្យរស់។ អ្នកអាចឃើញចំណេះដឹងរបស់អ្នក ប្រែក្លាយទៅជាជំនាញពិតដែលអ្នកដទៃកត់សម្គាល់។"
+      }
+    },
+    "PEN-12": {
+      "present": {
+        "en": "Steady routine may be your best friend. A reliable habit could keep you moving even when motivation dips for a while.",
+        "km": "ទម្លាប់នឹងនរ អាចជាមិត្តល្អបំផុតរបស់អ្នក។ ទម្លាប់ដែលអាចទុកចិត្តបាន អាចរក្សាអ្នកឱ្យផ្លាស់ទី សូម្បីតែនៅពេលកម្លាំងចិត្តធ្លាក់ចុះ។"
+      },
+      "challenge": {
+        "en": "Routine without variety could become dull and mechanical. Add small changes of place or method to keep your work fresh.",
+        "km": "ទម្លាប់ដោយគ្មានភាពចម្រុះ អាចក្លាយជាការស្ងួត និងដូចម៉ាស៊ីន។ សូមបន្ថែមការផ្លាស់ប្តូរតូចៗនៃកន្លែង ឬវិធីសាស្ត្រ ដើម្បីរក្សាការងាររបស់អ្នកឱ្យស្រស់។"
+      },
+      "outcome": {
+        "en": "Consistent effort could carry you to your goal. You may find that habit does the work for you when motivation runs low.",
+        "km": "ការខិតខំជាប់លាប់ អាចនាំអ្នកទៅដល់គោលដៅរបស់អ្នក។ អ្នកអាចឃើញថាទម្លាប់ធ្វើការងារជំនួសអ្នក នៅពេលកម្លាំងចិត្តទាប។"
+      }
+    },
+    "PEN-13": {
+      "present": {
+        "en": "Caring for yourself may keep you motivated. A comfortable, nurturing routine could support your energy for the work ahead.",
+        "km": "ការថែទាំខ្លួនឯង អាចរក្សាកម្លាំងចិត្តរបស់អ្នក។ ទម្លាប់ដែលស្រួល និងថែទាំ អាចគាំទ្រថាមពលរបស់អ្នក សម្រាប់ការងារនៅខាងមុខ។"
+      },
+      "challenge": {
+        "en": "Putting others first every time could leave you depleted. Protect some time and energy that are reserved for your own goals.",
+        "km": "ការដាក់អ្នកដទៃមុនរាល់ពេល អាចធ្វើឱ្យអ្នកអស់កម្លាំង។ សូមការពារពេល និងថាមពលខ្លះ ដែលបម្រុងទុកសម្រាប់គោលដៅរបស់អ្នកផ្ទាល់។"
+      },
+      "outcome": {
+        "en": "Self-care could keep motivation steady and healthy. You may find energy flows more freely when you look after yourself well.",
+        "km": "ការថែទាំខ្លួនឯង អាចរក្សាកម្លាំងចិត្តឱ្យនឹងនរ និងមានសុខភាពល្អ។ អ្នកអាចឃើញថាថាមពលហូរដោយសេរីជាង នៅពេលអ្នកថែរក្សាខ្លួនឯងបានល្អ។"
+      }
+    },
+    "PEN-14": {
+      "present": {
+        "en": "Achievement and mastery may drive you. Building on what you have already accomplished could keep you striving.",
+        "km": "សមិទ្ធផល និងភាពស្ទាត់ជំនាញ អាចជំរុញអ្នក។ ការកសាងលើអ្វីដែលអ្នកបានសម្រេចរួចហើយ អាចរក្សាអ្នកឱ្យខិតខំ។"
+      },
+      "challenge": {
+        "en": "Feeling you have done enough could quietly sap your drive. Set yourself a fresh challenge that stretches your skills a little further.",
+        "km": "ការមានអារម្មណ៍ថាអ្នកបានធ្វើគ្រប់គ្រាន់ហើយ អាចបង្ហូរកម្លាំងជំរុញរបស់អ្នកដោយស្ងាត់ៗ។ សូមកំណត់ការប្រកួតថ្មីមួយសម្រាប់ខ្លួនឯង ដែលពង្រីកជំនាញរបស់អ្នកបន្តិចទៀត។"
+      },
+      "outcome": {
+        "en": "Continued ambition could bring deep and well-earned success. You may inspire others through the dedication they see in you.",
+        "km": "មហិច្ឆតាបន្ត អាចនាំមកនូវភាពជោគជ័យជ្រៅ និងសមនឹងទទួល។ អ្នកអាចបំផុសគំនិតអ្នកដទៃ តាមរយៈការលះបង់ដែលពួកគេឃើញក្នុងខ្លួនអ្នក។"
+      }
+    }
+  }
+}
